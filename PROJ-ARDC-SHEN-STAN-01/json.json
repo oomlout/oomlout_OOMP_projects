@@ -1,0 +1,218 @@
+{
+    "index": 12536,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12536
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ARDC"
+        },
+        {
+            "name": "oompColor",
+            "value": "SHEN"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "SHEN"
+        },
+        {
+            "name": "oompAbout",
+            "value": "An open sourced version of the widely available Shennie Arduino Compatible board (like an Arduino nano but with a CH340 USB to serial converter)."
+        },
+        {
+            "name": "numComponents",
+            "value": "14"
+        },
+        {
+            "name": "numUniqueComponents",
+            "value": "9"
+        },
+        {
+            "name": "component",
+            "value": [
+                [
+                    "compIndex",
+                    "1"
+                ],
+                [
+                    "compIden",
+                    "U1"
+                ],
+                [
+                    "compIden",
+                    "U1"
+                ],
+                [
+                    "compID",
+                    "ICIC-TQ32-X-K328-01"
+                ],
+                [
+                    "compWhy",
+                    ""
+                ],
+                [
+                    "compDesc",
+                    ""
+                ]
+            ]
+        },
+        {
+            "name": "ooPin1",
+            "value": "TX1"
+        },
+        {
+            "name": "ooPin2",
+            "value": "RX0"
+        },
+        {
+            "name": "ooPin3",
+            "value": "RST"
+        },
+        {
+            "name": "ooPin4",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin5",
+            "value": "D2"
+        },
+        {
+            "name": "ooPin6",
+            "value": "D3"
+        },
+        {
+            "name": "ooPin7",
+            "value": "D4"
+        },
+        {
+            "name": "ooPin8",
+            "value": "D5"
+        },
+        {
+            "name": "ooPin9",
+            "value": "D6"
+        },
+        {
+            "name": "ooPin10",
+            "value": "D7"
+        },
+        {
+            "name": "ooPin11",
+            "value": "D8"
+        },
+        {
+            "name": "ooPin12",
+            "value": "D9"
+        },
+        {
+            "name": "ooPin13",
+            "value": "D10"
+        },
+        {
+            "name": "ooPin14",
+            "value": "D11"
+        },
+        {
+            "name": "ooPin15",
+            "value": "D12"
+        },
+        {
+            "name": "ooPin16",
+            "value": "D13"
+        },
+        {
+            "name": "ooPin17",
+            "value": "3V3"
+        },
+        {
+            "name": "ooPin18",
+            "value": "REF"
+        },
+        {
+            "name": "ooPin19",
+            "value": "A0"
+        },
+        {
+            "name": "ooPin20",
+            "value": "A1"
+        },
+        {
+            "name": "ooPin21",
+            "value": "A2"
+        },
+        {
+            "name": "ooPin22",
+            "value": "A3"
+        },
+        {
+            "name": "ooPin23",
+            "value": "A4"
+        },
+        {
+            "name": "ooPin24",
+            "value": "A5"
+        },
+        {
+            "name": "ooPin25",
+            "value": "A6"
+        },
+        {
+            "name": "ooPin26",
+            "value": "A7"
+        },
+        {
+            "name": "ooPin27",
+            "value": "5V"
+        },
+        {
+            "name": "ooPin28",
+            "value": "RST"
+        },
+        {
+            "name": "ooPin29",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin30",
+            "value": "VIN"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "30"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "ooDesignator1",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ARDC-SHEN-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
