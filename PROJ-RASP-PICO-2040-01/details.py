@@ -1,0 +1,62 @@
+import OOMP
+
+newPart = OOMP.oompItem(12536)
+
+newPart.addTag("oompType", "PROJ")
+newPart.addTag("oompSize", "RASP")
+newPart.addTag("oompColor", "PICO")
+newPart.addTag("oompDesc", "2040")
+newPart.addTag("oompIndex", "01")
+newPart.addTag("hexID","R24")
+newPart.addTag("oompAbout","Breakout for the Raspberry Pi Foundations 2040 microcontroller.")
+
+newPart.addTag("linkBuyPage","https://www.raspberrypi.com/products/raspberry-pi-pico/")
+
+newPart.addTag("sources","Datasheet from ( https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf )")
+
+"""
+newPart.addTag("ooPin1","GP0")
+newPart.addTag("ooPin1","SPI0 Rx")
+newPart.addTag("ooPin1","I2C0 SDA")
+newPart.addTag("ooPin1","UART0 TX")
+newPart.addTag("ooPin2","GP1")
+newPart.addTag("ooPin2","SPI0 CSn")
+newPart.addTag("ooPin2","I2C0 SCL")
+newPart.addTag("ooPin2","UART0 RX")
+newPart.addTag("ooPin3","GND")
+newPart.addTag("ooPin4","GP2")
+newPart.addTag("ooPin5","D2")
+newPart.addTag("ooPin6","D3")
+newPart.addTag("ooPin7","D4")
+newPart.addTag("ooPin8","D5")
+newPart.addTag("ooPin9","D6")
+newPart.addTag("ooPin10","D7")
+newPart.addTag("ooPin11","D8")
+newPart.addTag("ooPin12","D9")
+newPart.addTag("ooPin13","D10")
+newPart.addTag("ooPin14","D11")
+newPart.addTag("ooPin15","D12")
+newPart.addTag("ooPin16","D13")
+newPart.addTag("ooPin17","3V3")
+newPart.addTag("ooPin18","REF")
+newPart.addTag("ooPin19","A0")
+newPart.addTag("ooPin20","A1")
+newPart.addTag("ooPin21","A2")
+newPart.addTag("ooPin22","A3")
+newPart.addTag("ooPin23","A4")
+newPart.addTag("ooPin24","A5")
+newPart.addTag("ooPin25","A6")
+newPart.addTag("ooPin26","A7")
+newPart.addTag("ooPin27","5V")
+newPart.addTag("ooPin28","RST")
+newPart.addTag("ooPin29","GND")
+newPart.addTag("ooPin30","VIN")
+newPart.addTag("ooNumPins","30")
+"""		
+newPart.addTag("oompSymbol","twoSidedPackage;##ooNumPins@@")		
+newPart.addTag("ooDesignator","U1")
+newPart.addTag("ooDesignator1","U")
+
+
+
+OOMP.parts.append(newPart)

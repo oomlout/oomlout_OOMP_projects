@@ -1,0 +1,2 @@
+cd sourceFiles/sparkfun
+curl -s https://api.github.com/orgs/sparkfun/repos?per_page=200 | ruby -rubygems -e 'require "json"; JSON.load(ST
