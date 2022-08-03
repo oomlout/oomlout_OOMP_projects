@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRS19764"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "19764"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun Qwiic 6DoF ISM330DHCX"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://www.sparkfun.com/products/19764"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-19764-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Sparkfun"
+        }
+    ]
+}

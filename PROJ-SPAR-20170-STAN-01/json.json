@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRS20170"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "20170"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun Qwiic Pressure Sensor BMP581"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581 (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://www.sparkfun.com/products/20170"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-20170-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Sparkfun"
+        }
+    ]
+}
