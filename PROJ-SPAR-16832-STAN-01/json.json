@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRS16832"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "16832"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "OpenLog Artemis"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/sparkfun/OpenLog_Artemis (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://github.com/sparkfun/16832"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-16832-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Sparkfun"
+        }
+    ]
+}

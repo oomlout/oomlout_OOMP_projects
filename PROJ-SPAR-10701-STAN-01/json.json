@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRS10701"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "10701"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "Color Light Sensor Evaluation Board"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://github.com/sparkfun/10701"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10701-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Sparkfun"
+        }
+    ]
+}

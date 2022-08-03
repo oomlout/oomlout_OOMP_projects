@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "APDS-9960 RGB and Gesture Sensor")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12787")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12787")
 
 OOMP.parts.append(newPart)

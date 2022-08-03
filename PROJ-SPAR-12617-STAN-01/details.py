@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Magician Encoder")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Magician_Encoder (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12617")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12617")
 
 OOMP.parts.append(newPart)

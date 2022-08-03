@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRS15332"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "15332"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun Artemis"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/sparkfun/SparkFun_Artemis (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://github.com/sparkfun/15332"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-15332-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Sparkfun"
+        }
+    ]
+}

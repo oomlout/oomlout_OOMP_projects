@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Gainer PSoC Development Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Gainer_PSoC_Development_Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/8480")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/8480")
 
 OOMP.parts.append(newPart)

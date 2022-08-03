@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Thing Plus Dual-Port Logging Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/19217")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/19217")
 
 OOMP.parts.append(newPart)

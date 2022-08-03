@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "TSL2561 Luminosity Sensor BOB")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/TSL2561_Luminosity_Sensor_BOB (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12055")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12055")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "gator starter")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/gator_starter (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14891")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14891")
 
 OOMP.parts.append(newPart)

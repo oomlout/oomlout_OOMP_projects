@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MG2639 Cellular Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MG2639_Cellular_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13120")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13120")
 
 OOMP.parts.append(newPart)

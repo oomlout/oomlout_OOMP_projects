@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Single Supply Logic Level Converter")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Single_Supply_Logic_Level_Converter (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14765")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14765")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RS-485 Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RS-485_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10124")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10124")
 
 OOMP.parts.append(newPart)

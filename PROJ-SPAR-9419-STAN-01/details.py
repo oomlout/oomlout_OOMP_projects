@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MicroSD Sniffer")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MicroSD_Sniffer (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9419")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9419")
 
 OOMP.parts.append(newPart)

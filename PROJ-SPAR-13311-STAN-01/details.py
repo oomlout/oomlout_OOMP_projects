@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Teensy 3 1 XBee Adapter")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Teensy_3_1_XBee_Adapter (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13311")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13311")
 
 OOMP.parts.append(newPart)

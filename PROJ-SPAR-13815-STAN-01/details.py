@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Beefcake Relay Control Kit")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Beefcake_Relay_Control_Kit (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13815")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13815")
 
 OOMP.parts.append(newPart)

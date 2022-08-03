@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Bluetooth Mate")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Bluetooth_Mate (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9358")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9358")
 
 OOMP.parts.append(newPart)

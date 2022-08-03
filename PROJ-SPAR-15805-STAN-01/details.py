@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun High Precision Temperature Sensor TMP117 Qwiic")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15805")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15805")
 
 OOMP.parts.append(newPart)

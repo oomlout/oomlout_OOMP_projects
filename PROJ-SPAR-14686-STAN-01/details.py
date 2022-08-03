@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic IMU BNO080")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_IMU_BNO080 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14686")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14686")
 
 OOMP.parts.append(newPart)

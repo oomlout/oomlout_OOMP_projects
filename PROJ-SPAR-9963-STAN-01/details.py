@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RFID USB Reader")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9963")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9963")
 
 OOMP.parts.append(newPart)

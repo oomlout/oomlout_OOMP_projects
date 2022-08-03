@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Touch Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Touch_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12013")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12013")
 
 OOMP.parts.append(newPart)

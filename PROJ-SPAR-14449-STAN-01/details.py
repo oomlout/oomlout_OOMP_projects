@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Variable Load")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Variable_Load (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14449")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14449")
 
 OOMP.parts.append(newPart)

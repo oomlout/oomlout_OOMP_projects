@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "USB UART Serial Breakout-CY7C65213")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/USB_UART_Serial_Breakout-CY7C65213 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13830")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13830")
 
 OOMP.parts.append(newPart)

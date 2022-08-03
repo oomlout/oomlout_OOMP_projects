@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Edison 9DOF Block")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Edison_9DOF_Block (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13033")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13033")
 
 OOMP.parts.append(newPart)

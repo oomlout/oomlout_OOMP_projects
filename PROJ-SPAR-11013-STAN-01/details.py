@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LilyPad MP3 Player")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LilyPad_MP3_Player (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11013")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11013")
 
 OOMP.parts.append(newPart)

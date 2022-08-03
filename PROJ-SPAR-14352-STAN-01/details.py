@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Shield for Arduino")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Shield_for_Arduino (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14352")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14352")
 
 OOMP.parts.append(newPart)

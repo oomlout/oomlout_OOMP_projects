@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Infrared Proximity Breakout-VCNL4000")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Infrared_Proximity_Breakout-VCNL4000 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10901")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10901")
 
 OOMP.parts.append(newPart)

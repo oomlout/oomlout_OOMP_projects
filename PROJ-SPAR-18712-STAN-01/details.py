@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Artemis Global Tracker")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Artemis_Global_Tracker (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/18712")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/18712")
 
 OOMP.parts.append(newPart)

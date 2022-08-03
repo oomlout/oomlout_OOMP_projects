@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Capacitive Touch Slider CAP1203")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15344")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15344")
 
 OOMP.parts.append(newPart)

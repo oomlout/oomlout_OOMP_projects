@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun LoRa Thing Plus expLoRaBLE")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/17506")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/17506")
 
 OOMP.parts.append(newPart)

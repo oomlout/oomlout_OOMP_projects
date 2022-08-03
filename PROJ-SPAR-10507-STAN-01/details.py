@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Quadstepper Motor Driver")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Quadstepper_Motor_Driver (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10507")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10507")
 
 OOMP.parts.append(newPart)

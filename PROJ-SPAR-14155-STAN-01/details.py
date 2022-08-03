@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "ESP32 Power Control Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/ESP32_Power_Control_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14155")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14155")
 
 OOMP.parts.append(newPart)

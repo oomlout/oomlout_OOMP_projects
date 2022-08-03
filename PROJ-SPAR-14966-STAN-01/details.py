@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LuMini 2 Inch")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LuMini_2_Inch (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14966")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14966")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "AT42QT1010 Capacitive Touch Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/AT42QT1010_Capacitive_Touch_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12041")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12041")
 
 OOMP.parts.append(newPart)

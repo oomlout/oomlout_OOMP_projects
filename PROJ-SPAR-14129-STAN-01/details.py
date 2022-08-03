@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Ardumoto-Motor Driver Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14129")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14129")
 
 OOMP.parts.append(newPart)

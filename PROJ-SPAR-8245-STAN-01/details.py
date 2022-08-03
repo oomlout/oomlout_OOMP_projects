@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Serial USB Adapter-Nike iPod")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Serial_USB_Adapter-Nike_iPod (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/8245")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/8245")
 
 OOMP.parts.append(newPart)

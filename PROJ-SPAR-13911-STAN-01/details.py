@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Serial Controlled Motor Driver")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Serial_Controlled_Motor_Driver (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13911")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13911")
 
 OOMP.parts.append(newPart)

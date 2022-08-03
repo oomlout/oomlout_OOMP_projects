@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "USB Serial GPIO Breakout-CP2103")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/199")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/199")
 
 OOMP.parts.append(newPart)

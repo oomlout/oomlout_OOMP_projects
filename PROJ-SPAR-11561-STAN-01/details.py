@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RaspiRobot")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RaspiRobot (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11561")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11561")
 
 OOMP.parts.append(newPart)

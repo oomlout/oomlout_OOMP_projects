@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MicroMod ESP32 Processor")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MicroMod_ESP32_Processor (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16781")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16781")
 
 OOMP.parts.append(newPart)

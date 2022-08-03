@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "PWM Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/PWM_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10615")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10615")
 
 OOMP.parts.append(newPart)

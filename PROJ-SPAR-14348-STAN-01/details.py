@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic BME280 CCS811 Combo")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_BME280_CCS811_Combo (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14348")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14348")
 
 OOMP.parts.append(newPart)

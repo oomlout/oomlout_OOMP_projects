@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MPR121 Capacitive Touch Keypad")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12017")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12017")
 
 OOMP.parts.append(newPart)

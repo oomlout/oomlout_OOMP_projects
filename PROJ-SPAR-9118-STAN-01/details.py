@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Opto Isolator Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Opto_Isolator_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9118")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9118")
 
 OOMP.parts.append(newPart)

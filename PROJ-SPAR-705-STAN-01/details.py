@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Transceiver Breakout-nRF24L01 RP-SMA")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24L01_RP-SMA (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/705")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/705")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Color Light Sensor Evaluation Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10701")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10701")
 
 OOMP.parts.append(newPart)

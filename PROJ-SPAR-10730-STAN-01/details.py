@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LilyPad Coin Cell Battery Holder-20mm")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10730")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10730")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RedBot Line Sensor")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RedBot_Line_Sensor (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11769")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11769")
 
 OOMP.parts.append(newPart)

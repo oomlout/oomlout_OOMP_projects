@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "2D Barcode Scanner Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/2D_Barcode_Scanner_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/18088")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/18088")
 
 OOMP.parts.append(newPart)

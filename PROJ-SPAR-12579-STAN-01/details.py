@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Bluetooth Module Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Bluetooth_Module_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12579")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12579")
 
 OOMP.parts.append(newPart)

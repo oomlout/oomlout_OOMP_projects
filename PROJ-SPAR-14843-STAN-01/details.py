@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic IR Array MLX90640")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_IR_Array_MLX90640 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14843")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14843")
 
 OOMP.parts.append(newPart)

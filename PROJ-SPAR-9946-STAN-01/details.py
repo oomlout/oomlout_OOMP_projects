@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Energy Harvester Breakout-LTC3588")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9946")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9946")
 
 OOMP.parts.append(newPart)

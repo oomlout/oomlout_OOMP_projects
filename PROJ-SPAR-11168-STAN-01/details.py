@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "AVR ISP Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/AVR_ISP_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11168")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11168")
 
 OOMP.parts.append(newPart)

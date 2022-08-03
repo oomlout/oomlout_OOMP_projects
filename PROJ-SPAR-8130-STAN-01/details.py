@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "I2C Expander Breakout-PCF8575")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/8130")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/8130")
 
 OOMP.parts.append(newPart)

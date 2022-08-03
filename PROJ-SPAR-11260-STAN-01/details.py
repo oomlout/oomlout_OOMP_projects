@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LilyPad LiPower")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LilyPad_LiPower (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11260")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11260")
 
 OOMP.parts.append(newPart)

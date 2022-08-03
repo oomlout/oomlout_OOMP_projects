@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Touch Potentiometer")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Touch_Potentiometer (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13144")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13144")
 
 OOMP.parts.append(newPart)

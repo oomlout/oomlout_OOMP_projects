@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RP2040 mikroBUS Dev Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RP2040_mikroBUS_Dev_Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/18721")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/18721")
 
 OOMP.parts.append(newPart)

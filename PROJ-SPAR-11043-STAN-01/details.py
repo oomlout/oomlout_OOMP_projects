@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "fabFM-Kit")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/fabFM-Kit (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11043")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11043")
 
 OOMP.parts.append(newPart)

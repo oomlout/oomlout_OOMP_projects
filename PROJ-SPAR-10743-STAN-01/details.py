@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Mega Pro Mini")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Mega_Pro_Mini (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10743")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10743")
 
 OOMP.parts.append(newPart)

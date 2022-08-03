@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "TRRS 3.5mm Jack Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/TRRS_3.5mm_Jack_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11570")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11570")
 
 OOMP.parts.append(newPart)

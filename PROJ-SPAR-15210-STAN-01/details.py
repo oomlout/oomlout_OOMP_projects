@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun u-blox SAM-M8Q")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_u-blox_SAM-M8Q (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15210")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15210")
 
 OOMP.parts.append(newPart)

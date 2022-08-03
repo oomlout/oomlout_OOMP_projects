@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "BeagleBone Black Proto Cape")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/BeagleBone_Black_Proto_Cape (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12774")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12774")
 
 OOMP.parts.append(newPart)

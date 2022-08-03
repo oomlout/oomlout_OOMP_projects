@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "FreeSoc2")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/FreeSoc2 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13714")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13714")
 
 OOMP.parts.append(newPart)

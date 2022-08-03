@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Lipo Fuel Gauge")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Lipo_Fuel_Gauge (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10617")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10617")
 
 OOMP.parts.append(newPart)

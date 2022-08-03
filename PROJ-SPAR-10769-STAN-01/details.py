@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "OBD-II UART")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/OBD-II_UART (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10769")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10769")
 
 OOMP.parts.append(newPart)

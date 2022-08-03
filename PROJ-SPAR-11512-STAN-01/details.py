@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SN74HC165-Shift-In-Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SN74HC165-Shift-In-Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11512")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11512")
 
 OOMP.parts.append(newPart)

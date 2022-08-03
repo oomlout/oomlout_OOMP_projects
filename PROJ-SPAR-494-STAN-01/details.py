@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SOIC8-DIP Adapter")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SOIC8-DIP_Adapter (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/494")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/494")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LTC4150 Coulomb Counter BOB")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12052")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12052")
 
 OOMP.parts.append(newPart)

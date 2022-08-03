@@ -132,3 +132,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PROJ-ADAF-1431-STAN-01/boardEagle.brd
+PROJ-ADAF-1431-STAN-01/details.py
+PROJ-ADAF-1431-STAN-01/schematicEagle.sch

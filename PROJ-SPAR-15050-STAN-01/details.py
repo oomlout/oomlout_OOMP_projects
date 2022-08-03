@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Spectral Sensor AS7265x")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS7265x (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15050")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15050")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Alphanumeric Display Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Alphanumeric_Display_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16919")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16919")
 
 OOMP.parts.append(newPart)

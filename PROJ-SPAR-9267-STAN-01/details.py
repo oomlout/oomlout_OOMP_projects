@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LilyPad Accelerometer-ADXL335")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9267")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9267")
 
 OOMP.parts.append(newPart)

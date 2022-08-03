@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Si4703 FM Tuner Evaluation Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Si4703_FM_Tuner_Evaluation_Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12938")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12938")
 
 OOMP.parts.append(newPart)

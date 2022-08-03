@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MicroMod DA16200 Function")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MicroMod_DA16200_Function (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/18594")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/18594")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun GPS Dead Reckoning ZED-F9R")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16344")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16344")
 
 OOMP.parts.append(newPart)

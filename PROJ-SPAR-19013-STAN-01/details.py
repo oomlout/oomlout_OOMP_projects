@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Qwiic ToF Imager VL53L5CX-Mini")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/19013")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/19013")
 
 OOMP.parts.append(newPart)

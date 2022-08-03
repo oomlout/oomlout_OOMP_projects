@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic GPS-RTK")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_GPS-RTK (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15005")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15005")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SSOP-DIP Adapter 8-Pin")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_8-Pin (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/497")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/497")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "ProtoScrewShield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/ProtoScrewShield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9729")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9729")
 
 OOMP.parts.append(newPart)

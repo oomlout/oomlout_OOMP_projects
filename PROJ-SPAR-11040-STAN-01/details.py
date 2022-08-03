@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LED RingCoder Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LED_RingCoder_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11040")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11040")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MegaShield Kit")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MegaShield_Kit (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9346")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9346")
 
 OOMP.parts.append(newPart)

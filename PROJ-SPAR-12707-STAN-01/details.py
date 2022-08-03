@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Sparkpunk Sequencer")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Sparkpunk_Sequencer (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12707")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12707")
 
 OOMP.parts.append(newPart)

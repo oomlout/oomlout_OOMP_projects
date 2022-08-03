@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Breadboard Power Supply Stick 3.3V-1.8V")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13157")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13157")
 
 OOMP.parts.append(newPart)

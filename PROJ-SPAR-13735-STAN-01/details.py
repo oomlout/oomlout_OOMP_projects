@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LilyPad Tri-Color LED")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LilyPad_Tri-Color_LED (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13735")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13735")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "5-Way Tactile Switch Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/5-Way_Tactile_Switch_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11187")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11187")
 
 OOMP.parts.append(newPart)

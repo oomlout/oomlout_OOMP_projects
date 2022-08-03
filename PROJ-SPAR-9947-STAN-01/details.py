@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "USB Host Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/USB_Host_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9947")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9947")
 
 OOMP.parts.append(newPart)

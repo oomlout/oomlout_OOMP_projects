@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Venus GPS SMA Connector")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Venus_GPS_SMA_Connector (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11058")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11058")
 
 OOMP.parts.append(newPart)

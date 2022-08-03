@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Low Current Sensor Breakout-ACS712")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/8883")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/8883")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RedBot Accelerometer")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RedBot_Accelerometer (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12589")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12589")
 
 OOMP.parts.append(newPart)

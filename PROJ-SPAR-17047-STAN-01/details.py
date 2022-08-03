@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic GPIO")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_GPIO (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/17047")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/17047")
 
 OOMP.parts.append(newPart)

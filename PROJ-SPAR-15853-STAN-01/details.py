@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic FM Transceiver Si4721")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_FM_Transceiver_Si4721 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15853")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15853")
 
 OOMP.parts.append(newPart)

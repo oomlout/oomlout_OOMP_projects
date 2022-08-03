@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LED Array 8x7")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LED_Array_8x7 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13795")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13795")
 
 OOMP.parts.append(newPart)

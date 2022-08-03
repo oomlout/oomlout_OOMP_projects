@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Photon OLED Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Photon_OLED_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13628")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13628")
 
 OOMP.parts.append(newPart)

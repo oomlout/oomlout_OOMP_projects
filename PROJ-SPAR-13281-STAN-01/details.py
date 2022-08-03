@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Load Sensor Combinator")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Load_Sensor_Combinator (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13281")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13281")
 
 OOMP.parts.append(newPart)

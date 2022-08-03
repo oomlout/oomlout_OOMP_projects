@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MicroMod Machine Learning Carrier")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MicroMod_Machine_Learning_Carrier (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16400")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16400")
 
 OOMP.parts.append(newPart)

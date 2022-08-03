@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Pi Servo Hat")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Pi_Servo_Hat (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15316")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15316")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MMA8452 Accelerometer")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MMA8452_Accelerometer (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13926")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13926")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Soil Moisture Sensor")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Soil_Moisture_Sensor (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13322")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13322")
 
 OOMP.parts.append(newPart)

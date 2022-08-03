@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Qwiic Pressure Sensor BMP384")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/19662")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/19662")
 
 OOMP.parts.append(newPart)

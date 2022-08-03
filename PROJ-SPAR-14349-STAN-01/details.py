@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Human Presence Sensor Breakout AK9753")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14349")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14349")
 
 OOMP.parts.append(newPart)

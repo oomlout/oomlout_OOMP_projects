@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Humidity Sensor SHTC3")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Humidity_Sensor_SHTC3 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16467")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16467")
 
 OOMP.parts.append(newPart)

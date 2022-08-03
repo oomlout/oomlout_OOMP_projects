@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Lipo Charger Basic-miniUSB")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Lipo_Charger_Basic-miniUSB (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10401")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10401")
 
 OOMP.parts.append(newPart)

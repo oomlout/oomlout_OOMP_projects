@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "GPS Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/GPS_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13750")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13750")
 
 OOMP.parts.append(newPart)

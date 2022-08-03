@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "CCS811 Air Quality Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/CCS811_Air_Quality_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14193")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14193")
 
 OOMP.parts.append(newPart)

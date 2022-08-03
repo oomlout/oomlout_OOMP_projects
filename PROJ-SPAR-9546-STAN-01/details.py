@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "XMega100 Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/XMega100_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9546")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9546")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Qwiic Micro SAMD21E")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Qwiic_Micro_SAMD21E (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15423")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15423")
 
 OOMP.parts.append(newPart)

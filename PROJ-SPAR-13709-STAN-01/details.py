@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MyoWare Proto Shield")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MyoWare_Proto_Shield (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13709")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13709")
 
 OOMP.parts.append(newPart)

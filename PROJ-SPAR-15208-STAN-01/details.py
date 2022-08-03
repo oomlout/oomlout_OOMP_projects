@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Buck-Boost")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Buck-Boost (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15208")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15208")
 
 OOMP.parts.append(newPart)

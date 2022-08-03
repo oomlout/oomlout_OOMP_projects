@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Wake on shake")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Wake_on_shake (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11447")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11447")
 
 OOMP.parts.append(newPart)

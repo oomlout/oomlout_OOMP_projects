@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun GPS Breakout XA1110 Qwiic")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14414")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14414")
 
 OOMP.parts.append(newPart)

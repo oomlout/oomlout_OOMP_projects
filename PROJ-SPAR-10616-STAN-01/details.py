@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "LED Driver Breakout-TLC5940")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/LED_Driver_Breakout-TLC5940 (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10616")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10616")
 
 OOMP.parts.append(newPart)

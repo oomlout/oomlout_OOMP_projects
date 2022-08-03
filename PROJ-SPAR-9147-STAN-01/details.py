@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "AVR Stick")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/AVR_Stick (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9147")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9147")
 
 OOMP.parts.append(newPart)

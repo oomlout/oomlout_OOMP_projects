@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "NCP1402-3.3V")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/NCP1402-3.3V (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10967")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10967")
 
 OOMP.parts.append(newPart)

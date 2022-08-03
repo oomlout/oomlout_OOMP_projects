@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "ADXL345 Eval")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/ADXL345_Eval (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/9814")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/9814")
 
 OOMP.parts.append(newPart)

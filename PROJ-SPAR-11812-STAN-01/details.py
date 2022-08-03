@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "XBee Explorer USB")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/XBee_Explorer_USB (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11812")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11812")
 
 OOMP.parts.append(newPart)

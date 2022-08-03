@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic KX13X")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_KX13X (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/17871")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/17871")
 
 OOMP.parts.append(newPart)

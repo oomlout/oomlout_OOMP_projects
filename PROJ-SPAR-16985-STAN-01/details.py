@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MicroMod Input and Display Carrier")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16985")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16985")
 
 OOMP.parts.append(newPart)

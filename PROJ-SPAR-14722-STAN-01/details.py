@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Distance VL53L1X")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Distance_VL53L1X (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14722")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14722")
 
 OOMP.parts.append(newPart)

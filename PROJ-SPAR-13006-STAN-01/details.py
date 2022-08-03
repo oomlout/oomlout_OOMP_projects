@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Decade Resistance Box")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Decade_Resistance_Box (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13006")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13006")
 
 OOMP.parts.append(newPart)

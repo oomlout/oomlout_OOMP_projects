@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Edison UART Block")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Edison_UART_Block (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13040")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13040")
 
 OOMP.parts.append(newPart)

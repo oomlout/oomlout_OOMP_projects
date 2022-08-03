@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Transparent OLED HUD")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Transparent_OLED_HUD (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14691")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14691")
 
 OOMP.parts.append(newPart)

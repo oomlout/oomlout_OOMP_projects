@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RedBot Whisker Bumper")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RedBot_Whisker_Bumper (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11999")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11999")
 
 OOMP.parts.append(newPart)

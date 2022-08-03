@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic Quad Solid State Relay")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_Quad_Solid_State_Relay (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16833")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16833")
 
 OOMP.parts.append(newPart)

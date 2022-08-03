@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Polar Heart Rate Monitor Interface")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Polar_Heart_Rate_Monitor_Interface (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/8661")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/8661")
 
 OOMP.parts.append(newPart)

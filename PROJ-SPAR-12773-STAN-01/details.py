@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "CryptoCape")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/CryptoCape (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12773")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12773")
 
 OOMP.parts.append(newPart)

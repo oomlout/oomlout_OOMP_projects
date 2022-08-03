@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "ISP Pogo Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/ISP_Pogo_Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/11591")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/11591")
 
 OOMP.parts.append(newPart)

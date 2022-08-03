@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Power Delivery Board-USB-C")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Power_Delivery_Board-USB-C (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15801")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15801")
 
 OOMP.parts.append(newPart)

@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Snappable P-Board")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Snappable_P-Board (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13268")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13268")
 
 OOMP.parts.append(newPart)

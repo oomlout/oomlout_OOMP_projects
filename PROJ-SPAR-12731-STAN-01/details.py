@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "FT232RL USB Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12731")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12731")
 
 OOMP.parts.append(newPart)

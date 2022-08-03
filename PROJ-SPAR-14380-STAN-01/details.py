@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Adjustable Lipo Charger")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Adjustable_Lipo_Charger (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14380")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14380")
 
 OOMP.parts.append(newPart)

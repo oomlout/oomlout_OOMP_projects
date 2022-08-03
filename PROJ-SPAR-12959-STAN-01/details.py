@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MOSFET Power Control Kit")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MOSFET_Power_Control_Kit (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12959")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12959")
 
 OOMP.parts.append(newPart)

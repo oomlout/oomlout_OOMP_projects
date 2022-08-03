@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Tri-Axis Gyro Breakout-L3G4200D")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10612")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10612")
 
 OOMP.parts.append(newPart)

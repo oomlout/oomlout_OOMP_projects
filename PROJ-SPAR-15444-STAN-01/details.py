@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "RedBoard Artemis")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/RedBoard_Artemis (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15444")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15444")
 
 OOMP.parts.append(newPart)

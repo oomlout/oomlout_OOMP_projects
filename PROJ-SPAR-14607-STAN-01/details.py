@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Qwiic GRIDEye")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Qwiic_GRIDEye (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14607")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14607")
 
 OOMP.parts.append(newPart)

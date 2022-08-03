@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Photodetector Breakout MAX30101 Qwiic")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/16474")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/16474")
 
 OOMP.parts.append(newPart)

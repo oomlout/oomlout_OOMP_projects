@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Noisy Cricket-1.5W Stereo Amplifier Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14475")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14475")
 
 OOMP.parts.append(newPart)

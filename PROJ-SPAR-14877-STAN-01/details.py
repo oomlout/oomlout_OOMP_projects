@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Flashlight")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Flashlight (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/14877")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/14877")
 
 OOMP.parts.append(newPart)

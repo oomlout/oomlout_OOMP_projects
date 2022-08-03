@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "SparkFun Cryptographic Co-Processor Breakout ATECC508A Qwiic")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/15573")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/15573")
 
 OOMP.parts.append(newPart)

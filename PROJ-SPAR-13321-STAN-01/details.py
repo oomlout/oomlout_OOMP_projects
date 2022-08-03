@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "Photon RedBoard")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/Photon_RedBoard (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/13321")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/13321")
 
 OOMP.parts.append(newPart)

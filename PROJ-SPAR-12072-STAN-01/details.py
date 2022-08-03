@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "CC3000 WiFi Breakout")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/CC3000_WiFi_Breakout (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/12072")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/12072")
 
 OOMP.parts.append(newPart)

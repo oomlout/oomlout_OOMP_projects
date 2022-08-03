@@ -14,6 +14,6 @@ newPart.addTag("oompIndex", "01")
 newPart.addTag("oompName", "MyDAQ Protoboard Kit")
 
 newPart.addTag("sources", "All source files from https://github.com/sparkfun/MyDAQ_Protoboard_Kit (source licence details in srcLicense.md)")
-newPart.addTag("linkBuyPage", "https://github.com/sparkfun/10705")
+newPart.addTag("linkBuyPage", "https://www.sparkfun.com/products/10705")
 
 OOMP.parts.append(newPart)
