@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "RASP"
+        },
+        {
+            "name": "oompColor",
+            "value": "PICO"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2040"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "R24"
+        },
+        {
+            "name": "oompAbout",
+            "value": "Breakout for the Raspberry Pi Foundations 2040 microcontroller."
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://www.raspberrypi.com/products/raspberry-pi-pico/"
+        },
+        {
+            "name": "sources",
+            "value": "Datasheet from ( https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf )"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "ooDesignator1",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-RASP-PICO-2040-01"
+        },
+        {
+            "name": "name",
+            "value": "Raspberry Pi Foundation 2040 Pico"
+        }
+    ]
+}

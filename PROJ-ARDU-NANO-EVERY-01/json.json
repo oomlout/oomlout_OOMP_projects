@@ -6,15 +6,15 @@
         },
         {
             "name": "oompSize",
-            "value": "ARDC"
+            "value": "ARDU"
         },
         {
             "name": "oompColor",
-            "value": "SHEN"
+            "value": "NANO"
         },
         {
             "name": "oompDesc",
-            "value": "STAN"
+            "value": "EVERY"
         },
         {
             "name": "oompIndex",
@@ -22,48 +22,23 @@
         },
         {
             "name": "hexID",
-            "value": "SHEN"
+            "value": "EVERY"
         },
         {
             "name": "oompAbout",
-            "value": "An open sourced version of the widely available Shennie Arduino Compatible board (like an Arduino nano but with a CH340 USB to serial converter)."
+            "value": "Cost effective small form factor Arduino board"
         },
         {
-            "name": "numComponents",
-            "value": "14"
+            "name": "linkBuyPage",
+            "value": "https://store.arduino.cc/collections/boards/products/arduino-nano-every"
         },
         {
-            "name": "numUniqueComponents",
-            "value": "9"
+            "name": "sources",
+            "value": "All design files from Arduino.cc ( https://store.arduino.cc/collections/boards/products/arduino-nano-every )"
         },
         {
-            "name": "component",
-            "value": [
-                [
-                    "compIndex",
-                    "1"
-                ],
-                [
-                    "compIden",
-                    "U1"
-                ],
-                [
-                    "compIden",
-                    "U1"
-                ],
-                [
-                    "compID",
-                    "ICIC-TQ32-X-K328-01"
-                ],
-                [
-                    "compWhy",
-                    ""
-                ],
-                [
-                    "compDesc",
-                    ""
-                ]
-            ]
+            "name": "sources",
+            "value": "Fritzing diagram from ( https://store.arduino.cc/collections/boards/products/arduino-nano-every )"
         },
         {
             "name": "ooPin1",
@@ -203,11 +178,11 @@
         },
         {
             "name": "oompID",
-            "value": "PROJ-ARDC-SHEN-STAN-01"
+            "value": "PROJ-ARDU-NANO-EVERY-01"
         },
         {
             "name": "name",
-            "value": "Compatible Arduino Shennie"
+            "value": "Arduino Every Nano"
         }
     ]
 }
