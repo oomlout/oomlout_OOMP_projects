@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRA2635"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ADAF"
+        },
+        {
+            "name": "oompColor",
+            "value": "2635"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit HDC1008 Breakout PCB"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-HDC1008-Breakout-PCB (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "http://www.adafruit.com/products/2635"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2635-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Adafruit"
+        }
+    ]
+}

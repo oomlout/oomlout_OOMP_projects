@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRA5020"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ADAF"
+        },
+        {
+            "name": "oompColor",
+            "value": "5020"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit NeoKey Trinkey PCB"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-NeoKey-Trinkey-PCB (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "http://www.adafruit.com/products/5020"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-5020-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Adafruit"
+        }
+    ]
+}

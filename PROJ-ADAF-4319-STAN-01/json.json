@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRA4319"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ADAF"
+        },
+        {
+            "name": "oompColor",
+            "value": "4319"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit PyRuler PCB"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-PyRuler-PCB (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "http://www.adafruit.com/products/4319"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4319-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Adafruit"
+        }
+    ]
+}

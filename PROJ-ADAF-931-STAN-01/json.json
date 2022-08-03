@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRA931"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ADAF"
+        },
+        {
+            "name": "oompColor",
+            "value": "931"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompName",
+            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit 128x32 I2C OLED Breakout PCB"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-128x32-I2C-OLED-Breakout-PCB (source licence details in srcLicense.md)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "http://www.adafruit.com/products/931"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-931-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Adafruit"
+        }
+    ]
+}
