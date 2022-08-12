@@ -1,0 +1,168 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 11:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     U1       3.3V
+
+A0       U1       A0
+
+A1       U1       A1
+
+A2       U1       A2
+
+A3       U1       A3
+
+A4       U1       A4
+
+A5       U1       A5
+
+AREF     U1       AREF
+
+AUDIO    C9       C
+         JP3      1
+         JP6      RING
+         JP6      TIP
+
+D-TX     JP2      3
+         U1       D2
+
+E0       U1       D5
+         U2       9
+
+E1       U1       D6
+         U2       8
+
+E2       U1       D7
+         U2       7
+
+E3       U1       D8
+         U2       6
+
+E4       U1       D9
+         U2       4
+
+E5       U1       D10
+         U2       3
+
+E6       U1       D11
+         U2       2
+
+E7       U1       D12
+         U2       1
+
+GND      C10      2
+         C11      2
+         C12      2
+         C2       2
+         C4       1
+         C7       1
+         C8       C
+         IC1      4
+         JP3      2
+         JP6      SLEEVE
+         R13      2
+         R4       1
+         R7       1
+         R8       3
+         S1       1
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+         U2       13
+         U2       5
+
+IN1      C5       2
+         R3       1
+
+N$3      JP2      2
+         U2       10
+
+N$4      C1       1
+         IC1      2
+         R2       1
+         R3       2
+
+N$5      C6       1
+         R6       1
+
+N$6      C6       2
+         R8       2
+
+N$7      C3       1
+         IC1      6
+         R5       2
+         R6       2
+
+N$8      C10      1
+         IC1      5
+         R10      2
+         R7       2
+
+N$9      C11      1
+         IC1      3
+         R4       2
+         R9       2
+
+N$10     C4       2
+         R11      2
+         R12      1
+
+N$11     C5       1
+         C7       2
+         R12      2
+
+N$13     LED1     C
+         R13      1
+
+N$15     R14      1
+         U2       12
+
+OUT1     C1       2
+         IC1      1
+         R2       2
+         R8       1
+
+RDY      U1       D13
+         U2       17
+
+RESET    S1       3
+         U1       RES
+
+RST      R1       1
+         U1       D3
+         U2       11
+
+RX       U1       RX
+
+SPK      LED1     A
+         U1       D4
+         U2       16
+
+SPK+     C3       2
+         C9       A
+         IC1      7
+         R5       1
+
+TX       JP2      1
+         U1       TX
+
+VCC      C12      1
+         C2       1
+         C8       A
+         IC1      8
+         R1       2
+         R10      1
+         R14      2
+         R9       1
+         U1       5V
+         U2       14
+
+VIN      U1       VIN
+
+V_OUT    R11      1
+         U2       18
+

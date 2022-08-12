@@ -1,0 +1,215 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C10      2
+         C2       1
+         C9       2
+         IC2      18
+         IC2      4
+         IC2      6
+         JP1      15
+         R8       2
+         U2       5
+
+A0       IC2      23
+         JP1      12
+
+A1       IC2      24
+         JP1      11
+
+A2       IC2      25
+         JP1      10
+
+A3       IC2      26
+         JP1      9
+
+A4/SDA   IC2      27
+         JP3      12
+
+A5/SCL   IC2      28
+         JP3      11
+
+A6       IC2      19
+         JP1      8
+         R5       6
+         R5       7
+
+A7       IC2      22
+         JP1      7
+
+AREF     C4       2
+         IC2      20
+         JP1      14
+
+D0/RX    IC2      30
+         JP1      3
+         R1       1
+
+D1/TX    IC1      20
+         IC2      31
+         JP1      2
+
+D2       IC2      32
+         JP3      6
+
+D3       IC2      1
+         JP3      5
+
+D4       IC2      2
+         JP3      4
+
+D5       IC2      9
+         JP3      10
+
+D6       IC2      10
+         JP3      9
+
+D7       IC2      11
+         JP1      1
+
+D8       IC2      12
+
+D9       IC2      13
+         JP3      8
+
+D10      IC2      14
+         JP3      7
+
+D11/MOSI IC2      15
+         JP1      5
+
+D12/MISO IC2      16
+         JP1      4
+
+D13/SCK  IC2      17
+         JP1      6
+         R10      1
+
+DTR      C5       1
+         IC1      23
+
+EN       JP3      2
+         R5       8
+         U2       3
+
+GND      C1       2
+         C10      1
+         C11      2
+         C2       2
+         C3       2
+         C4       1
+         C6       2
+         C7       2
+         C8       1
+         C9       1
+         D3       C
+         IC1      18
+         IC1      2
+         IC1      THERM
+         IC2      21
+         IC2      3
+         IC2      5
+         IC2      TH
+         JP1      13
+         R4       1
+         R5       3
+         R5       5
+         SW2      A
+         SW2      A'
+         U2       2
+         U3       2
+         X1       1
+         X4       BASE@1
+         X4       BASE@2
+         X4       GND
+         X4       SPRT@1
+         X4       SPRT@2
+         X4       SPRT@3
+         X4       SPRT@4
+         Y2       2
+
+N$1      CHG      C
+         R2       1
+
+N$2      IC1      3
+         X4       D+
+
+N$3      R2       2
+         U3       1
+
+N$4      R4       2
+         U3       5
+
+N$5      D3       A
+         R10      2
+
+N$6      IC1      4
+         X4       D-
+
+N$7      C6       1
+         D4       C
+         Q3       2
+         R5       1
+         U2       1
+
+N$8      D1       A
+         R7       1
+
+N$9      D5       A
+         R6       1
+
+N$10     C11      1
+         IC1      5
+         IC1      6
+
+N$41     C7       1
+         IC1      16
+
+RESET    C5       2
+         IC2      29
+         JP1      16
+         R8       1
+         SW2      B
+         SW2      B'
+
+RXD      IC1      21
+         R1       2
+
+RXLED    D1       C
+         IC1      13
+
+TXLED    D5       C
+         IC1      14
+
+VBAT     C3       1
+         JP3      1
+         Q3       3
+         R5       2
+         U3       3
+         X1       2
+
+VBUS     C8       2
+         CHG      A
+         D4       A
+         IC1      7
+         IC1      8
+         JP3      3
+         Q3       1
+         R5       4
+         R6       2
+         R7       2
+         U3       4
+         X4       VBUS
+
+XTAL1    IC2      8
+         Y2       3
+
+XTAL2    IC2      7
+         Y2       1
+

@@ -1,0 +1,161 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C8       1
+         D2       C
+         IC1      18
+         IC1      4
+         IC1      6
+         IC2      5
+         JP1      4
+         R3       2
+         R4       2
+         R6       2
+
+A0       IC1      23
+         JP4      7
+
+A1       IC1      24
+         JP4      8
+
+A2       IC1      25
+         JP4      9
+
+A3       IC1      26
+         JP4      10
+
+A4       IC1      27
+         JP4      11
+
+A5       IC1      28
+         JP4      12
+
+A6       IC1      19
+         JP2      1
+
+A7       IC1      22
+         JP2      2
+
+AREF     C2       1
+         IC1      20
+         JP4      6
+
+D+       CN1      D+
+         D1       C
+         R2       1
+
+D-       CN1      D-
+         D4       C
+         R1       1
+         R3       1
+
+D2       IC1      32
+         R2       2
+
+D3       IC1      1
+         JP1      9
+
+D4       IC1      2
+         JP1      8
+
+D5       IC1      9
+         JP1      7
+
+D6       IC1      10
+         JP1      6
+
+D7       IC1      11
+         R1       2
+
+D8       IC1      12
+         JP1      5
+
+D9       IC1      13
+         JP4      1
+
+D10      IC1      14
+         JP4      2
+
+D11      IC1      15
+         JP4      3
+
+D12      IC1      16
+         JP4      4
+
+D13      IC1      17
+         JP4      5
+         R5       2
+
+DTR/RTS  C3       2
+         FTDI     6
+
+GND      B1       C
+         BAT      1
+         C1       2
+         C2       2
+         C8       2
+         CN1      BASE@1
+         CN1      BASE@2
+         CN1      GND
+         CN1      SPRT@1
+         CN1      SPRT@2
+         CN1      SPRT@3
+         CN1      SPRT@4
+         D1       A
+         D4       A
+         FTDI     1
+         FTDI     2
+         IC1      21
+         IC1      3
+         IC1      5
+         IC1      TH
+         IC2      2
+         JP1      2
+         PWR      C
+         Q1       B
+         Q1       B'
+         Y1       2
+
+N$1      B1       A
+         R5       1
+
+N$2      IC1      8
+         Y1       3
+
+N$3      IC1      7
+         Y1       1
+
+N$6      PWR      A
+         R4       1
+
+RESET    C3       1
+         IC1      29
+         JP1      12
+         Q1       A
+         Q1       A'
+         R6       1
+
+RXD      FTDI     4
+         IC1      30
+         JP1      11
+
+TXD      FTDI     5
+         IC1      31
+         JP1      10
+
+VBAT     BAT      2
+         C1       1
+         IC2      1
+         IC2      3
+         JP1      1
+
+VBUS     CN1      VBUS
+         D2       A
+         FTDI     3
+         JP1      3
+

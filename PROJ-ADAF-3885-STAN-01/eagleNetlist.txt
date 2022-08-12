@@ -1,0 +1,46 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C15      2
+         C9       2
+         SENSE    1
+         TP1      P$1
+         U5       7
+         VR2      1
+
+N$19     R12      2
+         U5       4
+
+N$20     R13      2
+         U5       3
+
+N$21     C9       1
+         R12      1
+
+N$22     C13      1
+         R13      1
+
+N$23     C13      2
+         VR2      2
+
+SIG      SENSE    3
+         TP3      P$1
+         VR2      3
+
+SPKR+    U$13     1
+         U5       5
+
+SPKR-    U$13     2
+         U5       8
+
+VDD      C15      1
+         SENSE    2
+         TP2      P$1
+         U5       1
+         U5       6
+

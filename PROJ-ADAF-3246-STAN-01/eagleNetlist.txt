@@ -1,0 +1,26 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 21:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JOY1     X+
+         JOY1     Y+
+         JP1      1
+         JP2      1
+
+GND      JOY1     X-
+         JOY1     Y-
+         JP1      4
+         JP2      4
+
+XOUT     JOY1     X
+         JP1      3
+         JP2      3
+
+YOUT     JOY1     Y
+         JP1      2
+         JP2      2
+

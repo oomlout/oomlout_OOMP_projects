@@ -1,0 +1,759 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ADDR     JP5      6
+         SJ1      1
+         SJ2      1
+         SJ3      1
+         SJ4      1
+         X1       8
+
+B1       LED1     B
+         LED105   B
+         LED14    B
+         LED27    B
+         LED40    B
+         LED53    B
+         LED66    B
+         LED79    B
+         LED92    B
+         R2       5
+
+B2       LED106   B
+         LED15    B
+         LED2     B
+         LED28    B
+         LED41    B
+         LED54    B
+         LED67    B
+         LED80    B
+         LED93    B
+         R2       7
+
+CS1      R10      1
+         X1       26
+
+CS2      R2       4
+         X1       27
+
+CS3      R2       3
+         X1       28
+
+CS4      R2       2
+         X1       29
+
+CS5      R2       1
+         X1       30
+
+CS6      R11      1
+         X1       31
+
+CS7      R12      1
+         X1       32
+
+CS8      R3       4
+         X1       33
+
+CS9      R3       3
+         X1       34
+
+CS10     R3       2
+         X1       35
+
+CS11     R3       1
+         X1       37
+
+CS12     R13      1
+         X1       38
+
+CS13     R14      1
+         X1       39
+
+CS14     R4       4
+         X1       40
+
+CS15     R4       3
+         X1       41
+
+CS16     R4       2
+         X1       42
+
+CS17     R4       1
+         X1       43
+
+CS18     R15      1
+         X1       44
+
+CS19     R17      1
+         X1       45
+
+CS20     R5       4
+         X1       46
+
+CS21     R5       3
+         X1       47
+
+CS22     R5       2
+         X1       48
+
+CS23     R5       1
+         X1       49
+
+CS24     R16      1
+         X1       50
+
+CS25     R18      1
+         X1       51
+
+CS26     R6       4
+         X1       52
+
+CS27     R6       3
+         X1       53
+
+CS28     R6       2
+         X1       54
+
+CS29     R6       1
+         X1       56
+
+CS30     R19      1
+         X1       57
+
+CS31     R20      1
+         X1       58
+
+CS32     R8       4
+         X1       59
+
+CS33     R8       3
+         X1       60
+
+CS34     R8       2
+         X1       1
+
+CS35     R8       1
+         X1       2
+
+CS36     R21      1
+         X1       3
+
+CS37     R23      1
+         X1       4
+
+CS38     R9       1
+         X1       5
+
+CS39     R22      1
+         X1       6
+
+G1       LED1     G
+         LED105   G
+         LED14    G
+         LED27    G
+         LED40    G
+         LED53    G
+         LED66    G
+         LED79    G
+         LED92    G
+         R2       6
+
+G2       LED106   G
+         LED15    G
+         LED2     G
+         LED28    G
+         LED41    G
+         LED54    G
+         LED67    G
+         LED80    G
+         LED93    G
+         R2       8
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         CONN1    1
+         CONN1    MT1
+         CONN1    MT2
+         CONN2    1
+         CONN2    MT1
+         CONN2    MT2
+         JP5      2
+         R1       1
+         SJ4      2
+         X1       12
+         X1       36
+         X1       55
+         X1       THERMAL
+
+INT      JP5      7
+         R7       3
+         X1       7
+
+N$4      R1       2
+         X1       13
+
+N$8      LED107   G
+         LED16    G
+         LED29    G
+         LED3     G
+         LED42    G
+         LED55    G
+         LED68    G
+         LED81    G
+         LED94    G
+         R3       6
+
+N$10     LED108   R
+         LED17    R
+         LED30    R
+         LED4     R
+         LED43    R
+         LED56    R
+         LED69    R
+         LED82    R
+         LED95    R
+         R13      2
+
+N$12     LED108   B
+         LED17    B
+         LED30    B
+         LED4     B
+         LED43    B
+         LED56    B
+         LED69    B
+         LED82    B
+         LED95    B
+         R3       7
+
+N$14     LED109   G
+         LED18    G
+         LED31    G
+         LED44    G
+         LED5     G
+         LED57    G
+         LED70    G
+         LED83    G
+         LED96    G
+         R4       6
+
+N$16     LED110   G
+         LED19    G
+         LED32    G
+         LED45    G
+         LED58    G
+         LED6     G
+         LED71    G
+         LED84    G
+         LED97    G
+         R4       8
+
+N$17     LED111   R
+         LED20    R
+         LED33    R
+         LED46    R
+         LED59    R
+         LED7     R
+         LED72    R
+         LED85    R
+         LED98    R
+         R17      2
+
+N$19     LED112   R
+         LED21    R
+         LED34    R
+         LED47    R
+         LED60    R
+         LED73    R
+         LED8     R
+         LED86    R
+         LED99    R
+         R16      2
+
+N$21     LED100   R
+         LED113   R
+         LED22    R
+         LED35    R
+         LED48    R
+         LED61    R
+         LED74    R
+         LED87    R
+         LED9     R
+         R18      2
+
+N$22     LED100   B
+         LED113   B
+         LED22    B
+         LED35    B
+         LED48    B
+         LED61    B
+         LED74    B
+         LED87    B
+         LED9     B
+         R6       5
+
+N$24     LED10    G
+         LED101   G
+         LED114   G
+         LED23    G
+         LED36    G
+         LED49    G
+         LED62    G
+         LED75    G
+         LED88    G
+         R6       8
+
+N$25     LED102   R
+         LED11    R
+         LED115   R
+         LED24    R
+         LED37    R
+         LED50    R
+         LED63    R
+         LED76    R
+         LED89    R
+         R20      2
+
+N$27     LED102   B
+         LED11    B
+         LED115   B
+         LED24    B
+         LED37    B
+         LED50    B
+         LED63    B
+         LED76    B
+         LED89    B
+         R8       5
+
+N$29     LED103   G
+         LED116   G
+         LED12    G
+         LED25    G
+         LED38    G
+         LED51    G
+         LED64    G
+         LED77    G
+         LED90    G
+         R8       8
+
+N$31     LED104   R
+         LED117   R
+         LED13    R
+         LED26    R
+         LED39    R
+         LED52    R
+         LED65    R
+         LED78    R
+         LED91    R
+         R22      2
+
+N$33     LED104   B
+         LED117   B
+         LED13    B
+         LED26    B
+         LED39    B
+         LED52    B
+         LED65    B
+         LED78    B
+         LED91    B
+         R23      2
+
+N$41     LED107   R
+         LED16    R
+         LED29    R
+         LED3     R
+         LED42    R
+         LED55    R
+         LED68    R
+         LED81    R
+         LED94    R
+         R12      2
+
+N$43     LED107   B
+         LED16    B
+         LED29    B
+         LED3     B
+         LED42    B
+         LED55    B
+         LED68    B
+         LED81    B
+         LED94    B
+         R3       5
+
+N$46     LED108   G
+         LED17    G
+         LED30    G
+         LED4     G
+         LED43    G
+         LED56    G
+         LED69    G
+         LED82    G
+         LED95    G
+         R3       8
+
+N$48     LED109   R
+         LED18    R
+         LED31    R
+         LED44    R
+         LED5     R
+         LED57    R
+         LED70    R
+         LED83    R
+         LED96    R
+         R14      2
+
+N$50     LED109   B
+         LED18    B
+         LED31    B
+         LED44    B
+         LED5     B
+         LED57    B
+         LED70    B
+         LED83    B
+         LED96    B
+         R4       5
+
+N$52     LED110   R
+         LED19    R
+         LED32    R
+         LED45    R
+         LED58    R
+         LED6     R
+         LED71    R
+         LED84    R
+         LED97    R
+         R15      2
+
+N$54     LED110   B
+         LED19    B
+         LED32    B
+         LED45    B
+         LED58    B
+         LED6     B
+         LED71    B
+         LED84    B
+         LED97    B
+         R4       7
+
+N$57     LED111   G
+         LED20    G
+         LED33    G
+         LED46    G
+         LED59    G
+         LED7     G
+         LED72    G
+         LED85    G
+         LED98    G
+         R5       6
+
+N$59     LED111   B
+         LED20    B
+         LED33    B
+         LED46    B
+         LED59    B
+         LED7     B
+         LED72    B
+         LED85    B
+         LED98    B
+         R5       5
+
+N$62     LED112   G
+         LED21    G
+         LED34    G
+         LED47    G
+         LED60    G
+         LED73    G
+         LED8     G
+         LED86    G
+         LED99    G
+         R5       8
+
+N$65     LED112   B
+         LED21    B
+         LED34    B
+         LED47    B
+         LED60    B
+         LED73    B
+         LED8     B
+         LED86    B
+         LED99    B
+         R5       7
+
+N$67     LED100   G
+         LED113   G
+         LED22    G
+         LED35    G
+         LED48    G
+         LED61    G
+         LED74    G
+         LED87    G
+         LED9     G
+         R6       6
+
+N$69     LED10    R
+         LED101   R
+         LED114   R
+         LED23    R
+         LED36    R
+         LED49    R
+         LED62    R
+         LED75    R
+         LED88    R
+         R19      2
+
+N$71     LED10    B
+         LED101   B
+         LED114   B
+         LED23    B
+         LED36    B
+         LED49    B
+         LED62    B
+         LED75    B
+         LED88    B
+         R6       7
+
+N$73     LED102   G
+         LED11    G
+         LED115   G
+         LED24    G
+         LED37    G
+         LED50    G
+         LED63    G
+         LED76    G
+         LED89    G
+         R8       6
+
+N$75     LED103   R
+         LED116   R
+         LED12    R
+         LED25    R
+         LED38    R
+         LED51    R
+         LED64    R
+         LED77    R
+         LED90    R
+         R21      2
+
+N$77     LED103   B
+         LED116   B
+         LED12    B
+         LED25    B
+         LED38    B
+         LED51    B
+         LED64    B
+         LED77    B
+         LED90    B
+         R8       7
+
+N$79     LED104   G
+         LED117   G
+         LED13    G
+         LED26    G
+         LED39    G
+         LED52    G
+         LED65    G
+         LED78    G
+         LED91    G
+         R9       2
+
+R1       LED1     R
+         LED105   R
+         LED14    R
+         LED27    R
+         LED40    R
+         LED53    R
+         LED66    R
+         LED79    R
+         LED92    R
+         R10      2
+
+R2       LED106   R
+         LED15    R
+         LED2     R
+         LED28    R
+         LED41    R
+         LED54    R
+         LED67    R
+         LED80    R
+         LED93    R
+         R11      2
+
+SCL      CONN1    4
+         CONN2    4
+         JP5      3
+         R7       8
+         SJ2      2
+         X1       10
+
+SDA      CONN1    3
+         CONN2    3
+         JP5      4
+         R7       7
+         SJ3      2
+         X1       9
+
+SHUTDOWN JP5      5
+         R7       4
+         X1       11
+
+SW1      LED79    A
+         LED80    A
+         LED81    A
+         LED82    A
+         LED83    A
+         LED84    A
+         LED85    A
+         LED86    A
+         LED87    A
+         LED88    A
+         LED89    A
+         LED90    A
+         LED91    A
+         X1       16
+
+SW2      LED66    A
+         LED67    A
+         LED68    A
+         LED69    A
+         LED70    A
+         LED71    A
+         LED72    A
+         LED73    A
+         LED74    A
+         LED75    A
+         LED76    A
+         LED77    A
+         LED78    A
+         X1       17
+
+SW3      LED53    A
+         LED54    A
+         LED55    A
+         LED56    A
+         LED57    A
+         LED58    A
+         LED59    A
+         LED60    A
+         LED61    A
+         LED62    A
+         LED63    A
+         LED64    A
+         LED65    A
+         X1       18
+
+SW4      LED40    A
+         LED41    A
+         LED42    A
+         LED43    A
+         LED44    A
+         LED45    A
+         LED46    A
+         LED47    A
+         LED48    A
+         LED49    A
+         LED50    A
+         LED51    A
+         LED52    A
+         X1       19
+
+SW5      LED27    A
+         LED28    A
+         LED29    A
+         LED30    A
+         LED31    A
+         LED32    A
+         LED33    A
+         LED34    A
+         LED35    A
+         LED36    A
+         LED37    A
+         LED38    A
+         LED39    A
+         X1       20
+
+SW6      LED14    A
+         LED15    A
+         LED16    A
+         LED17    A
+         LED18    A
+         LED19    A
+         LED20    A
+         LED21    A
+         LED22    A
+         LED23    A
+         LED24    A
+         LED25    A
+         LED26    A
+         X1       21
+
+SW7      LED105   A
+         LED106   A
+         LED107   A
+         LED108   A
+         LED109   A
+         LED110   A
+         LED111   A
+         LED112   A
+         LED113   A
+         LED114   A
+         LED115   A
+         LED116   A
+         LED117   A
+         X1       22
+
+SW8      LED100   A
+         LED101   A
+         LED102   A
+         LED103   A
+         LED104   A
+         LED92    A
+         LED93    A
+         LED94    A
+         LED95    A
+         LED96    A
+         LED97    A
+         LED98    A
+         LED99    A
+         X1       23
+
+SW9      LED1     A
+         LED10    A
+         LED11    A
+         LED12    A
+         LED13    A
+         LED2     A
+         LED3     A
+         LED4     A
+         LED5     A
+         LED6     A
+         LED7     A
+         LED8     A
+         LED9     A
+         X1       24
+
+VCC      C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         C6       1
+         CONN1    2
+         CONN2    2
+         JP5      1
+         R7       1
+         R7       2
+         R7       5
+         R7       6
+         SJ1      2
+         X1       14
+         X1       15
+         X1       25
+

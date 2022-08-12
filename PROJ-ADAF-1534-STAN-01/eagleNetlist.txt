@@ -1,0 +1,258 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
++5V         FB1      1
+            JP5      4
+            U$36     5V
+
+3.3V        C4       1
+            C5       1
+            C7       1
+            C8       1
+            CN2      4
+            IC1      5
+            JP1      1
+            LED1     A
+            R3       1
+            U1       19
+            U1       23
+            U2       2
+            U2       4
+            U3       1
+
+GND         C4       2
+            C5       2
+            C6       2
+            C7       2
+            C8       2
+            CN2      6
+            CN2      MT1
+            CN2      MT2
+            IC1      3
+            JP2      3
+            JP3      4
+            JP5      2
+            JP5      3
+            L1       1
+            L2       1
+            R1       1
+            R2       1
+            SW1      A
+            SW1      A'
+            U$35     P$1
+            U$35     P$2
+            U$36     GND
+            U$36     GND@1
+            U$36     GND@2
+            U$36     GND@3
+            U1       1
+            U1       10
+            U1       11
+            U1       16
+            U1       18
+            U1       20
+            U1       21
+            U1       22
+            U1       25
+            U1       31
+            U1       32
+            U1       33
+            U1       34
+            U1       36
+            U1       37
+            U1       38
+            U1       39
+            U1       40
+            U1       41
+            U1       42
+            U1       43
+            U1       44
+            U1       45
+            U1       46
+            U1       9
+            U2       1
+            U3       8
+
+N$1         C1       2
+            L1       2
+            X1       FEED
+
+N$2         C1       1
+            C2       1
+            L2       2
+
+N$3         C3       2
+            U$35     P$3
+
+N$4         C2       2
+            C3       1
+            U1       35
+
+N$5         SJ1      2
+            U1       5
+
+N$6         SJ1      1
+            U1       7
+
+N$7         JP3      1
+            U$36     SCL
+
+N$8         JP3      2
+            U$36     SDA
+
+N$9         C6       1
+            FB1      2
+            U2       3
+
+N$10        JP3      3
+            U$36     AREF
+
+N$11        JP5      6
+            SW1      B
+            SW1      B'
+            U$36     RESET
+
+N$12        IC1      2
+            U1       13
+
+N$16        JP3      9
+            U$36     D9
+
+N$17        JP3      10
+            U$36     D8
+
+N$18        JP4      1
+            U$36     D7
+
+N$19        JP4      2
+            U$36     D6
+
+N$23        JP4      6
+            U$36     D2
+
+N$24        JP4      7
+            U$36     D1
+
+N$25        JP4      8
+            U$36     D0
+
+N$26        JP5      1
+            U$36     VIN
+
+N$27        JP5      5
+            U$36     3V
+
+N$29        JP5      7
+            U$36     IOREF
+
+N$30        JP5      8
+            U$36     RESERVED
+
+N$31        JP6      1
+            U$36     A5
+
+N$32        JP6      2
+            U$36     A4
+
+N$33        JP6      3
+            U$36     A3
+
+N$34        JP6      4
+            U$36     A2
+
+N$35        JP6      5
+            U$36     A1
+
+N$36        JP6      6
+            U$36     A0
+
+N$53        LED1     C
+            R1       2
+
+N$161       SJ2      1
+            U$36     MOSI
+
+N$163       SJ4      1
+            U$36     SCK
+
+N$164       SJ3      1
+            U$36     MISO
+
+RXD_3V      JP2      2
+            U1       8
+
+SCL_3V      TP1      P$1
+            U1       29
+            U1       30
+
+SDA_3V      TP2      P$1
+            U1       27
+            U1       28
+
+SD_CS_3V    CN2      2
+            U3       4
+
+SD_CS_5V    JP1      8
+            JP4      4
+            U$36     D4
+            U3       5
+
+SPI_CLK_3V  CN2      5
+            U1       17
+            U3       10
+
+SPI_CLK_5V  JP1      2
+            JP3      5
+            SJ4      2
+            U$36     D13
+            U3       9
+
+SPI_CS_3V   IC1      1
+            U1       12
+            U3       15
+
+SPI_CS_5V   JP1      5
+            JP3      8
+            R3       2
+            U$36     D10
+            U3       14
+
+SPI_IRQ_3V  JP1      7
+            JP4      5
+            U$36     D3
+            U1       14
+
+SPI_MISO_3V CN2      7
+            IC1      4
+            JP1      3
+            JP3      6
+            SJ3      2
+            U$36     D12
+
+SPI_MOSI_3V CN2      3
+            U1       15
+            U3       12
+
+SPI_MOSI_5V JP1      4
+            JP3      7
+            SJ2      2
+            U$36     D11
+            U3       11
+
+TXD_3V      JP2      1
+            U1       6
+
+VBAT_EN_3V  U1       26
+            U3       6
+
+VBAT_EN_5V  JP1      6
+            JP4      3
+            R2       2
+            U$36     D5
+            U3       7
+

@@ -1,0 +1,285 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 12:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+*CS      U1       29
+         U3       D10
+         U5       2
+
+1V8      FB2      1
+         U1       11
+         U1       15
+         U1       16
+         U1       33
+         U1       69
+
+1V8A     FB2      2
+         U1       7
+         U1       74
+
+3.3V     C11      1
+         C12      1
+         C13      1
+         C14      1
+         C15      1
+         C20      A
+         C21      1
+         FB1      1
+         IC2      2
+         IC2      4
+         R1       2
+         R11      2
+         R17      2
+         R2       2
+         R20      2
+         R3       2
+         R4       2
+         R5       2
+         R6       2
+         R7       2
+         R8       2
+         U1       12
+         U1       18
+         U1       44
+         U2       4
+         U4       1
+         U5       5
+
+3V3A     C1       1
+         C5       1
+         C7       1
+         C8       1
+         FB1      2
+         U1       2
+         U6       3
+         U6       4
+
+5V       C17      1
+         C19      A
+         IC2      3
+         U3       5V
+         U7       4
+
+CHGND    FB3      2
+         U6       GND0
+         U6       GND1
+
+COLLED   LED4     C
+         U1       71
+
+D2       SJ2      2
+         U3       D2
+
+D3       U3       D3
+
+D4       U3       D4
+         U4       3
+
+FDXLED   U1       70
+         U6       12
+
+GND      C1       2
+         C10      2
+         C11      2
+         C12      2
+         C13      2
+         C14      2
+         C15      2
+         C17      2
+         C19      C
+         C20      C
+         C21      2
+         C3       1
+         C4       1
+         C5       2
+         C7       2
+         C8       2
+         C9       2
+         FB3      1
+         JP1      1
+         LED1     C
+         R10      1
+         R21      1
+         S2       3
+         U1       10
+         U1       13
+         U1       14
+         U1       17
+         U1       19
+         U1       20
+         U1       21
+         U1       22
+         U1       23
+         U1       24
+         U1       25
+         U1       26
+         U1       32
+         U1       34
+         U1       35
+         U1       36
+         U1       37
+         U1       38
+         U1       39
+         U1       4
+         U1       40
+         U1       41
+         U1       42
+         U1       43
+         U1       45
+         U1       46
+         U1       47
+         U1       48
+         U1       49
+         U1       50
+         U1       51
+         U1       52
+         U1       53
+         U1       54
+         U1       63
+         U1       64
+         U1       65
+         U1       68
+         U1       77
+         U2       6
+         U2       CD1
+         U2       CD2
+         U2       GND1
+         U2       GND3
+         U3       GND@0
+         U3       GND@1
+         U3       GND@2
+         U4       8
+         U5       3
+         U7       1
+
+INT      SJ2      1
+         U1       56
+
+LINKLED  U1       66
+         U6       14
+
+MISO     U1       27
+         U2       7
+         U3       D12
+
+MOSI     U1       28
+         U3       D11
+         U4       5
+
+N$1      R2       1
+         U6       11
+
+N$2      C4       2
+         R9       2
+         U1       76
+         Y1       3
+
+N$3      C3       2
+         R9       1
+         U1       75
+         Y1       1
+
+N$4      R1       1
+         U1       55
+         U1       57
+         U1       58
+
+N$5      R3       1
+         U6       13
+
+N$6      LED1     A
+         R11      1
+
+N$7      C10      1
+         R15      1
+         R16      1
+
+N$9      C9       1
+         R13      1
+         R14      1
+
+N$10     LED2     A
+         R4       1
+
+N$11     LED3     A
+         R5       1
+
+N$12     LED4     A
+         R6       1
+
+N$13     IC2      1
+         R20      1
+         R21      2
+
+N$14     LED5     A
+         R7       1
+
+N$15     R10      2
+         R12      1
+
+RESET    S2       1
+         U3       RES
+         U7       3
+
+RSET_BG  R12      2
+         U1       1
+
+RST_WIZ  R8       1
+         U1       59
+         U7       2
+
+RXIN     R14      2
+         U1       6
+         U6       2
+
+RXIP     R13      2
+         U1       5
+         U6       1
+
+RXLED    LED3     C
+         U1       72
+
+SCLK     U1       30
+         U3       D13
+         U4       7
+
+SD_CS    U2       2
+         U4       2
+
+SD_DI    U2       3
+         U4       4
+
+SD_SCK   U2       5
+         U4       6
+
+SEN      R17      1
+         U1       31
+         U5       4
+
+SPDLED   LED5     C
+         U1       67
+
+TXLED    LED2     C
+         U1       73
+
+TXON     R16      2
+         U1       9
+         U6       6
+
+TXOP     R15      2
+         U1       8
+         U6       5
+
+V+       JP1      3
+         U6       9
+
+V-       JP1      2
+         U6       10
+
+VIN      JP1      4
+         U3       VIN
+

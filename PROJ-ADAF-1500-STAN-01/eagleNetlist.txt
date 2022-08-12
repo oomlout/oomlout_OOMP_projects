@@ -1,0 +1,82 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C8       1
+         CN4      1
+         D2       C
+         IC2      5
+         IC3      8
+         R3       2
+         R4       2
+
+B0       CN4      4
+         IC3      5
+
+B1       CN4      3
+         IC3      6
+         R5       2
+
+B2       CN4      2
+         IC3      7
+
+B3       CN3      2
+         IC3      2
+         R1       2
+
+B4       CN3      3
+         IC3      3
+         R2       2
+
+GND      B1       C
+         BAT      1
+         C1       2
+         C8       2
+         CN1      GND
+         CN1      GND1
+         CN1      GND2
+         CN1      GND3
+         CN1      GND4
+         CN3      4
+         D1       A
+         D3       A
+         IC2      2
+         IC3      4
+         PWR      C
+         Q1       B
+         Q1       B'
+
+N$1      B1       A
+         R5       1
+
+N$2      CN1      D+
+         D1       C
+         R2       1
+
+N$5      CN1      D-
+         D3       C
+         R1       1
+         R3       1
+
+N$6      PWR      A
+         R4       1
+
+RESET    CN3      1
+         IC3      1
+         Q1       A
+         Q1       A'
+
+VBAT     BAT      2
+         C1       1
+         IC2      1
+         IC2      3
+         JP2      1
+
+VBUS     CN1      VBUS
+         D2       A
+         JP1      1
+

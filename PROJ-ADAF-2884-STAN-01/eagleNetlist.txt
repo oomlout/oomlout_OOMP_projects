@@ -1,0 +1,204 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3V       JP2      15
+         JP3      15
+         JP6      15
+         MS1      2
+         MS2      2
+         MS3      2
+
+A        JP2      12
+         JP3      12
+         JP6      12
+         MS1      5
+         MS2      5
+         MS3      5
+
+AREF     JP2      14
+         JP3      14
+         JP6      14
+         MS1      3
+         MS2      3
+         MS3      3
+
+B        JP2      11
+         JP3      11
+         JP6      11
+         MS1      6
+         MS2      6
+         MS3      6
+
+C        JP2      10
+         JP3      10
+         JP6      10
+         MS1      7
+         MS2      7
+         MS3      7
+
+D        JP2      9
+         JP3      9
+         JP6      9
+         MS1      8
+         MS2      8
+         MS3      8
+
+E        JP2      8
+         JP3      8
+         JP6      8
+         MS1      9
+         MS2      9
+         MS3      9
+
+EN       JP1      2
+         JP4      2
+         JP5      2
+         MS1      27
+         MS2      27
+         MS3      27
+
+F        JP2      7
+         JP3      7
+         JP6      7
+         MS1      10
+         MS2      10
+         MS3      10
+
+G        JP2      1
+         JP3      1
+         JP6      1
+         MS1      16
+         MS2      16
+         MS3      16
+
+GND      JP2      13
+         JP3      13
+         JP6      13
+         MS1      4
+         MS2      4
+         MS3      4
+
+I        JP1      9
+         JP4      9
+         JP5      9
+         MS1      20
+         MS2      20
+         MS3      20
+
+J        JP1      10
+         JP4      10
+         JP5      10
+         MS1      19
+         MS2      19
+         MS3      19
+
+K        JP1      8
+         JP4      8
+         JP5      8
+         MS1      21
+         MS2      21
+         MS3      21
+
+L        JP1      7
+         JP4      7
+         JP5      7
+         MS1      22
+         MS2      22
+         MS3      22
+
+M        JP1      6
+         JP4      6
+         JP5      6
+         MS1      23
+         MS2      23
+         MS3      23
+
+MISO     JP2      4
+         JP3      4
+         JP6      4
+         MS1      13
+         MS2      13
+         MS3      13
+
+MOSI     JP2      5
+         JP3      5
+         JP6      5
+         MS1      12
+         MS2      12
+         MS3      12
+
+N        JP1      5
+         JP4      5
+         JP5      5
+         MS1      24
+         MS2      24
+         MS3      24
+
+O        JP1      4
+         JP4      4
+         JP5      4
+         MS1      25
+         MS2      25
+         MS3      25
+
+RESET    JP2      16
+         JP3      16
+         JP6      16
+         MS1      1
+         MS2      1
+         MS3      1
+
+RX       JP2      3
+         JP3      3
+         JP6      3
+         MS1      14
+         MS2      14
+         MS3      14
+
+SCK      JP2      6
+         JP3      6
+         JP6      6
+         MS1      11
+         MS2      11
+         MS3      11
+
+SCL      JP1      11
+         JP4      11
+         JP5      11
+         MS1      18
+         MS2      18
+         MS3      18
+
+SDA      JP1      12
+         JP4      12
+         JP5      12
+         MS1      17
+         MS2      17
+         MS3      17
+
+TX       JP2      2
+         JP3      2
+         JP6      2
+         MS1      15
+         MS2      15
+         MS3      15
+
+USB      JP1      3
+         JP4      3
+         JP5      3
+         MS1      26
+         MS2      26
+         MS3      26
+
+VBAT     JP1      1
+         JP4      1
+         JP5      1
+         MS1      28
+         MS2      28
+         MS3      28
+

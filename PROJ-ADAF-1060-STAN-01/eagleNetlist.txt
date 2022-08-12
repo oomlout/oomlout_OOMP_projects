@@ -1,0 +1,44 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 20:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part        Pad
+
+GND      C1          2
+         GND         TAP
+         IC2         4
+
+N$1      IC2         3
+         LED2        4
+
+N$2      IC2         2
+         LED2        5
+
+N$3      IC2         1
+         LED2        6
+
+N$4      IC2         6
+         R3          1
+
+N$5      IC2         5
+         R2          1
+
+N$6      DATA_INPUT  TAP
+         R3          2
+
+N$7      DATA_OUTPUT TAP
+         R2          2
+
+N$8      C1          1
+         IC2         7
+         IC2         8
+         R1          1
+
+VDD      LED2        1
+         LED2        2
+         LED2        3
+         R1          2
+         VDD         TAP
+

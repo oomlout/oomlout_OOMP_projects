@@ -1,0 +1,124 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!TFT_RST    IC4      2
+            R4       1
+            TFT2     20
+
+3.3V        C2       1
+            IC4      3
+            R4       2
+            TFT2     3
+            TFT2     4
+            TFT2     6
+            TP2      P$1
+
+A0_SPEAKER  TP9      P$1
+            VR2      3
+
+A1          D2       C
+            R2       2
+            TP8      P$1
+
+A1_         LEFT     3
+            R2       1
+            TP1      P$1
+
+A2          D1       C
+            R5       2
+            TP7      P$1
+
+A2_         R5       1
+            RIGHT    3
+            TP14     P$1
+
+A3_BACKLITE Q1       1
+            R3       2
+            TP6      P$1
+
+A6_CS       TFT2     18
+            TP12     P$1
+
+A7_DC       TFT2     16
+            TP13     P$1
+
+GND         C1       2
+            C15      2
+            C2       2
+            C9       2
+            D1       A
+            D2       A
+            IC4      1
+            LEFT     1
+            Q1       2
+            R3       1
+            RIGHT    1
+            TFT2     10
+            TFT2     11
+            TFT2     12
+            TFT2     13
+            TFT2     14
+            TFT2     15
+            TFT2     22
+            TFT2     5
+            TFT2     7
+            TFT2     8
+            TFT2     9
+            TFT2     SUPPORT1
+            TFT2     SUPPORT2
+            TP18     P$1
+            TP4      P$1
+            TP5      P$1
+            U5       7
+            VR2      1
+
+LEDK        R1       2
+            TFT2     2
+
+MOSI        TFT2     21
+            TP11     P$1
+
+N$1         Q1       3
+            R1       1
+
+N$19        R12      2
+            U5       4
+
+N$20        R13      2
+            U5       3
+
+N$21        C9       1
+            R12      1
+
+N$22        C13      1
+            R13      1
+
+N$23        C13      2
+            VR2      2
+
+SCK         TFT2     17
+            TP10     P$1
+
+SPKR+       TP15     P$1
+            U$1      1
+            U5       5
+
+SPKR-       TP16     P$1
+            U$1      2
+            U5       8
+
+V+          C1       1
+            C15      1
+            LEFT     2
+            RIGHT    2
+            TFT2     1
+            TP17     P$1
+            TP3      P$1
+            U5       1
+            U5       6
+

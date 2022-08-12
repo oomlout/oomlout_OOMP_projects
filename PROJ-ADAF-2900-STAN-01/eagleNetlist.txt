@@ -1,0 +1,156 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!OLED_RST IC5      2
+          LCD1     9
+          R2       1
+          SJ1      2
+
+!RESET    JP1      16
+          MS1      1
+          SJ1      1
+          SW1      B
+          SW1      B'
+
+3.3V      C4       2
+          IC5      3
+          JP1      15
+          LCD1     5
+          LCD1     8
+          MS1      2
+          R1       2
+          R2       2
+          R4       2
+          R7       2
+
+A         JP1      12
+          MS1      5
+
+AREF      JP1      14
+          MS1      3
+
+B         JP1      11
+          MS1      6
+
+C         JP1      10
+          MS1      7
+
+D         JP1      9
+          MS1      8
+
+E         JP1      8
+          MS1      9
+
+EN        JP2      2
+          MS1      27
+
+F         JP1      7
+          MS1      10
+
+G         JP1      1
+          MS1      16
+
+GND       C4       1
+          C5       1
+          C6       1
+          IC5      1
+          JP1      13
+          LCD1     7
+          MS1      4
+          R3       1
+          SW1      A
+          SW1      A'
+          SW2      A
+          SW2      A'
+          SW3      A
+          SW3      A'
+          SW4      A
+          SW4      A'
+
+H         JP2      10
+          MS1      19
+          SW3      B
+          SW3      B'
+
+I         JP2      9
+          MS1      20
+          R1       1
+          SW4      B
+          SW4      B'
+
+J         JP2      8
+          MS1      21
+          SW2      B
+          SW2      B'
+
+K         JP2      7
+          MS1      22
+
+L         JP2      6
+          MS1      23
+
+M         JP2      5
+          MS1      24
+
+MISO      JP1      4
+          MS1      13
+
+MOSI      JP1      5
+          MS1      12
+
+N         JP2      4
+          MS1      25
+
+N$1       C1       2
+          LCD1     1
+
+N$2       C1       1
+          LCD1     2
+
+N$3       C2       2
+          LCD1     3
+
+N$4       C2       1
+          LCD1     4
+
+N$5       C6       2
+          LCD1     13
+
+N$6       C5       2
+          LCD1     14
+
+N$7       LCD1     12
+          R3       2
+
+RX        JP1      3
+          MS1      14
+
+SCK       JP1      6
+          MS1      11
+
+SCL       JP2      11
+          LCD1     10
+          MS1      18
+          R7       1
+
+SDA       JP2      12
+          LCD1     11
+          MS1      17
+          R4       1
+
+TX        JP1      2
+          MS1      15
+
+USB       JP2      3
+          MS1      26
+
+VBAT      JP2      1
+          MS1      28
+
+VBREF     LCD1     6
+

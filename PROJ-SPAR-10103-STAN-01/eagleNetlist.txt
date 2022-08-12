@@ -1,0 +1,100 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C2       1
+         U2       5
+         U3       24
+
+A1       U1       2
+         U3       12
+
+A2       U1       22
+         U3       15
+
+B        U1       21
+         U3       16
+
+C        U1       16
+         U3       18
+
+CLK      INPUT    2
+         OUTPUT   2
+         U3       3
+
+D1       U1       10
+         U3       7
+
+D2       U1       14
+         U3       20
+
+E        U1       9
+         U3       8
+
+F        U1       4
+         U3       10
+
+G1       U1       7
+         U3       9
+
+G2       U1       19
+         U3       17
+
+GND      C1       C
+         C2       2
+         INPUT    6
+         OUTPUT   6
+         R1       1
+         R2       1
+         U2       2
+         U3       1
+         U3       EP
+
+H        U1       3
+         U3       11
+
+J        U1       24
+         U3       13
+
+K        U1       23
+         U3       14
+
+L        U1       15
+         U3       19
+
+LE       INPUT    3
+         OUTPUT   3
+         U3       4
+
+M        U1       12
+         U3       5
+
+N        U1       11
+         U3       6
+
+OE       INPUT    4
+         OUTPUT   4
+         U3       21
+
+REXT     R1       2
+         R2       2
+         U3       23
+
+SDI      INPUT    1
+         U3       2
+
+SDO      OUTPUT   1
+         U3       22
+
+VCC      C1       A
+         INPUT    5
+         OUTPUT   5
+         U1       18
+         U1       6
+         U2       1
+         U2       3
+

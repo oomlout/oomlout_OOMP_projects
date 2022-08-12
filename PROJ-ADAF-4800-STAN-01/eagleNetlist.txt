@@ -1,0 +1,406 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+3.3V        C10      1
+            C13      1
+            C17      1
+            C18      1
+            C2       1
+            C4       1
+            C5       1
+            C7       1
+            C9       2
+            CONN1    2
+            EINK2    15
+            EINK2    16
+            IC4      1
+            IC4      13
+            IC4      14
+            IC4      15
+            IC4      16
+            IC4      7
+            IC4      8
+            L1       P$2
+            Q2       2
+            R1       2
+            R15      2
+            R22      2
+            R23      2
+            R24      2
+            R25      2
+            R5       1
+            R6       2
+            R7       1
+            SJ2      3
+            U3       2
+            U4       5
+
+A1_JST1     R18      1
+            SENSE1   3
+
+AD0         C21      1
+            U3       20
+
+AD1         D6       C
+            R18      2
+            U3       21
+
+AD3         U3       5
+
+BATT_MON    C16      1
+            R10      2
+            R11      1
+            U3       7
+
+BOOT0       SW1      1
+            TP1      P$1
+            TP8      P$1
+            U3       3
+
+BUTTONA     R25      1
+            SW7      P$2
+            U3       18
+
+BUTTONB     R23      1
+            SW6      P$2
+            U3       17
+
+BUTTONC     R22      1
+            SW5      P$2
+            U3       15
+
+BUTTOND     R24      1
+            SW2      P$2
+            U3       14
+
+CC1         R8       2
+            X4       A5
+
+CC2         R3       2
+            X4       B5
+
+D+          U3       23
+            X4       A6
+            X4       B6
+
+D-          U3       22
+            X4       A7
+            X4       B7
+
+D10         D1       C
+            R16      2
+            U3       13
+
+D10_JST     R16      1
+            SENSE    3
+
+D13         R9       2
+            U3       16
+
+EBUSY       EINK2    9
+            U3       8
+
+ECS         EINK2    12
+            U3       11
+
+EDC         EINK2    11
+            U3       10
+
+EN          Q3       1
+            R12      2
+            SW4      B
+
+ERESET      EINK2    10
+            R27      2
+            U3       9
+
+GDR         EINK2    2
+            Q5       1
+
+GND         C1       2
+            C10      2
+            C11      2
+            C12      2
+            C13      2
+            C14      2
+            C15      2
+            C16      2
+            C17      2
+            C18      2
+            C19      1
+            C2       2
+            C20      2
+            C23      1
+            C24      1
+            C25      1
+            C26      1
+            C27      2
+            C28      2
+            C3       2
+            C30      1
+            C31      1
+            C4       2
+            C5       2
+            C6       2
+            C7       2
+            C8       2
+            C9       1
+            CONN1    1
+            CONN1    MT1
+            CONN1    MT2
+            D1       A
+            D2       C
+            D6       A
+            EINK2    17
+            EINK2    8
+            IC2      2
+            IC4      10
+            IC4      12
+            IC4      5
+            L        C
+            LED2     4
+            LED3     4
+            LED4     4
+            LED5     4
+            ON       C
+            R11      2
+            R13      2
+            R14      1
+            R17      1
+            R20      1
+            R21      2
+            R26      1
+            R27      1
+            R3       1
+            R4       2
+            R8       1
+            SENSE    1
+            SENSE1   1
+            SW1      2
+            SW2      P$1
+            SW3      1
+            SW4      C
+            SW5      P$1
+            SW6      P$1
+            SW7      P$1
+            U2       2
+            U3       1
+            U3       26
+            U3       42
+            U3       43_1
+            U3       43_10
+            U3       43_11
+            U3       43_12
+            U3       43_13
+            U3       43_14
+            U3       43_15
+            U3       43_16
+            U3       43_17
+            U3       43_18
+            U3       43_19
+            U3       43_2
+            U3       43_20
+            U3       43_21
+            U3       43_3
+            U3       43_4
+            U3       43_5
+            U3       43_6
+            U3       43_7
+            U3       43_8
+            U3       43_9
+            U4       2
+            X1       1
+            X4       A1B12
+            X4       B1A12
+
+IO38_DBLTAP C6       1
+            R17      2
+            U3       32
+
+LIGHT       R20      2
+            U1       E
+            U3       6
+
+LISIRQ      IC4      11
+            U3       12
+
+MISO        U3       31
+
+MOSI        EINK2    14
+            U3       29
+
+N$1         L        A
+            R9       1
+
+N$2         LED2     3
+            LED3     1
+
+N$3         ON       A
+            R6       1
+
+N$4         CHG1     C
+            R2       1
+
+N$5         C21      2
+            R19      1
+
+N$6         R2       2
+            U2       1
+
+N$8         IC2      3
+            R19      2
+
+N$9         R4       1
+            U2       5
+
+N$10        C19      2
+            EINK2    5
+
+N$11        C23      2
+            EINK2    18
+
+N$12        C24      2
+            EINK2    20
+
+N$13        LED4     3
+            LED5     1
+
+N$14        C29      2
+            D2       A
+            D3       C
+
+N$15        C29      1
+            D5       A
+            L1       P$1
+            Q5       3
+
+N$16        C30      2
+            EINK2    4
+
+N$17        C31      2
+            EINK2    19
+
+N$18        LED3     3
+            LED4     1
+
+N$19        IC2      1
+            SP1      -
+
+N$20        IC2      6
+            SP1      +
+
+N$21        D4       C
+            Q1       2
+            Q3       2
+            R12      1
+
+N$27        C25      2
+            EINK2    22
+
+N$33        C26      2
+            EINK2    24
+
+NEOPIXELS   LED2     1
+            U3       4
+
+NEOPOWER    Q2       1
+            R15      1
+            U3       24
+
+RESE        EINK2    3
+            Q5       2
+            R13      1
+            R21      1
+
+RESET       C14      1
+            R1       1
+            SW3      2
+            TP6      P$1
+            TP7      P$1
+            U3       41
+
+RXD0        JP2      2
+            U3       38
+
+SCK         EINK2    13
+            U3       30
+
+SCL         CONN1    4
+            IC4      4
+            R5       2
+            U3       28
+
+SDA         CONN1    3
+            IC4      6
+            R7       2
+            U3       27
+
+SPKR_SD     IC2      4
+            R26      2
+            U3       19
+
+TCK         U3       33
+
+TDI         U3       35
+
+TDO         U3       34
+
+TMS         U3       36
+
+TSCL        EINK2    6
+
+TSDA        EINK2    7
+
+TXD0        JP2      1
+            U3       37
+
+V+          C12      1
+            C3       1
+            LED2     2
+            LED3     2
+            LED4     2
+            LED5     2
+            Q2       3
+            U1       C
+
+VBAT        C8       1
+            Q1       3
+            R10      1
+            U2       3
+            X1       2
+
+VBUS        C1       1
+            C15      1
+            CHG1     A
+            D4       A
+            Q1       1
+            R14      2
+            U2       4
+            X4       A4B9
+            X4       B4A9
+
+VCC         C20      1
+            SENSE    2
+            SENSE1   2
+            SJ2      2
+
+VGH         C27      1
+            D5       C
+            EINK2    21
+
+VGL         C28      1
+            D3       A
+            EINK2    23
+
+VHIGH       C11      1
+            IC2      5
+            Q3       3
+            SJ2      1
+            U4       1
+            U4       3
+

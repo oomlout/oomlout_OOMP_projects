@@ -1,0 +1,19 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 13:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       R1       2
+         VIBE+    1
+
+GND      D1       2
+         M1       P$2
+         VIBE-    1
+
+N$1      D1       1
+         M1       P$1
+         R1       1
+

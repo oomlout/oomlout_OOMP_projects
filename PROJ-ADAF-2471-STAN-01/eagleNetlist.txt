@@ -1,0 +1,109 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         D3       A
+         JP5      3
+         R1       2
+         R4       2
+         R7       2
+         U1       5
+         X1       8
+
+ADC      JP4      2
+         X1       2
+
+CH_PD    JP4      3
+         R1       1
+         X1       3
+
+GND      C1       2
+         C2       2
+         JP1      6
+         JP4      10
+         JP5      1
+         R6       1
+         SW1      A
+         SW1      A'
+         SW2      A
+         SW2      A'
+         U1       2
+         X1       9
+
+GPIO0    JP5      6
+         R2       1
+         SW2      B
+         SW2      B'
+         X1       12
+
+GPIO2    JP5      5
+         R7       1
+         X1       11
+
+GPIO4    JP5      7
+         X1       13
+
+GPIO5    JP5      8
+         X1       14
+
+GPIO12   JP4      6
+         X1       6
+
+GPIO13   JP4      7
+         X1       7
+
+GPIO14   JP4      5
+         X1       5
+
+GPIO15   JP5      4
+         R6       2
+         X1       10
+
+GPIO16   JP4      4
+         X1       4
+
+LDO_EN   JP5      2
+         R3       2
+         U1       3
+
+N$1      D3       C
+         R2       2
+
+N$2      C2       1
+         D5       C
+         D6       C
+         R3       1
+         U1       1
+
+RESET    D1       A
+         R4       1
+         SW1      B
+         SW1      B'
+         X1       1
+
+RESET_5V D1       C
+         JP4      1
+
+RXD      D2       A
+         X1       15
+
+RXD_5V   D2       C
+         JP1      3
+         JP5      9
+
+TXD      JP1      2
+         JP5      10
+         X1       16
+
+VBAT     D6       A
+         JP4      9
+
+VIN      D5       A
+         JP1      4
+         JP4      8
+

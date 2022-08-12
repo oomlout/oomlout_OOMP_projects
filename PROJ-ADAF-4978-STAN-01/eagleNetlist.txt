@@ -1,0 +1,39 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         JP1      2
+         JP3      2
+         LED1     3-GND
+
+N$2      D1       A
+         SW1      1
+
+NEO_IN   JP2      1
+         JP3      3
+         LED1     4-DIN
+
+NEO_OUT  JP1      3
+         JP4      1
+         LED1     2-DOUT
+
+SWITCHA  JP1      4
+         JP3      4
+         SW1      2
+
+SWITCHC  D1       C
+         JP1      5
+         JP2      2
+         JP3      5
+         JP4      2
+
+VDD      C1       1
+         JP1      1
+         JP3      1
+         LED1     1-VDD
+

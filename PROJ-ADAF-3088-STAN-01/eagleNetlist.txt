@@ -1,0 +1,120 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A0       A0       2
+         LED1     9
+         LED2     9
+         U2       P$23
+
+A1       A1       2
+         LED1     10
+         LED2     10
+         U2       P$24
+
+A2       A2       2
+         LED1     12
+         LED2     12
+         U2       P$25
+
+COM0     D1       A
+         LED1     16
+         U2       P$2
+
+COM1     LED1     11
+         U2       P$3
+
+COM2     LED2     16
+         U2       P$4
+
+COM3     LED2     11
+         U2       P$5
+
+GND      C1       2
+         C2       2
+         C3       2
+         JP1      4
+         U2       P$1
+
+N$1      D1       C
+         R3       1
+         R4       1
+         R5       1
+
+N$4      LED1     17
+         LED2     17
+         U2       P$17
+
+N$5      LED1     15
+         LED2     15
+         U2       P$16
+
+N$6      LED1     14
+         LED2     14
+         U2       P$15
+
+N$7      A2       1
+         R5       2
+
+N$8      LED1     2
+         LED2     2
+         U2       P$14
+
+N$9      LED1     4
+         LED2     4
+         U2       P$13
+
+N$10     LED1     7
+         LED2     7
+         U2       P$22
+
+N$11     LED1     1
+         LED2     1
+         U2       P$21
+
+N$12     LED1     18
+         LED2     18
+         U2       P$20
+
+N$13     LED1     13
+         LED2     13
+         U2       P$19
+
+N$14     LED1     5
+         LED2     5
+         U2       P$12
+
+N$15     LED1     8
+         LED2     8
+         U2       P$11
+
+N$16     LED1     6
+         LED2     6
+         U2       P$18
+
+N$19     A1       1
+         R3       2
+
+N$20     A0       1
+         R4       2
+
+SCL      JP4      6
+         R1       2
+         U2       P$26
+
+SDA      JP4      7
+         R2       2
+         U2       P$27
+
+VDD      C1       1
+         C2       1
+         C3       1
+         JP1      6
+         R1       1
+         R2       1
+         U2       P$28
+

@@ -1,0 +1,7 @@
+### Module positions - created on Thu Aug 11 20:33:28 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+U$14                ADAFRUIT_3.5MM    -149.7761  -100.3266  180.0000  bottom
+## End

@@ -1,0 +1,230 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 20:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C4       1
+          Q2       1
+          Q3       1
+          R1       2
+          R10      2
+          R11      2
+          R12      2
+          R14      2
+          R15      1
+          R2       2
+          R3       2
+          U1       10
+          U1       21
+          U1       28
+          U1       6
+          U2       5
+          VR1      E
+
+ADDR1_3V3 D3       A
+          R10      1
+          SJ4      1
+          U1       13
+
+ADDR1_5V  D3       C
+          JP2      11
+
+ADDR2_3V3 D2       A
+          R11      1
+          SJ3      1
+          U1       14
+
+ADDR2_5V  D2       C
+          JP2      12
+
+AGND      C5       2
+          FB1      1
+          JP2      3
+          SJ1      1
+          X1       2
+          X2       1
+
+GND       C1       -
+          C10      1
+          C11      1
+          C16      2
+          C17      1
+          C2       2
+          C3       2
+          C4       2
+          C7       2
+          C9       1
+          CN1      GND
+          CN1      GNDBREAK
+          FB1      2
+          J1       1
+          JP2      13
+          Q1       1
+          Q4       2
+          SJ1      2
+          SJ3      2
+          SJ4      2
+          SJ5      2
+          U1       11
+          U1       12
+          U1       15
+          U1       27
+          U1       34
+          U1       35
+          U1       39
+          U1       43
+          U1       44
+          U1       7
+          U1       THERMAL
+          U2       2
+          VR1      A
+
+LEFTIN    C22      1
+          JP2      2
+          X1       3
+          X2       2
+
+MUTE_3V3  Q4       3
+          R14      1
+          U1       24
+
+MUTE_INV  JP2      8
+          Q4       1
+          R15      2
+
+N$1       CN1      PWR
+          J1       2
+          Q1       3
+
+N$3       C5       1
+          U1       20
+
+N$5       C6       2
+          U1       38
+
+N$6       C6       1
+          FB2      1
+          U1       36
+          U1       37
+
+N$7       C8       2
+          U1       33
+
+N$8       C8       1
+          FB3      1
+          U1       31
+          U1       32
+
+N$9       C7       1
+          FB3      2
+          J2       2
+
+N$10      C9       2
+          FB2      2
+          J2       1
+
+N$13      C13      1
+          FB4      1
+          U1       41
+          U1       42
+
+N$16      C15      1
+          FB5      1
+          U1       2
+          U1       3
+
+N$17      C16      1
+          FB5      2
+          J3       1
+
+N$18      C17      2
+          FB4      2
+          J3       2
+
+N$23      C15      2
+          U1       1
+
+N$24      C13      2
+          U1       40
+
+N$25      R6       2
+          U1       17
+
+N$26      R7       2
+          U1       18
+
+N$27      R6       1
+          R8       2
+          U1       16
+
+N$29      R7       1
+          R9       2
+          U1       19
+
+N$30      C22      2
+          R8       1
+
+N$31      C23      2
+          R9       1
+
+RIGHTIN   C23      1
+          JP2      1
+          X1       1
+          X2       3
+
+SCL_3V3   Q3       2
+          R3       1
+          SJ5      1
+          U1       9
+
+SCL_5V0   JP2      5
+          Q3       3
+          R5       1
+
+SDA_3V3   Q2       2
+          R1       1
+          U1       8
+          VR1      S
+
+SDA_5V0   JP2      4
+          Q2       3
+          R4       1
+
+SHDN_3V3  D1       A
+          R12      1
+          U1       22
+
+SHDN_5V   D1       C
+          JP2      7
+
+SYNCOUT   JP2      9
+          U1       26
+
+SYNC_3V3  D4       A
+          R2       1
+          U1       25
+
+SYNC_5V   D4       C
+          JP2      10
+
+VDD       C1       +
+          C10      2
+          C11      2
+          C2       1
+          C3       1
+          JP2      14
+          Q1       2
+          U1       29
+          U1       30
+          U1       4
+          U1       5
+          U2       1
+          U2       3
+
+VDDIO     JP2      6
+          R4       2
+          R5       2
+

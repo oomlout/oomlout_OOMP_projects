@@ -1,0 +1,243 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++5V       C5       1
+          JP2      2
+          JP2      4
+          R1       1
+          R2       1
+          R3       1
+          R4       1
+          RPI1     2
+          RPI1     4
+
+3.3V      C1       1
+          C2       1
+          C3       1
+          IC5      3
+          JP2      1
+          JP2      17
+          R12      1
+          R13      2
+          R5       2
+          R6       2
+          R7       2
+          R8       1
+          R9       2
+          RPI1     1
+          RPI1     17
+          U$2      40
+          U$2      41
+          U$2      42
+          U$2      7
+          U$2      8
+          U$2      9
+          U1       8
+          U2       14
+          U2       6
+          U2       9
+
+EECLK     R9       1
+          RPI1     28
+          U1       6
+
+EEDATA    R5       1
+          RPI1     27
+          U1       5
+
+GND       C1       2
+          C2       2
+          C3       2
+          C5       2
+          IC5      1
+          JP2      14
+          JP2      20
+          JP2      25
+          JP2      6
+          JP2      9
+          Q4       2
+          RPI1     14
+          RPI1     20
+          RPI1     25
+          RPI1     30
+          RPI1     34
+          RPI1     39
+          RPI1     6
+          RPI1     9
+          SJ1      1
+          SW1      P$2
+          SW2      P$2
+          SW3      P$2
+          SW4      P$2
+          SW5      P$2
+          U$2      43
+          U$2      48
+          U$2      49
+          U$2      50
+          U$2      6
+          U1       1
+          U1       2
+          U1       3
+          U1       4
+          U2       10
+
+GPIO4     JP2      7
+          RPI1     7
+
+GPIO5     RPI1     29
+          SW2      P$1
+
+GPIO6     RPI1     31
+          SW3      P$1
+
+GPIO12    RPI1     32
+          SW1      P$1
+
+GPIO13    RPI1     33
+          SW4      P$1
+
+GPIO16    RPI1     36
+          SW5      P$1
+
+GPIO17    JP2      11
+          RPI1     11
+
+GPIO18    JP2      12
+          RPI1     12
+          SJ2      1
+
+GPIO19    RPI1     35
+
+GPIO20    RPI1     38
+
+GPIO21    RPI1     40
+
+GPIO22    JP2      15
+          RPI1     15
+
+GPIO23    JP2      16
+          RPI1     16
+
+GPIO26    RPI1     37
+
+GPIO27    JP2      13
+          RPI1     13
+
+LCD_LITE  D1       A
+          Q4       1
+          R12      2
+          U2       11
+
+MISO      JP2      21
+          RPI1     21
+          U$2      33
+          U2       3
+
+MOSI      R11      2
+          U$2      34
+          U2       7
+
+MOSI_3V   JP2      19
+          R11      1
+          RPI1     19
+
+N$2       R1       2
+          U$2      2
+
+N$3       R2       2
+          U$2      3
+
+N$4       R3       2
+          U$2      4
+
+N$5       Q4       3
+          U$2      1
+
+N$8       D1       C
+          SJ2      2
+
+N$9       U$2      15
+          U$2      16
+          U$2      17
+          U$2      18
+          U$2      19
+          U$2      20
+          U$2      21
+          U$2      22
+          U$2      23
+          U$2      24
+          U$2      25
+          U$2      26
+          U$2      27
+          U$2      28
+          U$2      29
+          U$2      30
+          U$2      31
+          U$2      32
+
+N$10      R4       2
+          U$2      5
+
+N$16      R13      1
+          SJ1      2
+          U1       7
+
+RT_CS_3V  JP2      26
+          R7       1
+          RPI1     26
+          U2       5
+
+RT_INT    JP2      18
+          R8       2
+          RPI1     18
+          U2       2
+
+RXD       JP2      10
+          RPI1     10
+
+SCL       JP2      5
+          RPI1     5
+
+SCLK      R10      2
+          U$2      37
+          U2       4
+
+SCLK_3V   JP2      23
+          R10      1
+          RPI1     23
+
+SDA       JP2      3
+          RPI1     3
+
+TFT_CS_3V JP2      24
+          RPI1     24
+          U$2      38
+
+TFT_DC_3V JP2      22
+          RPI1     22
+          U$2      36
+
+TFT_RST   IC5      2
+          R6       1
+          U$2      10
+
+TXD       JP2      8
+          RPI1     8
+
+XL        U$2      46
+          U2       16
+
+XR        U$2      44
+          U2       13
+
+YD        U$2      45
+          U2       15
+
+YU        U$2      47
+          U2       1
+

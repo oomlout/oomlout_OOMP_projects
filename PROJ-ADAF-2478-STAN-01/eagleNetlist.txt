@@ -1,0 +1,234 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 18:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3V       C1       1
+          C3       1
+          C4       1
+          C6       1
+          IC1      5
+          IC2      20
+          IC3      1
+          IC3      20
+          IC4      3
+          JP2      3
+          R1       1
+          R2       1
+          R3       1
+          R4       1
+          R6       2
+          SJ1      2
+          SJ2      2
+          SJ3      1
+          SJ4      1
+          U$10     40
+          U$10     41
+          U$10     42
+          X1       4
+
+CARDDET   JP2      20
+          X1       CD2
+
+CS        IC3      5
+          JP1      3
+          JP2      7
+
+D0        IC2      2
+          JP1      13
+
+D1        IC2      3
+          JP1      14
+
+D2        IC2      4
+          JP1      15
+
+D3        IC2      5
+          JP1      16
+
+D4        IC2      6
+          JP1      17
+
+D5        IC2      7
+          JP1      18
+
+D6        IC2      8
+          JP1      19
+
+D7        IC2      9
+          JP1      20
+
+GND       C1       2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          C6       2
+          IC1      2
+          IC2      10
+          IC2      19
+          IC3      10
+          IC3      19
+          IC4      1
+          JP1      1
+          JP2      1
+          Q1       E
+          R10      2
+          R11      2
+          R12      1
+          R8       1
+          R9       1
+          U$10     43
+          U$10     48
+          U$10     49
+          U$10     50
+          X1       6
+          X1       MT1
+          X1       MT2
+
+IM0       JP2      15
+          R10      1
+          SJ1      1
+          U$10     6
+
+IM1       JP2      16
+          R11      1
+          SJ2      1
+          U$10     7
+
+IM2       JP2      17
+          R9       2
+          SJ3      2
+          U$10     8
+
+IM3       JP2      18
+          R8       2
+          SJ4      2
+          U$10     9
+
+LCD_CS    IC3      15
+          U$10     38
+
+LCD_DATA0 IC2      18
+          U$10     32
+
+LCD_DATA1 IC2      17
+          U$10     31
+
+LCD_DATA2 IC2      16
+          U$10     30
+
+LCD_DATA3 IC2      15
+          U$10     29
+
+LCD_DATA4 IC2      14
+          U$10     28
+
+LCD_DATA5 IC2      13
+          U$10     27
+
+LCD_DATA6 IC2      12
+          U$10     26
+
+LCD_DATA7 IC2      11
+          U$10     25
+
+LCD_RD    IC3      12
+          U$10     35
+
+LCD_RS    IC3      14
+          U$10     37
+          X1       5
+
+LCD_RST   IC3      11
+          U$10     10
+
+LCD_WR    IC3      13
+          U$10     36
+
+LITE      JP1      8
+          JP2      10
+          R5       1
+          R7       1
+
+MISO      JP2      5
+          U$10     33
+          X1       7
+
+MOSI      IC3      4
+          JP2      6
+
+N$1       R4       2
+          U$10     5
+
+N$2       R1       2
+          U$10     2
+
+N$3       R2       2
+          U$10     3
+
+N$4       R3       2
+          U$10     4
+
+N$5       Q1       C
+          U$10     1
+
+N$16      Q1       B
+          R5       2
+
+RD        IC2      1
+          IC3      8
+          JP1      6
+          R12      2
+
+RST       IC3      9
+          IC4      2
+          JP1      7
+          JP2      9
+          R6       1
+
+RS_CLK    IC3      6
+          JP1      4
+          JP2      4
+
+SDI_3V    IC3      16
+          U$10     34
+          X1       3
+
+SD_CS     IC3      3
+          JP2      19
+
+SD_CS_3V  IC3      17
+          X1       2
+
+VIN       C2       1
+          C5       1
+          IC1      1
+          IC1      3
+          JP1      2
+          JP2      2
+          R7       2
+
+WR_DC     IC3      7
+          JP1      5
+          JP2      8
+
+X+        JP1      9
+          JP2      12
+          U$10     46
+
+X-        JP1      11
+          JP2      14
+          U$10     44
+
+Y+        JP1      10
+          JP2      11
+          U$10     47
+
+Y-        JP1      12
+          JP2      13
+          U$10     45
+

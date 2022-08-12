@@ -1,0 +1,35 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+COMA     JP3      3
+         X1       COM_A
+
+COMB     JP3      9
+         X1       COM_B
+
+ENC_A    JP3      1
+         X1       A
+
+ENC_B    JP3      2
+         X1       B
+
+SW1      JP3      4
+         X1       S1
+
+SW2      JP3      5
+         X1       S2
+
+SW3      JP3      6
+         X1       S3
+
+SW4      JP3      7
+         X1       S4
+
+SW5      JP3      8
+         X1       S5
+

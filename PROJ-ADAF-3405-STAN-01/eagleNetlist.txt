@@ -1,0 +1,196 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C7       1
+         C8       1
+         IC1      5
+         IC1      6
+         IC1      7
+         JP1      15
+         R13      3
+         U2       5
+         X2       2
+
+A0_DAC2  JP1      12
+         X2       11
+
+A1_DAC1  JP1      11
+         X2       10
+
+A2_I34   JP1      10
+         X2       6
+
+A3_I39   JP1      9
+         X2       5
+
+A4_IO36  JP1      8
+         X2       4
+
+A5_IO4   JP1      7
+         X2       26
+
+A13_I35  R1       1
+         R3       2
+         X2       7
+
+DTR      IC1      23
+         Q2       2
+         R13      4
+
+EN       JP3      2
+         R7       1
+         U2       3
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C6       2
+         C7       2
+         C8       2
+         D3       C
+         IC1      2
+         IC1      THERM
+         JP1      13
+         R12      1
+         R3       1
+         R4       1
+         SW2      A
+         SW2      A'
+         U2       2
+         U3       2
+         X1       1
+         X2       1
+         X2       15
+         X2       38
+         X2       P$1
+         X4       BASE@1
+         X4       BASE@2
+         X4       GND
+         X4       SPRT@1
+         X4       SPRT@2
+         X4       SPRT@3
+         X4       SPRT@4
+
+GPIO0    Q2       3
+         X2       25
+
+GPIO2    X2       24
+
+IO12_A11 JP3      5
+         X2       14
+
+IO13_A12 JP3      4
+         R10      1
+         X2       16
+
+IO14_A6  JP3      10
+         X2       13
+
+IO15_A8  JP3      8
+         X2       23
+
+IO16     JP1      3
+         X2       27
+
+IO17     JP1      2
+         X2       28
+
+IO21     JP1      1
+         X2       33
+
+IO27_A10 JP3      6
+         X2       12
+
+IO32_A7  JP3      9
+         X2       8
+
+IO33_A9  JP3      7
+         X2       9
+
+MISO     JP1      4
+         X2       31
+
+MOSI     JP1      5
+         X2       30
+
+N$1      CHG      C
+         R2       1
+
+N$2      IC1      3
+         X4       D+
+
+N$3      R2       2
+         U3       1
+
+N$4      R4       2
+         U3       5
+
+N$5      D3       A
+         R10      2
+
+N$6      IC1      4
+         X4       D-
+
+N$7      C6       1
+         D4       C
+         Q3       2
+         R7       2
+         U2       1
+
+N$12     Q1       1
+         R13      5
+
+N$13     Q2       1
+         R13      2
+
+RESET    C4       1
+         JP1      16
+         Q1       3
+         R13      6
+         SW2      B
+         SW2      B'
+         X2       3
+
+RTS      IC1      19
+         Q1       2
+         R13      7
+
+RXD0     IC1      21
+         X2       34
+
+SCK      JP1      6
+         X2       29
+
+SCL      JP3      11
+         X2       36
+
+SDA      JP3      12
+         X2       37
+
+TXD0     IC1      20
+         X2       35
+
+VBAT     C3       1
+         JP3      1
+         Q3       3
+         R1       2
+         U3       3
+         X1       2
+
+VBUS     CHG      A
+         D4       A
+         IC1      8
+         JP3      3
+         Q3       1
+         R12      2
+         U3       4
+         X4       VBUS
+

@@ -1,0 +1,205 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 12:30
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+AUX1        JP3      1
+            U1       12
+
+AUX2        JP3      2
+            U1       13
+
+GND         C10      1
+            C11      2
+            C12      2
+            C13      2
+            C14      2
+            C16      2
+            C17      2
+            C18      2
+            C19      2
+            C20      2
+            C21      2
+            C22      1
+            C23      2
+            C24      2
+            C25      2
+            C26      2
+            C3       2
+            C4       1
+            C7       2
+            C8       1
+            C9       2
+            CN1      1
+            JP1      3
+            JP2      3
+            JP3      12
+            JP4      8
+            R5       2
+            R6       1
+            R8       2
+            TP2      P$1
+            TP6      P$1
+            U1       1
+            U1       11
+            U1       18
+            U1       3
+            U1       7
+            U1       TP
+            U2       2
+
+IRQ         JP4      7
+            U1       25
+
+MISO        JP4      3
+            U1       29
+
+MOSI/SDA/TX CN1      5
+            JP4      4
+            U1       28
+
+N$1         L3       2
+            U1       4
+
+N$2         L4       2
+            U1       6
+
+N$3         C1       2
+            C3       1
+            C5       2
+            L3       1
+            TP1      P$1
+
+N$4         R3       1
+            R6       2
+            TP5      P$1
+
+N$5         R4       2
+            R5       1
+            TP4      P$1
+
+N$6         LED1     C
+            R8       1
+
+N$7         C12      1
+            U1       14
+            Y1       1
+
+N$8         C13      1
+            U1       15
+            Y1       2
+
+N$9         C15      1
+            R2       1
+
+N$10        C14      1
+            R1       2
+            U1       9
+
+N$11        C15      2
+            R1       1
+            U1       10
+
+N$12        C2       1
+            C4       2
+            C6       1
+            L4       1
+            R2       2
+            TP3      P$1
+            TP7      P$1
+
+N$13        C11      1
+            C25      1
+            L2       1
+            U1       8
+
+N$14        C19      1
+            C23      1
+            L1       1
+            U1       5
+
+NSS/SCL/RX  CN1      4
+            JP4      5
+            U1       27
+
+P30/UART_RX JP3      3
+            U1       24
+
+P31         JP3      4
+            U1       31
+
+P32         JP3      5
+            U1       32
+
+P33         JP3      6
+            U1       33
+
+P34/SIC_CLK JP3      7
+            U1       34
+
+P35         JP3      8
+            U1       19
+
+RSTOUT_N    JP4      6
+            U1       26
+
+RSTPD_N     JP3      11
+            R7       1
+            U1       38
+
+SCK         JP4      2
+            U1       30
+
+SEL0        JP1      2
+            U1       16
+
+SEL1        JP2      2
+            U1       17
+
+SIGIN       JP3      10
+            U1       36
+
+SIGOUT      JP3      9
+            U1       35
+
+TX1_ANTENNA C1       1
+            C5       1
+            C7       1
+            C9       1
+            R3       2
+
+TX2_ANTENNA C10      2
+            C2       2
+            C6       2
+            C8       2
+            R4       1
+
+VDD         C16      1
+            C17      1
+            C18      1
+            C20      1
+            C21      1
+            C22      2
+            C24      1
+            JP1      1
+            JP2      1
+            JP4      1
+            L1       2
+            L2       2
+            LED1     A
+            R7       2
+            U1       23
+            U1       37
+            U1       39
+            U1       40
+            U2       5
+
+VIN         C26      1
+            CN1      3
+            JP5      1
+            U2       1
+            U2       3
+

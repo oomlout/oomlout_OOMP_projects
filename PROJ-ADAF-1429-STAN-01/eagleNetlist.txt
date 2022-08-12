@@ -1,0 +1,157 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++24V     C2       1
+         C4       +
+         IC2      1
+         J1       1
+         JP1      6
+         JP10     6
+         JP2      1
+         JP2      3
+         JP2      5
+         JP3      1
+         JP3      3
+         JP3      5
+         JP4      1
+         JP4      3
+         JP4      5
+         JP5      1
+         JP5      3
+         JP5      5
+         JP6      1
+         JP6      3
+         JP6      5
+         JP7      1
+         JP7      3
+         JP7      5
+         JP8      1
+         JP8      3
+         JP8      5
+         JP9      1
+         JP9      3
+         JP9      5
+
+BLANK    IC1      2
+         JP1      2
+         JP10     2
+         R3       1
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       -
+         IC1      1
+         IC1      EXP
+         IC2      3
+         J1       2
+         JP1      5
+         JP10     5
+         R1       1
+         R2       1
+         R3       2
+
+N$1      LED1     C
+         R2       2
+
+N$7      IC1      31
+         R1       2
+
+N$8      IC1      5
+         JP2      2
+
+N$9      IC1      6
+         JP2      4
+
+N$10     IC1      7
+         JP2      6
+
+N$11     IC1      8
+         JP3      2
+
+N$12     IC1      9
+         JP3      4
+
+N$13     IC1      10
+         JP3      6
+
+N$14     IC1      11
+         JP4      2
+
+N$15     IC1      12
+         JP4      4
+
+N$16     IC1      13
+         JP4      6
+
+N$17     IC1      14
+         JP5      2
+
+N$18     IC1      15
+         JP5      4
+
+N$19     IC1      16
+         JP5      6
+
+N$20     IC1      26
+         JP9      2
+
+N$21     IC1      27
+         JP9      4
+
+N$22     IC1      28
+         JP9      6
+
+N$23     IC1      23
+         JP8      2
+
+N$24     IC1      24
+         JP8      4
+
+N$25     IC1      25
+         JP8      6
+
+N$26     IC1      20
+         JP7      2
+
+N$27     IC1      21
+         JP7      4
+
+N$28     IC1      22
+         JP7      6
+
+N$29     IC1      17
+         JP6      2
+
+N$30     IC1      18
+         JP6      4
+
+N$31     IC1      19
+         JP6      6
+
+SCLK     IC1      3
+         JP1      3
+         JP10     3
+
+SIN      IC1      4
+         JP1      4
+
+SOUT     IC1      29
+         JP10     4
+
+VCC      C1       1
+         C3       1
+         IC1      32
+         IC2      2
+         JP11     1
+         LED1     A
+
+XLAT     IC1      30
+         JP1      1
+         JP10     1
+

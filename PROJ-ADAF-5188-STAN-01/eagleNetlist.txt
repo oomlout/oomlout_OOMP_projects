@@ -1,0 +1,71 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RTC_RST IC2      4
+         JP1      8
+
+32KHZ    IC2      1
+         JP1      6
+
+GND      B1       -
+         C3       2
+         C5       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D1       C
+         IC2      10
+         IC2      11
+         IC2      12
+         IC2      13
+         IC2      5
+         IC2      6
+         IC2      7
+         IC2      8
+         IC2      9
+         JP1      2
+
+N$1      R3       2
+         SJ1      2
+
+N$4      D1       A
+         R3       1
+
+SCL      CONN3    4
+         CONN4    4
+         IC2      16
+         JP1      3
+         R1       1
+
+SDA      CONN3    3
+         CONN4    3
+         IC2      15
+         JP1      4
+         R2       1
+
+SQW      IC2      3
+         JP1      7
+
+VBAT     B1       +$1
+         B1       +$2
+         IC2      14
+         JP1      5
+
+VCC      C3       1
+         C5       1
+         CONN3    2
+         CONN4    2
+         IC2      2
+         JP1      1
+         R1       2
+         R2       2
+         SJ1      1
+

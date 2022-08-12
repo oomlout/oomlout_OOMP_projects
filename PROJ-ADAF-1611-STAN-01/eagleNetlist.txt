@@ -1,0 +1,205 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 19:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+COM0     D4       A
+         LED1     K13
+         LED1     K14
+         LED1     K15
+         LED1     K16
+         U1       P$2
+
+COM1     D1       A
+         LED1     K10
+         LED1     K11
+         LED1     K12
+         LED1     K9
+         U1       P$3
+
+COM2     D2       A
+         LED1     K5
+         LED1     K6
+         LED1     K7
+         LED1     K8
+         U1       P$4
+
+COM3     LED1     K1
+         LED1     K2
+         LED1     K3
+         LED1     K4
+         U1       P$5
+
+GND      C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         JP1      3
+         JP2      3
+         JP3      3
+         JP4      3
+         U1       P$1
+
+INT      D13      A
+         JP1      1
+         JP2      1
+         JP3      1
+         JP4      1
+
+N$1      D2       C
+         SW1      B1
+         SW1      B10
+         SW1      B13
+         SW1      B9
+
+N$2      D13      C
+         U1       P$10
+
+N$3      D5       A
+         SW1      A9
+
+N$4      D6       A
+         SW1      A10
+
+N$5      D1       C
+         SW1      B11
+         SW1      B12
+         SW1      B14
+         SW1      B15
+         SW1      B16
+         SW1      B2
+         SW1      B3
+         SW1      B4
+         SW1      B5
+         SW1      B6
+         SW1      B7
+         SW1      B8
+
+N$6      D7       A
+         SW1      A11
+
+N$7      D8       A
+         SW1      A1
+
+N$8      D9       A
+         SW1      A2
+
+N$9      A2       1
+         R5       2
+
+N$10     D10      A
+         SW1      A13
+
+N$11     D11      A
+         SW1      A14
+
+N$12     D12      A
+         SW1      A5
+
+N$16     D4       C
+         R3       1
+         R4       1
+         R5       1
+
+N$19     A1       1
+         R3       2
+
+N$20     A0       1
+         R4       2
+
+R0       A2       2
+         LED1     A9
+         U1       P$25
+
+R1       A1       2
+         LED1     A10
+         U1       P$24
+
+R2       A0       2
+         LED1     A13
+         U1       P$23
+
+R3       LED1     A6
+         SW1      A6
+         U1       P$22
+
+R4       D12      C
+         D5       C
+         LED1     A1
+         LED1     A5
+         U1       P$21
+
+R5       D8       C
+         D9       C
+         LED1     A2
+         U1       P$20
+
+R6       LED1     A12
+         SW1      A12
+         U1       P$19
+
+R7       LED1     A3
+         SW1      A3
+         U1       P$18
+
+R8       LED1     A8
+         SW1      A8
+         U1       P$17
+
+R9       LED1     A7
+         SW1      A7
+         U1       P$16
+
+R10      LED1     A4
+         SW1      A4
+         U1       P$15
+
+R11      D6       C
+         D7       C
+         LED1     A11
+         U1       P$14
+
+R12      D10      C
+         D11      C
+         LED1     A14
+         U1       P$13
+
+R13      LED1     A15
+         SW1      A15
+         U1       P$12
+
+R14      LED1     A16
+         SW1      A16
+         U1       P$11
+
+SCL      JP1      4
+         JP2      4
+         JP3      4
+         JP4      4
+         R1       1
+         U1       P$26
+
+SDA      JP1      5
+         JP2      5
+         JP3      5
+         JP4      5
+         R2       2
+         U1       P$27
+
+VCC      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         JP1      2
+         JP2      2
+         JP3      2
+         JP4      2
+         R1       2
+         R2       1
+         U1       P$28
+

@@ -1,0 +1,219 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3V       JP3      5
+          M1       3V
+
++5V       C3       1
+          IC4      1
+          IC4      3
+          JP3      4
+          M1       5V
+          R3       1
+
+3.3V      C1       1
+          C2       1
+          IC1      5
+          IC4      5
+          Q1       1
+          R4       1
+          R5       1
+          U1       14
+          U1       3
+
+A0        JP4      6
+          M1       A0
+
+A1        JP4      5
+          M1       A1
+
+A2        JP4      4
+          M1       A2
+
+A3        JP4      3
+          M1       A3
+
+A4        JP4      2
+          M1       A4
+
+A5        JP4      1
+          M1       A5
+
+AREF      JP5      3
+          M1       AREF
+
+BLE_CS    CS_JMP   2
+          D3       C
+          JP1      1
+
+BLE_CS_3V D3       A
+          R5       2
+          U1       7
+
+BLE_IRQ   IRQ_JMP  2
+          JP6      1
+          U1       8
+
+BLE_RST   JP7      1
+          Q1       3
+          R3       2
+          RST_JMP  2
+
+CONNECTED R10      1
+          U1       39
+
+D4        JP2      4
+          M1       D4
+          RST_JMP  1
+
+D7        IRQ_JMP  1
+          JP2      1
+          M1       D7
+
+D8        CS_JMP   1
+          JP5      10
+          M1       D8
+
+D11       JP5      7
+          M1       D11
+          SJ7      2
+
+D12       JP5      6
+          M1       D12
+          SJ5      2
+
+D13       JP5      5
+          M1       D13
+          SJ6      2
+
+DCC       U1       15
+
+DEC2      U1       41
+
+DFU       SW1      A
+          SW1      A'
+          U1       24
+
+FCTRYRST  JP8      1
+          U1       34
+
+GND       C1       2
+          C2       2
+          C3       2
+          D1       C
+          D2       C
+          IC1      2
+          IC4      2
+          JP3      2
+          JP3      3
+          JP5      4
+          M1       GND
+          M1       GND@1
+          M1       GND@3
+          SW1      B
+          SW1      B'
+          SW2      A
+          SW2      A'
+          U1       1
+          U1       13
+          U1       16
+          U1       2
+          U1       25
+          U1       42
+
+IOREF     JP3      7
+          M1       IOREF
+
+MISO      JP9      1
+          SJ2      2
+          SJ5      1
+          U1       5
+
+MISO_ICSP M1       MISO
+          SJ2      1
+
+MODE      R1       1
+          U1       38
+
+MOSI      IC1      3
+          JP11     1
+          SJ4      2
+          SJ7      1
+
+MOSI_3V   IC1      4
+          U1       6
+
+MOSI_ICSP M1       MOSI
+          SJ4      1
+
+N$5       D1       A
+          R1       2
+
+N$6       D2       A
+          R10      2
+
+N$11      JP2      2
+          M1       D6
+
+N$12      JP2      3
+          M1       D5
+
+N$14      JP2      5
+          M1       D3
+
+N$15      JP2      6
+          M1       D2
+
+N$16      JP2      7
+          M1       D1
+
+N$17      JP2      8
+          M1       D0
+
+N$36      JP5      8
+          M1       D10
+
+N$37      JP5      9
+          M1       D9
+
+NC        JP3      8
+          M1       RESERVED
+
+RESET     JP3      6
+          M1       RESET
+          SW2      B
+          SW2      B'
+
+SCK       IC1      1
+          JP10     1
+          SJ3      2
+          SJ6      1
+
+SCK_3V    IC1      6
+          U1       4
+
+SCK_ICSP  M1       SCK
+          SJ3      1
+
+SCL       JP5      1
+          M1       SCL
+
+SDA       JP5      2
+          M1       SDA
+
+SWCLK     JP8      3
+          U1       36
+
+SWDIO/RST JP8      2
+          Q1       2
+          R4       2
+          U1       35
+
+VIN       JP3      1
+          M1       VIN
+

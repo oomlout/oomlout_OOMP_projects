@@ -1,0 +1,60 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 20:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3.3V     JP1      1
+
++3.3V_2   JP1      17
+
++5V       JP1      2
+
++5V_2     JP1      4
+
+CE0       JP1      24
+
+CE1       JP1      26
+
+CLK       JP1      23
+
+GND       JP1      9
+
+GND2      JP1      25
+
+GND3      JP1      20
+
+GND4      JP1      14
+
+GND5      JP1      6
+
+GPIO4     JP1      7
+
+GPIO17    JP1      11
+
+GPIO18    JP1      12
+
+GPIO22    JP1      15
+
+GPIO23    JP1      16
+
+GPIO24    JP1      18
+
+GPIO25    JP1      22
+
+GPIO27    JP1      13
+
+MISO      JP1      21
+
+MOSI      JP1      19
+
+RXD       JP1      10
+
+SCL       JP1      5
+
+SDA       JP1      3
+
+TXD       JP1      8
+

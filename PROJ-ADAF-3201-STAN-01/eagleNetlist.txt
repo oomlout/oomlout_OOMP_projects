@@ -1,0 +1,233 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 21:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C14      1
+          C15      1
+          FB2      1
+          IC1      5
+          JP2      12
+          MS1      2
+          R15      2
+          R3       2
+          R5       1
+          R6       1
+          R7       1
+          R8       1
+          U$1      28
+          X1       10
+          X1       12
+
+AGND      C10      2
+          C11      2
+          C12      2
+          C13      2
+          C5       2
+          C6       2
+          C7       2
+          C8       2
+          C9       2
+          FB1      2
+          R1       2
+          U$1      14
+          U$1      16
+          U$1      19
+          U$1      3
+          U$1      48
+          U$1      9
+
+AVDD      C10      1
+          C11      1
+          C7       1
+          C8       1
+          C9       1
+          FB2      2
+          R12      2
+          R4       2
+          R9       2
+          U$1      11
+          U$1      15
+          U$1      17
+          U$1      21
+          U$1      4
+          U$1      8
+
+CS        IC1      1
+          JP1      1
+          R15      1
+          SJ4      1
+          U$1      32
+
+GND       C1       2
+          C14      2
+          C15      2
+          C2       2
+          FB1      1
+          IC1      3
+          JP2      10
+          MS1      4
+          SJ1      2
+          SJ2      2
+          SJ3      2
+          SW1      A
+          SW1      A'
+          U$1      23
+          U$1      29
+          X1       4
+          X1       5
+
+GREENLED  R14      1
+          X1       9
+
+IRQ       JP1      2
+          R3       1
+          U$1      36
+
+MISO      IC1      2
+          U$1      34
+
+MISO_MCU  IC1      4
+          JP2      1
+          MS1      13
+
+MOSI      JP2      2
+          MS1      12
+          U$1      35
+
+N$1       C1       1
+          R2       1
+          U$1      31
+          Y1       1
+
+N$2       C2       1
+          R2       2
+          U$1      30
+          Y1       2
+
+N$3       R1       1
+          U$1      10
+
+N$4       R5       2
+          SJ1      1
+          U$1      45
+
+N$5       R6       2
+          SJ2      1
+          U$1      44
+
+N$6       R7       2
+          SJ3      1
+          U$1      43
+
+N$7       C3       1
+          X1       7
+
+N$8       C4       1
+          X1       8
+
+N$9       C5       1
+          R10      1
+          R11      1
+          X1       6
+
+N$10      C6       1
+          R12      1
+          X1       3
+
+N$11      C13      1
+          U$1      22
+
+N$12      C12      1
+          U$1      20
+
+N$13      R13      2
+          U$1      27
+
+N$14      R14      2
+          U$1      25
+
+N$15      JP4      2
+          MS1      27
+
+N$16      JP4      4
+          MS1      25
+
+N$17      JP4      5
+          MS1      24
+
+N$18      JP4      6
+          MS1      23
+
+N$19      JP4      7
+          MS1      22
+          SJ4      2
+
+N$20      JP4      8
+          MS1      21
+
+N$21      JP4      9
+          MS1      20
+
+N$22      JP2      13
+          MS1      1
+          SW1      B
+          SW1      B'
+
+N$28      JP2      4
+          MS1      10
+
+N$29      JP2      5
+          MS1      9
+
+N$30      JP2      6
+          MS1      8
+
+N$31      JP2      7
+          MS1      7
+
+N$32      JP2      8
+          MS1      6
+
+N$33      JP2      9
+          MS1      5
+
+N$34      JP2      11
+          MS1      3
+
+RESET     JP1      3
+          R8       2
+          U$1      37
+
+RX+       C3       2
+          R10      2
+          U$1      6
+
+RX-       C4       2
+          R11      2
+          U$1      5
+
+SCK       JP2      3
+          MS1      11
+          U$1      33
+
+TX+       R4       1
+          U$1      2
+          X1       1
+
+TX-       R9       1
+          U$1      1
+          X1       2
+
+USB       JP4      3
+          MS1      26
+
+VBAT      JP4      1
+          MS1      28
+
+YELLOWLED R13      1
+          X1       11
+

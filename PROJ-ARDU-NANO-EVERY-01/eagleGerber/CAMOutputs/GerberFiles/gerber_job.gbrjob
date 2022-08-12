@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-08-08T08:55:22Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.805,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "boardEagle"
+        },
+        "Owner": "oom lout <aaron.oomlout@gmail.com>",
+        "Size": {
+            "X": 43.18,
+            "Y": 17.78
+        }
+    }
+}

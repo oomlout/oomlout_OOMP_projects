@@ -1,0 +1,143 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 22:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C3       1
+          JP3      4
+          R1       5
+          R1       6
+          R1       7
+          R1       8
+          R10      2
+          R11      2
+          R2       5
+          R2       6
+          R2       7
+          R2       8
+          R9       2
+          U1       23
+          U2       5
+
+ADDR      JP3      13
+          R13      2
+          U1       14
+
+CS        JP3      2
+          U1       1
+
+CS1       JP3      5
+          U1       22
+
+CS2       JP3      6
+          U1       21
+
+CS3       JP3      7
+          U1       20
+
+CS4       JP3      8
+          U1       19
+
+CS5       JP3      9
+          U1       18
+
+CS6       JP3      10
+          U1       17
+
+CS7       JP3      11
+          U1       16
+
+CS8       JP3      12
+          U1       15
+
+GND       C2       2
+          C3       2
+          JP4      4
+          R12      1
+          R13      1
+          U1       THERM
+          U2       2
+
+IRQ       JP4      13
+          R11      1
+          U1       13
+
+LED1      JP4      5
+          LED1     C
+          U1       5
+
+LED2      JP4      6
+          LED2     C
+          U1       6
+
+LED3      JP4      7
+          LED3     C
+          U1       7
+
+LED4      JP4      8
+          LED4     C
+          U1       8
+
+LED5      JP4      9
+          LED5     C
+          U1       9
+
+LED6      JP4      10
+          LED6     C
+          U1       10
+
+LED7      JP4      11
+          LED7     C
+          U1       11
+
+LED8      JP4      12
+          LED8     C
+          U1       12
+
+N$1       LED1     A
+          R1       1
+
+N$2       LED2     A
+          R1       2
+
+N$3       LED3     A
+          R1       3
+
+N$4       LED4     A
+          R1       4
+
+N$5       LED5     A
+          R2       1
+
+N$6       LED6     A
+          R2       2
+
+N$7       LED7     A
+          R2       3
+
+N$8       LED8     A
+          R2       4
+
+RESET     JP3      3
+          R12      2
+          U1       24
+
+SCK       JP4      2
+          R10      1
+          U1       4
+
+SDA/MISO  JP4      1
+          R9       1
+          U1       3
+
+VIN       C2       1
+          JP4      3
+          U2       1
+          U2       3
+
+WAKE/MOSI JP3      1
+          U1       2
+

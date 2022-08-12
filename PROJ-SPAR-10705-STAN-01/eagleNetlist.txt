@@ -1,0 +1,208 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 11:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++15V     JP2      1
+         JP3      20
+         JP4      20
+
+-15V     JP2      2
+         JP3      19
+         JP4      19
+
+5V       JP2      20
+         JP3      1
+         JP4      1
+         JP6      1
+         JP6      10
+         JP6      11
+         JP6      12
+         JP6      13
+         JP6      14
+         JP6      15
+         JP6      16
+         JP6      17
+         JP6      18
+         JP6      19
+         JP6      2
+         JP6      20
+         JP6      21
+         JP6      22
+         JP6      23
+         JP6      24
+         JP6      25
+         JP6      26
+         JP6      27
+         JP6      28
+         JP6      29
+         JP6      3
+         JP6      30
+         JP6      4
+         JP6      5
+         JP6      6
+         JP6      7
+         JP6      8
+         JP6      9
+         JP8      1
+         JP8      10
+         JP8      11
+         JP8      12
+         JP8      13
+         JP8      14
+         JP8      15
+         JP8      16
+         JP8      17
+         JP8      18
+         JP8      19
+         JP8      2
+         JP8      20
+         JP8      21
+         JP8      22
+         JP8      23
+         JP8      24
+         JP8      25
+         JP8      26
+         JP8      27
+         JP8      28
+         JP8      29
+         JP8      3
+         JP8      30
+         JP8      4
+         JP8      5
+         JP8      6
+         JP8      7
+         JP8      8
+         JP8      9
+
+AGND_15V JP2      3
+         JP3      18
+         JP4      18
+
+AGND_IO  JP2      6
+         JP3      15
+         JP4      15
+
+AI0+     JP2      7
+         JP3      14
+         JP4      14
+
+AI0-     JP2      8
+         JP3      13
+         JP4      13
+
+AI1+     JP2      9
+         JP3      12
+         JP4      12
+
+AI1-     JP2      10
+         JP3      11
+         JP4      11
+
+AO0      JP2      4
+         JP3      17
+         JP4      17
+
+AO1      JP2      5
+         JP3      16
+         JP4      16
+
+DIO0     JP2      11
+         JP3      10
+         JP4      10
+
+DIO1     JP2      12
+         JP3      9
+         JP4      9
+
+DIO2     JP2      13
+         JP3      8
+         JP4      8
+
+DIO3     JP2      14
+         JP3      7
+         JP4      7
+
+DIO4     JP2      15
+         JP3      6
+         JP4      6
+
+DIO5     JP2      16
+         JP3      5
+         JP4      5
+
+DIO6     JP2      17
+         JP3      4
+         JP4      4
+
+DIO7     JP2      18
+         JP3      3
+         JP4      3
+
+GND      JP2      19
+         JP3      2
+         JP4      2
+         JP5      1
+         JP5      10
+         JP5      11
+         JP5      12
+         JP5      13
+         JP5      14
+         JP5      15
+         JP5      16
+         JP5      17
+         JP5      18
+         JP5      19
+         JP5      2
+         JP5      20
+         JP5      21
+         JP5      22
+         JP5      23
+         JP5      24
+         JP5      25
+         JP5      26
+         JP5      27
+         JP5      28
+         JP5      29
+         JP5      3
+         JP5      30
+         JP5      4
+         JP5      5
+         JP5      6
+         JP5      7
+         JP5      8
+         JP5      9
+         JP7      1
+         JP7      10
+         JP7      11
+         JP7      12
+         JP7      13
+         JP7      14
+         JP7      15
+         JP7      16
+         JP7      17
+         JP7      18
+         JP7      19
+         JP7      2
+         JP7      20
+         JP7      21
+         JP7      22
+         JP7      23
+         JP7      24
+         JP7      25
+         JP7      26
+         JP7      27
+         JP7      28
+         JP7      29
+         JP7      3
+         JP7      30
+         JP7      4
+         JP7      5
+         JP7      6
+         JP7      7
+         JP7      8
+         JP7      9
+

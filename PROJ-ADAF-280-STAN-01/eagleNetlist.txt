@@ -1,0 +1,79 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+BATT+    BATT_IN  2
+         BATT_OUT 2
+         C4       +
+         IC1      12
+         IC1      13
+         IC1      14
+         IN       2
+         OUT      2
+
+GND      BATT_IN  1
+         BATT_OUT 1
+         C3       2
+         C4       -
+         C5       -
+         IC1      11
+         IC1      15
+         IC1      6
+         IN       1
+         OUT      1
+         PG       C
+         R1       1
+         R7       2
+         RTH      1
+         U$1      GND
+         U$1      GNDBREAK
+         USB      GND
+         VIN      1
+
+N$4      D1       A
+         USB      VBUS
+
+N$5      IC1      7
+         R1       2
+
+N$7      CHG      C
+         IC1      2
+         STAT3    1
+
+N$8      ERR      C
+         IC1      1
+         STAT4    1
+
+N$9      C3       1
+         IC1      10
+
+N$10     IC1      8
+         R6       2
+
+N$11     IC1      9
+         R6       1
+         R7       1
+         RTH      2
+
+N$16     PG       A
+         R11      2
+
+N$17     D2       A
+         U$1      PWR2
+
+VCC      C5       +
+         CHG      A
+         D1       C
+         D2       C
+         ERR      A
+         IC1      16
+         IC1      3
+         IC1      4
+         IC1      5
+         R11      1
+         VIN      2
+

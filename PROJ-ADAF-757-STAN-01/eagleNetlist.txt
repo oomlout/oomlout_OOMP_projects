@@ -1,0 +1,59 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 09:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++3V3     JP3      6
+         Q1       1
+         Q2       1
+         Q3       1
+         Q4       1
+         R1       2
+         R4       1
+         R5       1
+         R8       1
+
++5V      JP4      6
+         R2       2
+         R3       1
+         R6       1
+         R7       1
+
+GND      JP3      1
+         JP4      1
+
+N$1      JP4      3
+         Q3       3
+         R6       2
+
+N$2      JP4      5
+         Q1       3
+         R2       1
+
+N$3      JP3      3
+         Q3       2
+         R5       2
+
+N$4      JP3      2
+         Q4       2
+         R8       2
+
+N$5      JP4      2
+         Q4       3
+         R7       2
+
+N$6      JP3      4
+         Q2       2
+         R4       2
+
+N$8      JP4      4
+         Q2       3
+         R3       2
+
+N$9      JP3      5
+         Q1       2
+         R1       1
+

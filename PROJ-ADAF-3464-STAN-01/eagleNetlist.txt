@@ -1,0 +1,125 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      RPI1     2
+         RPI1     4
+
+3.3V     JOY1     X+
+         JOY1     Y+
+         RPI1     1
+         RPI1     17
+         U1       8
+
+A        RPI1     32
+         SW5      B
+         SW5      B'
+
+B        RPI1     31
+         SW4      B
+         SW4      B'
+
+BCLK     RPI1     12
+
+DIN      RPI1     40
+
+EECLK    RPI1     28
+
+EEDATA   RPI1     27
+
+GND      1        A
+         1        A'
+         2        A
+         2        A'
+         JOY1     X-
+         JOY1     Y-
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         SW1      A
+         SW1      A'
+         SW2      A
+         SW2      A'
+         SW3      A
+         SW3      A'
+         SW4      A
+         SW4      A'
+         SW5      A
+         SW5      A'
+         SW8      A
+         SW8      A'
+         U1       3
+
+GPIO4    RPI1     7
+
+GPIO5    RPI1     29
+
+GPIO17   RPI1     11
+
+GPIO24   RPI1     18
+
+GPIO25   RPI1     22
+
+GPIO27   RPI1     13
+
+JOYHORIZ JOY1     Y
+         U1       4
+
+JOYVERT  JOY1     X
+         U1       5
+
+LRCLK    RPI1     35
+
+PLAYER1  2        B
+         2        B'
+         RPI1     15
+
+PLAYER2  1        B
+         1        B'
+         RPI1     16
+
+RXD      RPI1     10
+
+SCL      RPI1     5
+         U1       10
+
+SDA      RPI1     3
+         U1       9
+
+SELECT   RPI1     38
+         SW8      B
+         SW8      B'
+
+SPI_CE0  RPI1     24
+
+SPI_CE1  RPI1     26
+
+SPI_MISO RPI1     21
+
+SPI_MOSI RPI1     19
+
+SPI_SCLK RPI1     23
+
+START    RPI1     37
+         SW1      B
+         SW1      B'
+
+TXD      RPI1     8
+
+X        RPI1     36
+         SW3      B
+         SW3      B'
+
+Y        RPI1     33
+         SW2      B
+         SW2      B'
+

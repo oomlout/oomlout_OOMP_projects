@@ -1,0 +1,219 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   JP4      6
+         SW2      A
+         SW2      A'
+         U$41     RESET
+
++3V      JP4      5
+         U$41     3V
+
++5V      C5       1
+         JP4      4
+         R2       2
+         R4       2
+         U$41     5V
+         U4       1
+         U4       3
+
+3.3V     C2       1
+         C3       1
+         Q1       1
+         Q2       1
+         R1       2
+         R3       2
+         R7       2
+         U2       20
+         U4       5
+
+A0       JP8      6
+         U$41     A0
+
+A1       JP8      5
+         U$41     A1
+
+A2       JP8      4
+         U$41     A2
+
+A3       JP8      3
+         U$41     A3
+
+A4       JP8      2
+         U$41     A4
+
+A5       JP8      1
+         U$41     A5
+
+ADDR     ADDR     1
+         R6       2
+         U2       4
+
+AREF     JP6      3
+         U$41     AREF
+
+D0       JP1      8
+         U$41     D0
+
+D1       JP1      7
+         U$41     D1
+
+D2       JP1      6
+         U$41     D2
+
+D3       JP1      5
+         U$41     D3
+
+D4       JP1      4
+         U$41     D4
+
+D5       JP1      3
+         U$41     D5
+
+D6       JP1      2
+         U$41     D6
+
+D7       JP1      1
+         U$41     D7
+
+D8       JP6      10
+         U$41     D8
+
+D9       JP6      9
+         U$41     D9
+
+D10      JP6      8
+         U$41     D10
+
+D11      JP6      7
+         U$41     D11
+
+D12      JP6      6
+         U$41     D12
+
+D13      JP6      5
+         U$41     D13
+
+ELEC0    AL1      P$1
+         AL1      P$2
+         JP16     1
+         U2       8
+
+ELEC1    AL2      P$1
+         AL2      P$2
+         JP15     1
+         U2       9
+
+ELEC2    AL3      P$1
+         AL3      P$2
+         JP14     1
+         U2       10
+
+ELEC3    AL4      P$1
+         AL4      P$2
+         JP13     1
+         U2       11
+
+ELEC4    AL5      P$1
+         AL5      P$2
+         JP12     1
+         U2       12
+
+ELEC5    AL6      P$1
+         AL6      P$2
+         JP11     1
+         U2       13
+
+ELEC6    AL7      P$1
+         AL7      P$2
+         JP10     1
+         U2       14
+
+ELEC7    AL8      P$1
+         AL8      P$2
+         JP9      1
+         U2       15
+
+ELEC8    AL9      P$1
+         AL9      P$2
+         JP7      1
+         U2       16
+
+ELEC9    AL10     P$1
+         AL10     P$2
+         JP5      1
+         U2       17
+
+ELEC10   AL11     P$1
+         AL11     P$2
+         JP3      1
+         U2       18
+
+ELEC11   AL12     P$1
+         AL12     P$2
+         JP2      1
+         U2       19
+
+GND      C2       2
+         C3       2
+         C4       2
+         C5       2
+         JP4      2
+         JP4      3
+         JP6      4
+         R5       1
+         R6       1
+         SW2      B
+         SW2      B'
+         U$41     GND
+         U$41     GND@1
+         U$41     GND@2
+         U$41     GND@3
+         U2       6
+         U4       2
+
+IORESET  JP4      7
+         U$41     IOREF
+
+IRQ      D1       C
+         IRQ      1
+         U2       1
+
+N$114    C4       1
+         U2       5
+
+N$115    R5       2
+         U2       7
+
+N$116    D1       A
+         R7       1
+
+NC       JP4      8
+         U$41     RESERVED
+
+SCL      JP6      1
+         Q2       3
+         R4       1
+         U$41     SCL
+
+SCL_3V   Q2       2
+         R3       1
+         U2       2
+
+SDA      JP6      2
+         Q1       3
+         R2       1
+         U$41     SDA
+
+SDA_3V   Q1       2
+         R1       1
+         U2       3
+
+VIN      JP4      1
+         U$41     VIN
+

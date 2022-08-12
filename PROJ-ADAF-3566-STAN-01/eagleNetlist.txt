@@ -1,0 +1,80 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!INT     JP3      8
+         U3       3
+
+!RESET   D1       C
+         JP3      7
+
+!RST_3V  D1       A
+         R2       2
+         U3       2
+
+!WAKE    D2       C
+         JP3      6
+
+!WAKE_3V D2       A
+         R2       3
+         U3       7
+
+3.3V     C1       1
+         C3       1
+         JP3      2
+         Q3       2
+         Q3       5
+         R1       3
+         R1       4
+         R2       6
+         R2       7
+         R2       8
+         U2       5
+         U3       6
+
+GND      C1       2
+         C2       2
+         C3       2
+         JP3      3
+         R2       5
+         U2       2
+         U3       THERMAL
+
+N$1      R5       2
+         U3       4
+         U3       5
+
+N$2      R2       1
+         R5       1
+         U3       8
+
+N$3      R2       4
+         U3       1
+
+SCL      JP3      5
+         Q3       6
+         R1       8
+
+SCL_3V   Q3       1
+         R1       5
+         U3       10
+
+SDA      JP3      4
+         Q3       3
+         R1       7
+
+SDA_3V   Q3       4
+         R1       6
+         U3       9
+
+VIN      C2       1
+         JP3      1
+         R1       1
+         R1       2
+         U2       1
+         U2       3
+

@@ -1,0 +1,72 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 01:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+1PPS     JP1      1
+         U1       P$13
+
+3.3V     C1       1
+         C2       1
+         FB1      2
+         JP1      9
+         R3       1
+         U1       P$1
+
+ENABLE   JP1      8
+         R2       1
+         U2       3
+
+FIX      JP1      6
+         LED1     A
+         U1       P$5
+
+GND      B1       -
+         C1       2
+         C2       2
+         C3       2
+         JP1      3
+         R1       1
+         U$20     P$1
+         U$20     P$2
+         U1       P$12
+         U1       P$19
+         U1       P$3
+         U1       P$8
+         U2       2
+
+N$1      B1       +$1
+         B1       +$2
+         D2       A
+
+N$2      LED1     C
+         R1       2
+
+N$3      FB1      1
+         U2       5
+
+N$4      U$20     P$3
+         U1       P$11
+
+RX       D1       C
+         JP1      4
+
+RX_3V    D1       A
+         R3       2
+         U1       P$10
+
+TX       JP1      5
+         U1       P$9
+
+VBACKUP  D2       C
+         JP1      7
+         U1       P$4
+
+VIN      C3       1
+         JP1      2
+         R2       2
+         U2       1
+

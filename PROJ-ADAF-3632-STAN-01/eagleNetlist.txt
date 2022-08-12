@@ -1,0 +1,137 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!RESET    IC1      18
+          MS1      1
+          SW7      B
+          SW7      B'
+
+3.3V      IC1      24
+          JOY1     X+
+          JOY1     Y+
+          MS1      2
+          R3       2
+          R4       2
+          R5       2
+
+GND       D1       C
+          DOWN     A
+          DOWN     A'
+          IC1      23
+          IC1      THERM
+          JOY1     X-
+          JOY1     Y-
+          LEFT     A
+          LEFT     A'
+          MS1      4
+          RIGHT    A
+          RIGHT    A'
+          SJ8      2
+          SJ9      2
+          SW6      A
+          SW6      A'
+          SW7      A
+          SW7      A'
+          UP       A
+          UP       A'
+
+N$1       MS1      19
+          SJ1      1
+
+N$2       MS1      20
+          SJ2      1
+
+N$3       MS1      21
+          SJ3      1
+
+N$4       MS1      22
+          SJ4      1
+
+N$5       IC1      17
+          R2       1
+
+N$6       MS1      23
+          SJ5      1
+
+N$7       MS1      24
+          SJ6      1
+
+N$8       MS1      25
+          SJ7      1
+
+N$9       D1       A
+          R2       2
+
+PA02_A0   IC1      1
+          JOY1     Y
+
+PA03_A1   IC1      2
+          JOY1     X
+
+PA04_A2   IC1      3
+          SJ1      2
+          SJ2      2
+          SJ3      2
+          SJ4      2
+          SJ5      2
+          SJ6      2
+          SJ7      2
+
+PA05_A3   IC1      4
+
+PA06_A4   IC1      5
+          RIGHT    B
+          RIGHT    B'
+
+PA07_A5   DOWN     B
+          DOWN     B'
+          IC1      6
+
+PA08_XOSC IC1      7
+
+PA09_XOSC IC1      8
+          LEFT     B
+          LEFT     B'
+
+PA10_A18  IC1      9
+          UP       B
+          UP       B'
+
+PA11_A19  IC1      10
+
+PA14      IC1      11
+          SW6      B
+          SW6      B'
+
+PA15      IC1      12
+
+PA16_D16  IC1      13
+          SJ9      1
+
+PA17_D17  IC1      14
+          SJ8      1
+
+PA22_SDA  IC1      15
+          MS1      17
+          R3       1
+
+PA23_SCL  IC1      16
+          MS1      18
+          R4       1
+
+PA24_D-   IC1      21
+
+PA25_D+   IC1      22
+
+SWCLK     IC1      19
+          R5       1
+          TP1      P$1
+
+SWDIO     IC1      20
+          TP2      P$1
+

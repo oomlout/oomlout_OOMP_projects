@@ -1,0 +1,126 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3V       JP3      15
+         MS1      2
+         X1       1
+         X3       1
+         X3       2
+
+AREF     JP3      14
+         MS1      3
+         X5       3
+
+ENABLE   JP1      2
+         MS1      27
+         S2       3
+         X10      1
+
+GND      JP3      13
+         MS1      4
+         S2       2
+         X5       2
+         X9       1
+         X9       2
+
+N$2      JP3      1
+         MS1      16
+         X2       1
+
+N$3      JP1      4
+         MS1      25
+         X10      3
+
+N$4      JP3      2
+         MS1      15
+         X2       2
+
+N$5      JP1      5
+         MS1      24
+         X11      1
+
+N$6      JP3      3
+         MS1      14
+         X8       1
+
+N$7      JP3      4
+         MS1      13
+         X8       2
+
+N$8      JP3      5
+         MS1      12
+         X8       3
+
+N$9      JP3      6
+         MS1      11
+         X7       1
+
+N$10     JP3      7
+         MS1      10
+         X7       2
+
+N$11     JP3      8
+         MS1      9
+         X7       3
+
+N$12     JP3      9
+         MS1      8
+         X6       1
+
+N$13     JP3      10
+         MS1      7
+         X6       2
+
+N$14     JP3      11
+         MS1      6
+         X6       3
+
+N$15     JP3      12
+         MS1      5
+         X5       1
+
+N$18     JP3      16
+         MS1      1
+         X1       2
+
+N$19     JP1      6
+         MS1      23
+         X11      2
+
+N$20     JP1      7
+         MS1      22
+         X11      3
+
+N$21     JP1      8
+         MS1      21
+         X12      1
+
+N$22     JP1      9
+         MS1      20
+         X12      2
+
+N$23     JP1      10
+         MS1      19
+         X12      3
+
+SCL      JP1      11
+         MS1      18
+         X4       1
+
+SDA      JP1      12
+         MS1      17
+         X4       2
+
+USB      JP1      3
+         MS1      26
+         X10      2
+
+VBAT     JP1      1
+         MS1      28
+         X9       3
+

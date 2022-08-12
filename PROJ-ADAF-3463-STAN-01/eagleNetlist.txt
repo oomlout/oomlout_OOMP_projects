@@ -1,0 +1,115 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C3       1
+         C4       1
+         C6       1
+         JP1      5
+         Q1       1
+         Q2       1
+         R1       2
+         R2       2
+         R5       1
+         R6       2
+         U1       5
+         U2       1
+         U2       10
+         U2       14
+         U2       7
+         U4       13
+         U4       15
+         U4       17
+         U4       18
+
+ACC_RST  Q3       3
+         R5       2
+         U2       16
+
+AINT1    JP2      3
+         U2       11
+
+AINT2    JP2      4
+         U2       9
+
+GINT1    JP2      1
+         U4       3
+
+GINT2    JP2      2
+         U4       2
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         JP1      4
+         Q3       2
+         U1       2
+         U2       12
+         U2       13
+         U2       3
+         U2       5
+         U4       1
+         U4       10
+         U4       14
+         U4       19
+         U4       20
+         U4       21
+         U4       22
+         U4       23
+         U4       24
+         U4       5
+         U4       6
+         U4       7
+         U4       8
+         U4       9
+
+N$1      C2       1
+         U4       16
+
+N$24     C5       1
+         U2       2
+
+N$26     C7       1
+         U2       8
+
+RST      D1       C
+         JP1      1
+
+RST_3V   D1       A
+         Q3       1
+         R6       1
+         U4       4
+
+SCL      JP1      3
+         Q2       3
+         R4       1
+
+SCL_3V   Q2       2
+         R2       1
+         U2       4
+         U4       11
+
+SDA      JP1      2
+         Q1       3
+         R3       1
+
+SDA_3V   Q1       2
+         R1       1
+         U2       6
+         U4       12
+
+VIN      C1       1
+         JP1      6
+         R3       2
+         R4       2
+         U1       1
+         U1       3
+

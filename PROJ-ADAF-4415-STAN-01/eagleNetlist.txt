@@ -1,0 +1,97 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   JP1      6
+         X1       6
+
+1PPS     D3       A
+         JP2      2
+         X1       3
+
+3.3V     C1       1
+         C3       1
+         D1       A
+         FB1      2
+         JP1      2
+         Q2       2
+         Q2       5
+         R1       4
+         R3       2
+         R3       4
+         X1       10
+
+GND      B1       -
+         C1       2
+         C2       2
+         C3       2
+         CONN3    1
+         CONN4    1
+         JP1      3
+         JP2      1
+         R1       1
+         R1       2
+         R1       3
+         U2       2
+         X1       7
+
+N$1      D1       C
+         R1       6
+
+N$2      D3       C
+         R1       7
+         R1       8
+
+OUT      FB1      1
+         U2       5
+
+RXI      D2       C
+         JP2      4
+
+RXI_3V   D2       A
+         R1       5
+         X1       5
+
+SCL      CONN3    4
+         CONN4    4
+         JP1      4
+         Q2       6
+         R3       8
+
+SCL_3V   Q2       1
+         R3       7
+         X1       2
+
+SDA      CONN3    3
+         CONN4    3
+         JP1      5
+         Q2       3
+         R3       6
+
+SDA_3V   Q2       4
+         R3       5
+         X1       1
+
+TXO      JP2      5
+         X1       4
+
+VBACKUP  B1       +
+         X1       9
+
+VCC      C2       1
+         CONN3    2
+         CONN4    2
+         JP1      1
+         JP2      3
+         R3       1
+         R3       3
+         U2       1
+         U2       3
+
+WAKEUP   JP2      6
+         X1       8
+

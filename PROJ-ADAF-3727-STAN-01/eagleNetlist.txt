@@ -1,0 +1,195 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  JP4      14
+                        SW1      1
+                        SW1      3
+                        U$4      40
+
++3V3                    C5       1
+                        C7       1
+                        C8       1
+                        JP4      13
+                        L2       3
+                        R2       1
+                        U$4      17
+                        U$4      36
+                        U$4      44
+                        U$4      6
+                        U1       3
+                        U1       7
+                        U1       8
+                        U2       5
+
+A0                      JP4      10
+                        U$4      3
+
+A1                      JP4      9
+                        U$4      7
+
+A2                      JP4      8
+                        U$4      8
+
+A3                      JP4      7
+                        U$4      9
+
+A4                      JP4      6
+                        U$4      10
+
+A5                      JP4      5
+                        U$4      47
+
+AREF                    C14      1
+                        JP4      12
+                        U$4      4
+
+D+                      U$4      34
+                        X3       D+
+
+D-                      U$4      33
+                        X3       D-
+
+D0                      JP2      14
+                        U$4      16
+
+D1                      JP2      13
+                        U$4      15
+
+D2                      JP4      1
+                        U$4      23
+
+D3                      JP1      4
+                        U$4      14
+
+D4                      JP1      5
+                        U$4      13
+
+D5                      IC1      2
+                        U$4      24
+
+D5_5V                   IC1      4
+                        JP2      10
+
+D6                      U$4      29
+
+D7                      JP2      9
+                        U$4      30
+
+D8                      U$4      11
+
+D9                      JP2      8
+                        U$4      12
+
+D10                     JP2      7
+                        U$4      27
+
+D11                     JP2      6
+                        U$4      25
+
+D12                     JP2      5
+                        U$4      28
+
+D13                     JP2      4
+                        R7       1
+                        U$4      26
+
+EN                      JP1      1
+                        R1       2
+                        U2       3
+
+FLASH_CS                R2       2
+                        U$4      39
+                        U1       1
+
+FLASH_MISO              U$4      48
+                        U1       2
+
+FLASH_MOSI              U$4      37
+                        U1       5
+
+FLASH_SCK               U$4      38
+                        U1       6
+
+GND                     C1       2
+                        C14      2
+                        C5       2
+                        C6       2
+                        C7       2
+                        C8       2
+                        IC1      1
+                        IC1      3
+                        JP2      2
+                        L        C
+                        L2       4
+                        SW1      2
+                        SW1      4
+                        U$4      18
+                        U$4      35
+                        U$4      42
+                        U$4      5
+                        U$4      THERMAL
+                        U1       4
+                        U2       2
+                        X1       1
+                        X3       BASE@1
+                        X3       BASE@2
+                        X3       GND
+                        X3       SPRT@1
+                        X3       SPRT@2
+                        X3       SPRT@3
+                        X3       SPRT@4
+
+MISO                    JP4      2
+                        U$4      21
+
+MOSI                    JP4      3
+                        U$4      19
+
+N$1                     L2       5
+                        U$4      1
+
+N$2                     L        A
+                        R7       2
+
+N$5                     L2       6
+                        U$4      2
+
+SCK                     JP4      4
+                        U$4      20
+
+SCL                     JP2      11
+                        U$4      32
+
+SDA                     JP2      12
+                        U$4      31
+
+SWCLK                   JP1      3
+                        U$4      45
+
+SWDIO                   JP1      2
+                        U$4      46
+
+VBAT                    D1       A
+                        JP2      1
+                        X1       2
+
+VBUS                    D2       A
+                        JP2      3
+                        X3       VBUS
+
+VDDCORE                 C1       1
+                        U$4      43
+
+VHI                     C6       1
+                        D1       C
+                        D2       C
+                        IC1      5
+                        JP4      11
+                        R1       1
+                        U2       1
+

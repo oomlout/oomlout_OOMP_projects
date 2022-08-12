@@ -1,0 +1,329 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C12      1
+          CONN3    2
+          IC3      10
+          IC3      8
+          OSC1     4
+          R1       2
+          RPI1     1
+          RPI1     17
+          RPI1     S1
+          RPI1     S17
+          SJ1      3
+          SW6      S1
+          SW6      S2
+
+5.0V      C10      1
+          C11      1
+          C32      1
+          C33      1
+          C9       1
+          IC3      21
+          IC3      26
+          LED1     4
+          LED2     4
+          LED3     4
+          RPI1     2
+          RPI1     4
+          RPI1     S2
+          RPI1     S4
+          SJ1      1
+          U3       1
+          U3       3
+
+AGND      C3       2
+          C5       2
+          FB2      1
+          IC3      28
+          IC3      33
+
+AVDD      C16      1
+          C18      1
+          C25      1
+          C3       1
+          C5       1
+          FB1      1
+          IC3      32
+          LEFTMIC  4
+          RIGHTMIC 4
+
+BUTTON    R1       1
+          RPI1     11
+          RPI1     S11
+          SW1      B
+          SW1      B'
+
+CE0       RPI1     24
+          RPI1     S24
+
+CE1       RPI1     26
+          RPI1     S26
+
+EEC       RPI1     28
+          RPI1     S28
+
+EED       RPI1     27
+          RPI1     S27
+
+GND       C1       2
+          C10      2
+          C11      2
+          C12      2
+          C13      2
+          C14      2
+          C16      2
+          C18      2
+          C19      2
+          C2       2
+          C20      2
+          C21      2
+          C22      2
+          C25      2
+          C26      2
+          C27      2
+          C28      2
+          C29      2
+          C30      2
+          C31      2
+          C32      2
+          C33      2
+          C34      2
+          C7       2
+          C8       2
+          C9       2
+          CONN3    1
+          D1       A
+          FB2      2
+          IC3      20
+          IC3      24
+          IC3      9
+          LED1     3
+          LED2     3
+          LED3     3
+          LEFTMIC  2
+          LEFTMIC  3
+          NEOPIX   1
+          OSC1     2
+          R4       1
+          R6       1
+          RIGHTMIC 2
+          RIGHTMIC 3
+          RPI1     14
+          RPI1     20
+          RPI1     25
+          RPI1     30
+          RPI1     34
+          RPI1     39
+          RPI1     6
+          RPI1     9
+          RPI1     S14
+          RPI1     S20
+          RPI1     S25
+          RPI1     S30
+          RPI1     S34
+          RPI1     S39
+          RPI1     S6
+          RPI1     S9
+          SW1      A
+          SW1      A'
+          SW6      O1
+          SW6      O2
+          U3       2
+          X2       1
+
+GPIO4     RPI1     7
+          RPI1     S7
+
+GPIO13    RPI1     33
+          RPI1     S33
+
+GPIO19    RPI1     36
+          RPI1     S36
+
+GPIO22    RPI1     15
+          RPI1     S15
+
+GPIO23    RPI1     16
+          RPI1     S16
+
+GPIO24    RPI1     18
+          RPI1     S18
+
+GPIO25    RPI1     22
+          RPI1     S22
+
+GPIO26    RPI1     37
+          RPI1     S37
+
+GPIO27    RPI1     13
+          RPI1     S13
+
+I2S_BCLK  IC3      12
+          RPI1     12
+          RPI1     S12
+
+I2S_DIN   IC3      16
+          RPI1     38
+          RPI1     S38
+
+I2S_DOUT  IC3      14
+          RPI1     40
+          RPI1     S40
+
+I2S_LRCLK IC3      13
+          IC3      15
+          RPI1     35
+          RPI1     S35
+
+LEDC      LED1     2
+          RPI1     31
+          RPI1     S31
+
+LEDD      LED1     1
+          RPI1     29
+          RPI1     S29
+
+LEFT      C27      1
+          C4       -
+          R4       2
+          X2       2
+          X2       4
+
+LEFT_N    C31      1
+          FB10     2
+          X1       2
+
+LEFT_P    C30      1
+          FB9      2
+          X1       1
+
+LINPUT1   C23      2
+          IC3      4
+
+LSTEMMA   NEOPIX   3
+          R7       1
+
+MCLK      IC3      11
+          OSC1     3
+
+MCLK_EN   OSC1     1
+          SW6      P1
+          SW6      P2
+
+MICBIAS   C2       1
+          C8       1
+          IC3      1
+
+MISO      RPI1     21
+          RPI1     S21
+
+MOSI      RPI1     19
+          RPI1     S19
+
+N$1       FB7      1
+          IC3      19
+
+N$2       FB8      1
+          IC3      22
+
+N$3       C6       +
+          IC3      29
+
+N$5       C4       +
+          IC3      31
+
+N$7       LED1     6
+          LED2     1
+
+N$11      LED1     5
+          LED2     2
+
+N$12      C19      1
+          FB3      1
+          RIGHTMIC 1
+
+N$13      C20      1
+          FB4      1
+          LEFTMIC  1
+
+N$14      LED2     6
+          LED3     1
+
+N$15      LED2     5
+          LED3     2
+
+N$16      C21      1
+          C24      1
+          FB3      2
+
+N$17      C22      1
+          C23      1
+          FB4      2
+
+N$21      FB9      1
+          IC3      25
+
+N$22      FB10     1
+          IC3      23
+
+OUT       C13      1
+          C14      1
+          FB1      2
+          U3       5
+
+PWM0      D1       C
+          R7       2
+          RPI1     32
+          RPI1     S32
+
+RIGHT     C26      1
+          C6       -
+          R6       2
+          X2       3
+          X2       5
+
+RIGHT_N   C28      1
+          FB7      2
+          X5       2
+
+RIGHT_P   C29      1
+          FB8      2
+          X5       1
+
+RINPUT1   C24      2
+          IC3      5
+
+RXD       RPI1     10
+          RPI1     S10
+
+SCL       CONN3    4
+          IC3      17
+          RPI1     5
+          RPI1     S5
+
+SCLK      RPI1     23
+          RPI1     S23
+
+SDA       CONN3    3
+          IC3      18
+          RPI1     3
+          RPI1     S3
+
+TXD       RPI1     8
+          RPI1     S8
+
+VCC       C34      1
+          NEOPIX   2
+          SJ1      2
+
+VMID      C1       1
+          C7       1
+          IC3      27
+

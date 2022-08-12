@@ -1,0 +1,313 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5.0V     C2       +
+         JP1      11
+         JP1      2
+         JP1      5
+         JP1      8
+         JP2      11
+         JP2      2
+         JP2      5
+         JP2      8
+         JP5      11
+         JP5      2
+         JP5      5
+         JP5      8
+         JP6      11
+         JP6      2
+         JP6      5
+         JP6      8
+         LED2     A
+         Q1       2
+
+A0       R2       7
+         SJ_A0    2
+         TP1      P$1
+         U1       1
+
+A1       R2       8
+         SJ_A1    2
+         TP2      P$1
+         U1       2
+
+A2       R1       5
+         SJ_A2    2
+         TP3      P$1
+         U1       3
+
+A3       R1       6
+         SJ_A3    2
+         TP4      P$1
+         U1       4
+
+A4       R1       7
+         SJ_A4    2
+         TP5      P$1
+         U1       5
+
+A5       R1       8
+         SJ_A5    2
+         TP6      P$1
+         U1       24
+
+GND      C1       2
+         C2       -
+         J1       2
+         JP1      12
+         JP1      3
+         JP1      6
+         JP1      9
+         JP2      12
+         JP2      3
+         JP2      6
+         JP2      9
+         JP3      2
+         JP3      3
+         JP5      12
+         JP5      3
+         JP5      6
+         JP5      9
+         JP6      12
+         JP6      3
+         JP6      6
+         JP6      9
+         JP7      4
+         Q1       1
+         R1       1
+         R1       2
+         R1       3
+         R1       4
+         R10      2
+         R2       1
+         R2       2
+         R5       2
+         R7       2
+         SW1      A
+         SW1      A'
+         U$44     GND
+         U$44     GND@1
+         U$44     GND@2
+         U$44     GND@3
+         U1       14
+         U1       25
+
+N$1      LED1     C
+         R10      1
+
+N$2      JP1      4
+         R11      7
+
+N$3      JP1      1
+         R11      8
+
+N$4      JP1      7
+         R11      6
+
+N$5      JP1      10
+         R11      5
+
+N$6      JP2      1
+         R13      8
+
+N$7      JP2      4
+         R13      7
+
+N$8      JP2      7
+         R13      6
+
+N$9      JP2      10
+         R13      5
+
+N$10     JP6      10
+         R14      5
+
+N$11     JP6      7
+         R14      6
+
+N$12     JP6      4
+         R14      7
+
+N$13     JP6      1
+         R14      8
+
+N$14     JP5      10
+         R12      5
+
+N$15     JP5      7
+         R12      6
+
+N$16     JP5      4
+         R12      7
+
+N$17     JP5      1
+         R12      8
+
+N$18     JP3      1
+         U$44     VIN
+
+N$19     LED2     C
+         R5       1
+
+N$22     JP3      5
+         SJ1      3
+         U$44     3V
+
+N$23     JP3      4
+         SJ1      1
+         U$44     5V
+
+N$24     JP3      7
+         U$44     IOREF
+
+N$25     JP3      8
+         U$44     RESERVED
+
+N$26     JP4      1
+         U$44     D7
+
+N$27     JP4      2
+         U$44     D6
+
+N$28     JP4      3
+         U$44     D5
+
+N$29     JP4      4
+         U$44     D4
+
+N$30     JP4      5
+         U$44     D3
+
+N$31     JP4      6
+         U$44     D2
+
+N$32     JP4      7
+         U$44     D1
+
+N$33     JP4      8
+         U$44     D0
+
+N$36     JP7      3
+         U$44     AREF
+
+N$38     JP7      5
+         U$44     D13
+
+N$39     JP7      6
+         U$44     D12
+
+N$40     JP7      7
+         U$44     D11
+
+N$41     JP7      8
+         U$44     D10
+
+N$42     JP7      9
+         U$44     D9
+
+N$43     JP7      10
+         U$44     D8
+
+N$46     JP8      3
+         U$44     A3
+
+N$47     JP8      4
+         U$44     A2
+
+N$48     JP8      5
+         U$44     A1
+
+N$49     JP8      6
+         U$44     A0
+
+N$139    JP3      6
+         SW1      B
+         SW1      B'
+         U$44     RESET
+
+OE       R7       1
+         U1       23
+
+PWM0     R13      4
+         U1       6
+
+PWM1     R13      3
+         U1       7
+
+PWM2     R13      2
+         U1       8
+
+PWM3     R13      1
+         U1       9
+
+PWM4     R11      4
+         U1       10
+
+PWM5     R11      3
+         U1       11
+
+PWM6     R11      2
+         U1       12
+
+PWM7     R11      1
+         U1       13
+
+PWM8     R14      4
+         U1       15
+
+PWM9     R14      3
+         U1       16
+
+PWM10    R14      2
+         U1       17
+
+PWM11    R14      1
+         U1       18
+
+PWM12    R12      4
+         U1       19
+
+PWM13    R12      3
+         U1       20
+
+PWM14    R12      2
+         U1       21
+
+PWM15    R12      1
+         U1       22
+
+PWRIN    J1       1
+         Q1       3
+
+SCL      JP7      1
+         JP8      1
+         R3       1
+         U$44     A5
+         U$44     SCL
+         U1       26
+
+SDA      JP7      2
+         JP8      2
+         R4       1
+         U$44     A4
+         U$44     SDA
+         U1       27
+
+VCC      C1       1
+         LED1     A
+         R3       2
+         R4       2
+         SJ1      2
+         SJ_A0    1
+         SJ_A1    1
+         SJ_A2    1
+         SJ_A3    1
+         SJ_A4    1
+         SJ_A5    1
+         U1       28
+

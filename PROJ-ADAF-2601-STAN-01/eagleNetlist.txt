@@ -1,0 +1,190 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 18:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part       Pad
+
+!RESET   JP4        6
+         S4         1
+         S4         2
+         U$41       RESET
+         U$41       RESET_ICSP
+
++3V      JP4        5
+         U$41       3V
+
++5V      JP4        4
+         MATRIX_PWR P$4
+         U$41       5V
+         U$41       5V_ICSP
+
+A0       JP8        6
+         SJ6        1
+         U$41       A0
+
+A1       JP8        5
+         SJ12       2
+         U$41       A1
+
+A2       JP8        4
+         SJ7        1
+         U$41       A2
+
+A3       JP8        3
+         SJ13       2
+         U$41       A3
+
+A4       JP8        2
+         U$41       A4
+
+A5       JP8        1
+         U$41       A5
+
+ADDR_A   JP15       9
+         JP2        4
+         SJ6        2
+
+ADDR_B   JP15       10
+         JP3        5
+         SJ12       1
+
+ADDR_C   JP15       11
+         JP2        3
+         SJ7        2
+
+ADDR_D   JP15       12
+         JP3        6
+         SJ13       1
+
+AREF     JP6        3
+         U$41       AREF
+
+B1       JP15       3
+         JP2        7
+         SJ3        2
+
+B2       JP15       7
+         JP2        5
+         SJ5        2
+
+CLK      JP15       13
+         JP2        2
+         SJ8        2
+
+D0       JP1        8
+         U$41       D0
+
+D1       JP1        7
+         U$41       D1
+
+D2       JP1        6
+         SJ2        1
+         U$41       D2
+
+D3       JP1        5
+         SJ10       2
+         U$41       D3
+
+D4       JP1        4
+         SJ3        1
+         U$41       D4
+
+D5       JP1        3
+         SJ4        1
+         U$41       D5
+
+D6       JP1        2
+         SJ1        2
+         U$41       D6
+
+D7       JP1        1
+         SJ5        1
+         U$41       D7
+
+D8       JP6        10
+         SJ8        1
+         U$41       D8
+
+D9       JP6        9
+         SJ9        1
+         U$41       D9
+
+D10      JP6        8
+         SJ14       2
+         U$41       D10
+
+D11      JP6        7
+         U$41       D11
+
+D12      JP6        6
+         U$41       D12
+
+D13      JP6        5
+         U$41       D13
+
+E_1      JP15       8
+         JP3        4
+
+E_2      JP15       16
+         JP3        8
+
+G1       JP15       2
+         JP3        1
+         SJ10       1
+
+G2       JP15       6
+         JP3        3
+         SJ1        1
+
+GND      JP15       4
+         JP3        2
+         JP4        2
+         JP4        3
+         JP6        4
+         MATRIX_PWR P$3
+         S4         3
+         S4         4
+         U$41       GND
+         U$41       GND@1
+         U$41       GND@2
+         U$41       GND@3
+
+IOREF    JP4        7
+         U$41       IOREF
+
+LAT      JP15       14
+         JP3        7
+         SJ14       1
+
+MISO     U$41       MISO
+
+MOSI     U$41       MOSI
+
+NC       JP4        8
+         U$41       RESERVED
+
+OE       JP15       15
+         JP2        1
+         SJ9        2
+
+R1       JP15       1
+         JP2        8
+         SJ2        2
+
+R2       JP15       5
+         JP2        6
+         SJ4        2
+
+SCK      U$41       SCK
+
+SCL      JP6        1
+         U$41       SCL
+
+SDA      JP6        2
+         U$41       SDA
+
+VIN      JP4        1
+         U$41       VIN
+

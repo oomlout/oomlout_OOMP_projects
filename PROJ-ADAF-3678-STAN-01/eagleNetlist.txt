@@ -1,0 +1,117 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+3.3V        C12      1
+            C3       1
+            C4       1
+            FB1      2
+            JP3      2
+            U1       4
+            U2       5
+
+AGND        C1       2
+            C2       2
+            C5       2
+            C7       2
+            C8       2
+            C9       2
+            FB2      1
+            JP3      8
+            R3       1
+            R5       1
+            U1       15
+            X2       1
+
+BITCLK_IN   JP3      6
+            U1       1
+
+DATA_IN     JP3      5
+            U1       3
+
+DEEM/CLKOUT JP1      6
+            R8       2
+            U1       9
+
+GND         C11      2
+            C12      2
+            C3       2
+            C4       2
+            FB2      2
+            JP3      3
+            R1       1
+            R10      1
+            R2       1
+            R7       1
+            R8       1
+            R9       1
+            U1       5
+            U2       2
+
+MUTE        JP1      3
+            R9       2
+            U1       8
+
+N$1         C5       1
+            C9       1
+            U1       12
+
+N$2         C1       1
+            C2       1
+            FB1      1
+            U1       13
+
+N$3         C10      +
+            U1       16
+
+N$4         C6       +
+            U1       14
+
+N$7         C6       -
+            R3       2
+            R4       1
+
+N$8         C10      -
+            R5       2
+            R6       1
+
+OUTL        C7       1
+            JP3      7
+            R4       2
+            X2       2
+            X2       4
+
+OUTR        C8       1
+            JP3      9
+            R6       2
+            X2       3
+            X2       5
+
+PLL_IN      JP1      5
+            R1       2
+            U1       10
+
+SFOR0       JP1      4
+            R10      2
+            U1       11
+
+SFOR1       JP1      2
+            R2       2
+            U1       7
+
+SYSCLK_IN   JP1      1
+            R7       2
+            U1       6
+
+VIN         C11      1
+            JP3      1
+            U2       1
+            U2       3
+
+WORDSEL_IN  JP3      4
+            U1       2
+

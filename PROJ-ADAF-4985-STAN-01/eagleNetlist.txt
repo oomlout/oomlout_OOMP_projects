@@ -1,0 +1,371 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+3.3V           C10      1
+               C12      1
+               C13      1
+               C17      1
+               C2       1
+               C3       1
+               C4       1
+               C5       1
+               C7       1
+               C9       2
+               CONN1    2
+               DS0      3
+               DS1      3
+               DS2      3
+               DS3      3
+               DS4      3
+               JP1      1
+               JP1      2
+               JP2      1
+               JP2      2
+               JP2      T1
+               JP2      T2
+               R1       2
+               R4       1
+               R5       1
+               R7       1
+               SJ1      2
+               SJ2      3
+               SW2      P$1
+               SW5      P$1
+               SW6      P$1
+               TFT1     1
+               TFT1     3
+               TFT1     4
+               TFT1     6
+               U1       2
+               U1       5
+               U1       6
+               U1       8
+               U2       C
+               U3       2
+               U4       5
+               U5       2
+
+A0_JST         R18      1
+               SENSE1   3
+
+A2_JST2        R2       1
+               SENSE3   3
+
+AD0            D6       C
+               R18      2
+               U3       20
+
+AD1            D1       C
+               R16      2
+               U3       5
+
+AD1_JST        R16      1
+               SENSE    3
+
+AD2            D2       C
+               R2       2
+               U3       4
+
+BOOT0          SW4      2
+               SW4      4
+               TP1      P$1
+               U3       3
+
+BUTTON_DOWN    SW6      P$2
+               U3       6
+
+BUTTON_SEL     SW5      P$2
+               U3       7
+
+BUTTON_UP      SW2      P$2
+               U3       8
+
+CC1            R8       2
+               X4       A5
+
+CC2            R3       2
+               X4       B5
+
+CT6            U3       9
+               X1       P$1
+
+CT7            U3       10
+               X3       P$1
+
+CT8            U3       11
+               X5       P$1
+
+CT9            U3       12
+               X6       P$5
+
+CT10           U3       13
+               X6       P$4
+
+CT11           U3       14
+               X6       P$3
+
+CT12           U3       15
+               X6       P$2
+
+CT13           U3       16
+               X6       P$1
+
+D+             U3       23
+               X4       A6
+               X4       B6
+
+D-             U3       22
+               X4       A7
+               X4       B7
+
+DS_CLK         DS0      5
+               U3       18
+
+DS_DATA        DS0      6
+               U3       17
+
+EN             Q3       1
+               R12      2
+               SW3      P2
+
+GND            C1       2
+               C10      2
+               C11      2
+               C12      2
+               C13      2
+               C14      2
+               C15      2
+               C17      2
+               C2       2
+               C20      2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C7       2
+               C9       1
+               CONN1    1
+               CONN1    MT1
+               CONN1    MT2
+               D1       A
+               D2       A
+               D6       A
+               DS0      4
+               DS1      4
+               DS2      4
+               DS3      4
+               DS4      4
+               JP1      5
+               JP1      6
+               JP2      5
+               JP2      6
+               JP2      T5
+               JP2      T6
+               L        C
+               ON       C
+               Q1       2
+               Q4       2
+               R10      1
+               R13      1
+               R14      1
+               R17      1
+               R20      1
+               R3       1
+               R8       1
+               SENSE    1
+               SENSE    NC1
+               SENSE    NC2
+               SENSE1   1
+               SENSE1   NC1
+               SENSE1   NC2
+               SENSE3   1
+               SENSE3   NC1
+               SENSE3   NC2
+               SW3      O1
+               SW3      O2
+               SW3      P1
+               SW3      S1
+               SW4      1
+               SW4      3
+               SW7      P$1
+               TFT1     10
+               TFT1     11
+               TFT1     12
+               TFT1     13
+               TFT1     14
+               TFT1     15
+               TFT1     22
+               TFT1     5
+               TFT1     7
+               TFT1     8
+               TFT1     9
+               TFT1     SUPPORT1
+               TFT1     SUPPORT2
+               U1       1
+               U1       7
+               U3       1
+               U3       26
+               U3       42
+               U3       43_1
+               U3       43_10
+               U3       43_11
+               U3       43_12
+               U3       43_13
+               U3       43_14
+               U3       43_15
+               U3       43_16
+               U3       43_17
+               U3       43_18
+               U3       43_19
+               U3       43_2
+               U3       43_20
+               U3       43_21
+               U3       43_3
+               U3       43_4
+               U3       43_5
+               U3       43_6
+               U3       43_7
+               U3       43_8
+               U3       43_9
+               U4       2
+               U5       5
+               X4       A1B12
+               X4       B1A12
+
+IO38_DOUBLETAP C6       1
+               R17      2
+               U3       32
+
+LIGHT          R20      2
+               U2       E
+               U3       21
+
+MISO           R9       2
+               U3       31
+
+MOSI           TFT1     21
+               U3       29
+
+N$1            L        A
+               R9       1
+
+N$2            R6       2
+               SJ1      1
+
+N$3            ON       A
+               R6       1
+
+N$5            D3       A
+               Q4       3
+               SP1      -
+
+N$10           DS0      1
+               DS1      6
+
+N$11           DS0      2
+               DS1      5
+
+N$12           DS1      1
+               DS2      6
+
+N$14           DS1      2
+               DS2      5
+
+N$15           DS2      1
+               DS3      6
+
+N$17           DS2      2
+               DS3      5
+
+N$24           DS3      1
+               DS4      6
+
+N$25           DS3      2
+               DS4      5
+
+N$99           Q1       3
+               R11      1
+
+PIR_SENSE      JP1      3
+               JP1      4
+               JP2      3
+               JP2      4
+               JP2      T3
+               JP2      T4
+               R14      2
+               U3       19
+
+RESET          C14      1
+               R1       1
+               SW7      P$2
+               TP6      P$1
+               U3       41
+
+RXD0           TP2      P$1
+               U3       38
+
+SCK            TFT1     17
+               U3       30
+
+SCL            CONN1    4
+               R5       2
+               U1       4
+               U3       27
+               U5       3
+
+SDA            CONN1    3
+               R7       2
+               U1       3
+               U3       28
+               U5       4
+
+SPKR           Q4       1
+               R13      2
+               U3       36
+
+TFT_CS         R4       2
+               TFT1     18
+               U3       34
+
+TFT_DC         TFT1     16
+               U3       33
+
+TFT_LEDK       R11      2
+               TFT1     2
+
+TFT_LITE       Q1       1
+               R10      2
+               U3       24
+
+TFT_RESET      TFT1     20
+               U3       35
+
+TXD0           TP3      P$1
+               U3       37
+
+VBUS           C1       1
+               C15      1
+               Q3       2
+               R12      1
+               X4       A4B9
+               X4       B4A9
+
+VCC            C20      1
+               SENSE    2
+               SENSE1   2
+               SENSE3   2
+               SJ2      2
+
+VHIGH          C11      1
+               D3       C
+               Q3       3
+               SJ2      1
+               SP1      +
+               U4       1
+               U4       3
+

@@ -1,0 +1,62 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 16:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         C10      2
+         C2       2
+         C6       2
+         GND      1
+         GND_2    1
+         LED1     3-GND
+         LED2     3-GND
+         LED3     3-GND
+         LED4     3-GND
+         LED5     3-GND
+         LED6     3-GND
+         LED7     3-GND
+
+N$1      LED1     2-DOUT
+         LED2     4-DIN
+
+N$2      LED2     2-DOUT
+         LED3     4-DIN
+
+N$3      LED3     2-DOUT
+         LED4     4-DIN
+
+N$4      LED4     2-DOUT
+         LED5     4-DIN
+
+N$5      LED5     2-DOUT
+         LED6     4-DIN
+
+N$6      LED6     2-DOUT
+         LED7     4-DIN
+
+N$7      DOUT     1
+         LED7     2-DOUT
+
+N$12     LED1     4-DIN
+         R1       2
+
+N$13     DIN      1
+         R1       1
+
+VDD      C1       1
+         C10      1
+         C2       1
+         C6       1
+         LED1     1-VDD
+         LED2     1-VDD
+         LED3     1-VDD
+         LED4     1-VDD
+         LED5     1-VDD
+         LED6     1-VDD
+         LED7     1-VDD
+         VDD      1
+

@@ -1,0 +1,158 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      D1       C
+         U2       5V
+
+3V       U2       3V
+
+A0       ANALOG   6
+         SJ1      2
+         U2       A0
+
+A1       ANALOG   5
+         SJ2      2
+         U2       A1
+
+A2       ANALOG   4
+         SJ3      2
+         U2       A2
+
+A3       ANALOG   3
+         SJ4      2
+         U2       A3
+
+A4       ANALOG   2
+         SJ5      2
+         U2       A4
+
+A5       ANALOG   1
+         SJ6      2
+         U2       A5
+
+ENABLE   R23      2
+         S1       3
+         U4       11
+
+FB       R10      2
+         R9       1
+         U4       14
+
+GND      BATT_IN  2
+         C4       2
+         C6       2
+         C7       2
+         C8       2
+         C9       -
+         LED2     C
+         LED4     C
+         R10      1
+         R11      1
+         R4       2
+         R5       2
+         S1       2
+         SW1      1
+         SW1      3
+         U2       GND
+         U2       GND1
+         U2       GND2
+         U3       2
+         U4       10
+         U4       13
+         U4       5
+         U4       6
+         U4       7
+         U4       P$18
+         U4       P$19
+         U4       P$20
+         U4       P$21
+         U4       P$22
+         U4       THERMAL
+         X1       BASE@1
+         X1       BASE@2
+         X1       GND
+         X1       SPRT@1
+         X1       SPRT@2
+         X1       SPRT@3
+         X1       SPRT@4
+
+LBI      R11      2
+         R14      1
+         U4       9
+
+LBO      T1       B
+         U4       12
+
+N$1      R2       2
+         SJ1      1
+         SJ2      1
+         SJ3      1
+         SJ4      1
+         SJ5      1
+         SJ6      1
+
+N$2      LED1     C
+         R1       1
+
+N$3      R1       2
+         R3       2
+         U3       1
+
+N$4      L1       P$2
+         U4       3
+         U4       4
+
+N$5      R4       1
+         U3       5
+
+N$6      LED2     A
+         R3       1
+
+N$9      LED3     C
+         R5       1
+
+N$15     LED4     A
+         R20      1
+
+N$16     R20      2
+         T1       C
+
+N$19     D1       A
+         F1       2
+         LED3     A
+
+RESET    SW1      2
+         SW1      4
+         U2       RESET
+
+VBAT     BATT_IN  1
+         C6       1
+         C8       1
+         L1       P$1
+         R14      2
+         R2       1
+         R23      1
+         T1       E
+         U3       3
+         U4       8
+
+VBUS     C4       1
+         LED1     A
+         U3       4
+         X1       VBUS
+
+VIN      U2       VIN
+
+VOUT     C7       1
+         C9       +
+         F1       1
+         R9       2
+         U4       1
+         U4       15
+         U4       16
+

@@ -1,0 +1,236 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  IC3      26
+                        JP4      14
+                        R5       2
+                        SW2      A
+                        SW2      A'
+
++3V3                    C10      1
+                        C12      1
+                        C13      1
+                        C16      1
+                        C2       1
+                        C8       1
+                        IC3      1
+                        IC3      10
+                        IC3      22
+                        IC3      33
+                        IC3      42
+                        IC3      43
+                        IC3      44
+                        IC3      48
+                        IC3      49
+                        JP4      12
+                        JP4      13
+                        R2       1
+                        R5       1
+                        U1       8
+                        U2       5
+
+1.2V                    C11      1
+                        C3       2
+                        C4       2
+                        IC3      23
+                        IC3      45
+                        IC3      50
+
+A0                      IC3      38
+                        JP4      10
+
+A1                      IC3      39
+                        JP4      9
+
+A2                      IC3      40
+                        JP4      8
+
+A3                      IC3      41
+                        JP4      7
+
+D+                      IC3      47
+                        R3       2
+
+D-                      IC3      46
+                        R4       2
+
+D2                      IC3      15
+                        JP4      1
+
+D3                      IC3      7
+                        JP1      4
+
+D4                      IC3      6
+                        JP1      5
+
+D5                      IC1      2
+                        IC3      17
+
+D5_5V                   IC1      4
+                        JP2      10
+
+D7                      IC3      8
+                        JP2      9
+
+D9                      IC3      9
+                        JP2      8
+
+D10                     IC3      11
+                        JP2      7
+
+D11                     IC3      12
+                        JP2      6
+
+D12                     IC3      13
+                        JP2      5
+
+D13                     IC3      14
+                        JP2      4
+                        R7       1
+
+D24                     IC3      36
+                        JP4      6
+
+D25                     IC3      37
+                        JP4      5
+
+EN                      JP1      1
+                        R1       2
+                        U2       3
+
+GND                     C10      2
+                        C11      2
+                        C12      2
+                        C13      2
+                        C16      2
+                        C19      1
+                        C2       2
+                        C20      1
+                        C3       1
+                        C4       1
+                        C6       2
+                        C8       2
+                        IC1      1
+                        IC1      3
+                        IC3      19
+                        IC3      P$1
+                        JP2      2
+                        L        C
+                        LED1     4
+                        SW2      B
+                        SW2      B'
+                        SW3      B
+                        SW3      B'
+                        U1       4
+                        U1       PAD
+                        U2       2
+                        X3       BASE@1
+                        X3       BASE@2
+                        X3       GND
+                        X3       SPRT@1
+                        X3       SPRT@2
+                        X3       SPRT@3
+                        X3       SPRT@4
+
+MISO                    IC3      31
+                        JP4      2
+
+MOSI                    IC3      30
+                        JP4      3
+
+N$1                     R3       1
+                        X3       D+
+
+N$2                     L        A
+                        R7       2
+
+N$3                     R4       1
+                        X3       D-
+
+N$4                     D3       A
+                        R11      2
+
+N$5                     C19      2
+                        IC3      20
+                        Y1       3
+
+N$6                     C20      2
+                        R6       1
+                        Y1       1
+
+N$7                     IC3      21
+                        R6       2
+
+NEOPIX                  IC3      28
+                        LED1     1
+
+NEO_PWR                 IC3      27
+                        LED1     2
+
+QSPI_CS                 IC3      56
+                        R11      1
+                        R2       2
+                        U1       1
+
+QSPI_DATA[0]            IC3      53
+                        U1       5
+
+QSPI_DATA[1]            IC3      55
+                        U1       2
+
+QSPI_DATA[2]            IC3      54
+                        U1       3
+
+QSPI_DATA[3]            IC3      51
+                        U1       7
+
+QSPI_SCK                IC3      52
+                        U1       6
+
+RX                      IC3      3
+                        JP2      14
+
+SCK                     IC3      29
+                        JP4      4
+
+SCL                     IC3      5
+                        JP2      11
+
+SDA                     IC3      4
+                        JP2      12
+
+SWCLK                   IC3      24
+                        JP1      3
+
+SWDIO                   IC3      25
+                        JP1      2
+
+TX                      IC3      2
+                        JP2      13
+
+USBBOOT                 D3       C
+                        IC3      16
+                        SW3      A
+                        SW3      A'
+                        TP1      P$1
+
+VBAT                    D1       A
+                        JP2      1
+
+VBUS                    D2       A
+                        JP2      3
+                        X3       VBUS
+
+VHI                     C6       1
+                        D1       C
+                        D2       C
+                        IC1      5
+                        JP4      11
+                        R1       1
+                        U2       1
+

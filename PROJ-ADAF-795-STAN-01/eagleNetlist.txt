@@ -1,0 +1,182 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 12:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3V3      C2       1
+          C7       +
+          IC2      3
+          JP2      2
+          U$2      3V
+
++5V       IC1      20
+          IC1      7
+          IC2      2
+          JP2      3
+          JP3      2
+          PWR_SEL  2
+          R1       1
+          R2       1
+          U$2      5V
+
++9V       C1       1
+          C3       +
+          D1       C
+          IC3      1
+          JP2      6
+          U$2      VIN
+
+ANALOG0   IC1      23
+          JP1      1
+          U$2      A0
+
+ANALOG1   IC1      24
+          JP1      2
+          U$2      A1
+
+ANALOG2   IC1      25
+          JP1      3
+          U$2      A2
+
+ANALOG3   IC1      26
+          JP1      4
+          U$2      A3
+
+ANALOG4   IC1      27
+          JP1      5
+          U$2      A4
+
+ANALOG5   IC1      28
+          JP1      6
+          U$2      A5
+
+AREF      IC1      21
+          JP4      1
+          U$2      AREF
+
+DIGITAL2  IC1      4
+          JP5      6
+          U$2      D2
+
+DIGITAL3  IC1      5
+          JP5      5
+          U$2      D3
+
+DIGITAL4  IC1      6
+          JP5      4
+          U$2      D4
+
+DIGITAL5  IC1      11
+          JP5      3
+          U$2      D5
+
+DIGITAL6  IC1      12
+          JP5      2
+          U$2      D6
+
+DIGITAL7  IC1      13
+          JP5      1
+          U$2      D7
+
+DIGITAL8  IC1      14
+          JP4      8
+          U$2      D8
+
+DIGITAL9  IC1      15
+          JP4      7
+          U$2      D9
+
+DIGITAL10 IC1      16
+          JP4      6
+          U$2      D10
+
+GND       C1       2
+          C2       2
+          C3       -
+          C4       -
+          C5       2
+          C7       -
+          D2       K
+          D3       K
+          IC1      22
+          IC1      8
+          IC2      1
+          IC3      2
+          J1       RING
+          JP2      4
+          JP2      5
+          JP3      6
+          JP4      2
+          JP7      1
+          JP7      2
+          S1       1
+          S1       2
+          U$2      GND
+          U$2      GND1
+          U$2      GND2
+          X1       P$2
+
+MISO      IC1      18
+          JP3      1
+          JP4      4
+          U$2      D12
+
+MOSI      IC1      17
+          JP3      4
+          JP4      5
+          U$2      D11
+
+N$1       IC1      9
+          X1       P$1
+
+N$2       IC1      10
+          X1       P$3
+
+N$3       D2       A
+          R2       2
+
+N$4       D3       A
+          R3       2
+
+N$5       C4       +
+          C5       1
+          IC3      3
+          PWR_SEL  1
+
+N$17      D1       A
+          J1       TIP
+
+RST       C6       2
+          IC1      1
+          JP2      1
+          JP3      5
+          R1       2
+          S1       3
+          S1       4
+          U$2      RESET
+
+RTS#      C6       1
+          JP7      6
+
+RXD       IC1      2
+          JP5      8
+          JP7      4
+          U$2      D0
+
+SCK       IC1      19
+          JP3      3
+          JP4      3
+          R3       1
+          U$2      D13
+
+TXD       IC1      3
+          JP5      7
+          JP7      5
+          U$2      D1
+
+USB_5V    JP7      3
+          PWR_SEL  3
+

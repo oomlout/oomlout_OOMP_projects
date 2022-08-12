@@ -1,0 +1,164 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 09:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++3V3     C1       1
+         IC2      27
+         U$1      2
+
++5V      C4       1
+         C5       1
+         F1       1
+         IC2      31
+         IC2      32
+         IC2      4
+         ISP6     2
+         JP1      15
+         JP1      2
+         R3       2
+         U$1      1
+
+BLUE     JP1      18
+         T3       C
+
+CONTRAST IC2      21
+         JP1      3
+
+D+       CN1      D+
+         R2       1
+         USB      3
+
+D-       CN1      D-
+         R1       1
+         USB      2
+
+DB0      JP1      7
+
+DB1      JP1      8
+
+DB2      JP1      9
+
+DB3      JP1      10
+
+DB4      IC2      7
+         JP1      11
+
+DB5      IC2      10
+         JP1      12
+
+DB6      IC2      11
+         JP1      13
+
+DB7      IC2      12
+         JP1      14
+
+EN       IC2      20
+         JP1      6
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         CN1      GND
+         CN3      2
+         IC2      13
+         IC2      28
+         IC2      3
+         ISP6     6
+         JP1      1
+         LED      C
+         T1       E
+         T2       E
+         T3       E
+         U$1      3
+         USB      4
+
+GREEN    JP1      17
+         T2       C
+
+MISO     IC2      17
+         ISP6     1
+
+MOSI     IC2      16
+         ISP6     4
+
+N$1      LED      A
+         R3       1
+
+N$2      R7       1
+         T1       B
+
+N$3      IC2      30
+         R1       2
+
+N$4      IC2      29
+         R2       2
+
+N$5      IC2      6
+         R7       2
+
+N$6      R6       1
+         T2       B
+
+N$7      IC2      25
+         R6       2
+
+N$8      C2       1
+         IC2      1
+         X3       P$2
+
+N$9      C3       1
+         IC2      2
+         X3       P$1
+
+N$10     IC2      23
+         R5       2
+
+N$11     R5       1
+         T3       B
+
+PB0      IC2      14
+         U$1      7
+
+PC2      IC2      5
+         U$1      8
+
+PC4      IC2      26
+         U$1      9
+
+PC7      IC2      22
+         U$1      10
+
+RED      JP1      16
+         T1       C
+
+RS       IC2      18
+         JP1      4
+
+RST      IC2      24
+         ISP6     5
+         U$1      4
+
+RW       IC2      19
+         JP1      5
+
+RX       CN3      3
+         IC2      8
+         U$1      5
+
+SCK      IC2      15
+         ISP6     3
+
+TX       IC2      9
+         U$1      6
+
+VBUS     CN1      VBUS
+         CN3      1
+         F1       2
+         USB      1
+

@@ -1,0 +1,195 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 20:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++5V       C3       1
+          JP1      5
+          R5       1
+          U2       1
+          U2       3
+          U3       5V
+
+1PPS      JP6      3
+          U1       P$13
+
+3.3V      C2       1
+          CN2      4
+          FB1      1
+          JP6      6
+          R10      2
+          U2       5
+          U4       1
+
+FIX       LED1     A
+          U1       P$5
+
+GND       B1       -
+          C1       2
+          C2       2
+          C3       2
+          CN2      6
+          CN2      MT1
+          CN2      MT2
+          JP1      6
+          JP1      7
+          LED4     C
+          LED5     C
+          R1       1
+          RESET    B
+          RESET    B'
+          U$20     P$1
+          U$20     P$2
+          U$9      4
+          U1       P$12
+          U1       P$19
+          U1       P$3
+          U1       P$8
+          U2       2
+          U3       GND
+          U3       GND1
+          U3       GND2
+          U4       8
+
+MISO      CN2      7
+          U$9      6
+          U3       D12
+
+MOSI      U$9      7
+          U3       D11
+          U4       5
+
+N$1       C1       1
+          FB1      2
+          U1       P$1
+
+N$2       LED1     C
+          R1       2
+
+N$3       JP1      1
+          U3       RESERVED
+
+N$4       U$20     P$3
+          U1       P$11
+
+N$5       JP1      2
+          U3       IOREF
+
+N$6       JP1      4
+          U3       3V
+
+N$7       U$9      1
+          U3       SCL
+
+N$8       LED4     A
+          R9       1
+
+N$9       JP9      6
+          U3       A5
+
+N$10      JP9      5
+          U3       A4
+
+N$11      JP4      8
+          JP6      1
+          SW1      S2
+          U3       D7
+
+N$12      U$9      2
+          U3       SDA
+
+N$13      JP6      2
+          SW1      S1
+          U$9      10
+          U3       D8
+
+N$14      JP4      2
+          SW1      O1
+          U3       D1
+
+N$15      JP1      8
+          U3       VIN
+
+N$89      JP4      3
+          U3       D2
+
+N$90      JP4      4
+          U3       D3
+
+N$98      JP4      5
+          U3       D4
+
+N$99      JP4      6
+          U3       D5
+
+N$100     JP4      7
+          U3       D6
+
+N$108     U$9      3
+          U3       AREF
+
+N$110     U$9      9
+          U3       D9
+
+N$150     LED5     A
+          R10      1
+
+N$154     JP9      1
+          U3       A0
+
+N$164     JP9      2
+          U3       A1
+
+N$181     JP9      3
+          U3       A2
+
+N$182     JP9      4
+          U3       A3
+
+N$201     JP4      1
+          SW1      O2
+          U3       D0
+
+RESET     JP1      3
+          RESET    A
+          RESET    A'
+          U3       RESET
+
+RX        U1       P$10
+          U4       12
+
+RX_5V     SW1      P2
+          U4       11
+
+SCK       R9       2
+          U$9      5
+          U3       D13
+          U4       3
+
+SD_CD     CN2      CD1
+          JP6      5
+
+SD_CS     JP6      4
+          R5       2
+          U$9      8
+          U3       D10
+          U4       7
+
+SD_CSIN   CN2      2
+          U4       6
+
+SD_DATAIN CN2      3
+          U4       4
+
+SD_SCKIN  CN2      5
+          U4       2
+
+TX        SW1      P1
+          U1       P$9
+
+VBACKUP   B1       +$1
+          U1       P$4
+

@@ -1,0 +1,62 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   JP1      6
+         R5       4
+         U2       6
+
+ADDR     JP1      5
+         R5       8
+         SJ1      2
+         U2       2
+
+ALERT    JP1      7
+         U2       3
+
+GND      C5       2
+         C6       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D1       C
+         JP1      2
+         R5       1
+         U2       7
+         U2       8
+         U2       THERMAL
+
+N$1      D1       A
+         R1       1
+
+SCL      CONN3    4
+         CONN4    4
+         JP1      3
+         R5       6
+         U2       4
+
+SDA      CONN3    3
+         CONN4    3
+         JP1      4
+         R5       7
+         U2       1
+
+VCC      C5       1
+         C6       1
+         CONN3    2
+         CONN4    2
+         JP1      1
+         R1       2
+         R5       2
+         R5       3
+         R5       5
+         SJ1      1
+         U2       5
+

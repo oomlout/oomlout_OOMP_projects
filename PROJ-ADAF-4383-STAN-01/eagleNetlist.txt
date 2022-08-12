@@ -1,0 +1,95 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!TFTRST    IC5      2
+           JP1      8
+           R2       1
+           U3       11
+
+!TFTRST_3V DISP1    6
+           U3       12
+
+3.3V       C1       1
+           C3       1
+           CN1      4
+           DISP1    10
+           DISP1    12
+           IC5      3
+           JP1      2
+           R2       2
+           R8       2
+           U2       5
+           U3       1
+
+BACKLIGHT  JP1      11
+           R7       1
+           R8       1
+
+DC         JP1      9
+           U3       14
+
+DC_3V      DISP1    5
+           U3       15
+
+GND        C1       2
+           C2       2
+           C3       2
+           CN1      6
+           CN1      MT1
+           CN1      MT2
+           DISP1    13
+           DISP1    8
+           IC5      1
+           JP1      3
+           Q1       2
+           U2       2
+           U3       8
+
+LED_K      DISP1    11
+           R5       2
+
+MISO_3V    CN1      7
+           JP1      5
+
+MOSI       JP1      6
+           U3       7
+
+MOSI_3V    CN1      3
+           DISP1    3
+           U3       6
+
+N$1        Q1       1
+           R7       2
+
+N$5        Q1       3
+           R5       1
+
+SCK        JP1      4
+           U3       5
+
+SCK_3V     CN1      5
+           DISP1    4
+           U3       4
+
+SDCS       JP1      10
+           U3       9
+
+SDCS_3V    CN1      2
+           U3       10
+
+TFTCS      JP1      7
+           U3       3
+
+TFTCS_3V   DISP1    7
+           U3       2
+
+VIN        C2       1
+           JP1      1
+           U2       1
+           U2       3
+

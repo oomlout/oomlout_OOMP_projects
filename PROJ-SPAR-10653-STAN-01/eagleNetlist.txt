@@ -1,0 +1,121 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 11:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       C1       1
+         C2       1
+         C3       1
+         C4       A
+         C5       A
+         C6       A
+         JP4      2
+         LED1     A
+         R2       2
+         S1       3
+         U1       14
+         U1       21
+         U1       28
+
+AGC      C7       A
+         JP9      2
+         U1       17
+
+E0       JP7      8
+         U1       7
+
+E1       JP7      7
+         U1       9
+
+E2       JP7      6
+         U1       10
+
+E3       JP7      5
+         U1       11
+
+FMC1     JP9      6
+         U1       6
+
+FMC2     JP9      5
+         U1       23
+
+FT       JP9      1
+         U1       26
+
+GND      C1       2
+         C10      2
+         C2       2
+         C3       2
+         C4       C
+         C5       C
+         C6       C
+         C7       C
+         JP4      1
+         S1       1
+         U1       1
+         U1       12
+         U1       16
+         U1       8
+
+LED      JP8      1
+         R1       1
+         R4       1
+         U1       22
+
+MIC+     C8       1
+         U1       18
+
+MIC-     C9       2
+         U1       19
+
+MODE     S1       2
+         U1       27
+
+N$1      LED1     C
+         R1       2
+
+N$2      C8       2
+         R3       1
+         U2       1
+
+N$3      C9       1
+         R4       2
+         U2       2
+
+N$6      C10      1
+         R2       1
+         R3       2
+
+REC      JP9      4
+         U1       24
+
+ROSC     JP9      3
+         U1       20
+
+S0       JP7      4
+         U1       2
+
+S1       JP7      3
+         U1       3
+
+S2       JP7      2
+         U1       4
+
+S3       JP7      1
+         U1       5
+
+SP+      JP5      1
+         U1       15
+         U3       RING
+         U3       TIP
+
+SP-      JP5      2
+         U1       13
+         U3       SLEEVE
+
+XCLK     JP8      2
+         U1       25
+

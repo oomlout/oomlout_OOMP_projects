@@ -1,0 +1,166 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C7       1
+         C8       1
+         D1       C
+         IC1      14
+         IC1      2
+         IC1      24
+         IC1      33
+         IC1      34
+         IC1      44
+         JP4      13
+         U2       5
+
+3.3V     C9       1
+         IC1      6
+         JP4      1
+
+A0       IC1      36
+         JP4      10
+
+A1       IC1      37
+         JP4      9
+
+A2       IC1      38
+         JP4      8
+
+A3       IC1      39
+         JP4      7
+
+A4       IC1      40
+         JP4      6
+
+A5       IC1      41
+         JP4      5
+
+AREF     C14      1
+         IC1      42
+         JP4      12
+
+D+       IC1      4
+         R5       2
+
+D-       IC1      3
+         R4       2
+
+D0       IC1      20
+         JP2      14
+
+D1       IC1      21
+         JP2      13
+
+D4       IC1      25
+         JP1      1
+
+D5       IC1      31
+         JP2      10
+
+D6       IC1      27
+         JP1      2
+
+D7       IC1      1
+         JP2      9
+
+D8       IC1      28
+         JP1      3
+
+D9       IC1      29
+         JP2      8
+
+D10      IC1      30
+         JP2      7
+
+D11      IC1      12
+         JP2      6
+
+D12      IC1      26
+         JP2      5
+
+D13      IC1      32
+         JP2      4
+         R7       1
+
+EN       JP1      5
+         R9       2
+         U2       3
+
+GND      C14      2
+         C6       2
+         C7       2
+         C8       2
+         C9       2
+         IC1      15
+         IC1      23
+         IC1      35
+         IC1      43
+         IC1      5
+         JP1      4
+         JP2      2
+         JP4      11
+         L        C
+         SW1      2
+         SW1      4
+         U2       2
+         X1       1
+         X3       BASE@1
+         X3       BASE@2
+         X3       GND
+         X3       SPRT@1
+         X3       SPRT@2
+         X3       SPRT@3
+         X3       SPRT@4
+         Y1       2
+
+MISO     IC1      11
+         JP4      2
+
+MOSI     IC1      10
+         JP4      3
+
+N$2      L        A
+         R7       2
+
+N$11     IC1      16
+         Y1       3
+
+N$12     IC1      17
+         Y1       1
+
+N$15     R5       1
+         X3       D+
+
+N$16     R4       1
+         X3       D-
+
+RST      IC1      13
+         JP4      14
+         SW1      1
+         SW1      3
+
+SCK      IC1      9
+         JP4      4
+
+SCL      IC1      18
+         JP2      11
+
+SDA      IC1      19
+         JP2      12
+
+VBAT     C6       1
+         JP2      1
+         R9       1
+         U2       1
+         X1       2
+
+VBUS     D1       A
+         IC1      7
+         JP2      3
+         X3       VBUS
+

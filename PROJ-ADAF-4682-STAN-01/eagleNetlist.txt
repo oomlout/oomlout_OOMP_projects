@@ -1,0 +1,55 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         JP1      1
+         R1       1
+         R1       2
+         R1       3
+         R1       4
+         R2       1
+         R2       2
+         R2       3
+         X1       4
+
+CARDDET  JP1      9
+         R2       8
+         X1       CD1
+
+CS       JP1      6
+         R1       7
+         X1       2
+
+DAT1     JP1      7
+         R2       7
+         X1       8
+
+DAT2     JP1      8
+         R1       8
+         X1       1
+
+DI       JP1      5
+         R1       6
+         X1       3
+
+DO       JP1      4
+         R2       6
+         X1       7
+
+GND      C1       2
+         C2       2
+         JP1      2
+         X1       6
+         X1       MT1
+         X1       MT2
+
+SCLK     JP1      3
+         R1       5
+         X1       5
+

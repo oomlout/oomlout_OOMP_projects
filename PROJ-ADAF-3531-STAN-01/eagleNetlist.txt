@@ -1,0 +1,127 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C2       1
+         C6       2
+         C7       2
+         IC1      3
+         R1       2
+         RPI1     1
+         RPI1     17
+         RPI1     S1
+         RPI1     S17
+         U1       11
+         U1       13
+         U1       6
+         U1       9
+
+5.0V     RPI1     2
+         RPI1     4
+         RPI1     S2
+         RPI1     S4
+
+GND      C2       2
+         C5       1
+         C6       1
+         C7       1
+         C8       1
+         IC1      1
+         R3       1
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         RPI1     S14
+         RPI1     S20
+         RPI1     S25
+         RPI1     S30
+         RPI1     S34
+         RPI1     S39
+         RPI1     S6
+         RPI1     S9
+         SW1      B
+         SW1      B'
+         SW2      B
+         SW2      B'
+         SW3      4
+         U1       1
+         U1       10
+         U1       12
+         U1       15
+         U1       29
+         U1       30
+         U1       8
+
+GPIO4    RPI1     7
+         RPI1     S7
+         SW3      6
+
+GPIO5    RPI1     29
+         RPI1     S29
+         SW2      A
+         SW2      A'
+
+GPIO6    RPI1     31
+         RPI1     S31
+         SW1      A
+         SW1      A'
+
+GPIO17   RPI1     11
+         RPI1     S11
+         SW3      1
+
+GPIO22   RPI1     15
+         RPI1     S15
+         SW3      3
+
+GPIO23   RPI1     16
+         RPI1     S16
+         SW3      5
+
+GPIO27   RPI1     13
+         RPI1     S13
+         SW3      2
+
+N$3      R3       2
+         U1       26
+
+N$4      C3       2
+         U1       2
+
+N$5      C3       1
+         U1       3
+
+N$6      C4       2
+         U1       4
+
+N$7      C4       1
+         U1       5
+
+N$11     C5       2
+         U1       28
+
+N$12     C8       2
+         U1       27
+
+RST      IC1      2
+         R1       1
+         U1       14
+
+SCL      RPI1     5
+         RPI1     S5
+         U1       18
+
+SDA      RPI1     3
+         RPI1     S3
+         U1       19
+         U1       20
+

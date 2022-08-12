@@ -1,0 +1,288 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:48
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ADDR     R5       3
+         SJ1      1
+         U1       18
+
+CA1      C1-2     C
+         C1-3     C
+         C1-4     C
+         C1-5     C
+         C1-6     C
+         C1-7     C
+         C1-8     C
+         U1       21
+
+CA2      C2-2     C
+         C2-3     C
+         C2-4     C
+         C2-5     C
+         C2-6     C
+         C2-7     C
+         C2-8     C
+         C3-2     A
+         C4-2     A
+         C5-2     A
+         C6-2     A
+         C7-2     A
+         C8-2     A
+         U1       22
+
+CA3      C1-2     A
+         C2-2     A
+         C3-2     C
+         C3-3     C
+         C3-4     C
+         C3-5     C
+         C3-6     C
+         C3-7     C
+         C3-8     C
+         C4-3     A
+         C5-3     A
+         C6-3     A
+         C7-3     A
+         C8-3     A
+         U1       23
+
+CA4      C1-3     A
+         C2-3     A
+         C3-3     A
+         C4-2     C
+         C4-3     C
+         C4-4     C
+         C4-5     C
+         C4-6     C
+         C4-7     C
+         C4-8     C
+         C5-4     A
+         C6-4     A
+         C7-4     A
+         C8-4     A
+         U1       24
+
+CA5      C1-4     A
+         C2-4     A
+         C3-4     A
+         C4-4     A
+         C5-2     C
+         C5-3     C
+         C5-4     C
+         C5-5     C
+         C5-6     C
+         C5-7     C
+         C5-8     C
+         C6-5     A
+         C7-5     A
+         C8-5     A
+         U1       25
+
+CA6      C1-5     A
+         C2-5     A
+         C3-5     A
+         C4-5     A
+         C5-5     A
+         C6-2     C
+         C6-3     C
+         C6-4     C
+         C6-5     C
+         C6-6     C
+         C6-7     C
+         C6-8     C
+         C7-6     A
+         C8-6     A
+         U1       26
+
+CA7      C1-6     A
+         C2-6     A
+         C3-6     A
+         C4-6     A
+         C5-6     A
+         C6-6     A
+         C7-2     C
+         C7-3     C
+         C7-4     C
+         C7-5     C
+         C7-6     C
+         C7-7     C
+         C7-8     C
+         C8-7     A
+         U1       27
+
+CA8      C1-7     A
+         C2-7     A
+         C3-7     A
+         C4-7     A
+         C5-7     A
+         C6-7     A
+         C7-7     A
+         C8-2     C
+         C8-3     C
+         C8-4     C
+         C8-5     C
+         C8-6     C
+         C8-7     C
+         C8-8     C
+         U1       28
+
+CA9      C1-8     A
+         C2-8     A
+         C3-8     A
+         C4-8     A
+         C5-8     A
+         C6-8     A
+         C7-8     A
+         C8-8     A
+         U1       1
+
+CB1      C2-9     A
+         C3-9     A
+         C4-9     A
+         C5-9     A
+         C6-9     A
+         C7-9     A
+         C8-9     A
+         U1       7
+
+CB2      C2-10    C
+         C2-11    C
+         C2-12    C
+         C2-13    C
+         C2-14    C
+         C2-15    C
+         C2-9     C
+         C3-10    A
+         C4-10    A
+         C5-10    A
+         C6-10    A
+         C7-10    A
+         C8-10    A
+         U1       8
+
+CB3      C2-10    A
+         C3-10    C
+         C3-11    C
+         C3-12    C
+         C3-13    C
+         C3-14    C
+         C3-15    C
+         C3-9     C
+         C4-11    A
+         C5-11    A
+         C6-11    A
+         C7-11    A
+         C8-11    A
+         U1       9
+
+CB4      C2-11    A
+         C3-11    A
+         C4-10    C
+         C4-11    C
+         C4-12    C
+         C4-13    C
+         C4-14    C
+         C4-15    C
+         C4-9     C
+         C5-12    A
+         C6-12    A
+         C7-12    A
+         C8-12    A
+         U1       10
+
+CB5      C2-12    A
+         C3-12    A
+         C4-12    A
+         C5-10    C
+         C5-11    C
+         C5-12    C
+         C5-13    C
+         C5-14    C
+         C5-15    C
+         C5-9     C
+         C6-13    A
+         C7-13    A
+         C8-13    A
+         U1       11
+
+CB6      C2-13    A
+         C3-13    A
+         C4-13    A
+         C5-13    A
+         C6-10    C
+         C6-11    C
+         C6-12    C
+         C6-13    C
+         C6-14    C
+         C6-15    C
+         C6-9     C
+         C7-14    A
+         C8-14    A
+         U1       12
+
+CB7      C2-14    A
+         C3-14    A
+         C4-14    A
+         C5-14    A
+         C6-14    A
+         C7-10    C
+         C7-11    C
+         C7-12    C
+         C7-13    C
+         C7-14    C
+         C7-15    C
+         C7-9     C
+         C8-15    A
+         U1       13
+
+CB8      C2-15    A
+         C3-15    A
+         C4-15    A
+         C5-15    A
+         C6-15    A
+         C7-15    A
+         C8-10    C
+         C8-11    C
+         C8-12    C
+         C8-13    C
+         C8-14    C
+         C8-15    C
+         C8-9     C
+         U1       14
+
+GND      C1       2
+         C4       2
+         C5       2
+         MS1      4
+         R5       5
+         R5       6
+         U1       5
+         U1       THERMAL
+
+INTB     U1       4
+
+R_EXT    R5       4
+         U1       6
+
+SCL      MS1      18
+         R5       1
+         U1       20
+
+SDA      MS1      17
+         R5       2
+         U1       19
+
+VCC      C1       1
+         C4       1
+         C5       1
+         MS1      2
+         R5       7
+         R5       8
+         SJ1      2
+         U1       2
+         U1       3
+

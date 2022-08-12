@@ -1,0 +1,138 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++3V3     C2       1
+         JP2      15
+         MS1      2
+         R1       2
+         R2       2
+         R3       2
+         R4       1
+         X4       4
+
+A        JP2      12
+         MS1      5
+
+AREF     JP2      14
+         MS1      3
+
+B        JP2      11
+         MS1      6
+
+C        JP2      10
+         MS1      7
+
+CR1220   B1       +
+         IC1      3
+
+CS       JP1      6
+         MS1      22
+         SJ1      1
+
+D        JP2      9
+         MS1      8
+
+E        JP2      8
+         MS1      9
+
+EN       JP1      1
+         MS1      27
+
+F        JP2      7
+         MS1      10
+
+G        JP2      1
+         MS1      16
+
+GND      B1       -
+         C1       2
+         C2       2
+         IC1      4
+         JP2      13
+         MS1      4
+         SW1      A
+         SW1      A'
+         X4       6
+         X4       MT1
+         X4       MT2
+
+H        JP1      9
+         MS1      19
+
+I        JP1      8
+         MS1      20
+
+INT1     IC1      7
+         INT1     1
+
+J        JP1      7
+         MS1      21
+
+L        JP1      5
+         MS1      23
+
+M        JP1      4
+         MS1      24
+
+MISO     JP2      4
+         MS1      13
+         X4       7
+
+MOSI     JP2      5
+         MS1      12
+         X4       3
+
+N        JP1      3
+         MS1      25
+
+N$1      C1       1
+         IC1      8
+         R4       2
+
+N$7      IC1      1
+         Y1       P$4
+
+N$8      IC1      2
+         Y1       P$1
+
+RESET    JP2      16
+         MS1      1
+         SW1      B
+         SW1      B'
+
+RX       JP2      3
+         MS1      14
+
+SCK      JP2      6
+         MS1      11
+         X4       5
+
+SCL      IC1      6
+         JP1      10
+         MS1      18
+         R2       1
+
+SDA      IC1      5
+         JP1      11
+         MS1      17
+         R1       1
+
+SD_CS    R3       1
+         SDCS     1
+         SJ1      2
+         X4       2
+
+TX       JP2      2
+         MS1      15
+
+USB      JP1      2
+         MS1      26
+
+VBAT     JP3      1
+         MS1      28
+

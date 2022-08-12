@@ -1,0 +1,213 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C3       1
+         R1       2
+         R2       2
+         R3       2
+         R7       2
+         RPI1     1
+         RPI1     17
+         U1       8
+         U2       20
+
+5.0V     RPI1     2
+         RPI1     4
+
+ADDR     ADDR     1
+         R6       2
+         U2       4
+
+EECLK    R2       1
+         RPI1     28
+         U1       6
+
+EEDATA   R1       1
+         RPI1     27
+         U1       5
+
+ELEC0    AL1      P$1
+         AL1      P$2
+         JP12     1
+         U2       8
+
+ELEC1    AL2      P$1
+         AL2      P$2
+         JP11     1
+         U2       9
+
+ELEC2    AL3      P$1
+         AL3      P$2
+         JP10     1
+         U2       10
+
+ELEC3    AL4      P$1
+         AL4      P$2
+         JP9      1
+         U2       11
+
+ELEC4    AL5      P$1
+         AL5      P$2
+         JP8      1
+         U2       12
+
+ELEC5    AL6      P$1
+         AL6      P$2
+         JP7      1
+         U2       13
+
+ELEC6    AL7      P$1
+         AL7      P$2
+         JP6      1
+         U2       14
+
+ELEC7    AL8      P$1
+         AL8      P$2
+         JP5      1
+         U2       15
+
+ELEC8    AL9      P$1
+         AL9      P$2
+         JP4      1
+         U2       16
+
+ELEC9    AL10     P$1
+         AL10     P$2
+         JP3      1
+         U2       17
+
+ELEC10   AL11     P$1
+         AL11     P$2
+         JP2      1
+         U2       18
+
+ELEC11   AL12     P$1
+         AL12     P$2
+         JP1      1
+         U2       19
+
+GND      C1       2
+         C3       2
+         C4       2
+         R5       1
+         R6       1
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         SJ1      1
+         U1       1
+         U1       2
+         U1       3
+         U1       4
+         U2       6
+
+GPIO4    CONN1    5
+         RPI1     7
+
+GPIO5    CONN1    18
+         RPI1     29
+
+GPIO6    CONN1    19
+         RPI1     31
+
+GPIO12   CONN1    20
+         RPI1     32
+
+GPIO13   CONN1    21
+         RPI1     33
+
+GPIO16   CONN1    22
+         RPI1     36
+
+GPIO17   CONN1    6
+         RPI1     11
+
+GPIO18   CONN1    7
+         RPI1     12
+
+GPIO19   CONN1    23
+         RPI1     35
+
+GPIO20   CONN1    24
+         RPI1     38
+
+GPIO21   CONN1    25
+         RPI1     40
+
+GPIO22   CONN1    9
+         RPI1     15
+
+GPIO23   CONN1    10
+         RPI1     16
+
+GPIO24   CONN1    11
+         RPI1     18
+
+GPIO25   CONN1    12
+         RPI1     22
+
+GPIO26   #26      1
+         RPI1     37
+         SJ2      2
+
+GPIO27   CONN1    8
+         RPI1     13
+
+IRQ      D1       C
+         IRQ      1
+         SJ2      1
+         U2       1
+
+N$16     R3       1
+         SJ1      2
+         U1       7
+
+N$114    C4       1
+         U2       5
+
+N$115    R5       2
+         U2       7
+
+N$116    D1       A
+         R7       1
+
+RXD      CONN1    4
+         RPI1     10
+
+SCL      CONN1    2
+         RPI1     5
+         U2       2
+
+SDA      CONN1    1
+         RPI1     3
+         U2       3
+
+SPI_CE0  CONN1    16
+         RPI1     24
+
+SPI_CE1  CONN1    17
+         RPI1     26
+
+SPI_MISO CONN1    14
+         RPI1     21
+
+SPI_MOSI CONN1    13
+         RPI1     19
+
+SPI_SCLK CONN1    15
+         RPI1     23
+
+TXD      CONN1    3
+         RPI1     8
+

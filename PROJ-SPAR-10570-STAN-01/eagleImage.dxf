@@ -1,0 +1,13 @@
+EAGLE update report
+
+Date: 08/08/2022 11:15
+File: C:/GH/oomlout_OOMP/oomlout_OOMP_projects/PROJ-SPAR-10547-STAN-01/boardEagle.brd
+
+Update from version 5.10
+
+Polygon rank in packages is now obsolete, and package polygons
+in signal layers are now part of the signal an enclosed pad or
+smd is connected to.
+Please check whether the following parts still behave as expected:
+
+  P1-, BUTTONPAD-2X2SINGLE-KIT, SparkFun

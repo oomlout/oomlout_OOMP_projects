@@ -1,0 +1,130 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 19:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         D1       C
+         JP1      15
+         MS1      2
+         R3       2
+         X1       1
+
+COM1     X1       9
+         X2       2
+
+GND      C1       2
+         JP1      13
+         MS1      4
+         Q1       2
+         R2       1
+         SW1      A
+         SW1      A'
+
+N$1      D1       A
+         Q1       3
+         SJ1      1
+         X1       12
+
+N$2      JP1      1
+         MS1      16
+
+N$3      JP1      2
+         MS1      15
+
+N$4      JP1      3
+         MS1      14
+
+N$5      JP1      4
+         MS1      13
+
+N$6      JP1      5
+         MS1      12
+
+N$7      JP1      6
+         MS1      11
+
+N$8      JP1      7
+         MS1      10
+
+N$9      JP1      8
+         MS1      9
+
+N$10     JP1      9
+         MS1      8
+
+N$11     JP1      10
+         MS1      7
+
+N$12     JP1      11
+         MS1      6
+
+N$13     JP1      12
+         MS1      5
+
+N$14     JP4      1
+         MS1      27
+
+N$15     JP4      3
+         MS1      25
+
+N$16     JP4      4
+         MS1      24
+
+N$17     JP4      5
+         MS1      23
+
+N$18     JP4      6
+         MS1      22
+
+N$19     JP4      7
+         MS1      21
+
+N$20     JP4      8
+         MS1      20
+
+N$21     JP4      9
+         MS1      19
+
+N$22     Q1       1
+         R1       2
+         R2       2
+
+N$23     JP1      14
+         MS1      3
+
+N$24     JP2      1
+         R1       1
+
+N$25     D2       C
+         SJ1      2
+
+N$26     D2       A
+         R3       1
+
+N$28     X1       10
+         X2       3
+
+NO1      X1       8
+         X2       1
+
+RESET    JP1      16
+         MS1      1
+         SW1      B
+         SW1      B'
+
+SCL      JP4      10
+         MS1      18
+
+SDA      JP4      11
+         MS1      17
+
+USB      JP4      2
+         MS1      26
+
+VBAT     JP3      1
+         MS1      28
+

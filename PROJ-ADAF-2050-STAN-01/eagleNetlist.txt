@@ -1,0 +1,228 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
++5V          C16      1
+             C2       1
+             C5       1
+             IC1      1
+             IC1      3
+             JP1      2
+             JP2      2
+             L1       P$1
+             U3       5
+
++24V         C20      1
+             D1       C
+             D2       C
+             X2       2
+             X2       3
+             X2       4
+             X2       5
+
+CARDDET      JP2      20
+             X1       CD2
+
+GND          C1       2
+             C16      2
+             C18      2
+             C2       2
+             C20      2
+             C3       2
+             C4       2
+             C5       2
+             IC1      2
+             IC2      10
+             IC2      19
+             IC3      10
+             IC3      19
+             IC4      1
+             JP1      1
+             JP2      1
+             JP2      15
+             R1       1
+             R11      2
+             R12      1
+             U3       2
+             X1       6
+             X1       MT1
+             X1       MT2
+             X2       43
+             X2       48
+             X2       49
+             X2       50
+
+IM0          JP2      18
+             R8       2
+             X2       6
+
+IM1          JP2      17
+             R9       2
+             X2       7
+
+IM2          JP2      16
+             R11      1
+             SJ3      2
+             X2       8
+
+LCD_CS       IC3      15
+             X2       38
+
+LCD_CS_5V    IC3      5
+             JP1      3
+             JP2      7
+
+LCD_DATA0    IC2      18
+             X2       32
+
+LCD_DATA0_5V IC2      2
+             JP1      13
+
+LCD_DATA1    IC2      17
+             X2       31
+
+LCD_DATA1_5V IC2      3
+             JP1      14
+
+LCD_DATA2    IC2      16
+             X2       30
+
+LCD_DATA2_5V IC2      4
+             JP1      15
+
+LCD_DATA3    IC2      15
+             X2       29
+
+LCD_DATA3_5V IC2      5
+             JP1      16
+
+LCD_DATA4    IC2      14
+             X2       28
+
+LCD_DATA4_5V IC2      6
+             JP1      17
+
+LCD_DATA5    IC2      13
+             X2       27
+
+LCD_DATA5_5V IC2      7
+             JP1      18
+
+LCD_DATA6    IC2      12
+             X2       26
+
+LCD_DATA6_5V IC2      8
+             JP1      19
+
+LCD_DATA7    IC2      11
+             X2       25
+
+LCD_DATA7_5V IC2      9
+             JP1      20
+
+LCD_LITE     D4       C
+             JP1      8
+             JP2      10
+
+LCD_RD       IC3      12
+             X2       35
+
+LCD_RD_5V    IC2      1
+             IC3      8
+             JP1      6
+             R12      2
+
+LCD_RS       IC3      14
+             X2       37
+
+LCD_RST      IC3      11
+             X2       10
+
+LCD_RST_5V   IC3      9
+             IC4      2
+             JP1      7
+             JP2      9
+             R6       1
+
+LCD_RS_5V    IC3      6
+             JP1      4
+             JP2      8
+
+LCD_WR       IC3      13
+             X1       5
+             X2       36
+
+LCD_WR_5V    IC3      7
+             JP1      5
+             JP2      4
+
+LCD_X+       JP1      9
+             JP2      12
+             X2       46
+
+LCD_X-       JP1      11
+             JP2      14
+             X2       44
+
+LCD_Y+       JP1      10
+             JP2      11
+             X2       47
+
+LCD_Y-       JP1      12
+             JP2      13
+             X2       45
+
+LEDK         C18      1
+             D1       A
+             R1       2
+             U3       3
+             X2       1
+
+N$3          D2       A
+             L1       P$2
+             U3       1
+
+SDI_3V       IC3      16
+             X1       3
+             X2       34
+
+SDI_5V       IC3      4
+             JP2      6
+
+SDO          JP2      5
+             X1       7
+             X2       33
+
+SD_CS_3V     IC3      17
+             X1       2
+
+SD_CS_5V     IC3      3
+             JP2      19
+
+SHDN         D4       A
+             R2       1
+             U3       4
+
+VCC          C1       1
+             C3       1
+             C4       1
+             IC1      5
+             IC2      20
+             IC3      1
+             IC3      20
+             IC4      3
+             JP2      3
+             R2       2
+             R6       2
+             R8       1
+             R9       1
+             SJ3      1
+             X1       4
+             X2       40
+             X2       41
+             X2       42
+

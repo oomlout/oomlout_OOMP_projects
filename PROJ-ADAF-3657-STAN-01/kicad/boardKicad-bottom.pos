@@ -1,0 +1,7 @@
+### Module positions - created on Fri Aug 12 09:53:43 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+U$7                 SEESAW_LOGO       -146.5961  -121.2596   90.0000  bottom
+## End

@@ -1,0 +1,108 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 13:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A        LED1     14
+         U1       26
+
+ALARM    S3       2
+         U1       14
+
+B        LED1     16
+         U1       28
+
+BUZZ1    SG2      +
+         U1       15
+
+BUZZ2    SG2      -
+         U1       16
+
+C        LED1     12
+         LED1     13
+         U1       25
+
+COL      LED1     4
+         U1       5
+
+D        LED1     3
+         U1       4
+
+DIG1     LED1     1
+         U1       2
+
+DIG2     LED1     2
+         U1       3
+
+DIG3     LED1     6
+         U1       6
+
+DIG4     LED1     8
+         U1       12
+
+DP       LED1     7
+         U1       11
+
+E        LED1     5
+         U1       23
+
+F        LED1     11
+         LED1     9
+         U1       24
+
+G        LED1     15
+         U1       27
+
+GND      C1       1
+         C2       1
+         C5       2
+         C6       2
+         J1       GND
+         J1       GNDBREAK
+         JP2      6
+         S1       3
+         S2       3
+         S3       3
+         S4       3
+         U1       22
+         U1       8
+
+MISO     JP2      1
+         S1       1
+         U1       18
+
+MOSI     JP2      4
+         LED1     10
+         U1       17
+
+N$1      C1       2
+         Q1       2
+         U1       9
+
+N$2      C2       2
+         Q1       1
+         U1       10
+
+RST      JP2      5
+         R1       P$1
+         U1       1
+
+SCK      JP2      3
+         S2       1
+         U1       19
+
+SNOOZE   S4       1
+         U1       13
+
+VCC      C5       1
+         C6       1
+         J1       PWR
+         JP2      2
+         R1       P$2
+         U1       20
+         U1       21
+         U1       7
+

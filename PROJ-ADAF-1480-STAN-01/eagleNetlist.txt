@@ -1,0 +1,102 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C2       1
+          C3       1
+          CN1      4
+          R5       2
+          U1       10
+          U1       9
+          U2       5
+          U3       1
+
+BACKLIGHT JP1      10
+          R4       1
+          R5       1
+
+DC_3V     U1       4
+          U3       15
+
+DC_5V     JP1      3
+          U3       14
+
+GND       C1       2
+          C2       2
+          C3       2
+          CN1      6
+          CN1      MT1
+          CN1      MT2
+          JP1      1
+          Q1       2
+          U1       1
+          U1       8
+          U2       2
+          U3       8
+
+LCDCS_3V  U1       5
+          U3       6
+
+LCDCS_5V  JP1      6
+          U3       7
+
+LEDK      Q1       3
+          R1       1
+          R2       1
+          R3       1
+          R6       1
+
+MISO      CN1      7
+          JP1      8
+          U1       7
+
+MOSI_3V   CN1      3
+          U1       6
+          U3       4
+
+MOSI_5V   JP1      7
+          U3       5
+
+N$1       R1       2
+          U1       11
+
+N$2       R2       2
+          U1       12
+
+N$3       R3       2
+          U1       13
+
+N$4       Q1       1
+          R4       2
+
+N$5       R6       2
+          U1       14
+
+RESET_3V  U1       2
+          U3       12
+
+RESET_5V  JP1      4
+          U3       11
+
+SCLK_3V   CN1      5
+          U1       3
+          U3       2
+
+SCLK_5V   JP1      9
+          U3       3
+
+SDCS_3V   CN1      2
+          U3       10
+
+SDCS_5V   JP1      5
+          U3       9
+
+VIN       C1       1
+          JP1      2
+          U2       1
+          U2       3
+

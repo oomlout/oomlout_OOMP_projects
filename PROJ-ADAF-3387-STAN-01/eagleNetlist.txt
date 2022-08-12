@@ -1,0 +1,128 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C3       1
+         IC1      1
+         IC1      22
+         IC1      23
+         IC1      3
+         JP4      8
+         Q2       2
+         Q2       5
+         R1       1
+         R2       5
+         R2       6
+         R2       7
+         R2       8
+         R3       2
+         R3       4
+         R5       2
+         U2       5
+
+C1       C4       1
+         IC1      24
+
+CAP      C5       1
+         IC1      21
+
+CS_A/G   D3       A
+         IC1      7
+         R2       2
+
+CS_AG_5V D3       C
+         JP4      4
+
+CS_M     D2       A
+         IC1      8
+         R2       1
+
+CS_M_5V  D2       C
+         JP4      3
+
+DEN_3V   D4       A
+         IC1      13
+         R5       1
+
+DEN_5V   D4       C
+         JP2      1
+
+DRDY_M   IC1      9
+         JP2      5
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D1       C
+         IC1      14
+         IC1      15
+         IC1      16
+         IC1      17
+         IC1      18
+         IC1      19
+         IC1      20
+         JP4      7
+         U2       2
+
+INT1_AG  IC1      11
+         JP2      3
+
+INT2_AG  IC1      12
+         JP2      2
+
+INT_M    IC1      10
+         JP2      4
+
+N$1      D1       A
+         R1       2
+
+SCL      CONN3    4
+         CONN4    4
+         JP4      6
+         Q2       6
+         R3       8
+
+SCL_3V   IC1      2
+         Q2       1
+         R3       7
+
+SDA      CONN3    3
+         CONN4    3
+         JP4      5
+         Q2       3
+         R3       6
+
+SDA_3V   IC1      4
+         Q2       4
+         R3       5
+
+SDO_AG   IC1      5
+         JP4      2
+         R2       4
+
+SDO_M    IC1      6
+         JP4      1
+         R2       3
+
+VCC      C2       1
+         CONN3    2
+         CONN4    2
+         JP4      9
+         R3       1
+         R3       3
+         U2       1
+         U2       3
+

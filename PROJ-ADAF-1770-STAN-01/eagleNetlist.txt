@@ -1,0 +1,186 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 20:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part         Pad
+
++5V          1X20BREAKOUT 2
+             2X10BREAKOUT 2
+             C5           1
+             IC1          1
+             IC1          3
+
+GND          1X20BREAKOUT 1
+             2X10BREAKOUT 1
+             C1           2
+             C2           2
+             C3           2
+             C4           2
+             C5           2
+             CN1          1
+             CN1          2
+             CN1          21
+             CN1          22
+             CN1          3
+             CN1          34
+             CN1          35
+             CN1          36
+             CN1          37
+             CN1          4
+             CN1          5
+             IC1          2
+             IC2          10
+             IC2          19
+             IC3          10
+             IC3          19
+             Q1           E
+
+LCD_CS       CN1          7
+             IC3          15
+
+LCD_CS_5V    1X20BREAKOUT 3
+             2X10BREAKOUT 3
+             IC3          5
+
+LCD_DATA1    CN1          23
+             IC2          18
+
+LCD_DATA1_5V 1X20BREAKOUT 13
+             2X10BREAKOUT 13
+             IC2          2
+
+LCD_DATA2    CN1          24
+             IC2          17
+
+LCD_DATA2_5V 1X20BREAKOUT 14
+             2X10BREAKOUT 14
+             IC2          3
+
+LCD_DATA3    CN1          25
+             IC2          16
+
+LCD_DATA3_5V 1X20BREAKOUT 15
+             2X10BREAKOUT 15
+             IC2          4
+
+LCD_DATA4    CN1          26
+             IC2          15
+
+LCD_DATA4_5V 1X20BREAKOUT 16
+             2X10BREAKOUT 16
+             IC2          5
+
+LCD_DATA5    CN1          27
+             IC2          14
+
+LCD_DATA5_5V 1X20BREAKOUT 17
+             2X10BREAKOUT 17
+             IC2          6
+
+LCD_DATA6    CN1          28
+             IC2          13
+
+LCD_DATA6_5V 1X20BREAKOUT 18
+             2X10BREAKOUT 18
+             IC2          7
+
+LCD_DATA7    CN1          29
+             IC2          12
+
+LCD_DATA7_5V 1X20BREAKOUT 19
+             2X10BREAKOUT 19
+             IC2          8
+
+LCD_DATA8    CN1          30
+             IC2          11
+
+LCD_DATA8_5V 1X20BREAKOUT 20
+             2X10BREAKOUT 20
+             IC2          9
+
+LCD_LITE     1X20BREAKOUT 8
+             2X10BREAKOUT 8
+             R5           1
+
+LCD_RD       CN1          10
+             IC3          12
+
+LCD_RD_5V    1X20BREAKOUT 6
+             2X10BREAKOUT 6
+             IC2          1
+             IC3          8
+
+LCD_RS       CN1          8
+             IC3          14
+
+LCD_RST      CN1          31
+             IC3          11
+
+LCD_RST_5V   1X20BREAKOUT 7
+             2X10BREAKOUT 7
+             IC3          9
+
+LCD_RS_5V    1X20BREAKOUT 4
+             2X10BREAKOUT 4
+             IC3          6
+
+LCD_WR       CN1          9
+             IC3          13
+
+LCD_WR_5V    1X20BREAKOUT 5
+             2X10BREAKOUT 5
+             IC3          7
+
+LCD_X+       1X20BREAKOUT 9
+             2X10BREAKOUT 9
+             CN1          12
+
+LCD_X-       1X20BREAKOUT 11
+             2X10BREAKOUT 11
+             CN1          14
+
+LCD_Y+       1X20BREAKOUT 10
+             2X10BREAKOUT 10
+             CN1          13
+
+LCD_Y-       1X20BREAKOUT 12
+             2X10BREAKOUT 12
+             CN1          15
+
+N$1          CN1          20
+             R4           2
+
+N$2          CN1          17
+             R1           2
+
+N$3          CN1          18
+             R2           2
+
+N$4          CN1          19
+             R3           2
+
+N$5          Q1           C
+             R1           1
+             R2           1
+             R3           1
+             R4           1
+
+N$16         Q1           B
+             R5           2
+
+VCC          C1           1
+             C2           1
+             C3           1
+             C4           1
+             CN1          11
+             CN1          16
+             CN1          32
+             CN1          33
+             CN1          6
+             IC1          5
+             IC2          20
+             IC3          1
+             IC3          20
+

@@ -1,0 +1,104 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 21:13
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     RPI1     1
+         RPI1     17
+
+5.0V     RPI1     2
+         RPI1     4
+
+EECLK    RPI1     28
+
+EEDATA   RPI1     27
+
+GND      RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+
+GPIO4    CONN1    5
+         RPI1     7
+
+GPIO5    CONN1    18
+         RPI1     29
+
+GPIO6    CONN1    19
+         RPI1     31
+
+GPIO12   CONN1    20
+         RPI1     32
+
+GPIO13   CONN1    21
+         RPI1     33
+
+GPIO16   CONN1    22
+         RPI1     36
+
+GPIO17   CONN1    6
+         RPI1     11
+
+GPIO18   CONN1    7
+         RPI1     12
+
+GPIO19   CONN1    23
+         RPI1     35
+
+GPIO20   CONN1    24
+         RPI1     38
+
+GPIO21   CONN1    25
+         RPI1     40
+
+GPIO22   CONN1    9
+         RPI1     15
+
+GPIO23   CONN1    10
+         RPI1     16
+
+GPIO24   CONN1    11
+         RPI1     18
+
+GPIO25   CONN1    12
+         RPI1     22
+
+GPIO26   RPI1     37
+
+GPIO27   CONN1    8
+         RPI1     13
+
+RXD      CONN1    4
+         RPI1     10
+
+SCL      CONN1    2
+         RPI1     5
+
+SDA      CONN1    1
+         RPI1     3
+
+SPI_CE0  CONN1    16
+         RPI1     24
+
+SPI_CE1  CONN1    17
+         RPI1     26
+
+SPI_MISO CONN1    14
+         RPI1     21
+
+SPI_MOSI CONN1    13
+         RPI1     19
+
+SPI_SCLK CONN1    15
+         RPI1     23
+
+TXD      CONN1    3
+         RPI1     8
+

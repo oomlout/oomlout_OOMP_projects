@@ -1,0 +1,284 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+D6       MS1      20
+         SJ20     1
+
+DIN      IC2      2
+         JP1      1
+         SJ1      1
+         SJ10     1
+         SJ11     1
+         SJ12     2
+         SJ13     2
+         SJ14     2
+         SJ15     2
+         SJ16     2
+         SJ17     2
+         SJ18     2
+         SJ19     2
+         SJ2      1
+         SJ20     2
+         SJ3      1
+         SJ4      1
+         SJ5      1
+         SJ6      1
+         SJ7      1
+         SJ8      1
+         SJ9      1
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         IC2      1
+         IC2      3
+         LED1     4
+         LED10    4
+         LED11    4
+         LED12    4
+         LED13    4
+         LED14    4
+         LED15    4
+         LED16    4
+         LED17    4
+         LED18    4
+         LED19    4
+         LED2     4
+         LED20    4
+         LED21    4
+         LED22    4
+         LED23    4
+         LED24    4
+         LED25    4
+         LED26    4
+         LED27    4
+         LED28    4
+         LED29    4
+         LED3     4
+         LED30    4
+         LED31    4
+         LED32    4
+         LED4     4
+         LED5     4
+         LED6     4
+         LED7     4
+         LED8     4
+         LED9     4
+         MS1      4
+         SW1      A
+         SW1      A'
+
+N$1      LED19    3
+         LED20    1
+
+N$2      LED20    3
+         LED21    1
+
+N$3      MS1      25
+         SJ19     1
+
+N$4      MS1      15
+         SJ11     2
+
+N$5      MS1      24
+         SJ17     1
+
+N$6      MS1      14
+         SJ10     2
+
+N$7      MS1      13
+         SJ9      2
+
+N$8      MS1      12
+         SJ8      2
+
+N$9      MS1      11
+         SJ7      2
+
+N$10     MS1      10
+         SJ6      2
+
+N$11     MS1      9
+         SJ5      2
+
+N$12     MS1      8
+         SJ4      2
+
+N$13     MS1      7
+         SJ3      2
+
+N$14     MS1      6
+         SJ2      2
+
+N$15     MS1      5
+         SJ1      2
+
+N$16     LED25    1
+         LED6     3
+
+N$17     LED21    3
+         LED22    1
+
+N$18     MS1      1
+         SW1      B
+         SW1      B'
+
+N$19     MS1      23
+         SJ18     1
+
+N$20     MS1      22
+         SJ16     1
+
+N$21     MS1      21
+         SJ15     1
+
+N$22     IC2      4
+         LED1     1
+
+N$23     MS1      19
+         SJ14     1
+
+N$24     MS1      18
+         SJ13     1
+
+N$25     MS1      17
+         SJ12     1
+
+N$26     LED1     3
+         LED2     1
+
+N$27     LED2     3
+         LED3     1
+
+N$28     LED3     3
+         LED4     1
+
+N$29     LED4     3
+         LED5     1
+
+N$30     LED5     3
+         LED6     1
+
+N$31     LED7     3
+         LED8     1
+
+N$32     LED8     3
+         LED9     1
+
+N$33     LED10    1
+         LED9     3
+
+N$34     LED10    3
+         LED11    1
+
+N$35     LED11    3
+         LED12    1
+
+N$36     LED13    3
+         LED14    1
+
+N$37     LED14    3
+         LED15    1
+
+N$38     LED15    3
+         LED16    1
+
+N$39     LED16    3
+         LED17    1
+
+N$40     LED17    3
+         LED18    1
+
+N$41     LED12    3
+         LED27    1
+
+N$42     LED26    3
+         LED7     1
+
+N$43     LED22    3
+         LED23    1
+
+N$44     LED23    3
+         LED24    1
+
+N$45     LED19    1
+         LED30    3
+
+N$46     LED24    3
+         LED31    1
+
+N$47     LED25    3
+         LED26    1
+
+N$48     LED27    3
+         LED28    1
+
+N$49     LED18    3
+         LED29    1
+
+N$50     LED29    3
+         LED30    1
+
+N$51     LED31    3
+         LED32    1
+
+N$52     JP3      1
+         LED32    3
+
+N$53     LED13    1
+         LED28    3
+
+USB      D1       A
+         MS1      26
+
+VBAT     D2       A
+         MS1      28
+
+VDD      C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         D1       C
+         D2       C
+         IC2      5
+         LED1     2
+         LED10    2
+         LED11    2
+         LED12    2
+         LED13    2
+         LED14    2
+         LED15    2
+         LED16    2
+         LED17    2
+         LED18    2
+         LED19    2
+         LED2     2
+         LED20    2
+         LED21    2
+         LED22    2
+         LED23    2
+         LED24    2
+         LED25    2
+         LED26    2
+         LED27    2
+         LED28    2
+         LED29    2
+         LED3     2
+         LED30    2
+         LED31    2
+         LED32    2
+         LED4     2
+         LED5     2
+         LED6     2
+         LED7     2
+         LED8     2
+         LED9     2
+

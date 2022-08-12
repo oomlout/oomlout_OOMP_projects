@@ -1,0 +1,7 @@
+### Module positions - created on Thu Aug 11 17:45:28 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                    PosX       PosY       Rot  Side
+U1                  TM022HDH26_2.2IN_LCD  -148.5011  -102.8446  180.0000  bottom
+## End

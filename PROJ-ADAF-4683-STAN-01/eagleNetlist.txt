@@ -1,0 +1,43 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         IC1      7
+         IC1      8
+         IC1      9
+         JP1      3
+         R2       1
+
+EN       IC1      17
+         JP1      1
+         R1       2
+
+FB       IC1      1
+         R2       2
+         R3       1
+
+GND      C1       2
+         C2       2
+         IC1      12
+         IC1      13
+         IC1      14
+         IC1      3
+         JP1      4
+         R3       2
+
+SW       IC1      4
+         IC1      5
+         IC1      6
+
+VCC      IC1      2
+
+VIN      C2       1
+         IC1      16
+         JP1      2
+         R1       1
+

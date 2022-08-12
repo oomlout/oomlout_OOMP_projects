@@ -1,0 +1,264 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C2       2
+         ON       A
+         PC2      +
+         POWER    5
+         T1       2
+         U1       2
+         U1       4
+         U4       1
+         U4       3
+         U5       8
+         VSELECT  3
+
+3.3V     C13      1
+         C3       2
+         C9       1
+         POWER    4
+         R15      2
+         U3       5
+         U3       6
+         U3       7
+         U4       5
+         U5       2
+         VSELECT  1
+
+AD0      AD       1
+         ZU4      23
+
+AD1      AD       2
+         ZU4      24
+
+AD2      AD       3
+         ZU4      25
+
+AD3      AD       4
+         ZU4      26
+
+AD4/SDA  AD       5
+         IOH      2
+         ZU4      27
+
+AD5/SCL  AD       6
+         IOH      1
+         ZU4      28
+
+AREF     C4       2
+         IOH      3
+         ZU4      20
+
+AVCC     C10      2
+         FB1      2
+         ZU4      18
+
+CMP      R13      1
+         R14      2
+         U5       3
+
+D+       U3       3
+         X3       D+
+
+D-       U3       4
+         X3       D-
+
+DTR      U3       23
+         U5       5
+
+DTR_5V   C5       1
+         R10      2
+         U5       7
+
+GATE_CMD T1       3
+         U5       1
+
+GND      C1       2
+         C10      1
+         C12      2
+         C13      2
+         C15      2
+         C2       1
+         C3       1
+         C4       1
+         C6       1
+         C7       2
+         C9       2
+         GROUND1  2
+         ICSP     6
+         IOH      4
+         L        C
+         PC1      -
+         PC2      -
+         POWER    6
+         POWER    7
+         R10      1
+         R14      1
+         R16      1
+         R6       1
+         RESET    A
+         RESET    A'
+         SW2      A
+         U1       1
+         U3       2
+         U3       THERM
+         U4       2
+         U5       4
+         X2       GND
+         X2       GNDBREAK
+         X3       GND
+         Y2       2
+         ZU4      21
+         ZU4      5
+
+IO0      IOL      8
+         R11      1
+         ZU4      30
+
+IO1      IOL      7
+         R12      1
+         ZU4      31
+
+IO2      IOL      6
+         ZU4      32
+
+IO3      IOL      5
+         ZU4      1
+
+IO4      IOL      4
+         ZU4      2
+
+IO5      IOL      3
+         ZU4      9
+
+IO6      IOL      2
+         ZU4      10
+
+IO7      IOL      1
+         ZU4      11
+
+IO8      IOH      10
+         ZU4      12
+
+IO9      IOH      9
+         ZU4      13
+
+MISO     ICSP     1
+         IOH      6
+         ZU4      16
+
+MOSI     ICSP     4
+         IOH      7
+         ZU4      15
+
+N$1      L        A
+         R9       1
+
+N$2      FB2      1
+         GROUND1  1
+
+N$3      ON       C
+         R6       2
+
+N$5      R3       1
+         RXLED    C
+
+N$7      R1       1
+         TXLED    C
+
+N$11     R15      1
+         R16      2
+         U5       6
+
+N$13     JP1      1
+         R7       1
+         SW2      B
+         T2       3
+
+N$15     D1       C
+         R7       2
+         T2       2
+
+N$16     C7       1
+         U3       16
+
+PWRIN    D1       A
+         X2       PWR
+
+RESET    C5       2
+         D2       A
+         ICSP     5
+         POWER    3
+         R8       1
+         RESET    B
+         RESET    B'
+         RESET-EN 1
+         RESET-EN 2
+         ZU4      29
+
+RXD      R11      2
+         U3       21
+
+RXLED    R3       2
+         U3       13
+
+SCK      ICSP     3
+         IOH      5
+         R9       2
+         ZU4      17
+
+SS       IOH      8
+         ZU4      14
+
+TXD      R12      2
+         U3       20
+
+TXLED    R1       2
+         U3       14
+
+USBVCC   C1       1
+         C15      1
+         F2       2
+         RXLED    A
+         T1       1
+         TXLED    A
+         U3       8
+
+USHIELD  FB2      2
+         X3       BASE@1
+         X3       BASE@2
+         X3       SPRT@1
+         X3       SPRT@2
+         X3       SPRT@3
+         X3       SPRT@4
+
+VBUS     F2       1
+         X3       VBUS
+
+VCCIO    C6       2
+         D2       C
+         FB1      1
+         ICSP     2
+         POWER    2
+         R8       2
+         VSELECT  2
+         ZU4      4
+
+VIN      C12      1
+         PC1      +
+         POWER    8
+         R13      2
+         T2       1
+         U1       3
+
+XTAL1    Y2       3
+         ZU4      7
+
+XTAL2    Y2       1
+         ZU4      8
+

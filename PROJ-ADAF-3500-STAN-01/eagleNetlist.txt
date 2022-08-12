@@ -1,0 +1,104 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                 Part     Pad
+
+!RESET              IC3      26
+                    JP3      5
+                    Q2       A
+                    Q2       A'
+
+3.3V                C2       1
+                    C8       1
+                    IC3      30
+                    IC3      9
+                    JP4      1
+                    LED1     3
+                    R4       2
+                    U1       5
+
+A3                  IC3      1
+                    LED1     6
+
+D+                  CN1      D+
+                    IC3      24
+
+D-                  CN1      D-
+                    IC3      23
+
+D0_A4_PA08_SDA      IC3      11
+                    JP4      4
+
+D1_A0_PA02          IC3      3
+                    JP4      3
+
+D2_A1_PA09_SCL_MISO IC3      12
+                    JP4      2
+
+D3_A3_PA07_RXD_SCK  IC3      8
+                    JP3      4
+
+D4_A2_PA06_TXD_MOSI IC3      7
+                    JP3      3
+
+GND                 BAT      1
+                    C1       2
+                    C2       2
+                    C3       2
+                    C8       2
+                    CN1      BASE@1
+                    CN1      BASE@2
+                    CN1      GND
+                    CN1      SPRT@1
+                    CN1      SPRT@2
+                    CN1      SPRT@3
+                    CN1      SPRT@4
+                    IC3      10
+                    IC3      28
+                    IC3      33
+                    JP3      2
+                    L        C
+                    LED1     4
+                    PWR      C
+                    Q2       B
+                    Q2       B'
+                    U1       2
+
+N$1                 L        A
+                    R1       1
+
+N$2                 IC3      13
+                    R1       2
+
+N$3                 IC3      31
+                    SWC      TP
+
+N$4                 IC3      32
+                    SWD      TP
+
+N$6                 PWR      A
+                    R4       1
+
+N$8                 IC3      2
+                    LED1     5
+
+VBAT                BAT      2
+                    D3       A
+                    JP3      1
+
+VBUS                CN1      VBUS
+                    D2       A
+                    JP4      5
+
+VDDCORE             C3       1
+                    IC3      29
+
+VOUT                C1       1
+                    D2       C
+                    D3       C
+                    U1       1
+                    U1       3
+

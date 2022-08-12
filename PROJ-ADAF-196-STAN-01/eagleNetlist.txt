@@ -1,0 +1,150 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3V       JP1      2
+         JP8      5
+         U$1      3V
+
+GND      J1       1
+         J1       2
+         JP1      4
+         JP1      5
+         JP4      2
+         JP6      7
+         JP7      7
+         JP7      8
+         JP8      2
+         JP8      3
+         R1       1
+         R2       1
+         RESET    3
+         RESET    4
+         U$1      GND
+         U$1      GND1
+         U$1      GND2
+
+N$1      JP3      1
+         JP5      8
+         U$1      D7
+
+N$2      JP3      2
+         JP5      7
+         U$1      D6
+
+N$3      JP3      3
+         JP5      6
+         U$1      D5
+
+N$4      JP3      4
+         JP5      5
+         U$1      D4
+
+N$5      JP3      5
+         JP5      4
+         U$1      D3
+
+N$6      JP3      6
+         JP5      3
+         U$1      D2
+
+N$7      JP3      7
+         JP5      2
+         U$1      D1
+
+N$8      JP3      8
+         JP5      1
+         U$1      D0
+
+N$9      JP4      1
+         JP6      8
+         U$1      AREF
+
+N$10     LED      K
+         R1       2
+
+N$11     JP4      3
+         JP6      6
+         U$1      D13
+
+N$12     JP4      4
+         JP6      5
+         U$1      D12
+
+N$13     JP4      5
+         JP6      4
+         U$1      D11
+
+N$14     JP4      6
+         JP6      3
+         U$1      D10
+
+N$15     JP4      7
+         JP6      2
+         U$1      D9
+
+N$16     JP4      8
+         JP6      1
+         U$1      D8
+
+N$17     JP2      1
+         JP7      6
+         U$1      A5
+
+N$18     JP2      2
+         JP7      5
+         U$1      A4
+
+N$19     JP2      3
+         JP7      4
+         U$1      A3
+
+N$20     JP2      4
+         JP7      3
+         U$1      A2
+
+N$21     JP2      5
+         JP7      2
+         U$1      A1
+
+N$22     JP2      6
+         JP7      1
+         U$1      A0
+
+N$26     POWER    K
+         R2       2
+
+N$27     JP9      1
+         LED      A
+
+N$29     CN1      4
+         Z        1
+
+N$30     JP1      1
+         JP8      6
+         RESET    1
+         RESET    2
+         U$1      RESET
+
+N$33     CN1      3
+         Y        1
+
+N$34     CN1      2
+         X        1
+
+N$35     CN1      1
+         W        1
+
+VCC      JP1      3
+         JP8      4
+         POWER    A
+         U$1      5V
+
+VIN      JP1      6
+         JP8      1
+         U$1      VIN
+

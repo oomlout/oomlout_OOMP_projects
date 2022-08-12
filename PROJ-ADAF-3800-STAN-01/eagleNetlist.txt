@@ -1,0 +1,203 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  C1       2
+                        IC2      40
+                        JP4      14
+                        R4       2
+                        SW1      1
+                        SW1      3
+
++3V3                    C5       1
+                        C7       1
+                        C8       1
+                        IC2      17
+                        IC2      36
+                        IC2      44
+                        IC2      6
+                        JP4      13
+                        L2       3
+                        R2       1
+                        R3       2
+                        R4       1
+                        SJ1      2
+                        U1       8
+                        U2       5
+
+A0                      IC2      3
+                        JP4      10
+
+A1                      IC2      10
+                        JP4      9
+
+A2                      IC2      7
+                        JP4      8
+
+A3                      IC2      8
+                        JP4      7
+
+A4                      IC2      9
+                        JP4      6
+
+A5                      IC2      11
+                        JP4      5
+
+AREF                    C14      1
+                        IC2      4
+                        JP4      12
+                        SJ1      1
+
+D+                      IC2      34
+                        X3       D+
+
+D-                      IC2      33
+                        X3       D-
+
+D2                      IC2      12
+                        JP4      1
+
+D3                      IC2      37
+                        JP1      4
+
+D4                      IC2      23
+                        JP1      5
+
+D5                      IC1      2
+                        IC2      24
+
+D5_5V                   IC1      4
+                        JP2      10
+
+D7                      IC2      27
+                        JP2      9
+
+D9                      IC2      28
+                        JP2      8
+
+D10                     IC2      29
+                        JP2      7
+
+D11                     IC2      30
+                        JP2      6
+
+D12                     IC2      32
+                        JP2      5
+
+D13                     IC2      31
+                        JP2      4
+                        R7       1
+
+DOTSTAR_CLK             IC2      47
+                        L2       5
+
+DOTSTAR_DATA            IC2      48
+                        L2       6
+
+EN                      JP1      1
+                        R1       2
+                        U2       3
+
+GND                     C1       1
+                        C14      2
+                        C5       2
+                        C6       2
+                        C7       2
+                        C8       2
+                        C9       2
+                        IC1      1
+                        IC1      3
+                        IC2      18
+                        IC2      35
+                        IC2      42
+                        IC2      5
+                        IC2      THERMAL
+                        JP2      2
+                        L        C
+                        L2       4
+                        SW1      2
+                        SW1      4
+                        U1       4
+                        U2       2
+                        X3       BASE@1
+                        X3       BASE@2
+                        X3       GND
+                        X3       SPRT@1
+                        X3       SPRT@2
+                        X3       SPRT@3
+                        X3       SPRT@4
+
+MISO                    IC2      38
+                        JP4      2
+
+MOSI                    IC2      1
+                        JP4      3
+
+N$2                     L        A
+                        R7       2
+
+QSPI_CS                 IC2      20
+                        R2       2
+                        U1       1
+
+QSPI_DATA[0]            IC2      13
+                        U1       5
+
+QSPI_DATA[1]            IC2      14
+                        U1       2
+
+QSPI_DATA[2]            IC2      15
+                        U1       3
+
+QSPI_DATA[3]            IC2      16
+                        U1       7
+
+QSPI_SCK                IC2      19
+                        U1       6
+
+RX_D0                   IC2      25
+                        JP2      14
+
+SCK                     IC2      2
+                        JP4      4
+
+SCL                     IC2      22
+                        JP2      11
+
+SDA                     IC2      21
+                        JP2      12
+
+SWCLK                   IC2      45
+                        JP1      3
+                        R3       1
+
+SWDIO                   IC2      46
+                        JP1      2
+
+TX_D1                   IC2      26
+                        JP2      13
+
+VBAT                    D1       A
+                        JP2      1
+
+VBUS                    D2       A
+                        JP2      3
+                        X3       VBUS
+
+VDDCORE                 C9       1
+                        IC2      41
+
+VHI                     C6       1
+                        D1       C
+                        D2       C
+                        IC1      5
+                        JP4      11
+                        R1       1
+                        U2       1
+
+VSW                     IC2      43
+

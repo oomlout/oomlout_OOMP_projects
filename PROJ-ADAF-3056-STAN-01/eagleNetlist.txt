@@ -1,0 +1,205 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  JP1      16
+                        SW1      A
+                        SW1      A'
+                        U1       26
+
++3V3                    C1       1
+                        C10      1
+                        C2       1
+                        C5       1
+                        C7       1
+                        C8       1
+                        JP1      15
+                        R1       2
+                        U1       19
+                        U1       20
+                        U1       46
+                        U1       47
+                        U1       49
+                        U2       5
+                        U4       3
+                        U4       7
+                        U4       8
+
+A0/WAKEUP               JP1      12
+                        U1       27
+
+A1/ADC1                 JP1      7
+                        SJ1      1
+                        U1       8
+
+A2/ADC2                 JP1      8
+                        U1       7
+
+A3/ADC3                 JP1      9
+                        U1       6
+
+A4/CS                   JP3      6
+                        SJ2      2
+                        U1       22
+
+A5/SCK1                 JP1      6
+                        U1       24
+
+A6/MISO1                JP1      4
+                        U1       25
+
+A7/MOSI1                JP1      5
+                        U1       23
+
+A9/TXD                  JP1      2
+                        U1       39
+
+A10/RXD                 JP1      3
+                        U1       38
+
+A15                     JP3      8
+                        R7       1
+                        U1       43
+
+ANT                     U1       15
+                        X2       FEED
+
+B4/MISO3                JP3      7
+                        U1       42
+                        U4       2
+
+B5/MOSI3                JP3      4
+                        U1       3
+                        U4       5
+
+B6/SCL                  JP3      11
+                        U1       5
+
+B7/SDA                  JP3      12
+                        U1       4
+
+C2/ADC12                JP1      10
+                        U1       2
+
+C3/ADC13                JP1      11
+                        U1       1
+
+C5                      JP3      10
+                        U1       54
+
+C7                      JP3      9
+                        U1       53
+
+D+                      U1       51
+                        X3       D+
+
+D-                      U1       52
+                        X3       D-
+
+DFU/SCK3                JP1      1
+                        U1       41
+                        U4       6
+
+EN                      JP3      2
+                        R4       1
+                        U2       3
+
+GND                     C1       2
+                        C10      2
+                        C2       2
+                        C3       2
+                        C5       2
+                        C6       2
+                        C7       2
+                        C8       2
+                        JP1      13
+                        L        C
+                        R6       2
+                        R8       2
+                        SW1      B
+                        SW1      B'
+                        U1       14
+                        U1       16
+                        U1       17
+                        U1       18
+                        U1       21
+                        U1       29
+                        U1       30
+                        U1       37
+                        U1       45
+                        U1       48
+                        U1       50
+                        U1       55
+                        U1       56
+                        U1       57
+                        U1       58
+                        U1       59
+                        U1       60
+                        U1       61
+                        U1       62
+                        U1       63
+                        U1       64
+                        U1       65
+                        U1       66
+                        U1       67
+                        U2       2
+                        U3       2
+                        U4       4
+                        X1       1
+                        X3       BASE@1
+                        X3       BASE@2
+                        X3       GND
+                        X3       SPRT@1
+                        X3       SPRT@2
+                        X3       SPRT@3
+                        X3       SPRT@4
+
+N$1                     CHG      C
+                        R2       1
+
+N$2                     L        A
+                        R7       2
+
+N$3                     R2       2
+                        U3       1
+
+N$4                     R8       1
+                        U3       5
+
+N$5                     R3       2
+                        R6       1
+                        SJ1      2
+
+N$6                     R1       1
+                        SJ2      1
+                        U4       1
+
+SWCLK                   JP2      1
+                        U1       40
+
+SWDIO                   JP3      5
+                        U1       44
+
+VBAT                    C3       1
+                        D1       A
+                        JP3      1
+                        R3       1
+                        U3       3
+                        X1       2
+
+VBUS                    C6       1
+                        CHG      A
+                        D1       C
+                        JP3      3
+                        R4       2
+                        U2       1
+                        U3       4
+                        X3       VBUS
+
+VRTC                    JP1      14
+                        U1       28
+

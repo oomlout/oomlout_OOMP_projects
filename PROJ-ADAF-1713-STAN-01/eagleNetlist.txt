@@ -1,0 +1,64 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 20:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A/R      J2       5
+         U$1      P$9
+
+GAIN     J2       3
+         U$1      P$10
+
+GND      C1       2
+         C2       2
+         C5       2
+         C8       2
+         FB2      2
+         Q1       -
+         R2       1
+         U$1      P$11
+         U$1      P$4
+         U$1      P$7
+         U$1      P$THERMAL
+
+INPUT    C9       2
+         Q1       +
+         R3       1
+
+N$2      FB1      1
+         J2       2
+
+N$3      FB2      1
+         J2       1
+
+N$5      C9       1
+         U$1      P$8
+
+N$7      C8       1
+         U$1      P$12
+
+N$8      C2       1
+         U$1      P$1
+
+N$9      C5       1
+         U$1      P$3
+
+N$10     R1       1
+         R2       2
+         U$1      P$14
+
+N$11     R1       2
+         R3       2
+         U$1      P$13
+
+OUTPUT   J2       4
+         U$1      P$6
+
+VDD      C1       1
+         FB1      2
+         U$1      P$2
+         U$1      P$5
+

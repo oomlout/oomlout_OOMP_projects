@@ -1,0 +1,306 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
++5V         C3       2
+            CHG1     A
+            D4       A
+            PC2      +
+            Q1       1
+            Q2       2
+            R14      2
+            U1       2
+            U1       4
+            U2       4
+
+3.3V        C10      1
+            C13      1
+            C17      1
+            C18      1
+            C2       1
+            C4       1
+            C5       1
+            C7       1
+            CONN1    2
+            IOH      3
+            POWER    2
+            POWER    4
+            R1       1
+            R1       5
+            R1       6
+            R6       2
+            SJ1      2
+            U3       2
+            U4       5
+            X2       1
+
+AD0         AD       1
+            U3       20
+
+AD1         AD       2
+            U3       21
+
+AD2         AD       3
+            U3       4
+
+AD3         AD       4
+            U3       5
+
+AD4         AD       5
+            U3       6
+
+AD5         AD       6
+            U3       7
+
+BOOT0       SW1      2
+            TP1      P$1
+            U3       3
+
+D+          U3       23
+            X4       A6
+            X4       B6
+
+D-          U3       22
+            X4       A7
+            X4       B7
+
+D5          IOL      8
+            U3       8
+
+D6          IOL      7
+            U3       9
+
+D7          IOL      6
+            U3       10
+
+D8          IOL      5
+            U3       11
+
+D9          IOL      4
+            U3       12
+
+D10         IOL      3
+            U3       13
+
+D11         IOL      2
+            U3       14
+
+D12         IOL      1
+            U3       15
+
+D13         IOH      10
+            U3       16
+
+D14         IOH      9
+            U3       17
+
+D15         IOH      8
+            U3       18
+
+D16         IOH      7
+            U3       19
+
+D21         IOH      6
+            U3       24
+
+EN          R12      1
+            SW4      B
+            U4       3
+
+GND         C1       2
+            C10      2
+            C11      2
+            C12      2
+            C13      2
+            C14      2
+            C15      2
+            C17      2
+            C18      2
+            C2       2
+            C3       1
+            C4       2
+            C5       2
+            C6       2
+            C7       2
+            C8       2
+            CONN1    1
+            CONN1    MT1
+            CONN1    MT2
+            IC2      1
+            IC2      2
+            ICSP     6
+            IOH      4
+            L        C
+            LED1     4
+            ON       C
+            PC1      -
+            PC2      -
+            POWER    6
+            POWER    7
+            R14      1
+            R16      1
+            R17      1
+            R3       1
+            R4       2
+            R8       1
+            SW1      1
+            SW3      1
+            SW4      C
+            U1       1
+            U2       2
+            U3       1
+            U3       26
+            U3       42
+            U3       43_1
+            U3       43_10
+            U3       43_11
+            U3       43_12
+            U3       43_13
+            U3       43_14
+            U3       43_15
+            U3       43_16
+            U3       43_17
+            U3       43_18
+            U3       43_19
+            U3       43_2
+            U3       43_20
+            U3       43_21
+            U3       43_3
+            U3       43_4
+            U3       43_5
+            U3       43_6
+            U3       43_7
+            U3       43_8
+            U3       43_9
+            U4       2
+            X1       1
+            X2       3
+            X2       5
+            X2       7
+            X2       9
+            X4       A1B12
+            X4       B1A12
+            X5       GND
+            X5       GNDBREAK
+
+IO38_DBLTAP C6       1
+            R17      2
+            U3       32
+
+MISO        ICSP     1
+            U3       31
+
+MOSI        ICSP     4
+            U3       29
+
+N$1         L        A
+            R9       1
+
+N$2         Q2       1
+            R15      1
+            R16      2
+
+N$3         ON       A
+            R6       1
+
+N$4         CHG1     C
+            R2       1
+
+N$5         LED1     2
+            SJ1      1
+
+N$6         R2       2
+            U2       1
+
+N$7         R8       2
+            X4       A5
+
+N$8         R3       2
+            X4       B5
+
+N$9         R4       1
+            U2       5
+
+N$13        F2       1
+            X4       A4B9
+            X4       B4A9
+
+NEOPIX      LED1     1
+            U3       39
+
+PWR         D1       A
+            X5       PWR
+
+RESET       C14      1
+            ICSP     5
+            POWER    3
+            R1       8
+            SW3      2
+            U3       41
+            X2       10
+
+RXD0        JP2      2
+            U3       38
+
+SCK         ICSP     3
+            U3       30
+
+SCL         CONN1    4
+            IC2      8
+            IOH      1
+            R1       3
+            U3       28
+
+SDA         CONN1    3
+            IC2      7
+            IOH      2
+            R1       4
+            U3       27
+
+TCK         U3       33
+            X2       4
+
+TDI         U3       35
+            X2       8
+
+TDO         U3       34
+            X2       6
+
+TMS_D42     IOH      5
+            R9       2
+            U3       36
+            X2       2
+
+TXD0        JP2      1
+            U3       37
+
+VBAT        C8       1
+            IC2      3
+            Q1       3
+            U2       3
+            X1       2
+
+VBUS        C1       1
+            C15      1
+            F2       2
+            Q2       3
+
+VHIGH       C11      1
+            D4       C
+            ICSP     2
+            POWER    5
+            Q1       2
+            R12      2
+            U4       1
+
+VIN         C12      1
+            D1       C
+            PC1      +
+            POWER    8
+            R15      2
+            U1       3
+

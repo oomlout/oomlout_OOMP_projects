@@ -1,0 +1,103 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C3       1
+         R1       2
+         R2       2
+         U1       5
+         U1       6
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         D3       C
+         ON/OFF   P2
+         ON/OFF   S1
+         U$9      6
+         U$9      6'
+         U$9      9
+         U$9      9'
+         U1       2
+         U1       THERM
+         X1       BASE@1
+         X1       BASE@2
+         X1       GND
+         X1       SPRT@1
+         X1       SPRT@2
+         X1       SPRT@3
+         X1       SPRT@4
+
+N$1      D1       A
+         R1       1
+
+N$2      U1       3
+         X1       D+
+
+N$3      U1       4
+         X1       D-
+
+N$4      C1       1
+         U1       16
+
+N$5      D2       A
+         R2       1
+
+N$6      D1       C
+         U1       14
+
+N$7      D2       C
+         U1       13
+
+N$8      U$9      1
+         U$9      1'
+
+N$9      U$9      3
+         U$9      3'
+
+N$10     U$9      7
+         U$9      7'
+
+N$11     U$9      5
+         U$9      5'
+
+N$12     R3       2
+         SJ1      2
+         U$9      2
+         U$9      2'
+         U$9      4
+         U$9      4'
+
+N$13     ON/OFF   O2
+         R7       1
+         T2       3
+
+N$14     ON/OFF   S2
+
+N$15     D3       A
+         R3       1
+
+RXD      U$9      10
+         U$9      10'
+         U1       21
+
+TXD      U$9      8
+         U$9      8'
+         U1       20
+
+VBUS     C2       1
+         C4       1
+         R7       2
+         T2       2
+         U1       7
+         U1       8
+         X1       VBUS
+
+VIN      SJ1      1
+         T2       1
+

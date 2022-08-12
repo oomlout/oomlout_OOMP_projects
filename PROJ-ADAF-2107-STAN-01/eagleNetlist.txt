@@ -1,0 +1,101 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 22:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+AGND     C3       1
+         C4       1
+         C5       2
+         C6       2
+         C7       1
+         R5       2
+         SW1      O2
+         U1       15
+         U1       9
+         U2       15
+         U2       9
+         X2       GND
+
+AVCC     C3       2
+         C5       1
+         C6       1
+         C7       2
+         D1       A
+         U1       16
+         U2       10
+         U2       13
+         U2       16
+         X2       VBUS
+
+GND      C1       2
+         C10      1
+         C2       2
+         C8       2
+         C9       2
+         SW1      O1
+         U1       2
+         U1       8
+         U2       2
+         U2       8
+         X3       GND
+         X3       GND1
+         X3       GND2
+         X3       GND3
+         X3       GND4
+
+N$1      R2       1
+         X3       D+
+
+N$2      R2       2
+         U1       7
+
+N$3      R1       2
+         U1       6
+
+N$4      R1       1
+         X3       D-
+
+N$5      R4       1
+         U1       10
+
+N$6      R4       2
+         X2       D+
+
+N$7      R3       2
+         X2       D-
+
+N$8      R3       1
+         U1       11
+
+N$9      D1       C
+         R5       1
+
+SPD      SW1      P2
+         U1       13
+
+SPU      SW1      P1
+         U1       5
+
+VCC      C1       1
+         C10      2
+         C8       1
+         C9       1
+         U1       1
+         U2       1
+         U2       6
+         U2       7
+         X3       VBUS
+
+VDD1     C2       1
+         SW1      S1
+         U1       3
+         U1       4
+
+VDD2     C4       2
+         SW1      S2
+         U1       12
+         U1       14
+
