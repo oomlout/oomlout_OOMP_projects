@@ -1,0 +1,136 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V-RIN  J2       17
+          JP3      2
+          U1       P$18
+
+3.3V-ROUT J1       17
+          JP3      3
+          U1       P$17
+
+CLK       J1       15
+          U1       P$15
+
+DMA-RX    J2       12
+          U1       P$23
+
+DMA-TX    J2       13
+          U1       P$22
+
+EPC-A     J1       6
+          U1       P$6
+
+EPC-B     J1       7
+          U1       P$7
+
+F_AWAKE   J1       9
+          U1       P$9
+
+GND       J2       16
+          JP3      1
+          R1       2
+          R2       2
+          U1       P$19
+          U1       P$36
+          U1       P$37
+          U1       P$38
+          U1       P$39
+          U1       P$40
+          U1       P$41
+          U1       P$42
+          U1       P$43
+          U1       P$44
+
+GPIO-4    J2       6
+          LED1     A
+          U1       P$29
+
+GPIO-5    J2       7
+          U1       P$28
+
+GPIO-6    J2       8
+          LED2     A
+          U1       P$27
+
+GPIO-7    J2       9
+          U1       P$26
+
+GPIO-8    J2       10
+          U1       P$25
+
+GPIO-9    J2       11
+          JP2      2
+          U1       P$24
+
+GPIO-12   J1       11
+          U1       P$11
+
+GPIO-13   J1       10
+          U1       P$10
+
+MISO      J1       16
+          U1       P$16
+
+MOSI      J1       14
+          U1       P$14
+
+N$1       LED2     C
+          R2       1
+
+N$2       LED1     C
+          R1       1
+
+RESET     J1       5
+          U1       P$5
+
+RX        J1       12
+          U1       P$12
+
+SEN0      J2       1
+          U1       P$34
+
+SEN1      J2       5
+          U1       P$30
+
+SEN2      J2       4
+          U1       P$31
+
+SEN3      J2       3
+          U1       P$32
+
+SEN4      J1       2
+          U1       P$2
+
+SEN5      J1       3
+          U1       P$3
+
+SEN6      J1       1
+          U1       P$1
+
+SEN7      J1       4
+          U1       P$4
+
+SENSE-PWR J2       2
+          U1       P$33
+
+S_CAP     J1       8
+          U1       P$8
+
+TX        J1       13
+          U1       P$13
+
+VDD-BATT  J2       15
+          JP1      1
+          U1       P$20
+
+VDD-IN    J2       14
+          JP1      2
+          JP2      1
+          U1       P$21
+

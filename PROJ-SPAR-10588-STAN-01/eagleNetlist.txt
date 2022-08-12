@@ -1,0 +1,23 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 11:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+GND        JP1      1
+           U1       SLEEVE
+
+RING       JP1      2
+           U1       RING
+
+RING_SHUNT JP1      3
+           U1       RSH
+
+TIP        JP1      5
+           U1       TIP
+
+TIP_SHUNT  JP1      4
+           U1       TSH
+

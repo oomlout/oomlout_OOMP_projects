@@ -1,0 +1,152 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 03:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       2
+         C10      2
+         CONN1    2
+         DISPLAY1 1
+         DISPLAY1 4
+         DISPLAY1 5
+         DISPLAY1 6
+         IC1      3
+         R1       2
+         R11      2
+         R12      2
+         R13      2
+         R14      2
+         R16      1
+         R18      1
+         R3       2
+         RPI1     1
+         RPI1     17
+
+5.0V     RPI1     2
+         RPI1     4
+
+CE1      RPI1     26
+
+EECLK    RPI1     28
+
+EEDATA   RPI1     27
+
+GND      C1       1
+         C10      1
+         CONN1    1
+         DISPLAY1 11
+         DISPLAY1 13
+         DISPLAY1 14
+         DISPLAY1 15
+         DISPLAY1 16
+         DISPLAY1 17
+         DISPLAY1 18
+         DISPLAY1 19
+         DISPLAY1 20
+         DISPLAY1 23
+         DISPLAY1 24
+         DISPLAY1 3
+         IC1      1
+         Q3       2
+         R2       1
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         SW1      B
+         SW1      B'
+         SW2      B
+         SW2      B'
+         SW3      4
+
+GPIO4    R14      1
+         RPI1     7
+         SW3      6
+
+GPIO5    R11      1
+         RPI1     29
+         SW2      A
+         SW2      A'
+
+GPIO6    R12      1
+         RPI1     31
+         SW1      A
+         SW1      A'
+
+GPIO12   RPI1     32
+
+GPIO13   RPI1     33
+
+GPIO16   RPI1     36
+
+GPIO17   R16      2
+         RPI1     11
+         SW3      1
+
+GPIO18   RPI1     12
+
+GPIO19   RPI1     35
+
+GPIO20   RPI1     38
+
+GPIO21   RPI1     40
+
+GPIO22   R18      2
+         RPI1     15
+         SW3      3
+
+GPIO23   R13      1
+         RPI1     16
+         SW3      5
+
+GPIO24   RPI1     18
+
+GPIO27   R3       1
+         RPI1     13
+         SW3      2
+
+LEDK     DISPLAY1 2
+         R5       2
+
+MISO     RPI1     21
+
+MOSI     DISPLAY1 12
+         RPI1     19
+
+N$1      Q3       3
+         R5       1
+
+RXD      RPI1     10
+
+SCL      CONN1    4
+         RPI1     5
+
+SCLK     DISPLAY1 9
+         RPI1     23
+
+SDA      CONN1    3
+         RPI1     3
+
+TFT_CS   DISPLAY1 8
+         RPI1     24
+
+TFT_DC   DISPLAY1 10
+         RPI1     22
+
+TFT_LITE Q3       1
+         R2       2
+         RPI1     37
+
+TFT_RST  DISPLAY1 7
+         IC1      2
+         R1       1
+
+TXD      RPI1     8
+

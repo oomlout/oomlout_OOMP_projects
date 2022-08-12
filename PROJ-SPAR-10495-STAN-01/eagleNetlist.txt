@@ -1,0 +1,14 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 11:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      BAT1     2
+         J3       1
+
+J2       BAT1     3
+         J3       2
+

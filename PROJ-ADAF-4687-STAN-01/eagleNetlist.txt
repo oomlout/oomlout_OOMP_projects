@@ -1,0 +1,128 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       2
+         C15      2
+         C21      1
+         CONN2    2
+         EINK1    15
+         EINK1    16
+         L1       P$2
+         R2       2
+         R3       2
+         R5       2
+         R6       2
+         RPI2     1
+         RPI2     17
+
+5.0V     RPI2     2
+         RPI2     4
+
+BUSY     EINK1    9
+         RPI2     11
+
+CS       EINK1    12
+         R5       1
+         RPI2     24
+
+DC       EINK1    11
+         RPI2     15
+
+GDR      EINK1    2
+         Q5       1
+
+GND      C1       1
+         C15      1
+         C16      1
+         C2       1
+         C21      2
+         C22      1
+         C23      1
+         C24      1
+         C3       2
+         C4       2
+         C6       1
+         CONN2    1
+         D2       C
+         EINK1    17
+         EINK1    8
+         R4       2
+         RPI2     14
+         RPI2     20
+         RPI2     25
+         RPI2     30
+         RPI2     34
+         RPI2     39
+         RPI2     6
+         RPI2     9
+         SW3      P$1
+         SW4      P$1
+
+GPIO5    R2       1
+         RPI2     29
+         SW4      P$2
+
+GPIO6    R3       1
+         RPI2     31
+         SW3      P$2
+
+MOSI     EINK1    14
+         RPI2     19
+
+N$2      C5       2
+         D1       C
+         D2       A
+
+N$3      C5       1
+         D3       A
+         L1       P$1
+         Q5       3
+
+N$4      C16      2
+         EINK1    5
+
+N$5      C2       2
+         EINK1    18
+
+N$6      C22      2
+         EINK1    20
+
+N$9      C6       2
+         EINK1    4
+
+N$27     C23      2
+         EINK1    22
+
+N$33     C24      2
+         EINK1    24
+
+RESE     EINK1    3
+         Q5       2
+         R4       1
+
+RESET    EINK1    10
+         R6       1
+         RPI2     13
+
+SCLK     EINK1    13
+         RPI2     23
+
+SCL_3V   CONN2    4
+         RPI2     5
+
+SDA_3V   CONN2    3
+         RPI2     3
+
+VGH      C3       1
+         D3       C
+         EINK1    21
+
+VGL      C4       1
+         D1       A
+         EINK1    23
+

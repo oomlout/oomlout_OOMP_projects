@@ -1,0 +1,180 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part      Pad
+
++5V      C1        1
+         C2        1
+         JP1       4
+         M1        5V
+         U$24      P$3
+         VCCSTRIP1 P$1
+         VCCSTRIP2 P$1
+
+3.3V     JP1       5
+         M1        3V
+
+GND      C1        2
+         C2        2
+         GNDSTRIP1 P$1
+         GNDSTRIP2 P$1
+         JP1       2
+         JP1       3
+         LED1      K
+         LED2      K
+         M1        GND
+         M1        GND@1
+         M1        GND@2
+         M1        GND@3
+         RESET     1
+         RESET     2
+         S1        3
+         S1        4
+         U$1       4
+         U$43      P$3
+
+N$2      M1        AREF
+         U$1       3
+
+N$4      JP1       8
+         M1        RESERVED
+
+N$5      M1        D13
+         U$1       5
+
+N$8      LED1      A
+         R1        1
+
+N$15     JP1       7
+         M1        IOREF
+
+N$16     R1        2
+         U$7       1
+
+N$40     R2        2
+         U$4       1
+
+N$41     LED2      A
+         R2        1
+
+N$45     M1        D12
+         U$1       6
+
+N$54     M1        D11
+         U$1       7
+
+N$55     M1        D10
+         U$1       8
+
+N$56     M1        D9
+         U$1       9
+
+N$57     M1        D8
+         U$1       10
+
+N$58     JP9       1
+         M1        A0
+
+N$59     JP9       2
+         M1        A1
+
+N$70     JP9       3
+         M1        A2
+
+N$88     JP9       4
+         M1        A3
+
+N$89     JP9       5
+         M1        A4
+
+N$92     JP9       6
+         M1        A5
+
+N$93     JP4       1
+         M1        D0
+
+N$94     JP4       2
+         M1        D1
+
+N$115    JP4       3
+         M1        D2
+
+N$116    JP4       4
+         M1        D3
+
+N$117    JP4       5
+         M1        D4
+
+N$126    IC1       P$1
+         U$2       1
+
+N$127    IC1       P$2
+         U$6       1
+
+N$135    JP4       6
+         M1        D5
+
+N$145    JP4       7
+         M1        D6
+
+N$149    IC1       P$3
+         U$8       1
+
+N$150    IC1       P$4
+         U$9       1
+
+N$151    IC1       P$5
+         U$19      1
+
+N$152    JP4       8
+         M1        D7
+
+N$153    JP1       1
+         M1        VIN
+
+N$154    M1        SCL
+         U$1       1
+
+N$155    IC1       P$6
+         U$25      1
+
+N$156    IC1       P$7
+         U$27      1
+
+N$157    IC1       P$8
+         U$34      1
+
+N$158    IC1       P$9
+         U$35      1
+
+N$159    IC1       P$10
+         U$37      1
+
+N$164    M1        SDA
+         U$1       2
+
+N$165    IC1       P$11
+         U$38      1
+
+N$166    IC1       P$12
+         U$39      1
+
+N$167    IC1       P$13
+         U$40      1
+
+N$178    IC1       P$14
+         U$41      1
+
+N$194    S1        1
+         S1        2
+         U$16      1
+
+RESET    JP1       6
+         M1        RESET
+         M1        RESET_ICSP
+         RESET     3
+         RESET     4
+

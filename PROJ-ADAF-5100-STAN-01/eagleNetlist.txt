@@ -1,0 +1,381 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  IC3      26
+                        R14      1
+                        SW2      2
+                        TP5      P$1
+
+1.2V                    C11      1
+                        C3       2
+                        C4       2
+                        IC3      23
+                        IC3      45
+                        IC3      50
+
+3.3V                    C1       1
+                        C10      1
+                        C12      1
+                        C13      1
+                        C16      1
+                        C2       1
+                        C21      2
+                        C31      2
+                        C5       1
+                        C7       2
+                        C8       1
+                        CONN1    2
+                        IC3      1
+                        IC3      10
+                        IC3      22
+                        IC3      33
+                        IC3      42
+                        IC3      43
+                        IC3      44
+                        IC3      48
+                        IC3      49
+                        R14      6
+                        R14      7
+                        R14      8
+                        R2       1
+                        U1       8
+                        U2       5
+                        X2       5
+                        X2       7
+
+5.0V                    C22      2
+                        C23      2
+                        C24      2
+                        C25      2
+                        C26      1
+                        C27      1
+                        C28      1
+                        C29      1
+                        C6       1
+                        IC1      5
+                        IC2      5
+                        LED1     1-VDD
+                        LED10    1-VDD
+                        LED11    1-VDD
+                        LED12    1-VDD
+                        LED2     1-VDD
+                        LED3     1-VDD
+                        LED4     1-VDD
+                        LED5     1-VDD
+                        LED6     1-VDD
+                        LED7     1-VDD
+                        LED8     1-VDD
+                        LED9     1-VDD
+                        U2       1
+                        U2       3
+                        X1       A4B9
+                        X1       B4A9
+
+CC1                     R1       7
+                        X1       A5
+
+CC2                     R1       6
+                        X1       B5
+
+D+                      IC3      47
+                        R3       2
+
+D-                      IC3      46
+                        R4       2
+
+GND                     C1       2
+                        C10      2
+                        C11      2
+                        C12      2
+                        C13      2
+                        C14      1
+                        C16      2
+                        C19      1
+                        C2       2
+                        C20      1
+                        C21      1
+                        C22      1
+                        C23      1
+                        C24      1
+                        C25      1
+                        C26      2
+                        C27      2
+                        C28      2
+                        C29      2
+                        C3       1
+                        C30      1
+                        C31      1
+                        C4       1
+                        C5       2
+                        C6       2
+                        C7       1
+                        C8       2
+                        C9       1
+                        CONN1    1
+                        CONN1    MT1
+                        CONN1    MT2
+                        IC1      1
+                        IC1      3
+                        IC2      2
+                        IC3      19
+                        IC3      P$1
+                        L        C
+                        LED1     3-GND
+                        LED10    3-GND
+                        LED11    3-GND
+                        LED12    3-GND
+                        LED2     3-GND
+                        LED3     3-GND
+                        LED4     3-GND
+                        LED5     3-GND
+                        LED6     3-GND
+                        LED7     3-GND
+                        LED8     3-GND
+                        LED9     3-GND
+                        R1       2
+                        R1       3
+                        R10      2
+                        R12      1
+                        R14      5
+                        R7       1
+                        R9       1
+                        SW1      P$2
+                        SW1      P$C
+                        SW1      P$GND1
+                        SW1      P$GND2
+                        SW2      1
+                        SW2      MT1
+                        SW2      MT2
+                        U$1      2
+                        U$12     2
+                        U$13     2
+                        U$2      2
+                        U$3      2
+                        U$4      2
+                        U$40     2
+                        U$41     2
+                        U$42     2
+                        U$43     2
+                        U$5      2
+                        U$6      2
+                        U1       4
+                        U1       PAD
+                        U2       2
+                        X1       A1B12
+                        X1       B1A12
+                        X2       16
+                        X2       6
+                        X2       SUPPORT1
+                        X2       SUPPORT2
+
+GP1                     IC3      3
+                        U$40     1
+
+GP2                     IC3      4
+                        U$13     1
+
+GP3                     IC3      5
+                        U$12     1
+
+GP4                     IC3      6
+                        U$43     1
+
+GP5                     IC3      7
+                        U$42     1
+
+GP6                     IC3      8
+                        U$41     1
+
+GP7                     IC3      9
+                        U$6      1
+
+GP8                     IC3      11
+                        U$5      1
+
+GP9                     IC3      12
+                        U$4      1
+
+GP10                    IC3      13
+                        U$1      1
+
+GP11                    IC3      14
+                        U$2      1
+
+GP12                    IC3      15
+                        U$3      1
+
+LED                     IC3      16
+                        R1       1
+
+MISO                    IC3      40
+
+MOSI                    IC3      39
+                        X2       12
+
+N$1                     R3       1
+                        X1       A6
+                        X1       B6
+
+N$2                     L        A
+                        R1       8
+
+N$3                     R4       1
+                        X1       A7
+                        X1       B7
+
+N$4                     D3       A
+                        R11      2
+
+N$5                     C19      2
+                        IC3      20
+                        Y1       3
+
+N$6                     C20      2
+                        R6       1
+                        Y1       1
+
+N$7                     IC3      21
+                        R6       2
+
+N$8                     C18      2
+                        R5       1
+
+N$9                     IC2      3
+                        R5       2
+
+N$10                    LED1     2-DOUT
+                        LED2     4-DIN
+
+N$11                    LED2     2-DOUT
+                        LED3     4-DIN
+
+N$12                    LED4     2-DOUT
+                        LED5     4-DIN
+
+N$13                    LED5     2-DOUT
+                        LED6     4-DIN
+
+N$14                    LED7     2-DOUT
+                        LED8     4-DIN
+
+N$15                    LED8     2-DOUT
+                        LED9     4-DIN
+
+N$16                    LED10    2-DOUT
+                        LED11    4-DIN
+
+N$17                    LED11    2-DOUT
+                        LED12    4-DIN
+
+N$18                    LED3     2-DOUT
+                        LED4     4-DIN
+
+N$19                    LED6     2-DOUT
+                        LED7     4-DIN
+
+N$20                    LED10    4-DIN
+                        LED9     2-DOUT
+
+N$21                    R12      2
+                        X2       13
+
+N$22                    IC2      1
+                        SP2      +
+
+N$23                    C17      1
+                        X2       2
+
+N$24                    C17      2
+                        X2       1
+
+N$25                    C15      1
+                        X2       4
+
+N$26                    C15      2
+                        X2       3
+
+N$27                    IC2      6
+                        SP2      -
+
+N$100                   C18      1
+                        C30      2
+                        R8       2
+                        R9       2
+
+NEOPIX                  IC1      2
+                        IC3      30
+                        R7       2
+
+NEOPIX_5V               IC1      4
+                        LED1     4-DIN
+
+OLED_CS                 IC3      34
+                        X2       8
+
+OLED_DC                 IC3      36
+                        X2       10
+
+OLED_RST                IC3      35
+                        R14      4
+                        X2       9
+
+QSPI_CS                 IC3      56
+                        R11      1
+                        R2       2
+                        TP6      P$1
+                        U1       1
+
+QSPI_DATA[0]            IC3      53
+                        U1       5
+
+QSPI_DATA[1]            IC3      55
+                        U1       2
+
+QSPI_DATA[2]            IC3      54
+                        U1       3
+
+QSPI_DATA[3]            IC3      51
+                        U1       7
+
+QSPI_SCK                IC3      52
+                        U1       6
+
+ROTA                    IC3      28
+                        SW1      P$A
+
+ROTB                    IC3      29
+                        SW1      P$B
+
+SCK                     IC3      38
+                        X2       11
+
+SCL                     CONN1    4
+                        IC3      32
+                        R14      3
+
+SDA                     CONN1    3
+                        IC3      31
+                        R14      2
+
+SPEAKER                 IC3      27
+                        R8       1
+
+SPKR_SD                 IC2      4
+                        IC3      17
+                        R10      1
+
+USBBOOT                 D3       C
+                        IC3      2
+                        SW1      P$1
+
+VCC                     C14      2
+                        X2       15
+
+VCOMH                   C9       2
+                        X2       14
+

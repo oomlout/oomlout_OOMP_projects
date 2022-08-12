@@ -1,0 +1,178 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       R17      2
+         R8       2
+         U3       5V
+
+CS1      C1       1
+         R5       2
+         U3       A2
+
+CS2      C4       1
+         R14      2
+         U3       A3
+
+EN1      R7       2
+         U3       A0
+
+EN2      R16      2
+         U3       A1
+
+GND      C1       2
+         C2       -
+         C3       2
+         C4       2
+         C5       -
+         C6       2
+         JP3      2
+         LED1     C
+         Q1       4
+         Q2       4
+         R13      1
+         R15      1
+         R4       1
+         R6       1
+         U3       GND@0
+         U3       GND@1
+         U3       GND@2
+
+INA1     R1       1
+         U3       D7
+
+INA2     R10      1
+         U3       D4
+
+INB1     R2       1
+         U3       D8
+
+INB2     R11      1
+         U3       D9
+
+N$1      R2       2
+         U1       11
+
+N$2      R1       2
+         U1       5
+
+N$3      R11      2
+         U2       11
+
+N$4      R10      2
+         U2       5
+
+N$5      R3       2
+         U1       8
+
+N$6      R12      2
+         U2       8
+
+N$7      R5       1
+         R6       2
+         U1       9
+
+N$8      R14      1
+         R15      2
+         U2       9
+
+N$9      R16      1
+         R17      1
+         U2       10
+         U2       6
+
+N$10     D1       2
+         Q1       3
+         Q2       3
+         U1       18
+         U1       19
+         U1       20
+         U1       26
+         U1       27
+         U1       28
+         U2       18
+         U2       19
+         U2       20
+         U2       26
+         U2       27
+         U2       28
+
+N$12     R7       1
+         R8       1
+         U1       10
+         U1       6
+
+N$13     D1       1
+         Q1       1
+         Q2       1
+         R9       1
+
+N$14     LED2     A
+         LED3     C
+         R18      1
+
+N$16     LED4     A
+         LED5     C
+         R19      1
+
+N$18     LED1     A
+         R20      1
+
+OUTA1    JP1      1
+         R18      2
+         U1       1
+         U1       25
+         U1       30
+         U1       SLUG3
+
+OUTA2    JP2      1
+         R19      2
+         U2       1
+         U2       25
+         U2       30
+         U2       SLUG3
+
+OUTB1    JP1      2
+         LED2     C
+         LED3     A
+         U1       15
+         U1       16
+         U1       21
+         U1       SLUG2
+
+OUTB2    JP2      2
+         LED4     C
+         LED5     A
+         U2       15
+         U2       16
+         U2       21
+         U2       SLUG2
+
+PWM1     R3       1
+         R4       2
+         U3       D5
+
+PWM2     R12      1
+         R13      2
+         U3       D6
+
+VCC      C2       +
+         C3       1
+         C5       +
+         C6       1
+         JP3      1
+         R20      2
+         R9       2
+         U1       13
+         U1       23
+         U1       3
+         U1       SLUG1
+         U2       13
+         U2       23
+         U2       3
+         U2       SLUG1
+

@@ -1,0 +1,338 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++3V3     JP2      5
+         SJ1      3
+         U$1      3V
+         U$5      3V
+
++5V      C9       +
+         JP2      4
+         SERPWR   1
+         SERVO1   2
+         SERVO2   2
+         SJ1      1
+         U$1      5V_ICSP
+         U$5      5V_ICSP
+
++12V     C4       +
+         C5       +
+         IC1      13
+         IC1      14
+         IC1      24
+         IC3      13
+         IC3      14
+         IC3      24
+         LED1     A
+         PWR      1
+         Q1       4
+
+/RST     JP2      6
+         U$1      RESET
+         U$5      RESET
+
+A0       A0       2
+         R1       2
+         TP5      P$1
+         U2       1
+
+A1       A1       2
+         R2       2
+         TP4      P$1
+         U2       2
+
+A2       A2       2
+         R3       2
+         TP3      P$1
+         U2       3
+
+A3       A3       1
+         R5       2
+         TP2      P$1
+         U2       4
+
+A4       A4       1
+         R6       2
+         TP1      P$1
+         U2       5
+
+GND      C1       2
+         C10      2
+         C2       2
+         C3       2
+         C4       -
+         C5       -
+         C6       2
+         C9       -
+         IC1      10
+         IC1      18
+         IC1      3
+         IC1      4
+         IC1      9
+         IC3      10
+         IC3      18
+         IC3      3
+         IC3      4
+         IC3      9
+         J1       3
+         J2       3
+         JP2      2
+         JP2      3
+         JP3      4
+         MPOWER   1
+         Q1       1
+         R1       1
+         R2       1
+         R3       1
+         R4       1
+         R5       1
+         R6       1
+         SERPWR   2
+         SERVO1   1
+         SERVO2   1
+         U$1      GND
+         U$1      GND@1
+         U$1      GND@2
+         U$5      GND
+         U$5      GND@1
+         U$5      GND@2
+         U2       14
+         U2       23
+         U2       25
+
+N$1      JP2      7
+         U$1      IOREF
+         U$5      IOREF
+
+N$2      JP2      8
+         U$1      RESERVED
+         U$5      RESERVED
+
+N$3      U$1      MISO
+         U$5      MISO
+
+N$4      IC1      1
+         IC1      2
+         J1       5
+
+N$5      U$1      5V
+         U$5      5V
+
+N$6      IC1      5
+         IC1      6
+         J1       4
+
+N$7      IC1      7
+         IC1      8
+         J1       2
+
+N$8      U$1      MOSI
+         U$5      MOSI
+
+N$9      IC1      11
+         IC1      12
+         J1       1
+
+N$10     U$1      GND@3
+         U$5      GND@3
+
+N$11     U$1      SCK
+         U$5      SCK
+
+N$12     IC3      1
+         IC3      2
+         J2       1
+
+N$13     U$1      RESET_ICSP
+         U$5      RESET_ICSP
+
+N$14     IC3      5
+         IC3      6
+         J2       2
+
+N$15     IC3      7
+         IC3      8
+         J2       4
+
+N$17     IC3      11
+         IC3      12
+         J2       5
+
+N$20     CN1      4
+         U$1      A0
+         U$5      A0
+
+N$21     CN1      3
+         U$1      A1
+         U$5      A1
+
+N$22     CN1      2
+         U$1      A2
+         U$5      A2
+
+N$23     CN1      1
+         U$1      A3
+         U$5      A3
+
+N$24     D0-7     1
+         U$1      D0
+         U$5      D0
+
+N$25     D0-7     2
+         U$1      D1
+         U$5      D1
+
+N$26     D0-7     3
+         U$1      D2
+         U$5      D2
+
+N$27     D0-7     5
+         U$1      D4
+         U$5      D4
+
+N$28     D0-7     8
+         U$1      D7
+         U$5      D7
+
+N$29     JP3      10
+         U$1      D8
+         U$5      D8
+
+N$30     JP3      6
+         U$1      D12
+         U$5      D12
+
+N$31     JP3      5
+         U$1      D13
+         U$5      D13
+
+N$32     JP3      3
+         U$1      AREF
+         U$5      AREF
+
+N$133    LED1     C
+         R4       2
+
+N$140    MPOWER   2
+         Q1       3
+
+PWM0     JP1      1
+         U2       6
+
+PWM0A    D0-7     7
+         U$1      D6
+         U$5      D6
+
+PWM0B    D0-7     6
+         U$1      D5
+         U$5      D5
+
+PWM1     JP1      2
+         U2       7
+
+PWM1A    JP3      9
+         SERVO2   3
+         U$1      D9
+         U$5      D9
+
+PWM1B    JP3      8
+         SERVO1   3
+         U$1      D10
+         U$5      D10
+
+PWM2     IC3      23
+         U2       8
+
+PWM2A    JP3      7
+         U$1      D11
+         U$5      D11
+
+PWM2B    D0-7     4
+         U$1      D3
+         U$5      D3
+
+PWM3     IC3      22
+         U2       9
+
+PWM4     IC3      21
+         U2       10
+
+PWM5     IC3      17
+         U2       11
+
+PWM6     IC3      16
+         U2       12
+
+PWM7     IC3      15
+         U2       13
+
+PWM8     IC1      23
+         U2       15
+
+PWM9     IC1      22
+         U2       16
+
+PWM10    IC1      21
+         U2       17
+
+PWM11    IC1      17
+         U2       18
+
+PWM12    IC1      16
+         U2       19
+
+PWM13    IC1      15
+         U2       20
+
+PWM14    JP1      3
+         U2       21
+
+PWM15    JP1      4
+         U2       22
+
+SCL      JP3      1
+         R8       1
+         U$1      A5
+         U$1      SCL
+         U$5      A5
+         U$5      SCL
+         U2       26
+
+SDA      JP3      2
+         R7       1
+         U$1      A4
+         U$1      SDA
+         U$5      A4
+         U$5      SDA
+         U2       27
+
+VCC      A0       1
+         A1       1
+         A2       1
+         A3       2
+         A4       2
+         C1       1
+         C10      1
+         C2       1
+         C3       1
+         C6       1
+         IC1      19
+         IC1      20
+         IC3      19
+         IC3      20
+         R7       2
+         R8       2
+         SJ1      2
+         U2       24
+         U2       28
+
+VIN      JP2      1
+         PWR      2
+         U$1      VIN
+         U$5      VIN
+

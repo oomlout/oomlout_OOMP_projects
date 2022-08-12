@@ -1,0 +1,146 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 20:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ACTIVE   JP1      6
+         U1       6
+
+AVDD     C4       1
+         C7       1
+         C8       1
+         FB1      2
+         L5       2
+         U1       24
+         U1       26
+         U1       29
+
+GND      C1       2
+         C10      2
+         C11      2
+         C12      2
+         C13      1
+         C14      1
+         C15      1
+         C16      2
+         C17      2
+         C2       2
+         C3       2
+         C4       2
+         C6       1
+         C7       2
+         C8       2
+         C9       2
+         JP1      9
+         R1       2
+         U1       17
+         U1       18
+         U1       23
+         U1       30
+         U1       31
+         U1       33
+         U1       8
+         U2       2
+         U3       8
+
+MISO     JP1      2
+         U1       14
+
+MOSI     U1       13
+         U3       2
+
+MOSI_5V  JP1      3
+         U3       3
+
+N$2      L1       2
+         L3       1
+         U1       22
+
+N$3      L1       1
+         L2       1
+         U1       21
+
+N$4      C3       1
+         L2       2
+         U1       20
+
+N$5      L4       2
+         L5       1
+
+N$6      C5       2
+         L3       2
+
+N$7      C11      1
+         U1       3
+
+N$8      C10      1
+         U1       2
+
+N$9      C1       1
+         U1       28
+         Y1       3
+
+N$10     C2       1
+         U1       27
+         Y1       1
+
+N$11     L4       1
+         U1       32
+
+N$12     R1       1
+         U1       25
+
+N$13     C15      2
+         C5       1
+         C6       2
+         U$28     FEED
+
+N$22     C14      2
+         U1       4
+         Y2       2
+
+N$23     C13      2
+         U1       5
+         Y2       1
+
+RDYN     JP1      5
+         R2       1
+         U1       16
+
+REQN     U1       12
+         U3       4
+
+REQN_5V  JP1      4
+         U3       5
+
+RESET    U1       19
+         U3       10
+
+RESET_5V JP1      7
+         U3       9
+
+SCK      U1       11
+         U3       6
+
+SCK_5V   JP1      1
+         U3       7
+
+VDD      C12      1
+         C17      1
+         C9       1
+         FB1      1
+         JP1      8
+         R2       2
+         U1       1
+         U1       9
+         U2       5
+         U3       1
+
+VIN      C16      1
+         JP1      10
+         U2       1
+         U2       3
+

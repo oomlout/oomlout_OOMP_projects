@@ -1,0 +1,51 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C1       1
+          C3       2
+          JP2      2
+          U3       1
+          U4       5
+          U5       8
+
+GND       C1       2
+          C3       1
+          C4       2
+          JP2      3
+          U3       8
+          U4       2
+          U5       4
+
+MISO_3.3V JP2      5
+          U5       6
+
+MOSI      JP2      6
+          U3       3
+
+MOSI_3.3V U3       2
+          U5       5
+
+SCK       JP2      4
+          U3       5
+
+SCK_3.3V  U3       4
+          U5       3
+
+SS        JP2      7
+          R1       1
+          U3       9
+
+SSEL_3.3V U3       10
+          U5       2
+
+VIN       C4       1
+          JP2      1
+          R1       2
+          U4       1
+          U4       3
+

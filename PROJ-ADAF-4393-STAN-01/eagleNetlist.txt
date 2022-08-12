@@ -1,0 +1,116 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C1       2
+          C10      2
+          C2       2
+          CONN1    2
+          DISPLAY1 1
+          DISPLAY1 4
+          DISPLAY1 5
+          DISPLAY1 6
+          IC5      3
+          R1       2
+          R2       2
+          R3       2
+          R8       2
+          RASPI1   S1
+          RASPI1   S17
+
+5.0V      RASPI1   S2
+          RASPI1   S4
+
+BACKLIGHT R7       1
+          R8       1
+          SJ1      1
+
+BUTTONA   R1       1
+          RASPI1   S16
+          SW1      A
+          SW1      A'
+
+BUTTONB   R3       1
+          RASPI1   S18
+          SW2      A
+          SW2      A'
+
+GND       C1       1
+          C10      1
+          C2       1
+          CONN1    1
+          DISPLAY1 11
+          DISPLAY1 13
+          DISPLAY1 14
+          DISPLAY1 15
+          DISPLAY1 16
+          DISPLAY1 17
+          DISPLAY1 18
+          DISPLAY1 19
+          DISPLAY1 20
+          DISPLAY1 23
+          DISPLAY1 24
+          DISPLAY1 3
+          IC5      1
+          Q1       2
+          RASPI1   S14
+          RASPI1   S20
+          RASPI1   S6
+          RASPI1   S9
+          SW1      B
+          SW1      B'
+          SW2      B
+          SW2      B'
+
+GPIO4     RASPI1   S7
+
+GPIO17    RASPI1   S11
+
+GPIO18    RASPI1   S12
+
+GPIO22    RASPI1   S15
+          SJ1      2
+
+GPIO27    RASPI1   S13
+
+LED_K     DISPLAY1 2
+          R5       2
+
+MISO      RASPI1   S21
+
+MOSI      DISPLAY1 12
+          RASPI1   S19
+
+N$1       Q1       1
+          R7       2
+
+N$5       Q1       3
+          R5       1
+
+RXD       RASPI1   S10
+
+SCL       CONN1    4
+          RASPI1   S5
+
+SCLK      DISPLAY1 9
+          RASPI1   S23
+
+SDA       CONN1    3
+          RASPI1   S3
+
+TFT_CS    DISPLAY1 8
+          RASPI1   S24
+
+TFT_DC    DISPLAY1 10
+          RASPI1   S22
+
+TFT_RST   DISPLAY1 7
+          IC5      2
+          R2       1
+
+TXD       RASPI1   S8
+

@@ -1,0 +1,289 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  C12      2
+                        JP1      16
+                        R4       2
+                        SW1      A
+                        SW1      A'
+                        U$14     52
+
++3V3                    C10      1
+                        C11      1
+                        C5       1
+                        C7       1
+                        C8       1
+                        IC1      5
+                        JP1      15
+                        R4       1
+                        R5       2
+                        R6       1
+                        SJ1      2
+                        U$14     16
+                        U$14     21
+                        U$14     34
+                        U$14     48
+                        U$14     56
+                        U$14     8
+                        U1       8
+                        U2       5
+
+5.0V                    C16      1
+                        IC1      3
+                        IC3      1
+
+A0                      JP1      12
+                        U$14     3
+
+A1                      JP1      11
+                        U$14     14
+
+A2                      JP1      10
+                        U$14     11
+
+A3                      JP1      9
+                        U$14     12
+
+A4                      JP1      8
+                        U$14     13
+
+A5                      JP1      7
+                        U$14     15
+
+AREF                    C14      1
+                        JP1      14
+                        SJ1      1
+                        U$14     4
+
+BOOST_EN                IC3      3
+                        U$14     26
+
+CAN1_RX                 IC1      4
+                        U$14     28
+
+CAN1_S                  IC1      8
+                        U$14     25
+
+CAN1_TX                 IC1      1
+                        U$14     27
+
+CAN_H                   IC1      7
+                        R10      2
+                        X4       3
+
+CAN_L                   IC1      6
+                        R11      2
+                        X4       1
+
+CC1                     R13      2
+                        X6       A5
+
+CC2                     R12      2
+                        X6       B5
+
+D+                      D+1      TP
+                        U$14     46
+                        X6       A6
+                        X6       B6
+
+D-                      D-1      TP
+                        U$14     45
+                        X6       A7
+                        X6       B7
+
+D4                      JP1      1
+                        U$14     31
+
+D5                      JP3      10
+                        U$14     35
+
+D6                      JP3      9
+                        U$14     37
+
+D8_NEOPIX               LED1     1
+                        U$14     63
+
+D9                      JP3      8
+                        U$14     38
+
+D10                     JP3      7
+                        U$14     41
+
+D11                     JP3      6
+                        U$14     42
+
+D12                     JP3      5
+                        U$14     43
+
+D13                     JP3      4
+                        R7       1
+                        U$14     44
+
+EN                      JP3      2
+                        R3       1
+                        U2       3
+
+GND                     C10      2
+                        C11      2
+                        C12      1
+                        C13      2
+                        C14      2
+                        C15      2
+                        C16      2
+                        C17      2
+                        C2       2
+                        C3       2
+                        C4       2
+                        C5       2
+                        C6       2
+                        C7       2
+                        C8       2
+                        IC1      2
+                        IC3      2
+                        JP1      13
+                        L        C
+                        LED1     4
+                        R12      1
+                        R13      1
+                        R8       2
+                        R9       3
+                        R9       7
+                        SW1      B
+                        SW1      B'
+                        U$14     22
+                        U$14     33
+                        U$14     47
+                        U$14     54
+                        U$14     7
+                        U$14     EXP
+                        U1       4
+                        U2       2
+                        U3       2
+                        X1       1
+                        X4       2
+                        X6       A1B12
+                        X6       B1A12
+
+MISO                    JP1      4
+                        U$14     49
+
+MOSI                    JP1      5
+                        U$14     50
+
+N$1                     CHG      C
+                        R2       1
+
+N$2                     L        A
+                        R7       2
+
+N$3                     R2       2
+                        U3       1
+
+N$4                     R8       1
+                        U3       5
+
+N$6                     R10      1
+                        SJ2      2
+
+N$7                     C4       1
+                        U$14     1
+                        X2       P$2
+
+N$8                     C18      2
+                        IC3      6
+
+N$9                     C18      1
+                        IC3      4
+
+N$10                    C2       1
+                        U$14     2
+                        X2       P$1
+
+N$11                    L2       P$2
+                        U$14     55
+
+N$13                    R11      1
+                        SJ2      1
+
+NEO_PWR                 LED1     2
+                        U$14     64
+
+QSPI_CS                 R5       1
+                        U$14     24
+                        U1       1
+
+QSPI_DATA[0]            U$14     17
+                        U1       5
+
+QSPI_DATA[1]            U$14     18
+                        U1       2
+
+QSPI_DATA[2]            U$14     19
+                        U1       3
+
+QSPI_DATA[3]            U$14     20
+                        U1       7
+
+QSPI_SCK                U$14     23
+                        U1       6
+
+RX_D0                   JP1      3
+                        U$14     40
+
+SCK                     JP1      6
+                        U$14     36
+
+SCL                     JP3      11
+                        U$14     30
+
+SDA                     JP3      12
+                        U$14     29
+
+SWCLK                   R6       2
+                        TP1      P$1
+                        U$14     57
+
+SWDIO                   TP2      P$1
+                        U$14     58
+
+TX_D1                   JP1      2
+                        U$14     39
+
+VBAT                    C3       1
+                        JP3      1
+                        Q3       3
+                        R9       8
+                        U3       3
+                        X1       2
+
+VBUS                    CHG      A
+                        D4       A
+                        JP3      3
+                        Q3       1
+                        R9       6
+                        U3       4
+                        X6       A4B9
+                        X6       B4A9
+
+VDDCORE1                C13      1
+                        C15      1
+                        L2       P$1
+                        U$14     53
+
+VHI                     C17      1
+                        C6       1
+                        D4       C
+                        IC3      5
+                        Q3       2
+                        R3       2
+                        U2       1
+
+V_DIV                   R9       1
+                        R9       2
+                        U$14     61
+

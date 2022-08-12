@@ -1,0 +1,115 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 18:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net           Part     Pad
+
+3.3V          C1       1
+              C2       1
+              C4       1
+              R3       2
+              R4       2
+              SW1      O2
+              U1       14
+              U1       3
+              U2       5
+              VTREF    P$1
+
+CONNECTED_LED R2       1
+              U1       39
+
+CTS_3V        D4       A
+              R3       1
+              U1       28
+
+CTS_5V        D4       C
+              JP1      7
+
+DCC           U1       15
+
+DEC2          U1       41
+
+DFU_3V        D7       A
+              U1       24
+
+DFU_5V        D7       C
+              JP1      1
+
+FCTRYRST_3V   TP3      P$1
+              U1       34
+
+GND           C1       2
+              C2       2
+              C3       2
+              C4       2
+              D1       C
+              D2       C
+              JP1      2
+              SW1      S2
+              U1       1
+              U1       13
+              U1       16
+              U1       2
+              U1       25
+              U1       42
+              U2       2
+              X1       1
+
+MODE_3V       D6       A
+              U1       18
+
+MODE_5V       D6       C
+              JP1      8
+              R7       1
+
+MODE_LED      R1       1
+              U1       38
+
+N$1           U1       9
+              Y1       1
+
+N$2           U1       10
+              Y1       2
+
+N$3           C3       1
+              D3       C
+              D8       C
+              U2       1
+              U2       3
+
+N$4           R7       2
+              SW1      P2
+
+N$5           D1       A
+              R1       2
+
+N$6           D2       A
+              R2       2
+
+RTS_O         JP1      3
+              U1       26
+
+RXD_3V        D5       A
+              R4       1
+              U1       29
+
+RXD_5V        D5       C
+              JP1      5
+
+SWCLK         TP1      P$1
+              U1       36
+
+SWDIO/RST_3V  TP2      P$1
+              U1       35
+
+TX_O          JP1      6
+              U1       27
+
+VBAT          D3       A
+              X1       2
+
+VIN           D8       A
+              JP1      4
+

@@ -1,0 +1,101 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 01:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   IC1      18
+         TP4      TP
+
+3.3V     C3       1
+         IC1      24
+         Q3       2
+         Q3       5
+         R1       2
+         R6       1
+         R6       5
+         U2       5
+
+ACT      D1       A
+         IC1      17
+
+ADDR0    IC1      13
+         SJ9      1
+
+ADDR1    IC1      14
+         SJ8      1
+
+D+       IC1      22
+
+D-       IC1      21
+
+GND      C3       2
+         C5       2
+         IC1      23
+         IC1      THERM
+         R2       1
+         SJ8      2
+         SJ9      2
+         U2       2
+         X1       1
+
+N$2      D1       C
+         R2       2
+
+PA02     IC1      1
+
+PA03     IC1      2
+
+PA05     IC1      4
+
+PA06     IC1      5
+
+PA07     IC1      6
+
+PA08     IC1      7
+
+PA09     IC1      8
+
+PA10     IC1      9
+
+PA11     IC1      10
+
+PA14     IC1      11
+
+PA15     IC1      12
+
+SCL      Q3       6
+         R6       6
+         X1       4
+
+SCL_3V   IC1      16
+         Q3       1
+         R6       4
+
+SDA      Q3       3
+         R6       7
+         X1       3
+
+SDA_3V   IC1      15
+         Q3       4
+         R6       8
+
+SENSOR   IC1      3
+         TP3      TP
+
+SWCLK    IC1      19
+         R1       1
+         TP1      TP
+
+SWDIO    IC1      20
+         TP2      TP
+
+VIN      C5       1
+         R6       2
+         R6       3
+         U2       1
+         U2       3
+         X1       2
+

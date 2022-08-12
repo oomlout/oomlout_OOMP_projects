@@ -1,0 +1,527 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         C10      2
+         C11      2
+         C12      2
+         C13      2
+         C14      2
+         C15      2
+         C17      2
+         C18      2
+         C19      2
+         C2       2
+         C20      2
+         C21      2
+         C22      2
+         C23      2
+         C25      2
+         C26      2
+         C27      2
+         C28      2
+         C29      2
+         C3       2
+         C30      2
+         C31      2
+         C33      2
+         C34      2
+         C35      2
+         C36      2
+         C37      2
+         C38      2
+         C39      2
+         C4       2
+         C41      2
+         C42      2
+         C43      2
+         C44      2
+         C45      2
+         C46      2
+         C47      2
+         C49      2
+         C5       2
+         C50      2
+         C51      2
+         C52      2
+         C53      2
+         C54      2
+         C55      2
+         C57      2
+         C58      2
+         C59      2
+         C6       2
+         C60      2
+         C61      2
+         C62      2
+         C63      2
+         C7       2
+         C9       2
+         JP1      3
+         JP2      3
+         LED1     VSS
+         LED10    VSS
+         LED11    VSS
+         LED12    VSS
+         LED13    VSS
+         LED14    VSS
+         LED15    VSS
+         LED16    VSS
+         LED17    VSS
+         LED18    VSS
+         LED19    VSS
+         LED2     VSS
+         LED20    VSS
+         LED21    VSS
+         LED22    VSS
+         LED23    VSS
+         LED24    VSS
+         LED25    VSS
+         LED26    VSS
+         LED27    VSS
+         LED28    VSS
+         LED29    VSS
+         LED3     VSS
+         LED30    VSS
+         LED31    VSS
+         LED32    VSS
+         LED33    VSS
+         LED34    VSS
+         LED35    VSS
+         LED36    VSS
+         LED37    VSS
+         LED38    VSS
+         LED39    VSS
+         LED4     VSS
+         LED40    VSS
+         LED41    VSS
+         LED42    VSS
+         LED43    VSS
+         LED44    VSS
+         LED45    VSS
+         LED46    VSS
+         LED47    VSS
+         LED48    VSS
+         LED49    VSS
+         LED5     VSS
+         LED50    VSS
+         LED51    VSS
+         LED52    VSS
+         LED53    VSS
+         LED54    VSS
+         LED55    VSS
+         LED56    VSS
+         LED57    VSS
+         LED58    VSS
+         LED59    VSS
+         LED6     VSS
+         LED60    VSS
+         LED61    VSS
+         LED62    VSS
+         LED63    VSS
+         LED64    VSS
+         LED7     VSS
+         LED8     VSS
+         LED9     VSS
+         TP1      P$1
+         TP10     P$1
+         TP11     P$1
+         TP12     P$1
+         TP13     P$1
+         TP14     P$1
+         TP2      P$1
+         TP3      P$1
+         TP4      P$1
+         TP5      P$1
+         TP6      P$1
+         TP7      P$1
+         TP8      P$1
+         TP9      P$1
+
+N$1      JP1      1
+         LED1     DI
+
+N$2      LED8     DO
+         LED9     DI
+
+N$3      LED16    DO
+         LED17    DI
+
+N$4      LED24    DO
+         LED25    DI
+
+N$5      LED40    DO
+         LED41    DI
+
+N$6      LED32    DO
+         LED33    DI
+
+N$7      LED48    DO
+         LED49    DI
+
+N$8      LED56    DO
+         LED57    DI
+
+N$9      JP2      1
+         LED64    DO
+
+N$33     LED17    DO
+         LED18    DI
+
+N$34     LED25    DO
+         LED26    DI
+
+N$35     LED26    DO
+         LED27    DI
+
+N$36     LED2     DO
+         LED3     DI
+
+N$37     LED3     DO
+         LED4     DI
+
+N$38     LED4     DO
+         LED5     DI
+
+N$39     LED5     DO
+         LED6     DI
+
+N$40     LED6     DO
+         LED7     DI
+
+N$41     LED7     DO
+         LED8     DI
+
+N$42     LED10    DO
+         LED11    DI
+
+N$43     LED11    DO
+         LED12    DI
+
+N$44     LED12    DO
+         LED13    DI
+
+N$45     LED13    DO
+         LED14    DI
+
+N$46     LED14    DO
+         LED15    DI
+
+N$47     LED15    DO
+         LED16    DI
+
+N$48     LED18    DO
+         LED19    DI
+
+N$49     LED19    DO
+         LED20    DI
+
+N$50     LED20    DO
+         LED21    DI
+
+N$51     LED21    DO
+         LED22    DI
+
+N$52     LED22    DO
+         LED23    DI
+
+N$53     LED23    DO
+         LED24    DI
+
+N$54     LED27    DO
+         LED28    DI
+
+N$55     LED28    DO
+         LED29    DI
+
+N$56     LED29    DO
+         LED30    DI
+
+N$57     LED30    DO
+         LED31    DI
+
+N$58     LED31    DO
+         LED32    DI
+
+N$59     LED1     DO
+         LED2     DI
+
+N$60     LED10    DI
+         LED9     DO
+
+N$93     LED49    DO
+         LED50    DI
+
+N$94     LED57    DO
+         LED58    DI
+
+N$95     LED58    DO
+         LED59    DI
+
+N$96     LED34    DO
+         LED35    DI
+
+N$97     LED35    DO
+         LED36    DI
+
+N$98     LED36    DO
+         LED37    DI
+
+N$99     LED37    DO
+         LED38    DI
+
+N$100    LED38    DO
+         LED39    DI
+
+N$101    LED39    DO
+         LED40    DI
+
+N$102    LED42    DO
+         LED43    DI
+
+N$103    LED43    DO
+         LED44    DI
+
+N$104    LED44    DO
+         LED45    DI
+
+N$105    LED45    DO
+         LED46    DI
+
+N$106    LED46    DO
+         LED47    DI
+
+N$107    LED47    DO
+         LED48    DI
+
+N$108    LED50    DO
+         LED51    DI
+
+N$109    LED51    DO
+         LED52    DI
+
+N$110    LED52    DO
+         LED53    DI
+
+N$111    LED53    DO
+         LED54    DI
+
+N$112    LED54    DO
+         LED55    DI
+
+N$113    LED55    DO
+         LED56    DI
+
+N$114    LED59    DO
+         LED60    DI
+
+N$115    LED60    DO
+         LED61    DI
+
+N$116    LED61    DO
+         LED62    DI
+
+N$117    LED62    DO
+         LED63    DI
+
+N$118    LED63    DO
+         LED64    DI
+
+N$119    LED33    DO
+         LED34    DI
+
+N$120    LED41    DO
+         LED42    DI
+
+VDD      C1       1
+         C10      1
+         C11      1
+         C12      1
+         C13      1
+         C14      1
+         C15      1
+         C17      1
+         C18      1
+         C19      1
+         C2       1
+         C20      1
+         C21      1
+         C22      1
+         C23      1
+         C25      1
+         C26      1
+         C27      1
+         C28      1
+         C29      1
+         C3       1
+         C30      1
+         C31      1
+         C33      1
+         C34      1
+         C35      1
+         C36      1
+         C37      1
+         C38      1
+         C39      1
+         C4       1
+         C41      1
+         C42      1
+         C43      1
+         C44      1
+         C45      1
+         C46      1
+         C47      1
+         C49      1
+         C5       1
+         C50      1
+         C51      1
+         C52      1
+         C53      1
+         C54      1
+         C55      1
+         C57      1
+         C58      1
+         C59      1
+         C6       1
+         C60      1
+         C61      1
+         C62      1
+         C63      1
+         C7       1
+         C9       1
+         JP1      2
+         JP2      2
+         LED1     LEDVDD
+         LED1     VDD
+         LED10    LEDVDD
+         LED10    VDD
+         LED11    LEDVDD
+         LED11    VDD
+         LED12    LEDVDD
+         LED12    VDD
+         LED13    LEDVDD
+         LED13    VDD
+         LED14    LEDVDD
+         LED14    VDD
+         LED15    LEDVDD
+         LED15    VDD
+         LED16    LEDVDD
+         LED16    VDD
+         LED17    LEDVDD
+         LED17    VDD
+         LED18    LEDVDD
+         LED18    VDD
+         LED19    LEDVDD
+         LED19    VDD
+         LED2     LEDVDD
+         LED2     VDD
+         LED20    LEDVDD
+         LED20    VDD
+         LED21    LEDVDD
+         LED21    VDD
+         LED22    LEDVDD
+         LED22    VDD
+         LED23    LEDVDD
+         LED23    VDD
+         LED24    LEDVDD
+         LED24    VDD
+         LED25    LEDVDD
+         LED25    VDD
+         LED26    LEDVDD
+         LED26    VDD
+         LED27    LEDVDD
+         LED27    VDD
+         LED28    LEDVDD
+         LED28    VDD
+         LED29    LEDVDD
+         LED29    VDD
+         LED3     LEDVDD
+         LED3     VDD
+         LED30    LEDVDD
+         LED30    VDD
+         LED31    LEDVDD
+         LED31    VDD
+         LED32    LEDVDD
+         LED32    VDD
+         LED33    LEDVDD
+         LED33    VDD
+         LED34    LEDVDD
+         LED34    VDD
+         LED35    LEDVDD
+         LED35    VDD
+         LED36    LEDVDD
+         LED36    VDD
+         LED37    LEDVDD
+         LED37    VDD
+         LED38    LEDVDD
+         LED38    VDD
+         LED39    LEDVDD
+         LED39    VDD
+         LED4     LEDVDD
+         LED4     VDD
+         LED40    LEDVDD
+         LED40    VDD
+         LED41    LEDVDD
+         LED41    VDD
+         LED42    LEDVDD
+         LED42    VDD
+         LED43    LEDVDD
+         LED43    VDD
+         LED44    LEDVDD
+         LED44    VDD
+         LED45    LEDVDD
+         LED45    VDD
+         LED46    LEDVDD
+         LED46    VDD
+         LED47    LEDVDD
+         LED47    VDD
+         LED48    LEDVDD
+         LED48    VDD
+         LED49    LEDVDD
+         LED49    VDD
+         LED5     LEDVDD
+         LED5     VDD
+         LED50    LEDVDD
+         LED50    VDD
+         LED51    LEDVDD
+         LED51    VDD
+         LED52    LEDVDD
+         LED52    VDD
+         LED53    LEDVDD
+         LED53    VDD
+         LED54    LEDVDD
+         LED54    VDD
+         LED55    LEDVDD
+         LED55    VDD
+         LED56    LEDVDD
+         LED56    VDD
+         LED57    LEDVDD
+         LED57    VDD
+         LED58    LEDVDD
+         LED58    VDD
+         LED59    LEDVDD
+         LED59    VDD
+         LED6     LEDVDD
+         LED6     VDD
+         LED60    LEDVDD
+         LED60    VDD
+         LED61    LEDVDD
+         LED61    VDD
+         LED62    LEDVDD
+         LED62    VDD
+         LED63    LEDVDD
+         LED63    VDD
+         LED64    LEDVDD
+         LED64    VDD
+         LED7     LEDVDD
+         LED7     VDD
+         LED8     LEDVDD
+         LED8     VDD
+         LED9     LEDVDD
+         LED9     VDD
+

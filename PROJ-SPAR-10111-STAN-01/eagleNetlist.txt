@@ -1,0 +1,54 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       JP6      5
+         R1       P$2
+         R2       P$2
+         R3       P$2
+
+BLU      JP6      3
+         R6       P$1
+
+GND      JP6      4
+         Q1       1
+         Q2       1
+         Q3       1
+
+GRN      JP6      2
+         R5       P$1
+
+N$1      LED2     A
+         R2       P$1
+
+N$2      LED3     A
+         R3       P$1
+
+N$3      LED1     A
+         R1       P$1
+
+N$4      LED1     C
+         Q1       3
+
+N$5      LED2     C
+         Q2       3
+
+N$6      LED3     C
+         Q3       3
+
+N$7      Q1       2
+         R4       P$2
+
+N$8      Q2       2
+         R5       P$2
+
+N$9      Q3       2
+         R6       P$2
+
+RED      JP6      1
+         R4       P$1
+

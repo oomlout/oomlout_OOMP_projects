@@ -1,0 +1,198 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 08:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!RESET      C3       1
+            Q2       A
+            Q2       A'
+            Q5       3
+            R1       2
+            SWC1     TP
+            X2       9
+
++5V         C1       1
+            D1       C
+            D2       C
+            JP3      7
+            JP3      7C
+            U1       1
+            U1       3
+
+3.3V        C19      1
+            C2       1
+            C5       1
+            C6       1
+            C8       1
+            CONN1    2
+            JP3      5
+            JP3      5C
+            R1       1
+            U1       5
+            X2       1
+            X2       19
+            X2       3
+            X2       37
+            X2       4
+            X2       43
+            X2       46
+
+A0          JP1      1
+            JP1      1C
+            X2       15
+
+A1          JP1      2
+            JP1      2C
+            X2       14
+
+A2          JP1      3
+            JP1      3C
+            X2       16
+
+A3          JP1      4
+            JP1      4C
+            X2       21
+
+CC1         R6       2
+            X6       A5
+
+CC2         R5       2
+            X6       B5
+
+D+          IC1      3
+            X6       A6
+            X6       B6
+
+D-          IC1      4
+            X6       A7
+            X6       B7
+
+DTR         IC1      23
+            Q5       1
+            R3       2
+
+GND         C1       2
+            C11      2
+            C12      2
+            C19      2
+            C2       2
+            C3       2
+            C5       2
+            C6       2
+            C7       2
+            C8       2
+            C9       2
+            CONN1    1
+            GND      P$1
+            IC1      1
+            IC1      18
+            IC1      2
+            IC1      22
+            IC1      24
+            IC1      THERM
+            JP3      6
+            JP3      6C
+            LED1     4
+            Q1       B
+            Q1       B'
+            Q2       B
+            Q2       B'
+            R4       1
+            R5       1
+            R6       1
+            U1       2
+            X2       49
+            X6       A1B12
+            X6       B1A12
+
+IO0         Q1       A
+            Q1       A'
+            Q5       6
+            SWC2     TP
+            X2       23
+
+LNA         C7       1
+            L2       2
+            X2       2
+
+MISO        JP3      3
+            JP3      3C
+            X2       18
+
+MOSI        JP3      4
+            JP3      4C
+            X2       20
+
+N$1         C12      1
+            IC1      5
+            IC1      6
+
+N$3         C9       1
+            L2       1
+            X1       FP
+
+N$12        Q5       5
+            R3       1
+
+N$13        Q5       2
+            R2       1
+
+NEOPIX      LED1     1
+            X2       34
+
+NEOPIX_PWR  LED1     2
+            X2       33
+
+RTS         IC1      19
+            Q5       4
+            R2       2
+
+RX          JP3      1
+            JP3      1C
+            X2       32
+
+RXD0        IC1      21
+            X2       40
+
+SCK         JP3      2
+            JP3      2C
+            X2       17
+
+SCL         JP1      6
+            JP1      6C
+            X2       13
+
+SCL1        CONN1    4
+            X2       38
+
+SDA         JP1      5
+            JP1      5C
+            X2       24
+
+SDA1        CONN1    3
+            X2       39
+
+TX          JP1      7
+            JP1      7C
+            X2       12
+
+TXD0        IC1      20
+            X2       41
+
+VBAT        D2       A
+            VBAT     P$1
+
+VBUS        C11      1
+            D1       A
+            IC1      7
+            R7       2
+            X6       A4B9
+            X6       B4A9
+
+VBUS_DETECT IC1      8
+            R4       2
+            R7       1
+

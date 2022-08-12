@@ -1,0 +1,276 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 08:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     C4       1
+           JP1      16
+           Q5       3
+           R13      8
+           SW2      B
+           SW2      B'
+           X3       8
+
+3.3V       C1       1
+           C13      1
+           C2       1
+           C8       1
+           C9       1
+           JP1      15
+           R13      1
+           R9       5
+           U2       5
+           X3       3
+
+3.45V      C10      1
+           C12      1
+           IC3      5
+           IC3      6
+
+A0_DAC2    JP1      12
+           X3       16
+
+A1_DAC1    JP1      11
+           X3       15
+
+A2_I34     JP1      10
+           X3       9
+
+A3_I39     JP1      9
+           X3       7
+
+A4_I36     JP1      8
+           X3       4
+
+A5_IO4     JP1      7
+           X3       24
+
+A13_I35    C5       1
+           R1       1
+           R3       2
+           X3       10
+
+CC1        R6       2
+           X6       A5
+
+CC2        R5       2
+           X6       B5
+
+D+         D+1      TP
+           IC3      3
+           X6       A6
+           X6       B6
+
+D-         D-1      TP
+           IC3      4
+           X6       A7
+           X6       B7
+
+DTR        IC3      23
+           Q5       1
+           R13      3
+
+EN         JP3      2
+           R7       1
+           U2       3
+
+GND        C1       2
+           C10      2
+           C11      2
+           C12      2
+           C13      2
+           C2       2
+           C3       2
+           C4       2
+           C5       2
+           C6       2
+           C7       2
+           C8       2
+           C9       2
+           CONN1    1
+           CONN1    MT1
+           CONN1    MT2
+           D3       C
+           IC3      2
+           IC3      THERM
+           JP1      13
+           LED1     4
+           R12      1
+           R13      5
+           R3       1
+           R4       1
+           R5       1
+           R6       1
+           R9       3
+           SW1      A
+           SW1      A'
+           SW2      A
+           SW2      A'
+           U1       2
+           U2       2
+           U3       2
+           X1       1
+           X1       NC1
+           X1       NC2
+           X3       1
+           X3       11
+           X3       14
+           X3       2
+           X3       36
+           X3       37
+           X3       38
+           X3       39
+           X3       40
+           X3       41
+           X3       42
+           X3       43
+           X3       44
+           X3       45
+           X3       46
+           X3       47
+           X3       48
+           X3       49
+           X3       50
+           X3       51
+           X3       52
+           X3       53
+           X3       54
+           X3       55
+           X3       56
+           X3       57
+           X3       58
+           X3       59
+           X3       60
+           X3       61
+           X6       A1B12
+           X6       B1A12
+
+GPIO0      LED1     1
+           Q5       6
+           X3       23
+
+I37        JP1      1
+           X3       5
+
+IO12_A11   JP3      5
+           X3       19
+
+IO13_A12   JP3      4
+           R10      1
+           X3       20
+
+IO14_A6    JP3      10
+           X3       18
+
+IO15_A8    JP3      8
+           X3       21
+
+IO27_A10   JP3      6
+           X3       17
+
+IO32_A7    JP3      9
+           X3       12
+
+IO33_A9    JP3      7
+           X3       13
+
+MISO       JP1      4
+           X3       35
+
+MOSI       JP1      5
+           X3       33
+
+N$1        CHG      C
+           R2       1
+
+N$3        R2       2
+           U3       1
+
+N$4        R4       2
+           U3       5
+
+N$5        D3       A
+           R10      2
+
+N$6        R9       4
+           SW1      B
+           SW1      B'
+           X3       6
+
+N$12       Q5       5
+           R13      6
+
+N$13       Q5       2
+           R13      2
+
+NEOI2C_PWR R13      4
+           U1       3
+           X3       22
+
+RTS        IC3      19
+           Q5       4
+           R13      7
+
+RX/IO7     JP1      3
+           X3       27
+
+RXD0       IC3      21
+           X3       30
+
+SCK        JP1      6
+           X3       29
+
+SCL        CONN1    4
+           JP3      11
+           X3       26
+
+SDA        CONN1    3
+           JP3      12
+           X3       34
+
+TX/IO8     JP1      2
+           X3       28
+
+TXD0       IC3      20
+           X3       31
+
+VBAT       C3       1
+           JP3      1
+           Q3       3
+           R1       2
+           U3       3
+           X1       2
+
+VBUS       C11      1
+           CHG      A
+           D4       A
+           IC3      7
+           JP3      3
+           Q3       1
+           R12      2
+           R9       7
+           R9       8
+           U3       4
+           X6       A4B9
+           X6       B4A9
+
+VBUS_DET   IC3      8
+           R9       1
+           R9       2
+           R9       6
+
+VHI        C6       1
+           D4       C
+           Q3       2
+           R7       2
+           U1       1
+           U2       1
+
+V_NEOI2C   C7       1
+           CONN1    2
+           LED1     2
+           U1       5
+

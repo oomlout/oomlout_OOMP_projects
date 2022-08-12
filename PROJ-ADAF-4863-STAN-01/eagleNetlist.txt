@@ -1,0 +1,192 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:48
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     CONN1    2
+         CONN3    2
+         RPI1     1
+         RPI3     1
+         RPI3     S1
+         SJ1      3
+
+3.3V@1   RPI1     17
+         RPI3     17
+         RPI3     S17
+
+5.0V     RPI1     2
+         RPI1     4
+         RPI3     2
+         RPI3     4
+         RPI3     S2
+         RPI3     S4
+         SJ1      1
+
+13S      R8       1
+         SENSE    3
+
+18S      NEOPIX   3
+         R7       1
+
+EECLK    RPI1     28
+         RPI3     28
+         RPI3     S28
+
+EEDATA   RPI1     27
+         RPI3     27
+         RPI3     S27
+
+GND      C1       2
+         C34      2
+         CONN1    1
+         CONN3    1
+         D1       A
+         D2       A
+         NEOPIX   1
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         RPI3     14
+         RPI3     20
+         RPI3     25
+         RPI3     30
+         RPI3     34
+         RPI3     39
+         RPI3     6
+         RPI3     9
+         RPI3     S14
+         RPI3     S20
+         RPI3     S25
+         RPI3     S30
+         RPI3     S34
+         RPI3     S39
+         RPI3     S6
+         RPI3     S9
+         SENSE    1
+
+GPIO4    RPI1     7
+         RPI3     7
+         RPI3     S7
+
+GPIO5    RPI1     29
+         RPI3     29
+         RPI3     S29
+
+GPIO6    RPI1     31
+         RPI3     31
+         RPI3     S31
+
+GPIO12   RPI1     32
+         RPI3     32
+         RPI3     S32
+
+GPIO13   D2       C
+         R8       2
+         RPI1     33
+         RPI3     33
+         RPI3     S33
+
+GPIO16   RPI1     36
+         RPI3     36
+         RPI3     S36
+
+GPIO17   RPI1     11
+         RPI3     11
+         RPI3     S11
+
+GPIO18   D1       C
+         R7       2
+         RPI1     12
+         RPI3     12
+         RPI3     S12
+
+GPIO19   RPI1     35
+         RPI3     35
+         RPI3     S35
+
+GPIO20   RPI1     38
+         RPI3     38
+         RPI3     S38
+
+GPIO21   RPI1     40
+         RPI3     40
+         RPI3     S40
+
+GPIO22   RPI1     15
+         RPI3     15
+         RPI3     S15
+
+GPIO23   RPI1     16
+         RPI3     16
+         RPI3     S16
+
+GPIO24   RPI1     18
+         RPI3     18
+         RPI3     S18
+
+GPIO25   RPI1     22
+         RPI3     22
+         RPI3     S22
+
+GPIO26   RPI1     37
+         RPI3     37
+         RPI3     S37
+
+GPIO27   RPI1     13
+         RPI3     13
+         RPI3     S13
+
+RXD      RPI1     10
+         RPI3     10
+         RPI3     S10
+
+SCL      CONN1    4
+         CONN3    4
+         RPI1     5
+         RPI3     5
+         RPI3     S5
+
+SDA      CONN1    3
+         CONN3    3
+         RPI1     3
+         RPI3     3
+         RPI3     S3
+
+SPI_CE0  RPI1     24
+         RPI3     24
+         RPI3     S24
+
+SPI_CE1  RPI1     26
+         RPI3     26
+         RPI3     S26
+
+SPI_MISO RPI1     21
+         RPI3     21
+         RPI3     S21
+
+SPI_MOSI RPI1     19
+         RPI3     19
+         RPI3     S19
+
+SPI_SCLK RPI1     23
+         RPI3     23
+         RPI3     S23
+
+TXD      RPI1     8
+         RPI3     8
+         RPI3     S8
+
+VCC      C1       1
+         C34      1
+         NEOPIX   2
+         SENSE    2
+         SJ1      2
+

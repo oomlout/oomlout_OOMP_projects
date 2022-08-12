@@ -1,0 +1,13 @@
+EAGLE update report
+
+Date: 07/08/2022 23:42
+File: C:/GH/oomlout_OOMP/oomlout_OOMP_projects/PROJ-ADAF-364-STAN-01/boardEagle.brd
+
+Update from version 5.11
+
+Polygon rank in packages is now obsolete, and package polygons
+in signal layers are now part of the signal an enclosed pad or
+smd is connected to.
+Please check whether the following parts still behave as expected:
+
+  U$50, OSHWLOGO_TOP_0.2, adafruit

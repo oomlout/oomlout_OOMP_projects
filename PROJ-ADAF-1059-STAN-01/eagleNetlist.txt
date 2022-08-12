@@ -1,0 +1,45 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 20:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C2       1
+         FB1      2
+         U1       P$1
+
+GND      C2       2
+         GND      P$1
+         GND1     P$1
+         LED1     C
+         U$20     P$1
+         U$20     P$2
+         U1       P$12
+         U1       P$19
+         U1       P$3
+         U1       P$8
+
+N$1      LED1     A
+         R1       1
+         TP4      P$1
+
+N$2      R1       2
+         U1       P$5
+
+N$3      3V3IN    P$1
+         FB1      1
+
+N$4      U$20     P$3
+         U1       P$11
+
+RX       RX       P$1
+         U1       P$10
+
+TX       TX       P$1
+         U1       P$9
+
+VBACKUP  TP1      P$1
+         U1       P$4
+

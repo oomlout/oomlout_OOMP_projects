@@ -1,0 +1,52 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 21:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C4       +
+         D1       C
+         IC1      4
+         R2       1
+         R4       1
+         X1       1
+
+BATT+    +        1
+         C1       1
+         C3       +
+         IC1      6
+         L1       1
+
+D+       R1       2
+         R2       2
+         X1       3
+
+D-       R3       2
+         R4       2
+         X1       2
+
+GND      -        1
+         C1       2
+         C2       2
+         C3       -
+         C4       -
+         IC1      1
+         IC1      3
+         IC1      8
+         R1       1
+         R3       1
+         R5       1
+         X1       4
+
+N$1      C2       1
+         IC1      2
+
+N$2      IC1      5
+         R5       2
+
+N$5      D1       A
+         IC1      7
+         L1       2
+

@@ -1,0 +1,32 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!SHDN    IC1      3
+         JP1      1
+         R1       2
+
+5.0V     C1       1
+         IC1      1
+         JP1      2
+
+GND      C1       2
+         C2       2
+         IC1      2
+         JP1      3
+
+N$1      C3       2
+         IC1      6
+
+N$2      C3       1
+         IC1      4
+
+VIN      C2       1
+         IC1      5
+         JP1      4
+         R1       1
+

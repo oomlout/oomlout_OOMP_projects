@@ -1,0 +1,14 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 18:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+L        CN2      1
+
+M        CN2      2
+
+R        CN2      3
+

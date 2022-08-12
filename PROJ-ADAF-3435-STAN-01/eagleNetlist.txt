@@ -1,0 +1,49 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+DELAY    JP1      3
+         SJ1      2
+         SW1      A
+         SW1      A'
+         U2       3
+
+DONE     JP1      5
+         R2       2
+         U2       4
+
+EN       Q1       1
+         U2       5
+
+GND      C1       2
+         JP1      2
+         R1       1
+         R2       1
+         U2       2
+         VR1      3
+
+N$1      SJ1      1
+         VR1      2
+
+N$2      D1       A
+         SJ2      1
+
+N$3      D1       C
+         R1       2
+
+PWROUT   JP1      4
+         Q1       3
+         SJ2      2
+
+VDD      C1       1
+         JP1      1
+         Q1       2
+         SW1      B
+         SW1      B'
+         U2       1
+         U2       6
+

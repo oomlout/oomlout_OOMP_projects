@@ -1,0 +1,251 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 12:46
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C6       1
+         SJ2      3
+         U3       17
+
+5V       C4       1
+         C5       A
+         R1       2
+         R3       2
+         SJ2      1
+         U$4      P$2
+         U3       20
+         X2       VBUS
+
+A0       JP10     2
+         JP6      8
+         R8       2
+         U$13     P$3
+         U$9      P$2
+         U1       23
+         U4       EMITTER
+
+A1       JP6      7
+         U1       24
+
+A2       JP6      6
+         U1       25
+
+A3       JP6      5
+         U1       26
+
+A4       JP2      1
+         U1       27
+
+A5       JP2      2
+         U1       28
+
+AREF     C1       2
+         U1       20
+
+CTS      JP3      2
+         U3       11
+
+D2       JP7      8
+         JP9      2
+         SG1      +
+         U$14     P$3
+         U$7      P$1
+         U1       32
+
+D3       JP7      7
+         JP8      3
+         R4       1
+         U$14     P$4
+         U$8      P$2
+         U1       1
+
+D4       JP7      6
+         U1       2
+
+D5       JP7      5
+         JP8      1
+         R7       1
+         U$13     P$1
+         U$8      P$3
+         U1       9
+
+D6       JP7      4
+         JP8      2
+         R5       1
+         U$13     P$2
+         U$8      P$4
+         U1       10
+
+D7       JP21     3
+         JP7      3
+         R9       1
+         S2       1
+         U$13     P$4
+         U$2      P$3
+         U1       11
+
+D8       JP7      2
+         U1       12
+
+D9       JP7      1
+         U1       13
+
+D10      JP6      12
+         U1       14
+
+DTR      C2       2
+         JP1      1
+         JP3      6
+         U$22     P$3
+         U$23     P$3
+         U3       2
+
+GND      C1       1
+         C10      2
+         C13      C
+         C19      C
+         C3       1
+         C4       2
+         C5       C
+         C6       2
+         D3       C
+         JP1      5
+         JP1      6
+         JP10     3
+         JP21     1
+         JP3      1
+         JP6      2
+         JP7      9
+         JP9      1
+         LED1     C
+         Q1       2
+         R8       1
+         S1       1
+         S1       2
+         S2       3
+         SG1      -
+         U$14     P$1
+         U$2      P$1
+         U$22     P$5
+         U$23     P$5
+         U$4      P$4
+         U$7      P$2
+         U$9      P$3
+         U1       21
+         U1       3
+         U1       5
+         U2       2
+         U3       18
+         U3       21
+         U3       25
+         U3       26
+         U3       7
+         X2       GND
+
+MISO     JP6      10
+         U1       16
+
+MOSI     JP6      11
+         U1       15
+
+N$1      Q1       1
+         U1       8
+
+N$2      Q1       3
+         U1       7
+
+N$3      LED2     A
+         R1       1
+
+N$4      LED3     A
+         R3       1
+
+N$6      LED4     R
+         R4       2
+
+N$7      D3       A
+         R6       2
+
+N$8      LED4     B
+         R5       2
+
+N$9      LED4     G
+         R7       2
+
+N$38     LED1     A
+         R11      1
+
+RAW      C19      A
+         JP6      1
+         U2       1
+         U2       3
+
+RESET    C2       1
+         JP6      3
+         JP7      10
+         R2       1
+         S1       3
+         S1       4
+         U1       29
+
+RX-I     JP1      2
+         JP3      5
+         JP7      12
+         U$22     P$1
+         U$23     P$1
+         U1       31
+         U3       5
+
+RXLED    LED3     C
+         U3       22
+
+SCK      JP6      9
+         R6       1
+         U1       17
+
+TX-O     JP1      3
+         JP3      4
+         JP7      11
+         U$22     P$2
+         U$23     P$2
+         U1       30
+         U3       1
+
+TXLED    LED2     C
+         U3       23
+
+USB_D+   U3       15
+         X2       D+
+
+USB_D-   U3       16
+         X2       D-
+
+VCC      C10      1
+         C13      A
+         C3       2
+         JP1      4
+         JP10     1
+         JP21     2
+         JP3      3
+         JP6      4
+         JP8      4
+         LED4     A
+         R11      2
+         R2       2
+         R9       2
+         SJ2      2
+         U$2      P$2
+         U$22     P$4
+         U$23     P$4
+         U$8      P$1
+         U$9      P$1
+         U1       18
+         U1       4
+         U1       6
+         U2       5
+         U3       4
+         U4       COLLECTOR
+

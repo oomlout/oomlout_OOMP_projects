@@ -1,0 +1,297 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!RESET         RESET    A
+               RESET    A'
+               TP1      P$1
+               U$5      40
+
++5V            CN1      VBUS
+               D1       A
+
+1.2V           C10      1
+               U$5      43
+
+3.3V           3.3VTAP  P$1
+               3V3TAP2  P$1
+               C2       1
+               C3       1
+               C6       1
+               C8       1
+               IC1      1
+               IC4      1
+               IC4      13
+               IC4      14
+               IC4      15
+               IC4      16
+               IC4      7
+               IC4      8
+               LED1     2
+               LED10    2
+               LED2     2
+               LED3     2
+               LED4     2
+               LED5     2
+               LED6     2
+               LED7     2
+               LED8     2
+               LED9     2
+               R10      2
+               R2       1
+               R3       2
+               R6       1
+               R8       2
+               SW1      B
+               SW1      B'
+               SW2      B
+               SW2      B'
+               THM1     2
+               U$5      17
+               U$5      36
+               U$5      4
+               U$5      44
+               U$5      6
+               U2       C
+               U3       5
+               U4       3
+               U4       7
+               U4       8
+
+A8_LIGHT       R4       2
+               U$5      16
+               U2       E
+
+A9_TEMP_SENSE  R7       2
+               THM1     1
+               U$5      14
+
+D+             CN1      D+
+               U$5      34
+
+D-             CN1      D-
+               U$5      33
+
+D0_A6_RX       RX       P$1
+               U$5      8
+
+D1_A7_TX       TX       P$1
+               U$5      7
+
+D2_A5_SDA      SDA      P$1
+               U$5      47
+
+D3_A4_SCL      SCL      P$1
+               U$5      48
+
+D4_LEFTBUTTON  SW1      A
+               SW1      A'
+               U$5      41
+
+D5_RIGHTBUTTON SW2      A
+               SW2      A'
+               U$5      23
+
+D6_A1          D6       P$1
+               U$5      10
+
+D7_SLIDESWITCH SWITCH   P1
+               SWITCH   P2
+               U$5      24
+
+D8_NEOPIX      LED6     1
+               U$5      38
+
+D9_A2          IO9      P$1
+               U$5      11
+
+D10_A3         IO10     P$1
+               U$5      12
+
+D12_A0_SPEAKER C9       1
+               IO12     P$1
+               U$5      3
+
+D13_LED        R5       1
+               U$5      26
+
+D29_REMOTEOUT  R9       2
+               U$5      32
+
+D32_FLASH_MISO U$5      25
+               U4       2
+
+D33_FLASH_SCK  U$5      30
+               U4       6
+
+D34_FLASH_MOSI U$5      29
+               U4       5
+
+D35_FLASH_CS   U$5      37
+               U4       1
+
+D36_LISIRQ     IC4      11
+               U$5      22
+
+GND            BATT     1
+               C1       2
+               C10      2
+               C2       2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C8       2
+               CN1      BASE@1
+               CN1      BASE@2
+               CN1      GND
+               CN1      SPRT@1
+               CN1      SPRT@2
+               CN1      SPRT@3
+               CN1      SPRT@4
+               D3       A
+               GND3TAP  P$1
+               GNDTAP   P$1
+               GNDTAP2  P$1
+               IC1      2
+               IC1      5
+               IC1      6
+               IC1      7
+               IC1      8
+               IC2      2
+               IC4      10
+               IC4      12
+               IC4      5
+               L        C
+               LED1     4
+               LED10    4
+               LED2     4
+               LED3     4
+               LED4     4
+               LED5     4
+               LED6     4
+               LED7     4
+               LED8     4
+               LED9     4
+               PWR      C
+               Q1       2
+               R4       1
+               R7       1
+               RESET    B
+               RESET    B'
+               SWITCH   S1
+               SWITCH   S2
+               U$5      18
+               U$5      35
+               U$5      42
+               U$5      5
+               U$5      THERMAL
+               U1       6
+               U1       8
+               U3       2
+               U4       4
+
+I2S_DO         IC1      4
+               U$5      13
+
+I2S_SCK        IC1      3
+               U$5      15
+
+IR_ANALOGIN    D3       C
+               U$5      9
+               U1       7
+
+LIS_SCL        IC4      4
+               R6       2
+               U$5      2
+
+LIS_SDA        IC4      6
+               R2       2
+               U$5      1
+
+N$1            PWR      A
+               R3       1
+
+N$2            C1       1
+               R8       1
+               U1       2
+
+N$3            D1       C
+               D2       C
+               F1       1
+
+N$5            Q1       1
+               R9       1
+
+N$6            C9       2
+               R1       1
+
+N$7            BATT     2
+               D2       A
+
+N$8            IC2      3
+               R1       2
+
+N$9            IC2      6
+               SP1      -
+
+N$10           L        A
+               R5       2
+
+N$11           LED1     1
+               LED2     3
+
+N$12           LED1     3
+               LED3     1
+
+N$13           LED10    3
+               LED2     1
+
+N$14           LED6     3
+               LED7     1
+
+N$15           IC2      1
+               SP1      +
+
+N$16           LED7     3
+               LED8     1
+
+N$17           LED8     3
+               LED9     1
+
+N$18           LED10    1
+               LED9     3
+
+N$19           LED3     3
+               LED4     1
+
+N$20           LED4     3
+               LED5     1
+
+N$21           D5       C
+               Q1       3
+
+REMOTEIN       U$5      21
+               U1       3
+
+SWCLK/SPK_SD   IC2      4
+               R10      1
+               TP5      P$1
+               U$5      45
+
+SWDIO          TP6      P$1
+               U$5      46
+
+VCC            C4       1
+               C5       1
+               D5       A
+               F1       2
+               IC2      5
+               U3       1
+               U3       3
+               VCC2     P$1
+

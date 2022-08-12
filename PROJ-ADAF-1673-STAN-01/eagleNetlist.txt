@@ -1,0 +1,133 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 19:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       C3       2
+           C5       1
+           C7       1
+           C9       1
+           CN1      4
+           JP1      9
+           L1       P$1
+           SJ1      2
+           U1       P$27
+           U1       P$4
+           U2       5
+           U3       4
+           U3       5
+           U4       1
+
+13V        C1       2
+           C8       1
+           D2       C
+           R6       2
+           U1       P$29
+
+DC         JP1      3
+           U4       3
+
+GND        C1       1
+           C2       2
+           C3       1
+           C4       2
+           C5       2
+           C6       2
+           C7       2
+           C9       2
+           CN1      6
+           CN1      MT1
+           CN1      MT2
+           D3       C
+           JP1      11
+           R4       1
+           R7       1
+           R8       1
+           U1       P$1
+           U1       P$13
+           U1       P$3
+           U1       P$30
+           U2       2
+           U3       2
+           U4       8
+
+IREF       R4       2
+           U1       P$9
+
+MOSI/DATA1 CN1      3
+           U1       P$18
+           U4       12
+
+N$3        C4       1
+           U1       P$5
+
+N$5        D2       A
+           L1       P$2
+           U3       1
+
+N$6        R5       2
+           U1       P$26
+
+N$7        D1       A
+           R5       1
+
+N$8        C8       2
+           R6       1
+           R7       2
+           U3       3
+
+N$11       D1       C
+           D3       A
+
+N$12       JP1      1
+           U4       11
+
+N$13       JP1      2
+           U4       14
+
+OCS        JP1      5
+           U4       7
+
+OLED_BS0   R8       2
+           SJ1      1
+           U1       P$14
+
+OLED_CS    U1       P$12
+           U4       6
+
+OLED_DC    U1       P$11
+           U4       2
+
+OLED_RES   U1       P$10
+           U4       4
+
+RESET      JP1      4
+           U4       5
+
+SCK/DATA0  CN1      5
+           U1       P$17
+           U4       15
+
+SCS        JP1      6
+           U4       9
+
+SD_CD      CN1      CD1
+           JP1      8
+
+SD_CS      CN1      2
+           U4       10
+
+SD_DOUT    CN1      7
+           JP1      7
+
+VCOMH      C2       1
+           U1       P$28
+
+VIN        C6       1
+           JP1      10
+           U2       1
+           U2       3
+

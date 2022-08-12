@@ -1,0 +1,256 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                     Part     Pad
+
+!RESET                  IC2      26
+                        JP1      10
+                        JP1      10C
+                        R9       2
+                        SW2      A
+                        SW2      A'
+
+1.2V                    C11      2
+                        C12      1
+                        C7       2
+                        IC2      23
+                        IC2      45
+                        IC2      50
+
+3.3V                    C10      1
+                        C13      1
+                        C14      1
+                        C15      1
+                        C16      1
+                        C17      1
+                        C8       1
+                        C9       1
+                        CONN1    2
+                        D2       A
+                        IC2      1
+                        IC2      10
+                        IC2      22
+                        IC2      33
+                        IC2      42
+                        IC2      43
+                        IC2      44
+                        IC2      48
+                        IC2      49
+                        JP1      9
+                        JP1      9C
+                        LED1     2
+                        R10      1
+                        R12      1
+                        R5       2
+                        R9       1
+                        U2       5
+                        U5       8
+
+A0                      IC2      38
+                        JP1      5
+                        JP1      5C
+
+A1                      IC2      39
+                        JP1      6
+                        JP1      6C
+
+A2                      IC2      40
+                        JP1      7
+                        JP1      7C
+
+A3                      IC2      41
+                        JP1      8
+                        JP1      8C
+
+CC1                     R2       1
+                        X6       A5
+
+CC2                     R1       1
+                        X6       B5
+
+D+                      JP2      1
+                        JP2      1C
+                        R3       2
+                        X6       A6
+                        X6       B6
+
+D-                      JP1      13
+                        JP1      13C
+                        R4       2
+                        X6       A7
+                        X6       B7
+
+D0                      IC2      2
+                        JP2      2
+                        JP2      2C
+
+D1                      IC2      3
+                        JP2      3
+                        JP2      3C
+
+D2                      IC2      4
+                        JP2      6
+                        JP2      6C
+
+D3                      IC2      5
+                        JP2      7
+                        JP2      7C
+
+D4                      IC2      6
+                        JP2      8
+                        JP2      8C
+
+D5                      IC2      7
+                        JP2      9
+                        JP2      9C
+
+D6                      IC2      8
+                        JP2      10
+                        JP2      10C
+
+D7                      IC2      9
+                        JP2      11
+                        JP2      11C
+
+D8                      IC2      11
+                        JP2      12
+                        JP2      12C
+
+D9                      IC2      12
+                        JP2      13
+                        JP2      13C
+
+D10                     IC2      13
+                        JP1      1
+                        JP1      1C
+
+GND                     C10      2
+                        C11      1
+                        C12      2
+                        C13      2
+                        C14      2
+                        C15      2
+                        C16      2
+                        C17      2
+                        C19      1
+                        C20      1
+                        C6       2
+                        C7       1
+                        C8       2
+                        C9       2
+                        CONN1    1
+                        CONN1    MT1
+                        CONN1    MT2
+                        IC2      19
+                        IC2      P$1
+                        JP1      11
+                        JP1      11C
+                        JP2      4
+                        JP2      4C
+                        JP2      5
+                        JP2      5C
+                        LED1     4
+                        R1       2
+                        R2       2
+                        R7       2
+                        SW2      B
+                        SW2      B'
+                        SW3      B
+                        SW3      B'
+                        U2       2
+                        U5       4
+                        U5       PAD
+                        X6       A1B12
+                        X6       B1A12
+
+MISO                    IC2      31
+                        JP1      3
+                        JP1      3C
+
+MOSI                    IC2      30
+                        JP1      2
+                        JP1      2C
+
+N$1                     IC2      47
+                        R3       1
+
+N$2                     D2       C
+                        R7       1
+
+N$3                     IC2      46
+                        R4       1
+
+N$4                     D3       A
+                        R11      2
+
+N$5                     C19      2
+                        IC2      20
+                        Y1       3
+
+N$6                     C20      2
+                        R6       1
+                        Y1       1
+
+N$7                     IC2      21
+                        R6       2
+
+N$8                     D1       A
+                        R8       2
+
+NEOPIX                  IC2      28
+                        LED1     1
+
+QSPI_CS                 IC2      56
+                        R11      1
+                        R5       1
+                        U5       1
+
+QSPI_DATA[0]            IC2      53
+                        U5       5
+
+QSPI_DATA[1]            IC2      55
+                        U5       2
+
+QSPI_DATA[2]            IC2      54
+                        U5       3
+
+QSPI_DATA[3]            IC2      51
+                        U5       7
+
+QSPI_SCK                IC2      52
+                        U5       6
+
+RAW                     C6       1
+                        D1       C
+                        JP1      12
+                        JP1      12C
+                        SJ1      1
+                        U2       1
+                        U2       3
+
+SCL                     CONN1    4
+                        IC2      16
+                        R12      2
+
+SCLK                    IC2      29
+                        JP1      4
+                        JP1      4C
+
+SDA                     CONN1    3
+                        IC2      15
+                        R10      2
+
+USBBOOT                 D3       C
+                        IC2      14
+                        SW3      A
+                        SW3      A'
+                        TP1      P$1
+
+VBUS                    R8       1
+                        SJ1      2
+                        X6       A4B9
+                        X6       B4A9
+

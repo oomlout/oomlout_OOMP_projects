@@ -1,0 +1,372 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
++5V        C1       1
+           CHRG     A
+           SW2      O1
+           SW2      O2
+           U2       4
+
+1.8V       D2       1
+           U1       16
+           X6       C1
+
+2.8V       TP1      TP
+           U1       18
+
+3V         JP6      5
+           M1       3V
+           SJ1      3
+
+5V         JP6      4
+           M1       5V
+           SJ1      1
+           SW2      P1
+           SW2      P2
+
+A0         JP7      6
+           M1       A0
+
+A1         JP7      5
+           M1       A1
+
+A2         JP7      4
+           M1       A2
+
+A3         JP7      3
+           M1       A3
+
+A4         JP7      2
+           M1       A4
+
+A5         JP7      1
+           M1       A5
+
+AREF       JP4      3
+           M1       AREF
+
+BUZZ-      D3       A
+           JP3      1
+           Q1       C
+
+D0         JP5      8
+           M1       D0
+
+D1         JP5      7
+           M1       D1
+
+D2         JP5      6
+           M1       D2
+           SJ2      1
+
+D3         JP5      5
+           M1       D3
+           SJ3      1
+
+D4         JP5      4
+           M1       D4
+           SJ4      1
+
+D5         JP5      3
+           M1       D5
+           SJ5      1
+
+D6         JP5      2
+           M1       D6
+
+D7         JP5      1
+           M1       D7
+
+D8         JP4      10
+           M1       D8
+
+D9         JP4      9
+           M1       D9
+
+D10        JP4      8
+           M1       D10
+
+D11        JP4      7
+           M1       D11
+
+D12        JP4      6
+           M1       D12
+
+D13        JP4      5
+           M1       D13
+
+GND        C1       2
+           C10      1
+           C14      5
+           C14      8
+           C15      4
+           C15      8
+           C16      5
+           C16      8
+           C17      4
+           C17      8
+           C2       2
+           C3       2
+           C4       1
+           C5       2
+           C6       2
+           C7       2
+           C9       2
+           CN2      1
+           D1       A
+           D2       2
+           DONE     C
+           IC1      1
+           IC1      10
+           IC1      13
+           IC1      4
+           IC1      7
+           JP4      4
+           JP6      2
+           JP6      3
+           JP9      1
+           M1       GND
+           M1       GND@1
+           M1       GND@3
+           NETSTAT  C
+           PWRSTAT  C
+           Q1       E
+           R3       2
+           SJ6      2
+           SW1      A
+           SW1      A'
+           U1       12
+           U1       2
+           U1       35
+           U1       37
+           U1       38
+           U1       39
+           U1       41
+           U1       43
+           U1       44
+           U1       45
+           U1       57
+           U1       58
+           U1       6
+           U1       67
+           U1       71
+           U1       72
+           U1       73
+           U1       76
+           U1       77
+           U1       78
+           U1       79
+           U1       8
+           U1       80
+           U1       81
+           U1       82
+           U1       83
+           U1       84
+           U1       85
+           U1       86
+           U1       87
+           U1       88
+           U2       2
+           X1       GND@1
+           X1       GND@2
+           X1       GND@3
+           X1       GND@4
+           X4       4-INNER_SLEEVE
+           X6       C5
+
+GSM_ANT    U1       40
+           X1       P
+
+HP+        C10      2
+           C11      1
+           C4       2
+           U1       17
+           X4       2-TIP
+           X4       3-OUTER_SLEEVE
+
+IOREF      JP6      7
+           M1       IOREF
+
+MIC1+      C2       1
+           C3       1
+           U1       52
+           X4       1-GND
+
+MIC2+      C14      1
+           C14      2
+           C15      1
+           C15      2
+           JP2      1
+           U1       9
+
+MIC2-      C14      3
+           C14      4
+           C14      6
+           C14      7
+           C15      3
+           C15      5
+           C15      6
+           C15      7
+           JP2      2
+           U1       10
+
+N$1        CHRG     C
+           R1       1
+
+N$2        R1       2
+           R2       2
+           U2       1
+
+N$4        PWRSTAT  A
+           R4       1
+
+N$5        R3       1
+           U2       5
+
+N$6        DONE     A
+           R2       1
+
+N$7        D7       C
+           SW2      S1
+           SW2      S2
+
+N$9        NETSTAT  A
+           R5       1
+
+NC         JP6      8
+           M1       RESERVED
+
+NETSTAT    IC1      12
+           U1       64
+
+NETSTAT_5V IC1      11
+           JP10     6
+           R5       2
+
+PWM        PWM      1
+           Q1       B
+           U1       26
+
+PWRKEY     D5       A
+           SW1      B
+           SW1      B'
+           U1       48
+
+PWRKEY_5V  D5       C
+           JP10     8
+           SJ6      1
+
+PWRSTAT    IC1      2
+           U1       4
+
+PWRSTAT_5V IC1      3
+           JP10     7
+           R4       2
+
+RESET      D6       A
+           U1       49
+
+RESET_5V   D6       C
+           JP10     3
+           SJ4      2
+
+RI         IC1      5
+           U1       68
+
+RI_5V      IC1      6
+           JP10     5
+
+RST        JP6      6
+           M1       RESET
+
+RTS_5V     D8       C
+           JP10     4
+           SJ5      2
+
+RXD_5V     D4       C
+           JP10     1
+           SJ2      2
+
+SCL        JP4      1
+           M1       SCL
+
+SDA        JP4      2
+           M1       SDA
+
+SIMCLK     D2       4
+           U1       55
+           X6       C3
+
+SIMDATA    D2       5
+           U1       14
+           X6       C7
+
+SIMRST     D2       3
+           U1       15
+           X6       C2
+
+SPEAKER1+  C11      2
+           U1       53
+
+SPEAKER2+  C16      1
+           C16      2
+           C17      1
+           C17      2
+           JP1      2
+           U1       51
+
+SPEAKER2-  C16      3
+           C16      4
+           C16      6
+           C16      7
+           C17      3
+           C17      5
+           C17      6
+           C17      7
+           JP1      1
+           U1       11
+
+TXD_5V     IC1      8
+           JP10     2
+           SJ3      2
+
+UART_RTS   D8       A
+           R6       1
+           U1       33
+
+UART_RXD   D4       A
+           U1       31
+
+UART_TXD   IC1      9
+           U1       32
+
+VBAT       C5       1
+           C6       1
+           C7       1
+           CN2      2
+           D1       C
+           D3       C
+           D7       A
+           JP3      2
+           JP9      2
+           R6       2
+           U1       1
+           U1       42
+           U2       3
+
+VBUS       U1       7
+
+VCCIO      IC1      14
+           SJ1      2
+
+VIN        JP6      1
+           M1       VIN
+
+VRTC       C9       1
+           U1       56
+

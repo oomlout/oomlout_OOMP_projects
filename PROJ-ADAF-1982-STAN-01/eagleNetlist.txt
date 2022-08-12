@@ -1,0 +1,127 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C6       1
+         C7       1
+         JP2      2
+         Q3       2
+         Q3       5
+         R1       2
+         R7       2
+         R8       2
+         R8       4
+         R9       1
+         SJ1      1
+         U1       20
+         U2       5
+
+ADDR     JP2      7
+         R6       2
+         SJ1      2
+         U1       4
+
+ELEC0    JP1      12
+         U1       8
+
+ELEC1    JP1      11
+         U1       9
+
+ELEC2    JP1      10
+         U1       10
+
+ELEC3    JP1      9
+         U1       11
+
+ELEC4    JP1      8
+         U1       12
+
+ELEC5    JP1      7
+         U1       13
+
+ELEC6    JP1      6
+         U1       14
+
+ELEC7    JP1      5
+         U1       15
+
+ELEC8    JP1      4
+         U1       16
+
+ELEC9    JP1      3
+         U1       17
+
+ELEC10   JP1      2
+         U1       18
+
+ELEC11   JP1      1
+         U1       19
+
+GND      C4       2
+         C5       2
+         C6       2
+         C7       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D2       C
+         JP1      13
+         JP2      3
+         R5       1
+         R6       1
+         U1       6
+         U2       2
+
+INT      D1       C
+         JP2      6
+         R1       1
+         U1       1
+
+N$1      D1       A
+         R7       1
+
+N$2      C4       1
+         U1       5
+
+N$3      R5       2
+         U1       7
+
+N$4      D2       A
+         R9       2
+
+SCL      CONN3    4
+         CONN4    4
+         JP2      4
+         Q3       6
+         R8       8
+
+SCL_3V   Q3       1
+         R8       7
+         U1       2
+
+SDA      CONN3    3
+         CONN4    3
+         JP2      5
+         Q3       3
+         R8       6
+
+SDA_3V   Q3       4
+         R8       5
+         U1       3
+
+VCC      C5       1
+         CONN3    2
+         CONN4    2
+         JP2      1
+         R8       1
+         R8       3
+         U2       1
+         U2       3
+

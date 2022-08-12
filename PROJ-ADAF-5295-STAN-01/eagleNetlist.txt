@@ -1,0 +1,132 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A0       IC1      6
+         SJ2      1
+
+A1       IC1      8
+         SJ3      1
+
+A2       IC1      10
+         SJ5      1
+
+A3       IC1      12
+         SJ1      1
+
+AIN      IC1      24
+         POT1     2
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D2       C
+         IC1      3
+         IC1      THERM
+         JP1      2
+         JP5      2
+         LED1     3-GND
+         LED2     3-GND
+         LED3     3-GND
+         LED4     3-GND
+         POT1     1
+         POT1     MT1
+         POT1     MT2
+         POT1     MT3
+         POT1     MT4
+         R2       1
+         R5       5
+         R5       6
+         R5       7
+         R5       8
+
+INT      IC1      14
+         JP1      5
+         JP5      5
+
+N$1      D2       A
+         R1       2
+
+N$2      LED1     2-DOUT
+         LED2     4-DIN
+
+N$3      LED2     2-DOUT
+         LED3     4-DIN
+
+N$4      LED3     2-DOUT
+         LED4     4-DIN
+
+N$5      R5       1
+         SJ1      2
+
+N$6      R5       2
+         SJ5      2
+
+N$7      R5       3
+         SJ3      2
+
+N$8      R5       4
+         SJ2      2
+
+N$9      R1       1
+         SJ4      1
+
+NEO_IN   IC1      19
+         LED1     4-DIN
+         R2       2
+
+SCL      CONN3    4
+         CONN4    4
+         IC1      16
+         JP1      3
+         JP5      3
+         R3       2
+
+SDA      CONN3    3
+         CONN4    3
+         IC1      15
+         JP1      4
+         JP5      4
+         R4       2
+
+UPDI     IC1      23
+         JP1      6
+         JP5      6
+         R7       1
+
+VCC      C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         C6       1
+         C7       1
+         CONN3    2
+         CONN4    2
+         IC1      4
+         JP1      1
+         JP5      1
+         LED1     1-VDD
+         LED2     1-VDD
+         LED3     1-VDD
+         LED4     1-VDD
+         POT1     3
+         R3       1
+         R4       1
+         R7       2
+         SJ4      2
+

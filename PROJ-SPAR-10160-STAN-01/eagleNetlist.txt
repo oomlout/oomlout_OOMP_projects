@@ -1,0 +1,47 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:30
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      BAT1     GND
+         C1       1
+         JP1      7
+         U1       10
+         U1       11
+         U1       12
+         U1       13
+         U1       14
+         U1       15
+         U1       2
+         U1       7
+         U1       8
+         U1       9
+
+INT/SQW  JP1      5
+         R1       2
+         U1       5
+
+MISO     JP1      3
+         U1       19
+
+MOSI     JP1      2
+         U1       17
+
+SCLK     JP1      4
+         U1       18
+         U1       20
+
+SS       JP1      1
+         U1       1
+
+VBATT    BAT1     PWR@1
+         U1       16
+
+VCC      C1       2
+         JP1      6
+         R1       1
+         U1       4
+

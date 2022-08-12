@@ -1,0 +1,129 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 21:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!RESET    IC2      18
+          MS1      1
+          SW1      B
+          SW1      B'
+
+!TFT_RST  IC2      7
+          U$2      6
+
+3.3V      IC2      24
+          MS1      2
+          R5       2
+          R6       2
+          R7       2
+          U$2      10
+          U$2      11
+          U$2      2
+
+BACKLITE  IC2      4
+          R1       1
+
+CS        SJ1      2
+          SJ3      2
+          SJ5      2
+          U$2      12
+
+DC        SJ2      2
+          SJ4      2
+          SJ6      2
+          U$2      7
+
+GND       IC2      23
+          IC2      THERM
+          MS1      4
+          SJ8      2
+          SJ9      2
+          SW1      A
+          SW1      A'
+          SW2      B
+          SW2      B'
+          SW3      B
+          SW3      B'
+          SW4      4
+          U$2      1
+          U$2      13
+          U$2      5
+
+MOSI      MS1      12
+          U$2      8
+
+N$3       MS1      20
+          SJ2      1
+
+N$4       MS1      19
+          SJ1      1
+
+N$5       MS1      21
+          SJ3      1
+
+N$6       MS1      22
+          SJ4      1
+
+N$7       MS1      23
+          SJ5      1
+
+N$8       MS1      24
+          SJ6      1
+
+N$9       R1       2
+          U$2      3
+
+PA02_A0   IC2      1
+          SW4      1
+
+PA03_A1   IC2      2
+          SW4      2
+
+PA04_A2   IC2      3
+          SW4      3
+
+PA07_A5   IC2      6
+          SW4      5
+
+PA09_XOSC IC2      8
+          SW2      A
+          SW2      A'
+
+PA10_A18  IC2      9
+          SW3      A
+          SW3      A'
+
+PA11_A19  IC2      10
+          SW4      6
+
+PA16_D16  IC2      13
+          SJ9      1
+
+PA17_D17  IC2      14
+          SJ8      1
+
+PA24_D-   IC2      21
+
+PA25_D+   IC2      22
+
+SCK       MS1      11
+          U$2      9
+
+SCL       IC2      16
+          MS1      18
+          R6       1
+
+SDA       IC2      15
+          MS1      17
+          R5       1
+
+SWCLK     IC2      19
+          R7       1
+          TP1      P$1
+
+SWDIO     IC2      20
+          TP2      P$1
+

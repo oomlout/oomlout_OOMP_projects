@@ -1,0 +1,112 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   IC1      18
+         JP1      6
+         SW1      B
+         SW1      B'
+
++5V      C4       1
+         JP1      1
+         U1       1
+         U1       3
+
+3.3V     C1       1
+         C2       1
+         D2       A
+         IC1      24
+         JP1      2
+         R1       2
+         R4       1
+         R5       1
+         U1       5
+
+GND      C1       2
+         C2       2
+         C4       2
+         IC1      23
+         IC1      THERM
+         JP1      3
+         R2       1
+         R3       2
+         SW1      A
+         SW1      A'
+         U1       2
+
+N$2      D1       C
+         R2       2
+
+N$3      D2       C
+         R3       1
+
+PA02     IC1      1
+         JP3      1
+
+PA03     IC1      2
+         JP3      2
+
+PA04     IC1      3
+         JP3      3
+
+PA05     IC1      4
+         JP3      4
+
+PA06     IC1      5
+         JP3      5
+
+PA07     IC1      6
+         JP3      6
+
+PA08     IC1      7
+         JP3      7
+
+PA09     IC1      8
+         JP3      8
+
+PA10     IC1      9
+         JP3      9
+
+PA11     IC1      10
+         JP3      10
+
+PA14     IC1      11
+         JP3      11
+
+PA15     IC1      12
+         JP3      12
+
+PA16     IC1      13
+         JP1      12
+
+PA17     IC1      14
+         JP1      11
+
+PA22     IC1      15
+         JP1      10
+         R4       2
+
+PA23     IC1      16
+         JP1      9
+         R5       2
+
+PA24     IC1      21
+         JP1      8
+
+PA25     IC1      22
+         JP1      7
+
+PA27     D1       A
+         IC1      17
+
+SWCLK    IC1      19
+         JP1      5
+         R1       1
+
+SWDIO    IC1      20
+         JP1      4
+

@@ -1,0 +1,812 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 07:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+COL1     X1       C
+         X1       C1
+         X1       C2
+         X13      C
+         X13      C1
+         X13      C2
+         X19      C
+         X19      C1
+         X19      C2
+         X25      C
+         X25      C1
+         X25      C2
+         X7       C
+         X7       C1
+         X7       C2
+
+COL2     X14      C
+         X14      C1
+         X14      C2
+         X2       C
+         X2       C1
+         X2       C2
+         X20      C
+         X20      C1
+         X20      C2
+         X26      C
+         X26      C1
+         X26      C2
+         X8       C
+         X8       C1
+         X8       C2
+
+COL3     X15      C
+         X15      C1
+         X15      C2
+         X21      C
+         X21      C1
+         X21      C2
+         X27      C
+         X27      C1
+         X27      C2
+         X3       C
+         X3       C1
+         X3       C2
+         X9       C
+         X9       C1
+         X9       C2
+
+COL4     X10      C
+         X10      C1
+         X10      C2
+         X16      C
+         X16      C1
+         X16      C2
+         X22      C
+         X22      C1
+         X22      C2
+         X28      C
+         X28      C1
+         X28      C2
+         X4       C
+         X4       C1
+         X4       C2
+
+COL5     X11      C
+         X11      C1
+         X11      C2
+         X17      C
+         X17      C1
+         X17      C2
+         X23      C
+         X23      C1
+         X23      C2
+         X29      C
+         X29      C1
+         X29      C2
+         X5       C
+         X5       C1
+         X5       C2
+
+COL6     X12      C
+         X12      C1
+         X12      C2
+         X18      C
+         X18      C1
+         X18      C2
+         X24      C
+         X24      C1
+         X24      C2
+         X30      C
+         X30      C1
+         X30      C2
+         X6       C
+         X6       C1
+         X6       C2
+
+GND      X1       3-GND
+         X1       C-
+         X1       GND1
+         X1       GND2
+         X10      3-GND
+         X10      C-
+         X10      GND1
+         X10      GND2
+         X11      3-GND
+         X11      C-
+         X11      GND1
+         X11      GND2
+         X12      3-GND
+         X12      C-
+         X12      GND1
+         X12      GND2
+         X13      3-GND
+         X13      C-
+         X13      GND1
+         X13      GND2
+         X14      3-GND
+         X14      C-
+         X14      GND1
+         X14      GND2
+         X15      3-GND
+         X15      C-
+         X15      GND1
+         X15      GND2
+         X16      3-GND
+         X16      C-
+         X16      GND1
+         X16      GND2
+         X17      3-GND
+         X17      C-
+         X17      GND1
+         X17      GND2
+         X18      3-GND
+         X18      C-
+         X18      GND1
+         X18      GND2
+         X19      3-GND
+         X19      C-
+         X19      GND1
+         X19      GND2
+         X2       3-GND
+         X2       C-
+         X2       GND1
+         X2       GND2
+         X20      3-GND
+         X20      C-
+         X20      GND1
+         X20      GND2
+         X21      3-GND
+         X21      C-
+         X21      GND1
+         X21      GND2
+         X22      3-GND
+         X22      C-
+         X22      GND1
+         X22      GND2
+         X23      3-GND
+         X23      C-
+         X23      GND1
+         X23      GND2
+         X24      3-GND
+         X24      C-
+         X24      GND1
+         X24      GND2
+         X25      3-GND
+         X25      C-
+         X25      GND1
+         X25      GND2
+         X26      3-GND
+         X26      C-
+         X26      GND1
+         X26      GND2
+         X27      3-GND
+         X27      C-
+         X27      GND1
+         X27      GND2
+         X28      3-GND
+         X28      C-
+         X28      GND1
+         X28      GND2
+         X29      3-GND
+         X29      C-
+         X29      GND1
+         X29      GND2
+         X3       3-GND
+         X3       C-
+         X3       GND1
+         X3       GND2
+         X30      3-GND
+         X30      C-
+         X30      GND1
+         X30      GND2
+         X4       3-GND
+         X4       C-
+         X4       GND1
+         X4       GND2
+         X5       3-GND
+         X5       C-
+         X5       GND1
+         X5       GND2
+         X6       3-GND
+         X6       C-
+         X6       GND1
+         X6       GND2
+         X7       3-GND
+         X7       C-
+         X7       GND1
+         X7       GND2
+         X8       3-GND
+         X8       C-
+         X8       GND1
+         X8       GND2
+         X9       3-GND
+         X9       C-
+         X9       GND1
+         X9       GND2
+
+N$1      X1       4-DIN
+         X1       DIN
+         X1       DIN1
+         X2       2-DOUT
+         X2       DOUT
+         X2       DOUT1
+         X8       DIN_C
+         X8       DIN_C1
+
+N$2      X1       D+
+         X1       DA
+
+N$3      X1       DIN_C
+         X1       DIN_C1
+
+N$4      X2       D+
+         X2       DA
+
+N$5      X4       D+
+         X4       DA
+
+N$6      X1       2-DOUT
+         X1       DOUT
+         X1       DOUT1
+         X7       DIN_C
+         X7       DIN_C1
+
+N$7      X7       D+
+         X7       DA
+
+N$8      X2       DIN_C
+         X2       DIN_C1
+
+N$9      X3       D+
+         X3       DA
+
+N$10     X2       4-DIN
+         X2       DIN
+         X2       DIN1
+         X3       2-DOUT
+         X3       DOUT
+         X3       DOUT1
+         X9       DIN_C
+         X9       DIN_C1
+
+N$11     X10      DIN_C
+         X10      DIN_C1
+         X3       4-DIN
+         X3       DIN
+         X3       DIN1
+         X4       2-DOUT
+         X4       DOUT
+         X4       DOUT1
+
+N$12     X3       DIN_C
+         X3       DIN_C1
+
+N$13     X11      DIN_C
+         X11      DIN_C1
+         X4       4-DIN
+         X4       DIN
+         X4       DIN1
+         X5       2-DOUT
+         X5       DOUT
+         X5       DOUT1
+
+N$14     X4       DIN_C
+         X4       DIN_C1
+
+N$15     X6       D+
+         X6       DA
+
+N$16     X12      DIN_C
+         X12      DIN_C1
+         X5       4-DIN
+         X5       DIN
+         X5       DIN1
+         X6       2-DOUT
+         X6       DOUT
+         X6       DOUT1
+
+N$17     X12      2-DOUT
+         X12      DOUT
+         X12      DOUT1
+         X18      DIN_C
+         X18      DIN_C1
+
+N$18     X6       DIN_C
+         X6       DIN_C1
+
+N$19     X5       D+
+         X5       DA
+
+N$20     X5       DIN_C
+         X5       DIN_C1
+
+N$21     X6       4-DIN
+         X6       DIN
+         X6       DIN1
+
+N$23     X13      D+
+         X13      DA
+
+N$24     X8       D+
+         X8       DA
+
+N$25     X14      DIN_C
+         X14      DIN_C1
+         X8       2-DOUT
+         X8       DOUT
+         X8       DOUT1
+         X9       4-DIN
+         X9       DIN
+         X9       DIN1
+
+N$26     X13      2-DOUT
+         X13      DOUT
+         X13      DOUT1
+         X19      DIN_C
+         X19      DIN_C1
+
+N$27     X9       D+
+         X9       DA
+
+N$28     X10      4-DIN
+         X10      DIN
+         X10      DIN1
+         X15      DIN_C
+         X15      DIN_C1
+         X9       2-DOUT
+         X9       DOUT
+         X9       DOUT1
+
+N$29     X13      4-DIN
+         X13      DIN
+         X13      DIN1
+         X14      2-DOUT
+         X14      DOUT
+         X14      DOUT1
+         X20      DIN_C
+         X20      DIN_C1
+
+N$30     X10      D+
+         X10      DA
+
+N$31     X10      2-DOUT
+         X10      DOUT
+         X10      DOUT1
+         X11      4-DIN
+         X11      DIN
+         X11      DIN1
+         X16      DIN_C
+         X16      DIN_C1
+
+N$32     X13      DIN_C
+         X13      DIN_C1
+         X7       2-DOUT
+         X7       DOUT
+         X7       DOUT1
+         X8       4-DIN
+         X8       DIN
+         X8       DIN1
+
+N$33     X11      D+
+         X11      DA
+
+N$34     X11      2-DOUT
+         X11      DOUT
+         X11      DOUT1
+         X12      4-DIN
+         X12      DIN
+         X12      DIN1
+         X17      DIN_C
+         X17      DIN_C1
+
+N$35     X15      D+
+         X15      DA
+
+N$36     X12      D+
+         X12      DA
+
+N$37     X14      4-DIN
+         X14      DIN
+         X14      DIN1
+         X15      2-DOUT
+         X15      DOUT
+         X15      DOUT1
+         X21      DIN_C
+         X21      DIN_C1
+
+N$38     X7       4-DIN
+         X7       DIN
+         X7       DIN1
+
+N$39     X14      D+
+         X14      DA
+
+N$40     X25      D+
+         X25      DA
+
+N$41     X16      D+
+         X16      DA
+
+N$42     X16      4-DIN
+         X16      DIN
+         X16      DIN1
+         X17      2-DOUT
+         X17      DOUT
+         X17      DOUT1
+         X23      DIN_C
+         X23      DIN_C1
+
+N$43     X25      2-DOUT
+         X25      DOUT
+         X25      DOUT1
+
+N$44     X18      D+
+         X18      DA
+
+N$45     X17      4-DIN
+         X17      DIN
+         X17      DIN1
+         X18      2-DOUT
+         X18      DOUT
+         X18      DOUT1
+         X24      DIN_C
+         X24      DIN_C1
+
+N$46     X18      4-DIN
+         X18      DIN
+         X18      DIN1
+
+N$47     X25      4-DIN
+         X25      DIN
+         X25      DIN1
+         X26      2-DOUT
+         X26      DOUT
+         X26      DOUT1
+
+N$48     X17      D+
+         X17      DA
+
+N$50     X15      4-DIN
+         X15      DIN
+         X15      DIN1
+         X16      2-DOUT
+         X16      DOUT
+         X16      DOUT1
+         X22      DIN_C
+         X22      DIN_C1
+
+N$51     X19      D+
+         X19      DA
+
+N$52     X19      2-DOUT
+         X19      DOUT
+         X19      DOUT1
+         X20      4-DIN
+         X20      DIN
+         X20      DIN1
+         X25      DIN_C
+         X25      DIN_C1
+
+N$53     X19      4-DIN
+         X19      DIN
+         X19      DIN1
+
+N$54     X20      D+
+         X20      DA
+
+N$55     X20      2-DOUT
+         X20      DOUT
+         X20      DOUT1
+         X21      4-DIN
+         X21      DIN
+         X21      DIN1
+         X26      DIN_C
+         X26      DIN_C1
+
+N$56     X21      D+
+         X21      DA
+
+N$58     X22      D+
+         X22      DA
+
+N$59     X22      2-DOUT
+         X22      DOUT
+         X22      DOUT1
+         X23      4-DIN
+         X23      DIN
+         X23      DIN1
+         X28      DIN_C
+         X28      DIN_C1
+
+N$60     X23      D+
+         X23      DA
+
+N$61     X23      2-DOUT
+         X23      DOUT
+         X23      DOUT1
+         X24      4-DIN
+         X24      DIN
+         X24      DIN1
+         X29      DIN_C
+         X29      DIN_C1
+
+N$62     X24      D+
+         X24      DA
+
+N$63     X27      D+
+         X27      DA
+
+N$64     X26      4-DIN
+         X26      DIN
+         X26      DIN1
+         X27      2-DOUT
+         X27      DOUT
+         X27      DOUT1
+
+N$65     X21      2-DOUT
+         X21      DOUT
+         X21      DOUT1
+         X22      4-DIN
+         X22      DIN
+         X22      DIN1
+         X27      DIN_C
+         X27      DIN_C1
+
+N$66     X26      D+
+         X26      DA
+
+N$68     X28      D+
+         X28      DA
+
+N$69     X28      4-DIN
+         X28      DIN
+         X28      DIN1
+         X29      2-DOUT
+         X29      DOUT
+         X29      DOUT1
+
+N$71     X30      D+
+         X30      DA
+
+N$72     X29      4-DIN
+         X29      DIN
+         X29      DIN1
+         X30      2-DOUT
+         X30      DOUT
+         X30      DOUT1
+
+N$73     X30      4-DIN
+         X30      DIN
+         X30      DIN1
+
+N$74     X24      2-DOUT
+         X24      DOUT
+         X24      DOUT1
+         X30      DIN_C
+         X30      DIN_C1
+
+N$75     X29      D+
+         X29      DA
+
+N$77     X27      4-DIN
+         X27      DIN
+         X27      DIN1
+         X28      2-DOUT
+         X28      DOUT
+         X28      DOUT1
+
+ROW1     X1       A
+         X1       A1
+         X1       A2
+         X2       A
+         X2       A1
+         X2       A2
+         X3       A
+         X3       A1
+         X3       A2
+         X4       A
+         X4       A1
+         X4       A2
+         X5       A
+         X5       A1
+         X5       A2
+         X6       A
+         X6       A1
+         X6       A2
+
+ROW2     X10      A
+         X10      A1
+         X10      A2
+         X11      A
+         X11      A1
+         X11      A2
+         X12      A
+         X12      A1
+         X12      A2
+         X7       A
+         X7       A1
+         X7       A2
+         X8       A
+         X8       A1
+         X8       A2
+         X9       A
+         X9       A1
+         X9       A2
+
+ROW3     X13      A
+         X13      A1
+         X13      A2
+         X14      A
+         X14      A1
+         X14      A2
+         X15      A
+         X15      A1
+         X15      A2
+         X16      A
+         X16      A1
+         X16      A2
+         X17      A
+         X17      A1
+         X17      A2
+         X18      A
+         X18      A1
+         X18      A2
+
+ROW4     X19      A
+         X19      A1
+         X19      A2
+         X20      A
+         X20      A1
+         X20      A2
+         X21      A
+         X21      A1
+         X21      A2
+         X22      A
+         X22      A1
+         X22      A2
+         X23      A
+         X23      A1
+         X23      A2
+         X24      A
+         X24      A1
+         X24      A2
+
+ROW5     X25      A
+         X25      A1
+         X25      A2
+         X26      A
+         X26      A1
+         X26      A2
+         X27      A
+         X27      A1
+         X27      A2
+         X28      A
+         X28      A1
+         X28      A2
+         X29      A
+         X29      A1
+         X29      A2
+         X30      A
+         X30      A1
+         X30      A2
+
+VDD      X1       1-VDD
+         X1       C+
+         X1       VDD1
+         X1       VDD2
+         X10      1-VDD
+         X10      C+
+         X10      VDD1
+         X10      VDD2
+         X11      1-VDD
+         X11      C+
+         X11      VDD1
+         X11      VDD2
+         X12      1-VDD
+         X12      C+
+         X12      VDD1
+         X12      VDD2
+         X13      1-VDD
+         X13      C+
+         X13      VDD1
+         X13      VDD2
+         X14      1-VDD
+         X14      C+
+         X14      VDD1
+         X14      VDD2
+         X15      1-VDD
+         X15      C+
+         X15      VDD1
+         X15      VDD2
+         X16      1-VDD
+         X16      C+
+         X16      VDD1
+         X16      VDD2
+         X17      1-VDD
+         X17      C+
+         X17      VDD1
+         X17      VDD2
+         X18      1-VDD
+         X18      C+
+         X18      VDD1
+         X18      VDD2
+         X19      1-VDD
+         X19      C+
+         X19      VDD1
+         X19      VDD2
+         X2       1-VDD
+         X2       C+
+         X2       VDD1
+         X2       VDD2
+         X20      1-VDD
+         X20      C+
+         X20      VDD1
+         X20      VDD2
+         X21      1-VDD
+         X21      C+
+         X21      VDD1
+         X21      VDD2
+         X22      1-VDD
+         X22      C+
+         X22      VDD1
+         X22      VDD2
+         X23      1-VDD
+         X23      C+
+         X23      VDD1
+         X23      VDD2
+         X24      1-VDD
+         X24      C+
+         X24      VDD1
+         X24      VDD2
+         X25      1-VDD
+         X25      C+
+         X25      VDD1
+         X25      VDD2
+         X26      1-VDD
+         X26      C+
+         X26      VDD1
+         X26      VDD2
+         X27      1-VDD
+         X27      C+
+         X27      VDD1
+         X27      VDD2
+         X28      1-VDD
+         X28      C+
+         X28      VDD1
+         X28      VDD2
+         X29      1-VDD
+         X29      C+
+         X29      VDD1
+         X29      VDD2
+         X3       1-VDD
+         X3       C+
+         X3       VDD1
+         X3       VDD2
+         X30      1-VDD
+         X30      C+
+         X30      VDD1
+         X30      VDD2
+         X4       1-VDD
+         X4       C+
+         X4       VDD1
+         X4       VDD2
+         X5       1-VDD
+         X5       C+
+         X5       VDD1
+         X5       VDD2
+         X6       1-VDD
+         X6       C+
+         X6       VDD1
+         X6       VDD2
+         X7       1-VDD
+         X7       C+
+         X7       VDD1
+         X7       VDD2
+         X8       1-VDD
+         X8       C+
+         X8       VDD1
+         X8       VDD2
+         X9       1-VDD
+         X9       C+
+         X9       VDD1
+         X9       VDD2
+

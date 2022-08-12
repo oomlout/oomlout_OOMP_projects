@@ -1,0 +1,237 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 22:13
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+AVDD      C8       2
+          U2       34
+          U2       39
+          U2       44
+          U2       46
+
+CS        CONTROL  10
+          R12      2
+          U1       1
+          U2       22
+
+D+        R2       6
+          U2       35
+          X1       D+
+
+D-        R2       7
+          U2       36
+          X1       D-
+
+GND       C11      2
+          C12      2
+          C3       2
+          C6       1
+          C7       1
+          C8       1
+          C9       1
+          CONTROL  11
+          CONTROL  14
+          CONTROL  2
+          GPIO1    1
+          LED4     C
+          R2       1
+          U1       4
+          U2       18
+          U2       31
+          U2       38
+          U2       41
+          U2       42
+          U2       48
+          U2       6
+          U2       8
+          X1       BASE@1
+          X1       BASE@2
+          X1       GND
+          X1       SPRT@1
+          X1       SPRT@2
+          X1       SPRT@3
+          X1       SPRT@4
+          X2       1
+          X3       1-GND
+          X3       4-INNER_SLEEVE
+          Y2       2
+
+GPIO0_0   GPIO1    13
+          R9       4
+          U2       2
+
+GPIO0_1   GPIO1    12
+          R9       3
+          U2       3
+
+GPIO0_2   GPIO1    11
+          R9       2
+          U2       4
+
+GPIO0_3   GPIO1    10
+          R9       1
+          U2       5
+
+GPIO0_4   GPIO1    9
+          R10      4
+          U2       9
+
+GPIO0_5   GPIO1    8
+          R10      3
+          U2       10
+
+GPIO0_6   GPIO1    7
+          R10      2
+          U2       11
+
+GPIO0_7   GPIO1    6
+          R10      1
+          U2       12
+
+GPIO0_8   GPIO1    5
+          R11      3
+          U2       13
+
+GPIO0_9   GPIO1    4
+          R11      4
+          U2       14
+
+GPIO0_10  GPIO1    3
+          R11      2
+          U2       15
+
+GPIO0_11  CONTROL  7
+          R11      1
+          U2       20
+
+GPIO0_12  GPIO1    2
+          R8       2
+          U2       16
+
+GPIO0_13  CONTROL  8
+          R12      3
+          U2       17
+
+GPIO0_14  CONTROL  9
+          R12      1
+          U2       21
+
+LEFT      R3       1
+          U2       47
+
+L_AC      C1       1
+          CONTROL  13
+          X3       2-TIP
+
+MISO      TP3      TP
+          U1       2
+          U2       24
+
+MOSI      TP2      TP
+          U1       5
+          U2       25
+
+N$1       LED4     A
+          R7       1
+
+N$2       C12      1
+          C2       2
+          R6       2
+
+N$3       C3       1
+          U2       45
+
+N$4       R1       2
+          U2       29
+          Y2       3
+
+N$5       C6       2
+          U2       32
+
+N$6       C1       2
+          C11      1
+          R3       2
+
+N$8       GREEN    C
+          R8       1
+
+N$12      R1       1
+          U2       28
+          Y2       1
+
+PWRBUTTON C10      1
+          CONTROL  4
+          R2       8
+          U2       37
+
+RIGHT     R6       1
+          U2       40
+
+RST       GPIO1    14
+          R2       5
+          U2       1
+
+RX        D2       A
+          R12      4
+          U2       27
+
+RX_5V     CONTROL  6
+          D2       C
+
+R_AC      C2       1
+          CONTROL  12
+          X3       3-OUTER_SLEEVE
+
+SCK       TP1      TP
+          U1       6
+          U2       23
+
+TX        CONTROL  5
+          U2       26
+
+VBUS      CONTROL  3
+          D4       A
+          X1       VBUS
+
+VDD       C7       2
+          GREEN    A
+          R10      5
+          R10      6
+          R10      7
+          R10      8
+          R11      5
+          R11      6
+          R11      7
+          R11      8
+          R12      5
+          R12      6
+          R12      7
+          R12      8
+          R2       2
+          R2       3
+          R2       4
+          R9       5
+          R9       6
+          R9       7
+          R9       8
+          U1       3
+          U1       7
+          U1       8
+          U2       19
+          U2       30
+          U2       7
+
+VHIGH     C10      2
+          C9       2
+          D3       C
+          D4       C
+          R7       2
+          U2       33
+
+VIN       CONTROL  1
+          D3       A
+          X2       2
+

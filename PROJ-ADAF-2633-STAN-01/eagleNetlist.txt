@@ -1,0 +1,105 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 18:30
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+3.3V         C1       1
+             C4       1
+             IC1      5
+             Q1       1
+             R4       1
+             R5       1
+             U1       14
+             U1       3
+             U2       5
+             VTREF    P$1
+
+CONNECTED    R2       1
+             U1       39
+
+CS_3V        D3       A
+             R5       2
+             U1       7
+
+CS_5V        D3       C
+             JP2      4
+
+DCC          U1       15
+
+DEC2         U1       41
+
+DFU_3V       JP2      6
+             U1       24
+
+FACTORYRST   TP3      P$1
+             U1       34
+
+GND          C1       2
+             C3       2
+             C4       2
+             D1       C
+             D2       C
+             IC1      2
+             JP2      8
+             U1       1
+             U1       13
+             U1       16
+             U1       2
+             U1       25
+             U1       42
+             U2       2
+
+IRQ_3V       JP2      5
+             U1       8
+
+MISO_3V      JP2      2
+             U1       5
+
+MODE         R1       1
+             U1       38
+
+MOSI_3V      IC1      4
+             U1       6
+
+MOSI_5V      IC1      3
+             JP2      3
+
+N$1          U1       9
+             Y1       1
+
+N$2          U1       10
+             Y1       2
+
+N$5          D1       A
+             R1       2
+
+N$6          D2       A
+             R2       2
+
+SCK_3V       IC1      6
+             U1       4
+
+SCK_5V       IC1      1
+             JP2      1
+
+SWCLK        TP1      P$1
+             U1       36
+
+SWDIO/RST_3V Q1       2
+             R4       2
+             TP2      P$1
+             U1       35
+
+SWDIO/RST_5V JP2      7
+             Q1       3
+             R3       2
+
+VIN          C3       1
+             JP2      9
+             R3       1
+             U2       1
+             U2       3
+

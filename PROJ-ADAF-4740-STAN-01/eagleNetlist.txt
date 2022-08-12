@@ -1,0 +1,110 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       MS1      2
+           OK2      6
+           R1       2
+           R3       1
+           R5       1
+           R6       1
+
+A          MS1      5
+
+AREF       MS1      3
+
+B          MS1      6
+
+C          MS1      7
+
+D          MS1      8
+
+E          MS1      9
+
+EN         MS1      27
+
+F          MS1      10
+
+G          MS1      16
+
+GND        MIDIOUT  2
+           MIDIOUT  PE
+           MIDIOUT  PE@
+           MS1      4
+           OK2      5
+           X2       1
+
+H          MS1      19
+
+I          MS1      20
+
+IN_SINK    D1       A
+           MIDIIN   5
+           OK2      2
+           X1       4
+           X1       5
+
+IN_SOURCE  MIDIIN   4
+           R2       2
+           X1       2
+           X1       3
+
+J          MS1      21
+
+K          MS1      22
+
+L          MS1      23
+
+M          MS1      24
+
+MIDI_RX    D2       C
+           MS1      14
+           OK2      4
+           R3       2
+
+MIDI_TX    D3       C
+           MS1      15
+           R4       2
+
+MISO       MS1      13
+
+MOSI       MS1      12
+
+N          MS1      25
+
+N$1        D2       A
+           R5       2
+
+N$2        D3       A
+           R6       2
+
+N$33       D1       C
+           OK2      1
+           R2       1
+
+OUT_SINK   MIDIOUT  5
+           R4       1
+           X2       4
+           X2       5
+
+OUT_SOURCE MIDIOUT  4
+           R1       1
+           X2       2
+           X2       3
+
+RESET      MS1      1
+
+SCK        MS1      11
+
+SCL        MS1      18
+
+SDA        MS1      17
+
+USB        MS1      26
+
+VBAT       MS1      28
+

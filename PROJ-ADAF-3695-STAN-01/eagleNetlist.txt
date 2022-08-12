@@ -1,0 +1,93 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JP2      1
+         JP4      1
+         MB1      27
+         MB1      28
+         MB1      29
+         MB1      30
+         MB1      31
+         MB1      32
+
+GND      JP1      1
+         JP2      2
+         JP4      2
+         MB1      35
+         MB1      36
+         MB1      37
+         MB1      38
+         MB1      39
+         MB1      40
+
+P0       JP1      2
+         MB1      2
+         MB1      3
+         MB1      4
+         MB1      5
+
+P1       JP1      3
+         MB1      10
+         MB1      11
+         MB1      12
+         MB1      13
+
+P2       JP1      4
+         MB1      19
+         MB1      20
+         MB1      21
+         MB1      22
+
+P3       JP1      5
+         MB1      1
+
+P4       JP1      6
+         MB1      6
+
+P5       JP1      7
+         MB1      7
+
+P6       JP1      8
+         MB1      8
+
+P7       JP1      9
+         MB1      9
+
+P8       JP1      10
+         MB1      14
+
+P9       JP1      11
+         MB1      15
+
+P10      JP2      11
+         MB1      16
+
+P11      JP2      10
+         MB1      17
+
+P12      JP2      9
+         MB1      18
+
+P13      JP2      8
+         MB1      23
+
+P14      JP2      7
+         MB1      24
+
+P15      JP2      6
+         MB1      25
+
+P16      JP2      5
+         MB1      26
+
+SCL      JP2      4
+         MB1      33
+
+SDA      JP2      3
+         MB1      34
+

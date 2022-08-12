@@ -1,56 +1,18 @@
+###### OOMP FILE  ######
+
 import OOMP
+import OOMPtags
 
-newPart = OOMP.oompItem(12536)
+newPart = OOMP.oompItem()
 
+newPart.addTag("hexID", "PRAREVERY")
 newPart.addTag("oompType", "PROJ")
 newPart.addTag("oompSize", "ARDU")
 newPart.addTag("oompColor", "NANO")
 newPart.addTag("oompDesc", "EVERY")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("hexID","EVERY")
-newPart.addTag("oompAbout","Cost effective small form factor Arduino board")
 
-newPart.addTag("linkBuyPage","https://store.arduino.cc/collections/boards/products/arduino-nano-every")
-
-newPart.addTag("sources","All design files from Arduino.cc ( https://store.arduino.cc/collections/boards/products/arduino-nano-every )")
-newPart.addTag("sources","Fritzing diagram from ( https://store.arduino.cc/collections/boards/products/arduino-nano-every )")
-
-newPart.addTag("ooPin1","TX1")
-newPart.addTag("ooPin2","RX0")
-newPart.addTag("ooPin3","RST")
-newPart.addTag("ooPin4","GND")
-newPart.addTag("ooPin5","D2")
-newPart.addTag("ooPin6","D3")
-newPart.addTag("ooPin7","D4")
-newPart.addTag("ooPin8","D5")
-newPart.addTag("ooPin9","D6")
-newPart.addTag("ooPin10","D7")
-newPart.addTag("ooPin11","D8")
-newPart.addTag("ooPin12","D9")
-newPart.addTag("ooPin13","D10")
-newPart.addTag("ooPin14","D11")
-newPart.addTag("ooPin15","D12")
-newPart.addTag("ooPin16","D13")
-newPart.addTag("ooPin17","3V3")
-newPart.addTag("ooPin18","REF")
-newPart.addTag("ooPin19","A0")
-newPart.addTag("ooPin20","A1")
-newPart.addTag("ooPin21","A2")
-newPart.addTag("ooPin22","A3")
-newPart.addTag("ooPin23","A4")
-newPart.addTag("ooPin24","A5")
-newPart.addTag("ooPin25","A6")
-newPart.addTag("ooPin26","A7")
-newPart.addTag("ooPin27","5V")
-newPart.addTag("ooPin28","RST")
-newPart.addTag("ooPin29","GND")
-newPart.addTag("ooPin30","VIN")
-newPart.addTag("ooNumPins","30")
-		
-newPart.addTag("oompSymbol","twoSidedPackage;##ooNumPins@@")		
-newPart.addTag("ooDesignator","U1")
-newPart.addTag("ooDesignator1","U")
-
-
+newPart.addTag("sources", "All source files from https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers")
+newPart.addTag("linkBuyPage", "https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers")
 
 OOMP.parts.append(newPart)

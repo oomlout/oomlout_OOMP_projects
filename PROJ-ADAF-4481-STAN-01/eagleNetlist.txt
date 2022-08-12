@@ -1,0 +1,205 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 03:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     JP4      14
+           MDBT1    40
+           SW1      B
+           SW1      B'
+
+3.3V       C3       2
+           C4       2
+           C5       2
+           C8       2
+           IC2      8
+           JP4      13
+           L2       3
+           MDBT1    28
+           MDBT1    30
+           U2       5
+
+A0         JP4      10
+           MDBT1    20
+
+A1         JP4      9
+           MDBT1    14
+
+A2         JP4      8
+           MDBT1    13
+
+A3         JP4      7
+           MDBT1    12
+
+A4         JP4      6
+           MDBT1    11
+
+A5         JP4      5
+           MDBT1    9
+
+D+         D+       TP
+           R11      1
+           X1       D+
+
+D-         D-       TP
+           R10      1
+           X1       D-
+
+D2         JP4      1
+           MDBT1    50
+
+D5         IC1      2
+           MDBT1    16
+
+D5_5V      IC1      4
+           JP2      10
+
+D7         JP2      9
+           MDBT1    25
+
+D9         JP2      8
+           MDBT1    23
+
+D10        JP2      7
+           MDBT1    21
+
+D11        JP2      6
+           MDBT1    19
+
+D12        JP2      5
+           MDBT1    27
+
+D13        JP2      4
+           MDBT1    29
+
+DCCH       MDBT1    31
+
+DOT_CLK    L2       5
+           MDBT1    26
+
+DOT_DATA   L2       6
+           MDBT1    24
+
+EN         JP4      12
+           R1       1
+           U2       3
+
+GND        C1       2
+           C2       2
+           C3       1
+           C4       1
+           C5       1
+           C7       1
+           C8       1
+           IC1      1
+           IC1      3
+           IC2      4
+           JP2      2
+           L2       4
+           MDBT1    1
+           MDBT1    15
+           MDBT1    2
+           MDBT1    33
+           MDBT1    55
+           R2       2
+           SW1      A
+           SW1      A'
+           SW2      A
+           SW2      A'
+           U2       2
+           X1       BASE@1
+           X1       BASE@2
+           X1       GND
+           X1       SPRT@1
+           X1       SPRT@2
+           X1       SPRT@3
+           X1       SPRT@4
+
+LED1       D2       A
+           MDBT1    22
+
+MISO       JP4      2
+           MDBT1    44
+
+MOSI       JP4      3
+           MDBT1    39
+
+N$1        D2       C
+           R2       1
+
+N$7        C1       1
+           MDBT1    17
+           Y2       P$1
+
+N$8        C2       1
+           MDBT1    18
+           Y2       P$2
+
+QSPI_CS    IC2      1
+           MDBT1    45
+
+QSPI_DATA0 IC2      5
+           MDBT1    43
+
+QSPI_DATA1 IC2      2
+           MDBT1    46
+
+QSPI_DATA2 IC2      3
+           MDBT1    47
+
+QSPI_DATA3 IC2      7
+           MDBT1    41
+
+QSPI_SCK   IC2      6
+           MDBT1    42
+
+RX_D0      JP2      14
+           MDBT1    49
+
+SCK        JP4      4
+           MDBT1    37
+
+SCL        JP2      11
+           MDBT1    36
+
+SDA        JP2      12
+           MDBT1    38
+
+SWCLK      MDBT1    53
+           SWC      TP
+
+SWDIO      MDBT1    51
+           SWD      TP
+
+SWITCH     MDBT1    10
+           SW2      B
+           SW2      B'
+
+TX_D1      JP2      13
+           MDBT1    48
+
+USBD+      MDBT1    35
+           R11      2
+
+USBD-      MDBT1    34
+           R10      2
+
+VBAT       D3       A
+           JP2      1
+
+VBUS       D1       A
+           JP2      3
+           MDBT1    32
+           X1       VBUS
+
+VHI        C7       2
+           D1       C
+           D3       C
+           IC1      5
+           JP4      11
+           R1       2
+           U2       1
+

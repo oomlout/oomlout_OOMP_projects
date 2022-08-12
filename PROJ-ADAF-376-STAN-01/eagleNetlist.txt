@@ -1,0 +1,188 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 00:20
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
++5V          C5       1
+             IC4      1
+             IC4      3
+             PIN3     1
+             R5       1
+             RD       1
+             U$2      5V
+             VCC      1
+             VCC      2
+
+/RESET       IC3      9
+             IC5      2
+             U$2      RESET
+
+3V           U$2      3V
+
+CARDCS_5V    IC3      2
+             U$2      D5
+
+CARD_CS      IC3      18
+             U$3      2
+
+GND          C1       2
+             C2       2
+             C3       2
+             C4       2
+             C5       2
+             CN2      1
+             CN2      2
+             CN2      21
+             CN2      22
+             CN2      3
+             CN2      34
+             CN2      35
+             CN2      36
+             CN2      37
+             CN2      4
+             CN2      5
+             IC1      10
+             IC1      19
+             IC3      10
+             IC3      19
+             IC4      2
+             IC5      1
+             Q1       E
+             U$2      GND
+             U$2      GND1
+             U$2      GND2
+             U$3      6
+             U$3      MT1
+             U$3      MT2
+
+LCD_CS       CN2      7
+             IC3      15
+
+LCD_CS_5V    IC3      5
+             U$2      A3
+
+LCD_DATA1    CN2      23
+             IC1      18
+
+LCD_DATA1_5V IC1      2
+             U$2      D8
+
+LCD_DATA2    CN2      24
+             IC1      17
+
+LCD_DATA2_5V IC1      3
+             U$2      D9
+
+LCD_DATA3    CN2      25
+             IC1      16
+
+LCD_DATA3_5V IC1      4
+             U$2      D10
+
+LCD_DATA4    CN2      26
+             IC1      15
+             U$3      3
+
+LCD_DATA4_5V IC1      5
+             U$2      D11
+
+LCD_DATA5    CN2      27
+             IC1      14
+
+LCD_DATA5_5V IC1      6
+             U$2      D4
+
+LCD_DATA6    CN2      28
+             IC1      13
+             U$3      5
+
+LCD_DATA6_5V IC1      7
+             U$2      D13
+
+LCD_DATA7    CN2      29
+             IC1      12
+
+LCD_DATA7_5V CN2      12
+             IC1      8
+             U$2      D6
+
+LCD_DATA8    CN2      30
+             IC1      11
+
+LCD_DATA8_5V CN2      15
+             IC1      9
+             U$2      D7
+
+LCD_RD       CN2      10
+             IC3      12
+
+LCD_RD_5V    IC1      1
+             IC3      8
+             RD       2
+             U$2      A0
+
+LCD_RS       CN2      8
+             IC3      14
+
+LCD_RST      CN2      31
+             IC3      11
+
+LCD_RS_5V    CN2      14
+             IC3      6
+             U$2      A2
+
+LCD_WR       CN2      9
+             IC3      13
+
+LCD_WR_5V    CN2      13
+             IC3      7
+             U$2      A1
+
+MISO         U$2      D12
+             U$3      7
+
+N$1          CN2      20
+             R4       2
+
+N$2          CN2      17
+             R1       2
+
+N$3          CN2      18
+             R2       2
+
+N$4          CN2      19
+             R3       2
+
+N$5          Q1       C
+             R1       1
+             R2       1
+             R3       1
+             R4       1
+
+N$7          PIN3     2
+             U$2      D3
+
+N$16         Q1       B
+             R5       2
+
+VCC          C1       1
+             C2       1
+             C3       1
+             C4       1
+             CN2      11
+             CN2      16
+             CN2      32
+             CN2      33
+             CN2      6
+             IC1      20
+             IC3      1
+             IC3      20
+             IC4      5
+             IC5      3
+             U$3      4
+
+VIN          U$2      VIN
+

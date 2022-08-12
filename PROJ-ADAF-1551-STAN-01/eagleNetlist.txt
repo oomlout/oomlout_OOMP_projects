@@ -1,0 +1,21 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 22:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      CN1      4
+         U1       1
+         U1       5
+
+IO       CN1      3
+         U1       2
+
+PIOA     CN1      2
+         U1       6
+
+PIOB     CN1      1
+         U1       4
+

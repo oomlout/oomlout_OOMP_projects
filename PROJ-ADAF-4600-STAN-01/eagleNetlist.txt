@@ -1,0 +1,149 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:13
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   IC3      26
+         Q2       A
+         Q2       A'
+         SWC1     TP
+
++5V      C1       1
+         D1       C
+         JP3      7
+         JP3      7C
+         TP1      P$1
+         U1       1
+         U1       3
+
+3.3V     C2       1
+         C8       1
+         CONN1    2
+         IC3      30
+         IC3      9
+         JP3      5
+         JP3      5C
+         R1       1
+         U1       5
+         U2       3
+         U2       7
+         U2       8
+
+A0       IC3      3
+         JP1      1
+         JP1      1C
+
+A1       IC3      4
+         JP1      2
+         JP1      2C
+
+A2       IC3      5
+         JP1      3
+         JP1      3C
+
+A3       IC3      6
+         JP1      4
+         JP1      4C
+
+CC1      R6       2
+         X6       A5
+
+CC2      R5       2
+         X6       B5
+
+D+       IC3      24
+         X6       A6
+         X6       B6
+
+D-       IC3      23
+         X6       A7
+         X6       B7
+
+FLASH_CS IC3      11
+         R1       2
+         U2       1
+
+GND      C1       2
+         C2       2
+         C3       2
+         C8       2
+         CONN1    1
+         CONN1    MT1
+         CONN1    MT2
+         IC3      10
+         IC3      28
+         IC3      33
+         JP3      6
+         JP3      6C
+         LED1     4
+         Q2       B
+         Q2       B'
+         R5       1
+         R6       1
+         TP2      P$1
+         U1       2
+         U2       4
+         X6       A1B12
+         X6       B1A12
+
+MISO     IC3      12
+         JP3      3
+         JP3      3C
+
+MISO2    IC3      20
+         U2       2
+
+MOSI     IC3      13
+         JP3      4
+         JP3      4C
+
+MOSI2    IC3      21
+         U2       5
+
+NEOPIX   IC3      19
+         LED1     1
+
+NEO_PWR  IC3      16
+         LED1     2
+
+RX_A7    IC3      8
+         JP3      1
+         JP3      1C
+
+SCK      IC3      14
+         JP3      2
+         JP3      2C
+
+SCK2     IC3      22
+         U2       6
+
+SCL      CONN1    4
+         IC3      18
+         JP1      6
+         JP1      6C
+
+SDA      CONN1    3
+         IC3      17
+         JP1      5
+         JP1      5C
+
+SWCLK    IC3      31
+         SWC      TP
+
+SWDIO    IC3      32
+         SWD      TP
+
+TX_A6    IC3      7
+         JP1      7
+         JP1      7C
+
+VBUS     D1       A
+         X6       A4B9
+         X6       B4A9
+
+VDDCORE  C3       1
+         IC3      29
+

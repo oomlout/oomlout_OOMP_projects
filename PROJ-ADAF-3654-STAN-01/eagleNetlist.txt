@@ -1,0 +1,234 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3V       JP3      5
+          M1       3V
+
++5V       C3       1
+          IC4      1
+          IC4      3
+          JP3      4
+          M1       5V
+
+3.3V      C1       1
+          C2       1
+          C4       1
+          C5       1
+          D1       A
+          D2       A
+          D3       A
+          IC4      5
+          U$1      J10
+          U$1      J20
+          U$1      J23
+          U2       1
+          X1       4
+
+A0        JP4      6
+          M1       A0
+
+A1        JP4      5
+          M1       A1
+
+A2        JP4      4
+          M1       A2
+
+A3        JP4      3
+          M1       A3
+
+A4        JP4      2
+          M1       A4
+
+A5        JP4      1
+          M1       A5
+
+AREF      JP5      3
+          M1       AREF
+
+CS_3V     U$1      J16
+          U2       4
+
+D0        JP2      8
+          M1       D0
+
+D1        JP2      7
+          M1       D1
+
+D2        JP2      6
+          M1       D2
+
+D3        JP2      5
+          M1       D3
+
+D4        JP2      4
+          M1       D4
+          SD_JMP   1
+
+D5        JP2      3
+          M1       D5
+          RST_JMP  1
+
+D6        JP2      2
+          M1       D6
+
+D7        IRQ_JMP  1
+          JP2      1
+          M1       D7
+
+D8        JP5      10
+          M1       D8
+
+D9        JP5      9
+          M1       D9
+
+D10       CS_JMP   1
+          JP5      8
+          M1       D10
+
+D11       JP5      7
+          M1       D11
+          SJ7      2
+
+D12       JP5      6
+          M1       D12
+          SJ5      2
+
+D13       JP5      5
+          M1       D13
+          SJ6      2
+
+EN_3V     U$1      J22
+          U2       10
+
+GND       C1       2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          IC4      2
+          JP3      2
+          JP3      3
+          JP5      4
+          M1       GND
+          M1       GND@1
+          M1       GND@3
+          SW2      A
+          SW2      A'
+          U$1      J12
+          U$1      J28
+          U$1      J9
+          U$1      MTGND
+          U2       8
+          X1       6
+          X1       MT1
+          X1       MT2
+
+GPIO15    R5       1
+          U$1      J26
+
+GPIO16    R4       1
+          U$1      J27
+
+MISO      JP9      1
+          SJ2      2
+          SJ5      1
+          U$1      J17
+          X1       7
+
+MISO_ICSP M1       MISO
+          SJ2      1
+
+MOSI      JP11     1
+          SJ4      2
+          SJ7      1
+          U2       7
+
+MOSI_3V   U$1      J15
+          U2       6
+          X1       3
+
+MOSI_ICSP M1       MOSI
+          SJ4      1
+
+N$1       D3       C
+          R2       2
+
+N$5       D2       C
+          R4       2
+
+N$6       D1       C
+          R5       2
+
+N$8       R2       1
+          U$1      J1
+
+NC        JP3      8
+          M1       RESERVED
+
+RESET     JP3      6
+          M1       RESET
+          SW2      B
+          SW2      B'
+
+RST_3V    U$1      J4
+          U2       15
+
+SCK       JP10     1
+          SJ3      2
+          SJ6      1
+          U2       3
+
+SCK_3V    U$1      J18
+          U2       2
+          X1       5
+
+SCK_ICSP  M1       SCK
+          SJ3      1
+
+SCL       JP5      1
+          M1       SCL
+
+SDA       JP5      2
+          M1       SDA
+
+SDCS      JP12     1
+          R8       1
+          SD_JMP   2
+          U2       11
+
+SDCS_3V   U2       12
+          X1       2
+
+VIN       JP3      1
+          M1       VIN
+
+VIOREF    JP3      7
+          M1       IOREF
+          R1       1
+          R3       1
+          R7       1
+          R8       2
+
+WINC_CS   CS_JMP   2
+          JP1      1
+          R7       2
+          U2       5
+
+WINC_EN   JP8      1
+          R3       2
+          U2       9
+
+WINC_IRQ  IRQ_JMP  2
+          JP6      1
+          U$1      J13
+
+WINC_RST  JP7      1
+          R1       2
+          RST_JMP  2
+          U2       14
+

@@ -1,0 +1,121 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!IRQ     JP2      8
+         U$1      J13
+
++3V3     C2       1
+         C3       1
+         C4       1
+         R8       5
+         R8       6
+         R8       8
+         U$1      J20
+         U$1      J23
+         U1       1
+         U1       20
+         U2       5
+
++5V      C1       1
+         JP2      1
+         R2       1
+         R7       1
+         U2       1
+         U2       3
+
+CFG_3V   U$1      J10
+         U1       18
+
+CFG_5V   JP2      11
+         R2       2
+         U1       2
+
+CS_3V    U$1      J16
+         U1       15
+
+CS_5V    JP2      6
+         R7       2
+         U1       5
+
+EN_3V    U$1      J22
+         U1       14
+
+EN_5V    JP2      7
+         R3       2
+         U1       6
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         JP2      2
+         R1       1
+         R3       1
+         U$1      J12
+         U$1      J28
+         U$1      J9
+         U$1      MTGND
+         U1       10
+         U1       19
+         U2       2
+
+GPIO15   D1       C
+         U$1      J26
+
+GPIO16   D2       C
+         U$1      J27
+
+GPIO18   D3       C
+         U$1      J1
+
+MISO     JP2      4
+         U$1      J17
+
+MOSI_3V  U$1      J15
+         U1       16
+
+MOSI_5V  JP2      5
+         U1       4
+
+N$4      D3       A
+         R8       1
+
+N$5      D2       A
+         R8       4
+
+N$6      D1       A
+         R8       3
+
+RST_3V   U$1      J4
+         U1       13
+
+RST_5V   JP2      9
+         R1       2
+         U1       7
+
+RXD_3V   U$1      J19
+         U1       11
+
+RXD_5V   JP2      12
+         U1       9
+
+SCK_3V   U$1      J18
+         U1       12
+
+SCK_5V   JP2      3
+         U1       8
+
+TXD      JP2      13
+         U$1      J14
+
+WAKE_3V  U$1      J11
+         U1       17
+
+WAKE_5V  JP2      10
+         U1       3
+

@@ -1,0 +1,148 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 05:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net               Part     Pad
+
+3.3V              C1       1
+                  C15      2
+                  C17      2
+                  C3       1
+                  D1       A
+                  IC5      3
+                  JP2      6
+                  Q2       2
+                  Q2       5
+                  R2       5
+                  R2       6
+                  R2       7
+                  R3       2
+                  R3       4
+                  SJ2      1
+                  U2       5
+                  X1       5
+                  X1       6
+
+12V               C16      2
+                  C8       1
+                  D2       C
+                  R6       2
+                  X1       2
+                  X1       24
+
+CS_3.3V           D3       A
+                  R2       4
+                  X1       11
+
+CS_5.0V           D3       C
+                  JP2      5
+
+D0/SCLK/SCK_3.3V  Q2       1
+                  R3       7
+                  X1       16
+
+D1/MOSI/SDA1_3.3V Q2       4
+                  R3       5
+                  SJ1      1
+                  X1       17
+
+DC/SA0_3.3V       D5       A
+                  R2       2
+                  SJ3      2
+                  X1       13
+
+DC/SA0_5.0V       D5       C
+                  JP2      3
+
+GND               C1       2
+                  C14      1
+                  C15      1
+                  C16      1
+                  C17      1
+                  C2       2
+                  C3       2
+                  C7       2
+                  CONN1    1
+                  CONN4    1
+                  IC5      1
+                  JP2      8
+                  R1       2
+                  R2       1
+                  R7       1
+                  R9       1
+                  SJ3      1
+                  U2       2
+                  U3       2
+                  X1       1
+                  X1       14
+                  X1       15
+                  X1       19
+                  X1       20
+                  X1       21
+                  X1       22
+                  X1       23
+                  X1       25
+                  X1       4
+                  X1       8
+                  X1       9
+
+N$2               D1       C
+                  R1       1
+
+N$5               D2       A
+                  L1       P$2
+                  U3       1
+
+N$8               C8       2
+                  R6       1
+                  R7       2
+                  U3       3
+
+N$9               R2       8
+                  SJ2      2
+                  X1       7
+
+N$10              R9       2
+                  X1       10
+
+N$15              C14      2
+                  X1       3
+
+N$17              SJ1      2
+                  X1       18
+
+RST_3.3V          D4       A
+                  IC5      2
+                  R2       3
+                  X1       12
+
+RST_5.0V          D4       C
+                  JP2      4
+
+SCL               CONN1    4
+                  CONN4    4
+                  JP2      2
+                  Q2       6
+                  R3       8
+
+SDA               CONN1    3
+                  CONN4    3
+                  JP2      1
+                  Q2       3
+                  R3       6
+
+VCC               C2       1
+                  C7       1
+                  CONN1    2
+                  CONN4    2
+                  JP2      7
+                  L1       P$1
+                  R3       1
+                  R3       3
+                  U2       1
+                  U2       3
+                  U3       4
+                  U3       5
+

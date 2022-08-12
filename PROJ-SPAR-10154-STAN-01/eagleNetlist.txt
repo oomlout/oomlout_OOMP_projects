@@ -1,0 +1,50 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part         Pad
+
+3.3V     JP0          2
+         RFM22-XXX-S2 5
+
+ANT      JP2          1
+         RFM22-XXX-S2 1
+
+GND      JP0          1
+         RFM22-XXX-S2 15
+         RFM22-XXX-S2 16
+         RFM22-XXX-S2 2
+         RFM22-XXX-S2 9
+
+GPIO2    JP3          1
+         RFM22-XXX-S2 8
+
+GPIO_0   JP3          3
+         RFM22-XXX-S2 6
+
+GPIO_1   JP3          2
+         RFM22-XXX-S2 7
+
+NIRQ     JP4          1
+         RFM22-XXX-S2 14
+
+NSEL     JP4          2
+         RFM22-XXX-S2 13
+
+RX_ANT   JP5          1
+         RFM22-XXX-S2 3
+
+SCLK     JP4          3
+         RFM22-XXX-S2 12
+
+SDI      JP4          4
+         RFM22-XXX-S2 11
+
+SDO      JP4          5
+         RFM22-XXX-S2 10
+
+TX_ANT   JP5          2
+         RFM22-XXX-S2 4
+

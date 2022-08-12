@@ -1,0 +1,127 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 21:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5.0V     C2       1
+         C5       +
+         CN1      VBUS
+         JP1      6
+         PWR      A
+         R11      2
+         R3       2
+         R9       2
+         U1       1
+         U1       15
+         U1       16
+         X1       2
+
+D+       CN1      D+
+         R11      1
+         R12      1
+
+D-       CN1      D-
+         R10      1
+         R9       1
+
+ENABLE   JP1      2
+         R13      2
+         U1       11
+
+GND      B1       1
+         C1       2
+         C2       2
+         C4       2
+         C5       -
+         C6       2
+         CN1      GND
+         JP1      3
+         JP1      5
+         JP2      2
+         LBO      C
+         LED4     C
+         R10      2
+         R12      2
+         R2       1
+         R4       1
+         R5       2
+         R8       2
+         U1       10
+         U1       13
+         U1       5
+         U1       6
+         U1       7
+         U1       P$18
+         U1       P$19
+         U1       P$20
+         U1       P$21
+         U1       P$22
+         U1       THERMAL
+         U2       2
+         X1       1
+         X2       BASE@1
+         X2       BASE@2
+         X2       GND
+         X2       SPRT@1
+         X2       SPRT@2
+         X2       SPRT@3
+         X2       SPRT@4
+
+LBO      JP1      4
+         Q1       B
+         U1       12
+
+N$1      L1       P$2
+         U1       3
+         U1       4
+
+N$2      LBO      A
+         R20      1
+
+N$3      R1       1
+         R2       2
+         U1       9
+
+N$4      PWR      C
+         R5       1
+
+N$5      R3       1
+         R4       2
+         U1       14
+
+N$6      LED3     C
+         R6       1
+
+N$7      R6       2
+         R7       2
+         U2       1
+
+N$8      R8       1
+         U2       5
+
+N$9      LED4     A
+         R7       1
+
+N$10     Q1       C
+         R20      2
+
+VBAT     B1       2
+         C1       1
+         C4       1
+         JP1      1
+         L1       P$1
+         Q1       E
+         R1       2
+         R13      1
+         U1       8
+         U2       3
+
+VDD1     C6       1
+         JP2      1
+         LED3     A
+         U2       4
+         X2       VBUS
+

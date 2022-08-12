@@ -1,0 +1,233 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JP4      1
+         JP4      2
+         JP4      3
+         RPI1     1
+         RPI1     17
+         RPI1     S1
+         RPI1     S17
+
+5.0V     C1       1
+         C10      1
+         C2       1
+         C3       1
+         C6       1
+         C9       1
+         JP2      1
+         JP2      2
+         JP2      3
+         LEFT     4
+         LEFT     7
+         LEFT     8
+         R1       2
+         R2       2
+         RIGHT    7
+         RIGHT    8
+         RPI1     2
+         RPI1     4
+         RPI1     S2
+         RPI1     S4
+         SJ1      1
+
+BCLK     CONN1    7
+         LEFT     16
+         RIGHT    16
+         RPI1     12
+         RPI1     S12
+
+DIN      CONN1    25
+         LEFT     1
+         RIGHT    1
+         RPI1     40
+         RPI1     S40
+
+EECLK    RPI1     28
+         RPI1     S28
+
+EEDATA   RPI1     27
+         RPI1     S27
+
+GAIN     LEFT     2
+         RIGHT    2
+         SJ1      2
+
+GND      C1       2
+         C10      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       2
+         JP5      1
+         JP5      2
+         JP5      3
+         LEFT     11
+         LEFT     15
+         LEFT     3
+         LEFT     THERMAL
+         RIGHT    11
+         RIGHT    15
+         RIGHT    3
+         RIGHT    THERMAL
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         RPI1     S14
+         RPI1     S20
+         RPI1     S25
+         RPI1     S30
+         RPI1     S34
+         RPI1     S39
+         RPI1     S6
+         RPI1     S9
+
+GPIO4    CONN1    5
+         RPI1     7
+         RPI1     S7
+
+GPIO5    CONN1    18
+         RPI1     29
+         RPI1     S29
+
+GPIO6    CONN1    19
+         RPI1     31
+         RPI1     S31
+
+GPIO12   CONN1    20
+         RPI1     32
+         RPI1     S32
+
+GPIO13   CONN1    21
+         RPI1     33
+         RPI1     S33
+
+GPIO16   CONN1    22
+         RPI1     36
+         RPI1     S36
+
+GPIO17   CONN1    6
+         RPI1     11
+         RPI1     S11
+
+GPIO20   CONN1    24
+         RPI1     38
+         RPI1     S38
+
+GPIO22   CONN1    9
+         RPI1     15
+         RPI1     S15
+
+GPIO23   CONN1    10
+         RPI1     16
+         RPI1     S16
+
+GPIO24   CONN1    11
+         RPI1     18
+         RPI1     S18
+
+GPIO25   CONN1    12
+         RPI1     22
+         RPI1     S22
+
+GPIO26   RPI1     37
+         RPI1     S37
+
+GPIO27   CONN1    8
+         RPI1     13
+         RPI1     S13
+
+LEFT+    C8       1
+         FB3      2
+         X2       1
+         X3       1
+
+LEFT-    C7       1
+         FB4      2
+         X2       2
+         X3       2
+
+LRCLK    CONN1    23
+         LEFT     14
+         RIGHT    14
+         RPI1     35
+         RPI1     S35
+
+N$1      FB4      1
+         LEFT     10
+
+N$2      FB3      1
+         LEFT     9
+
+N$5      FB2      1
+         RIGHT    10
+
+N$6      FB1      1
+         RIGHT    9
+
+N$7      R2       1
+         SJ1      3
+
+RIGHT+   C5       1
+         FB1      2
+         X1       2
+         X3       4
+
+RIGHT-   C4       1
+         FB2      2
+         X1       1
+         X3       3
+
+RXD      CONN1    4
+         RPI1     10
+         RPI1     S10
+
+SCL      CONN1    2
+         RPI1     5
+         RPI1     S5
+
+SDA      CONN1    1
+         RPI1     3
+         RPI1     S3
+
+SD_MODE  R1       1
+         RIGHT    4
+
+SPI_CE0  CONN1    16
+         RPI1     24
+         RPI1     S24
+
+SPI_CE1  CONN1    17
+         RPI1     26
+         RPI1     S26
+
+SPI_MISO CONN1    14
+         RPI1     21
+         RPI1     S21
+
+SPI_MOSI CONN1    13
+         RPI1     19
+         RPI1     S19
+
+SPI_SCLK CONN1    15
+         RPI1     23
+         RPI1     S23
+
+TXD      CONN1    3
+         RPI1     8
+         RPI1     S8
+

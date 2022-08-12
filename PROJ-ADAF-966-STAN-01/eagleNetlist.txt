@@ -1,0 +1,35 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 09:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CD/DAT3  CN1      2
+         U$2      P$1
+
+CLK      CN1      5
+         U$2      P$5
+
+CMD      CN1      3
+         U$2      P$2
+
+DAT0     CN1      7
+         U$2      P$7
+
+DAT1     CN1      8
+         U$2      P$8
+
+DAT2     CN1      1
+         U$2      P$9
+
+GND      CN1      6
+         CN1      MT1
+         CN1      MT2
+         U$2      P$3
+         U$2      P$6
+
+VDD      CN1      4
+         U$2      P$4
+

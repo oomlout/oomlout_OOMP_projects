@@ -1,0 +1,121 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 17:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       C1       1
+           C4       1
+           R6       1
+           SW2      O1
+           U1       14
+           U1       3
+           U2       P$10
+           U2       P$11
+           U2       P$20
+           X2       1
+
+5.0V       C3       1
+           R1       1
+           R2       1
+           U2       P$12
+           X1       VBUS
+
+BOOTLOADER R6       2
+           SW1      A
+           SW1      A'
+           U1       24
+
+CTS        U1       28
+           U2       P$19
+
+DCC        U1       15
+
+GND        C1       2
+           C2       2
+           C3       2
+           C4       2
+           LED3     C
+           LED4     C
+           R4       2
+           R5       2
+           SW1      B
+           SW1      B'
+           SW2      S1
+           U1       1
+           U1       13
+           U1       16
+           U1       2
+           U1       25
+           U1       42
+           U2       P$13
+           U2       P$21
+           U2       P$3
+           X1       GND
+           X2       3
+           X2       5
+           X2       9
+
+MODE       SW2      P1
+           U1       18
+
+N$1        LED2     A
+           R2       2
+
+N$2        C2       1
+           U1       41
+
+N$3        LED3     A
+           R3       1
+
+N$4        LED1     A
+           R1       2
+
+N$5        LED1     C
+           U2       P$7
+
+N$6        LED2     C
+           U2       P$14
+
+N$7        R4       1
+           U2       P$16
+
+N$8        U2       P$8
+           X1       D+
+
+N$9        U2       P$9
+           X1       D-
+
+N$10       R3       2
+           U1       38
+
+N$11       R7       2
+           U1       39
+
+N$12       LED4     A
+           R7       1
+
+N$13       U1       9
+           Y1       2
+
+N$14       U1       10
+           Y1       1
+
+RTS        U1       26
+           U2       P$6
+
+RXD        U1       29
+           U2       P$17
+
+SWCLK      R5       1
+           U1       36
+           X2       4
+
+SWDIO      U1       35
+           X2       2
+
+TXD        U1       27
+           U2       P$1
+

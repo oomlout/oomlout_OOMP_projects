@@ -1,0 +1,186 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 09:20
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part      Pad
+
++3V3      C2        1
+          C3        1
+          C4        1
+          IC1       1
+          IC2       5
+          R8        2
+          U$1       10
+          U$1       11
+          U$1       4
+          U$3       4
+
++5V       C1        1
+          IC2       1
+          IC2       3
+          POWER     4
+          R9        2
+          U$2       5V
+
+CARDCS    IC1       12
+          U$3       2
+
+CARDCS_5V DIGITALS  4
+          IC1       11
+          U$2       D4
+
+GND       BTN1      COMMON1
+          BTN1      COMMON2
+          C1        2
+          C2        2
+          C3        2
+          C4        2
+          DIGITALS2 2
+          IC1       8
+          IC2       2
+          POWER     2
+          POWER     3
+          Q1        E
+          U$1       13
+          U$1       2
+          U$1       5
+          U$2       GND
+          U$2       GND1
+          U$2       GND2
+          U$3       6
+          U$3       MT1
+          U$3       MT2
+          U$4       A
+          U$4       A'
+
+MISO      DIGITALS2 4
+          U$2       D12
+          U$3       7
+
+MOSI      IC1       4
+          U$1       8
+          U$3       3
+
+MOSI_5V   DIGITALS2 5
+          IC1       5
+          U$2       D11
+
+N$1       Q1        B
+          R2        1
+
+N$2       BTN1      LEFT/7
+          R7        1
+
+N$3       BTN1      DOWN/4
+          R5        1
+
+N$4       R1        1
+          U$1       3
+
+N$5       Q1        C
+          R1        2
+
+N$6       DIGITALS2 7
+          U$2       D9
+
+N$7       BTN1      SELECT/5
+          R4        1
+
+N$8       BTN1      RIGHT/6
+          R3        1
+
+N$9       BTN1      UP/3
+          R6        1
+
+N$10      ANALOGS   3
+          NAV       1
+          R3        2
+          R4        2
+          R5        2
+          R6        2
+          R7        2
+          R8        1
+          U$2       A3
+
+N$11      DIGITALS  1
+          U$2       D7
+
+N$12      DIGITALS  2
+          U$2       D6
+
+N$13      DIGITALS  3
+          U$2       D5
+
+N$14      DIGITALS  5
+          U$2       D3
+
+N$15      DIGITALS  6
+          U$2       D2
+
+N$16      DIGITALS  7
+          U$2       D1
+
+N$17      DIGITALS  8
+          U$2       D0
+
+N$18      DIGITALS2 1
+          U$2       AREF
+
+N$19      ANALOGS   1
+          U$2       A5
+
+N$20      ANALOGS   2
+          U$2       A4
+
+N$21      ANALOGS   4
+          U$2       A2
+
+N$22      ANALOGS   5
+          U$2       A1
+
+N$23      ANALOGS   6
+          U$2       A0
+
+N$24      POWER     1
+          U$2       VIN
+
+N$25      POWER     5
+          U$2       3V
+
+N$26      BACKLITE  1
+          R2        2
+          R9        1
+
+RESET_5V  IC1       9
+          POWER     6
+          U$2       RESET
+          U$4       B
+          U$4       B'
+
+SCK       IC1       2
+          U$1       9
+          U$3       5
+
+SCK_5V    DIGITALS2 3
+          IC1       3
+          U$2       D13
+
+TFTCS     IC1       6
+          U$1       12
+
+TFTCS_5V  DIGITALS2 6
+          IC1       7
+          U$2       D10
+
+TFTDC     IC1       15
+          U$1       7
+
+TFTDC_5V  DIGITALS2 8
+          IC1       14
+          U$2       D8
+
+TFTRESET  IC1       10
+          U$1       6
+

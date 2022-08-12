@@ -1,0 +1,104 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C6       2
+         C7       2
+         CONN1    2
+         IC1      3
+         L1       P$1
+         R1       2
+         RPI1     1
+         RPI1     17
+         SJ1      2
+         U$33     5
+         U$33     6
+         U1       4
+         U1       5
+
+5.0V     RPI1     2
+         RPI1     4
+
+12V      C4       2
+         C5       2
+         C9       1
+         D4       C
+         R7       2
+         U$33     23
+
+GND      C1       2
+         C2       2
+         C4       1
+         C5       1
+         C6       1
+         C7       1
+         C8       1
+         CONN1    1
+         IC1      1
+         R2       1
+         R3       1
+         R8       1
+         RPI1     14
+         RPI1     20
+         RPI1     25
+         RPI1     30
+         RPI1     34
+         RPI1     39
+         RPI1     6
+         RPI1     9
+         U$33     1
+         U$33     11
+         U$33     12
+         U$33     16
+         U$33     17
+         U$33     18
+         U$33     19
+         U$33     2
+         U$33     20
+         U$33     24
+         U$33     3
+         U$33     7
+         U$33     8
+         U$33     SPRT1
+         U$33     SPRT2
+         U1       2
+
+N$2      R3       2
+         U$33     21
+
+N$5      D4       A
+         L1       P$2
+         U1       1
+
+N$8      C9       2
+         R7       1
+         R8       2
+         U1       3
+
+N$12     C8       2
+         U$33     22
+
+RST      IC1      2
+         R1       1
+         RPI1     7
+         U$33     9
+
+SA0      R2       2
+         SJ1      1
+         U$33     10
+
+SCL      CONN1    4
+         RPI1     5
+         U$33     13
+
+SDA      CONN1    3
+         RPI1     3
+         U$33     14
+         U$33     15
+

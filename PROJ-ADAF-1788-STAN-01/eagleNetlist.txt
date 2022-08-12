@@ -1,0 +1,438 @@
+Netlist
+
+Exported from boardEagle.brd at 06/08/2022 20:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!RESET         D2       C
+               JP4      6
+               SW2      A
+               SW2      A'
+               U$41     RESET
+
++5V            C11      1
+               C16      1
+               C20      1
+               C3       1
+               FB3      1
+               JP4      4
+               R12      2
+               SJ1      2
+               SJ12     2
+               U$41     5V
+               U2       3
+               U2       4
+               U2       5
+               U4       13
+               U4       3
+
+1.8V           C6       1
+               U1       24
+               U1       31
+               U1       5
+               U1       7
+               U2       6
+
+3.3V           C19      1
+               C7       1
+               CN1      4
+               FB1      1
+               MP3GPIO  1
+               MP3GPIO  11
+               MP3GPIO  13
+               MP3GPIO  3
+               MP3GPIO  5
+               MP3GPIO  7
+               MP3GPIO  9
+               R10      2
+               R19      1
+               R20      1
+               R21      2
+               R9       2
+               U1       14
+               U1       19
+               U1       32
+               U1       6
+               U2       1
+               U5       1
+
+AGND           C12      1
+               C15      1
+               C17      2
+               C18      2
+               C21      2
+               C22      2
+               C23      2
+               C24      2
+               C25      2
+               C27      2
+               C28      2
+               C8       2
+               FB2      2
+               U1       37
+               U1       40
+               U1       41
+               U1       47
+               X1       1
+
+AVDD           C8       1
+               FB1      2
+               U1       38
+               U1       43
+               U1       45
+
+CLKOUT         U1       15
+
+CS_3V          U1       23
+               U5       4
+
+CS_5V          JP7      6
+               R21      1
+               SJ8      2
+               U5       5
+
+D8             JP6      10
+               U$41     D8
+
+D9             JP6      9
+               U$41     D9
+
+D10            JP6      8
+               U$41     D10
+
+D11            JP6      7
+               SJ7      1
+               U$41     D11
+
+D12            JP6      6
+               SJ5      1
+               U$41     D12
+
+D13            JP6      5
+               SJ6      1
+               U$41     D13
+
+DREQ           JP3      2
+               SJ11     2
+               U1       8
+
+GAIN0          SJ1      1
+               U4       15
+
+GBUF           R5       1
+               U1       42
+
+GND            C10      1
+               C11      2
+               C16      2
+               C19      2
+               C20      2
+               C26      2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C7       2
+               CN1      6
+               CN1      MT1
+               CN1      MT2
+               FB2      1
+               FB4      1
+               JP4      2
+               JP4      3
+               JP6      4
+               R13      2
+               R14      2
+               R15      2
+               R16      2
+               R17      2
+               R18      2
+               R2       2
+               R8       2
+               SW2      B
+               SW2      B'
+               U$41     GND
+               U$41     GND@1
+               U$41     GND@2
+               U$41     GND@3
+               U1       16
+               U1       20
+               U1       21
+               U1       22
+               U1       35
+               U1       4
+               U2       2
+               U4       12
+               U4       21
+               U4       4
+               U5       8
+
+GPIO0          R2       1
+               U1       33
+
+GPIO1          MP3GPIO  2
+               R8       1
+               U1       34
+
+GPIO2          MP3GPIO  4
+               R13      1
+               U1       9
+
+GPIO3          MP3GPIO  6
+               R14      1
+               U1       10
+
+GPIO4          MP3GPIO  8
+               R15      1
+               U1       36
+
+GPIO5          MP3GPIO  10
+               R16      1
+               U1       25
+
+GPIO6          MP3GPIO  12
+               R17      1
+               U1       11
+
+GPIO7          MP3GPIO  14
+               R18      1
+               U1       12
+
+LEFT           C13      1
+               R3       1
+               R7       2
+               U1       46
+
+LEFT_FILTERED  C2       +
+               C27      1
+               R7       1
+
+LINE2          C25      1
+               JP2      3
+               U1       48
+
+L_LINEOUT      C2       -
+               X1       2
+               X1       4
+
+MICN           C23      1
+               JP2      1
+               U1       2
+
+MICP           C24      1
+               JP2      2
+               U1       1
+
+MISO           CN1      7
+               SJ2      2
+               SJ5      2
+               U1       30
+
+MOSI_3V        CN1      3
+               U1       29
+               U5       12
+
+MOSI_5V        SJ4      2
+               SJ7      2
+               U5       11
+
+N$1            C5       1
+               R1       1
+               U1       17
+               Y1       1
+
+N$2            C4       1
+               R1       2
+               U1       18
+               Y1       2
+
+N$3            JP6      1
+               U$41     SCL
+
+N$4            JP6      2
+               U$41     SDA
+
+N$5            C21      1
+               R3       2
+
+N$6            C22      1
+               R4       2
+
+N$7            JP6      3
+               U$41     AREF
+
+N$8            C13      2
+               U4       20
+
+N$9            C12      2
+               U4       19
+
+N$10           C15      2
+               U4       17
+
+N$11           C14      2
+               U4       16
+
+N$12           C10      2
+               C9       2
+               FB4      2
+               U4       18
+
+N$13           JP4      1
+               U$41     VIN
+
+N$14           C9       1
+               FB3      2
+               U4       9
+
+N$15           SJ4      1
+               U$41     MOSI
+
+N$16           SJ3      1
+               U$41     SCK
+
+N$17           JP4      5
+               U$41     3V
+
+N$18           JP1      1
+               SJ8      1
+               U$41     D7
+
+N$19           JP4      7
+               U$41     IOREF
+
+N$20           JP4      8
+               U$41     RESERVED
+
+N$21           SJ2      1
+               U$41     MISO
+
+N$22           JP1      2
+               SJ9      1
+               U$41     D6
+
+N$23           JP1      5
+               SJ11     1
+               U$41     D3
+
+N$24           JP1      4
+               SJ10     1
+               U$41     D4
+
+N$25           JP1      3
+               U$41     D5
+
+N$26           SJ12     1
+               U4       1
+
+N$27           C17      1
+               U1       44
+
+N$28           JP1      6
+               U$41     D2
+
+N$29           JP1      7
+               U$41     D1
+
+N$30           JP1      8
+               U$41     D0
+
+N$31           C18      1
+               R5       2
+
+N$36           JP8      1
+               U$41     A5
+
+N$37           JP8      2
+               U$41     A4
+
+N$38           JP8      3
+               U$41     A3
+
+N$39           JP8      4
+               U$41     A2
+
+N$40           JP8      5
+               U$41     A1
+
+N$41           JP8      6
+               U$41     A0
+
+OUT-L-N        LEFTSPK  1
+               U4       5
+
+OUT-L-P        LEFTSPK  2
+               U4       2
+
+OUT-R-N        RIGHTSPK 2
+               U4       11
+
+OUT-R-P        RIGHTSPK 1
+               U4       14
+
+RIGHT          C14      1
+               R4       1
+               R6       2
+               U1       39
+
+RIGHT_FILTERED C1       +
+               C28      1
+               R6       1
+
+RST_3V         U1       3
+               U5       2
+
+RST_5V         C26      1
+               D2       A
+               JP7      1
+               R9       1
+               U5       3
+
+RX             D1       A
+               R10      1
+               U1       26
+
+RX_5V          D1       C
+               JP7      4
+
+R_LINEOUT      C1       -
+               X1       3
+               X1       5
+
+SCLK_3V        CN1      5
+               U1       28
+               U5       10
+
+SCLK_5V        SJ3      2
+               SJ6      2
+               U5       9
+
+SDCS_3V        CN1      2
+               U5       15
+
+SDCS_5V        JP3      1
+               R20      2
+               SJ10     2
+               U5       14
+
+SD_DETECT      CN1      CD1
+               JP7      5
+
+SHUTDOWN       JP7      2
+               R12      1
+               U4       7
+               U4       8
+
+TX             JP7      3
+               U1       27
+
+XDCS_3V        U1       13
+               U5       6
+
+XDCS_5V        JP7      7
+               R19      2
+               SJ9      2
+               U5       7
+

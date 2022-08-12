@@ -1,0 +1,288 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+!RESET           ICSP     5
+                 POWER    3
+                 R3       1
+                 RESET    B
+                 RESET    B'
+                 X2       10
+
++5V              C2       2
+                 ICSP     2
+                 PC2      +
+                 POWER    5
+                 TR1      2
+                 U1       2
+                 U1       4
+                 U2       1
+                 U2       3
+
+3.3V             C13      1
+                 C14      2
+                 C3       2
+                 C6       2
+                 C9       2
+                 FB1      1
+                 IC3      5
+                 LED1     2
+                 ON       A
+                 POWER    2
+                 POWER    4
+                 R1       4
+                 R4       2
+                 R5       2
+                 RXLED    A
+                 TXLED    A
+                 U$1      17
+                 U$1      36
+                 U$1      44
+                 U2       5
+                 U3       3
+                 U3       7
+                 U3       8
+                 X2       1
+
+A0               AD       1
+                 U$1      3
+
+A1               AD       2
+                 U$1      7
+
+A2               AD       3
+                 U$1      8
+
+A3               AD       4
+                 U$1      9
+
+A4               AD       5
+                 U$1      10
+
+A5               AD       6
+                 U$1      47
+
+AREF             C4       2
+                 IOH      3
+                 U$1      4
+
+AVCC             C10      2
+                 C8       2
+                 FB1      2
+                 U$1      6
+
+D+               U$1      34
+                 X3       D+
+
+D-               U$1      33
+                 X3       D-
+
+D0               IOL      8
+                 U$1      16
+
+D1               IOL      7
+                 U$1      15
+
+D2               IOL      6
+                 U$1      23
+
+D3               IOL      5
+                 U$1      14
+
+D4               IOL      4
+                 U$1      13
+
+D5               IOL      3
+                 U$1      24
+
+D6               IOL      2
+                 U$1      29
+
+D7               IOL      1
+                 U$1      30
+
+D8               IOH      10
+                 U$1      11
+
+D9               IOH      9
+                 U$1      12
+
+D10              IOH      8
+                 U$1      27
+
+D11              IOH      7
+                 U$1      25
+
+D12              IOH      6
+                 U$1      28
+
+D13              IOH      5
+                 R2       8
+                 U$1      26
+
+FLASH_CS         R5       1
+                 U$1      22
+                 U3       1
+
+FLASH_MISO       U$1      48
+                 U3       2
+
+FLASH_MOSI       U$1      37
+                 U3       5
+
+FLASH_SCK        U$1      38
+                 U3       6
+
+GND              C1       2
+                 C10      1
+                 C11      1
+                 C12      2
+                 C13      2
+                 C14      1
+                 C2       1
+                 C3       1
+                 C4       1
+                 C5       2
+                 C6       1
+                 C7       2
+                 C8       1
+                 C9       1
+                 GROUND1  2
+                 IC3      3
+                 ICSP     6
+                 IOH      4
+                 L        C
+                 LED1     4
+                 PC1      -
+                 PC2      -
+                 POWER    6
+                 POWER    7
+                 R1       2
+                 R2       5
+                 RESET    A
+                 RESET    A'
+                 SW1      A
+                 U$1      18
+                 U$1      35
+                 U$1      42
+                 U$1      5
+                 U$1      THERMAL
+                 U1       1
+                 U2       2
+                 U3       4
+                 X2       3
+                 X2       5
+                 X3       GND
+                 X5       GND
+                 X5       GNDBREAK
+
+MISO             ICSP     1
+                 U$1      21
+
+MOSI             ICSP     4
+                 U$1      19
+
+N$1              L        A
+                 R2       1
+
+N$2              FB2      1
+                 GROUND1  1
+
+N$3              ON       C
+                 R2       4
+
+N$4              C5       1
+                 U$1      1
+                 Y1       P$1
+
+N$5              R2       2
+                 RXLED    C
+
+N$6              C7       1
+                 U$1      2
+                 Y1       P$4
+
+N$7              R2       3
+                 TXLED    C
+
+N$8              C11      2
+                 R3       2
+                 U$1      40
+
+N$9              D1       A
+                 X5       PWR
+
+N$10             IC3      1
+                 IC3      2
+                 R1       5
+                 R11      1
+                 X3       ID
+
+N$11             IC3      4
+                 R1       7
+                 R1       8
+                 TR1      3
+
+N$13             JP1      1
+                 R7       1
+                 SW1      B
+                 T2       3
+
+N$15             D1       C
+                 R7       2
+                 T2       2
+
+NEOPIX/SWCLK     LED1     1
+                 R4       1
+                 TP1      P$1
+                 U$1      45
+                 X2       4
+
+PA28_USB_HOST_EN R11      2
+                 U$1      41
+
+RXLED/SWDIO      R2       7
+                 TP2      P$1
+                 U$1      46
+                 X2       2
+
+SCK              ICSP     3
+                 U$1      20
+
+SCL              IOH      1
+                 U$1      32
+
+SDA              IOH      2
+                 U$1      31
+
+TXLED            R2       6
+                 U$1      39
+
+USBVCC           F2       2
+                 TR1      1
+
+USHIELD          FB2      2
+                 X3       BASE@1
+                 X3       BASE@2
+                 X3       SPRT@1
+                 X3       SPRT@2
+                 X3       SPRT@3
+                 X3       SPRT@4
+
+VBUS             F2       1
+                 X3       VBUS
+
+VDDCORE          C1       1
+                 U$1      43
+
+VIN              C12      1
+                 PC1      +
+                 POWER    8
+                 R1       1
+                 T2       1
+                 U1       3
+

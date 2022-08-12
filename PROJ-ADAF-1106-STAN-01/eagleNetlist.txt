@@ -1,0 +1,128 @@
+Netlist
+
+Exported from boardEagle.brd at 05/08/2022 20:16
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+GND         BATT     -
+            FTDI     1
+            FTDI     2
+            IC1      4
+            IC2      22
+            IC2      8
+            PLUS     1
+            SET      2
+
+I2C_SCL     IC1      6
+            IC2      28
+
+I2C_SDA     IC1      5
+            IC2      27
+
+LEDANODE0   LED1     13
+            R1       2
+
+LEDANODE1   LED1     3
+            R5       2
+
+LEDANODE2   LED1     4
+            R2       2
+
+LEDANODE3   LED1     10
+            R4       2
+
+LEDANODE4   LED1     6
+            R3       2
+
+LEDANODE5   LED1     11
+            R7       2
+
+LEDANODE6   LED1     15
+            R6       2
+
+LEDANODE7   LED1     16
+            R8       2
+
+LEDCATHODE0 IC2      11
+            LED1     9
+
+LEDCATHODE1 IC2      14
+            LED1     14
+
+LEDCATHODE2 IC2      25
+            LED1     8
+
+LEDCATHODE3 IC2      16
+            LED1     12
+
+LEDCATHODE4 IC2      18
+            LED1     1
+
+LEDCATHODE5 IC2      26
+            LED1     7
+
+LEDCATHODE6 IC2      19
+            LED1     2
+
+LEDCATHODE7 IC2      6
+            LED1     5
+
+N$1         C1       2
+            IC2      1
+            R10      2
+
+N$2         IC1      1
+            Q1       2
+
+N$3         IC1      2
+            Q1       1
+
+N$4         IC2      4
+            SET      1
+
+N$5         IC2      5
+            PLUS     2
+
+N$6         IC2      12
+            R1       1
+
+N$7         IC2      23
+            R3       1
+
+N$8         IC2      9
+            R5       1
+
+N$9         IC2      10
+            R7       1
+
+N$10        IC2      24
+            R2       1
+
+N$11        IC2      17
+            R6       1
+
+N$13        IC2      13
+            R8       1
+
+N$14        IC2      15
+            R4       1
+
+N$16        C1       1
+            FTDI     6
+
+RXD         FTDI     4
+            IC2      2
+
+TXD         FTDI     5
+            IC2      3
+
+VCC         BATT     +1
+            BATT     +2
+            IC1      8
+            IC2      20
+            IC2      21
+            IC2      7
+            R10      1
+

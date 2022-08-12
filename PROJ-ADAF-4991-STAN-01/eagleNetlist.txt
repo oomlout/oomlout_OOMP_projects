@@ -1,0 +1,115 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 06:37
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   IC1      18
+         TP3      TP
+
+3.3V     C3       1
+         C4       1
+         IC1      24
+         JP2      2
+         LED1     1-VDD
+         Q2       2
+         Q2       5
+         R1       2
+         R2       1
+         R6       2
+         R6       4
+         R7       1
+         U1       5
+
+ADDR0    IC1      3
+         SJ8      1
+
+ADDR1    IC1      4
+         SJ9      1
+
+ADDR2    IC1      9
+         SJ1      1
+
+ENC_A    IC1      11
+         SW1      P$A
+
+ENC_B    IC1      7
+         SW1      P$B
+
+GND      C2       2
+         C3       2
+         C4       2
+         CONN3    1
+         CONN3    MT1
+         CONN3    MT2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         D1       C
+         IC1      23
+         IC1      THERM
+         JP2      3
+         LED1     3-GND
+         SJ1      2
+         SJ8      2
+         SJ9      2
+         SW1      P$2
+         SW1      P$C
+         SW1      P$GND1
+         SW1      P$GND2
+         U1       2
+
+INT      D2       C
+         IC1      12
+         JP2      6
+
+N$1      D1       A
+         R7       2
+
+N$2      D2       A
+         R2       2
+
+NEOPIX   IC1      5
+         LED1     4-DIN
+
+SCL      CONN3    4
+         CONN4    4
+         JP2      4
+         Q2       6
+         R6       6
+
+SCL_3V   IC1      16
+         Q2       1
+         R6       5
+
+SDA      CONN3    3
+         CONN4    3
+         JP2      5
+         Q2       3
+         R6       8
+
+SDA_3V   IC1      15
+         Q2       4
+         R6       7
+
+SWCLK    IC1      19
+         R1       1
+         TP1      TP
+
+SWDIO    IC1      20
+         TP2      TP
+
+SWITCH   IC1      21
+         SW1      P$1
+
+VCC      C2       1
+         CONN3    2
+         CONN4    2
+         JP2      1
+         R6       1
+         R6       3
+         U1       1
+         U1       3
+

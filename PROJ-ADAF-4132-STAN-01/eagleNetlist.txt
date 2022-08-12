@@ -1,0 +1,286 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 01:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part       Pad
+
+3.3V     C1         1
+         JP3        1
+         JP3        2
+         Q1         1
+         Q2         1
+         R6         1
+         R7         2
+         R8         2
+         R9         2
+         U1         5
+         VIO_SELECT 3
+
+5.0V     C3         1
+         JP6        1
+         JP6        2
+         RPI2       2
+         RPI2       4
+         RPI2       S2
+         RPI2       S4
+         RPI2       V+
+         RPI2       V+1
+         U1         1
+         U1         3
+         VIO_SELECT 1
+
+A0       ADDR0      1
+         IC1        11
+         R3         2
+
+A1       ADDR1      1
+         IC1        12
+         R2         2
+
+A2       ADDR2      1
+         IC1        13
+         R1         2
+
+EECLK    RPI2       28
+         RPI2       S28
+
+EEDATA   RPI2       27
+         RPI2       S27
+
+GND      C1         2
+         C2         2
+         C3         2
+         IC1        6
+         JP1        1
+         JP1        2
+         JP2        10
+         JP2        12
+         JP2        14
+         JP2        16
+         JP2        2
+         JP2        4
+         JP2        6
+         JP2        8
+         JP7        10
+         JP7        12
+         JP7        14
+         JP7        16
+         JP7        2
+         JP7        4
+         JP7        6
+         JP7        8
+         R1         1
+         R2         1
+         R3         1
+         RPI2       14
+         RPI2       20
+         RPI2       25
+         RPI2       30
+         RPI2       34
+         RPI2       39
+         RPI2       6
+         RPI2       9
+         RPI2       GND
+         RPI2       GND1
+         RPI2       S14
+         RPI2       S20
+         RPI2       S25
+         RPI2       S30
+         RPI2       S34
+         RPI2       S39
+         RPI2       S6
+         RPI2       S9
+         U1         2
+
+GPA0     IC1        17
+         JP2        1
+
+GPA1     IC1        18
+         JP2        3
+
+GPA2     IC1        19
+         JP2        5
+
+GPA3     IC1        20
+         JP2        7
+
+GPA4     IC1        21
+         JP2        9
+
+GPA5     IC1        22
+         JP2        11
+
+GPA6     IC1        23
+         JP2        13
+
+GPA7     IC1        24
+         JP2        15
+
+GPB0     IC1        25
+         JP7        1
+
+GPB1     IC1        26
+         JP7        3
+
+GPB2     IC1        27
+         JP7        5
+
+GPB3     IC1        28
+         JP7        7
+
+GPB4     IC1        1
+         JP7        9
+
+GPB5     IC1        2
+         JP7        11
+
+GPB6     IC1        3
+         JP7        13
+
+GPB7     IC1        4
+         JP7        15
+
+GPIO4    PIN1       3
+         RPI2       7
+         RPI2       S7
+
+GPIO5    PIN1       16
+         RPI2       29
+         RPI2       S29
+
+GPIO6    PIN1       17
+         RPI2       31
+         RPI2       S31
+
+GPIO12   PIN1       18
+         RPI2       32
+         RPI2       S32
+
+GPIO13   PIN1       19
+         RPI2       33
+         RPI2       S33
+
+GPIO16   PIN1       20
+         RPI2       36
+         RPI2       S36
+
+GPIO17   PIN1       4
+         RPI2       11
+         RPI2       S11
+
+GPIO18   PIN1       5
+         RPI2       12
+         RPI2       S12
+
+GPIO19   PIN1       21
+         RPI2       35
+         RPI2       S35
+
+GPIO20   JP5        1
+         RPI2       38
+         RPI2       S38
+
+GPIO21   JP5        2
+         RPI2       40
+         RPI2       S40
+
+GPIO22   PIN1       7
+         RPI2       15
+         RPI2       S15
+
+GPIO23   PIN1       8
+         RPI2       16
+         RPI2       S16
+
+GPIO24   PIN1       9
+         RPI2       18
+         RPI2       S18
+
+GPIO25   PIN1       10
+         RPI2       22
+         RPI2       S22
+
+GPIO26   RPI2       37
+         RPI2       S37
+
+GPIO27   PIN1       6
+         RPI2       13
+         RPI2       S13
+
+INTA     IC1        16
+         JP8        2
+         R8         1
+
+INTB     IC1        15
+         JP8        1
+         R9         1
+
+PI_3V    RPI2       1
+         RPI2       17
+         RPI2       S1
+         RPI2       S17
+
+RXD      PIN1       2
+         RPI2       10
+         RPI2       S10
+
+SCL      IC1        8
+         Q1         3
+         R4         1
+         RPI2       SCL
+         RPI2       SCL1
+
+SCL_3V   JP9        2
+         Q1         2
+         R7         1
+         RPI2       5
+         RPI2       S5
+
+SDA      IC1        9
+         Q2         3
+         R5         2
+         RPI2       SDA
+         RPI2       SDA1
+
+SDA_3V   JP9        1
+         Q2         2
+         R6         2
+         RPI2       3
+         RPI2       S3
+
+SPI_CE0  PIN1       14
+         RPI2       24
+         RPI2       S24
+
+SPI_CE1  PIN1       15
+         RPI2       26
+         RPI2       S26
+
+SPI_MISO PIN1       12
+         RPI2       21
+         RPI2       S21
+
+SPI_MOSI PIN1       11
+         RPI2       19
+         RPI2       S19
+
+SPI_SCLK PIN1       13
+         RPI2       23
+         RPI2       S23
+
+TXD      PIN1       1
+         RPI2       8
+         RPI2       S8
+
+VCCIO    ADDR0      2
+         ADDR1      2
+         ADDR2      2
+         C2         1
+         IC1        14
+         IC1        5
+         R4         2
+         R5         1
+         VIO_SELECT 2
+

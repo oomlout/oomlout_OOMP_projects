@@ -1,0 +1,111 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
++3V3      C2       1
+          C4       1
+          DISPLAY1 1
+          DISPLAY1 4
+          DISPLAY1 5
+          DISPLAY1 6
+          IC2      5
+          JP1      2
+          Q2       4
+          R3       2
+          U1       1
+
+BACKLIGHT JP1      11
+          Q3       1
+          R3       1
+
+CARDCS    JP1      10
+          R2       1
+          U1       14
+
+CARDCS_3V Q2       2
+          U1       15
+
+GND       C1       2
+          C2       2
+          C4       2
+          DISPLAY1 11
+          DISPLAY1 13
+          DISPLAY1 14
+          DISPLAY1 15
+          DISPLAY1 16
+          DISPLAY1 17
+          DISPLAY1 18
+          DISPLAY1 19
+          DISPLAY1 20
+          DISPLAY1 23
+          DISPLAY1 24
+          DISPLAY1 3
+          IC2      2
+          IC4      1
+          JP1      3
+          Q2       6
+          Q2       MT1
+          Q2       MT2
+          Q3       2
+          U1       8
+
+LEDK      DISPLAY1 2
+          R5       2
+
+MISO      JP1      5
+          Q2       7
+
+MOSI      JP1      6
+          U1       9
+
+MOSI_3V   DISPLAY1 12
+          Q2       3
+          U1       10
+
+N$1       Q3       3
+          R5       1
+
+RESET     IC4      2
+          JP1      8
+          R4       1
+          U1       3
+
+RESET_3V  DISPLAY1 7
+          U1       2
+
+SCK       JP1      4
+          U1       7
+
+SCK_3V    DISPLAY1 9
+          Q2       5
+          U1       6
+
+TE        DISPLAY1 21
+          TP1      P$1
+
+TFTCS     JP1      7
+          R1       1
+          U1       5
+
+TFTCS_3V  DISPLAY1 8
+          U1       4
+
+TFTDC     JP1      9
+          U1       11
+
+TFTDC_3V  DISPLAY1 10
+          U1       12
+
+VIN       C1       1
+          IC2      1
+          IC2      3
+          IC4      3
+          JP1      1
+          R1       2
+          R2       2
+          R4       2
+

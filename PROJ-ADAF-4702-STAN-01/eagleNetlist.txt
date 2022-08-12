@@ -1,0 +1,152 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++3V3     C7       1
+         IC2      5
+         JP4      15
+         MS1      2
+
++5V      C6       1
+         IC2      1
+         Q2       1
+         Q2       2
+         Q2       3
+         R1       2
+         X2       P$4
+
+A0       JP4      12
+         MS1      5
+
+A1       JP4      11
+         MS1      6
+
+ADDR_A   JP15     9
+         JP2      4
+         JP4      7
+         MS1      10
+
+ADDR_B   JP15     10
+         JP3      5
+         JP4      8
+         MS1      9
+
+ADDR_C   JP15     11
+         JP2      3
+         JP4      9
+         MS1      8
+
+ADDR_D   JP15     12
+         JP3      6
+         JP4      10
+         MS1      7
+
+AREF     JP4      14
+         MS1      3
+
+B1       JP1      8
+         JP15     3
+         JP2      7
+         MS1      21
+
+B2       JP1      5
+         JP15     7
+         JP2      5
+         MS1      24
+
+CLK      JP1      4
+         JP15     13
+         JP2      2
+         MS1      25
+
+E'       JP15     8
+         JP3      4
+
+E''      JP15     16
+         JP3      8
+
+EN       IC2      3
+         JP1      2
+         MS1      27
+         R1       1
+
+G        JP4      1
+         MS1      16
+
+G1       JP1      10
+         JP15     2
+         JP3      1
+         MS1      19
+
+G2       JP1      7
+         JP15     6
+         JP3      3
+         MS1      22
+
+GND      C6       2
+         C7       2
+         IC2      2
+         JP15     4
+         JP3      2
+         JP4      13
+         MS1      4
+         Q2       4
+         SW1      A
+         SW1      A'
+         X1       GND
+         X1       GNDBREAK
+         X2       P$3
+
+LAT      JP15     14
+         JP3      7
+         JP4      3
+         MS1      14
+
+MISO     JP4      4
+         MS1      13
+
+MOSI     JP4      5
+         MS1      12
+
+OE       JP15     15
+         JP2      1
+         JP4      2
+         MS1      15
+
+R1       JP1      9
+         JP15     1
+         JP2      8
+         MS1      20
+
+R2       JP1      6
+         JP15     5
+         JP2      6
+         MS1      23
+
+RESET    JP4      16
+         MS1      1
+         SW1      B
+         SW1      B'
+
+SCK      JP4      6
+         MS1      11
+
+SCL      JP1      11
+         MS1      18
+
+SDA      JP1      12
+         MS1      17
+
+USB      JP1      3
+         MS1      26
+
+VBAT     JP1      1
+         MS1      28
+
+VIN      Q2       5678
+         X1       PWR
+

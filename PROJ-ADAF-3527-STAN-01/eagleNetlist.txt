@@ -1,0 +1,65 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 23:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!OLED_RST IC5      2
+          LCD1     9
+          R2       1
+
++5V       RPI1     2
+          RPI1     2'
+          RPI1     4
+          RPI1     4'
+
+3.3V      C4       2
+          IC5      3
+          LCD1     5
+          LCD1     8
+          R2       2
+          RPI1     1
+          RPI1     1'
+
+GND       C4       1
+          C5       1
+          C6       1
+          IC5      1
+          LCD1     7
+          R3       1
+          RPI1     6
+          RPI1     6'
+
+N$1       C2       2
+          LCD1     1
+
+N$2       C2       1
+          LCD1     2
+
+N$3       C3       2
+          LCD1     3
+
+N$4       C3       1
+          LCD1     4
+
+N$5       C6       2
+          LCD1     13
+
+N$6       C5       2
+          LCD1     14
+
+N$7       LCD1     12
+          R3       2
+
+SCL       LCD1     10
+          RPI1     5
+          RPI1     5'
+
+SDA       LCD1     11
+          RPI1     3
+          RPI1     3'
+
+VBREF     LCD1     6
+

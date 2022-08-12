@@ -1,0 +1,63 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 03:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!LDAC    IC1      4
+         JP1      5
+         R3       5
+
+GND      C1       2
+         C2       2
+         CONN3    1
+         CONN4    1
+         D1       C
+         IC1      10
+         JP1      2
+         JP2      1
+         R3       4
+
+N$1      D1       A
+         R3       1
+
+RDY      IC1      5
+         JP1      6
+
+SCL      CONN3    4
+         CONN4    4
+         IC1      2
+         JP1      3
+         R3       7
+
+SDA      CONN3    3
+         CONN4    3
+         IC1      3
+         JP1      4
+         R3       6
+
+VCC      C1       1
+         C2       1
+         CONN3    2
+         CONN4    2
+         IC1      1
+         JP1      1
+         JP2      6
+         R3       2
+         R3       3
+         R3       8
+
+VOUTA    IC1      6
+         JP2      2
+
+VOUTB    IC1      7
+         JP2      3
+
+VOUTC    IC1      8
+         JP2      4
+
+VOUTD    IC1      9
+         JP2      5
+

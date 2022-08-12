@@ -1,0 +1,177 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 04:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C5       1
+         CONN4    2
+         IC1      5
+         IC1      6
+         JP3      15
+         MS1      2
+         R1       2
+         R2       2
+         R5       2
+         R7       2
+         SJ1      2
+         SJ2      2
+         U$35     5
+         U$35     8
+
+A        JP3      12
+         MS1      5
+
+AD_AG    JP1      3
+         R4       2
+         SJ2      1
+         U$35     1
+
+AD_M     IC1      9
+         MAG_HDR  3
+         R3       2
+         SJ1      1
+
+AREF     JP3      14
+         MS1      3
+
+B        JP3      11
+         MS1      6
+
+C        JP3      10
+         MS1      7
+
+CAP      C4       1
+         IC1      4
+
+CS_AG    JP1      4
+         R5       1
+         U$35     12
+
+CS_M     IC1      10
+         MAG_HDR  4
+         R2       1
+
+D        JP3      9
+         MS1      8
+
+DRDY     IC1      8
+         MAG_HDR  2
+
+E        JP3      8
+         MS1      9
+
+EN       JP2      2
+         MS1      27
+
+F        JP3      7
+         MS1      10
+
+G        JP3      1
+         MS1      16
+
+GND      C1       2
+         C2       2
+         C4       2
+         C5       2
+         CONN4    1
+         CONN4    MT1
+         CONN4    MT2
+         IC1      12
+         IC1      2
+         IC1      3
+         JP3      13
+         MS1      4
+         R3       1
+         R4       1
+         SW1      B
+         SW1      B'
+         U$35     6
+         U$35     7
+
+H        JP2      10
+         MS1      19
+
+I        JP2      9
+         MS1      20
+
+INT1     JP1      1
+         U$35     4
+
+INT2     JP1      2
+         U$35     9
+
+INTM     IC1      7
+         MAG_HDR  1
+
+J        JP2      8
+         MS1      21
+
+K        JP2      7
+         MS1      22
+
+L        JP2      6
+         MS1      23
+
+M        JP2      5
+         MS1      24
+
+MISO     JP3      4
+         MS1      13
+
+MOSI     JP3      5
+         MS1      12
+
+N        JP2      4
+         MS1      25
+
+OCS_EX   JP4      4
+         U$35     10
+
+RESET    JP3      16
+         MS1      1
+         SW1      A
+         SW1      A'
+
+RX       JP3      3
+         MS1      14
+
+SCK      JP3      6
+         MS1      11
+
+SCL      CONN4    4
+         IC1      1
+         JP2      11
+         MS1      18
+         R1       1
+         U$35     13
+
+SCL_EX   JP4      2
+         U$35     3
+
+SDA      CONN4    3
+         IC1      11
+         JP2      12
+         MS1      17
+         R7       1
+         U$35     14
+
+SDA_EX   JP4      1
+         U$35     2
+
+SDO_EX   JP4      3
+         U$35     11
+
+TX       JP3      2
+         MS1      15
+
+USB      JP2      3
+         MS1      26
+
+VBAT     JP2      1
+         MS1      28
+

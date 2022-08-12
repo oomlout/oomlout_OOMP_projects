@@ -1,0 +1,35 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 20:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      B1       3
+         B1       4
+         B2       3
+         B2       4
+         B3       3
+         B3       4
+         B4       3
+         B4       4
+         HEADER   5
+         HEADER   6
+
+N$1      B1       1
+         B1       2
+         HEADER   1
+
+N$2      B2       1
+         B2       2
+         HEADER   2
+
+N$3      B3       1
+         B3       2
+         HEADER   4
+
+N$4      B4       1
+         B4       2
+         HEADER   3
+

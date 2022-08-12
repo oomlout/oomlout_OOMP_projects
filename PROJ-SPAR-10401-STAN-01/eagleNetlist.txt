@@ -1,0 +1,35 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 10:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C3       2
+         C4       2
+         JP7      1
+         JP8      1
+         R4       2
+         U1       2
+         X1       GND
+
+N$3      D11      A
+         R3       1
+
+PROG     R4       1
+         U1       5
+
+STAT     D11      C
+         U1       1
+
+VCC      C4       1
+         JP7      2
+         JP8      2
+         U1       3
+
+VIN      C3       1
+         R3       2
+         U1       4
+         X1       VBUS
+

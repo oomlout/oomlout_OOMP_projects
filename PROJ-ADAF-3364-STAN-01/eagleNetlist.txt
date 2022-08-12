@@ -1,0 +1,68 @@
+Netlist
+
+Exported from boardEagle.brd at 07/08/2022 22:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   IC3      26
+         Q2       A
+         Q2       A'
+         RST      TP
+
+3.3V     C4       1
+         C8       1
+         IC2      2
+         IC3      30
+         IC3      9
+         LED2     3
+         U1       5
+
+A3       IC3      1
+         LED2     6
+
+D+       CN1      USB_PLUS
+         IC3      24
+
+D-       CN1      USB_NEG
+         IC3      23
+
+GND      C3       2
+         C4       2
+         C5       2
+         C8       2
+         CN1      GND
+         IC2      1
+         IC2      4
+         IC3      10
+         IC3      28
+         IC3      33
+         LED2     4
+         Q2       B
+         Q2       B'
+         U1       2
+
+IROUT    IC3      27
+         R4       1
+
+N$5      IC2      3
+         R4       2
+
+N$9      IC3      2
+         LED2     5
+
+SWCLK    IC3      31
+         SWC      TP
+
+SWDIO    IC3      32
+         SWD      TP
+
+VBUS     C3       1
+         CN1      VCC
+         U1       1
+         U1       3
+
+VDDCORE1 C5       1
+         IC3      29
+

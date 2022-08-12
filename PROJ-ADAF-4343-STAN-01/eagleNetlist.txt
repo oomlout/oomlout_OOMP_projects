@@ -1,0 +1,448 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 02:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net               Part     Pad
+
+!RESET            C11      2
+                  IC3      40
+                  R19      5
+                  SW2      1
+                  TP8      P$1
+
++3V3              C17      1
+                  C19      1
+                  C21      1
+                  C25      1
+                  C28      1
+                  C3       1
+                  CONN1    2
+                  FB1      1
+                  IC3      17
+                  IC3      36
+                  IC3      44
+                  IC3      6
+                  IC4      1
+                  IC4      13
+                  IC4      14
+                  IC4      15
+                  IC4      16
+                  IC4      8
+                  R19      1
+                  R19      2
+                  R19      4
+                  R2       1
+                  R6       2
+                  SJ1      3
+                  TFT2     1
+                  TFT2     3
+                  TFT2     4
+                  TFT2     6
+                  U1       8
+                  U4       5
+
+3.3V              C2       1
+                  C4       1
+                  C5       1
+                  IC2      24
+                  Q4       1
+                  Q6       1
+                  R14      2
+                  R14      4
+                  R21      2
+                  SJ2      3
+                  TFT1     1
+                  TFT1     3
+                  TFT1     4
+                  TFT1     6
+                  U2       2_C
+                  U6       5
+
+A0                IC3      3
+                  R10      8
+                  R18      2
+
+A1                IC3      10
+                  R10      5
+
+AGND              C16      2
+                  FB2      1
+                  R10      6
+                  R10      7
+                  X2       1-GND
+                  X2       4-INNER_SLEEVE
+
+AVCC              C13      1
+                  C16      1
+                  FB1      2
+                  IC3      4
+
+CHG_LED           R15      2
+                  U3       1
+
+CHG_RATE          R16      1
+                  U3       5
+
+D+                IC3      34
+                  X3       D+
+
+D-                IC3      33
+                  X3       D-
+
+D0_PDMDAT         CONN1    3
+                  IC3      26
+
+D1_PDMCLK         CONN1    4
+                  IC3      25
+
+D2                R11      1
+                  SENSE    3
+
+D2_A2             D4       C
+                  IC3      7
+                  JP1      9
+                  JP2      1
+                  R11      2
+                  R20      2
+
+D3                NEOPIX   3
+                  R8       1
+
+D3_A3             D3       C
+                  IC3      8
+                  R8       2
+
+D4_RIGHTTFT_RESET IC3      9
+                  TFT2     20
+
+D5_RIGHTTFT_CS    IC3      11
+                  TFT2     18
+
+D6_RIGHTTFT_DC    IC3      12
+                  TFT2     16
+
+D7_RIGHTTFT_MOSI  IC3      21
+                  TFT2     21
+
+D8_RIGHTTFT_SCK   IC3      22
+                  TFT2     17
+
+D9_LEFTTFT_CS     IC3      38
+                  JP1      4
+                  JP2      6
+                  TFT1     18
+
+D10_LEFTTFT_DC    IC3      37
+                  JP1      3
+                  JP2      7
+                  TFT1     16
+
+D11_LEFTTFT_MOSI  IC3      47
+                  JP1      5
+                  JP2      5
+                  TFT1     21
+
+D12_LEFTTFT_SCK   IC3      48
+                  JP1      6
+                  JP2      4
+                  TFT1     17
+
+D13               IC3      39
+                  R7       1
+
+D20_SPEAKER_EN    IC3      23
+                  U5       1
+
+GND               C1       2
+                  C10      2
+                  C11      1
+                  C13      2
+                  C15      2
+                  C17      2
+                  C19      2
+                  C2       2
+                  C20      2
+                  C21      2
+                  C25      2
+                  C27      2
+                  C28      2
+                  C3       2
+                  C30      2
+                  C4       2
+                  C5       2
+                  CONN1    1
+                  D3       A
+                  D4       A
+                  FB2      2
+                  I2C      1
+                  I2C      NC1
+                  I2C      NC2
+                  IC2      23
+                  IC2      THERM
+                  IC3      18
+                  IC3      35
+                  IC3      42
+                  IC3      5
+                  IC3      THERMAL
+                  IC4      10
+                  IC4      12
+                  IC4      5
+                  IC4      7
+                  JP1      2
+                  JP2      8
+                  L        C
+                  NEOPIX   1
+                  Q3       2
+                  Q5       2
+                  R1       1
+                  R13      1
+                  R16      2
+                  R17      2
+                  R19      3
+                  R20      1
+                  R3       1
+                  SENSE    1
+                  SW1      2
+                  SW11     C
+                  SW2      2
+                  SW3      2
+                  SW4      2
+                  TFT1     10
+                  TFT1     11
+                  TFT1     12
+                  TFT1     13
+                  TFT1     14
+                  TFT1     15
+                  TFT1     22
+                  TFT1     5
+                  TFT1     7
+                  TFT1     8
+                  TFT1     9
+                  TFT1     SUPPORT1
+                  TFT1     SUPPORT2
+                  TFT2     10
+                  TFT2     11
+                  TFT2     12
+                  TFT2     13
+                  TFT2     14
+                  TFT2     15
+                  TFT2     22
+                  TFT2     5
+                  TFT2     7
+                  TFT2     8
+                  TFT2     9
+                  TFT2     SUPPORT1
+                  TFT2     SUPPORT2
+                  U1       4
+                  U3       2
+                  U4       2
+                  U5       7
+                  U6       2
+                  X1       1
+                  X3       BASE@1
+                  X3       BASE@2
+                  X3       GND
+                  X3       SPRT@1
+                  X3       SPRT@2
+                  X3       SPRT@3
+                  X3       SPRT@4
+
+LEDK              R5       2
+                  TFT2     2
+
+LEFTTFT_RESET     IC2      7
+                  TFT1     20
+
+LEFT_BACKLIGHT    R23      2
+                  TFT1     2
+
+LEFT_LITE         IC2      4
+                  Q5       1
+
+LIGHT_SENSE       IC2      1
+                  R1       2
+                  U2       1_E
+
+LISIRQ            IC3      31
+                  IC4      11
+
+LITE              IC3      32
+                  Q3       1
+                  R19      6
+
+N$1               Q3       3
+                  R5       1
+
+N$2               L        A
+                  R7       2
+
+N$3               CHG      C
+                  R15      1
+
+N$6               Q5       3
+                  R23      1
+
+N$7               IC2      8
+                  SW4      1
+
+N$8               D5       C
+                  Q1       2
+                  Q2       2
+                  SW11     A
+
+N$9               R9       2
+                  U5       4
+
+N$10              R12      2
+                  U5       3
+
+N$11              IC2      9
+                  SW3      1
+
+N$12              IC2      10
+                  SW1      1
+
+N$13              C12      2
+                  R13      2
+                  R18      1
+
+N$14              C22      2
+                  X2       3-OUTER_SLEEVE
+
+N$15              C22      1
+                  R10      3
+                  R10      4
+
+N$16              C20      1
+                  R9       1
+
+N$17              C12      1
+                  R12      1
+
+N$70              C23      1
+                  R10      1
+                  R10      2
+
+ON/OFF            Q2       1
+                  SW11     B
+
+QSPI_CS           IC3      20
+                  R2       2
+                  U1       1
+
+QSPI_DATA[0]      IC3      13
+                  U1       5
+
+QSPI_DATA[1]      IC3      14
+                  U1       2
+
+QSPI_DATA[2]      IC3      15
+                  U1       3
+
+QSPI_DATA[3]      IC3      16
+                  U1       7
+
+QSPI_SCK          IC3      19
+                  U1       6
+
+SCL               I2C      4
+                  Q6       3
+                  R14      6
+
+SCL_3V            IC2      16
+                  IC3      2
+                  IC4      4
+                  JP1      8
+                  JP2      2
+                  Q6       2
+                  R14      5
+                  R19      7
+
+SDA               I2C      3
+                  Q4       3
+                  R14      8
+
+SDA_3V            IC2      15
+                  IC3      1
+                  IC4      6
+                  JP1      7
+                  JP2      3
+                  Q4       2
+                  R14      7
+                  R19      8
+
+SPEAKER_IN        C23      2
+                  X2       2-TIP
+
+SPKR+             TP1      P$1
+                  U$13     2
+                  U5       5
+
+SPKR-             TP2      P$1
+                  U$13     1
+                  U5       8
+
+SS_RESET          IC2      18
+                  TP5      P$1
+
+SS_SWCLK          IC2      19
+                  R21      1
+                  TP3      P$1
+
+SS_SWDIO          IC2      20
+                  TP4      P$1
+
+SWCLK             IC3      45
+                  R6       1
+                  TP6      P$1
+
+SWDIO             IC3      46
+                  TP7      P$1
+
+V+                C1       1
+                  C30      1
+                  JP1      1
+                  JP2      9
+                  Q2       3
+                  R4       2
+                  SJ1      1
+                  SJ2      1
+                  U4       1
+                  U4       3
+                  U5       6
+                  U6       1
+                  U6       3
+
+VBAT              C27      1
+                  Q1       3
+                  U3       3
+                  X1       2
+
+VBUS              CHG      A
+                  D5       A
+                  Q1       1
+                  R17      1
+                  U3       4
+                  X3       VBUS
+
+VCC               I2C      2
+                  R14      1
+                  R14      3
+                  SENSE    2
+                  SJ2      2
+
+VCC2              C15      1
+                  NEOPIX   2
+                  SJ1      2
+
+VCC_DIV           IC2      2
+                  R3       2
+                  R4       1
+
+VDDCORE           C10      1
+                  IC3      41
+
+VSW               IC3      43
+

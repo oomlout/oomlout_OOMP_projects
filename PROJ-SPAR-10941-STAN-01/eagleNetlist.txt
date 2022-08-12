@@ -1,0 +1,125 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 13:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part        Pad
+
+A2       JP3         1
+         U1          25
+
+A3       JP4         1
+         U1          26
+
+A4       JP5         1
+         U1          27
+
+A5       JP6         1
+         U1          28
+
+D5       JP7         1
+         U1          9
+
+D6       JP8         1
+         U1          10
+
+D9       JP9         1
+         U1          13
+
+D10      JP10        1
+         U1          14
+
+D11      JP11        1
+         PP-MOSI     P$1
+         U1          15
+
+D12      PP-MISO     P$1
+         U1          16
+
+D13      PP-SCK      P$1
+         R1          2
+         U1          17
+
+DTR      C4          1
+         JP2         1
+         TP-DTR      P$1
+
+FTDI_VCC C9          1
+         D4          A
+         JP2         4
+         S2          3
+         S2          6
+         TP-FTDI_VCC P$1
+         U2          4
+
+GND      BAT1        -
+         C1          2
+         C10         2
+         C2          C
+         C3          2
+         C9          2
+         D2          C
+         JP13        1
+         JP2         5
+         JP2         6
+         PP-GND      P$1
+         R2          2
+         S3          1
+         U1          21
+         U1          3
+         U1          5
+         U2          2
+         Y1          2
+
+N$1      U1          7
+         Y1          1
+
+N$2      D2          A
+         R1          1
+
+N$3      U1          8
+         Y1          3
+
+N$8      D4          C
+         R9          2
+
+PROG     R2          1
+         U2          5
+
+RST      C4          2
+         PP-RST      P$1
+         R3          1
+         S3          3
+         U1          29
+
+RXI      JP2         3
+         TP-RX       P$1
+         U1          30
+
+STAT     R9          1
+         U2          1
+
+TXO      JP2         2
+         TP-TX       P$1
+         U1          31
+
+VBATT    BAT1        +
+         C10         1
+         S2          1
+         S2          4
+         U2          3
+
+VCC      C1          1
+         C2          A
+         C3          1
+         JP12        1
+         PP-VCC      P$1
+         R3          2
+         S2          2
+         S2          5
+         U1          18
+         U1          20
+         U1          4
+         U1          6
+

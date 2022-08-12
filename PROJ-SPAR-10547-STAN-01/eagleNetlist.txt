@@ -1,0 +1,128 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 12:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net           Part     Pad
+
+3.3V          C1       2
+              IC1      20
+              IC1      21
+              IC1      7
+              JP3      2
+              JP4      2
+              R1       P$2
+              S1       3
+
+A0            IC1      23
+              JP4      3
+
+A1            IC1      24
+              JP4      4
+
+A2            IC1      25
+              JP4      5
+
+A3            IC1      26
+              JP4      6
+
+A4            IC1      27
+              JP4      7
+
+A5            IC1      28
+              JP4      8
+
+BUTTON_BLUE   IC1      18
+              JP3      1
+              P1-      SIG1
+
+BUTTON_GREEN  IC1      4
+              P1-      SIG7
+
+BUTTON_RED    IC1      15
+              P1-      SIG5
+
+BUTTON_YELLOW IC1      12
+              P1-      SIG3
+
+BUZZER1       IC1      6
+              SG1      +
+
+BUZZER2       IC1      13
+              S2       3
+
+DTR           C2       1
+              JP1      1
+
+GND           BAT1     GND@1
+              C1       1
+              IC1      22
+              IC1      8
+              JP1      5
+              JP1      6
+              JP10     2
+              JP11     1
+              JP2      1
+              JP3      6
+              JP4      1
+              JP5      2
+              JP6      2
+              JP7      1
+              JP8      2
+              JP9      1
+              P1-      K1
+              P1-      K2
+              P1-      K3
+              P1-      K4
+              P1-      SIG2
+              P1-      SIG4
+              P1-      SIG6
+              P1-      SIG8
+
+LED_BLUE/SCK  IC1      19
+              JP3      3
+              JP8      1
+              JP9      2
+              P1-      A1
+
+LED_GREEN     IC1      5
+              JP6      1
+              JP7      2
+              P1-      A4
+
+LED_RED       IC1      16
+              JP2      2
+              JP5      1
+              P1-      A3
+
+LED_YELLOW    IC1      11
+              JP10     1
+              JP11     2
+              P1-      A2
+
+MOSI          IC1      17
+              JP3      4
+
+N$2           BAT2     PWR@1
+              S1       2
+
+N$3           S2       2
+              SG1      -
+
+N$4           BAT1     PWR@1
+              BAT2     GND@1
+
+O4            IC1      14
+
+RESET         C2       2
+              IC1      1
+              JP3      5
+              R1       P$1
+
+RX-I          IC1      2
+              JP1      3
+
+TX-O          IC1      3
+              JP1      2
+

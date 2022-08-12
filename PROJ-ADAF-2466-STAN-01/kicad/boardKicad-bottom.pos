@@ -1,0 +1,7 @@
+### Module positions - created on Fri Aug 12 00:34:58 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+GROUND1             SJ                -121.3231   -86.9696    0.0000  bottom
+## End

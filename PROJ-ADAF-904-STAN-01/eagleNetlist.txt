@@ -1,0 +1,128 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 09:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     A0       1
+         A1       1
+         C1       1
+         JP3      15
+         MS1      2
+         R6       5
+         R6       6
+         U1       4
+
+A        JP3      12
+         MS1      5
+
+AREF     JP3      14
+         MS1      3
+
+B        JP3      11
+         MS1      6
+
+C        JP3      10
+         MS1      7
+
+D        JP3      9
+         MS1      8
+
+E        JP3      8
+         MS1      9
+
+EN       JP1      2
+         MS1      27
+
+F        JP3      7
+         MS1      10
+
+G        JP3      1
+         MS1      16
+
+GND      C1       2
+         JP3      13
+         MS1      4
+         R6       7
+         R6       8
+         SW1      B
+         SW1      B'
+         U1       3
+
+H        JP1      10
+         MS1      19
+
+I        JP1      9
+         MS1      20
+
+J        JP1      8
+         MS1      21
+
+K        JP1      7
+         MS1      22
+
+L        JP1      6
+         MS1      23
+
+M        JP1      5
+         MS1      24
+
+MISO     JP3      4
+         MS1      13
+
+MOSI     JP3      5
+         MS1      12
+
+N        JP1      4
+         MS1      25
+
+N$1      A1       2
+         R6       1
+         U1       8
+
+N$2      A0       2
+         R6       2
+         U1       7
+
+RESET    JP3      16
+         MS1      1
+         SW1      A
+         SW1      A'
+
+RX       JP3      3
+         MS1      14
+
+SCK      JP3      6
+         MS1      11
+
+SCL      JP1      11
+         MS1      18
+         R6       3
+         U1       5
+
+SDA      JP1      12
+         MS1      17
+         R6       4
+         U1       6
+
+TX       JP3      2
+         MS1      15
+
+USB      JP1      3
+         MS1      26
+
+VBAT     JP1      1
+         MS1      28
+
+VIN+     J1       2
+         JP2      2
+         R5       2
+         U1       1
+
+VIN-     J1       1
+         JP2      1
+         R5       1
+         U1       2
+

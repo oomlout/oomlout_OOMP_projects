@@ -1,0 +1,309 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 03:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       C1       2
+           C13      2
+           C3       2
+           C4       2
+           C5       2
+           C8       2
+           IC1      1
+           IC1      16
+           IC1      5
+           IC2      8
+           IC3      10
+           IC3      5
+           IC3      6
+           IC4      1
+           L1       1
+           LED1     2
+           MDBT1    28
+           MDBT1    30
+           MS1      2
+           R7       5
+           R7       6
+           U1       5
+           U1       8
+           U2       5
+           U4       5
+           U4       6
+           U5       2
+           U5       5
+           U5       6
+           U5       8
+
+A0         MDBT1    20
+           MS1      5
+
+A1         MDBT1    21
+           MS1      6
+
+A2         MDBT1    14
+           MS1      7
+
+A3         MDBT1    13
+           MS1      8
+
+A4         MDBT1    11
+           MS1      9
+
+A5         MDBT1    9
+           MS1      10
+
+APDS_IRQ   MDBT1    47
+           U1       2
+
+AREF       C10      2
+           MDBT1    12
+           MS1      3
+
+CAP1       C12      2
+           IC3      4
+
+D+         D+       TP
+           R11      1
+           X1       D+
+
+D-         D-       TP
+           R10      1
+           X1       D-
+
+D2         MDBT1    54
+           MS1      16
+
+D3         IC1      7
+           MDBT1    4
+           R7       2
+           R7       7
+
+D5         MDBT1    25
+           MS1      19
+
+D6         MDBT1    23
+           MS1      20
+
+D9         MDBT1    19
+           MS1      21
+
+D10        MDBT1    16
+           MS1      22
+
+D11        MDBT1    22
+           MS1      23
+
+D12        MDBT1    24
+           MS1      24
+
+D13        MDBT1    26
+           MS1      25
+           R1       1
+
+DCCH       L1       2
+           MDBT1    31
+
+EN         MS1      27
+           R12      2
+           U2       3
+
+GND        C1       1
+           C10      1
+           C12      1
+           C13      1
+           C3       1
+           C4       1
+           C5       1
+           C6       1
+           C7       1
+           C8       1
+           C9       1
+           D2       C
+           D4       C
+           IC1      10
+           IC1      11
+           IC1      12
+           IC1      13
+           IC1      15
+           IC1      4
+           IC1      8
+           IC1      9
+           IC2      4
+           IC3      12
+           IC3      2
+           IC3      3
+           IC3      9
+           IC4      2
+           IC4      5
+           IC4      6
+           IC4      7
+           IC4      8
+           LED1     4
+           MDBT1    1
+           MDBT1    15
+           MDBT1    2
+           MDBT1    33
+           MDBT1    55
+           MS1      4
+           R12      3
+           R12      8
+           R4       2
+           SW1      A
+           SW1      A'
+           SW2      A
+           SW2      A'
+           U1       6
+           U2       2
+           U3       2
+           U4       2
+           U4       7
+           U4       8
+           U4       THERMAL
+           U5       1
+           U5       7
+           X1       BASE@1
+           X1       BASE@2
+           X1       GND
+           X1       SPRT@1
+           X1       SPRT@2
+           X1       SPRT@3
+           X1       SPRT@4
+           X2       1
+           X2       NC1
+           X2       NC2
+
+LED2       MDBT1    3
+           R7       8
+
+MISO       MDBT1    39
+           MS1      13
+
+MOSI       MDBT1    37
+           MS1      12
+
+N$1        D3       C
+           R3       1
+
+N$2        U1       3
+           U1       4
+
+N$3        D4       A
+           R7       1
+
+N$5        D2       A
+           R1       2
+
+N$11       R3       2
+           U3       1
+
+N$12       R4       1
+           U3       5
+
+NEOPIX     LED1     1
+           MDBT1    38
+
+NFC2       MDBT1    52
+           TP1      TP
+
+PDM_CLK    IC4      3
+           MDBT1    18
+
+PDM_DAT    IC4      4
+           MDBT1    17
+
+QSPI_CS    IC2      1
+           MDBT1    44
+
+QSPI_DATA0 IC2      5
+           MDBT1    41
+
+QSPI_DATA1 IC2      2
+           MDBT1    46
+
+QSPI_DATA2 IC2      3
+           MDBT1    45
+
+QSPI_DATA3 IC2      7
+           MDBT1    43
+
+QSPI_SCK   IC2      6
+           MDBT1    42
+
+RESET      MDBT1    40
+           MS1      1
+           SW1      B
+           SW1      B'
+
+RXD        MDBT1    48
+           MS1      14
+
+SCK        MDBT1    36
+           MS1      11
+
+SCL        IC1      2
+           IC3      1
+           MDBT1    27
+           MS1      18
+           R7       4
+           U1       7
+           U4       4
+           U5       4
+
+SDA        IC1      3
+           IC3      11
+           MDBT1    29
+           MS1      17
+           R7       3
+           U1       1
+           U4       1
+           U5       3
+
+SWCLK      MDBT1    53
+           SWC      TP
+
+SWDIO      MDBT1    51
+           SWD      TP
+
+SWITCH     MDBT1    50
+           SW2      B
+           SW2      B'
+
+TXD        MDBT1    49
+           MS1      15
+
+USBD+      MDBT1    35
+           R11      2
+
+USBD-      MDBT1    34
+           R10      2
+
+VBAT       C9       2
+           MS1      28
+           Q3       3
+           R12      4
+           U3       3
+           X2       2
+
+VBUS       C6       2
+           D1       A
+           D3       A
+           MDBT1    32
+           MS1      26
+           Q3       1
+           R12      1
+           U3       4
+           X1       VBUS
+
+VDIV       MDBT1    10
+           R12      5
+           R12      6
+
+VHI        C7       2
+           D1       C
+           Q3       2
+           R12      7
+           U2       1
+

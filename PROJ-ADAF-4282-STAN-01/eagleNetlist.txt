@@ -1,0 +1,52 @@
+Netlist
+
+Exported from boardEagle.brd at 08/08/2022 01:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RTC_RST IC2      4
+
++5V      RPI1     2
+         RPI1     2'
+         RPI1     4
+         RPI1     4'
+
+3.3V     C1       1
+         IC2      2
+         RPI1     1
+         RPI1     1'
+
+32KHZ    IC2      1
+         JP1      2
+
+GND      B1       -
+         C1       2
+         IC2      10
+         IC2      11
+         IC2      12
+         IC2      13
+         IC2      5
+         IC2      6
+         IC2      7
+         IC2      8
+         IC2      9
+         RPI1     6
+         RPI1     6'
+
+SCL      IC2      16
+         RPI1     5
+         RPI1     5'
+
+SDA      IC2      15
+         RPI1     3
+         RPI1     3'
+
+SQW      IC2      3
+         JP1      1
+
+VBAT     B1       +$1
+         B1       +$2
+         IC2      14
+
