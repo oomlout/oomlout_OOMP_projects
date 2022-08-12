@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP8266 WiFi IR Blaster
 - sources: All source files from https://github.com/sparkfun/ESP8266_WiFi_IR_Blaster (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15031
+- linkBuyPage: https://www.sparkfun.com/products/15031

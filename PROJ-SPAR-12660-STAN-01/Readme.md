@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MP3 Player Shield
 - sources: All source files from https://github.com/sparkfun/MP3_Player_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12660
+- linkBuyPage: https://www.sparkfun.com/products/12660

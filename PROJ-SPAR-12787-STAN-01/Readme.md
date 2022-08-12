@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: APDS-9960 RGB and Gesture Sensor
 - sources: All source files from https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12787
+- linkBuyPage: https://www.sparkfun.com/products/12787

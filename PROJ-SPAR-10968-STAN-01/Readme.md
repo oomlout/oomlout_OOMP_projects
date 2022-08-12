@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: NCP1402-5V Breakout
 - sources: All source files from https://github.com/sparkfun/NCP1402-5V_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10968
+- linkBuyPage: https://www.sparkfun.com/products/10968

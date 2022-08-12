@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Edison I2C Breakout Block
 - sources: All source files from https://github.com/sparkfun/Edison_I2C_Breakout_Block (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13034
+- linkBuyPage: https://www.sparkfun.com/products/13034

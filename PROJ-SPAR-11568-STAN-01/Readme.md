@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Papilio Audio Wing
 - sources: All source files from https://github.com/sparkfun/Papilio_Audio_Wing (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11568
+- linkBuyPage: https://www.sparkfun.com/products/11568

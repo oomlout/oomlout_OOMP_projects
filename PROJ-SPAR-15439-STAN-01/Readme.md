@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: PCA9306 Level Translator Breakout
 - sources: All source files from https://github.com/sparkfun/PCA9306_Level_Translator_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15439
+- linkBuyPage: https://www.sparkfun.com/products/15439

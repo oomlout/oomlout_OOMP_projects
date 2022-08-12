@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Hall-Effect Current Sensor Breakout-ACS712
 - sources: All source files from https://github.com/sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8882
+- linkBuyPage: https://www.sparkfun.com/products/8882

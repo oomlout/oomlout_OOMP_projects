@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Edison Pi Block
 - sources: All source files from https://github.com/sparkfun/Edison_Pi_Block (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13044
+- linkBuyPage: https://www.sparkfun.com/products/13044

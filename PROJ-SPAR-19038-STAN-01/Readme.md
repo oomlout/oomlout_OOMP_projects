@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110
 - sources: All source files from https://github.com/sparkfun/SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/19038
+- linkBuyPage: https://www.sparkfun.com/products/19038

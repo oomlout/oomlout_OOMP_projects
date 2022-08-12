@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: BigTime
 - sources: All source files from https://github.com/sparkfun/BigTime (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11178
+- linkBuyPage: https://www.sparkfun.com/products/11178

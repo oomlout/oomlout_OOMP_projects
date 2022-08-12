@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SM5100B Cellular Shield
 - sources: All source files from https://github.com/sparkfun/SM5100B_Cellular_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9607
+- linkBuyPage: https://www.sparkfun.com/products/9607

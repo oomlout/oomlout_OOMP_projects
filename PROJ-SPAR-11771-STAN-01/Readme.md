@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TXB0104 breakout
 - sources: All source files from https://github.com/sparkfun/TXB0104_breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11771
+- linkBuyPage: https://www.sparkfun.com/products/11771

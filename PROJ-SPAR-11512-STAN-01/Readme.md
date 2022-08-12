@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SN74HC165-Shift-In-Breakout
 - sources: All source files from https://github.com/sparkfun/SN74HC165-Shift-In-Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11512
+- linkBuyPage: https://www.sparkfun.com/products/11512

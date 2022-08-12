@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Blackberry Trackballer Breakout
 - sources: All source files from https://github.com/sparkfun/Blackberry_Trackballer_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13169
+- linkBuyPage: https://www.sparkfun.com/products/13169

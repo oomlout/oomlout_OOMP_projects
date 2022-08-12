@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SSOP-DIP Adapter 16-Pin
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_16-Pin (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13994
+- linkBuyPage: https://www.sparkfun.com/products/13994

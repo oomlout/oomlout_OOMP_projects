@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Arduino Fio
 - sources: All source files from https://github.com/sparkfun/Arduino_Fio (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10116
+- linkBuyPage: https://www.sparkfun.com/products/10116

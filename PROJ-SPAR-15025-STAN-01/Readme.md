@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: nRF52840 Breakout MDBT50Q
 - sources: All source files from https://github.com/sparkfun/nRF52840_Breakout_MDBT50Q (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15025
+- linkBuyPage: https://www.sparkfun.com/products/15025

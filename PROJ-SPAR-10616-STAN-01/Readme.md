@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LED Driver Breakout-TLC5940
 - sources: All source files from https://github.com/sparkfun/LED_Driver_Breakout-TLC5940 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10616
+- linkBuyPage: https://www.sparkfun.com/products/10616

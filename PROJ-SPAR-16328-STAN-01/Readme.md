@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Auto pHAT
 - sources: All source files from https://github.com/sparkfun/SparkFun_Auto_pHAT (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16328
+- linkBuyPage: https://www.sparkfun.com/products/16328

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: WiFi Shield-DA16200
 - sources: All source files from https://github.com/sparkfun/WiFi_Shield-DA16200 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18567
+- linkBuyPage: https://www.sparkfun.com/products/18567

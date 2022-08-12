@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Spectral Sensor AS7265x
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS7265x (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15050
+- linkBuyPage: https://www.sparkfun.com/products/15050

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Rotary Switch Breakout
 - sources: All source files from https://github.com/sparkfun/Rotary_Switch_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13098
+- linkBuyPage: https://www.sparkfun.com/products/13098

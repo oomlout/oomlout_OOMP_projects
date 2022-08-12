@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ToF Range Finder Breakout-VL6180
 - sources: All source files from https://github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12784
+- linkBuyPage: https://www.sparkfun.com/products/12784

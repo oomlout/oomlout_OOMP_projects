@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Arduino USB
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_USB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11190
+- linkBuyPage: https://www.sparkfun.com/products/11190

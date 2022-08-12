@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: HIH6130 Breakout
 - sources: All source files from https://github.com/sparkfun/HIH6130_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11295
+- linkBuyPage: https://www.sparkfun.com/products/11295

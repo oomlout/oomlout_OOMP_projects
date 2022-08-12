@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: EiBotBoard
 - sources: All source files from https://github.com/sparkfun/EiBotBoard (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10025
+- linkBuyPage: https://www.sparkfun.com/products/10025

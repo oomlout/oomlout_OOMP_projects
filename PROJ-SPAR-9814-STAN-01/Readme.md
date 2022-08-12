@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ADXL345 Eval
 - sources: All source files from https://github.com/sparkfun/ADXL345_Eval (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9814
+- linkBuyPage: https://www.sparkfun.com/products/9814

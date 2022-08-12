@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Pi Wedge 40-Pin PreAssembled
 - sources: All source files from https://github.com/sparkfun/Pi_Wedge_40-Pin_PreAssembled (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13717
+- linkBuyPage: https://www.sparkfun.com/products/13717

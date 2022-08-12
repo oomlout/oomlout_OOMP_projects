@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Tilt-a-Whirl Breakout
 - sources: All source files from https://github.com/sparkfun/Tilt-a-Whirl_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12011
+- linkBuyPage: https://www.sparkfun.com/products/12011

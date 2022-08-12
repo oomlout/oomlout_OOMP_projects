@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Logomatic
 - sources: All source files from https://github.com/sparkfun/Logomatic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12772
+- linkBuyPage: https://www.sparkfun.com/products/12772

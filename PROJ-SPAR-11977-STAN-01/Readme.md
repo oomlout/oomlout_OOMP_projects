@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ITG-3200 Breakout
 - sources: All source files from https://github.com/sparkfun/ITG-3200_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11977
+- linkBuyPage: https://www.sparkfun.com/products/11977

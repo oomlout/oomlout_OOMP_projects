@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Triple Axis Accelerometer Breakout-H3LIS331DL
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14480
+- linkBuyPage: https://www.sparkfun.com/products/14480

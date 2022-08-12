@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Beefcake Relay Control Kit
 - sources: All source files from https://github.com/sparkfun/Beefcake_Relay_Control_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13815
+- linkBuyPage: https://www.sparkfun.com/products/13815

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Battery Babysitter
 - sources: All source files from https://github.com/sparkfun/Battery_Babysitter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13777
+- linkBuyPage: https://www.sparkfun.com/products/13777

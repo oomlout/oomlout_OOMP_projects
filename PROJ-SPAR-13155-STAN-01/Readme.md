@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Stepoko
 - sources: All source files from https://github.com/sparkfun/SparkFun_Stepoko (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13155
+- linkBuyPage: https://www.sparkfun.com/products/13155

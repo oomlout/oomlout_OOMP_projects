@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic GPIO
 - sources: All source files from https://github.com/sparkfun/Qwiic_GPIO (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17047
+- linkBuyPage: https://www.sparkfun.com/products/17047

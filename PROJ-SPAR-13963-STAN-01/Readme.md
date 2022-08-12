@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LIS3DH Breakout
 - sources: All source files from https://github.com/sparkfun/LIS3DH_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13963
+- linkBuyPage: https://www.sparkfun.com/products/13963

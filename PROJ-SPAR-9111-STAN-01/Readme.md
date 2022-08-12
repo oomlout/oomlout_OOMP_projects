@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: XBee Explorer Serial
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Serial (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9111
+- linkBuyPage: https://www.sparkfun.com/products/9111

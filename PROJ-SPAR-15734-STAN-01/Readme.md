@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Clock Generator 5P49V60
 - sources: All source files from https://github.com/sparkfun/SparkFun_Clock_Generator_5P49V60 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15734
+- linkBuyPage: https://www.sparkfun.com/products/15734

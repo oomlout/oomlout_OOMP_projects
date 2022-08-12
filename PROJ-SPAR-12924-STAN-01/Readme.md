@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroView USB Programmer
 - sources: All source files from https://github.com/sparkfun/MicroView_USB_Programmer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12924
+- linkBuyPage: https://www.sparkfun.com/products/12924

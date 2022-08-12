@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun MicroMod Main Board Double
 - sources: All source files from https://github.com/sparkfun/SparkFun_MicroMod_Main_Board_Double (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18576
+- linkBuyPage: https://www.sparkfun.com/products/18576

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Arduino SimpleSnap
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_SimpleSnap (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10941
+- linkBuyPage: https://www.sparkfun.com/products/10941

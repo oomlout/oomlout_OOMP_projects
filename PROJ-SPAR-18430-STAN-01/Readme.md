@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun WiFi Function Board ESP32
 - sources: All source files from https://github.com/sparkfun/SparkFun_WiFi_Function_Board_ESP32 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18430
+- linkBuyPage: https://www.sparkfun.com/products/18430

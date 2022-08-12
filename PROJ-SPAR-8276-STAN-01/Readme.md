@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: XBee Module Breakout Board
 - sources: All source files from https://github.com/sparkfun/XBee_Module_Breakout_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8276
+- linkBuyPage: https://www.sparkfun.com/products/8276

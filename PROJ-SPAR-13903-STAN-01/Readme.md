@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad LED Rainbow
 - sources: All source files from https://github.com/sparkfun/LilyPad_LED_Rainbow (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13903
+- linkBuyPage: https://www.sparkfun.com/products/13903

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun PCB Ruler
 - sources: All source files from https://github.com/sparkfun/SparkFun_PCB_Ruler (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15295
+- linkBuyPage: https://www.sparkfun.com/products/15295

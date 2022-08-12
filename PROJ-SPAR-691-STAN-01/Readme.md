@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Transceiver Breakout-nRF24L01
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24L01 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/691
+- linkBuyPage: https://www.sparkfun.com/products/691

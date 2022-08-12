@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial USB Adapter-Nike iPod
 - sources: All source files from https://github.com/sparkfun/Serial_USB_Adapter-Nike_iPod (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8245
+- linkBuyPage: https://www.sparkfun.com/products/8245

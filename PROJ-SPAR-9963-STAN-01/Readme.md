@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RFID USB Reader
 - sources: All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9963
+- linkBuyPage: https://www.sparkfun.com/products/9963

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LED Matrix Serial Interface RedGreen
 - sources: All source files from https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/759
+- linkBuyPage: https://www.sparkfun.com/products/759

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Photon RedBoard
 - sources: All source files from https://github.com/sparkfun/Photon_RedBoard (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13321
+- linkBuyPage: https://www.sparkfun.com/products/13321

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LiPo Charger Plus
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Plus (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15217
+- linkBuyPage: https://www.sparkfun.com/products/15217

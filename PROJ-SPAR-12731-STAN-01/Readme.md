@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: FT232RL USB Breakout
 - sources: All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12731
+- linkBuyPage: https://www.sparkfun.com/products/12731

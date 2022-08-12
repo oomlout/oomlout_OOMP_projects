@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Purpletooth Jamboree
 - sources: All source files from https://github.com/sparkfun/Purpletooth_Jamboree (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11924
+- linkBuyPage: https://www.sparkfun.com/products/11924

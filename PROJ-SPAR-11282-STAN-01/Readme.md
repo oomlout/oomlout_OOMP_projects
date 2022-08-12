@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: BMP085 Breakout
 - sources: All source files from https://github.com/sparkfun/BMP085_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11282
+- linkBuyPage: https://www.sparkfun.com/products/11282

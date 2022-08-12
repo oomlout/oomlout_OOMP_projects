@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Function Ethernet-W5500
 - sources: All source files from https://github.com/sparkfun/MicroMod_Function_Ethernet-W5500 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18708
+- linkBuyPage: https://www.sparkfun.com/products/18708

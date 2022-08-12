@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad LED 5pcs
 - sources: All source files from https://github.com/sparkfun/LilyPad_LED_5pcs (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14010
+- linkBuyPage: https://www.sparkfun.com/products/14010

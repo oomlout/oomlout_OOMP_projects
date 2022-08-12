@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Input and Display Carrier
 - sources: All source files from https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16985
+- linkBuyPage: https://www.sparkfun.com/products/16985

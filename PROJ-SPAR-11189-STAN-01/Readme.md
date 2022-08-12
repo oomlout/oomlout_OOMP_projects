@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MAX3232 Breakout
 - sources: All source files from https://github.com/sparkfun/MAX3232_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11189
+- linkBuyPage: https://www.sparkfun.com/products/11189

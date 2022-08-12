@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: XBee Shield
 - sources: All source files from https://github.com/sparkfun/XBee_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12847
+- linkBuyPage: https://www.sparkfun.com/products/12847

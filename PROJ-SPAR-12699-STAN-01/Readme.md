@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Solderable Breadboard Large
 - sources: All source files from https://github.com/sparkfun/Solderable_Breadboard_Large (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12699
+- linkBuyPage: https://www.sparkfun.com/products/12699

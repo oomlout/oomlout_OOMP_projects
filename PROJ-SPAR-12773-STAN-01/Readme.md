@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: CryptoCape
 - sources: All source files from https://github.com/sparkfun/CryptoCape (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12773
+- linkBuyPage: https://www.sparkfun.com/products/12773

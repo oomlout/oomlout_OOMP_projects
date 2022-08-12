@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB Type A Female Breakout
 - sources: All source files from https://github.com/sparkfun/USB_Type_A_Female_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12700
+- linkBuyPage: https://www.sparkfun.com/products/12700

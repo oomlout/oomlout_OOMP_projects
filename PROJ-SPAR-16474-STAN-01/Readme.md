@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Photodetector Breakout MAX30101 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16474
+- linkBuyPage: https://www.sparkfun.com/products/16474

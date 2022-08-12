@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun GNSS Timing-ZED-F9T
 - sources: All source files from https://github.com/sparkfun/SparkFun_GNSS_Timing-ZED-F9T (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18774
+- linkBuyPage: https://www.sparkfun.com/products/18774

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Haptic Driver DA7280
 - sources: All source files from https://github.com/sparkfun/Qwiic_Haptic_Driver_DA7280 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17590
+- linkBuyPage: https://www.sparkfun.com/products/17590

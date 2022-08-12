@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: H2OhNo
 - sources: All source files from https://github.com/sparkfun/H2OhNo (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12069
+- linkBuyPage: https://www.sparkfun.com/products/12069

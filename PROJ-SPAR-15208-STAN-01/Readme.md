@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Buck-Boost
 - sources: All source files from https://github.com/sparkfun/Buck-Boost (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15208
+- linkBuyPage: https://www.sparkfun.com/products/15208

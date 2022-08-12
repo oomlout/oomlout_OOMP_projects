@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MegaShield Kit
 - sources: All source files from https://github.com/sparkfun/MegaShield_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9346
+- linkBuyPage: https://www.sparkfun.com/products/9346

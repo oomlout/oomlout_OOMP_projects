@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Variable Load
 - sources: All source files from https://github.com/sparkfun/Variable_Load (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14449
+- linkBuyPage: https://www.sparkfun.com/products/14449

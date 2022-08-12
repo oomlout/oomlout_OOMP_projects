@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SIM Card Breakout
 - sources: All source files from https://github.com/sparkfun/SIM_Card_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/573
+- linkBuyPage: https://www.sparkfun.com/products/573

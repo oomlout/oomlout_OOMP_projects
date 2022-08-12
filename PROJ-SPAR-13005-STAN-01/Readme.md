@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TRS Jack Breakout
 - sources: All source files from https://github.com/sparkfun/TRS_Jack_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13005
+- linkBuyPage: https://www.sparkfun.com/products/13005

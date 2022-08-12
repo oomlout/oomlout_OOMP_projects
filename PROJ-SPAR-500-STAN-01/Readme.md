@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SSOP-DIP Adapter 28-Pin
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_28-Pin (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/500
+- linkBuyPage: https://www.sparkfun.com/products/500

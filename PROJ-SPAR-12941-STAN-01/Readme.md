@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SD-MMC Breakout
 - sources: All source files from https://github.com/sparkfun/SD-MMC_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12941
+- linkBuyPage: https://www.sparkfun.com/products/12941

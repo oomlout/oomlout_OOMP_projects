@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Sparkpunk Sequencer
 - sources: All source files from https://github.com/sparkfun/Sparkpunk_Sequencer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12707
+- linkBuyPage: https://www.sparkfun.com/products/12707

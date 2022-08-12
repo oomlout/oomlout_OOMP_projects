@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Coin Cell Battery Holder-Switched
 - sources: All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11285
+- linkBuyPage: https://www.sparkfun.com/products/11285

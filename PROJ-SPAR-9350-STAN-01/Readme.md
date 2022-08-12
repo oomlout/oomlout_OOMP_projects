@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Slide Switch
 - sources: All source files from https://github.com/sparkfun/LilyPad_Slide_Switch (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9350
+- linkBuyPage: https://www.sparkfun.com/products/9350

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Venus GPS SMA Connector
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_SMA_Connector (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11058
+- linkBuyPage: https://www.sparkfun.com/products/11058

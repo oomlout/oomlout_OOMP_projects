@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB RS-485 Converter
 - sources: All source files from https://github.com/sparkfun/USB_RS-485_Converter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9822
+- linkBuyPage: https://www.sparkfun.com/products/9822

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Micro OLED
 - sources: All source files from https://github.com/sparkfun/Qwiic_Micro_OLED (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14532
+- linkBuyPage: https://www.sparkfun.com/products/14532

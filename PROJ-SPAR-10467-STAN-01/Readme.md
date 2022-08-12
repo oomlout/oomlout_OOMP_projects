@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LED Tactile Button Breakout
 - sources: All source files from https://github.com/sparkfun/LED_Tactile_Button_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10467
+- linkBuyPage: https://www.sparkfun.com/products/10467

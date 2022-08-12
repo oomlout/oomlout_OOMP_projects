@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RFM69HCW Breakout
 - sources: All source files from https://github.com/sparkfun/RFM69HCW_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12775
+- linkBuyPage: https://www.sparkfun.com/products/12775

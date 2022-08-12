@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Current Sensor Breakout-ACS723
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13679
+- linkBuyPage: https://www.sparkfun.com/products/13679

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: IR Receiver Breakout
 - sources: All source files from https://github.com/sparkfun/IR_Receiver_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8554
+- linkBuyPage: https://www.sparkfun.com/products/8554

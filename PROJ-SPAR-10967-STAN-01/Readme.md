@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: NCP1402-3.3V
 - sources: All source files from https://github.com/sparkfun/NCP1402-3.3V (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10967
+- linkBuyPage: https://www.sparkfun.com/products/10967

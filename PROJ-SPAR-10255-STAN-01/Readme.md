@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LiPower Boost Converter
 - sources: All source files from https://github.com/sparkfun/LiPower_Boost_Converter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10255
+- linkBuyPage: https://www.sparkfun.com/products/10255

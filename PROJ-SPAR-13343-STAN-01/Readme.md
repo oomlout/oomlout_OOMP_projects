@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Reed Switch
 - sources: All source files from https://github.com/sparkfun/LilyPad_Reed_Switch (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13343
+- linkBuyPage: https://www.sparkfun.com/products/13343

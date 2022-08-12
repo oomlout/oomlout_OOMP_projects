@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Quadstepper Motor Driver
 - sources: All source files from https://github.com/sparkfun/Quadstepper_Motor_Driver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10507
+- linkBuyPage: https://www.sparkfun.com/products/10507

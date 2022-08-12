@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic OpenLog
 - sources: All source files from https://github.com/sparkfun/Qwiic_OpenLog (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15164
+- linkBuyPage: https://www.sparkfun.com/products/15164

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Real Time Clock Module RV-8803
 - sources: All source files from https://github.com/sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16281
+- linkBuyPage: https://www.sparkfun.com/products/16281

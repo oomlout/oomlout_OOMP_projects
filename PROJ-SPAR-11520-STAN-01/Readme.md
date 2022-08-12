@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Fio v3
 - sources: All source files from https://github.com/sparkfun/Fio_v3 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11520
+- linkBuyPage: https://www.sparkfun.com/products/11520

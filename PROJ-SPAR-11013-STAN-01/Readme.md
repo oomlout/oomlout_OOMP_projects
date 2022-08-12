@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad MP3 Player
 - sources: All source files from https://github.com/sparkfun/LilyPad_MP3_Player (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11013
+- linkBuyPage: https://www.sparkfun.com/products/11013

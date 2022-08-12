@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic IR Array MLX90640
 - sources: All source files from https://github.com/sparkfun/Qwiic_IR_Array_MLX90640 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14843
+- linkBuyPage: https://www.sparkfun.com/products/14843

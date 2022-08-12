@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Flex Glove Controller
 - sources: All source files from https://github.com/sparkfun/Qwiic_Flex_Glove_Controller (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14666
+- linkBuyPage: https://www.sparkfun.com/products/14666

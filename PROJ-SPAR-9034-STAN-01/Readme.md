@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Transceiver Breakout-nRF24LU1 RP-SMA
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9034
+- linkBuyPage: https://www.sparkfun.com/products/9034

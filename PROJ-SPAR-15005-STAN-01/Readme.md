@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic GPS-RTK
 - sources: All source files from https://github.com/sparkfun/Qwiic_GPS-RTK (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15005
+- linkBuyPage: https://www.sparkfun.com/products/15005

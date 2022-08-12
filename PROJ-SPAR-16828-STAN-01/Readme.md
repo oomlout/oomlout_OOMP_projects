@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ArtemisDevKit
 - sources: All source files from https://github.com/sparkfun/ArtemisDevKit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16828
+- linkBuyPage: https://www.sparkfun.com/products/16828

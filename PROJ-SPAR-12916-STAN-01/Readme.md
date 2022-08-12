@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: HMC6343 Breakout
 - sources: All source files from https://github.com/sparkfun/HMC6343_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12916
+- linkBuyPage: https://www.sparkfun.com/products/12916

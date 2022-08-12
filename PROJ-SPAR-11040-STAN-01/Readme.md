@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LED RingCoder Breakout
 - sources: All source files from https://github.com/sparkfun/LED_RingCoder_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11040
+- linkBuyPage: https://www.sparkfun.com/products/11040

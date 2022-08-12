@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun T5403 Barometric Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12039
+- linkBuyPage: https://www.sparkfun.com/products/12039

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: 9DOF Razor IMU
 - sources: All source files from https://github.com/sparkfun/9DOF_Razor_IMU (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14001
+- linkBuyPage: https://www.sparkfun.com/products/14001

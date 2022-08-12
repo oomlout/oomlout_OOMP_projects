@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LuMini 3 Inch
 - sources: All source files from https://github.com/sparkfun/LuMini_3_Inch (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14965
+- linkBuyPage: https://www.sparkfun.com/products/14965

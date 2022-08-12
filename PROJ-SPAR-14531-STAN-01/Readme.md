@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Pioneer IoT Kit Shield
 - sources: All source files from https://github.com/sparkfun/Pioneer_IoT_Kit_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14531
+- linkBuyPage: https://www.sparkfun.com/products/14531

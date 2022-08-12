@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Quad Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Quad_Relay (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16566
+- linkBuyPage: https://www.sparkfun.com/products/16566

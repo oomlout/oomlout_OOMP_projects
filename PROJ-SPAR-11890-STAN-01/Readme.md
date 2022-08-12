@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MiniMoto
 - sources: All source files from https://github.com/sparkfun/MiniMoto (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11890
+- linkBuyPage: https://www.sparkfun.com/products/11890

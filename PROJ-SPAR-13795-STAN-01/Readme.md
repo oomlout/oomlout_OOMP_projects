@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LED Array 8x7
 - sources: All source files from https://github.com/sparkfun/LED_Array_8x7 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13795
+- linkBuyPage: https://www.sparkfun.com/products/13795

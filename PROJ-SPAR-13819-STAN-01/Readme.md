@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Arduino ProtoShield Bare PCB
 - sources: All source files from https://github.com/sparkfun/Arduino_ProtoShield_Bare_PCB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13819
+- linkBuyPage: https://www.sparkfun.com/products/13819

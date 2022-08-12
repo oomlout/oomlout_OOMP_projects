@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LTE Cat M1 Shield
 - sources: All source files from https://github.com/sparkfun/LTE_Cat_M1_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14997
+- linkBuyPage: https://www.sparkfun.com/products/14997

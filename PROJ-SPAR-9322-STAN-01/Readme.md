@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Photo Interrupter Breakout
 - sources: All source files from https://github.com/sparkfun/Photo_Interrupter_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9322
+- linkBuyPage: https://www.sparkfun.com/products/9322

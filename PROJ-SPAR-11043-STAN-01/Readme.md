@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: fabFM-Kit
 - sources: All source files from https://github.com/sparkfun/fabFM-Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11043
+- linkBuyPage: https://www.sparkfun.com/products/11043

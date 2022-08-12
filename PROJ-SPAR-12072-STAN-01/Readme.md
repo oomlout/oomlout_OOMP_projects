@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: CC3000 WiFi Breakout
 - sources: All source files from https://github.com/sparkfun/CC3000_WiFi_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12072
+- linkBuyPage: https://www.sparkfun.com/products/12072

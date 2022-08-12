@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MPL3115A2 Breakout
 - sources: All source files from https://github.com/sparkfun/MPL3115A2_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11084
+- linkBuyPage: https://www.sparkfun.com/products/11084

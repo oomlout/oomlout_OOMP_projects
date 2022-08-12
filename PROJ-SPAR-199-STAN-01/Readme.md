@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB Serial GPIO Breakout-CP2103
 - sources: All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/199
+- linkBuyPage: https://www.sparkfun.com/products/199

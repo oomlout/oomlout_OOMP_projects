@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: CryptoShield
 - sources: All source files from https://github.com/sparkfun/CryptoShield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13183
+- linkBuyPage: https://www.sparkfun.com/products/13183

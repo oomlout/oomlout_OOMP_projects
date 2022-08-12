@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB miniB Breakout
 - sources: All source files from https://github.com/sparkfun/USB_miniB_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9966
+- linkBuyPage: https://www.sparkfun.com/products/9966

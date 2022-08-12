@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Air Quality Sensor-SGP30
 - sources: All source files from https://github.com/sparkfun/SparkFun_Air_Quality_Sensor-SGP30 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16531
+- linkBuyPage: https://www.sparkfun.com/products/16531

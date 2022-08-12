@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Environmental Sensor Function Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_Environmental_Sensor_Function_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18632
+- linkBuyPage: https://www.sparkfun.com/products/18632

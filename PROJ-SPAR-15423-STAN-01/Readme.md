@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic Micro SAMD21E
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Micro_SAMD21E (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15423
+- linkBuyPage: https://www.sparkfun.com/products/15423

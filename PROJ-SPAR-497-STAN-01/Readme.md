@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SSOP-DIP Adapter 8-Pin
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_8-Pin (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/497
+- linkBuyPage: https://www.sparkfun.com/products/497

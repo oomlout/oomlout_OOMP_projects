@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ML8511 Breakout
 - sources: All source files from https://github.com/sparkfun/ML8511_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12705
+- linkBuyPage: https://www.sparkfun.com/products/12705

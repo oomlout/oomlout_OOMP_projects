@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Window Comparator
 - sources: All source files from https://github.com/sparkfun/Window_Comparator (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10101
+- linkBuyPage: https://www.sparkfun.com/products/10101

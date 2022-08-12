@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroPressure Sensor
 - sources: All source files from https://github.com/sparkfun/MicroPressure_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16476
+- linkBuyPage: https://www.sparkfun.com/products/16476

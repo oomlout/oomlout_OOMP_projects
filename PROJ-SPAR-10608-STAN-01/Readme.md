@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MP3 Breakout-VS1033D
 - sources: All source files from https://github.com/sparkfun/MP3_Breakout-VS1033D (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10608
+- linkBuyPage: https://www.sparkfun.com/products/10608

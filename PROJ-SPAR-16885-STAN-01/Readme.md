@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod ATP Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_ATP_Carrier_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16885
+- linkBuyPage: https://www.sparkfun.com/products/16885

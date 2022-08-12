@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TSL2561 Luminosity Sensor BOB
 - sources: All source files from https://github.com/sparkfun/TSL2561_Luminosity_Sensor_BOB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12055
+- linkBuyPage: https://www.sparkfun.com/products/12055

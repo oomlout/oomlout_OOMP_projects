@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPixel
 - sources: All source files from https://github.com/sparkfun/LilyPixel (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13264
+- linkBuyPage: https://www.sparkfun.com/products/13264

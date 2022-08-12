@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ATX Power Connector Breakout
 - sources: All source files from https://github.com/sparkfun/ATX_Power_Connector_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15035
+- linkBuyPage: https://www.sparkfun.com/products/15035

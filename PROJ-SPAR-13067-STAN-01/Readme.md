@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MiP Proto-Pack
 - sources: All source files from https://github.com/sparkfun/MiP_Proto-Pack (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13067
+- linkBuyPage: https://www.sparkfun.com/products/13067

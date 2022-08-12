@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SX1509 IO-Expander
 - sources: All source files from https://github.com/sparkfun/SX1509_IO-Expander (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13601
+- linkBuyPage: https://www.sparkfun.com/products/13601

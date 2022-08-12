@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Arduino Simple
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_Simple (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10274
+- linkBuyPage: https://www.sparkfun.com/products/10274

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Temperature Sensor TMP102 Qwiic
 - sources: All source files from https://github.com/sparkfun/Temperature_Sensor_TMP102_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16304
+- linkBuyPage: https://www.sparkfun.com/products/16304

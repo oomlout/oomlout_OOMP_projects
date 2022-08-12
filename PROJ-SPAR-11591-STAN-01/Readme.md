@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ISP Pogo Board
 - sources: All source files from https://github.com/sparkfun/ISP_Pogo_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11591
+- linkBuyPage: https://www.sparkfun.com/products/11591

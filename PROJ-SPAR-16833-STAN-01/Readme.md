@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Quad Solid State Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Quad_Solid_State_Relay (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16833
+- linkBuyPage: https://www.sparkfun.com/products/16833

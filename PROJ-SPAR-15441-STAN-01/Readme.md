@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun AS3935 Lightning Detector
 - sources: All source files from https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15441
+- linkBuyPage: https://www.sparkfun.com/products/15441

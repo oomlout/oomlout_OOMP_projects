@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Adapter Board-ICD ICD2
 - sources: All source files from https://github.com/sparkfun/Adapter_Board-ICD_ICD2 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/193
+- linkBuyPage: https://www.sparkfun.com/products/193

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: FT231X Breakout
 - sources: All source files from https://github.com/sparkfun/FT231X_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11736
+- linkBuyPage: https://www.sparkfun.com/products/11736

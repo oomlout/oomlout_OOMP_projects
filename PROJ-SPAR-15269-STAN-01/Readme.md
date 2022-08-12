@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator environment
 - sources: All source files from https://github.com/sparkfun/gator_environment (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15269
+- linkBuyPage: https://www.sparkfun.com/products/15269

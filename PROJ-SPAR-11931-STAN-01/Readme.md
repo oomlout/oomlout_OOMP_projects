@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Digital Temperature Sensor Breakout - TMP102
 - sources: All source files from https://github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11931
+- linkBuyPage: https://www.sparkfun.com/products/11931

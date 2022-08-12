@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Shield for Arduino Nano
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Arduino_Nano (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16789
+- linkBuyPage: https://www.sparkfun.com/products/16789

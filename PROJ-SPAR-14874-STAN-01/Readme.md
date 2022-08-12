@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TSH82 Configurable Op Amp Board
 - sources: All source files from https://github.com/sparkfun/TSH82_Configurable_Op_Amp_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14874
+- linkBuyPage: https://www.sparkfun.com/products/14874

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Accelerometer MMA8452Q
 - sources: All source files from https://github.com/sparkfun/Qwiic_Accelerometer_MMA8452Q (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14587
+- linkBuyPage: https://www.sparkfun.com/products/14587

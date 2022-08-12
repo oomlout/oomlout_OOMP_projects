@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic GRIDEye
 - sources: All source files from https://github.com/sparkfun/Qwiic_GRIDEye (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14607
+- linkBuyPage: https://www.sparkfun.com/products/14607

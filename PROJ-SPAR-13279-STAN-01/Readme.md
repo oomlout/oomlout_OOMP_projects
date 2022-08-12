@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Large Digit Driver
 - sources: All source files from https://github.com/sparkfun/Large_Digit_Driver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13279
+- linkBuyPage: https://www.sparkfun.com/products/13279

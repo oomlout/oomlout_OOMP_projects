@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Light Sensor
 - sources: All source files from https://github.com/sparkfun/LilyPad_Light_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8464
+- linkBuyPage: https://www.sparkfun.com/products/8464

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun u-blox NEO-M8U
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_NEO-M8U (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16329
+- linkBuyPage: https://www.sparkfun.com/products/16329

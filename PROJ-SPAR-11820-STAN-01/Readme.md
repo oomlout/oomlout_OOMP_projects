@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: WS2812 Breakout
 - sources: All source files from https://github.com/sparkfun/WS2812_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11820
+- linkBuyPage: https://www.sparkfun.com/products/11820

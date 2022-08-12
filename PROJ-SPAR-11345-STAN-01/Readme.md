@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Geiger Counter
 - sources: All source files from https://github.com/sparkfun/Geiger_Counter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11345
+- linkBuyPage: https://www.sparkfun.com/products/11345

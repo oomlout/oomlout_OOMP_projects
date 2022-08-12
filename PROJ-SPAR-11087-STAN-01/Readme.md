@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Uh-Oh Battery Indicator
 - sources: All source files from https://github.com/sparkfun/Uh-Oh_Battery_Indicator (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11087
+- linkBuyPage: https://www.sparkfun.com/products/11087

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Artemis Thing Plus
 - sources: All source files from https://github.com/sparkfun/Artemis_Thing_Plus (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15574
+- linkBuyPage: https://www.sparkfun.com/products/15574

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ISL29125 Breakout
 - sources: All source files from https://github.com/sparkfun/ISL29125_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12829
+- linkBuyPage: https://www.sparkfun.com/products/12829

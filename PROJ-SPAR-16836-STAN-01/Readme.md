@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun ProDriver TC78H670FTG
 - sources: All source files from https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16836
+- linkBuyPage: https://www.sparkfun.com/products/16836

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Gyro Breakout-LPY503AL
 - sources: All source files from https://github.com/sparkfun/Gyro_Breakout-LPY503AL (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11341
+- linkBuyPage: https://www.sparkfun.com/products/11341

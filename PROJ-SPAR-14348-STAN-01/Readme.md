@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic BME280 CCS811 Combo
 - sources: All source files from https://github.com/sparkfun/Qwiic_BME280_CCS811_Combo (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14348
+- linkBuyPage: https://www.sparkfun.com/products/14348

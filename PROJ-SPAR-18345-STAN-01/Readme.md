@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Air Quality Sensor SGP40
 - sources: All source files from https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18345
+- linkBuyPage: https://www.sparkfun.com/products/18345

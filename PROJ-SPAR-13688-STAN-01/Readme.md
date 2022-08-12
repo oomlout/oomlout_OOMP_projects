@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MyoWare LED Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_LED_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13688
+- linkBuyPage: https://www.sparkfun.com/products/13688

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Simple Power
 - sources: All source files from https://github.com/sparkfun/LilyPad_Simple_Power (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11893
+- linkBuyPage: https://www.sparkfun.com/products/11893

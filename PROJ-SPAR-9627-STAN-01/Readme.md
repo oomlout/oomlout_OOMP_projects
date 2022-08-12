@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Mini FET Shield
 - sources: All source files from https://github.com/sparkfun/Mini_FET_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9627
+- linkBuyPage: https://www.sparkfun.com/products/9627

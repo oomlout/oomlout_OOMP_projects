@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad E-Sewing Kit
 - sources: All source files from https://github.com/sparkfun/LilyPad_E-Sewing_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14546
+- linkBuyPage: https://www.sparkfun.com/products/14546

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Infrared Proximity Breakout-VCNL4000
 - sources: All source files from https://github.com/sparkfun/Infrared_Proximity_Breakout-VCNL4000 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10901
+- linkBuyPage: https://www.sparkfun.com/products/10901

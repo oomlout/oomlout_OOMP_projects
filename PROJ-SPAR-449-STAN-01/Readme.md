@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RS232 Shifter SMD
 - sources: All source files from https://github.com/sparkfun/RS232_Shifter_SMD (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/449
+- linkBuyPage: https://www.sparkfun.com/products/449

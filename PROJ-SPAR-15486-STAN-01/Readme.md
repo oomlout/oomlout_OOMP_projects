@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator rtc
 - sources: All source files from https://github.com/sparkfun/gator_rtc (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15486
+- linkBuyPage: https://www.sparkfun.com/products/15486

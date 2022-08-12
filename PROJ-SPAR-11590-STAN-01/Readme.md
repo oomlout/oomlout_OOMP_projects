@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyTwinkle ProtoSnap
 - sources: All source files from https://github.com/sparkfun/LilyTwinkle_ProtoSnap (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11590
+- linkBuyPage: https://www.sparkfun.com/products/11590

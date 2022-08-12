@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic 6DoF LSM6DSO
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18020
+- linkBuyPage: https://www.sparkfun.com/products/18020

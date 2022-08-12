@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Magnetometer MLX90393
 - sources: All source files from https://github.com/sparkfun/Qwiic_Magnetometer_MLX90393 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14571
+- linkBuyPage: https://www.sparkfun.com/products/14571

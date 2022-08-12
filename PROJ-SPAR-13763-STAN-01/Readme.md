@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Si7021 Breakout
 - sources: All source files from https://github.com/sparkfun/Si7021_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13763
+- linkBuyPage: https://www.sparkfun.com/products/13763

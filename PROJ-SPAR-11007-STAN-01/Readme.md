@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Mega Pro
 - sources: All source files from https://github.com/sparkfun/Mega_Pro (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11007
+- linkBuyPage: https://www.sparkfun.com/products/11007

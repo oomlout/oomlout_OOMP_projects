@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: tsunami
 - sources: All source files from https://github.com/sparkfun/tsunami (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13810
+- linkBuyPage: https://www.sparkfun.com/products/13810

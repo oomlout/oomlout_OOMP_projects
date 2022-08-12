@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic RFID ID-XXLA
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_RFID_ID-XXLA (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15191
+- linkBuyPage: https://www.sparkfun.com/products/15191

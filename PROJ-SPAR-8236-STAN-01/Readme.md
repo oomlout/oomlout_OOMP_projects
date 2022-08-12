@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Navigation Switch Breakout
 - sources: All source files from https://github.com/sparkfun/Navigation_Switch_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8236
+- linkBuyPage: https://www.sparkfun.com/products/8236

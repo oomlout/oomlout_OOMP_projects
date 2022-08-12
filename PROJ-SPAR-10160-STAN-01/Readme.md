@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: DeadOn RTC
 - sources: All source files from https://github.com/sparkfun/DeadOn_RTC (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10160
+- linkBuyPage: https://www.sparkfun.com/products/10160

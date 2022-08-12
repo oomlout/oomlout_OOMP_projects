@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Barometric Pressure Sensor Breakout-MPL115A1
 - sources: All source files from https://github.com/sparkfun/Barometric_Pressure_Sensor_Breakout-MPL115A1 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9721
+- linkBuyPage: https://www.sparkfun.com/products/9721

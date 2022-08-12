@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP8266 Thing Dev 4H
 - sources: All source files from https://github.com/sparkfun/ESP8266_Thing_Dev_4H (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13711
+- linkBuyPage: https://www.sparkfun.com/products/13711

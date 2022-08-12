@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Vibe Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Vibe_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11008
+- linkBuyPage: https://www.sparkfun.com/products/11008

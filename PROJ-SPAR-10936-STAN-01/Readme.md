@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Bar Graph Breakout Kit
 - sources: All source files from https://github.com/sparkfun/Bar_Graph_Breakout_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10936
+- linkBuyPage: https://www.sparkfun.com/products/10936

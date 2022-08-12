@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Bluetooth Module Breakout
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Module_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12579
+- linkBuyPage: https://www.sparkfun.com/products/12579

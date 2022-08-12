@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Proximity Sensor
 - sources: All source files from https://github.com/sparkfun/Qwiic_Proximity_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15177
+- linkBuyPage: https://www.sparkfun.com/products/15177

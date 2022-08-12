@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RedBoard Plus
 - sources: All source files from https://github.com/sparkfun/RedBoard_Plus (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18158
+- linkBuyPage: https://www.sparkfun.com/products/18158

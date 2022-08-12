@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Venus GPS Logger SMA
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_Logger_SMA (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10920
+- linkBuyPage: https://www.sparkfun.com/products/10920

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Pro Mini Candy
 - sources: All source files from https://github.com/sparkfun/Pro_Mini_Candy (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11113
+- linkBuyPage: https://www.sparkfun.com/products/11113

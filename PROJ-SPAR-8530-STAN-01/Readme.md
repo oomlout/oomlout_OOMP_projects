@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Speed Trap
 - sources: All source files from https://github.com/sparkfun/Speed_Trap (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8530
+- linkBuyPage: https://www.sparkfun.com/products/8530

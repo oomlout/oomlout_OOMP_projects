@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Digital Sandbox
 - sources: All source files from https://github.com/sparkfun/Digital_Sandbox (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12651
+- linkBuyPage: https://www.sparkfun.com/products/12651

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Bluetooth Mate
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Mate (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9358
+- linkBuyPage: https://www.sparkfun.com/products/9358

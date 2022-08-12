@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Rotary Encoder Breakout-Illuminated
 - sources: All source files from https://github.com/sparkfun/Rotary_Encoder_Breakout-Illuminated (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11722
+- linkBuyPage: https://www.sparkfun.com/products/11722

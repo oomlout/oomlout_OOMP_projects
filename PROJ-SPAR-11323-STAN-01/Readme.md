@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: EL Sequencer
 - sources: All source files from https://github.com/sparkfun/EL_Sequencer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11323
+- linkBuyPage: https://www.sparkfun.com/products/11323

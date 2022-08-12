@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Tri-Axis Gyro Breakout-L3G4200D
 - sources: All source files from https://github.com/sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10612
+- linkBuyPage: https://www.sparkfun.com/products/10612

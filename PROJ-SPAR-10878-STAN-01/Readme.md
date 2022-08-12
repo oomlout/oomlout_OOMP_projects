@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: EL Escudo Dos
 - sources: All source files from https://github.com/sparkfun/EL_Escudo_Dos (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10878
+- linkBuyPage: https://www.sparkfun.com/products/10878

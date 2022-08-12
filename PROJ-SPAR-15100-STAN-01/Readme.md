@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB-C-Breakout
 - sources: All source files from https://github.com/sparkfun/USB-C-Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15100
+- linkBuyPage: https://www.sparkfun.com/products/15100

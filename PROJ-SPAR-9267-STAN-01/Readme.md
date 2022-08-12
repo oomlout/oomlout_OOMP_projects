@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Accelerometer-ADXL335
 - sources: All source files from https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9267
+- linkBuyPage: https://www.sparkfun.com/products/9267

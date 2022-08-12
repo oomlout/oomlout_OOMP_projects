@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun u-blox SAM-M8Q
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_SAM-M8Q (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15210
+- linkBuyPage: https://www.sparkfun.com/products/15210

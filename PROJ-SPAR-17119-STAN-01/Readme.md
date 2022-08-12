@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Shield for Teensy
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Teensy (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17119
+- linkBuyPage: https://www.sparkfun.com/products/17119

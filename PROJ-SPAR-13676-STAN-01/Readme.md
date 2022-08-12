@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun BME280 Breakout Board
 - sources: All source files from https://github.com/sparkfun/SparkFun_BME280_Breakout_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13676
+- linkBuyPage: https://www.sparkfun.com/products/13676

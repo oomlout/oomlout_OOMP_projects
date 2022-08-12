@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Mic Preamp
 - sources: All source files from https://github.com/sparkfun/Mic_Preamp (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8872
+- linkBuyPage: https://www.sparkfun.com/products/8872

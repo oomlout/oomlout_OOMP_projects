@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Power Supply
 - sources: All source files from https://github.com/sparkfun/LilyPad_Power_Supply (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11259
+- linkBuyPage: https://www.sparkfun.com/products/11259

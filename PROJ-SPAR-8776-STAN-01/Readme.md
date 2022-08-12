@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Button Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Button_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8776
+- linkBuyPage: https://www.sparkfun.com/products/8776

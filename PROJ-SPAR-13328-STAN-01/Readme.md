@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Photon Wearable Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Wearable_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13328
+- linkBuyPage: https://www.sparkfun.com/products/13328

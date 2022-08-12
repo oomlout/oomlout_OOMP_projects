@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: microSD Transflash Breakout
 - sources: All source files from https://github.com/sparkfun/microSD_Transflash_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/544
+- linkBuyPage: https://www.sparkfun.com/products/544

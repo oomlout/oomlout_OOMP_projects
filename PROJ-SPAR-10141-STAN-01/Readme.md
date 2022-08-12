@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LS20126 GPS Breakout
 - sources: All source files from https://github.com/sparkfun/LS20126_GPS_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10141
+- linkBuyPage: https://www.sparkfun.com/products/10141

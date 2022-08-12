@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod mikroBUS Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_mikroBUS_Carrier_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18710
+- linkBuyPage: https://www.sparkfun.com/products/18710

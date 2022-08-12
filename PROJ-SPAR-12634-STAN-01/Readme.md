@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Simon Tilts
 - sources: All source files from https://github.com/sparkfun/Simon_Tilts (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12634
+- linkBuyPage: https://www.sparkfun.com/products/12634

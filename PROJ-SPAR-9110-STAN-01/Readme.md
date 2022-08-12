@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Thumb Joystick Breakout
 - sources: All source files from https://github.com/sparkfun/Thumb_Joystick_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9110
+- linkBuyPage: https://www.sparkfun.com/products/9110

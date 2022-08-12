@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Solderable Breadboard Mini
 - sources: All source files from https://github.com/sparkfun/Solderable_Breadboard_Mini (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12702
+- linkBuyPage: https://www.sparkfun.com/products/12702

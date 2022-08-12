@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroSD Sniffer
 - sources: All source files from https://github.com/sparkfun/MicroSD_Sniffer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9419
+- linkBuyPage: https://www.sparkfun.com/products/9419

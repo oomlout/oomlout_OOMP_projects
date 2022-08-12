@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Motor Driver-Dual TB6612FNG
 - sources: All source files from https://github.com/sparkfun/Motor_Driver-Dual_TB6612FNG (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14450
+- linkBuyPage: https://www.sparkfun.com/products/14450

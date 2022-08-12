@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: UDB5
 - sources: All source files from https://github.com/sparkfun/UDB5 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11703
+- linkBuyPage: https://www.sparkfun.com/products/11703

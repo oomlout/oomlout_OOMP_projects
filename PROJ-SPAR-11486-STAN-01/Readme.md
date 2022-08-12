@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MPU-9150 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-9150_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11486
+- linkBuyPage: https://www.sparkfun.com/products/11486

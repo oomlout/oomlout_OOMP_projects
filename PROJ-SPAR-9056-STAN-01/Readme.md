@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Analog Digital MUX Breakout
 - sources: All source files from https://github.com/sparkfun/Analog_Digital_MUX_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9056
+- linkBuyPage: https://www.sparkfun.com/products/9056

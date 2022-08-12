@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Fabrickit LED Brick
 - sources: All source files from https://github.com/sparkfun/Fabrickit_LED_Brick (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10412
+- linkBuyPage: https://www.sparkfun.com/products/10412

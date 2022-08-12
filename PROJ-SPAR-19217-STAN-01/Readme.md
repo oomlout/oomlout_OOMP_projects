@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Thing Plus Dual-Port Logging Shield
 - sources: All source files from https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/19217
+- linkBuyPage: https://www.sparkfun.com/products/19217

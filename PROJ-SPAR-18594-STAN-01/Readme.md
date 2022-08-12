@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod DA16200 Function
 - sources: All source files from https://github.com/sparkfun/MicroMod_DA16200_Function (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18594
+- linkBuyPage: https://www.sparkfun.com/products/18594

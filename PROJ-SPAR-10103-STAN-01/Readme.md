@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial Alphanumeric Display Driver
 - sources: All source files from https://github.com/sparkfun/Serial_Alphanumeric_Display_Driver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10103
+- linkBuyPage: https://www.sparkfun.com/products/10103

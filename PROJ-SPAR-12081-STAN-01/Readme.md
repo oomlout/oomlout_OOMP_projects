@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB Weather Board
 - sources: All source files from https://github.com/sparkfun/USB_Weather_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12081
+- linkBuyPage: https://www.sparkfun.com/products/12081

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: I2S Audio Breakout
 - sources: All source files from https://github.com/sparkfun/I2S_Audio_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14809
+- linkBuyPage: https://www.sparkfun.com/products/14809

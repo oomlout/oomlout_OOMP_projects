@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MaKeyMaKey
 - sources: All source files from https://github.com/sparkfun/MaKeyMaKey (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14478
+- linkBuyPage: https://www.sparkfun.com/products/14478

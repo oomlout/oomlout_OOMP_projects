@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP32 LoRa 1Ch Gateway
 - sources: All source files from https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15006
+- linkBuyPage: https://www.sparkfun.com/products/15006

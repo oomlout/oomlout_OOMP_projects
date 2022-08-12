@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Protoboard Large
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Large (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9101
+- linkBuyPage: https://www.sparkfun.com/products/9101

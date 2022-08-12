@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ClockIt
 - sources: All source files from https://github.com/sparkfun/ClockIt (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10930
+- linkBuyPage: https://www.sparkfun.com/products/10930

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: PoEthernet Shield
 - sources: All source files from https://github.com/sparkfun/PoEthernet_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10864
+- linkBuyPage: https://www.sparkfun.com/products/10864

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MPU-6050 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-6050_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11028
+- linkBuyPage: https://www.sparkfun.com/products/11028

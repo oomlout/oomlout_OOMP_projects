@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: FTDI SmartBasic
 - sources: All source files from https://github.com/sparkfun/FTDI_SmartBasic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12935
+- linkBuyPage: https://www.sparkfun.com/products/12935

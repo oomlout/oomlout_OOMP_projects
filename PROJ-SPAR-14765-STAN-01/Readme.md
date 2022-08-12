@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Single Supply Logic Level Converter
 - sources: All source files from https://github.com/sparkfun/Single_Supply_Logic_Level_Converter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14765
+- linkBuyPage: https://www.sparkfun.com/products/14765

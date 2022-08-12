@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MIDI Breakout
 - sources: All source files from https://github.com/sparkfun/MIDI_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9598
+- linkBuyPage: https://www.sparkfun.com/products/9598

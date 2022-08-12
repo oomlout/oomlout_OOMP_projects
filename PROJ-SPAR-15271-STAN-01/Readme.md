@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator particle
 - sources: All source files from https://github.com/sparkfun/gator_particle (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15271
+- linkBuyPage: https://www.sparkfun.com/products/15271

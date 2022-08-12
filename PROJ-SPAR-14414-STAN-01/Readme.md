@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun GPS Breakout XA1110 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14414
+- linkBuyPage: https://www.sparkfun.com/products/14414

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: INA169 Breakout
 - sources: All source files from https://github.com/sparkfun/INA169_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12040
+- linkBuyPage: https://www.sparkfun.com/products/12040

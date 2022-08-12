@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RedBoard Artemis Nano
 - sources: All source files from https://github.com/sparkfun/RedBoard_Artemis_Nano (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15443
+- linkBuyPage: https://www.sparkfun.com/products/15443

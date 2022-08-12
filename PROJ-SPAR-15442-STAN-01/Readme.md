@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RedBoard Artemis ATP
 - sources: All source files from https://github.com/sparkfun/RedBoard_Artemis_ATP (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15442
+- linkBuyPage: https://www.sparkfun.com/products/15442

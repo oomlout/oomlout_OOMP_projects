@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SAMD21 Mini Breakout
 - sources: All source files from https://github.com/sparkfun/SAMD21_Mini_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13664
+- linkBuyPage: https://www.sparkfun.com/products/13664

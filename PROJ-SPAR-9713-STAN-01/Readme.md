@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: UBW32
 - sources: All source files from https://github.com/sparkfun/UBW32 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9713
+- linkBuyPage: https://www.sparkfun.com/products/9713

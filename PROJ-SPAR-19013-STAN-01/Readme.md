@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic ToF Imager VL53L5CX-Mini
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/19013
+- linkBuyPage: https://www.sparkfun.com/products/19013

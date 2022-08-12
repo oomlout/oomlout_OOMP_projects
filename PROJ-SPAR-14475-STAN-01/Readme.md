@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Noisy Cricket-1.5W Stereo Amplifier Breakout
 - sources: All source files from https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14475
+- linkBuyPage: https://www.sparkfun.com/products/14475

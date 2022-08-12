@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Asset Tracker Update Tool
 - sources: All source files from https://github.com/sparkfun/MicroMod_Asset_Tracker_Update_Tool (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17725
+- linkBuyPage: https://www.sparkfun.com/products/17725

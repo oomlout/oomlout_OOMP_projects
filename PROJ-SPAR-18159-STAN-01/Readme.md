@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Tsunami Super WAV Trigger Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18159
+- linkBuyPage: https://www.sparkfun.com/products/18159

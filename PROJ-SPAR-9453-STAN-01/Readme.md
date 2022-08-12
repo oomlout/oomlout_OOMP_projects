@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: QRE1113 Line Sensor-Analog
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor-Analog (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9453
+- linkBuyPage: https://www.sparkfun.com/products/9453

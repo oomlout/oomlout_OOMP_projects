@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: P8X32A Breakout
 - sources: All source files from https://github.com/sparkfun/P8X32A_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11525
+- linkBuyPage: https://www.sparkfun.com/products/11525

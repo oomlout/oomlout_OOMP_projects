@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MP3 Trigger
 - sources: All source files from https://github.com/sparkfun/MP3_Trigger (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13720
+- linkBuyPage: https://www.sparkfun.com/products/13720

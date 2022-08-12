@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SOIC20-DIP Adapter
 - sources: All source files from https://github.com/sparkfun/SOIC20-DIP_Adapter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/495
+- linkBuyPage: https://www.sparkfun.com/products/495

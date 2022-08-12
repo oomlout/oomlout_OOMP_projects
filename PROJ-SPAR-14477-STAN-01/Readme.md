@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Shield for Photon
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Photon (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14477
+- linkBuyPage: https://www.sparkfun.com/products/14477

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: IOIO-OTG
 - sources: All source files from https://github.com/sparkfun/IOIO-OTG (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11343
+- linkBuyPage: https://www.sparkfun.com/products/11343

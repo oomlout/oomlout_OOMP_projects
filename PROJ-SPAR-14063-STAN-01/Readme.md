@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad LilyMini ProtoSnap
 - sources: All source files from https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14063
+- linkBuyPage: https://www.sparkfun.com/products/14063

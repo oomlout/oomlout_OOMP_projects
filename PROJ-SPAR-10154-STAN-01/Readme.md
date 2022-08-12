@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RF Transceiver Breakout-RFM22B
 - sources: All source files from https://github.com/sparkfun/RF_Transceiver_Breakout-RFM22B (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10154
+- linkBuyPage: https://www.sparkfun.com/products/10154

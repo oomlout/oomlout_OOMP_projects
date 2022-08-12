@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Mono Audio Amp Breakout-TPA2005D1
 - sources: All source files from https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11044
+- linkBuyPage: https://www.sparkfun.com/products/11044

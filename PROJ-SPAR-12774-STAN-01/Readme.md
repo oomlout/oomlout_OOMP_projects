@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: BeagleBone Black Proto Cape
 - sources: All source files from https://github.com/sparkfun/BeagleBone_Black_Proto_Cape (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12774
+- linkBuyPage: https://www.sparkfun.com/products/12774

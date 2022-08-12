@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Big Easy Driver
 - sources: All source files from https://github.com/sparkfun/Big_Easy_Driver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12859
+- linkBuyPage: https://www.sparkfun.com/products/12859

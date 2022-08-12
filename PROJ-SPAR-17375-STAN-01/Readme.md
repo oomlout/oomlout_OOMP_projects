@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic PIR
 - sources: All source files from https://github.com/sparkfun/Qwiic_PIR (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17375
+- linkBuyPage: https://www.sparkfun.com/products/17375

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Teensy Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_Teensy_Processor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16402
+- linkBuyPage: https://www.sparkfun.com/products/16402

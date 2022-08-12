@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Music Instrument Shield
 - sources: All source files from https://github.com/sparkfun/Music_Instrument_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10587
+- linkBuyPage: https://www.sparkfun.com/products/10587

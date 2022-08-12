@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RP2040 mikroBUS Dev Board
 - sources: All source files from https://github.com/sparkfun/RP2040_mikroBUS_Dev_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18721
+- linkBuyPage: https://www.sparkfun.com/products/18721

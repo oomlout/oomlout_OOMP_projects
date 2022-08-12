@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Haptic Motor Driver
 - sources: All source files from https://github.com/sparkfun/Haptic_Motor_Driver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14538
+- linkBuyPage: https://www.sparkfun.com/products/14538

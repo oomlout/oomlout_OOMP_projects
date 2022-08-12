@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun LoRa Thing Plus expLoRaBLE
 - sources: All source files from https://github.com/sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17506
+- linkBuyPage: https://www.sparkfun.com/products/17506

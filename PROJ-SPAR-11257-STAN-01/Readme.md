@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Mr.Roboto
 - sources: All source files from https://github.com/sparkfun/Mr.Roboto (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11257
+- linkBuyPage: https://www.sparkfun.com/products/11257

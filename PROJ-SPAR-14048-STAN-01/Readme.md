@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TeensyView
 - sources: All source files from https://github.com/sparkfun/TeensyView (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14048
+- linkBuyPage: https://www.sparkfun.com/products/14048

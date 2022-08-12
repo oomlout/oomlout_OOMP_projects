@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Through-Hole Christmas Kit
 - sources: All source files from https://github.com/sparkfun/Through-Hole_Christmas_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9565
+- linkBuyPage: https://www.sparkfun.com/products/9565

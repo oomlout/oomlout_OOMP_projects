@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SPI Shortcut
 - sources: All source files from https://github.com/sparkfun/SPI_Shortcut (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9235
+- linkBuyPage: https://www.sparkfun.com/products/9235

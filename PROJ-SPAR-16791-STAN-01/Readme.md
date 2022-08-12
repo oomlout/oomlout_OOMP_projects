@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Processor Board-SAMD51
 - sources: All source files from https://github.com/sparkfun/MicroMod_Processor_Board-SAMD51 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16791
+- linkBuyPage: https://www.sparkfun.com/products/16791

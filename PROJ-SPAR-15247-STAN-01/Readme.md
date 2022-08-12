@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: GNSS Chip Antenna Evaluation Board
 - sources: All source files from https://github.com/sparkfun/GNSS_Chip_Antenna_Evaluation_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15247
+- linkBuyPage: https://www.sparkfun.com/products/15247

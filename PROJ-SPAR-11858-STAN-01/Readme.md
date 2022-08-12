@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Copernicus II DIP Module
 - sources: All source files from https://github.com/sparkfun/Copernicus_II_DIP_Module (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11858
+- linkBuyPage: https://www.sparkfun.com/products/11858

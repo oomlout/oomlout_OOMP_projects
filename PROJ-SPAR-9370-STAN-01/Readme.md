@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: DC-DC Converter Breakout
 - sources: All source files from https://github.com/sparkfun/DC-DC_Converter_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9370
+- linkBuyPage: https://www.sparkfun.com/products/9370

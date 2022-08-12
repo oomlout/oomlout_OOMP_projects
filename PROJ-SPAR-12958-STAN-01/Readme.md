@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Electric Imp imp002 Breakout
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_imp002_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12958
+- linkBuyPage: https://www.sparkfun.com/products/12958

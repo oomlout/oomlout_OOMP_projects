@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP32 Environment Sensor Shield
 - sources: All source files from https://github.com/sparkfun/ESP32_Environment_Sensor_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14153
+- linkBuyPage: https://www.sparkfun.com/products/14153

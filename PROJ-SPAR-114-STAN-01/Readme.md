@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Breadboard Power Supply 5V 3.3V
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_5V_3.3V (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/114
+- linkBuyPage: https://www.sparkfun.com/products/114

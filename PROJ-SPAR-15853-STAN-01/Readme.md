@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic FM Transceiver Si4721
 - sources: All source files from https://github.com/sparkfun/Qwiic_FM_Transceiver_Si4721 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15853
+- linkBuyPage: https://www.sparkfun.com/products/15853

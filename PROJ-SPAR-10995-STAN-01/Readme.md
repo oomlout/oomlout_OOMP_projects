@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: GPS Evaluation Board GP-2106
 - sources: All source files from https://github.com/sparkfun/GPS_Evaluation_Board_GP-2106 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10995
+- linkBuyPage: https://www.sparkfun.com/products/10995

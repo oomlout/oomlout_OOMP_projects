@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: VoiceBox Shield
 - sources: All source files from https://github.com/sparkfun/VoiceBox_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10661
+- linkBuyPage: https://www.sparkfun.com/products/10661

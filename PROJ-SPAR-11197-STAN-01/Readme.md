@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ATmega128RFA1 Dev
 - sources: All source files from https://github.com/sparkfun/ATmega128RFA1_Dev (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11197
+- linkBuyPage: https://www.sparkfun.com/products/11197

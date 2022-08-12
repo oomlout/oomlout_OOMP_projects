@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Mux TCA9548A
 - sources: All source files from https://github.com/sparkfun/Qwiic_Mux_TCA9548A (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16784
+- linkBuyPage: https://www.sparkfun.com/products/16784

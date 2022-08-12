@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: FM Tuner Basic Breakout-Si4703
 - sources: All source files from https://github.com/sparkfun/FM_Tuner_Basic_Breakout-Si4703 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11083
+- linkBuyPage: https://www.sparkfun.com/products/11083

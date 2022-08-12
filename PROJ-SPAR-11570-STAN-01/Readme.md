@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: TRRS 3.5mm Jack Breakout
 - sources: All source files from https://github.com/sparkfun/TRRS_3.5mm_Jack_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11570
+- linkBuyPage: https://www.sparkfun.com/products/11570

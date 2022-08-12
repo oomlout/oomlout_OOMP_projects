@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SunnyBuddy
 - sources: All source files from https://github.com/sparkfun/SunnyBuddy (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12885
+- linkBuyPage: https://www.sparkfun.com/products/12885

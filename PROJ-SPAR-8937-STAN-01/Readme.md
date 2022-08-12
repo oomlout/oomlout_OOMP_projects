@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad XBee
 - sources: All source files from https://github.com/sparkfun/LilyPad_XBee (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8937
+- linkBuyPage: https://www.sparkfun.com/products/8937

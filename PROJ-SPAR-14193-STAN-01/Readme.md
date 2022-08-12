@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: CCS811 Air Quality Breakout
 - sources: All source files from https://github.com/sparkfun/CCS811_Air_Quality_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14193
+- linkBuyPage: https://www.sparkfun.com/products/14193

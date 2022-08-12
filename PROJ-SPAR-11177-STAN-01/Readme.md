@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Sparkpunk
 - sources: All source files from https://github.com/sparkfun/Sparkpunk (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11177
+- linkBuyPage: https://www.sparkfun.com/products/11177

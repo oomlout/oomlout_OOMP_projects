@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Triple Axis Magnetometer-HMC5883L
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Magnetometer-HMC5883L (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10530
+- linkBuyPage: https://www.sparkfun.com/products/10530

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: XBee Explorer USB
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_USB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11812
+- linkBuyPage: https://www.sparkfun.com/products/11812

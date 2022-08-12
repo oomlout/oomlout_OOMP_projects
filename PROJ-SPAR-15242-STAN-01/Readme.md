@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Scale
 - sources: All source files from https://github.com/sparkfun/Qwiic_Scale (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15242
+- linkBuyPage: https://www.sparkfun.com/products/15242

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Opto Isolator Breakout
 - sources: All source files from https://github.com/sparkfun/Opto_Isolator_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9118
+- linkBuyPage: https://www.sparkfun.com/products/9118

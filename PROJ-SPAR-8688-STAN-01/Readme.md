@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Ambient Light Sensor Breakout-TEMT6000
 - sources: All source files from https://github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8688
+- linkBuyPage: https://www.sparkfun.com/products/8688

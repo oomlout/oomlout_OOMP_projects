@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Touch Potentiometer
 - sources: All source files from https://github.com/sparkfun/Touch_Potentiometer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13144
+- linkBuyPage: https://www.sparkfun.com/products/13144

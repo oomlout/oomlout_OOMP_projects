@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Benchtop Power Board Kit
 - sources: All source files from https://github.com/sparkfun/Benchtop_Power_Board_Kit (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9774
+- linkBuyPage: https://www.sparkfun.com/products/9774

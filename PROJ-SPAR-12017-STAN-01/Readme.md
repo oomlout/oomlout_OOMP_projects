@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MPR121 Capacitive Touch Keypad
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12017
+- linkBuyPage: https://www.sparkfun.com/products/12017

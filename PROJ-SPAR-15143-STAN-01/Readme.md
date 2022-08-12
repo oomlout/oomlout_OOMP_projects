@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LCD TFT Breakout 1in8 128x160
 - sources: All source files from https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15143
+- linkBuyPage: https://www.sparkfun.com/products/15143

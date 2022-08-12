@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: QRE1113 Line Sensor Breakout-Digital
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor_Breakout-Digital (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9454
+- linkBuyPage: https://www.sparkfun.com/products/9454

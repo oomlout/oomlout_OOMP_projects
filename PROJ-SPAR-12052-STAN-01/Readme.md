@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LTC4150 Coulomb Counter BOB
 - sources: All source files from https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12052
+- linkBuyPage: https://www.sparkfun.com/products/12052

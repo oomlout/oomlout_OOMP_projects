@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Touch Screen Connector Breakout-Nintendo DS
 - sources: All source files from https://github.com/sparkfun/Touch_Screen_Connector_Breakout-Nintendo_DS (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9170
+- linkBuyPage: https://www.sparkfun.com/products/9170

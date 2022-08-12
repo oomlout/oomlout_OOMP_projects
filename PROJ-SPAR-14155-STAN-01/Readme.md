@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP32 Power Control Shield
 - sources: All source files from https://github.com/sparkfun/ESP32_Power_Control_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14155
+- linkBuyPage: https://www.sparkfun.com/products/14155

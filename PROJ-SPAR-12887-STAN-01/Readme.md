@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Electric Imp Shield
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12887
+- linkBuyPage: https://www.sparkfun.com/products/12887

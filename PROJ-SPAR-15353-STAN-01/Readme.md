@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun TPL5110 Nano Power Timer
 - sources: All source files from https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15353
+- linkBuyPage: https://www.sparkfun.com/products/15353

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: PicoBoard
 - sources: All source files from https://github.com/sparkfun/PicoBoard (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10311
+- linkBuyPage: https://www.sparkfun.com/products/10311

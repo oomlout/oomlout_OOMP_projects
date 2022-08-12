@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Pulse Oximeter Heart Rate Sensor
 - sources: All source files from https://github.com/sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15219
+- linkBuyPage: https://www.sparkfun.com/products/15219

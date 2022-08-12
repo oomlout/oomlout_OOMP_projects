@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Flexible Grayscale OLED
 - sources: All source files from https://github.com/sparkfun/Flexible_Grayscale_OLED (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14606
+- linkBuyPage: https://www.sparkfun.com/products/14606

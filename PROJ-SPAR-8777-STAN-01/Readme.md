@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Temperature Sensor
 - sources: All source files from https://github.com/sparkfun/LilyPad_Temperature_Sensor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8777
+- linkBuyPage: https://www.sparkfun.com/products/8777

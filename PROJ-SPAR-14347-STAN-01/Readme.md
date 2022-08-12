@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Spectral Sensor AS726X
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14347
+- linkBuyPage: https://www.sparkfun.com/products/14347

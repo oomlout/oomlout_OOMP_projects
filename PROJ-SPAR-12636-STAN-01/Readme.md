@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LSM9DS0 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM9DS0_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12636
+- linkBuyPage: https://www.sparkfun.com/products/12636

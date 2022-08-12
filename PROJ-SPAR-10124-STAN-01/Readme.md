@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RS-485 Breakout
 - sources: All source files from https://github.com/sparkfun/RS-485_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10124
+- linkBuyPage: https://www.sparkfun.com/products/10124

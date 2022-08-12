@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Blynk Board ESP8266
 - sources: All source files from https://github.com/sparkfun/Blynk_Board_ESP8266 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13794
+- linkBuyPage: https://www.sparkfun.com/products/13794

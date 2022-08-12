@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Magician Encoder
 - sources: All source files from https://github.com/sparkfun/Magician_Encoder (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12617
+- linkBuyPage: https://www.sparkfun.com/products/12617

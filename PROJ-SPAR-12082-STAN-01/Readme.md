@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: AD5330 Breakout
 - sources: All source files from https://github.com/sparkfun/AD5330_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12082
+- linkBuyPage: https://www.sparkfun.com/products/12082

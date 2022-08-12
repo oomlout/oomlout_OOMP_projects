@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LiPo Charger Booster 5V 1A
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14411
+- linkBuyPage: https://www.sparkfun.com/products/14411

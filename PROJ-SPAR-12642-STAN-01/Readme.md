@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Sound Detector
 - sources: All source files from https://github.com/sparkfun/Sound_Detector (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12642
+- linkBuyPage: https://www.sparkfun.com/products/12642

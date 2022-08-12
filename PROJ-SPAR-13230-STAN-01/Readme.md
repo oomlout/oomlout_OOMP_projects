@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: HX711-Load-Cell-Amplifier
 - sources: All source files from https://github.com/sparkfun/HX711-Load-Cell-Amplifier (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13230
+- linkBuyPage: https://www.sparkfun.com/products/13230

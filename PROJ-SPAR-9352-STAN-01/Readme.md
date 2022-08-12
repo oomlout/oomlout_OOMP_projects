@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: GraphicLCD Serial Backpack
 - sources: All source files from https://github.com/sparkfun/GraphicLCD_Serial_Backpack (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9352
+- linkBuyPage: https://www.sparkfun.com/products/9352

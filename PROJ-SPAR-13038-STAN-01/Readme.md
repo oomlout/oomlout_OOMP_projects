@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Edison GPIO Block
 - sources: All source files from https://github.com/sparkfun/Edison_GPIO_Block (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13038
+- linkBuyPage: https://www.sparkfun.com/products/13038

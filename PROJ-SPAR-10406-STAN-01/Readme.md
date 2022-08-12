@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RFID Evaluation Shield
 - sources: All source files from https://github.com/sparkfun/RFID_Evaluation_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10406
+- linkBuyPage: https://www.sparkfun.com/products/10406

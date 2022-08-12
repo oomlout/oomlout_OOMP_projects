@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Ardumoto-Motor Driver Shield
 - sources: All source files from https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14129
+- linkBuyPage: https://www.sparkfun.com/products/14129

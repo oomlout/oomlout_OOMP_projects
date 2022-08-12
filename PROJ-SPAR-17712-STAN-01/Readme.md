@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: STM32 Thing Plus
 - sources: All source files from https://github.com/sparkfun/STM32_Thing_Plus (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17712
+- linkBuyPage: https://www.sparkfun.com/products/17712

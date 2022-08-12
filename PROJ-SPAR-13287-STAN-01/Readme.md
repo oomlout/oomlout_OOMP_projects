@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP8266 WiFi Shield
 - sources: All source files from https://github.com/sparkfun/ESP8266_WiFi_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13287
+- linkBuyPage: https://www.sparkfun.com/products/13287

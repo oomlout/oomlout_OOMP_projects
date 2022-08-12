@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Alphanumeric Display Breakout
 - sources: All source files from https://github.com/sparkfun/Qwiic_Alphanumeric_Display_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16919
+- linkBuyPage: https://www.sparkfun.com/products/16919

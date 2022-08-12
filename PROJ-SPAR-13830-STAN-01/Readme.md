@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB UART Serial Breakout-CY7C65213
 - sources: All source files from https://github.com/sparkfun/USB_UART_Serial_Breakout-CY7C65213 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13830
+- linkBuyPage: https://www.sparkfun.com/products/13830

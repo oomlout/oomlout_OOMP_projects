@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MG2639 Cellular Shield
 - sources: All source files from https://github.com/sparkfun/MG2639_Cellular_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13120
+- linkBuyPage: https://www.sparkfun.com/products/13120

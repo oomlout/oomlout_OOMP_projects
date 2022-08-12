@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator UV
 - sources: All source files from https://github.com/sparkfun/gator_UV (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15273
+- linkBuyPage: https://www.sparkfun.com/products/15273

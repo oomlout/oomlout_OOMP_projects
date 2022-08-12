@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial Basic Breakout-CH340C
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340C (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15096
+- linkBuyPage: https://www.sparkfun.com/products/15096

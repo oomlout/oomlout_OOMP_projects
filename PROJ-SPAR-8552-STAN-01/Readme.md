@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial DB9 Breakout
 - sources: All source files from https://github.com/sparkfun/Serial_DB9_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8552
+- linkBuyPage: https://www.sparkfun.com/products/8552

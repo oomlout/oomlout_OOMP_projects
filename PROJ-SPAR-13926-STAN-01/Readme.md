@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MMA8452 Accelerometer
 - sources: All source files from https://github.com/sparkfun/MMA8452_Accelerometer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13926
+- linkBuyPage: https://www.sparkfun.com/products/13926

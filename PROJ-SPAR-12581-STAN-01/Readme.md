@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RooTooth
 - sources: All source files from https://github.com/sparkfun/RooTooth (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12581
+- linkBuyPage: https://www.sparkfun.com/products/12581

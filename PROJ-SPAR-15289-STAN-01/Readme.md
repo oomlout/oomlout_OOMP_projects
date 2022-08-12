@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator microphone
 - sources: All source files from https://github.com/sparkfun/gator_microphone (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15289
+- linkBuyPage: https://www.sparkfun.com/products/15289

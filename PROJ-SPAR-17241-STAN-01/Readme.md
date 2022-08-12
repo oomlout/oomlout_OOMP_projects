@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic ADXL313
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ADXL313 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17241
+- linkBuyPage: https://www.sparkfun.com/products/17241

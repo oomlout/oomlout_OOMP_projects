@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod ESP32 Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_ESP32_Processor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16781
+- linkBuyPage: https://www.sparkfun.com/products/16781

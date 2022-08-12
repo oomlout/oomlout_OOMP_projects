@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: On Screen Display Breakout-MAX7456
 - sources: All source files from https://github.com/sparkfun/On_Screen_Display_Breakout-MAX7456 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9168
+- linkBuyPage: https://www.sparkfun.com/products/9168

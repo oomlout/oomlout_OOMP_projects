@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Cryptographic Co-Processor Breakout ATECC508A Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15573
+- linkBuyPage: https://www.sparkfun.com/products/15573

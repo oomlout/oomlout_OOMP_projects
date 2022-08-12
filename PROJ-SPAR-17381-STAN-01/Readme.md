@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ESP32 Thing Plus U.FL
 - sources: All source files from https://github.com/sparkfun/ESP32_Thing_Plus_U.FL (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/17381
+- linkBuyPage: https://www.sparkfun.com/products/17381

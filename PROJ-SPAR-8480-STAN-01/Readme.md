@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Gainer PSoC Development Board
 - sources: All source files from https://github.com/sparkfun/Gainer_PSoC_Development_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/8480
+- linkBuyPage: https://www.sparkfun.com/products/8480

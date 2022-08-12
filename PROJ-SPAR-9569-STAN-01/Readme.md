@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Humidity Sensor Breakout-HIH-4030
 - sources: All source files from https://github.com/sparkfun/Humidity_Sensor_Breakout-HIH-4030 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9569
+- linkBuyPage: https://www.sparkfun.com/products/9569

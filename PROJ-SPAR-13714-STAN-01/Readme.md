@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: FreeSoc2
 - sources: All source files from https://github.com/sparkfun/FreeSoc2 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13714
+- linkBuyPage: https://www.sparkfun.com/products/13714

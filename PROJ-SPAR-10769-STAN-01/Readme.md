@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: OBD-II UART
 - sources: All source files from https://github.com/sparkfun/OBD-II_UART (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10769
+- linkBuyPage: https://www.sparkfun.com/products/10769

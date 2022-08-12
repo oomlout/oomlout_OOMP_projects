@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Current Sensor Breakout-ACS723-Low Current
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14544
+- linkBuyPage: https://www.sparkfun.com/products/14544

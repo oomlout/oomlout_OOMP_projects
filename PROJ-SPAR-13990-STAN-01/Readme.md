@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: nRF52832 Breakout
 - sources: All source files from https://github.com/sparkfun/nRF52832_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13990
+- linkBuyPage: https://www.sparkfun.com/products/13990

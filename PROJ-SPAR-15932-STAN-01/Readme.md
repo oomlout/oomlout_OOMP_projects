@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Button
 - sources: All source files from https://github.com/sparkfun/Qwiic_Button (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15932
+- linkBuyPage: https://www.sparkfun.com/products/15932

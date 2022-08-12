@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB Host Shield
 - sources: All source files from https://github.com/sparkfun/USB_Host_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9947
+- linkBuyPage: https://www.sparkfun.com/products/9947

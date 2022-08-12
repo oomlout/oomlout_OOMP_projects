@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: OpenLog
 - sources: All source files from https://github.com/sparkfun/OpenLog (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13712
+- linkBuyPage: https://www.sparkfun.com/products/13712

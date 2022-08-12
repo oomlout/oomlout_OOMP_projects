@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Bus Pirate
 - sources: All source files from https://github.com/sparkfun/Bus_Pirate (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12942
+- linkBuyPage: https://www.sparkfun.com/products/12942

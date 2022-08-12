@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Protoboard Small
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Small (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9102
+- linkBuyPage: https://www.sparkfun.com/products/9102

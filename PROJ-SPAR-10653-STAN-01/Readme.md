@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Voice Recorder Breakout-ISD1932
 - sources: All source files from https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10653
+- linkBuyPage: https://www.sparkfun.com/products/10653

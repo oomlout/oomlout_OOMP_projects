@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Ambient Sensor VEML6030
 - sources: All source files from https://github.com/sparkfun/SparkFun_Ambient_Sensor_VEML6030 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15436
+- linkBuyPage: https://www.sparkfun.com/products/15436

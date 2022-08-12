@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Artemis Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_Artemis_Processor (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16401
+- linkBuyPage: https://www.sparkfun.com/products/16401

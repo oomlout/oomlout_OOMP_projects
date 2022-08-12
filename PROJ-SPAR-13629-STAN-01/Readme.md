@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Photon IMU Shield
 - sources: All source files from https://github.com/sparkfun/Photon_IMU_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13629
+- linkBuyPage: https://www.sparkfun.com/products/13629

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Beefy 3
 - sources: All source files from https://github.com/sparkfun/Beefy_3 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13746
+- linkBuyPage: https://www.sparkfun.com/products/13746

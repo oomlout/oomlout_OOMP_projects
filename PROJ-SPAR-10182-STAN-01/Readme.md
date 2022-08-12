@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Monster Moto Shield
 - sources: All source files from https://github.com/sparkfun/Monster_Moto_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10182
+- linkBuyPage: https://www.sparkfun.com/products/10182

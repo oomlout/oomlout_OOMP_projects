@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: THAT 1646 Breakout
 - sources: All source files from https://github.com/sparkfun/THAT_1646_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14003
+- linkBuyPage: https://www.sparkfun.com/products/14003

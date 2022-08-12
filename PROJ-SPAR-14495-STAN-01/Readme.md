@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Adapter
 - sources: All source files from https://github.com/sparkfun/Qwiic_Adapter (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14495
+- linkBuyPage: https://www.sparkfun.com/products/14495

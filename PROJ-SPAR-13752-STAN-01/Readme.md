@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: L6470-AutoDriver
 - sources: All source files from https://github.com/sparkfun/L6470-AutoDriver (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13752
+- linkBuyPage: https://www.sparkfun.com/products/13752

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: USB Bit Whacker-18F2553
 - sources: All source files from https://github.com/sparkfun/USB_Bit_Whacker-18F2553 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/762
+- linkBuyPage: https://www.sparkfun.com/products/762

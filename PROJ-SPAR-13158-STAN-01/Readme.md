@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LiPower-Shield
 - sources: All source files from https://github.com/sparkfun/LiPower-Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13158
+- linkBuyPage: https://www.sparkfun.com/products/13158

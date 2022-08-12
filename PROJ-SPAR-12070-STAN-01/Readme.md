@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Solder-able Breadboard
 - sources: All source files from https://github.com/sparkfun/Solder-able_Breadboard (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12070
+- linkBuyPage: https://www.sparkfun.com/products/12070

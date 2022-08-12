@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Energy Harvester Breakout-LTC3588
 - sources: All source files from https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9946
+- linkBuyPage: https://www.sparkfun.com/products/9946

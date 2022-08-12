@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Shift Register Breakout-74HC595
 - sources: All source files from https://github.com/sparkfun/Shift_Register_Breakout-74HC595 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10680
+- linkBuyPage: https://www.sparkfun.com/products/10680

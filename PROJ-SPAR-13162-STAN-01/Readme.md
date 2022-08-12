@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ZX Gesture Sensor SMD
 - sources: All source files from https://github.com/sparkfun/ZX_Gesture_Sensor_SMD (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13162
+- linkBuyPage: https://www.sparkfun.com/products/13162

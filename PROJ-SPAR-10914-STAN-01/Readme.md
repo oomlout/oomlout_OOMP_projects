@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Arduino Pro 328
 - sources: All source files from https://github.com/sparkfun/Arduino_Pro_328 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10914
+- linkBuyPage: https://www.sparkfun.com/products/10914

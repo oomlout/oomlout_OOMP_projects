@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun LTE GNSS Breakout SARA-R510M8S
 - sources: All source files from https://github.com/sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18031
+- linkBuyPage: https://www.sparkfun.com/products/18031

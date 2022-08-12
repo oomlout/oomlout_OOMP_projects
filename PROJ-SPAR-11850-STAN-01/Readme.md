@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: PicoBuck
 - sources: All source files from https://github.com/sparkfun/PicoBuck (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11850
+- linkBuyPage: https://www.sparkfun.com/products/11850

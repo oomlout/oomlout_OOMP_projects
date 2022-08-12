@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: PWM Shield
 - sources: All source files from https://github.com/sparkfun/PWM_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10615
+- linkBuyPage: https://www.sparkfun.com/products/10615

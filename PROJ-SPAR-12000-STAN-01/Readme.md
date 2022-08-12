@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: WAV Trigger
 - sources: All source files from https://github.com/sparkfun/WAV_Trigger (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12000
+- linkBuyPage: https://www.sparkfun.com/products/12000

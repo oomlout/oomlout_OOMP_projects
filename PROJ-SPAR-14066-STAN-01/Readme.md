@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Simultaneous RFID Tag Reader
 - sources: All source files from https://github.com/sparkfun/Simultaneous_RFID_Tag_Reader (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14066
+- linkBuyPage: https://www.sparkfun.com/products/14066

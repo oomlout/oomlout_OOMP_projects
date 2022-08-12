@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: OpenLog Artemis
 - sources: All source files from https://github.com/sparkfun/OpenLog_Artemis (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16832
+- linkBuyPage: https://www.sparkfun.com/products/16832

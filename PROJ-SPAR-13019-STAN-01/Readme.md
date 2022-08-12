@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: BLE Mate2
 - sources: All source files from https://github.com/sparkfun/BLE_Mate2 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13019
+- linkBuyPage: https://www.sparkfun.com/products/13019

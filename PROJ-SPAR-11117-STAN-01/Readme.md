@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: 32U4 Breakout Board
 - sources: All source files from https://github.com/sparkfun/32U4_Breakout_Board (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11117
+- linkBuyPage: https://www.sparkfun.com/products/11117

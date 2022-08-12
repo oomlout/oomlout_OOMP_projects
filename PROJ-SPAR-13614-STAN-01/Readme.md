@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qduino Mini SFE
 - sources: All source files from https://github.com/sparkfun/Qduino_Mini_SFE (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13614
+- linkBuyPage: https://www.sparkfun.com/products/13614

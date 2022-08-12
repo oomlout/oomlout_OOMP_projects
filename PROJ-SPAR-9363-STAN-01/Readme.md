@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ColorLCDShield
 - sources: All source files from https://github.com/sparkfun/ColorLCDShield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9363
+- linkBuyPage: https://www.sparkfun.com/products/9363

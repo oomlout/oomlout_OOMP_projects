@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator color
 - sources: All source files from https://github.com/sparkfun/gator_color (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14890
+- linkBuyPage: https://www.sparkfun.com/products/14890

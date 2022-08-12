@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: AVR ISP Shield
 - sources: All source files from https://github.com/sparkfun/AVR_ISP_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11168
+- linkBuyPage: https://www.sparkfun.com/products/11168

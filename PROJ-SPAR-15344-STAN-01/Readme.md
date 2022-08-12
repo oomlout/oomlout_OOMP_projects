@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Capacitive Touch Slider CAP1203
 - sources: All source files from https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15344
+- linkBuyPage: https://www.sparkfun.com/products/15344

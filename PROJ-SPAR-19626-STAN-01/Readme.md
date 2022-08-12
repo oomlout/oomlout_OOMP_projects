@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: 8 channel level shifter TXS0108E
 - sources: All source files from https://github.com/sparkfun/8_channel_level_shifter_TXS0108E (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/19626
+- linkBuyPage: https://www.sparkfun.com/products/19626

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MIDI Shield
 - sources: All source files from https://github.com/sparkfun/MIDI_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12898
+- linkBuyPage: https://www.sparkfun.com/products/12898

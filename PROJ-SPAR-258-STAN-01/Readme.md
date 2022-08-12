@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial Enabled LCD Backpack
 - sources: All source files from https://github.com/sparkfun/Serial_Enabled_LCD_Backpack (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/258
+- linkBuyPage: https://www.sparkfun.com/products/258

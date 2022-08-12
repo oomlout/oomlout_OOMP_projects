@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MAX31855K Thermocouple Breakout
 - sources: All source files from https://github.com/sparkfun/MAX31855K_Thermocouple_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13266
+- linkBuyPage: https://www.sparkfun.com/products/13266

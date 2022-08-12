@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RedBot Whisker Bumper
 - sources: All source files from https://github.com/sparkfun/RedBot_Whisker_Bumper (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11999
+- linkBuyPage: https://www.sparkfun.com/products/11999

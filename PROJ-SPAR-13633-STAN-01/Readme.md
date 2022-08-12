@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun LilyPad Simblee
 - sources: All source files from https://github.com/sparkfun/SparkFun_LilyPad_Simblee (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13633
+- linkBuyPage: https://www.sparkfun.com/products/13633

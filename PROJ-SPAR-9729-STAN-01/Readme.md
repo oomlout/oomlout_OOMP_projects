@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ProtoScrewShield
 - sources: All source files from https://github.com/sparkfun/ProtoScrewShield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9729
+- linkBuyPage: https://www.sparkfun.com/products/9729

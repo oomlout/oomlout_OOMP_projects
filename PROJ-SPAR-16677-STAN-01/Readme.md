@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/16677
+- linkBuyPage: https://www.sparkfun.com/products/16677

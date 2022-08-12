@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Hat for Raspberry Pi
 - sources: All source files from https://github.com/sparkfun/Qwiic_Hat_for_Raspberry_Pi (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14459
+- linkBuyPage: https://www.sparkfun.com/products/14459

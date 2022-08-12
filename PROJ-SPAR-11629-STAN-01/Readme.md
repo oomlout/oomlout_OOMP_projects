@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Serial7SegmentDisplay
 - sources: All source files from https://github.com/sparkfun/Serial7SegmentDisplay (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11629
+- linkBuyPage: https://www.sparkfun.com/products/11629

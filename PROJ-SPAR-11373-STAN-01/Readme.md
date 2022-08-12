@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: XBee Explorer Regulated
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Regulated (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11373
+- linkBuyPage: https://www.sparkfun.com/products/11373

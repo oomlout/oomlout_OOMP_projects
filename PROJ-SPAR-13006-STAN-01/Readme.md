@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Decade Resistance Box
 - sources: All source files from https://github.com/sparkfun/Decade_Resistance_Box (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13006
+- linkBuyPage: https://www.sparkfun.com/products/13006

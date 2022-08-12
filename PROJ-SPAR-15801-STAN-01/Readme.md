@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Power Delivery Board-USB-C
 - sources: All source files from https://github.com/sparkfun/Power_Delivery_Board-USB-C (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15801
+- linkBuyPage: https://www.sparkfun.com/products/15801

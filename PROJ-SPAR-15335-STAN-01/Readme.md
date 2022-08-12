@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun Qwiic 9DoF IMU Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15335
+- linkBuyPage: https://www.sparkfun.com/products/15335

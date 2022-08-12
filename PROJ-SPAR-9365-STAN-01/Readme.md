@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: AD Stereo Converter-PCM1803A
 - sources: All source files from https://github.com/sparkfun/AD_Stereo_Converter-PCM1803A (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9365
+- linkBuyPage: https://www.sparkfun.com/products/9365

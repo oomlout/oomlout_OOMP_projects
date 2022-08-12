@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: CC3000 WiFi Shield
 - sources: All source files from https://github.com/sparkfun/CC3000_WiFi_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12071
+- linkBuyPage: https://www.sparkfun.com/products/12071

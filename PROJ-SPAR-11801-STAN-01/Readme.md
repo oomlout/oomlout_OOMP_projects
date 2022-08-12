@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Tiny-AVR-Programmer
 - sources: All source files from https://github.com/sparkfun/Tiny-AVR-Programmer (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/11801
+- linkBuyPage: https://www.sparkfun.com/products/11801

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ADXL377 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL377_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12803
+- linkBuyPage: https://www.sparkfun.com/products/12803

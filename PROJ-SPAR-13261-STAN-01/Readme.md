@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: OpenScale
 - sources: All source files from https://github.com/sparkfun/OpenScale (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13261
+- linkBuyPage: https://www.sparkfun.com/products/13261

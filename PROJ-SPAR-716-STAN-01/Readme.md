@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: RJ45 Breakout
 - sources: All source files from https://github.com/sparkfun/RJ45_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/716
+- linkBuyPage: https://www.sparkfun.com/products/716

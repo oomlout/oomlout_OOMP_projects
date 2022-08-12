@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Edison UART Block
 - sources: All source files from https://github.com/sparkfun/Edison_UART_Block (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13040
+- linkBuyPage: https://www.sparkfun.com/products/13040

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LMD1820x Breakout
 - sources: All source files from https://github.com/sparkfun/LMD1820x_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/747
+- linkBuyPage: https://www.sparkfun.com/products/747

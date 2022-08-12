@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Coin Cell Battery Holder Breakout-24.5mm
 - sources: All source files from https://github.com/sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10495
+- linkBuyPage: https://www.sparkfun.com/products/10495

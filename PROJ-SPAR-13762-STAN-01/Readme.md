@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MPU-9250 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-9250_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13762
+- linkBuyPage: https://www.sparkfun.com/products/13762

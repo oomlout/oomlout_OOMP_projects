@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Roshamglo
 - sources: All source files from https://github.com/sparkfun/Roshamglo (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14130
+- linkBuyPage: https://www.sparkfun.com/products/14130

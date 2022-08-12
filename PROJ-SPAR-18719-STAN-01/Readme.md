@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun GNSS Dead Reckoning ZED-F9K
 - sources: All source files from https://github.com/sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18719
+- linkBuyPage: https://www.sparkfun.com/products/18719

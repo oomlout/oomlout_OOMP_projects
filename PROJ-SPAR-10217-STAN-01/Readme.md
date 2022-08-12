@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Lipo Charger Basic-microUSB
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-microUSB (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/10217
+- linkBuyPage: https://www.sparkfun.com/products/10217

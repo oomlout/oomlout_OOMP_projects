@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SAMD21 Dev Breakout
 - sources: All source files from https://github.com/sparkfun/SAMD21_Dev_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13672
+- linkBuyPage: https://www.sparkfun.com/products/13672

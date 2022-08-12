@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Vernier Interface Shield
 - sources: All source files from https://github.com/sparkfun/Vernier_Interface_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12858
+- linkBuyPage: https://www.sparkfun.com/products/12858

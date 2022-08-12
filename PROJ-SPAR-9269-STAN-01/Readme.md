@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: ADXL335 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL335_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9269
+- linkBuyPage: https://www.sparkfun.com/products/9269

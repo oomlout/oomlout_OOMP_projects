@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Full Bridge Motor Driver Breakout-L298N
 - sources: All source files from https://github.com/sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/9540
+- linkBuyPage: https://www.sparkfun.com/products/9540

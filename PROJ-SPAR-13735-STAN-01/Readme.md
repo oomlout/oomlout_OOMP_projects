@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: LilyPad Tri-Color LED
 - sources: All source files from https://github.com/sparkfun/LilyPad_Tri-Color_LED (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13735
+- linkBuyPage: https://www.sparkfun.com/products/13735

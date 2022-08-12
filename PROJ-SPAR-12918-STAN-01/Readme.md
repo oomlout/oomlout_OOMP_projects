@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MCP4725 Breakout
 - sources: All source files from https://github.com/sparkfun/MCP4725_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/12918
+- linkBuyPage: https://www.sparkfun.com/products/12918

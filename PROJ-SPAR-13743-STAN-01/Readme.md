@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Shifting microSD
 - sources: All source files from https://github.com/sparkfun/Shifting_microSD (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/13743
+- linkBuyPage: https://www.sparkfun.com/products/13743

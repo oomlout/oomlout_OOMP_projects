@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: SparkFun ESP32 Thing Plus DMX to LED Shield
 - sources: All source files from https://github.com/sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15110
+- linkBuyPage: https://www.sparkfun.com/products/15110

@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: MicroMod Function LoRa 1W
 - sources: All source files from https://github.com/sparkfun/MicroMod_Function_LoRa_1W (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/18573
+- linkBuyPage: https://www.sparkfun.com/products/18573

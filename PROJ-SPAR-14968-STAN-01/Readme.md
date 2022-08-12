@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: gator control
 - sources: All source files from https://github.com/sparkfun/gator_control (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/14968
+- linkBuyPage: https://www.sparkfun.com/products/14968

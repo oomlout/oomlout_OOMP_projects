@@ -26,4 +26,4 @@ Contents
 - oompIndex: 01
 - oompName: Qwiic Atmospheric Sensor Breakout BME280
 - sources: All source files from https://github.com/sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280 (source licence details in srcLicense.md)
-- linkBuyPage: https://github.com/sparkfun/15440
+- linkBuyPage: https://www.sparkfun.com/products/15440
