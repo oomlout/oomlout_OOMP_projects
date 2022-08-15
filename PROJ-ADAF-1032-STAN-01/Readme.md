@@ -1,20 +1,19 @@
 
-PROJ-ADAF-1032-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-1032-STAN-01>Adafruit](#proj-adaf-1032-stan-01adafruit)
+* [PROJ-ADAF-1032-STAN-01>oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB](#proj-adaf-1032-stan-01oomlout_oomp_projectssourcefilesadafruitadafruit-l3gd20-breakout-pcb)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-ADAF-1032-STAN-01>oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB
 
-* [PROJ-ADAF-1032-STAN-01>Adafruit](#proj-adaf-1032-stan-01adafruit)
-	* [Tags](#tags)
-
-# PROJ-ADAF-1032-STAN-01>Adafruit
+- ID: PROJ-ADAF-1032-STAN-01
+- Hex ID: PRA1032
+- Name: Adafruit
+- Description: Adafruit
 
 ## Tags
 
