@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13752-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13752-STAN-01>Sparkfun](#proj-spar-13752-stan-01sparkfun)
+* [PROJ-SPAR-13752-STAN-01>L6470-AutoDriver](#proj-spar-13752-stan-01l6470-autodriver)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13752-STAN-01>L6470-AutoDriver
 
-* [PROJ-SPAR-13752-STAN-01>Sparkfun](#proj-spar-13752-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13752-STAN-01
+- Hex ID: PRS13752
+- Name: L6470-AutoDriver
+- Description: 
 
-# PROJ-SPAR-13752-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

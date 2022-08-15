@@ -1,20 +1,19 @@
 
-PROJ-SPAR-13926-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13926-STAN-01>Sparkfun](#proj-spar-13926-stan-01sparkfun)
+* [PROJ-SPAR-13926-STAN-01>MMA8452 Accelerometer](#proj-spar-13926-stan-01mma8452-accelerometer)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13926-STAN-01>MMA8452 Accelerometer
 
-* [PROJ-SPAR-13926-STAN-01>Sparkfun](#proj-spar-13926-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-13926-STAN-01>Sparkfun
+- ID: PROJ-SPAR-13926-STAN-01
+- Hex ID: PRS13926
+- Name: MMA8452 Accelerometer
+- Description: 
 
 ## Tags
 

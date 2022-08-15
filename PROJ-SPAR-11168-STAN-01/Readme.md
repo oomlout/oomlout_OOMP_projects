@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11168-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11168-STAN-01>Sparkfun](#proj-spar-11168-stan-01sparkfun)
+* [PROJ-SPAR-11168-STAN-01>AVR ISP Shield](#proj-spar-11168-stan-01avr-isp-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11168-STAN-01>AVR ISP Shield
 
-* [PROJ-SPAR-11168-STAN-01>Sparkfun](#proj-spar-11168-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11168-STAN-01
+- Hex ID: PRS11168
+- Name: AVR ISP Shield
+- Description: 
 
-# PROJ-SPAR-11168-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12642-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12642-STAN-01>Sparkfun](#proj-spar-12642-stan-01sparkfun)
+* [PROJ-SPAR-12642-STAN-01>Sound Detector](#proj-spar-12642-stan-01sound-detector)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12642-STAN-01>Sound Detector
 
-* [PROJ-SPAR-12642-STAN-01>Sparkfun](#proj-spar-12642-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12642-STAN-01
+- Hex ID: PRS12642
+- Name: Sound Detector
+- Description: 
 
-# PROJ-SPAR-12642-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13684-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13684-STAN-01>Sparkfun](#proj-spar-13684-stan-01sparkfun)
+* [PROJ-SPAR-13684-STAN-01>MyoWare Power Shield](#proj-spar-13684-stan-01myoware-power-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13684-STAN-01>MyoWare Power Shield
 
-* [PROJ-SPAR-13684-STAN-01>Sparkfun](#proj-spar-13684-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13684-STAN-01
+- Hex ID: PRS13684
+- Name: MyoWare Power Shield
+- Description: 
 
-# PROJ-SPAR-13684-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

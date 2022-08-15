@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15932-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15932-STAN-01>Sparkfun](#proj-spar-15932-stan-01sparkfun)
+* [PROJ-SPAR-15932-STAN-01>Qwiic Button](#proj-spar-15932-stan-01qwiic-button)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15932-STAN-01>Qwiic Button
 
-* [PROJ-SPAR-15932-STAN-01>Sparkfun](#proj-spar-15932-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15932-STAN-01
+- Hex ID: PRS15932
+- Name: Qwiic Button
+- Description: 
 
-# PROJ-SPAR-15932-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

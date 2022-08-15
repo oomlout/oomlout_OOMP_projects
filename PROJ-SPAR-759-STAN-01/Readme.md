@@ -1,20 +1,24 @@
 
-PROJ-SPAR-759-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-759-STAN-01>Sparkfun](#proj-spar-759-stan-01sparkfun)
+* [PROJ-SPAR-759-STAN-01>LED Matrix Serial Interface RedGreen](#proj-spar-759-stan-01led-matrix-serial-interface-redgreen)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-759-STAN-01>LED Matrix Serial Interface RedGreen
 
-* [PROJ-SPAR-759-STAN-01>Sparkfun](#proj-spar-759-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-759-STAN-01
+- Hex ID: PRS759
+- Name: LED Matrix Serial Interface RedGreen
+- Description: 
 
-# PROJ-SPAR-759-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

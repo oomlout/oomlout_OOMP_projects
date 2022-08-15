@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15335-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15335-STAN-01>Sparkfun](#proj-spar-15335-stan-01sparkfun)
+* [PROJ-SPAR-15335-STAN-01>SparkFun Qwiic 9DoF IMU Breakout](#proj-spar-15335-stan-01sparkfun-qwiic-9dof-imu-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15335-STAN-01>SparkFun Qwiic 9DoF IMU Breakout
 
-* [PROJ-SPAR-15335-STAN-01>Sparkfun](#proj-spar-15335-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15335-STAN-01
+- Hex ID: PRS15335
+- Name: SparkFun Qwiic 9DoF IMU Breakout
+- Description: 
 
-# PROJ-SPAR-15335-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

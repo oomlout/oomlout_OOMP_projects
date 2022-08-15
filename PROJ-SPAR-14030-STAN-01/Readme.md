@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14030-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14030-STAN-01>Sparkfun](#proj-spar-14030-stan-01sparkfun)
+* [PROJ-SPAR-14030-STAN-01>Mini GPS Shield](#proj-spar-14030-stan-01mini-gps-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14030-STAN-01>Mini GPS Shield
 
-* [PROJ-SPAR-14030-STAN-01>Sparkfun](#proj-spar-14030-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14030-STAN-01
+- Hex ID: PRS14030
+- Name: Mini GPS Shield
+- Description: 
 
-# PROJ-SPAR-14030-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11189-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11189-STAN-01>Sparkfun](#proj-spar-11189-stan-01sparkfun)
+* [PROJ-SPAR-11189-STAN-01>MAX3232 Breakout](#proj-spar-11189-stan-01max3232-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11189-STAN-01>MAX3232 Breakout
 
-* [PROJ-SPAR-11189-STAN-01>Sparkfun](#proj-spar-11189-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11189-STAN-01
+- Hex ID: PRS11189
+- Name: MAX3232 Breakout
+- Description: 
 
-# PROJ-SPAR-11189-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

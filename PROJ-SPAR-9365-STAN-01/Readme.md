@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9365-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9365-STAN-01>Sparkfun](#proj-spar-9365-stan-01sparkfun)
+* [PROJ-SPAR-9365-STAN-01>AD Stereo Converter-PCM1803A](#proj-spar-9365-stan-01ad-stereo-converter-pcm1803a)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9365-STAN-01>AD Stereo Converter-PCM1803A
 
-* [PROJ-SPAR-9365-STAN-01>Sparkfun](#proj-spar-9365-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9365-STAN-01
+- Hex ID: PRS9365
+- Name: AD Stereo Converter-PCM1803A
+- Description: 
 
-# PROJ-SPAR-9365-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15794-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15794-STAN-01>Sparkfun](#proj-spar-15794-stan-01sparkfun)
+* [PROJ-SPAR-15794-STAN-01>Qwiic Pi SHIM](#proj-spar-15794-stan-01qwiic-pi-shim)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15794-STAN-01>Qwiic Pi SHIM
 
-* [PROJ-SPAR-15794-STAN-01>Sparkfun](#proj-spar-15794-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15794-STAN-01
+- Hex ID: PRS15794
+- Name: Qwiic Pi SHIM
+- Description: 
 
-# PROJ-SPAR-15794-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

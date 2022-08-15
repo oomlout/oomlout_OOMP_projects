@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14589-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14589-STAN-01>Sparkfun](#proj-spar-14589-stan-01sparkfun)
+* [PROJ-SPAR-14589-STAN-01>SparkFun Differential I2C Breakout PCA9615 Qwiic](#proj-spar-14589-stan-01sparkfun-differential-i2c-breakout-pca9615-qwiic)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14589-STAN-01>SparkFun Differential I2C Breakout PCA9615 Qwiic
 
-* [PROJ-SPAR-14589-STAN-01>Sparkfun](#proj-spar-14589-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14589-STAN-01
+- Hex ID: PRS14589
+- Name: SparkFun Differential I2C Breakout PCA9615 Qwiic
+- Description: 
 
-# PROJ-SPAR-14589-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

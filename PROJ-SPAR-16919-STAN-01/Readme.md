@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16919-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16919-STAN-01>Sparkfun](#proj-spar-16919-stan-01sparkfun)
+* [PROJ-SPAR-16919-STAN-01>Qwiic Alphanumeric Display Breakout](#proj-spar-16919-stan-01qwiic-alphanumeric-display-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16919-STAN-01>Qwiic Alphanumeric Display Breakout
 
-* [PROJ-SPAR-16919-STAN-01>Sparkfun](#proj-spar-16919-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16919-STAN-01
+- Hex ID: PRS16919
+- Name: Qwiic Alphanumeric Display Breakout
+- Description: 
 
-# PROJ-SPAR-16919-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

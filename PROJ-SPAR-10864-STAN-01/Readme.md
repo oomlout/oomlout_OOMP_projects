@@ -1,20 +1,29 @@
 
-PROJ-SPAR-10864-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10864-STAN-01>Sparkfun](#proj-spar-10864-stan-01sparkfun)
+* [PROJ-SPAR-10864-STAN-01>PoEthernet Shield](#proj-spar-10864-stan-01poethernet-shield)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10864-STAN-01>PoEthernet Shield
 
-Contents
-========
+- ID: PROJ-SPAR-10864-STAN-01
+- Hex ID: PRS10864
+- Name: PoEthernet Shield
+- Description: 
 
-* [PROJ-SPAR-10864-STAN-01>Sparkfun](#proj-spar-10864-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10864-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -27,3 +36,7 @@ Contents
 - oompName: PoEthernet Shield
 - sources: All source files from https://github.com/sparkfun/PoEthernet_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10864
+
+
+
+[im]: eagleImage_450.png

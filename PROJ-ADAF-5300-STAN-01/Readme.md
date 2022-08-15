@@ -1,20 +1,34 @@
 
-PROJ-ADAF-5300-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-5300-STAN-01>Adafruit](#proj-adaf-5300-stan-01adafruit)
+* [PROJ-ADAF-5300-STAN-01>Adafruit ESP32 S2 TFT Feather PCB](#proj-adaf-5300-stan-01adafruit-esp32-s2-tft-feather-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-5300-STAN-01>Adafruit ESP32 S2 TFT Feather PCB
 
-Contents
-========
+- ID: PROJ-ADAF-5300-STAN-01
+- Hex ID: PRA5300
+- Name: Adafruit ESP32 S2 TFT Feather PCB
+- Description: 
 
-* [PROJ-ADAF-5300-STAN-01>Adafruit](#proj-adaf-5300-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-5300-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 5300
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit ESP32 S2 TFT Feather PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-ESP32-S2-TFT-Feather-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit ESP32 S2 TFT Feather PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5300
+
+
+
+[im]: eagleImage_450.png

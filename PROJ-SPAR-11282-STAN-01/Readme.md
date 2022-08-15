@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11282-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11282-STAN-01>Sparkfun](#proj-spar-11282-stan-01sparkfun)
+* [PROJ-SPAR-11282-STAN-01>BMP085 Breakout](#proj-spar-11282-stan-01bmp085-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11282-STAN-01>BMP085 Breakout
 
-* [PROJ-SPAR-11282-STAN-01>Sparkfun](#proj-spar-11282-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11282-STAN-01
+- Hex ID: PRS11282
+- Name: BMP085 Breakout
+- Description: 
 
-# PROJ-SPAR-11282-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14063-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14063-STAN-01>Sparkfun](#proj-spar-14063-stan-01sparkfun)
+* [PROJ-SPAR-14063-STAN-01>LilyPad LilyMini ProtoSnap](#proj-spar-14063-stan-01lilypad-lilymini-protosnap)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14063-STAN-01>LilyPad LilyMini ProtoSnap
 
-* [PROJ-SPAR-14063-STAN-01>Sparkfun](#proj-spar-14063-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14063-STAN-01
+- Hex ID: PRS14063
+- Name: LilyPad LilyMini ProtoSnap
+- Description: 
 
-# PROJ-SPAR-14063-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

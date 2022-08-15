@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9056-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9056-STAN-01>Sparkfun](#proj-spar-9056-stan-01sparkfun)
+* [PROJ-SPAR-9056-STAN-01>Analog Digital MUX Breakout](#proj-spar-9056-stan-01analog-digital-mux-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9056-STAN-01>Analog Digital MUX Breakout
 
-* [PROJ-SPAR-9056-STAN-01>Sparkfun](#proj-spar-9056-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9056-STAN-01
+- Hex ID: PRS9056
+- Name: Analog Digital MUX Breakout
+- Description: 
 
-# PROJ-SPAR-9056-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

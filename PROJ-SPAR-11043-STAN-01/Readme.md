@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11043-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11043-STAN-01>Sparkfun](#proj-spar-11043-stan-01sparkfun)
+* [PROJ-SPAR-11043-STAN-01>fabFM-Kit](#proj-spar-11043-stan-01fabfm-kit)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11043-STAN-01>fabFM-Kit
 
-* [PROJ-SPAR-11043-STAN-01>Sparkfun](#proj-spar-11043-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11043-STAN-01
+- Hex ID: PRS11043
+- Name: fabFM-Kit
+- Description: 
 
-# PROJ-SPAR-11043-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

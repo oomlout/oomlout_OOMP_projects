@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14130-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14130-STAN-01>Sparkfun](#proj-spar-14130-stan-01sparkfun)
+* [PROJ-SPAR-14130-STAN-01>Roshamglo](#proj-spar-14130-stan-01roshamglo)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14130-STAN-01>Roshamglo
 
-* [PROJ-SPAR-14130-STAN-01>Sparkfun](#proj-spar-14130-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14130-STAN-01
+- Hex ID: PRS14130
+- Name: Roshamglo
+- Description: 
 
-# PROJ-SPAR-14130-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

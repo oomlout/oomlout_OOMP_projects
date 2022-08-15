@@ -1,20 +1,34 @@
 
-PROJ-ADAF-3857-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-3857-STAN-01>Adafruit](#proj-adaf-3857-stan-01adafruit)
+* [PROJ-ADAF-3857-STAN-01>Adafruit Feather M4 Express PCB](#proj-adaf-3857-stan-01adafruit-feather-m4-express-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-3857-STAN-01>Adafruit Feather M4 Express PCB
 
-Contents
-========
+- ID: PROJ-ADAF-3857-STAN-01
+- Hex ID: PRA3857
+- Name: Adafruit Feather M4 Express PCB
+- Description: 
 
-* [PROJ-ADAF-3857-STAN-01>Adafruit](#proj-adaf-3857-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-3857-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 3857
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Feather M4 Express PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Feather-M4-Express-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Feather M4 Express PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3857
+
+
+
+[im]: eagleImage_450.png

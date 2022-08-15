@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17590-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17590-STAN-01>Sparkfun](#proj-spar-17590-stan-01sparkfun)
+* [PROJ-SPAR-17590-STAN-01>Qwiic Haptic Driver DA7280](#proj-spar-17590-stan-01qwiic-haptic-driver-da7280)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17590-STAN-01>Qwiic Haptic Driver DA7280
 
-* [PROJ-SPAR-17590-STAN-01>Sparkfun](#proj-spar-17590-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17590-STAN-01
+- Hex ID: PRS17590
+- Name: Qwiic Haptic Driver DA7280
+- Description: 
 
-# PROJ-SPAR-17590-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

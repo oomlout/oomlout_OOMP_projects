@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13712-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13712-STAN-01>Sparkfun](#proj-spar-13712-stan-01sparkfun)
+* [PROJ-SPAR-13712-STAN-01>OpenLog](#proj-spar-13712-stan-01openlog)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13712-STAN-01>OpenLog
 
-* [PROJ-SPAR-13712-STAN-01>Sparkfun](#proj-spar-13712-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13712-STAN-01
+- Hex ID: PRS13712
+- Name: OpenLog
+- Description: 
 
-# PROJ-SPAR-13712-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

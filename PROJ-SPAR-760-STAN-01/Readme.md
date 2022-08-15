@@ -1,20 +1,24 @@
 
-PROJ-SPAR-760-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-760-STAN-01>Sparkfun](#proj-spar-760-stan-01sparkfun)
+* [PROJ-SPAR-760-STAN-01>LED Matrix Serial Interface RGB](#proj-spar-760-stan-01led-matrix-serial-interface-rgb)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-760-STAN-01>LED Matrix Serial Interface RGB
 
-* [PROJ-SPAR-760-STAN-01>Sparkfun](#proj-spar-760-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-760-STAN-01
+- Hex ID: PRS760
+- Name: LED Matrix Serial Interface RGB
+- Description: 
 
-# PROJ-SPAR-760-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-3900-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-3900-STAN-01>Adafruit](#proj-adaf-3900-stan-01adafruit)
+* [PROJ-ADAF-3900-STAN-01>Adafruit Hallowing M0 PCB](#proj-adaf-3900-stan-01adafruit-hallowing-m0-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-3900-STAN-01>Adafruit Hallowing M0 PCB
 
-Contents
-========
+- ID: PROJ-ADAF-3900-STAN-01
+- Hex ID: PRA3900
+- Name: Adafruit Hallowing M0 PCB
+- Description: 
 
-* [PROJ-ADAF-3900-STAN-01>Adafruit](#proj-adaf-3900-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-3900-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 3900
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Hallowing M0 PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Hallowing-M0-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Hallowing M0 PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Hallowing-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3900
+
+
+
+[im]: eagleImage_450.png

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11703-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11703-STAN-01>Sparkfun](#proj-spar-11703-stan-01sparkfun)
+* [PROJ-SPAR-11703-STAN-01>UDB5](#proj-spar-11703-stan-01udb5)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11703-STAN-01>UDB5
 
-* [PROJ-SPAR-11703-STAN-01>Sparkfun](#proj-spar-11703-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11703-STAN-01
+- Hex ID: PRS11703
+- Name: UDB5
+- Description: 
 
-# PROJ-SPAR-11703-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

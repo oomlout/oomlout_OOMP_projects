@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11520-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11520-STAN-01>Sparkfun](#proj-spar-11520-stan-01sparkfun)
+* [PROJ-SPAR-11520-STAN-01>Fio v3](#proj-spar-11520-stan-01fio-v3)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11520-STAN-01>Fio v3
 
-* [PROJ-SPAR-11520-STAN-01>Sparkfun](#proj-spar-11520-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11520-STAN-01
+- Hex ID: PRS11520
+- Name: Fio v3
+- Description: 
 
-# PROJ-SPAR-11520-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14153-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14153-STAN-01>Sparkfun](#proj-spar-14153-stan-01sparkfun)
+* [PROJ-SPAR-14153-STAN-01>ESP32 Environment Sensor Shield](#proj-spar-14153-stan-01esp32-environment-sensor-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14153-STAN-01>ESP32 Environment Sensor Shield
 
-* [PROJ-SPAR-14153-STAN-01>Sparkfun](#proj-spar-14153-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14153-STAN-01
+- Hex ID: PRS14153
+- Name: ESP32 Environment Sensor Shield
+- Description: 
 
-# PROJ-SPAR-14153-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

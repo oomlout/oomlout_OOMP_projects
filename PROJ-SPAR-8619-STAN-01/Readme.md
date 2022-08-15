@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8619-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8619-STAN-01>Sparkfun](#proj-spar-8619-stan-01sparkfun)
+* [PROJ-SPAR-8619-STAN-01>ProtoBoard Wombat-PTH](#proj-spar-8619-stan-01protoboard-wombat-pth)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8619-STAN-01>ProtoBoard Wombat-PTH
 
-* [PROJ-SPAR-8619-STAN-01>Sparkfun](#proj-spar-8619-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8619-STAN-01
+- Hex ID: PRS8619
+- Name: ProtoBoard Wombat-PTH
+- Description: 
 
-# PROJ-SPAR-8619-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

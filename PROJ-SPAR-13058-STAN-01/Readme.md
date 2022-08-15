@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13058-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13058-STAN-01>Sparkfun](#proj-spar-13058-stan-01sparkfun)
+* [PROJ-SPAR-13058-STAN-01>MiP ProMini-Pack](#proj-spar-13058-stan-01mip-promini-pack)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13058-STAN-01>MiP ProMini-Pack
 
-* [PROJ-SPAR-13058-STAN-01>Sparkfun](#proj-spar-13058-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13058-STAN-01
+- Hex ID: PRS13058
+- Name: MiP ProMini-Pack
+- Description: 
 
-# PROJ-SPAR-13058-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

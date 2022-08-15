@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19895-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19895-STAN-01>Sparkfun](#proj-spar-19895-stan-01sparkfun)
+* [PROJ-SPAR-19895-STAN-01>SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA](#proj-spar-19895-stan-01sparkfun-qwiic-9dof-ism330dhcx-mmc5983ma)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19895-STAN-01>SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA
 
-* [PROJ-SPAR-19895-STAN-01>Sparkfun](#proj-spar-19895-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19895-STAN-01
+- Hex ID: PRS19895
+- Name: SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA
+- Description: 
 
-# PROJ-SPAR-19895-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

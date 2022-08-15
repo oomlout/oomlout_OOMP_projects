@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13735-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13735-STAN-01>Sparkfun](#proj-spar-13735-stan-01sparkfun)
+* [PROJ-SPAR-13735-STAN-01>LilyPad Tri-Color LED](#proj-spar-13735-stan-01lilypad-tri-color-led)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13735-STAN-01>LilyPad Tri-Color LED
 
-* [PROJ-SPAR-13735-STAN-01>Sparkfun](#proj-spar-13735-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13735-STAN-01
+- Hex ID: PRS13735
+- Name: LilyPad Tri-Color LED
+- Description: 
 
-# PROJ-SPAR-13735-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

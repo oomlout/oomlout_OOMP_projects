@@ -1,20 +1,29 @@
 
-PROJ-SPAR-10103-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10103-STAN-01>Sparkfun](#proj-spar-10103-stan-01sparkfun)
+* [PROJ-SPAR-10103-STAN-01>Serial Alphanumeric Display Driver](#proj-spar-10103-stan-01serial-alphanumeric-display-driver)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10103-STAN-01>Serial Alphanumeric Display Driver
 
-Contents
-========
+- ID: PROJ-SPAR-10103-STAN-01
+- Hex ID: PRS10103
+- Name: Serial Alphanumeric Display Driver
+- Description: 
 
-* [PROJ-SPAR-10103-STAN-01>Sparkfun](#proj-spar-10103-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10103-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -27,3 +36,7 @@ Contents
 - oompName: Serial Alphanumeric Display Driver
 - sources: All source files from https://github.com/sparkfun/Serial_Alphanumeric_Display_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10103
+
+
+
+[im]: eagleImage_450.png

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11570-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11570-STAN-01>Sparkfun](#proj-spar-11570-stan-01sparkfun)
+* [PROJ-SPAR-11570-STAN-01>TRRS 3.5mm Jack Breakout](#proj-spar-11570-stan-01trrs-35mm-jack-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11570-STAN-01>TRRS 3.5mm Jack Breakout
 
-* [PROJ-SPAR-11570-STAN-01>Sparkfun](#proj-spar-11570-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11570-STAN-01
+- Hex ID: PRS11570
+- Name: TRRS 3.5mm Jack Breakout
+- Description: 
 
-# PROJ-SPAR-11570-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

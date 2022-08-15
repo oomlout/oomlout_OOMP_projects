@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14666-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14666-STAN-01>Sparkfun](#proj-spar-14666-stan-01sparkfun)
+* [PROJ-SPAR-14666-STAN-01>Qwiic Flex Glove Controller](#proj-spar-14666-stan-01qwiic-flex-glove-controller)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14666-STAN-01>Qwiic Flex Glove Controller
 
-* [PROJ-SPAR-14666-STAN-01>Sparkfun](#proj-spar-14666-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14666-STAN-01
+- Hex ID: PRS14666
+- Name: Qwiic Flex Glove Controller
+- Description: 
 
-# PROJ-SPAR-14666-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

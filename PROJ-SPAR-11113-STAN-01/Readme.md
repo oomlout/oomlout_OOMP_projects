@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11113-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11113-STAN-01>Sparkfun](#proj-spar-11113-stan-01sparkfun)
+* [PROJ-SPAR-11113-STAN-01>Pro Mini Candy](#proj-spar-11113-stan-01pro-mini-candy)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11113-STAN-01>Pro Mini Candy
 
-* [PROJ-SPAR-11113-STAN-01>Sparkfun](#proj-spar-11113-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11113-STAN-01
+- Hex ID: PRS11113
+- Name: Pro Mini Candy
+- Description: 
 
-# PROJ-SPAR-11113-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

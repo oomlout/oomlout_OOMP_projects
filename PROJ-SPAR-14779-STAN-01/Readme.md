@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14779-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14779-STAN-01>Sparkfun](#proj-spar-14779-stan-01sparkfun)
+* [PROJ-SPAR-14779-STAN-01>LumiDrive](#proj-spar-14779-stan-01lumidrive)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14779-STAN-01>LumiDrive
 
-* [PROJ-SPAR-14779-STAN-01>Sparkfun](#proj-spar-14779-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14779-STAN-01
+- Hex ID: PRS14779
+- Name: LumiDrive
+- Description: 
 
-# PROJ-SPAR-14779-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

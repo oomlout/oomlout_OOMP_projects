@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17713-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17713-STAN-01>Sparkfun](#proj-spar-17713-stan-01sparkfun)
+* [PROJ-SPAR-17713-STAN-01>MicroMod STM32 Processor](#proj-spar-17713-stan-01micromod-stm32-processor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17713-STAN-01>MicroMod STM32 Processor
 
-* [PROJ-SPAR-17713-STAN-01>Sparkfun](#proj-spar-17713-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17713-STAN-01
+- Hex ID: PRS17713
+- Name: MicroMod STM32 Processor
+- Description: 
 
-# PROJ-SPAR-17713-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

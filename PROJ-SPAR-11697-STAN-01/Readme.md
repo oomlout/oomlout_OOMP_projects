@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11697-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11697-STAN-01>Sparkfun](#proj-spar-11697-stan-01sparkfun)
+* [PROJ-SPAR-11697-STAN-01>XBee Explorer Dongle](#proj-spar-11697-stan-01xbee-explorer-dongle)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11697-STAN-01>XBee Explorer Dongle
 
-* [PROJ-SPAR-11697-STAN-01>Sparkfun](#proj-spar-11697-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11697-STAN-01
+- Hex ID: PRS11697
+- Name: XBee Explorer Dongle
+- Description: 
 
-# PROJ-SPAR-11697-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

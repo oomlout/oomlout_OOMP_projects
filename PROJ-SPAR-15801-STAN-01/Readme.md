@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15801-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15801-STAN-01>Sparkfun](#proj-spar-15801-stan-01sparkfun)
+* [PROJ-SPAR-15801-STAN-01>Power Delivery Board-USB-C](#proj-spar-15801-stan-01power-delivery-board-usb-c)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15801-STAN-01>Power Delivery Board-USB-C
 
-* [PROJ-SPAR-15801-STAN-01>Sparkfun](#proj-spar-15801-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15801-STAN-01
+- Hex ID: PRS15801
+- Name: Power Delivery Board-USB-C
+- Description: 
 
-# PROJ-SPAR-15801-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

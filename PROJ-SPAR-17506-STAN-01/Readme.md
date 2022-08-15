@@ -1,20 +1,19 @@
 
-PROJ-SPAR-17506-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17506-STAN-01>Sparkfun](#proj-spar-17506-stan-01sparkfun)
+* [PROJ-SPAR-17506-STAN-01>SparkFun LoRa Thing Plus expLoRaBLE](#proj-spar-17506-stan-01sparkfun-lora-thing-plus-explorable)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17506-STAN-01>SparkFun LoRa Thing Plus expLoRaBLE
 
-* [PROJ-SPAR-17506-STAN-01>Sparkfun](#proj-spar-17506-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-17506-STAN-01>Sparkfun
+- ID: PROJ-SPAR-17506-STAN-01
+- Hex ID: PRS17506
+- Name: SparkFun LoRa Thing Plus expLoRaBLE
+- Description: 
 
 ## Tags
 

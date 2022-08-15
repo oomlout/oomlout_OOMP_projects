@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12702-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12702-STAN-01>Sparkfun](#proj-spar-12702-stan-01sparkfun)
+* [PROJ-SPAR-12702-STAN-01>Solderable Breadboard Mini](#proj-spar-12702-stan-01solderable-breadboard-mini)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12702-STAN-01>Solderable Breadboard Mini
 
-* [PROJ-SPAR-12702-STAN-01>Sparkfun](#proj-spar-12702-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12702-STAN-01
+- Hex ID: PRS12702
+- Name: Solderable Breadboard Mini
+- Description: 
 
-# PROJ-SPAR-12702-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

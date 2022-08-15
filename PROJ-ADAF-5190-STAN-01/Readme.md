@@ -1,20 +1,34 @@
 
-PROJ-ADAF-5190-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-5190-STAN-01>Adafruit](#proj-adaf-5190-stan-01adafruit)
+* [PROJ-ADAF-5190-STAN-01>Adafruit SCD 4x PCB](#proj-adaf-5190-stan-01adafruit-scd-4x-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-5190-STAN-01>Adafruit SCD 4x PCB
 
-Contents
-========
+- ID: PROJ-ADAF-5190-STAN-01
+- Hex ID: PRA5190
+- Name: Adafruit SCD 4x PCB
+- Description: 
 
-* [PROJ-ADAF-5190-STAN-01>Adafruit](#proj-adaf-5190-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-5190-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 5190
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit SCD 4x PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-SCD-4x-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit SCD 4x PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-SCD-4x-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5190
+
+
+
+[im]: eagleImage_450.png

@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9966-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9966-STAN-01>Sparkfun](#proj-spar-9966-stan-01sparkfun)
+* [PROJ-SPAR-9966-STAN-01>USB miniB Breakout](#proj-spar-9966-stan-01usb-minib-breakout)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9966-STAN-01>USB miniB Breakout
 
-* [PROJ-SPAR-9966-STAN-01>Sparkfun](#proj-spar-9966-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9966-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9966-STAN-01
+- Hex ID: PRS9966
+- Name: USB miniB Breakout
+- Description: 
 
 ## Tags
 

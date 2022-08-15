@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13944-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13944-STAN-01>Sparkfun](#proj-spar-13944-stan-01sparkfun)
+* [PROJ-SPAR-13944-STAN-01>9DOF Sensor Stick](#proj-spar-13944-stan-019dof-sensor-stick)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13944-STAN-01>9DOF Sensor Stick
 
-* [PROJ-SPAR-13944-STAN-01>Sparkfun](#proj-spar-13944-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13944-STAN-01
+- Hex ID: PRS13944
+- Name: 9DOF Sensor Stick
+- Description: 
 
-# PROJ-SPAR-13944-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

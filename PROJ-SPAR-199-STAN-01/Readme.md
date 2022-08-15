@@ -1,20 +1,24 @@
 
-PROJ-SPAR-199-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-199-STAN-01>Sparkfun](#proj-spar-199-stan-01sparkfun)
+* [PROJ-SPAR-199-STAN-01>USB Serial GPIO Breakout-CP2103](#proj-spar-199-stan-01usb-serial-gpio-breakout-cp2103)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-199-STAN-01>USB Serial GPIO Breakout-CP2103
 
-* [PROJ-SPAR-199-STAN-01>Sparkfun](#proj-spar-199-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-199-STAN-01
+- Hex ID: PRS199
+- Name: USB Serial GPIO Breakout-CP2103
+- Description: 
 
-# PROJ-SPAR-199-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

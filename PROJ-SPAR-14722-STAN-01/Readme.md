@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14722-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14722-STAN-01>Sparkfun](#proj-spar-14722-stan-01sparkfun)
+* [PROJ-SPAR-14722-STAN-01>Qwiic Distance VL53L1X](#proj-spar-14722-stan-01qwiic-distance-vl53l1x)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14722-STAN-01>Qwiic Distance VL53L1X
 
-* [PROJ-SPAR-14722-STAN-01>Sparkfun](#proj-spar-14722-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14722-STAN-01
+- Hex ID: PRS14722
+- Name: Qwiic Distance VL53L1X
+- Description: 
 
-# PROJ-SPAR-14722-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

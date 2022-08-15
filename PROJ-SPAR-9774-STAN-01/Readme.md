@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9774-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9774-STAN-01>Sparkfun](#proj-spar-9774-stan-01sparkfun)
+* [PROJ-SPAR-9774-STAN-01>Benchtop Power Board Kit](#proj-spar-9774-stan-01benchtop-power-board-kit)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9774-STAN-01>Benchtop Power Board Kit
 
-* [PROJ-SPAR-9774-STAN-01>Sparkfun](#proj-spar-9774-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9774-STAN-01
+- Hex ID: PRS9774
+- Name: Benchtop Power Board Kit
+- Description: 
 
-# PROJ-SPAR-9774-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

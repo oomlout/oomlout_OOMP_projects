@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14968-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14968-STAN-01>Sparkfun](#proj-spar-14968-stan-01sparkfun)
+* [PROJ-SPAR-14968-STAN-01>gator control](#proj-spar-14968-stan-01gator-control)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14968-STAN-01>gator control
 
-* [PROJ-SPAR-14968-STAN-01>Sparkfun](#proj-spar-14968-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14968-STAN-01
+- Hex ID: PRS14968
+- Name: gator control
+- Description: 
 
-# PROJ-SPAR-14968-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

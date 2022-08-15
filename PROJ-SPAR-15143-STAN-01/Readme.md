@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15143-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15143-STAN-01>Sparkfun](#proj-spar-15143-stan-01sparkfun)
+* [PROJ-SPAR-15143-STAN-01>LCD TFT Breakout 1in8 128x160](#proj-spar-15143-stan-01lcd-tft-breakout-1in8-128x160)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15143-STAN-01>LCD TFT Breakout 1in8 128x160
 
-* [PROJ-SPAR-15143-STAN-01>Sparkfun](#proj-spar-15143-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15143-STAN-01
+- Hex ID: PRS15143
+- Name: LCD TFT Breakout 1in8 128x160
+- Description: 
 
-# PROJ-SPAR-15143-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

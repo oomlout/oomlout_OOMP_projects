@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12650-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12650-STAN-01>Sparkfun](#proj-spar-12650-stan-01sparkfun)
+* [PROJ-SPAR-12650-STAN-01>AD8232 Heart Rate Monitor](#proj-spar-12650-stan-01ad8232-heart-rate-monitor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12650-STAN-01>AD8232 Heart Rate Monitor
 
-* [PROJ-SPAR-12650-STAN-01>Sparkfun](#proj-spar-12650-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12650-STAN-01
+- Hex ID: PRS12650
+- Name: AD8232 Heart Rate Monitor
+- Description: 
 
-# PROJ-SPAR-12650-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

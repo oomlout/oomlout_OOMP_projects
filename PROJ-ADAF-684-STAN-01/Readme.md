@@ -1,20 +1,29 @@
 
-PROJ-ADAF-684-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-684-STAN-01>Adafruit](#proj-adaf-684-stan-01adafruit)
+* [PROJ-ADAF-684-STAN-01>Adafruit 96x64 RGB OLED Breakout PCB](#proj-adaf-684-stan-01adafruit-96x64-rgb-oled-breakout-pcb)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-684-STAN-01>Adafruit 96x64 RGB OLED Breakout PCB
 
-Contents
-========
+- ID: PROJ-ADAF-684-STAN-01
+- Hex ID: PRA684
+- Name: Adafruit 96x64 RGB OLED Breakout PCB
+- Description: 
 
-* [PROJ-ADAF-684-STAN-01>Adafruit](#proj-adaf-684-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-684-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -24,6 +33,10 @@ Contents
 - oompColor: 684
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit 96x64 RGB OLED Breakout PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-96x64-RGB-OLED-Breakout-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit 96x64 RGB OLED Breakout PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/684
+
+
+
+[im]: eagleImage_450.png

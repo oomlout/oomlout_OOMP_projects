@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15423-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15423-STAN-01>Sparkfun](#proj-spar-15423-stan-01sparkfun)
+* [PROJ-SPAR-15423-STAN-01>SparkFun Qwiic Micro SAMD21E](#proj-spar-15423-stan-01sparkfun-qwiic-micro-samd21e)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15423-STAN-01>SparkFun Qwiic Micro SAMD21E
 
-* [PROJ-SPAR-15423-STAN-01>Sparkfun](#proj-spar-15423-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15423-STAN-01
+- Hex ID: PRS15423
+- Name: SparkFun Qwiic Micro SAMD21E
+- Description: 
 
-# PROJ-SPAR-15423-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

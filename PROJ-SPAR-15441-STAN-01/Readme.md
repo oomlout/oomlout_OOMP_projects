@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15441-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15441-STAN-01>Sparkfun](#proj-spar-15441-stan-01sparkfun)
+* [PROJ-SPAR-15441-STAN-01>SparkFun AS3935 Lightning Detector](#proj-spar-15441-stan-01sparkfun-as3935-lightning-detector)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15441-STAN-01>SparkFun AS3935 Lightning Detector
 
-* [PROJ-SPAR-15441-STAN-01>Sparkfun](#proj-spar-15441-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15441-STAN-01
+- Hex ID: PRS15441
+- Name: SparkFun AS3935 Lightning Detector
+- Description: 
 
-# PROJ-SPAR-15441-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

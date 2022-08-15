@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18020-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18020-STAN-01>Sparkfun](#proj-spar-18020-stan-01sparkfun)
+* [PROJ-SPAR-18020-STAN-01>SparkFun Qwiic 6DoF LSM6DSO](#proj-spar-18020-stan-01sparkfun-qwiic-6dof-lsm6dso)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18020-STAN-01>SparkFun Qwiic 6DoF LSM6DSO
 
-* [PROJ-SPAR-18020-STAN-01>Sparkfun](#proj-spar-18020-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18020-STAN-01
+- Hex ID: PRS18020
+- Name: SparkFun Qwiic 6DoF LSM6DSO
+- Description: 
 
-# PROJ-SPAR-18020-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

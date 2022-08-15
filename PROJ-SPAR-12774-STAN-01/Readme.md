@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12774-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12774-STAN-01>Sparkfun](#proj-spar-12774-stan-01sparkfun)
+* [PROJ-SPAR-12774-STAN-01>BeagleBone Black Proto Cape](#proj-spar-12774-stan-01beaglebone-black-proto-cape)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12774-STAN-01>BeagleBone Black Proto Cape
 
-* [PROJ-SPAR-12774-STAN-01>Sparkfun](#proj-spar-12774-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12774-STAN-01
+- Hex ID: PRS12774
+- Name: BeagleBone Black Proto Cape
+- Description: 
 
-# PROJ-SPAR-12774-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

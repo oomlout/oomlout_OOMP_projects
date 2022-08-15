@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14571-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14571-STAN-01>Sparkfun](#proj-spar-14571-stan-01sparkfun)
+* [PROJ-SPAR-14571-STAN-01>Qwiic Magnetometer MLX90393](#proj-spar-14571-stan-01qwiic-magnetometer-mlx90393)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14571-STAN-01>Qwiic Magnetometer MLX90393
 
-* [PROJ-SPAR-14571-STAN-01>Sparkfun](#proj-spar-14571-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14571-STAN-01
+- Hex ID: PRS14571
+- Name: Qwiic Magnetometer MLX90393
+- Description: 
 
-# PROJ-SPAR-14571-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

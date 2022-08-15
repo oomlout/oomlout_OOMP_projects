@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9454-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9454-STAN-01>Sparkfun](#proj-spar-9454-stan-01sparkfun)
+* [PROJ-SPAR-9454-STAN-01>QRE1113 Line Sensor Breakout-Digital](#proj-spar-9454-stan-01qre1113-line-sensor-breakout-digital)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9454-STAN-01>QRE1113 Line Sensor Breakout-Digital
 
-* [PROJ-SPAR-9454-STAN-01>Sparkfun](#proj-spar-9454-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9454-STAN-01
+- Hex ID: PRS9454
+- Name: QRE1113 Line Sensor Breakout-Digital
+- Description: 
 
-# PROJ-SPAR-9454-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

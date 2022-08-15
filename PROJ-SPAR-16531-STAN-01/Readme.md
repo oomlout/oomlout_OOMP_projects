@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16531-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16531-STAN-01>Sparkfun](#proj-spar-16531-stan-01sparkfun)
+* [PROJ-SPAR-16531-STAN-01>SparkFun Air Quality Sensor-SGP30](#proj-spar-16531-stan-01sparkfun-air-quality-sensor-sgp30)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16531-STAN-01>SparkFun Air Quality Sensor-SGP30
 
-* [PROJ-SPAR-16531-STAN-01>Sparkfun](#proj-spar-16531-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16531-STAN-01
+- Hex ID: PRS16531
+- Name: SparkFun Air Quality Sensor-SGP30
+- Description: 
 
-# PROJ-SPAR-16531-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

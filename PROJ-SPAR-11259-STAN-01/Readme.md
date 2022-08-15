@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11259-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11259-STAN-01>Sparkfun](#proj-spar-11259-stan-01sparkfun)
+* [PROJ-SPAR-11259-STAN-01>LilyPad Power Supply](#proj-spar-11259-stan-01lilypad-power-supply)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11259-STAN-01>LilyPad Power Supply
 
-* [PROJ-SPAR-11259-STAN-01>Sparkfun](#proj-spar-11259-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11259-STAN-01
+- Hex ID: PRS11259
+- Name: LilyPad Power Supply
+- Description: 
 
-# PROJ-SPAR-11259-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

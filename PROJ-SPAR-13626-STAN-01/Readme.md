@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13626-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13626-STAN-01>Sparkfun](#proj-spar-13626-stan-01sparkfun)
+* [PROJ-SPAR-13626-STAN-01>Photon Battery Shield](#proj-spar-13626-stan-01photon-battery-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13626-STAN-01>Photon Battery Shield
 
-* [PROJ-SPAR-13626-STAN-01>Sparkfun](#proj-spar-13626-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13626-STAN-01
+- Hex ID: PRS13626
+- Name: Photon Battery Shield
+- Description: 
 
-# PROJ-SPAR-13626-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

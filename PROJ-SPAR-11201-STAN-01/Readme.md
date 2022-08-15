@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11201-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11201-STAN-01>Sparkfun](#proj-spar-11201-stan-01sparkfun)
+* [PROJ-SPAR-11201-STAN-01>ProtoSnap-LilyPad Dev Simple](#proj-spar-11201-stan-01protosnap-lilypad-dev-simple)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11201-STAN-01>ProtoSnap-LilyPad Dev Simple
 
-* [PROJ-SPAR-11201-STAN-01>Sparkfun](#proj-spar-11201-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11201-STAN-01
+- Hex ID: PRS11201
+- Name: ProtoSnap-LilyPad Dev Simple
+- Description: 
 
-# PROJ-SPAR-11201-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

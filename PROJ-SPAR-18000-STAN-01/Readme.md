@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18000-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18000-STAN-01>Sparkfun](#proj-spar-18000-stan-01sparkfun)
+* [PROJ-SPAR-18000-STAN-01>QwiicBus MidPoint](#proj-spar-18000-stan-01qwiicbus-midpoint)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18000-STAN-01>QwiicBus MidPoint
 
-* [PROJ-SPAR-18000-STAN-01>Sparkfun](#proj-spar-18000-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18000-STAN-01
+- Hex ID: PRS18000
+- Name: QwiicBus MidPoint
+- Description: 
 
-# PROJ-SPAR-18000-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

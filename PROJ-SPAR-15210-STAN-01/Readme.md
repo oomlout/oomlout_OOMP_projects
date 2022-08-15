@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15210-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15210-STAN-01>Sparkfun](#proj-spar-15210-stan-01sparkfun)
+* [PROJ-SPAR-15210-STAN-01>SparkFun u-blox SAM-M8Q](#proj-spar-15210-stan-01sparkfun-u-blox-sam-m8q)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15210-STAN-01>SparkFun u-blox SAM-M8Q
 
-* [PROJ-SPAR-15210-STAN-01>Sparkfun](#proj-spar-15210-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15210-STAN-01
+- Hex ID: PRS15210
+- Name: SparkFun u-blox SAM-M8Q
+- Description: 
 
-# PROJ-SPAR-15210-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

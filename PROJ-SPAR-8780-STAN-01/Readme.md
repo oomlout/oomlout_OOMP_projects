@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8780-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8780-STAN-01>Sparkfun](#proj-spar-8780-stan-01sparkfun)
+* [PROJ-SPAR-8780-STAN-01>RS232 Shifter](#proj-spar-8780-stan-01rs232-shifter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8780-STAN-01>RS232 Shifter
 
-* [PROJ-SPAR-8780-STAN-01>Sparkfun](#proj-spar-8780-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8780-STAN-01
+- Hex ID: PRS8780
+- Name: RS232 Shifter
+- Description: 
 
-# PROJ-SPAR-8780-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

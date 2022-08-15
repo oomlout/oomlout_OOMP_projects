@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13741-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13741-STAN-01>Sparkfun](#proj-spar-13741-stan-01sparkfun)
+* [PROJ-SPAR-13741-STAN-01>RedStick](#proj-spar-13741-stan-01redstick)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13741-STAN-01>RedStick
 
-* [PROJ-SPAR-13741-STAN-01>Sparkfun](#proj-spar-13741-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13741-STAN-01
+- Hex ID: PRS13741
+- Name: RedStick
+- Description: 
 
-# PROJ-SPAR-13741-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

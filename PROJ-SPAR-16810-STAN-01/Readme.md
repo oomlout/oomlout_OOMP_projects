@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16810-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16810-STAN-01>Sparkfun](#proj-spar-16810-stan-01sparkfun)
+* [PROJ-SPAR-16810-STAN-01>Qwiic Dual Solid State Relay](#proj-spar-16810-stan-01qwiic-dual-solid-state-relay)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16810-STAN-01>Qwiic Dual Solid State Relay
 
-* [PROJ-SPAR-16810-STAN-01>Sparkfun](#proj-spar-16810-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16810-STAN-01
+- Hex ID: PRS16810
+- Name: Qwiic Dual Solid State Relay
+- Description: 
 
-# PROJ-SPAR-16810-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

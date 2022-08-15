@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13287-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13287-STAN-01>Sparkfun](#proj-spar-13287-stan-01sparkfun)
+* [PROJ-SPAR-13287-STAN-01>ESP8266 WiFi Shield](#proj-spar-13287-stan-01esp8266-wifi-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13287-STAN-01>ESP8266 WiFi Shield
 
-* [PROJ-SPAR-13287-STAN-01>Sparkfun](#proj-spar-13287-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13287-STAN-01
+- Hex ID: PRS13287
+- Name: ESP8266 WiFi Shield
+- Description: 
 
-# PROJ-SPAR-13287-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

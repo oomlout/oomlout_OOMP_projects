@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16828-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16828-STAN-01>Sparkfun](#proj-spar-16828-stan-01sparkfun)
+* [PROJ-SPAR-16828-STAN-01>ArtemisDevKit](#proj-spar-16828-stan-01artemisdevkit)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16828-STAN-01>ArtemisDevKit
 
-* [PROJ-SPAR-16828-STAN-01>Sparkfun](#proj-spar-16828-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16828-STAN-01
+- Hex ID: PRS16828
+- Name: ArtemisDevKit
+- Description: 
 
-# PROJ-SPAR-16828-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

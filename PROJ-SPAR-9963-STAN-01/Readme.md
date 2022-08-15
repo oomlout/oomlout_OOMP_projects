@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9963-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9963-STAN-01>Sparkfun](#proj-spar-9963-stan-01sparkfun)
+* [PROJ-SPAR-9963-STAN-01>RFID USB Reader](#proj-spar-9963-stan-01rfid-usb-reader)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9963-STAN-01>RFID USB Reader
 
-* [PROJ-SPAR-9963-STAN-01>Sparkfun](#proj-spar-9963-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9963-STAN-01
+- Hex ID: PRS9963
+- Name: RFID USB Reader
+- Description: 
 
-# PROJ-SPAR-9963-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

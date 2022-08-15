@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11590-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11590-STAN-01>Sparkfun](#proj-spar-11590-stan-01sparkfun)
+* [PROJ-SPAR-11590-STAN-01>LilyTwinkle ProtoSnap](#proj-spar-11590-stan-01lilytwinkle-protosnap)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11590-STAN-01>LilyTwinkle ProtoSnap
 
-* [PROJ-SPAR-11590-STAN-01>Sparkfun](#proj-spar-11590-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11590-STAN-01
+- Hex ID: PRS11590
+- Name: LilyTwinkle ProtoSnap
+- Description: 
 
-# PROJ-SPAR-11590-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

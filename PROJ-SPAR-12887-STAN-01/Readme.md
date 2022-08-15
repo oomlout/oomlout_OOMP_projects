@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12887-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12887-STAN-01>Sparkfun](#proj-spar-12887-stan-01sparkfun)
+* [PROJ-SPAR-12887-STAN-01>Electric Imp Shield](#proj-spar-12887-stan-01electric-imp-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12887-STAN-01>Electric Imp Shield
 
-* [PROJ-SPAR-12887-STAN-01>Sparkfun](#proj-spar-12887-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12887-STAN-01
+- Hex ID: PRS12887
+- Name: Electric Imp Shield
+- Description: 
 
-# PROJ-SPAR-12887-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

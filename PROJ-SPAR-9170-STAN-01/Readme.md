@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9170-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9170-STAN-01>Sparkfun](#proj-spar-9170-stan-01sparkfun)
+* [PROJ-SPAR-9170-STAN-01>Touch Screen Connector Breakout-Nintendo DS](#proj-spar-9170-stan-01touch-screen-connector-breakout-nintendo-ds)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9170-STAN-01>Touch Screen Connector Breakout-Nintendo DS
 
-* [PROJ-SPAR-9170-STAN-01>Sparkfun](#proj-spar-9170-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9170-STAN-01
+- Hex ID: PRS9170
+- Name: Touch Screen Connector Breakout-Nintendo DS
+- Description: 
 
-# PROJ-SPAR-9170-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

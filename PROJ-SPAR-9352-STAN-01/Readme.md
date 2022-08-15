@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9352-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9352-STAN-01>Sparkfun](#proj-spar-9352-stan-01sparkfun)
+* [PROJ-SPAR-9352-STAN-01>GraphicLCD Serial Backpack](#proj-spar-9352-stan-01graphiclcd-serial-backpack)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9352-STAN-01>GraphicLCD Serial Backpack
 
-* [PROJ-SPAR-9352-STAN-01>Sparkfun](#proj-spar-9352-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9352-STAN-01
+- Hex ID: PRS9352
+- Name: GraphicLCD Serial Backpack
+- Description: 
 
-# PROJ-SPAR-9352-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

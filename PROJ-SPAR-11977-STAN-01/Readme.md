@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11977-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11977-STAN-01>Sparkfun](#proj-spar-11977-stan-01sparkfun)
+* [PROJ-SPAR-11977-STAN-01>ITG-3200 Breakout](#proj-spar-11977-stan-01itg-3200-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11977-STAN-01>ITG-3200 Breakout
 
-* [PROJ-SPAR-11977-STAN-01>Sparkfun](#proj-spar-11977-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11977-STAN-01
+- Hex ID: PRS11977
+- Name: ITG-3200 Breakout
+- Description: 
 
-# PROJ-SPAR-11977-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

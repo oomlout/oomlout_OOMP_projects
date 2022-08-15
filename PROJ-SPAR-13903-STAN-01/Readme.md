@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13903-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13903-STAN-01>Sparkfun](#proj-spar-13903-stan-01sparkfun)
+* [PROJ-SPAR-13903-STAN-01>LilyPad LED Rainbow](#proj-spar-13903-stan-01lilypad-led-rainbow)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13903-STAN-01>LilyPad LED Rainbow
 
-* [PROJ-SPAR-13903-STAN-01>Sparkfun](#proj-spar-13903-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13903-STAN-01
+- Hex ID: PRS13903
+- Name: LilyPad LED Rainbow
+- Description: 
 
-# PROJ-SPAR-13903-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

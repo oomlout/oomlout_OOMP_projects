@@ -1,20 +1,34 @@
 
-PROJ-ADAF-3885-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-3885-STAN-01>Adafruit](#proj-adaf-3885-stan-01adafruit)
+* [PROJ-ADAF-3885-STAN-01>Adafruit STEMMA Speaker PCB](#proj-adaf-3885-stan-01adafruit-stemma-speaker-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-3885-STAN-01>Adafruit STEMMA Speaker PCB
 
-Contents
-========
+- ID: PROJ-ADAF-3885-STAN-01
+- Hex ID: PRA3885
+- Name: Adafruit STEMMA Speaker PCB
+- Description: 
 
-* [PROJ-ADAF-3885-STAN-01>Adafruit](#proj-adaf-3885-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-3885-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 3885
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit STEMMA Speaker PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-STEMMA-Speaker-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit STEMMA Speaker PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3885
+
+
+
+[im]: eagleImage_450.png

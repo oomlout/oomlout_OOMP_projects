@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9946-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9946-STAN-01>Sparkfun](#proj-spar-9946-stan-01sparkfun)
+* [PROJ-SPAR-9946-STAN-01>Energy Harvester Breakout-LTC3588](#proj-spar-9946-stan-01energy-harvester-breakout-ltc3588)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9946-STAN-01>Energy Harvester Breakout-LTC3588
 
-* [PROJ-SPAR-9946-STAN-01>Sparkfun](#proj-spar-9946-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9946-STAN-01
+- Hex ID: PRS9946
+- Name: Energy Harvester Breakout-LTC3588
+- Description: 
 
-# PROJ-SPAR-9946-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

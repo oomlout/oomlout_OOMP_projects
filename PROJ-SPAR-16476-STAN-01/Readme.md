@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16476-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16476-STAN-01>Sparkfun](#proj-spar-16476-stan-01sparkfun)
+* [PROJ-SPAR-16476-STAN-01>MicroPressure Sensor](#proj-spar-16476-stan-01micropressure-sensor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16476-STAN-01>MicroPressure Sensor
 
-* [PROJ-SPAR-16476-STAN-01>Sparkfun](#proj-spar-16476-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16476-STAN-01
+- Hex ID: PRS16476
+- Name: MicroPressure Sensor
+- Description: 
 
-# PROJ-SPAR-16476-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15435-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15435-STAN-01>Sparkfun](#proj-spar-15435-stan-01sparkfun)
+* [PROJ-SPAR-15435-STAN-01>XBee3 Thing Plus](#proj-spar-15435-stan-01xbee3-thing-plus)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15435-STAN-01>XBee3 Thing Plus
 
-* [PROJ-SPAR-15435-STAN-01>Sparkfun](#proj-spar-15435-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15435-STAN-01
+- Hex ID: PRS15435
+- Name: XBee3 Thing Plus
+- Description: 
 
-# PROJ-SPAR-15435-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

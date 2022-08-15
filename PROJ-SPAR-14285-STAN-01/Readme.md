@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14285-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14285-STAN-01>Sparkfun](#proj-spar-14285-stan-01sparkfun)
+* [PROJ-SPAR-14285-STAN-01>Wireless Motor Driver Shield](#proj-spar-14285-stan-01wireless-motor-driver-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14285-STAN-01>Wireless Motor Driver Shield
 
-* [PROJ-SPAR-14285-STAN-01>Sparkfun](#proj-spar-14285-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14285-STAN-01
+- Hex ID: PRS14285
+- Name: Wireless Motor Driver Shield
+- Description: 
 
-# PROJ-SPAR-14285-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15853-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15853-STAN-01>Sparkfun](#proj-spar-15853-stan-01sparkfun)
+* [PROJ-SPAR-15853-STAN-01>Qwiic FM Transceiver Si4721](#proj-spar-15853-stan-01qwiic-fm-transceiver-si4721)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15853-STAN-01>Qwiic FM Transceiver Si4721
 
-* [PROJ-SPAR-15853-STAN-01>Sparkfun](#proj-spar-15853-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15853-STAN-01
+- Hex ID: PRS15853
+- Name: Qwiic FM Transceiver Si4721
+- Description: 
 
-# PROJ-SPAR-15853-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

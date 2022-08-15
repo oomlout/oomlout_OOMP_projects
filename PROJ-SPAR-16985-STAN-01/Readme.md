@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16985-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16985-STAN-01>Sparkfun](#proj-spar-16985-stan-01sparkfun)
+* [PROJ-SPAR-16985-STAN-01>MicroMod Input and Display Carrier](#proj-spar-16985-stan-01micromod-input-and-display-carrier)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16985-STAN-01>MicroMod Input and Display Carrier
 
-* [PROJ-SPAR-16985-STAN-01>Sparkfun](#proj-spar-16985-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16985-STAN-01
+- Hex ID: PRS16985
+- Name: MicroMod Input and Display Carrier
+- Description: 
 
-# PROJ-SPAR-16985-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

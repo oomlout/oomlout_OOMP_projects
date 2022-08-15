@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9607-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9607-STAN-01>Sparkfun](#proj-spar-9607-stan-01sparkfun)
+* [PROJ-SPAR-9607-STAN-01>SM5100B Cellular Shield](#proj-spar-9607-stan-01sm5100b-cellular-shield)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9607-STAN-01>SM5100B Cellular Shield
 
-* [PROJ-SPAR-9607-STAN-01>Sparkfun](#proj-spar-9607-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9607-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9607-STAN-01
+- Hex ID: PRS9607
+- Name: SM5100B Cellular Shield
+- Description: 
 
 ## Tags
 

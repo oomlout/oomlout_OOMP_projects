@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14809-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14809-STAN-01>Sparkfun](#proj-spar-14809-stan-01sparkfun)
+* [PROJ-SPAR-14809-STAN-01>I2S Audio Breakout](#proj-spar-14809-stan-01i2s-audio-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14809-STAN-01>I2S Audio Breakout
 
-* [PROJ-SPAR-14809-STAN-01>Sparkfun](#proj-spar-14809-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14809-STAN-01
+- Hex ID: PRS14809
+- Name: I2S Audio Breakout
+- Description: 
 
-# PROJ-SPAR-14809-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

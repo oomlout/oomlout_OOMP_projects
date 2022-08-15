@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16988-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16988-STAN-01>Sparkfun](#proj-spar-16988-stan-01sparkfun)
+* [PROJ-SPAR-16988-STAN-01>QwiicBus EndPoint](#proj-spar-16988-stan-01qwiicbus-endpoint)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16988-STAN-01>QwiicBus EndPoint
 
-* [PROJ-SPAR-16988-STAN-01>Sparkfun](#proj-spar-16988-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16988-STAN-01
+- Hex ID: PRS16988
+- Name: QwiicBus EndPoint
+- Description: 
 
-# PROJ-SPAR-16988-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

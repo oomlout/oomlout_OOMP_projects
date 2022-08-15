@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13743-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13743-STAN-01>Sparkfun](#proj-spar-13743-stan-01sparkfun)
+* [PROJ-SPAR-13743-STAN-01>Shifting microSD](#proj-spar-13743-stan-01shifting-microsd)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13743-STAN-01>Shifting microSD
 
-* [PROJ-SPAR-13743-STAN-01>Sparkfun](#proj-spar-13743-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13743-STAN-01
+- Hex ID: PRS13743
+- Name: Shifting microSD
+- Description: 
 
-# PROJ-SPAR-13743-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

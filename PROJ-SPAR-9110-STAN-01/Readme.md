@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9110-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9110-STAN-01>Sparkfun](#proj-spar-9110-stan-01sparkfun)
+* [PROJ-SPAR-9110-STAN-01>Thumb Joystick Breakout](#proj-spar-9110-stan-01thumb-joystick-breakout)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9110-STAN-01>Thumb Joystick Breakout
 
-* [PROJ-SPAR-9110-STAN-01>Sparkfun](#proj-spar-9110-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9110-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9110-STAN-01
+- Hex ID: PRS9110
+- Name: Thumb Joystick Breakout
+- Description: 
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13339-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13339-STAN-01>Sparkfun](#proj-spar-13339-stan-01sparkfun)
+* [PROJ-SPAR-13339-STAN-01>LSM6DS3 Breakout](#proj-spar-13339-stan-01lsm6ds3-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13339-STAN-01>LSM6DS3 Breakout
 
-* [PROJ-SPAR-13339-STAN-01>Sparkfun](#proj-spar-13339-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13339-STAN-01
+- Hex ID: PRS13339
+- Name: LSM6DS3 Breakout
+- Description: 
 
-# PROJ-SPAR-13339-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

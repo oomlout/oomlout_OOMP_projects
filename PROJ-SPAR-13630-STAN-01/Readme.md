@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13630-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13630-STAN-01>Sparkfun](#proj-spar-13630-stan-01sparkfun)
+* [PROJ-SPAR-13630-STAN-01>Photon Weather Shield](#proj-spar-13630-stan-01photon-weather-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13630-STAN-01>Photon Weather Shield
 
-* [PROJ-SPAR-13630-STAN-01>Sparkfun](#proj-spar-13630-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13630-STAN-01
+- Hex ID: PRS13630
+- Name: Photon Weather Shield
+- Description: 
 
-# PROJ-SPAR-13630-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

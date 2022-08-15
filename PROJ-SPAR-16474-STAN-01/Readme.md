@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16474-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16474-STAN-01>Sparkfun](#proj-spar-16474-stan-01sparkfun)
+* [PROJ-SPAR-16474-STAN-01>SparkFun Photodetector Breakout MAX30101 Qwiic](#proj-spar-16474-stan-01sparkfun-photodetector-breakout-max30101-qwiic)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16474-STAN-01>SparkFun Photodetector Breakout MAX30101 Qwiic
 
-* [PROJ-SPAR-16474-STAN-01>Sparkfun](#proj-spar-16474-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16474-STAN-01
+- Hex ID: PRS16474
+- Name: SparkFun Photodetector Breakout MAX30101 Qwiic
+- Description: 
 
-# PROJ-SPAR-16474-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8776-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8776-STAN-01>Sparkfun](#proj-spar-8776-stan-01sparkfun)
+* [PROJ-SPAR-8776-STAN-01>LilyPad Button Board](#proj-spar-8776-stan-01lilypad-button-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8776-STAN-01>LilyPad Button Board
 
-* [PROJ-SPAR-8776-STAN-01>Sparkfun](#proj-spar-8776-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8776-STAN-01
+- Hex ID: PRS8776
+- Name: LilyPad Button Board
+- Description: 
 
-# PROJ-SPAR-8776-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14380-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14380-STAN-01>Sparkfun](#proj-spar-14380-stan-01sparkfun)
+* [PROJ-SPAR-14380-STAN-01>Adjustable Lipo Charger](#proj-spar-14380-stan-01adjustable-lipo-charger)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14380-STAN-01>Adjustable Lipo Charger
 
-* [PROJ-SPAR-14380-STAN-01>Sparkfun](#proj-spar-14380-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14380-STAN-01
+- Hex ID: PRS14380
+- Name: Adjustable Lipo Charger
+- Description: 
 
-# PROJ-SPAR-14380-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

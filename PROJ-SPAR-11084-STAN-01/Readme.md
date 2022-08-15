@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11084-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11084-STAN-01>Sparkfun](#proj-spar-11084-stan-01sparkfun)
+* [PROJ-SPAR-11084-STAN-01>MPL3115A2 Breakout](#proj-spar-11084-stan-01mpl3115a2-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11084-STAN-01>MPL3115A2 Breakout
 
-* [PROJ-SPAR-11084-STAN-01>Sparkfun](#proj-spar-11084-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11084-STAN-01
+- Hex ID: PRS11084
+- Name: MPL3115A2 Breakout
+- Description: 
 
-# PROJ-SPAR-11084-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9964-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9964-STAN-01>Sparkfun](#proj-spar-9964-stan-01sparkfun)
+* [PROJ-SPAR-9964-STAN-01>Electret Microphone Breakout](#proj-spar-9964-stan-01electret-microphone-breakout)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9964-STAN-01>Electret Microphone Breakout
 
-* [PROJ-SPAR-9964-STAN-01>Sparkfun](#proj-spar-9964-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9964-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9964-STAN-01
+- Hex ID: PRS9964
+- Name: Electret Microphone Breakout
+- Description: 
 
 ## Tags
 

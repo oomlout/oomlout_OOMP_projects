@@ -1,20 +1,24 @@
 
-PROJ-SPAR-449-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-449-STAN-01>Sparkfun](#proj-spar-449-stan-01sparkfun)
+* [PROJ-SPAR-449-STAN-01>RS232 Shifter SMD](#proj-spar-449-stan-01rs232-shifter-smd)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-449-STAN-01>RS232 Shifter SMD
 
-* [PROJ-SPAR-449-STAN-01>Sparkfun](#proj-spar-449-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-449-STAN-01
+- Hex ID: PRS449
+- Name: RS232 Shifter SMD
+- Description: 
 
-# PROJ-SPAR-449-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

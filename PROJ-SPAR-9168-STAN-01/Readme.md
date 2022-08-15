@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9168-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9168-STAN-01>Sparkfun](#proj-spar-9168-stan-01sparkfun)
+* [PROJ-SPAR-9168-STAN-01>On Screen Display Breakout-MAX7456](#proj-spar-9168-stan-01on-screen-display-breakout-max7456)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9168-STAN-01>On Screen Display Breakout-MAX7456
 
-* [PROJ-SPAR-9168-STAN-01>Sparkfun](#proj-spar-9168-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9168-STAN-01
+- Hex ID: PRS9168
+- Name: On Screen Display Breakout-MAX7456
+- Description: 
 
-# PROJ-SPAR-9168-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

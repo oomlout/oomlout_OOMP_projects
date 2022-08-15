@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18721-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18721-STAN-01>Sparkfun](#proj-spar-18721-stan-01sparkfun)
+* [PROJ-SPAR-18721-STAN-01>RP2040 mikroBUS Dev Board](#proj-spar-18721-stan-01rp2040-mikrobus-dev-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18721-STAN-01>RP2040 mikroBUS Dev Board
 
-* [PROJ-SPAR-18721-STAN-01>Sparkfun](#proj-spar-18721-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18721-STAN-01
+- Hex ID: PRS18721
+- Name: RP2040 mikroBUS Dev Board
+- Description: 
 
-# PROJ-SPAR-18721-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

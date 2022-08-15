@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13328-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13328-STAN-01>Sparkfun](#proj-spar-13328-stan-01sparkfun)
+* [PROJ-SPAR-13328-STAN-01>Photon Wearable Shield](#proj-spar-13328-stan-01photon-wearable-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13328-STAN-01>Photon Wearable Shield
 
-* [PROJ-SPAR-13328-STAN-01>Sparkfun](#proj-spar-13328-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13328-STAN-01
+- Hex ID: PRS13328
+- Name: Photon Wearable Shield
+- Description: 
 
-# PROJ-SPAR-13328-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

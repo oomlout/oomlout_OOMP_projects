@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13830-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13830-STAN-01>Sparkfun](#proj-spar-13830-stan-01sparkfun)
+* [PROJ-SPAR-13830-STAN-01>USB UART Serial Breakout-CY7C65213](#proj-spar-13830-stan-01usb-uart-serial-breakout-cy7c65213)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13830-STAN-01>USB UART Serial Breakout-CY7C65213
 
-* [PROJ-SPAR-13830-STAN-01>Sparkfun](#proj-spar-13830-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13830-STAN-01
+- Hex ID: PRS13830
+- Name: USB UART Serial Breakout-CY7C65213
+- Description: 
 
-# PROJ-SPAR-13830-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-4097-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-4097-STAN-01>Adafruit](#proj-adaf-4097-stan-01adafruit)
+* [PROJ-ADAF-4097-STAN-01>Adafruit_ADXL343_PCB](#proj-adaf-4097-stan-01adafruit_adxl343_pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-4097-STAN-01>Adafruit_ADXL343_PCB
 
-Contents
-========
+- ID: PROJ-ADAF-4097-STAN-01
+- Hex ID: PRA4097
+- Name: Adafruit_ADXL343_PCB
+- Description: 
 
-* [PROJ-ADAF-4097-STAN-01>Adafruit](#proj-adaf-4097-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-4097-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 4097
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit_ADXL343_PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit_ADXL343_PCB (source licence details in srcLicense.md)
+- oompName: Adafruit_ADXL343_PCB
+- sources: All source files from https://github.com/adafruit/Adafruit_ADXL343_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4097
+
+
+
+[im]: eagleImage_450.png

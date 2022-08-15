@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17047-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17047-STAN-01>Sparkfun](#proj-spar-17047-stan-01sparkfun)
+* [PROJ-SPAR-17047-STAN-01>Qwiic GPIO](#proj-spar-17047-stan-01qwiic-gpio)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17047-STAN-01>Qwiic GPIO
 
-* [PROJ-SPAR-17047-STAN-01>Sparkfun](#proj-spar-17047-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17047-STAN-01
+- Hex ID: PRS17047
+- Name: Qwiic GPIO
+- Description: 
 
-# PROJ-SPAR-17047-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

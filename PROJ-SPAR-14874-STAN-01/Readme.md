@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14874-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14874-STAN-01>Sparkfun](#proj-spar-14874-stan-01sparkfun)
+* [PROJ-SPAR-14874-STAN-01>TSH82 Configurable Op Amp Board](#proj-spar-14874-stan-01tsh82-configurable-op-amp-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14874-STAN-01>TSH82 Configurable Op Amp Board
 
-* [PROJ-SPAR-14874-STAN-01>Sparkfun](#proj-spar-14874-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14874-STAN-01
+- Hex ID: PRS14874
+- Name: TSH82 Configurable Op Amp Board
+- Description: 
 
-# PROJ-SPAR-14874-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14544-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14544-STAN-01>Sparkfun](#proj-spar-14544-stan-01sparkfun)
+* [PROJ-SPAR-14544-STAN-01>Current Sensor Breakout-ACS723-Low Current](#proj-spar-14544-stan-01current-sensor-breakout-acs723-low-current)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14544-STAN-01>Current Sensor Breakout-ACS723-Low Current
 
-* [PROJ-SPAR-14544-STAN-01>Sparkfun](#proj-spar-14544-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14544-STAN-01
+- Hex ID: PRS14544
+- Name: Current Sensor Breakout-ACS723-Low Current
+- Description: 
 
-# PROJ-SPAR-14544-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

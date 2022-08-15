@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11341-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11341-STAN-01>Sparkfun](#proj-spar-11341-stan-01sparkfun)
+* [PROJ-SPAR-11341-STAN-01>Gyro Breakout-LPY503AL](#proj-spar-11341-stan-01gyro-breakout-lpy503al)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11341-STAN-01>Gyro Breakout-LPY503AL
 
-* [PROJ-SPAR-11341-STAN-01>Sparkfun](#proj-spar-11341-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11341-STAN-01
+- Hex ID: PRS11341
+- Name: Gyro Breakout-LPY503AL
+- Description: 
 
-# PROJ-SPAR-11341-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

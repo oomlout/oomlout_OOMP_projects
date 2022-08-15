@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9773-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9773-STAN-01>Sparkfun](#proj-spar-9773-stan-01sparkfun)
+* [PROJ-SPAR-9773-STAN-01>SparkFun-Fuse-Breakout-Board](#proj-spar-9773-stan-01sparkfun-fuse-breakout-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9773-STAN-01>SparkFun-Fuse-Breakout-Board
 
-* [PROJ-SPAR-9773-STAN-01>Sparkfun](#proj-spar-9773-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9773-STAN-01
+- Hex ID: PRS9773
+- Name: SparkFun-Fuse-Breakout-Board
+- Description: 
 
-# PROJ-SPAR-9773-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

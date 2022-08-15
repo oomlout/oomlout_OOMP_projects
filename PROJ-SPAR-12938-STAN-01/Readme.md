@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12938-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12938-STAN-01>Sparkfun](#proj-spar-12938-stan-01sparkfun)
+* [PROJ-SPAR-12938-STAN-01>Si4703 FM Tuner Evaluation Board](#proj-spar-12938-stan-01si4703-fm-tuner-evaluation-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12938-STAN-01>Si4703 FM Tuner Evaluation Board
 
-* [PROJ-SPAR-12938-STAN-01>Sparkfun](#proj-spar-12938-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12938-STAN-01
+- Hex ID: PRS12938
+- Name: Si4703 FM Tuner Evaluation Board
+- Description: 
 
-# PROJ-SPAR-12938-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

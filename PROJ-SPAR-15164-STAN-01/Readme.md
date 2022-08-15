@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15164-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15164-STAN-01>Sparkfun](#proj-spar-15164-stan-01sparkfun)
+* [PROJ-SPAR-15164-STAN-01>Qwiic OpenLog](#proj-spar-15164-stan-01qwiic-openlog)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15164-STAN-01>Qwiic OpenLog
 
-* [PROJ-SPAR-15164-STAN-01>Sparkfun](#proj-spar-15164-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15164-STAN-01
+- Hex ID: PRS15164
+- Name: Qwiic OpenLog
+- Description: 
 
-# PROJ-SPAR-15164-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

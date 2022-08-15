@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15439-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15439-STAN-01>Sparkfun](#proj-spar-15439-stan-01sparkfun)
+* [PROJ-SPAR-15439-STAN-01>PCA9306 Level Translator Breakout](#proj-spar-15439-stan-01pca9306-level-translator-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15439-STAN-01>PCA9306 Level Translator Breakout
 
-* [PROJ-SPAR-15439-STAN-01>Sparkfun](#proj-spar-15439-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15439-STAN-01
+- Hex ID: PRS15439
+- Name: PCA9306 Level Translator Breakout
+- Description: 
 
-# PROJ-SPAR-15439-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

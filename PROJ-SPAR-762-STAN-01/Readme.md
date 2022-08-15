@@ -1,20 +1,24 @@
 
-PROJ-SPAR-762-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-762-STAN-01>Sparkfun](#proj-spar-762-stan-01sparkfun)
+* [PROJ-SPAR-762-STAN-01>USB Bit Whacker-18F2553](#proj-spar-762-stan-01usb-bit-whacker-18f2553)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-762-STAN-01>USB Bit Whacker-18F2553
 
-* [PROJ-SPAR-762-STAN-01>Sparkfun](#proj-spar-762-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-762-STAN-01
+- Hex ID: PRS762
+- Name: USB Bit Whacker-18F2553
+- Description: 
 
-# PROJ-SPAR-762-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13963-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13963-STAN-01>Sparkfun](#proj-spar-13963-stan-01sparkfun)
+* [PROJ-SPAR-13963-STAN-01>LIS3DH Breakout](#proj-spar-13963-stan-01lis3dh-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13963-STAN-01>LIS3DH Breakout
 
-* [PROJ-SPAR-13963-STAN-01>Sparkfun](#proj-spar-13963-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13963-STAN-01
+- Hex ID: PRS13963
+- Name: LIS3DH Breakout
+- Description: 
 
-# PROJ-SPAR-13963-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

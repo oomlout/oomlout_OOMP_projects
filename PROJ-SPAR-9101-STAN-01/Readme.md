@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9101-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9101-STAN-01>Sparkfun](#proj-spar-9101-stan-01sparkfun)
+* [PROJ-SPAR-9101-STAN-01>LilyPad Protoboard Large](#proj-spar-9101-stan-01lilypad-protoboard-large)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9101-STAN-01>LilyPad Protoboard Large
 
-* [PROJ-SPAR-9101-STAN-01>Sparkfun](#proj-spar-9101-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9101-STAN-01
+- Hex ID: PRS9101
+- Name: LilyPad Protoboard Large
+- Description: 
 
-# PROJ-SPAR-9101-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

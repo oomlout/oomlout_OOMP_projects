@@ -1,20 +1,24 @@
 
-PROJ-SPAR-7841-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-7841-STAN-01>Sparkfun](#proj-spar-7841-stan-01sparkfun)
+* [PROJ-SPAR-7841-STAN-01>FT245RL Breakout](#proj-spar-7841-stan-01ft245rl-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-7841-STAN-01>FT245RL Breakout
 
-* [PROJ-SPAR-7841-STAN-01>Sparkfun](#proj-spar-7841-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-7841-STAN-01
+- Hex ID: PRS7841
+- Name: FT245RL Breakout
+- Description: 
 
-# PROJ-SPAR-7841-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

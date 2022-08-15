@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18567-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18567-STAN-01>Sparkfun](#proj-spar-18567-stan-01sparkfun)
+* [PROJ-SPAR-18567-STAN-01>WiFi Shield-DA16200](#proj-spar-18567-stan-01wifi-shield-da16200)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18567-STAN-01>WiFi Shield-DA16200
 
-* [PROJ-SPAR-18567-STAN-01>Sparkfun](#proj-spar-18567-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18567-STAN-01
+- Hex ID: PRS18567
+- Name: WiFi Shield-DA16200
+- Description: 
 
-# PROJ-SPAR-18567-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

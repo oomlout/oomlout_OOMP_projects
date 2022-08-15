@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12859-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12859-STAN-01>Sparkfun](#proj-spar-12859-stan-01sparkfun)
+* [PROJ-SPAR-12859-STAN-01>Big Easy Driver](#proj-spar-12859-stan-01big-easy-driver)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12859-STAN-01>Big Easy Driver
 
-* [PROJ-SPAR-12859-STAN-01>Sparkfun](#proj-spar-12859-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12859-STAN-01
+- Hex ID: PRS12859
+- Name: Big Easy Driver
+- Description: 
 
-# PROJ-SPAR-12859-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

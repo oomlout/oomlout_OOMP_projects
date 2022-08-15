@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13230-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13230-STAN-01>Sparkfun](#proj-spar-13230-stan-01sparkfun)
+* [PROJ-SPAR-13230-STAN-01>HX711-Load-Cell-Amplifier](#proj-spar-13230-stan-01hx711-load-cell-amplifier)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13230-STAN-01>HX711-Load-Cell-Amplifier
 
-* [PROJ-SPAR-13230-STAN-01>Sparkfun](#proj-spar-13230-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13230-STAN-01
+- Hex ID: PRS13230
+- Name: HX711-Load-Cell-Amplifier
+- Description: 
 
-# PROJ-SPAR-13230-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

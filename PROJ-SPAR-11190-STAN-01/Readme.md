@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11190-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11190-STAN-01>Sparkfun](#proj-spar-11190-stan-01sparkfun)
+* [PROJ-SPAR-11190-STAN-01>LilyPad Arduino USB](#proj-spar-11190-stan-01lilypad-arduino-usb)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11190-STAN-01>LilyPad Arduino USB
 
-* [PROJ-SPAR-11190-STAN-01>Sparkfun](#proj-spar-11190-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11190-STAN-01
+- Hex ID: PRS11190
+- Name: LilyPad Arduino USB
+- Description: 
 
-# PROJ-SPAR-11190-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

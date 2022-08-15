@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12017-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12017-STAN-01>Sparkfun](#proj-spar-12017-stan-01sparkfun)
+* [PROJ-SPAR-12017-STAN-01>MPR121 Capacitive Touch Keypad](#proj-spar-12017-stan-01mpr121-capacitive-touch-keypad)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12017-STAN-01>MPR121 Capacitive Touch Keypad
 
-* [PROJ-SPAR-12017-STAN-01>Sparkfun](#proj-spar-12017-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12017-STAN-01
+- Hex ID: PRS12017
+- Name: MPR121 Capacitive Touch Keypad
+- Description: 
 
-# PROJ-SPAR-12017-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

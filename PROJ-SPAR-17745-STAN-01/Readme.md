@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17745-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17745-STAN-01>Sparkfun](#proj-spar-17745-stan-01sparkfun)
+* [PROJ-SPAR-17745-STAN-01>SparkFun Thing Plus-RP2040](#proj-spar-17745-stan-01sparkfun-thing-plus-rp2040)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17745-STAN-01>SparkFun Thing Plus-RP2040
 
-* [PROJ-SPAR-17745-STAN-01>Sparkfun](#proj-spar-17745-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17745-STAN-01
+- Hex ID: PRS17745
+- Name: SparkFun Thing Plus-RP2040
+- Description: 
 
-# PROJ-SPAR-17745-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

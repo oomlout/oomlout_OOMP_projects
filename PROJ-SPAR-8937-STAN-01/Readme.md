@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8937-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8937-STAN-01>Sparkfun](#proj-spar-8937-stan-01sparkfun)
+* [PROJ-SPAR-8937-STAN-01>LilyPad XBee](#proj-spar-8937-stan-01lilypad-xbee)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8937-STAN-01>LilyPad XBee
 
-* [PROJ-SPAR-8937-STAN-01>Sparkfun](#proj-spar-8937-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8937-STAN-01
+- Hex ID: PRS8937
+- Name: LilyPad XBee
+- Description: 
 
-# PROJ-SPAR-8937-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

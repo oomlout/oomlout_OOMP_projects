@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15242-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15242-STAN-01>Sparkfun](#proj-spar-15242-stan-01sparkfun)
+* [PROJ-SPAR-15242-STAN-01>Qwiic Scale](#proj-spar-15242-stan-01qwiic-scale)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15242-STAN-01>Qwiic Scale
 
-* [PROJ-SPAR-15242-STAN-01>Sparkfun](#proj-spar-15242-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15242-STAN-01
+- Hex ID: PRS15242
+- Name: Qwiic Scale
+- Description: 
 
-# PROJ-SPAR-15242-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

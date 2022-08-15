@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12651-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12651-STAN-01>Sparkfun](#proj-spar-12651-stan-01sparkfun)
+* [PROJ-SPAR-12651-STAN-01>Digital Sandbox](#proj-spar-12651-stan-01digital-sandbox)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12651-STAN-01>Digital Sandbox
 
-* [PROJ-SPAR-12651-STAN-01>Sparkfun](#proj-spar-12651-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12651-STAN-01
+- Hex ID: PRS12651
+- Name: Digital Sandbox
+- Description: 
 
-# PROJ-SPAR-12651-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11509-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11509-STAN-01>Sparkfun](#proj-spar-11509-stan-01sparkfun)
+* [PROJ-SPAR-11509-STAN-01>Papilio Button LED Wing](#proj-spar-11509-stan-01papilio-button-led-wing)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11509-STAN-01>Papilio Button LED Wing
 
-* [PROJ-SPAR-11509-STAN-01>Sparkfun](#proj-spar-11509-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11509-STAN-01
+- Hex ID: PRS11509
+- Name: Papilio Button LED Wing
+- Description: 
 
-# PROJ-SPAR-11509-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14348-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14348-STAN-01>Sparkfun](#proj-spar-14348-stan-01sparkfun)
+* [PROJ-SPAR-14348-STAN-01>Qwiic BME280 CCS811 Combo](#proj-spar-14348-stan-01qwiic-bme280-ccs811-combo)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14348-STAN-01>Qwiic BME280 CCS811 Combo
 
-* [PROJ-SPAR-14348-STAN-01>Sparkfun](#proj-spar-14348-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14348-STAN-01
+- Hex ID: PRS14348
+- Name: Qwiic BME280 CCS811 Combo
+- Description: 
 
-# PROJ-SPAR-14348-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

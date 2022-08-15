@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13688-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13688-STAN-01>Sparkfun](#proj-spar-13688-stan-01sparkfun)
+* [PROJ-SPAR-13688-STAN-01>MyoWare LED Shield](#proj-spar-13688-stan-01myoware-led-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13688-STAN-01>MyoWare LED Shield
 
-* [PROJ-SPAR-13688-STAN-01>Sparkfun](#proj-spar-13688-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13688-STAN-01
+- Hex ID: PRS13688
+- Name: MyoWare LED Shield
+- Description: 
 
-# PROJ-SPAR-13688-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-114-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-114-STAN-01>Sparkfun](#proj-spar-114-stan-01sparkfun)
+* [PROJ-SPAR-114-STAN-01>Breadboard Power Supply 5V 3.3V](#proj-spar-114-stan-01breadboard-power-supply-5v-33v)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-114-STAN-01>Breadboard Power Supply 5V 3.3V
 
-* [PROJ-SPAR-114-STAN-01>Sparkfun](#proj-spar-114-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-114-STAN-01
+- Hex ID: PRS114
+- Name: Breadboard Power Supply 5V 3.3V
+- Description: 
 
-# PROJ-SPAR-114-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

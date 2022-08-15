@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15295-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15295-STAN-01>Sparkfun](#proj-spar-15295-stan-01sparkfun)
+* [PROJ-SPAR-15295-STAN-01>SparkFun PCB Ruler](#proj-spar-15295-stan-01sparkfun-pcb-ruler)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15295-STAN-01>SparkFun PCB Ruler
 
-* [PROJ-SPAR-15295-STAN-01>Sparkfun](#proj-spar-15295-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15295-STAN-01
+- Hex ID: PRS15295
+- Name: SparkFun PCB Ruler
+- Description: 
 
-# PROJ-SPAR-15295-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

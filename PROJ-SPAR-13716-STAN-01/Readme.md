@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13716-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13716-STAN-01>Sparkfun](#proj-spar-13716-stan-01sparkfun)
+* [PROJ-SPAR-13716-STAN-01>FemtoBuck](#proj-spar-13716-stan-01femtobuck)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13716-STAN-01>FemtoBuck
 
-* [PROJ-SPAR-13716-STAN-01>Sparkfun](#proj-spar-13716-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13716-STAN-01
+- Hex ID: PRS13716
+- Name: FemtoBuck
+- Description: 
 
-# PROJ-SPAR-13716-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

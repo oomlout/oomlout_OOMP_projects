@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9350-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9350-STAN-01>Sparkfun](#proj-spar-9350-stan-01sparkfun)
+* [PROJ-SPAR-9350-STAN-01>LilyPad Slide Switch](#proj-spar-9350-stan-01lilypad-slide-switch)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9350-STAN-01>LilyPad Slide Switch
 
-* [PROJ-SPAR-9350-STAN-01>Sparkfun](#proj-spar-9350-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9350-STAN-01
+- Hex ID: PRS9350
+- Name: LilyPad Slide Switch
+- Description: 
 
-# PROJ-SPAR-9350-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

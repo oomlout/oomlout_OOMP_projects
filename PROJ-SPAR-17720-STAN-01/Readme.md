@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17720-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17720-STAN-01>Sparkfun](#proj-spar-17720-stan-01sparkfun)
+* [PROJ-SPAR-17720-STAN-01>MicroMod Processor-RP2040](#proj-spar-17720-stan-01micromod-processor-rp2040)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17720-STAN-01>MicroMod Processor-RP2040
 
-* [PROJ-SPAR-17720-STAN-01>Sparkfun](#proj-spar-17720-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17720-STAN-01
+- Hex ID: PRS17720
+- Name: MicroMod Processor-RP2040
+- Description: 
 
-# PROJ-SPAR-17720-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14477-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14477-STAN-01>Sparkfun](#proj-spar-14477-stan-01sparkfun)
+* [PROJ-SPAR-14477-STAN-01>Qwiic Shield for Photon](#proj-spar-14477-stan-01qwiic-shield-for-photon)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14477-STAN-01>Qwiic Shield for Photon
 
-* [PROJ-SPAR-14477-STAN-01>Sparkfun](#proj-spar-14477-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14477-STAN-01
+- Hex ID: PRS14477
+- Name: Qwiic Shield for Photon
+- Description: 
 
-# PROJ-SPAR-14477-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

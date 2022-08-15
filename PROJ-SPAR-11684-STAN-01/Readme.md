@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11684-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11684-STAN-01>Sparkfun](#proj-spar-11684-stan-01sparkfun)
+* [PROJ-SPAR-11684-STAN-01>MP3 Breakout-VS1063](#proj-spar-11684-stan-01mp3-breakout-vs1063)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11684-STAN-01>MP3 Breakout-VS1063
 
-* [PROJ-SPAR-11684-STAN-01>Sparkfun](#proj-spar-11684-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11684-STAN-01
+- Hex ID: PRS11684
+- Name: MP3 Breakout-VS1063
+- Description: 
 
-# PROJ-SPAR-11684-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

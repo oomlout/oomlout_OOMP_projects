@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13033-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13033-STAN-01>Sparkfun](#proj-spar-13033-stan-01sparkfun)
+* [PROJ-SPAR-13033-STAN-01>Edison 9DOF Block](#proj-spar-13033-stan-01edison-9dof-block)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13033-STAN-01>Edison 9DOF Block
 
-* [PROJ-SPAR-13033-STAN-01>Sparkfun](#proj-spar-13033-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13033-STAN-01
+- Hex ID: PRS13033
+- Name: Edison 9DOF Block
+- Description: 
 
-# PROJ-SPAR-13033-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

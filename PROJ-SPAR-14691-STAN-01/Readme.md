@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14691-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14691-STAN-01>Sparkfun](#proj-spar-14691-stan-01sparkfun)
+* [PROJ-SPAR-14691-STAN-01>Qwiic Transparent OLED HUD](#proj-spar-14691-stan-01qwiic-transparent-oled-hud)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14691-STAN-01>Qwiic Transparent OLED HUD
 
-* [PROJ-SPAR-14691-STAN-01>Sparkfun](#proj-spar-14691-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14691-STAN-01
+- Hex ID: PRS14691
+- Name: Qwiic Transparent OLED HUD
+- Description: 
 
-# PROJ-SPAR-14691-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

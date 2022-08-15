@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14812-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14812-STAN-01>Sparkfun](#proj-spar-14812-stan-01sparkfun)
+* [PROJ-SPAR-14812-STAN-01>RedBoard Turbo](#proj-spar-14812-stan-01redboard-turbo)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14812-STAN-01>RedBoard Turbo
 
-* [PROJ-SPAR-14812-STAN-01>Sparkfun](#proj-spar-14812-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14812-STAN-01
+- Hex ID: PRS14812
+- Name: RedBoard Turbo
+- Description: 
 
-# PROJ-SPAR-14812-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

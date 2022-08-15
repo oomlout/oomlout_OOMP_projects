@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16475-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16475-STAN-01>Sparkfun](#proj-spar-16475-stan-01sparkfun)
+* [PROJ-SPAR-16475-STAN-01>SparkFun GPS Dead Reckoning PHat ZED-F9R](#proj-spar-16475-stan-01sparkfun-gps-dead-reckoning-phat-zed-f9r)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16475-STAN-01>SparkFun GPS Dead Reckoning PHat ZED-F9R
 
-* [PROJ-SPAR-16475-STAN-01>Sparkfun](#proj-spar-16475-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16475-STAN-01
+- Hex ID: PRS16475
+- Name: SparkFun GPS Dead Reckoning PHat ZED-F9R
+- Description: 
 
-# PROJ-SPAR-16475-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

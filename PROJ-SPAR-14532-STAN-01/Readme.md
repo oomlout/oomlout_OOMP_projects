@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14532-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14532-STAN-01>Sparkfun](#proj-spar-14532-stan-01sparkfun)
+* [PROJ-SPAR-14532-STAN-01>Qwiic Micro OLED](#proj-spar-14532-stan-01qwiic-micro-oled)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14532-STAN-01>Qwiic Micro OLED
 
-* [PROJ-SPAR-14532-STAN-01>Sparkfun](#proj-spar-14532-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14532-STAN-01
+- Hex ID: PRS14532
+- Name: Qwiic Micro OLED
+- Description: 
 
-# PROJ-SPAR-14532-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14965-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14965-STAN-01>Sparkfun](#proj-spar-14965-stan-01sparkfun)
+* [PROJ-SPAR-14965-STAN-01>LuMini 3 Inch](#proj-spar-14965-stan-01lumini-3-inch)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14965-STAN-01>LuMini 3 Inch
 
-* [PROJ-SPAR-14965-STAN-01>Sparkfun](#proj-spar-14965-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14965-STAN-01
+- Hex ID: PRS14965
+- Name: LuMini 3 Inch
+- Description: 
 
-# PROJ-SPAR-14965-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

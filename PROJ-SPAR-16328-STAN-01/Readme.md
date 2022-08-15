@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16328-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16328-STAN-01>Sparkfun](#proj-spar-16328-stan-01sparkfun)
+* [PROJ-SPAR-16328-STAN-01>SparkFun Auto pHAT](#proj-spar-16328-stan-01sparkfun-auto-phat)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16328-STAN-01>SparkFun Auto pHAT
 
-* [PROJ-SPAR-16328-STAN-01>Sparkfun](#proj-spar-16328-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16328-STAN-01
+- Hex ID: PRS16328
+- Name: SparkFun Auto pHAT
+- Description: 
 
-# PROJ-SPAR-16328-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

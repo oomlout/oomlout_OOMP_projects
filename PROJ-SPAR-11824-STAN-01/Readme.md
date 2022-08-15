@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11824-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11824-STAN-01>Sparkfun](#proj-spar-11824-stan-01sparkfun)
+* [PROJ-SPAR-11824-STAN-01>BMP180 Breakout](#proj-spar-11824-stan-01bmp180-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11824-STAN-01>BMP180 Breakout
 
-* [PROJ-SPAR-11824-STAN-01>Sparkfun](#proj-spar-11824-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11824-STAN-01
+- Hex ID: PRS11824
+- Name: BMP180 Breakout
+- Description: 
 
-# PROJ-SPAR-11824-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

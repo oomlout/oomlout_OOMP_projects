@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13006-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13006-STAN-01>Sparkfun](#proj-spar-13006-stan-01sparkfun)
+* [PROJ-SPAR-13006-STAN-01>Decade Resistance Box](#proj-spar-13006-stan-01decade-resistance-box)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13006-STAN-01>Decade Resistance Box
 
-* [PROJ-SPAR-13006-STAN-01>Sparkfun](#proj-spar-13006-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13006-STAN-01
+- Hex ID: PRS13006
+- Name: Decade Resistance Box
+- Description: 
 
-# PROJ-SPAR-13006-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

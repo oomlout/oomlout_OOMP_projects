@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19389-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19389-STAN-01>Sparkfun](#proj-spar-19389-stan-01sparkfun)
+* [PROJ-SPAR-19389-STAN-01>SparkFun Analog MEMS Microphone Breakout SPH8878LR5H-1](#proj-spar-19389-stan-01sparkfun-analog-mems-microphone-breakout-sph8878lr5h-1)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19389-STAN-01>SparkFun Analog MEMS Microphone Breakout SPH8878LR5H-1
 
-* [PROJ-SPAR-19389-STAN-01>Sparkfun](#proj-spar-19389-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19389-STAN-01
+- Hex ID: PRS19389
+- Name: SparkFun Analog MEMS Microphone Breakout SPH8878LR5H-1
+- Description: 
 
-# PROJ-SPAR-19389-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

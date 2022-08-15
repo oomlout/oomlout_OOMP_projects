@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14347-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14347-STAN-01>Sparkfun](#proj-spar-14347-stan-01sparkfun)
+* [PROJ-SPAR-14347-STAN-01>Qwiic Spectral Sensor AS726X](#proj-spar-14347-stan-01qwiic-spectral-sensor-as726x)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14347-STAN-01>Qwiic Spectral Sensor AS726X
 
-* [PROJ-SPAR-14347-STAN-01>Sparkfun](#proj-spar-14347-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14347-STAN-01
+- Hex ID: PRS14347
+- Name: Qwiic Spectral Sensor AS726X
+- Description: 
 
-# PROJ-SPAR-14347-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

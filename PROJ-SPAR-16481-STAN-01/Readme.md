@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16481-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16481-STAN-01>Sparkfun](#proj-spar-16481-stan-01sparkfun)
+* [PROJ-SPAR-16481-STAN-01>Qwiic GPS-RTK2](#proj-spar-16481-stan-01qwiic-gps-rtk2)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16481-STAN-01>Qwiic GPS-RTK2
 
-* [PROJ-SPAR-16481-STAN-01>Sparkfun](#proj-spar-16481-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16481-STAN-01
+- Hex ID: PRS16481
+- Name: Qwiic GPS-RTK2
+- Description: 
 
-# PROJ-SPAR-16481-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

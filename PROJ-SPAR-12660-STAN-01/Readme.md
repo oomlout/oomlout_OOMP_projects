@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12660-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12660-STAN-01>Sparkfun](#proj-spar-12660-stan-01sparkfun)
+* [PROJ-SPAR-12660-STAN-01>MP3 Player Shield](#proj-spar-12660-stan-01mp3-player-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12660-STAN-01>MP3 Player Shield
 
-* [PROJ-SPAR-12660-STAN-01>Sparkfun](#proj-spar-12660-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12660-STAN-01
+- Hex ID: PRS12660
+- Name: MP3 Player Shield
+- Description: 
 
-# PROJ-SPAR-12660-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17156-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17156-STAN-01>Sparkfun](#proj-spar-17156-stan-01sparkfun)
+* [PROJ-SPAR-17156-STAN-01>Qwiic Shield for Teensy Extended](#proj-spar-17156-stan-01qwiic-shield-for-teensy-extended)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17156-STAN-01>Qwiic Shield for Teensy Extended
 
-* [PROJ-SPAR-17156-STAN-01>Sparkfun](#proj-spar-17156-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17156-STAN-01
+- Hex ID: PRS17156
+- Name: Qwiic Shield for Teensy Extended
+- Description: 
 
-# PROJ-SPAR-17156-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14587-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14587-STAN-01>Sparkfun](#proj-spar-14587-stan-01sparkfun)
+* [PROJ-SPAR-14587-STAN-01>Qwiic Accelerometer MMA8452Q](#proj-spar-14587-stan-01qwiic-accelerometer-mma8452q)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14587-STAN-01>Qwiic Accelerometer MMA8452Q
 
-* [PROJ-SPAR-14587-STAN-01>Sparkfun](#proj-spar-14587-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14587-STAN-01
+- Hex ID: PRS14587
+- Name: Qwiic Accelerometer MMA8452Q
+- Description: 
 
-# PROJ-SPAR-14587-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

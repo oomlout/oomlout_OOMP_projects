@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14411-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14411-STAN-01>Sparkfun](#proj-spar-14411-stan-01sparkfun)
+* [PROJ-SPAR-14411-STAN-01>LiPo Charger Booster 5V 1A](#proj-spar-14411-stan-01lipo-charger-booster-5v-1a)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14411-STAN-01>LiPo Charger Booster 5V 1A
 
-* [PROJ-SPAR-14411-STAN-01>Sparkfun](#proj-spar-14411-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14411-STAN-01
+- Hex ID: PRS14411
+- Name: LiPo Charger Booster 5V 1A
+- Description: 
 
-# PROJ-SPAR-14411-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

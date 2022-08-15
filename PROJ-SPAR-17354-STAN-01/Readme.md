@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17354-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17354-STAN-01>Sparkfun](#proj-spar-17354-stan-01sparkfun)
+* [PROJ-SPAR-17354-STAN-01>nRF9160 Thing Plus](#proj-spar-17354-stan-01nrf9160-thing-plus)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17354-STAN-01>nRF9160 Thing Plus
 
-* [PROJ-SPAR-17354-STAN-01>Sparkfun](#proj-spar-17354-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17354-STAN-01
+- Hex ID: PRS17354
+- Name: nRF9160 Thing Plus
+- Description: 
 
-# PROJ-SPAR-17354-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16826-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16826-STAN-01>Sparkfun](#proj-spar-16826-stan-01sparkfun)
+* [PROJ-SPAR-16826-STAN-01>SparkFun Pulsed Radar Breakout A111](#proj-spar-16826-stan-01sparkfun-pulsed-radar-breakout-a111)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16826-STAN-01>SparkFun Pulsed Radar Breakout A111
 
-* [PROJ-SPAR-16826-STAN-01>Sparkfun](#proj-spar-16826-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16826-STAN-01
+- Hex ID: PRS16826
+- Name: SparkFun Pulsed Radar Breakout A111
+- Description: 
 
-# PROJ-SPAR-16826-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

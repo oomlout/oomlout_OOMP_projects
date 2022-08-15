@@ -1,20 +1,34 @@
 
-PROJ-ADAF-992-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-992-STAN-01>Adafruit](#proj-adaf-992-stan-01adafruit)
+* [PROJ-ADAF-992-STAN-01>Adafruit MPL115A2 Breakout PCB](#proj-adaf-992-stan-01adafruit-mpl115a2-breakout-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-992-STAN-01>Adafruit MPL115A2 Breakout PCB
 
-Contents
-========
+- ID: PROJ-ADAF-992-STAN-01
+- Hex ID: PRA992
+- Name: Adafruit MPL115A2 Breakout PCB
+- Description: 
 
-* [PROJ-ADAF-992-STAN-01>Adafruit](#proj-adaf-992-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-992-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 992
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit MPL115A2 Breakout PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-MPL115A2-Breakout-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit MPL115A2 Breakout PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/992
+
+
+
+[im]: eagleImage_450.png

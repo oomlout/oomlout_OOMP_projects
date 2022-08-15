@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14010-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14010-STAN-01>Sparkfun](#proj-spar-14010-stan-01sparkfun)
+* [PROJ-SPAR-14010-STAN-01>LilyPad LED 5pcs](#proj-spar-14010-stan-01lilypad-led-5pcs)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14010-STAN-01>LilyPad LED 5pcs
 
-* [PROJ-SPAR-14010-STAN-01>Sparkfun](#proj-spar-14010-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14010-STAN-01
+- Hex ID: PRS14010
+- Name: LilyPad LED 5pcs
+- Description: 
 
-# PROJ-SPAR-14010-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

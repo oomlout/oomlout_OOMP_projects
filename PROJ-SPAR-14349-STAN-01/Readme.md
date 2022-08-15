@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14349-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14349-STAN-01>Sparkfun](#proj-spar-14349-stan-01sparkfun)
+* [PROJ-SPAR-14349-STAN-01>Qwiic Human Presence Sensor Breakout AK9753](#proj-spar-14349-stan-01qwiic-human-presence-sensor-breakout-ak9753)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14349-STAN-01>Qwiic Human Presence Sensor Breakout AK9753
 
-* [PROJ-SPAR-14349-STAN-01>Sparkfun](#proj-spar-14349-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14349-STAN-01
+- Hex ID: PRS14349
+- Name: Qwiic Human Presence Sensor Breakout AK9753
+- Description: 
 
-# PROJ-SPAR-14349-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

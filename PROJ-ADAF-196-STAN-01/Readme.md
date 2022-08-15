@@ -1,20 +1,29 @@
 
-PROJ-ADAF-196-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-196-STAN-01>Adafruit](#proj-adaf-196-stan-01adafruit)
+* [PROJ-ADAF-196-STAN-01>Adafruit Proto Screwshield PCB](#proj-adaf-196-stan-01adafruit-proto-screwshield-pcb)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-196-STAN-01>Adafruit Proto Screwshield PCB
 
-Contents
-========
+- ID: PROJ-ADAF-196-STAN-01
+- Hex ID: PRA196
+- Name: Adafruit Proto Screwshield PCB
+- Description: 
 
-* [PROJ-ADAF-196-STAN-01>Adafruit](#proj-adaf-196-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-196-STAN-01>Adafruit
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Tags
 
@@ -24,6 +33,10 @@ Contents
 - oompColor: 196
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Proto Screwshield PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Proto-Screwshield-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Proto Screwshield PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/196
+
+
+
+[im]: kicadPcb3d_450.png

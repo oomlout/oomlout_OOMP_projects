@@ -1,20 +1,29 @@
 
-PROJ-SPAR-10507-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10507-STAN-01>Sparkfun](#proj-spar-10507-stan-01sparkfun)
+* [PROJ-SPAR-10507-STAN-01>Quadstepper Motor Driver](#proj-spar-10507-stan-01quadstepper-motor-driver)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10507-STAN-01>Quadstepper Motor Driver
 
-Contents
-========
+- ID: PROJ-SPAR-10507-STAN-01
+- Hex ID: PRS10507
+- Name: Quadstepper Motor Driver
+- Description: 
 
-* [PROJ-SPAR-10507-STAN-01>Sparkfun](#proj-spar-10507-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10507-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -27,3 +36,7 @@ Contents
 - oompName: Quadstepper Motor Driver
 - sources: All source files from https://github.com/sparkfun/Quadstepper_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10507
+
+
+
+[im]: eagleImage_450.png

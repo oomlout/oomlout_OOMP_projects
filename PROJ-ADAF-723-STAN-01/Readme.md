@@ -1,20 +1,29 @@
 
-PROJ-ADAF-723-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-723-STAN-01>Adafruit](#proj-adaf-723-stan-01adafruit)
+* [PROJ-ADAF-723-STAN-01>Adafruit Perma Proto PCB](#proj-adaf-723-stan-01adafruit-perma-proto-pcb)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-723-STAN-01>Adafruit Perma Proto PCB
 
-Contents
-========
+- ID: PROJ-ADAF-723-STAN-01
+- Hex ID: PRA723
+- Name: Adafruit Perma Proto PCB
+- Description: 
 
-* [PROJ-ADAF-723-STAN-01>Adafruit](#proj-adaf-723-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-723-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -24,6 +33,10 @@ Contents
 - oompColor: 723
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Perma Proto PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Perma-Proto-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Perma Proto PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/723
+
+
+
+[im]: eagleImage_450.png

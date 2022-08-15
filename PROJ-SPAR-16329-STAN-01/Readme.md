@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16329-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16329-STAN-01>Sparkfun](#proj-spar-16329-stan-01sparkfun)
+* [PROJ-SPAR-16329-STAN-01>SparkFun u-blox NEO-M8U](#proj-spar-16329-stan-01sparkfun-u-blox-neo-m8u)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16329-STAN-01>SparkFun u-blox NEO-M8U
 
-* [PROJ-SPAR-16329-STAN-01>Sparkfun](#proj-spar-16329-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16329-STAN-01
+- Hex ID: PRS16329
+- Name: SparkFun u-blox NEO-M8U
+- Description: 
 
-# PROJ-SPAR-16329-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-499-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-499-STAN-01>Sparkfun](#proj-spar-499-stan-01sparkfun)
+* [PROJ-SPAR-499-STAN-01>SSOP-DIP Adapter 20-Pin](#proj-spar-499-stan-01ssop-dip-adapter-20-pin)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-499-STAN-01>SSOP-DIP Adapter 20-Pin
 
-* [PROJ-SPAR-499-STAN-01>Sparkfun](#proj-spar-499-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-499-STAN-01
+- Hex ID: PRS499
+- Name: SSOP-DIP Adapter 20-Pin
+- Description: 
 
-# PROJ-SPAR-499-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

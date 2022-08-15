@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12617-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12617-STAN-01>Sparkfun](#proj-spar-12617-stan-01sparkfun)
+* [PROJ-SPAR-12617-STAN-01>Magician Encoder](#proj-spar-12617-stan-01magician-encoder)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12617-STAN-01>Magician Encoder
 
-* [PROJ-SPAR-12617-STAN-01>Sparkfun](#proj-spar-12617-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12617-STAN-01
+- Hex ID: PRS12617
+- Name: Magician Encoder
+- Description: 
 
-# PROJ-SPAR-12617-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-4567-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-4567-STAN-01>Adafruit](#proj-adaf-4567-stan-01adafruit)
+* [PROJ-ADAF-4567-STAN-01>Adafruit 2.23 inch Monochrome OLED Bonnet PCB](#proj-adaf-4567-stan-01adafruit-223-inch-monochrome-oled-bonnet-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-4567-STAN-01>Adafruit 2.23 inch Monochrome OLED Bonnet PCB
 
-Contents
-========
+- ID: PROJ-ADAF-4567-STAN-01
+- Hex ID: PRA4567
+- Name: Adafruit 2.23 inch Monochrome OLED Bonnet PCB
+- Description: 
 
-* [PROJ-ADAF-4567-STAN-01>Adafruit](#proj-adaf-4567-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-4567-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 4567
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit 2.23 inch Monochrome OLED Bonnet PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit 2.23 inch Monochrome OLED Bonnet PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4567
+
+
+
+[im]: eagleImage_450.png

@@ -1,20 +1,19 @@
 
-PROJ-ARDC-HQBS-LG32-01>Compatible Arduino (LGT8F328P) HQB Special
-=================================================================
+
+
 
 Contents
 ========
 
-* [PROJ-ARDC-HQBS-LG32-01>Compatible Arduino (LGT8F328P) HQB Special](#proj-ardc-hqbs-lg32-01compatible-arduino-lgt8f328p-hqb-special)
+* [PROJ-ARDC-HQBS-LG32-01>](#proj-ardc-hqbs-lg32-01)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-ARDC-HQBS-LG32-01>
 
-* [PROJ-ARDC-HQBS-LG32-01>Compatible Arduino (LGT8F328P) HQB Special](#proj-ardc-hqbs-lg32-01compatible-arduino-lgt8f328p-hqb-special)
-	* [Tags](#tags)
-
-# PROJ-ARDC-HQBS-LG32-01>Compatible Arduino (LGT8F328P) HQB Special
+- ID: PROJ-ARDC-HQBS-LG32-01
+- Hex ID: HQLG
+- Name: 
+- Description: 
 
 ## Tags
 

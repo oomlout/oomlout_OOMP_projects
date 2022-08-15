@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14002-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14002-STAN-01>Sparkfun](#proj-spar-14002-stan-01sparkfun)
+* [PROJ-SPAR-14002-STAN-01>THAT 1206 Breakout](#proj-spar-14002-stan-01that-1206-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14002-STAN-01>THAT 1206 Breakout
 
-* [PROJ-SPAR-14002-STAN-01>Sparkfun](#proj-spar-14002-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14002-STAN-01
+- Hex ID: PRS14002
+- Name: THAT 1206 Breakout
+- Description: 
 
-# PROJ-SPAR-14002-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

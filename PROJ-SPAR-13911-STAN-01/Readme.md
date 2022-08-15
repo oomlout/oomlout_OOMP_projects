@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13911-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13911-STAN-01>Sparkfun](#proj-spar-13911-stan-01sparkfun)
+* [PROJ-SPAR-13911-STAN-01>Serial Controlled Motor Driver](#proj-spar-13911-stan-01serial-controlled-motor-driver)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13911-STAN-01>Serial Controlled Motor Driver
 
-* [PROJ-SPAR-13911-STAN-01>Sparkfun](#proj-spar-13911-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13911-STAN-01
+- Hex ID: PRS13911
+- Name: Serial Controlled Motor Driver
+- Description: 
 
-# PROJ-SPAR-13911-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

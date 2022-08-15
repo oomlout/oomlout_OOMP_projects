@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14554-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14554-STAN-01>Sparkfun](#proj-spar-14554-stan-01sparkfun)
+* [PROJ-SPAR-14554-STAN-01>Papa Soundie Audio Player](#proj-spar-14554-stan-01papa-soundie-audio-player)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14554-STAN-01>Papa Soundie Audio Player
 
-* [PROJ-SPAR-14554-STAN-01>Sparkfun](#proj-spar-14554-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14554-STAN-01
+- Hex ID: PRS14554
+- Name: Papa Soundie Audio Player
+- Description: 
 
-# PROJ-SPAR-14554-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

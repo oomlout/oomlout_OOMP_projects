@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9716-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9716-STAN-01>Sparkfun](#proj-spar-9716-stan-01sparkfun)
+* [PROJ-SPAR-9716-STAN-01>FTDI Basic Breakout-5V](#proj-spar-9716-stan-01ftdi-basic-breakout-5v)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9716-STAN-01>FTDI Basic Breakout-5V
 
-* [PROJ-SPAR-9716-STAN-01>Sparkfun](#proj-spar-9716-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9716-STAN-01
+- Hex ID: PRS9716
+- Name: FTDI Basic Breakout-5V
+- Description: 
 
-# PROJ-SPAR-9716-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

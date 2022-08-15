@@ -1,20 +1,29 @@
 
-PROJ-ADAF-714-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-714-STAN-01>Adafruit](#proj-adaf-714-stan-01adafruit)
+* [PROJ-ADAF-714-STAN-01>Adafruit RGB LCD shield PCB](#proj-adaf-714-stan-01adafruit-rgb-lcd-shield-pcb)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-714-STAN-01>Adafruit RGB LCD shield PCB
 
-Contents
-========
+- ID: PROJ-ADAF-714-STAN-01
+- Hex ID: PRA714
+- Name: Adafruit RGB LCD shield PCB
+- Description: 
 
-* [PROJ-ADAF-714-STAN-01>Adafruit](#proj-adaf-714-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-714-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Tags
 
@@ -24,6 +33,10 @@ Contents
 - oompColor: 714
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit RGB LCD shield PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-RGB-LCD-shield-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit RGB LCD shield PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/714
+
+
+
+[im]: eagleImage_450.png

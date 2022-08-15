@@ -1,20 +1,34 @@
 
-PROJ-ADAF-4888-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-4888-STAN-01>Adafruit](#proj-adaf-4888-stan-01adafruit)
+* [PROJ-ADAF-4888-STAN-01>Adafruit ItsyBitsy RP2040 PCB](#proj-adaf-4888-stan-01adafruit-itsybitsy-rp2040-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-4888-STAN-01>Adafruit ItsyBitsy RP2040 PCB
 
-Contents
-========
+- ID: PROJ-ADAF-4888-STAN-01
+- Hex ID: PRA4888
+- Name: Adafruit ItsyBitsy RP2040 PCB
+- Description: 
 
-* [PROJ-ADAF-4888-STAN-01>Adafruit](#proj-adaf-4888-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-4888-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 4888
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit ItsyBitsy RP2040 PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-ItsyBitsy-RP2040-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit ItsyBitsy RP2040 PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4888
+
+
+
+[im]: eagleImage_450.png

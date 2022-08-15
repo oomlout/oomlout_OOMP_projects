@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12711-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12711-STAN-01>Sparkfun](#proj-spar-12711-stan-01sparkfun)
+* [PROJ-SPAR-12711-STAN-01>USB LiPolyCharger SingleCell](#proj-spar-12711-stan-01usb-lipolycharger-singlecell)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12711-STAN-01>USB LiPolyCharger SingleCell
 
-* [PROJ-SPAR-12711-STAN-01>Sparkfun](#proj-spar-12711-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12711-STAN-01
+- Hex ID: PRS12711
+- Name: USB LiPolyCharger SingleCell
+- Description: 
 
-# PROJ-SPAR-12711-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

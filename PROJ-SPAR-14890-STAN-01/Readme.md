@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14890-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14890-STAN-01>Sparkfun](#proj-spar-14890-stan-01sparkfun)
+* [PROJ-SPAR-14890-STAN-01>gator color](#proj-spar-14890-stan-01gator-color)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14890-STAN-01>gator color
 
-* [PROJ-SPAR-14890-STAN-01>Sparkfun](#proj-spar-14890-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14890-STAN-01
+- Hex ID: PRS14890
+- Name: gator color
+- Description: 
 
-# PROJ-SPAR-14890-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

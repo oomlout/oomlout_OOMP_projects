@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11931-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11931-STAN-01>Sparkfun](#proj-spar-11931-stan-01sparkfun)
+* [PROJ-SPAR-11931-STAN-01>Digital Temperature Sensor Breakout - TMP102](#proj-spar-11931-stan-01digital-temperature-sensor-breakout---tmp102)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11931-STAN-01>Digital Temperature Sensor Breakout - TMP102
 
-* [PROJ-SPAR-11931-STAN-01>Sparkfun](#proj-spar-11931-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11931-STAN-01
+- Hex ID: PRS11931
+- Name: Digital Temperature Sensor Breakout - TMP102
+- Description: 
 
-# PROJ-SPAR-11931-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

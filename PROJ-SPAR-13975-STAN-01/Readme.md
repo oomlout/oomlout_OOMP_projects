@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13975-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13975-STAN-01>Sparkfun](#proj-spar-13975-stan-01sparkfun)
+* [PROJ-SPAR-13975-STAN-01>RedBoard](#proj-spar-13975-stan-01redboard)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13975-STAN-01>RedBoard
 
-* [PROJ-SPAR-13975-STAN-01>Sparkfun](#proj-spar-13975-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13975-STAN-01
+- Hex ID: PRS13975
+- Name: RedBoard
+- Description: 
 
-# PROJ-SPAR-13975-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

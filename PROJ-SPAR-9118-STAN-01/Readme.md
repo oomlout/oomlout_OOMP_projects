@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9118-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9118-STAN-01>Sparkfun](#proj-spar-9118-stan-01sparkfun)
+* [PROJ-SPAR-9118-STAN-01>Opto Isolator Breakout](#proj-spar-9118-stan-01opto-isolator-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9118-STAN-01>Opto Isolator Breakout
 
-* [PROJ-SPAR-9118-STAN-01>Sparkfun](#proj-spar-9118-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9118-STAN-01
+- Hex ID: PRS9118
+- Name: Opto Isolator Breakout
+- Description: 
 
-# PROJ-SPAR-9118-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

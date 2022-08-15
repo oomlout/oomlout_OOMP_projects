@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19038-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19038-STAN-01>Sparkfun](#proj-spar-19038-stan-01sparkfun)
+* [PROJ-SPAR-19038-STAN-01>SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110](#proj-spar-19038-stan-01sparkfun-micromod-single-pair-ethernet-function-board-adin1110)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19038-STAN-01>SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110
 
-* [PROJ-SPAR-19038-STAN-01>Sparkfun](#proj-spar-19038-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19038-STAN-01
+- Hex ID: PRS19038
+- Name: SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110
+- Description: 
 
-# PROJ-SPAR-19038-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

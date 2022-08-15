@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8130-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8130-STAN-01>Sparkfun](#proj-spar-8130-stan-01sparkfun)
+* [PROJ-SPAR-8130-STAN-01>I2C Expander Breakout-PCF8575](#proj-spar-8130-stan-01i2c-expander-breakout-pcf8575)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8130-STAN-01>I2C Expander Breakout-PCF8575
 
-* [PROJ-SPAR-8130-STAN-01>Sparkfun](#proj-spar-8130-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8130-STAN-01
+- Hex ID: PRS8130
+- Name: I2C Expander Breakout-PCF8575
+- Description: 
 
-# PROJ-SPAR-8130-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

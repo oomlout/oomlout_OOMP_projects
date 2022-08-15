@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8872-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8872-STAN-01>Sparkfun](#proj-spar-8872-stan-01sparkfun)
+* [PROJ-SPAR-8872-STAN-01>Mic Preamp](#proj-spar-8872-stan-01mic-preamp)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8872-STAN-01>Mic Preamp
 
-* [PROJ-SPAR-8872-STAN-01>Sparkfun](#proj-spar-8872-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8872-STAN-01
+- Hex ID: PRS8872
+- Name: Mic Preamp
+- Description: 
 
-# PROJ-SPAR-8872-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

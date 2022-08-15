@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17512-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17512-STAN-01>Sparkfun](#proj-spar-17512-stan-01sparkfun)
+* [PROJ-SPAR-17512-STAN-01>SparkFun Qwiic pHAT Extension](#proj-spar-17512-stan-01sparkfun-qwiic-phat-extension)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17512-STAN-01>SparkFun Qwiic pHAT Extension
 
-* [PROJ-SPAR-17512-STAN-01>Sparkfun](#proj-spar-17512-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17512-STAN-01
+- Hex ID: PRS17512
+- Name: SparkFun Qwiic pHAT Extension
+- Description: 
 
-# PROJ-SPAR-17512-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

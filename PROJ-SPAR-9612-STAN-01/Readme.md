@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9612-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9612-STAN-01>Sparkfun](#proj-spar-9612-stan-01sparkfun)
+* [PROJ-SPAR-9612-STAN-01>Audio Amplifier Kit-STA540](#proj-spar-9612-stan-01audio-amplifier-kit-sta540)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9612-STAN-01>Audio Amplifier Kit-STA540
 
-* [PROJ-SPAR-9612-STAN-01>Sparkfun](#proj-spar-9612-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9612-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9612-STAN-01
+- Hex ID: PRS9612
+- Name: Audio Amplifier Kit-STA540
+- Description: 
 
 ## Tags
 

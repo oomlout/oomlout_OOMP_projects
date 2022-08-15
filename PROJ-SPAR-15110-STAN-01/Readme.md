@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15110-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15110-STAN-01>Sparkfun](#proj-spar-15110-stan-01sparkfun)
+* [PROJ-SPAR-15110-STAN-01>SparkFun ESP32 Thing Plus DMX to LED Shield](#proj-spar-15110-stan-01sparkfun-esp32-thing-plus-dmx-to-led-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15110-STAN-01>SparkFun ESP32 Thing Plus DMX to LED Shield
 
-* [PROJ-SPAR-15110-STAN-01>Sparkfun](#proj-spar-15110-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15110-STAN-01
+- Hex ID: PRS15110
+- Name: SparkFun ESP32 Thing Plus DMX to LED Shield
+- Description: 
 
-# PROJ-SPAR-15110-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

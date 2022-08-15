@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14193-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14193-STAN-01>Sparkfun](#proj-spar-14193-stan-01sparkfun)
+* [PROJ-SPAR-14193-STAN-01>CCS811 Air Quality Breakout](#proj-spar-14193-stan-01ccs811-air-quality-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14193-STAN-01>CCS811 Air Quality Breakout
 
-* [PROJ-SPAR-14193-STAN-01>Sparkfun](#proj-spar-14193-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14193-STAN-01
+- Hex ID: PRS14193
+- Name: CCS811 Air Quality Breakout
+- Description: 
 
-# PROJ-SPAR-14193-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

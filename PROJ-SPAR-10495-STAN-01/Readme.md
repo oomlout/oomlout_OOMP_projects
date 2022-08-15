@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10495-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10495-STAN-01>Sparkfun](#proj-spar-10495-stan-01sparkfun)
+* [PROJ-SPAR-10495-STAN-01>Coin Cell Battery Holder Breakout-24.5mm](#proj-spar-10495-stan-01coin-cell-battery-holder-breakout-245mm)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10495-STAN-01>Coin Cell Battery Holder Breakout-24.5mm
 
-Contents
-========
+- ID: PROJ-SPAR-10495-STAN-01
+- Hex ID: PRS10495
+- Name: Coin Cell Battery Holder Breakout-24.5mm
+- Description: 
 
-* [PROJ-SPAR-10495-STAN-01>Sparkfun](#proj-spar-10495-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10495-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: Coin Cell Battery Holder Breakout-24.5mm
 - sources: All source files from https://github.com/sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10495
+
+
+
+[im]: eagleImage_450.png

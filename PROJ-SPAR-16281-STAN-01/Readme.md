@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16281-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16281-STAN-01>Sparkfun](#proj-spar-16281-stan-01sparkfun)
+* [PROJ-SPAR-16281-STAN-01>SparkFun Real Time Clock Module RV-8803](#proj-spar-16281-stan-01sparkfun-real-time-clock-module-rv-8803)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16281-STAN-01>SparkFun Real Time Clock Module RV-8803
 
-* [PROJ-SPAR-16281-STAN-01>Sparkfun](#proj-spar-16281-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16281-STAN-01
+- Hex ID: PRS16281
+- Name: SparkFun Real Time Clock Module RV-8803
+- Description: 
 
-# PROJ-SPAR-16281-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

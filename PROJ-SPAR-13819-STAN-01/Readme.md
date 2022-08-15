@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13819-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13819-STAN-01>Sparkfun](#proj-spar-13819-stan-01sparkfun)
+* [PROJ-SPAR-13819-STAN-01>Arduino ProtoShield Bare PCB](#proj-spar-13819-stan-01arduino-protoshield-bare-pcb)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13819-STAN-01>Arduino ProtoShield Bare PCB
 
-* [PROJ-SPAR-13819-STAN-01>Sparkfun](#proj-spar-13819-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13819-STAN-01
+- Hex ID: PRS13819
+- Name: Arduino ProtoShield Bare PCB
+- Description: 
 
-# PROJ-SPAR-13819-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

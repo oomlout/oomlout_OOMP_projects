@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8480-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8480-STAN-01>Sparkfun](#proj-spar-8480-stan-01sparkfun)
+* [PROJ-SPAR-8480-STAN-01>Gainer PSoC Development Board](#proj-spar-8480-stan-01gainer-psoc-development-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8480-STAN-01>Gainer PSoC Development Board
 
-* [PROJ-SPAR-8480-STAN-01>Sparkfun](#proj-spar-8480-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8480-STAN-01
+- Hex ID: PRS8480
+- Name: Gainer PSoC Development Board
+- Description: 
 
-# PROJ-SPAR-8480-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

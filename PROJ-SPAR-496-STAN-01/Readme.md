@@ -1,20 +1,24 @@
 
-PROJ-SPAR-496-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-496-STAN-01>Sparkfun](#proj-spar-496-stan-01sparkfun)
+* [PROJ-SPAR-496-STAN-01>SOIC28-DIP Adapter](#proj-spar-496-stan-01soic28-dip-adapter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-496-STAN-01>SOIC28-DIP Adapter
 
-* [PROJ-SPAR-496-STAN-01>Sparkfun](#proj-spar-496-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-496-STAN-01
+- Hex ID: PRS496
+- Name: SOIC28-DIP Adapter
+- Description: 
 
-# PROJ-SPAR-496-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

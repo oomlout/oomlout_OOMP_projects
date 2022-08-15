@@ -1,20 +1,24 @@
 
-PROJ-SPAR-494-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-494-STAN-01>Sparkfun](#proj-spar-494-stan-01sparkfun)
+* [PROJ-SPAR-494-STAN-01>SOIC8-DIP Adapter](#proj-spar-494-stan-01soic8-dip-adapter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-494-STAN-01>SOIC8-DIP Adapter
 
-* [PROJ-SPAR-494-STAN-01>Sparkfun](#proj-spar-494-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-494-STAN-01
+- Hex ID: PRS494
+- Name: SOIC8-DIP Adapter
+- Description: 
 
-# PROJ-SPAR-494-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

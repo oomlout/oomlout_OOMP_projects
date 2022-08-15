@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13687-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13687-STAN-01>Sparkfun](#proj-spar-13687-stan-01sparkfun)
+* [PROJ-SPAR-13687-STAN-01>MyoWare Cable Shield](#proj-spar-13687-stan-01myoware-cable-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13687-STAN-01>MyoWare Cable Shield
 
-* [PROJ-SPAR-13687-STAN-01>Sparkfun](#proj-spar-13687-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13687-STAN-01
+- Hex ID: PRS13687
+- Name: MyoWare Cable Shield
+- Description: 
 
-# PROJ-SPAR-13687-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

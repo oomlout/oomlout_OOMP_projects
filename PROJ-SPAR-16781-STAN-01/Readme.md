@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16781-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16781-STAN-01>Sparkfun](#proj-spar-16781-stan-01sparkfun)
+* [PROJ-SPAR-16781-STAN-01>MicroMod ESP32 Processor](#proj-spar-16781-stan-01micromod-esp32-processor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16781-STAN-01>MicroMod ESP32 Processor
 
-* [PROJ-SPAR-16781-STAN-01>Sparkfun](#proj-spar-16781-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16781-STAN-01
+- Hex ID: PRS16781
+- Name: MicroMod ESP32 Processor
+- Description: 
 
-# PROJ-SPAR-16781-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

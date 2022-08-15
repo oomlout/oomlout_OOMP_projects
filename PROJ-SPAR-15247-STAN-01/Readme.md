@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15247-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15247-STAN-01>Sparkfun](#proj-spar-15247-stan-01sparkfun)
+* [PROJ-SPAR-15247-STAN-01>GNSS Chip Antenna Evaluation Board](#proj-spar-15247-stan-01gnss-chip-antenna-evaluation-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15247-STAN-01>GNSS Chip Antenna Evaluation Board
 
-* [PROJ-SPAR-15247-STAN-01>Sparkfun](#proj-spar-15247-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15247-STAN-01
+- Hex ID: PRS15247
+- Name: GNSS Chip Antenna Evaluation Board
+- Description: 
 
-# PROJ-SPAR-15247-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-1754-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-1754-STAN-01>Adafruit](#proj-adaf-1754-stan-01adafruit)
+* [PROJ-ADAF-1754-STAN-01>Adafruit Pi Cobber PCBs](#proj-adaf-1754-stan-01adafruit-pi-cobber-pcbs)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-1754-STAN-01>Adafruit Pi Cobber PCBs
 
-Contents
-========
+- ID: PROJ-ADAF-1754-STAN-01
+- Hex ID: PRA1754
+- Name: Adafruit Pi Cobber PCBs
+- Description: 
 
-* [PROJ-ADAF-1754-STAN-01>Adafruit](#proj-adaf-1754-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-1754-STAN-01>Adafruit
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 1754
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Pi Cobber PCBs
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Pi-Cobber-PCBs (source licence details in srcLicense.md)
+- oompName: Adafruit Pi Cobber PCBs
+- sources: All source files from https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1754
+
+
+
+[im]: kicadPcb3d_450.png

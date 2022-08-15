@@ -1,20 +1,34 @@
 
-PROJ-ADAF-5393-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-5393-STAN-01>Adafruit](#proj-adaf-5393-stan-01adafruit)
+* [PROJ-ADAF-5393-STAN-01>Adafruit 1.47in 320x172 Round Rectangle TFT PCB](#proj-adaf-5393-stan-01adafruit-147in-320x172-round-rectangle-tft-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-5393-STAN-01>Adafruit 1.47in 320x172 Round Rectangle TFT PCB
 
-Contents
-========
+- ID: PROJ-ADAF-5393-STAN-01
+- Hex ID: PRA5393
+- Name: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
+- Description: 
 
-* [PROJ-ADAF-5393-STAN-01>Adafruit](#proj-adaf-5393-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-5393-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 5393
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit 1.47in 320x172 Round Rectangle TFT PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-1.47in-320x172-Round-Rectangle-TFT-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5393
+
+
+
+[im]: eagleImage_450.png

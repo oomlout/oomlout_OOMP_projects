@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13030-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13030-STAN-01>Sparkfun](#proj-spar-13030-stan-01sparkfun)
+* [PROJ-SPAR-13030-STAN-01>RFID Reader Breakout](#proj-spar-13030-stan-01rfid-reader-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13030-STAN-01>RFID Reader Breakout
 
-* [PROJ-SPAR-13030-STAN-01>Sparkfun](#proj-spar-13030-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13030-STAN-01
+- Hex ID: PRS13030
+- Name: RFID Reader Breakout
+- Description: 
 
-# PROJ-SPAR-13030-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14352-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14352-STAN-01>Sparkfun](#proj-spar-14352-stan-01sparkfun)
+* [PROJ-SPAR-14352-STAN-01>Qwiic Shield for Arduino](#proj-spar-14352-stan-01qwiic-shield-for-arduino)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14352-STAN-01>Qwiic Shield for Arduino
 
-* [PROJ-SPAR-14352-STAN-01>Sparkfun](#proj-spar-14352-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14352-STAN-01
+- Hex ID: PRS14352
+- Name: Qwiic Shield for Arduino
+- Description: 
 
-# PROJ-SPAR-14352-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

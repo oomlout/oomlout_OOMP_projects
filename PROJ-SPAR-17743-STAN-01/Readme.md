@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17743-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17743-STAN-01>Sparkfun](#proj-spar-17743-stan-01sparkfun)
+* [PROJ-SPAR-17743-STAN-01>ESP32-S2 Thing Plus](#proj-spar-17743-stan-01esp32-s2-thing-plus)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17743-STAN-01>ESP32-S2 Thing Plus
 
-* [PROJ-SPAR-17743-STAN-01>Sparkfun](#proj-spar-17743-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17743-STAN-01
+- Hex ID: PRS17743
+- Name: ESP32-S2 Thing Plus
+- Description: 
 
-# PROJ-SPAR-17743-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

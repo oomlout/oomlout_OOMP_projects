@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15734-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15734-STAN-01>Sparkfun](#proj-spar-15734-stan-01sparkfun)
+* [PROJ-SPAR-15734-STAN-01>SparkFun Clock Generator 5P49V60](#proj-spar-15734-stan-01sparkfun-clock-generator-5p49v60)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15734-STAN-01>SparkFun Clock Generator 5P49V60
 
-* [PROJ-SPAR-15734-STAN-01>Sparkfun](#proj-spar-15734-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15734-STAN-01
+- Hex ID: PRS15734
+- Name: SparkFun Clock Generator 5P49V60
+- Description: 
 
-# PROJ-SPAR-15734-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

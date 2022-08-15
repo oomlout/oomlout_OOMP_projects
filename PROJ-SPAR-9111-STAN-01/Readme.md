@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9111-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9111-STAN-01>Sparkfun](#proj-spar-9111-stan-01sparkfun)
+* [PROJ-SPAR-9111-STAN-01>XBee Explorer Serial](#proj-spar-9111-stan-01xbee-explorer-serial)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9111-STAN-01>XBee Explorer Serial
 
-* [PROJ-SPAR-9111-STAN-01>Sparkfun](#proj-spar-9111-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9111-STAN-01
+- Hex ID: PRS9111
+- Name: XBee Explorer Serial
+- Description: 
 
-# PROJ-SPAR-9111-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

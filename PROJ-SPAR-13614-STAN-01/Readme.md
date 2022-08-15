@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13614-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13614-STAN-01>Sparkfun](#proj-spar-13614-stan-01sparkfun)
+* [PROJ-SPAR-13614-STAN-01>Qduino Mini SFE](#proj-spar-13614-stan-01qduino-mini-sfe)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13614-STAN-01>Qduino Mini SFE
 
-* [PROJ-SPAR-13614-STAN-01>Sparkfun](#proj-spar-13614-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13614-STAN-01
+- Hex ID: PRS13614
+- Name: Qduino Mini SFE
+- Description: 
 
-# PROJ-SPAR-13614-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

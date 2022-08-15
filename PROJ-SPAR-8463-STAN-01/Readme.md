@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8463-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8463-STAN-01>Sparkfun](#proj-spar-8463-stan-01sparkfun)
+* [PROJ-SPAR-8463-STAN-01>LilyPad Buzzer](#proj-spar-8463-stan-01lilypad-buzzer)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8463-STAN-01>LilyPad Buzzer
 
-* [PROJ-SPAR-8463-STAN-01>Sparkfun](#proj-spar-8463-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8463-STAN-01
+- Hex ID: PRS8463
+- Name: LilyPad Buzzer
+- Description: 
 
-# PROJ-SPAR-8463-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

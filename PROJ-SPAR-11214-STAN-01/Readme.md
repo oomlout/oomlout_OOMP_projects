@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11214-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11214-STAN-01>Sparkfun](#proj-spar-11214-stan-01sparkfun)
+* [PROJ-SPAR-11214-STAN-01>MOSFET Power Controller](#proj-spar-11214-stan-01mosfet-power-controller)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11214-STAN-01>MOSFET Power Controller
 
-* [PROJ-SPAR-11214-STAN-01>Sparkfun](#proj-spar-11214-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11214-STAN-01
+- Hex ID: PRS11214
+- Name: MOSFET Power Controller
+- Description: 
 
-# PROJ-SPAR-11214-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11044-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11044-STAN-01>Sparkfun](#proj-spar-11044-stan-01sparkfun)
+* [PROJ-SPAR-11044-STAN-01>Mono Audio Amp Breakout-TPA2005D1](#proj-spar-11044-stan-01mono-audio-amp-breakout-tpa2005d1)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11044-STAN-01>Mono Audio Amp Breakout-TPA2005D1
 
-* [PROJ-SPAR-11044-STAN-01>Sparkfun](#proj-spar-11044-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11044-STAN-01
+- Hex ID: PRS11044
+- Name: Mono Audio Amp Breakout-TPA2005D1
+- Description: 
 
-# PROJ-SPAR-11044-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

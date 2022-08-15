@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12041-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12041-STAN-01>Sparkfun](#proj-spar-12041-stan-01sparkfun)
+* [PROJ-SPAR-12041-STAN-01>AT42QT1010 Capacitive Touch Breakout](#proj-spar-12041-stan-01at42qt1010-capacitive-touch-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12041-STAN-01>AT42QT1010 Capacitive Touch Breakout
 
-* [PROJ-SPAR-12041-STAN-01>Sparkfun](#proj-spar-12041-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12041-STAN-01
+- Hex ID: PRS12041
+- Name: AT42QT1010 Capacitive Touch Breakout
+- Description: 
 
-# PROJ-SPAR-12041-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

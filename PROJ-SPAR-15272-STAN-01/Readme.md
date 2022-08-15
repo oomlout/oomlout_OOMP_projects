@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15272-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15272-STAN-01>Sparkfun](#proj-spar-15272-stan-01sparkfun)
+* [PROJ-SPAR-15272-STAN-01>gator soil](#proj-spar-15272-stan-01gator-soil)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15272-STAN-01>gator soil
 
-* [PROJ-SPAR-15272-STAN-01>Sparkfun](#proj-spar-15272-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15272-STAN-01
+- Hex ID: PRS15272
+- Name: gator soil
+- Description: 
 
-# PROJ-SPAR-15272-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13679-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13679-STAN-01>Sparkfun](#proj-spar-13679-stan-01sparkfun)
+* [PROJ-SPAR-13679-STAN-01>Current Sensor Breakout-ACS723](#proj-spar-13679-stan-01current-sensor-breakout-acs723)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13679-STAN-01>Current Sensor Breakout-ACS723
 
-* [PROJ-SPAR-13679-STAN-01>Sparkfun](#proj-spar-13679-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13679-STAN-01
+- Hex ID: PRS13679
+- Name: Current Sensor Breakout-ACS723
+- Description: 
 
-# PROJ-SPAR-13679-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

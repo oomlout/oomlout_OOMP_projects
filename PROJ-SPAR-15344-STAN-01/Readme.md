@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15344-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15344-STAN-01>Sparkfun](#proj-spar-15344-stan-01sparkfun)
+* [PROJ-SPAR-15344-STAN-01>Qwiic Capacitive Touch Slider CAP1203](#proj-spar-15344-stan-01qwiic-capacitive-touch-slider-cap1203)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15344-STAN-01>Qwiic Capacitive Touch Slider CAP1203
 
-* [PROJ-SPAR-15344-STAN-01>Sparkfun](#proj-spar-15344-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15344-STAN-01
+- Hex ID: PRS15344
+- Name: Qwiic Capacitive Touch Slider CAP1203
+- Description: 
 
-# PROJ-SPAR-15344-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

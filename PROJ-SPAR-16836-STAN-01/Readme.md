@@ -1,20 +1,19 @@
 
-PROJ-SPAR-16836-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16836-STAN-01>Sparkfun](#proj-spar-16836-stan-01sparkfun)
+* [PROJ-SPAR-16836-STAN-01>SparkFun ProDriver TC78H670FTG](#proj-spar-16836-stan-01sparkfun-prodriver-tc78h670ftg)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16836-STAN-01>SparkFun ProDriver TC78H670FTG
 
-* [PROJ-SPAR-16836-STAN-01>Sparkfun](#proj-spar-16836-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-16836-STAN-01>Sparkfun
+- ID: PROJ-SPAR-16836-STAN-01
+- Hex ID: PRS16836
+- Name: SparkFun ProDriver TC78H670FTG
+- Description: 
 
 ## Tags
 

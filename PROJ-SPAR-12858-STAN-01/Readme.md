@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12858-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12858-STAN-01>Sparkfun](#proj-spar-12858-stan-01sparkfun)
+* [PROJ-SPAR-12858-STAN-01>Vernier Interface Shield](#proj-spar-12858-stan-01vernier-interface-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12858-STAN-01>Vernier Interface Shield
 
-* [PROJ-SPAR-12858-STAN-01>Sparkfun](#proj-spar-12858-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12858-STAN-01
+- Hex ID: PRS12858
+- Name: Vernier Interface Shield
+- Description: 
 
-# PROJ-SPAR-12858-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

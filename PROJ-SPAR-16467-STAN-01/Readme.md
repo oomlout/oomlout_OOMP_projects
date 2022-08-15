@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16467-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16467-STAN-01>Sparkfun](#proj-spar-16467-stan-01sparkfun)
+* [PROJ-SPAR-16467-STAN-01>SparkFun Humidity Sensor SHTC3](#proj-spar-16467-stan-01sparkfun-humidity-sensor-shtc3)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16467-STAN-01>SparkFun Humidity Sensor SHTC3
 
-* [PROJ-SPAR-16467-STAN-01>Sparkfun](#proj-spar-16467-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16467-STAN-01
+- Hex ID: PRS16467
+- Name: SparkFun Humidity Sensor SHTC3
+- Description: 
 
-# PROJ-SPAR-16467-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19921-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19921-STAN-01>Sparkfun](#proj-spar-19921-stan-01sparkfun)
+* [PROJ-SPAR-19921-STAN-01>SparkFun Qwiic Magnetometer-MMC5983MA](#proj-spar-19921-stan-01sparkfun-qwiic-magnetometer-mmc5983ma)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19921-STAN-01>SparkFun Qwiic Magnetometer-MMC5983MA
 
-* [PROJ-SPAR-19921-STAN-01>Sparkfun](#proj-spar-19921-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19921-STAN-01
+- Hex ID: PRS19921
+- Name: SparkFun Qwiic Magnetometer-MMC5983MA
+- Description: 
 
-# PROJ-SPAR-19921-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

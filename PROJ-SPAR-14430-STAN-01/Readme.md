@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14430-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14430-STAN-01>Sparkfun](#proj-spar-14430-stan-01sparkfun)
+* [PROJ-SPAR-14430-STAN-01>ESP32 Motion Shield](#proj-spar-14430-stan-01esp32-motion-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14430-STAN-01>ESP32 Motion Shield
 
-* [PROJ-SPAR-14430-STAN-01>Sparkfun](#proj-spar-14430-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14430-STAN-01
+- Hex ID: PRS14430
+- Name: ESP32 Motion Shield
+- Description: 
 
-# PROJ-SPAR-14430-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17272-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17272-STAN-01>Sparkfun](#proj-spar-17272-stan-01sparkfun)
+* [PROJ-SPAR-17272-STAN-01>MicroMod Asset Tracker](#proj-spar-17272-stan-01micromod-asset-tracker)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17272-STAN-01>MicroMod Asset Tracker
 
-* [PROJ-SPAR-17272-STAN-01>Sparkfun](#proj-spar-17272-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17272-STAN-01
+- Hex ID: PRS17272
+- Name: MicroMod Asset Tracker
+- Description: 
 
-# PROJ-SPAR-17272-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

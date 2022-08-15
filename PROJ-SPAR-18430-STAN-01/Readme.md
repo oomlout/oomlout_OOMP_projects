@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18430-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18430-STAN-01>Sparkfun](#proj-spar-18430-stan-01sparkfun)
+* [PROJ-SPAR-18430-STAN-01>SparkFun WiFi Function Board ESP32](#proj-spar-18430-stan-01sparkfun-wifi-function-board-esp32)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18430-STAN-01>SparkFun WiFi Function Board ESP32
 
-* [PROJ-SPAR-18430-STAN-01>Sparkfun](#proj-spar-18430-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18430-STAN-01
+- Hex ID: PRS18430
+- Name: SparkFun WiFi Function Board ESP32
+- Description: 
 
-# PROJ-SPAR-18430-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

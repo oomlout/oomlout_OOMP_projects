@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18077-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18077-STAN-01>Sparkfun](#proj-spar-18077-stan-01sparkfun)
+* [PROJ-SPAR-18077-STAN-01>SparkFun Cryptographic Co-Processor Breakout ATECC608A Qwiic](#proj-spar-18077-stan-01sparkfun-cryptographic-co-processor-breakout-atecc608a-qwiic)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18077-STAN-01>SparkFun Cryptographic Co-Processor Breakout ATECC608A Qwiic
 
-* [PROJ-SPAR-18077-STAN-01>Sparkfun](#proj-spar-18077-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18077-STAN-01
+- Hex ID: PRS18077
+- Name: SparkFun Cryptographic Co-Processor Breakout ATECC608A Qwiic
+- Description: 
 
-# PROJ-SPAR-18077-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

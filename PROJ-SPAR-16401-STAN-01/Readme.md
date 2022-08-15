@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16401-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16401-STAN-01>Sparkfun](#proj-spar-16401-stan-01sparkfun)
+* [PROJ-SPAR-16401-STAN-01>MicroMod Artemis Processor](#proj-spar-16401-stan-01micromod-artemis-processor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16401-STAN-01>MicroMod Artemis Processor
 
-* [PROJ-SPAR-16401-STAN-01>Sparkfun](#proj-spar-16401-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16401-STAN-01
+- Hex ID: PRS16401
+- Name: MicroMod Artemis Processor
+- Description: 
 
-# PROJ-SPAR-16401-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

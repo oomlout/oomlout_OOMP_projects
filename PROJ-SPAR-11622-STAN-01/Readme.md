@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11622-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11622-STAN-01>Sparkfun](#proj-spar-11622-stan-01sparkfun)
+* [PROJ-SPAR-11622-STAN-01>RedBot with Optical Encoder](#proj-spar-11622-stan-01redbot-with-optical-encoder)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11622-STAN-01>RedBot with Optical Encoder
 
-* [PROJ-SPAR-11622-STAN-01>Sparkfun](#proj-spar-11622-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11622-STAN-01
+- Hex ID: PRS11622
+- Name: RedBot with Optical Encoder
+- Description: 
 
-# PROJ-SPAR-11622-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

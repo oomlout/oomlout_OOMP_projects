@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17372-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17372-STAN-01>Sparkfun](#proj-spar-17372-stan-01sparkfun)
+* [PROJ-SPAR-17372-STAN-01>SparkFun PIR Breakout](#proj-spar-17372-stan-01sparkfun-pir-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17372-STAN-01>SparkFun PIR Breakout
 
-* [PROJ-SPAR-17372-STAN-01>Sparkfun](#proj-spar-17372-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17372-STAN-01
+- Hex ID: PRS17372
+- Name: SparkFun PIR Breakout
+- Description: 
 
-# PROJ-SPAR-17372-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

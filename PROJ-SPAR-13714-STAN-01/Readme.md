@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13714-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13714-STAN-01>Sparkfun](#proj-spar-13714-stan-01sparkfun)
+* [PROJ-SPAR-13714-STAN-01>FreeSoc2](#proj-spar-13714-stan-01freesoc2)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13714-STAN-01>FreeSoc2
 
-* [PROJ-SPAR-13714-STAN-01>Sparkfun](#proj-spar-13714-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13714-STAN-01
+- Hex ID: PRS13714
+- Name: FreeSoc2
+- Description: 
 
-# PROJ-SPAR-13714-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,19 @@
 
-PROJ-ADAF-1895-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-1895-STAN-01>Adafruit](#proj-adaf-1895-stan-01adafruit)
+* [PROJ-ADAF-1895-STAN-01>Adafruit FRAM Breakout PCB](#proj-adaf-1895-stan-01adafruit-fram-breakout-pcb)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-ADAF-1895-STAN-01>Adafruit FRAM Breakout PCB
 
-* [PROJ-ADAF-1895-STAN-01>Adafruit](#proj-adaf-1895-stan-01adafruit)
-	* [Tags](#tags)
-
-# PROJ-ADAF-1895-STAN-01>Adafruit
+- ID: PROJ-ADAF-1895-STAN-01
+- Hex ID: PRA1895
+- Name: Adafruit FRAM Breakout PCB
+- Description: 
 
 ## Tags
 
@@ -24,6 +23,6 @@ Contents
 - oompColor: 1895
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit FRAM Breakout PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-FRAM-Breakout-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit FRAM Breakout PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1895

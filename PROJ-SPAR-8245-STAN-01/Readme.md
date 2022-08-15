@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8245-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8245-STAN-01>Sparkfun](#proj-spar-8245-stan-01sparkfun)
+* [PROJ-SPAR-8245-STAN-01>Serial USB Adapter-Nike iPod](#proj-spar-8245-stan-01serial-usb-adapter-nike-ipod)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8245-STAN-01>Serial USB Adapter-Nike iPod
 
-* [PROJ-SPAR-8245-STAN-01>Sparkfun](#proj-spar-8245-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8245-STAN-01
+- Hex ID: PRS8245
+- Name: Serial USB Adapter-Nike iPod
+- Description: 
 
-# PROJ-SPAR-8245-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

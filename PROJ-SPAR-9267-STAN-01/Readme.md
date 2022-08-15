@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9267-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9267-STAN-01>Sparkfun](#proj-spar-9267-stan-01sparkfun)
+* [PROJ-SPAR-9267-STAN-01>LilyPad Accelerometer-ADXL335](#proj-spar-9267-stan-01lilypad-accelerometer-adxl335)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9267-STAN-01>LilyPad Accelerometer-ADXL335
 
-* [PROJ-SPAR-9267-STAN-01>Sparkfun](#proj-spar-9267-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9267-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9267-STAN-01
+- Hex ID: PRS9267
+- Name: LilyPad Accelerometer-ADXL335
+- Description: 
 
 ## Tags
 

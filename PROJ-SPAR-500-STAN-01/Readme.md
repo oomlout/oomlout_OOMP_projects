@@ -1,20 +1,24 @@
 
-PROJ-SPAR-500-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-500-STAN-01>Sparkfun](#proj-spar-500-stan-01sparkfun)
+* [PROJ-SPAR-500-STAN-01>SSOP-DIP Adapter 28-Pin](#proj-spar-500-stan-01ssop-dip-adapter-28-pin)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-500-STAN-01>SSOP-DIP Adapter 28-Pin
 
-* [PROJ-SPAR-500-STAN-01>Sparkfun](#proj-spar-500-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-500-STAN-01
+- Hex ID: PRS500
+- Name: SSOP-DIP Adapter 28-Pin
+- Description: 
 
-# PROJ-SPAR-500-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-3356-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-3356-STAN-01>Adafruit](#proj-adaf-3356-stan-01adafruit)
+* [PROJ-ADAF-3356-STAN-01>Adafruit Animated Eyes Bonnet PCB](#proj-adaf-3356-stan-01adafruit-animated-eyes-bonnet-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-3356-STAN-01>Adafruit Animated Eyes Bonnet PCB
 
-Contents
-========
+- ID: PROJ-ADAF-3356-STAN-01
+- Hex ID: PRA3356
+- Name: Adafruit Animated Eyes Bonnet PCB
+- Description: 
 
-* [PROJ-ADAF-3356-STAN-01>Adafruit](#proj-adaf-3356-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-3356-STAN-01>Adafruit
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 3356
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Animated Eyes Bonnet PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Animated-Eyes-Bonnet-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Animated Eyes Bonnet PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3356
+
+
+
+[im]: kicadPcb3d_450.png

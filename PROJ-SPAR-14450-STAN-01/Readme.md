@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14450-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14450-STAN-01>Sparkfun](#proj-spar-14450-stan-01sparkfun)
+* [PROJ-SPAR-14450-STAN-01>Motor Driver-Dual TB6612FNG](#proj-spar-14450-stan-01motor-driver-dual-tb6612fng)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14450-STAN-01>Motor Driver-Dual TB6612FNG
 
-* [PROJ-SPAR-14450-STAN-01>Sparkfun](#proj-spar-14450-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14450-STAN-01
+- Hex ID: PRS14450
+- Name: Motor Driver-Dual TB6612FNG
+- Description: 
 
-# PROJ-SPAR-14450-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

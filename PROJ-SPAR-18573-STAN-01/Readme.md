@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18573-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18573-STAN-01>Sparkfun](#proj-spar-18573-stan-01sparkfun)
+* [PROJ-SPAR-18573-STAN-01>MicroMod Function LoRa 1W](#proj-spar-18573-stan-01micromod-function-lora-1w)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18573-STAN-01>MicroMod Function LoRa 1W
 
-* [PROJ-SPAR-18573-STAN-01>Sparkfun](#proj-spar-18573-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18573-STAN-01
+- Hex ID: PRS18573
+- Name: MicroMod Function LoRa 1W
+- Description: 
 
-# PROJ-SPAR-18573-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

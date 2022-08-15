@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9569-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9569-STAN-01>Sparkfun](#proj-spar-9569-stan-01sparkfun)
+* [PROJ-SPAR-9569-STAN-01>Humidity Sensor Breakout-HIH-4030](#proj-spar-9569-stan-01humidity-sensor-breakout-hih-4030)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9569-STAN-01>Humidity Sensor Breakout-HIH-4030
 
-* [PROJ-SPAR-9569-STAN-01>Sparkfun](#proj-spar-9569-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9569-STAN-01
+- Hex ID: PRS9569
+- Name: Humidity Sensor Breakout-HIH-4030
+- Description: 
 
-# PROJ-SPAR-9569-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

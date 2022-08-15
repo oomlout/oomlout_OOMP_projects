@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10401-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10401-STAN-01>Sparkfun](#proj-spar-10401-stan-01sparkfun)
+* [PROJ-SPAR-10401-STAN-01>Lipo Charger Basic-miniUSB](#proj-spar-10401-stan-01lipo-charger-basic-miniusb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10401-STAN-01>Lipo Charger Basic-miniUSB
 
-Contents
-========
+- ID: PROJ-SPAR-10401-STAN-01
+- Hex ID: PRS10401
+- Name: Lipo Charger Basic-miniUSB
+- Description: 
 
-* [PROJ-SPAR-10401-STAN-01>Sparkfun](#proj-spar-10401-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10401-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: Lipo Charger Basic-miniUSB
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-miniUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10401
+
+
+
+[im]: eagleImage_450.png

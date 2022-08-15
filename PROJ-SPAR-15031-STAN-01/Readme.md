@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15031-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15031-STAN-01>Sparkfun](#proj-spar-15031-stan-01sparkfun)
+* [PROJ-SPAR-15031-STAN-01>ESP8266 WiFi IR Blaster](#proj-spar-15031-stan-01esp8266-wifi-ir-blaster)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15031-STAN-01>ESP8266 WiFi IR Blaster
 
-* [PROJ-SPAR-15031-STAN-01>Sparkfun](#proj-spar-15031-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15031-STAN-01
+- Hex ID: PRS15031
+- Name: ESP8266 WiFi IR Blaster
+- Description: 
 
-# PROJ-SPAR-15031-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

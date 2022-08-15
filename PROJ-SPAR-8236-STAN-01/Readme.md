@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8236-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8236-STAN-01>Sparkfun](#proj-spar-8236-stan-01sparkfun)
+* [PROJ-SPAR-8236-STAN-01>Navigation Switch Breakout](#proj-spar-8236-stan-01navigation-switch-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8236-STAN-01>Navigation Switch Breakout
 
-* [PROJ-SPAR-8236-STAN-01>Sparkfun](#proj-spar-8236-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8236-STAN-01
+- Hex ID: PRS8236
+- Name: Navigation Switch Breakout
+- Description: 
 
-# PROJ-SPAR-8236-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

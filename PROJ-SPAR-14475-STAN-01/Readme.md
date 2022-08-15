@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14475-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14475-STAN-01>Sparkfun](#proj-spar-14475-stan-01sparkfun)
+* [PROJ-SPAR-14475-STAN-01>Noisy Cricket-1.5W Stereo Amplifier Breakout](#proj-spar-14475-stan-01noisy-cricket-15w-stereo-amplifier-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14475-STAN-01>Noisy Cricket-1.5W Stereo Amplifier Breakout
 
-* [PROJ-SPAR-14475-STAN-01>Sparkfun](#proj-spar-14475-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14475-STAN-01
+- Hex ID: PRS14475
+- Name: Noisy Cricket-1.5W Stereo Amplifier Breakout
+- Description: 
 
-# PROJ-SPAR-14475-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,34 @@
 
-PROJ-ADAF-4821-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-4821-STAN-01>Adafruit](#proj-adaf-4821-stan-01adafruit)
+* [PROJ-ADAF-4821-STAN-01>Adafruit TMP117 PCB](#proj-adaf-4821-stan-01adafruit-tmp117-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-4821-STAN-01>Adafruit TMP117 PCB
 
-Contents
-========
+- ID: PROJ-ADAF-4821-STAN-01
+- Hex ID: PRA4821
+- Name: Adafruit TMP117 PCB
+- Description: 
 
-* [PROJ-ADAF-4821-STAN-01>Adafruit](#proj-adaf-4821-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-4821-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 4821
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit TMP117 PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-TMP117-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit TMP117 PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-TMP117-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4821
+
+
+
+[im]: eagleImage_450.png

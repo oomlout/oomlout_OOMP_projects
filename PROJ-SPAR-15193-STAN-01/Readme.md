@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15193-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15193-STAN-01>Sparkfun](#proj-spar-15193-stan-01sparkfun)
+* [PROJ-SPAR-15193-STAN-01>SparkFun u-blox ZOE-M8Q](#proj-spar-15193-stan-01sparkfun-u-blox-zoe-m8q)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15193-STAN-01>SparkFun u-blox ZOE-M8Q
 
-* [PROJ-SPAR-15193-STAN-01>Sparkfun](#proj-spar-15193-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15193-STAN-01
+- Hex ID: PRS15193
+- Name: SparkFun u-blox ZOE-M8Q
+- Description: 
 
-# PROJ-SPAR-15193-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

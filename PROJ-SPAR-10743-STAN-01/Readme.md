@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10743-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10743-STAN-01>Sparkfun](#proj-spar-10743-stan-01sparkfun)
+* [PROJ-SPAR-10743-STAN-01>Mega Pro Mini](#proj-spar-10743-stan-01mega-pro-mini)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10743-STAN-01>Mega Pro Mini
 
-Contents
-========
+- ID: PROJ-SPAR-10743-STAN-01
+- Hex ID: PRS10743
+- Name: Mega Pro Mini
+- Description: 
 
-* [PROJ-SPAR-10743-STAN-01>Sparkfun](#proj-spar-10743-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10743-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: Mega Pro Mini
 - sources: All source files from https://github.com/sparkfun/Mega_Pro_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10743
+
+
+
+[im]: eagleImage_450.png

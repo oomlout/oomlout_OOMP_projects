@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13746-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13746-STAN-01>Sparkfun](#proj-spar-13746-stan-01sparkfun)
+* [PROJ-SPAR-13746-STAN-01>Beefy 3](#proj-spar-13746-stan-01beefy-3)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13746-STAN-01>Beefy 3
 
-* [PROJ-SPAR-13746-STAN-01>Sparkfun](#proj-spar-13746-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13746-STAN-01
+- Hex ID: PRS13746
+- Name: Beefy 3
+- Description: 
 
-# PROJ-SPAR-13746-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

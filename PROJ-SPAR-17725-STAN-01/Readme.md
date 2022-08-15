@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17725-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17725-STAN-01>Sparkfun](#proj-spar-17725-stan-01sparkfun)
+* [PROJ-SPAR-17725-STAN-01>MicroMod Asset Tracker Update Tool](#proj-spar-17725-stan-01micromod-asset-tracker-update-tool)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17725-STAN-01>MicroMod Asset Tracker Update Tool
 
-* [PROJ-SPAR-17725-STAN-01>Sparkfun](#proj-spar-17725-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17725-STAN-01
+- Hex ID: PRS17725
+- Name: MicroMod Asset Tracker Update Tool
+- Description: 
 
-# PROJ-SPAR-17725-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

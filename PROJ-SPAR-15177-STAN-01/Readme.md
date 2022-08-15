@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15177-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15177-STAN-01>Sparkfun](#proj-spar-15177-stan-01sparkfun)
+* [PROJ-SPAR-15177-STAN-01>Qwiic Proximity Sensor](#proj-spar-15177-stan-01qwiic-proximity-sensor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15177-STAN-01>Qwiic Proximity Sensor
 
-* [PROJ-SPAR-15177-STAN-01>Sparkfun](#proj-spar-15177-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15177-STAN-01
+- Hex ID: PRS15177
+- Name: Qwiic Proximity Sensor
+- Description: 
 
-# PROJ-SPAR-15177-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

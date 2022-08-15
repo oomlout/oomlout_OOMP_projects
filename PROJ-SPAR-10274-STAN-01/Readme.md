@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10274-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10274-STAN-01>Sparkfun](#proj-spar-10274-stan-01sparkfun)
+* [PROJ-SPAR-10274-STAN-01>LilyPad Arduino Simple](#proj-spar-10274-stan-01lilypad-arduino-simple)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10274-STAN-01>LilyPad Arduino Simple
 
-Contents
-========
+- ID: PROJ-SPAR-10274-STAN-01
+- Hex ID: PRS10274
+- Name: LilyPad Arduino Simple
+- Description: 
 
-* [PROJ-SPAR-10274-STAN-01>Sparkfun](#proj-spar-10274-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10274-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: LilyPad Arduino Simple
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_Simple (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10274
+
+
+
+[im]: eagleImage_450.png

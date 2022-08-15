@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15444-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15444-STAN-01>Sparkfun](#proj-spar-15444-stan-01sparkfun)
+* [PROJ-SPAR-15444-STAN-01>RedBoard Artemis](#proj-spar-15444-stan-01redboard-artemis)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15444-STAN-01>RedBoard Artemis
 
-* [PROJ-SPAR-15444-STAN-01>Sparkfun](#proj-spar-15444-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15444-STAN-01
+- Hex ID: PRS15444
+- Name: RedBoard Artemis
+- Description: 
 
-# PROJ-SPAR-15444-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

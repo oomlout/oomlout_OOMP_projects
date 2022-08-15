@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14631-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14631-STAN-01>Sparkfun](#proj-spar-14631-stan-01sparkfun)
+* [PROJ-SPAR-14631-STAN-01>LilyPad USB Plus Standalone](#proj-spar-14631-stan-01lilypad-usb-plus-standalone)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14631-STAN-01>LilyPad USB Plus Standalone
 
-* [PROJ-SPAR-14631-STAN-01>Sparkfun](#proj-spar-14631-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14631-STAN-01
+- Hex ID: PRS14631
+- Name: LilyPad USB Plus Standalone
+- Description: 
 
-# PROJ-SPAR-14631-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12052-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12052-STAN-01>Sparkfun](#proj-spar-12052-stan-01sparkfun)
+* [PROJ-SPAR-12052-STAN-01>LTC4150 Coulomb Counter BOB](#proj-spar-12052-stan-01ltc4150-coulomb-counter-bob)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12052-STAN-01>LTC4150 Coulomb Counter BOB
 
-* [PROJ-SPAR-12052-STAN-01>Sparkfun](#proj-spar-12052-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12052-STAN-01
+- Hex ID: PRS12052
+- Name: LTC4150 Coulomb Counter BOB
+- Description: 
 
-# PROJ-SPAR-12052-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

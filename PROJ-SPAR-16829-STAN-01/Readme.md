@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16829-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16829-STAN-01>Sparkfun](#proj-spar-16829-stan-01sparkfun)
+* [PROJ-SPAR-16829-STAN-01>MicroMod Data Logging Carrier](#proj-spar-16829-stan-01micromod-data-logging-carrier)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16829-STAN-01>MicroMod Data Logging Carrier
 
-* [PROJ-SPAR-16829-STAN-01>Sparkfun](#proj-spar-16829-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16829-STAN-01
+- Hex ID: PRS16829
+- Name: MicroMod Data Logging Carrier
+- Description: 
 
-# PROJ-SPAR-16829-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

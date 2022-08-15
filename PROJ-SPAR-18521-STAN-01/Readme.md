@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18521-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18521-STAN-01>Sparkfun](#proj-spar-18521-stan-01sparkfun)
+* [PROJ-SPAR-18521-STAN-01>SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic](#proj-spar-18521-stan-01sparkfun-digital-temperature-sensor-breakout-as6212-qwiic)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18521-STAN-01>SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic
 
-* [PROJ-SPAR-18521-STAN-01>Sparkfun](#proj-spar-18521-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18521-STAN-01
+- Hex ID: PRS18521
+- Name: SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic
+- Description: 
 
-# PROJ-SPAR-18521-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

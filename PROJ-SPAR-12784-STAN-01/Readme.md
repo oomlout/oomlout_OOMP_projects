@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12784-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12784-STAN-01>Sparkfun](#proj-spar-12784-stan-01sparkfun)
+* [PROJ-SPAR-12784-STAN-01>ToF Range Finder Breakout-VL6180](#proj-spar-12784-stan-01tof-range-finder-breakout-vl6180)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12784-STAN-01>ToF Range Finder Breakout-VL6180
 
-* [PROJ-SPAR-12784-STAN-01>Sparkfun](#proj-spar-12784-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12784-STAN-01
+- Hex ID: PRS12784
+- Name: ToF Range Finder Breakout-VL6180
+- Description: 
 
-# PROJ-SPAR-12784-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

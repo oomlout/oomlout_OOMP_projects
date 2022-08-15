@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14546-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14546-STAN-01>Sparkfun](#proj-spar-14546-stan-01sparkfun)
+* [PROJ-SPAR-14546-STAN-01>LilyPad E-Sewing Kit](#proj-spar-14546-stan-01lilypad-e-sewing-kit)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14546-STAN-01>LilyPad E-Sewing Kit
 
-* [PROJ-SPAR-14546-STAN-01>Sparkfun](#proj-spar-14546-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14546-STAN-01
+- Hex ID: PRS14546
+- Name: LilyPad E-Sewing Kit
+- Description: 
 
-# PROJ-SPAR-14546-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

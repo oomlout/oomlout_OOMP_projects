@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13664-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13664-STAN-01>Sparkfun](#proj-spar-13664-stan-01sparkfun)
+* [PROJ-SPAR-13664-STAN-01>SAMD21 Mini Breakout](#proj-spar-13664-stan-01samd21-mini-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13664-STAN-01>SAMD21 Mini Breakout
 
-* [PROJ-SPAR-13664-STAN-01>Sparkfun](#proj-spar-13664-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13664-STAN-01
+- Hex ID: PRS13664
+- Name: SAMD21 Mini Breakout
+- Description: 
 
-# PROJ-SPAR-13664-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

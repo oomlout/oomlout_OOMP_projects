@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18355-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18355-STAN-01>Sparkfun](#proj-spar-18355-stan-01sparkfun)
+* [PROJ-SPAR-18355-STAN-01>Qwiic EEPROM Breakout](#proj-spar-18355-stan-01qwiic-eeprom-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18355-STAN-01>Qwiic EEPROM Breakout
 
-* [PROJ-SPAR-18355-STAN-01>Sparkfun](#proj-spar-18355-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18355-STAN-01
+- Hex ID: PRS18355
+- Name: Qwiic EEPROM Breakout
+- Description: 
 
-# PROJ-SPAR-18355-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

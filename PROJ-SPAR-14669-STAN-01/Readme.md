@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14669-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14669-STAN-01>Sparkfun](#proj-spar-14669-stan-01sparkfun)
+* [PROJ-SPAR-14669-STAN-01>BlackBoard](#proj-spar-14669-stan-01blackboard)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14669-STAN-01>BlackBoard
 
-* [PROJ-SPAR-14669-STAN-01>Sparkfun](#proj-spar-14669-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14669-STAN-01
+- Hex ID: PRS14669
+- Name: BlackBoard
+- Description: 
 
-# PROJ-SPAR-14669-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

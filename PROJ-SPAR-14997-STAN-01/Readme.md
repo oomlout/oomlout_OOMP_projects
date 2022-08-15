@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14997-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14997-STAN-01>Sparkfun](#proj-spar-14997-stan-01sparkfun)
+* [PROJ-SPAR-14997-STAN-01>LTE Cat M1 Shield](#proj-spar-14997-stan-01lte-cat-m1-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14997-STAN-01>LTE Cat M1 Shield
 
-* [PROJ-SPAR-14997-STAN-01>Sparkfun](#proj-spar-14997-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14997-STAN-01
+- Hex ID: PRS14997
+- Name: LTE Cat M1 Shield
+- Description: 
 
-# PROJ-SPAR-14997-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

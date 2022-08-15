@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9760-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9760-STAN-01>Sparkfun](#proj-spar-9760-stan-01sparkfun)
+* [PROJ-SPAR-9760-STAN-01>Joystick Shield Kit](#proj-spar-9760-stan-01joystick-shield-kit)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9760-STAN-01>Joystick Shield Kit
 
-* [PROJ-SPAR-9760-STAN-01>Sparkfun](#proj-spar-9760-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9760-STAN-01
+- Hex ID: PRS9760
+- Name: Joystick Shield Kit
+- Description: 
 
-# PROJ-SPAR-9760-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

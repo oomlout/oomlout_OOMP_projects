@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19626-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19626-STAN-01>Sparkfun](#proj-spar-19626-stan-01sparkfun)
+* [PROJ-SPAR-19626-STAN-01>8 channel level shifter TXS0108E](#proj-spar-19626-stan-018-channel-level-shifter-txs0108e)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19626-STAN-01>8 channel level shifter TXS0108E
 
-* [PROJ-SPAR-19626-STAN-01>Sparkfun](#proj-spar-19626-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19626-STAN-01
+- Hex ID: PRS19626
+- Name: 8 channel level shifter TXS0108E
+- Description: 
 
-# PROJ-SPAR-19626-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

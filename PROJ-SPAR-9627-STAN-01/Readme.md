@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9627-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9627-STAN-01>Sparkfun](#proj-spar-9627-stan-01sparkfun)
+* [PROJ-SPAR-9627-STAN-01>Mini FET Shield](#proj-spar-9627-stan-01mini-fet-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9627-STAN-01>Mini FET Shield
 
-* [PROJ-SPAR-9627-STAN-01>Sparkfun](#proj-spar-9627-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9627-STAN-01
+- Hex ID: PRS9627
+- Name: Mini FET Shield
+- Description: 
 
-# PROJ-SPAR-9627-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

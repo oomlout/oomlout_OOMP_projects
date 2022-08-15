@@ -1,20 +1,24 @@
 
-PROJ-SPAR-198-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-198-STAN-01>Sparkfun](#proj-spar-198-stan-01sparkfun)
+* [PROJ-SPAR-198-STAN-01>CP2102 Breakout](#proj-spar-198-stan-01cp2102-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-198-STAN-01>CP2102 Breakout
 
-* [PROJ-SPAR-198-STAN-01>Sparkfun](#proj-spar-198-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-198-STAN-01
+- Hex ID: PRS198
+- Name: CP2102 Breakout
+- Description: 
 
-# PROJ-SPAR-198-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

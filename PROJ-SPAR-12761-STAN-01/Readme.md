@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12761-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12761-STAN-01>Sparkfun](#proj-spar-12761-stan-01sparkfun)
+* [PROJ-SPAR-12761-STAN-01>microSD Shield](#proj-spar-12761-stan-01microsd-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12761-STAN-01>microSD Shield
 
-* [PROJ-SPAR-12761-STAN-01>Sparkfun](#proj-spar-12761-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12761-STAN-01
+- Hex ID: PRS12761
+- Name: microSD Shield
+- Description: 
 
-# PROJ-SPAR-12761-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

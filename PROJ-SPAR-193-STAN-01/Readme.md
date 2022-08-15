@@ -1,20 +1,24 @@
 
-PROJ-SPAR-193-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-193-STAN-01>Sparkfun](#proj-spar-193-stan-01sparkfun)
+* [PROJ-SPAR-193-STAN-01>Adapter Board-ICD ICD2](#proj-spar-193-stan-01adapter-board-icd-icd2)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-193-STAN-01>Adapter Board-ICD ICD2
 
-* [PROJ-SPAR-193-STAN-01>Sparkfun](#proj-spar-193-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-193-STAN-01
+- Hex ID: PRS193
+- Name: Adapter Board-ICD ICD2
+- Description: 
 
-# PROJ-SPAR-193-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

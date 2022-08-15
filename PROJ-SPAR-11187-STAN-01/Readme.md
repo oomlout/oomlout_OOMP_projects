@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11187-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11187-STAN-01>Sparkfun](#proj-spar-11187-stan-01sparkfun)
+* [PROJ-SPAR-11187-STAN-01>5-Way Tactile Switch Breakout](#proj-spar-11187-stan-015-way-tactile-switch-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11187-STAN-01>5-Way Tactile Switch Breakout
 
-* [PROJ-SPAR-11187-STAN-01>Sparkfun](#proj-spar-11187-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11187-STAN-01
+- Hex ID: PRS11187
+- Name: 5-Way Tactile Switch Breakout
+- Description: 
 
-# PROJ-SPAR-11187-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

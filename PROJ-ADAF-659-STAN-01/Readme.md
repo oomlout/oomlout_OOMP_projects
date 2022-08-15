@@ -1,20 +1,34 @@
 
-PROJ-ADAF-659-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-659-STAN-01>Adafruit](#proj-adaf-659-stan-01adafruit)
+* [PROJ-ADAF-659-STAN-01>Adafruit Flora Mainboard](#proj-adaf-659-stan-01adafruit-flora-mainboard)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-659-STAN-01>Adafruit Flora Mainboard
 
-Contents
-========
+- ID: PROJ-ADAF-659-STAN-01
+- Hex ID: PRA659
+- Name: Adafruit Flora Mainboard
+- Description: 
 
-* [PROJ-ADAF-659-STAN-01>Adafruit](#proj-adaf-659-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-659-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 659
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Flora Mainboard
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Flora-Mainboard (source licence details in srcLicense.md)
+- oompName: Adafruit Flora Mainboard
+- sources: All source files from https://github.com/adafruit/Adafruit-Flora-Mainboard (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/659
+
+
+
+[im]: eagleImage_450.png

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13762-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13762-STAN-01>Sparkfun](#proj-spar-13762-stan-01sparkfun)
+* [PROJ-SPAR-13762-STAN-01>MPU-9250 Breakout](#proj-spar-13762-stan-01mpu-9250-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13762-STAN-01>MPU-9250 Breakout
 
-* [PROJ-SPAR-13762-STAN-01>Sparkfun](#proj-spar-13762-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13762-STAN-01
+- Hex ID: PRS13762
+- Name: MPU-9250 Breakout
+- Description: 
 
-# PROJ-SPAR-13762-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

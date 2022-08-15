@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8883-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8883-STAN-01>Sparkfun](#proj-spar-8883-stan-01sparkfun)
+* [PROJ-SPAR-8883-STAN-01>Low Current Sensor Breakout-ACS712](#proj-spar-8883-stan-01low-current-sensor-breakout-acs712)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8883-STAN-01>Low Current Sensor Breakout-ACS712
 
-* [PROJ-SPAR-8883-STAN-01>Sparkfun](#proj-spar-8883-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8883-STAN-01
+- Hex ID: PRS8883
+- Name: Low Current Sensor Breakout-ACS712
+- Description: 
 
-# PROJ-SPAR-8883-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

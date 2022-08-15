@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12071-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12071-STAN-01>Sparkfun](#proj-spar-12071-stan-01sparkfun)
+* [PROJ-SPAR-12071-STAN-01>CC3000 WiFi Shield](#proj-spar-12071-stan-01cc3000-wifi-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12071-STAN-01>CC3000 WiFi Shield
 
-* [PROJ-SPAR-12071-STAN-01>Sparkfun](#proj-spar-12071-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12071-STAN-01
+- Hex ID: PRS12071
+- Name: CC3000 WiFi Shield
+- Description: 
 
-# PROJ-SPAR-12071-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

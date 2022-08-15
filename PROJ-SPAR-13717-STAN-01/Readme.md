@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13717-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13717-STAN-01>Sparkfun](#proj-spar-13717-stan-01sparkfun)
+* [PROJ-SPAR-13717-STAN-01>Pi Wedge 40-Pin PreAssembled](#proj-spar-13717-stan-01pi-wedge-40-pin-preassembled)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13717-STAN-01>Pi Wedge 40-Pin PreAssembled
 
-* [PROJ-SPAR-13717-STAN-01>Sparkfun](#proj-spar-13717-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13717-STAN-01
+- Hex ID: PRS13717
+- Name: Pi Wedge 40-Pin PreAssembled
+- Description: 
 
-# PROJ-SPAR-13717-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

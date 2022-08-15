@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14006-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14006-STAN-01>Sparkfun](#proj-spar-14006-stan-01sparkfun)
+* [PROJ-SPAR-14006-STAN-01>Lil Soundie Audio Player](#proj-spar-14006-stan-01lil-soundie-audio-player)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14006-STAN-01>Lil Soundie Audio Player
 
-* [PROJ-SPAR-14006-STAN-01>Sparkfun](#proj-spar-14006-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14006-STAN-01
+- Hex ID: PRS14006
+- Name: Lil Soundie Audio Player
+- Description: 
 
-# PROJ-SPAR-14006-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

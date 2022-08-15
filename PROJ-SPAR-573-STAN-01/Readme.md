@@ -1,20 +1,24 @@
 
-PROJ-SPAR-573-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-573-STAN-01>Sparkfun](#proj-spar-573-stan-01sparkfun)
+* [PROJ-SPAR-573-STAN-01>SIM Card Breakout](#proj-spar-573-stan-01sim-card-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-573-STAN-01>SIM Card Breakout
 
-* [PROJ-SPAR-573-STAN-01>Sparkfun](#proj-spar-573-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-573-STAN-01
+- Hex ID: PRS573
+- Name: SIM Card Breakout
+- Description: 
 
-# PROJ-SPAR-573-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

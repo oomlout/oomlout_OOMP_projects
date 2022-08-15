@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13322-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13322-STAN-01>Sparkfun](#proj-spar-13322-stan-01sparkfun)
+* [PROJ-SPAR-13322-STAN-01>Soil Moisture Sensor](#proj-spar-13322-stan-01soil-moisture-sensor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13322-STAN-01>Soil Moisture Sensor
 
-* [PROJ-SPAR-13322-STAN-01>Sparkfun](#proj-spar-13322-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13322-STAN-01
+- Hex ID: PRS13322
+- Name: Soil Moisture Sensor
+- Description: 
 
-# PROJ-SPAR-13322-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

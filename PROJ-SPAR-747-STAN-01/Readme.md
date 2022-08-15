@@ -1,20 +1,24 @@
 
-PROJ-SPAR-747-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-747-STAN-01>Sparkfun](#proj-spar-747-stan-01sparkfun)
+* [PROJ-SPAR-747-STAN-01>LMD1820x Breakout](#proj-spar-747-stan-01lmd1820x-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-747-STAN-01>LMD1820x Breakout
 
-* [PROJ-SPAR-747-STAN-01>Sparkfun](#proj-spar-747-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-747-STAN-01
+- Hex ID: PRS747
+- Name: LMD1820x Breakout
+- Description: 
 
-# PROJ-SPAR-747-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11285-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11285-STAN-01>Sparkfun](#proj-spar-11285-stan-01sparkfun)
+* [PROJ-SPAR-11285-STAN-01>LilyPad Coin Cell Battery Holder-Switched](#proj-spar-11285-stan-01lilypad-coin-cell-battery-holder-switched)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11285-STAN-01>LilyPad Coin Cell Battery Holder-Switched
 
-* [PROJ-SPAR-11285-STAN-01>Sparkfun](#proj-spar-11285-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11285-STAN-01
+- Hex ID: PRS11285
+- Name: LilyPad Coin Cell Battery Holder-Switched
+- Description: 
 
-# PROJ-SPAR-11285-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

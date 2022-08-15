@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13034-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13034-STAN-01>Sparkfun](#proj-spar-13034-stan-01sparkfun)
+* [PROJ-SPAR-13034-STAN-01>Edison I2C Breakout Block](#proj-spar-13034-stan-01edison-i2c-breakout-block)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13034-STAN-01>Edison I2C Breakout Block
 
-* [PROJ-SPAR-13034-STAN-01>Sparkfun](#proj-spar-13034-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13034-STAN-01
+- Hex ID: PRS13034
+- Name: Edison I2C Breakout Block
+- Description: 
 
-# PROJ-SPAR-13034-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

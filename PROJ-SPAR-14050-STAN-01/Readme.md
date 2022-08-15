@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14050-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14050-STAN-01>Sparkfun](#proj-spar-14050-stan-01sparkfun)
+* [PROJ-SPAR-14050-STAN-01>Serial Basic Breakout-CH340G](#proj-spar-14050-stan-01serial-basic-breakout-ch340g)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14050-STAN-01>Serial Basic Breakout-CH340G
 
-* [PROJ-SPAR-14050-STAN-01>Sparkfun](#proj-spar-14050-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14050-STAN-01
+- Hex ID: PRS14050
+- Name: Serial Basic Breakout-CH340G
+- Description: 
 
-# PROJ-SPAR-14050-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15332-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15332-STAN-01>Sparkfun](#proj-spar-15332-stan-01sparkfun)
+* [PROJ-SPAR-15332-STAN-01>SparkFun Artemis](#proj-spar-15332-stan-01sparkfun-artemis)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15332-STAN-01>SparkFun Artemis
 
-* [PROJ-SPAR-15332-STAN-01>Sparkfun](#proj-spar-15332-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15332-STAN-01
+- Hex ID: PRS15332
+- Name: SparkFun Artemis
+- Description: 
 
-# PROJ-SPAR-15332-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

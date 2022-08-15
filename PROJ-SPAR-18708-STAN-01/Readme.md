@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18708-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18708-STAN-01>Sparkfun](#proj-spar-18708-stan-01sparkfun)
+* [PROJ-SPAR-18708-STAN-01>MicroMod Function Ethernet-W5500](#proj-spar-18708-stan-01micromod-function-ethernet-w5500)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18708-STAN-01>MicroMod Function Ethernet-W5500
 
-* [PROJ-SPAR-18708-STAN-01>Sparkfun](#proj-spar-18708-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18708-STAN-01
+- Hex ID: PRS18708
+- Name: MicroMod Function Ethernet-W5500
+- Description: 
 
-# PROJ-SPAR-18708-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

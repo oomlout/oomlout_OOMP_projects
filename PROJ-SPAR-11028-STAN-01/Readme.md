@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11028-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11028-STAN-01>Sparkfun](#proj-spar-11028-stan-01sparkfun)
+* [PROJ-SPAR-11028-STAN-01>MPU-6050 Breakout](#proj-spar-11028-stan-01mpu-6050-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11028-STAN-01>MPU-6050 Breakout
 
-* [PROJ-SPAR-11028-STAN-01>Sparkfun](#proj-spar-11028-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11028-STAN-01
+- Hex ID: PRS11028
+- Name: MPU-6050 Breakout
+- Description: 
 
-# PROJ-SPAR-11028-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

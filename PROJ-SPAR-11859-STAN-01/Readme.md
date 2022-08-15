@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11859-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11859-STAN-01>Sparkfun](#proj-spar-11859-stan-01sparkfun)
+* [PROJ-SPAR-11859-STAN-01>TMP006-Temp Sensor Breakout](#proj-spar-11859-stan-01tmp006-temp-sensor-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11859-STAN-01>TMP006-Temp Sensor Breakout
 
-* [PROJ-SPAR-11859-STAN-01>Sparkfun](#proj-spar-11859-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11859-STAN-01
+- Hex ID: PRS11859
+- Name: TMP006-Temp Sensor Breakout
+- Description: 
 
-# PROJ-SPAR-11859-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

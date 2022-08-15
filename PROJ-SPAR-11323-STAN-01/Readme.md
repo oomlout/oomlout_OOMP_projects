@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11323-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11323-STAN-01>Sparkfun](#proj-spar-11323-stan-01sparkfun)
+* [PROJ-SPAR-11323-STAN-01>EL Sequencer](#proj-spar-11323-stan-01el-sequencer)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11323-STAN-01>EL Sequencer
 
-* [PROJ-SPAR-11323-STAN-01>Sparkfun](#proj-spar-11323-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11323-STAN-01
+- Hex ID: PRS11323
+- Name: EL Sequencer
+- Description: 
 
-# PROJ-SPAR-11323-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

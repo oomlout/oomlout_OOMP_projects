@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10255-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10255-STAN-01>Sparkfun](#proj-spar-10255-stan-01sparkfun)
+* [PROJ-SPAR-10255-STAN-01>LiPower Boost Converter](#proj-spar-10255-stan-01lipower-boost-converter)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10255-STAN-01>LiPower Boost Converter
 
-Contents
-========
+- ID: PROJ-SPAR-10255-STAN-01
+- Hex ID: PRS10255
+- Name: LiPower Boost Converter
+- Description: 
 
-* [PROJ-SPAR-10255-STAN-01>Sparkfun](#proj-spar-10255-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10255-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: LiPower Boost Converter
 - sources: All source files from https://github.com/sparkfun/LiPower_Boost_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10255
+
+
+
+[im]: eagleImage_450.png

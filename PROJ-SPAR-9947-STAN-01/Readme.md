@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9947-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9947-STAN-01>Sparkfun](#proj-spar-9947-stan-01sparkfun)
+* [PROJ-SPAR-9947-STAN-01>USB Host Shield](#proj-spar-9947-stan-01usb-host-shield)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9947-STAN-01>USB Host Shield
 
-* [PROJ-SPAR-9947-STAN-01>Sparkfun](#proj-spar-9947-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9947-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9947-STAN-01
+- Hex ID: PRS9947
+- Name: USB Host Shield
+- Description: 
 
 ## Tags
 

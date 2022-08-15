@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15025-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15025-STAN-01>Sparkfun](#proj-spar-15025-stan-01sparkfun)
+* [PROJ-SPAR-15025-STAN-01>nRF52840 Breakout MDBT50Q](#proj-spar-15025-stan-01nrf52840-breakout-mdbt50q)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15025-STAN-01>nRF52840 Breakout MDBT50Q
 
-* [PROJ-SPAR-15025-STAN-01>Sparkfun](#proj-spar-15025-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15025-STAN-01
+- Hex ID: PRS15025
+- Name: nRF52840 Breakout MDBT50Q
+- Description: 
 
-# PROJ-SPAR-15025-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

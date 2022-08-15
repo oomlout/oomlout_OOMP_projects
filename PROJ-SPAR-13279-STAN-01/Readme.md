@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13279-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13279-STAN-01>Sparkfun](#proj-spar-13279-stan-01sparkfun)
+* [PROJ-SPAR-13279-STAN-01>Large Digit Driver](#proj-spar-13279-stan-01large-digit-driver)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13279-STAN-01>Large Digit Driver
 
-* [PROJ-SPAR-13279-STAN-01>Sparkfun](#proj-spar-13279-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13279-STAN-01
+- Hex ID: PRS13279
+- Name: Large Digit Driver
+- Description: 
 
-# PROJ-SPAR-13279-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

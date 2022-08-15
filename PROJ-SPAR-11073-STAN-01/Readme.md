@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11073-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11073-STAN-01>Sparkfun](#proj-spar-11073-stan-01sparkfun)
+* [PROJ-SPAR-11073-STAN-01>GP-2106 Breakout](#proj-spar-11073-stan-01gp-2106-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11073-STAN-01>GP-2106 Breakout
 
-* [PROJ-SPAR-11073-STAN-01>Sparkfun](#proj-spar-11073-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11073-STAN-01
+- Hex ID: PRS11073
+- Name: GP-2106 Breakout
+- Description: 
 
-# PROJ-SPAR-11073-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

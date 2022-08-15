@@ -1,20 +1,19 @@
 
-PROJ-SPAR-12081-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12081-STAN-01>Sparkfun](#proj-spar-12081-stan-01sparkfun)
+* [PROJ-SPAR-12081-STAN-01>USB Weather Board](#proj-spar-12081-stan-01usb-weather-board)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12081-STAN-01>USB Weather Board
 
-* [PROJ-SPAR-12081-STAN-01>Sparkfun](#proj-spar-12081-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-12081-STAN-01>Sparkfun
+- ID: PROJ-SPAR-12081-STAN-01
+- Hex ID: PRS12081
+- Name: USB Weather Board
+- Description: 
 
 ## Tags
 

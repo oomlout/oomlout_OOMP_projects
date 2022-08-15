@@ -1,20 +1,19 @@
 
-PROJ-SPAR-9598-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9598-STAN-01>Sparkfun](#proj-spar-9598-stan-01sparkfun)
+* [PROJ-SPAR-9598-STAN-01>MIDI Breakout](#proj-spar-9598-stan-01midi-breakout)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9598-STAN-01>MIDI Breakout
 
-* [PROJ-SPAR-9598-STAN-01>Sparkfun](#proj-spar-9598-stan-01sparkfun)
-	* [Tags](#tags)
-
-# PROJ-SPAR-9598-STAN-01>Sparkfun
+- ID: PROJ-SPAR-9598-STAN-01
+- Hex ID: PRS9598
+- Name: MIDI Breakout
+- Description: 
 
 ## Tags
 

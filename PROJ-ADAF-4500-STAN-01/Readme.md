@@ -1,20 +1,34 @@
 
-PROJ-ADAF-4500-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-4500-STAN-01>Adafruit](#proj-adaf-4500-stan-01adafruit)
+* [PROJ-ADAF-4500-STAN-01>Adafruit CLUE PCB](#proj-adaf-4500-stan-01adafruit-clue-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-4500-STAN-01>Adafruit CLUE PCB
 
-Contents
-========
+- ID: PROJ-ADAF-4500-STAN-01
+- Hex ID: PRA4500
+- Name: Adafruit CLUE PCB
+- Description: 
 
-* [PROJ-ADAF-4500-STAN-01>Adafruit](#proj-adaf-4500-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-4500-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 4500
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit CLUE PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-CLUE-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit CLUE PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-CLUE-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4500
+
+
+
+[im]: eagleImage_450.png

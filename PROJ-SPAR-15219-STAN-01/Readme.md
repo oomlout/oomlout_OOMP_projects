@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15219-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15219-STAN-01>Sparkfun](#proj-spar-15219-stan-01sparkfun)
+* [PROJ-SPAR-15219-STAN-01>SparkFun Pulse Oximeter Heart Rate Sensor](#proj-spar-15219-stan-01sparkfun-pulse-oximeter-heart-rate-sensor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15219-STAN-01>SparkFun Pulse Oximeter Heart Rate Sensor
 
-* [PROJ-SPAR-15219-STAN-01>Sparkfun](#proj-spar-15219-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15219-STAN-01
+- Hex ID: PRS15219
+- Name: SparkFun Pulse Oximeter Heart Rate Sensor
+- Description: 
 
-# PROJ-SPAR-15219-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

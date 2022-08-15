@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12787-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12787-STAN-01>Sparkfun](#proj-spar-12787-stan-01sparkfun)
+* [PROJ-SPAR-12787-STAN-01>APDS-9960 RGB and Gesture Sensor](#proj-spar-12787-stan-01apds-9960-rgb-and-gesture-sensor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12787-STAN-01>APDS-9960 RGB and Gesture Sensor
 
-* [PROJ-SPAR-12787-STAN-01>Sparkfun](#proj-spar-12787-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12787-STAN-01
+- Hex ID: PRS12787
+- Name: APDS-9960 RGB and Gesture Sensor
+- Description: 
 
-# PROJ-SPAR-12787-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

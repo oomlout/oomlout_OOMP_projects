@@ -1,20 +1,24 @@
 
-PROJ-ADAF-801-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-801-STAN-01>Adafruit](#proj-adaf-801-stan-01adafruit)
+* [PROJ-ADAF-801-STAN-01>Adafruit Prototyping Pi Plate PCB](#proj-adaf-801-stan-01adafruit-prototyping-pi-plate-pcb)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-ADAF-801-STAN-01>Adafruit Prototyping Pi Plate PCB
 
-* [PROJ-ADAF-801-STAN-01>Adafruit](#proj-adaf-801-stan-01adafruit)
-	* [Tags](#tags)
+- ID: PROJ-ADAF-801-STAN-01
+- Hex ID: PRA801
+- Name: Adafruit Prototyping Pi Plate PCB
+- Description: 
 
-# PROJ-ADAF-801-STAN-01>Adafruit
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +28,6 @@ Contents
 - oompColor: 801
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit Prototyping Pi Plate PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Prototyping-Pi-Plate-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit Prototyping Pi Plate PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/801

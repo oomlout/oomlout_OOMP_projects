@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11835-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11835-STAN-01>Sparkfun](#proj-spar-11835-stan-01sparkfun)
+* [PROJ-SPAR-11835-STAN-01>Gram Piano](#proj-spar-11835-stan-01gram-piano)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11835-STAN-01>Gram Piano
 
-* [PROJ-SPAR-11835-STAN-01>Sparkfun](#proj-spar-11835-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11835-STAN-01
+- Hex ID: PRS11835
+- Name: Gram Piano
+- Description: 
 
-# PROJ-SPAR-11835-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

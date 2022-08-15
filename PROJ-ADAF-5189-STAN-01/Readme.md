@@ -1,20 +1,34 @@
 
-PROJ-ADAF-5189-STAN-01>Adafruit
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-5189-STAN-01>Adafruit](#proj-adaf-5189-stan-01adafruit)
+* [PROJ-ADAF-5189-STAN-01>Adafruit PCF8523 RTC Breakout PCB](#proj-adaf-5189-stan-01adafruit-pcf8523-rtc-breakout-pcb)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-5189-STAN-01>Adafruit PCF8523 RTC Breakout PCB
 
-Contents
-========
+- ID: PROJ-ADAF-5189-STAN-01
+- Hex ID: PRA5189
+- Name: Adafruit PCF8523 RTC Breakout PCB
+- Description: 
 
-* [PROJ-ADAF-5189-STAN-01>Adafruit](#proj-adaf-5189-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-5189-STAN-01>Adafruit
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -24,6 +38,10 @@ Contents
 - oompColor: 5189
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit PCF8523 RTC Breakout PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-PCF8523-RTC-Breakout-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit PCF8523 RTC Breakout PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5189
+
+
+
+[im]: eagleImage_450.png

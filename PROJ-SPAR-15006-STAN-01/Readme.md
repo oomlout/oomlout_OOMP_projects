@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15006-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15006-STAN-01>Sparkfun](#proj-spar-15006-stan-01sparkfun)
+* [PROJ-SPAR-15006-STAN-01>ESP32 LoRa 1Ch Gateway](#proj-spar-15006-stan-01esp32-lora-1ch-gateway)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15006-STAN-01>ESP32 LoRa 1Ch Gateway
 
-* [PROJ-SPAR-15006-STAN-01>Sparkfun](#proj-spar-15006-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15006-STAN-01
+- Hex ID: PRS15006
+- Name: ESP32 LoRa 1Ch Gateway
+- Description: 
 
-# PROJ-SPAR-15006-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

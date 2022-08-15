@@ -1,20 +1,24 @@
 
-PROJ-SPAR-16304-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-16304-STAN-01>Sparkfun](#proj-spar-16304-stan-01sparkfun)
+* [PROJ-SPAR-16304-STAN-01>Temperature Sensor TMP102 Qwiic](#proj-spar-16304-stan-01temperature-sensor-tmp102-qwiic)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-16304-STAN-01>Temperature Sensor TMP102 Qwiic
 
-* [PROJ-SPAR-16304-STAN-01>Sparkfun](#proj-spar-16304-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-16304-STAN-01
+- Hex ID: PRS16304
+- Name: Temperature Sensor TMP102 Qwiic
+- Description: 
 
-# PROJ-SPAR-16304-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

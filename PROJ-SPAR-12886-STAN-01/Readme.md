@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12886-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12886-STAN-01>Sparkfun](#proj-spar-12886-stan-01sparkfun)
+* [PROJ-SPAR-12886-STAN-01>Electric Imp Breakout](#proj-spar-12886-stan-01electric-imp-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12886-STAN-01>Electric Imp Breakout
 
-* [PROJ-SPAR-12886-STAN-01>Sparkfun](#proj-spar-12886-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12886-STAN-01
+- Hex ID: PRS12886
+- Name: Electric Imp Breakout
+- Description: 
 
-# PROJ-SPAR-12886-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

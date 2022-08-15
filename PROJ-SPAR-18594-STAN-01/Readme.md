@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18594-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18594-STAN-01>Sparkfun](#proj-spar-18594-stan-01sparkfun)
+* [PROJ-SPAR-18594-STAN-01>MicroMod DA16200 Function](#proj-spar-18594-stan-01micromod-da16200-function)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18594-STAN-01>MicroMod DA16200 Function
 
-* [PROJ-SPAR-18594-STAN-01>Sparkfun](#proj-spar-18594-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18594-STAN-01
+- Hex ID: PRS18594
+- Name: MicroMod DA16200 Function
+- Description: 
 
-# PROJ-SPAR-18594-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

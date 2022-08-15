@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11722-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11722-STAN-01>Sparkfun](#proj-spar-11722-stan-01sparkfun)
+* [PROJ-SPAR-11722-STAN-01>Rotary Encoder Breakout-Illuminated](#proj-spar-11722-stan-01rotary-encoder-breakout-illuminated)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11722-STAN-01>Rotary Encoder Breakout-Illuminated
 
-* [PROJ-SPAR-11722-STAN-01>Sparkfun](#proj-spar-11722-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11722-STAN-01
+- Hex ID: PRS11722
+- Name: Rotary Encoder Breakout-Illuminated
+- Description: 
 
-# PROJ-SPAR-11722-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

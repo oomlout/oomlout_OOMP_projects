@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PROJ-ADAF-1032-STAN-01>oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB](#proj-adaf-1032-stan-01oomlout_oomp_projectssourcefilesadafruitadafruit-l3gd20-breakout-pcb)
+* [PROJ-ADAF-1032-STAN-01>Adafruit L3GD20 Breakout PCB](#proj-adaf-1032-stan-01adafruit-l3gd20-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-1032-STAN-01>oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB
+# PROJ-ADAF-1032-STAN-01>Adafruit L3GD20 Breakout PCB
 
 - ID: PROJ-ADAF-1032-STAN-01
 - Hex ID: PRA1032
-- Name: oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB
+- Name: Adafruit L3GD20 Breakout PCB
 - Description: 
 
 ## Images
@@ -38,8 +38,8 @@ Contents
 - oompColor: 1032
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit L3GD20 Breakout PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-L3GD20-Breakout-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit L3GD20 Breakout PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1032
 
 

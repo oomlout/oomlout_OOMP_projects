@@ -1,20 +1,24 @@
 
-PROJ-SPAR-17369-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-17369-STAN-01>Sparkfun](#proj-spar-17369-stan-01sparkfun)
+* [PROJ-SPAR-17369-STAN-01>SparkFun RTK Surveyor](#proj-spar-17369-stan-01sparkfun-rtk-surveyor)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-17369-STAN-01>SparkFun RTK Surveyor
 
-* [PROJ-SPAR-17369-STAN-01>Sparkfun](#proj-spar-17369-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-17369-STAN-01
+- Hex ID: PRS17369
+- Name: SparkFun RTK Surveyor
+- Description: 
 
-# PROJ-SPAR-17369-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

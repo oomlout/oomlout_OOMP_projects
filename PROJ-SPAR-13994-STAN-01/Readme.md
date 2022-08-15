@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13994-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13994-STAN-01>Sparkfun](#proj-spar-13994-stan-01sparkfun)
+* [PROJ-SPAR-13994-STAN-01>SSOP-DIP Adapter 16-Pin](#proj-spar-13994-stan-01ssop-dip-adapter-16-pin)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13994-STAN-01>SSOP-DIP Adapter 16-Pin
 
-* [PROJ-SPAR-13994-STAN-01>Sparkfun](#proj-spar-13994-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13994-STAN-01
+- Hex ID: PRS13994
+- Name: SSOP-DIP Adapter 16-Pin
+- Description: 
 
-# PROJ-SPAR-13994-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

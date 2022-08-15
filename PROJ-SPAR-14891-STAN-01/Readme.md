@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14891-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14891-STAN-01>Sparkfun](#proj-spar-14891-stan-01sparkfun)
+* [PROJ-SPAR-14891-STAN-01>gator starter](#proj-spar-14891-stan-01gator-starter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14891-STAN-01>gator starter
 
-* [PROJ-SPAR-14891-STAN-01>Sparkfun](#proj-spar-14891-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14891-STAN-01
+- Hex ID: PRS14891
+- Name: gator starter
+- Description: 
 
-# PROJ-SPAR-14891-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

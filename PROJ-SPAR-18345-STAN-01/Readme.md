@@ -1,20 +1,24 @@
 
-PROJ-SPAR-18345-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-18345-STAN-01>Sparkfun](#proj-spar-18345-stan-01sparkfun)
+* [PROJ-SPAR-18345-STAN-01>Qwiic Air Quality Sensor SGP40](#proj-spar-18345-stan-01qwiic-air-quality-sensor-sgp40)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-18345-STAN-01>Qwiic Air Quality Sensor SGP40
 
-* [PROJ-SPAR-18345-STAN-01>Sparkfun](#proj-spar-18345-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-18345-STAN-01
+- Hex ID: PRS18345
+- Name: Qwiic Air Quality Sensor SGP40
+- Description: 
 
-# PROJ-SPAR-18345-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13709-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13709-STAN-01>Sparkfun](#proj-spar-13709-stan-01sparkfun)
+* [PROJ-SPAR-13709-STAN-01>MyoWare Proto Shield](#proj-spar-13709-stan-01myoware-proto-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13709-STAN-01>MyoWare Proto Shield
 
-* [PROJ-SPAR-13709-STAN-01>Sparkfun](#proj-spar-13709-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13709-STAN-01
+- Hex ID: PRS13709
+- Name: MyoWare Proto Shield
+- Description: 
 
-# PROJ-SPAR-13709-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

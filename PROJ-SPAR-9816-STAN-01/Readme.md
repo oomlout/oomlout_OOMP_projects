@@ -1,20 +1,24 @@
 
-PROJ-SPAR-9816-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-9816-STAN-01>Sparkfun](#proj-spar-9816-stan-01sparkfun)
+* [PROJ-SPAR-9816-STAN-01>OpAmp Breakout-LMV358](#proj-spar-9816-stan-01opamp-breakout-lmv358)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-9816-STAN-01>OpAmp Breakout-LMV358
 
-* [PROJ-SPAR-9816-STAN-01>Sparkfun](#proj-spar-9816-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-9816-STAN-01
+- Hex ID: PRS9816
+- Name: OpAmp Breakout-LMV358
+- Description: 
 
-# PROJ-SPAR-9816-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

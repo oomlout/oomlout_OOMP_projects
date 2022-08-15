@@ -1,20 +1,34 @@
 
-PROJ-SPAR-10617-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-10617-STAN-01>Sparkfun](#proj-spar-10617-stan-01sparkfun)
+* [PROJ-SPAR-10617-STAN-01>Lipo Fuel Gauge](#proj-spar-10617-stan-01lipo-fuel-gauge)
+	* [Images](#images)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-SPAR-10617-STAN-01>Lipo Fuel Gauge
 
-Contents
-========
+- ID: PROJ-SPAR-10617-STAN-01
+- Hex ID: PRS10617
+- Name: Lipo Fuel Gauge
+- Description: 
 
-* [PROJ-SPAR-10617-STAN-01>Sparkfun](#proj-spar-10617-stan-01sparkfun)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-SPAR-10617-STAN-01>Sparkfun
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
@@ -27,3 +41,7 @@ Contents
 - oompName: Lipo Fuel Gauge
 - sources: All source files from https://github.com/sparkfun/Lipo_Fuel_Gauge (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10617
+
+
+
+[im]: eagleImage_450.png

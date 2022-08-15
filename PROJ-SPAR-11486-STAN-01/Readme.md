@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11486-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11486-STAN-01>Sparkfun](#proj-spar-11486-stan-01sparkfun)
+* [PROJ-SPAR-11486-STAN-01>MPU-9150 Breakout](#proj-spar-11486-stan-01mpu-9150-breakout)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11486-STAN-01>MPU-9150 Breakout
 
-* [PROJ-SPAR-11486-STAN-01>Sparkfun](#proj-spar-11486-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11486-STAN-01
+- Hex ID: PRS11486
+- Name: MPU-9150 Breakout
+- Description: 
 
-# PROJ-SPAR-11486-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

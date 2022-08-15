@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13288-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13288-STAN-01>Sparkfun](#proj-spar-13288-stan-01sparkfun)
+* [PROJ-SPAR-13288-STAN-01>Teensy Arduino Shield Adapter](#proj-spar-13288-stan-01teensy-arduino-shield-adapter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13288-STAN-01>Teensy Arduino Shield Adapter
 
-* [PROJ-SPAR-13288-STAN-01>Sparkfun](#proj-spar-13288-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13288-STAN-01
+- Hex ID: PRS13288
+- Name: Teensy Arduino Shield Adapter
+- Description: 
 
-# PROJ-SPAR-13288-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

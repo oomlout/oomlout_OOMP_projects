@@ -1,20 +1,24 @@
 
-PROJ-SPAR-12708-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-12708-STAN-01>Sparkfun](#proj-spar-12708-stan-01sparkfun)
+* [PROJ-SPAR-12708-STAN-01>RTC-Module](#proj-spar-12708-stan-01rtc-module)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-12708-STAN-01>RTC-Module
 
-* [PROJ-SPAR-12708-STAN-01>Sparkfun](#proj-spar-12708-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-12708-STAN-01
+- Hex ID: PRS12708
+- Name: RTC-Module
+- Description: 
 
-# PROJ-SPAR-12708-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

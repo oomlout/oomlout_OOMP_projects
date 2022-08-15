@@ -1,20 +1,29 @@
 
-PROJ-ADAF-292-STAN-01>Adafruit
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-ADAF-292-STAN-01>Adafruit](#proj-adaf-292-stan-01adafruit)
+* [PROJ-ADAF-292-STAN-01>Adafruit I2C SPI LCD Backpack PCB](#proj-adaf-292-stan-01adafruit-i2c-spi-lcd-backpack-pcb)
+	* [Images](#images)
 	* [Tags](#tags)
+  
+![][im]
+# PROJ-ADAF-292-STAN-01>Adafruit I2C SPI LCD Backpack PCB
 
-Contents
-========
+- ID: PROJ-ADAF-292-STAN-01
+- Hex ID: PRA292
+- Name: Adafruit I2C SPI LCD Backpack PCB
+- Description: 
 
-* [PROJ-ADAF-292-STAN-01>Adafruit](#proj-adaf-292-stan-01adafruit)
-	* [Tags](#tags)
+## Images
+  
+  
 
-# PROJ-ADAF-292-STAN-01>Adafruit
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Tags
 
@@ -24,6 +33,10 @@ Contents
 - oompColor: 292
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: oomlout_OOMP_projectssourceFilesadafruitAdafruit I2C SPI LCD Backpack PCB
-- sources: All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-I2C-SPI-LCD-Backpack-PCB (source licence details in srcLicense.md)
+- oompName: Adafruit I2C SPI LCD Backpack PCB
+- sources: All source files from https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/292
+
+
+
+[im]: kicadPcb3d_450.png

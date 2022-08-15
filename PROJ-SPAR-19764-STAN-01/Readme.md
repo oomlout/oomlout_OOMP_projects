@@ -1,20 +1,24 @@
 
-PROJ-SPAR-19764-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-19764-STAN-01>Sparkfun](#proj-spar-19764-stan-01sparkfun)
+* [PROJ-SPAR-19764-STAN-01>SparkFun Qwiic 6DoF ISM330DHCX](#proj-spar-19764-stan-01sparkfun-qwiic-6dof-ism330dhcx)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-19764-STAN-01>SparkFun Qwiic 6DoF ISM330DHCX
 
-* [PROJ-SPAR-19764-STAN-01>Sparkfun](#proj-spar-19764-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-19764-STAN-01
+- Hex ID: PRS19764
+- Name: SparkFun Qwiic 6DoF ISM330DHCX
+- Description: 
 
-# PROJ-SPAR-19764-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

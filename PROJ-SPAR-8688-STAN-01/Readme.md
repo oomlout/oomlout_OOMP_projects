@@ -1,20 +1,24 @@
 
-PROJ-SPAR-8688-STAN-01>Sparkfun
-===============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-8688-STAN-01>Sparkfun](#proj-spar-8688-stan-01sparkfun)
+* [PROJ-SPAR-8688-STAN-01>Ambient Light Sensor Breakout-TEMT6000](#proj-spar-8688-stan-01ambient-light-sensor-breakout-temt6000)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-8688-STAN-01>Ambient Light Sensor Breakout-TEMT6000
 
-* [PROJ-SPAR-8688-STAN-01>Sparkfun](#proj-spar-8688-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-8688-STAN-01
+- Hex ID: PRS8688
+- Name: Ambient Light Sensor Breakout-TEMT6000
+- Description: 
 
-# PROJ-SPAR-8688-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

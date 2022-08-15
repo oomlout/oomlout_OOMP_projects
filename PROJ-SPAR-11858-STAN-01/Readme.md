@@ -1,20 +1,24 @@
 
-PROJ-SPAR-11858-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-11858-STAN-01>Sparkfun](#proj-spar-11858-stan-01sparkfun)
+* [PROJ-SPAR-11858-STAN-01>Copernicus II DIP Module](#proj-spar-11858-stan-01copernicus-ii-dip-module)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-11858-STAN-01>Copernicus II DIP Module
 
-* [PROJ-SPAR-11858-STAN-01>Sparkfun](#proj-spar-11858-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-11858-STAN-01
+- Hex ID: PRS11858
+- Name: Copernicus II DIP Module
+- Description: 
 
-# PROJ-SPAR-11858-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

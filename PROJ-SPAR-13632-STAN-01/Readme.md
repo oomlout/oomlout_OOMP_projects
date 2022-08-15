@@ -1,20 +1,24 @@
 
-PROJ-SPAR-13632-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-13632-STAN-01>Sparkfun](#proj-spar-13632-stan-01sparkfun)
+* [PROJ-SPAR-13632-STAN-01>SparkFun Simblee Breakout Board](#proj-spar-13632-stan-01sparkfun-simblee-breakout-board)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-13632-STAN-01>SparkFun Simblee Breakout Board
 
-* [PROJ-SPAR-13632-STAN-01>Sparkfun](#proj-spar-13632-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-13632-STAN-01
+- Hex ID: PRS13632
+- Name: SparkFun Simblee Breakout Board
+- Description: 
 
-# PROJ-SPAR-13632-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

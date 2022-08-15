@@ -1,20 +1,24 @@
 
-PROJ-SPAR-15096-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-15096-STAN-01>Sparkfun](#proj-spar-15096-stan-01sparkfun)
+* [PROJ-SPAR-15096-STAN-01>Serial Basic Breakout-CH340C](#proj-spar-15096-stan-01serial-basic-breakout-ch340c)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-15096-STAN-01>Serial Basic Breakout-CH340C
 
-* [PROJ-SPAR-15096-STAN-01>Sparkfun](#proj-spar-15096-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-15096-STAN-01
+- Hex ID: PRS15096
+- Name: Serial Basic Breakout-CH340C
+- Description: 
 
-# PROJ-SPAR-15096-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

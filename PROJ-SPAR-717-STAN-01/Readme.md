@@ -1,20 +1,24 @@
 
-PROJ-SPAR-717-STAN-01>Sparkfun
-==============================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-717-STAN-01>Sparkfun](#proj-spar-717-stan-01sparkfun)
+* [PROJ-SPAR-717-STAN-01>SOT23 DIP Adapter](#proj-spar-717-stan-01sot23-dip-adapter)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-717-STAN-01>SOT23 DIP Adapter
 
-* [PROJ-SPAR-717-STAN-01>Sparkfun](#proj-spar-717-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-717-STAN-01
+- Hex ID: PRS717
+- Name: SOT23 DIP Adapter
+- Description: 
 
-# PROJ-SPAR-717-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 

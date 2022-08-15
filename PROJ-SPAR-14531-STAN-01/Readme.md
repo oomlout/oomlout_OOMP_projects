@@ -1,20 +1,24 @@
 
-PROJ-SPAR-14531-STAN-01>Sparkfun
-================================
+
+
 
 Contents
 ========
 
-* [PROJ-SPAR-14531-STAN-01>Sparkfun](#proj-spar-14531-stan-01sparkfun)
+* [PROJ-SPAR-14531-STAN-01>Pioneer IoT Kit Shield](#proj-spar-14531-stan-01pioneer-iot-kit-shield)
+	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
 
-Contents
-========
+# PROJ-SPAR-14531-STAN-01>Pioneer IoT Kit Shield
 
-* [PROJ-SPAR-14531-STAN-01>Sparkfun](#proj-spar-14531-stan-01sparkfun)
-	* [Tags](#tags)
+- ID: PROJ-SPAR-14531-STAN-01
+- Hex ID: PRS14531
+- Name: Pioneer IoT Kit Shield
+- Description: 
 
-# PROJ-SPAR-14531-STAN-01>Sparkfun
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
 ## Tags
 
