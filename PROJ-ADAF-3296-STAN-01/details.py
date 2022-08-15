@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "3296")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruitDS1307 breakout board")
+newPart.addTag("oompName", "DS1307 breakout board")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitDS1307-breakout-board (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/DS1307-breakout-board (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/3296")
 
 OOMP.parts.append(newPart)

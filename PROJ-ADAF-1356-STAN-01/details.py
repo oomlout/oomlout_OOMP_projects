@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "1356")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruitAdafruit Flora TCS34725 Color Sensor PCB")
+newPart.addTag("oompName", "Adafruit Flora TCS34725 Color Sensor PCB")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Flora-TCS34725-Color-Sensor-PCB (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/1356")
 
 OOMP.parts.append(newPart)

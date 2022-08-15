@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "1770")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruit2.8 TFT Breakout PCB")
+newPart.addTag("oompName", "2.8 TFT Breakout PCB")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruit2.8-TFT-Breakout-PCB (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/2.8-TFT-Breakout-PCB (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/1770")
 
 OOMP.parts.append(newPart)

@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "4314")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruitAdafruit ATECC608 PCB")
+newPart.addTag("oompName", "Adafruit ATECC608 PCB")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-ATECC608-PCB (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/Adafruit-ATECC608-PCB (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/4314")
 
 OOMP.parts.append(newPart)

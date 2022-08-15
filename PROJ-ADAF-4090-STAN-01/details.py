@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "4090")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruitAdafruit USB C Downstream Breakout")
+newPart.addTag("oompName", "Adafruit USB C Downstream Breakout")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-USB-C-Downstream-Breakout (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/4090")
 
 OOMP.parts.append(newPart)

@@ -11,9 +11,9 @@ newPart.addTag("oompSize", "ADAF")
 newPart.addTag("oompColor", "1487")
 newPart.addTag("oompDesc", "STAN")
 newPart.addTag("oompIndex", "01")
-newPart.addTag("oompName", "oomlout_OOMP_projectssourceFilesadafruitAdafruit NeoPixel 8x8 Matrix")
+newPart.addTag("oompName", "Adafruit NeoPixel 8x8 Matrix")
 
-newPart.addTag("sources", "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-NeoPixel-8x8-Matrix (source licence details in srcLicense.md)")
+newPart.addTag("sources", "All source files from https://github.com/adafruit/Adafruit-NeoPixel-8x8-Matrix (source licence details in srcLicense.md)")
 newPart.addTag("linkBuyPage", "http://www.adafruit.com/products/1487")
 
 OOMP.parts.append(newPart)
