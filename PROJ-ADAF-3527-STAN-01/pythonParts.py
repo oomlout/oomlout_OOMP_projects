@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-3527-STAN-01")
+
+newPart.addTag("oompPart","CAPC-0805-X-UNMATCHED-01, C2, 1.27, -3.175, M270")
+newPart.addTag("oompPart","CAPC-0805-X-UNMATCHED-01, C3, 3.0479999999999996, -3.175, M270")
+newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C4, 4.826, -1.27, M270")
+newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C5, 11.937999999999999, -3.175, M270")
+newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C6, 10.16, -3.175, M270")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 11.6332, -10.6426, M0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 2.6161999999999996, 19.8374, M0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 5.968999999999999, 2.2859999999999996, M270")
+newPart.addTag("oompPart","ERROR, LCD1 OLED 128x32, 0, 0, 0")
+newPart.addTag("oompPart","RESE-0805-X-O103-01, R2, 5.715, -3.937, M0")
+newPart.addTag("oompPart","RESE-0805-X-UNMATCHED-01, R3, 8.382, -3.175, M270")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 16.0782, 17.856199999999998, 180")
+newPart.addTag("rawPart","")

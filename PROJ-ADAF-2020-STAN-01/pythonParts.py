@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-2020-STAN-01")
+
+newPart.addTag("oompPart","CAPC-UNMATCHED-X-UF10-V25, C2, 145.0, -65.0, 90")
+newPart.addTag("oompPart","CAPC-0805-X-UNMATCHED-01, C6, 5.0, 150.0, 180")
+newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C7, 145.0, 75.0, 270")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -125.0, 230.0, 0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 145.0, -225.0, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 275.0, 0")
+newPart.addTag("oompPart","RESE-UNMATCHED-X-O103-01, R1, 20.0, -160.0, 180")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 240.0, 140.0, 300")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL2, -240.0, 140.0, 60")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA1, 240.0, -140.0, 240")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA2, -240.0, -140.0, 120")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 0.0, 0.0, 90")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -275.0, 180")
+newPart.addTag("rawPart","")

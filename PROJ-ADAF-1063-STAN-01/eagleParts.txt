@@ -8,7 +8,7 @@ Assembly variant:
 
 Part     Value               Package                 Library      Position (inch)       Orientation
 
-C1       0.1µF               0805                    microbuilder (0.28 0.45)           R180
+C1       0.1uF               0805                    microbuilder (0.28 0.45)           R180
 C2       0.01uF              0805                    microbuilder (0.1 0.55)            R180
 C3       100pF               0805                    microbuilder (0.495 0.225)         R90
 C4       10uF                0805                    microbuilder (0.455 0.435)         R180

@@ -1,0 +1,10 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-10345-STAN-01")
+
+newPart.addTag("oompPart","CAPC-UNMATCHED-X-UF10-V25, C1, 6.35, 6.35, 90")
+newPart.addTag("oompPart","CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.889, 7.874, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.431, 5.715, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90")
+newPart.addTag("rawPart","")

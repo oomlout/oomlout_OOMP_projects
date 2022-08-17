@@ -1,0 +1,7 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-10141-STAN-01")
+
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 10.16, M0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 13.97, 1.27, 180")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 6.35, 0")
+newPart.addTag("rawPart","")

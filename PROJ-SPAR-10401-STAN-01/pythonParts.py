@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-10401-STAN-01")
+
+newPart.addTag("oompPart","CAPC-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0")
+newPart.addTag("oompPart","CAPC-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180")
+newPart.addTag("oompPart","UNMATCHED-0603-X-UNMATCHED-01, D11, 12.7, 11.43, 270")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 4.826, 1.27, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 30.987999999999996, 11.684, 0")
+newPart.addTag("oompPart","ERROR, JP7 LiPo Battery, 0, 0, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 20.32, 7.619999999999999, M270")
+newPart.addTag("oompPart","RESE-0402-X-O331-01, R3, 10.16, 11.43, 180")
+newPart.addTag("oompPart","RESE-0402-X-UNMATCHED-01, R4, 11.43, 3.8099999999999996, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 6.35, 90")
+newPart.addTag("oompPart","ERROR, X1 Micro USB, 0, 0, 0")
+newPart.addTag("rawPart","")
