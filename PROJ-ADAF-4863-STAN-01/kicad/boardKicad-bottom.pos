@@ -1,0 +1,8 @@
+### Module positions - created on Mon Aug 15 23:25:35 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+RPI1      RASPBERRYPI_BPLUS_IDC  2X20               -142.5913  -136.7524    0.0000  bottom
+U$2                              CYBERDECK_HAT_BOT  -180.9453  -143.7374  180.0000  bottom
+## End

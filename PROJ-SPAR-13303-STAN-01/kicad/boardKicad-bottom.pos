@@ -1,0 +1,8 @@
+### Module positions - created on Wed Aug 17 02:05:59 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                                               PosX       PosY       Rot  Side
+SJ1                   PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX  -140.8811  -108.5596   90.0000  bottom
+U$8       OSHW-LOGOS  OSHW-LOGO-S                                      -150.9141  -109.9566  180.0000  bottom
+## End

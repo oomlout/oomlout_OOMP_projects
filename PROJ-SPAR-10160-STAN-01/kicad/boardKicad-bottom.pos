@@ -1,0 +1,7 @@
+### Module positions - created on Tue Aug 16 07:14:21 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                   PosX       PosY       Rot  Side
+BAT1      3V        BATTCON_12MM_CURVED  -148.5011  -101.1936  180.0000  bottom
+## End

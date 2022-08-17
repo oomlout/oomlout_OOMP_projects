@@ -1,0 +1,10 @@
+### Module positions - created on Wed Aug 17 05:39:05 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                              Package                                PosX       PosY       Rot  Side
+JP1       JUMPER-PAD-2-NC_BY_TRACENO_SILK  PAD-JUMPER-2-NC_BY_TRACE_NO_SILK  -147.3581   -96.4786   90.0000  bottom
+JP2       JUMPER-PAD-2-NC_BY_TRACENO_SILK  PAD-JUMPER-2-NC_BY_TRACE_NO_SILK  -145.0721   -96.4946   90.0000  bottom
+JP3       JUMPER-PAD-2-NC_BY_TRACENO_SILK  PAD-JUMPER-2-NC_BY_TRACE_NO_SILK  -142.5321   -96.4786   90.0000  bottom
+LOGO1     SFE_LOGO_NAME.2_INCH             SFE_LOGO_NAME_.2                  -159.0421  -103.2256  180.0000  bottom
+## End

@@ -1,0 +1,27 @@
+### Module positions - created on Wed Aug 17 15:49:53 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                            PosX       PosY       Rot  Side
+FD1       FIDUCIAL1X2                 FIDUCIAL-1X2                  -159.9311  -112.6236  180.0000  bottom
+FD2       FIDUCIAL1X2                 FIDUCIAL-1X2                  -140.8811   -93.5736  180.0000  bottom
+JP1       LED                         SMT-JUMPER_2_NC_TRACE_SILK    -138.3411  -101.1936  180.0000  bottom
+JP2       ADDR                        SMT-JUMPER_2_NO_SILK          -142.9131  -109.7026  180.0000  bottom
+JP3       I2C_PU                      SMT-JUMPER_3_2-NC_TRACE_SILK  -148.7551  -109.7026  180.0000  bottom
+LOGO1     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1        -148.2471   -97.3836  180.0000  bottom
+LOGO2     OSHW-LOGOS                  OSHW-LOGO-S                   -158.9151   -99.1616  180.0000  bottom
+U$7                                   INT#-[_                       -153.5811  -116.3066   90.0000  bottom
+U$8                                   GND-04                        -143.4211  -116.1796   90.0000  bottom
+U$9                                   SDA-[)                        -148.5011  -116.1796   90.0000  bottom
+U$10                                  SCL-[)                        -151.0411  -116.1796   90.0000  bottom
+U$11                                  3V3-04                        -145.9611  -116.1796   90.0000  bottom
+U$12                                  I_SUPER2_C-()-04              -150.6601  -107.5436  180.0000  bottom
+U$13                                  ADR-()                        -145.3261  -107.5436  180.0000  bottom
+U$14                                  LED0                          -140.6271   -99.1616  180.0000  bottom
+U$20                                  CLOSED#2                      -151.8539  -104.9528  180.0000  bottom
+U$21                                  OPEN#0                        -151.8031  -103.2256  180.0000  bottom
+U$22                                  0X481                         -145.6055  -103.4288  180.0000  bottom
+U$24                                  0X103                         -145.4023  -104.9782  180.0000  bottom
+U$25                                  ADR0                          -151.8031  -101.7016  180.0000  bottom
+U$26                                  JUMPER1                       -147.5867  -101.7016  180.0000  bottom
+## End

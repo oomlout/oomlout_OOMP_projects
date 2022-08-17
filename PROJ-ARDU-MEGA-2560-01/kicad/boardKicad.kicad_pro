@@ -127,7 +127,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "boardEagle.kicad_pro",
+    "filename": "boardKicad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -228,8 +228,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "boardKicad.step",
+      "vrml": "boardKicad.wrl"
     },
     "page_layout_descr_file": ""
   },

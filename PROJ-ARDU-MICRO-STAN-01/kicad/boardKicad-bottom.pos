@@ -1,0 +1,28 @@
+### Module positions - created on Tue Aug 16 05:58:36 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                PosX       PosY       Rot  Side
+C1        100n                C0402             -150.4061   -91.2876  180.0000  bottom
+C2        100n                C0402             -149.3901   -88.4936  -90.0000  bottom
+C4        1uF                 C0402             -148.5011  -128.1176  180.0000  bottom
+C6        100n                C0402             -153.8351  -119.8626  -90.0000  bottom
+C9        100n                C0402             -150.0251  -101.9556  180.0000  bottom
+C10       100n                C0402             -147.5486  -100.6856    0.0000  bottom
+C11       100n                C0402             -152.5651  -106.9086  -135.0000  bottom
+C14       22u                 SMC_B             -143.8021  -124.1806  -90.0000  bottom
+D2        CD1206-S01575       MINIMELF          -146.4691   -86.8426   90.0000  bottom
+F1        MF-MSMF050-2_500mA  L1812             -144.8181  -116.0526   90.0000  bottom
+ON0       blue                CHIPLED_0805      -148.5011  -126.2126  -90.0000  bottom
+R2        10K                 R0402             -150.0251  -102.9716    0.0000  bottom
+R5        1K                  R0402             -148.5011  -124.8156  180.0000  bottom
+R9        10K                 R0402             -150.4061   -90.1954    0.0000  bottom
+RP3       22R                 CAY16             -148.5011  -117.7036    0.0000  bottom
+T1        FDN340P/PMV48XP     SOT-23            -153.0096   -98.6536  180.0000  bottom
+T2        PMV48XP             SOT-23            -152.9461   -91.4146    0.0000  bottom
+U$53      DNP                 FD-1-1.5          -143.2941   -82.9056  180.0000  bottom
+U2        NCP1117-5           SOT223            -147.1041   -94.9706  -90.0000  bottom
+U4        LP2985-33DBVR       SOT23-DBV         -152.8191  -124.4346    0.0000  bottom
+Z1        CG0603MLC-05E       CT_CN0603         -149.6441  -121.2596    0.0000  bottom
+Z2        CG0603MLC-05E       CT_CN0603         -149.6441  -122.9106    0.0000  bottom
+## End

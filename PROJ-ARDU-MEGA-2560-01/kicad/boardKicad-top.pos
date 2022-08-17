@@ -1,0 +1,77 @@
+### Module positions - created on Tue Aug 16 05:53:52 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref           Val                  Package                   PosX       PosY       Rot  Side
+@HOLE0                                                     194.2467  -129.1208    0.0000  top
+@HOLE1                                                     112.9667   -80.8608    0.0000  top
+@HOLE2                                                     187.8967   -80.8608    0.0000  top
+@HOLE3                                                     111.6967  -129.1208    0.0000  top
+@HOLE4                                                     163.7667   -96.1008    0.0000  top
+@HOLE5                                                     163.7667  -124.0408    0.0000  top
+ADCH0           FH254-108DF08500V    1X08                  180.2767  -129.1208    0.0000  top
+ADCL0           FH254-108DF08500V    1X08                  157.4167  -129.1208    0.0000  top
+C1              22p                  C0603-ROUND           131.2547  -117.0558  -90.0000  top
+C2              100nF                C0603-ROUND           112.0777  -114.0078  -90.0000  top
+C3              100nF                C0603-ROUND           125.6667   -87.2108    0.0000  top
+C4              100nF                C0603-ROUND           136.3347  -124.5488    0.0000  top
+C5              100nF                C0603-ROUND           156.7563   -92.2908    0.0000  top
+C6              100nF                C0603-ROUND           137.7717  -101.2418  180.0000  top
+C7              100nF                C0603-ROUND           125.6667  -113.3728    0.0000  top
+C8              100nF                C0603-ROUND           109.7917  -100.6728  180.0000  top
+C9              100nF                C0603-ROUND           109.7917  -102.3238  180.0000  top
+C10             1uF                  C0603-ROUND           113.0429   -94.4498  180.0000  top
+C11             100nF                C0603-ROUND           122.4917  -102.3238    0.0000  top
+C12             100nF                C0603-ROUND           119.3167  -114.5158  180.0000  top
+C13             1uF                  C0603-ROUND           125.6667  -110.0708    0.0000  top
+C14             22p                  C0603-ROUND           112.9667  -102.3238  180.0000  top
+C15             22p                  C0603-ROUND           119.3167  -102.3238    0.0000  top
+C16             100nF                C0603-ROUND           141.3619   -94.7906  -90.0000  top
+COMMUNICATION0  FH254-108DF08500V    1X08                  175.1967   -80.8608  180.0000  top
+D1              M7                   SMB                   119.3167  -128.8668  180.0000  top
+D2              CD1206-S01575        MINIMELF              110.8077   -85.4328   90.0000  top
+D3              CD1206-S01575        MINIMELF              133.2867  -117.0558   90.0000  top
+F1              MF-MSMF050-2_500mA   L1812                 102.1717  -104.9908   90.0000  top
+FD1             FIDUCIALMOUNT        FIDUCIA-MOUNT         168.5673   -93.4686    0.0000  top
+FD2             FIDUCIALMOUNT        FIDUCIA-MOUNT         100.3937  -129.2478    0.0000  top
+FD3             FIDUCIALMOUNT        FIDUCIA-MOUNT          99.5047   -93.5608    0.0000  top
+FD4             FIDUCIALMOUNT        FIDUCIA-MOUNT         148.5267  -103.3144    0.0000  top
+IC1             1870_LD1117S50CTR    LINEAR_SOT223         106.3627  -113.8808   90.0000  top
+IC3             ATMEGA2560-15AU      TQFP100               148.5267  -103.3144    0.0000  top
+IC4             ATMEGA16U2-MU        MLF32                 117.6657   -96.8628   90.0000  top
+IC6             LP2985-33DBVR        SOT23-DBV             125.6667  -106.4894  180.0000  top
+IC7             LMV358IDGKR          MSOP08                116.1417  -110.3248   90.0000  top
+ICSP0           ICSP                 2X03                  162.6237  -103.7208  -90.0000  top
+ICSP1           ICSP                 2X03                  116.0147   -85.4328  180.0000  top
+JP5             2x2M_-_NM            2X02                  117.2847   -90.5128   90.0000  top
+JP6             FH254-110DF08500V    1X10                  127.9527   -80.8608    0.0000  top
+L0              Yellow               CHIPLED_0805          125.6667   -89.4968   90.0000  top
+L1              MH2029-300Y          0805                  109.6901   -90.1572  180.0000  top
+L2              10uH                 0805                  139.4131   -93.9312  -90.0000  top
+ON0             Green                CHIPLED_0805          173.9267   -94.8308   90.0000  top
+PC1             47uF                 PANASONIC_D           116.1417  -122.5168   90.0000  top
+PC2             47uF                 PANASONIC_D           123.2537  -122.5168   90.0000  top
+POWER0          FH254-108DF08500V    1X08                  134.5567  -129.1208    0.0000  top
+PWML0           FH254-108DF08500V    1X08                  152.3367   -80.8608  180.0000  top
+R1              1M                   R0603-ROUND           138.2397  -117.0558   90.0000  top
+R2              1M                   R0603-ROUND           116.1417  -102.3238    0.0000  top
+RESET-EN0                            SJ                    125.6667  -115.9128    0.0000  top
+RESET0          TS42                 TS42                  103.9497   -82.8918    0.0000  top
+RN1             10k                  CAY16                 178.3717   -94.8308  -90.0000  top
+RN2             22R                  CAY16                 109.7917   -94.5768   90.0000  top
+RN3             1K                   CAY16                 125.6667   -92.2908  -90.0000  top
+RN4             1K                   CAY16                 125.6667  -100.5458   90.0000  top
+RN5             10k                  CAY16                 116.1417  -115.1508   90.0000  top
+RX0             Yellow               CHIPLED_0805          125.6667   -97.3708   90.0000  top
+T1              PMV48XP              SOT-23                106.8707  -105.7528  -90.0000  top
+TX0             Yellow               CHIPLED_0805          125.6667   -95.0848   90.0000  top
+U$1             DNP                  FRAME                  97.7267  -131.6608    0.0000  top
+U$2             DNP                  FRAME                  97.7267  -131.6608    0.0000  top
+X1              POWERSUPPLY_DC21MMX  POWERSUPPLY_DC-21MM   103.0607  -123.2788   90.0000  top
+X2                                   PN61729               101.5367   -93.5608  -90.0000  top
+XIO0            18x2F-H8.5           2X18                  192.9767  -102.4508  -90.0000  top
+Y1              CSTCE16M0V53-R0      RESONATOR             136.0807  -117.0558  -90.0000  top
+Y2              16MHz                QS                    116.1417  -105.6258  180.0000  top
+Z1              BRNCG0603MLC-05E     CT_CN0603             109.7917   -97.3708    0.0000  top
+Z2              BRNCG0603MLC-05E     CT_CN0603             109.7917   -91.9860    0.0000  top
+## End

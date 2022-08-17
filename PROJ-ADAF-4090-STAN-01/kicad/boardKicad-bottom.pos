@@ -1,0 +1,7 @@
+### Module positions - created on Mon Aug 15 16:52:36 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+U$8                 PCBFEAT-REV-040   -139.9667  -107.1118    0.0000  bottom
+## End

@@ -1,0 +1,10 @@
+### Module positions - created on Tue Aug 16 17:44:05 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                PosX       PosY       Rot  Side
+FRAME1    FRAME-LETTER  CREATIVE_COMMONS   124.0722  -164.6936    0.0000  top
+JP2       LOGO-SFESK    SFE-LOGO-FLAME     135.1661  -143.1036    0.0000  top
+JP6       LOGO-SFESK    SFE-LOGO-FLAME     159.9311  -143.1036    0.0000  top
+U$1       REVISION      REVISION           135.8011  -167.2336    0.0000  top
+## End

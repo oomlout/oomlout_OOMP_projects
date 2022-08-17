@@ -1,0 +1,35 @@
+### Module positions - created on Tue Aug 16 05:58:36 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                   PosX       PosY       Rot  Side
+@HOLE0                                           140.8811  -127.8636    0.0000  top
+@HOLE1                                           156.1211  -127.8636    0.0000  top
+@HOLE2                                           140.8811   -82.1436    0.0000  top
+@HOLE3                                           156.1211   -82.1436    0.0000  top
+C3        22u              SMC_B                 152.1841   -95.7326   90.0000  top
+C5        1uF              C0402                 152.1841  -100.6856    0.0000  top
+C7        1uF              C0402                 152.1841   -98.9076  180.0000  top
+C12       22pF             C0402                 146.2151   -99.4156  180.0000  top
+C13       22pF             C0402                 143.1671   -96.7486  180.0000  top
+D+0       DNP              TP-1.00MM             146.4691  -119.8626    0.0000  top
+D-0       DNP              TP-1.00MM             150.5331  -119.8626    0.0000  top
+FRAME1    DNP              FRAME                 139.6111  -129.1336    0.0000  top
+J3        USB_Micro        CON2_USB_MICRO_B_AT   148.5011  -127.6858    0.0000  top
+J4        3x2M             2X03                  152.3111   -85.9536   90.0000  top
+J5        HEAD17-NOSS      HEAD17-NOSS           140.8811   -84.6836  -90.0000  top
+J6        HEAD17-NOSS-1    HEAD17-NOSS-1         156.1211   -84.6836  -90.0000  top
+L0        green            CHIPLED_0805          148.5011  -115.1636  -90.0000  top
+L2        MH2029-300Y      0805                  154.4701   -98.6536  -90.0000  top
+R1        10K              R0402                 154.4701   -95.7326   90.0000  top
+R4        10K              R0402                 151.6761  -115.1636    0.0000  top
+R6        1K               R0402                 146.5961   -95.4786   90.0000  top
+R7        1K               R0402                 146.5961   -93.5736  -90.0000  top
+R8        1K               R0402                 145.3261  -115.1636    0.0000  top
+RESET0    TS42             TS42                  145.8341   -86.0806  -90.0000  top
+RX0       yellow           CHIPLED_0805          144.1831   -93.5736   90.0000  top
+TX0       yellow           CHIPLED_0805          144.1831   -95.4786   90.0000  top
+U$37      DNP              FD-1-1.5              145.8341   -86.0806    0.0000  top
+U1        ATMEGA32U4-XUMU  QFN44ML7X7            148.5011  -107.5436  -135.0000  top
+Y3        16MHz_KX-7       CRYSTAL-3.2-2.5       143.9291   -99.2886   90.0000  top
+## End

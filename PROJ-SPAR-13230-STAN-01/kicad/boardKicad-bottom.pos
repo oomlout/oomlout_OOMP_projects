@@ -1,0 +1,10 @@
+### Module positions - created on Wed Aug 17 01:13:54 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                                 PosX       PosY       Rot  Side
+JP2                                   1X02                               -154.8511  -107.5436  -90.0000  bottom
+LOGO1     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1             -154.2161   -99.2886  180.0000  bottom
+SJ2                                   PAD-JUMPER-2-NC_BY_TRACE_YES_SILK  -148.5011  -103.7336    0.0000  bottom
+U7        OSHW-LOGOS                  OSHW-LOGO-S                        -139.6111   -96.1136  180.0000  bottom
+## End

@@ -107,7 +107,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.17779999999999999,
-        "min_via_annular_width": -0.073,
+        "min_via_annular_width": 0.39999999999999997,
         "min_via_diameter": 0.254,
         "use_height_for_length_calcs": true
       },
@@ -127,7 +127,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "boardEagle.kicad_pro",
+    "filename": "boardKicad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -184,8 +184,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "boardKicad.step",
+      "vrml": "boardKicad.wrl"
     },
     "page_layout_descr_file": ""
   },

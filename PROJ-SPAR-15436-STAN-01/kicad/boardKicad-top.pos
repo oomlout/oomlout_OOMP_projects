@@ -1,0 +1,35 @@
+### Module positions - created on Wed Aug 17 15:49:53 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                 PosX       PosY       Rot  Side
+C1        0.1uF           0603                151.2951  -106.7816    0.0000  top
+D1        RED             LED-0603            138.2649   -99.3902    0.0000  top
+FD3       FIDUCIAL1X2     FIDUCIAL-1X2        140.8811   -93.5736    0.0000  top
+FD4       FIDUCIAL1X2     FIDUCIAL-1X2        159.9311  -112.6236    0.0000  top
+FRAME1    FRAME-LETTER    CREATIVE_COMMONS    130.7211  -129.1336    0.0000  top
+H1        STAND-OFFTIGHT  STAND-OFF-TIGHT     158.6611   -94.8436    0.0000  top
+H2        STAND-OFFTIGHT  STAND-OFF-TIGHT     138.3411   -94.8436    0.0000  top
+H3        STAND-OFFTIGHT  STAND-OFF-TIGHT     158.6611  -115.1636    0.0000  top
+H4        STAND-OFFTIGHT  STAND-OFF-TIGHT     138.3411  -115.1636    0.0000  top
+J1                        JST04_1MM_RA        156.1211  -105.0036   90.0000  top
+J2                        JST04_1MM_RA        140.8811  -105.0036  -90.0000  top
+J3                        1X05_NO_SILK        143.4211  -116.4336    0.0000  top
+R1        4.7k            0603                147.2311  -110.0836   90.0000  top
+R2        4.7k            0603                150.1521  -110.0836  -90.0000  top
+R3        10k             0603                144.6911  -110.0836  -90.0000  top
+R4        1k              0603                138.3919  -100.6856    0.0000  top
+R5        10k             0603                149.5679  -101.9048    0.0000  top
+U$1       QWIIC_LOGO_5MM  QWIIC_5MM           138.5951  -109.5756    0.0000  top
+U$2                       3V3-04              145.9611  -116.1796   90.0000  top
+U$3                       GND-04              143.4211  -116.1796   90.0000  top
+U$4                       SDA-[)              148.5011  -116.1796   90.0000  top
+U$5                       SCL-[)              151.0411  -116.1796   90.0000  top
+U$6                       INT#-[_             153.5811  -116.3066   90.0000  top
+U$15                      AMBIENT_LIGHT0      141.2621   -94.5896    0.0000  top
+U$16                      SENSOR1             144.4371   -96.1136    0.0000  top
+U$17                      VEML60302           142.5321   -98.0186    0.0000  top
+U$18                      SFE_LOGO_FLAME_.1   158.6611  -111.3536    0.0000  top
+U$19                      PWR-()-04           135.9281   -97.9424    0.0000  top
+U1        VEML6030        VEML6030            148.5011  -105.0036  -90.0000  top
+## End

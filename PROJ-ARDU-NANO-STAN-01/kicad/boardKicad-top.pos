@@ -1,0 +1,26 @@
+### Module positions - created on Tue Aug 16 06:08:04 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                PosX       PosY       Rot  Side
+@HOLE0                                       128.1811   -97.3836    0.0000  top
+@HOLE1                                       128.1811  -112.6236    0.0000  top
+@HOLE2                                       168.8211  -112.6236    0.0000  top
+@HOLE3                                       168.8211   -97.3836    0.0000  top
+D+0       DNP             TP-1.00MM          128.6891  -102.0826    0.0000  top
+D-0       DNP             TP-1.00MM          128.6891   -99.5426    0.0000  top
+FRAME1    DNP             FRAME              126.9111  -113.8936    0.0000  top
+IC3       328P-MUR        VQFN32             142.4051  -105.0544  -135.0000  top
+J1        XXXX_STRIPNANO  HEAD15-NOSS        166.2811   -97.3836  180.0000  top
+J2        XXXX_STRIPNANO  HEAD15-NOSS        166.2811  -112.6236  180.0000  top
+J3                        USB-MINI-B_2       133.9723  -106.6038   90.0000  top
+J4                        2X03               167.4495  -105.0036   90.0000  top
+L0        Yellow          CHIPLED_0805       155.8671  -109.5756  -90.0000  top
+PWR0      Green           CHIPLED_0805       155.8671  -106.5276  -90.0000  top
+RX0       Red             CHIPLED_0805       155.8671  -103.4796   90.0000  top
+SW1       RESET           SMD_157SW          151.4221  -102.9716  -90.0000  top
+TX0       Green           CHIPLED_0805       155.8671  -100.4316   90.0000  top
+U$4       DNP             FD-1-1.5           164.4269  -109.7788  -90.0000  top
+U$5       DNP             FD-1-1.5           168.7957   -99.2886    0.0000  top
+Y1        16MHz           RESONATOR          147.7645  -100.6872  -45.0000  top
+## End

@@ -1,0 +1,8 @@
+### Module positions - created on Wed Aug 17 05:10:40 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+LOGO1     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1  -155.2321  -108.8136  180.0000  bottom
+LOGO2     OSHW-LOGOS             OSHW-LOGO-S        -154.2161  -103.4796  180.0000  bottom
+## End

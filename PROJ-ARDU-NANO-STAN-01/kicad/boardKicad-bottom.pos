@@ -1,0 +1,23 @@
+### Module positions - created on Tue Aug 16 06:08:04 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                PosX       PosY       Rot  Side
+C1        100nF           C0603-ROUND       -133.9461  -110.8710  180.0000  bottom
+C2        4,7uF_16V       TAN-A             -129.4511  -106.2736   90.0000  bottom
+C3        1uF             C0603-ROUND       -146.7739  -107.7722    0.0000  bottom
+C4        100nF           C0603-ROUND       -143.7259  -107.8484  180.0000  bottom
+C5        4,7uF_16V       TAN-A             -158.4325  -102.7430    0.0000  bottom
+C6        100nF           C0603-ROUND       -131.4831  -104.8766  -90.0000  bottom
+C7        1uF             C0603-ROUND       -156.5529  -104.6226  180.0000  bottom
+C8        1uF             C0603-ROUND       -155.4861  -110.3376  180.0000  bottom
+C9        100nF           C0603-ROUND       -158.2039  -100.0506    0.0000  bottom
+D1        SS1P3L          DO220AAL          -155.4861  -101.5746   90.0000  bottom
+F1        MFFSMF050       0603-1608X90N     -128.9939  -109.3978    0.0000  bottom
+IC1       FT232RL         SSOP28            -141.5161  -108.5850  180.0000  bottom
+IC2       LM1117IMPX-5.0  LINEAR_SOT223     -160.0581  -107.4166  -90.0000  bottom
+RP1       1K              CAY16             -150.5331  -108.1024  -90.0000  bottom
+RP2       1K              CAY16             -150.5331  -101.7016   90.0000  bottom
+U$53      DNP             FD-1-1.5          -168.4909  -110.0328   90.0000  bottom
+U$54      DNP             FD-1-1.5          -168.7957   -99.2886   90.0000  bottom
+## End

@@ -1,0 +1,7 @@
+### Module positions - created on Tue Aug 16 20:44:00 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                      PosX       PosY       Rot  Side
+U$6                 SFE_LOGO_NAME_FLAME_.1  -113.1951  -127.9906   90.0000  bottom
+## End

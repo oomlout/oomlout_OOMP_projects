@@ -1,0 +1,7 @@
+### Module positions - created on Tue Aug 16 21:26:37 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                PosX       PosY       Rot  Side
+LOGO3     LOGO-SFENEW  SFE-NEW-WEBLOGO   -152.4381  -104.4956  -90.0000  bottom
+## End
