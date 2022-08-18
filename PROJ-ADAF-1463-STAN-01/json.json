@@ -26,15 +26,167 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit NeoPixel Ring"
+            "value": "Adafruit NeoPixel Ring"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-NeoPixel-Ring (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-NeoPixel-Ring (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1463"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C2  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C4  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C5  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C6  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C7  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C9  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C10  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C11  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C13  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C14  C0603, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 23.5, 72.2, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 56.3, 50.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 71.9, 23.4, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 3.95526875, 75.47108125, 357"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 11.82248125, 74.6442, 351"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 19.560159375, 72.999509375, 345"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 27.08353125, 70.55501875, 339"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED5, 34.31016875, 67.337509375, 333"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED6, 41.160909375, 63.382240625, 327"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED7, 47.56066875, 58.732540625, 321"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED8, 53.43935, 53.43935, 315"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED9, 58.732540625, 47.56066875, 309"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED10, 63.382240625, 41.160909375, 303"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED11, 67.337509375, 34.31016875, 297"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED12, 70.55501875, 27.08353125, 291"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED13, 72.999509375, 19.560159375, 285"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED14, 74.6442, 11.82248125, 279"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED15, 75.47108125, 3.95526875, 273"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, R1 470 ohm, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 35.1, 64.9, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 33.0, 69.9, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 53.7, 51.0, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP4, 53.2, 56.4, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP5, 69.6, 24.6, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP6, 71.5, 30.1, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 75.625, M180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 75.625, 0.0, M90"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

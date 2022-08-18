@@ -41,6 +41,9 @@ Contents
 - oompName: Coin Cell Battery Holder Breakout-24.5mm
 - sources: All source files from https://github.com/sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10495
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 15.239999999999998, M270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 25.4, 16.509999999999998, 270
+- rawPart: 
 
 
 

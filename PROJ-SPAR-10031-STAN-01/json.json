@@ -37,6 +37,18 @@
             "value": "https://www.sparkfun.com/products/10031"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 12.7, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, JP2 USB Micro, 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10031-STAN-01"
         },

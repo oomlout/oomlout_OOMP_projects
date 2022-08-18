@@ -37,6 +37,38 @@
             "value": "https://www.sparkfun.com/products/10901"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 11.43, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 7.619999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C3, 12.7, 7.619999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, M180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 3.8099999999999996, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 0.7619999999999999, 14.477999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 7.619999999999999, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10901-STAN-01"
         },

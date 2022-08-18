@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRAR2560"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ARDU"
+        },
+        {
+            "name": "oompColor",
+            "value": "MEGA"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2560"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://store.arduino.cc/collections/boards/products/arduino-mega-2560-rev3"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://store.arduino.cc/collections/boards/products/arduino-mega-2560-rev3"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ARDU-MEGA-2560-01"
+        },
+        {
+            "name": "name",
+            "value": "Arduino 2560 Mega"
+        }
+    ]
+}

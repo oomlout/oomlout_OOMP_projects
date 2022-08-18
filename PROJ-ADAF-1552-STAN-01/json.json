@@ -26,15 +26,111 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit TPA2012 or TS2012 Breakout PCB"
+            "value": "Adafruit TPA2012 or TS2012 Breakout PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-TPA2012-or-TS2012-Breakout-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1552"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C1, 6.8999999160000005, 24.299999913999997, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-NF100-V50, C2, 14.499999956, 17.100000089999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-NF100-V50, C3, 13.999999939999999, 24.000000005999997, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-NF100-V50, C4, 10.000000066, 21.999999942, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C5, 5.899999884, 12.599999945999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C6, 5.899999884, 10.19999992, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C7, 5.899999884, 17.900000014, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C8, 5.899999884, 15.399999933999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FB1, 13.999999939999999, 21.999999942, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FB2, 10.000000066, 24.000000005999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.699999874, 25.100000092, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 4.999999905999999, 5.999999937999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.000000099999998, 9.799999957999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 19.000000099999998, 18.000000068, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.500000048, 13.999999939999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O104-01, R1, 12.999999908, 6.499999954, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O104-01, R2, 9.000000034, 6.499999954, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O104-01, R3, 13.700000031999998, 10.599999881999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O104-01, R4, 14.499999956, 13.400000123999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 11.500000113999999, 3.000000096, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$20, 20.499999894, 2.50000008, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$21, 20.499999894, 25.500000053999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.500000082, 13.999999939999999, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

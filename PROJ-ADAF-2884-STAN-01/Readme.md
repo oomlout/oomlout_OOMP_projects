@@ -41,6 +41,16 @@ Contents
 - oompName: Adafruit FeatherWing Proto Doubler Tripler and Quad
 - sources: All source files from https://github.com/adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2884
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 19.049999999999997, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 25.4, 27.94, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 25.4, 3.8099999999999996, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 30.479999999999997, 43.18, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 30.479999999999997, 67.30999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 25.4, 52.06999999999999, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS2, 0.0, 24.13, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS3, 0.0, 48.26, 0
+- rawPart: 
 
 
 

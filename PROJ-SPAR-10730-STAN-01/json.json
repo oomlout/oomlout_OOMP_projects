@@ -37,6 +37,30 @@
             "value": "https://www.sparkfun.com/products/10730"
         },
         {
+            "name": "oompPart",
+            "value": "ERROR, BAT1 20mm coincell, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 8.762999999999998, -8.762999999999998, 47"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -8.762999999999998, -8.762999999999998, 313"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 8.762999999999998, 8.762999999999998, 133"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, -8.762999999999998, 8.762999999999998, 227"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10730-STAN-01"
         },

@@ -41,6 +41,13 @@ Contents
 - oompName: Adafruit DragonTail for micro bit PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3695
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -3.8099999999999996, -25.4, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, -25.4, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, -22.224999999999998, -13.97, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MB1, 0.0, 0.0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 26.416, -10.795, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, -26.416, -10.795, 0
+- rawPart: 
 
 
 

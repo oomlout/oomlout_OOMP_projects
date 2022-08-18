@@ -41,6 +41,17 @@ Contents
 - oompName: Adafruit MiCS 5524 Gas Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3199
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.557, 13.589, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.1429999999999998, 13.716, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 1.9049999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 10.668, 5.968999999999999, 180
+- oompPart: ERROR, R1 82? 1%, 0, 0, 0
+- oompPart: RESE-0805-X-O103-01, R2, 1.5239999999999998, 6.095999999999999, 90
+- oompPart: RESE-0805-X-O103-01, R3, 11.176, 10.16, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 2.54, 16.509999999999998, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 10.16, 16.509999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 10.413999999999998, 90
+- rawPart: 
 
 
 

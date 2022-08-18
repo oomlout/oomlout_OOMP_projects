@@ -26,11 +26,11 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit FRAM Breakout PCB"
+            "value": "Adafruit FRAM Breakout PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-FRAM-Breakout-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",

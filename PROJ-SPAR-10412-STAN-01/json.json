@@ -37,6 +37,38 @@
             "value": "https://www.sparkfun.com/products/10412"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.302, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 17.018, 10.16, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 10.16, 3.302, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 10.16, 17.018, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 9.143999999999998, 11.176, 45"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 9.143999999999998, 11.176, 45"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 11.43, 8.889999999999999, 225"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10412-STAN-01"
         },

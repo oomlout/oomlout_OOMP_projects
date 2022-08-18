@@ -26,15 +26,59 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitMicroSD breakout board"
+            "value": "MicroSD breakout board"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitMicroSD-breakout-board (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/MicroSD-breakout-board (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/254"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, ACT, 7.619999999999999, 21.081999999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C1 10uF/10V A/3216-18R, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C2, 18.287999999999997, 6.476999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 21.081999999999997, 13.716, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 15.112999999999998, 3.0479999999999996, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 12.572999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R1, 11.811, 21.081999999999997, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 5.08, 7.746999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 26.542999999999996, 23.495, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 15.748, 19.558, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

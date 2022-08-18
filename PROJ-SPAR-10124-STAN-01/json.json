@@ -37,6 +37,58 @@
             "value": "https://www.sparkfun.com/products/10124"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C3, 4.953, 19.431, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 10.540999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 11.43, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 20.32, 13.97, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 17.779999999999998, 5.08, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 2.54, 19.049999999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 1.27, 21.59, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED3, 7.619999999999999, 6.095999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O331-01, R3, 7.619999999999999, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O221-01, R4, 7.365999999999999, 19.049999999999997, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 7.619999999999999, 13.97, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10124-STAN-01"
         },

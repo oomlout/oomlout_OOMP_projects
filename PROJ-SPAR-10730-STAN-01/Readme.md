@@ -41,6 +41,12 @@ Contents
 - oompName: LilyPad Coin Cell Battery Holder-20mm
 - sources: All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10730
+- oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 8.762999999999998, -8.762999999999998, 47
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -8.762999999999998, -8.762999999999998, 313
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 8.762999999999998, 8.762999999999998, 133
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, -8.762999999999998, 8.762999999999998, 227
+- rawPart: 
 
 
 

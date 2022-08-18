@@ -41,6 +41,14 @@ Contents
 - oompName: MyDAQ Protoboard Kit
 - sources: All source files from https://github.com/sparkfun/MyDAQ_Protoboard_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10705
+- oompPart: ERROR, JP2 MYDAQ 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING, 0, 0, 0
+- oompPart: ERROR, JP3 M20_LOCKINGFEMALE_LOCK.009 1X20_LOCK, 0, 0, 0
+- oompPart: ERROR, JP4 M20 1X20, 0, 0, 0
+- oompPart: ERROR, JP5 M30 1X30, 0, 0, 0
+- oompPart: ERROR, JP6 M30 1X30, 0, 0, 0
+- oompPart: ERROR, JP7 M30 1X30, 0, 0, 0
+- oompPart: ERROR, JP8 M30 1X30, 0, 0, 0
+- rawPart: 
 
 
 

@@ -26,15 +26,67 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit INA169 Breakout PCB"
+            "value": "Adafruit INA169 Breakout PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-INA169-Breakout-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-INA169-Breakout-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1164"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C1, 5.334, 12.118999892, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.931999949999998, 15.95700009, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 5.842, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.403000054, 17.376000045999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.43, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R1, 21.336, 10.413999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, RSHUNT 0.1/1% (PT2512FK-070R1L), 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$7, 20.32, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$8, 2.54, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 2.54, 18.429999969999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 20.32, 18.429999969999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 7.365999999999999, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

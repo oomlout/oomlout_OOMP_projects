@@ -41,6 +41,9 @@ Contents
 - oompName: USB microB Plug Breakout
 - sources: All source files from https://github.com/sparkfun/USB_microB_Plug_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10031
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 12.7, 180
+- oompPart: ERROR, JP2 USB Micro, 0, 0, 0
+- rawPart: 
 
 
 

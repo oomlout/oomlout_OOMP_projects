@@ -26,15 +26,215 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit Motor Shield V2 PCB"
+            "value": "Adafruit Motor Shield V2 PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Motor-Shield-V2-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1438"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 38.099999999999994, 10.921999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 35.559999999999995, 10.921999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, 33.019999999999996, 10.921999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, A3, 30.479999999999997, 10.921999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4, 27.686, 10.921999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C1, 23.622, 20.066, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C2, 24.511, 23.875999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C3, 46.99, 14.604999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C4 22uF/16v PANASONIC_C, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C5 22uF/16v PANASONIC_C, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C6, 19.685, 17.906999999999996, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C9, 6.35, 40.894, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C10, 47.370999999999995, 10.287, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 54.60999999999999, 5.968999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D0-7, 54.60999999999999, 47.244, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 13.97, 22.987, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 54.356, 14.858999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.8099999999999996, 22.86, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 65.024, 14.224, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 60.959999999999994, 39.37, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 36.83, 5.968999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 30.225999999999996, 47.244, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED1, 15.366999999999999, 10.287, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MPOWER, 20.447, 3.937, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 21.843999999999998, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 8.382, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R1, 38.099999999999994, 15.366999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R2, 35.559999999999995, 15.366999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R3, 33.019999999999996, 15.366999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R4, 19.558, 15.366999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R5, 30.479999999999997, 15.366999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R6, 27.686, 15.366999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R7, 10.16, 43.053, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R8, 15.366999999999999, 45.72, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SERPWR, 2.032, 48.767999999999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SERVO1, 9.398, 50.546, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SERVO2, 9.398, 47.370999999999995, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 36.83, 8.128, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 27.686, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 30.479999999999997, 10.16, M270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 33.019999999999996, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP4, 35.559999999999995, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP5, 38.099999999999994, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 48.387, 1.651, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 4.191, 48.767999999999994, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 65.27799999999999, 38.862, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 34.798, 22.605999999999998, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

@@ -26,15 +26,143 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit 2 13in eInk Bonnet PCB"
+            "value": "Adafruit 2 13in eInk Bonnet PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-2-13in-eInk-Bonnet-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-2-13in-eInk-Bonnet-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/4687"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C1 10uF/10V+ 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C2 1uF/10V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C3 1uF/25V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C4 1uF/25V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C5 4.7uF/25V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C6 1uF/10V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C15 10uF/10V+ 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UNMATCHED-01, C16, 6.331899959999999, 8.989499927999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C21, 6.294099933999999, 10.84850002, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C22 1uF/25V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C23 1uF/25V 0805-NO, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UNMATCHED-01, C24, 6.318300037999999, 18.4785, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN2, 40.4495, -0.168500044, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 15.559300098, 13.095299946, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 18.018300005999997, 10.642700076, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 11.093500037999998, 6.286499999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, EINK1, -10.493499967999998, -3.079500064, M180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 47.590499941999994, 24.859600013999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 46.922500008, 0.26950009599999997, M90"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, -5.899099961999999, 24.8031, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 14.395500038, 16.2687, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q5, 8.426500038, 4.0005, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O104-01, R2, 46.50450008199999, 13.704499895999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O104-01, R3, 46.39950003799999, 18.0975, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R4, 5.759500038, 5.3975, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O104-01, R5, 20.221699968, 17.208499999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O104-01, R6, 28.695700038, 17.208499999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI2, 53.486100038, -2.3495, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 51.006499968, 19.650499942, M270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 51.006499968, 5.650500001999999, M90"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

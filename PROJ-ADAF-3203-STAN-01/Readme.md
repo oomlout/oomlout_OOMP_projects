@@ -41,6 +41,9 @@ Contents
 - oompName: Adafruit Perma Proto Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3203
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.512, 22.148799999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0078000859999999995, 0
+- rawPart: 
 
 
 

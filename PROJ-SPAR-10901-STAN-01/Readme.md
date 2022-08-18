@@ -41,6 +41,14 @@ Contents
 - oompName: Infrared Proximity Breakout-VCNL4000
 - sources: All source files from https://github.com/sparkfun/Infrared_Proximity_Breakout-VCNL4000 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10901
+- oompPart: CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 11.43, 180
+- oompPart: CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 7.619999999999999, 90
+- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 12.7, 7.619999999999999, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, M180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 3.8099999999999996, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 0.7619999999999999, 14.477999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 7.619999999999999, 0
+- rawPart: 
 
 
 

@@ -26,15 +26,55 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitTSL2561 breakout board PCB"
+            "value": "TSL2561 breakout board PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitTSL2561-breakout-board-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/TSL2561-breakout-board-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1980"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C1, 3.8099999999999996, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R1, 15.493999999999998, 8.889999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R2, 13.208, 8.889999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 1.5239999999999998, 11.43, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 16.764, 5.08, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 15.239999999999998, 14.477999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$6, 2.54, 14.477999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 8.889999999999999, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

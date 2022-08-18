@@ -41,6 +41,12 @@ Contents
 - oompName: LilyPad Vibe Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Vibe_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11008
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -5.206999999999999, -2.794, 135
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, M1, 0.0, 0.889, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 5.465999989999999, -2.832999922, 60
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VIBE+, 6.499999954, 3.86999988, 120
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VIBE-, -6.499999954, 3.75000012, 240
+- rawPart: 
 
 
 

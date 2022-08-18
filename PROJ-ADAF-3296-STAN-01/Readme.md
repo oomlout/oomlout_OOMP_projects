@@ -41,6 +41,14 @@ Contents
 - oompName: DS1307 breakout board
 - sources: All source files from https://github.com/adafruit/DS1307-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3296
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.971, 6.095999999999999, 180
+- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 3.556, 8.636000000000001, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 11.811, 18.287999999999997, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.032, 17.145, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 18.415, 15.748, 270
+- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 11.43, 6.604, 270
+- oompPart: RESE-UNMATCHED-X-O222-01, R2, 8.382, 6.604, 90
+- rawPart: 
 
 
 

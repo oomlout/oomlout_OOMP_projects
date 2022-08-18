@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRARREV3"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ARDU"
+        },
+        {
+            "name": "oompColor",
+            "value": "UNO"
+        },
+        {
+            "name": "oompDesc",
+            "value": "REV3"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ARDU-UNO-REV3-SM"
+        },
+        {
+            "name": "name",
+            "value": "Arduino Rev3 Uno SMD"
+        }
+    ]
+}

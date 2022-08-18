@@ -41,6 +41,20 @@ Contents
 - oompName: Adafruit Flora TSL2561 Lux Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1246
+- oompPart: CAPC-0805-X-NF100-V50, C1, 115.0, 0.0, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -115.0, 0.0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 225.0, 0
+- oompPart: RESE-UNMATCHED-X-O103-01, R2, 0.0, -115.0, 0
+- oompPart: RESE-UNMATCHED-X-O103-01, R3, 0.0, 115.0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 195.0, 115.0, 300
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL2, -195.0, 115.0, 60
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA1, 195.0, -115.0, 240
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA2, -195.0, -115.0, 120
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 0.0, 35.0, M180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 0.0, 0.0, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -230.0, 180
+- rawPart: 
 
 
 

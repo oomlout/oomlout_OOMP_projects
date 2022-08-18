@@ -26,15 +26,55 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit LM4040 Voltage Reference PCB"
+            "value": "Adafruit LM4040 Voltage Reference PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-LM4040-Voltage-Reference-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-LM4040-Voltage-Reference-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/2200"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.8099999999999996, 9.143999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 9.143999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 11.43, 4.3180000000000005, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R1, 3.8099999999999996, 11.937999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R2, 8.889999999999999, 11.937999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R3, 3.8099999999999996, 6.35, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R4, 8.889999999999999, 6.35, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

@@ -41,6 +41,12 @@ Contents
 - oompName: Adafruit ALS PT19 Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2748
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.54, 0.7619999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 2.032, 0
+- oompPart: RESE-0603-X-O103-01, R1, 2.1590000000000003, 4.699, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 3.8099999999999996, 7.874, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.334, 4.699, 180
+- rawPart: 
 
 
 

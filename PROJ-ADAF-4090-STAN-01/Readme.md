@@ -41,6 +41,15 @@ Contents
 - oompName: Adafruit USB C Downstream Breakout
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4090
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.7, 9.398, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 7.619999999999999, 12.572999999999999, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 2.032, 5.842, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R2, 2.032, 7.619999999999999, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 17.779999999999998, 11.43, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 2.54, 11.43, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 10.16, 13.97, 180
+- rawPart: 
 
 
 

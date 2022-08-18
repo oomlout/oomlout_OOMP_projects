@@ -41,6 +41,11 @@ Contents
 - oompName: Adafruit SMT Breakout PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1377
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -3.8099999999999996, 0.0, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 0.0, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180
+- rawPart: 
 
 
 

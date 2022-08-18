@@ -41,6 +41,17 @@ Contents
 - oompName: Adafruit Flora Smart NeoPixel
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Smart-NeoPixel (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1060
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, -2.794, -3.556, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DATA_INPUT, 0.0, -5.206999999999999, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DATA_OUTPUT, 0.0, 5.206999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -5.206999999999999, 0.0, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 0.0, 0.0, M90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 0.0, 0.0, 180
+- oompPart: RESE-0805-X-UNMATCHED-01, R1, 2.794, -3.556, M180
+- oompPart: RESE-0805-X-UNMATCHED-01, R2, 2.794, 3.556, M0
+- oompPart: RESE-0805-X-UNMATCHED-01, R3, -2.794, 3.556, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VDD, 5.206999999999999, 0.0, 270
+- rawPart: 
 
 
 

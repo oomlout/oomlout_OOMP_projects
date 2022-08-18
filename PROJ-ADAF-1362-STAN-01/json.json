@@ -26,15 +26,119 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit Standalone Capacitive Sensor PCB"
+            "value": "Adafruit Standalone Capacitive Sensor PCB"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1362"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C1, -3.937, 2.032, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.604, 16.764, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -0.127, 9.270999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.540999999999999, 8.509, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -9.779, 8.509, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED1, 6.604, 4.699, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED2, 6.604, 7.238999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED3, 6.604, 9.779, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED4, 6.604, 12.318999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED5, 6.604, 14.858999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R1, -6.35, 4.699, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R2, -6.35, 7.238999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R3, -6.35, 9.779, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R4, -6.35, 12.191999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O103-01, R5, -6.35, 14.858999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R6, 4.826, 2.1590000000000003, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R7, 1.778, 2.794, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R8, -0.7619999999999999, 2.794, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R9, -1.27, 14.858999999999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R10, 2.794, 15.239999999999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, -8.509, 18.796, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 9.270999999999999, 18.796, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, -8.509, -1.5239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 9.270999999999999, -1.5239999999999998, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

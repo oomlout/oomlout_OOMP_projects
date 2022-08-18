@@ -36,6 +36,9 @@ Contents
 - oompName: Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2566
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN2, 0.0, 0.0, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, -2.2859999999999996, 0
+- rawPart: 
 
 
 

@@ -41,6 +41,12 @@ Contents
 - oompName: Adafruit PiGRRL PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiGRRL-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3015
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.450000054, 22.499999958, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, 14.300000102, 30.350000006, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B3, 22.149999895999997, 22.499999958, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B4, 14.300000102, 14.649999909999998, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, HEADER, 14.249999947999997, 37.872999946, 0
+- rawPart: 
 
 
 

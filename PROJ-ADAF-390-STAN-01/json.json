@@ -26,15 +26,139 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitUSB DC Solar Lithium Ion Polymer charger"
+            "value": "USB DC Solar Lithium Ion Polymer charger"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitUSB-DC-Solar-Lithium-Ion-Polymer-charger (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/390"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C1, 31.241999999999997, 12.7, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C2, 9.524999999999999, 11.684, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C3 10uF/10V C0805K, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C4 4700uF/10V E5-13, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, CHRG/LBO, 18.415, 6.985, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 33.841999879999996, 38.253999946, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN4, 22.224999999999998, 33.654999999999994, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 29.845, 24.892, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, D2 0 ohm, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, DONE, 26.034999999999997, 6.985, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.224999999999998, 19.049999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.208, 35.05199999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.224999999999998, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 27.304999999999996, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 17.145, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LOAD, 34.925, 3.8099999999999996, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, PWR, 7.5089999679999995, 36.129999876, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R2, 21.779999873999998, 13.160000096000001, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O104-01, R3, 26.495000096000002, 13.160000096000001, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R5, 11.43, 20.32, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R8, 20.955, 6.985, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R9, 23.495, 6.985, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R10, 7.5089999679999995, 30.668999875999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-UNMATCHED-01, R11, 3.8099999999999996, 20.32, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O104-01, R12, 28.701999999999995, 18.748000096, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, RT2, 13.97, 20.32, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-O103-01, THERM, 6.35, 20.32, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 3.556, 31.75, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 42.925999999999995, 6.095999999999999, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

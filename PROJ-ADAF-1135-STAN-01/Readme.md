@@ -41,6 +41,8 @@ Contents
 - oompName: Adafruit Perma Proto Pi PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1135
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 0.0, 90
+- rawPart: 
 
 
 

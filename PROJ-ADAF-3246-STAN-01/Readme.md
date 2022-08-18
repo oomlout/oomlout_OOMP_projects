@@ -41,6 +41,14 @@ Contents
 - oompName: Adafruit Mini Analog Thumbstick Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3246
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOY1, 12.7, 12.953999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 1.9049999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 24.764999999999997, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 22.86, 2.54, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 2.54, 2.54, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 22.86, 24.13, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$6, 2.54, 24.13, 0
+- rawPart: 
 
 
 

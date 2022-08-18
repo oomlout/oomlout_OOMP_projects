@@ -41,6 +41,13 @@ Contents
 - oompName: RF Transceiver Breakout-RFM22B
 - sources: All source files from https://github.com/sparkfun/RF_Transceiver_Breakout-RFM22B (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10154
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP0, 11.43, 26.669999999999998, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 26.669999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 26.669999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 11.43, 1.27, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 16.509999999999998, 1.27, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RFM22-XXX-S2, 8.889999999999999, 13.97, 270
+- rawPart: 
 
 
 

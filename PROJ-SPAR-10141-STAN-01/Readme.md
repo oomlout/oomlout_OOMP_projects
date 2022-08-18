@@ -41,6 +41,10 @@ Contents
 - oompName: LS20126 GPS Breakout
 - sources: All source files from https://github.com/sparkfun/LS20126_GPS_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10141
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 10.16, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 13.97, 1.27, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 6.35, 0
+- rawPart: 
 
 
 

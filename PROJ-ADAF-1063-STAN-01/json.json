@@ -26,15 +26,99 @@
         },
         {
             "name": "oompName",
-            "value": "oomlout_OOMP_projectssourceFilesadafruitAdafruit MAX4466 Electret Mic Amplifier PCBs"
+            "value": "Adafruit MAX4466 Electret Mic Amplifier PCBs"
         },
         {
             "name": "sources",
-            "value": "All source files from https://github.com/adafruit/oomlout_OOMP_projectssourceFilesadafruitAdafruit-MAX4466-Electret-Mic-Amplifier-PCBs (source licence details in srcLicense.md)"
+            "value": "All source files from https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs (source licence details in srcLicense.md)"
         },
         {
             "name": "linkBuyPage",
             "value": "http://www.adafruit.com/products/1063"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF100-V50, C1, 7.112, 11.43, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-NF10-01, C2, 2.54, 13.97, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0805-X-PF100-01, C3, 12.572999999999999, 5.715, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0805-X-UF10-V25, C4, 11.557, 11.049, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, FB1, 3.556, 5.715, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, FB2, 1.5239999999999998, 5.715, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.446, 2.413, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.651, 16.256, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.112, 1.5239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.985, 14.097000000000001, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R1, 7.112, 13.716, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R2, 10.668, 14.097000000000001, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O105-01, R3, 3.556, 10.668, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O105-01, R4, 1.5239999999999998, 10.668, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O102-01, R5, 11.557, 8.889999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0805-X-O223-01, R7, 5.588, 5.715, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 2.1590000000000003, 19.304, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$14, 11.811, 19.304, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, VR1 TC33X-2-104E (100K), 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
         },
         {
             "name": "oompID",

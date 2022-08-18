@@ -41,6 +41,9 @@ Contents
 - oompName: Adafruit LED Sequin PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Sequin-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1755
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -0.7619999999999999, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 0.0, 1.016, 180
+- rawPart: 
 
 
 

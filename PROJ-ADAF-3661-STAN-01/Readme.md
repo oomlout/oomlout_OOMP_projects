@@ -41,6 +41,15 @@ Contents
 - oompName: Adafruit AP3602A PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AP3602A-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3661
+- oompPart: CAPC-0805-X-UF10-V25, C1, 8.636000000000001, 6.604, 90
+- oompPart: CAPC-0805-X-UF10-V25, C2, 1.9049999999999998, 6.604, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.8099999999999996, 9.524999999999999, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 12.7, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 5.08, 6.604, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180
+- oompPart: RESE-0805-X-O104-01, R1, 7.746999999999999, 9.524999999999999, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 5.08, 12.7, 0
+- rawPart: 
 
 
 

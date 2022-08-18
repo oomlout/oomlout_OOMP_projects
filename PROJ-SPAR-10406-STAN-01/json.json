@@ -37,6 +37,134 @@
             "value": "https://www.sparkfun.com/products/10406"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C1, 30.479999999999997, 40.64, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-PF22-01, C2, 57.276999999999994, 27.94, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-UNMATCHED-01, C3, 59.69, 25.4, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-UNMATCHED-01, C4, 59.69, 27.94, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C5, 57.276999999999994, 25.4, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C6, 57.276999999999994, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-PF22-01, C7, 57.276999999999994, 24.13, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C8, 20.32, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, JP1 XBee Regulated, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 49.529999999999994, 45.72, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 2.032, 6.985, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, 59.181999999999995, 50.8, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED1, 1.27, 19.049999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED2, 1.27, 11.43, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED3, 1.27, 26.669999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R1, 3.8099999999999996, 39.37, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O331-01, R3, 2.54, 11.43, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O331-01, R4, 2.54, 19.049999999999997, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R5, 30.479999999999997, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R6, 30.479999999999997, 22.86, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O331-01, R7, 2.54, 26.669999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, R8 0 Ohm, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, R9 0 Ohm, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 3.8099999999999996, 43.18, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 3.8099999999999996, 34.29, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 17.779999999999998, 39.37, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 20.32, 39.37, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ3, 15.239999999999998, 39.37, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ4, 12.7, 39.37, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 40.64, 25.4, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 0.0, 53.339999999999996, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": ""
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10406-STAN-01"
         },

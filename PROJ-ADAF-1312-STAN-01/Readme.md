@@ -41,6 +41,14 @@ Contents
 - oompName: Adafruit_Breadboard_NeoPixel_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1312
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.921, 3.937, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -5.08, 0.0, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 0.0, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, -2.921, 3.937, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R2, 2.921, -3.937, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, -2.921, -3.937, 180
+- rawPart: 
 
 
 

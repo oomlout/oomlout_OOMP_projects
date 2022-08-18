@@ -41,6 +41,14 @@ Contents
 - oompName: Adafruit Pi Cobber PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1754
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 26.669999999999998, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 0.0, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -5.08, 0.0, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -5.08, 19.049999999999997, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 5.08, 19.049999999999997, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 5.08, -19.049999999999997, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, -5.08, -19.049999999999997, 0
+- rawPart: 
 
 
 

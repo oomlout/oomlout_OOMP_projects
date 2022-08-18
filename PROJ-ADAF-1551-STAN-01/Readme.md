@@ -41,6 +41,11 @@ Contents
 - oompName: Adafruit DS2413 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DS2413-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1551
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 5.08, 1.27, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.794, 10.413999999999998, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 5.08, 12.7, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 7.112, 270
+- rawPart: 
 
 
 

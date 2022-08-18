@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "PRARSTAN"
+        },
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ARDU"
+        },
+        {
+            "name": "oompColor",
+            "value": "DUE"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "sources",
+            "value": "All source files from https://store.arduino.cc/collections/boards/products/arduino-due"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://store.arduino.cc/collections/boards/products/arduino-due"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ARDU-DUE-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Arduino DUE"
+        }
+    ]
+}
