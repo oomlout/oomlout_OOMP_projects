@@ -1,0 +1,351 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 19:00
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        +5V
+
+C2       1        GND
+         2        +5V
+
+C3       1        GND
+         2        +3V3
+
+C4       1        GND
+         2        AREF
+
+C5       1        DTR
+         2        RESET
+
+C6       1        GND
+         2        +5V
+
+C7       1        +5V
+         2        GND
+
+C8       1        TP_VUCAP
+         2        UGND
+
+C9       1        XT1
+         2        GND
+
+C10      1        N$4
+         2        GND
+
+C11      1        XT2
+         2        GND
+
+D1       A        PWRIN
+         C        VIN
+
+D2       A        RESET
+         C        +5V
+
+D3       A        RESET2
+         C        +5V
+
+F1       1        USBVCC
+         2        XUSB
+
+FD1      P$1               *** unconnected ***
+
+FD2      P$1               *** unconnected ***
+
+FD3      P$1               *** unconnected ***
+
+FRAME1  
+GROUND   1        GND
+         2        UGND
+
+ICSP     1        MISO
+         2        +5V
+         3        SCK
+         4        MOSI
+         5        RESET
+         6        GND
+
+ICSP1    1        MISO2
+         2        +5V
+         3        SCK2
+         4        MOSI2
+         5        RESET2
+         6        GND
+
+J1       1                 *** unconnected ***
+         2        +5V
+         3        RESET
+         4        +3V3
+         5        +5V
+         6        GND
+         7        GND
+         8        VIN
+         9        A0
+         10       A1
+         11       A2
+         12       A3
+         13       A4/SDA
+         14       A5/SCL
+
+J2       1        IO0
+         2        IO1
+         3        IO2
+         4        IO3
+         5        IO4
+         6        IO5
+         7        IO6
+         8        IO7
+         9        IO8
+         10       IO9
+         11       SS
+         12       MOSI
+         13       MISO
+         14       SCK
+         15       GND
+         16       AREF
+         17       A4/SDA
+         18       A5/SCL
+
+JP2      1        PB4
+         2        PB6
+         3        PB5
+         4        PB7
+
+L        A        N$1
+         C        GND
+
+L1       1        UGND
+         2        USHIELD
+
+L2       1        +5V
+         2        N$4
+
+ON       A        N$3
+         C        GND
+
+ORIGIN   X                 *** unconnected ***
+
+PC1      +        VIN
+         -        GND
+
+PC2      +        +5V
+         -        GND
+
+R1       1        XT1
+         2        XT2
+
+R2       1        XTAL1
+         2        XTAL2
+
+RESET    1        GND
+         2        GND
+         3        RESET
+         4        RESET
+         5        5-GND
+
+RESET-EN 1        RESET
+         2        RESET
+
+RN1      1        CMP
+         2        CMP
+         3        +5V
+         4        RESET
+         5        +5V
+         6        RESET2
+         7        GND
+         8        VIN
+
+RN2      1        N$1
+         2        +5V
+         3        +5V
+         4        DTR
+         5        GND
+         6        N$36
+         7        N$35
+         8        L13
+
+RN3      1        RD-
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        RD+
+         5        D+
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        D-
+
+RN4      1        IO1
+         2        IO0
+         3        +5V
+         4        +5V
+         5        N$3
+         6        N$3
+         7        M8RXD
+         8        M8TXD
+
+RX       A        N$35
+         C        RXLED
+
+T1       1        USBVCC
+         2        +5V
+         3        GATE_CMD
+
+TP_5V1   X        +5V
+
+TP_CMP   X        CMP
+
+TP_DTR   X        DTR
+
+TP_GATE  X        GATE_CMD
+
+TP_LCMD  X        L13
+
+TP_LL    X        N$1
+
+TP_MISO2 X        MISO2
+
+TP_MOSI2 X        MOSI2
+
+TP_ONL   X        N$3
+
+TP_RESET2 X        RESET2
+
+TP_RX    X        M8RXD
+
+TP_RXL   X        N$35
+
+TP_SCK2  X        SCK2
+
+TP_TX    X        M8TXD
+
+TP_TXL   X        N$36
+
+TP_USBVCC X        USBVCC
+
+TP_USH   X        USHIELD
+
+TP_VUCAP X        TP_VUCAP
+
+TX       A        N$36
+         C        TXLED
+
+U1       1        GND
+         2        +5V
+         3        VIN
+         4        +5V
+
+U2       1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        XT1
+         2        XT2
+         3        GND
+         4        +5V
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        M8TXD
+         9        M8RXD
+         10       RXLED
+         11       TXLED
+         12                *** unconnected ***
+         13       DTR
+         14                *** unconnected ***
+         15       SCK2
+         16       MOSI2
+         17       MISO2
+         18       PB4
+         19       PB5
+         20       PB6
+         21       PB7
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       RESET2
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27       TP_VUCAP
+         28       UGND
+         29       RD+
+         30       RD-
+         31       USBVCC
+         32       +5V
+         EXP      GND
+
+U4       1        IO3
+         2        IO4
+         3        GND
+         4        +5V
+         5        GND
+         6        +5V
+         7        XTAL1
+         8        XTAL2
+         9        IO5
+         10       IO6
+         11       IO7
+         12       IO8
+         13       IO9
+         14       SS
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       N$4
+         19                *** unconnected ***
+         20       AREF
+         21       GND
+         22                *** unconnected ***
+         23       A0
+         24       A1
+         25       A2
+         26       A3
+         27       A4/SDA
+         28       A5/SCL
+         29       RESET
+         30       IO0
+         31       IO1
+         32       IO2
+         33                *** unconnected ***
+
+U5       1        GATE_CMD
+         2        +3V3
+         3        CMP
+         4        GND
+         5        SCK
+         6        L13
+         7        L13
+         8        +5V
+
+X1       1        GND
+         2        PWRIN
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+
+X2       1        XUSB
+         2        D-
+         3        D+
+         4        UGND
+         P$1      USHIELD
+         P$2      USHIELD
+
+Y1       1        XT2
+         2        XT1
+
+Y2       1        XTAL2
+         2        GND
+         3        XTAL1
+
+Z1       1        D+
+         2        USHIELD
+
+Z2       1        D-
+         2        USHIELD
+

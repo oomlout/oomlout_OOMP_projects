@@ -1,0 +1,143 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 18:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     BP       1
+         C1       1
+         C10      1
+         C11      1
+         C14      1
+         C2       1
+         C3       1
+         C4       1
+         D11      A
+         I2C      2
+         J1       2
+         J2       2
+         J5       2
+         L2       P$2
+         R1       2
+         U1       1
+
+BLUE_N   GND\     2
+         J3       5
+         J7       5
+
+DSCL_N   J3       1
+         J7       1
+         U1       6
+
+DSCL_P   J3       2
+         J7       2
+         U1       7
+
+DSDA_N   J3       7
+         J7       7
+         U1       9
+
+DSDA_P   J3       8
+         J7       8
+         U1       8
+
+EN       J4       1
+         U1       3
+
+GND      C1       2
+         C10      2
+         C11      2
+         C12      -
+         C14      2
+         C15      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         GND\     1
+         HV_GND   1
+         J1       1
+         J2       1
+         J5       1
+         PWR      1
+         R2       1
+         U1       5
+         U3       1
+         U3       11
+         U3       6
+
+GRN_N    HV_GND   2
+         J3       6
+         J6       2
+         J7       6
+
+N$1      C9       1
+         U3       4
+
+N$3      I2C      1
+         R8       2
+
+N$4      I2C      3
+         R7       2
+
+N$6      R1       1
+         R2       2
+         U3       7
+
+N$7      R3       1
+         U3       8
+
+N$9      C5       1
+         R3       2
+         U3       5
+
+N$13     D11      C
+         R11      1
+
+N$14     PWR      2
+         R11      2
+
+SCL      J1       4
+         J2       4
+         J5       4
+         R7       1
+         U1       4
+
+SDA      J1       3
+         J2       3
+         J5       3
+         R8       1
+         U1       2
+
+SW       C9       2
+         L2       P$1
+         U3       12
+         U3       3
+
+VCC_1    BP       2
+         J3       4
+         J7       4
+         PSEL     3
+         TP1      P$1
+         U1       10
+
+VCC_2    J3       3
+         J6       1
+         J7       3
+         PSEL     1
+
+VREG_IN  C12      +
+         C15      1
+         C6       1
+         C7       1
+         C8       1
+         PSEL     2
+         U3       10
+         U3       2
+         U3       9
+

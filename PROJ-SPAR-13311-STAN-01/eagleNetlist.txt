@@ -1,0 +1,226 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+2          JP1      2
+           JP4      4
+
+3          JP1      3
+           JP4      5
+
+3.3V       JP1      3.3V
+           JP5      2
+           SJ4      3
+
+3V         JP1      3V
+           JP7      4
+
+4          JP1      4
+           JP4      6
+
+5          JP1      5
+           JP4      7
+
+6          JP1      6
+           JP4      8
+
+7/RX3      JP1      7
+           JP4      9
+
+8/TX3      JP1      8
+           JP4      10
+
+9/RX2      JP1      9
+           JP4      11
+
+10/TX2/CS  JP1      10
+           JP4      12
+
+11/DOUT    JP1      11
+           JP4      13
+
+12/DIN     JP1      12
+           JP4      14
+
+13/SCK     JP1      13
+           JP7      18
+
+A0/14      JP1      14
+           JP7      17
+
+A1/15      JP1      15
+           JP7      16
+
+A2/16      JP1      16
+           JP7      15
+
+A3/17      JP1      17
+           JP7      14
+
+A4/18/SDA0 JP1      18
+           JP7      13
+
+A5/19/SCL0 JP1      19
+           JP7      12
+
+A6/20      JP1      20
+           JP7      11
+           SJ3      1
+
+A7/21      JP1      21
+           JP7      10
+           SJ1      1
+
+A8/22      JP1      22
+           JP7      9
+
+A9/23      JP1      23
+           JP7      8
+
+A10        JP1      A10
+           JP7      7
+
+A11        JP1      A11
+           JP7      6
+
+A14/DAC    JP1      A14/DAC
+           JP5      5
+
+AREF       JP1      AREF
+           JP7      5
+
+CTS        JP3      2
+           JP9      12
+
+DIO0       JP3      10
+           JP9      20
+
+DIO1       JP3      9
+           JP9      19
+
+DIO2       JP3      8
+           JP9      18
+
+DIO3       JP3      7
+           JP9      17
+
+DIO4       JP3      1
+           JP9      11
+
+DIO5       JP3      5
+           JP9      15
+           R2       2
+
+DIO9       JP3      3
+           JP9      13
+
+DIO11      JP2      4
+           JP9      7
+
+DIO12      JP2      7
+           JP9      4
+
+DTR        JP2      2
+           JP9      9
+
+EXT_3.3V   JP8      1
+           SJ4      1
+           SJ5      2
+
+GND        JP1      AGND
+           JP1      GND
+           JP1      GND1
+           JP2      1
+           JP4      1
+           JP5      3
+           JP6      1
+           JP6      2
+           JP6      3
+           JP7      3
+           JP8      2
+           JP9      10
+           LED1     C
+           LED4     C
+           LED5     C
+           S3       3
+
+IN         JP2      8
+           JP9      3
+           LED3     C
+           S2       5
+
+N$12       LED1     A
+           R11      1
+
+N$17       LED2     A
+           R1       2
+
+N$19       LED3     A
+           R3       2
+
+N$43       LED4     A
+           R4       1
+
+N$139      LED5     A
+           R2       1
+
+N$140      S2       6
+           SJ1      2
+
+N$141      S2       3
+           SJ3      2
+
+OUT        JP2      9
+           JP9      2
+           LED2     C
+           S2       2
+
+PROG       JP1      PROG
+           JP5      4
+
+RES        JP2      3
+           JP9      8
+
+RES2       JP3      4
+           JP9      14
+
+RESET      JP2      6
+           JP9      5
+           S3       1
+
+RSSI       JP2      5
+           JP9      6
+           R4       2
+
+RTS        JP3      6
+           JP9      16
+
+UART_RX    JP1      0
+           JP4      2
+           S2       1
+
+UART_TX    JP1      1
+           JP4      3
+           S2       4
+
+VBAT       JP1      VBAT
+           JP5      1
+
+VIN        JP1      VIN
+           JP7      1
+           SJ5      1
+
+VUSB       JP1      VUSB
+           JP7      2
+
+XBEE_VDD   JP2      10
+           JP9      1
+           R1       1
+           R11      2
+           R3       1
+           SJ4      2
+

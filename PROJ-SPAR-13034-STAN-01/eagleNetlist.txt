@@ -1,0 +1,240 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:30
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+1.8V             C1       1
+                 R4       2
+                 R5       2
+                 U$2      12
+                 U$3      12
+                 U2       1
+
+3.3V             U$2      10
+                 U$2      8
+                 U$3      10
+                 U$3      8
+
+3.3V-REGULATED   C4       1
+                 SJ1      3
+                 U1       5
+
+DCIN             U$2      14
+                 U$3      14
+
+FAULT            U$2      19
+                 U$3      19
+
+FW_RCVR          U$2      69
+                 U$3      69
+
+GND              C1       2
+                 C2       2
+                 C3       2
+                 C4       2
+                 JP2      4
+                 U$2      1
+                 U$2      11
+                 U$2      13
+                 U$2      15
+                 U$2      5
+                 U$2      9
+                 U$3      1
+                 U$3      11
+                 U$3      13
+                 U$3      15
+                 U$3      5
+                 U$3      9
+                 U1       2
+                 U2       4
+
+GP12_PWM0        U$2      35
+                 U$3      35
+
+GP13_PWM1        U$2      33
+                 U$3      33
+
+GP14             U$2      48
+                 U$3      48
+
+GP15             U$2      42
+                 U$3      42
+
+GP19_I2C_1_SCL   R4       1
+                 U$2      41
+                 U$3      41
+                 U2       2
+
+GP20_I2C_1_SDA   R5       1
+                 U$2      43
+                 U$3      43
+                 U2       3
+
+GP27_I2C_6_SCL   U$2      45
+                 U$3      45
+
+GP28_I2C_6_SDA   U$2      47
+                 U$3      47
+
+GP40_I2S_2_CLK   U$2      52
+                 U$3      52
+
+GP41_I2S_2_FS    U$2      54
+                 U$3      54
+
+GP42_I2S_2_RXD   U$2      50
+                 U$3      50
+
+GP43_I2S_2_TXD   U$2      56
+                 U$3      56
+
+GP44             U$2      24
+                 U$3      24
+
+GP45             U$2      26
+                 U$3      26
+
+GP46             U$2      28
+                 U$3      28
+
+GP47             U$2      30
+                 U$3      30
+
+GP48             U$2      32
+                 U$3      32
+
+GP49             U$2      34
+                 U$3      34
+
+GP77_SD_0_CD#    U$2      60
+                 U$3      60
+
+GP78_SD_0_CLK    U$2      58
+                 U$3      58
+
+GP79_SD_0_CMD    U$2      62
+                 U$3      62
+
+GP80_SD_0_DAT0   U$2      66
+                 U$3      66
+
+GP81_SD_0_DAT1   U$2      70
+                 U$3      70
+
+GP82_SD_0_DAT2   U$2      64
+                 U$3      64
+
+GP83_SD_0_DAT3   U$2      68
+                 U$3      68
+
+GP84_SD_CLK_FB   U$2      44
+                 U$3      44
+
+GP109_SPI_2_CLK  U$2      55
+                 U$3      55
+
+GP110_SPI_2_FS0  U$2      53
+                 U$3      53
+
+GP111_SPI_2_FS1  U$2      51
+                 U$3      51
+
+GP114_SPI_2_RXD  U$2      59
+                 U$3      59
+
+GP115_SPI_2_TXD  U$2      57
+                 U$3      57
+
+GP128_UART_1_CTS U$2      65
+                 U$3      65
+
+GP129_UART_1_RTS U$2      63
+                 U$3      63
+
+GP130_UART_1_RX  U$2      61
+                 U$3      61
+
+GP131_UART_1_TX  U$2      46
+                 U$3      46
+
+GP134_UART_2_RX  U$2      22
+                 U$3      22
+
+GP135_UART_2_TX  U$2      27
+                 U$3      27
+
+GP165            U$2      25
+                 U$3      25
+
+GP182_PWM2       U$2      37
+                 U$3      37
+
+GP183_PWM3       U$2      39
+                 U$3      39
+
+HV_SCL           JP2      1
+                 R2       1
+                 U2       6
+
+HV_SDA           JP2      2
+                 R1       1
+                 U2       5
+
+MSIC_SLP_CLK     U$2      7
+                 U$3      7
+
+N$1              R3       1
+                 U2       7
+                 U2       8
+
+OSC_CLK_OUT      U$2      67
+                 U$3      67
+
+PSW              U$2      21
+                 U$3      21
+
+PWRBTN#          U$2      17
+                 U$3      17
+
+RCVR_MODE        U$2      31
+                 U$3      31
+
+RESET_OUT#       U$2      36
+                 U$3      36
+
+USB_DN           U$2      18
+                 U$3      18
+
+USB_DP           U$2      16
+                 U$3      16
+
+USB_ID           U$2      3
+                 U$3      3
+
+USB_VBUS         U$2      20
+                 U$3      20
+
+VOUT             C2       1
+                 JP2      3
+                 R1       2
+                 R2       2
+                 R3       2
+                 SJ1      2
+
+VSYS             C3       1
+                 SJ1      1
+                 U$2      2
+                 U$2      4
+                 U$2      6
+                 U$3      2
+                 U$3      4
+                 U$3      6
+                 U1       1
+                 U1       3
+
+V_BAT_BKUP       U$2      23
+                 U$3      23
+

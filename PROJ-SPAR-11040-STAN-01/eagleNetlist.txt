@@ -1,0 +1,177 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+1        LED1     1
+         R1       2
+
+2        LED1     2
+         R2       2
+
+3        LED1     3
+         R3       2
+
+4        LED1     4
+         R4       2
+
+5        LED1     5
+         R5       2
+
+6        LED1     6
+         R6       2
+
+7        LED1     7
+         R7       2
+
+8        LED1     8
+         R8       2
+
+9        LED1     9
+         R9       2
+
+10       LED1     10
+         R11      2
+
+11       LED1     11
+         R10      2
+
+12       LED1     12
+         R12      2
+
+13       LED1     13
+         R13      2
+
+14       LED1     14
+         R14      2
+
+15       LED1     15
+         R15      2
+
+16       LED1     16
+         R16      2
+
+A        JP9      5
+         U1       A
+
+B        JP9      6
+         U1       B
+
+BLUE     JP9      3
+         R17      2
+
+CLEAR    IC1      10
+         IC2      10
+         JP1      2
+         JP10     2
+
+CLK      IC1      11
+         IC2      11
+         JP1      3
+
+DAT      IC1      14
+         JP1      1
+
+EN       IC1      13
+         IC2      13
+         JP1      5
+         JP7      2
+
+GND      C1       2
+         C2       2
+         IC1      8
+         IC2      8
+         JP7      1
+         JP9      7
+         LED1     COM0
+         LED1     COM1
+         LED1     COM2
+         LED1     COM3
+         R20      1
+         U1       C
+
+GREEN    JP9      2
+         R18      2
+
+LATCH    IC1      12
+         IC2      12
+         JP1      4
+
+LED-B    R17      1
+         U1       BL
+
+LED-G    R18      1
+         U1       G
+
+LED-R    R19      1
+         U1       R
+
+N$1      IC1      15
+         R1       1
+
+N$2      IC1      1
+         R2       1
+
+N$3      IC1      2
+         R3       1
+
+N$4      IC1      3
+         R4       1
+
+N$5      IC1      4
+         R5       1
+
+N$6      IC1      5
+         R6       1
+
+N$7      IC1      6
+         R7       1
+
+N$8      IC1      7
+         R8       1
+
+N$9      IC2      15
+         R9       1
+
+N$10     IC2      1
+         R11      1
+
+N$11     IC2      2
+         R10      1
+
+N$12     IC2      3
+         R12      1
+
+N$13     IC2      4
+         R13      1
+
+N$14     IC2      5
+         R14      1
+
+N$15     IC2      6
+         R15      1
+
+N$16     IC2      7
+         R16      1
+
+QH*      IC1      9
+         IC2      14
+
+RED      JP9      4
+         R19      2
+
+SWITCH   JP9      1
+         R20      2
+         U1       SW
+
+VCC      C1       1
+         C2       1
+         IC1      16
+         IC2      16
+         JP1      6
+         JP10     1
+         U1       VCC
+

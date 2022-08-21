@@ -1,0 +1,127 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3V3      J13      1
+         JP13     1
+         JP26     1A
+         JP26     1B
+
+A0       J12      1
+         JP12     1
+         JP25     12A
+         JP25     12B
+
+A1       J11      1
+         JP11     1
+         JP25     11A
+         JP25     11B
+
+A2       J10      1
+         JP10     1
+         JP25     10A
+         JP25     10B
+
+A3       J9       1
+         JP25     9A
+         JP25     9B
+         JP9      1
+
+A4       J8       1
+         JP25     8A
+         JP25     8B
+         JP8      1
+
+A5       J7       1
+         JP25     7A
+         JP25     7B
+         JP7      1
+
+D0       J24      1
+         JP24     1
+         JP26     12A
+         JP26     12B
+
+D1       J23      1
+         JP23     1
+         JP26     11A
+         JP26     11B
+
+D2       J22      1
+         JP22     1
+         JP26     10A
+         JP26     10B
+
+D3       J21      1
+         JP21     1
+         JP26     9A
+         JP26     9B
+
+D4       J20      1
+         JP20     1
+         JP26     8A
+         JP26     8B
+
+D5       J19      1
+         JP19     1
+         JP26     7A
+         JP26     7B
+
+D6       J18      1
+         JP18     1
+         JP26     6A
+         JP26     6B
+
+D7       J17      1
+         JP17     1
+         JP26     5A
+         JP26     5B
+
+DAC      J6       1
+         JP25     6A
+         JP25     6B
+         JP6      1
+
+GND      J16      1
+         J2       1
+         JP16     1
+         JP2      1
+         JP25     2A
+         JP25     2B
+         JP26     4A
+         JP26     4B
+
+RST      J14      1
+         JP14     1
+         JP26     2A
+         JP26     2B
+
+RX       J4       1
+         JP25     4A
+         JP25     4B
+         JP4      1
+
+TX       J3       1
+         JP25     3A
+         JP25     3B
+         JP3      1
+
+VBAT     J15      1
+         JP15     1
+         JP26     3A
+         JP26     3B
+
+VIN      J1       1
+         JP1      1
+         JP25     1A
+         JP25     1B
+
+WKP      J5       1
+         JP25     5A
+         JP25     5B
+         JP5      1
+

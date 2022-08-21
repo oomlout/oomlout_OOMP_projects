@@ -1,0 +1,95 @@
+Netlist
+
+Exported from boardEagle.brd at 21/08/2022 10:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part          Pad
+
++5V      C2            1
+         C3            1
+         IC1           3
+         IC2           8
+         JOYSTICK      5
+         JP1           2
+         JP1           4
+         R1            1
+         R4            2
+
+1/2      AUDIO         2
+         AUDIO         3
+         IC2           3
+         IC2           5
+         R4            1
+         R5            2
+
+1/3      IC1           4
+         IC1           8
+         R2            2
+         R3            1
+
+2/3      IC1           11
+         IC1           7
+         R1            2
+         R2            1
+
+A        BUTTON_A      1
+         JP1           13
+
+B        BUTTON_B      1
+         JP1           15
+
+CREDIT   BUTTON_CREDIT 1
+         JP1           16
+
+DOWN     IC1           14
+         JP1           7
+
+GND      AUDIO         1
+         BUTTON_A      2
+         BUTTON_B      2
+         BUTTON_CREDIT 2
+         BUTTON_START  2
+         C2            2
+         C3            2
+         IC1           12
+         IC2           4
+         JOYSTICK      1
+         JP1           14
+         JP1           20
+         JP1           25
+         JP1           6
+         JP1           9
+         R3            2
+         R5            1
+         SPEAKER       2
+
+LEFT     IC1           2
+         JP1           3
+
+N$3      C1            -
+         SPEAKER       1
+
+N$5      C1            +
+         IC2           1
+         IC2           2
+         IC2           6
+         IC2           7
+
+RIGHT    IC1           1
+         JP1           5
+
+START    BUTTON_START  1
+         JP1           12
+
+UP       IC1           13
+         JP1           11
+
+XOUT     IC1           5
+         IC1           6
+         JOYSTICK      4
+
+YOUT     IC1           10
+         IC1           9
+         JOYSTICK      3
+

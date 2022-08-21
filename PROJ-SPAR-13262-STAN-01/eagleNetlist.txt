@@ -1,0 +1,220 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 09:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C8       2
+          C9       1
+          U1       4
+          U2       3.3V
+          U6       1
+
+5V        C1       2
+          C6       2
+          D4       A
+          JP1      1
+          JP5      1
+          U2       5V
+          U3       2
+          U4       18
+          U5       3
+
+12V       C4       1
+          D1       C
+          U2       VIN
+
+A0        U2       A0
+
+AREF      U2       AREF
+
+CANH      D5       1
+          JP5      3
+          R12      2
+          SJ4      2
+          U5       7
+
+CANL      D5       2
+          JP5      4
+          R10      2
+          SJ6      2
+          U5       6
+
+CAN_CS    U2       D10
+          U4       16
+
+CAN_INT   U2       D2
+          U4       12
+
+CAN_RXD   TP1      P$1
+          U4       2
+          U5       4
+
+CAN_TXD   TP2      P$1
+          U4       1
+          U5       1
+
+D3        U2       D3
+
+D4        SJ2      3
+          U2       D4
+
+D5        SJ1      3
+          U2       D5
+
+GND       C1       1
+          C2       1
+          C3       1
+          C4       2
+          C5       1
+          C6       1
+          C7       1
+          C8       1
+          C9       2
+          D5       3
+          JP1      2
+          JP5      2
+          R1       1
+          R13      1
+          R2       1
+          R3       1
+          S2       1
+          SJ3      2
+          SJ5      2
+          U1       6
+          U1       CD1
+          U1       CD2
+          U1       GND1
+          U1       GND3
+          U2       GND@0
+          U2       GND@1
+          U2       GND@2
+          U3       1
+          U4       9
+          U5       2
+          U6       8
+          U7       GND
+
+JOY-CLICK U2       A4
+          U7       CTR
+
+JOY-DOWN  U2       A3
+          U7       D
+
+JOY-LEFT  U2       A2
+          U7       C
+
+JOY-RIGHT U2       A5
+          U7       B
+
+JOY-UP    U2       A1
+          U7       A
+
+LCD       JP1      3
+          U2       D6
+
+LED1      D2       A
+          U2       D8
+
+LED2      D3       A
+          U2       D7
+
+MISO      U1       7
+          U2       D12
+          U4       15
+
+MOSI      U2       D11
+          U4       14
+          U6       5
+
+N$1       SJ3      1
+          U3       5
+
+N$2       SJ6      3
+          X1       5
+
+N$4       D4       C
+          R1       2
+
+N$5       D2       C
+          R2       2
+
+N$6       D3       C
+          R3       2
+
+N$9       C2       2
+          R10      1
+
+N$10      C3       2
+          R12      1
+
+N$13      F1       2
+          X1       9
+
+N$14      R13      2
+          U5       8
+
+N$15      U1       2
+          U6       2
+
+N$16      D1       A
+          F1       1
+
+N$17      C7       2
+          Q1       3
+          U4       8
+
+N$18      C5       2
+          Q1       1
+          U4       7
+
+N$19      U1       3
+          U6       4
+
+N$21      SJ1      2
+          U3       3
+
+N$22      SJ2      2
+          U3       4
+
+N$24      U1       5
+          U6       6
+
+NC1       X1       1
+
+NC2       X1       4
+
+NC3       X1       6
+
+NC5       X1       8
+
+PIN2      SJ5      3
+          SJ6      1
+          X1       2
+
+PIN3      SJ4      3
+          SJ5      1
+          X1       3
+
+PIN7      SJ4      1
+          X1       7
+
+RS        S2       3
+          U2       RES
+          U4       17
+
+RX        SJ2      1
+          U2       RX
+
+SCK       U2       D13
+          U4       13
+          U6       7
+
+SD_CS     U2       D9
+          U6       3
+
+TX        SJ1      1
+          U2       TX
+

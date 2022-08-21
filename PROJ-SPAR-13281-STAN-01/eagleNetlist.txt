@@ -1,0 +1,45 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 19:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       JP6      3
+         JP7      3
+
+A+       JP3      3
+         JP5      4
+         JP6      5
+
+A-       JP2      3
+         JP5      3
+         JP6      4
+
+E+       JP4      3
+         JP5      1
+         JP6      8
+
+E-       JP1      3
+         JP5      2
+         JP6      7
+
+GND      JP6      1
+         JP7      1
+
+N$1      JP2      1
+         JP4      1
+
+N$2      JP1      1
+         JP3      1
+
+N$3      JP3      2
+         JP4      2
+
+N$4      JP1      2
+         JP2      2
+
+TEMP_DAT JP6      2
+         JP7      2
+

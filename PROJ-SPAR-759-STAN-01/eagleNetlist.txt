@@ -1,0 +1,192 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CS       IC3      14
+         JP3      4
+         JP4      3
+
+G1       IC2      15
+         JP1      5
+
+G2       IC2      1
+         JP1      6
+
+G3       IC2      2
+         JP1      7
+
+G4       IC2      3
+         JP1      8
+
+G5       IC2      4
+         JP1      9
+
+G6       IC2      5
+         JP1      10
+
+G7       IC2      6
+         JP1      11
+
+G8       IC2      7
+         JP1      12
+
+GND      C3       2
+         C4       1
+         C5       2
+         C6       2
+         C7       C
+         C8       C
+         C9       C
+         IC1      8
+         IC2      8
+         IC3      21
+         IC3      3
+         IC3      5
+         JP3      6
+         JP4      1
+         U2       6
+         U3       2
+         ULN1     9
+
+MISO     IC3      16
+         JP3      5
+         U2       1
+
+MOSI     IC3      15
+         JP4      2
+         U2       4
+
+N$1      IC3      7
+         U3       1
+
+N$2      IC3      8
+         U3       3
+
+N$30     IC1      9
+         IC2      14
+
+R1       IC1      15
+         JP2      8
+
+R2       IC1      1
+         JP2      7
+
+R3       IC1      2
+         JP2      6
+
+R4       IC1      3
+         JP2      5
+
+R5       IC1      4
+         JP2      4
+
+R6       IC1      5
+         JP2      3
+
+R7       IC1      6
+         JP2      2
+
+R8       IC1      7
+         JP2      1
+
+ROW1     IC3      30
+         ULN1     1
+
+ROW2     IC3      31
+         ULN1     2
+
+ROW3     IC3      32
+         ULN1     3
+
+ROW4     IC3      1
+         ULN1     4
+
+ROW5     IC3      2
+         ULN1     5
+
+ROW6     IC3      9
+         ULN1     6
+
+ROW7     IC3      10
+         ULN1     7
+
+ROW8     IC3      11
+         ULN1     8
+
+ROW_1    JP1      1
+         ULN1     18
+
+ROW_2    JP1      2
+         ULN1     17
+
+ROW_3    JP1      3
+         ULN1     16
+
+ROW_4    JP1      4
+         ULN1     15
+
+ROW_5    JP2      9
+         ULN1     14
+
+ROW_6    JP2      10
+         ULN1     13
+
+ROW_7    JP2      11
+         ULN1     12
+
+ROW_8    JP2      12
+         ULN1     11
+
+RST      IC3      29
+         R1       1
+         U2       5
+
+SCK      IC3      17
+         JP3      3
+         JP4      4
+         U2       3
+
+SR_CLEAR IC1      10
+         IC2      10
+         IC3      26
+
+SR_DATA  IC1      14
+         IC3      24
+
+SR_EN    IC1      13
+         IC2      13
+         IC3      27
+
+SR_LATCH IC1      12
+         IC2      12
+         IC3      25
+
+SR_SCK   IC1      11
+         IC2      11
+         IC3      23
+
+VCC      C3       1
+         C4       2
+         C5       1
+         C6       1
+         C7       A
+         C8       A
+         C9       A
+         IC1      16
+         IC2      16
+         IC3      18
+         IC3      20
+         IC3      4
+         IC3      6
+         JP3      1
+         JP3      2
+         JP4      5
+         JP4      6
+         R1       2
+         U2       2
+         ULN1     10
+

@@ -1,0 +1,81 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ANT      C6       2
+         Y1       FEED
+
+CE       JP1      2
+         U1       1
+
+CLK1     JP1      5
+         U1       7
+
+CS       JP1      3
+         U1       5
+
+DATA     JP1      6
+         U1       8
+
+DR1      JP1      4
+         U1       6
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C7       2
+         C8       1
+         C9       1
+         JP1      7
+         R2       2
+         U1       0
+         U1       10
+         U1       16
+         U1       18
+         U1       20
+         U1       22
+
+N$1      C1       1
+         Q1       1
+         R1       1
+         U1       11
+
+N$2      C2       1
+         Q1       3
+         R1       2
+         U1       12
+
+N$3      C6       1
+         L1       1
+         L2       2
+         U1       14
+
+N$4      R2       1
+         U1       19
+
+N$5      C3       1
+         U1       9
+
+N$6      C7       1
+         L1       2
+         U1       15
+
+N$7      C4       1
+         C5       1
+         L2       1
+         U1       13
+
+VCC      C8       2
+         C9       2
+         JP1      1
+         U1       17
+         U1       21
+         U1       23
+         U1       24
+

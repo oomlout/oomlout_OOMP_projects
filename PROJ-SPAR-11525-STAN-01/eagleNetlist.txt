@@ -1,0 +1,184 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:19
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       A
+         JP3      19
+         JP9      VCC
+         R1       2
+         R3       2
+         R4       2
+         R6       2
+         U1       18
+         U1       30
+         U1       40
+         U1       8
+         U3       8
+         U4       2
+
+BOE      JP2      4
+         SJ1      2
+         U1       6
+
+GND      C1       2
+         C2       C
+         C3       C
+         JP1      1
+         JP2      1
+         JP2      2
+         JP9      CTS
+         JP9      GND
+         LED1     C
+         LED2     C
+         R5       1
+         SJ1      1
+         U1       17
+         U1       27
+         U1       39
+         U1       5
+         U3       1
+         U3       2
+         U3       3
+         U3       4
+         U3       7
+
+N$1      LED1     A
+         R1       1
+
+N$2      LED2     A
+         R2       1
+
+N$3      R4       1
+         R5       2
+         U4       1
+
+N$5      C4       1
+         JP9      DTR
+
+P0       JP2      20
+         U1       41
+
+P1       JP2      19
+         U1       42
+
+P2       JP2      18
+         U1       43
+
+P3       JP2      17
+         U1       44
+
+P4       JP2      16
+         U1       1
+
+P5       JP2      15
+         U1       2
+
+P6       JP2      14
+         U1       3
+
+P7       JP2      13
+         U1       4
+
+P8       JP2      12
+         U1       9
+
+P9       JP2      11
+         U1       10
+
+P10      JP2      10
+         U1       11
+
+P11      JP2      9
+         U1       12
+
+P12      JP2      8
+         U1       13
+
+P13      JP2      7
+         U1       14
+
+P14      JP2      6
+         U1       15
+
+P15      JP2      5
+         R2       2
+         U1       16
+
+P16      JP3      16
+         U1       19
+
+P17      JP3      15
+         U1       20
+
+P18      JP3      14
+         U1       21
+
+P19      JP3      13
+         U1       22
+
+P20      JP3      12
+         U1       23
+
+P21      JP3      11
+         U1       24
+
+P22      JP3      10
+         U1       25
+
+P23      JP3      9
+         U1       26
+
+P24      JP3      8
+         U1       31
+
+P25      JP3      7
+         U1       32
+
+P26      JP3      6
+         U1       33
+
+P27      JP3      5
+         U1       34
+
+RES      C4       2
+         JP1      2
+         JP2      3
+         U1       7
+
+RX       JP1      3
+         JP3      1
+         JP9      TXO
+         U1       38
+
+SCL      JP3      4
+         R6       1
+         U1       35
+         U3       6
+
+SDA      JP3      3
+         R3       1
+         U1       36
+         U3       5
+
+TX       JP1      4
+         JP3      2
+         JP9      RXI
+         U1       37
+
+VCC      C3       A
+         JP3      20
+         U4       3
+
+XI       JP3      17
+         U1       28
+         Y1       2
+
+XO       JP3      18
+         U1       29
+         Y1       1
+

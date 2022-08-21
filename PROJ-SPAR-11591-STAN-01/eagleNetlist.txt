@@ -1,0 +1,38 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5       J1       P$2
+         J2       2
+         JP1      3
+
+GND      J1       P$6
+         J2       6
+         JP1      1
+
+MISO     J1       P$1
+         J2       1
+         JP1      6
+
+MOSI     J1       P$4
+         J2       4
+         JP1      2
+
+N$1      J3       P$2
+         J4       2
+
+N$2      J3       P$6
+         J4       1
+
+RESET    J1       P$5
+         J2       5
+         JP1      4
+
+SCK      J1       P$3
+         J2       3
+         JP1      5
+

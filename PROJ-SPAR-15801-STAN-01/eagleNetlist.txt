@@ -1,0 +1,167 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net           Part     Pad
+
+!ALERT        J7       5
+              U1       P$19
+
+1.2V          C2       1
+              U1       P$21
+
+2.7V          C1       1
+              D4       A
+              U1       P$23
+
+ADDR0         JP2      2
+              R1       1
+              U1       P$12
+
+ADDR1         JP3      2
+              R2       1
+              U1       P$13
+
+CC1           D6       2
+              J1       A5
+              U1       P$1
+              U1       P$2
+
+CC2           D7       2
+              J1       B5
+              U1       P$4
+              U1       P$5
+
+D+            J1       A6
+              J1       B6
+              J7       4
+
+D-            J1       A7
+              J1       B7
+              J7       3
+
+DISCH         R7       2
+              U1       P$9
+
+EN_SNK        R4       1
+              U1       P$16
+
+GND           C1       2
+              C2       2
+              C6       2
+              D5       1
+              D6       1
+              D7       1
+              D8       1
+              J1       GND
+              J1       GND2
+              J3       4
+              J4       1
+              J5       2
+              J6       2
+              J7       2
+              JP2      1
+              JP3      1
+              R8       1
+              U1       P$10
+              U1       P$25
+
+GPIO          D1       C
+              J7       7
+              U1       P$15
+
+N$1           D2       A
+              R11      1
+
+N$2           D3       A
+              R12      1
+
+N$5           JP1      3
+              R9       2
+
+N$6           JP1      1
+              R10      2
+
+N$8           Q1       4
+              R4       2
+              R5       1
+              R6       1
+
+N$10          C3       2
+              R6       2
+
+N$13          D1       A
+              R13      1
+
+POWER_PDO2    D3       C
+              J3       5
+              U1       P$20
+
+POWER_PDO3    D2       C
+              J3       6
+              U1       P$14
+
+RESET         J7       6
+              R8       2
+              S1       3
+              S1       4
+              U1       P$6
+
+SCL           J3       1
+              J4       4
+              R9       1
+              U1       P$7
+
+SDA           J3       2
+              J4       3
+              R10      1
+              U1       P$8
+
+SHIELD        J1       SHLD1
+              J1       SHLD2
+              J1       SHLD3
+              J1       SHLD4
+              J1       SHLD5
+              J1       SHLD6
+              J1       SHLD7
+              J1       SHLD8
+
+VBUS_VS_DISCH R3       1
+              U1       P$18
+
+VDD           D4       C
+              J3       3
+              J4       2
+              JP1      2
+              R1       2
+              R11      2
+              R12      2
+              R13      2
+              R2       2
+              S1       1
+              S1       2
+              U1       P$22
+
+VIN           C6       1
+              D5       2
+              J1       VBUS1
+              J1       VBUS2
+              J7       1
+              Q1       1
+              Q1       2
+              Q1       3
+              R3       2
+              R5       2
+              U1       P$24
+
+VSNK          C3       1
+              D8       2
+              J5       1
+              J6       1
+              Q1       5@1
+              Q1       5@2
+              Q1       5@3
+              R7       1
+

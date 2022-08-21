@@ -1,0 +1,134 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+BS1         OLED1    9
+            SJ1      2
+
+BS2         OLED1    10
+            SJ2      2
+
+C1N         C2       2
+            OLED1    5
+
+C1P         C2       1
+            OLED1    4
+
+C2N         C3       2
+            OLED1    3
+
+C2P         C3       1
+            OLED1    2
+
+D0/SCK      OLED1    16
+            SJ10     2
+
+D0/SDA      JP3      13
+            JP3      D0
+            R5       2
+            SJ8      1
+
+D1/MOSI     OLED1    17
+            SJ5      1
+            SJ8      2
+
+D1/SCL      JP3      14
+            JP3      D1
+            R7       2
+            SJ10     1
+
+D2          JP3      15
+            JP3      D2
+
+D2/MISO     OLED1    18
+            SJ5      2
+
+D3          JP3      16
+            JP3      D3
+
+D4          JP3      17
+            JP3      D4
+
+D5          JP3      18
+            JP3      D5
+
+D6          JP3      19
+            JP3      D6
+            OLED1    13
+            SJ4      2
+
+D7          JP3      20
+            JP3      D7
+            OLED1    12
+
+GND         C1       2
+            C4       2
+            C5       2
+            C6       2
+            JP3      2
+            JP3      21
+            JP3      GND@0
+            JP3      GND@2
+            OLED1    1
+            OLED1    27
+            OLED1    28
+            OLED1    7
+            R1       1
+            SJ1      3
+            SJ2      3
+            SJ4      1
+
+IREF        OLED1    24
+            R1       2
+
+MISO        JP3      8
+            JP3      A4
+
+MOSI        JP3      7
+            JP3      A5
+            SJ8      3
+
+RESET       JP3      23
+            JP3      RST
+
+SCK         JP3      9
+            JP3      A3
+            SJ10     3
+
+SS          JP3      10
+            JP3      A2
+            OLED1    11
+
+VBAT        C6       1
+            OLED1    6
+            SJ3      1
+
+VBAT_PHOTON JP3      22
+            JP3      VBAT
+
+VCC         C1       1
+            OLED1    26
+            TP1      P$1
+            TP2      P$1
+
+VCOMH       C5       1
+            OLED1    25
+
+VDD         C4       1
+            JP3      24
+            JP3      3V3
+            OLED1    8
+            R2       2
+            R5       1
+            R7       1
+            SJ3      2
+
+VDD_PU      R2       1
+            SJ1      1
+            SJ2      1
+            SJ4      3
+

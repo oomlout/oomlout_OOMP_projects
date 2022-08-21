@@ -1,0 +1,51 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 18:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      JP1      2
+         SW1      COMMON
+
+N$2      JP1      1
+         R1       P$1
+         SW1      1
+
+N$3      JP1      3
+         R9       P$2
+         SW1      10
+
+N$4      R7       P$2
+         R8       P$1
+         SW1      8
+
+N$5      R1       P$2
+         R2       P$1
+         SW1      2
+
+N$6      R2       P$2
+         R3       P$2
+         SW1      3
+
+N$7      R3       P$1
+         R4       P$2
+         SW1      4
+
+N$8      R4       P$1
+         R5       P$2
+         SW1      5
+
+N$9      R5       P$1
+         R6       P$2
+         SW1      6
+
+N$10     R6       P$1
+         R7       P$1
+         SW1      7
+
+N$11     R8       P$2
+         R9       P$1
+         SW1      9
+

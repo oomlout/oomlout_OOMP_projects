@@ -1,0 +1,159 @@
+Netlist
+
+Exported from boardEagle.brd at 21/08/2022 10:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+A0         R8       2A
+           U1       A0
+
+A1         R7       2A
+           U1       A1
+
+A2         R6       2A
+           U1       A2
+
+A3         R30      P$2
+           R5       1
+           U1       A3
+
+A4         U1       A4
+           U4       2
+
+BUZZER     SG1      +
+           U1       D3
+
+CLOCK      JP1      3
+           U1       D8
+           U2       11
+
+D2         R4       P$2
+           U1       D2
+
+D5         LED2     A
+           U1       D5
+
+D6         LED3     A
+           U1       D6
+
+D9         R4       P$1
+           U1       D9
+
+D10        S1       3
+           U1       D10
+
+D11        S2       3
+           U1       D11
+
+D12        S3       3
+           U1       D12
+
+GND        C1       2
+           C2       2
+           JP1      5
+           R1       P$1
+           R2       P$1
+           R3       P$1
+           R30      P$1
+           R6       3
+           R7       3
+           R8       3
+           S1       1
+           S2       1
+           S3       1
+           S4       1
+           SG1      -
+           U1       GND@0
+           U1       GND@1
+           U1       GND@2
+           U2       13
+           U2       8
+           U4       3
+
+LATCH      JP1      2
+           U1       D7
+           U2       12
+
+N$1        S4       3
+           U1       RES
+
+N$2        R9       P$1
+           U2       15
+
+N$3        LED1     K
+           R1       P$2
+
+N$4        R10      P$1
+           U2       1
+
+N$5        R11      P$1
+           U2       2
+
+N$6        R12      P$1
+           U2       3
+
+N$7        R13      P$1
+           U2       4
+
+N$8        R14      P$1
+           U2       5
+
+N$9        R15      P$1
+           U2       6
+
+N$10       R16      P$1
+           U2       7
+
+N$11       R9       P$2
+           U6       7
+
+N$12       R10      P$2
+           U6       6
+
+N$13       R11      P$2
+           U6       4
+
+N$14       R12      P$2
+           U6       2
+
+N$15       R13      P$2
+           U6       1
+
+N$16       R14      P$2
+           U6       9
+
+N$17       R15      P$2
+           U6       10
+
+N$18       R16      P$2
+           U6       5
+
+N$19       LED3     K
+           R2       P$2
+
+N$20       LED2     K
+           R3       P$2
+
+SERIAL_IN  U1       D4
+           U2       14
+
+SERIAL_OUT JP1      4
+           U2       9
+
+VCC        C1       1
+           C2       1
+           JP1      1
+           LED1     A
+           R5       2
+           R6       1
+           R7       1
+           R8       1
+           U1       5V
+           U2       10
+           U2       16
+           U4       1
+           U6       3
+           U6       8
+

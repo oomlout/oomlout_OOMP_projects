@@ -1,0 +1,140 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part          Pad
+
+!SS      ATMEGA328P-AU 14
+         JP12          9
+
+A        ATMEGA328P-AU 12
+         R3            2
+
+ADC6     ATMEGA328P-AU 19
+         JP12          2
+
+ADC7     ATMEGA328P-AU 22
+         JP12          1
+
+APOSA    ATMEGA328P-AU 13
+         LED1          10
+
+B        ATMEGA328P-AU 23
+         R4            2
+
+C/COL    ATMEGA328P-AU 10
+         R2            2
+
+COLA     ATMEGA328P-AU 32
+         LED1          4
+
+D        ATMEGA328P-AU 24
+         R6            2
+
+DIG1     ATMEGA328P-AU 25
+         LED1          1
+
+DIG2     ATMEGA328P-AU 26
+         LED1          2
+
+DIG3     ATMEGA328P-AU 1
+         LED1          6
+
+DIG4     ATMEGA328P-AU 2
+         LED1          8
+
+DP       ATMEGA328P-AU 7
+         R10           2
+
+E        ATMEGA328P-AU 8
+         R7            2
+
+F/APOS   ATMEGA328P-AU 11
+         R8            2
+
+G        ATMEGA328P-AU 9
+         R9            2
+
+GND      ATMEGA328P-AU 21
+         ATMEGA328P-AU 3
+         ATMEGA328P-AU 5
+         C1            2
+         C4            1
+         JP11          1
+         JP12          3
+         JP6           2
+         JP8           2
+
+MISO     ATMEGA328P-AU 16
+         JP12          5
+
+MOSI     ATMEGA328P-AU 15
+         JP12          8
+
+N$1      ATMEGA328P-AU 20
+         C4            2
+
+N$2      LED1          7
+         R10           1
+
+N$3      LED1          15
+         R9            1
+
+N$4      LED1          11
+         LED1          9
+         R8            1
+
+N$5      LED1          5
+         R7            1
+
+N$6      LED1          3
+         R6            1
+
+N$8      LED1          16
+         R4            1
+
+N$9      LED1          14
+         R3            1
+
+N$10     LED1          12
+         LED1          13
+         R2            1
+
+N$13     C3            2
+         JP11          5
+
+RESET    ATMEGA328P-AU 29
+         C3            1
+         JP12          7
+         R1            1
+
+RX       ATMEGA328P-AU 30
+         JP11          3
+         JP12          10
+
+SCK      ATMEGA328P-AU 17
+         JP12          6
+
+SCL      ATMEGA328P-AU 28
+         JP2           2
+         JP7           2
+
+SDA      ATMEGA328P-AU 27
+         JP2           1
+         JP7           1
+
+TX       ATMEGA328P-AU 31
+         JP11          4
+
+VCC      ATMEGA328P-AU 18
+         ATMEGA328P-AU 4
+         ATMEGA328P-AU 6
+         C1            1
+         JP11          2
+         JP12          4
+         JP6           1
+         JP8           1
+         R1            2
+

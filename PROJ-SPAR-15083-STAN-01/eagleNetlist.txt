@@ -1,0 +1,114 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!INT      J5       1
+          R11      1
+          U4       13
+
+!RST      J10      1
+          J7       5
+          R8       1
+          U4       4
+
+3.3V      C2       1
+          INT      2
+          J2       2
+          J3       2
+          J4       2
+          J7       2
+          JP9      2
+          R3       2
+          R4       2
+          R7       1
+          R8       2
+          SW1      5
+          U4       1
+
+A         R4       1
+          R5       1
+          SW1      A
+
+ADR       JP7      2
+          U4       3
+
+B         R7       2
+          R9       2
+          SW1      B
+
+BLUE      J7       1
+          R14      2
+          U4       8
+
+BLUE_RAW  R10      2
+          R14      1
+          SW1      4
+
+ENCODER_A C3       1
+          R5       2
+          U4       2
+
+ENCODER_B C1       1
+          R9       1
+          U4       11
+
+GND       C1       2
+          C2       2
+          C3       2
+          D1       C
+          J2       1
+          J3       1
+          J4       1
+          J7       6
+          JP7      1
+          R1       1
+          R10      1
+          SW1      C
+          U4       14
+
+GREEN     R13      2
+          U4       6
+
+GREEN_RAW R13      1
+          SW1      2
+
+INT_R     INT      1
+          R11      2
+
+N$3       D1       A
+          R3       1
+
+RED       R12      2
+          U4       5
+
+RED_RAW   R12      1
+          SW1      1
+
+SCL       J2       4
+          J3       4
+          J4       4
+          J7       3
+          R2       1
+          U4       9
+
+SCL_PU1   JP9      1
+          R2       2
+
+SDA       J2       3
+          J3       3
+          J4       3
+          J7       4
+          R6       1
+          U4       7
+
+SDA_PU1   JP9      3
+          R6       2
+
+SWITCH    R1       2
+          SW1      3
+          U4       10
+

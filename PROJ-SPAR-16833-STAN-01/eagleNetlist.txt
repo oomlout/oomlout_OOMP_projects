@@ -1,0 +1,140 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 06:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!RESET      J4       1
+            J9       5
+            R17      2
+            U4       4
+
+3.3V        C5       1
+            D11      A
+            I2C      2
+            J1       3
+            J2       2
+            J3       2
+            J9       2
+            K1       3
+            K2       3
+            K3       3
+            K4       3
+            R1       2
+            R10      2
+            R17      1
+            R4       2
+            R7       2
+            U4       1
+
+ADDR_JUMP   ADR      1
+            U4       6
+
+GND         ADR      2
+            C5       2
+            J1       4
+            J2       1
+            J3       1
+            J9       6
+            PWR      1
+            Q1       2
+            Q2       2
+            Q3       2
+            Q4       2
+            U4       14
+
+MISO        J9       1
+            U4       8
+
+N$1         D2       C
+            Q2       3
+            R5       1
+
+N$2         D1       C
+            Q1       3
+            R2       1
+
+N$3         K1       4
+            R5       2
+
+N$4         D2       A
+            R4       1
+
+N$5         D3       C
+            Q3       3
+            R8       1
+
+N$6         K3       4
+            R8       2
+
+N$7         D1       A
+            R1       1
+
+N$8         D3       A
+            R7       1
+
+N$9         D4       C
+            Q4       3
+            R12      1
+
+N$10        K2       4
+            R2       2
+
+N$11        K4       4
+            R12      2
+
+N$12        D4       A
+            R10      1
+
+N$13        D11      C
+            R11      1
+
+N$14        PWR      2
+            R11      2
+
+N$15        I2C      3
+            R15      1
+
+N$16        I2C      1
+            R14      1
+
+OPTO_1      Q1       1
+            R3       1
+
+OPTO_2      Q2       1
+            R6       1
+
+OPTO_3      Q3       1
+            R9       1
+
+OPTO_4      Q4       1
+            R13      1
+
+RELAY_CTRL1 R3       2
+            U4       10
+
+RELAY_CTRL2 R6       2
+            U4       11
+
+RELAY_CTRL3 R9       2
+            U4       12
+
+RELAY_CTRL4 R13      2
+            U4       13
+
+SCL/SCK     J1       1
+            J2       4
+            J3       4
+            J9       3
+            R15      2
+            U4       9
+
+SDA/MOSI    J1       2
+            J2       3
+            J3       3
+            J9       4
+            R14      2
+            U4       7
+

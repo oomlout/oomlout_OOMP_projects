@@ -1,0 +1,14 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++        B1       +
+         U$9      1
+
+-        B1       -
+         U$8      1
+

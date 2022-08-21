@@ -1,0 +1,206 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      R1       P$1
+         SW1      1
+         SW2      COMMON
+
+N$2      R1       P$2
+         R2       P$1
+         SW1      2
+
+N$3      R2       P$2
+         R3       P$1
+         SW1      3
+
+N$4      R3       P$2
+         R4       P$2
+         SW1      4
+
+N$5      R4       P$1
+         R5       P$2
+         SW1      5
+
+N$6      R5       P$1
+         R6       P$2
+         SW1      6
+
+N$7      R6       P$1
+         R7       P$2
+         SW1      7
+
+N$8      R7       P$1
+         R8       P$2
+         SW1      8
+
+N$9      R8       P$1
+         R9       P$2
+         SW1      9
+
+N$10     R9       P$1
+         SW1      10
+
+N$11     R10      P$1
+         SW2      1
+         SW3      COMMON
+
+N$12     R10      P$2
+         R11      P$1
+         SW2      2
+
+N$13     R11      P$2
+         R12      P$1
+         SW2      3
+
+N$14     R12      P$2
+         R13      P$2
+         SW2      4
+
+N$15     R13      P$1
+         R14      P$2
+         SW2      5
+
+N$16     R14      P$1
+         R15      P$2
+         SW2      6
+
+N$17     JP1      P$1
+         SW1      COMMON
+
+N$18     R15      P$1
+         R16      P$2
+         SW2      7
+
+N$19     R16      P$1
+         R17      P$2
+         SW2      8
+
+N$20     R17      P$1
+         R18      P$2
+         SW2      9
+
+N$21     R18      P$1
+         SW2      10
+
+N$23     R19      P$1
+         SW3      1
+         SW4      COMMON
+
+N$24     R19      P$2
+         R20      P$1
+         SW3      2
+
+N$25     R20      P$2
+         R21      P$1
+         SW3      3
+
+N$26     R21      P$2
+         R22      P$2
+         SW3      4
+
+N$27     R22      P$1
+         R23      P$2
+         SW3      5
+
+N$28     R23      P$1
+         R24      P$2
+         SW3      6
+
+N$29     R24      P$1
+         R25      P$2
+         SW3      7
+
+N$30     R25      P$1
+         R26      P$2
+         SW3      8
+
+N$31     R26      P$1
+         R27      P$2
+         SW3      9
+
+N$32     R27      P$1
+         SW3      10
+
+N$34     R28      P$1
+         SW4      1
+         SW5      COMMON
+
+N$35     R28      P$2
+         R29      P$1
+         SW4      2
+
+N$36     R29      P$2
+         R30      P$1
+         SW4      3
+
+N$37     R30      P$2
+         R31      P$2
+         SW4      4
+
+N$38     R31      P$1
+         R32      P$2
+         SW4      5
+
+N$39     R32      P$1
+         R33      P$2
+         SW4      6
+
+N$40     R33      P$1
+         R34      P$2
+         SW4      7
+
+N$41     R34      P$1
+         R35      P$2
+         SW4      8
+
+N$42     R35      P$1
+         R36      P$2
+         SW4      9
+
+N$43     R36      P$1
+         SW4      10
+
+N$45     JP2      P$1
+         R37      P$1
+         SW5      1
+
+N$46     R37      P$2
+         R38      P$1
+         SW5      2
+
+N$47     R38      P$2
+         R39      P$1
+         SW5      3
+
+N$48     R39      P$2
+         R40      P$2
+         SW5      4
+
+N$49     R40      P$1
+         R41      P$2
+         SW5      5
+
+N$50     R41      P$1
+         R42      P$2
+         SW5      6
+
+N$51     R42      P$1
+         R43      P$2
+         SW5      7
+
+N$52     R43      P$1
+         R44      P$2
+         SW5      8
+
+N$53     R44      P$1
+         R45      P$2
+         SW5      9
+
+N$54     R45      P$1
+         SW5      10
+

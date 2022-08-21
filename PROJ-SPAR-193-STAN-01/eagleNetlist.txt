@@ -1,0 +1,26 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 20:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      HEADERS  6
+         RJ11     6
+
+N$2      HEADERS  1
+         RJ11     1
+
+N$3      HEADERS  2
+         RJ11     2
+
+N$4      HEADERS  3
+         RJ11     3
+
+N$5      HEADERS  4
+         RJ11     4
+
+N$6      HEADERS  5
+         RJ11     5
+

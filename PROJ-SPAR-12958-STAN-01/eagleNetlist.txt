@@ -1,0 +1,153 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C2       1
+          C3       1
+          C4       1
+          C5       1
+          C6       1
+          D2       P$1
+          D2       P$2
+          JP1      2
+          L1       P$2
+          R7       2
+          SJ1      2
+          U1       18
+          U1       33
+          U2       6
+
+GND       C1       2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          C6       2
+          C7       2
+          C8       2
+          JP1      1
+          JP2      1
+          JP3      1
+          JP4      1
+          R1       1
+          R4       1
+          R6       1
+          U1       1
+          U1       13
+          U1       17
+          U1       23
+          U1       24
+          U1       25
+          U1       26
+          U1       27
+          U1       28
+          U1       29
+          U1       30
+          U1       31
+          U1       32
+          U1       35
+          U1       7
+          U2       1
+          U2       4
+          U2       5
+          U2       PAD
+          X1       GND
+
+LED_G     R3       1
+          U1       3
+
+LED_R     R2       1
+          R7       1
+          U1       4
+
+N$1       L1       P$1
+          U2       7
+
+N$2       D1       A
+          Q1       1
+          R1       2
+          X1       VBUS
+
+N$4       D2       P$4
+          R2       2
+
+N$5       D2       P$3
+          R3       2
+
+N$6       R5       2
+          SJ2      3
+
+N$7       R6       2
+          SJ2      1
+
+OPTO_BIAS Q2       C
+          TP1      P$1
+          U1       2
+
+OPTO_IN   Q2       E
+          R4       2
+          TP2      P$1
+          U1       6
+
+PIN_1     JP1      10
+          U1       15
+
+PIN_2     JP1      9
+          U1       16
+
+PIN_5     JP1      8
+          U1       19
+
+PIN_6     JP1      7
+          U1       20
+
+PIN_7     JP1      6
+          U1       21
+
+PIN_8     JP1      5
+          U1       22
+
+PIN_9     JP1      4
+          U1       14
+
+PIN_A     JP1      15
+          SJ2      2
+          U1       8
+
+PIN_B     JP1      14
+          U1       9
+
+PIN_C     JP1      13
+          U1       10
+
+PIN_D     JP1      12
+          U1       11
+
+PIN_E     JP1      11
+          U1       12
+
+POWER_EN  JP5      1
+          U1       5
+
+VBAT      JP3      2
+          JP4      2
+          Q1       3
+
+VDDA      C7       1
+          C8       1
+          JP1      3
+          SJ1      1
+          U1       34
+
+VIN       C1       1
+          D1       C
+          JP2      2
+          Q1       2
+          R5       1
+          U2       2
+          U2       3
+

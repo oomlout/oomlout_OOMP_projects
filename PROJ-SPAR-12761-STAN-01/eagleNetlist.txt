@@ -1,0 +1,147 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 15:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C3       1
+         JP7      4
+         LED1     A
+         U1       4
+         U2       3.3V
+         U3       1
+
+5V       J1       2
+         JP7      5
+         U2       5V
+
+A0       JP6      1
+         U2       A0
+
+A1       JP6      2
+         U2       A1
+
+A2       JP6      3
+         U2       A2
+
+A3       JP6      4
+         U2       A3
+
+A4       JP6      5
+         SJ1      2
+         U2       A4
+
+A5       JP6      6
+         SJ2      2
+         U2       A5
+
+AREF     JP5      8
+         U2       AREF
+
+CS       JP5      1
+         U2       D8
+         U3       3
+
+D2       JP4      3
+         U2       D2
+
+D3       JP4      4
+         U2       D3
+
+D4       JP4      5
+         U2       D4
+
+D5       JP4      6
+         U2       D5
+
+D6       JP4      7
+         U2       D6
+
+D7       JP4      8
+         U2       D7
+
+D9       JP5      2
+         U2       D9
+
+D10      JP5      3
+         U2       D10
+
+GND      C1       2
+         C2       2
+         C3       2
+         J1       6
+         JP5      7
+         JP7      6
+         JP7      7
+         R1       1
+         S1       1
+         S1       2
+         U1       6
+         U1       CD1
+         U1       CD2
+         U1       GND1
+         U1       GND3
+         U2       GND@0
+         U2       GND@1
+         U2       GND@2
+         U3       8
+
+IOREF    JP7      2
+         U2       IOREF
+
+MISO     J1       1
+         JP5      5
+         U1       7
+         U2       D12
+
+MOSI     J1       4
+         JP5      4
+         U2       D11
+         U3       5
+
+N$2      U1       3
+         U3       4
+
+N$4      U1       5
+         U3       6
+
+N$6      LED1     C
+         R1       2
+
+N$163    U1       2
+         U3       2
+
+NC       JP7      1
+
+RES      J1       5
+         JP7      3
+         S1       3
+         S1       4
+         U2       RES
+
+RX       JP4      1
+         U2       RX
+
+SCK      J1       3
+         JP5      6
+         U2       D13
+         U3       7
+
+SCL      JP5      10
+         SJ2      1
+         U2       SCL
+
+SDA      JP5      9
+         SJ1      1
+         U2       SDA
+
+TX       JP4      2
+         U2       TX
+
+VIN      JP7      8
+         U2       VIN
+

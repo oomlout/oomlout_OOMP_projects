@@ -1,0 +1,103 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 19:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!SCAN_TRIGGER! C3       1
+               J3       1
+               J4       2
+               S2       3
+
+3.3V           C2       1
+               J3       11
+               J4       3
+               PWR      2
+               Q2       3
+               R7       2
+               U1       5
+
+5V             C1       1
+               J2       VBUS1
+               J2       VBUS2
+               U1       1
+               U1       3
+
+BUZZER         J3       4
+               R9       1
+
+CC3            J2       A5
+               R3       2
+
+CC4            J2       B5
+               R2       2
+
+GND            C1       2
+               C2       2
+               C3       2
+               D1       C
+               D2       C
+               J2       GND
+               J2       GND2
+               J3       10
+               J4       6
+               Q1       2
+               R10      1
+               R2       1
+               R3       1
+               R8       1
+               S2       1
+               U1       2
+
+N$1            BUZZ     2
+               R7       1
+
+N$2            LS1      -
+               Q1       3
+
+N$3            BUZZ     1
+               LS1      +
+
+N$4            Q2       2
+               R1       2
+
+N$5            Q1       1
+               R8       2
+               R9       2
+
+N$6            PWR      1
+               R4       1
+
+N$7            Q2       1
+               R10      2
+               R11      2
+
+N$8            D2       A
+               PWR_LED  1
+
+N$9            D1       A
+               R4       2
+
+RXI            J3       9
+               J4       4
+
+STATUS_LED     J3       3
+               R11      1
+
+STATUS_OUT     J4       1
+               PWR_LED  2
+               R1       1
+
+TXO            J3       8
+               J4       5
+
+USB_N          J2       A7
+               J2       B7
+               J3       7
+
+USB_P          J2       A6
+               J2       B6
+               J3       6
+

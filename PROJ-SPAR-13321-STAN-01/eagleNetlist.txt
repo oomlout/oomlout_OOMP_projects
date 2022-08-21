@@ -1,0 +1,272 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!MODE          S2       3
+               U1       46
+
+!RST           C2       1
+               JP5      RESET@1
+               JP6      15
+               R6       1
+               S1       3
+               U1       34
+
+3.3V           C10      1
+               C11      1
+               C12      1
+               C3       1
+               C4       1
+               C7       1
+               C8       1
+               C9       1
+               JP5      3.3V
+               JP6      1
+               LED3     AB
+               LED3     AG
+               LED3     AR
+               R3       2
+               R6       2
+               R7       2
+               U1       2
+               U1       26
+               U1       27
+               U1       3
+               U1       5
+               U2       2
+               U2       4
+
+A0             JP5      A0
+               U1       50
+
+A1             JP5      A1
+               U1       43
+
+A2             JP5      A2
+               JP5      D10
+               U1       49
+
+A3/SPI_SCK     JP5      A3
+               JP5      D13
+               U1       22
+
+A4/SPI_MISO    JP5      A4
+               JP5      D12
+               U1       21
+
+A5/SPI_MOSI    JP5      A5
+               JP5      D11
+               U1       23
+
+BTCX_RF_ACTIVE TP3      P$1
+               U1       57
+
+BTCX_STATUS    TP2      P$1
+               U1       56
+
+BTCX_TXCONF    TP1      P$1
+               U1       58
+
+D+             JP1      D+1
+               R2       1
+
+D-             JP1      D-1
+               R1       1
+
+D0/SDA         JP5      SDA
+               U1       36
+
+D1/SCL         JP5      SCL
+               U1       35
+
+D2             JP5      D2
+               U1       45
+
+D3(JTAG_TRST)  JP5      D3
+               JP6      3
+               U1       51
+
+D4(JTAG_TDO)   JP5      D4
+               JP6      13
+               U1       52
+
+D5(JTAG_TDI)   JP5      D5
+               JP6      5
+               U1       53
+
+D6(JTAG_TCK)   JP5      D6
+               JP6      9
+               U1       55
+
+D7(JTAG_TMS)   JP5      D7
+               JP6      7
+               R5       1
+               U1       54
+
+DAC            JP5      D8
+               U1       24
+
+GND            C1       C
+               C10      2
+               C11      2
+               C12      2
+               C2       2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C7       2
+               C8       2
+               C9       2
+               JP1      GND1
+               JP1      SHIELD1
+               JP1      SHIELD2
+               JP1      SHIELD3
+               JP2      GND
+               JP2      GNDBREAK
+               JP4      1
+               JP5      GND@1
+               JP5      GND@2
+               JP5      GND@3
+               JP6      10
+               JP6      11
+               JP6      12
+               JP6      14
+               JP6      16
+               JP6      18
+               JP6      20
+               JP6      4
+               JP6      6
+               JP6      8
+               R4       1
+               S1       1
+               S2       1
+               SJ1      1
+               SJ2      1
+               U1       1
+               U1       13
+               U1       15
+               U1       25
+               U1       28
+               U1       37
+               U1       39
+               U1       4
+               U1       59
+               U1       6
+               U1       65
+               U1       66
+               U1       67
+               U1       68
+               U1       69
+               U1       70
+               U1       71
+               U1       72
+               U1       73
+
+MCU_USB_D+     R2       2
+               U1       61
+
+MCU_USB_D-     R1       2
+               U1       62
+
+N$1            TP10     P$1
+               U1       33
+
+N$2            LED1     C
+               SJ1      2
+
+N$3            LED3     CG
+               R8       1
+
+N$4            LED3     CR
+               R9       1
+
+N$5            LED3     CB
+               R10      1
+
+N$6            LED1     A
+               R3       1
+
+N$7            LED2     A
+               R5       2
+
+N$8            LED2     C
+               SJ2      2
+
+N$15           R4       2
+               R7       1
+               U2       1
+
+RGB_BLUE       R10      2
+               U1       31
+
+RGB_GREEN      R8       2
+               U1       32
+
+RGB_RED        R9       2
+               U1       29
+
+RX             JP5      D0
+               U1       63
+
+SPARE1         JP3      6
+               U1       40
+
+SPARE2         JP3      5
+               U1       41
+
+SPARE3         JP3      4
+               U1       42
+
+SPARE4         JP3      3
+               U1       44
+
+SPARE5         JP3      2
+               U1       47
+
+SPARE6         JP3      1
+               U1       48
+
+TX             JP5      D1
+               U1       64
+
+VBAT           C5       1
+               C6       1
+               JP4      2
+               U1       38
+
+VIN            C1       A
+               D1       C
+               JP2      PWR
+               JP5      VIN
+               U2       3
+
+VUSB           D1       A
+               JP1      VBUS1
+               JP5      5V
+
+WKP            JP5      D9
+               U1       30
+
+WL_JTAG_TCK    TP5      P$1
+               U1       17
+
+WL_JTAG_TDI    TP4      P$1
+               U1       16
+
+WL_JTAG_TDO    TP8      P$1
+               U1       20
+
+WL_JTAG_TMS    TP7      P$1
+               U1       19
+
+WL_JTAG_TRST   TP6      P$1
+               U1       18
+
+WL_SLEEP_CLK   TP9      P$1
+               U1       60
+

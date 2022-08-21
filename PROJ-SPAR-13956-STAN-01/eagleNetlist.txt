@@ -1,0 +1,181 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+3.3V         C1       1
+             C14      A
+             C2       1
+             C5       1
+             C7       1
+             C8       1
+             J1       2
+             Q1       1
+             Q2       1
+             R2       1
+             R3       1
+             U1       A3
+             U3       C
+             U4       1
+             U4       4
+             U5       VDD
+             U6       5
+
+3V_PWR_CTL   J1       6
+             R9       2
+
+5V           D5       C
+             D7       C
+             D9       C
+             R17      1
+             R4       1
+             R5       1
+             U1       5V
+
+BATT_LVL     R7       1
+             R8       2
+             U1       A2
+
+GND          C1       2
+             C13      C
+             C14      C
+             C2       2
+             C5       2
+             C6       2
+             C7       2
+             C8       2
+             D1       C
+             D10      A
+             D3       C
+             D6       A
+             D8       A
+             J1       1
+             JP2      1
+             R10      1
+             R12      2
+             R15      2
+             R16      2
+             R7       2
+             U1       GND@0
+             U1       GND@1
+             U1       GND@2
+             U4       3
+             U5       GND
+             U6       2
+
+GPS-RX       J1       4
+             S2       2
+
+GPS-TX       J1       3
+             S2       5
+
+GRXI         S2       6
+             U1       D5
+
+GTXO         S2       3
+             U1       D4
+
+HV_SCL       Q2       3
+             R5       2
+             U1       A5
+             U1       SCL
+
+HV_SDA       Q1       3
+             R4       2
+             U1       A4
+             U1       SDA
+
+INT-PRESSURE JP1      2
+             U4       6
+
+LIGHT        R10      2
+             U1       A1
+             U3       E
+
+N$1          JP10-DNP 3
+             R14      2
+
+N$2          JP10-DNP 2
+             R13      2
+
+N$3          D1       A
+             R1       2
+
+N$4          JP9-DNP  3
+             R11      2
+
+N$5          C6       1
+             U4       2
+
+N$6          JP1      1
+             U1       D12
+
+N$7          D3       A
+             R6       2
+
+N$11         JP9-DNP  4
+             R12      1
+
+N$12         JP10-DNP 5
+             R15      1
+
+N$13         JP10-DNP 4
+             R16      1
+
+PWR_CTL      R9       1
+             U1       D6
+
+RAIN         D5       A
+             D6       C
+             R11      1
+             U1       D2
+
+RAIN2        JP9-DNP  2
+
+RAIN5        JP9-DNP  5
+
+RXI          S2       4
+             U1       RX
+
+SCL          Q2       2
+             R2       2
+             U4       8
+             U5       SCK
+
+SDA          Q1       2
+             R3       2
+             U4       7
+             U5       DATA
+
+STAT1        R1       1
+             U1       D7
+
+STAT2        R6       1
+             U1       D8
+
+TXO          S2       1
+             U1       TX
+
+VIN          C13      A
+             R8       1
+             U1       VIN
+             U6       1
+             U6       3
+
+V_BATT       J1       5
+             JP2      2
+
+WDIR         D7       A
+             D8       C
+             R13      1
+             R17      2
+             U1       A0
+
+WSPEED       D10      C
+             D9       A
+             R14      1
+             U1       D3
+

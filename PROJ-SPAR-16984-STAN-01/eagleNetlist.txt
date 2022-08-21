@@ -1,0 +1,225 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 16:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                  Part     Pad
+
+!BOOT!               J1       11
+                     R4       1
+                     U2       23
+
+!RESET!              J1       6
+                     R5       1
+                     U2       40
+
+3.3V                 C1       1
+                     C4       1
+                     C5       1
+                     C6       1
+                     D2       C
+                     J1       72
+                     R4       2
+                     R5       2
+                     U1       8
+                     U2       28
+                     U2       30
+
+3.3V_EN              J1       4
+                     U2       8
+
+ADC0                 J1       34
+                     U2       20
+
+ADC1                 J1       38
+                     U2       21
+
+BATT_VIN/3           J1       49
+                     U2       14
+
+CTS1                 J1       15
+                     U2       26
+
+D0                   J1       10
+                     U2       16
+
+D1                   J1       18
+                     U2       25
+
+FLASH_!CS!           U1       1
+                     U2       29
+
+GND                  C1       2
+                     C2       1
+                     C3       1
+                     C4       2
+                     C5       2
+                     C6       2
+                     D1       C
+                     J1       1
+                     J1       33
+                     J1       36
+                     J1       39
+                     J1       45
+                     J1       7
+                     J1       75
+                     J1       GND1
+                     J1       GND2
+                     J1       GND3
+                     U1       4
+                     U2       1
+                     U2       15
+                     U2       2
+                     U2       33
+                     U2       55
+
+GPIO0                J1       40
+                     U2       10
+
+GPIO1                J1       42
+                     U2       9
+
+GPIO2                J1       44
+                     U2       6
+
+GPIO3                J1       46
+                     U2       5
+
+GPIO4                J1       48
+                     U2       4
+
+GPIO5                J1       73
+                     U2       41
+
+GPIO6                J1       71
+                     U2       57
+
+GPIO7                J1       69
+                     U2       56
+
+GPIO8                J1       67
+                     U2       7
+
+GPIO9/NFC1           J1       65
+                     U2       52
+
+GPIO10/NFC2          J1       63
+                     U2       54
+
+I2C_!INT!            J1       16
+                     U2       39
+
+LED_BUILTIN          R1       2
+                     U2       37
+
+N$1                  R2       2
+                     U2       35
+
+N$2                  D1       A
+                     R1       1
+
+N$3                  R3       2
+                     U2       34
+
+N$4                  C3       2
+                     U2       17
+                     Y1       P$1
+
+N$5                  D2       A
+                     J1       2
+                     J1       74
+
+N$6                  C2       2
+                     U2       18
+                     Y1       P$2
+
+PDM_CLK              J1       50
+                     U2       49
+
+PDM_DATA             J1       52
+                     U2       19
+
+PWM0                 J1       32
+                     U2       22
+
+PWM1                 J1       47
+                     U2       38
+
+RTS1                 J1       13
+                     U2       50
+
+RX1                  J1       19
+                     U2       3
+
+RX2                  J1       20
+                     U2       59
+
+SCL                  J1       14
+                     U2       27
+
+SCL1                 J1       53
+                     U2       48
+
+SDA                  J1       12
+                     U2       24
+
+SDA1                 J1       51
+                     U2       61
+
+SDIO_DATA1           J1       66
+                     U2       46
+
+SDIO_DATA2           J1       68
+                     U1       3
+                     U2       45
+
+SPI_!CS!             J1       55
+                     U2       44
+
+SPI_!CS1!/SDIO_DATA3 J1       70
+                     U1       7
+                     U2       47
+
+SPI_CIPO             J1       61
+                     U2       11
+
+SPI_CIPO1/SDIO_DATA0 J1       64
+                     U1       2
+                     U2       43
+
+SPI_COPI             J1       59
+                     U2       12
+
+SPI_COPI1/SDIO_CMD   J1       62
+                     U1       5
+                     U2       36
+
+SPI_SCK              J1       57
+                     U2       13
+
+SPI_SCK1/SDIO_CLK    J1       60
+                     U1       6
+                     U2       42
+
+SWDCK                J1       21
+                     U2       53
+
+SWDIO                J1       23
+                     U2       51
+
+TX1                  J1       17
+                     U2       60
+
+TX2                  J1       22
+                     U2       58
+
+USB_D+               J1       3
+                     R2       1
+
+USB_D-               J1       5
+                     R3       1
+
+V_USB                J1       9
+                     U2       32
+

@@ -1,0 +1,53 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+1        D1       A
+         LED+1    1
+
+2        D1       C
+         R1       2
+
+3        LED-1    1
+         R1       1
+
+4        D2       A
+         LED+2    1
+
+5        D2       C
+         R2       2
+
+6        LED-2    1
+         R2       1
+
+7        D3       A
+         LED+3    1
+
+8        D3       C
+         R3       2
+
+9        LED-3    1
+         R3       1
+
+10       D4       A
+         LED+4    1
+
+11       D4       C
+         R4       2
+
+12       LED-4    1
+         R4       1
+
+13       D5       A
+         LED+5    1
+
+14       D5       C
+         R5       2
+
+15       LED-5    1
+         R5       1
+

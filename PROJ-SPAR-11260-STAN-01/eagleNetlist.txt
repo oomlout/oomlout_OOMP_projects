@@ -1,0 +1,49 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:19
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++        100MA    2
+         R1       2
+         U$1      1
+
+B        C11      A
+         L1       P$2
+         S1       2
+         S1       5
+         U$3      1
+
+C        D1       A
+         U$2      1
+
+GND      C10      C
+         C11      C
+         C2       2
+         JP1      1
+         LED1     C
+         U$4      1
+         U$5      1
+         U1       4
+
+N$1      LED1     A
+         R1       1
+
+N$2      100MA    1
+         C10      A
+         C2       1
+         D2       C
+         U1       1
+         U1       2
+
+N$5      D1       C
+         JP1      2
+         S1       1
+         S1       4
+
+N$16     D2       A
+         L1       P$1
+         U1       5
+

@@ -1,0 +1,160 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C9       1
+          R1       2
+          R3       2
+          TP1      P$1
+          U2       1
+          U2       8
+          U3       5
+          U4       10
+
+ANT3      JP2      1
+          SJ2      1
+          U4       39
+
+ENABLE    J5       1
+          U2       11
+
+ENABLE-LV U2       4
+          U3       3
+          U4       11
+
+GND       B1       GND@0
+          B1       GND@1
+          B1       GND@2
+          C12      2
+          C2       2
+          C3       2
+          C4       2
+          C9       2
+          D1       C
+          E1       GND@1
+          E1       GND@2
+          E1       GND@3
+          J2       1
+          J3       1
+          J4       P$1
+          J4       P$2
+          J5       3
+          J6       2
+          U2       7
+          U3       2
+          U4       1
+          U4       18
+          U4       19
+          U4       2
+          U4       29
+          U4       3
+          U4       30
+          U4       31
+          U4       32
+          U4       33
+          U4       34
+          U4       35
+          U4       36
+          U4       37
+          U4       38
+          U4       4
+          U4       40
+          U4       41
+          U4       5
+          U4       6
+          U4       7
+          U4       8
+          U4       9
+          U4       GND_PAD1
+          U4       GND_PAD2
+
+GPIO1     J5       2
+          U2       10
+
+GPIO1-LV  U2       5
+          U3       1
+          U4       12
+
+GPIO2-LV  J7       3
+          U4       13
+
+GPIO3-LV  J7       2
+          U4       14
+
+GPIO4-LV  J7       1
+          U4       15
+
+N$1       C3       1
+          E1       ANT
+          L1       2
+
+N$2       JP2      2
+          L1       1
+
+N$3       C7       1
+          SJ2      2
+
+N$4       R3       1
+          U4       26
+
+N$5       C4       1
+          C7       2
+          J4       P$3
+
+N$6       D1       A
+          R1       1
+
+N$7       J2       3
+          JP1      2
+
+N$8       B1       RX
+          S1       1
+
+N$9       B1       TX
+          S1       4
+
+N$11      B1       D9
+          SG1      +
+
+N$12      D2       A
+          J3       2
+          J6       1
+
+N$13      B1       D10
+          SG1      -
+
+RXI       J2       4
+          S1       5
+          U2       12
+
+RXI-LV    U2       3
+          U3       4
+          U4       21
+
+SOFT-RX   B1       D2
+          S1       3
+
+SOFT-TX   B1       D3
+          S1       6
+
+TXO       J2       5
+          S1       2
+          U2       13
+
+TXO-LV    U2       2
+          U3       6
+          U4       20
+
+VCC       B1       5V
+          C12      1
+          C2       1
+          D2       C
+          JP1      1
+          U2       14
+          U4       16
+          U4       17
+

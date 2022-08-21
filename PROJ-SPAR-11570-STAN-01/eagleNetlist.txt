@@ -1,0 +1,20 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+RING1    JP1      3
+         JP2      RING1
+
+RING2    JP1      2
+         JP2      RING2
+
+SLEEVE   JP1      1
+         JP2      EARTH
+
+TIP      JP1      4
+         JP2      TIP
+

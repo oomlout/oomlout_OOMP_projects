@@ -1,0 +1,39 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 22:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A        JP1      3
+         SW1      A
+         U1       A
+
+B        JP1      1
+         SW1      B
+         U1       B
+
+BLUE     JP2      2
+         SW1      4
+
+C        JP1      2
+         SW1      C
+         U1       C
+
+COMMON   JP2      1
+         SW1      5
+         U1       GND
+
+GREEN    JP2      4
+         SW1      2
+         U1       +G
+
+RED      JP2      5
+         SW1      1
+         U1       +R
+
+SWITCH   JP2      3
+         SW1      3
+         U1       SW
+

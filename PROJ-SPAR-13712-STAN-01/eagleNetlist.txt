@@ -1,0 +1,88 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       A
+         C3       2
+         C4       1
+         R2       2
+         TP1      P$1
+         U1       18
+         U1       20
+         U1       4
+         U1       6
+         U2       5
+         U3       4
+
+CD       U1       25
+         U3       CD1
+
+CS       U1       14
+         U3       2
+
+DTR      C2       2
+         JP2      6
+
+GND      C1       K
+         C3       1
+         C4       2
+         D1       C
+         D3       C
+         JP2      1
+         JP2      2
+         Q1       2
+         U1       21
+         U1       3
+         U1       5
+         U2       2
+         U3       6
+         U3       GND1
+         U3       GND3
+
+MISO     TP2      P$1
+         U1       16
+         U3       7
+
+MOSI     TP3      P$1
+         U1       15
+         U3       3
+
+N$1      Q1       1
+         U1       8
+
+N$2      Q1       3
+         U1       7
+
+N$3      D1       A
+         R1       2
+
+N$4      R1       1
+         U1       9
+
+N$7      D3       A
+         R6       2
+
+RAW      JP2      3
+         U2       1
+         U2       3
+
+RST      C2       1
+         R2       1
+         TP5      P$1
+         U1       29
+
+RXI      JP2      5
+         U1       30
+
+SCK      R6       1
+         TP4      P$1
+         U1       17
+         U3       5
+
+TXO      JP2      4
+         U1       31
+

@@ -1,0 +1,147 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:16
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part        Pad
+
+!BLUE!/SWDIO JP7         P$1
+             R2          1
+             U1          20
+
+!GREEN!      R3          1
+             U1          17
+
+!RED!/SWDCLK JP3         P$1
+             R4          1
+             U1          19
+
+!RST!        JP8         P$1
+             R5          2
+             SJ1         2
+
+!RST!1       C3          1
+             R5          1
+             U1          18
+
+B            D1          3
+             R2          2
+
+BATT3V       BAT1        +1
+             BAT1        +2
+             JP9         P$1
+             Q1          3
+
+BUTTON       S1          1
+             S1          2
+             SJ1         1
+             U1          4
+
+G            D1          2
+             R3          2
+
+GND          BAT1        -3
+             C1          1
+             C2          1
+             C3          2
+             C4          2
+             JP1         GND
+             JP13        1
+             JP21        1
+             JP23        1
+             JP25        1
+             JP27        1
+             JP4         P$1
+             R1          1
+             R10         1
+             R6          1
+             R7          1
+             R8          1
+             R9          1
+             S1          3
+             S1          4
+             S2          3
+             S2          4
+             SEWTAP-     1
+             SEWTAPLS-   1
+             U1          23
+             U2          2
+
+N$1          D2          A
+             U2          5
+
+N$2          D3          C
+             R7          2
+
+N$3          D4          C
+             R8          2
+
+N$4          D5          C
+             R9          2
+
+N$5          D6          C
+             R10         2
+
+R            D1          1
+             R4          2
+
+SEWTAP+      SEWTAP+     1
+             SEWTAPLS+   1
+             U1          1
+             U3          C
+
+SEWTAP1      R6          2
+             SEWTAP1     1
+             SEWTAPLSOUT 1
+             U1          11
+             U3          E
+
+SEWTAP2      JP12        1
+             S2          1
+             S2          2
+             SEWTAP2     1
+             U1          12
+
+SEWTAP3      D3          A
+             D4          A
+             JP20        1
+             JP22        1
+             SEWTAP3     1
+             U1          6
+
+SEWTAP4      D5          A
+             D6          A
+             JP24        1
+             JP26        1
+             SEWTAP4     1
+             U1          5
+
+USB5V        JP1         VBUS
+             JP2         1
+             Q1          1
+             R1          2
+             U2          1
+             U2          3
+
+USB_N        JP1         D-
+             U1          21
+
+USB_P        JP1         D+
+             U1          22
+
+VDD          C4          1
+             D1          4
+             D2          C
+             JP6         P$1
+             Q1          2
+             U1          24
+
+X1           C1          2
+             U1          7
+             Y1          P$2
+
+X2           C2          2
+             U1          8
+             Y1          P$1
+

@@ -1,0 +1,46 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
++          F1       2
+           U$1      1
+
+5V         C10      A
+           C2       1
+           D2       C
+           F1       1
+           R1       2
+           U1       1
+           U1       2
+
+BATT-INPUT BAT1     PWR@1
+           S1       2
+           S1       5
+           TP1      P$1
+
+GND        BAT1     GND@1
+           C10      C
+           C11      C
+           C2       2
+           LED1     C
+           U$2      1
+           U$4      1
+           U$5      1
+           U1       4
+
+N$1        LED1     A
+           R1       1
+
+N$16       D2       A
+           L1       P$1
+           U1       5
+
+RAW        C11      A
+           L1       P$2
+           S1       3
+           S1       6
+

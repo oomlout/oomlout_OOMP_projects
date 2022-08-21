@@ -1,0 +1,134 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!CS        R2       2
+           U1       P$29
+           U2       9
+
+!CS!_IN    J2       9
+           U2       12
+
+3.3V       C3       1
+           C4       1
+           C5       1
+           D1       A
+           J1       4
+           R1       2
+           R2       1
+           U1       P$1
+           U1       P$26
+           U1       P$30
+           U1       P$4
+           U1       P$5
+           U1       P$6
+           U2       5
+           U2       6
+           U3       5
+
+D/!C       U1       P$27
+           U2       8
+
+D/!C!_IN   J2       8
+           U2       13
+
+GND        C1       2
+           C2       2
+           C3       2
+           C4       2
+           C5       2
+           J1       6
+           J2       1
+           JP1      1
+           Q1       2
+           U1       P$10
+           U1       P$11
+           U1       P$12
+           U1       P$13
+           U1       P$14
+           U1       P$15
+           U1       P$16
+           U1       P$17
+           U1       P$18
+           U1       P$19
+           U1       P$20
+           U1       P$21
+           U1       P$22
+           U1       P$23
+           U1       P$24
+           U1       P$3
+           U1       P$31
+           U1       P$32
+           U1       P$33
+           U1       P$34
+           U1       P$35
+           U1       P$40
+           U1       P$8
+           U1       P$9
+           U2       15
+           U3       2
+
+LEDK       R3       2
+           U1       P$2
+
+LED_PWM    J2       3
+           Q1       1
+           R5       1
+
+MISO       J1       7
+           U2       3
+
+MISO_IN    J2       6
+           U2       18
+
+MOSI       J1       3
+           U1       P$25
+           U2       2
+
+MOSI_IN    J2       5
+           U2       19
+
+N$1        D1       C
+           R6       2
+
+N$2        JP1      2
+           R6       1
+
+N$3        R3       1
+           R4       2
+
+N$5        Q1       3
+           R4       1
+
+SCLK       J1       5
+           U1       P$28
+           U2       1
+
+SCLK_IN    J2       4
+           U2       20
+
+SD_!CS     J1       2
+           R1       1
+           U2       10
+
+SD_!CS!_IN J2       10
+           U2       11
+
+TE         U1       P$7
+           U2       7
+
+TE_IN      J2       7
+           U2       14
+
+VIN        C1       1
+           C2       1
+           J2       2
+           R5       2
+           U2       16
+           U3       1
+           U3       3
+

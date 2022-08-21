@@ -1,0 +1,22 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      BAT1     NEGATIVE
+         BATB-    1
+         BATB-2   1
+
+N$1      BAT1     POSITIVE@1
+         BAT1     POSITIVE@2
+         BAT1     POSITIVE@3
+         BAT1     POSITIVE@4
+         S1       2
+
+N$2      BATT+    1
+         BATT+2   1
+         S1       1
+

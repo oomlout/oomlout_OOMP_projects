@@ -1,0 +1,134 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     I2C      2
+         J1       2
+         J10      2
+         J6       3
+         J8       2
+         J9       2
+         Q1       1
+         Q2       1
+         U1       3.3V
+
+5V       J6       4
+         U1       5V
+
+A0       J4       6
+         U1       A0
+
+A1       J4       5
+         U1       A1
+
+A2       J4       4
+         U1       A2
+
+A3       J4       3
+         U1       A3
+
+AREF     J3       8
+         U1       AREF
+
+D2       J2       3
+         U1       D2
+
+D3       J2       4
+         U1       D3
+
+D4       J2       5
+         U1       D4
+
+D5       J2       6
+         U1       D5
+
+D6       J2       7
+         U1       D6
+
+D7       J2       8
+         U1       D7
+
+D8       J3       1
+         U1       D8
+
+D9       J3       2
+         U1       D9
+
+D10      J3       3
+         U1       D10
+
+D11      J3       4
+         U1       D11
+
+D12      J3       5
+         U1       D12
+
+D13      J3       6
+         U1       D13
+
+GND      J1       1
+         J10      1
+         J3       7
+         J6       5
+         J6       6
+         J8       1
+         J9       1
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+
+IOREF    J6       1
+         R3       1
+         R4       1
+         U1       IOREF
+
+N$76     I2C      3
+         R1       2
+
+N$78     I2C      1
+         R2       2
+
+RES      J6       2
+         U1       RES
+
+RX       J2       1
+         U1       RX
+
+SCL      J1       4
+         J10      4
+         J8       4
+         J9       4
+         Q2       2
+         R2       1
+
+SCL_R3   J3       10
+         J4       1
+         Q2       3
+         R3       2
+         U1       A5
+         U1       SCL
+
+SDA      J1       3
+         J10      3
+         J8       3
+         J9       3
+         Q1       2
+         R1       1
+
+SDA_R3   J3       9
+         J4       2
+         Q1       3
+         R4       2
+         U1       A4
+         U1       SDA
+
+TX       J2       2
+         U1       TX
+
+VIN      J6       7
+         U1       VIN
+

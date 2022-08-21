@@ -1,0 +1,188 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!DTR        Q1       1
+            R7       1
+            U3       13
+
+!RTS        Q1       4
+            R8       1
+            U3       14
+
+0           Q1       6
+            R5       1
+            S2       3
+            S2       4
+            U2       25
+
+3.3V        C3       1
+            C4       1
+            C5       1
+            C6       1
+            C7       1
+            D1       A
+            J4       7
+            J6       2
+            R1       2
+            R4       2
+            R5       2
+            R6       2
+            R9       2
+            U1       5
+            U2       2
+            U3       16
+            U3       4
+            U4       3.3V
+
+ANT         J3       1
+            JP1      2
+            U4       ANT
+
+D+          J1       D+
+            U3       5
+
+D-          J1       D-
+            U3       6
+
+GND         C1       2
+            C2       2
+            C3       2
+            C4       2
+            C5       2
+            C6       2
+            C7       2
+            D2       C
+            J1       GND
+            J2       1
+            J2       2
+            J4       8
+            J5       10
+            J6       1
+            R2       1
+            S1       1
+            S1       2
+            S2       1
+            S2       2
+            U1       2
+            U2       1
+            U2       15
+            U2       38
+            U2       GND
+            U3       1
+            U4       GND@1
+            U4       GND@2
+            U4       GND@3
+
+IO4         J5       3
+            U2       26
+
+IO5         J5       4
+            U2       29
+
+IO17        R3       1
+            U2       28
+
+IO18        J5       5
+            U2       30
+
+IO19        J5       6
+            U2       31
+
+IO23        J5       7
+            U2       37
+
+IO25        J4       5
+            U2       10
+
+IO27        J4       4
+            U2       12
+
+MISO        J4       2
+            U2       14
+            U4       MISO
+
+MOSI        J4       1
+            U2       16
+            U4       MOSI
+
+N$1         D1       C
+            R2       2
+
+N$2         D2       A
+            R3       2
+
+N$3         J2       FEED
+            JP1      1
+
+N$10        Q1       5
+            R7       2
+
+N$12        Q1       2
+            R8       2
+
+RESET       C2       1
+            J4       6
+            Q1       3
+            R1       1
+            S1       3
+            S1       4
+            U2       3
+
+RFM_CS      U2       27
+            U4       NSS
+
+RFM_DIO1/33 U2       9
+            U4       DIO1
+
+RFM_DIO2/32 U2       8
+            U4       DIO2
+
+RFM_INT/26  U2       11
+            U4       DIO0
+
+RFM_RST     R4       1
+            U4       !RESET
+
+RXI         J5       8
+            U2       34
+            U3       2
+
+SCK         J4       3
+            U2       13
+            U4       SCK
+
+SCL         J5       2
+            J6       4
+            R9       1
+            U2       36
+
+SDA         J5       1
+            J6       3
+            R6       1
+            U2       33
+
+SHIELD      J1       SHIELD
+            J1       SHIELD10
+            J1       SHIELD2
+            J1       SHIELD3
+            J1       SHIELD4
+            J1       SHIELD5
+            J1       SHIELD6
+            J1       SHIELD7
+            J1       SHIELD8
+            J1       SHIELD9
+
+TXO         J5       9
+            U2       35
+            U3       3
+
+V_USB       C1       1
+            J1       VBUS
+            U1       1
+            U1       3
+

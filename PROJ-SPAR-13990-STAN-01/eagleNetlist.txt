@@ -1,0 +1,236 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET!  J3       4
+         J5       10
+         SW1      1
+         SW1      2
+         U2       24
+
+ANT      C11      2
+         L1       2
+         U2       30
+
+DCC      U2       47
+
+DEC1     C3       2
+         U2       1
+
+DEC2     C4       2
+         U2       32
+
+DEC3     C5       2
+         U2       33
+
+DEC4     C6       2
+         U2       46
+
+GND      C1       2
+         C10      2
+         C11      1
+         C12      2
+         C13      1
+         C14      1
+         C15      2
+         C16      2
+         C17      2
+         C2       2
+         C3       1
+         C4       1
+         C5       1
+         C6       1
+         C7       2
+         C8       2
+         C9       1
+         E1       GND
+         J1       6
+         J3       1
+         J4       1
+         J5       3
+         J5       5
+         J5       9
+         JP6      1
+         SW1      3
+         SW1      4
+         SW2      3
+         SW2      4
+         U1       2
+         U2       31
+         U2       45
+         U2       EP
+
+N$1      JP6      2
+         R2       1
+
+N$3      C13      2
+         JP4      1
+         Y2       P$2
+
+N$4      C14      2
+         JP5      1
+         Y2       P$1
+
+N$11     C12      1
+         E1       ANT
+         L1       1
+
+N$12     D1       C
+         R2       2
+
+N$14     J1       4
+         JP1      1
+
+N$15     D2       A
+         R1       1
+
+NC       U2       44
+
+NFC1     C7       1
+         JP2      1
+
+NFC2     C8       1
+         JP3      1
+
+P00      J4       4
+         JP4      2
+         U2       2
+
+P01      J4       5
+         JP5      2
+         U2       3
+
+P02      J4       6
+         U2       4
+
+P03      J4       7
+         U2       5
+
+P04      J4       8
+         U2       6
+
+P05      J4       9
+         U2       7
+
+P06      SW2      1
+         SW2      2
+         U2       8
+
+P07      D2       C
+         U2       9
+
+P08      J4       10
+         U2       10
+
+P09      J2       2
+         J4       11
+         JP2      2
+         U2       11
+
+P10      J2       1
+         J4       12
+         JP3      2
+         U2       12
+
+P11      J4       13
+         U2       14
+
+P12      J4       14
+         U2       15
+
+P13      J4       15
+         U2       16
+
+P14      J4       16
+         U2       17
+
+P15      J4       17
+         U2       18
+
+P16      J3       17
+         U2       19
+
+P17      J3       16
+         U2       20
+
+P18      J3       15
+         J5       6
+         U2       21
+
+P19      J3       14
+         U2       22
+
+P20      J3       13
+         U2       23
+
+P22      J3       12
+         U2       27
+
+P23      J3       11
+         U2       28
+
+P24      J3       10
+         U2       29
+
+P25      J3       9
+         U2       37
+
+P26      J1       3
+         U2       38
+
+P27      J1       2
+         U2       39
+
+P28      J3       8
+         U2       40
+
+P29      J3       7
+         U2       41
+
+P30      J3       6
+         U2       42
+
+P31      J3       5
+         U2       43
+
+SWDCLK   J5       4
+         TP2      P$1
+         U2       25
+
+SWDIO    J5       2
+         TP1      P$1
+         U2       26
+
+VDD      C15      1
+         C16      1
+         C17      1
+         C2       1
+         D1       A
+         J3       3
+         J4       3
+         J5       1
+         JP1      2
+         R1       2
+         U1       5
+         U2       13
+         U2       36
+         U2       48
+
+VIN      C1       1
+         J3       2
+         J4       2
+         U1       1
+         U1       3
+
+XC1      C9       2
+         U2       34
+         Y1       3
+
+XC2      C10      1
+         U2       35
+         Y1       1
+

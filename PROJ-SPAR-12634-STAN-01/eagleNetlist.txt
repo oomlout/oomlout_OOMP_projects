@@ -1,0 +1,180 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       2
+         JP3      2
+         JP4      1
+         R1       P$2
+         R2       P$2
+         R3       P$2
+         R4       P$2
+         R5       P$2
+         S1       3
+         U$7      20
+         U$7      21
+         U$7      7
+
+A3       JP4      5
+         U$7      26
+
+A4       JP4      6
+         U$7      27
+
+A5       JP4      7
+         U$7      28
+
+D9       JP4      3
+         U$7      15
+
+DTR      C2       1
+         JP1      1
+
+GND      BAT1     GND@1
+         C1       1
+         JP1      5
+         JP1      6
+         JP3      6
+         JP4      2
+         U$4      D-
+         U$4      E-
+         U$5      D-
+         U$5      E-
+         U$6      D-
+         U$6      E-
+         U$7      22
+         U$7      8
+
+LED0     SJ1      3
+         SJ2      1
+         U$7      4
+
+LED1     SJ3      3
+         SJ4      1
+         U$7      5
+
+LED2     SJ5      3
+         SJ6      1
+         U$7      6
+
+LED3     SJ7      3
+         SJ8      1
+         U$7      11
+
+LED4     SJ10     1
+         SJ9      3
+         U$7      12
+
+LED5     SJ11     3
+         SJ12     1
+         U$7      13
+
+LEDS-GND SJ1      1
+         SJ10     3
+         SJ11     1
+         SJ12     3
+         SJ2      3
+         SJ3      1
+         SJ4      3
+         SJ5      1
+         SJ6      3
+         SJ7      1
+         SJ8      3
+         SJ9      1
+         U$7      16
+
+MISO     JP3      1
+         SG1      +
+         U$7      18
+
+MOSI     JP3      4
+         JP4      4
+         U$7      17
+
+N$1      LED0     A
+         SJ1      2
+
+N$2      BAT2     PWR@1
+         S1       2
+
+N$3      S2       2
+         SG1      -
+
+N$4      BAT1     PWR@1
+         BAT2     GND@1
+
+N$6      R2       P$1
+         U$4      E+
+         U$5      E+
+         U$6      E+
+
+N$7      LED0     K
+         SJ2      2
+
+N$8      LED1     A
+         SJ3      2
+
+N$9      LED1     K
+         SJ4      2
+
+N$10     LED2     A
+         SJ5      2
+
+N$11     LED2     K
+         SJ6      2
+
+N$12     LED3     A
+         SJ7      2
+
+N$13     LED3     K
+         SJ8      2
+
+N$14     LED4     A
+         SJ9      2
+
+N$15     LED4     K
+         SJ10     2
+
+N$16     LED5     A
+         SJ11     2
+
+N$17     LED5     K
+         SJ12     2
+
+PB6      JP4      9
+         U$7      9
+
+PB7      JP4      8
+         U$7      10
+
+RESET    C2       2
+         JP3      5
+         R1       P$1
+         U$7      1
+
+RX-I     JP1      3
+         U$7      2
+
+SCK      JP3      3
+         S2       1
+         U$7      19
+
+TILT-0   R5       P$1
+         U$4      D+
+         U$7      23
+
+TILT-1   R4       P$1
+         U$5      D+
+         U$7      24
+
+TILT-2   R3       P$1
+         U$6      D+
+         U$7      25
+
+TX-O     JP1      2
+         U$7      3
+

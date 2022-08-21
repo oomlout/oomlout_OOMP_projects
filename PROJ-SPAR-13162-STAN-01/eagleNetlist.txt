@@ -1,0 +1,145 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 09:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+CARRIER          R4       1
+                 U1       8
+
+COMMON           C4       1
+                 C6       1
+                 D1       C
+                 D2       C
+                 Q1       3
+
+EM1              R13      2
+                 U1       3
+
+EM2              R14      2
+                 U1       2
+
+GND              C1       2
+                 C3       2
+                 C5       2
+                 C7       2
+                 C8       2
+                 JP1      5
+                 JP1      6
+                 JP2      5
+                 Q2       2
+                 R12      1
+                 R2       2
+                 TP3      P$1
+                 U1       14
+                 U2       2
+                 U3       S1
+                 U4       S1
+                 U5       6
+                 U5       8
+
+I2C_ADDR         R12      2
+                 SJ2      1
+                 U1       7
+
+I2C_SCL          JP2      2
+                 R11      1
+                 U1       10
+
+I2C_SDA          JP2      3
+                 R10      1
+                 U1       9
+
+ICSPCLK/DATA_RDY JP2      1
+                 TP5      P$1
+                 U1       12
+
+ICSPDAT/DACOUT   R1       1
+                 TP4      P$1
+                 U1       13
+
+MCLR             TP1      P$1
+                 U1       4
+
+N$1              R1       2
+                 R2       1
+                 U2       3
+
+N$2              Q1       2
+                 R3       2
+                 U2       4
+
+N$3              Q1       1
+                 U2       1
+
+N$4              Q2       3
+                 R3       1
+
+N$5              Q2       1
+                 R4       2
+
+N$6              R6       1
+                 U3       D2
+
+N$7              D1       A
+                 R6       2
+
+N$8              R5       1
+                 U3       D1
+                 U3       G2
+
+N$9              R7       1
+                 U4       D1
+                 U4       G2
+
+N$10             R10      2
+                 SJ1      3
+
+N$11             R8       1
+                 U4       D2
+
+N$12             D2       A
+                 R8       2
+
+N$13             R11      2
+                 SJ1      1
+
+N$15             R13      1
+                 U3       G1
+
+N$19             R14      1
+                 U4       G1
+
+RECEIVER         R9       1
+                 U1       11
+                 U5       1
+
+UART_RX          JP1      2
+                 U1       6
+
+UART_TX          JP1      3
+                 U1       5
+
+VCC              C1       1
+                 C3       1
+                 C4       2
+                 C5       1
+                 C6       2
+                 C7       1
+                 C8       1
+                 JP1      4
+                 JP2      4
+                 R5       2
+                 R7       2
+                 R9       2
+                 SJ1      2
+                 SJ2      2
+                 TP2      P$1
+                 U1       1
+                 U2       5
+                 U3       S2
+                 U4       S2
+                 U5       5
+

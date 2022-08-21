@@ -1,0 +1,231 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     J2       10
+           J8       10
+           R4       1
+           S1       2
+           U1       40
+
+3.3V       C1       1
+           C2       1
+           C4       1
+           C9       1
+           J2       9
+           J3       2
+           J8       1
+           R10      2
+           R4       2
+           R7       2
+           R8       2
+           R9       2
+           U1       28
+           U1       30
+           U3       5
+
+D+         R1       2
+           U1       35
+
+D+_CON     J6       D+
+           R1       1
+
+D-         R2       2
+           U1       34
+
+D-_CON     J6       D-
+           R2       1
+
+GND        C1       2
+           C10      2
+           C11      2
+           C2       2
+           C3       1
+           C4       2
+           C5       2
+           C6       2
+           C7       1
+           C8       2
+           C9       2
+           D1       C
+           D6       C
+           J1       1
+           J12      1
+           J13      1
+           J13      10
+           J13      11
+           J13      12
+           J13      2
+           J13      3
+           J13      4
+           J13      5
+           J13      6
+           J13      7
+           J13      8
+           J13      9
+           J14      1
+           J14      2
+           J2       11
+           J3       1
+           J6       GND
+           J8       3
+           J8       5
+           J8       9
+           J9       1
+           J9       2
+           J9       3
+           J9       4
+           J9       5
+           J9       6
+           J9       7
+           R5       1
+           S1       1
+           S2       1
+           S3       1
+           U1       1
+           U1       15
+           U1       2
+           U1       33
+           U1       55
+           U2       2
+           U3       2
+
+N$1        R5       2
+           U2       5
+
+N$3        D2       C
+           R6       2
+
+N$4        R6       1
+           U2       1
+
+N$7        D1       A
+           R3       1
+
+N$10       D6       A
+           R10      1
+
+P0.02/AIN0 J2       1
+           U1       11
+
+P0.03/AIN1 J2       2
+           U1       9
+
+P0.04/AIN2 J2       8
+           U1       20
+
+P0.05/AIN3 J2       7
+           U1       21
+
+P0.06      U1       22
+
+P0.07      R3       2
+           U1       23
+
+P0.08      J3       3
+           R8       1
+           U1       24
+
+P0.09/NFC1 C11      1
+           J7       2
+           U1       52
+
+P0.10/NFC2 C10      1
+           J7       1
+           U1       54
+
+P0.11      J3       4
+           R9       1
+           U1       27
+
+P0.13      R7       1
+           S3       2
+           U1       37
+
+P0.15      J5       1
+           U1       39
+
+P0.17      J5       2
+           U1       41
+
+P0.19      J7       7
+           U1       42
+
+P0.20      J7       6
+           U1       44
+
+P0.21      J7       5
+           U1       43
+
+P0.22      J7       4
+           U1       46
+
+P0.23      J7       3
+           U1       45
+
+P0.28/AIN4 J2       6
+           U1       13
+
+P0.29/AIN5 J2       5
+           U1       10
+
+P0.30/AIN6 J2       4
+           U1       14
+
+P0.31/AIN7 J2       3
+           U1       12
+
+SHIELD     J6       SHIELD
+           J6       SHIELD10
+           J6       SHIELD2
+           J6       SHIELD3
+           J6       SHIELD4
+           J6       SHIELD5
+           J6       SHIELD6
+           J6       SHIELD7
+           J6       SHIELD8
+           J6       SHIELD9
+
+SWDCLK     J4       2
+           J8       4
+           U1       53
+
+SWDIO      J4       1
+           J8       2
+           U1       51
+
+VIN        C8       1
+           D3       C
+           D4       C
+           J2       12
+           S2       3
+           U3       1
+
+VREG_EN    S2       2
+           U3       3
+
+V_BATT     C6       1
+           D4       A
+           J1       2
+           J12      2
+           U2       3
+
+V_USB      C5       1
+           D2       A
+           D3       A
+           J6       VBUS
+           U1       32
+           U2       4
+
+XL1        C3       2
+           U1       17
+           Y1       P$2
+
+XL2        C7       2
+           U1       18
+           Y1       P$1
+

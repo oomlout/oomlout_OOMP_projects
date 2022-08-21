@@ -1,0 +1,503 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 06:00
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part        Pad
+
+!INTFC_RST   C14         1
+             J3          10
+             R19         1
+             R20         1
+             U1          19
+             U1          32
+
+!RST!_BTN    C4          1
+             R12         1
+             S2          3
+             U1          21
+
+!TGT_RST     J2          10
+             U1          22
+             U2          ~RST
+
+1.8V         C19         1
+             J12         7
+             J12         8
+             J4          7
+             J4          7@2
+             J4          8
+             J4          8@2
+             J7          10
+             J8          7
+             J8          8
+             U4          5
+
+3.3V         C1          1
+             C15         1
+             C16         1
+             C17         1
+             C18         1
+             C2          1
+             C3          1
+             C5          1
+             C6          1
+             C7          1
+             E1          5
+             J12         5
+             J12         6
+             J2          1
+             J3          1
+             J4          5
+             J4          5@2
+             J4          6
+             J4          6@2
+             J6          2
+             J7          11
+             J7          4
+             J8          5
+             J8          6
+             R1          2
+             R11         2
+             R12         2
+             R2          2
+             R3          2
+             R4          2
+             U1          15
+             U1          7
+             U2          VDD@36
+             U2          VDD@37
+             U3          10
+             U3          2
+             U3          3
+             U3          9
+             U4          1
+             U4          3
+             U5          5
+
+CAMERA_D0    J7          14
+             U2          D0
+
+CAMERA_D1    J7          3
+             U2          D1
+
+CAMERA_D2    J7          9
+             U2          D2
+
+CAMERA_D3    J7          5
+             U2          D3
+
+CAMERA_D4    J7          12
+             U2          ~D4
+
+CAMERA_D5    J7          20
+             U2          ~D5
+
+CAMERA_D6    J7          19
+             U2          ~D6
+
+CAMERA_D7    J7          13
+             U2          D7
+
+CAMERA_HSYNC J7          16
+             U2          D17
+
+CAMERA_INT   J7          18
+             U2          D10
+
+CAMERA_MCLK  J7          8
+             U2          ~D18
+
+CAMERA_PCLK  J7          17
+             U2          ~D19
+
+CAMERA_TRIG  J7          7
+             U2          D14
+
+CAMERA_VSYNC J7          6
+             U2          D15
+
+D13          J14         5
+             J25         5
+             J9          5
+             J9          5@2
+             U2          ~AD13
+
+D16          J22         12
+             J26         12
+             J5          12
+             J5          12@2
+             U2          AD16
+
+D23_LED      J14         3
+             J25         3
+             J9          3
+             J9          3@2
+             R5          2
+             U2          ~D23
+
+D24          J14         1
+             J25         1
+             J9          1
+             J9          1@2
+             U2          ~D24
+
+D25          J14         11
+             J25         11
+             J9          11
+             J9          11@2
+             U2          ~D25
+
+D26          J14         10
+             J25         10
+             J9          10
+             J9          10@2
+             U2          ~D26
+
+D27          J14         4
+             J25         4
+             J9          4
+             J9          4@2
+             U2          ~D27
+
+D28          J14         12
+             J25         12
+             J9          12
+             J9          12@2
+             U2          ~D28
+
+D29          J14         8
+             J25         8
+             J9          8
+             J9          8@2
+             U2          ~AD29
+
+D31          J22         11
+             J26         11
+             J5          11
+             J5          11@2
+             U2          ~AD31
+
+D32          J14         7
+             J25         7
+             J9          7
+             J9          7@2
+             U2          ~AD32
+
+D33          J14         6
+             J25         6
+             J9          6
+             J9          6@2
+             U2          ~AD33/SWO
+
+D34          J14         9
+             J25         9
+             J9          9
+             J9          9@2
+             U2          AD34
+
+D35          J14         2
+             J25         2
+             J9          2
+             J9          2@2
+             U2          ~AD35
+
+D36          J22         6
+             J26         6
+             J5          6
+             J5          6@2
+             U2          D36
+
+D37          J22         4
+             J26         4
+             J5          4
+             J5          4@2
+             U2          ~D37
+
+D38          J22         5
+             J26         5
+             J5          5
+             J5          5@2
+             U2          D38
+
+D39          J22         1
+             J26         1
+             J5          1
+             J5          1@2
+             U2          ~D39
+
+D40          J22         2
+             J26         2
+             J5          2
+             J5          2@2
+             U2          D40
+
+D41          J22         10
+             J26         10
+             J5          10
+             J5          10@2
+             U2          D41
+
+D42          J22         7
+             J26         7
+             J5          7
+             J5          7@2
+             U2          ~D42
+
+D43          J22         8
+             J26         8
+             J5          8
+             J5          8@2
+             U2          ~D43
+
+D44          J22         3
+             J26         3
+             J5          3
+             J5          3@2
+             U2          ~D44
+
+D45          J22         9
+             J26         9
+             J5          9
+             J5          9@2
+             U2          ~D45
+
+GND          C1          2
+             C10         1
+             C11         1
+             C12         2
+             C13         2
+             C14         2
+             C15         2
+             C16         2
+             C17         2
+             C18         2
+             C19         2
+             C2          2
+             C3          2
+             C4          2
+             C5          2
+             C6          2
+             C7          2
+             C8          2
+             C9          2
+             D4          C
+             D5          C
+             D6          2
+             E1          2
+             E1          3
+             E1          6
+             E1          7
+             E1          8
+             J1          GND
+             J1          GND2
+             J12         1
+             J12         2
+             J2          3
+             J2          5
+             J2          9
+             J23         1
+             J23         10
+             J23         11
+             J23         12
+             J23         2
+             J23         3
+             J23         4
+             J23         5
+             J23         6
+             J23         7
+             J23         8
+             J23         9
+             J24         1
+             J24         10
+             J24         11
+             J24         12
+             J24         2
+             J24         3
+             J24         4
+             J24         5
+             J24         6
+             J24         7
+             J24         8
+             J24         9
+             J3          3
+             J3          5
+             J3          9
+             J4          1
+             J4          1@2
+             J4          2
+             J4          2@2
+             J6          1
+             J7          15
+             J7          2
+             J8          1
+             J8          2
+             R13         1
+             R20         2
+             R6          1
+             R7          1
+             S2          1
+             U1          16
+             U1          2
+             U1          8
+             U2          GND@1
+             U2          GND@22
+             U2          GND@38
+             U2          GND@39
+             U2          GND@47
+             U2          GND@59
+             U3          5
+             U3          6
+             U3          7
+             U3          8
+             U4          2
+             U5          2
+             X1          P2
+             X1          P4
+
+INTFC_NC5    J3          8
+             U1          11
+
+INTFC_NC6    J3          6
+             U1          12
+
+INTFC_SWDCLK J3          4
+             TP2         P$1
+             U1          10
+
+INTFC_SWDIO  J3          2
+             TP1         P$1
+             U1          13
+
+LED_HID      D2          C
+             U1          30
+
+LED_MSD      D1          C
+             U1          29
+
+LED_UART     D3          C
+             U1          31
+
+N$1          D1          A
+             R1          1
+
+N$2          D2          A
+             R2          1
+
+N$3          D3          A
+             R3          1
+
+N$4          J1          B5
+             R6          2
+
+N$5          J1          A5
+             R7          2
+
+N$6          D5          A
+             R5          1
+
+N$7          D4          A
+             R4          1
+
+N$8          D6          4
+             R16         1
+
+N$9          D6          6
+             R18         1
+
+N$10         R11         1
+             U1          14
+
+N$12         TGT_SWD_CLK 1
+             U1          26
+
+N$13         C8          1
+             U1          17
+             X1          P1
+
+N$14         C10         2
+             U2          XI
+             Y1          P$2
+
+N$15         C11         2
+             U2          XO
+             Y1          P$1
+
+N$16         C9          1
+             U1          18
+             X1          P3
+
+N$18         TGT_BOOT    1
+             U1          9
+
+PDM_CLK      E1          4
+             U2          ~AD12
+
+PDM_DATA     E1          1
+             U2          ~AD11
+
+SCL          J6          4
+             J7          21
+             U2          D8
+             U3          1
+
+SDA          J6          3
+             J7          22
+             U2          D9
+             U3          4
+
+TGT_BOOT     R13         2
+             TGT_BOOT    2
+             U2          BOOT
+
+TGT_RX       U1          25
+             U2          RXI-0
+
+TGT_SWCLK    J2          4
+             TGT_SWD_CLK 2
+             U2          SWDCK
+
+TGT_SWDIO    J2          2
+             U1          27
+             U2          SWDIO
+
+TGT_SWO      J2          6
+             U1          28
+             U2          ~D22
+
+TGT_TX       U1          24
+             U2          TXO-0
+
+USB_D+_P     R16         2
+             U1          3
+
+USB_D+_R     D6          3
+             J1          A6
+             J1          B6
+
+USB_D-_P     R18         2
+             U1          4
+
+USB_D-_R     D6          1
+             J1          A7
+             J1          B7
+
+V_USB        C12         1
+             C13         1
+             D6          5
+             J1          VBUS1
+             J1          VBUS2
+             J12         3
+             J12         4
+             J4          3
+             J4          3@2
+             J4          4
+             J4          4@2
+             J8          3
+             J8          4
+             R19         2
+             U1          6
+             U5          1
+             U5          3
+

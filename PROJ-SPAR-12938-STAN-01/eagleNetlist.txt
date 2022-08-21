@@ -1,0 +1,129 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 16:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RST     JP1      3
+         R12      2
+
+!RST-L   R1       1
+         R12      1
+         U1       5
+
+!SEN     JP1      4
+         R11      2
+
+!SEN-L   R11      1
+         R2       1
+         U1       6
+
+3.3V     C1       1
+         C2       1
+         C6       2
+         JP1      7
+         R2       2
+         R3       2
+         R8       2
+         U1       10
+         U1       11
+         U1       16
+         U3       8
+
+ANT      C5       1
+         U1       2
+
+GND      C1       2
+         C2       2
+         C3       1
+         C4       1
+         C6       1
+         C9       2
+         JP1      8
+         L1       2
+         R1       2
+         U1       12
+         U1       15
+         U1       21
+         U1       3
+         U1       4
+         U3       4
+         U3       5
+
+GPIO1    JP1      2
+         U1       19
+
+GPIO2    JP1      1
+         U1       18
+
+LA       L2       2
+         U4       TIP
+
+LOUT     C10      1
+         U1       14
+
+N$1      C4       2
+         U1       9
+         Y1       X2
+
+N$2      C3       2
+         U1       17
+         Y1       X1
+
+N$3      C5       2
+         L1       1
+         U4       SLEEVE
+
+N$4      C7       C
+         L2       1
+
+N$5      C7       A
+         R6       1
+         U3       1
+
+N$6      C8       A
+         R7       1
+         U3       7
+
+N$7      C8       C
+         L3       1
+
+N$8      C9       1
+         U3       3
+
+N$11     R4       1
+         R6       2
+         U3       2
+
+N$12     R5       1
+         R7       2
+         U3       6
+
+N$13     C10      2
+         R4       2
+
+N$14     C11      2
+         R5       2
+
+RA       L3       2
+         U4       RING
+
+ROUT     C11      1
+         U1       13
+
+SCLK     JP1      5
+         R10      2
+
+SCLK-L   R10      1
+         R3       1
+         U1       7
+
+SDIO     JP1      6
+         R9       2
+
+SDIO-L   R8       1
+         R9       1
+         U1       8
+

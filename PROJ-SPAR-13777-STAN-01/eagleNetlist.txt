@@ -1,0 +1,170 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!CE!       JP11     1
+           R8       1
+           U1       4
+
+!CHG!      R9       2
+           U1       9
+
+!PGOOD!    SJ5      1
+           U1       7
+
+1.8V       C4       1
+           JP13     1
+           U2       5
+
+BATTERY_IN C5       1
+           JP5      2
+           JP6      2
+           R11      2
+           U2       6
+           U2       8
+
+D+         JP1      D+1
+           TP2      P$1
+
+D-         JP1      D-1
+           TP1      P$1
+
+EN1        R16      2
+           S2       4
+           U1       6
+
+EN2        R17      2
+           S2       3
+           U1       5
+
+GND        C1       2
+           C2       2
+           C3       2
+           C4       2
+           C5       2
+           JP1      GND1
+           JP10     1
+           JP2      2
+           JP3      2
+           JP4      2
+           JP5      1
+           JP6      1
+           JP7      2
+           JP8      1
+           JP9      1
+           R1       1
+           R3       1
+           R4       1
+           R5       2
+           R6       1
+           R7       2
+           R8       2
+           S1       3
+           S2       1
+           S2       2
+           SJ1      1
+           SJ2      1
+           SJ5      3
+           U1       8
+           U1       EP
+           U2       3
+           U2       EP
+           U2       EP1
+           U2       EP2
+           U2       EP3
+           U2       EP4
+
+GPOUT      JP11     2
+           R15      1
+           U2       12
+
+ILIM       R6       2
+           SJ4      2
+           U1       12
+
+ISET       R4       2
+           SJ3      2
+           U1       16
+
+N$1        R2       1
+           SJ1      2
+
+N$2        R7       1
+           SJ4      1
+
+N$3        R5       1
+           SJ3      1
+
+N$4        R12      2
+           S1       1
+
+N$5        R10      2
+           SJ5      2
+
+N$11       D1       C
+           R9       1
+
+N$12       D2       C
+           R10      1
+
+OUT        C3       1
+           D1       A
+           D2       A
+           JP7      1
+           JP8      2
+           JP9      2
+           R16      1
+           R17      1
+           U1       10
+           U1       11
+
+SCL        JP10     4
+           R14      1
+           U2       2
+
+SDA        JP10     3
+           R13      1
+           U2       1
+
+SHIELD     JP1      SHIELD1
+           JP1      SHIELD2
+           JP1      SHIELD3
+
+SYSOFF     JP12     1
+           S1       2
+           U1       15
+
+TMR        R3       2
+           SJ2      2
+           U1       14
+
+TS         R1       2
+           R2       2
+           U1       1
+           U2       10
+
+USB_ID     JP1      ID1
+
+V_BATT     C2       1
+           R11      1
+           R12      1
+           U1       2
+           U1       3
+           U2       7
+
+V_PU       JP10     2
+           R13      2
+           R14      2
+           R15      2
+
+V_USB      C1       1
+           JP1      VBUS1
+           JP2      1
+           JP3      1
+           JP4      1
+           U1       13
+

@@ -1,0 +1,71 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       1
+         C2       1
+         IC1      3
+         J1       1
+         JP1      2
+
+GND-ISO  C5       2
+         C6       2
+         J3       1
+         J6       SLEEVE
+         J9       1
+         JP1      1
+
+N$1      J5       1
+         J6       RING-NORM
+
+N$2      J4       1
+         J6       TIP-NORM
+
+N$3      J2       1
+         J6       SLEEVE-NORM
+
+N$8      C5       1
+         J6       TIP
+         J7       1
+         L2       2
+
+N$9      C6       1
+         J6       RING
+         J8       1
+         L1       2
+
+N$10     C3       -
+         D1       3
+         IC1      8
+         L2       1
+
+N$11     C4       -
+         D2       3
+         IC1      1
+         L1       1
+
+N$13     C4       +
+         IC1      2
+
+N$14     C3       +
+         IC1      7
+
+N$16     IC1      4
+         J1       4
+
+VCC      C1       2
+         D1       2
+         D2       2
+         IC1      6
+         J1       3
+
+VNEG     C2       2
+         D1       1
+         D2       1
+         IC1      5
+         J1       2
+

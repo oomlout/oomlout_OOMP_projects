@@ -1,0 +1,78 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 18:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!INT!     J4       4
+          R3       1
+          U1       P12
+
+GND       C1       2
+          C2       2
+          D1       C
+          J1       1
+          J2       1
+          J3       1
+          U1       P6
+          U1       P7
+
+GPI0/PWM  J4       1
+          U1       P3
+
+GPI1      J4       2
+          U1       P2
+
+GPI2      J4       3
+          U1       P1
+
+N$1       D1       A
+          R4       1
+
+N$2       JP1      1
+          R4       2
+
+N$3       JP3      3
+          R1       2
+
+N$4       JP3      1
+          R2       2
+
+N$5       M1       P$1
+          U1       P5
+
+N$6       M1       P$2
+          U1       P8
+
+QWIIC_BUS J1       2
+          J2       2
+          JP3      2
+          JP4      1
+
+SCL       J1       4
+          J2       4
+          J3       4
+          R2       1
+          U1       P11
+
+SDA       J1       3
+          J2       3
+          J3       3
+          R1       1
+          U1       P10
+
+VDD       C1       1
+          C2       1
+          J3       2
+          JP1      2
+          JP2      2
+          JP4      2
+          R3       2
+          U1       P4
+
+VDDIO     J5       1
+          JP2      1
+          U1       P9
+

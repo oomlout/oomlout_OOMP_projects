@@ -1,0 +1,222 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 22:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+!RESET       JP3      1
+             R10      1
+             U1       44
+
+3.3V         C1       A
+             C2       1
+             JP4      6
+             Q1       1
+             Q2       1
+             R1       2
+             R10      2
+             R13      2
+             R2       2
+             R3       2
+             R4       2
+             R6       2
+             U1       33
+             U2       5
+
+5V_CTS       JP1      CTS
+             R9       2
+
+5V_RTS       JP1      DTR
+             Q2       3
+             R7       1
+
+5V_RX        JP1      RXI
+             R8       2
+
+5V_TX        JP1      TXO
+             Q1       3
+             R5       1
+
+AIO_1        JP2      8
+             U1       12
+
+CAP_SENSE_1  JP2      4
+             U1       7
+
+CAP_SENSE_2  JP2      7
+             U1       10
+
+CAP_SENSE_3  JP2      6
+             U1       9
+
+CAP_SENSE_4  JP2      5
+             U1       8
+
+CHG_EXT      Q3       1
+             U1       29
+
+CTS          JP3      10
+             R9       1
+             U1       40
+
+GND          C1       C
+             C2       2
+             C3       C
+             C4       2
+             JP1      GND
+             JP3      11
+             JP4      5
+             JP5      1
+             JP6      2
+             U1       1
+             U1       11
+             U1       2
+             U1       22
+             U1       27
+             U1       3
+             U1       4
+             U2       2
+
+LED_0        D2       C
+             JP2      3
+             U1       37
+
+LED_1        D3       C
+             JP2      2
+             U1       38
+
+LED_2        D1       C
+             JP2      1
+             U1       39
+
+MIC_BIAS_A   JP5      6
+             U1       17
+
+MIC_LN       JP5      3
+             U1       20
+
+MIC_LP       JP5      2
+             U1       21
+
+MIC_RN       JP5      5
+             U1       18
+
+MIC_RP       JP5      4
+             U1       19
+
+N$2          D3       A
+             R3       1
+
+N$6          D2       A
+             R4       1
+
+N$7          D1       A
+             R2       1
+
+N$28         C4       1
+             R12      1
+
+PCM_CLK/CLK  JP3      4
+             U1       47
+
+PCM_IN/MOSI  JP3      2
+             U1       49
+
+PCM_OUT/MISO JP3      3
+             U1       48
+
+PCM_SYNC/CSB JP3      5
+             U1       46
+
+PIO_0        JP2      11
+             U1       23
+
+PIO_1        JP2      12
+             U1       24
+
+PIO_2        JP2      16
+             U1       50
+
+PIO_3        JP2      15
+             U1       51
+
+PIO_4        JP2      14
+             U1       26
+
+PIO_5        JP2      13
+             U1       25
+
+PIO_6        JP2      9
+             U1       5
+
+PIO_7        JP2      10
+             U1       6
+
+RTS          JP3      7
+             Q2       2
+             R6       1
+             U1       43
+
+RX           JP3      8
+             R8       1
+             U1       42
+
+SPI_!PCM     JP3      6
+             R13      1
+             U1       45
+
+SPKR_LN      JP4      1
+             U1       13
+
+SPKR_LP      JP4      2
+             U1       14
+
+SPKR_RN      JP4      3
+             U1       15
+
+SPKR_RP      JP4      4
+             U1       16
+
+TX           JP3      9
+             Q1       2
+             R1       1
+             U1       41
+
+USB_N        JP3      13
+             U1       35
+
+USB_P        JP3      12
+             U1       36
+
+VBAT_SENSE   Q3       3
+             R11      2
+             U1       31
+
+VIN          C3       A
+             D4       C
+             D5       C
+             D6       C
+             Q3       2
+             R5       2
+             R7       2
+             U1       30
+             U2       1
+             U2       3
+
+VREGEN       JP3      15
+             U1       28
+
+V_BAT        D4       A
+             JP6      1
+             R11      1
+             R12      2
+             U1       32
+
+V_FTDI       D5       A
+             JP1      VCC
+
+V_USB        D6       A
+             JP3      14
+

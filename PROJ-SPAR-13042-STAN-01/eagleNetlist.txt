@@ -1,0 +1,331 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+1.8V             C3       1
+                 R4       2
+                 R5       2
+                 U2       1
+                 U3       12
+                 U4       12
+
+3.3V             U3       10
+                 U3       8
+                 U4       10
+                 U4       8
+
+A0               R14      2
+                 SJ1      2
+                 U1       1
+
+A1               R15      2
+                 SJ2      2
+                 U1       2
+
+A2               R16      2
+                 SJ3      2
+                 U1       3
+
+A3               R17      2
+                 SJ4      2
+                 U1       4
+
+A4               R18      2
+                 SJ5      2
+                 U1       5
+
+A5               R19      2
+                 SJ6      2
+                 U1       24
+
+CH0              JP1      3
+                 R13      1
+                 U1       6
+
+CH1              JP2      3
+                 R12      1
+                 U1       7
+
+CH2              JP3      3
+                 R11      1
+                 U1       8
+
+CH3              JP4      3
+                 R10      1
+                 U1       9
+
+CH4              JP5      3
+                 R9       1
+                 U1       10
+
+CH5              JP6      3
+                 R8       1
+                 U1       11
+
+CH6              JP7      3
+                 R7       1
+                 U1       12
+
+CH7              JP8      3
+                 R6       1
+                 U1       13
+
+DCIN             U3       14
+                 U4       14
+
+FAULT            U3       19
+                 U4       19
+
+FW_RCVR          U3       69
+                 U4       69
+
+GND              C1       2
+                 C2       2
+                 C3       2
+                 JP1      1
+                 JP2      1
+                 JP3      1
+                 JP4      1
+                 JP5      1
+                 JP6      1
+                 JP7      1
+                 JP8      1
+                 JP9      1
+                 R14      1
+                 R15      1
+                 R16      1
+                 R17      1
+                 R18      1
+                 R19      1
+                 U1       14
+                 U1       23
+                 U1       25
+                 U2       4
+                 U3       1
+                 U3       11
+                 U3       13
+                 U3       15
+                 U3       5
+                 U3       9
+                 U4       1
+                 U4       11
+                 U4       13
+                 U4       15
+                 U4       5
+                 U4       9
+
+GP12_PWM0        U3       35
+                 U4       35
+
+GP13_PWM1        U3       33
+                 U4       33
+
+GP14             U3       48
+                 U4       48
+
+GP15             U3       42
+                 U4       42
+
+GP19_I2C_1_SCL   R4       1
+                 U2       2
+                 U3       41
+                 U4       41
+
+GP20_I2C_1_SDA   R5       1
+                 U2       3
+                 U3       43
+                 U4       43
+
+GP27_I2C_6_SCL   U3       45
+                 U4       45
+
+GP28_I2C_6_SDA   U3       47
+                 U4       47
+
+GP40_I2S_2_CLK   U3       52
+                 U4       52
+
+GP41_I2S_2_FS    U3       54
+                 U4       54
+
+GP42_I2S_2_RXD   U3       50
+                 U4       50
+
+GP43_I2S_2_TXD   U3       56
+                 U4       56
+
+GP44             U3       24
+                 U4       24
+
+GP45             U3       26
+                 U4       26
+
+GP46             U3       28
+                 U4       28
+
+GP47             U3       30
+                 U4       30
+
+GP48             U3       32
+                 U4       32
+
+GP49             U3       34
+                 U4       34
+
+GP77_SD_0_CD#    U3       60
+                 U4       60
+
+GP78_SD_0_CLK    U3       58
+                 U4       58
+
+GP79_SD_0_CMD    U3       62
+                 U4       62
+
+GP80_SD_0_DAT0   U3       66
+                 U4       66
+
+GP81_SD_0_DAT1   U3       70
+                 U4       70
+
+GP82_SD_0_DAT2   U3       64
+                 U4       64
+
+GP83_SD_0_DAT3   U3       68
+                 U4       68
+
+GP84_SD_CLK_FB   U3       44
+                 U4       44
+
+GP109_SPI_2_CLK  U3       55
+                 U4       55
+
+GP110_SPI_2_FS0  U3       53
+                 U4       53
+
+GP111_SPI_2_FS1  U3       51
+                 U4       51
+
+GP114_SPI_2_RXD  U3       59
+                 U4       59
+
+GP115_SPI_2_TXD  U3       57
+                 U4       57
+
+GP128_UART_1_CTS U3       65
+                 U4       65
+
+GP129_UART_1_RTS U3       63
+                 U4       63
+
+GP130_UART_1_RX  U3       61
+                 U4       61
+
+GP131_UART_1_TX  U3       46
+                 U4       46
+
+GP134_UART_2_RX  U3       22
+                 U4       22
+
+GP135_UART_2_TX  U3       27
+                 U4       27
+
+GP165            U3       25
+                 U4       25
+
+GP182_PWM2       U3       37
+                 U4       37
+
+GP183_PWM3       U3       39
+                 U4       39
+
+HV_SCL           R2       1
+                 U1       26
+                 U2       6
+
+HV_SDA           R1       1
+                 U1       27
+                 U2       5
+
+MSIC_SLP_CLK     U3       7
+                 U4       7
+
+N$1              R3       1
+                 U2       7
+                 U2       8
+
+N$2              D1       C
+                 SJ7      1
+
+OSC_CLK_OUT      U3       67
+                 U4       67
+
+PSW              U3       21
+                 U4       21
+
+PWRBTN#          U3       17
+                 U4       17
+
+RCVR_MODE        U3       31
+                 U4       31
+
+RESET_OUT#       U3       36
+                 U4       36
+
+USB_DN           U3       18
+                 U4       18
+
+USB_DP           U3       16
+                 U4       16
+
+USB_ID           U3       3
+                 U4       3
+
+USB_VBUS         U3       20
+                 U4       20
+
+VCC              JP1      2
+                 JP2      2
+                 JP3      2
+                 JP4      2
+                 JP5      2
+                 JP6      2
+                 JP7      2
+                 JP8      2
+                 JP9      2
+                 R10      2
+                 R11      2
+                 R12      2
+                 R13      2
+                 R6       2
+                 R7       2
+                 R8       2
+                 R9       2
+                 SJ7      2
+
+VSYS             C1       1
+                 C2       1
+                 D1       A
+                 R1       2
+                 R2       2
+                 R3       2
+                 SJ1      1
+                 SJ2      1
+                 SJ3      1
+                 SJ4      1
+                 SJ5      1
+                 SJ6      1
+                 U1       28
+                 U3       2
+                 U3       4
+                 U3       6
+                 U4       2
+                 U4       4
+                 U4       6
+
+V_BAT_BKUP       U3       23
+                 U4       23
+

@@ -1,0 +1,259 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 05:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                 Part     Pad
+
+!RESET!             C20      2
+                    C28      1
+                    J1       6
+                    R14      1
+                    U1       ~RST
+
+!RTS                C20      1
+                    C21      1
+                    U6       4
+
+3.3V                C17      1
+                    C18      1
+                    C2       1
+                    D7       A
+                    J1       2
+                    J1       74
+                    U6       10
+                    U6       7
+
+3.3V_EN             J1       4
+                    U1       D3
+
+ADC0                J1       34
+                    U2       1
+
+ADC0_BUFF1          R3       2
+                    U2       15
+                    U2       16
+
+ADC0_BUFF2          R3       1
+                    R5       2
+                    U2       4
+
+ADC1                J1       38
+                    U2       12
+
+ADC1_BUFF2          R6       1
+                    R7       2
+                    U2       9
+
+ADC_BUFF1           R6       2
+                    U2       13
+                    U2       14
+
+ADC_D+              J1       63
+                    U1       ~AD13
+
+BATT_VIN/3          J1       49
+                    R2       2
+
+BOOT                C21      2
+                    J1       11
+                    R15      2
+                    U1       BOOT
+
+CAM_MCLK            J1       56
+                    J1       58
+                    U1       ~D18
+
+CAM_PCLK            J1       54
+                    U1       ~AD11
+
+CTS1                J1       15
+                    U1       D17
+
+D0                  J1       10
+                    U1       D0
+
+D1                  J1       18
+                    U1       D1
+
+GND                 C1       2
+                    C11      1
+                    C13      1
+                    C17      2
+                    C18      2
+                    C2       2
+                    C28      2
+                    C3       2
+                    C4       2
+                    D2       C
+                    J1       1
+                    J1       33
+                    J1       36
+                    J1       39
+                    J1       45
+                    J1       7
+                    J1       75
+                    J1       GND1
+                    J1       GND2
+                    J1       GND3
+                    R15      1
+                    R4       1
+                    R5       1
+                    R7       1
+                    U1       GND@1
+                    U1       GND@22
+                    U1       GND@38
+                    U1       GND@39
+                    U1       GND@47
+                    U1       GND@59
+                    U2       11
+                    U6       3
+
+GPIO0               J1       40
+                    U1       AD16
+
+GPIO1               J1       42
+                    U1       ~AD33/SWO
+
+GPIO2               J1       44
+                    U1       AD34
+
+GPIO3               J1       46
+                    U1       ~D27
+
+GPIO4               J1       48
+                    U1       ~D28
+
+GPIO5               J1       73
+                    U1       ~AD29
+
+GPIO6               J1       71
+                    U1       D14
+
+GPIO7               J1       69
+                    U1       D15
+
+I2C_!INT!           J1       16
+                    U1       D2
+
+LED_BUILTIN         R1       2
+                    U1       ~D19
+
+N$2                 D2       A
+                    R1       1
+
+N$5                 C13      2
+                    U1       XI
+                    Y1       P$1
+
+N$7                 C11      2
+                    U1       XO
+                    Y1       P$2
+
+PDM_CLK             J1       50
+                    U1       ~D37
+
+PDM_DATA            J1       52
+                    U1       D36
+
+PWM0                J1       32
+                    U1       ~D44
+
+PWM1                J1       47
+                    U1       ~D45
+
+QSPI1               J1       66
+                    U1       ~D26
+
+QSPI2               J1       68
+                    U1       ~D4
+
+RTS1                J1       13
+                    U1       D10
+
+RX1                 J1       19
+                    U1       ~D25
+
+RXI-0               U1       RXI-0
+                    U6       8
+
+SCALED_ADC0         U1       ~AD32
+                    U2       5
+                    U2       6
+
+SCALED_ADC1         U1       ~AD35
+                    U2       7
+                    U2       8
+
+SCALED_BATT_VIN/3   R2       1
+                    R4       2
+                    U1       ~AD31
+
+SCL                 J1       14
+                    U1       ~D39
+
+SCL1                J1       53
+                    U1       D8
+
+SDA                 J1       12
+                    U1       D40
+
+SDA1                J1       51
+                    U1       D9
+
+SPI_!CS!            J1       55
+                    U1       D41
+
+SPI_!CS1!/QSPI3     J1       70
+                    U1       ~D23
+
+SPI_CIPO            J1       61
+                    U1       ~D43
+
+SPI_CIPO1/QSPI0     J1       64
+                    U1       ~D22
+                    U1       ~D6
+
+SPI_COPI            J1       59
+                    U1       D38
+
+SPI_COPI1/QSPI_!CS! J1       62
+                    U1       D7
+
+SPI_SCK             J1       57
+                    U1       ~D42
+
+SPI_SCK1/QSPI_SCK   J1       60
+                    U1       ~D24
+                    U1       ~D5
+
+SWDCK               J1       21
+                    U1       SWDCK
+
+SWDIO               J1       23
+                    U1       SWDIO
+
+TX1/ADC_D-          J1       17
+                    J1       65
+                    U1       ~AD12
+
+TXO-0               U1       TXO-0
+                    U6       9
+
+USB_D+              J1       3
+                    U6       1
+
+USB_D-              J1       5
+                    U6       2
+
+V_BATT              C1       1
+                    C3       1
+                    C4       1
+                    D7       C
+                    J1       72
+                    R14      2
+                    U1       VDD@36
+                    U1       VDD@37
+                    U2       2
+

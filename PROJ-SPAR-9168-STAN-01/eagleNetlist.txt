@@ -1,0 +1,88 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       C1       2
+         C2       2
+         C3       2
+         JP1      1
+         U3       21
+         U3       24
+         U3       3
+
+CLKOUT   JP1      2
+         U3       7
+
+DIN      JP1      4
+         U3       9
+
+DOUT     JP1      6
+         U3       11
+
+GND      C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         J1       BARREL
+         J1       SPRING
+         J2       BARREL
+         J2       SPRING
+         JP1      11
+         R2       2
+         U3       20
+         U3       23
+         U3       4
+
+LOS      JP1      7
+         U3       12
+
+N$1      C4       2
+         U3       5
+         Y2       3
+
+N$4      C5       2
+         U3       6
+         Y2       1
+
+N$5      C6       C
+         C7       C
+         R1       1
+
+N$6      C7       A
+         U3       25
+
+N$7      C6       A
+         U3       26
+
+N$8      J1       BREAK
+         R1       2
+         V_OUT    P$1
+
+N$9      C8       2
+         U3       22
+
+N$10     C8       1
+         J2       BREAK
+         R2       1
+         V_IN     P$1
+
+RESET    JP1      8
+         U3       19
+
+SCK      JP1      5
+         U3       10
+
+~CS      JP1      3
+         U3       8
+
+~HSYNC   JP1      9
+         U3       18
+
+~VSYNC   JP1      10
+         U3       17
+

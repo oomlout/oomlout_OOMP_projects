@@ -1,0 +1,47 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C3       1
+         JP5      1
+         R1       2
+         R2       2
+         R3       2
+         U1       1
+         U1       14
+
+BYP      C2       1
+         U1       2
+
+GND      C1       2
+         C2       2
+         C3       2
+         JP5      6
+         SJ1      1
+         U1       10
+         U1       12
+         U1       5
+
+INT1     JP5      5
+         U1       11
+
+INT2     JP5      4
+         U1       9
+
+SA0      R3       1
+         SJ1      2
+         U1       7
+
+SCL      JP5      3
+         R1       1
+         U1       4
+
+SDA      JP5      2
+         R2       1
+         U1       6
+

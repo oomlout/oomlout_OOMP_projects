@@ -1,0 +1,134 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         C6       1
+         C7       1
+         C8       1
+         C9       1
+         FB1      1
+         FB1      2
+         J1       2
+         J2       2
+         J4       2
+         JP1      2
+         LED      2
+         R4       1
+         R4       2
+         R5       1
+         U1       P10
+         U1       P15
+         U1       P18
+         U1       P21
+         U1       P22
+         U1       P23
+         U1       P5
+
+CLKIN    J8       P$1
+         U1       P1
+
+CLKINB   J7       P$1
+         U1       P2
+
+GND      C1       2
+         C10      2
+         C12      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       2
+         D1       C
+         J1       1
+         J2       1
+         J4       1
+         J5       1
+         J5       2
+         J5       3
+         J5       4
+         J5       5
+         J5       6
+         J5       7
+         J5       8
+         U1       GND
+         U1       P6
+         Y1       P2
+         Y1       P4
+
+N$1      JP1      1
+         R2       1
+
+N$2      C12      1
+         U1       P3
+         Y1       P1
+
+N$3      JP1      3
+         R1       1
+
+N$4      LED      1
+         R3       2
+
+N$5      D1       A
+         R3       1
+
+N$6      C10      1
+         U1       P4
+         Y1       P3
+
+N$7      JP2      1
+         R5       2
+
+OUT1     J3       8
+         U1       P20
+
+OUT1B    J3       7
+         U1       P19
+
+OUT2     J3       6
+         U1       P17
+
+OUT2B    J3       5
+         U1       P16
+
+OUT3     J3       4
+         U1       P14
+
+OUT3B    J3       3
+         U1       P13
+
+OUT4     J3       1
+         U1       P11
+
+OUT4B    J3       2
+         U1       P12
+
+SD/OE    J4       5
+         U1       P7
+
+SEL0/SCL J1       4
+         J2       4
+         J4       4
+         R1       2
+         U1       P9
+
+SEL1/SDA J1       3
+         J2       3
+         J4       3
+         R2       2
+         U1       P8
+
+SEL_I2CB JP2      2
+         U1       P24
+

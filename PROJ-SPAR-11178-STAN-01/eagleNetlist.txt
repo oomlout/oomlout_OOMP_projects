@@ -1,0 +1,87 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A        LED1     14
+         U1       12
+
+AMPM     LED1     10
+         U1       5
+
+B        LED1     16
+         U1       14
+
+BTN      S1       1
+         U1       4
+
+C        LED1     13
+         U1       11
+
+COL      LED1     4
+         U1       18
+
+D        LED1     3
+         U1       17
+
+DIG1     LED1     1
+         U1       15
+
+DIG2     LED1     2
+         U1       16
+
+DIG3     LED1     6
+         U1       23
+
+DIG4     LED1     8
+         U1       24
+
+DP       LED1     7
+
+E        LED1     5
+         U1       19
+
+F        LED1     11
+         U1       6
+
+G        LED1     15
+         U1       13
+
+GND      BAT      2
+         C2       2
+         JP1      GND
+         LED1     12
+         LED1     9
+         S1       2
+         U1       22
+         U1       8
+
+N$1      U1       10
+         Y1       1
+
+N$2      U1       9
+         Y1       2
+
+N$3      C1       1
+         JP1      DTR
+
+RST      C1       2
+         R1       P$1
+         U1       1
+
+RXI      JP1      TXO
+         U1       2
+
+TXO      JP1      RXI
+         U1       3
+
+VCC      BAT      1
+         C2       1
+         R1       P$2
+         U1       20
+         U1       21
+         U1       7
+

@@ -1,0 +1,23 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 18:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         D1       2
+         J1       3
+         U1       VDD
+
+GND      C1       2
+         D1       1
+         J1       1
+         R5       1
+         U1       GND
+
+PIR_OUT  J1       2
+         R5       2
+         U1       OUT
+

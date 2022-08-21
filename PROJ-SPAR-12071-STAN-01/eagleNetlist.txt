@@ -1,0 +1,218 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       C2       1
+           C4       1
+           C5       1
+           JP5      1
+           R1       2
+           R3       2
+           R4       2
+           R5       2
+           U1       2
+           U1       4
+           U3       1
+           U4       4
+           U5       P$19
+           U5       P$23
+           U6       5
+
+5V         C1       1
+           C3       1
+           JP4      2
+           JP5      2
+           U1       3
+           U2       5V
+
+AREF       JP3      8
+           U2       AREF
+
+CS_3.3V    R4       1
+           U3       10
+           U5       P$12
+           U6       1
+
+CS_5V      JP3      3
+           U2       D10
+           U3       9
+
+EN_3.3V    U3       6
+           U5       P$26
+
+EN_5V      JP2      8
+           U2       D7
+           U3       7
+
+GND        C1       2
+           C2       2
+           C3       2
+           C4       2
+           C5       2
+           D1       C
+           J1       P$1
+           J1       P$2
+           JP1      3
+           JP3      7
+           JP4      6
+           JP5      3
+           L1       2
+           L2       2
+           R2       1
+           S1       1
+           S1       2
+           SJ1      3
+           U2       GND@0
+           U2       GND@1
+           U2       GND@2
+           U3       8
+           U4       6
+           U4       CD1
+           U4       CD2
+           U4       GND1
+           U4       GND3
+           U5       GND@37
+           U5       GND@38
+           U5       GND@39
+           U5       GND@40
+           U5       GND@41
+           U5       GND@42
+           U5       GND@43
+           U5       GND@44
+           U5       GND@45
+           U5       GND@46
+           U5       P$1
+           U5       P$10
+           U5       P$11
+           U5       P$16
+           U5       P$18
+           U5       P$20
+           U5       P$21
+           U5       P$22
+           U5       P$25
+           U5       P$31
+           U5       P$32
+           U5       P$33
+           U5       P$34
+           U5       P$36
+           U5       P$9
+           U6       3
+
+INT_3.3V   JP2      3
+           U2       D2
+           U5       P$14
+
+MISO_3.3V  JP3      5
+           JP4      1
+           U2       D12
+           U4       7
+           U6       4
+
+MOSI_3.3V  U3       12
+           U4       3
+           U5       P$15
+
+MOSI_5V    JP3      4
+           JP4      4
+           U2       D11
+           U3       11
+
+N$2        R1       1
+           R2       2
+           U1       1
+
+N$3        SJ1      2
+           U5       P$5
+
+N$4        SJ1      1
+           U5       P$7
+
+N$5        C6       1
+           C7       2
+           L2       1
+
+N$6        U5       P$27
+           U5       P$28
+
+N$7        U5       P$29
+           U5       P$30
+
+N$8        C6       2
+           C8       1
+           U5       P$35
+
+N$9        C8       2
+           J1       P$3
+
+N$10       AE1      FEED
+           C7       1
+           L1       1
+
+N$11       D1       A
+           R3       1
+
+N$125      JP2      1
+           U2       RX
+
+N$126      JP2      2
+           U2       TX
+
+N$127      JP2      4
+           U2       D3
+
+N$128      JP2      6
+           U2       D5
+
+N$129      JP2      7
+           U2       D6
+
+N$130      JP2      5
+           U2       D4
+
+N$131      JP3      2
+           U2       D9
+
+RESET      JP4      5
+           S1       3
+           S1       4
+           U2       RES
+
+SCK_3.3V   U3       15
+           U4       5
+           U5       P$17
+
+SCK_5V     JP3      6
+           JP4      3
+           U2       D13
+           U3       14
+
+SCL        JP3      10
+           U2       SCL
+
+SDA        JP3      9
+           U2       SDA
+
+SD_CS_3.3V R5       1
+           U3       4
+           U4       2
+
+SD_CS_5V   JP3      1
+           U2       D8
+           U3       5
+
+VIN        JP5      4
+           U2       VIN
+
+WIFI_MISO  U5       P$13
+           U6       2
+
+WIFI_RX    JP1      2
+           U5       P$8
+
+WIFI_TX    JP1      1
+           U5       P$6
+

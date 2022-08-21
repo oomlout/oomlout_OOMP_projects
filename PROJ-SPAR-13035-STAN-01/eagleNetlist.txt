@@ -1,0 +1,222 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+1.8V             C4       1
+                 J1       12
+                 OLED1    8
+                 R2       2
+                 R3       2
+                 R4       2
+                 R5       2
+                 R6       2
+                 R7       2
+                 R8       2
+
+3.3V             J1       10
+                 J1       8
+
+BUT_A            R7       1
+                 S1       A2
+                 SJ8      1
+
+BUT_B            R8       1
+                 S2       A2
+                 SJ1      1
+
+C1N              C2       2
+                 OLED1    5
+
+C1P              C2       1
+                 OLED1    4
+
+C2N              C3       2
+                 OLED1    3
+
+C2P              C3       1
+                 OLED1    2
+
+FAULT            J1       19
+
+FW_RCVR          J1       69
+
+GND              C1       2
+                 C4       2
+                 C5       2
+                 C6       2
+                 J1       1
+                 J1       11
+                 J1       13
+                 J1       15
+                 J1       5
+                 J1       9
+                 JP1      1
+                 OLED1    1
+                 OLED1    10
+                 OLED1    27
+                 OLED1    28
+                 OLED1    7
+                 OLED1    9
+                 R1       1
+                 S1       B2
+                 S2       B2
+                 S3       GND
+
+GP12_PWM0        J1       35
+
+GP13_PWM1        J1       33
+
+GP14             J1       48
+                 OLED1    13
+
+GP15             J1       42
+                 OLED1    12
+
+GP19_I2C_1_SCL   J1       41
+
+GP20_I2C_1_SDA   J1       43
+
+GP27_I2C_6_SCL   J1       45
+
+GP28_I2C_6_SDA   J1       47
+
+GP40_I2S_2_CLK   J1       52
+
+GP41_I2S_2_FS    J1       54
+
+GP42_I2S_2_RXD   J1       50
+
+GP43_I2S_2_TXD   J1       56
+
+GP44             J1       24
+                 SJ4      2
+
+GP45             J1       26
+                 SJ6      2
+
+GP46             J1       28
+                 SJ1      2
+
+GP47             J1       30
+                 SJ3      2
+
+GP48             J1       32
+                 SJ7      2
+
+GP49             J1       34
+                 SJ8      2
+
+GP77_SD_0_CD#    J1       60
+
+GP78_SD_0_CLK    J1       58
+
+GP79_SD_0_CMD    J1       62
+
+GP80_SD_0_DAT0   J1       66
+
+GP81_SD_0_DAT1   J1       70
+
+GP82_SD_0_DAT2   J1       64
+
+GP83_SD_0_DAT3   J1       68
+
+GP84_SD_CLK_FB   J1       44
+
+GP109_SPI_2_CLK  J1       55
+                 OLED1    16
+
+GP110_SPI_2_FS0  J1       53
+                 SJ2      1
+
+GP111_SPI_2_FS1  J1       51
+                 SJ2      3
+
+GP114_SPI_2_RXD  J1       59
+
+GP115_SPI_2_TXD  J1       57
+                 OLED1    17
+
+GP128_UART_1_CTS J1       65
+
+GP129_UART_1_RTS J1       63
+
+GP130_UART_1_RX  J1       61
+
+GP131_UART_1_TX  J1       46
+
+GP134_UART_2_RX  J1       22
+
+GP135_UART_2_TX  J1       27
+
+GP165            J1       25
+                 SJ5      2
+
+GP182_PWM2       J1       37
+
+GP183_PWM3       J1       39
+
+IREF             OLED1    24
+                 R1       2
+
+JOY_C            R6       1
+                 S3       CTR
+                 SJ7      1
+
+JOY_D            R3       1
+                 S3       D
+                 SJ4      1
+
+JOY_L            R4       1
+                 S3       C
+                 SJ5      1
+
+JOY_R            R5       1
+                 S3       B
+                 SJ6      1
+
+JOY_U            R2       1
+                 S3       A
+                 SJ3      1
+
+MSIC_SLP_CLK     J1       7
+
+OLED_!CS!        OLED1    11
+                 SJ2      2
+
+OSC_CLK_OUT      J1       67
+
+PSW              J1       21
+
+PWRBTN#          J1       17
+
+RCVR_MODE        J1       31
+
+RESET_OUT#       J1       36
+
+USB_DN           J1       18
+
+USB_DP           J1       16
+
+USB_ID           J1       3
+
+USB_VBUS         J1       20
+
+VCC              C1       1
+                 OLED1    26
+
+VCOMH            C5       1
+                 OLED1    25
+
+VSYS             C6       1
+                 J1       2
+                 J1       4
+                 J1       6
+                 JP1      2
+                 OLED1    6
+
+V_BAT_BKUP       J1       23
+

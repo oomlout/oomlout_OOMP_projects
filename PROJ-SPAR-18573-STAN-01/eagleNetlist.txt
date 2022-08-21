@@ -1,0 +1,152 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 19:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       C3       1
+           C4       1
+           Q2       3
+           R16      2
+           R17      2
+           R4       2
+           U1       8
+
+3.3V_IN    J11      73
+           Q2       2
+           R1       2
+           R6       1
+
+5V         C1       1
+           C13      1
+           C2       +
+           C8       A
+           MEAS     2
+           MEAS     4
+           PWR_LED  2
+           U4       11
+
+A0         J11      36
+           U1       1
+
+A1         J11      34
+           U1       2
+
+A2         J11      32
+           U1       3
+
+EWP        J11      40
+           JP1      2
+           R4       1
+           U1       7
+
+GND        C1       2
+           C13      2
+           C2       -
+           C3       2
+           C4       2
+           C8       C
+           D5       C
+           E1       GND@0
+           E1       GND@1
+           J11      1
+           J11      33
+           J11      39
+           J11      45
+           J11      75
+           J11      GND1
+           J11      GND2
+           J11      GND3
+           J11      GND4
+           J11      GND5
+           J11      GND6
+           JP1      1
+           Q8       2
+           Q9       2
+           R18      1
+           R19      1
+           U1       4
+           U4       1
+           U4       10
+           U4       18
+           U4       20
+           U4       21
+           U4       22
+           U4       9
+
+I2C_SCL    J11      21
+           U1       6
+
+I2C_SDA    J11      19
+           U1       5
+
+LORA_!CS!  J11      49
+           R17      1
+           U4       15
+
+LORA_!RST! J11      55
+           R16      1
+           U4       8
+
+LORA_D0    J11      47
+           U4       7
+
+LORA_D1    J11      57
+           U4       6
+
+LORA_D2    J11      59
+           U4       5
+
+LORA_RXEN  J11      53
+           R18      2
+           U4       17
+
+LORA_TXEN  J11      51
+           R19      2
+           U4       16
+
+N$1        E1       SIG
+           U4       19
+
+N$2        Q2       1
+           Q8       3
+           R1       1
+
+N$3        Q6       1
+           Q9       3
+           R3       1
+
+N$4        J11      71
+           R2       2
+
+N$5        D5       A
+           R11      1
+
+N$6        PWR_LED  1
+           R11      2
+
+PWR_EN     Q8       1
+           Q9       1
+           R2       1
+           R6       2
+
+SPI_CIPO   J11      7
+           U4       13
+
+SPI_COPI   J11      5
+           U4       14
+
+SPI_SCK    J11      3
+           U4       12
+
+VCC        MEAS     1
+           MEAS     3
+           Q6       3
+
+VCC_IN     J11      72
+           J11      74
+           Q6       2
+           R3       2
+

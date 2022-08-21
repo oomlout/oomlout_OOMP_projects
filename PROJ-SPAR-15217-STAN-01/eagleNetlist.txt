@@ -1,0 +1,78 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         C2       2
+         J1       1
+         J2       GND
+         J2       GND2
+         J2       SHLD1
+         J2       SHLD2
+         J2       SHLD3
+         J2       SHLD4
+         J2       SHLD5
+         J2       SHLD6
+         J2       SHLD7
+         J2       SHLD8
+         J3       2
+         R4       1
+         R5       P$1
+         R6       1
+         R7       P$1
+         R8       1
+         R9       1
+         U1       P$11
+         U1       P$5
+
+N$4      D1       C
+         R3       1
+
+N$5      D2       C
+         R2       1
+
+N$6      D3       C
+         R1       1
+
+N$9      J2       B5
+         R8       2
+
+N$13     J2       A5
+         R9       2
+
+PG       R3       2
+         U1       P$7
+
+PROG     R4       2
+         R5       P$2
+         U1       P$6
+
+STAT1    R1       2
+         U1       P$3
+
+STAT2    R2       2
+         U1       P$4
+
+THERM    R6       2
+         R7       P$2
+         U1       P$8
+
+VDD      C1       1
+         D1       A
+         D2       A
+         D3       A
+         J2       VBUS1
+         J2       VBUS2
+         U1       P$1
+         U1       P$2
+
+V_BATT   C2       1
+         J1       2
+         J3       1
+         U1       P$10
+         U1       P$9
+

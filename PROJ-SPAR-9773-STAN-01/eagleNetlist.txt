@@ -1,0 +1,22 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 23:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      J1       2
+         J2       GND
+         J2       GNDBREAK
+         J3       2
+
+VIN      F1       1
+         F2       P$1
+         J1       1
+         J2       PWR
+
+VOUT     F1       3
+         F2       P$2
+         J3       1
+

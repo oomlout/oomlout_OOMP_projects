@@ -1,0 +1,65 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 00:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+BUTTON   BUTTONS  1
+         LED+1    1
+         LED1     A
+         MB3      P$1
+         MB9      P$1
+         S2       1
+
+GND      BAT1     NEGATIVE
+         BATB-    1
+         BATB-2   1
+         LED-1    1
+         LED-2    1
+         LED-3    1
+         MB-      P$1
+         MB6      P$1
+         MB7      P$1
+         MB8      P$1
+         R1       2
+         R2       2
+         R3       2
+
+N$1      BAT1     POSITIVE@1
+         BAT1     POSITIVE@2
+         BAT1     POSITIVE@3
+         BAT1     POSITIVE@4
+         S1       2
+
+N$11     LED1     C
+         R1       1
+
+N$12     LED2     C
+         R2       1
+
+N$13     LED3     C
+         R3       1
+
+SWITCH   LED+2    1
+         LED+3    1
+         LED2     A
+         LED3     A
+         MB10     P$1
+         MB4      P$1
+         MB5      P$1
+         S3       2
+         SLIDEOFF 1
+
+VCC      BATT+    1
+         BATT+2   1
+         BUTTON-  1
+         MB+      P$1
+         MB1      P$1
+         MB2      P$1
+         S1       1
+         S2       3
+         S3       3
+         SLIDEON  1
+

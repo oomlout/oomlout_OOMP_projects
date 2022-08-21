@@ -1,0 +1,133 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   C9       1
+         TP4      P$1
+         U2       30
+
+3.3V     J3       2
+         J4       2
+         JP6      2
+         R4       2
+         R5       2
+         TP1      P$1
+         U1       12
+
+AOUT1    J2       1
+         U1       2
+
+AOUT2    J2       2
+         U1       3
+
+BOUT1    J2       3
+         U1       4
+
+BOUT2    J2       4
+         U1       5
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       2
+         D1       C
+         J1       1
+         J3       1
+         J4       1
+         JP1      1
+         JP2      1
+         JP3      1
+         JP4      1
+         U1       6
+         U1       PAD
+         U2       34
+         U2       9
+         U2       EP
+
+MODEB0   JP1      2
+         U2       22
+
+MODEB1   JP2      2
+         U2       23
+
+MODEB2   JP3      2
+         U2       24
+
+MODEB3   JP4      2
+         U2       25
+
+N$1      C8       1
+         U2       31
+
+N$3      C5       1
+         C6       1
+         R5       1
+         U2       33
+
+N$4      C7       1
+         U2       40
+
+N$10     D1       A
+         R1       2
+
+N$11     JP6      1
+         R3       1
+
+N$12     JP6      3
+         R2       1
+
+P2.0     U1       11
+         U2       1
+
+P2.1     U1       10
+         U2       2
+
+P2.2     U1       9
+         U2       3
+
+P2.3     U1       8
+         U2       4
+
+P2.4     U1       7
+         U2       5
+
+P3.2     TP2      P$1
+         U2       12
+
+P3.3     TP3      P$1
+         U2       13
+
+SCL      J3       4
+         J4       4
+         R3       2
+         TP6      P$1
+         U2       26
+
+SDA      J3       3
+         J4       3
+         R2       2
+         TP5      P$1
+         U2       27
+
+SLED     R1       1
+         U2       14
+
+VDDD     C3       1
+         C4       1
+         R4       1
+         U2       32
+
+VIN      C1       1
+         C2       1
+         J1       2
+         U1       1
+

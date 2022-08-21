@@ -1,0 +1,38 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       J1       5V
+         J2       5V
+         JP1      4
+         JP2      5
+
+12V      J2       12V
+         JP2      6
+
+CLOCK    J1       D5
+         JP2      2
+
+ENABLE   J1       D6
+         JP2      3
+
+GND      J1       GND@0
+         J1       GND@1
+         J1       GND@2
+         J2       GND
+         JP1      1
+         JP2      1
+
+SCL      J1       SCL
+         JP1      2
+
+SDA      J1       SDA
+         JP1      3
+
+SER_OUT  J1       D7
+         JP2      4
+

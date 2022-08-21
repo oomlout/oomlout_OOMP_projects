@@ -1,0 +1,52 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+FEED1    J1       FEED
+         Y7       1
+
+FEED2    J5       FEED
+         Y5       FEED
+
+FEED3    J2       FEED
+         Y2       S
+
+FEED4    J3       FEED
+         Y3       FEED
+
+FEED5    J4       FEED
+         R1       1
+
+FEED6    J6       FEED
+         Y6       FEED
+
+GND      J1       1
+         J1       2
+         J2       1
+         J2       2
+         J3       1
+         J3       2
+         J4       1
+         J4       2
+         J5       1
+         J5       2
+         J6       1
+         J6       2
+         Y2       1
+         Y2       2
+         Y2       3
+         Y3       GND
+         Y4       1
+         Y4       2
+         Y4       3
+         Y6       GND
+         Y7       2
+         Y7       3
+
+N$5      R1       2
+         Y4       FEED
+

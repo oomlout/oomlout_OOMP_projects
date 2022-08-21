@@ -1,0 +1,272 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!FBLEDEN U1       14
+         U2       1
+         U2       10
+         U2       13
+         U2       4
+         U6       1
+         U6       10
+         U6       13
+         U6       4
+
+!IRLEDEN Q1       1
+         U1       13
+
+A0       SJ1      2
+         U1       26
+
+A1       SJ2      2
+         U1       10
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       C
+         D1       C
+         D2       C
+         D3       C
+         D4       C
+         D5       C
+         D6       C
+         D7       C
+         D8       C
+         D9       C
+         JP1      1
+         JP1      2
+         Q1       2
+         R16      2
+         R16      3
+         SJ1      3
+         SJ2      3
+         U1       17
+         U1       29
+         U1       3
+         U101     2
+         U101     4
+         U102     2
+         U102     4
+         U103     2
+         U103     4
+         U104     2
+         U104     4
+         U105     2
+         U105     4
+         U106     2
+         U106     4
+         U107     2
+         U107     4
+         U108     2
+         U108     4
+         U2       7
+         U3       2
+         U6       7
+
+I2C_PWR  C3       1
+         C4       1
+         C7       1
+         R10      2
+         R12      2
+         R14      2
+         R22      2
+         R26      2
+         R27      2
+         R28      2
+         R31      1
+         R33      1
+         R34      1
+         R4       2
+         SJ5      3
+         U1       12
+         U1       18
+         U1       4
+         U2       14
+         U3       5
+         U6       14
+
+INT      JP2      1
+         U1       9
+
+LED_BIAS C1       1
+         R1       1
+         R11      1
+         R13      1
+         R2       2
+         R21      1
+         R23      1
+         R24      1
+         R25      1
+         R3       1
+         R9       1
+         U5       2
+         U5       4
+
+N$1      Q1       3
+         R1       2
+         R16      1
+         U5       1
+
+N$2      R3       2
+         U101     1
+
+N$3      R21      2
+         U105     1
+
+N$4      R30      2
+         SJ3      1
+
+N$5      D1       A
+         R5       2
+
+N$6      C5       1
+         U3       4
+
+N$7      D2       A
+         R6       2
+
+N$8      R32      2
+         SJ3      3
+
+N$9      D3       A
+         R7       2
+
+N$10     R34      2
+         SJ2      1
+
+N$11     D4       A
+         R8       2
+
+N$12     R9       2
+         U102     1
+
+N$13     R23      2
+         U106     1
+
+N$14     R11      2
+         U103     1
+
+N$15     R24      2
+         U107     1
+
+N$16     R13      2
+         U104     1
+
+N$17     R25      2
+         U108     1
+
+N$18     D9       A
+         R2       1
+
+N$19     SJ3      2
+         SJ5      2
+
+N$20     D5       A
+         R17      2
+
+N$21     R33      2
+         SJ1      1
+
+N$22     D6       A
+         R18      2
+
+N$24     D7       A
+         R19      2
+
+N$26     D8       A
+         R20      2
+
+SCL      JP1      5
+         R30      1
+         U1       25
+
+SDA      JP1      6
+         R32      1
+         U1       24
+
+SEN0     R4       1
+         U101     3
+         U2       2
+
+SEN0BUF  R5       1
+         U1       27
+         U2       3
+
+SEN1     R10      1
+         U102     3
+         U2       5
+
+SEN1BUF  R6       1
+         U1       28
+         U2       6
+
+SEN2     R12      1
+         U103     3
+         U2       12
+
+SEN2BUF  R7       1
+         U1       1
+         U2       11
+
+SEN3     R14      1
+         U104     3
+         U2       9
+
+SEN3BUF  R8       1
+         U1       2
+         U2       8
+
+SEN4     R22      1
+         U105     3
+         U6       2
+
+SEN4BUF  R17      1
+         U1       5
+         U6       3
+
+SEN5     R26      1
+         U106     3
+         U6       5
+
+SEN5BUF  R18      1
+         U1       6
+         U6       6
+
+SEN6     R27      1
+         U107     3
+         U6       12
+
+SEN6BUF  R19      1
+         U1       7
+         U6       11
+
+SEN7     R28      1
+         U108     3
+         U6       9
+
+SEN7BUF  R20      1
+         U1       8
+         U6       8
+
+VCC      C2       1
+         C8       A
+         JP1      3
+         JP1      4
+         SJ5      1
+         U3       1
+         U3       3
+         U5       3
+
+~RESET   C6       1
+         R31      2
+         U1       23
+

@@ -1,0 +1,132 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ADDR0    JP2      2
+         U1       20
+
+ADDR1    JP1      2
+         U1       21
+
+B1       J2       4
+         LED1     3
+         U1       18
+
+B2       J3       4
+         LED2     3
+         U1       16
+
+B3       J4       4
+         LED3     3
+         U1       14
+
+EN       J1       5
+         R1       1
+         U1       5
+
+G1       J2       3
+         LED1     1
+         U1       19
+
+G2       J3       3
+         LED2     1
+         U1       17
+
+G3       J4       3
+         LED3     1
+         U1       15
+
+GND      C1       2
+         C4       2
+         J1       1
+         J2       2
+         J3       2
+         J4       2
+         JP1      3
+         JP2      3
+         JP4      1
+         JP5      1
+         JP6      1
+         R3       2
+         U1       4
+         U1       6
+         U1       EP
+
+INT      J1       6
+         R2       1
+         U1       7
+
+N$1      JP6      2
+         LED3     4
+         LED3     5
+         LED3     6
+
+N$2      JP5      2
+         LED2     4
+         LED2     5
+         LED2     6
+
+N$3      JP4      2
+         LED1     4
+         LED1     5
+         LED1     6
+
+N$11     C2       1
+         U1       2
+
+N$12     C2       2
+         U1       24
+
+N$13     C3       1
+         U1       1
+
+N$14     C3       2
+         U1       23
+
+N$21     JP3      1
+         R5       2
+
+N$22     JP3      3
+         R4       2
+
+R1       J2       1
+         LED1     2
+         U1       13
+
+R2       J3       1
+         LED2     2
+         U1       12
+
+R3       J4       1
+         LED3     2
+         U1       11
+
+SCL      J1       4
+         R4       1
+         U1       9
+
+SDA      J1       3
+         R5       1
+         U1       8
+
+TRIG     J1       7
+         R3       1
+         U1       10
+
+VCC      C1       1
+         J1       2
+         JP1      1
+         JP2      1
+         JP3      2
+         R1       2
+         R2       2
+         U1       3
+
+VOUT     C4       1
+         J1       8
+         U1       22
+

@@ -1,0 +1,340 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 06:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                 Part       Pad
+
+!POWER_LOSS!        U1         2
+                    U8         D3
+
+3.3V                C2         1
+                    C40        1
+                    C41        1
+                    C54        1
+                    D6         A
+                    J14        1
+                    J4         5
+                    Q2         2
+                    R24        2
+                    R25        2
+                    R45        2
+                    R47        2
+                    R49        2
+                    U1         3
+                    U10        10
+                    U10        7
+                    U14        1
+                    U3         5
+
+5V                  C3         1
+                    D1         C
+                    D2         A
+                    J5         VBUS1
+                    J5         VBUS2
+                    JP2        1
+                    JP2        3
+                    U2         4
+
+ARTEMIS_!RESET      C42        2
+                    C44        1
+                    J14        10
+                    J7         1
+                    R28        1
+                    S3         3
+                    S3         4
+                    U8         ~RST
+
+ARTEMIS_!RTS!       C42        1
+                    C43        1
+                    U10        4
+
+ARTEMIS_BOOT        C43        2
+                    R29        2
+                    U8         BOOT
+
+ARTEMIS_RX0         D11        C
+                    U10        8
+                    U8         RXI-0
+
+ARTEMIS_SWDCK       J14        4
+                    U8         SWDCK
+
+ARTEMIS_SWDIO       J14        2
+                    U8         SWDIO
+
+ARTEMIS_TX0         D12        C
+                    U10        9
+                    U8         TXO-0
+
+ARTEMIS_~AD11       J4         1
+                    U8         ~AD11
+
+ARTEMIS_~AD12/TX1   J4         3
+                    U8         ~AD12
+
+ARTEMIS_~AD13/RX1   J4         2
+                    U8         ~AD13
+
+ARTEMIS_~AD32       J4         4
+                    U8         ~AD32
+
+CC3                 J5         B5
+                    R26        2
+
+CC4                 J5         A5
+                    R27        2
+
+CHG_LED             R5         1
+                    U2         1
+
+D+2                 J5         A6
+                    J5         B6
+                    U10        1
+
+D-2                 J5         A7
+                    J5         B7
+                    U10        2
+
+DAT1                J6         DAT1
+                    U8         ~D26
+
+DAT2                J6         DAT2
+                    U8         ~D4
+
+GND                 BT1        -
+                    C1         2
+                    C2         2
+                    C29        1
+                    C3         2
+                    C30        1
+                    C31        1
+                    C32        2
+                    C33        2
+                    C4         2
+                    C40        2
+                    C41        2
+                    C44        2
+                    C46        2
+                    C5         2
+                    C51        2
+                    C52        2
+                    C53        2
+                    C54        2
+                    C7         2
+                    D9         C
+                    GND        P$1
+                    J1         2
+                    J11        1
+                    J14        3
+                    J14        5
+                    J14        9
+                    J2         1
+                    J3         2
+                    J4         6
+                    J5         GND
+                    J5         GND2
+                    J6         CD1
+                    J6         GND
+                    J6         GND1
+                    J6         GND3
+                    LED1       C
+                    R26        1
+                    R27        1
+                    R29        1
+                    R3         1
+                    R4         1
+                    R6         1
+                    R8         1
+                    S3         1
+                    S3         2
+                    U1         1
+                    U10        3
+                    U13        18
+                    U13        20
+                    U14        2
+                    U2         2
+                    U3         2
+                    U4         2
+                    U8         GND@1
+                    U8         GND@22
+                    U8         GND@38
+                    U8         GND@39
+                    U8         GND@47
+                    U8         GND@59
+
+ICM-20948-LV_!CS!   Q9         2
+                    R46        1
+                    U13        22
+
+ICM-20948-LV_#_1.8V C52        1
+                    C53        1
+                    Q1         1
+                    Q10        1
+                    Q3         1
+                    Q7         1
+                    Q9         1
+                    R40        2
+                    R41        2
+                    R44        2
+                    R46        2
+                    R48        2
+                    U13        13
+                    U13        8
+                    U14        5
+
+ICM-20948-LV_INT    Q7         2
+                    R44        1
+                    U13        12
+
+ICM-20948-LV_SCK    Q1         2
+                    R40        1
+                    U13        23
+
+ICM-20948-LV_SDI    Q3         2
+                    R41        1
+                    U13        24
+
+ICM-20948-LV_SDO    Q10        2
+                    R48        1
+                    U13        9
+
+ICM_!CS!            Q9         3
+                    R47        1
+                    U8         ~D44
+
+ICM_INT             Q7         3
+                    R45        1
+                    U8         ~D37
+
+ICM_PWR             U14        3
+                    U8         ~D27
+
+MICROSD_!CS!        J6         CS/DAT3
+                    U8         ~D23
+
+MICROSD_PWR         Q2         1
+                    U8         D15
+
+N$1                 J5         SHLD1
+                    J5         SHLD2
+                    J5         SHLD3
+                    J5         SHLD4
+                    R8         2
+
+N$7                 R4         2
+                    U2         5
+
+N$11                D2         C
+                    R5         2
+
+N$20                C29        2
+                    U8         XO
+                    Y3         P$2
+
+N$21                C30        2
+                    U8         XI
+                    Y3         P$1
+
+N$24                LED1       A
+                    R22        1
+
+N$25                D9         A
+                    R23        1
+
+N$26                D12        A
+                    R25        1
+
+N$27                D11        A
+                    R24        1
+
+N$30                C51        1
+                    U13        10
+
+PWR_LED             R22        2
+                    U8         ~AD29
+
+QWIIC_3.3V          C5         1
+                    C7         1
+                    J11        2
+                    QWIIC_3.3V P$1
+                    U4         5
+
+QWIIC_PWR           R3         2
+                    U4         3
+                    U8         ~D18
+
+RTC_BAT+            BT1        +
+                    D3         A
+                    R1         1
+                    TP1        P$1
+
+SCK                 J6         SCLK
+                    Q1         3
+                    U8         ~D5
+
+SCL                 J11        4
+                    SCL        P$1
+                    U8         D8
+
+SDA                 J11        3
+                    SDA        P$1
+                    U8         D9
+
+SDI                 J6         DO/DAT0
+                    Q10        3
+                    R49        1
+                    U8         ~D22
+                    U8         ~D6
+
+SDO                 J6         DI/CMD
+                    Q3         3
+                    U8         D7
+
+SD_PWR              C46        1
+                    J6         VCC
+                    Q2         3
+
+STATLED             R23        2
+                    U8         ~D19
+
+SWO                 J14        6
+                    U8         ~AD33/SWO
+
+VCC_1               C31        2
+                    C32        1
+                    C33        1
+                    D3         C
+                    D6         C
+                    R1         2
+                    R28        2
+                    U8         VDD@36
+                    U8         VDD@37
+
+VIN                 C1         1
+                    JP2        2
+                    JP2        4
+                    R2         2
+                    R7         2
+                    U3         1
+                    U4         1
+
+VIN/3               R6         2
+                    R7         1
+                    U8         AD34
+
+VREG_EN             J3         1
+                    R2         1
+                    U3         3
+                    VE         2
+
+VREG_EN1            U8         ~D25
+                    VE         1
+
+V_BATT              C4         1
+                    D1         A
+                    J1         1
+                    J2         2
+                    U2         3
+

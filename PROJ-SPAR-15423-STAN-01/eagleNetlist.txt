@@ -1,0 +1,153 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     J4       1
+           R4       1
+           S2       3
+           S2       4
+           U3       RES
+
+3.3V       C1       1
+           C2       1
+           C3       1
+           J1       2
+           J2       2
+           JP1      2
+           R2       2
+           R4       2
+           U1       5
+           U2       3
+           U2       7
+           U2       8
+           U3       VDD
+           U3       VDDIN
+
+D+         J5       D+
+           U3       PA25
+
+D-         J5       D-
+           U3       PA24
+
+D5         J3       3
+           U3       PA00
+
+D6         J3       2
+           U3       PA01
+
+D7         J3       1
+           U3       PA04
+
+D13        R5       2
+           U3       PA10
+
+DAC        J3       7
+           U3       PA02
+
+FLASH_CS   R2       1
+           U2       1
+           U3       PA19
+
+FLASH_MISO U2       2
+           U3       PA18
+
+FLASH_MOSI U2       5
+           U3       PA16
+
+FLASH_SCK  U2       6
+           U3       PA17
+
+GND        C1       2
+           C2       2
+           C3       2
+           C4       1
+           D2       C
+           D3       C
+           J1       1
+           J2       1
+           J4       2
+           J5       GND
+           J5       SHIELD
+           J5       SHIELD10
+           J5       SHIELD2
+           J5       SHIELD3
+           J5       SHIELD4
+           J5       SHIELD5
+           J5       SHIELD6
+           J5       SHIELD7
+           J5       SHIELD8
+           J5       SHIELD9
+           J6       1
+           R1       1
+           S2       1
+           S2       2
+           U1       2
+           U2       4
+           U3       GND
+           U3       GNDANA
+           U3       PAD
+
+MISO       J3       5
+           U3       PA05
+
+MOSI       J3       6
+           U3       PA06
+
+N$1        D3       A
+           R3       1
+
+N$2        JP1      1
+           R3       2
+
+N$4        D2       A
+           R5       1
+
+RX         J7       2
+           U3       PA23
+
+SCK        J3       4
+           U3       PA07
+
+SCL        J1       4
+           J2       4
+           U3       PA09
+
+SDA        J1       3
+           J2       3
+           U3       PA08
+
+SWCLK      J4       3
+           U3       PA30
+
+SWDIO      J4       4
+           TP3      P$1
+           U3       PA31
+
+TX         J7       1
+           U3       PA22
+
+VDDCORE    C4       2
+           U3       VDDCORE
+
+VIN        S1       2
+           U1       1
+           U1       3
+
+VIN1       D1       C
+           Q1       2
+           S1       3
+
+V_BATT     J6       2
+           Q1       3
+           TP2      P$1
+
+V_USB      D1       A
+           J5       VBUS
+           Q1       1
+           R1       2
+           TP1      P$1
+

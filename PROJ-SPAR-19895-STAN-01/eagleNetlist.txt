@@ -1,0 +1,105 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 20:19
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part      Pad
+
+!ISM_CS! JP1       2
+         R3        1
+         U1        P12
+
+!MAG_CS! JP3       4
+         R7        1
+         U2        4
+
+3.3V     C1        1
+         C3        1
+         C4        1
+         I2C_PU    2
+         J1        2
+         J2        2
+         JP1       5
+         R3        2
+         R4        2
+         R5        2
+         R7        2
+         U1        P5
+         U1        P8
+         U2        13
+         U2        2
+
+CAP      C2        1
+         U2        10
+
+GND      C1        2
+         C2        2
+         C3        2
+         C4        2
+         J1        1
+         J2        1
+         JP1       6
+         LED       1
+         R6        1
+         SCX       1
+         SDX       1
+         U1        P6
+         U1        P7
+         U2        11
+         U2        9
+
+ISM_INT1 JP3       1
+         U1        P4
+
+ISM_INT2 JP3       2
+         U1        P9
+
+MAG_INT  JP3       3
+         U2        15
+
+N$1      6DOF_ADDR 3
+         R5        1
+
+N$2      D1        A
+         R4        1
+
+N$3      D1        C
+         LED       2
+
+N$5      I2C_PU    1
+         R1        2
+
+N$6      I2C_PU    3
+         R2        2
+
+N$7      6DOF_ADDR 1
+         R6        2
+
+POCI/SA0 6DOF_ADDR 2
+         JP1       1
+         U1        P1
+         U2        5
+
+SCL/SCK  J1        4
+         J2        4
+         JP1       3
+         R1        1
+         U1        P13
+         U2        1
+
+SCX      JP3       6
+         SCX       2
+         U1        P3
+
+SDA/PICO J1        3
+         J2        3
+         JP1       4
+         R2        1
+         U1        P14
+         U2        16
+
+SDX      JP3       5
+         SDX       2
+         U1        P2
+

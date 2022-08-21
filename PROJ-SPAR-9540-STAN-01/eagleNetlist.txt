@@ -1,0 +1,53 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CSA      JP1      11
+         L298N    1
+
+CSB      JP1      4
+         L298N    15
+
+ENA      JP1      13
+         L298N    6
+
+ENB      JP1      6
+         L298N    11
+
+GND      JP1      12
+         L298N    8
+
+IN1      JP1      9
+         L298N    5
+
+IN2      JP1      8
+         L298N    7
+
+IN3      JP1      3
+         L298N    10
+
+IN4      JP1      2
+         L298N    12
+
+OUT1     JP1      15
+         L298N    2
+
+OUT2     JP1      10
+         L298N    3
+
+OUT3     JP1      5
+         L298N    13
+
+OUT4     JP1      1
+         L298N    14
+
+VLS      JP1      7
+         L298N    9
+
+VS       JP1      14
+         L298N    4
+

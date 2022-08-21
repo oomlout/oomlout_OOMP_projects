@@ -1,0 +1,132 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 23:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+*IRQ     IC1      1
+         U1       D2
+
+3.3V     C2       1
+         IC1      20
+         Q1       1
+         Q2       1
+         R3       2
+         R5       2
+         R6       2
+         U1       3.3V
+
+5V       R2       2
+         R4       2
+         U1       5V
+
+A0       U1       A0
+
+A1       U1       A1
+
+A2       U1       A2
+
+A3       U1       A3
+
+AREF     U1       AREF
+
+D3       U1       D3
+
+D4       U1       D4
+
+D5       U1       D5
+
+D6       U1       D6
+
+D7       U1       D7
+
+D8       U1       D8
+
+D9       U1       D9
+
+D10      U1       D10
+
+D11      U1       D11
+
+D12      U1       D12
+
+D13      U1       D13
+
+ELE9     IC1      17
+         JP5      3
+
+ELE10    IC1      18
+         JP5      2
+
+ELE11    IC1      19
+         JP5      1
+
+GND      C1       2
+         C2       2
+         IC1      6
+         R1       1
+         SJ1      1
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+
+IOREF    U1       IOREF
+
+N$1      IC1      4
+         SJ1      2
+
+N$2      R6       1
+         SJ1      3
+
+PAD1     IC1      16
+
+PAD2     IC1      13
+
+PAD3     IC1      10
+
+PAD4     IC1      15
+
+PAD5     IC1      12
+
+PAD6     IC1      9
+
+PAD7     IC1      14
+
+PAD8     IC1      11
+
+PAD9     IC1      8
+
+RESET    U1       RES
+
+REXT     IC1      7
+         R1       2
+
+RX       U1       RX
+
+SCL_H    Q2       3
+         R4       1
+         U1       A5
+         U1       SCL
+
+SCL_L    IC1      2
+         Q2       2
+         R5       1
+
+SDA_H    Q1       3
+         R2       1
+         U1       A4
+         U1       SDA
+
+SDA_L    IC1      3
+         Q1       2
+         R3       1
+
+TX       U1       TX
+
+VIN      U1       VIN
+
+VREG     C1       1
+         IC1      5
+

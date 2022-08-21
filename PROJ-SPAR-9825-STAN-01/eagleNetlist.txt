@@ -1,0 +1,130 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 23:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+CTL         R10      1
+            U1       8
+            U2       1
+            U2       10
+            U2       13
+            U2       4
+
+D+          LED1     A
+            R1       1
+            X2       D+
+
+D-          LED2     A
+            R2       1
+            R3       1
+            X2       D-
+
+GND         C1       C
+            C2       2
+            C3       2
+            C4       2
+            JP2      6
+            JP3      10
+            JP3      4
+            JP3      6
+            JP3      8
+            LED1     C
+            LED2     C
+            R4       1
+            R5       1
+            R9       1
+            U1       10
+            U2       7
+            X2       GND
+
+MISO'       JP2      1
+            U1       18
+            U2       8
+
+MOSI'       JP2      4
+            U1       17
+            U2       5
+
+N$1         R3       2
+            U1       11
+
+N$2         D2       A
+            U1       9
+
+N$3         D3       C
+            R9       2
+
+N$4         F1       1
+            X2       VBUS
+
+N$5         C3       1
+            Q1       3
+            U1       4
+
+N$6         C4       1
+            Q1       1
+            U1       5
+
+N$17        D1       A
+            U1       12
+
+N$18        D1       C
+            R4       2
+
+N$19        D2       C
+            R5       2
+
+N$22        R7       1
+            U2       6
+
+N$25        R8       1
+            U2       11
+
+PD+         R1       2
+            U1       6
+
+PD-         R2       2
+            U1       7
+
+RST         JP2      5
+            R6       1
+            U1       1
+
+RST'        U1       16
+            U2       2
+
+SCK'        JP2      3
+            U1       19
+            U2       12
+
+TARGET-MISO JP3      9
+            U2       9
+
+TARGET-MOSI JP3      1
+            R7       2
+
+TARGET-PWR  JP3      2
+            R10      2
+            S1       2
+            U2       14
+
+TARGET-RST  JP3      5
+            U2       3
+
+TARGET-SCK  JP3      7
+            R8       2
+
+VCC         C1       A
+            C2       1
+            D3       A
+            F1       2
+            JP1      1
+            JP1      2
+            JP2      2
+            R6       2
+            S1       1
+            U1       20
+

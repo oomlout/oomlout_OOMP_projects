@@ -1,0 +1,80 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 23:13
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+3.3V       U1       3.3V
+
+5V         U1       5V
+           U2       H1
+           U2       V1
+
+A2         U1       A2
+
+A3         U1       A3
+
+A4         U1       A4
+
+A5         U1       A5
+
+AREF       U1       AREF
+
+D3         S1       1
+           U1       D3
+
+D4         S2       1
+           U1       D4
+
+D5         S3       1
+           U1       D5
+
+D6         S4       1
+           U1       D6
+
+D7         U1       D7
+
+D8         U1       D8
+
+D9         U1       D9
+
+D10        U1       D10
+
+D11        U1       D11
+
+D12        U1       D12
+
+D13        U1       D13
+
+GND        S1       3
+           S2       3
+           S3       3
+           S4       3
+           S6       1
+           U1       GND@0
+           U1       GND@1
+           U1       GND@2
+           U2       B2A
+           U2       H3
+           U2       V3
+
+HORIZONTAL U1       A1
+           U2       H2
+
+N$1        S6       3
+           U1       RES
+
+RX         U1       RX
+
+SEL        U1       D2
+           U2       B1A
+
+TX         U1       TX
+
+VERTICAL   U1       A0
+           U2       V2
+
+VIN        U1       VIN
+

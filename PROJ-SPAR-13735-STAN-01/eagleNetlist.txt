@@ -1,0 +1,29 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+B        R2       1
+         U$9      1
+
+BLU      D2       3
+         R2       2
+
+G        R3       1
+         U$8      1
+
+GND      D2       4
+         U$10     1
+
+GRN      D2       2
+         R3       2
+
+R        R1       1
+         U$7      1
+
+RED      D2       1
+         R1       2
+

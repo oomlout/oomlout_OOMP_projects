@@ -1,0 +1,108 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 00:00
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+!RESET       J7       2
+             R2       1
+             U1       22
+
+3.3V         C4       2
+             D2       A
+             FB1      1
+             J2       2
+             J3       2
+             J4       2
+             JP1      2
+             L1       2
+             R2       2
+
+BACKUP       B1       +
+             C3       1
+             R5       1
+             U1       8
+
+EXT_ANT      J1       FEED
+             L1       1
+             U1       2
+
+GND          B1       -
+             C1       2
+             C2       2
+             C3       2
+             C4       1
+             D1       C
+             J1       1
+             J1       2
+             J2       1
+             J3       1
+             J4       1
+             R1       1
+             U1       1
+             U1       10
+             U1       11
+             U1       24
+             U1       3
+             U1       4
+             U1       5
+             U1       6
+             U1       9
+
+INT          J5       1
+             U1       16
+
+N$2          D1       A
+             R11      1
+
+N$4          JP5      1
+             R11      2
+
+N$5          JP1      1
+             R8       2
+
+N$6          D2       C
+             R5       2
+
+N$8          JP1      3
+             R7       2
+
+PPS          J7       3
+             JP5      2
+             U1       21
+
+RX           J7       4
+             R3       2
+
+RXLV         R3       1
+             U1       20
+
+SCL          J2       4
+             J3       4
+             J4       4
+             R7       1
+             U1       14
+
+SDA          J2       3
+             J3       3
+             J4       3
+             R8       1
+             U1       13
+
+TX           J7       5
+             R6       2
+
+TXLV         R6       1
+             U1       19
+
+VCC_FILTERED C1       1
+             C2       1
+             FB1      2
+             U1       7
+
+WAKE         J7       1
+             R1       2
+             U1       12
+

@@ -1,0 +1,356 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5VUSB    JP3      4
+         S1       3
+         S1       6
+
+ADC_2    JP2      8
+         U3       25
+
+ADC_3    JP2      7
+         U3       26
+
+ADC_4    JP2      6
+         U3       27
+
+ADC_5    JP2      5
+         U3       28
+
+ADC_6*   JP2      4
+         U3       19
+
+ADC_7*   JP2      3
+         U3       22
+
+CE/SLEEP JP4      7
+         U3       24
+         U4-DNP   9
+
+CSN      JP4      6
+         U3       14
+
+DTR      C5       1
+         R5       1
+         R6       2
+         SJ2      2
+
+EL_A     U3       32
+         U5       1
+
+EL_B     U3       1
+         U6       1
+
+EL_C     U3       2
+         U7       1
+
+EL_D     U3       9
+         U8       1
+
+EL_E     U13      1
+         U3       10
+
+EL_F     U14      1
+         U3       11
+
+EL_G     U15      1
+         U3       12
+
+EL_H     U16      1
+         U3       13
+
+FTDI_DTR JP3      1
+         R5       2
+
+FTDI_RXI JP3      3
+         R3       2
+
+GND      C1       2
+         C2       C
+         C3       C
+         C4       2
+         C6       2
+         C7       2
+         J1       1
+         J2       1
+         JP1      1
+         JP2      1
+         JP3      5
+         JP3      6
+         JP4      1
+         JP5      6
+         JP6      2
+         LED1     C
+         LED2     C
+         R1       1
+         R10      1
+         R11      1
+         R12      1
+         R13      1
+         R22      1
+         R23      1
+         R24      1
+         R25      1
+         R4       1
+         R6       1
+         RB       P$1
+         S2       3
+         U2       2
+         U3       21
+         U3       3
+         U3       5
+         U4-DNP   10
+         Y1       2
+
+HV       J3       2
+         JP7      1
+         R14      2
+         R16      2
+         R18      2
+         R20      2
+         R26      2
+         R28      2
+         R30      2
+         R32      2
+         U10      4
+         U11      4
+         U12      4
+         U17      4
+         U18      4
+         U19      4
+         U20      4
+         U9       4
+
+HVGND    J10      1
+         J11      1
+         J3       1
+         J4       1
+         J5       1
+         J6       1
+         J7       1
+         J8       1
+         J9       1
+         JP10     1
+         JP11     1
+         JP12     1
+         JP13     1
+         JP14     1
+         JP15     1
+         JP16     1
+         JP7      2
+         JP9      1
+
+INV      C2       A
+         J2       2
+         JP6      1
+         R2       2
+         RA       P$2
+         SJ1      2
+         U1       4
+
+IRQ      JP4      2
+         U3       23
+
+MISO     JP4      3
+         JP5      1
+         U3       16
+
+MOSI     JP4      4
+         JP5      4
+         U3       15
+
+N$1      U3       7
+         Y1       1
+
+N$2      R17      1
+         U10      3
+         U6       4
+
+N$3      R11      2
+         U6       2
+
+N$4      LED1     A
+         R7       1
+
+N$5      R16      1
+         U6       6
+
+N$6      U3       8
+         Y1       3
+
+N$7      R10      2
+         U5       2
+
+N$8      SJ2      1
+         U4-DNP   17
+
+N$9      J5       2
+         JP10     2
+         R17      2
+         U10      1
+
+N$10     R19      1
+         U11      3
+         U7       4
+
+N$11     R14      1
+         U5       6
+
+N$12     R12      2
+         U7       2
+
+N$13     R1       2
+         R2       1
+         RA       P$1
+         RB       P$2
+         U1       1
+
+N$14     LED2     A
+         R9       1
+
+N$15     R18      1
+         U7       6
+
+N$16     J6       2
+         JP11     2
+         R19      2
+         U11      1
+
+N$17     R21      1
+         U12      3
+         U8       4
+
+N$18     R13      2
+         U8       2
+
+N$19     R20      1
+         U8       6
+
+N$20     J7       2
+         JP12     2
+         R21      2
+         U12      1
+
+N$21     J4       2
+         JP9      2
+         R15      2
+         U9       1
+
+N$22     R27      1
+         U13      4
+         U17      3
+
+N$23     R22      2
+         U13      2
+
+N$24     R26      1
+         U13      6
+
+N$25     J8       2
+         JP13     2
+         R27      2
+         U17      1
+
+N$26     R29      1
+         U14      4
+         U18      3
+
+N$27     R23      2
+         U14      2
+
+N$28     R28      1
+         U14      6
+
+N$29     J9       2
+         JP14     2
+         R29      2
+         U18      1
+
+N$30     R31      1
+         U15      4
+         U19      3
+
+N$31     R24      2
+         U15      2
+
+N$32     R30      1
+         U15      6
+
+N$33     J10      2
+         JP15     2
+         R31      2
+         U19      1
+
+N$34     R33      1
+         U16      4
+         U20      3
+
+N$35     R25      2
+         U16      2
+
+N$36     R32      1
+         U16      6
+
+N$37     J11      2
+         JP16     2
+         R33      2
+         U20      1
+
+N$117    R15      1
+         U5       4
+         U9       3
+
+RAW      C1       1
+         S1       2
+         S1       5
+         SJ1      1
+         U1       3
+         U2       1
+         U2       3
+
+RST      C5       2
+         JP5      5
+         R8       1
+         S2       1
+         U3       29
+
+RXI      R3       1
+         R4       2
+         U3       30
+         U4-DNP   2
+
+SCK      JP4      5
+         JP5      3
+         R9       2
+         U3       17
+
+TXO      JP3      2
+         U3       31
+         U4-DNP   3
+
+VBATT    J1       2
+         JP1      2
+         S1       1
+         S1       4
+
+VCC      C3       A
+         C4       1
+         C6       1
+         C7       1
+         JP2      2
+         JP4      8
+         JP5      2
+         R7       2
+         R8       2
+         U2       5
+         U3       18
+         U3       20
+         U3       4
+         U3       6
+         U4-DNP   1
+

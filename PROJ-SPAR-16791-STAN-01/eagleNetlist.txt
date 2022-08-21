@@ -1,0 +1,231 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 05:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net           Part     Pad
+
+!CS           J2       55
+              U2       16
+
+!CS1!         R4       1
+              U1       1
+              U2       20
+
+!HOLD!        U1       7
+              U2       50
+
+!RESET        J2       6
+              R1       1
+              U2       52
+
+!WP!          U1       3
+              U2       49
+
+3.3V          C3       1
+              C5       1
+              C6       1
+              C7       1
+              C9       1
+              D3       C
+              J2       72
+              L1       1
+              R1       2
+              R2       2
+              R4       2
+              U1       8
+              U2       21
+              U2       34
+              U2       48
+              U2       56
+
+3.3V_EN       J2       4
+              U2       38
+
+3.3V_IN       D3       A
+              J2       2
+              J2       74
+
+A0/DAC        J2       34
+              U2       3
+
+A1            J2       38
+              U2       61
+
+A2/PWM0       J2       32
+              U2       62
+
+A3/PWM1       J2       47
+              U2       63
+
+A4            J2       49
+              U2       64
+
+CIPO          J2       61
+              U2       15
+
+CIPO1         U1       2
+              U2       19
+
+COPI          J2       59
+              U2       13
+
+COPI1         U1       5
+              U2       18
+
+D+/USBHOST_D+ J2       3
+              U2       46
+
+D-/USBHOST_D- J2       5
+              U2       45
+
+D0            J2       10
+              U2       5
+
+D1            J2       18
+              U2       6
+
+D2/G0         J2       40
+              U2       9
+
+D3/G1         J2       42
+              U2       10
+
+D4/G2         J2       44
+              U2       11
+
+D5/G3         J2       46
+              U2       12
+
+D6/G4         J2       48
+              U2       23
+
+D7/G5         J2       73
+              U2       24
+
+D8/G6         J2       71
+              U2       25
+
+D9/G7         J2       69
+              U2       26
+
+D10           J2       67
+              U2       31
+
+D11           J2       65
+              U2       32
+
+D13           R3       2
+              U2       44
+
+D38           J2       43
+              U2       27
+
+D39           J2       41
+              U2       28
+
+GND           C1       2
+              C10      2
+              C11      2
+              C2       2
+              C3       2
+              C4       2
+              C5       2
+              C6       2
+              C7       2
+              C8       2
+              C9       2
+              D1       C
+              J2       1
+              J2       33
+              J2       36
+              J2       39
+              J2       45
+              J2       7
+              J2       75
+              J2       GND1
+              J2       GND2
+              J2       GND3
+              U1       4
+              U2       22
+              U2       33
+              U2       47
+              U2       54
+              U2       7
+
+HOST_ENABLE   J2       8
+              U2       51
+
+I2C_!INT!     J2       16
+              U2       37
+
+I2S_CLK       J2       50
+              U2       39
+
+I2S_FS        J2       52
+              U2       41
+
+I2S_MCLK      J2       58
+              U2       40
+
+I2S_SDI       J2       54
+              U2       43
+
+I2S_SDO       J2       56
+              U2       42
+
+N$1           D1       A
+              R3       1
+
+RXI           J2       19
+              U2       59
+
+SCK           J2       57
+              U2       14
+
+SCK1          U1       6
+              U2       17
+
+SCL           J2       14
+              U2       35
+
+SCL1/TX2      J2       22
+              J2       53
+              U2       29
+
+SDA           J2       12
+              U2       36
+
+SDA1/RX2      J2       20
+              J2       51
+              U2       30
+
+SWDCK         J2       21
+              R2       1
+              U2       57
+
+SWDIO         J2       23
+              U2       58
+
+TXO           J2       17
+              U2       60
+
+VCC           C10      1
+              C11      1
+              U2       53
+
+VDDA          C4       1
+              C8       1
+              L1       2
+              U2       4
+              U2       8
+
+XIN32         C1       1
+              U2       1
+              Y1       P$1
+
+XOUT32        C2       1
+              U2       2
+              Y1       P$2
+

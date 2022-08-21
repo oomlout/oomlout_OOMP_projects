@@ -1,0 +1,224 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 00:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!CD      JP5      1
+         U1       CD2
+         U2       D8
+
+!CS      JP5      3
+         U2       D10
+         U3       3
+
+3.3V     C1       1
+         C2       1
+         C4       1
+         J2       2
+         JP7      4
+         JP9      3
+         LED1     A
+         R2       2
+         R3       2
+         U1       4
+         U2       3.3V
+         U3       1
+         U4       1
+
+5V       D1       A
+         JP7      5
+         JP9      1
+         U2       5V
+
+A0       JP6      1
+         U2       A0
+
+A1       JP6      2
+         U2       A1
+
+A2       JP6      3
+         U2       A2
+
+A3       JP6      4
+         U2       A3
+
+A4       JP6      5
+         U2       A4
+
+A5       JP6      6
+         U2       A5
+
+AREF     JP5      8
+         U2       AREF
+
+D2       JP4      3
+         U2       D2
+
+D3       JP4      4
+         U2       D3
+
+D4       JP4      5
+         U2       D4
+
+D5       JP4      6
+         U2       D5
+
+D6       JP4      7
+         U2       D6
+
+D7       JP4      8
+         S1       1
+         U2       D7
+
+D9       JP5      2
+         S2       1
+         U2       D9
+
+GND      C1       2
+         C2       2
+         C4       2
+         C5       2
+         C6       2
+         J1       GND
+         J2       1
+         JP5      7
+         JP7      6
+         JP7      7
+         JP8      10
+         R1       1
+         R7       1
+         R8       1
+         S1       3
+         S2       3
+         U1       6
+         U1       GND1
+         U1       GND3
+         U2       GND@0
+         U2       GND@1
+         U2       GND@2
+         U3       8
+         U4       4
+         U5       1
+         U5       3
+         U5       6
+         U5       PAD
+
+IOREF    JP7      2
+         U2       IOREF
+
+MISO     JP5      5
+         U1       7
+         U2       D12
+
+MOSI     JP5      4
+         U2       D11
+         U3       5
+
+N$1      LED2     C
+         R7       2
+
+N$2      U1       3
+         U3       4
+
+N$3      JP8      15
+         LED2     A
+
+N$4      U1       5
+         U3       6
+
+N$6      LED1     C
+         R1       2
+
+N$9      JP9      2
+         R4       2
+         R5       2
+         R6       2
+
+N$19     R6       1
+         U4       7
+         U4       8
+
+N$20     C5       1
+         D1       C
+         J1       VBUS
+         U5       5
+         U5       7
+         U5       8
+
+N$31     C7       1
+         R8       2
+         R9       1
+         U5       4
+
+N$32     L1       P$1
+         U5       2
+
+N$163    U1       2
+         U3       2
+
+NC       JP7      1
+
+RES      JP7      3
+         U2       RES
+
+RX       JP4      1
+         JP8      2
+         U2       RX
+
+SCK      JP5      6
+         U2       D13
+         U3       7
+
+SCL      JP5      10
+         R4       1
+         U2       SCL
+         U4       6
+
+SCL_2    J2       4
+         R2       1
+         TP1      P$1
+         U4       2
+
+SDA      JP5      9
+         R5       1
+         U2       SDA
+         U4       5
+
+SDA_2    J2       3
+         R3       1
+         TP2      P$1
+         U4       3
+
+SHIELD   J1       P$1
+         J1       P$10
+         J1       P$12
+         J1       P$2
+         J1       P$3
+         J1       P$4
+         J1       P$6
+         J1       P$8
+         J1       SHEILD2
+         J1       SHIELD
+         J1       SHIELD3
+         J1       SHIELD4
+
+TX       JP4      2
+         U2       TX
+         U3       9
+
+TX_LV    JP8      3
+         U3       10
+
+VCC      C6       1
+         C7       2
+         JP8      1
+         L1       P$2
+         R9       2
+         TP3      P$1
+
+VIN      JP7      8
+         U2       VIN
+

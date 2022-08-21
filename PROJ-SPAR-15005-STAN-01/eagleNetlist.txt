@@ -1,0 +1,186 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     JP15     3
+           U1       8
+
+!SAFE      JP15     2
+           U1       1
+
+3.3V       C4       1
+           C5       2
+           D2       A
+           J1       3
+           J2       2
+           J3       2
+           J4       2
+           JP5      2
+           R1       2
+           R15      2
+           U1       23
+           U1       7
+           U2       5
+
+5V         C6       1
+           D5       5
+           J1       2
+           J6       VBUS
+           U2       1
+           U2       3
+
+ANT_VCC    C1       1
+           FB1      2
+           R14      1
+
+BACKUP     B1       +
+           C3       1
+           R5       1
+           U1       22
+
+D+         D5       4
+           R9       1
+
+D-         D5       6
+           R10      1
+
+D_SEL      JP4      2
+           U1       2
+
+FENCE_STAT JP15     6
+           JP3      2
+           U1       16
+
+GND        B1       -
+           C1       2
+           C3       2
+           C4       2
+           C5       1
+           C6       2
+           D1       C
+           D3       C
+           D4       C
+           D5       2
+           J1       1
+           J13      1
+           J13      2
+           J2       1
+           J3       1
+           J4       1
+           J6       GND
+           JP4      1
+           LED2     C
+           R15      1
+           U1       10
+           U1       12
+           U1       13
+           U1       24
+           U2       2
+
+GPS_ANT1   FB1      1
+           J13      FEED
+           U1       11
+
+INT        JP15     1
+           U1       4
+
+N$1        D3       A
+           R12      1
+
+N$2        D1       A
+           R11      1
+
+N$3        JP2      1
+           R12      2
+
+N$4        JP1      1
+           R11      2
+
+N$5        JP5      1
+           R8       2
+
+N$6        D2       C
+           R5       2
+
+N$7        D4       A
+           R13      1
+
+N$8        JP5      3
+           R7       2
+
+N$9        JP3      1
+           R13      2
+
+N$10       LED2     A
+           R1       1
+
+N$11       R9       2
+           U1       6
+
+N$12       R10      2
+           U1       5
+
+N$13       R14      2
+           U1       9
+
+PPS        JP1      2
+           JP15     4
+           U1       3
+
+RTK_STAT   JP15     5
+           JP2      2
+           U1       15
+
+RXI/MOSI   J1       5
+           R6       2
+
+RXLV       R6       1
+           U1       21
+
+SCL/SCK    J1       7
+           J2       4
+           J3       4
+           J4       4
+           R4       2
+           R7       1
+
+SCL_LV     R4       1
+           U1       19
+
+SDA/!CS    J1       4
+           J2       3
+           J3       3
+           J4       3
+           R2       2
+           R8       1
+
+SDA_LV     R2       1
+           U1       18
+
+SHLD       J6       SHIELD
+           J6       SHIELD10
+           J6       SHIELD2
+           J6       SHIELD3
+           J6       SHIELD4
+           J6       SHIELD5
+           J6       SHIELD6
+           J6       SHIELD7
+           J6       SHIELD8
+           J6       SHIELD9
+
+TXLV       R3       1
+           U1       20
+
+TXO/MISO   J1       6
+           R3       2
+
+USB_D+     D5       3
+           J6       D+
+
+USB_D-     D5       1
+           J6       D-
+

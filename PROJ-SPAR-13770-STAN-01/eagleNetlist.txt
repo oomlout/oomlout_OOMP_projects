@@ -1,0 +1,278 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+1.8V             C3       1
+                 JP2      12
+                 JP3      12
+                 R4       2
+                 R5       2
+                 U2       1
+
+3.3V             JP2      10
+                 JP2      8
+                 JP3      10
+                 JP3      8
+
+A0+/AIN0         JP1      7
+                 U1       4
+
+A0-/AIN1         JP1      5
+                 U1       5
+
+A1+/AIN2         JP1      3
+                 U1       6
+
+A1-/AIN3         JP1      1
+                 U1       7
+
+ADDR             SJ1      1
+                 SJ2      1
+                 SJ3      1
+                 SJ4      1
+                 U1       1
+
+DCIN             JP2      14
+                 JP3      14
+
+FAULT            JP2      19
+                 JP3      19
+
+FW_RCVR          JP2      69
+                 JP3      69
+
+GND              C1       2
+                 C2       2
+                 C3       2
+                 C4       2
+                 C5       2
+                 JP1      2
+                 JP1      6
+                 JP2      1
+                 JP2      11
+                 JP2      13
+                 JP2      15
+                 JP2      5
+                 JP2      9
+                 JP3      1
+                 JP3      11
+                 JP3      13
+                 JP3      15
+                 JP3      5
+                 JP3      9
+                 R6       1
+                 U1       3
+                 U2       4
+                 U3       2
+
+GP12_PWM0        JP2      35
+                 JP3      35
+
+GP13_PWM1        JP2      33
+                 JP3      33
+
+GP14             JP2      48
+                 JP3      48
+
+GP15             JP2      42
+                 JP3      42
+
+GP19_I2C_1_SCL   JP2      41
+                 JP3      41
+                 SJ6      3
+
+GP20_I2C_1_SDA   JP2      43
+                 JP3      43
+                 SJ5      3
+
+GP27_I2C_6_SCL   JP2      45
+                 JP3      45
+                 SJ6      1
+
+GP28_I2C_6_SDA   JP2      47
+                 JP3      47
+                 SJ5      1
+
+GP40_I2S_2_CLK   JP2      52
+                 JP3      52
+
+GP41_I2S_2_FS    JP2      54
+                 JP3      54
+
+GP42_I2S_2_RXD   JP2      50
+                 JP3      50
+
+GP43_I2S_2_TXD   JP2      56
+                 JP3      56
+
+GP44             JP2      24
+                 JP3      24
+
+GP45             JP2      26
+                 JP3      26
+
+GP46             JP2      28
+                 JP3      28
+
+GP47             JP2      30
+                 JP3      30
+
+GP48             JP2      32
+                 JP3      32
+
+GP49             JP2      34
+                 JP3      34
+
+GP77_SD_0_CD#    JP2      60
+                 JP3      60
+
+GP78_SD_0_CLK    JP2      58
+                 JP3      58
+
+GP79_SD_0_CMD    JP2      62
+                 JP3      62
+
+GP80_SD_0_DAT0   JP2      66
+                 JP3      66
+
+GP81_SD_0_DAT1   JP2      70
+                 JP3      70
+
+GP82_SD_0_DAT2   JP2      64
+                 JP3      64
+
+GP83_SD_0_DAT3   JP2      68
+                 JP3      68
+
+GP84_SD_CLK_FB   JP2      44
+                 JP3      44
+
+GP109_SPI_2_CLK  JP2      55
+                 JP3      55
+
+GP110_SPI_2_FS0  JP2      53
+                 JP3      53
+
+GP111_SPI_2_FS1  JP2      51
+                 JP3      51
+
+GP114_SPI_2_RXD  JP2      59
+                 JP3      59
+
+GP115_SPI_2_TXD  JP2      57
+                 JP3      57
+
+GP128_UART_1_CTS JP2      65
+                 JP3      65
+
+GP129_UART_1_RTS JP2      63
+                 JP3      63
+
+GP130_UART_1_RX  JP2      61
+                 JP3      61
+
+GP131_UART_1_TX  JP2      46
+                 JP3      46
+
+GP134_UART_2_RX  JP2      22
+                 JP3      22
+
+GP135_UART_2_TX  JP2      27
+                 JP3      27
+
+GP165            JP2      25
+                 JP3      25
+
+GP182_PWM2       JP2      37
+                 JP3      37
+
+GP183_PWM3       JP2      39
+                 JP3      39
+
+HV_SCL           R2       1
+                 SJ4      2
+                 U1       10
+                 U2       6
+
+HV_SDA           R1       1
+                 SJ3      2
+                 U1       9
+                 U2       5
+
+MSIC_SLP_CLK     JP2      7
+                 JP3      7
+
+N$1              R3       1
+                 U2       7
+                 U2       8
+
+N$2              R4       1
+                 SJ6      2
+                 U2       2
+
+N$3              R6       2
+                 SJ1      2
+
+N$4              R5       1
+                 SJ5      2
+                 U2       3
+
+N$5              C5       1
+                 R7       1
+
+OSC_CLK_OUT      JP2      67
+                 JP3      67
+
+PSW              JP2      21
+                 JP3      21
+
+PWRBTN#          JP2      17
+                 JP3      17
+
+RCVR_MODE        JP2      31
+                 JP3      31
+
+RESET_OUT#       JP2      36
+                 JP3      36
+
+USB_DN           JP2      18
+                 JP3      18
+
+USB_DP           JP2      16
+                 JP3      16
+
+USB_ID           JP2      3
+                 JP3      3
+
+USB_VBUS         JP2      20
+                 JP3      20
+
+VREF             JP1      4
+                 JP1      8
+                 R7       2
+                 U3       5
+
+VSYS             C1       1
+                 C2       1
+                 C4       1
+                 JP2      2
+                 JP2      4
+                 JP2      6
+                 JP3      2
+                 JP3      4
+                 JP3      6
+                 R1       2
+                 R2       2
+                 R3       2
+                 SJ2      2
+                 U1       8
+                 U3       1
+                 U3       3
+
+V_BAT_BKUP       JP2      23
+                 JP3      23
+

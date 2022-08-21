@@ -1,0 +1,260 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3V-INT   C8       1
+         U3       17
+         U3       4
+
+BATT_LVL R6       2
+         R7       1
+         U1       19
+
+BT-RTS   JP5-DNP  6
+         R10      1
+
+BT-RX    JP5-DNP  4
+         R9       1
+
+DTR      C4       1
+         S3       5
+
+EOC      U1       12
+         U5       2
+
+GND      C1       2
+         C10      1
+         C11      2
+         C12      2
+         C2       2
+         C3       2
+         C5       2
+         C6       2
+         C7       C
+         C8       2
+         C9       2
+         D1       C
+         D10      2
+         D11      2
+         D2       C
+         D3       2
+         D4       2
+         D6       2
+         D8       2
+         JP1      1
+         JP2      1
+         JP3      6
+         JP4      GND
+         JP5-DNP  3
+         JP6-DNP  10
+         JP7      2
+         JP7      4
+         JP8      2
+         R12      2
+         R15      2
+         R16      2
+         R7       2
+         S2       1
+         S2       2
+         U1       21
+         U1       3
+         U1       5
+         U2       2
+         U3       18
+         U3       21
+         U3       25
+         U3       26
+         U3       7
+         U4       1
+         U5       1
+         U6       EMITTER
+         Y1       2
+
+LIGHT    JP7      1
+         SJ1      1
+         U1       22
+
+MISO     JP3      1
+         U1       16
+
+MOSI     JP3      4
+         U1       15
+
+N$1      D1       A
+         R1       1
+
+N$2      JP10-DNP 2
+         R13      2
+
+N$3      JP10-DNP 3
+         R14      2
+
+N$4      R2       2
+         U1       2
+
+N$5      D2       A
+         R2       1
+
+N$6      C6       1
+         U2       4
+
+N$7      JP9-DNP  3
+         R11      2
+
+N$8      C3       1
+         U1       20
+
+N$9      R8       2
+         SJ1      2
+         U6       COLLECTOR
+
+N$10     U1       7
+         Y1       1
+
+N$11     JP9-DNP  4
+         R12      1
+
+N$12     JP10-DNP 5
+         R15      1
+
+N$13     JP10-DNP 4
+         R16      1
+
+N$14     U1       8
+         Y1       3
+
+RAIN     D5       2
+         D6       1
+         R11      1
+         U1       32
+
+RAIN2    JP7      8
+         JP9-DNP  2
+
+RAIN5    JP7      9
+         JP9-DNP  5
+
+RF-CTS   JP5-DNP  1
+         JP6-DNP  12
+         U1       9
+
+RF-DTR   JP6-DNP  17
+         S3       6
+         SJ2      1
+
+RF-RTS   D4       1
+         JP6-DNP  16
+         R10      2
+         SJ2      2
+         U1       10
+
+RF-RX    D3       1
+         JP6-DNP  2
+         R9       2
+         S3       3
+
+RST      C4       2
+         JP3      5
+         R3       1
+         S2       3
+         S2       4
+         U1       29
+
+RX       S3       2
+         U1       30
+
+SCK      JP3      3
+         U1       17
+
+SCL      JP7      7
+         R5       2
+         U1       28
+         U4       3
+         U5       6
+
+SDA      JP7      6
+         R4       2
+         U1       27
+         U4       2
+         U5       7
+
+TX       JP5-DNP  5
+         JP6-DNP  3
+         U1       31
+         U3       5
+
+USB-DTR  S3       4
+         U3       2
+
+USB-RX   S3       1
+         U3       1
+
+USB_D+   JP4      D+
+         U3       15
+
+USB_D-   JP4      D-
+         U3       16
+
+VBAT     JP1      2
+         JP2      2
+         R6       1
+         S1       3
+
+VCC      C1       1
+         C10      2
+         C11      1
+         C12      1
+         C2       1
+         C7       A
+         C9       1
+         D11      1
+         D5       1
+         D7       1
+         D9       1
+         JP3      2
+         JP6-DNP  1
+         JP7      3
+         JP7      5
+         JP8      1
+         R1       2
+         R17      1
+         R3       2
+         R4       1
+         R5       1
+         R8       1
+         U1       18
+         U1       4
+         U1       6
+         U2       5
+         U4       4
+         U5       3
+         U5       4
+
+VRAW     C5       1
+         JP5-DNP  2
+         S1       2
+         U2       1
+         U2       3
+
+VUSB     JP4      VBUS
+         S1       1
+         U3       20
+
+WDIR     D7       2
+         D8       1
+         R13      1
+         R17      2
+         U1       23
+
+WSPEED   D10      1
+         D9       2
+         R14      1
+         U1       1
+
+XCLR     U1       13
+         U5       8
+

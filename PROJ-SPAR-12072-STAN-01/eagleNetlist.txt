@@ -1,0 +1,138 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C2       1
+          C4       1
+          C5       1
+          JP2      7
+          R1       2
+          R3       2
+          R4       2
+          U1       2
+          U1       4
+          U3       1
+          U5       P$19
+          U5       P$23
+
+CS_3.3V   R4       1
+          U3       12
+          U5       P$12
+
+CS_5V     JP2      4
+          U3       11
+
+EN_3.3V   U3       2
+          U5       P$26
+
+EN_5V     JP2      1
+          U3       3
+
+GND       C1       2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          D1       C
+          J1       P$1
+          J1       P$2
+          JP1      3
+          JP2      9
+          L1       2
+          L2       2
+          R2       1
+          SJ1      3
+          U3       8
+          U5       GND@37
+          U5       GND@38
+          U5       GND@39
+          U5       GND@40
+          U5       GND@41
+          U5       GND@42
+          U5       GND@43
+          U5       GND@44
+          U5       GND@45
+          U5       GND@46
+          U5       P$1
+          U5       P$10
+          U5       P$11
+          U5       P$16
+          U5       P$18
+          U5       P$20
+          U5       P$21
+          U5       P$22
+          U5       P$25
+          U5       P$31
+          U5       P$32
+          U5       P$33
+          U5       P$34
+          U5       P$36
+          U5       P$9
+
+INT_3.3V  JP2      3
+          U5       P$14
+
+MISO_3.3V JP2      5
+          U5       P$13
+
+MOSI_3.3V U3       6
+          U5       P$15
+
+MOSI_5V   JP2      6
+          U3       7
+
+N$2       R1       1
+          R2       2
+          U1       1
+
+N$3       SJ1      2
+          U5       P$5
+
+N$4       SJ1      1
+          U5       P$7
+
+N$5       C6       1
+          C7       2
+          L2       1
+
+N$6       U5       P$27
+          U5       P$28
+
+N$7       U5       P$29
+          U5       P$30
+
+N$8       C6       2
+          C8       1
+          U5       P$35
+
+N$9       C8       2
+          J1       P$3
+
+N$10      AE1      FEED
+          C7       1
+          L1       1
+
+N$11      D1       A
+          R3       1
+
+SCK_3.3V  U3       4
+          U5       P$17
+
+SCK_5V    JP2      2
+          U3       5
+
+VCC       C1       1
+          C3       1
+          JP2      8
+          U1       3
+
+WIFI_RX   JP1      2
+          U5       P$8
+
+WIFI_TX   JP1      1
+          U5       P$6
+

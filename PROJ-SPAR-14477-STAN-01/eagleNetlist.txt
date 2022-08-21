@@ -1,0 +1,105 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 00:16
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A0       JP1      12
+         JP1      A0
+
+A1       JP1      11
+         JP1      A1
+
+A2       JP1      10
+         JP1      A2
+
+A3       JP1      9
+         JP1      A3
+
+A4       JP1      8
+         JP1      A4
+
+A5       JP1      7
+         JP1      A5
+
+D2       JP1      15
+         JP1      D2
+
+D3       JP1      16
+         JP1      D3
+
+D4       JP1      17
+         JP1      D4
+
+D5       JP1      18
+         JP1      D5
+
+D6       JP1      19
+         JP1      D6
+
+D7       JP1      20
+         JP1      D7
+
+DAC      JP1      6
+         JP1      DAC
+
+GND      J1       1
+         J2       1
+         J3       1
+         J4       1
+         JP1      2
+         JP1      21
+         JP1      GND@0
+         JP1      GND@2
+         JP2      1
+         JP4      1
+         JP4      2
+         JP4      3
+
+RST      JP1      23
+         JP1      RST
+
+RX       JP1      4
+         JP1      RX
+
+SCL      J1       4
+         J2       4
+         J3       4
+         J4       4
+         JP1      14
+         JP1      D1
+         JP2      4
+
+SDA      J1       3
+         J2       3
+         J3       3
+         J4       3
+         JP1      13
+         JP1      D0
+         JP2      3
+
+TX       JP1      3
+         JP1      TX
+
+VBAT     JP1      22
+         JP1      VBAT
+
+VCC      J1       2
+         J2       2
+         J3       2
+         J4       2
+         JP1      24
+         JP1      3V3
+         JP2      2
+         JP3      1
+         JP3      2
+         JP3      3
+
+VIN      JP1      1
+         JP1      VIN
+
+WKP      JP1      5
+         JP1      WKP
+

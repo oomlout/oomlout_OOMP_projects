@@ -1,0 +1,60 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 05:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     J1       2
+         J2       2
+         J3       2
+         J4       2
+         J5       17
+         JP1      2
+         PWRREF   3
+
+5V       J5       27
+         PWRREF   1
+
+GND      J1       1
+         J2       1
+         J3       1
+         J4       1
+         J5       29
+         J5       4
+
+HV_SCL   J5       24
+         Q2       3
+         R3       1
+
+HV_SDA   J5       23
+         Q1       3
+         R1       1
+
+IOREF    PWRREF   2
+         R1       2
+         R3       2
+
+SCL      J1       4
+         J2       4
+         J3       4
+         J4       4
+         Q2       2
+         R4       1
+
+SCLJUMP  JP1      1
+         Q2       1
+         R4       2
+
+SDA      J1       3
+         J2       3
+         J3       3
+         J4       3
+         Q1       2
+         R2       1
+
+SDAJUMP  JP1      3
+         Q1       1
+         R2       2
+

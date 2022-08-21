@@ -1,0 +1,179 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+3.3V         J1       2
+             R9       2
+             U2       1
+             U2       8
+             U3       8
+             U4       2
+             U5       2
+
+5V           C1       1
+             J10      P2
+             J10      P4
+             J12      2
+             J6       P2
+             J6       P4
+             J7       3
+             J8       P2
+             J8       P4
+             U2       14
+             U6       1
+
+13           J7       4
+
+14           J7       10
+
+15           J7       8
+
+20           J7       5
+
+32           J7       9
+
+33           J7       7
+
+485/EN       J1       16
+             R7       1
+
+485/RX       J1       15
+             R8       1
+
+485/TX       J1       14
+             R9       1
+             U3       6
+
+A            J3       3
+             J4       3
+             R1       P$2
+             R2       1
+             U1       6
+
+A0           J1       5
+
+A1           J1       6
+
+A2           J1       7
+
+A3           J1       8
+
+A4           J1       9
+
+A5           J1       10
+
+B            J3       2
+             J4       2
+             R1       P$1
+             R3       2
+             U1       7
+
+DATA1        J1       12
+             U2       2
+
+DATA2        J1       13
+             U2       3
+
+DATA3        J7       6
+             U2       4
+
+EN           J7       2
+
+GND          C1       2
+             J1       4
+             J11      P1
+             J11      P3
+             J12      1
+             J5       P1
+             J5       P3
+             J9       P1
+             J9       P3
+             U2       7
+             U3       5
+             U6       2
+
+GND-ISO      C2       2
+             C3       2
+             C4       2
+             J3       1
+             J4       1
+             R3       1
+             U1       5
+             U4       5
+             U5       5
+             U6       4
+
+HV-DATA1     J5       P2
+             J5       P4
+             TP1      P$1
+             U2       13
+
+HV-DATA2     J9       P2
+             J9       P4
+             TP2      P$1
+             U2       12
+
+HV-DATA3     J11      P2
+             J11      P4
+             TP3      P$1
+             U2       11
+
+HV-LED-CLOCK J10      P1
+             J10      P3
+             J6       P1
+             J6       P3
+             J8       P1
+             J8       P3
+             TP4      P$1
+             U2       10
+
+LED-CLOCK    J1       11
+             U2       5
+
+N$1          R8       2
+             U5       3
+
+N$2          R7       2
+             U4       3
+
+N$3          R4       2
+             U1       2
+             U1       3
+             U4       6
+
+N$4          R5       2
+             U1       4
+             U5       6
+
+N$5          R6       1
+             U3       3
+
+N$6          R6       2
+             U1       1
+
+NC           J1       3
+
+RST          J1       1
+
+SCL          J7       11
+
+SDA          J7       12
+
+VBAT         J7       1
+
+VCC-ISO      C2       1
+             C3       1
+             C4       1
+             R2       2
+             R4       1
+             R5       1
+             U1       8
+             U3       2
+             U4       8
+             U5       8
+             U6       6
+

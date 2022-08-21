@@ -1,0 +1,56 @@
+Partlist
+
+Exported from boardEagle.brd at 17/08/2022 18:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value              Package             Library            Position (mm)         Orientation
+
+C1       100n               C0402               gen_comp           (10.795 37.846)       MR0
+C2       100n               C0402               gen_comp           (9.779 40.64)         MR270
+C3       22u                SMC_B               rcl                (12.573 33.401)       R90
+C4       1uF                C0402               gen_comp           (8.89 1.016)          MR0
+C5       1uF                C0402               gen_comp           (12.573 28.448)       R0
+C6       100n               C0402               gen_comp           (14.224 9.271)        MR270
+C7       1uF                C0402               gen_comp           (12.573 30.226)       R180
+C9       100n               C0402               gen_comp           (10.414 27.178)       MR0
+C10      100n               C0402               gen_comp           (7.9375 28.448)       MR180
+C11      100n               C0402               gen_comp           (12.954 22.225)       MR315
+C12      22pF               C0402               gen_comp           (6.604 29.718)        R180
+C13      22pF               C0402               gen_comp           (3.556 32.385)        R180
+C14      22u                SMC_B               rcl                (4.191 4.953)         MR270
+D+       DNP                TP-1.00MM           Arduino-utility    (6.858 9.271)         R0
+D-       DNP                TP-1.00MM           Arduino-utility    (10.922 9.271)        R0
+D2       CD1206-S01575      MINIMELF            diode              (6.858 42.291)        MR90
+F1       MF-MSMF050-2 500mA L1812               rcl                (5.207 13.081)        MR90
+J3       USB Micro          CON2_USB_MICRO_B_AT Arduino-connectors (8.89 1.4478)         R0
+J4       3x2M               2X03                gen_comp           (12.7 43.18)          R90
+J5       HEAD17-NOSS        HEAD17-NOSS         gen_comp           (1.27 44.45)          R270
+J6       HEAD17-NOSS-1      HEAD17-NOSS-1       gen_comp           (16.51 44.45)         R270
+L        green              CHIPLED_0805        led                (8.89 13.97)          R270
+L2       MH2029-300Y        0805                wuerth-elektronik  (14.859 30.48)        R270
+ON       blue               CHIPLED_0805        led                (8.89 2.921)          MR270
+R1       10K                R0402               gen_comp           (14.859 33.401)       R90
+R2       10K                R0402               gen_comp           (10.414 26.162)       MR180
+R4       10K                R0402               gen_comp           (12.065 13.97)        R0
+R5       1K                 R0402               gen_comp           (8.89 4.318)          MR0
+R6       1K                 R0402               gen_comp           (6.985 33.655)        R90
+R7       1K                 R0402               gen_comp           (6.985 35.56)         R270
+R8       1K                 R0402               gen_comp           (5.715 13.97)         R0
+R9       10K                R0402               gen_comp           (10.795 38.9382)      MR180
+RESET    TS42               TS42                Arduino            (6.223 43.053)        R270
+RP3      22R                CAY16               resistor-dil       (8.89 11.43)          MR180
+RX       yellow             CHIPLED_0805        led                (4.572 35.56)         R90
+T1       FDN340P/PMV48XP    SOT-23              zetex              (13.3985 30.48)       MR0
+T2       PMV48XP            SOT-23              zetex              (13.335 37.719)       MR180
+TX       yellow             CHIPLED_0805        led                (4.572 33.655)        R90
+U$37     DNP                FD-1-1.5            Arduino-utility    (6.223 43.053)        R0
+U$53     DNP                FD-1-1.5            Arduino-utility    (3.683 46.228)        MR0
+U1       ATMEGA32U4-XUMU    QFN44ML7X7          gen_comp           (8.89 21.59)          R225
+U2       NCP1117-5          SOT223              linear             (7.493 34.163)        MR270
+U4       LP2985-33DBVR      SOT23-DBV           gen_comp           (13.208 4.699)        MR180
+Y3       16MHz KX-7         CRYSTAL-3.2-2.5     gen_comp           (4.318 29.845)        R90
+Z1       CG0603MLC-05E      CT/CN0603           varistor           (10.033 7.874)        MR180
+Z2       CG0603MLC-05E      CT/CN0603           varistor           (10.033 6.223)        MR180

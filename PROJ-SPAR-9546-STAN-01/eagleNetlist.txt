@@ -1,0 +1,304 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+AVCC     C13      1
+         C3       1
+         JP11     2
+         U1       4
+         U1       94
+
+GND      C10      2
+         C11      2
+         C13      2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       2
+         JP10     1
+         JP10     2
+         JP11     14
+         LED1     C
+         U1       13
+         U1       23
+         U1       3
+         U1       33
+         U1       43
+         U1       53
+         U1       63
+         U1       73
+         U1       84
+         U1       93
+         U5       1
+         U6       1
+
+N$1      LED1     A
+         R1       1
+
+PA0      JP10     10
+         U1       95
+
+PA1      JP10     9
+         U1       96
+
+PA2      JP10     8
+         U1       97
+
+PA3      JP10     7
+         U1       98
+
+PA4      JP10     6
+         U1       99
+
+PA5      JP10     5
+         U1       100
+
+PA6      JP10     4
+         U1       1
+
+PA7      JP10     3
+         U1       2
+
+PB0      JP6      8
+         U1       5
+
+PB1      JP6      7
+         U1       6
+
+PB2      JP6      6
+         U1       7
+
+PB3      JP6      5
+         U1       8
+
+PB4      JP6      4
+         U1       9
+
+PB5      JP6      3
+         U1       10
+
+PB6      JP6      2
+         U1       11
+
+PB7      JP6      1
+         U1       12
+
+PC0      JP7      8
+         U1       15
+
+PC1      JP7      7
+         U1       16
+
+PC2      JP7      6
+         U1       17
+
+PC3      JP7      5
+         U1       18
+
+PC4      JP7      4
+         U1       19
+
+PC5      JP7      3
+         U1       20
+
+PC6      JP7      2
+         U1       21
+
+PC7      JP7      1
+         U1       22
+
+PD0      U1       25
+         U5       13
+
+PD1      U1       26
+         U6       13
+
+PD2      U1       27
+         U5       12
+
+PD3      U1       28
+         U6       12
+
+PD4      U1       29
+         U5       11
+
+PD5      U1       30
+         U6       11
+
+PD6      U1       31
+         U5       10
+
+PD7      U1       32
+         U6       10
+
+PDI_CLK  JP10     14
+         U1       90
+
+PDI_DATA JP10     16
+         U1       89
+
+PE0      U1       35
+         U5       9
+
+PE1      U1       36
+         U6       9
+
+PE2      U1       37
+         U5       8
+
+PE3      U1       38
+         U6       8
+
+PE4      U1       39
+         U5       7
+
+PE5      U1       40
+         U6       7
+
+PE6      U1       41
+         U5       6
+
+PE7      U1       42
+         U6       6
+
+PF0      U1       45
+         U5       5
+
+PF1      U1       46
+         U6       5
+
+PF2      U1       47
+         U5       4
+
+PF3      U1       48
+         U6       4
+
+PF4      U1       49
+         U5       3
+
+PF5      U1       50
+         U6       3
+
+PF6      U1       51
+         U5       2
+
+PF7      U1       52
+         U6       2
+
+PH0      JP8      1
+         U1       55
+
+PH1      JP8      2
+         U1       56
+
+PH2      JP8      3
+         U1       57
+
+PH3      JP8      4
+         U1       58
+
+PH4      JP8      5
+         U1       59
+
+PH5      JP8      6
+         U1       60
+
+PH6      JP8      7
+         U1       61
+
+PH7      JP8      8
+         U1       62
+
+PJ0      JP9      1
+         U1       65
+
+PJ1      JP9      2
+         U1       66
+
+PJ2      JP9      3
+         U1       67
+
+PJ3      JP9      4
+         U1       68
+
+PJ4      JP9      5
+         U1       69
+
+PJ5      JP9      6
+         U1       70
+
+PJ6      JP9      7
+         U1       71
+
+PJ7      JP9      8
+         U1       72
+
+PK0      JP11     10
+         U1       75
+
+PK1      JP11     9
+         U1       76
+
+PK2      JP11     8
+         U1       77
+
+PK3      JP11     7
+         U1       78
+
+PK4      JP11     6
+         U1       79
+
+PK5      JP11     5
+         U1       80
+
+PK6      JP11     4
+         U1       81
+
+PK7      JP11     3
+         U1       82
+
+PQ0      JP10     13
+         U1       85
+
+PQ1      JP11     13
+         U1       86
+
+PQ2      JP10     12
+         U1       87
+
+PQ3      JP11     12
+         U1       88
+
+PR0      JP10     11
+         U1       91
+
+PR1      JP11     11
+         U1       92
+
+VCC      C10      1
+         C11      1
+         C4       1
+         C5       1
+         C6       1
+         C7       1
+         C8       1
+         C9       1
+         JP11     1
+         JP11     16
+         R1       2
+         U1       14
+         U1       24
+         U1       34
+         U1       44
+         U1       54
+         U1       64
+         U1       74
+         U1       83
+

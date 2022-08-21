@@ -1,0 +1,100 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 00:30
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+C1P      C2       1
+         OLED1    4
+
+C2N      C3       2
+         OLED1    3
+
+CS       OLED1    11
+
+D/C      JP3      2
+         OLED1    13
+         R3       1
+
+D0/SCK   J1       4
+         J2       4
+         J3       4
+         OLED1    16
+         R14      1
+
+D1/MOSI  J1       3
+         J2       3
+         J3       3
+         OLED1    17
+         OLED1    18
+         R13      1
+
+D3       OLED1    19
+
+D4       OLED1    20
+
+D5       OLED1    21
+
+D6       OLED1    22
+
+D7       OLED1    23
+
+GND      C1       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         J1       1
+         J2       1
+         J3       1
+         JP3      1
+         OLED1    1
+         OLED1    10
+         OLED1    27
+         OLED1    28
+         OLED1    7
+         R1       1
+
+IREF     OLED1    24
+         R1       2
+
+N$1      C3       1
+         OLED1    2
+
+N$2      C2       2
+         OLED1    5
+
+N$4      JP2      3
+         R13      2
+
+N$5      JP2      1
+         R14      2
+
+RD/E     OLED1    15
+
+RESET    C7       1
+         OLED1    12
+         R2       2
+
+VCC      C1       1
+         OLED1    26
+
+VCOMH    C5       1
+         OLED1    25
+
+VDD      C4       1
+         C6       1
+         J1       2
+         J2       2
+         J3       2
+         JP2      2
+         OLED1    6
+         OLED1    8
+         OLED1    9
+         R2       1
+         R3       2
+
+WR/RW    OLED1    14
+

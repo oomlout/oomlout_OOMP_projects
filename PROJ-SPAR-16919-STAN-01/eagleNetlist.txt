@@ -1,0 +1,115 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 16:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       1
+         C2       1
+         C3       1
+         I2C      2
+         J3       2
+         J4       2
+         J5       2
+         L1       P$2
+         U2       1
+         U2       3
+
+5V       C4       1
+         IC1      24
+         U2       4
+
+COM_A    D2       A
+         IC1      2
+         U1       14
+
+COM_B    IC1      3
+         U1       13
+
+COM_C    IC1      4
+         U1       4
+
+COM_D    IC1      5
+         U1       3
+
+COM_E    IC1      6
+         U1       6
+
+COM_F    IC1      7
+         U1       12
+
+COM_G    IC1      8
+         U1       5
+
+DIG_1A   A1       1
+         IC1      21
+         U1       16
+
+DIG_1B   IC1      17
+         U1       1
+
+DIG_2A   A0       1
+         IC1      20
+         U1       15
+
+DIG_2B   IC1      16
+         U1       2
+
+DIG_3A   IC1      19
+         U1       11
+
+DIG_3B   IC1      15
+         U1       10
+
+DIG_4A   IC1      18
+         U1       8
+
+DIG_4B   IC1      14
+         U1       9
+
+DIG_DP   IC1      13
+         U1       7
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         IC1      1
+         J3       1
+         J4       1
+         J5       1
+         U2       2
+
+N$1      I2C      3
+         R4       2
+
+N$2      A1       2
+         R2       1
+
+N$3      A0       2
+         R3       1
+
+N$4      I2C      1
+         R5       2
+
+N$6      D2       C
+         R2       2
+         R3       2
+
+N$10     L1       P$1
+         U2       5
+
+SCL      IC1      22
+         J3       4
+         J4       4
+         J5       4
+         R5       1
+
+SDA      IC1      23
+         J3       3
+         J4       3
+         J5       3
+         R4       1
+

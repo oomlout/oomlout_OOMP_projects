@@ -1,0 +1,20 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ANODE    D1       A
+         R1       P$2
+
+CATHODE  D1       K
+         S2       1
+
+GND      BT2      2
+         S2       2
+
+VBATT    BT2      1
+         R1       P$1
+

@@ -1,0 +1,80 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 18:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!INT     J5       1
+         R11      1
+         U4       13
+
+!RST     J7       5
+         R3       1
+         U4       4
+
+3.3V     C2       1
+         D2       2
+         I2C      2
+         INT      2
+         J1       3
+         J2       2
+         J3       2
+         J7       2
+         PWR      2
+         R3       2
+         U1       VDD
+         U4       1
+
+ADR0     ADR      2
+         U4       3
+
+GND      ADR      1
+         C2       2
+         D1       C
+         D2       1
+         J1       4
+         J2       1
+         J3       1
+         J7       6
+         R5       1
+         U1       GND
+         U4       14
+
+INT_R    INT      1
+         R11      2
+
+N$3      D1       A
+         R4       1
+
+PIR_OUT  R5       2
+         U1       OUT
+         U4       12
+
+SCL      J1       1
+         J2       4
+         J3       4
+         J7       3
+         R2       1
+         U4       9
+
+SCL_PU1  I2C      1
+         R2       2
+
+SDA      J1       2
+         J2       3
+         J3       3
+         J7       4
+         R1       1
+         U4       7
+
+SDA_PU1  I2C      3
+         R1       2
+
+SDO      J7       1
+         U4       8
+
+STAT     PWR      1
+         R4       2
+

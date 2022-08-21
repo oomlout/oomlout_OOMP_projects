@@ -1,0 +1,170 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!CS_EE    J5       5
+          U1       6
+          U2       1
+
+!INT      J3       1
+          U1       9
+
+!RST      J3       2
+          R4       1
+          U1       2
+          U4       2
+
+!RST-ADDR U1       13
+          U3       2
+
+3.3V      BULB1    A
+          BULB2    A
+          BULB3    A
+          C1       1
+          C2       1
+          C3       1
+          C4       1
+          C5       1
+          C6       1
+          C7       1
+          D1       A
+          J1       2
+          J2       4
+          J4       2
+          J5       2
+          J8       2
+          JP1      2
+          JP3      2
+          JP4      2
+          JP5      2
+          JP7      2
+          R10      2
+          R3       2
+          R4       2
+          R9       2
+          U1       14
+          U1       17
+          U2       3
+          U2       7
+          U2       8
+          U3       14
+          U3       17
+          U4       14
+          U4       17
+
+GND       C1       2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          C6       2
+          C7       2
+          D4       C
+          J1       1
+          J2       6
+          J4       1
+          J5       6
+          J8       1
+          JP2      1
+          R1       1
+          R5       1
+          R7       1
+          R8       1
+          U1       16
+          U2       4
+          U3       16
+          U4       16
+
+I2C_ENB   JP2      2
+          R3       1
+          TP1      P$1
+          U1       8
+
+LED_DRV   BULB1    K
+          D2       C
+          U1       15
+
+LED_DRV1  BULB2    K
+          D3       C
+          U3       15
+
+LED_DRV2  BULB3    K
+          D5       C
+          U4       15
+
+MISO      J5       1
+          U1       5
+          U2       2
+
+MOSI      J5       4
+          U1       4
+          U2       5
+
+N$1       JP7      1
+          R2       2
+
+N$2       D1       C
+          U1       18
+
+N$3       R5       2
+          U3       7
+
+N$4       JP1      3
+          R12      2
+
+N$5       JP1      1
+          R11      2
+
+N$6       D2       A
+          JP4      1
+
+N$7       D4       A
+          R2       1
+
+N$8       D3       A
+          JP5      1
+
+N$9       R1       2
+          U3       5
+
+N$11      D5       A
+          JP3      1
+
+N$12      R8       2
+          U4       7
+
+N$13      R7       2
+          U4       5
+
+RX/SCL    J1       4
+          J2       3
+          J4       4
+          J8       4
+          R11      1
+          U1       11
+
+SCK       J5       3
+          U1       3
+          U2       6
+
+SCL_S     R9       1
+          U1       20
+          U3       9
+          U4       9
+
+SDA_S     R10      1
+          U1       1
+          U3       10
+          U4       10
+
+TX/SDA    J1       3
+          J2       2
+          J4       3
+          J8       3
+          R12      1
+          U1       12
+

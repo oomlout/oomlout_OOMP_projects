@@ -1,0 +1,120 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C3V      +
+         JP2      1
+         JP2      17
+         JP3      2
+         JP4      2
+
+5V       C5V      +
+         JP2      2
+         JP2      4
+         JP3      3
+         JP4      3
+
+CE0      JP2      24
+         JP3      9
+
+CE1      JP2      26
+         JP3      10
+
+GND      C3V      -
+         C5V      -
+         JP1      6
+         JP2      14
+         JP2      20
+         JP2      25
+         JP2      30
+         JP2      34
+         JP2      39
+         JP2      6
+         JP2      9
+         JP3      1
+         JP4      1
+
+GP4      JP2      7
+         JP3      11
+
+GP5      JP2      29
+         JP3      12
+
+GP6      JP2      31
+         JP3      13
+
+GP12     JP2      32
+         JP3      14
+
+GP13     JP2      33
+         JP3      15
+
+GP16     JP2      36
+         JP3      16
+
+GP17     JP2      11
+         JP3      17
+
+GP18     JP2      12
+         JP4      17
+
+GP19     JP2      35
+         JP4      16
+
+GP20     JP2      38
+         JP4      15
+
+GP21     JP2      40
+         JP4      14
+
+GP22     JP2      15
+         JP4      13
+
+GP23     JP2      16
+         JP4      12
+
+GP24     JP2      18
+         JP4      11
+
+GP25     JP2      22
+         JP4      10
+
+GP26     JP2      37
+         JP4      9
+
+GP27     JP2      13
+         JP4      8
+
+ID_SC    JP2      28
+         JP4      5
+
+ID_SD    JP2      27
+         JP4      4
+
+MISO     JP2      21
+         JP3      7
+
+MOSI     JP2      19
+         JP3      8
+
+RXI      JP1      3
+         JP2      10
+         JP3      5
+
+SCL      JP2      5
+         JP4      7
+
+SCLK     JP2      23
+         JP3      6
+
+SDA      JP2      3
+         JP4      6
+
+TXO      JP1      2
+         JP2      8
+         JP3      4
+

@@ -1,0 +1,146 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C3       1
+         C5       1
+         D3       A
+         D4       C
+         Q1       2
+         R1       2
+         R11      2
+         R22      2
+         R23      2
+         R5       2
+         U1       8
+         U2       4
+
+AMPENV   R10      2
+         R13      1
+         R18      1
+         U2       14
+
+AUDIO    R19      2
+         U1       4
+
+ENVELOPE R18      2
+         U1       6
+
+GATE     R15      2
+         U1       7
+
+GND      C1       2
+         C3       2
+         C5       2
+         D5       A
+         D6       A
+         J1       P$2
+         J5       P$2
+         MIC1     2
+         R12      1
+         R16      1
+         R21      1
+         R6       1
+         R9       1
+         U1       1
+         U1       3
+         U2       11
+         U2       5
+
+N$       C4       1
+         R19      1
+         S1       3
+         U2       1
+
+N$1      C2       1
+         MIC1     1
+         R1       1
+
+N$2      R5       1
+         R6       2
+         U2       3
+
+N$3      D3       C
+         R16      2
+
+N$4      R17      1
+         R2       2
+         R20      1
+         R3       1
+         U2       2
+
+N$5      C2       2
+         R2       1
+
+N$6      C4       2
+         R4       1
+
+N$7      D1       A
+         R4       2
+         R7       1
+         U2       6
+
+N$8      D2       A
+         U2       7
+
+N$9      D1       C
+         D2       C
+         R7       2
+         R8       1
+
+N$10     C1       1
+         R8       2
+         R9       2
+         U2       12
+
+N$11     R10      1
+         U2       13
+
+N$12     TP1      P$1
+         U1       5
+
+N$13     R17      2
+         S1       4
+
+N$14     R3       2
+         S1       2
+
+N$15     R11      1
+         R12      2
+         U2       9
+
+N$16     R13      2
+         R14      1
+         U2       10
+
+N$17     R14      2
+         R15      1
+         U2       8
+
+N$18     R20      2
+         S1       1
+
+N$19     J4       P$2
+         J8       P$2
+         Q1       3
+
+N$20     D4       A
+         Q1       1
+         R21      2
+
+SCL      D6       C
+         J2       P$2
+         J7       P$2
+         R23      1
+         U1       10
+
+SDA      D5       C
+         J3       P$2
+         J6       P$2
+         R22      1
+         U1       9
+

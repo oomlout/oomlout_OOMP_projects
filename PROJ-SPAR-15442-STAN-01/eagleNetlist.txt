@@ -1,0 +1,465 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!DTR       C1       1
+           C8       1
+           R5       2
+           U5       13
+
+!RESET     C28      1
+           C8       2
+           J2       10
+           JP10     6A
+           JP10     6B
+           JP24     6
+           R3       1
+           S1       3
+           S1       4
+           TP3      P$1
+           U4       ~RST
+
+3.3V       C16      1
+           C18      1
+           C6       +
+           D4       C
+           J1       2
+           JP12     1
+           R12      2
+           R16      2
+           R2       2
+           U3       5
+           U5       16
+
+5V         C3       +
+           C4       1
+           IC3      2
+           IC3      4
+           JP10     4A
+           JP10     4B
+           JP24     4
+           Q1       2
+           R15      2
+           R4       2
+           U3       1
+           U3       3
+
+AD16       JP13     5
+           JP13     5@2
+           JP27     5
+           U4       AD16
+
+AD34       JP13     3
+           JP13     3@2
+           JP27     3
+           U4       AD34
+
+BOOT       C1       2
+           R9       2
+           U4       BOOT
+
+CC1        J5       A5
+           R8       2
+
+CC2        J5       B5
+           R7       2
+
+D+         J5       A6
+           J5       B6
+           JP14     D+
+           U5       5
+
+D-         J5       A7
+           J5       B7
+           JP14     D-
+           U5       6
+
+D0         JP20     6
+           JP20     6@2
+           JP29     6
+           U4       D0
+
+D1         JP20     5
+           JP20     5@2
+           JP29     5
+           U4       D1
+
+D2         JP20     4
+           JP20     4@2
+           JP29     4
+           U4       D2
+
+D3         JP25     1
+           U4       D3
+
+D8         JP19     2
+           JP19     2@2
+           JP28     7
+           U4       D8
+
+D9         JP19     4
+           JP19     4@2
+           JP28     5
+           U4       D9
+
+D10        JP19     3
+           JP19     3@2
+           JP28     6
+           U4       D10
+
+D14        JP19     1
+           JP19     1@2
+           JP28     8
+           U4       D14
+
+D15        JP19     6
+           JP19     6@2
+           JP28     3
+           U4       D15
+
+D17        JP20     1
+           JP20     1@2
+           JP29     1
+           U4       D17
+
+D36        JP21     1
+           JP25     2
+           U4       D36
+
+D38        JP25     3
+           U4       D38
+
+D40/SDA    J4       3
+           JP2      2A
+           JP2      2B
+           JP23     2
+           U4       D40
+
+D41        JP20     2
+           JP20     2@2
+           JP29     2
+           U4       D41
+
+GND        BT1      2
+           C10      2
+           C11      1
+           C12      2
+           C13      1
+           C15      -
+           C16      2
+           C17      2
+           C18      2
+           C19      2
+           C2       1
+           C28      2
+           C3       -
+           C4       2
+           C5       -
+           C6       -
+           C7       2
+           C9       2
+           E1       3
+           E1       6
+           E1       7
+           E1       8
+           J2       3
+           J2       5
+           J2       9
+           J3       GND
+           J4       1
+           J5       GND
+           J5       GND2
+           JP10     2A
+           JP10     2B
+           JP10     3A
+           JP10     3B
+           JP13     7
+           JP13     7@2
+           JP13     8
+           JP13     8@2
+           JP14     GND
+           JP16     1
+           JP2      4A
+           JP2      4B
+           JP23     3
+           JP23     4
+           JP24     2
+           JP24     3
+           JP27     7
+           JP27     8
+           JP30     1
+           JP30     2
+           JP30     3
+           JP30     4
+           JP30     5
+           LED1     C
+           LED2     C
+           R14      1
+           R5       1
+           R7       1
+           R8       1
+           R9       1
+           S1       1
+           S1       2
+           U3       2
+           U4       GND@1
+           U4       GND@22
+           U4       GND@38
+           U4       GND@39
+           U4       GND@47
+           U4       GND@59
+           U5       1
+
+INSERT     J3       P$4
+           Q1       1
+           R4       1
+
+N$1        LED1     A
+           R1       2
+
+N$2        LED2     A
+           R2       1
+
+N$5        D2       A
+           R16      1
+
+N$6        C17      1
+           U5       4
+
+N$7        C11      2
+           U4       XO
+           Y1       P$2
+
+N$8        C13      2
+           U4       XI
+           Y1       P$1
+
+N$9        D3       A
+           R12      1
+
+N$10       JP16     2
+           JP2      3A
+           JP2      3B
+
+N$15       IC3      1
+           R14      2
+           R15      1
+
+PDMCLK     E1       4
+           JP22     2
+
+PDMDATA    E1       1
+           JP21     2
+
+PWRIN      D1       A
+           J3       VIN0
+
+RXI-0      D3       C
+           J7       1
+           U4       RXI-0
+           U5       2
+
+SHLD       J5       SHLD1
+           J5       SHLD2
+           J5       SHLD3
+           J5       SHLD4
+           J5       SHLD5
+           J5       SHLD6
+           J5       SHLD7
+           J5       SHLD8
+
+SWDCK      J2       4
+           TP1      P$1
+           U4       SWDCK
+
+SWDIO      J2       2
+           TP2      P$1
+           U4       SWDIO
+
+TXO-0      D2       C
+           J7       2
+           U4       TXO-0
+           U5       3
+
+VDD        C19      1
+           C2       2
+           C7       1
+           C9       1
+           E1       2
+           E1       5
+           J1       1
+           J2       1
+           J4       2
+           JP10     5A
+           JP10     5B
+           JP10     7A
+           JP10     7B
+           JP12     2
+           JP24     5
+           JP24     7
+           R3       2
+           U4       VDD@36
+           U4       VDD@37
+
+VIN        C5       +
+           D1       C
+           IC3      3
+           JP10     1A
+           JP10     1B
+           JP24     1
+
+VUSB       BYP      1
+           C10      1
+           F2       1
+           J5       VBUS1
+           J5       VBUS2
+           JP14     VBUS
+
+V_BATT     BT1      1
+           D4       A
+
+V_USB      BYP      2
+           C12      1
+           C15      +
+           F2       2
+           Q1       3
+
+~AD11      JP13     2
+           JP13     2@2
+           JP27     2
+           U4       ~AD11
+
+~AD12      JP2      9A
+           JP2      9B
+           JP23     9
+           U4       ~AD12
+
+~AD13      JP2      8A
+           JP2      8B
+           JP23     8
+           U4       ~AD13
+
+~AD29      JP13     1
+           JP13     1@2
+           JP27     1
+           U4       ~AD29
+
+~AD31      JP13     6
+           JP13     6@2
+           JP27     6
+           U4       ~AD31
+
+~AD32      JP2      10A
+           JP2      10B
+           JP23     10
+           U4       ~AD32
+
+~AD33/SWO  J2       6
+           JP13     4
+           JP13     4@2
+           JP27     4
+           U4       ~AD33/SWO
+
+~AD35      JP11     3
+           JP11     3@2
+           JP26     3
+           U4       ~AD35
+
+~D4        JP11     4
+           JP11     4@2
+           JP26     4
+           U4       ~D4
+
+~D5/SCK    JP2      5A
+           JP2      5B
+           JP23     5
+           R1       1
+           U4       ~D5
+
+~D6/MISO   JP2      6A
+           JP2      6B
+           JP23     6
+           U4       ~D6
+
+~D7/MOSI   JP2      7A
+           JP2      7B
+           JP23     7
+           U4       D7
+
+~D18       JP19     8
+           JP19     8@2
+           JP28     1
+           U4       ~D18
+
+~D19       JP19     7
+           JP19     7@2
+           JP28     2
+           U4       ~D19
+
+~D22       JP11     5
+           JP11     5@2
+           JP26     5
+           U4       ~D22
+
+~D23       JP11     6
+           JP11     6@2
+           JP26     6
+           U4       ~D23
+
+~D24/TXO-1 JP11     2
+           JP11     2@2
+           JP26     2
+           U4       ~D24
+
+~D25/RXI-1 JP11     1
+           JP11     1@2
+           JP26     1
+           U4       ~D25
+
+~D26       JP19     5
+           JP19     5@2
+           JP28     4
+           U4       ~D26
+
+~D27       JP11     7
+           JP11     7@2
+           JP26     7
+           U4       ~D27
+
+~D28       JP11     8
+           JP11     8@2
+           JP26     8
+           U4       ~D28
+
+~D37       JP22     1
+           JP25     4
+           U4       ~D37
+
+~D39/SCL   J4       4
+           JP2      1A
+           JP2      1B
+           JP23     1
+           U4       ~D39
+
+~D42       JP20     8
+           JP20     8@2
+           JP29     8
+           U4       ~D42
+
+~D43       JP20     7
+           JP20     7@2
+           JP29     7
+           U4       ~D43
+
+~D44       JP25     5
+           U4       ~D44
+
+~D45       JP20     3
+           JP20     3@2
+           JP29     3
+           U4       ~D45
+

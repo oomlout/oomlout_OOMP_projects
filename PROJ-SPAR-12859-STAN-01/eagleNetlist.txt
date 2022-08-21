@@ -1,0 +1,176 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 16:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V_ALT   APWR     1
+         IC2      OUT
+         IC2      OUT@1
+         R8       2
+
+COILA+   IC1      P$21
+         JP3      4
+         JP5      4
+
+COILA-   IC1      P$24
+         JP3      3
+         JP5      3
+
+COILB+   IC1      P$1
+         JP3      1
+         JP5      1
+
+COILB-   IC1      P$26
+         JP3      2
+         JP5      2
+
+CUR_REF  IC1      P$17
+         R16      2
+         TP1      TP
+
+DIR      IC1      P$19
+         R11      1
+         R14      2
+
+DIR_IN   JP12     4
+         JP14     4
+         R14      1
+
+ENABLE   IC1      P$2
+         JP13     1
+         JP6      1
+         R10      1
+
+GND      3/5V     2
+         C1       2
+         C10      2
+         C14      -
+         C2       2
+         C7       2
+         C8       2
+         C9       2
+         IC1      P$18
+         IC1      P$29
+         IC1      P$3
+         JP1      1
+         JP12     2
+         JP14     2
+         JP7      1
+         PWR_LED  C
+         R10      2
+         R16      3
+         R18      1
+         R19      1
+         R20      2
+         R7       1
+
+MS1      IC1      P$9
+         JP13     2
+         JP6      2
+         R1       1
+
+MS2      IC1      P$10
+         JP10     1
+         JP11     1
+         R2       1
+
+MS3      IC1      P$11
+         JP10     2
+         JP11     2
+         R3       1
+
+N$1      D1       A
+         JP1      2
+         JP7      2
+
+N$2      PWR_LED  A
+         R9       1
+
+N$3      R13      2
+         R16      1
+
+N$4      3/5V     1
+         R6       1
+         R7       2
+
+N$5      IC1      P$7
+         U$3      P$1
+
+N$6      IC2      ADJ
+         R6       2
+         R8       1
+
+N$7      IC1      P$20
+         U$4      P$1
+
+N$8      C6       1
+         IC1      P$4
+
+N$9      C6       2
+         IC1      P$5
+
+N$10     IC1      P$25
+         U$5      P$1
+
+N$19     IC1      P$13
+         R20      1
+
+N$20     C10      1
+         IC1      P$8
+
+N$21     C11      1
+         IC1      P$6
+
+N$31     IC1      P$27
+         R18      2
+
+N$32     IC1      P$23
+         R19      2
+
+RESET    IC1      P$12
+         JP10     3
+         JP11     3
+         R5       1
+
+SLEEP    IC1      P$14
+         JP10     4
+         JP11     4
+         R4       1
+
+STEP     IC1      P$16
+         R12      1
+         R15      2
+
+STEP_IN  JP12     3
+         JP14     3
+         R15      1
+
+V+       C1       1
+         C11      2
+         C14      +
+         C8       1
+         C9       1
+         D1       C
+         IC1      P$22
+         IC1      P$28
+         IC2      IN
+
+VCC      APWR     2
+         C2       1
+         C7       1
+         IC1      P$15
+         JP12     1
+         JP14     1
+         R1       2
+         R11      2
+         R12      2
+         R13      1
+         R2       2
+         R3       2
+         R4       2
+         R5       2
+         R9       2
+

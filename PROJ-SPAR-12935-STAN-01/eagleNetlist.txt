@@ -1,0 +1,111 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 16:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!OE         JP2      1
+            R4       1
+            U3       6
+
+3.3V        C3       A
+            C5       1
+            C6       1
+            R1       2
+            R2       2
+            SJ1      1
+            U2       5
+            U3       10
+
+5V          C1       A
+            C2       1
+            JP4      VBUS1
+            SJ1      3
+            U1       20
+            U2       1
+            U2       3
+
+CTS         CLIENT   CTS
+            U1       11
+
+DTR         CLIENT   DTR
+            U1       2
+
+GND         C1       C
+            C2       2
+            C3       C
+            C4       2
+            C5       2
+            C6       2
+            CLIENT   GND
+            HOST     P$6
+            JP4      GND1
+            R3       1
+            R4       2
+            R5       1
+            U1       18
+            U1       21
+            U1       25
+            U1       26
+            U1       7
+            U2       2
+            U3       5
+
+N$1         JP4      D-1
+            U1       16
+
+N$2         C4       1
+            U1       17
+
+N$3         JP4      D+1
+            U1       15
+
+N$4         D4       C
+            R5       2
+
+N$5         D2       A
+            R1       1
+
+N$6         D1       A
+            R2       1
+
+N$11        U1       5
+            U3       1
+
+N$12        U1       1
+            U3       2
+
+N$13        CLIENT   RXI
+            U3       8
+
+N$14        CLIENT   TXO
+            U3       7
+
+N$16        HOST     P$2
+            U3       3
+
+N$17        HOST     P$3
+            U3       4
+
+RXLED       D1       C
+            U1       22
+
+SELECT      D4       A
+            JP2      2
+            R3       2
+            U3       9
+
+SHIELD_POUR JP4      SHIELD1
+            JP4      SHIELD2
+            JP4      SHIELD3
+
+TXLED       D2       C
+            U1       23
+
+V_OUT       CLIENT   VCC
+            HOST     P$4
+            SJ1      2
+            U1       4
+

@@ -1,0 +1,137 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     U1       3.3V
+
+5V       U1       5V
+
+A0       U1       A0
+
+A1       U1       A1
+
+A2       U1       A2
+
+A3       U1       A3
+
+A4       U1       A4
+
+A5       U1       A5
+
+ADJUST   R1       1
+         R2       2
+         U2       5
+
+AREF     U1       AREF
+
+BOOT     R3       1
+         U3       33
+
+D-RX     JP4      1
+         U1       D2
+
+D-TX     JP6      3
+         U1       D3
+
+D4       U1       D4
+
+D5       U1       D5
+
+D6       U1       D6
+
+D7       U1       D7
+
+D8       U1       D8
+
+D9       U1       D9
+
+D10      U1       D10
+
+D11      U1       D11
+
+D12      U1       D12
+
+D13      U1       D13
+
+GND      C3       2
+         C5       C
+         JP5      5
+         R2       1
+         R6       1
+         S1       1
+         S1       2
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+         U2       3
+         U2       6
+         U3       11
+         U3       13
+         U3       15
+         U3       17
+         U3       9
+         U4       6
+
+MIC_N    JP5      1
+         U3       12
+
+MIC_P    JP5      2
+         U3       14
+
+N$17     LED1     C
+         R6       2
+
+RESET    S1       3
+         S1       4
+         U1       RES
+         U3       34
+
+RX-I     JP4      3
+         U1       RX
+
+RXD0     JP6      2
+         U3       20
+
+SIM_CLK  U3       27
+         U4       3
+
+SIM_IO   U3       29
+         U4       4
+
+SIM_RST  U3       21
+         U4       2
+
+SIM_VCC  U3       51
+         U4       1
+
+SPK_N    JP5      3
+         U3       16
+
+SPK_P    JP5      4
+         U3       18
+
+TX-O     JP6      1
+         U1       TX
+
+TXD0     JP4      2
+         U3       19
+
+VCC      C3       1
+         C5       A
+         LED1     A
+         R1       2
+         R3       2
+         U2       4
+         U3       1
+         U3       3
+         U3       5
+         U3       7
+
+VRAW     U1       VIN
+         U2       1
+         U2       2
+

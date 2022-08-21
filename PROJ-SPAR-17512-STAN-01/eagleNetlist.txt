@@ -1,0 +1,127 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 18:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+0/ID_SD     J1       27
+            J2       27
+
+1/ID_SC     J1       28
+            J2       28
+
+2/SDA       J1       3
+            J2       3
+            J3       3
+            J5       3
+
+3.3V        J1       1
+            J1       17
+            J2       1
+            J2       17
+            J3       2
+            J5       2
+
+3/SCL       J1       5
+            J2       5
+            J3       4
+            J5       4
+
+5V          J1       2
+            J1       4
+            J2       2
+            J2       4
+
+7/CE1       J1       26
+            J2       26
+
+8/CE0       J1       24
+            J2       24
+
+9/CIPO      J1       21
+            J2       21
+
+10/COPI     J1       19
+            J2       19
+
+11/SCLK     J1       23
+            J2       23
+
+12/PWM0     J1       32
+            J2       32
+
+13/PWM1     J1       33
+            J2       33
+
+14/TXO      J1       8
+            J2       8
+
+15/RXI      J1       10
+            J2       10
+
+18/PCM_CLK  J1       12
+            J2       12
+
+19/PCM_FS   J1       35
+            J2       35
+
+20/PCM_DIN  J1       38
+            J2       38
+
+21/PCM_DOUT J1       40
+            J2       40
+
+GND         J1       14
+            J1       20
+            J1       25
+            J1       30
+            J1       34
+            J1       39
+            J1       6
+            J1       9
+            J2       14
+            J2       20
+            J2       25
+            J2       30
+            J2       34
+            J2       39
+            J2       6
+            J2       9
+            J3       1
+            J5       1
+
+GP4         J1       7
+            J2       7
+
+GP5         J1       29
+            J2       29
+
+GP6         J1       31
+            J2       31
+
+GP16        J1       36
+            J2       36
+
+GP17        J1       11
+            J2       11
+
+GP22        J1       15
+            J2       15
+
+GP23        J1       16
+            J2       16
+
+GP24        J1       18
+            J2       18
+
+GP25        J1       22
+            J2       22
+
+GP26        J1       37
+            J2       37
+
+GP27        J1       13
+            J2       13
+

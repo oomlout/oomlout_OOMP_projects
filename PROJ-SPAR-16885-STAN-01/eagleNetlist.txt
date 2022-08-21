@@ -1,0 +1,368 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 11:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!BOOT!     J6       11
+           S2       3
+           S2       4
+
+!CS!       J12      3
+           J22      3
+           J6       55
+
+!CS1!/DAT3 J12      7
+           J13      6
+           J6       70
+
+!RESET     J2       10
+           J6       6
+           J8       2
+           J9       3
+           S1       3
+           S1       4
+
+3.3V       C5       1
+           C6       1
+           C7       1
+           D7       A
+           J10      4
+           J12      1
+           J16      3
+           J19      2
+           J2       1
+           J20      2
+           J21      3
+           J22      1
+           J3       4
+           J6       2
+           J6       74
+           J8       3
+           J9       2
+           MEAS     2
+           MEAS     4
+           R1       2
+
+3.3V_EN    D1       C
+           EN       1
+           R5       1
+           U5       5
+
+A0         J14      8
+           J15      8
+           J6       34
+
+A1         J14      7
+           J15      7
+           J6       38
+
+CAN_RXI    J25      2
+           J26      2
+           J6       41
+
+CAN_TXO    J25      3
+           J26      3
+           J6       43
+
+CIPO       J12      6
+           J13      7
+           J6       61
+
+CIPO1/DAT0 J12      10
+           J13      3
+           J6       64
+
+COPI       J12      5
+           J13      8
+           J6       59
+
+COPI1      J12      11
+           J13      2
+           J6       62
+
+CTS1       J23      7
+           J24      7
+           J6       15
+
+D0         J25      6
+           J26      6
+           J6       10
+
+D1         J25      7
+           J26      7
+           J6       18
+
+DAT1       J12      9
+           J13      4
+           J6       66
+
+DAT2       J12      8
+           J13      5
+           J6       68
+
+G0         J14      2
+           J15      2
+           J6       40
+
+G1         J14      1
+           J15      1
+           J6       42
+
+G2         J17      8
+           J18      8
+           J6       44
+
+G3         J17      7
+           J18      7
+           J6       46
+
+G4         J17      6
+           J18      6
+           J6       48
+
+G5         J17      5
+           J18      5
+           J6       73
+
+G6         J17      4
+           J18      4
+           J6       71
+
+G7         J17      3
+           J18      3
+           J6       69
+
+G8         J17      2
+           J18      2
+           J6       67
+
+G9/ADC_N   J14      3
+           J15      3
+           J6       65
+
+G10/ADC_P  J14      4
+           J15      4
+           J6       63
+
+G11        J17      1
+           J18      1
+           J6       8
+
+GND        3V3_LED  2
+           BT1      -
+           C1       2
+           C13      2
+           C2       -
+           C5       2
+           C6       2
+           C7       2
+           D1       A
+           H5       1
+           J1       GND
+           J1       GND2
+           J10      5
+           J11      4
+           J12      2
+           J16      4
+           J19      1
+           J2       3
+           J2       5
+           J2       9
+           J20      1
+           J21      4
+           J22      2
+           J25      8
+           J26      8
+           J3       5
+           J4       GND
+           J4       SHLD1
+           J4       SHLD2
+           J6       1
+           J6       33
+           J6       36
+           J6       39
+           J6       45
+           J6       7
+           J6       75
+           J8       1
+           J9       4
+           R2       1
+           R3       1
+           R9       1
+           S1       1
+           S1       2
+           S2       1
+           S2       2
+           U5       4
+           U5       EP
+           VIN_LED  2
+
+I2C_!INT   J10      1
+           J3       1
+           J6       16
+
+I2S_CLK    J23      5
+           J24      5
+           J6       50
+
+I2S_SDI    J23      3
+           J24      3
+           J6       54
+
+I2S_SDO    J23      2
+           J24      2
+           J6       56
+
+I2S_WS     J23      4
+           J24      4
+           J6       52
+
+MCLK       J23      1
+           J24      1
+           J6       58
+
+N$1        D2       A
+           R1       1
+
+N$2        D3       A
+           R4       1
+
+N$3        3V3_LED  1
+           D2       C
+
+N$4        D3       C
+           VIN_LED  1
+
+N$5        EN       2
+           J6       4
+
+N$7        D4       C
+           J11      1
+           J4       VBUS
+
+N$10       J1       A5
+           R2       2
+
+N$11       J1       B5
+           R3       2
+
+N$14       BT1      +
+           D6       A
+           R8       1
+
+OUT_MEAS   MEAS     1
+           MEAS     3
+           U5       1
+
+PWM0       J14      6
+           J15      6
+           J6       32
+
+PWM1       J14      5
+           J15      5
+           J6       47
+
+RTC_3V     D6       C
+           D7       C
+           J6       72
+           R8       2
+           TP1      P$1
+
+RTS1       J23      6
+           J24      6
+           J6       13
+
+RX1        J25      1
+           J26      1
+           J6       19
+
+RX2        J25      5
+           J26      5
+           J6       20
+
+SCK        J12      4
+           J22      4
+           J6       57
+
+SCK1       J12      12
+           J13      1
+           J6       60
+
+SCL        J10      2
+           J20      4
+           J3       2
+           J6       14
+
+SCL1       J16      1
+           J19      4
+           J21      1
+           J6       53
+
+SDA        J10      3
+           J20      3
+           J3       3
+           J6       12
+
+SDA1       J16      2
+           J19      3
+           J21      2
+           J6       51
+
+SWDCK      J2       4
+           J6       21
+           TP3      P$1
+
+SWDIO      J2       2
+           J6       23
+           TP2      P$1
+
+TX1        J23      8
+           J24      8
+           J6       17
+
+TX2        J25      4
+           J26      4
+           J6       22
+
+USBHOST_N  J11      2
+           J4       D-
+           J6       37
+
+USBHOST_P  J11      3
+           J4       D+
+           J6       35
+
+USB_N      J1       A7
+           J1       B7
+           J6       5
+
+USB_P      J1       A6
+           J1       B6
+           J6       3
+
+VIN        BYP      2
+           C1       1
+           C13      1
+           C2       +
+           F2       2
+           J6       9
+           J8       4
+           J9       1
+           R10      2
+           R4       2
+           R5       2
+           U5       8
+
+VIN/3      J6       49
+           R10      1
+           R9       2
+
+V_USB      BYP      1
+           D4       A
+           F2       1
+           J1       VBUS1
+           J1       VBUS2
+

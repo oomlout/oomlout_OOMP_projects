@@ -1,0 +1,776 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 18:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part          Pad
+
++3V3         BR1           3
+             C1            +
+             C18           2
+             C20           2
+             C29           +
+             C37           1
+             C4            2
+             C5            2
+             C6            2
+             C7            2
+             C8            2
+             CN2           1
+             ERASE         1
+             IC1           6
+             IC10          5
+             IC4           2
+             IC4           4
+             JR1           1
+             L1            1
+             L2            1
+             POWER         2
+             POWER         4
+             R4            2
+             R99           2
+             RN1           5
+             RN1           6
+             RN2           2
+             RN2           3
+             RN3           5
+             RN3           7
+             RN3           8
+             RN5           3
+             RN5           4
+             T3            2
+             U1            105
+             U1            11
+             U1            125
+             U1            52
+             U1            57
+             U1            62
+
++5V          C30           2
+             C36           1
+             C50           1
+             D2            C
+             IC1           8
+             IC4           3
+             IC5           20
+             IC5           7
+             IC5           8
+             IC5           9
+             IC6           32
+             IC6           4
+             ICSP1         2
+             PC2           +
+             POWER         5
+             R13           2
+             R14           1
+             R15           1
+             R28           2
+             SPI           2
+             T1            2
+             T2            1
+             XIO           1
+             XIO           2
+
+5-GND        RESET         5
+
+8PB4         IC6           18
+             JP5           1
+
+8PB5         IC6           19
+             JP5           3
+
+8PB6         IC6           20
+             JP5           2
+
+8PB7         IC6           21
+             JP5           4
+
+16U2-TX      IC10          1
+             IC10          2
+             IC6           9
+
+AD0          ADCL          1
+             U1            78
+
+AD1          ADCL          2
+             U1            79
+
+AD2          ADCL          3
+             U1            80
+
+AD3          ADCL          4
+             U1            81
+
+AD4          ADCL          5
+             U1            82
+
+AD5          ADCL          6
+             U1            83
+
+AD6          ADCL          7
+             U1            84
+
+AD7          ADCL          8
+             U1            85
+
+AD8          ADCH          1
+             U1            88
+
+AD9          ADCH          2
+             U1            89
+
+AD10         ADCH          3
+             U1            90
+
+AD11(TXD3)   ADCH          4
+             U1            91
+
+AD14(RXD3)   U1            92
+             XIO           33
+
+AREF         BR1           1
+             PWMH          8
+
+AVREF        C19           2
+             L3            2
+             U1            75
+
+AVREFL       BR1           2
+             C34           2
+             JR1           2
+             L3            1
+
+BD+          R20           2
+             UD+2          X
+             USB2          P3
+             Z4            2
+
+BD-          R19           2
+             UD-2          X
+             USB2          P2
+             Z3            2
+
+CANRX0       ADCH          7
+             U1            24
+
+CANTX0       ADCH          8
+             U1            23
+
+CANTX1/IO    U1            140
+             XIO           34
+
+CMP          C31           2
+             IC1           5
+             Q2            3
+             RN4           3
+             RN4           4
+
+D+           R6            1
+             U1            37
+             UD-1          X
+             USB1          3
+             Z1            1
+
+D-           R5            1
+             U1            38
+             UD+1          X
+             USB1          2
+             Z2            1
+
+DAC0(CANRX1) ADCH          5
+             U1            76
+
+DAC1         ADCH          6
+             U1            77
+
+DTR          IC6           13
+             R18           1
+
+EEXTINT      U1            25
+
+EMDC         U1            123
+
+EMDIO        U1            127
+
+ERASE_CMD    IC6           23
+             R99           1
+             T3            3
+
+ERASE_S      ERASE         2
+             T3            1
+             U1            130
+
+ERXD0        U1            120
+
+ERXD1        U1            121
+
+ERX_DV       U1            119
+
+ERX_ER       U1            122
+
+ETXD0        U1            115
+
+ETXD1        U1            118
+
+ETX_CLK      U1            113
+
+ETX_EN       U1            114
+
+GATE_CMD     IC1           7
+             T1            3
+
+GND          C1            -
+             C10           1
+             C11           -
+             C12           1
+             C13           1
+             C14           1
+             C15           1
+             C16           1
+             C17           1
+             C18           1
+             C19           1
+             C2            -
+             C21           2
+             C22           2
+             C23           2
+             C24           2
+             C25           2
+             C26           2
+             C27           -
+             C28           2
+             C29           -
+             C3            -
+             C30           1
+             C31           1
+             C32           1
+             C33           -
+             C34           1
+             C35           -
+             C36           2
+             C37           2
+             C38           2
+             C39           2
+             C4            1
+             C40           2
+             C41           2
+             C49           -
+             C5            1
+             C50           2
+             C6            1
+             C7            1
+             C8            1
+             C9            1
+             CN2           3
+             CN2           5
+             CN2           9
+             DEBUG         1
+             IC1           4
+             IC10          3
+             IC4           1
+             IC5           12
+             IC5           13
+             IC5           14
+             IC5           3
+             IC6           28
+             IC6           3
+             IC6           33
+             ICSP1         6
+             L             C
+             ON            C
+             PC1           -
+             PC2           -
+             POWER         6
+             POWER         7
+             PWMH          7
+             Q2            2
+             R17           1
+             R18           2
+             R2            1
+             R29           1
+             R31           1
+             R7            1
+             R8            1
+             RESET         1
+             RESET         2
+             RN1           1
+             RN1           2
+             RN1           7
+             RN1           8
+             RN2           1
+             RN2           4
+             RN2           5
+             RN2           8
+             RN4           1
+             RN4           2
+             RN4           5
+             RN4           7
+             SPI           6
+             U1            106
+             U1            12
+             U1            126
+             U1            33
+             U1            44
+             U1            46
+             U1            54
+             U1            58
+             U1            74
+             UGND1         X
+             UGND2         X
+             USB1          5
+             USB1          P$1
+             USB1          P$10
+             USB1          P$11
+             USB1          P$2
+             USB1          P$3
+             USB1          P$4
+             USB1          P$5
+             USB1          P$6
+             USB1          P$7
+             USB1          P$8
+             USB1          P$9
+             USB1          S1
+             USB1          S2
+             USB1          S3
+             USB1          S4
+             USB2          P$1
+             USB2          P$2
+             USB2          P$3
+             USB2          P$4
+             USB2          P$5
+             USB2          P$6
+             USB2          P$7
+             USB2          P$8
+             USB2          P5
+             USB2          S1
+             USB2          S2
+             USB2          S3
+             USB2          S4
+             USB2          S5
+             USB2          S6
+             X2            1
+             X2            3
+             XIO           35
+             XIO           36
+             Y1            2
+             Y1            4
+             Y4            2
+             Y4            4
+             Z1            2
+             Z2            2
+             Z3            1
+             Z4            1
+             Z5            1
+
+JTAG_RESET   CN2           10
+             R1            1
+             RN1           4
+
+JTAG_TCK     CN2           4
+             DEBUG         2
+             RN2           7
+             U1            28
+
+JTAG_TDI     CN2           8
+             RN1           3
+             U1            29
+
+JTAG_TDO     CN2           6
+             U1            30
+
+JTAG_TMS     CN2           2
+             DEBUG         3
+             RN2           6
+             U1            31
+
+L13          IC1           1
+             IC1           2
+             RN3           6
+
+MASTER-RESET C20           1
+             DEBUG         4
+             POWER         3
+             R1            2
+             R23           2
+             RESET         3
+             RESET         4
+             SPI           5
+             U1            47
+
+MISO         SPI           1
+             U1            108
+
+MISO2        IC6           17
+             ICSP1         1
+
+MOSI         SPI           4
+             U1            109
+
+MOSI2        IC6           16
+             ICSP1         4
+
+N$1          IC6           26
+             R21           1
+
+N$2          L             A
+             RN3           3
+
+N$3          ON            A
+             RN3           4
+
+N$4          R15           2
+             RX1           A
+
+N$5          R8            2
+             U1            51
+
+N$6          Q2            1
+             R3            2
+             RN4           8
+
+N$7          R4            1
+             U1            53
+
+N$10         D1            A
+             D5            P$2
+             L6            1
+
+N$11         R5            2
+             U1            43
+
+N$12         R6            2
+             U1            42
+
+N$14         R14           2
+             TX1           A
+
+N$15         R16           1
+             R17           2
+             T2            3
+
+N$35         IC5           1
+             R28           1
+             R29           2
+
+N$36         IC5           17
+             R30           2
+
+N$37         IC5           18
+             R31           2
+
+N$54         RN3           1
+             RX            A
+
+N$55         RN3           2
+             TX            A
+
+PIN22        U1            1
+             XIO           3
+
+PIN23        U1            7
+             XIO           4
+
+PIN24        U1            8
+             XIO           5
+
+PIN25        U1            13
+             XIO           6
+
+PIN26        U1            14
+             XIO           7
+
+PIN27        U1            15
+             XIO           8
+
+PIN28        U1            16
+             XIO           9
+
+PIN29        U1            19
+             XIO           10
+
+PIN30        U1            22
+             XIO           11
+
+PIN31        U1            26
+             XIO           12
+
+PIN32        U1            32
+             XIO           13
+
+PIN33        U1            55
+             XIO           14
+
+PIN34        U1            59
+             XIO           15
+
+PIN35        U1            60
+             XIO           16
+
+PIN36        U1            116
+             XIO           17
+
+PIN37        U1            63
+             XIO           18
+
+PIN38        U1            64
+             XIO           19
+
+PIN39        U1            65
+             XIO           20
+
+PIN40        U1            66
+             XIO           21
+
+PIN41        U1            67
+             XIO           22
+
+PIN42        U1            71
+             XIO           23
+
+PIN43        U1            72
+             XIO           24
+
+PIN44        U1            101
+             XIO           25
+
+PIN45        U1            100
+             XIO           26
+
+PIN46        U1            99
+             XIO           27
+
+PIN47        U1            98
+             XIO           28
+
+PIN48        U1            97
+             XIO           29
+
+PIN49        U1            96
+             XIO           30
+
+PIN50        U1            95
+             XIO           31
+
+PIN51        U1            94
+             XIO           32
+
+PWM2         PWML          3
+             U1            144
+
+PWM3         PWML          4
+             U1            139
+
+PWM5         PWML          6
+             U1            136
+
+PWM6         PWML          7
+             U1            135
+
+PWM7         PWML          8
+             U1            134
+
+PWM8         PWMH          1
+             U1            133
+
+PWM9         PWMH          2
+             U1            132
+
+PWM11        PWMH          4
+             U1            20
+
+PWM12        PWMH          5
+             U1            21
+
+PWM13        IC1           3
+             PWMH          6
+             U1            68
+
+RD+          IC6           29
+             R20           1
+
+RD-          IC6           30
+             R19           1
+
+RESET2       D2            A
+             IC6           24
+             ICSP1         5
+             R13           1
+
+RESET_CMD    IC6           22
+             R23           1
+
+RXD0         IC10          4
+             PWML          1
+             U1            27
+
+RXD1         COMMUNICATION 6
+             U1            3
+
+RXD2         COMMUNICATION 4
+             U1            5
+
+RXD3         COMMUNICATION 2
+             U1            18
+
+RXL          RX            C
+             U1            103
+
+RXL-U2       IC6           10
+             RX1           C
+
+SCK2         IC6           15
+             ICSP1         3
+
+SCL0-3       COMMUNICATION 8
+             RN5           5
+             U1            87
+
+SCL1         PWMH          10
+             U1            70
+
+SDA0-3       COMMUNICATION 7
+             RN5           6
+             U1            86
+
+SDA1         PWMH          9
+             U1            9
+
+SPCK         SPI           3
+             U1            110
+
+SS0/PWM10    PWMH          3
+             U1            102
+             U1            111
+
+SS1/PWM4     PWML          5
+             U1            112
+             U1            137
+
+SS3          U1            142
+
+TXD0         IC6           8
+             PWML          2
+             U1            2
+
+TXD1         COMMUNICATION 5
+             U1            4
+
+TXD2         COMMUNICATION 3
+             U1            6
+
+TXD3         COMMUNICATION 1
+             U1            17
+
+TXL          TX            C
+             U1            107
+
+TXL-U2       IC6           11
+             TX1           C
+
+UOTGID       U1            129
+             USB1          4
+             Z5            2
+
+UOTGVBOF     R3            1
+             U1            128
+
+USBVCC       C27           +
+             C35           +
+             F1            1
+             R2            2
+             R21           2
+             T1            1
+
+USBVCCU2     C28           1
+             F2            1
+             IC6           31
+             T2            2
+
+VBG          C25           1
+             R7            2
+             U1            40
+
+VDDANA       C10           2
+             C3            +
+             L1            2
+             U1            73
+
+VDDOUT       C11           +
+             C12           2
+             C13           2
+             C14           2
+             C15           2
+             C16           2
+             C17           2
+             L5            1
+             U1            10
+             U1            104
+             U1            124
+             U1            45
+             U1            56
+             U1            61
+
+VDDOUTMI     C2            +
+             C9            2
+             L2            2
+             U1            41
+
+VDDPLL       C32           2
+             C33           +
+             L5            2
+             U1            34
+
+VIN          C41           1
+             C49           +
+             D1            K
+             D5            P$1
+             IC5           16
+             PC1           +
+             POWER         8
+             R30           1
+             RN4           6
+
+VIN+         L6            2
+             R16           2
+             X2            2
+
+VUCAP        C38           1
+             IC6           27
+
+XIN          C22           1
+             U1            36
+             Y1            1
+
+XIN32        C24           1
+             U1            48
+             Y2            P$2
+
+XOUT         C21           1
+             U1            35
+             Y1            3
+
+XOUT32       C23           1
+             U1            49
+             Y2            P$1
+
+XT1          C39           1
+             IC6           1
+             R9            1
+             Y4            1
+
+XT2          C40           1
+             IC6           2
+             R9            2
+             Y4            3
+
+XUSB         C26           1
+             F1            2
+             U1            39
+             USB1          1
+             UVB1          X
+
+XVCC         F2            2
+             USB2          P1
+             UVB2          X
+

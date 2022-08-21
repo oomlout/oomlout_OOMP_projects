@@ -1,0 +1,216 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 09:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+3.3-ARDUINO JP2      2
+            U4       3.3V
+
+3.3V        C1       1
+            C7       A
+            TP2      P$1
+            U1       3
+            VREG     5
+
+5V          C3       1
+            JP2      3
+            R3       1
+            R4       2
+            U2       2
+            U4       5V
+
+A0          JP7      1
+            U4       A0
+
+A1          JP7      2
+            U4       A1
+
+A2          JP7      3
+            U4       A2
+
+A3          JP7      4
+            U4       A3
+
+ALT         SJ1      1
+            U1       5
+
+AREF        JP3      1
+            U4       AREF
+
+CELL        C2       1
+            R1       1
+            U1       2
+
+D2          JP8      6
+            SJ1      2
+            U4       D2
+
+D3          JP8      5
+            U4       D3
+
+D4          JP8      4
+            U4       D4
+
+D5          JP8      3
+            U4       D5
+
+D6          JP8      2
+            U4       D6
+
+D7          JP8      1
+            U4       D7
+
+D8          JP3      8
+            U4       D8
+
+D9          JP3      7
+            U4       D9
+
+D10         JP3      6
+            U4       D10
+
+D11         JP3      5
+            U4       D11
+
+D12         JP3      4
+            U4       D12
+
+D13         JP3      3
+            U4       D13
+
+EN          R5       1
+            U2       6
+
+FB          R4       1
+            R6       2
+            U2       10
+
+GND         C1       2
+            C2       2
+            C3       2
+            C4       2
+            C5       2
+            C7       C
+            C8       1
+            C9       2
+            D1       C
+            JP1      1
+            JP11     GND
+            JP13     1
+            JP2      4
+            JP2      5
+            JP3      2
+            JP4      2
+            R10      1
+            R11      1
+            R2       1
+            R6       1
+            R9       1
+            SJ2      1
+            U1       1
+            U1       4
+            U1       EP
+            U2       11
+            U2       12
+            U2       13
+            U2       14
+            U2       15
+            U2       4
+            U2       9
+            U3       2
+            U4       GND@0
+            U4       GND@1
+            U4       GND@2
+            VREG     2
+
+N$1         D1       A
+            R3       2
+
+N$3         L1       P$1
+            U2       3
+
+N$4         C5       1
+            U2       1
+
+N$5         D2       C
+            R12      1
+
+N$7         JP1      2
+            JP13     2
+            S2       2
+
+N$20        SJ3      2
+            U1       8
+
+PROG        R10      2
+            R11      2
+            U3       5
+
+PS          R8       1
+            SJ2      2
+            U2       8
+
+QST         R2       2
+            U1       6
+
+RST         JP2      1
+            U4       RES
+
+RX          JP8      8
+            U4       RX
+
+SCL         SJ4      2
+            U1       7
+
+SCL-A5      JP7      6
+            SJ4      3
+            U4       A5
+
+SCL-R3      SJ4      1
+            U4       SCL
+
+SDA-A4      JP7      5
+            SJ3      3
+            U4       A4
+
+SDA-R3      SJ3      1
+            U4       SDA
+
+STAT        R12      2
+            U3       1
+
+TX          JP8      7
+            U4       TX
+
+UVLO        C6       2
+            R7       1
+            R9       2
+            TP1      P$1
+            U2       7
+
+VBATT       C4       1
+            C6       1
+            C9       1
+            L1       P$2
+            R1       2
+            R5       2
+            R7       2
+            R8       2
+            S2       1
+            U2       5
+            U3       3
+            VREG     1
+            VREG     3
+
+VBUS        C8       2
+            D2       A
+            JP11     VBUS
+            JP4      1
+            U3       4
+
+VIN         JP2      6
+            U4       VIN
+

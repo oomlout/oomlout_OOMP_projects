@@ -1,0 +1,236 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net             Part     Pad
+
+3.3V            JP20     2
+                JP22     2
+                U1       3.3V
+
+A0              JP14     3
+                U1       A0
+
+A1              JP15     3
+                U1       A1
+
+A2              JP16     3
+                U1       A2
+
+A3              JP17     3
+                U1       A3
+
+A4              JP18     3
+                SJ3      3
+                U1       A4
+
+A5              JP19     3
+                SJ4      3
+                U1       A5
+
+AIN1            JP4      3
+                TP1      P$1
+                U1       D4
+                U2       21
+
+AIN2            JP5      3
+                TP2      P$1
+                U1       D5
+                U2       22
+
+ANALOG_PWR_RAIL JP14     2
+                JP15     2
+                JP16     2
+                JP17     2
+                JP18     2
+                JP19     2
+                S1       2
+
+AOUT1           JP21     4
+                JP23     4
+                R1       2
+                R2       2
+                U2       1
+                U2       2
+
+AOUT2           JP21     3
+                JP23     3
+                LED1     C
+                LED3     A
+                U2       5
+                U2       6
+
+BIN1            JP7      3
+                TP4      P$1
+                U1       D7
+                U2       17
+
+BIN2            JP8      3
+                TP5      P$1
+                U1       D8
+                U2       16
+
+BOUT1           JP21     2
+                JP23     2
+                R3       2
+                R4       2
+                U2       11
+                U2       12
+
+BOUT2           JP21     1
+                JP23     1
+                LED2     C
+                LED4     A
+                U2       7
+                U2       8
+
+D0              JP0      3
+                U1       RX
+
+D1              JP1      3
+                U1       TX
+
+D2              JP2      3
+                U1       D2
+
+D9              JP9      3
+                U1       D9
+
+D10             JP10     3
+                U1       D10
+
+D11             JP11     3
+                U1       D11
+
+D12             JP12     3
+                U1       D12
+
+D13             JP13     3
+                LED5     A
+                TP7      P$1
+                U1       D13
+
+FUSED_VCC       C2       1
+                F2       2
+                S1       3
+                S2       3
+                U2       19
+                U2       20
+
+FUSED_VIN       C1       1
+                C4       A
+                F1       2
+                S1       1
+                S2       1
+                U2       13
+                U2       14
+                U2       24
+
+GND             C1       2
+                C2       2
+                C4       C
+                JP0      1
+                JP1      1
+                JP10     1
+                JP11     1
+                JP12     1
+                JP13     1
+                JP14     1
+                JP15     1
+                JP16     1
+                JP17     1
+                JP18     1
+                JP19     1
+                JP2      1
+                JP20     1
+                JP22     1
+                JP3      1
+                JP4      1
+                JP5      1
+                JP6      1
+                JP7      1
+                JP8      1
+                JP9      1
+                R5       1
+                S4       1
+                S4       2
+                TP11     P$1
+                U1       GND@0
+                U1       GND@1
+                U1       GND@2
+                U2       10
+                U2       18
+                U2       3
+                U2       4
+                U2       9
+
+N$1             LED5     C
+                R5       2
+
+N$4             LED1     A
+                R1       1
+
+N$5             LED3     C
+                R2       1
+
+N$8             LED2     A
+                R3       1
+
+N$9             LED4     C
+                R4       1
+
+PWMA            JP3      3
+                TP3      P$1
+                U1       D3
+                U2       23
+
+PWMB            JP6      3
+                TP6      P$1
+                U1       D6
+                U2       15
+
+PWR_RAIL        JP0      2
+                JP1      2
+                JP10     2
+                JP11     2
+                JP12     2
+                JP13     2
+                JP2      2
+                JP3      2
+                JP4      2
+                JP5      2
+                JP6      2
+                JP7      2
+                JP8      2
+                JP9      2
+                S2       2
+
+RESET           S4       3
+                S4       4
+                TP8      P$1
+                U1       RES
+
+SCL             SJ4      1
+                U1       SCL
+
+SCL_I2C_PORT    JP20     4
+                JP22     4
+                SJ4      2
+
+SDA             SJ3      1
+                U1       SDA
+
+SDA_I2C_PORT    JP20     3
+                JP22     3
+                SJ3      2
+
+VCC             F2       1
+                TP10     P$1
+                U1       5V
+
+VIN             F1       1
+                TP9      P$1
+                U1       VIN
+

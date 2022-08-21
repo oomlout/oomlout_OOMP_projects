@@ -1,0 +1,212 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 15:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      JP1      1
+         JP1      2
+         JP1      3
+         JP1      4
+         JP1      5
+
+N$2      JP2      1
+         JP2      2
+         JP2      3
+         JP2      4
+         JP2      5
+
+N$3      JP3      1
+         JP3      2
+         JP3      3
+         JP3      4
+         JP3      5
+
+N$4      JP4      1
+         JP4      2
+         JP4      3
+         JP4      4
+         JP4      5
+
+N$5      JP5      1
+         JP5      2
+         JP5      3
+         JP5      4
+         JP5      5
+
+N$6      JP6      1
+         JP6      2
+         JP6      3
+         JP6      4
+         JP6      5
+
+N$7      JP7      1
+         JP7      2
+         JP7      3
+         JP7      4
+         JP7      5
+
+N$8      JP8      1
+         JP8      2
+         JP8      3
+         JP8      4
+         JP8      5
+
+N$9      JP9      1
+         JP9      2
+         JP9      3
+         JP9      4
+         JP9      5
+
+N$10     JP10     1
+         JP10     2
+         JP10     3
+         JP10     4
+         JP10     5
+
+N$11     JP11     1
+         JP11     2
+         JP11     3
+         JP11     4
+         JP11     5
+
+N$12     JP12     1
+         JP12     2
+         JP12     3
+         JP12     4
+         JP12     5
+
+N$13     JP13     1
+         JP13     2
+         JP13     3
+         JP13     4
+         JP13     5
+
+N$14     JP14     1
+         JP14     2
+         JP14     3
+         JP14     4
+         JP14     5
+
+N$15     JP15     1
+         JP15     2
+         JP15     3
+         JP15     4
+         JP15     5
+
+N$16     JP16     1
+         JP16     2
+         JP16     3
+         JP16     4
+         JP16     5
+
+N$17     JP17     1
+         JP17     2
+         JP17     3
+         JP17     4
+         JP17     5
+
+N$18     JP18     1
+         JP18     2
+         JP18     3
+         JP18     4
+         JP18     5
+
+N$19     JP19     1
+         JP19     2
+         JP19     3
+         JP19     4
+         JP19     5
+
+N$20     JP20     1
+         JP20     2
+         JP20     3
+         JP20     4
+         JP20     5
+
+N$21     JP21     1
+         JP21     2
+         JP21     3
+         JP21     4
+         JP21     5
+
+N$22     JP22     1
+         JP22     2
+         JP22     3
+         JP22     4
+         JP22     5
+
+N$23     JP23     1
+         JP23     2
+         JP23     3
+         JP23     4
+         JP23     5
+
+N$24     JP24     1
+         JP24     2
+         JP24     3
+         JP24     4
+         JP24     5
+
+N$25     JP25     1
+         JP25     2
+         JP25     3
+         JP25     4
+         JP25     5
+
+N$26     JP26     1
+         JP26     2
+         JP26     3
+         JP26     4
+         JP26     5
+
+N$27     JP27     1
+         JP27     2
+         JP27     3
+         JP27     4
+         JP27     5
+
+N$28     JP28     1
+         JP28     2
+         JP28     3
+         JP28     4
+         JP28     5
+
+N$29     JP29     1
+         JP29     2
+         JP29     3
+         JP29     4
+         JP29     5
+
+N$30     JP30     1
+         JP30     2
+         JP30     3
+         JP30     4
+         JP30     5
+
+N$31     JP31     1
+         JP31     2
+         JP31     3
+         JP31     4
+         JP31     5
+
+N$32     JP32     1
+         JP32     2
+         JP32     3
+         JP32     4
+         JP32     5
+
+N$33     JP33     1
+         JP33     2
+         JP33     3
+         JP33     4
+         JP33     5
+
+N$34     JP34     1
+         JP34     2
+         JP34     3
+         JP34     4
+         JP34     5
+

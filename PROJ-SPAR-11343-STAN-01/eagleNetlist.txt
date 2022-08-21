@@ -1,0 +1,306 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C10      A
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         JP2      1
+         JP2      2
+         JP2      3
+         L1       2
+         R1       2
+         R7       2
+         U1       10
+         U1       26
+         U1       35
+         U1       38
+         U1       57
+         U3       3
+
+5V       C6       1
+         D1       C
+         JP4      1
+         JP4      2
+         JP4      3
+         L2       P$2
+         Q1       2
+         R3       A
+         R9       2
+         U2       14
+         U3       1
+         U3       2
+
+ANCHOR1  JP21     SHIELD1
+         JP21     SHIELD2
+         JP21     SHIELD3
+
+BOOT     D3       C
+         JP14     1
+         U1       39
+
+D+       JP21     D+1
+         TP2      P$1
+         U1       37
+
+D-       JP21     D-1
+         TP3      P$1
+         U1       36
+
+GND      C1       2
+         C10      C
+         C11      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       C
+         C8       2
+         C9       2
+         D5       C
+         JP17     1
+         JP17     2
+         JP17     3
+         JP19     1
+         JP21     GND1
+         JP3      1
+         JP5      1
+         JP5      2
+         JP5      3
+         JP6      1
+         JP6      2
+         JP6      3
+         Q2       2
+         Q3       2
+         R2       2
+         R4       2
+         S1       S
+         U1       20
+         U1       25
+         U1       41
+         U1       9
+         U2       15
+         U2       16
+         U2       5
+         U2       6
+         U2       7
+         U2       8
+         U2       EXT
+         U3       5
+         U3       6
+         U3       7
+         U3       8
+
+HOST     Q2       1
+         R2       1
+         U1       40
+
+MCLR     R8       1
+         U1       7
+
+N$1      Q1       1
+         R3       B
+
+N$2      D3       A
+         R7       1
+
+N$3      D5       A
+         R9       1
+
+N$4      D1       A
+         F1       2
+         Q1       3
+
+N$5      C7       A
+         U1       56
+
+N$6      L2       P$1
+         U2       1
+         U2       2
+         U2       3
+
+N$7      C8       1
+         U2       9
+
+N$8      Q2       3
+         R3       C
+
+N$9      C1       1
+         L1       1
+         U1       19
+
+N$12     D2       A
+         Q3       1
+         R4       1
+
+P7       JP15     1
+         R1       1
+         R8       2
+
+PIN1     JP20     1
+         U1       31
+
+PIN2     JP20     2
+         U1       32
+
+PIN3     JP20     3
+         U1       42
+
+PIN4     JP20     4
+         U1       43
+
+PIN5     JP20     5
+         U1       44
+
+PIN6     JP20     6
+         U1       45
+
+PIN7     JP20     7
+         U1       46
+
+PIN8     JP20     8
+         U1       47
+
+PIN9     JP20     9
+         U1       48
+
+PIN10    JP20     10
+         U1       49
+
+PIN11    JP20     11
+         U1       50
+
+PIN12    JP20     12
+         U1       51
+
+PIN13    JP20     13
+         U1       52
+
+PIN14    JP20     14
+         U1       53
+
+PIN15    JP20     15
+         U1       54
+
+PIN16    JP20     16
+         U1       55
+
+PIN17    JP20     17
+         U1       58
+
+PIN18    JP20     18
+         U1       59
+
+PIN19    JP20     19
+         U1       60
+
+PIN20    JP9      11
+         U1       61
+
+PIN21    JP9      10
+         U1       62
+
+PIN22    JP9      9
+         U1       63
+
+PIN23    JP9      8
+         U1       64
+
+PIN24    JP9      7
+         U1       1
+
+PIN25    JP9      6
+         U1       2
+
+PIN26    JP9      5
+         U1       3
+
+PIN27    JP9      4
+         U1       4
+
+PIN28    JP9      3
+         U1       5
+
+PIN29    JP9      2
+         U1       6
+
+PIN30    JP9      1
+         U1       8
+
+PIN31    JP7      16
+         U1       11
+
+PIN32    JP7      15
+         U1       12
+
+PIN33    JP7      14
+         U1       13
+
+PIN34    JP7      13
+         U1       14
+
+PIN35    JP7      12
+         U1       15
+
+PIN36    JP7      11
+         U1       16
+
+PIN37    JP7      10
+         U1       17
+
+PIN38    JP7      9
+         U1       18
+
+PIN39    JP7      8
+         U1       21
+
+PIN40    JP7      7
+         U1       22
+
+PIN41    JP7      6
+         U1       23
+
+PIN42    JP7      5
+         U1       24
+
+PIN43    JP7      4
+         U1       27
+
+PIN44    JP7      3
+         U1       28
+
+PIN45    JP7      2
+         U1       29
+
+PIN46    JP7      1
+         U1       30
+
+USBID    JP21     ID1
+         S1       P
+         TP1      P$1
+         U1       33
+
+VBUS     F1       1
+         JP21     VBUS1
+         U1       34
+
+VIN      C11      1
+         C9       1
+         D2       C
+         JP1      1
+         JP1      2
+         JP1      3
+         JP19     2
+         Q3       3
+         U2       10
+         U2       11
+         U2       12
+         U2       13
+

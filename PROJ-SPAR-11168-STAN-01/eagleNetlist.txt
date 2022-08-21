@@ -1,0 +1,135 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     S2       3
+         U1       3.3V
+
+5V       S2       1
+         U1       5V
+
+A0       U1       A0
+
+A1       U1       A1
+
+A2       U1       A2
+
+A3       U1       A3
+
+A4       U1       A4
+
+A5       U1       A5
+
+AREF     U1       AREF
+
+D2       U1       D2
+
+D3       U1       D3
+
+D4       U1       D4
+
+D5       U1       D5
+
+D6       U1       D6
+
+D7       R2       1
+         U1       D7
+
+D8       R4       1
+         U1       D8
+
+D9       R5       1
+         U1       D9
+
+GND      IC1      22
+         IC1      4
+         IC1      8
+         J1       6
+         LED1     C
+         LED2     C
+         LED3     C
+         LED4     C
+         Q1       2
+         S3       1
+         U$9      10
+         U$9      4
+         U$9      6
+         U$9      8
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+
+MISO     IC1      18
+         IC1      26
+         J1       1
+         U$9      9
+         U1       D12
+
+MOSI     IC1      17
+         IC1      25
+         J1       4
+         U$9      1
+         U1       D11
+
+N$1      LED1     A
+         R1       2
+
+N$2      LED2     A
+         R2       2
+
+N$3      LED3     A
+         R4       2
+
+N$4      LED4     A
+         R5       2
+
+N$5      R6       1
+         SJ1      2
+
+NC       U$9      3
+
+RES      S3       3
+         SJ1      1
+         U1       RES
+
+RX       IC1      3
+         U1       RX
+
+SCK      IC1      19
+         IC1      27
+         J1       3
+         U$9      7
+         U1       D13
+
+SLV_RST  IC1      1
+         J1       5
+         R3       1
+         U$9      5
+         U1       D10
+
+TX       IC1      2
+         U1       TX
+
+VCC      IC1      20
+         IC1      21
+         IC1      28
+         IC1      7
+         J1       2
+         R1       1
+         R3       2
+         R6       2
+         S2       2
+         U$9      2
+
+VIN      U1       VIN
+
+XTAL1    IC1      9
+         Q1       3
+
+XTAL2    IC1      10
+         Q1       1
+

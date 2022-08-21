@@ -1,0 +1,27 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      JP1      SLEEVE
+         JP2      1
+         JP3      5
+
+N$1      JP1      TIP
+         JP3      1
+
+N$2      JP1      TIP-NORM
+         JP3      2
+
+N$3      JP1      RING
+         JP3      3
+
+N$4      JP1      RING-NORM
+         JP3      4
+
+N$6      JP1      SLEEVE-NORM
+         JP3      6
+

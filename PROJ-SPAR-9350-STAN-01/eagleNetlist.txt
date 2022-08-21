@@ -1,0 +1,20 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+OFF      S1       2
+         S1       5
+         SLIDEOFF 1
+
+ON       S1       3
+         S1       6
+         SLIDEON  1
+
+SINK1    S1       4
+
+SINK2    S1       1
+

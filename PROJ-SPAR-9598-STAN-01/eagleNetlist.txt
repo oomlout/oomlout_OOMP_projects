@@ -1,0 +1,137 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+56       D1       C
+         R1       2
+         U$6      2
+
+1235     R3       1
+         U$3      5
+
+A0       JP6      1
+         U$1      A0
+
+A1       JP6      2
+         U$1      A1
+
+A2       JP6      3
+         U$1      A2
+
+A3       JP6      4
+         U$1      A3
+
+A4       JP6      5
+         U$1      A4
+
+A5       JP6      6
+         U$1      A5
+
+D2       JP4      1
+         U$1      D2
+
+D3       JP4      2
+         U$1      D3
+
+D4       JP4      3
+         U$1      D4
+
+D5       JP4      4
+         U$1      D5
+
+D6       JP4      5
+         U$1      D6
+
+D7       JP4      6
+         U$1      D7
+
+D8       JP5      1
+         U$1      D8
+
+D9       JP5      2
+         U$1      D9
+
+D10      JP5      3
+         U$1      D10
+
+D11      JP5      4
+         U$1      D11
+
+D12      JP5      5
+         U$1      D12
+
+D13      JP5      6
+         U$1      D13
+
+GND      JP10     1
+         JP10     2
+         JP10     3
+         JP10     4
+         JP10     5
+         JP10     6
+         JP7      1
+         JP7      2
+         JP7      3
+         JP7      4
+         JP7      5
+         JP7      6
+         JP9      1
+         JP9      2
+         JP9      3
+         JP9      4
+         JP9      5
+         JP9      6
+         S3       2
+         U$1      GND@0
+         U$1      GND@1
+         U$1      GND@2
+         U$3      2
+         U$5      2
+         U$6      5
+
+N$1      R6       1
+         U$5      5
+
+N$2      R5       2
+         U$5      4
+
+N$3      R1       1
+         U$2      5
+
+N$4      S5       2
+         U$1      RX
+
+N$5      S3       4
+         U$1      RES
+
+N$8      R4       1
+         U$3      4
+
+PIN5     D1       A
+         U$2      4
+         U$6      3
+
+RX       R2       1
+         R5       1
+         S5       1
+         U$6      6
+
+TX       R4       2
+         U$1      TX
+
+VCC      JP8      1
+         JP8      2
+         JP8      3
+         JP8      4
+         JP8      5
+         JP8      6
+         R2       2
+         R3       2
+         R6       2
+         U$1      5V
+         U$6      8
+

@@ -1,0 +1,163 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net              Part     Pad
+
+3.3V             C1       1
+                 C14      A
+                 C2       1
+                 C5       1
+                 C7       1
+                 C8       1
+                 D5       C
+                 D7       C
+                 D9       C
+                 JP1      3
+                 JP2      3
+                 JP4      4
+                 R1       1
+                 R17      1
+                 SJ1      2
+                 SJ3      2
+                 U1       5
+                 U2       VDD
+                 U3       1
+                 U3       4
+
+GND              C1       2
+                 C13      C
+                 C14      C
+                 C2       2
+                 C5       2
+                 C6       2
+                 C7       2
+                 C8       2
+                 D10      A
+                 D6       A
+                 D8       A
+                 JP1      4
+                 JP2      1
+                 JP3      1
+                 JP4      3
+                 JP5-DNP  GND
+                 JP5-DNP  P$4
+                 JP6-DNP  1
+                 JP9      2
+                 JP9      21
+                 JP9      GND@0
+                 JP9      GND@2
+                 R12      2
+                 R15      2
+                 R16      2
+                 U1       2
+                 U2       7
+                 U2       GND
+                 U3       3
+
+INT-PRESSURE     U3       6
+
+N$1              JP8      3
+                 R14      2
+
+N$2              JP8      2
+                 R13      2
+
+N$3              R3       2
+                 SJ1      3
+
+N$4              JP7      3
+                 R11      2
+
+N$5              C6       1
+                 U3       2
+
+N$6              R2       2
+                 SJ1      1
+
+N$7              JP9      24
+                 JP9      3V3
+                 SJ3      1
+
+N$11             JP7      4
+                 R12      1
+
+N$12             JP8      5
+                 R15      1
+
+N$13             JP8      4
+                 R16      1
+
+PHOTON_VIN       JP9      1
+                 JP9      VIN
+                 SJ2      1
+
+RAIN             D5       A
+                 D6       C
+                 JP9      15
+                 JP9      D2
+                 R11      1
+
+RAIN2            JP7      2
+
+RAIN5            JP7      5
+
+RAW              JP5-DNP  VIN0
+                 JP6-DNP  2
+                 SJ2      2
+
+RXI              JP4      2
+                 JP9      4
+                 JP9      RX
+
+SCL              JP1      1
+                 JP9      14
+                 JP9      D1
+                 R3       1
+                 U2       SCK
+                 U3       8
+
+SDA              JP1      2
+                 JP9      13
+                 JP9      D0
+                 R2       1
+                 U2       DATA
+                 U3       7
+
+SOIL_MOIST       JP3      2
+                 JP9      11
+                 JP9      A1
+
+SOIL_MOIST_POWER JP3      3
+                 JP9      18
+                 JP9      D5
+
+SOIL_TEMP        JP2      2
+                 JP9      17
+                 JP9      D4
+                 R1       2
+
+TXO              JP4      1
+                 JP9      3
+                 JP9      TX
+
+VREG             C13      A
+                 SJ2      3
+                 U1       1
+                 U1       3
+
+WDIR             D7       A
+                 D8       C
+                 JP9      12
+                 JP9      A0
+                 R13      1
+                 R17      2
+
+WSPEED           D10      C
+                 D9       A
+                 JP9      16
+                 JP9      D3
+                 R14      1
+

@@ -1,0 +1,53 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+ALLNET   GND      1
+         JP1      1
+         JP10     1
+         JP11     1
+         JP12     1
+         JP13     1
+         JP14     1
+         JP15     1
+         JP16     1
+         JP17     1
+         JP18     1
+         JP19     1
+         JP2      1
+         JP20     1
+         JP21     1
+         JP22     1
+         JP3      1
+         JP4      1
+         JP5      1
+         JP6      1
+         JP7      1
+         JP8      1
+         JP9      1
+         U$30     1
+         U$31     1
+         U$32     1
+         U$33     1
+         U$34     1
+         U$35     1
+         U$36     1
+         U$37     1
+         U$38     1
+         U$39     1
+         U$4      1
+         U$40     1
+         U$41     1
+         U$42     1
+         U$43     1
+         U$44     1
+         U$45     1
+         U$46     1
+         U$47     1
+         U$48     1
+         U$51     1
+

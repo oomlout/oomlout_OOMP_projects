@@ -1,0 +1,142 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 06:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!ERR     C1       1
+         J4       2
+         J6       8
+         R1       2
+         U1       13
+
+!STBY    J4       3
+         J6       9
+         R12      1
+         U1       12
+
+3.3V     J6       2
+         JP4      2
+         R10      2
+         R4       1
+         R6       2
+         R7       2
+         R8       2
+         R9       2
+         U2       2
+         U2       4
+
+EN       J4       1
+         J6       7
+         S1       1
+
+GND      C1       2
+         C2       -
+         C3       2
+         C4       2
+         D2       C
+         J1       GND
+         J1       P$4
+         J2       1
+         J3       1
+         J4       4
+         J6       10
+         R11      2
+         R12      2
+         R2       1
+         R3       P$1
+         R5       1
+         U1       17
+         U1       2
+         U1       4
+         U1       9
+         VR1      3
+
+MODE0    J5       4
+         J6       6
+         R10      1
+         U1       14
+
+MODE1    J5       3
+         J6       5
+         R9       1
+         U1       15
+
+MODE2    J5       2
+         J6       4
+         R8       1
+         U1       16
+
+MODE3    J5       1
+         J6       3
+         R7       1
+         U1       1
+
+N$1      D1       C
+         D1BP     2
+         F1       1
+         PTCBP    1
+
+N$2      OSCMBP   1
+         R2       2
+
+N$3      F1       2
+         PTCBP    2
+         R13      1
+
+N$4      R4       2
+         R5       2
+         U2       1
+
+N$5      R6       1
+         VR1      1
+
+N$6      D2       A
+         R14      2
+
+N$7      R1       1
+         R11      1
+         S1       2
+
+N$8      JP4      1
+         R14      1
+
+OSCM     OSCMBP   2
+         R3       P$2
+         U1       11
+
+OUT_A+   J7       4
+         J8       4
+         U1       5
+
+OUT_A-   J7       3
+         J8       3
+         U1       6
+
+OUT_B+   J7       1
+         J8       1
+         U1       8
+
+OUT_B-   J7       2
+         J8       2
+         U1       7
+
+RAW      D1       A
+         D1BP     1
+         J1       VIN0
+         J2       2
+         J3       2
+
+VM       C2       +
+         C3       1
+         R13      2
+         U1       3
+         U2       3
+
+VREF     C4       1
+         J6       1
+         U1       10
+         VR1      2
+

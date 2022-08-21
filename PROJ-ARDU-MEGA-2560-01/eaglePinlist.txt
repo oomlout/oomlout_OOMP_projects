@@ -1,0 +1,466 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 18:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+ADCH     1        ADC8
+         2        ADC9
+         3        ADC10
+         4        ADC11
+         5        ADC12
+         6        ADC13
+         7        ADC14
+         8        ADC15
+
+ADCL     1        ADC0
+         2        ADC1
+         3        ADC2
+         4        ADC3
+         5        ADC4
+         6        ADC5
+         7        ADC6
+         8        ADC7
+
+C1       1        RESET
+         2        GND
+
+C2       1        VIN
+         2        GND
+
+C3       1        AREF
+         2        GND
+
+C4       1        +5V
+         2        GND
+
+C5       1        +5V
+         2        GND
+
+C6       1        +5V
+         2        GND
+
+C7       1        DTR
+         2        RESET
+
+C8       1        USBVCC
+         2        GND
+
+C9       1        +5V
+         2        GND
+
+C10      1        VUCAP
+         2        UGND
+
+C11      1        GND
+         2        +5V
+
+C12      1        GND
+         2        CMP
+
+C13      1        GND
+         2        +3V3
+
+C14      1        XT1
+         2        GND
+
+C15      1        XT2
+         2        GND
+
+C16      1        AVCC
+         2        GND
+
+COMMUNICATION 1        SCL
+         2        SDA
+         3        RXD1
+         4        TXD1
+         5        RXD2
+         6        TXD2
+         7        RXD3
+         8        TXD3
+
+D1       A        PWRIN
+         C        VIN
+
+D2       A        RESET2
+         C        +5V
+
+D3       A        RESET
+         C        +5V
+
+F1       1        USBVCC
+         2        XVCC
+
+FD1      P$1               *** unconnected ***
+
+FD2      P$1               *** unconnected ***
+
+FD3      P$1               *** unconnected ***
+
+FD4      P$1               *** unconnected ***
+
+GROUND   1        UGND
+         2        GND
+
+IC1      1        GND
+         2        +5V
+         3        VIN
+         4        +5V
+
+IC3      1        PG5
+         2        PE0
+         3        PE1
+         4                 *** unconnected ***
+         5        PE3
+         6        PE4
+         7        PE5
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       +5V
+         11       GND
+         12       RXD2
+         13       TXD2
+         14                *** unconnected ***
+         15       PH3
+         16       PH4
+         17       PH5
+         18       PH6
+         19       PB0
+         20       PB1
+         21       PB2
+         22       PB3
+         23       PB4
+         24       PB5
+         25       PB6
+         26       PB7
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30       RESET
+         31       +5V
+         32       GND
+         33       XTAL2
+         34       XTAL1
+         35       PL0
+         36       PL1
+         37       PL2
+         38       PL3
+         39       PL4
+         40       PL5
+         41       PL6
+         42       PL7
+         43       SCL
+         44       SDA
+         45       RXD1
+         46       TXD1
+         47                *** unconnected ***
+         48                *** unconnected ***
+         49                *** unconnected ***
+         50       PD7
+         51       PG0
+         52       PG1
+         53       PC0
+         54       PC1
+         55       PC2
+         56       PC3
+         57       PC4
+         58       PC5
+         59       PC6
+         60       PC7
+         61       +5V
+         62       GND
+         63       RXD3
+         64       TXD3
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69                *** unconnected ***
+         70       PG2
+         71       PA7
+         72       PA6
+         73       PA5
+         74       PA4
+         75       PA3
+         76       PA2
+         77       PA1
+         78       PA0
+         79                *** unconnected ***
+         80       +5V
+         81       GND
+         82       ADC15
+         83       ADC14
+         84       ADC13
+         85       ADC12
+         86       ADC11
+         87       ADC10
+         88       ADC9
+         89       ADC8
+         90       ADC7
+         91       ADC6
+         92       ADC5
+         93       ADC4
+         94       ADC3
+         95       ADC2
+         96       ADC1
+         97       ADC0
+         98       AREF
+         99       GND
+         100      AVCC
+
+IC4      1        XT1
+         2        XT2
+         3        GND
+         4        +5V
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        M8TXD
+         9        M8RXD
+         10       RXL
+         11       TXL
+         12                *** unconnected ***
+         13       DTR
+         14                *** unconnected ***
+         15       SCK2
+         16       MOSI2
+         17       MISO2
+         18       8PB4
+         19       8PB5
+         20       8PB6
+         21       8PB7
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       RESET2
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27       VUCAP
+         28       UGND
+         29       RD+
+         30       RD-
+         31       USBVCC
+         32       +5V
+         33       GND
+
+IC6      1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        +3V3
+
+IC7      1        L13
+         2        L13
+         3        PB7
+         4        GND
+         5        CMP
+         6        +3V3
+         7        GATE_CMD
+         8        +5V
+
+ICSP     1        PB3
+         2        +5V
+         3        PB1
+         4        PB2
+         5        RESET
+         6        GND
+
+ICSP1    1        MISO2
+         2        +5V
+         3        SCK2
+         4        MOSI2
+         5        RESET2
+         6        GND
+
+JP5      1        8PB4
+         2        8PB6
+         3        8PB5
+         4        8PB7
+
+JP6      1        SCL
+         2        SDA
+         3        AREF
+         4        GND
+         5        PB7
+         6        PB6
+         7        PB5
+         8        PB4
+         9        PH6
+         10       PH5
+
+L        A        N$2
+         C        GND
+
+L1       1        UGND
+         2        USHIELD
+
+L2       1        AVCC
+         2        +5V
+
+ON       A        N$3
+         C        GND
+
+PC1      +        VIN
+         -        GND
+
+PC2      +        +5V
+         -        GND
+
+POWER    1                 *** unconnected ***
+         2        +5V
+         3        RESET
+         4        +3V3
+         5        +5V
+         6        GND
+         7        GND
+         8        VIN
+
+PWML     1        PE0
+         2        PE1
+         3        PE4
+         4        PE5
+         5        PG5
+         6        PE3
+         7        PH3
+         8        PH4
+
+R1       1        XTAL1
+         2        XTAL2
+
+R2       1        XT1
+         2        XT2
+
+RESET    1        GND
+         2        GND
+         3        RESET
+         4        RESET
+         5        5-GND
+
+RESET-EN 1        RESET
+         2        RESET
+
+RN1      1                 *** unconnected ***
+         2        SCL
+         3        SDA
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6        +5V
+         7        +5V
+         8                 *** unconnected ***
+
+RN2      1        RD-
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        RD+
+         5        D+
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        D-
+
+RN3      1        +5V
+         2        N$2
+         3                 *** unconnected ***
+         4        DTR
+         5        GND
+         6                 *** unconnected ***
+         7        L13
+         8        N$3
+
+RN4      1        PE1
+         2        PE0
+         3        N$55
+         4        N$54
+         5        +5V
+         6        +5V
+         7        M8RXD
+         8        M8TXD
+
+RN5      1        RESET
+         2        +5V
+         3        CMP
+         4        GND
+         5        CMP
+         6        VIN
+         7        RESET2
+         8        +5V
+
+RX       A        N$54
+         C        RXL
+
+T1       1        USBVCC
+         2        +5V
+         3        GATE_CMD
+
+TX       A        N$55
+         C        TXL
+
+U$1     
+U$2     
+X1       1        GND
+         2        PWRIN
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+
+X2       1        XVCC
+         2        D-
+         3        D+
+         4        UGND
+         P$1      USHIELD
+         P$2      USHIELD
+
+XIO      1        +5V
+         2        +5V
+         3        PA0
+         4        PA1
+         5        PA2
+         6        PA3
+         7        PA4
+         8        PA5
+         9        PA6
+         10       PA7
+         11       PC7
+         12       PC6
+         13       PC5
+         14       PC4
+         15       PC3
+         16       PC2
+         17       PC1
+         18       PC0
+         19       PD7
+         20       PG2
+         21       PG1
+         22       PG0
+         23       PL7
+         24       PL6
+         25       PL5
+         26       PL4
+         27       PL3
+         28       PL2
+         29       PL1
+         30       PL0
+         31       PB3
+         32       PB2
+         33       PB1
+         34       PB0
+         35       GND
+         36       GND
+
+Y1       1        XTAL2
+         2        GND
+         3        XTAL1
+
+Y2       1        XT2
+         2        XT1
+
+Z1       1        USHIELD
+         2        D-
+
+Z2       1        USHIELD
+         2        D+
+

@@ -1,0 +1,106 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++VS      C2       1
+         JP2      1
+         JP3      1
+         U1       3
+
+D+       JP4      D+
+
+D-       JP4      D-
+
+GND      C1       2
+         C2       2
+         D2       C
+         JP1      3
+         JP2      2
+         JP3      2
+         JP4      GND
+         R2       1
+         R4       1
+         U1       2
+         U2       2
+         U2       4
+
+ID       JP4      ID
+
+N$1      D3       1
+         U2       1
+
+N$2      D3       2
+         U2       20
+
+N$3      D3       5
+         U2       17
+
+N$4      D3       3
+         U2       19
+
+N$5      D4       1
+         U2       16
+
+N$6      MODE     1
+         U2       11
+
+N$8      D3       4
+         U2       18
+
+N$9      D2       A
+         R5       2
+
+N$10     D1       A
+         R3       1
+
+N$11     D4       2
+         U2       15
+
+N$12     D4       3
+         U2       14
+
+N$13     D4       4
+         U2       13
+
+N$14     D4       5
+         U2       12
+
+N$15     D1       C
+         R5       1
+         U1       1
+
+N$17     R4       2
+         U1       5
+
+N$19     R1       1
+         R2       2
+         U2       10
+
+N$20     R1       2
+         U2       6
+         U2       8
+
+RAW      JP1      1
+
+SHIELD   JP4      SHIELD1
+         JP4      SHIELD2
+         JP4      SHIELD3
+
+SHLD_PWR D3       6
+         D4       6
+         JP1      2
+         MODE     2
+         U2       3
+
+SIG      JP2      3
+         U2       5
+
+VBUS     C1       1
+         JP4      VBUS
+         R3       2
+         U1       4
+

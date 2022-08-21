@@ -1,0 +1,244 @@
+Netlist
+
+Exported from boardEagle.brd at 21/08/2022 10:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RESET   MS2      1
+         MS2      1'
+         SW1      B
+         SW1      B'
+         TP4      P$1
+
+!TFT_RST IC4      2
+         R6       1
+         X2       10
+
++5V      C16      1
+         C2       1
+         C5       1
+         D3       C
+         D4       C
+         L1       P$1
+         U3       5
+
++24V     C20      1
+         D1       C
+         D2       C
+         X2       2
+         X2       3
+         X2       4
+         X2       5
+
+3.3V     C1       1
+         C3       1
+         C4       1
+         IC4      3
+         MS2      2
+         MS2      2'
+         R12      1
+         R2       2
+         R5       2
+         R6       2
+         R8       2
+         TP5      P$1
+         U2       14
+         U2       6
+         U2       9
+         X1       4
+         X2       40
+         X2       41
+         X2       42
+         X2       6
+         X2       7
+         X2       8
+
+A        MS2      5
+         MS2      5'
+         TP8      P$1
+
+AREF     MS2      3
+         MS2      3'
+         TP6      P$1
+
+B        MS2      6
+         MS2      6'
+         TP9      P$1
+
+C        MS2      7
+         MS2      7'
+         TP11     P$1
+
+CARDDET  X1       CD2
+
+D        MS2      8
+         MS2      8'
+         TP12     P$1
+
+E        MS2      9
+         MS2      9'
+         TP13     P$1
+
+EN       ENABLE   P2
+         MS2      27
+         MS2      27'
+         TP10     P$1
+
+F        MS2      10
+         MS2      10'
+         TP14     P$1
+
+G        MS2      16
+         MS2      16'
+         TP20     P$1
+
+GND      C1       2
+         C16      2
+         C18      2
+         C2       2
+         C20      2
+         C3       2
+         C4       2
+         C5       2
+         ENABLE   S1
+         ENABLE   S2
+         IC4      1
+         MS2      4
+         MS2      4'
+         R1       1
+         SW1      A
+         SW1      A'
+         TP7      P$1
+         U2       10
+         U3       2
+         X1       6
+         X1       MT1
+         X1       MT2
+         X2       43
+         X2       48
+         X2       49
+         X2       50
+
+H        MS2      19
+         MS2      19'
+         SJ3      1
+
+I        MS2      20
+         MS2      20'
+         SJ2      1
+
+J        MS2      21
+         MS2      21'
+         SJ1      1
+
+K        MS2      22
+         MS2      22'
+         SJ4      1
+
+L        MS2      23
+         MS2      23'
+         TP25     P$1
+
+LCD_LITE ENABLE   P1
+         R12      2
+         TP1      P$1
+         U2       11
+         U3       4
+
+LEDK     C18      1
+         D1       A
+         R1       2
+         U3       3
+         X2       1
+
+M        MS2      24
+         MS2      24'
+         TP24     P$1
+
+MISO     MS2      13
+         MS2      13'
+         TP17     P$1
+         U2       3
+         X1       7
+         X2       33
+
+MOSI     MS2      12
+         MS2      12'
+         TP16     P$1
+         U2       7
+         X1       3
+         X2       34
+
+N        MS2      25
+         MS2      25'
+         TP23     P$1
+
+N$3      D2       A
+         L1       P$2
+         U3       1
+
+RT_CS    R8       1
+         SJ2      2
+         U2       5
+
+RT_INT   TP2      P$1
+         U2       2
+
+RX       MS2      14
+         MS2      14'
+         TP18     P$1
+
+SCL      MS2      18
+         MS2      18'
+         TP26     P$1
+
+SCLK     MS2      11
+         MS2      11'
+         TP15     P$1
+         U2       4
+         X1       5
+         X2       36
+
+SDA      MS2      17
+         MS2      17'
+         TP27     P$1
+
+SD_CS    R2       1
+         SJ3      2
+         X1       2
+
+TFT_CS   R5       1
+         SJ1      2
+         X2       38
+
+TFT_DC   SJ4      2
+         X2       37
+
+TX       MS2      15
+         MS2      15'
+         TP19     P$1
+
+USB      D4       A
+         MS2      26
+         MS2      26'
+         TP22     P$1
+
+VBAT     D3       A
+         MS2      28
+         MS2      28'
+         TP21     P$1
+
+XL       U2       16
+         X2       46
+
+XR       U2       13
+         X2       44
+
+YD       U2       15
+         X2       45
+
+YU       U2       1
+         X2       47
+

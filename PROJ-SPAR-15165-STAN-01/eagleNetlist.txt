@@ -1,0 +1,214 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!INT     J5       1
+         R7       1
+         U4       6
+
+!RST     J10      1
+         J7       5
+         R8       1
+         U4       4
+
+!SDN     U2       7
+
+3.3V     C16      1
+         C2       1
+         J2       2
+         J3       2
+         J4       2
+         J7       2
+         JP8      2
+         JP9      2
+         R10      2
+         R3       2
+         R8       2
+         U1       6
+         U2       5
+         U3       5
+         U4       1
+
+5V       C4       1
+         J15      VBUS1
+         J15      VBUS2
+         U3       1
+         U3       3
+
+AC-L     C3       2
+         J8       RING1
+         JP10     3
+
+AC-R     C6       2
+         J8       TIP
+         JP10     2
+
+ADKEY    R1       1
+         U2       13
+
+ADR      JP7      2
+         U4       3
+
+D+       J15      A6
+         J15      B6
+         U2       12
+
+D-       J15      A7
+         J15      B7
+         U2       11
+
+GND      C1       2
+         C16      2
+         C2       2
+         C4       2
+         C5       1
+         C9       2
+         D1       C
+         J1       CD1
+         J1       GND
+         J11      1
+         J11      2
+         J11      3
+         J11      4
+         J15      GND
+         J15      GND2
+         J15      SHLD1
+         J15      SHLD2
+         J15      SHLD3
+         J15      SHLD4
+         J15      SHLD5
+         J15      SHLD6
+         J15      SHLD7
+         J15      SHLD8
+         J2       1
+         J3       1
+         J4       1
+         J7       6
+         J8       EARTH
+         J8       RING2
+         JP10     1
+         JP7      1
+         R13      1
+         R14      1
+         R4       1
+         U1       10
+         U1       11
+         U1       12
+         U1       13
+         U1       7
+         U1       9
+         U2       3
+         U2       6
+         U3       2
+         U4       14
+
+IN+AMP   R11      2
+         U1       3
+
+IN-AMP   R5       2
+         R9       2
+         U1       4
+
+MP3-RXI  U2       15
+         U4       13
+
+MP3-TXO  U2       16
+         U4       12
+
+N$1      J15      B5
+         R13      2
+
+N$2      J15      A5
+         R14      2
+
+N$3      D1       A
+         R3       1
+
+N$4      JP8      1
+         R7       2
+
+N$5      C8       2
+         R9       1
+
+N$8      C5       2
+         R11      1
+
+N$9      C7       2
+         R5       1
+
+OUT+     J9       P1
+         J9       P3
+         JP12     1
+         U1       5
+
+OUT-     J9       P2
+         J9       P4
+         JP12     2
+         U1       8
+
+PLAYING  R10      1
+         U1       1
+         U2       14
+         U4       11
+
+SCL      J2       4
+         J3       4
+         J4       4
+         J7       3
+         R2       1
+         U4       9
+
+SCL_PU1  JP9      1
+         R2       2
+
+SDA      J2       3
+         J3       3
+         J4       3
+         J7       4
+         R6       1
+         U4       7
+
+SDA_PU1  JP9      3
+         R6       2
+
+SD_CLK   J1       SCLK
+         R4       2
+         U2       9
+
+SD_CMD   J1       DI
+         U2       10
+
+SD_DAT   J1       DO
+         U2       8
+
+TRIGGER1 J12      4
+         J7       1
+         U4       8
+
+TRIGGER2 J12      3
+         U4       2
+
+TRIGGER3 J12      2
+         U4       5
+
+TRIGGER4 J12      1
+         U4       10
+
+VCCIO    C1       1
+         C9       1
+         J1       VCC
+         R1       2
+         U2       4
+
+VOUTL    C3       1
+         C7       1
+         U2       1
+
+VOUTR    C6       1
+         C8       1
+         U2       2
+

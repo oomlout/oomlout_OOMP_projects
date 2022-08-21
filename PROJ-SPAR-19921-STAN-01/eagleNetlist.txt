@@ -1,0 +1,57 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 20:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!MAG_CS! R7       1
+         U2       4
+
+3.3V     C2       1
+         I2C_PU   2
+         J1       2
+         R4       2
+         R7       2
+         TP1      1
+         U2       13
+         U2       2
+
+CAP      C5       1
+         U2       10
+
+GND      C2       2
+         C5       2
+         J1       1
+         J4       1
+         LED      1
+         TP5      1
+         U2       11
+         U2       9
+
+INT      J2       1
+         U2       15
+
+N$2      D1       A
+         R4       1
+
+N$3      D1       C
+         LED      2
+
+N$5      I2C_PU   1
+         R1       2
+
+N$6      I2C_PU   3
+         R2       2
+
+SCL      J1       4
+         R1       1
+         TP3      1
+         U2       1
+
+SDA      J1       3
+         R2       1
+         TP2      1
+         U2       16
+

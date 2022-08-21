@@ -1,0 +1,222 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:00
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!MCLR    JP2      5
+         R10      1
+         U3       1
+
+$N26     J1       VBUS
+         L1       1
+
+5V       C4       1
+         C5       1
+         C6       1
+         L1       2
+         R12      5
+         U1       1
+         U1       3
+         U2       1
+         U4       1
+         U5       20
+         U6       14
+
+ADC      JP1      4
+         R3       6
+
+ADC1     R3       3
+         R3       4
+         U3       23
+
+ADC2     R3       1
+         R3       2
+         U3       24
+
+ADC3     R2       3
+         R2       4
+         U3       25
+
+ADC4     R2       1
+         R2       2
+         U3       26
+
+AUX1     JP1      6
+         U3       21
+
+CLK      JP1      7
+         R12      1
+         U3       17
+
+CS       JP1      9
+         R12      3
+         U3       15
+
+CTS      U3       10
+         U5       11
+
+D+       J1       D+
+         U5       15
+
+D-       J1       D-
+         U5       16
+
+GND      C1       2
+         C10      2
+         C11      2
+         C2       2
+         C4       2
+         C5       2
+         C6       2
+         C9       2
+         J1       GND
+         JP1      1
+         JP2      3
+         LED3     C
+         LED4     C
+         LED5     C
+         LED6     C
+         LED7     C
+         LED8     C
+         R1       1
+         R2       5
+         R2       7
+         R3       5
+         R3       7
+         R5       1
+         R8       1
+         U1       2
+         U2       2
+         U3       19
+         U3       27
+         U3       6
+         U3       7
+         U3       8
+         U4       2
+         U5       18
+         U5       21
+         U5       25
+         U5       26
+         U5       7
+         U6       7
+
+LD1      R7       2
+         U3       3
+
+MISO     JP1      10
+         R12      2
+         U3       16
+
+MOSI     JP1      8
+         R11      1
+         U3       18
+
+N$1      R11      2
+         U6       2
+
+N$2      R12      6
+         U6       9
+
+N$3      C9       1
+         U3       20
+
+N$4      R12      7
+         U6       10
+
+N$5      R12      8
+         U6       3
+
+N$6      LED5     A
+         LED6     A
+         R7       1
+
+N$7      LED3     A
+         LED4     A
+         R6       1
+
+N$8      C3       2
+         R1       2
+
+N$9      C11      1
+         U5       17
+
+N$10     C7       2
+         R5       2
+
+N$11     C8       2
+         R8       2
+
+N$13     LED1     A
+         LED2     A
+         R4       1
+
+N$18     LED7     A
+         LED8     A
+         R9       1
+
+PGC      JP2      1
+         U3       5
+
+PGD      JP2      2
+         U3       4
+
+PULLUPEN R12      4
+         U3       22
+         U6       12
+         U6       13
+         U6       5
+         U6       6
+
+RTS      U3       12
+         U5       3
+
+RX       U3       11
+         U5       5
+
+RXLED    LED1     C
+         LED2     C
+         U5       22
+
+SW3V3    C7       1
+         JP1      2
+         R2       6
+         R9       2
+         U2       5
+
+SW5V0    C8       1
+         JP1      3
+         R2       8
+         U4       5
+
+TP0      U3       9
+
+TX       U3       14
+         U5       1
+
+VCC      C1       1
+         C10      1
+         C2       1
+         C3       1
+         JP2      4
+         R10      2
+         R4       2
+         R6       2
+         U1       5
+         U3       13
+         U3       28
+         U5       4
+
+VEXTERN  JP1      5
+         R3       8
+         U6       1
+         U6       11
+         U6       4
+         U6       8
+
+VREGEN   U2       3
+         U3       2
+         U4       3
+

@@ -1,0 +1,83 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 23:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+ANT1       J1       3
+           U1       3
+
+ANT2       J1       2
+           U1       4
+
+CP         J1       1
+           U1       5
+
+GND        C1       1
+           C4       2
+           C5       2
+           C6       -
+           J1       6
+           J10      GND
+           J10      GND2
+           Q1       2
+           R10      1
+           R3       1
+           U1       1
+           U1       7
+           U5       1
+
+INDICATOR  R2       1
+           U1       10
+
+N$1        Q1       3
+           R1       1
+           SG1      -
+
+N$2        C4       1
+           U5       4
+
+N$3        J10      A6
+           J10      B6
+           U5       5
+
+N$4        BUZZ     1
+           SG1      +
+
+N$6        J10      A5
+           R10      2
+
+N$7        LED1     C
+           R1       2
+
+N$8        Q1       1
+           R2       2
+
+N$9        J10      A7
+           J10      B7
+           U5       6
+
+N$11       J10      B5
+           R3       2
+
+TX-O       J1       5
+           U1       9
+           U5       3
+
+TX-O-RS232 J1       4
+           U1       8
+
+VCC        BUZZ     2
+           C1       2
+           C5       1
+           C6       +
+           J1       7
+           J10      VBUS1
+           J10      VBUS2
+           LED1     A
+           U1       11
+           U1       2
+           U5       16
+

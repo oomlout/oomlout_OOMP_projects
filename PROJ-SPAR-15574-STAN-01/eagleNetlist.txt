@@ -1,0 +1,270 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!RESET         C14      2
+               C15      1
+               J2       10
+               J4       1
+               R11      1
+               S1       3
+               S1       4
+               U3       ~RST
+
+!RTS           C13      1
+               C14      1
+               U4       4
+
+3.3V           C1       1
+               C10      1
+               C11      1
+               C12      1
+               C5       1
+               C8       1
+               C9       1
+               E1       2
+               E1       5
+               J2       1
+               J4       2
+               J6       2
+               R11      2
+               R4       2
+               R7       2
+               R8       2
+               U2       5
+               U3       VDD@36
+               U3       VDD@37
+               U4       10
+               U4       7
+
+BOOT           C13      2
+               R10      2
+               U3       BOOT
+
+CC1            J5       A5
+               R6       2
+
+CC2            J5       B5
+               R5       2
+
+D+1            J5       A6
+               J5       B6
+               U4       1
+
+D-1            J5       A7
+               J5       B7
+               U4       2
+
+D10/SWCH       S2       1
+               S2       2
+               U3       D14
+
+D14/QWIIC_SDA  J6       3
+               TP5      P$1
+               U3       D40
+
+EN             J3       2
+               R3       1
+               U2       3
+
+GND            C1       2
+               C10      2
+               C11      2
+               C12      2
+               C15      2
+               C2       2
+               C3       2
+               C4       2
+               C5       2
+               C6       1
+               C7       1
+               C8       2
+               C9       2
+               D4       C
+               D7       C
+               E1       3
+               E1       6
+               E1       7
+               E1       8
+               J1       1
+               J2       3
+               J2       5
+               J2       9
+               J4       4
+               J5       GND
+               J5       GND2
+               J6       1
+               R10      1
+               R2       1
+               R5       1
+               R6       1
+               S1       1
+               S1       2
+               S2       3
+               S2       4
+               U1       2
+               U2       2
+               U3       GND@1
+               U3       GND@22
+               U3       GND@38
+               U3       GND@39
+               U3       GND@47
+               U3       GND@59
+               U4       3
+
+N$1            R2       2
+               U1       5
+
+N$2            C7       2
+               U3       XO
+               Y1       P$2
+
+N$3            D1       C
+               R1       2
+
+N$4            R1       1
+               U1       1
+
+N$5            D5       A
+               R7       1
+
+N$7            D7       A
+               R12      1
+
+N$8            C6       2
+               U3       XI
+               Y1       P$1
+
+N$9            D6       A
+               R8       1
+
+N$10           D4       A
+               R4       1
+
+PDMCLK         E1       4
+               U3       ~D37
+
+PDMDATA        E1       1
+               U3       D36
+
+RXI-0          D6       C
+               TP2      P$1
+               U3       RXI-0
+               U4       8
+
+SHLD           J5       SHLD1
+               J5       SHLD2
+               J5       SHLD3
+               J5       SHLD4
+               J5       SHLD5
+               J5       SHLD6
+               J5       SHLD7
+               J5       SHLD8
+
+SWDCK          J2       4
+               TP1      P$1
+               U3       SWDCK
+
+SWDIO          J2       2
+               U3       SWDIO
+
+TXO-0          D5       C
+               TP3      P$1
+               U3       TXO-0
+               U4       9
+
+VIN            C4       1
+               D2       C
+               D3       C
+               R3       2
+               U2       1
+
+V_BATT         C3       1
+               D2       A
+               J1       2
+               J3       1
+               U1       3
+
+V_USB          C2       1
+               D1       A
+               D3       A
+               J3       3
+               J5       VBUS1
+               J5       VBUS2
+               U1       4
+
+~D0/RXI-1      J4       14
+               U3       ~D25
+
+~D1/TXO-1      J4       15
+               U3       ~D24
+
+~D2            J4       16
+               U3       ~D44
+
+~D3/A6         J3       10
+               U3       ~AD35
+
+~D4            J3       9
+               U3       ~D4
+
+~D5            J3       8
+               U3       ~D22
+
+~D6            J3       7
+               U3       ~D23
+
+~D7            J3       6
+               U3       ~D27
+
+~D8            J3       5
+               U3       ~D28
+
+~D9/A7         J3       4
+               U3       ~AD32
+
+~D11/MOSI      J4       12
+               U3       D7
+
+~D12/MISO      J4       13
+               U3       ~D6
+
+~D13/SCK       J4       11
+               U3       ~D5
+
+~D15/QWIIC_SCL J6       4
+               TP4      P$1
+               U3       ~D39
+
+~D16/SDA1      J3       12
+               U3       ~D43
+
+~D17/SCL1      J3       11
+               U3       ~D42
+
+~D18/LED       R12      2
+               U3       ~D26
+
+~D19/A0        J2       6
+               J4       5
+               U3       ~AD33/SWO
+
+~D20/A1        J4       6
+               U3       ~AD13
+
+~D21/A2        J4       7
+               U3       ~AD11
+
+~D22/A3        J4       8
+               U3       ~AD29
+
+~D23/A4        J4       9
+               U3       ~AD12
+
+~D24/A5        J4       10
+               U3       ~AD31
+

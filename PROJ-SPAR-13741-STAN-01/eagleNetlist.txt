@@ -1,0 +1,191 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C11      1
+         Q2       1
+         R8       2
+         U1       13
+         U1       14
+         U1       3
+
+A0       JP3      8
+         U2       23
+
+A1       JP3      7
+         U2       24
+
+A2       JP3      6
+         U2       25
+
+A3       JP3      5
+         U2       26
+
+A4       JP3      4
+         U2       27
+
+A5       JP3      3
+         U2       28
+
+A6       JP5      1
+         U2       19
+
+A7       JP5      2
+         U2       22
+
+AREF     C5       1
+         U2       20
+
+D+       JP1      USB_P
+         U1       11
+
+D-       JP1      USB_M
+         U1       12
+
+D2       JP2      8
+         U2       32
+
+D3       JP2      7
+         U2       1
+
+D4       JP2      6
+         U2       2
+
+D5       JP2      5
+         U2       9
+
+D6       JP2      4
+         U2       10
+
+D7       JP2      3
+         U2       11
+
+D8       JP2      2
+         U2       12
+
+D9       JP2      1
+         U2       13
+
+D10      JP3      12
+         U2       14
+
+DTR      C4       1
+         Q2       3
+         R7       1
+
+GND      C10      C
+         C11      2
+         C3       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       C
+         D2       C
+         D3       C
+         JP1      GND
+         JP2      9
+         JP3      2
+         JP6      1
+         JP7      1
+         JP8      2
+         R1       1
+         S1       1
+         S1       2
+         U1       16
+         U1       6
+         U2       21
+         U2       3
+         U2       5
+         U3       4
+         Y1       2
+
+MISO     JP3      10
+         U2       16
+
+MOSI     JP3      11
+         U2       15
+
+N$1      D3       A
+         R4       1
+
+N$3      R5       1
+         U1       20
+
+N$4      D2       A
+         R2       1
+
+N$5      U2       7
+         Y1       1
+
+N$6      U2       8
+         Y1       3
+
+N$7      R6       1
+         U1       4
+
+N$8      D4       A
+         L1       P$2
+         U3       5
+
+N$11     Q2       2
+         R8       1
+         U1       1
+
+RESET    C4       2
+         JP2      10
+         R3       1
+         S1       3
+         S1       4
+         U2       29
+
+RXI      JP2      11
+         JP8      4
+         R5       2
+         U2       30
+
+SCK      JP3      9
+         R4       2
+         U2       17
+
+TXO      JP2      12
+         JP8      3
+         R6       2
+         U2       31
+
+VBAT     JP6      2
+         JP7      2
+         Q1       3
+
+VCC      C10      A
+         C3       1
+         C6       1
+         D4       C
+         JP3      1
+         JP8      1
+         R2       2
+         R3       2
+         R7       2
+         U2       18
+         U2       4
+         U2       6
+         U3       1
+         U3       2
+
+VCC_1    C9       A
+         D1       C
+         L1       P$1
+         Q1       2
+
+V_USB    C7       1
+         C8       1
+         D1       A
+         JP1      5V
+         Q1       1
+         R1       2
+         U1       15
+

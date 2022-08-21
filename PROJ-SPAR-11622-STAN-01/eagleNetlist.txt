@@ -1,0 +1,321 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net             Part     Pad
+
+3.3V            C6       1
+                C8       A
+                MOD1     1
+                U4       5
+
+5V              C2       1
+                C3       1
+                C4       1
+                C9       A
+                JP10     3
+                JP10     4
+                JP11     3
+                JP11     4
+                JP12     3
+                JP12     4
+                JP13     3
+                JP13     4
+                JP5      2
+                JP6      1
+                JP6      3
+                JP6      5
+                JP6      7
+                JP6      9
+                JP7      1
+                JP7      3
+                JP7      5
+                JP7      7
+                JP7      9
+                R1       1
+                R12      2
+                R13      2
+                R8       2
+                U1       18
+                U1       4
+                U1       6
+                U2       20
+                U3       5
+                U4       1
+                U4       3
+                U6       5
+
+AREF            U1       20
+
+FT232_RXI       R3       1
+                U5       5
+
+FT232_TXO       R2       1
+                U5       1
+
+FTDI_DTR        R13      1
+                U5       2
+                U6       1
+
+GND             C2       2
+                C3       2
+                C4       2
+                C5       2
+                C6       2
+                C8       C
+                C9       C
+                D4       C
+                D6       C
+                JP10     5
+                JP10     6
+                JP11     5
+                JP11     6
+                JP12     5
+                JP12     6
+                JP13     5
+                JP13     6
+                JP16     1
+                JP3      GND
+                JP3      P$4
+                JP4      GND
+                JP5      6
+                JP6      10
+                JP6      2
+                JP6      4
+                JP6      6
+                JP6      8
+                JP7      10
+                JP7      2
+                JP7      4
+                JP7      6
+                JP7      8
+                JP8      5
+                JP8      6
+                JP9      5
+                JP9      6
+                MOD1     10
+                Q1       1
+                S1       3
+                S1       6
+                S2       3
+                S4       1
+                U1       21
+                U1       3
+                U1       5
+                U2       10
+                U2       18
+                U2       3
+                U2       4
+                U2       9
+                U3       2
+                U4       2
+                U5       18
+                U5       21
+                U5       25
+                U5       26
+                U5       7
+                U6       3
+                Y1       2
+
+L01             JP1      1
+                JP1      3
+                JP15     2
+                U2       1
+                U2       2
+
+L02             JP1      2
+                JP15     1
+                U2       5
+                U2       6
+
+L_CTRL_1        U1       32
+                U2       21
+
+L_CTRL_2        U1       2
+                U2       22
+
+MISO            JP5      1
+                U1       16
+
+MOTOR_ENABLE    S1       5
+                S2       2
+                U2       19
+
+N$1             R4       2
+                S3       2
+
+N$2             Q1       4
+                Q1       7
+                Q1       8
+                R11      1
+
+N$3             D5       C
+                R6       1
+
+N$4             D3       C
+                R5       1
+
+N$5             C7       2
+                U6       4
+
+N$6             JP4      MTN1
+                JP4      MTN2
+                JP4      MTN3
+                JP4      MTN4
+
+N$7             D4       A
+                R7       1
+
+N$8             D6       A
+                R8       1
+
+N$18            R9       1
+                S2       1
+
+N$23            U1       8
+                Y1       3
+
+N$24            U1       7
+                Y1       1
+
+N$26            JP4      D-
+                U5       16
+
+N$27            JP4      D+
+                U5       15
+
+PG_EN           R10      1
+                S1       1
+
+PROGRAM_ENABLE  Q1       2
+                S1       2
+                U3       3
+
+PWML            U1       9
+                U2       23
+
+PWMR            U1       10
+                U2       15
+
+R01             JP14     2
+                JP2      1
+                JP2      3
+                U2       11
+                U2       12
+
+R02             JP14     1
+                JP2      2
+                U2       7
+                U2       8
+
+RESET           C7       1
+                JP5      5
+                R1       2
+                S4       3
+                U1       29
+
+RXI             R2       2
+                S3       4
+                U1       30
+
+RXLED           R5       2
+                U5       22
+
+R_CTRL_1        U1       11
+                U2       17
+
+R_CTRL_2        U1       12
+                U2       16
+
+SCK             JP5      3
+                R7       2
+                U1       17
+
+SENSOR_0/SW_TXO JP10     1
+                S3       3
+                U1       23
+
+SENSOR_1/SW_RXI JP10     2
+                S3       6
+                U1       24
+
+SENSOR_2        JP11     1
+                U1       25
+
+SENSOR_3        JP11     2
+                U1       26
+
+SENSOR_4        JP12     1
+                U1       27
+
+SENSOR_5        JP12     2
+                U1       28
+
+SENSOR_6        JP13     1
+                U1       19
+
+SENSOR_7        JP13     2
+                U1       22
+
+SERVO_1         JP8      1
+                U1       1
+
+SERVO_2         JP8      2
+                U1       13
+
+SERVO_3         JP9      1
+                U1       14
+
+SERVO_4/MOSI    JP5      4
+                JP9      2
+                U1       15
+
+TXLED           R6       2
+                U5       23
+
+TXO             R3       2
+                S3       1
+                U1       31
+
+V_BATT          D1       A
+                JP16     2
+                JP3      VIN0
+                Q1       5
+                Q1       6
+                R11      2
+                U2       13
+                U2       14
+                U2       24
+
+V_GATED         JP8      3
+                JP8      4
+                JP9      3
+                JP9      4
+                Q1       3
+
+V_IN            D1       C
+                D2       C
+                R10      2
+                R9       2
+                U3       1
+
+V_USB           C5       1
+                D2       A
+                D3       A
+                D5       A
+                JP4      VBUS
+                U5       20
+                U5       4
+
+XBEE_DIO3       MOD1     17
+                R12      1
+                U6       2
+
+XBEE_RXI        MOD1     3
+                R4       1
+
+XBEE_TXO        MOD1     2
+                S3       5
+

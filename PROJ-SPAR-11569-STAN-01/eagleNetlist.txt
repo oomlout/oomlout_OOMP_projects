@@ -1,0 +1,59 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JP1      3
+
+BLUE     JP3      3
+         R5       1
+         R8       1
+
+BLUE1    JP2      3
+         R5       2
+
+BLUE2    JP2      4
+         R8       2
+
+GND      JP1      1
+         JP3      10
+         JP3      11
+         JP3      6
+         JP3      7
+         JP3      8
+
+GREEN    JP3      2
+         R4       1
+         R7       1
+
+GREEN1   JP2      7
+         R4       2
+
+GREEN2   JP2      5
+         R7       2
+
+HSYNC    JP2      2
+         R1       1
+
+N$2      JP3      13
+         R1       2
+
+N$3      JP3      14
+         R2       2
+
+RED      JP3      1
+         R3       1
+         R6       1
+
+RED1     JP2      8
+         R3       2
+
+RED2     JP2      6
+         R6       2
+
+VSYNC    JP2      1
+         R2       1
+

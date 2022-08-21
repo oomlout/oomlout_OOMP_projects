@@ -1,0 +1,140 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 15:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V_ALT   IC2      2
+         IC2      4
+         R8       2
+         SJ1      1
+
+DIR      IC1      11
+         R18      1
+
+DIR_IN   JP2      3
+         R18      2
+         R20      2
+
+ENABLE   IC1      15
+         JP6      1
+         R13      2
+
+GND      C1       2
+         C2       2
+         C3       -
+         C4       2
+         C5       2
+         IC1      18
+         IC1      19
+         IC1      6
+         IC1      7
+         JP1      1
+         JP2      1
+         JP4      2
+         PWR_LED  C
+         R1       1
+         R13      1
+         R17      1
+         R2       1
+         R20      1
+         R21      1
+         R3       1
+         R4       1
+         R5       1
+         R7       1
+         SJ2      2
+
+MS1      IC1      12
+         JP5      1
+         R14      1
+
+MS2      IC1      13
+         JP6      2
+         R10      1
+
+N$1      IC1      8
+         R1       2
+
+N$2      PWR_LED  A
+         R9       1
+
+N$3      IC1      17
+         R2       2
+
+N$4      R6       1
+         R7       2
+         SJ2      1
+
+N$5      C4       1
+         IC1      2
+         R3       2
+
+N$6      IC2      1
+         R6       2
+         R8       1
+
+N$7      C5       1
+         IC1      23
+         R4       2
+
+N$11     R16      3
+         R5       2
+
+OUT1A    IC1      16
+         JP3      3
+
+OUT1B    IC1      21
+         JP3      4
+
+OUT2A    IC1      9
+         JP3      1
+
+OUT2B    IC1      4
+         JP3      2
+
+PFD      IC1      24
+         JP7      1
+         R12      1
+         R17      2
+
+RESET    IC1      22
+         JP7      2
+         R15      1
+
+SLEEP    IC1      3
+         JP5      2
+         R11      1
+
+STEP     IC1      10
+         R19      1
+
+STEP_IN  JP2      2
+         R19      2
+         R21      2
+
+V+       C1       1
+         C3       +
+         IC1      20
+         IC1      5
+         IC2      3
+         JP1      2
+
+VCC      C2       1
+         IC1      14
+         JP4      1
+         R10      2
+         R11      2
+         R12      2
+         R14      2
+         R15      2
+         R16      1
+         R9       2
+         SJ1      2
+
+VREF     IC1      1
+         R16      2
+         TP1      P$1
+

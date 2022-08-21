@@ -1,0 +1,228 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!RESET     J2       1
+           R1       1
+           S1       4
+           U2       52
+
+3.3V       C10      1
+           C11      1
+           C3       1
+           C8       1
+           C9       1
+           J2       2
+           J3       2
+           JP1      2
+           L1       1
+           R1       2
+           R4       2
+           U2       21
+           U2       34
+           U2       48
+           U2       56
+           U3       5
+           U4       3
+           U4       7
+           U4       8
+
+A0         J2       5
+           U2       3
+
+A1         J2       6
+           U2       11
+
+A2         J2       7
+           U2       12
+
+A3         J2       8
+           U2       13
+
+A4         J2       9
+           U2       14
+
+A5         J2       10
+           U2       63
+
+D+         J6       D+
+           U2       46
+
+D-         J6       D-
+           U2       45
+
+D0         J2       14
+           U2       30
+
+D1         J2       15
+           U2       29
+
+D4         J2       16
+           U2       15
+
+D5         J1       10
+           U2       32
+
+D6         J1       9
+           U2       41
+
+D7         U2       42
+
+D9         J1       8
+           U2       16
+
+D10        J1       7
+           U2       37
+
+D11        J1       6
+           U2       35
+
+D12        J1       5
+           U2       38
+
+D13        D4       A
+           J1       4
+           U2       36
+
+EN         J1       2
+           R2       1
+           U3       3
+
+FLASH_CS   R4       1
+           U2       19
+           U4       1
+
+FLASH_MISO U2       20
+           U4       2
+
+FLASH_MOSI U2       17
+           U4       5
+
+FLASH_SCK  U2       18
+           U4       6
+
+GND        C1       2
+           C10      2
+           C11      2
+           C12      2
+           C13      2
+           C14      2
+           C15      2
+           C19      2
+           C2       2
+           C3       2
+           C6       2
+           C7       2
+           C8       2
+           C9       2
+           J2       4
+           J3       1
+           J4       1
+           J6       GND
+           R6       1
+           R7       1
+           R8       1
+           S1       1
+           U1       2
+           U2       22
+           U2       33
+           U2       47
+           U2       54
+           U2       7
+           U3       2
+           U4       4
+
+MISO       J2       13
+           U2       24
+
+MOSI       J2       12
+           U2       25
+
+N$1        D4       C
+           R8       2
+
+N$2        JP1      3
+           R5       2
+
+N$3        JP1      1
+           R9       2
+
+N$9        D1       C
+           U1       1
+
+N$14       R6       2
+           U1       5
+
+N$17       D1       A
+           R3       2
+
+RXD        U2       50
+
+RXLED      U2       64
+
+SCK        J2       11
+           U2       26
+
+SCL        J1       11
+           J3       4
+           R5       1
+           U2       44
+
+SDA        J1       12
+           J3       3
+           R9       1
+           U2       43
+
+SWDCLK     TP2      P$1
+           U2       57
+
+SWDIO      TP1      P$1
+           U2       58
+
+TXD        U2       49
+
+TXLED      U2       51
+
+VCC        C13      1
+           C14      1
+           U2       53
+
+VDDA       C12      1
+           C15      1
+           L1       2
+           U2       4
+           U2       8
+
+VIN        C7       1
+           D2       C
+           Q1       2
+           R2       2
+           U3       1
+
+V_BATT     C6       1
+           J1       1
+           J4       2
+           Q1       3
+           U1       3
+
+V_USB      C19      1
+           D2       A
+           J1       3
+           J6       VBUS
+           Q1       1
+           R3       1
+           R7       2
+           U1       4
+
+XIN32      C1       1
+           U2       1
+           Y1       P$1
+
+XOUT32     C2       1
+           U2       2
+           Y1       P$2
+

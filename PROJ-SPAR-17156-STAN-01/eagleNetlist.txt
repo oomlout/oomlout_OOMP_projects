@@ -1,0 +1,74 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 16:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     3V3_ISO  1
+         D1       C
+         D1_BP    2
+         I2C      2
+         J2       2
+         J3       2
+         J4       2
+         J5       2
+
+3.3V_1   J1       3.3V@1
+
+3.3V_2   J1       3.3V@2
+
+5V       J1       5V
+
+D+       J1       D+
+
+D-       J1       D-
+
+GND      J1       AGND
+         J1       GND
+         J1       GND1
+         J1       GND2
+         J1       GND3
+         J1       GND4
+         J2       1
+         J3       1
+         J4       1
+         J5       1
+         J6       1
+         S1       3
+
+N$1      I2C      3
+         R4       2
+
+N$2      I2C      1
+         R3       2
+
+N$3      3V3_ISO  2
+         J1       3V
+
+N$4      D1       A
+         D1_BP    1
+         J6       2
+
+N$5      J1       PROG
+         S1       1
+
+SCL      J1       19
+         J2       4
+         J3       4
+         J4       4
+         J5       4
+         R3       1
+
+SDA      J1       18
+         J2       3
+         J3       3
+         J4       3
+         J5       3
+         R4       1
+
+VBAT     J1       VBAT
+
+VIN      J1       VIN
+

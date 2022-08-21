@@ -1,0 +1,19 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         TEMP-    1
+         U1       3
+
+VCC      C1       1
+         TEMP+    1
+         U1       1
+
+VO       TEMPS    1
+         U1       2
+

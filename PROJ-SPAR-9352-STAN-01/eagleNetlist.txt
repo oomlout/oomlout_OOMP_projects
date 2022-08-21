@@ -1,0 +1,152 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       C1       1
+         C2       2
+         C4       A
+         JP3      1
+         JP4      3
+         Q1       2
+         R1       2
+         R3       3
+         U$2      2
+         U1       5
+         U2       18
+         U2       20
+         U2       4
+         U2       6
+
+A        JP3      19
+         Q1       3
+
+BL_EN    R2       1
+         U2       14
+
+CS1      JP3      13
+         JP4      10
+         U2       27
+
+CS2      JP3      12
+         JP4      11
+         U2       28
+
+D/I      JP3      16
+         JP4      7
+         U2       24
+
+DB0      JP3      4
+         JP4      12
+         U2       12
+
+DB1      JP3      5
+         JP4      13
+         U2       13
+
+DB2      JP3      6
+         JP4      14
+         U2       32
+
+DB3      JP3      7
+         JP4      15
+         U2       1
+
+DB4      JP3      8
+         JP4      16
+         U2       2
+
+DB5      JP3      9
+         JP4      17
+         U2       9
+
+DB6      JP3      10
+         JP4      18
+         U2       10
+
+DB7      JP3      11
+         JP4      19
+         U2       11
+
+EN       JP3      17
+         JP4      6
+         U2       23
+
+GND      C1       2
+         C2       1
+         C4       C
+         JP1      3
+         JP2      3
+         JP3      2
+         JP3      20
+         JP4      1
+         JP4      2
+         R4       1
+         U$2      6
+         U1       2
+         U2       21
+         U2       3
+         U2       5
+         Y1       2
+
+MISO     U$2      1
+         U2       16
+
+MOSI     SJ1      2
+         U$2      4
+         U2       15
+
+N$1      Q1       1
+         R2       2
+
+N$2      U2       7
+         Y1       1
+
+N$3      U2       8
+         Y1       3
+
+N$4      R4       2
+         SJ1      1
+
+R/W      JP3      15
+         JP4      8
+         U2       25
+
+RESET    JP3      14
+         JP4      9
+         U2       26
+
+RST      R1       1
+         U$2      5
+         U2       29
+
+RXD      JP1      1
+         JP2      1
+         TP1      P$1
+         U2       30
+
+SCK      U$2      3
+         U2       17
+
+TXD      JP1      2
+         JP2      2
+         TP2      P$1
+         U2       31
+
+V0       JP3      3
+         JP4      4
+         R3       2
+
+VEE      JP3      18
+         JP4      5
+         R3       1
+
+VIN      JP1      4
+         JP2      4
+         TP3      P$1
+         U1       1
+         U1       3
+

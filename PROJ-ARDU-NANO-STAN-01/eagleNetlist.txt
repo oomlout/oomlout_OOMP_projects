@@ -1,0 +1,200 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 18:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++5V      C3       1
+         C5       1
+         C7       1
+         C8       1
+         D1       P$1
+         IC1      20
+         IC1      4
+         IC2      2
+         IC2      4
+         IC3      18
+         IC3      4
+         IC3      6
+         J2       4
+         J4       2
+         RP1      5
+         RP1      6
+         RX       A
+         TX       A
+
+3V3      C6       2
+         IC1      17
+         J2       14
+
+A0       IC3      23
+         J2       12
+
+A1       IC3      24
+         J2       11
+
+A2       IC3      25
+         J2       10
+
+A3       IC3      26
+         J2       9
+
+A4       IC3      27
+         J2       8
+
+A5       IC3      28
+         J2       7
+
+A6       IC3      19
+         J2       6
+
+A7       IC3      22
+         J2       5
+
+AREF     C1       1
+         IC3      20
+         J2       13
+
+COM      C1       2
+         C2       2
+         C3       2
+         C5       2
+         C6       1
+         C7       2
+         C8       2
+         C9       2
+         IC1      18
+         IC1      21
+         IC1      25
+         IC1      26
+         IC1      7
+         IC2      1
+         IC3      21
+         IC3      3
+         IC3      33
+         IC3      5
+         J1       4
+         J2       2
+         J3       1
+         J3       6
+         J3       7
+         J3       8
+         J3       9
+         J4       6
+         L        C
+         PWR      C
+         RP2      3
+         RP2      6
+         SW1      1
+         Y1       2
+
+D0/RX    IC3      30
+         J1       2
+         RP1      1
+
+D1/TX    IC3      31
+         J1       1
+         RP1      2
+
+D2       IC3      32
+         J1       5
+
+D3       IC3      1
+         J1       6
+
+D4       IC3      2
+         J1       7
+
+D5       IC3      9
+         J1       8
+
+D6       IC3      10
+         J1       9
+
+D7       IC3      11
+         J1       10
+
+D8       IC3      12
+         J1       11
+
+D9       IC3      13
+         J1       12
+
+D10      IC3      14
+         J1       13
+
+D11/MOSI IC3      15
+         J1       14
+         J4       4
+
+D12/MISO IC3      16
+         J1       15
+         J4       1
+
+D13/SCK  IC3      17
+         J2       15
+         J4       3
+         RP2      1
+
+N$1      IC3      8
+         Y1       3
+
+N$2      IC3      7
+         Y1       1
+
+N$3      PWR      A
+         RP1      3
+
+N$4      C4       2
+         IC1      2
+
+N$5      D+       X
+         IC1      15
+         J3       3
+
+N$6      D-       X
+         IC1      16
+         J3       4
+
+N$7      L        A
+         RP2      8
+
+N$8      IC1      23
+         RP2      2
+
+N$9      IC1      22
+         RP2      4
+
+N$11     RP2      5
+         TX       C
+
+N$26     F1       2
+         J3       5
+
+N$29     RP2      7
+         RX       C
+
+RESET    C4       1
+         IC3      29
+         J1       3
+         J2       3
+         J4       5
+         RP1      4
+         SW1      2
+
+RX       IC1      1
+         RP1      8
+
+TX       IC1      5
+         RP1      7
+
+VIN      IC2      3
+         J2       1
+
+VUSB     C2       1
+         C9       1
+         D1       P$2
+         F1       1
+

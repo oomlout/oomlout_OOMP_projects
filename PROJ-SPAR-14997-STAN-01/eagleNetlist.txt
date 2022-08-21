@@ -1,0 +1,362 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+1.8V           C4       1
+               U1       1
+               U1       8
+               U4       3
+               U4       6
+               U6       4
+
+3.3V           C1       1
+               C10      1
+               C11      1
+               C12      1
+               C7       1
+               C8       1
+               C9       1
+               D5       A
+               R5       2
+               U2       1
+               U5       1
+               U6       51
+               U6       52
+               U6       53
+
+ANT            C15      1
+               U6       56
+
+ANT_DET        R8       1
+               U6       62
+
+ARDUINO-3.3V   B1       3.3V
+               JP1      3
+
+ARDUINO-5V     B1       5V
+               JP1      1
+               S2       2
+               S2       5
+
+CTS            J7       3
+               U6       11
+
+D+             D1       4
+               U6       29
+
+D-             D1       6
+               U6       28
+
+DCD            J6       2
+               U6       8
+
+DSR            J6       1
+               U6       6
+
+DTR            J7       2
+               JP5      2
+               U6       9
+
+GND            B1       AREF
+               B1       GND@0
+               B1       GND@1
+               B1       GND@2
+               C1       2
+               C10      2
+               C11      2
+               C12      2
+               C13      2
+               C14      2
+               C16      2
+               C17      2
+               C18      2
+               C2       2
+               C20      2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C7       2
+               C8       2
+               C9       2
+               D1       2
+               D4       C
+               D6       2
+               D6       5
+               E1       GND
+               J1       GND
+               J11      1
+               J2       1
+               J3       1
+               J5       6
+               J8       1
+               J8       2
+               J9       C5
+               JP4      1
+               JP5      1
+               L1       1
+               Q2       2
+               R1       1
+               R3       1
+               R4       1
+               S3       1
+               S3       2
+               S4       1
+               S4       2
+               U1       7
+               U2       2
+               U3       2
+               U4       2
+               U5       4
+               U5       EP
+               U6       1
+               U6       14
+               U6       20
+               U6       21
+               U6       22
+               U6       3
+               U6       30
+               U6       32
+               U6       33
+               U6       43
+               U6       5
+               U6       50
+               U6       54
+               U6       55
+               U6       57
+               U6       58
+               U6       59
+               U6       60
+               U6       61
+               U6       63
+               U6       64
+               U6       65
+               U6       66
+               U6       67
+               U6       68
+               U6       69
+               U6       70
+               U6       71
+               U6       72
+               U6       73
+               U6       74
+               U6       75
+               U6       76
+               U6       77
+               U6       78
+               U6       79
+               U6       80
+               U6       81
+               U6       82
+               U6       83
+               U6       84
+               U6       85
+               U6       86
+               U6       87
+               U6       88
+               U6       89
+               U6       90
+               U6       91
+               U6       92
+               U6       93
+               U6       94
+               U6       95
+               U6       96
+
+GPIO1          R6       2
+               U6       16
+
+GPIO2          R1       2
+               U2       3
+               U6       23
+
+GPIO3-CELL     U1       2
+               U6       24
+
+GPIO3-QWIIC    J4       1
+               U1       13
+
+GPS-3.3V       C3       1
+               J3       2
+               U2       5
+
+HARDRX-ARDUINO B1       RX
+               S1       1
+
+HARDTX-ARDUINO B1       TX
+               S1       4
+
+IOREF          B1       IOREF
+               C2       1
+               J5       4
+               JP1      2
+               U1       14
+               U4       7
+
+N$1            R3       2
+               U3       5
+
+N$7            C16      1
+               L2       2
+               R8       2
+
+N$8            C15      2
+               C19      1
+               L1       2
+
+N$9            J8       FEED
+               JP8      2
+
+N$10           Q2       1
+               R6       1
+
+N$12           D1       1
+               J1       D-
+
+N$13           D5       C
+               R7       2
+
+N$14           D1       3
+               J1       D+
+
+N$15           Q2       3
+               R7       1
+
+N$16           D4       A
+               R5       1
+
+N$17           D2       C
+               R2       2
+
+N$18           R2       1
+               U3       1
+
+N$19           B1       D5
+               JP2      1
+
+N$20           B1       D6
+               JP3      1
+
+N$21           C19      2
+               JP7      1
+               JP8      1
+               L2       1
+
+N$22           E1       FEED
+               JP7      2
+
+PWR_ON         JP2      2
+               S3       3
+               S3       4
+               U6       15
+
+RESET_N        JP3      2
+               S4       3
+               S4       4
+               U6       18
+
+RI             J7       1
+               U6       7
+
+RTS            J6       3
+               JP4      2
+               U6       10
+
+RX-ARDUINO     J5       2
+               S1       2
+               U1       12
+
+RX-CELL        U1       4
+               U6       12
+
+SCL-CELL       U4       5
+               U6       27
+
+SCL-QWIIC      J10      2
+               J3       4
+               U4       8
+
+SDA-CELL       U4       4
+               U6       26
+
+SDA-QWIIC      J10      1
+               J3       3
+               U4       1
+
+SHIELD         J1       SHIELD
+               J1       SHIELD10
+               J1       SHIELD2
+               J1       SHIELD3
+               J1       SHIELD4
+               J1       SHIELD5
+               J1       SHIELD6
+               J1       SHIELD7
+               J1       SHIELD8
+               J1       SHIELD9
+
+SIM_CLK        C18      1
+               D6       6
+               J9       C3
+               U6       38
+
+SIM_IO         C17      1
+               D6       4
+               J9       C7
+               U6       39
+
+SIM_RST        C20      1
+               D6       3
+               J9       C2
+               U6       40
+
+SOFTRX-ARDUINO B1       D8
+               S1       3
+
+SOFTTX-ARDUINO B1       D9
+               S1       6
+
+TX-ARDUINO     J5       3
+               S1       5
+               U1       11
+
+TX-CELL        U1       3
+               U6       13
+
+VIN            C6       1
+               D3       C
+               Q1       2
+               S2       1
+               S2       4
+               U5       5
+               U5       8
+
+VSIM           C13      1
+               C14      1
+               D6       1
+               J9       C1
+               U6       41
+
+VUSB_DET       JP6      2
+               U6       17
+
+V_BATT         C5       1
+               J11      2
+               J2       2
+               Q1       3
+               U3       3
+
+V_USB          D1       5
+               D2       A
+               D3       A
+               J1       VBUS
+               JP6      1
+               Q1       1
+               R4       2
+               S2       3
+               S2       6
+               U3       4
+

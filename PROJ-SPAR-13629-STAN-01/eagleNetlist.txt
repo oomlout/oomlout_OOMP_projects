@@ -1,0 +1,120 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CS_A/G   R1       2
+         SJ4      2
+         SJ4      3
+         U1       7
+
+CS_M     R2       2
+         SJ1      2
+         SJ1      3
+         U1       8
+
+DEN_A/G  JP2      5
+         U1       13
+
+DRDY_M   JP2      1
+         U1       9
+
+GND      C1       2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         JP1      2
+         JP1      21
+         JP1      GND@0
+         JP1      GND@2
+         U1       14
+         U1       15
+         U1       16
+         U1       17
+         U1       18
+         U1       19
+         U1       20
+
+INT1_A/G JP2      3
+         U1       11
+
+INT2_A/G JP2      4
+         U1       12
+
+INT_M    JP2      2
+         U1       10
+
+MISO     JP1      8
+         JP1      A4
+         SJ5      1
+         SJ6      1
+
+MOSI     JP1      7
+         JP1      A5
+         SJ8      1
+
+N$3      C5       1
+         U1       21
+
+N$4      C3       1
+         U1       24
+
+SCK      JP1      9
+         JP1      A3
+         SJ7      1
+
+SCL      JP1      14
+         JP1      D1
+         R5       2
+         SJ7      2
+         SJ7      3
+         U1       2
+
+SDA      JP1      13
+         JP1      D0
+         R6       2
+         SJ8      2
+         SJ8      3
+         U1       4
+
+SDO_A/G  R3       2
+         SJ5      2
+         SJ5      3
+         U1       5
+
+SDO_M    R4       2
+         SJ6      2
+         SJ6      3
+         U1       6
+
+SS       JP1      10
+         JP1      A2
+         SJ1      1
+
+SS2      JP1      11
+         JP1      A1
+         SJ4      1
+
+VBAT     JP1      22
+         JP1      VBAT
+
+VDD      C1       1
+         C2       1
+         C4       1
+         JP1      24
+         JP1      3V3
+         R1       1
+         R2       1
+         R3       1
+         R4       1
+         R5       1
+         R6       1
+         U1       1
+         U1       22
+         U1       23
+         U1       3
+

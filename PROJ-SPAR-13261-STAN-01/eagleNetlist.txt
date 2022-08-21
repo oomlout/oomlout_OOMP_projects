@@ -1,0 +1,259 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 09:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+2        J4       2
+         J5       2
+
+3.3V     C10      1
+         C3       1
+         Q1       1
+         Q2       1
+         Q4       1
+         R10      2
+         R8       2
+         R9       2
+         U3       4
+         U3       5
+         U6       13
+         U6       14
+         U6       3
+
+5V       C13      1
+         C4       1
+         C6       1
+         C7       1
+         C9       A
+         F1       2
+         JP1      1
+         JP4      1
+         JP5      2
+         JP6      2
+         JP9      VCC
+         Q3       2
+         R13      2
+         R14      2
+         R15      2
+         R18      2
+         R2       2
+         R7       2
+         U1       1
+         U4       18
+         U4       20
+         U4       4
+         U4       6
+         U6       15
+
+A+       J4       3
+         JP11     4
+         JP3      2
+         R4       1
+
+A-       J3       3
+         JP11     3
+         JP3      3
+         R3       1
+
+ALERT    U3       3
+         U4       9
+
+AVDD     C12      2
+         C16      1
+         J5       3
+         JP11     1
+         JP3      5
+         L1       1
+
+B+       JP2      1
+         U1       10
+
+B-       JP2      2
+         U1       9
+
+D11      JP5      4
+         U4       15
+
+D12      JP5      1
+         U4       16
+
+D13      JP5      3
+         R5       2
+         U4       17
+
+DTR      C1       1
+         JP9      DTR
+         Q4       3
+         R18      1
+
+GND      C10      2
+         C11      1
+         C12      1
+         C13      2
+         C14      2
+         C16      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C9       C
+         D3       C
+         J2       3
+         JP1      3
+         JP11     2
+         JP11     5
+         JP3      1
+         JP3      4
+         JP4      3
+         JP5      6
+         JP7      GND
+         JP9      CTS
+         JP9      GND
+         R17      1
+         S2       1
+         SJ2      1
+         U1       14
+         U1       5
+         U3       2
+         U4       21
+         U4       3
+         U4       5
+         U6       16
+         U6       6
+         Y2       2
+
+LC_DOUT  U1       12
+         U4       32
+
+LC_SCK   U1       11
+         U4       1
+
+LV_SCL   Q2       2
+         R8       1
+         U3       1
+
+LV_SDA   Q1       2
+         R9       1
+         U3       6
+
+N$1      U4       7
+         Y2       1
+
+N$2      D3       A
+         R5       1
+
+N$3      U4       8
+         Y2       3
+
+N$4      C5       1
+         JP7      D-
+         R6       1
+
+N$5      D1       A
+         R13      1
+
+N$6      D2       A
+         R15      1
+
+N$7      C2       1
+         JP7      D+
+         R1       1
+
+N$8      R6       2
+         U6       12
+
+N$9      R7       1
+         SJ2      2
+         U1       15
+
+N$10     C8       1
+         R3       2
+         U1       7
+
+N$11     C8       2
+         R4       2
+         U1       8
+
+N$12     C14      1
+         F1       1
+         JP7      VBUS
+
+N$13     R1       2
+         U6       11
+
+N$14     R12      2
+         U6       4
+
+N$15     JP6      3
+         U1       16
+
+N$16     R11      2
+         U6       20
+
+N$17     Q3       1
+         U1       2
+
+N$18     R16      1
+         R17      2
+         U1       4
+
+N$19     J1       1
+         JP6      1
+
+N$20     J2       2
+         J3       2
+
+N$21     C11      2
+         U1       6
+
+N$22     J2       1
+         J4       1
+
+N$24     J3       1
+         J5       1
+
+N$27     Q4       2
+         R10      1
+         U6       1
+
+RIPUP@   L1       2
+         Q3       3
+         R16      2
+         U1       3
+
+RST      C1       2
+         JP5      5
+         R2       1
+         S2       3
+         U4       29
+
+RXD      JP9      TXO
+         R11      1
+         U4       30
+
+RXLED    D1       C
+         U6       17
+
+SCL      Q2       3
+         U4       28
+
+SDA      Q1       3
+         U4       27
+
+TEMP_DAT JP1      2
+         JP4      2
+         R14      1
+         U4       2
+
+TXD      JP9      RXI
+         R12      1
+         U4       31
+
+TXLED    D2       C
+         U6       10
+

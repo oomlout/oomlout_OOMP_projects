@@ -1,0 +1,143 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+!ON-3V     U3       2
+           U4       ON/OFF
+
+!ON-5V     JP8      5
+           U3       3
+           U5       D4
+
+1.8V-GPS   C10      2
+           C12      A
+           C8       1
+           JP2      2
+           U2       5
+           U4       1.8V-GPS
+
+3.3V       C2       A
+           C3       1
+           C4       2
+           JP2      5
+           R1       2
+           U1       5
+           U2       1
+           U2       3
+           U3       1
+           U4       3.3V@1
+           U4       3.3V@2
+           U4       3.3V@3
+           U4       3.3V@4
+           U4       3VMSP
+           U4       BATT
+
+3V-GPS     C5       1
+           C6       A
+           C7       2
+           JP2      4
+           U4       3V-GPS
+           U6       5
+
+3V-PIC     C13      1
+           C14      A
+           C15      2
+           JP2      3
+           U4       3VPIC
+           U7       5
+
+5V         C1       A
+           JP8      6
+           U1       1
+           U5       5V
+           U6       1
+           U7       1
+
+GND        C1       C
+           C10      1
+           C11      2
+           C12      C
+           C13      2
+           C14      C
+           C15      1
+           C16      2
+           C2       C
+           C3       2
+           C4       1
+           C5       2
+           C6       C
+           C7       1
+           C8       2
+           C9       2
+           JP2      1
+           JP8      1
+           LED1     C
+           LED2     C
+           LED3     C
+           R2       1
+           U1       2
+           U2       2
+           U3       8
+           U4       GND@1
+           U4       GND@2
+           U4       GND@3
+           U4       GND@4
+           U4       GND@5
+           U5       GND@0
+           U5       GND@1
+           U5       GND@2
+           U6       2
+           U7       2
+
+N$1        C16      1
+           U7       4
+
+N$2        R4       2
+           SJ1      2
+
+N$3        R3       2
+           SJ2      2
+
+N$4        C9       1
+           U6       4
+
+N$5        LED2     A
+           R3       1
+
+N$6        LED3     A
+           R4       1
+
+N$7        SJ1      1
+           U5       D8
+
+N$8        SJ2      1
+           U5       D9
+
+N$26       C11      1
+           U1       4
+
+N$38       LED1     A
+           R1       1
+
+PWRCTL     JP8      4
+           R2       2
+           U1       3
+           U5       D5
+           U6       3
+           U7       3
+
+SPOT-RX-3V U3       6
+           U4       BT-TX
+
+SPOT-RX-5V JP8      2
+           U3       7
+           U5       D3
+
+SPOT-TX-3V JP8      3
+           U4       BT-RX
+           U5       D2
+

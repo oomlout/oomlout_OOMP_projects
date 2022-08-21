@@ -1,0 +1,609 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 19:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net            Part     Pad
+
+!RESET!        C9       1
+               J5       3
+               R15      1
+               S1       3
+               S1       4
+               U8       2
+
+3.3V           3V3_LED  2
+               C14      1
+               C15      1
+               C16      1
+               C24      1
+               C25      1
+               C6       1
+               D12      A
+               D13      A
+               D14      A
+               IC1      15
+               IC2      15
+               J14      2
+               J5       6
+               JP1      2
+               MEAS     2
+               MEAS     4
+               R15      2
+               R25      1
+               R26      2
+               R30      2
+               R38      2
+               R39      2
+               R45      1
+               RX_LED   2
+               SERIAL   1
+               TX_LED   2
+               U1       51
+               U1       52
+               U1       53
+               U2       16
+               U2       4
+               U4       10
+               U4       7
+               U8       5
+
+3.3V_EN        J5       4
+               R5       1
+               U5       5
+
+ANT_REG_EN     Q9       3
+               R45      2
+               U3       3
+
+CTS            CTS      2
+               IC1      12
+               SERIAL   9
+
+DCD            DCD      2
+               IC2      13
+               RX2      2
+               SERIAL   6
+
+DSR            DSR      2
+               IC2      11
+               RTS2     2
+               SERIAL   8
+
+DTR            DTR      2
+               IC2      14
+               R17      2
+               SERIAL   5
+               TX2      2
+
+GND            C1       2
+               C10      1
+               C11      1
+               C12      1
+               C13      2
+               C14      2
+               C15      2
+               C16      2
+               C17      2
+               C19      2
+               C20      2
+               C21      2
+               C22      2
+               C23      2
+               C24      2
+               C25      2
+               C26      2
+               C3       2
+               C4       2
+               C5       2
+               C6       2
+               C7       2
+               C8       2
+               C9       2
+               D10      2
+               D11      2
+               D2       C
+               D4       C
+               D8       2
+               D8       5
+               DSR_DIR  1
+               E3       GND@0
+               E3       GND@1
+               E4       GND@0
+               E4       GND@1
+               IC1      10
+               IC1      2
+               IC1      8
+               IC1      9
+               IC2      1
+               IC2      10
+               IC2      9
+               J1       GND
+               J1       GND2
+               J14      1
+               J17      C5
+               J2       GND
+               J2       GND2
+               J3       GND
+               J3       GND2
+               J5       8
+               L1       P$2
+               Q1       2
+               Q2       2
+               Q3       2
+               Q4       2
+               Q7       2
+               Q8       2
+               Q9       2
+               R10      1
+               R16      1
+               R17      1
+               R18      2
+               R19      1
+               R2       1
+               R3       1
+               R7       1
+               R8       1
+               R9       1
+               S1       1
+               S1       2
+               S3       3
+               S3       4
+               SERIAL   10
+               U1       1
+               U1       14
+               U1       20
+               U1       21
+               U1       22
+               U1       3
+               U1       30
+               U1       32
+               U1       43
+               U1       5
+               U1       50
+               U1       54
+               U1       55
+               U1       57
+               U1       58
+               U1       59
+               U1       60
+               U1       61
+               U1       63
+               U1       64
+               U1       65
+               U1       66
+               U1       67
+               U1       68
+               U1       69
+               U1       70
+               U1       71
+               U1       72
+               U1       73
+               U1       74
+               U1       75
+               U1       76
+               U1       77
+               U1       78
+               U1       79
+               U1       80
+               U1       81
+               U1       82
+               U1       83
+               U1       84
+               U1       85
+               U1       86
+               U1       87
+               U1       88
+               U1       89
+               U1       90
+               U1       91
+               U1       92
+               U1       93
+               U1       94
+               U1       95
+               U1       96
+               U2       1
+               U3       2
+               U4       3
+               U5       4
+               U5       EP
+               U7       P1
+               U8       3
+
+N$1            R6       2
+               VIN_LED  1
+
+N$2            JP1      3
+               R4       2
+
+N$3            JP1      1
+               R1       2
+
+N$4            D3       A
+               F2       2
+
+N$5            J2       A5
+               R7       2
+
+N$6            3V3_LED  1
+               R11      2
+
+N$7            D2       A
+               R11      1
+
+N$8            D4       A
+               R6       1
+
+N$9            J2       B5
+               R8       2
+
+N$10           J1       A5
+               R2       2
+
+N$11           J1       B5
+               R3       2
+
+N$12           D5       A
+               F1       2
+
+N$13           F1       1
+               J2       VBUS1
+               J2       VBUS2
+
+N$14           J3       A5
+               R9       2
+
+N$15           C18      2
+               E3       SIG
+               L2       P$2
+
+N$16           C19      1
+               D10      1
+               L2       P$1
+               R23      2
+
+N$17           J3       B5
+               R10      2
+
+N$18           F3       1
+               J3       VBUS1
+               J3       VBUS2
+
+N$19           F2       1
+               J1       VBUS1
+               J1       VBUS2
+
+N$20           TX       1
+               U2       2
+
+N$21           RX       1
+               U2       3
+
+N$22           R26      1
+               U7       P7
+               U7       P8
+
+N$23           DSR_DIR  2
+               IC2      8
+
+N$24           C17      1
+               C20      1
+               R24      1
+               U3       5
+
+N$25           C21      1
+               FB1      1
+               R24      2
+               TP22     P$1
+
+N$26           Q2       1
+               R27      2
+
+N$27           Q4       1
+               R28      2
+
+N$28           R28      1
+               U8       4
+
+N$29           RTS      1
+               U2       14
+
+N$30           DTR      1
+               U2       13
+
+N$31           R31      2
+               U1       4
+
+N$32           Q1       1
+               R32      2
+
+N$33           J13      1
+               Q1       3
+               R33      1
+               R38      1
+
+N$34           D12      C
+               R33      2
+
+N$35           Q3       1
+               R34      2
+
+N$36           J19      1
+               Q3       3
+               R35      1
+               R39      1
+
+N$37           D13      C
+               R35      2
+
+N$38           R36      2
+               U1       13
+
+N$39           R37      2
+               U1       12
+
+N$40           Q8       1
+               R13      2
+
+N$41           DCD      1
+               U2       12
+
+N$42           Q8       3
+               Q9       1
+               R25      2
+
+N$43           JP19     2
+               Q5       2
+               R29      1
+
+N$44           RI       1
+               U2       11
+
+N$45           DSR      1
+               U2       10
+
+N$46           CTS      1
+               U2       9
+
+N$47           Q7       1
+               R42      2
+
+N$48           TX2      1
+               U4       8
+
+N$49           D14      C
+               R43      2
+
+N$50           RX2      1
+               U4       9
+
+N$51           RTS2     1
+               U4       4
+
+N$52           CTS2     1
+               U4       5
+
+N$53           R12      2
+               TX_LED   1
+
+N$54           D7       A
+               R12      1
+
+N$55           R14      2
+               RX_LED   1
+
+N$56           D9       A
+               R14      1
+
+N$57           D1       A
+               DVEXT    1
+               F4       1
+
+N$58           JP2      2
+               R13      1
+
+RI             CTS2     2
+               IC2      12
+               RI       2
+               SERIAL   7
+
+RTS            IC1      11
+               R19      2
+               RTS      2
+               SERIAL   4
+
+RX             D9       C
+               IC1      14
+               RX       2
+               SERIAL   3
+
+SARA_!ON!      Q7       3
+               R43      1
+
+SARA_!RESET!   Q4       3
+               U1       18
+
+SARA_ANT       C18      1
+               L1       P$1
+               U1       56
+
+SARA_ANT_DET   R23      1
+               U1       62
+
+SARA_ANT_GNSS  D11      1
+               E4       SIG
+               FB1      2
+               U1       31
+
+SARA_CTS_O     IC1      5
+               TP3      P$1
+               U1       11
+
+SARA_DCD/RXD2O IC2      4
+               TP15     P$1
+               U1       8
+
+SARA_DSR/RTS2I IC2      6
+               TP17     P$1
+               U1       6
+
+SARA_DTR/TXD2I IC2      3
+               TP14     P$1
+               U1       9
+
+SARA_EXT_INT   JP19     3
+               U1       33
+
+SARA_GPIO2     JP2      1
+               U1       23
+
+SARA_GPIO3     JP19     1
+               U1       24
+
+SARA_INT       J5       2
+               Q5       3
+               R30      1
+
+SARA_NI        R34      1
+               U1       16
+
+SARA_ON        J5       1
+               R18      1
+               R27      1
+
+SARA_ON_1.8V   Q2       3
+               S3       1
+               S3       2
+               U1       15
+
+SARA_RI/CTS2O  IC2      5
+               TP16     P$1
+               U1       7
+
+SARA_RTS_I     IC1      6
+               TP4      P$1
+               U1       10
+
+SARA_RXD_O     IC1      3
+               R36      1
+               TP1      P$1
+
+SARA_SCL       J14      4
+               R4       1
+               U7       P6
+
+SARA_SCL_1.8V  TP10     P$1
+               U1       27
+               U7       P3
+
+SARA_SDA       J14      3
+               R1       1
+               U7       P5
+
+SARA_SDA_1.8V  TP9      P$1
+               U1       26
+               U7       P4
+
+SARA_TP        R32      1
+               U1       19
+
+SARA_TXD_I     IC1      4
+               R37      1
+               TP2      P$1
+
+SARA_USB_D+    J3       A6
+               J3       B6
+               U1       29
+
+SARA_USB_D-    J3       A7
+               J3       B7
+               U1       28
+
+SARA_VUSB_DET  D6       A
+               F3       2
+               R16      2
+               U1       17
+
+SIM_CLK        C8       1
+               D8       1
+               J17      C3
+               U1       38
+
+SIM_IO         C10      2
+               D8       6
+               J17      C7
+               U1       39
+
+SIM_RST        C7       1
+               D8       4
+               J17      C2
+               U1       40
+
+TX             D7       C
+               IC1      13
+               SERIAL   2
+               TX       2
+
+USB_2_D+       J2       A6
+               J2       B6
+               U4       1
+
+USB_2_D-       J2       A7
+               J2       B7
+               U4       2
+
+USB_D+         J1       A6
+               J1       B6
+               U2       5
+
+USB_D-         J1       A7
+               J1       B7
+               U2       6
+
+VCCIO          C22      1
+               C23      1
+               DSR_DIR  3
+               IC1      1
+               IC1      16
+               IC1      7
+               IC2      16
+               IC2      2
+               IC2      7
+               J5       5
+               JP2      3
+               Q5       1
+               R29      2
+               R31      1
+               R42      1
+               U7       P2
+
+VIN            C1       1
+               C13      1
+               C26      1
+               D1       C
+               D3       C
+               D5       C
+               D6       C
+               DVEXT    2
+               R5       2
+               U3       1
+               U5       8
+               VIN_LED  2
+
+VREG_3.3V      C3       1
+               C4       1
+               C5       1
+               MEAS     1
+               MEAS     3
+               U5       1
+
+VSIM           C11      2
+               C12      2
+               D8       3
+               J17      C1
+               U1       41
+
+V_EXT          F4       2
+               J5       7
+

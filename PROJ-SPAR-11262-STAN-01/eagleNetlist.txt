@@ -1,0 +1,291 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A1       TEMPS    1
+         U$2      P$1
+         U$7      P$4
+         U1       24
+         U2       2
+
+A2       A2/16    1
+         U$12     P$1
+         U$7      P$3
+         U1       25
+
+A3       A3/17    1
+         U$13     P$1
+         U$7      P$6
+         U1       26
+
+A4       A4/18    1
+         U$14     P$1
+         U$7      P$5
+         U1       27
+
+A5       A5/19    1
+         BUTTONS  1
+         S3       2
+         U$40     P$1
+         U$8      P$1
+         U1       28
+
+A6       LIGHTS   1
+         R7       2
+         U$33     P$1
+         U$7      P$1
+         U1       19
+         U3       EMITTER
+
+BLU      D2       B
+         R4       2
+
+D2       S2       3
+         S2       6
+         SLIDEON  1
+         U$46     P$1
+         U$8      P$2
+         U1       32
+
+D3       R6       2
+         U$5      P$1
+         U$8      P$3
+         U1       1
+         VIBE+    1
+
+D5       U$10     P$1
+         U$41     1
+         U$51     P$1
+         U1       9
+
+D6       U$1      1
+         U$11     P$1
+         U$51     P$4
+         U1       10
+
+D7       B1       +
+         U$32     P$2
+         U$33+    1
+         U$51     P$2
+         U1       11
+
+D9       R3       1
+         U$20     P$3
+         U$22     1
+         U$37     1
+         U$51     P$5
+         U1       13
+
+D10      R4       1
+         U$20     P$2
+         U$24     1
+         U$39     1
+         U$51     P$6
+         U1       14
+
+D11      R5       1
+         U$20     P$1
+         U$23     1
+         U$4      1
+         U$51     P$3
+         U1       15
+
+D12      PP-MISO  P$1
+         U1       16
+
+D13      PP-SCK   P$1
+         R1       2
+         U1       17
+
+DTR      C4       1
+         JP2      1
+         TP-DTR   P$1
+
+FTDI_VCC C9       1
+         D4       A
+         JP2      4
+         S1       3
+         S1       6
+         TP1      P$1
+         U4       4
+
+GND      B1       -
+         BUTTON-  1
+         C1       2
+         C10      2
+         C2       C
+         C3       2
+         C5       2
+         C9       2
+         D1       C
+         D3       2
+         JP1      1
+         JP2      5
+         JP2      6
+         LIGHT-   1
+         M1       P$2
+         PP-GND   P$1
+         R13      2
+         R7       1
+         S2       2
+         S2       5
+         S3       4
+         S4       1
+         SLIDEOFF 1
+         TEMP-    1
+         U$15     P$1
+         U$16     P$1
+         U$17     P$1
+         U$18     P$1
+         U$19     P$1
+         U$3      P$1
+         U$32     P$1
+         U$32-    1
+         U$33     P$3
+         U$42     P$1
+         U$43     1
+         U$44     P$1
+         U$47     P$1
+         U$5      P$2
+         U$6      P$1
+         U$8      P$5
+         U1       21
+         U1       3
+         U1       5
+         U2       3
+         U4       2
+         VIBE-    1
+         Y1       2
+
+GRN      D2       G
+         R5       2
+
+N$1      U1       7
+         Y1       1
+
+N$2      D1       A
+         R1       1
+
+N$3      U1       8
+         Y1       3
+
+N$5      U1       23
+
+N$8      U1       22
+
+N$10     D3       1
+         M1       P$1
+         R6       1
+
+N$12     U1       2
+
+N$14     U1       12
+
+N$18     LED      C
+         R        1
+
+N$19     LED      A
+         LED+     1
+
+N$20     LED-     1
+         R        2
+
+N$21     LED1     C
+         R8       1
+
+N$22     LED+1    1
+         LED1     A
+
+N$23     LED-1    1
+         R8       2
+
+N$24     LED2     C
+         R9       1
+
+N$25     LED+2    1
+         LED2     A
+
+N$26     LED-2    1
+         R9       2
+
+N$27     LED3     C
+         R10      1
+
+N$28     LED+3    1
+         LED3     A
+
+N$29     LED-3    1
+         R10      2
+
+N$30     LED4     C
+         R11      1
+
+N$31     LED+4    1
+         LED4     A
+
+N$32     LED-4    1
+         R11      2
+
+N$33     D4       C
+         R12      2
+
+PROG     R13      1
+         U4       5
+
+RED      D2       R
+         R3       2
+
+RST      C4       2
+         PP-RST   P$1
+         R2       1
+         S4       3
+         U1       29
+
+RXI      JP2      3
+         TP-RX    P$1
+         U1       30
+
+SINK1    S2       4
+
+SINK2    S2       1
+
+STAT     R12      1
+         U4       1
+
+TXO      JP2      2
+         TP-TX    P$1
+         U1       31
+
+VBATT    C10      1
+         JP1      2
+         S1       1
+         S1       4
+         U4       3
+
+VCC      C1       1
+         C2       A
+         C3       1
+         C5       1
+         D2       A
+         LIGHT+   1
+         R2       2
+         S1       2
+         S1       5
+         TEMP+    1
+         U$2      P$2
+         U$20     P$4
+         U$25     1
+         U$33     P$2
+         U$45     1
+         U$8      P$4
+         U1       18
+         U1       20
+         U1       4
+         U1       6
+         U2       1
+         U3       COLLECTOR
+

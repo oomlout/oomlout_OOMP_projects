@@ -1,0 +1,148 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 16:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JP1      1
+         R1       2
+         R2       2
+         U1       20
+
+AIC0     JP1      18
+         U1       3
+
+GND      JP2      20
+         U1       36
+         U1       G1
+         U1       G2
+         U1       G3
+         U1       G4
+         U1       RFG1
+         U1       RFG2
+         U1       RFG3
+         U1       RFG4
+         U1       RFG5
+         U1       RFG6
+
+GPIO2    JP1      19
+         U1       2
+
+GPIO3    JP1      20
+         U1       1
+
+GPIO4    JP1      17
+         U1       4
+
+GPIO5    JP1      16
+         U1       5
+
+GPIO6    JP1      3
+         U1       18
+
+GPIO7    JP1      4
+         U1       17
+
+GPIO9    JP1      11
+         U1       10
+
+GPIO10   JP1      12
+         U1       9
+
+GPIO11   JP1      13
+         U1       8
+
+GPIO12   JP1      15
+         U1       6
+
+GPIO13   JP1      14
+         U1       7
+
+LED0     D1       C
+         JP2      10
+         U1       30
+
+LED1     D2       C
+         JP2      11
+         U1       29
+
+MIC_BIAS JP2      9
+         U1       31
+
+MIC_L+   JP2      8
+         U1       32
+
+MIC_L-   JP2      6
+         U1       34
+
+MIC_R+   JP2      7
+         U1       33
+
+MIC_R-   JP2      5
+         U1       35
+
+N$1      D2       A
+         R2       1
+
+N$2      D1       A
+         R1       1
+
+PCM_CLK  JP2      16
+         U1       24
+
+PCM_IN   JP2      19
+         U1       21
+
+PCM_OUT  JP2      18
+         U1       22
+
+PCM_SYNC JP2      17
+         U1       23
+
+PWREN    JP1      2
+         U1       19
+
+SPI_CLK  JP2      13
+         U1       27
+
+SPI_MISO JP2      14
+         U1       26
+
+SPI_MOSI JP2      12
+         U1       28
+
+SPI_SS   JP2      15
+         U1       25
+
+SPKR_L+  JP2      1
+         U1       40
+
+SPKR_L-  JP2      3
+         U1       38
+
+SPKR_R+  JP2      2
+         U1       39
+
+SPKR_R-  JP2      4
+         U1       37
+
+UART_CTS JP1      7
+         U1       14
+
+UART_RTS JP1      8
+         U1       13
+
+UART_RX  JP1      5
+         U1       16
+
+UART_TX  JP1      6
+         U1       15
+
+USBD+    JP1      9
+         U1       12
+
+USBD-    JP1      10
+         U1       11
+

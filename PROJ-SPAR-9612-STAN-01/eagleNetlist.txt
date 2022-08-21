@@ -1,0 +1,142 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 22:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net        Part     Pad
+
+DIAG       JP12     3
+           LED1     K
+           U2       10
+
+GND        C13      2
+           C14      2
+           C3       1
+           C4       1
+           C5       1
+           C6       2
+           C7       2
+           C8       2
+           JP1      1
+           JP13     3
+           JP2      1
+           JP3      1
+           LED2     K
+           LED3     K
+           R6       P$2
+           R8       P$1
+           U1       4
+           U2       8
+           U2       9
+           VR1      P$1
+           VR2      P$1
+
+LEFT_LINE  C11      1
+           C2       2
+           R1       P$2
+           U1       1
+
+N$1        C9       1
+           VR1      P$2
+
+N$2        JP2      2
+           VR1      P$3
+
+N$3        C9       2
+           R2       P$1
+
+N$4        C2       1
+           R1       P$1
+           R2       P$2
+           U1       2
+
+N$5        C7       1
+           R5       P$1
+           R6       P$1
+           U1       3
+
+N$6        LED3     A
+           R11      P$1
+
+N$7        R11      P$2
+           S1       1
+
+N$8        JP3      2
+           VR2      P$3
+
+N$9        C10      1
+           VR2      P$2
+
+N$10       C8       1
+           R7       P$2
+           R8       P$2
+           U1       5
+
+N$11       C10      2
+           R4       P$1
+
+N$12       LED1     A
+           R9       P$1
+
+N$13       C1       1
+           R3       P$1
+           R4       P$2
+           U1       6
+
+N$14       LED2     A
+           R12      P$1
+
+N$15       JP4      1
+           U2       2
+
+N$16       JP4      2
+           U2       1
+
+N$18       JP5      2
+           U2       14
+
+N$19       JP5      1
+           U2       15
+
+N$20       C11      2
+           JP13     2
+           U2       4
+           U2       5
+
+N$21       C12      2
+           JP13     1
+           U2       11
+           U2       12
+
+N$22       C13      1
+           U2       6
+
+N$23       C14      1
+           R10      P$2
+           U2       7
+
+RIGHT_LINE C1       2
+           C12      1
+           R3       P$2
+           U1       7
+
+STBY       JP12     1
+           R10      P$1
+           S1       3
+
+VCC        C3       2
+           C4       2
+           C5       2
+           C6       1
+           JP1      2
+           JP12     2
+           R12      P$2
+           R5       P$2
+           R7       P$1
+           R9       P$2
+           S1       2
+           U1       8
+           U2       13
+           U2       3
+

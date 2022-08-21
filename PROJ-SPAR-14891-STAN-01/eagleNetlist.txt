@@ -1,0 +1,52 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     U$11     P1
+         U$19     P1
+         U$26     P1
+         U2       COLLECTOR
+         U3       1
+
+GND      D1       4
+         R11      1
+         U$12     P1
+         U$22     P1
+         U$25     P1
+         U$35     P1
+         U3       3
+
+N$10     U$23     P$1
+         U$23     P$2
+         U3       2
+
+N$11     D1       3
+         R9       2
+
+N$12     D1       1
+         R8       2
+
+N$13     D1       2
+         R10      2
+
+N$14     R8       1
+         U$10     P$1
+         U$10     P$2
+
+N$15     R9       1
+         U$14     P$1
+         U$14     P$2
+
+N$16     R10      1
+         U$15     P$1
+         U$15     P$2
+
+N$18     R11      2
+         U$24     P$1
+         U$24     P$2
+         U2       EMITTER
+

@@ -1,0 +1,313 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 18:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part      Pad
+
++3V3     C3        2
+         J1        4
+         U2        5
+         U5        2
+
++5V      C1        2
+         C2        2
+         C6        2
+         C7        1
+         D2        C
+         D3        C
+         ICSP      2
+         ICSP1     2
+         J1        2
+         J1        5
+         L2        1
+         PC2       +
+         RN1       3
+         RN1       5
+         RN2       2
+         RN2       3
+         RN4       3
+         RN4       4
+         T1        2
+         TP_5V1    X
+         U1        2
+         U1        4
+         U2        1
+         U2        3
+         U3        32
+         U3        4
+         U4        4
+         U4        6
+         U5        8
+
+5-GND    RESET     5
+
+A0       J1        9
+         U4        23
+
+A1       J1        10
+         U4        24
+
+A2       J1        11
+         U4        25
+
+A3       J1        12
+         U4        26
+
+A4/SDA   J1        13
+         J2        17
+         U4        27
+
+A5/SCL   J1        14
+         J2        18
+         U4        28
+
+AREF     C4        2
+         J2        16
+         U4        20
+
+CMP      RN1       1
+         RN1       2
+         TP_CMP    X
+         U5        3
+
+D+       RN3       5
+         X2        3
+         Z1        1
+
+D-       RN3       8
+         X2        2
+         Z2        1
+
+DTR      C5        1
+         RN2       4
+         TP_DTR    X
+         U3        13
+
+GATE_CMD T1        3
+         TP_GATE   X
+         U5        1
+
+GND      C1        1
+         C10       2
+         C11       2
+         C2        1
+         C3        1
+         C4        1
+         C6        1
+         C7        2
+         C9        2
+         GROUND    1
+         ICSP      6
+         ICSP1     6
+         J1        6
+         J1        7
+         J2        15
+         L         C
+         ON        C
+         PC1       -
+         PC2       -
+         RESET     1
+         RESET     2
+         RN1       7
+         RN2       5
+         U1        1
+         U2        2
+         U3        3
+         U3        EXP
+         U4        21
+         U4        3
+         U4        5
+         U5        4
+         X1        1
+         X1        3
+         Y2        2
+
+IO0      J2        1
+         RN4       2
+         U4        30
+
+IO1      J2        2
+         RN4       1
+         U4        31
+
+IO2      J2        3
+         U4        32
+
+IO3      J2        4
+         U4        1
+
+IO4      J2        5
+         U4        2
+
+IO5      J2        6
+         U4        9
+
+IO6      J2        7
+         U4        10
+
+IO7      J2        8
+         U4        11
+
+IO8      J2        9
+         U4        12
+
+IO9      J2        10
+         U4        13
+
+L13      RN2       8
+         TP_LCMD   X
+         U5        6
+         U5        7
+
+M8RXD    RN4       7
+         TP_RX     X
+         U3        9
+
+M8TXD    RN4       8
+         TP_TX     X
+         U3        8
+
+MISO     ICSP      1
+         J2        13
+         U4        16
+
+MISO2    ICSP1     1
+         TP_MISO2  X
+         U3        17
+
+MOSI     ICSP      4
+         J2        12
+         U4        15
+
+MOSI2    ICSP1     4
+         TP_MOSI2  X
+         U3        16
+
+N$1      L         A
+         RN2       1
+         TP_LL     X
+
+N$3      ON        A
+         RN4       5
+         RN4       6
+         TP_ONL    X
+
+N$4      C10       1
+         L2        2
+         U4        18
+
+N$35     RN2       7
+         RX        A
+         TP_RXL    X
+
+N$36     RN2       6
+         TP_TXL    X
+         TX        A
+
+PB4      JP2       1
+         U3        18
+
+PB5      JP2       3
+         U3        19
+
+PB6      JP2       2
+         U3        20
+
+PB7      JP2       4
+         U3        21
+
+PWRIN    D1        A
+         X1        2
+
+RD+      RN3       4
+         U3        29
+
+RD-      RN3       1
+         U3        30
+
+RESET    C5        2
+         D2        A
+         ICSP      5
+         J1        3
+         RESET     3
+         RESET     4
+         RESET-EN  1
+         RESET-EN  2
+         RN1       4
+         U4        29
+
+RESET2   D3        A
+         ICSP1     5
+         RN1       6
+         TP_RESET2 X
+         U3        24
+
+RXLED    RX        C
+         U3        10
+
+SCK      ICSP      3
+         J2        14
+         U4        17
+         U5        5
+
+SCK2     ICSP1     3
+         TP_SCK2   X
+         U3        15
+
+SS       J2        11
+         U4        14
+
+TP_VUCAP C8        1
+         TP_VUCAP  X
+         U3        27
+
+TXLED    TX        C
+         U3        11
+
+UGND     C8        2
+         GROUND    2
+         L1        1
+         U3        28
+         X2        4
+
+USBVCC   F1        1
+         T1        1
+         TP_USBVCC X
+         U3        31
+
+USHIELD  L1        2
+         TP_USH    X
+         X2        P$1
+         X2        P$2
+         Z1        2
+         Z2        2
+
+VIN      D1        C
+         J1        8
+         PC1       +
+         RN1       8
+         U1        3
+
+XT1      C9        1
+         R1        1
+         U3        1
+         Y1        2
+
+XT2      C11       1
+         R1        2
+         U3        2
+         Y1        1
+
+XTAL1    R2        1
+         U4        7
+         Y2        3
+
+XTAL2    R2        2
+         U4        8
+         Y2        1
+
+XUSB     F1        2
+         X2        1
+

@@ -1,0 +1,156 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A0       R5       2
+         R6       2
+         U1       23
+
+A1       U1       24
+         U4       2
+
+A2       U1       25
+
+A3       U1       26
+
+A4       U1       27
+
+A5       U1       28
+
+AREF     C1       2
+         U1       20
+
+D2       U1       32
+
+D3       JP6      1
+         JP7      1
+         LED2     A
+         U1       1
+
+D4       U1       2
+         U3       14
+
+D5       Q1       1
+         U1       9
+
+D6       SG1      -
+         U1       10
+
+D7       U1       11
+         U3       13
+
+D8       U1       12
+         U3       12
+
+D9       JP10     2
+         JP8      2
+         LED3     A
+         U1       13
+
+D10      U1       14
+
+DTR      C2       1
+         JP9      1
+
+GND      C1       1
+         C10      2
+         C3       1
+         C4       C
+         C5       C
+         IC1      4
+         JP3      1
+         JP9      5
+         JP9      6
+         R1       P$1
+         R3       P$1
+         R4       1
+         R6       1
+         SG1      +
+         U1       21
+         U1       3
+         U1       5
+         U3       1
+         U3       10
+         U3       16
+         U3       5
+         U3       7
+         U3       8
+         U3       9
+         U4       3
+         Y1       2
+
+MISO     U1       16
+         U3       6
+
+MOSI     U1       15
+         U3       11
+
+N$1      D1       A
+         IC1      5
+         L1       P$2
+
+N$3      Q1       2
+         U3       15
+
+N$4      U1       7
+         Y1       1
+
+N$5      JP10     1
+         JP8      1
+         LED3     K
+         R3       P$2
+
+N$6      U1       8
+         Y1       3
+
+N$7      JP6      2
+         JP7      2
+         LED2     K
+         R1       P$2
+
+N$12     U1       19
+
+N$13     U1       22
+
+RESET    C2       2
+         R2       1
+         TP1      P$1
+         U1       29
+
+RX-I     JP9      3
+         U1       30
+
+SCK      U1       17
+         U3       4
+
+TX-O     JP9      2
+         U1       31
+
+V0       R4       2
+         U3       3
+
+VCC      C10      1
+         C3       2
+         C5       A
+         D1       C
+         IC1      1
+         IC1      2
+         JP9      4
+         Q1       3
+         R2       2
+         R4       3
+         R5       1
+         U1       18
+         U1       4
+         U1       6
+         U3       2
+         U4       1
+
+VIN      C4       A
+         JP3      2
+         L1       P$1
+

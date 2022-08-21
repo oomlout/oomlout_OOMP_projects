@@ -1,0 +1,74 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 04:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!EVI     J3       5
+         R1       1
+         S1       1
+         U1       7
+
+!INT     J3       6
+         R2       1
+         U1       6
+
+3.3V     D1       1
+         I2C      2
+         J1       2
+         J2       2
+         J3       2
+         LED      2
+         R1       2
+         R2       2
+
+CLKOE    J3       8
+         R6       2
+         U1       4
+
+CLKOUT   J3       7
+         U1       2
+
+GND      BT2      GND
+         C1       1
+         D2       C
+         J1       1
+         J2       1
+         J3       1
+         R6       1
+         S1       3
+         U1       5
+
+N$1      C1       2
+         D1       3
+         U1       3
+
+N$2      D2       A
+         R3       1
+
+N$3      BT2      PWR@1
+         D1       2
+
+N$5      LED      1
+         R3       2
+
+N$6      I2C      3
+         R5       1
+
+N$7      I2C      1
+         R4       1
+
+SCL      J1       4
+         J2       4
+         J3       4
+         R4       2
+         U1       8
+
+SDA      J1       3
+         J2       3
+         J3       3
+         R5       2
+         U1       1
+

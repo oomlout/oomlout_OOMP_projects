@@ -1,0 +1,151 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       A
+         C2       1
+         JP2      10
+         R1       1
+         R3       1
+         U2       1
+         U3       5
+
+3V-INT   C11      1
+         U4       13
+         U4       14
+         U4       3
+
+5V       C14      1
+         JP3      11
+         JP4      VBUS
+         R11      2
+         U3       1
+         U3       3
+         U4       15
+
+CTS      SJ3      1
+         U4       9
+
+CTS_XBEE JP3      9
+         SJ3      2
+         U2       12
+
+DIN      JP2      8
+         U2       3
+         U4       20
+
+DIO0     JP3      1
+         U2       20
+
+DIO1     JP3      2
+         U2       19
+
+DIO2     JP3      3
+         U2       18
+
+DIO3     JP3      4
+         U2       17
+
+DIO4     JP3      10
+         U2       11
+
+DIO5     JP3      6
+         U2       15
+
+DIO9     JP3      8
+         U2       13
+
+DIO11    JP2      4
+         U2       7
+
+DIO12    JP2      7
+         U2       4
+
+DOUT     JP2      9
+         U2       2
+         U4       4
+
+DTR      SJ4      1
+         U4       1
+
+DTR_XBEE JP2      2
+         SJ4      2
+         U2       9
+
+GND      C1       C
+         C11      2
+         C14      2
+         C2       2
+         C3       2
+         C4       2
+         D3       C
+         D4       C
+         JP2      1
+         JP2      11
+         JP4      GND
+         S2       1
+         U2       10
+         U3       2
+         U4       16
+         U4       6
+
+N$1      D1       A
+         R1       2
+
+N$2      D3       A
+         R4       1
+
+N$3      C4       1
+         JP4      D-
+         R2       1
+
+N$4      D2       A
+         R3       2
+
+N$5      R2       2
+         U4       12
+
+N$6      C3       1
+         JP4      D+
+         R5       2
+
+N$7      R5       1
+         U4       11
+
+N$8      R4       2
+         SJ1      2
+
+N$38     D4       A
+         R11      1
+
+RES1     JP2      3
+         U2       8
+
+RES2     JP3      7
+         U2       14
+
+RESET    JP2      6
+         S2       3
+         U2       5
+
+RSSI     JP2      5
+         SJ1      1
+         U2       6
+
+RTS      SJ2      1
+         U4       2
+
+RTS_XBEE JP3      5
+         SJ2      2
+         U2       16
+
+RXLED    D2       C
+         U4       17
+
+TXLED    D1       C
+         U4       10
+

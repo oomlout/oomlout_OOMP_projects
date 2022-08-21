@@ -1,0 +1,52 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 21:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     JP1      3
+
+A1+      C1       1
+         JP2      8
+         R1       1
+
+A1-      C2       1
+         JP2      6
+         R2       1
+
+A1SEN    AJ1      RSH
+         JP2      7
+
+A2+      C3       1
+         JP2      3
+         R3       1
+
+A2-      C4       1
+         JP2      1
+         R4       1
+
+A2SEN    AJ2      RSH
+         JP2      2
+
+GND      AJ1      SLEEVE
+         AJ2      SLEEVE
+         C1       2
+         C2       2
+         C3       2
+         C4       2
+         JP1      1
+
+N$1      AJ2      RING
+         R3       2
+
+N$2      AJ2      TIP
+         R4       2
+
+N$3      AJ1      RING
+         R1       2
+
+N$4      AJ1      TIP
+         R2       2
+

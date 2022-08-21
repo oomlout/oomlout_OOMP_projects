@@ -1,0 +1,233 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+A0       JP6      8
+         U1       23
+
+A1       JP6      7
+         U1       24
+
+A2       JP6      6
+         U1       25
+
+A3       JP6      5
+         U1       26
+
+A4       JP2      1
+         R1       1
+         U1       27
+
+A5       JP2      2
+         R3       1
+         U1       28
+
+A6       JP3      1
+         U1       19
+
+A7       JP3      2
+         U1       22
+
+AREF     C1       2
+         U1       20
+
+D2       JP7      8
+         SJ5      2
+         U1       32
+
+D3       JP7      7
+         U1       1
+
+D4       JP7      6
+         U1       2
+
+D5       JP7      5
+         U1       9
+
+D6       JP7      4
+         U1       10
+
+D7       JP7      3
+         U1       11
+
+D8       JP7      2
+         U1       12
+
+D9       JP7      1
+         U1       13
+
+D10      JP6      12
+         U1       14
+
+DTR      C2       2
+         JP1      1
+
+GND      C1       1
+         C10      2
+         C13      C
+         C19      C
+         C3       1
+         C4       1
+         D3       C
+         JP1      5
+         JP1      6
+         JP11     4
+         JP4      1
+         JP4      2
+         JP4      3
+         JP4      4
+         JP4      5
+         JP4      6
+         JP4      7
+         JP4      8
+         JP5      1
+         JP5      2
+         JP5      3
+         JP5      4
+         JP5      5
+         JP5      6
+         JP5      7
+         JP5      8
+         JP6      2
+         JP7      9
+         Q1       2
+         R4       1
+         R5       1
+         R7       1
+         S1       1
+         U1       21
+         U1       3
+         U1       5
+         U2       2
+         U3       5
+
+MISO     JP6      10
+         U1       16
+
+MOSI     JP6      11
+         U1       15
+
+N$1      Q1       3
+         U1       8
+
+N$2      JP9      5
+         JP9      6
+         JP9      7
+         JP9      8
+         SJ1      2
+
+N$3      JP9      1
+         JP9      2
+         JP9      3
+         JP9      4
+         SJ3      2
+
+N$4      Q1       1
+         U1       7
+
+N$5      JP8      5
+         JP8      6
+         JP8      7
+         JP8      8
+         SJ2      2
+
+N$6      JP8      1
+         JP8      2
+         JP8      3
+         JP8      4
+         SJ4      2
+
+N$7      D3       A
+         R6       2
+
+N$8      D4       C
+         R7       2
+
+N$9      R10      1
+         U3       3
+
+N$10     R11      1
+         U3       4
+
+N$11     R8       1
+         U3       1
+
+N$12     R4       2
+         U3       6
+
+N$13     R9       1
+         U3       2
+
+N$17     F1       2
+         JP11     1
+
+RESET    C2       1
+         JP6      3
+         JP7      10
+         R2       1
+         S1       3
+         U1       29
+
+RXI      JP7      11
+         U1       30
+         U3       8
+
+RXI_MIP  JP11     2
+         R10      2
+
+RXI_PROG JP1      3
+         R8       2
+
+SCK      JP6      9
+         R6       1
+         U1       17
+
+SELECT   D4       A
+         JP10     1
+         R5       2
+         SJ5      1
+         U3       9
+
+TXO      JP7      12
+         U1       31
+         U3       7
+
+TXO_MIP  JP11     3
+         R11      2
+
+TXO_PROG JP1      2
+         R9       2
+
+VCC      C10      1
+         C13      A
+         C3       2
+         C4       2
+         JP1      4
+         JP6      4
+         R1       2
+         R2       2
+         R3       2
+         SJ1      3
+         SJ2      3
+         SJ3      3
+         SJ4      3
+         U1       18
+         U1       4
+         U1       6
+         U2       5
+         U3       10
+
+VIN      C19      A
+         F1       1
+         JP6      1
+         SJ1      1
+         SJ2      1
+         SJ3      1
+         SJ4      1
+         U2       1
+         U2       3
+

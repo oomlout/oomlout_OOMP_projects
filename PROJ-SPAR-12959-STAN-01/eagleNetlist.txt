@@ -1,0 +1,32 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 17:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net          Part     Pad
+
+CONTROL      JP2      3
+             JP4      3
+             JP5      3
+             Q1       1
+             R1       P$2
+
+GND          JP2      2
+             JP4      2
+             JP5      2
+             Q1       3
+             R1       P$1
+
+HIGH-CURRENT JP1      1
+             JP3      1
+             JP8      1
+             Q1       2
+
+VCC          JP1      2
+             JP2      1
+             JP3      2
+             JP4      1
+             JP5      1
+             JP8      2
+

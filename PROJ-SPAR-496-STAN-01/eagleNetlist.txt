@@ -1,0 +1,92 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 20:37
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      JP1      1
+         U$3      1
+
+N$2      JP1      2
+         U$3      2
+
+N$3      JP1      3
+         U$3      3
+
+N$4      JP1      4
+         U$3      4
+
+N$5      JP1      5
+         U$3      5
+
+N$6      JP1      6
+         U$3      6
+
+N$7      JP1      7
+         U$3      7
+
+N$8      JP1      8
+         U$3      8
+
+N$9      JP1      9
+         U$3      9
+
+N$10     JP1      10
+         U$3      10
+
+N$11     JP1      11
+         U$3      11
+
+N$12     JP1      12
+         U$3      12
+
+N$13     JP1      13
+         U$3      13
+
+N$14     JP1      14
+         U$3      14
+
+N$15     JP2      1
+         U$3      15
+
+N$16     JP2      2
+         U$3      16
+
+N$17     JP2      3
+         U$3      17
+
+N$18     JP2      4
+         U$3      18
+
+N$19     JP2      5
+         U$3      19
+
+N$20     JP2      6
+         U$3      20
+
+N$21     JP2      7
+         U$3      21
+
+N$22     JP2      8
+         U$3      22
+
+N$23     JP2      9
+         U$3      23
+
+N$24     JP2      10
+         U$3      24
+
+N$25     JP2      11
+         U$3      25
+
+N$26     JP2      12
+         U$3      26
+
+N$27     JP2      13
+         U$3      27
+
+N$28     JP2      14
+         U$3      28
+

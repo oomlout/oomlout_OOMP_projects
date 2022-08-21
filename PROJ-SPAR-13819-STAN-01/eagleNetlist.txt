@@ -1,0 +1,181 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part       Pad
+
+3.3      JP11       5
+         JP8        3.3V
+
+5V       5V         1
+         5V_RAIL    1
+         5V_RAIL    2
+         5V_RAIL    3
+         5V_RAIL    4
+         5V_RAIL    5
+         5V_RAIL    6
+         5V_RAIL    7
+         ICSP       2
+         JP11       4
+         JP8        5V
+         R4         P$2
+         SJ4        2
+
+A1       JP10       5
+         JP8        A1
+
+A2       JP10       4
+         JP8        A2
+
+A5       JP10       1
+         JP8        A5
+
+AREF     JP1        8
+         JP8        AREF
+
+D2       JP12       3
+         JP8        D2
+
+D2_NC    JP_2       1
+         R4         P$1
+         SW2        3
+
+D3       JP12       4
+         JP8        D3
+
+D4       JP12       5
+         JP8        D4
+
+D5       JP12       6
+         JP8        D5
+
+D6       JP12       7
+         JP8        D6
+
+D7       JP12       8
+         JP8        D7
+
+D8       JP1        1
+         JP8        D8
+
+D9       JP1        2
+         JP8        D9
+
+D10      JP1        3
+         JP8        D10
+         SJ2        2
+
+D11      JP1        4
+         JP8        D11
+         SJ1        2
+
+D12      JP1        5
+         JP8        D12
+
+D13      JP1        6
+         JP8        D13
+
+GND      GND        1
+         GND_RAIL_1 1
+         GND_RAIL_1 2
+         GND_RAIL_1 3
+         GND_RAIL_1 4
+         GND_RAIL_1 5
+         GND_RAIL_1 6
+         GND_RAIL_1 7
+         GND_RAIL_2 1
+         GND_RAIL_2 2
+         GND_RAIL_2 3
+         ICSP       6
+         JP1        7
+         JP11       2
+         JP11       3
+         JP2        3
+         JP7        3
+         JP8        GND@0
+         JP8        GND@1
+         JP8        GND@2
+         R1         P$1
+         R2         P$1
+         S4         1
+         SJ3        1
+         SJ3        2
+         SW2        1
+
+JP3      JP_3       1
+         L1         A
+
+JP4      JP_4       1
+         L2         A
+
+MISO_NC  ICSP       1
+
+MOSI_NC  ICSP       4
+
+N$1      JP11       7
+         JP8        IOREF
+
+N$2      JP10       6
+         JP8        A0
+
+N$3      JP10       2
+         JP8        A4
+
+N$4      JP10       3
+         JP8        A3
+
+N$6      L1         K
+         R1         P$2
+
+N$7      L2         K
+         R2         P$2
+
+NC1      JP2        1
+         JP7        1
+
+NC2      JP2        6
+         JP7        6
+
+NC3      JP11       8
+
+RESET    ICSP       5
+         JP11       6
+         JP8        RES
+         S4         3
+
+RX       JP12       1
+         JP8        RX
+
+RX-I     JP2        5
+         JP7        5
+         SJ1        1
+
+SCK_NC   ICSP       3
+
+SCL      JP1        10
+         JP8        SCL
+
+SDA      JP1        9
+         JP8        SDA
+
+TX       JP12       2
+         JP8        TX
+
+TX-O     JP2        4
+         JP7        4
+         SJ2        1
+
+VCC      JP2        2
+         JP7        2
+         SJ4        1
+
+VDD      VDD_RAIL   1
+         VDD_RAIL   2
+         VDD_RAIL   3
+         VDD_RAIL   4
+
+VIN      JP11       1
+         JP8        VIN
+

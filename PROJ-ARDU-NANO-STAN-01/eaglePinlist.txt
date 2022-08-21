@@ -1,0 +1,208 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 18:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        AREF
+         2        COM
+
+C2       1        VUSB
+         2        COM
+
+C3       1        +5V
+         2        COM
+
+C4       1        RESET
+         2        N$4
+
+C5       1        +5V
+         2        COM
+
+C6       1        COM
+         2        3V3
+
+C7       1        +5V
+         2        COM
+
+C8       1        +5V
+         2        COM
+
+C9       1        VUSB
+         2        COM
+
+D+       X        N$5
+
+D-       X        N$6
+
+D1       P$1      +5V
+         P$2      VUSB
+
+F1       1        VUSB
+         2        N$26
+
+FRAME1  
+IC1      1        RX
+         2        N$4
+         3                 *** unconnected ***
+         4        +5V
+         5        TX
+         6                 *** unconnected ***
+         7        COM
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       N$5
+         16       N$6
+         17       3V3
+         18       COM
+         19                *** unconnected ***
+         20       +5V
+         21       COM
+         22       N$9
+         23       N$8
+         24                *** unconnected ***
+         25       COM
+         26       COM
+         27                *** unconnected ***
+         28                *** unconnected ***
+
+IC2      1        COM
+         2        +5V
+         3        VIN
+         4        +5V
+
+IC3      1        D3
+         2        D4
+         3        COM
+         4        +5V
+         5        COM
+         6        +5V
+         7        N$2
+         8        N$1
+         9        D5
+         10       D6
+         11       D7
+         12       D8
+         13       D9
+         14       D10
+         15       D11/MOSI
+         16       D12/MISO
+         17       D13/SCK
+         18       +5V
+         19       A6
+         20       AREF
+         21       COM
+         22       A7
+         23       A0
+         24       A1
+         25       A2
+         26       A3
+         27       A4
+         28       A5
+         29       RESET
+         30       D0/RX
+         31       D1/TX
+         32       D2
+         33       COM
+
+J1       1        D1/TX
+         2        D0/RX
+         3        RESET
+         4        COM
+         5        D2
+         6        D3
+         7        D4
+         8        D5
+         9        D6
+         10       D7
+         11       D8
+         12       D9
+         13       D10
+         14       D11/MOSI
+         15       D12/MISO
+
+J2       1        VIN
+         2        COM
+         3        RESET
+         4        +5V
+         5        A7
+         6        A6
+         7        A5
+         8        A4
+         9        A3
+         10       A2
+         11       A1
+         12       A0
+         13       AREF
+         14       3V3
+         15       D13/SCK
+
+J3       1        COM
+         2                 *** unconnected ***
+         3        N$5
+         4        N$6
+         5        N$26
+         6        COM
+         7        COM
+         8        COM
+         9        COM
+
+J4       1        D12/MISO
+         2        +5V
+         3        D13/SCK
+         4        D11/MOSI
+         5        RESET
+         6        COM
+
+L        A        N$7
+         C        COM
+
+PWR      A        N$3
+         C        COM
+
+RP1      1        D0/RX
+         2        D1/TX
+         3        N$3
+         4        RESET
+         5        +5V
+         6        +5V
+         7        TX
+         8        RX
+
+RP2      1        D13/SCK
+         2        N$8
+         3        COM
+         4        N$9
+         5        N$11
+         6        COM
+         7        N$29
+         8        N$7
+
+RX       A        +5V
+         C        N$29
+
+SW1      1        COM
+         2        RESET
+
+TX       A        +5V
+         C        N$11
+
+U$4      P$1               *** unconnected ***
+
+U$5      P$1               *** unconnected ***
+
+U$53     P$1               *** unconnected ***
+
+U$54     P$1               *** unconnected ***
+
+Y1       1        N$2
+         2        COM
+         3        N$1
+

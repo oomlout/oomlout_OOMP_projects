@@ -1,0 +1,339 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+3.3V        F3       1
+            TP11     P$1
+            U2       3.3V
+
+5V          F2       1
+            TP8      P$1
+            U2       5V
+
+A0/SW_RXI   JP14     3
+            S2       3
+            U2       A0
+
+A1/SW_TXO   JP15     3
+            S2       6
+            U2       A1
+
+A2          JP16     3
+            U2       A2
+
+A3          JP17     3
+            U2       A3
+
+A4          JP18     3
+            U2       A4
+
+A5          JP19     3
+            U2       A5
+
+AIN1        JP4      3
+            TP1      P$1
+            U2       D4
+            U3       21
+
+AIN2        JP5      3
+            TP2      P$1
+            U2       D5
+            U3       22
+
+AOUT1       JP21     4
+            JP22     4
+            R1       2
+            R2       2
+            U3       1
+            U3       2
+
+AOUT2       D4       A
+            D5       C
+            JP21     3
+            JP22     3
+            U3       5
+            U3       6
+
+BIN1        JP7      3
+            TP4      P$1
+            U2       D7
+            U3       17
+
+BIN2        JP8      3
+            TP5      P$1
+            U2       D8
+            U3       16
+
+BOUT1       JP21     2
+            JP22     2
+            R3       2
+            R4       2
+            U3       11
+            U3       12
+
+BOUT2       D6       A
+            D7       C
+            JP21     1
+            JP22     1
+            U3       7
+            U3       8
+
+D0/RXI      JP0      3
+            S2       1
+            U2       RX
+
+D1/TXO      JP1      3
+            S2       4
+            U2       TX
+
+D2          JP2      3
+            U2       D2
+
+D9          JP9      3
+            U2       D9
+
+D10         JP10     3
+            U2       D10
+
+D11         JP11     3
+            U2       D11
+
+D12         JP12     3
+            U2       D12
+
+D13         D8       A
+            JP13     3
+            TP7      P$1
+            U2       D13
+
+DIN         D2       C
+            Q1       2
+            R9       1
+            U1       3
+
+DIO0        JP24     3
+            U1       20
+
+DIO1        JP24     2
+            U1       19
+
+DIO11       JP23     2
+            U1       7
+
+DOUT        D1       C
+            Q2       2
+            R12      1
+            U1       2
+
+FUSED_3.3V  F3       2
+            J2       2
+            Q1       1
+            Q2       1
+            R11      2
+            R12      2
+            R6       1
+            R7       1
+            R9       2
+            U1       1
+
+FUSED_5V    C2       1
+            F2       2
+            R10      2
+            R13      2
+            U3       19
+            U3       20
+
+FUSED_IOREF F4       2
+            JP14     2
+            JP15     2
+            JP16     2
+            JP17     2
+            JP18     2
+            JP19     2
+            S1       2
+            S1       5
+
+GND         C1       2
+            C2       2
+            C3       2
+            C4       2
+            D3       C
+            J1       GND
+            J2       1
+            J3       1
+            JP0      1
+            JP1      1
+            JP10     1
+            JP11     1
+            JP12     1
+            JP13     1
+            JP14     1
+            JP15     1
+            JP16     1
+            JP17     1
+            JP18     1
+            JP19     1
+            JP2      1
+            JP23     1
+            JP24     1
+            JP3      1
+            JP4      1
+            JP5      1
+            JP6      1
+            JP7      1
+            JP8      1
+            JP9      1
+            Q3       2
+            R15      1
+            R5       1
+            S3       2
+            S3       5
+            S4       1
+            S4       2
+            SJ5      2
+            TP9      P$1
+            U1       10
+            U2       GND@0
+            U2       GND@1
+            U2       GND@2
+            U3       10
+            U3       18
+            U3       3
+            U3       4
+            U3       9
+
+IOREF       F4       1
+            U2       IOREF
+
+N$1         D8       C
+            R5       2
+
+N$2         Q3       1
+            R14      2
+            R15      2
+
+N$3         D5       A
+            R2       1
+
+N$4         Q6       1
+            R18      1
+            S3       3
+            S3       6
+
+N$5         D4       C
+            R1       1
+
+N$8         D7       A
+            R4       1
+
+N$9         D6       C
+            R3       1
+
+N$10        J1       VIN0
+            J3       2
+            Q5       2
+            R17      2
+
+N$11        Q3       3
+            Q4       1
+            R16      1
+
+N$12        Q5       1
+            R17      1
+            S3       1
+            S3       4
+
+N$13        R14      1
+            S1       1
+            S1       4
+
+N$15        D9       A
+            Q5       3
+
+N$16        D10      A
+            Q6       3
+
+N$22        D1       A
+            R6       2
+
+N$43        D2       A
+            R7       2
+
+N$44        D3       A
+            R8       1
+
+PWMA        JP3      3
+            TP3      P$1
+            U2       D3
+            U3       23
+
+PWMB        JP6      3
+            TP6      P$1
+            U2       D6
+            U3       15
+
+PWR_RAIL    JP0      2
+            JP1      2
+            JP10     2
+            JP11     2
+            JP12     2
+            JP13     2
+            JP2      2
+            JP3      2
+            JP4      2
+            JP5      2
+            JP6      2
+            JP7      2
+            JP8      2
+            JP9      2
+            Q4       3
+            S1       3
+            S1       6
+
+RESET       S4       3
+            S4       4
+            TP12     P$1
+            U2       RES
+
+RSSI        JP23     3
+            R8       2
+            U1       6
+
+SCL         J2       4
+            U2       SCL
+
+SDA         J2       3
+            U2       SDA
+
+VIN         Q6       2
+            R18      2
+            TP10     P$1
+            U2       VIN
+
+VMOTOR      C1       1
+            C3       1
+            C4       1
+            D10      C
+            D9       C
+            Q4       2
+            R16      2
+            U3       13
+            U3       14
+            U3       24
+
+XBEE_RESET  R11      1
+            SJ5      1
+            U1       5
+
+XBEE_RXI    Q2       3
+            R13      1
+            S2       2
+
+XBEE_TXO    Q1       3
+            R10      1
+            S2       5
+

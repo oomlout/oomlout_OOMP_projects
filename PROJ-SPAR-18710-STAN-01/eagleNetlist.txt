@@ -1,0 +1,198 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 08:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!BOOT!    J15      11
+          S2       3
+          S2       4
+
+!RESET!   J15      6
+          J9       10
+          S1       3
+          S1       4
+
+3.3V      J15      2
+          J15      74
+          J2       2
+          J5       2
+          J6       1
+          J7       7
+          J9       1
+          JP4      2
+          MEAS     2
+          MEAS     4
+
+3.3V_EN   J15      4
+          JP6      1
+
+AN        J15      34
+          J7       1
+
+GND       C1       2
+          C10      2
+          C11      2
+          C13      2
+          C2       -
+          C3       2
+          C4       2
+          C9       2
+          D1       A
+          D2       C
+          H5       1
+          J1       GND
+          J1       GND2
+          J15      1
+          J15      33
+          J15      36
+          J15      39
+          J15      45
+          J15      7
+          J15      75
+          J2       1
+          J3       1
+          J4       2
+          J5       1
+          J6       2
+          J7       8
+          J7       9
+          J9       3
+          J9       5
+          J9       9
+          R1       1
+          R2       1
+          R3       1
+          S1       1
+          S1       2
+          S2       1
+          S2       2
+          U1       2
+          U2       4
+          U2       EP
+
+I2C_!INT! J15      16
+          J6       3
+
+MIK_INT   J15      10
+          J6       5
+          J7       15
+
+MIK_RST   J15      18
+          J6       4
+          J7       2
+
+N$1       C10      1
+          C11      1
+          C9       1
+          MEAS     1
+          MEAS     3
+          U2       1
+
+N$2       R1       2
+          U1       5
+
+N$3       D4       C
+          R4       1
+
+N$4       JP4      1
+          R11      2
+
+N$6       D2       A
+          R11      1
+
+N$8       R4       2
+          U1       1
+
+N$10      J1       A5
+          R2       2
+
+N$11      J1       B5
+          R3       2
+
+PWM       J15      32
+          J7       16
+
+RX        J15      19
+          J7       14
+
+SCL       J15      14
+          J2       4
+          J5       4
+          J7       12
+
+SDA       J15      12
+          J2       3
+          J5       3
+          J7       11
+
+SPI_!CS!  J15      55
+          J6       9
+          J7       3
+
+SPI_CIPO  J15      61
+          J6       6
+          J7       5
+
+SPI_COPI  J15      59
+          J6       7
+          J7       6
+
+SPI_SCK   J15      57
+          J6       8
+          J7       4
+
+SWDCK     J15      21
+          J9       4
+          SWDCK    1
+
+SWDIO     J15      23
+          J9       2
+          SWDIO    1
+
+TX        J15      17
+          J7       13
+
+USB_D+    J1       A6
+          J1       B6
+          J15      3
+
+USB_D-    J1       A7
+          J1       B7
+          J15      5
+
+VIN       BYP      2
+          C1       1
+          C13      1
+          C2       +
+          D3       C
+          F2       2
+          J15      9
+          J7       10
+          R5       2
+          U2       8
+
+VREG_EN   D1       C
+          JP6      2
+          R5       1
+          U2       5
+
+V_BATT    C3       1
+          D3       A
+          J3       2
+          J4       1
+          U1       3
+
+V_USB     C4       1
+          D4       A
+          D5       A
+          J1       VBUS1
+          J1       VBUS2
+          U1       4
+
+V_USB_2   BYP      1
+          D5       C
+          F2       1
+

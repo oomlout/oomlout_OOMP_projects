@@ -1,0 +1,35 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CD       DB9      1
+         JP1      1
+
+CTS      DB9      8
+         JP1      8
+
+DSR      DB9      6
+         JP1      6
+
+DTR      DB9      4
+         JP1      4
+
+GND      DB9      5
+         JP1      5
+
+RI       DB9      9
+         JP1      9
+
+RTS      DB9      7
+         JP1      7
+
+RX       DB9      2
+         JP1      2
+
+TX       DB9      3
+         JP1      3
+

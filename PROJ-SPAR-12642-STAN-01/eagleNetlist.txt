@@ -1,0 +1,105 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+AMPENV   IC1      14
+         R10      2
+         R13      1
+         R18      1
+
+AUDIO    JP1      5
+         R19      2
+
+ENVELOPE JP1      4
+         R18      2
+
+GATE     JP1      3
+         R15      2
+
+GND      C1       2
+         C3       2
+         IC1      11
+         IC1      5
+         JP1      1
+         MIC1     2
+         R12      1
+         R16      1
+         R6       1
+         R9       1
+
+N$       C4       1
+         IC1      1
+         R17      P$2
+         R19      1
+         R3       2
+
+N$1      C2       1
+         MIC1     1
+         R1       1
+
+N$2      IC1      3
+         R5       1
+         R6       2
+
+N$3      D3       C
+         R16      2
+
+N$4      IC1      2
+         R17      P$1
+         R2       2
+         R3       1
+
+N$5      C2       2
+         R2       1
+
+N$6      C4       2
+         R4       1
+
+N$7      D1       A
+         IC1      6
+         R4       2
+         R7       1
+
+N$8      D2       A
+         IC1      7
+
+N$9      D1       C
+         D2       C
+         R7       2
+         R8       1
+
+N$10     C1       1
+         IC1      12
+         R8       2
+         R9       2
+
+N$11     IC1      13
+         R10      1
+
+N$12     D3       A
+         SJ1      1
+
+N$15     IC1      9
+         R11      1
+         R12      2
+
+N$16     IC1      10
+         R13      2
+         R14      1
+
+N$17     IC1      8
+         R14      2
+         R15      1
+         SJ1      2
+
+VCC      C3       1
+         IC1      4
+         JP1      2
+         R1       2
+         R11      2
+         R5       2
+

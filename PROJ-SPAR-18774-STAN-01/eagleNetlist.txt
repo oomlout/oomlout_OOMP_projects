@@ -1,0 +1,314 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 19:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+!RESET!     J6       6
+            R3       P7
+
+!RESET!_LV  R3       P2
+            U3       49
+
+!SAFE!      J6       5
+            R3       P8
+
+!SAFE!_LV   R3       P1
+            U3       50
+
+3.3V        C11      1
+            C12      2
+            C2       1
+            C7       2
+            D2       A
+            FENCE    2
+            J1       4
+            J2       2
+            J3       2
+            J4       2
+            J7       7
+            JP5      2
+            PWR      2
+            R15      2
+            U3       33
+            U3       34
+            U3       38
+            U5       5
+
+5V          C13      1
+            D6       5
+            J7       8
+            MEAS     2
+            MEAS     4
+            U5       1
+            U5       3
+
+ANT_VCC     C1       1
+            FB1      2
+            R14      1
+
+CC1         J5       A5
+            R17      2
+
+CC2         J5       B5
+            R16      2
+
+D+          D6       4
+            R27      1
+
+D-          D6       6
+            R28      1
+
+DSEL_LV     R3       P3
+            U3       47
+
+D_SEL       J8       1
+            R3       P6
+
+EXTINT      J6       4
+            R9       P5
+
+EXTINT_LV   R9       P4
+            U3       51
+
+FENCE_LV    R9       P1
+            U3       19
+
+FENCE_STAT  D8       C
+            J6       1
+            R9       P8
+
+GND         B1       -
+            C1       2
+            C10      2
+            C11      2
+            C12      1
+            C13      2
+            C2       2
+            C7       1
+            D10      2
+            D4       C
+            D5       C
+            D6       2
+            D7       C
+            E1       GND@0
+            E1       GND@1
+            E1       GND@2
+            E1       GND@3
+            E2       GND@0
+            E2       GND@1
+            E2       GND@2
+            E2       GND@3
+            E3       GND@0
+            E3       GND@1
+            E3       GND@2
+            E3       GND@3
+            J1       6
+            J2       1
+            J3       1
+            J4       1
+            J5       GND
+            J5       GND2
+            J7       9
+            R15      1
+            R16      1
+            R17      1
+            U3       1
+            U3       12
+            U3       14
+            U3       3
+            U3       32
+            U3       37
+            U3       41
+            U3       48
+            U3       G1
+            U3       G10
+            U3       G11
+            U3       G12
+            U3       G13
+            U3       G14
+            U3       G15
+            U3       G16
+            U3       G17
+            U3       G18
+            U3       G19
+            U3       G2
+            U3       G20
+            U3       G21
+            U3       G22
+            U3       G23
+            U3       G24
+            U3       G25
+            U3       G26
+            U3       G27
+            U3       G28
+            U3       G29
+            U3       G3
+            U3       G30
+            U3       G31
+            U3       G32
+            U3       G33
+            U3       G34
+            U3       G35
+            U3       G36
+            U3       G37
+            U3       G38
+            U3       G39
+            U3       G4
+            U3       G40
+            U3       G41
+            U3       G42
+            U3       G43
+            U3       G44
+            U3       G45
+            U3       G46
+            U3       G47
+            U3       G48
+            U3       G5
+            U3       G6
+            U3       G7
+            U3       G8
+            U3       G9
+            U5       2
+
+GPS_ANT1    D10      1
+            E1       SIG
+            FB1      1
+            U3       2
+
+N$2         D4       A
+            R11      1
+
+N$3         PPS1     1
+            R11      2
+
+N$4         J5       VBUS1
+            J5       VBUS2
+            MEAS     1
+            MEAS     3
+
+N$5         R9       P3
+            TP1      1
+
+N$6         D2       C
+            R1       2
+
+N$7         R9       P2
+            TP2      1
+
+N$11        R27      2
+            U3       40
+
+N$12        R28      2
+            U3       39
+
+N$13        R14      2
+            U3       7
+
+N$14        D7       A
+            R10      1
+
+N$16        D5       A
+            R12      1
+
+N$17        PPS2     1
+            R12      2
+
+N$18        D8       A
+            R13      1
+
+N$19        FENCE    1
+            R13      2
+
+N$20        PWR      1
+            R10      2
+
+N$21        JP5      1
+            R20      2
+
+N$22        JP5      3
+            R19      2
+
+PPS1_STAT   J6       3
+            PPS1     2
+            R9       P6
+
+PPS2_STAT   J6       2
+            PPS2     2
+            R9       P7
+
+RX1_LV      R2       P3
+            U3       43
+
+RX2_LV      R4       P2
+            U3       26
+
+RXI/COPI    J7       3
+            R2       P6
+
+RXI2        J1       3
+            J7       5
+            R4       P7
+
+SCL/SCK     J2       4
+            J3       4
+            J4       4
+            J7       1
+            R19      1
+            R2       P8
+
+SCL_LV      R2       P1
+            U3       45
+
+SDA/!CS     J2       3
+            J3       3
+            J4       3
+            J7       4
+            R2       P7
+            R20      1
+
+SDA_LV      R2       P2
+            U3       44
+
+TP1_LV      E2       SIG
+            TP1      2
+            U3       53
+
+TP2_LV      E3       SIG
+            TP2      2
+            U3       54
+
+TX1_LV      R2       P4
+            U3       42
+
+TX2_LV      R4       P1
+            U3       27
+
+TXO/CIPO    J7       2
+            R2       P5
+
+TXO2        J1       2
+            J7       6
+            R4       P8
+
+TX_READY    J8       2
+            R3       P5
+
+TX_READY_LV R3       P4
+            U3       46
+
+UNP_D+      D6       3
+            J5       A6
+            J5       B6
+
+UNP_D-      D6       1
+            J5       A7
+            J5       B7
+
+V_BACKUP    B1       +
+            C10      1
+            R1       1
+            U3       36
+

@@ -1,0 +1,92 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!RST     JP1      3
+         R12      2
+
+!RST-L   R1       1
+         R12      1
+         U1       5
+
+!SEN     JP1      4
+         R11      2
+
+!SEN-L   R11      1
+         R2       1
+         U1       6
+
+3.3V     C1       1
+         C2       1
+         JP1      7
+         R2       2
+         R3       2
+         R8       2
+         U1       10
+         U1       11
+         U1       16
+
+ANT      JP5      1
+         L1       1
+
+GND      C1       2
+         C2       2
+         C3       1
+         C4       1
+         C5       2
+         JP1      8
+         R1       2
+         U1       12
+         U1       15
+         U1       21
+         U1       3
+         U1       4
+
+GPIO1    JP1      2
+         U1       19
+
+GPIO2    JP1      1
+         U1       18
+
+LOUT     C6       2
+         JP1      10
+
+N$1      C4       2
+         U1       9
+         Y1       X2
+
+N$2      C3       2
+         U1       17
+         Y1       X1
+
+N$3      C5       1
+         L1       2
+         U1       2
+
+N$13     C6       1
+         U1       14
+
+N$14     C7       1
+         U1       13
+
+ROUT     C7       2
+         JP1      9
+
+SCLK     JP1      5
+         R10      2
+
+SCLK-L   R10      1
+         R3       1
+         U1       7
+
+SDIO     JP1      6
+         R9       2
+
+SDIO-L   R8       1
+         R9       1
+         U1       8
+

@@ -1,0 +1,258 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 18:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+!PWRKEY   Q1       3
+          S1       3
+          U3       38
+
+!SYSRST   JP6      5
+          U3       31
+
+3.3V      JP3      3.3V
+          SJ5      1
+
+3.8V      C6       A
+          C8       1
+          C9       1
+          D1       A
+          SJ2      2
+          SJ3      1
+          SJ4      1
+          TP3      P$1
+          U3       6
+
+5V        JP3      5V
+          R2       2
+          SJ5      3
+
+ADCIN     U3       28
+
+ADJUST    R4       1
+          R5       2
+          U1       5
+
+EAR_L     JP5      6
+          U3       32
+
+GND       BAT1     GND
+          C1       1
+          C10      2
+          C11      2
+          C2       2
+          C3       2
+          C4       2
+          C5       2
+          C6       C
+          C7       2
+          C8       2
+          C9       2
+          JP1      1
+          JP2      1
+          JP3      GND@0
+          JP3      GND@1
+          JP3      GND@2
+          JP4      C5
+          JP5      7
+          JP6      4
+          JP8      GND
+          JP9      1
+          Q1       2
+          R5       1
+          R7       1
+          R8       1
+          R9       1
+          S1       1
+          S2       1
+          U1       3
+          U1       6
+          U2       7
+          U3       1
+          U3       15
+          U3       17
+          U3       3
+          U3       42
+          U3       5
+
+GPIO1/SCL JP6      1
+          U3       54
+
+GPIO2/SDA JP6      2
+          U3       53
+
+GPS_FIX   D2       A
+          TP1      P$1
+          U3       22
+
+GPS_RTC   BAT1     PWR@1
+          TP2      P$1
+          U3       21
+
+GRX-2.8V  U2       3
+          U3       19
+
+GRX-HV    SJ10     2
+          U2       12
+
+GRX-SOFT  JP3      D9
+          SJ10     3
+
+GTX-2.8V  U2       2
+          U3       20
+
+GTX-HV    SJ9      2
+          U2       13
+
+GTX-SOFT  JP3      D8
+          SJ9      3
+
+MIC_N0    JP5      1
+          U3       37
+
+MIC_P0    JP5      2
+          U3       36
+
+MIC_P1    JP5      3
+          U3       35
+
+N$1       R1       2
+          U1       1
+
+N$2       JP9      4
+          R10      1
+
+N$3       Q1       1
+          R3       2
+
+N$4       R4       2
+          SJ2      1
+          U1       4
+
+N$5       R3       1
+          SJ1      2
+
+N$6       R2       1
+          SJ1      1
+
+N$7       D3       A
+          U3       7
+
+N$8       D3       C
+          R9       2
+
+N$9       D2       C
+          R8       2
+
+N$10      JP9      3
+          R11      1
+
+N$11      JP8      VCC
+          SJ8      1
+
+N$12      JP1      2
+          JP2      2
+          SJ3      2
+
+N$17      D1       C
+          R7       2
+
+ON/OFF    JP3      D7
+          SJ1      3
+
+RECN      JP5      4
+          U3       34
+
+RECP      JP5      5
+          U3       33
+
+RESET     JP3      RES
+          S2       3
+
+RING      JP3      A0
+          U3       4
+
+RX-2.8V   U2       4
+          U3       29
+
+RX-HV     JP8      TXO
+          SJ6      2
+          U2       11
+
+RX-SOFT   JP3      D3
+          SJ6      3
+
+RX2-2.8V  JP7      1
+          U3       43
+
+RXI       JP3      RX
+          SJ7      1
+          SJ9      1
+
+SIM_CLK   C3       1
+          JP4      C3
+          U3       12
+
+SIM_DATA  C7       1
+          JP4      C7
+          R6       1
+          U3       13
+
+SIM_RST   C2       1
+          JP4      C2
+          U3       11
+
+TX-2.8V   U2       5
+          U3       30
+
+TX-HV     JP8      RXI
+          SJ7      2
+          U2       10
+
+TX-SOFT   JP3      D2
+          SJ7      3
+
+TX2-2.8V  JP7      2
+          U3       44
+
+TXO       JP3      TX
+          SJ10     1
+          SJ6      1
+
+USB+      R11      2
+          U3       46
+
+USB-      R10      2
+          U3       45
+
+VCCB      C11      1
+          SJ5      2
+          SJ8      2
+          U2       14
+
+VCHG      U3       25
+
+VDDIO     C10      1
+          JP6      3
+          U2       1
+          U2       8
+          U3       41
+
+VRAW      C1       2
+          JP3      VIN
+          R1       1
+          U1       2
+
+VSIM      C4       1
+          C5       1
+          JP4      C1
+          JP4      C6
+          R6       2
+          U3       14
+
+V_GPS     SJ4      2
+          U3       18
+

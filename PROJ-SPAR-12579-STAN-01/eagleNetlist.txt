@@ -1,0 +1,72 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 09:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         C2       C
+         JP1      2
+         U1       1
+         U1       12
+         U1       28
+         U1       29
+
+PIO2     JP2      6
+         U1       19
+
+PIO3     JP2      5
+         U1       20
+
+PIO4     JP2      3
+         U1       22
+
+PIO5     JP2      4
+         U1       21
+
+PIO6     JP1      6
+         U1       3
+
+PIO7     JP1      5
+         U1       4
+
+PIO10    JP1      8
+         U1       33
+
+PIO11    JP1      9
+         U1       34
+
+RESET    JP1      3
+         U1       5
+
+SPICLK   JP1      4
+         U1       6
+
+SPICSB   JP2      2
+         U1       23
+
+SPIMISO  JP2      1
+         U1       24
+
+SPIMOSI  JP1      7
+         U1       2
+
+UARTCTS  JP2      7
+         U1       16
+
+UARTRTS  JP2      8
+         U1       15
+
+UARTRX   JP2      10
+         U1       13
+
+UARTTX   JP2      9
+         U1       14
+
+VCC      C1       1
+         C2       A
+         JP1      1
+         U1       11
+

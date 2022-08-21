@@ -1,0 +1,244 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 23:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     J4       5
+         JP11     1
+         U1       3.3V
+
+5V       J4       4
+         JP11     3
+         U1       5V
+
+D0       J1       1
+         U1       RX
+
+D1       J1       2
+         U1       TX
+
+D2       J1       3
+         JP1      3
+         U1       D2
+
+D3       J1       4
+         JP2      3
+         U1       D3
+
+D4       J1       5
+         JP3      3
+         U1       D4
+
+D5       J1       6
+         U1       D5
+
+D6       J1       7
+         U1       D6
+
+D7       J1       8
+         JP3      1
+         U1       D7
+
+D8       J5       1
+         JP1      1
+         U1       D8
+
+D9       J5       2
+         JP2      1
+         U1       D9
+
+D10      J5       3
+         JP4      1
+         U1       D10
+
+D11      J5       4
+         JP4      3
+         U1       D11
+
+D12      J5       5
+         U1       D12
+
+D13      J5       6
+         U1       D13
+
+DIRA     JP1      2
+         JP5      1
+         R7       2
+         U5       2
+
+DIRB     JP3      2
+         JP8      2
+         R8       2
+         U6       2
+
+GND      C1       2
+         C3       -
+         C8       2
+         D10      C
+         D11      C
+         D12      C
+         D2       A
+         D4       A
+         D6       A
+         D8       A
+         D9       C
+         J10      1
+         J15      1
+         J4       2
+         J4       3
+         J9       1
+         JP10     1
+         JP9      2
+         U1       GND@0
+         U1       GND@1
+         U1       GND@2
+         U2       1
+         U2       10
+         U2       11
+         U2       20
+         U2       PAD
+         U5       3
+         U6       3
+
+IN1      J2       1
+         JP5      2
+         U2       7
+
+IN2      J14      1
+         JP6      2
+         U2       9
+
+IN3      J6       1
+         JP8      1
+         U2       13
+
+IN4      J13      1
+         JP7      1
+         U2       15
+
+IOREF    J4       7
+         U1       IOREF
+
+N$4      LED1     A
+         R1       1
+
+N$5      LED3     C
+         R2       1
+
+N$8      LED4     C
+         R3       1
+
+N$9      LED2     A
+         R4       1
+
+N$10     J15      2
+         U1       AREF
+
+N$21     J3       1
+         U1       A0
+
+N$22     J3       2
+         U1       A1
+
+N$23     J3       3
+         U1       A2
+
+N$24     J3       4
+         U1       A3
+
+N$25     J3       5
+         U1       A4
+
+N$26     J3       6
+         U1       A5
+
+N$36     D9       A
+         R5       1
+
+N$37     D10      A
+         R6       1
+
+N$38     D12      A
+         R8       1
+
+N$39     D11      A
+         R7       1
+
+NDIRA    JP6      1
+         U5       4
+
+NDIRB    JP7      2
+         U6       4
+
+OUT1     D1       A
+         D2       C
+         J7       4
+         J8       4
+         R1       2
+         R2       2
+         U2       4
+
+OUT2     D3       A
+         D4       C
+         J7       3
+         J8       3
+         LED1     C
+         LED3     A
+         U2       5
+
+OUT3     D5       A
+         D6       C
+         J7       2
+         J8       2
+         LED2     C
+         LED4     A
+         U2       16
+
+OUT4     D7       A
+         D8       C
+         J7       1
+         J8       1
+         R3       2
+         R4       2
+         U2       17
+
+PWMA     J11      1
+         JP2      2
+         R6       2
+         U2       8
+
+PWMB     J12      1
+         JP4      2
+         R5       2
+         U2       14
+
+RESET    J4       6
+         U1       RES
+
+SENA     JP9      1
+         U2       2
+
+SENB     JP10     2
+         U2       19
+
+VCCIO    C1       1
+         C8       1
+         JP11     2
+         U2       12
+         U5       5
+         U6       5
+
+VIN      C3       +
+         D1       C
+         D3       C
+         D5       C
+         D7       C
+         J10      2
+         J4       1
+         J9       2
+         U1       VIN
+         U2       6
+

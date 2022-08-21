@@ -1,0 +1,277 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 02:37
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C12      +
+         D18      A
+         LS1      +
+         R12      2
+         R8       1
+         S1       2
+         U3       1
+         U3       8
+         U4       2
+         U4       4
+
+5V       C1       2
+         C11      1
+         C15      1
+         C16      1
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       1
+         C9       1
+         D1       1
+         D2       1
+         D3       1
+         D4       1
+         D5       1
+         R1       2
+         R3       2
+         S1       5
+         U1       P$7
+         U3       14
+         U4       3
+
+GND      C1       1
+         C10      2
+         C11      2
+         C12      -
+         C13      2
+         C14      2
+         C15      2
+         C16      2
+         C2       1
+         C3       1
+         C4       1
+         C5       1
+         C6       2
+         C8       2
+         C9       2
+         D1       3
+         D10      A
+         D12      A
+         D13      A
+         D15      A
+         D17      A
+         D19      A
+         D2       3
+         D3       3
+         D4       3
+         D5       3
+         D8       A
+         J19      GND
+         J19      GNDBREAK
+         J2       P$1
+         J2       P$2
+         J4       P$1
+         J4       P$2
+         Q1       2
+         R21      1
+         R22      1
+         R23      1
+         R4       1
+         R5       1
+         U1       P$10
+         U1       P$15
+         U1       P$4
+         U1       P$6
+         U2       A1
+         U2       A2
+         U2       A3
+         U2       A4
+         U2       A5
+         U2       A6
+         U3       7
+
+MBIN     D16      A
+         D18      C
+         U2       A10
+         U2       A11
+         U2       A12
+         U2       A13
+         U2       A14
+         U2       A9
+
+N$2      L1       P$1
+         U1       P$11
+
+N$3      LS1      -
+         Q1       3
+         R8       2
+
+N$4      D1       2
+         D2       4
+
+N$5      D2       2
+         D3       4
+
+N$6      D3       2
+         D4       4
+
+N$7      D4       2
+         D5       4
+
+N$8      L1       P$2
+         U1       P$9
+
+N$9      D7       C
+         R21      2
+
+N$11     R3       1
+         R4       2
+         U1       P$5
+
+N$12     C8       1
+         U1       P$3
+
+N$13     R2       2
+         U1       P$1
+         U1       P$14
+
+N$14     R1       1
+         U1       P$2
+
+N$16     R12      1
+         R5       2
+         U4       1
+
+N$20     R6       2
+         S3       3
+
+N$23     D9       C
+         R22      2
+
+N$24     D11      C
+         R23      2
+
+N$25     Q1       1
+         R6       1
+
+P0       S3       2
+         U2       A36
+         U2       A37
+         U2       A38
+         U2       A39
+
+P0+      J7       P$1
+         J7       P$2
+         R11      1
+
+P1       D15      C
+         R15      2
+         U2       A28
+         U2       A29
+         U2       A30
+         U2       A31
+
+P1+      J8       P$1
+         J8       P$2
+         R15      1
+
+P2       D17      C
+         R17      2
+         U2       A19
+         U2       A20
+         U2       A21
+         U2       A22
+
+P2+      J9       P$1
+         J9       P$2
+         R17      1
+
+P5       D19      C
+         R19      2
+         U2       A34
+
+P5+      J10      P$1
+         J10      P$2
+         R19      1
+
+P8       D8       C
+         R7       2
+         U2       A27
+
+P8+      J11      P$1
+         J11      P$2
+         R7       1
+
+P11      D10      C
+         R9       2
+         U2       A24
+
+P11+     J18      P$1
+         J18      P$2
+         R9       1
+
+P12      D1       4
+         U3       13
+
+P12LL    U2       A23
+         U3       2
+
+P13      J12      P$1
+         J12      P$2
+         U2       A18
+
+P14      J13      P$1
+         J13      P$2
+         U2       A17
+
+P15      J14      P$1
+         J14      P$2
+         U2       A16
+
+P16      D13      C
+         R13      2
+         U2       A15
+
+P16+     J15      P$1
+         J15      P$2
+         R13      1
+
+P19      J16      P$1
+         J16      P$2
+         U2       A8
+
+P20      J17      P$1
+         J17      P$2
+         U2       A7
+
+PD       D12      C
+         R11      2
+         S3       1
+
+VIN      C10      1
+         C13      1
+         C14      1
+         D14      C
+         D16      C
+         D6       C
+         D7       A
+         R2       1
+         U1       P$12
+
+VIN_TAB  D6       A
+         J3       P$1
+         J3       P$2
+
+VOUT3.3  D9       A
+         J6       P$1
+         J6       P$2
+         S1       3
+
+VOUT5.0  D11      A
+         J1       P$1
+         J1       P$2
+         S1       6
+
+V_BATT   D14      A
+         J19      PWR
+

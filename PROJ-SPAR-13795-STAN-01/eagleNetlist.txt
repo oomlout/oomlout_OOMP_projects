@@ -1,0 +1,160 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+N$1      JP1      4
+         R5       1
+
+N$2      JP1      5
+         R4       1
+
+N$3      JP1      6
+         R3       1
+
+N$4      JP1      7
+         R2       1
+
+N$5      JP1      8
+         R1       1
+
+N$6      JP1      3
+         R6       1
+
+N$7      JP1      2
+         R7       1
+
+N$8      JP1      1
+         R8       1
+
+P1       D1       A
+         D15      C
+         D2       A
+         D22      C
+         D29      C
+         D3       A
+         D36      C
+         D4       A
+         D43      C
+         D5       A
+         D50      C
+         D6       A
+         D7       A
+         D8       C
+         R1       2
+
+P2       D1       C
+         D10      A
+         D11      A
+         D12      A
+         D13      A
+         D14      A
+         D16      C
+         D23      C
+         D30      C
+         D37      C
+         D44      C
+         D51      C
+         D8       A
+         D9       A
+         R2       2
+
+P3       D15      A
+         D16      A
+         D17      A
+         D18      A
+         D19      A
+         D2       C
+         D20      A
+         D21      A
+         D24      C
+         D31      C
+         D38      C
+         D45      C
+         D52      C
+         D9       C
+         R3       2
+
+P4       D10      C
+         D17      C
+         D22      A
+         D23      A
+         D24      A
+         D25      A
+         D26      A
+         D27      A
+         D28      A
+         D3       C
+         D32      C
+         D39      C
+         D46      C
+         D53      C
+         R4       2
+
+P5       D11      C
+         D18      C
+         D25      C
+         D29      A
+         D30      A
+         D31      A
+         D32      A
+         D33      A
+         D34      A
+         D35      A
+         D4       C
+         D40      C
+         D47      C
+         D54      C
+         R5       2
+
+P6       D12      C
+         D19      C
+         D26      C
+         D33      C
+         D36      A
+         D37      A
+         D38      A
+         D39      A
+         D40      A
+         D41      A
+         D42      A
+         D48      C
+         D5       C
+         D55      C
+         R6       2
+
+P7       D13      C
+         D20      C
+         D27      C
+         D34      C
+         D41      C
+         D43      A
+         D44      A
+         D45      A
+         D46      A
+         D47      A
+         D48      A
+         D49      A
+         D56      C
+         D6       C
+         R7       2
+
+P8       D14      C
+         D21      C
+         D28      C
+         D35      C
+         D42      C
+         D49      C
+         D50      A
+         D51      A
+         D52      A
+         D53      A
+         D54      A
+         D55      A
+         D56      A
+         D7       C
+         R8       2
+

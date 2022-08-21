@@ -1,0 +1,313 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 05:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                Part     Pad
+
+!BOOT!             J4       11
+                   S2       3
+                   S2       4
+
+!RESET!            J2       10
+                   J4       6
+                   J9       1
+                   S1       3
+                   S1       4
+
+1.8V               C23      1
+                   J7       15
+                   TP7      P$1
+                   U3       5
+
+3.3V               3V3_LED  2
+                   C22      1
+                   C29      1
+                   C3       1
+                   C30      1
+                   C31      1
+                   C4       1
+                   C46      1
+                   C5       1
+                   D3       2
+                   EN1      2
+                   EN2      2
+                   J11      VCC
+                   J14      2
+                   J2       1
+                   J3       2
+                   J4       2
+                   J4       74
+                   J7       14
+                   J7       21
+                   JP1      2
+                   MEAS     2
+                   MEAS     4
+                   U3       1
+                   U4       10
+                   U4       2
+                   U4       3
+                   U4       9
+
+3.3V_EN            J4       4
+                   VE       1
+
+A0                 J4       34
+                   J8       1
+
+A1                 J4       38
+                   J8       2
+
+CAMERA_D0          J4       40
+                   J7       11
+
+CAMERA_D1          J4       42
+                   J7       22
+
+CAMERA_D2          J4       44
+                   J7       16
+
+CAMERA_D3          J4       46
+                   J7       20
+
+CAMERA_D4          J4       48
+                   J7       13
+
+CAMERA_D5          J4       73
+                   J7       5
+
+CAMERA_D6          J4       71
+                   J7       6
+
+CAMERA_D7          J4       69
+                   J7       12
+
+CAMERA_HSYNC       J4       65
+                   J7       9
+
+CAMERA_INT         J4       16
+                   J7       7
+
+CAMERA_MCLK        J4       56
+                   J7       17
+
+CAMERA_VSYNC       J4       63
+                   J7       19
+
+D0/HEADER_!CS!     J4       10
+                   J5       4
+                   J8       5
+
+D1/CAMERA_TRIG     J4       18
+                   J7       18
+                   J8       6
+
+GND                BT1      -
+                   C1       2
+                   C13      2
+                   C2       -
+                   C22      2
+                   C23      2
+                   C29      2
+                   C3       2
+                   C30      2
+                   C31      2
+                   C4       2
+                   C46      2
+                   C5       2
+                   D1       A
+                   D2       C
+                   D4       C
+                   E1       2
+                   E1       3
+                   E1       6
+                   E1       7
+                   E1       8
+                   E2       2
+                   E2       3
+                   E2       7
+                   E2       8
+                   E2       9
+                   H5       1
+                   J1       GND
+                   J1       GND2
+                   J10      1
+                   J10      2
+                   J10      3
+                   J10      4
+                   J10      5
+                   J10      6
+                   J11      CD1
+                   J11      GND
+                   J11      GND1
+                   J11      GND3
+                   J14      1
+                   J2       3
+                   J2       5
+                   J2       9
+                   J3       1
+                   J4       1
+                   J4       33
+                   J4       36
+                   J4       39
+                   J4       45
+                   J4       7
+                   J4       75
+                   J5       5
+                   J6       3
+                   J7       10
+                   J7       23
+                   R2       1
+                   R3       1
+                   R9       1
+                   S1       1
+                   S1       2
+                   S2       1
+                   S2       2
+                   U3       2
+                   U4       5
+                   U4       6
+                   U4       7
+                   U4       8
+                   U5       4
+                   U5       EP
+
+I2C_!INT!          U4       12
+
+I2C_SCL            J14      4
+                   J3       4
+                   J4       14
+                   J7       4
+                   R4       1
+                   U4       1
+
+I2C_SDA            J14      3
+                   J3       3
+                   J4       12
+                   J7       3
+                   R1       1
+                   U4       4
+
+I2S_SCK/PDM_CLK    E1       4
+                   E2       4
+                   J4       50
+
+I2S_SD/CAMERA_PCLK E2       6
+                   J4       54
+                   J7       8
+
+I2S_WS/PDM_DAT     E1       1
+                   E2       1
+                   J4       52
+
+N$1                R6       2
+                   VIN_LED  1
+
+N$2                JP1      3
+                   R4       2
+
+N$3                JP1      1
+                   R1       2
+
+N$4                E1       5
+                   EN1      1
+
+N$5                E2       5
+                   EN2      1
+
+N$6                3V3_LED  1
+                   R11      2
+
+N$7                D2       A
+                   R11      1
+
+N$8                D4       A
+                   R6       1
+
+N$10               J1       A5
+                   R2       2
+
+N$11               J1       B5
+                   R3       2
+
+N$12               D1       C
+                   R5       1
+                   U5       5
+                   VE       2
+
+N$14               BT1      +
+                   D6       A
+                   R8       1
+
+PWM0               J4       32
+                   J8       3
+
+PWM1/CAM_VDD       J4       47
+                   J8       4
+                   U3       3
+
+RTC_3V             D3       3
+                   D6       C
+                   J4       72
+                   R8       2
+
+RX1                J4       19
+                   J6       2
+
+SPI_!CS!           J11      CS/DAT3
+                   J4       55
+
+SPI_CIPO           J11      DO/DAT0
+                   J4       61
+                   J5       3
+
+SPI_COPI           J11      DI/CMD
+                   J4       59
+                   J5       2
+
+SPI_SCK            J11      SCLK
+                   J4       57
+                   J5       1
+
+SWDCK              J2       4
+                   J4       21
+
+SWDIO              J2       2
+                   J4       23
+
+TX1                J4       17
+                   J6       1
+
+USB_D+             J1       A6
+                   J1       B6
+                   J4       3
+
+USB_D-             J1       A7
+                   J1       B7
+                   J4       5
+
+VIN                BYP      2
+                   C1       1
+                   C13      1
+                   C2       +
+                   F2       2
+                   J4       9
+                   R10      2
+                   R5       2
+                   U5       8
+                   VIN_LED  2
+
+VIN/3              J4       49
+                   R10      1
+                   R9       2
+
+VREG_3.3V          MEAS     1
+                   MEAS     3
+                   U5       1
+
+V_USB              BYP      1
+                   F2       1
+                   J1       VBUS1
+                   J1       VBUS2
+

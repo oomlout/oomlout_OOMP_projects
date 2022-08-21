@@ -1,0 +1,141 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 22:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net         Part     Pad
+
+3.3V        J4       11
+            J5       11
+            JP1      1
+            R1       2
+            U2       5
+
+5V          C3       1
+            C4       1
+            D4       C
+            J1       VBUS1
+            J4       12
+            J5       12
+            JP1      3
+            U1       20
+            U2       1
+            U2       3
+
+CTS         J3       CTS
+            J4       1
+            U1       11
+
+D+          J1       D+1
+            J2       1
+            U1       15
+
+D-          J1       D-1
+            J2       2
+            U1       16
+
+DCD         J4       2
+            U1       10
+
+DSR         J4       3
+            U1       9
+
+DTR         C7       1
+            C8       1
+            D3       C
+            D5       A
+            J3       DTR
+            J4       6
+            U1       2
+
+GND         C1       2
+            C2       2
+            C3       2
+            C4       2
+            C5       2
+            C6       2
+            C7       2
+            D3       A
+            D4       A
+            J1       GND1
+            J3       GND
+            J4       9
+            J5       9
+            U1       18
+            U1       21
+            U1       7
+            U2       2
+
+GPIO0       D1       C
+            J5       1
+            U1       23
+
+GPIO1       D2       C
+            J5       2
+            U1       22
+
+GPIO2       J5       3
+            U1       13
+
+GPIO3       J5       4
+            U1       14
+
+GPIO4       J5       5
+            U1       12
+
+GPIO5       J5       6
+            U1       8
+
+GPIO6       J5       7
+            U1       27
+
+GPIO7       J5       8
+            U1       28
+
+N$1         C1       1
+            R1       1
+
+N$2         D2       A
+            R4       1
+
+N$3         D1       A
+            R3       1
+
+NC1         U1       25
+
+RI          J4       4
+            U1       6
+
+RTS         J4       5
+            U1       3
+
+RXD         J3       RXI
+            J4       7
+            U1       5
+
+SHIELD_POUR J1       SHIELD1
+            J1       SHIELD2
+            J1       SHIELD3
+
+TXD         J3       TXO
+            J4       8
+            U1       1
+
+VCCIO       C5       1
+            C6       1
+            C8       2
+            D5       C
+            J3       VCC
+            J4       10
+            J5       10
+            JP1      2
+            JP2      1
+            R3       2
+            R4       2
+            U1       4
+
+VDD         C2       1
+            JP2      2
+            U1       17
+

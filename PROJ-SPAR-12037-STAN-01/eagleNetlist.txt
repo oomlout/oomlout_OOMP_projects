@@ -1,0 +1,146 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 23:20
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       2
+         JP3      2
+         R1       P$2
+         S1       3
+         U$7      20
+         U$7      21
+         U$7      7
+
+A        U$1      7
+         U$6      7
+         U$7      15
+
+B        U$1      6
+         U$6      6
+         U$7      16
+
+BUTTON0  S3       4
+         U$7      23
+
+BUTTON1  S4       4
+         U$7      24
+
+BUTTON2  S5       4
+         U$7      25
+
+BUTTON3  S6       4
+         U$7      26
+
+C        JP3      4
+         U$1      4
+         U$6      4
+         U$7      17
+
+D        JP3      1
+         U$1      2
+         U$6      2
+         U$7      18
+
+D1       U$1      3
+         U$1      8
+         U$7      27
+
+D2       U$6      3
+         U$6      8
+         U$7      28
+
+DTR      C2       1
+         JP1      1
+
+E        JP3      3
+         U$1      1
+         U$6      1
+         U$7      19
+
+F        U$1      9
+         U$6      9
+         U$7      9
+
+G        U$1      10
+         U$6      10
+         U$7      10
+
+GND      BAT1     GND@1
+         C1       1
+         JP1      5
+         JP1      6
+         JP10     1
+         JP11     2
+         JP11     3
+         JP12     1
+         JP13     2
+         JP13     3
+         JP14     1
+         JP3      6
+         JP4      2
+         JP4      3
+         JP8      1
+         JP9      2
+         JP9      3
+         S3       2
+         S3       C
+         S4       2
+         S4       C
+         S5       2
+         S5       C
+         S6       2
+         S6       C
+         SG1      -
+         U$7      22
+         U$7      8
+
+LED0     JP4      1
+         JP8      2
+         JP8      3
+         S3       A
+         U$7      4
+
+LED1     JP10     2
+         JP10     3
+         JP9      1
+         S4       A
+         U$7      5
+
+LED2     JP11     1
+         JP12     2
+         JP12     3
+         S5       A
+         U$7      6
+
+LED3     JP13     1
+         JP14     2
+         JP14     3
+         S6       A
+         U$7      11
+
+N$1      S2       2
+         SG1      +
+
+N$2      BAT2     PWR@1
+         S1       2
+
+N$3      S2       1
+         U$7      12
+
+N$4      BAT1     PWR@1
+         BAT2     GND@1
+
+RESET    C2       2
+         JP3      5
+         R1       P$1
+         U$7      1
+
+RX-I     JP1      3
+         U$7      2
+
+TX-O     JP1      2
+         U$7      3
+

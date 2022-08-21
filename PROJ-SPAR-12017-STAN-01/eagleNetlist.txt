@@ -1,0 +1,65 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 23:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      C1       2
+         C2       2
+         IC1      6
+         JP9      1
+         R1       1
+         SJ1      1
+
+KEY0     IC1      8
+
+KEY1     IC1      9
+
+KEY2     IC1      10
+
+KEY3     IC1      11
+
+KEY4     IC1      12
+
+KEY5     IC1      13
+
+KEY6     IC1      14
+
+KEY7     IC1      15
+
+KEY8     IC1      16
+
+KEY9     IC1      17
+
+KEY10    IC1      18
+
+KEY11    IC1      19
+
+N$1      IC1      4
+         SJ1      2
+
+N$2      R2       1
+         SJ1      3
+
+REXT     IC1      7
+         R1       2
+
+SCL      IC1      2
+         JP9      3
+
+SDA      IC1      3
+         JP9      2
+
+VCC      C2       1
+         IC1      20
+         JP9      5
+         R2       2
+
+VREG     C1       1
+         IC1      5
+
+~IRQ     IC1      1
+         JP9      4
+

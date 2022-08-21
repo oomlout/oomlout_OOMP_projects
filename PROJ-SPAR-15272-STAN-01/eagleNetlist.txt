@@ -1,0 +1,25 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+GND      D2       A
+         J2       P$2
+         R1       1
+
+PROBE1   Q1       1
+
+PROBE2   R2       1
+
+SIG      J3       P$2
+         Q1       2
+         R1       2
+
+VCC      D2       C
+         J1       P$2
+         Q1       3
+         R2       2
+

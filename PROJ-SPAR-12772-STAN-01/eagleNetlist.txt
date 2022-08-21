@@ -1,0 +1,257 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 15:46
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!CS0     J1       CS
+         U4       31
+
+BATTLVL  R16      2
+         R17      1
+         U4       39
+
+BSL      JP1      1
+         R7       2
+         U4       41
+
+CD       J1       CD2
+
+CS1      JP4      1
+         U4       55
+
+GND      C1       2
+         C10      2
+         C11      2
+         C12      2
+         C13      1
+         C14      1
+         C15      1
+         C16      1
+         C17      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       C
+         C7       2
+         C8       2
+         C9       2
+         J1       GND
+         J1       GND1
+         J1       GND3
+         JP1      5
+         JP2      1
+         JP5      4
+         JP6      10
+         R14      1
+         R15      1
+         R17      2
+         R2       1
+         S2       1
+         S3       1
+         S3       2
+         U1       2
+         U2       2
+         U4       18
+         U4       25
+         U4       42
+         U4       50
+         U4       59
+         U4       6
+         X1       GND1
+
+MISO0    J1       DO
+         U4       29
+
+MISO1    JP4      3
+         U4       53
+
+MOSI0    J1       DI
+         U4       30
+
+MOSI1    JP4      2
+         U4       54
+
+N$1      R2       2
+         U1       5
+
+N$3      J1       CD1
+         R18      1
+
+N$4      J1       RSV1
+         R20      1
+
+N$5      C13      2
+         Q1       3
+         U4       62
+
+N$6      C16      2
+         Q2       X2
+         U4       3
+
+N$7      LED2     A
+         R4       2
+
+N$9      C15      2
+         Q2       X1
+         U4       5
+
+N$10     J1       RSV2
+         R19      1
+
+N$12     LED1     C
+         U1       1
+
+N$13     LED1     A
+         R3       1
+
+N$16     R8       1
+         U4       58
+
+N$17     Q4       1
+         R12      2
+         R13      1
+
+N$19     LED4     A
+         R5       2
+
+N$21     C14      2
+         Q1       1
+         U4       61
+
+N$31     R12      1
+         U4       17
+
+N$33     LED3     C
+         R15      2
+
+P-D+     C3       1
+         R9       1
+         U4       10
+
+P-D-     C4       1
+         R10      1
+         U4       11
+
+P1       JP6      2
+         U4       15
+
+P2       JP6      3
+         U4       14
+
+P3       JP6      4
+         U4       13
+
+P4       JP6      5
+         U4       9
+
+P5       JP6      6
+         U4       2
+
+P6       JP6      7
+         U4       1
+
+P7       JP6      8
+         U4       35
+
+P8       JP6      9
+         U4       38
+
+RAW      JP5      1
+         R16      1
+         S1       1
+         U2       1
+         U2       3
+
+RST      JP1      2
+         R1       1
+         S3       3
+         S3       4
+         U4       57
+
+RXI-0    JP1      4
+         U4       21
+
+RXI-1    JP5      6
+         U4       34
+
+SCK0     J1       SCLK
+         U4       27
+
+SCK1     JP4      4
+         U4       47
+
+STAT     LED3     A
+         Q4       3
+         R11      1
+
+STAT0    LED2     C
+         U4       22
+
+STAT1    LED4     C
+         U4       37
+
+STOP     C1       1
+         JP6      1
+         R6       1
+         S2       3
+         U4       26
+
+TXO-0    JP1      3
+         U4       19
+
+TXO-1    JP5      5
+         U4       33
+
+USB_D+   R11      2
+         R9       2
+         X1       D+1
+
+USB_D-   R10      2
+         X1       D-1
+
+USB_VIN  C17      1
+         C2       1
+         JP5      2
+         R14      2
+         R3       2
+         R8       2
+         U1       4
+         X1       VBUS1
+
+VCC      C10      1
+         C11      1
+         C12      1
+         C6       A
+         C7       1
+         C8       1
+         C9       1
+         J1       VCC
+         JP1      6
+         JP5      3
+         Q4       2
+         R1       2
+         R13      2
+         R18      2
+         R19      2
+         R20      2
+         R4       1
+         R5       1
+         R6       2
+         R7       1
+         U2       5
+         U4       23
+         U4       43
+         U4       49
+         U4       51
+         U4       63
+         U4       7
+
+VLIPO    C5       1
+         JP2      2
+         S1       2
+         U1       3
+

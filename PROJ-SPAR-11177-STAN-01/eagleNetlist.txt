@@ -1,0 +1,218 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 19:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+BUTTON   D1       A
+         S5       2
+         S5       A
+
+FILT-OUT C11      2
+         IC3      7
+         JP13     1
+         RV3      A3
+         RV4      P$3
+
+GND      BAT1     V-
+         C1       2
+         C12      1
+         C13      2
+         C16      2
+         C2       2
+         C3       1
+         C4       2
+         C5       2
+         IC1      7
+         IC2      10
+         IC2      4
+         IC2      6
+         IC2      7
+         IC2      8
+         IC3      4
+         IC4      4
+         J1       SLEEVE
+         JP15     1
+         JP17     1
+         R13      P$1
+         R14      P$1
+         R5       P$2
+         RV4      P$1
+         S1       3
+         S2       3
+         S3       3
+         S4       3
+
+N        IC4      3
+         IC4      5
+         RV4      P$2
+
+N$1      D2       A
+         JP8      1
+
+N$3      C4       1
+         IC1      12
+         IC1      8
+         R4       P$1
+
+N$4      D1       C
+         D2       C
+         IC1      10
+         IC1      4
+         R5       P$1
+
+N$7      D3       A
+         S6       2
+
+N$8      JP6      1
+         R4       P$2
+         RV2      P$3
+
+N$9      R14      P$2
+         S5       C
+
+N$10     IC2      2
+         IC2      5
+
+N$11     IC2      12
+         IC2      9
+
+N$12     JP4      1
+         R3       P$2
+         RV1      P$3
+
+N$13     C10      2
+         S4       2
+
+N$14     J1       TSH
+         JP14     1
+
+N$16     C14      1
+         IC4      1
+         IC4      2
+
+N$17     C15      2
+         J1       RING
+
+N$18     C10      1
+         R10      P$2
+
+N$19     C9       1
+         R9       P$2
+
+N$20     C9       2
+         S3       2
+
+N$21     C6       2
+         JP9      1
+
+N$22     C6       1
+         R6       P$1
+
+N$23     C7       2
+         S1       2
+
+N$24     C8       2
+         S2       2
+
+N$25     C15      1
+         IC4      6
+         IC4      7
+
+N$26     IC3      2
+         R10      P$1
+         R11      P$2
+         R6       P$2
+         R7       P$1
+         R8       P$1
+         R9       P$1
+
+N$27     IC3      1
+         IC3      5
+         R11      P$1
+
+N$28     C8       1
+         R8       P$2
+
+N$29     C7       1
+         R7       P$2
+
+N$30     C14      2
+         J1       TIP
+
+N$31     C11      1
+         IC3      6
+         JP10     1
+         RV3      B1
+         RV3      B2
+
+N$33     C12      2
+         C13      1
+         JP11     1
+         JP12     1
+         RV3      A1
+         RV3      A2
+         RV3      B3
+
+PITCH1   IC1      1
+         IC2      3
+         R1       P$1
+         S1       1
+
+PITCH2   IC1      13
+         IC2      11
+         R2       P$1
+         S3       1
+
+POT1     IC1      5
+         JP3      1
+         RV1      P$1
+         RV1      P$2
+
+POT2     IC1      9
+         JP5      1
+         RV2      P$1
+         RV2      P$2
+
+SUB1     IC2      1
+         S2       1
+
+SUB2     IC2      13
+         S4       1
+
+VBATT    BAT1     V+
+         S6       3
+
+VCAP1    C3       2
+         IC1      2
+         IC1      6
+         JP7      1
+         R3       P$1
+
+VCC      C16      1
+         C5       1
+         D3       C
+         IC1      14
+         IC2      14
+         IC3      8
+         IC4      8
+         JP16     1
+         R1       P$2
+         R12      P$2
+         R2       P$2
+         S5       4
+
+VCC1     C2       1
+         IC1      11
+         JP2      1
+
+VCC2     C1       1
+         IC1      3
+         JP1      1
+
+VREF     IC3      3
+         R12      P$1
+         R13      P$2
+

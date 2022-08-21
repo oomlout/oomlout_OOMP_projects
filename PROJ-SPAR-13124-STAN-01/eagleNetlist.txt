@@ -1,0 +1,699 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 18:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+FX_IN    C1       P$2
+         C1       P$3
+         R2       2
+         S1       P$2
+
+FX_OUT   C2       P$2
+         C2       P$3
+         R3       2
+         S1       P$6
+
+GND      D1       C
+         JP1      1
+         JP10     1
+         JP11     1
+         JP12     1
+         JP14     2
+         JP15     1
+         JP15     2
+         JP16     1
+         JP16     2
+         JP17     SLEEVE
+         JP19     1
+         JP19     2
+         JP2      SLEEVE
+         JP24     1
+         JP24     10
+         JP24     11
+         JP24     12
+         JP24     13
+         JP24     14
+         JP24     15
+         JP24     16
+         JP24     17
+         JP24     18
+         JP24     19
+         JP24     2
+         JP24     20
+         JP24     21
+         JP24     22
+         JP24     23
+         JP24     24
+         JP24     25
+         JP24     26
+         JP24     27
+         JP24     28
+         JP24     29
+         JP24     3
+         JP24     30
+         JP24     4
+         JP24     5
+         JP24     6
+         JP24     7
+         JP24     8
+         JP24     9
+         JP5      1
+         JP6      1
+         JP7      1
+         JP8      1
+         JP9      1
+         JP90     1
+         JP90     10
+         JP90     11
+         JP90     12
+         JP90     13
+         JP90     14
+         JP90     15
+         JP90     16
+         JP90     17
+         JP90     18
+         JP90     19
+         JP90     2
+         JP90     20
+         JP90     21
+         JP90     22
+         JP90     23
+         JP90     24
+         JP90     25
+         JP90     26
+         JP90     27
+         JP90     28
+         JP90     29
+         JP90     3
+         JP90     30
+         JP90     4
+         JP90     5
+         JP90     6
+         JP90     7
+         JP90     8
+         JP90     9
+         R1       1
+         R2       1
+         R3       1
+         S1       P$1
+         TP7      1
+
+LEDA     JP14     1
+         R4       P$2
+
+N$1      JP84     1
+         JP84     2
+         JP84     3
+         JP84     4
+         JP84     5
+
+N$2      JP85     1
+         JP85     2
+         JP85     3
+         JP85     4
+         JP85     5
+
+N$3      JP86     1
+         JP86     2
+         JP86     3
+         JP86     4
+         JP86     5
+
+N$4      JP87     1
+         JP87     2
+         JP87     3
+         JP87     4
+         JP87     5
+
+N$5      JP54     1
+         JP54     2
+         JP54     3
+         JP54     4
+         JP54     5
+
+N$6      JP88     1
+         JP88     2
+         JP88     3
+         JP88     4
+         JP88     5
+
+N$7      JP78     1
+         JP78     2
+         JP78     3
+         JP78     4
+         JP78     5
+
+N$8      JP72     1
+         JP72     2
+         JP72     3
+         JP72     4
+         JP72     5
+
+N$9      JP66     1
+         JP66     2
+         JP66     3
+         JP66     4
+         JP66     5
+
+N$10     JP60     1
+         JP60     2
+         JP60     3
+         JP60     4
+         JP60     5
+
+N$11     JP48     1
+         JP48     2
+         JP48     3
+         JP48     4
+         JP48     5
+
+N$12     JP42     1
+         JP42     2
+         JP42     3
+         JP42     4
+         JP42     5
+
+N$13     JP36     1
+         JP36     2
+         JP36     3
+         JP36     4
+         JP36     5
+
+N$14     JP28     1
+         JP28     2
+         JP28     3
+         JP28     4
+         JP28     5
+
+N$15     JP89     1
+         JP89     2
+         JP89     3
+         JP89     4
+         JP89     5
+
+N$16     JP79     1
+         JP79     2
+         JP79     3
+         JP79     4
+         JP79     5
+
+N$17     JP73     1
+         JP73     2
+         JP73     3
+         JP73     4
+         JP73     5
+
+N$18     JP67     1
+         JP67     2
+         JP67     3
+         JP67     4
+         JP67     5
+
+N$19     JP61     1
+         JP61     2
+         JP61     3
+         JP61     4
+         JP61     5
+
+N$20     JP55     1
+         JP55     2
+         JP55     3
+         JP55     4
+         JP55     5
+
+N$21     JP49     1
+         JP49     2
+         JP49     3
+         JP49     4
+         JP49     5
+
+N$22     JP43     1
+         JP43     2
+         JP43     3
+         JP43     4
+         JP43     5
+
+N$23     JP37     1
+         JP37     2
+         JP37     3
+         JP37     4
+         JP37     5
+
+N$24     JP29     1
+         JP29     2
+         JP29     3
+         JP29     4
+         JP29     5
+
+N$25     D1       A
+         R5       2
+
+N$26     JP80     1
+         JP80     2
+         JP80     3
+         JP80     4
+         JP80     5
+
+N$27     JP74     1
+         JP74     2
+         JP74     3
+         JP74     4
+         JP74     5
+
+N$28     JP68     1
+         JP68     2
+         JP68     3
+         JP68     4
+         JP68     5
+
+N$29     JP62     1
+         JP62     2
+         JP62     3
+         JP62     4
+         JP62     5
+
+N$30     JP56     1
+         JP56     2
+         JP56     3
+         JP56     4
+         JP56     5
+
+N$31     JP50     1
+         JP50     2
+         JP50     3
+         JP50     4
+         JP50     5
+
+N$32     JP44     1
+         JP44     2
+         JP44     3
+         JP44     4
+         JP44     5
+
+N$33     JP38     1
+         JP38     2
+         JP38     3
+         JP38     4
+         JP38     5
+
+N$34     JP30     1
+         JP30     2
+         JP30     3
+         JP30     4
+         JP30     5
+
+N$35     R4       P$1
+         S1       P$9
+         SJ1      1
+
+N$36     JP81     1
+         JP81     2
+         JP81     3
+         JP81     4
+         JP81     5
+
+N$37     JP75     1
+         JP75     2
+         JP75     3
+         JP75     4
+         JP75     5
+
+N$38     JP69     1
+         JP69     2
+         JP69     3
+         JP69     4
+         JP69     5
+
+N$39     JP63     1
+         JP63     2
+         JP63     3
+         JP63     4
+         JP63     5
+
+N$40     JP57     1
+         JP57     2
+         JP57     3
+         JP57     4
+         JP57     5
+
+N$41     JP51     1
+         JP51     2
+         JP51     3
+         JP51     4
+         JP51     5
+
+N$42     JP45     1
+         JP45     2
+         JP45     3
+         JP45     4
+         JP45     5
+
+N$43     JP39     1
+         JP39     2
+         JP39     3
+         JP39     4
+         JP39     5
+
+N$44     JP31     1
+         JP31     2
+         JP31     3
+         JP31     4
+         JP31     5
+
+N$45     JP3      1
+         JP4      SLEEVE-NORMAL
+
+N$46     JP82     1
+         JP82     2
+         JP82     3
+         JP82     4
+         JP82     5
+
+N$47     JP76     1
+         JP76     2
+         JP76     3
+         JP76     4
+         JP76     5
+
+N$48     JP70     1
+         JP70     2
+         JP70     3
+         JP70     4
+         JP70     5
+
+N$49     JP64     1
+         JP64     2
+         JP64     3
+         JP64     4
+         JP64     5
+
+N$50     JP58     1
+         JP58     2
+         JP58     3
+         JP58     4
+         JP58     5
+
+N$51     JP52     1
+         JP52     2
+         JP52     3
+         JP52     4
+         JP52     5
+
+N$52     JP46     1
+         JP46     2
+         JP46     3
+         JP46     4
+         JP46     5
+
+N$53     JP40     1
+         JP40     2
+         JP40     3
+         JP40     4
+         JP40     5
+
+N$54     JP32     1
+         JP32     2
+         JP32     3
+         JP32     4
+         JP32     5
+
+N$55     JP2      RING
+         JP3      2
+         JP4      TIP
+         TP4      1
+
+N$56     JP83     1
+         JP83     2
+         JP83     3
+         JP83     4
+         JP83     5
+
+N$57     JP77     1
+         JP77     2
+         JP77     3
+         JP77     4
+         JP77     5
+
+N$58     JP71     1
+         JP71     2
+         JP71     3
+         JP71     4
+         JP71     5
+
+N$59     JP65     1
+         JP65     2
+         JP65     3
+         JP65     4
+         JP65     5
+
+N$60     JP59     1
+         JP59     2
+         JP59     3
+         JP59     4
+         JP59     5
+
+N$61     JP53     1
+         JP53     2
+         JP53     3
+         JP53     4
+         JP53     5
+
+N$62     JP47     1
+         JP47     2
+         JP47     3
+         JP47     4
+         JP47     5
+
+N$63     JP41     1
+         JP41     2
+         JP41     3
+         JP41     4
+         JP41     5
+
+N$64     JP33     1
+         JP33     2
+         JP33     3
+         JP33     4
+         JP33     5
+
+N$65     R5       1
+         SJ1      2
+
+N$66     JP17     RING
+         TP3      1
+
+N$67     C1       P$1
+         TP5      1
+
+N$68     C2       P$1
+         TP6      1
+
+N$70     JP2      TIP
+         S1       P$3
+         S1       P$4
+         TP1      1
+
+N$71     JP17     TIP
+         S1       P$5
+         TP2      1
+
+N$75     Q1       1
+         R1       2
+
+N$77     JP21     1
+         JP25     1
+
+N$79     JP21     2
+         JP25     2
+
+N$81     JP21     3
+         JP25     3
+
+N$83     JP22     1
+         JP26     1
+
+N$85     JP22     2
+         JP26     2
+
+N$87     JP22     3
+         JP26     3
+
+N$89     JP34     1
+         JP34     10
+         JP34     11
+         JP34     12
+         JP34     13
+         JP34     14
+         JP34     15
+         JP34     16
+         JP34     17
+         JP34     18
+         JP34     19
+         JP34     2
+         JP34     20
+         JP34     21
+         JP34     22
+         JP34     23
+         JP34     24
+         JP34     25
+         JP34     26
+         JP34     27
+         JP34     28
+         JP34     29
+         JP34     3
+         JP34     30
+         JP34     4
+         JP34     5
+         JP34     6
+         JP34     7
+         JP34     8
+         JP34     9
+
+N$90     JP35     1
+         JP35     10
+         JP35     11
+         JP35     12
+         JP35     13
+         JP35     14
+         JP35     15
+         JP35     16
+         JP35     17
+         JP35     18
+         JP35     19
+         JP35     2
+         JP35     20
+         JP35     21
+         JP35     22
+         JP35     23
+         JP35     24
+         JP35     25
+         JP35     26
+         JP35     27
+         JP35     28
+         JP35     29
+         JP35     3
+         JP35     30
+         JP35     4
+         JP35     5
+         JP35     6
+         JP35     7
+         JP35     8
+         JP35     9
+
+N$91     JP23     1
+         JP27     1
+
+N$93     JP23     2
+         JP27     2
+
+N$94     JP23     3
+         JP27     3
+
+N$95     JP91     1
+         JP95     1
+
+N$96     JP91     2
+         JP95     2
+
+N$97     JP91     3
+         JP95     3
+
+N$98     JP92     1
+         JP96     1
+
+N$99     JP92     2
+         JP96     2
+
+N$100    JP92     3
+         JP96     3
+
+N$101    JP93     1
+         JP97     1
+
+N$102    JP93     2
+         JP97     2
+
+N$103    JP93     3
+         JP97     3
+
+VAUX     JP6      3
+         JP9      3
+
+VBATT    JP4      SLEEVE
+         Q1       3
+
+VCC      JP1      2
+         JP10     2
+         JP11     2
+         JP12     2
+         JP20     1
+         JP20     10
+         JP20     11
+         JP20     12
+         JP20     13
+         JP20     14
+         JP20     15
+         JP20     16
+         JP20     17
+         JP20     18
+         JP20     19
+         JP20     2
+         JP20     20
+         JP20     21
+         JP20     22
+         JP20     23
+         JP20     24
+         JP20     25
+         JP20     26
+         JP20     27
+         JP20     28
+         JP20     29
+         JP20     3
+         JP20     30
+         JP20     4
+         JP20     5
+         JP20     6
+         JP20     7
+         JP20     8
+         JP20     9
+         JP5      2
+         JP6      2
+         JP7      2
+         JP8      2
+         JP9      2
+         JP94     1
+         JP94     10
+         JP94     11
+         JP94     12
+         JP94     13
+         JP94     14
+         JP94     15
+         JP94     16
+         JP94     17
+         JP94     18
+         JP94     19
+         JP94     2
+         JP94     20
+         JP94     21
+         JP94     22
+         JP94     23
+         JP94     24
+         JP94     25
+         JP94     26
+         JP94     27
+         JP94     28
+         JP94     29
+         JP94     3
+         JP94     30
+         JP94     4
+         JP94     5
+         JP94     6
+         JP94     7
+         JP94     8
+         JP94     9
+         Q1       2
+         S1       P$8
+

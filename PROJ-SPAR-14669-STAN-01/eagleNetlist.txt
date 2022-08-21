@@ -1,0 +1,331 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+!DTR     C8       1
+         U5       13
+
+!RESET   C8       2
+         J2       5
+         JP10     6A
+         JP10     6B
+         JP15     6
+         R3       1
+         S1       3
+         S1       4
+         TP6      P$1
+         U4       29
+
+3.3V     C16      1
+         C6       +
+         J4       2
+         JP10     5A
+         JP10     5B
+         JP15     5
+         Q2       1
+         Q3       1
+         R11      2
+         R5       2
+         S2       1
+         S2       4
+         U3       5
+
+5V       C3       +
+         C4       1
+         IC3      2
+         IC3      4
+         JP10     4A
+         JP10     4B
+         JP15     4
+         Q1       2
+         R15      2
+         R4       2
+         S2       3
+         S2       6
+         U3       1
+         U3       3
+
+A0       JP13     1A
+         JP13     1B
+         JP18     1
+         U4       23
+
+A1       JP13     2A
+         JP13     2B
+         JP18     2
+         U4       24
+
+A2       JP13     3A
+         JP13     3B
+         JP18     3
+         U4       25
+
+A3       JP13     4A
+         JP13     4B
+         JP18     4
+         U4       26
+
+A4/SDA   JP12     2
+         JP13     5A
+         JP13     5B
+         JP18     5
+         JP2      2A
+         JP2      2B
+         QW2      1
+         U4       27
+
+A5/SCL   JP12     1
+         JP13     6A
+         JP13     6B
+         JP18     6
+         JP2      1A
+         JP2      1B
+         QW1      1
+         U4       28
+
+AREF     C1       1
+         JP12     3
+         JP2      3A
+         JP2      3B
+         U4       20
+
+CC1      J5       A5
+         R8       2
+
+CC2      J5       B5
+         R7       2
+
+D+       J5       A6
+         J5       B6
+         JP14     D+
+         U5       5
+
+D-       J5       A7
+         J5       B7
+         JP14     D-
+         U5       6
+
+D2       JP11     3A
+         JP11     3B
+         JP19     3
+         U4       32
+
+D3       JP11     4A
+         JP11     4B
+         JP19     4
+         U4       1
+
+D4       JP11     5A
+         JP11     5B
+         JP19     5
+         U4       2
+
+D5       JP11     6A
+         JP11     6B
+         JP19     6
+         U4       9
+
+D6       JP11     7A
+         JP11     7B
+         JP19     7
+         U4       10
+
+D7       JP11     8A
+         JP11     8B
+         JP19     8
+         U4       11
+
+D8       JP12     10
+         JP2      10A
+         JP2      10B
+         U4       12
+
+D9       JP12     9
+         JP2      9A
+         JP2      9B
+         U4       13
+
+D10      JP12     8
+         JP2      8A
+         JP2      8B
+         U4       14
+
+GND      C1       2
+         C10      2
+         C12      2
+         C15      -
+         C16      2
+         C17      2
+         C18      2
+         C2       1
+         C3       -
+         C4       2
+         C5       -
+         C6       -
+         J2       6
+         J3       GND
+         J4       1
+         J5       GND
+         J5       GND2
+         JP10     2A
+         JP10     2B
+         JP10     3A
+         JP10     3B
+         JP12     4
+         JP14     GND
+         JP15     2
+         JP15     3
+         JP2      4A
+         JP2      4B
+         LED1     C
+         LED2     C
+         R14      1
+         R7       1
+         R8       1
+         S1       1
+         S1       2
+         TP3      P$1
+         U3       2
+         U4       21
+         U4       3
+         U4       5
+         U5       1
+         Y1       2
+
+INSERT   J3       P$4
+         Q1       1
+         R4       1
+
+LV_SCL   J4       4
+         Q2       2
+         R11      1
+
+LV_SDA   J4       3
+         Q3       2
+         R5       1
+
+MISO     J2       1
+         JP12     6
+         JP2      6A
+         JP2      6B
+         TP4      P$1
+         U4       16
+
+MOSI     J2       4
+         JP12     7
+         JP2      7A
+         JP2      7B
+         TP2      P$1
+         U4       15
+
+N$1      LED1     A
+         R1       2
+
+N$2      LED2     A
+         R2       1
+
+N$3      U4       7
+         Y1       1
+
+N$4      U4       8
+         Y1       3
+
+N$5      D2       A
+         R16      1
+
+N$6      C17      1
+         U5       4
+
+N$7      Q2       3
+         QW1      2
+         R13      1
+
+N$9      D3       A
+         R12      1
+
+N$15     IC3      1
+         R14      2
+         R15      1
+
+N$45     Q3       3
+         QW2      2
+         R6       1
+
+PWRIN    D1       A
+         J3       VIN0
+
+RX-I     D3       C
+         JP11     1A
+         JP11     1B
+         JP19     1
+         U4       30
+         U5       2
+
+SCK      J2       3
+         JP12     5
+         JP2      5A
+         JP2      5B
+         R1       1
+         TP5      P$1
+         U4       17
+
+SHLD     J5       SHLD1
+         J5       SHLD2
+         J5       SHLD3
+         J5       SHLD4
+         J5       SHLD5
+         J5       SHLD6
+         J5       SHLD7
+         J5       SHLD8
+
+TX-O     D2       C
+         JP11     2A
+         JP11     2B
+         JP19     2
+         U4       31
+         U5       3
+
+USBVCC   BYP      2
+         C12      1
+         C15      +
+         F2       2
+         Q1       3
+
+VCC      C18      1
+         C2       2
+         J2       2
+         JP10     7A
+         JP10     7B
+         JP15     7
+         R12      2
+         R13      2
+         R16      2
+         R2       2
+         R3       2
+         R6       2
+         S2       2
+         S2       5
+         TP1      P$1
+         U4       18
+         U4       4
+         U4       6
+         U5       16
+
+VIN      C5       +
+         D1       C
+         IC3      3
+         JP10     1A
+         JP10     1B
+         JP15     1
+
+VUSB     BYP      1
+         C10      1
+         F2       1
+         J5       VBUS1
+         J5       VBUS2
+         JP14     VBUS
+

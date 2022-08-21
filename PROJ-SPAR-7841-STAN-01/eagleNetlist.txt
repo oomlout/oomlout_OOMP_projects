@@ -1,0 +1,80 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C3       1
+         JP2      2
+         SJ1      1
+         U1       17
+
+D0       JP1      2
+         U1       1
+
+D1       JP1      3
+         U1       5
+
+D2       JP1      4
+         U1       3
+
+D3       JP1      5
+         U1       11
+
+D4       JP1      6
+         U1       2
+
+D5       JP1      7
+         U1       9
+
+D6       JP1      8
+         U1       10
+
+D7       JP1      9
+         U1       6
+
+GND      C1       C
+         C2       2
+         C3       2
+         JP2      8
+         JP2      9
+         U1       18
+         U1       21
+         U1       25
+         U1       26
+         U1       7
+         X2       GND
+
+PWEN     JP2      7
+         U1       12
+
+RD       JP2      6
+         U1       13
+
+RXF      JP2      4
+         U1       23
+
+TXE      JP2      3
+         U1       22
+
+USB_D+   U1       15
+         X2       D+
+
+USB_D-   U1       16
+         X2       D-
+
+VCCIO    JP1      1
+         SJ1      2
+         U1       4
+
+VUSB     C1       A
+         C2       1
+         JP2      1
+         U1       20
+         X2       VBUS
+
+WR       JP2      5
+         U1       14
+

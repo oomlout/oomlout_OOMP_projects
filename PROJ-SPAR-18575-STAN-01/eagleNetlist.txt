@@ -1,0 +1,273 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 19:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net                       Part     Pad
+
+!BOOT!                    J1       11
+                          S2       3
+                          S2       4
+
+!CS0!-PROCESSOR           J1       55
+                          J6       49
+
+!RESET!                   J1       6
+                          J13      1
+                          J5       10
+                          S1       3
+                          S1       4
+
+3.3V                      C10      1
+                          C11      1
+                          C12      1
+                          C9       1
+                          J1       2
+                          J1       74
+                          J10      4
+                          J2       2
+                          J4       2
+                          J5       1
+                          J6       73
+                          MEAS     2
+                          MEAS     4
+                          R11      2
+                          TP2      1
+
+3.3V_EN                   J1       4
+                          VE       1
+
+3.3V_EN_VE                D1       C
+                          R9       1
+                          U5       5
+                          VE       2
+
+A0-PROCESSOR              J1       34
+                          J6       38
+
+CTS1-PROCESSOR            J1       15
+                          J6       16
+
+D+                        J1       3
+                          J3       A6
+                          J3       B6
+
+D-                        J1       5
+                          J3       A7
+                          J3       B7
+
+D0-PROCESSOR              J1       10
+                          J6       47
+
+D1-PROCESSOR/SD_CARD_!CS! J1       18
+                          J10      2
+
+G0-PROCESSOR              J1       40
+                          J6       53
+
+G1-PROCESSOR              J1       42
+                          J6       55
+
+G2-PROCESSOR              J1       44
+                          J6       57
+
+G3-PROCESSOR              J1       46
+                          J6       59
+
+G4-PROCESSOR              J1       48
+                          J6       61
+
+GND                       3V3_LED  1
+                          5V_LED   1
+                          C10      2
+                          C11      2
+                          C12      2
+                          C2       2
+                          C3       2
+                          C4       2
+                          C5       2
+                          C8       2
+                          C9       2
+                          D1       A
+                          H3       1
+                          H4       1
+                          H8       1
+                          J1       1
+                          J1       33
+                          J1       36
+                          J1       39
+                          J1       45
+                          J1       7
+                          J1       75
+                          J10      10
+                          J10      11
+                          J10      12
+                          J10      13
+                          J10      6
+                          J2       1
+                          J3       GND
+                          J3       GND2
+                          J4       1
+                          J5       3
+                          J5       5
+                          J5       9
+                          J6       1
+                          J6       32
+                          J6       33
+                          J6       34
+                          J6       36
+                          J6       39
+                          J6       45
+                          J6       75
+                          J8       1
+                          R1       1
+                          R2       1
+                          R3       1
+                          R4       1
+                          R6       1
+                          R7       1
+                          S1       1
+                          S1       2
+                          S2       1
+                          S2       2
+                          U2       2
+                          U5       4
+                          U5       EP
+
+HOST_D+                   J1       35
+                          J6       35
+
+HOST_D-                   J1       37
+                          J6       37
+
+I2C_!INT!                 J1       16
+                          J6       23
+
+I2C_SCL                   J1       14
+                          J2       4
+                          J4       4
+                          J6       21
+
+I2C_SDA                   J1       12
+                          J2       3
+                          J4       3
+                          J6       19
+
+N$2                       MEAS     1
+                          MEAS     3
+                          U5       1
+
+N$3                       D3       A
+                          R11      1
+
+N$4                       J3       B5
+                          R2       2
+
+N$5                       J3       A5
+                          R1       2
+
+N$6                       BYP      1
+                          F2       1
+                          J3       VBUS1
+                          J3       VBUS2
+
+N$7                       R3       2
+                          S3       1
+
+N$8                       S3       3
+                          S3       4
+                          U2       5
+
+N$9                       5V_LED   2
+                          D8       C
+
+N$10                      3V3_LED  2
+                          D3       C
+
+N$11                      R4       2
+                          S3       2
+
+N$12                      D8       A
+                          R8       1
+
+N$14                      D4       C
+                          R5       2
+
+N$15                      R5       1
+                          U2       1
+
+PROCESSOR_CAN-RX          J1       41
+                          J6       43
+
+PROCESSOR_CAN-TX          J1       43
+                          J6       41
+
+PWM0-PROCESSOR            J1       32
+                          J6       51
+
+PWR_EN0                   J1       38
+                          J1       68
+                          J6       71
+
+RTS1-PROCESSOR            J1       13
+                          J6       18
+
+RX1-PROCESSOR             J1       19
+                          J6       13
+
+SPI_PROCESSOR_SCK         J1       57
+                          J10      5
+                          J6       3
+
+SPI_PROCESSOR_SDI         J1       61
+                          J10      7
+                          J6       7
+
+SPI_PROCESSOR_SDO         J1       59
+                          J10      3
+                          J6       5
+
+SWDCK                     J1       21
+                          J5       4
+
+SWDIO                     J1       23
+                          J5       2
+                          TP1      1
+
+TX1-PROCESSOR             J1       17
+                          J6       15
+
+VCC                       C2       1
+                          C3       1
+                          C5       1
+                          C8       1
+                          D4       A
+                          D5       C
+                          J6       72
+                          J6       74
+                          Q1       2
+                          R9       2
+                          U2       4
+                          U5       8
+
+VIN                       BYP      2
+                          D5       A
+                          F2       2
+                          J1       9
+                          Q1       1
+                          R10      2
+                          R6       2
+                          R8       2
+                          TP4      1
+
+VIN/3                     J1       49
+                          R10      1
+                          R7       2
+
+V_BATT                    C4       1
+                          J8       2
+                          Q1       3
+                          TP3      1
+                          U2       3
+

@@ -1,0 +1,156 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 20:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net           Part     Pad
+
+!RESET        JP4      4
+              R3       2
+              U2       8
+
+3.3V          C1       1
+              C2       1
+              D1       C
+              JP4      3
+              R1       2
+              U1       5
+              U2       7
+
+DTR           C4       1
+              JP2      1
+
+FACTORY       JP4      5
+              U2       9
+
+GND           C1       2
+              C2       2
+              C3       2
+              JP2      5
+              JP2      6
+              JP4      1
+              R4       1
+              S1       3
+              S2       3
+              U1       2
+              U2       19
+              U2       30
+              U2       42
+              U2       43
+              U2       44
+              U2       45
+              U2       6
+
+N$1           C4       2
+              D1       A
+              R1       1
+              R3       1
+              S1       1
+
+N$2           D2       C
+              R4       2
+
+P0.02/AIN3    D2       A
+              JP3      5
+              U2       24
+
+P0.03/AIN4    JP3      4
+              S2       1
+              U2       22
+
+P0.04/AIN5    JP3      3
+              U2       32
+
+P0.05/AIN6    JP3      2
+              U2       21
+
+P0.06/AIN7    JP3      1
+              U2       31
+
+P0.07         JP4      17
+              U2       26
+
+P0.08         JP4      16
+              U2       20
+
+P0.09         JP4      15
+              U2       18
+
+P0.10         JP3      8
+              U2       27
+
+P0.11         JP4      14
+              U2       17
+
+P0.12         JP4      13
+              U2       16
+
+P0.13         JP3      7
+              U2       28
+
+P0.14         JP3      6
+              U2       29
+
+P0.15         JP4      12
+              U2       15
+
+P0.16         JP4      11
+              U2       14
+
+P0.17         JP4      9
+              U2       12
+
+P0.18         JP4      10
+              U2       13
+
+P0.19         JP4      8
+              U2       11
+
+P0.20         JP3      9
+              U2       33
+
+P0.21         JP3      12
+              U2       36
+
+P0.22         JP3      14
+              U2       37
+
+P0.23         JP3      10
+              U2       34
+
+P0.24         JP3      11
+              U2       35
+
+P0.25         JP3      13
+              U2       38
+
+P0.28         JP3      15
+              U2       39
+
+P0.29         JP3      16
+              U2       40
+
+P0.30         JP4      18
+              U2       41
+
+RXI           JP2      3
+              R2       2
+
+RXI_PROTECTED JP4      6
+              R2       1
+              U2       25
+
+SI_STRIP      U2       1
+              U2       2
+              U2       4
+
+TXO           JP2      2
+              JP4      7
+              U2       23
+
+VIN           C3       1
+              JP2      4
+              U1       1
+              U1       3
+

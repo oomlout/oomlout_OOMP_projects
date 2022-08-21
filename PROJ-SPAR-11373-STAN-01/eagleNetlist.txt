@@ -1,0 +1,125 @@
+Netlist
+
+Exported from boardEagle.brd at 17/08/2022 20:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     C1       A
+         C2       1
+         JP2      10
+         Q1       1
+         Q2       1
+         R1       1
+         R11      2
+         R3       1
+         R5       2
+         R7       2
+         U2       1
+         U3       5
+
+5V       C3       A
+         JP3      11
+         JP4      4
+         R6       2
+         R8       2
+         U3       1
+         U3       3
+
+CTS      JP3      9
+         U2       12
+
+DIN      JP4      2
+         Q1       3
+         R6       1
+
+DIO0     JP3      1
+         U2       20
+
+DIO1     JP3      2
+         U2       19
+
+DIO2     JP3      3
+         U2       18
+
+DIO3     JP3      4
+         JP4      1
+         SJ1      2
+         U2       17
+
+DIO4     JP3      10
+         U2       11
+
+DIO5     JP3      6
+         U2       15
+
+DIO9     JP3      8
+         U2       13
+
+DIO11    JP2      4
+         U2       7
+
+DIO12    JP2      7
+         U2       4
+
+DOUT     JP4      3
+         Q2       3
+         R8       1
+
+DTR      JP2      2
+         U2       9
+
+GND      C1       C
+         C2       2
+         C3       C
+         JP2      1
+         JP2      11
+         JP4      5
+         JP4      6
+         LED1     C
+         LED4     C
+         U2       10
+         U3       2
+
+IN       JP2      8
+         LED3     C
+         Q1       2
+         R5       1
+         U2       3
+
+N$1      LED2     A
+         R1       2
+
+N$2      LED4     A
+         R4       1
+
+N$4      LED3     A
+         R3       2
+
+N$38     LED1     A
+         R11      1
+
+OUT      JP2      9
+         LED2     C
+         Q2       2
+         R7       1
+         U2       2
+
+RES1     JP2      3
+         U2       8
+
+RES2     JP3      7
+         U2       14
+
+RESET    JP2      6
+         U2       5
+
+RSSI     JP2      5
+         R4       2
+         U2       6
+
+RTS      JP3      5
+         SJ1      1
+         U2       16
+

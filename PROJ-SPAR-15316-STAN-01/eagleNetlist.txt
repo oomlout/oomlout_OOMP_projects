@@ -1,0 +1,339 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 03:37
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net       Part     Pad
+
+3.3V      C3       1
+          C7       1
+          J1       1
+          J1       17
+          J19      2
+          JP3      2
+          Q1       1
+          Q4       1
+          R12      2
+          R16      2
+          TP22     P$1
+          U3       16
+
+5V        J1       4
+
+CC1       J20      A5
+          R11      2
+
+CC2       J20      B5
+          R10      2
+
+CH0       J3       3
+          TP0      P$1
+          U1       6
+
+CH1       J4       3
+          TP1      P$1
+          U1       7
+
+CH2       J5       3
+          TP2      P$1
+          U1       8
+
+CH3       J6       3
+          TP3      P$1
+          U1       9
+
+CH4       J7       3
+          TP4      P$1
+          U1       10
+
+CH5       J8       3
+          TP5      P$1
+          U1       11
+
+CH6       J9       3
+          TP6      P$1
+          U1       12
+
+CH7       J10      3
+          TP7      P$1
+          U1       13
+
+CH8       J11      3
+          TP8      P$1
+          U1       15
+
+CH9       J12      3
+          TP9      P$1
+          U1       16
+
+CH10      J13      3
+          TP10     P$1
+          U1       17
+
+CH11      J14      3
+          TP11     P$1
+          U1       18
+
+CH12      J15      3
+          TP12     P$1
+          U1       19
+
+CH13      J16      3
+          TP13     P$1
+          U1       20
+
+CH14      J17      3
+          TP14     P$1
+          U1       21
+
+CH15      J18      3
+          TP15     P$1
+          U1       22
+
+CH340-TXO D1       C
+          S1       1
+          TP23     P$1
+          U3       2
+
+D+        J20      A6
+          J20      B6
+          U3       5
+
+D-        J20      A7
+          J20      B7
+          U3       6
+
+GND       C10      2
+          C17      2
+          C3       2
+          C4       2
+          C5       -
+          C6       2
+          C7       2
+          C8       2
+          J1       14
+          J1       20
+          J1       25
+          J1       30
+          J1       34
+          J1       39
+          J1       6
+          J1       9
+          J10      1
+          J11      1
+          J12      1
+          J13      1
+          J14      1
+          J15      1
+          J16      1
+          J17      1
+          J18      1
+          J19      1
+          J20      GND
+          J20      GND2
+          J21      3
+          J3       1
+          J4       1
+          J5       1
+          J6       1
+          J7       1
+          J8       1
+          J9       1
+          Q11      1
+          Q11      4
+          R10      1
+          R11      1
+          R13      1
+          R14      1
+          R15      1
+          R20      1
+          R21      1
+          R3       1
+          R6       1
+          R7       1
+          R8       1
+          R9       1
+          TP17     P$1
+          U1       14
+          U1       23
+          U1       25
+          U2       3
+          U3       1
+
+LV_SCL    J1       5
+          J19      4
+          Q1       2
+          R4       1
+          TP18     P$1
+
+LV_SDA    J1       3
+          J19      3
+          Q4       2
+          R5       1
+          TP19     P$1
+
+N$1       Q5       1
+          Q6       3
+          R7       2
+
+N$2       JP3      3
+          R4       2
+
+N$3       Q1       3
+          R2       1
+          U1       26
+
+N$4       Q4       3
+          R1       1
+          U1       27
+
+N$5       JP3      1
+          R5       2
+
+N$6       D2       A
+          R16      1
+
+N$7       D1       A
+          R12      1
+
+N$8       Q11      2
+          R17      2
+
+N$9       Q2       1
+          Q3       3
+          R3       2
+
+N$10      Q3       2
+          Q3       5
+          Q3       6
+          R6       2
+
+N$11      Q6       2
+          Q6       5
+          Q6       6
+          R8       2
+
+N$12      Q11      5
+          Q11      6
+          R18      1
+
+N$13      Q11      3
+          Q12      1
+          R19      1
+
+N$14      C17      1
+          U3       4
+
+N$15      Q7       1
+          Q8       3
+          R9       2
+
+N$16      Q8       2
+          Q8       5
+          Q8       6
+          R13      2
+
+N$17      R17      1
+          U2       4
+
+N$18      Q10      3
+          Q9       1
+          R14      2
+
+N$19      Q10      2
+          Q10      5
+          Q10      6
+          R15      2
+
+N$20      J1       2
+          JP4      2
+
+PI-5V     C4       1
+          C8       1
+          JP4      1
+          Q10      4
+          Q12      3
+          Q7       2
+          Q8       4
+          Q9       2
+          R1       2
+          R18      2
+          R19      2
+          R2       2
+          TP24     P$1
+          U1       28
+          U2       5
+
+PI-RXI    J1       10
+          S1       2
+          TP26     P$1
+
+PI-TXO    D2       C
+          J1       8
+          J21      1
+          TP20     P$1
+          U3       3
+
+RVR-5V    J21      4
+          Q2       3
+          Q3       1
+          Q7       3
+          Q8       1
+          R20      2
+          TP25     P$1
+          U2       1
+
+RVR-TXO   J21      2
+          S1       3
+          TP21     P$1
+
+SERVO     C5       +
+          C6       1
+          J10      2
+          J11      2
+          J12      2
+          J13      2
+          J14      2
+          J15      2
+          J16      2
+          J17      2
+          J18      2
+          J3       2
+          J4       2
+          J5       2
+          J6       2
+          J7       2
+          J8       2
+          J9       2
+          Q12      2
+          Q2       2
+          Q3       4
+          Q5       2
+          Q6       4
+          TP16     P$1
+
+SHLD      J20      SHLD1
+          J20      SHLD2
+          J20      SHLD3
+          J20      SHLD4
+          J20      SHLD5
+          J20      SHLD6
+          J20      SHLD7
+          J20      SHLD8
+
+USB-5V    F2       2
+          JP2      2
+          Q10      1
+          Q5       3
+          Q6       1
+          Q9       3
+          R21      2
+          U2       2
+
+VBUS      C10      1
+          F2       1
+          J20      VBUS1
+          J20      VBUS2
+          JP2      1
+

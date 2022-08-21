@@ -1,0 +1,34 @@
+Netlist
+
+Exported from boardEagle.brd at 19/08/2022 21:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+END      JP3      TIP
+         JP4      2
+
+GND      JP1      3
+         JP2      3
+         JP5      2
+         JP6      2
+
+MID      JP3      SLEEVE
+         JP4      3
+
+RAW      JP1      1
+         JP2      1
+
+SHIELD   JP1      2
+         JP2      2
+
+SIG      JP5      3
+         JP6      3
+
+VCC      JP5      1
+         JP6      1
+
+VREF     JP3      RING
+         JP4      1
+

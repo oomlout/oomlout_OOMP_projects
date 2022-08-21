@@ -1,0 +1,138 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 21:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+/RESET   JP1      8
+         R5       2
+         U2       P$8
+
+D+       R6       1
+         X1       D+
+
+D-       R7       1
+         X1       D-
+
+GND      C1       C
+         C10      2
+         C11      2
+         C13      1
+         C14      C
+         C2       2
+         C3       1
+         C4       1
+         C5       2
+         C6       2
+         C7       1
+         C8       2
+         J$1      GND@0
+         J$1      GND@1
+         J$1      GND@2
+         J$1      GND@3
+         JP1      7
+         R2       2
+         R4       1
+         U1       2
+         U2       P$12
+         U2       P$17
+         U2       P$18
+         U2       P$23
+         U2       P$26
+         U2       P$30
+         U2       P$6
+         X1       GND
+
+N$1      C3       2
+         Q1       3
+         R1       2
+         U2       P$31
+
+N$2      C4       2
+         Q1       1
+         R1       1
+         U2       P$32
+
+N$3      L1       1
+         L2       1
+         U2       P$22
+
+N$4      C5       1
+         U2       P$29
+
+N$5      R6       2
+         U2       P$4
+
+N$6      R3       1
+         X1       VBUS
+
+N$7      R7       2
+         U2       P$5
+
+N$8      C6       1
+         U2       P$28
+
+N$9      R2       1
+         U2       P$25
+
+N$20     C12      1
+         L1       2
+
+N$21     C11      1
+         C12      2
+         J$1      SIG
+
+N$22     L2       2
+         L3       2
+         U2       P$21
+
+N$24     C10      1
+         L3       1
+         U2       P$20
+
+P0.0     JP1      6
+         U2       P$10
+
+P0.1     JP1      5
+         U2       P$11
+
+P0.2     JP1      4
+         U2       P$13
+
+P0.3     JP1      3
+         U2       P$14
+
+P0.4     JP1      2
+         U2       P$15
+
+P0.5     JP1      1
+         U2       P$16
+
+PROG     JP1      9
+         R4       2
+         U2       P$7
+
+VBUS     C14      A
+         R3       2
+         U2       P$2
+
+VCC      C1       A
+         C13      2
+         C2       1
+         C7       2
+         C8       1
+         R5       1
+         U1       5
+         U2       P$1
+         U2       P$19
+         U2       P$24
+         U2       P$27
+         U2       P$3
+         U2       P$9
+
+VIN      JP1      10
+         U1       1
+         U1       3
+

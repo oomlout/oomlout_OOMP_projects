@@ -1,0 +1,471 @@
+Netlist
+
+Exported from boardEagle.brd at 18/08/2022 15:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+555OUT   IC1      3
+         R1       P$1
+
+BTN-OUT  C1       1
+         R4       P$2
+         S3       2
+         SJ4      1
+
+CLK-IN   IC6      14
+         LED1     A
+         R13      P$1
+         SJ3      2
+
+CLK-OUT  IC5      13
+         SJ3      1
+
+GATESUM  D1001    C
+         D101     C
+         D201     C
+         D301     C
+         D401     C
+         D501     C
+         D601     C
+         D701     C
+         D801     C
+         D901     C
+         IC4      3
+         R25      P$2
+
+GND      BAT1     V-
+         C1       2
+         C10      2
+         C2       2
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       2
+         C8       2
+         C9       -
+         IC1      1
+         IC2      4
+         IC3      4
+         IC4      4
+         IC5      7
+         IC5      8
+         IC6      13
+         IC6      8
+         JP7      1
+         R100     P$1
+         R1000    P$1
+         R12      P$2
+         R14      P$1
+         R17      P$1
+         R19      P$1
+         R2       P$1
+         R200     P$1
+         R23      P$1
+         R25      P$1
+         R29      P$1
+         R3       P$1
+         R300     P$1
+         R4       P$1
+         R400     P$1
+         R5       P$1
+         R500     P$1
+         R6       P$1
+         R600     P$1
+         R700     P$1
+         R800     P$1
+         R900     P$1
+         S100     1
+         S1000    1
+         S200     1
+         S300     1
+         S400     1
+         S500     1
+         S600     1
+         S700     1
+         S800     1
+         S900     1
+         VR100    BOTTOM
+         VR1000   BOTTOM
+         VR200    BOTTOM
+         VR300    BOTTOM
+         VR400    BOTTOM
+         VR500    BOTTOM
+         VR600    BOTTOM
+         VR700    BOTTOM
+         VR800    BOTTOM
+         VR900    BOTTOM
+
+LASTSTEP D1       A
+         JP1000   1
+         JP200    1
+         JP300    1
+         JP400    1
+         JP500    1
+         JP600    1
+         JP700    1
+         JP800    1
+         JP900    1
+         SJ5      2
+
+N$1      LED100   A
+         Q100     1
+         S100     3
+         VR100    TOP
+
+N$2      LED100   K
+         R100     P$2
+
+N$3      D101     A
+         S100     2
+
+N$4      D100     A
+         VR100    WIPER
+
+N$5      R1       P$2
+         RV1      P$3
+
+N$6      IC3      1
+         IC3      2
+         RV2      P$2
+         RV2      P$3
+
+N$7      C8       1
+         IC1      5
+         JP3      1
+
+N$8      R6       P$2
+         S3       C
+
+N$9      IC5      4
+         R2       P$2
+
+N$10     C2       1
+         C4       1
+         IC1      2
+         IC1      6
+         RV1      P$1
+         RV1      P$2
+
+N$11     IC4      1
+         IC4      2
+         R18      P$2
+
+N$13     LED1     K
+         R19      P$2
+
+N$14     C10      1
+         D1       C
+         D2       C
+         IC6      15
+         R3       P$2
+
+N$15     IC3      3
+         R12      P$1
+         R9       P$2
+
+N$16     R22      P$2
+         R9       P$1
+
+N$17     IC2      2
+         R27      P$2
+         R28      P$1
+
+N$18     C3       1
+         IC3      5
+         RV2      P$1
+
+N$19     IC2      3
+         R20      P$1
+         R29      P$2
+
+N$20     JP1      1
+         R15      P$2
+
+N$21     IC5      3
+         SJ4      2
+
+N$22     IC2      5
+         R16      P$1
+         R5       P$2
+         S5       2
+
+N$23     IC2      7
+         R15      P$1
+
+N$25     R17      P$2
+         S5       1
+
+N$26     IC5      12
+         IC5      9
+
+N$27     LED200   A
+         Q200     1
+         S200     3
+         VR200    TOP
+
+N$28     LED200   K
+         R200     P$2
+
+N$29     D200     A
+         VR200    WIPER
+
+N$30     D201     A
+         S200     2
+
+N$31     LED300   A
+         Q300     1
+         S300     3
+         VR300    TOP
+
+N$32     LED300   K
+         R300     P$2
+
+N$33     D300     A
+         VR300    WIPER
+
+N$34     D301     A
+         S300     2
+
+N$35     LED400   A
+         Q400     1
+         S400     3
+         VR400    TOP
+
+N$36     LED400   K
+         R400     P$2
+
+N$37     D400     A
+         VR400    WIPER
+
+N$38     D401     A
+         S400     2
+
+N$39     LED500   A
+         Q500     1
+         S500     3
+         VR500    TOP
+
+N$40     LED500   K
+         R500     P$2
+
+N$41     D500     A
+         VR500    WIPER
+
+N$42     D501     A
+         S500     2
+
+N$43     LED600   A
+         Q600     1
+         S600     3
+         VR600    TOP
+
+N$44     LED600   K
+         R600     P$2
+
+N$45     D600     A
+         VR600    WIPER
+
+N$46     D601     A
+         S600     2
+
+N$47     LED700   A
+         Q700     1
+         S700     3
+         VR700    TOP
+
+N$48     LED700   K
+         R700     P$2
+
+N$49     D700     A
+         VR700    WIPER
+
+N$50     D701     A
+         S700     2
+
+N$51     LED800   A
+         Q800     1
+         S800     3
+         VR800    TOP
+
+N$52     LED800   K
+         R800     P$2
+
+N$53     D800     A
+         VR800    WIPER
+
+N$54     D801     A
+         S800     2
+
+N$55     LED900   A
+         Q900     1
+         S900     3
+         VR900    TOP
+
+N$56     LED900   K
+         R900     P$2
+
+N$57     D900     A
+         VR900    WIPER
+
+N$58     D901     A
+         S900     2
+
+N$59     LED1000  A
+         Q1000    1
+         S1000    3
+         VR1000   TOP
+
+N$60     LED1000  K
+         R1000    P$2
+
+N$61     D1000    A
+         VR1000   WIPER
+
+N$62     D1001    A
+         S1000    2
+
+N$63     C11      2
+         IC5      6
+         R14      P$2
+         SJ5      1
+
+N$64     IC4      6
+         R13      P$2
+         R18      P$1
+         R21      P$1
+         R30      P$1
+
+N$65     IC3      6
+         IC3      7
+         JP5      1
+         R28      P$2
+
+N$66     IC2      1
+         R10      P$1
+         R26      P$1
+         R27      P$1
+
+N$67     JP4      1
+         R26      P$2
+
+N$68     JP2      1
+         R10      P$2
+
+N$69     IC2      6
+         IC4      7
+         R21      P$2
+
+N$70     IC4      5
+         R23      P$2
+         R24      P$1
+
+N$71     D3       A
+         S1       2
+
+POTSUM   D100     C
+         D1000    C
+         D200     C
+         D300     C
+         D400     C
+         D500     C
+         D600     C
+         D700     C
+         D800     C
+         D900     C
+         R22      P$1
+
+PRECLK   IC1      7
+         IC5      11
+         R7       P$1
+
+RUN-IN   IC1      4
+         R30      P$2
+         S3       A
+         SJ1      2
+
+RUN-OUT  IC5      2
+         IC5      5
+         SJ1      1
+
+STEP1    IC6      3
+         JP100    1
+         Q100     2
+
+STEP2    IC6      2
+         JP200    2
+         Q200     2
+
+STEP3    IC6      4
+         JP300    2
+         Q300     2
+
+STEP4    IC6      7
+         JP400    2
+         Q400     2
+
+STEP5    IC6      10
+         JP500    2
+         Q500     2
+
+STEP6    IC6      1
+         JP600    2
+         Q600     2
+
+STEP7    IC6      5
+         JP700    2
+         Q700     2
+
+STEP8    IC6      6
+         JP800    2
+         Q800     2
+
+STEP9    IC6      9
+         JP900    2
+         Q900     2
+
+STEP10   IC6      11
+         JP1000   2
+         Q1000    2
+
+STOP-IN  D2       A
+         IC5      10
+         SJ2      2
+
+STOP-OUT IC5      1
+         SJ2      1
+
+VBATT    BAT1     V+
+         S1       1
+
+VCC      C11      1
+         C5       1
+         C6       1
+         C7       1
+         C9       +
+         D3       C
+         IC1      8
+         IC2      8
+         IC3      8
+         IC4      8
+         IC5      14
+         IC6      16
+         JP6      1
+         Q100     3
+         Q1000    3
+         Q200     3
+         Q300     3
+         Q400     3
+         Q500     3
+         Q600     3
+         Q700     3
+         Q800     3
+         Q900     3
+         R16      P$2
+         R20      P$2
+         R24      P$2
+         R7       P$2
+         S3       4
+

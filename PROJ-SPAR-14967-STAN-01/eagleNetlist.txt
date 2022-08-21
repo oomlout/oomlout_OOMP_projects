@@ -1,0 +1,184 @@
+Netlist
+
+Exported from boardEagle.brd at 20/08/2022 01:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+5V       C1       1
+         D1       VDD
+         D10      VDD
+         D11      VDD
+         D12      VDD
+         D13      VDD
+         D14      VDD
+         D15      VDD
+         D16      VDD
+         D17      VDD
+         D18      VDD
+         D19      VDD
+         D2       VDD
+         D20      VDD
+         D3       VDD
+         D4       VDD
+         D5       VDD
+         D6       VDD
+         D7       VDD
+         D8       VDD
+         D9       VDD
+         J1       P$2
+
+CI       D1       CKI
+         J2       P$2
+
+CO       D20      CKO
+         J4       P$2
+
+DI       D1       SDI
+         J2       P$1
+
+DO       D20      SDO
+         J4       P$1
+
+GND      C1       2
+         D1       GND
+         D10      GND
+         D11      GND
+         D12      GND
+         D13      GND
+         D14      GND
+         D15      GND
+         D16      GND
+         D17      GND
+         D18      GND
+         D19      GND
+         D2       GND
+         D20      GND
+         D3       GND
+         D4       GND
+         D5       GND
+         D6       GND
+         D7       GND
+         D8       GND
+         D9       GND
+         H1       P1
+         H2       P1
+         H3       P1
+         H4       P1
+         J1       P$1
+
+N$1      D4       CKO
+         D5       CKI
+
+N$4      D1       CKO
+         D2       CKI
+
+N$5      D1       SDO
+         D2       SDI
+
+N$6      D2       CKO
+         D3       CKI
+
+N$7      D2       SDO
+         D3       SDI
+
+N$8      D3       CKO
+         D4       CKI
+
+N$9      D3       SDO
+         D4       SDI
+
+N$10     D4       SDO
+         D5       SDI
+
+N$11     D5       CKO
+         D6       CKI
+
+N$12     D5       SDO
+         D6       SDI
+
+N$13     D6       CKO
+         D7       CKI
+
+N$14     D6       SDO
+         D7       SDI
+
+N$15     D7       CKO
+         D8       CKI
+
+N$16     D7       SDO
+         D8       SDI
+
+N$17     D8       CKO
+         D9       CKI
+
+N$18     D8       SDO
+         D9       SDI
+
+N$19     D10      CKI
+         D9       CKO
+
+N$20     D10      SDI
+         D9       SDO
+
+N$21     D10      CKO
+         D11      CKI
+
+N$22     D10      SDO
+         D11      SDI
+
+N$23     D11      CKO
+         D12      CKI
+
+N$24     D11      SDO
+         D12      SDI
+
+N$25     D12      CKO
+         D13      CKI
+
+N$26     D12      SDO
+         D13      SDI
+
+N$27     D13      CKO
+         D14      CKI
+
+N$28     D13      SDO
+         D14      SDI
+
+N$29     D14      CKO
+         D15      CKI
+
+N$30     D14      SDO
+         D15      SDI
+
+N$31     D15      CKO
+         D16      CKI
+
+N$32     D15      SDO
+         D16      SDI
+
+N$33     D16      CKO
+         D17      CKI
+
+N$34     D16      SDO
+         D17      SDI
+
+N$35     D17      CKO
+         D18      CKI
+
+N$36     D17      SDO
+         D18      SDI
+
+N$37     D18      CKO
+         D19      CKI
+
+N$38     D18      SDO
+         D19      SDI
+
+N$39     D19      CKO
+         D20      CKI
+
+N$40     D19      SDO
+         D20      SDI
+
