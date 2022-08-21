@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A0, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.115, 0.265), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "A1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.265, 0.265), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "A2, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.415, 0.265), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "BLUE, 220, 0207/10, adafruit, (3.01, 2.025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "DOWN, B3F-10XX, switch-omron, (2.81, 0.135), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GREEN, 330, 0207/10, adafruit, (2.51, 2.025), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, MCP23017SP2, DIL28-3-ROUND, adafruit, (0.745, 0.265), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LEFT, B3F-10XX, switch-omron, (2.43, 0.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RED, 220, 0207/10, adafruit, (2.01, 2.025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RIGHT, B3F-10XX, switch-omron, (3.17, 0.265), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SELECT, B3F-10XX, switch-omron, (2.04, 0.285), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TM1, 10K, 6MM, adafruit, (1.67, 0.275), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, HD44780LCD_RGBLONGPINS, LCD1602-RGB, adafruit, (1.675, 1.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, RASPBERRYPI_BB, RASBERRYPI_SHIELD, microbuilder, (3.345, 0.005), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "UP, B3F-10XX, switch-omron, (2.81, 0.395), R0"
         },
         {
             "name": "oompID",

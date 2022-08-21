@@ -118,7 +118,83 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, A/3216-18R, adafruit, (0.115, 0.394), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (0.114, 0.605), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, C0805K, adafruit, (0.116, 0.745), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, MINIB, USB-MINIB, adafruit, (0.339, 1.015), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FTDI, 1X06-CLEANBIG, adafruit, (0.349, 0.095), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, FT232RL, SSOP28, ftdichip, (0.359, 0.565), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10, R0805, adafruit, (0.549, 0.29), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, R0805, adafruit, (0.609, 0.945), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 1K, R0805, adafruit, (0.609, 0.46), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10, R0805, adafruit, (0.379, 0.29), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RX, Green, CHIP-LED0805, adafruit, (0.609, 0.775), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SJ, jumper, (0.449, 0.87), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SJ, jumper, (0.449, 0.705), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SJ, jumper, (0.239, 0.525), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SJ, jumper, (0.239, 0.87), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SJ, jumper, (0.239, 0.705), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ6, SJ, jumper, (0.449, 0.525), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TX, Red, CHIP-LED0805, adafruit, (0.609, 0.62), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.63, 1.12), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.21, 0.31), R270"
         },
         {
             "name": "oompID",

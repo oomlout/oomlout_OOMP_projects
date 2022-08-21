@@ -110,7 +110,75 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "BATT, CR2032, CR2032-THRU, adafruit, (0, -0.47), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, C025-025X050, adafruit, (-0.66, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FTDI, DNP, 1X06-CLEAN, adafruit, (0, 0.82), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, DS1337, DIL08-ROUND, adafruit, (-0.09, 0.17), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, ATMEGA168PROUND, DIL28-3-ROUND, adafruit, (0, 0.59), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, BL-M15881B, SEGMENT_BL-M15A881, adafruit, (0, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "PLUS, B3F-31XX-SKINNIER, adafruit, (0.695, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 32.768KHz, TC38H, adafruit, (0.19, -0.01), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 47, 0204/7, adafruit, (0.34, 0.18), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 47, 0204/7, adafruit, (-0.45, 0.18), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 47, 0204/7, adafruit, (-0.36, 0.18), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 47, 0204/7, adafruit, (0.79, 0.39), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 47, 0204/7, adafruit, (-0.67414173, -0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 47, 0204/7, adafruit, (0.67, -0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 47, 0204/7, adafruit, (0.79, -0.39), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 47, 0204/7, adafruit, (0.44, 0.18), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 10K, 0204/7, adafruit, (-0.8, 0.41), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SET, B3F-31XX-SKINNIER, adafruit, (-0.695, 0), R270"
         },
         {
             "name": "oompID",

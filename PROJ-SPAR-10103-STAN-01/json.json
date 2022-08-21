@@ -82,7 +82,47 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, EIA3216, SparkFun, (0.6, 1.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.25, 1.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "INPUT, 1X06-SMD-FEMALE-V2, SparkFun, (0.73, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.162, 0.646), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.705, 1.705), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "OUTPUT, 1X06-SMD, SparkFun, (0.15, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 4.7k, 0402-RES, SparkFun, (0.45, 1.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, DNP, 1/6W-RES, SparkFun, (0.45, 1.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, DNP, ALPHANUMERIC, SparkFun, (0.45, 1.25), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, V_REG_LDOSMD, SOT23-5, SparkFun, (0.4, 1.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, A6282-LP, TSSOP-24, SparkFun, (0.45, 1.5), R90"
         },
         {
             "name": "oompID",

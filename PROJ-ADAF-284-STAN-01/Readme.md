@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-284-STAN-01>Adafruit_FTDI Friend PCB](#proj-adaf-284-stan-01adafruit_ftdi-friend-pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,30 @@ Contents
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-UNMATCHED-X-UF10-V25, C1, 2.921, 10.0076, 90,C1, 10uF, A/3216-18R, adafruit, (0.115, 0.394), R90|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 8.6106, 25.780999999999995, 180,CN1, MINIB, USB-MINIB, adafruit, (0.339, 1.015), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FTDI, 8.8646, 2.413, 0,FTDI, 1X06-CLEANBIG, adafruit, (0.349, 0.095), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 9.118599999999999, 14.350999999999997, 90,IC1, FT232RL, SSOP28, ftdichip, (0.359, 0.565), R90|
+|RESE-0805-X-UNMATCHED-01, R1, 13.9446, 7.365999999999999, 180,R1, 10, R0805, adafruit, (0.549, 0.29), R180|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R5, 9.6266, 7.365999999999999, 0,R5, 10, R0805, adafruit, (0.379, 0.29), R0|
+|UNMATCHED-0805-X-UNMATCHED-01, RX, 15.468599999999999, 19.685, 180,RX, Green, CHIP-LED0805, adafruit, (0.609, 0.775), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 11.4046, 22.098, M0,SJ1, SJ, jumper, (0.449, 0.87), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 11.4046, 17.906999999999996, M0,SJ2, SJ, jumper, (0.449, 0.705), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ3, 6.0706, 13.334999999999999, M180,SJ3, SJ, jumper, (0.239, 0.525), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ4, 6.0706, 22.098, M0,SJ4, SJ, jumper, (0.239, 0.87), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ5, 6.0706, 17.906999999999996, M0,SJ5, SJ, jumper, (0.239, 0.705), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ6, 11.4046, 13.334999999999999, M180,SJ6, SJ, jumper, (0.449, 0.525), MR180|
+|UNMATCHED-0805-X-UNMATCHED-01, TX, 15.468599999999999, 15.748, 0,TX, Red, CHIP-LED0805, adafruit, (0.609, 0.62), R0|
 
 ## Tags
 
@@ -56,7 +81,26 @@ Contents
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, TX, 15.468599999999999, 15.748, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 16.002, 28.448, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 5.334, 7.874, 270
-- rawPart: 
+- rawPart: C1, 10uF, A/3216-18R, adafruit, (0.115, 0.394), R90
+- rawPart: C2, 0.1uF, C0805K, adafruit, (0.114, 0.605), R90
+- rawPart: C3, 0.1uF, C0805K, adafruit, (0.116, 0.745), R90
+- rawPart: CN1, MINIB, USB-MINIB, adafruit, (0.339, 1.015), R180
+- rawPart: FTDI, 1X06-CLEANBIG, adafruit, (0.349, 0.095), R0
+- rawPart: IC1, FT232RL, SSOP28, ftdichip, (0.359, 0.565), R90
+- rawPart: R1, 10, R0805, adafruit, (0.549, 0.29), R180
+- rawPart: R2, 1K, R0805, adafruit, (0.609, 0.945), R270
+- rawPart: R3, 1K, R0805, adafruit, (0.609, 0.46), R90
+- rawPart: R5, 10, R0805, adafruit, (0.379, 0.29), R0
+- rawPart: RX, Green, CHIP-LED0805, adafruit, (0.609, 0.775), R180
+- rawPart: SJ1, SJ, jumper, (0.449, 0.87), MR0
+- rawPart: SJ2, SJ, jumper, (0.449, 0.705), MR0
+- rawPart: SJ3, SJ, jumper, (0.239, 0.525), MR180
+- rawPart: SJ4, SJ, jumper, (0.239, 0.87), MR0
+- rawPart: SJ5, SJ, jumper, (0.239, 0.705), MR0
+- rawPart: SJ6, SJ, jumper, (0.449, 0.525), MR180
+- rawPart: TX, Red, CHIP-LED0805, adafruit, (0.609, 0.62), R0
+- rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.63, 1.12), R270
+- rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.21, 0.31), R270
 
 
 

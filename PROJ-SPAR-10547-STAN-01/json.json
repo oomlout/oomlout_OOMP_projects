@@ -122,7 +122,87 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "BAT1, AA, BATTERY-AA-KIT, SparkFun, (0.2, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "BAT2, AA, BATTERY-AA-KIT, SparkFun, (2.8, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun, (2.4, 2.55), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun, (2.75, 2.55), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, AVR-MEGA8-P, DIL28-3-SIMON-KIT, Testing, (1.5, 2.475), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, Serial, 1X06-NOSILK, unclepetes, (2.95, 1), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, SJ_2S_NO_SILK, unclepetes, (1.005, 1.57), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, AVR_SPI_PRG_6NS, 2X3-NS, SparkFun, (0.7, 1.25), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08NOSILK, unclepetes, (0.05, 0.95), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, SJ_2S_NO_SILK, unclepetes, (1.005, 1.92), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, SJ_2S_NO_SILK, unclepetes, (1.985, 1.925), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, SJ_2S_NO_SILK, unclepetes, (1.985, 1.57), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, SJ_2S_NO_SILK, unclepetes, (1, 0.585), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, SJ_2S_NO_SILK, unclepetes, (1.005, 0.945), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, SJ_2S_NO_SILK, unclepetes, (1.99, 0.585), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, SJ_2S_NO_SILK, unclepetes, (1.99, 0.935), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "P1-, BUTTONPAD-2X2SINGLEKIT, BUTTONPAD-2X2SINGLE-KIT, SparkFun, (0.515, 0.27062992), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, AXIAL-0.3-KIT, SparkFun, (0.4, 2.5), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, Power, SWITCH-SPDT_KIT, SparkFun, (1, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "S2, SWITCH-SPDT_KIT, SparkFun, (2, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SG1, BUZZER, BUZZER-12MM-KIT, SparkFun, (2.55, 1.25), MR90"
         },
         {
             "name": "oompID",

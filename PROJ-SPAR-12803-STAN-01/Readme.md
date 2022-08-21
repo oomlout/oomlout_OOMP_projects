@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-12803-STAN-01>ADXL377 Breakout](#proj-spar-12803-stan-01adxl377-breakout)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-12803-STAN-01>ADXL377 Breakout
@@ -20,6 +21,18 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0,C1, 10nF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.25), R0|
+|CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90,C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.35), R90|
+|CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270,C3, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5), R270|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.27, 0,JP1, 1X06, SparkFun-Connectors, (0.2, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 10.16, 0,U1, ADXL377, LFCSP_LQ-16, SparkFun-Sensors, (0.45, 0.4), R0|
+
 ## Tags
 
 - hexID: PRS12803
@@ -31,3 +44,19 @@ Contents
 - oompName: ADXL377 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL377_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12803
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270
+- oompPart: CAPC-0603-X-NF100-V50, C4, 15.239999999999998, 10.16, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.509999999999998, 16.509999999999998, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 1.27, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.27, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 10.16, 0
+- rawPart: C1, 10nF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.25), R0
+- rawPart: C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.35), R90
+- rawPart: C3, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5), R270
+- rawPart: C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.4), R270
+- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.65, 0.65), R0
+- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.05), R0
+- rawPart: JP1, 1X06, SparkFun-Connectors, (0.2, 0.05), R0
+- rawPart: U1, ADXL377, LFCSP_LQ-16, SparkFun-Sensors, (0.45, 0.4), R0

@@ -258,7 +258,223 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0805-NO, microbuilder, (0.315, 1.455), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, _0805MP, microbuilder, (0.59, 1.795), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0805-NO, microbuilder, (1.885, 1.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (2.235, 1.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (2.345, 1.725), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, 0805-NO, microbuilder, (0.37, 1.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 1uF, 0805-NO, microbuilder, (0.455, 1.455), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, MM3Z24VT1G, SMADIODE, microbuilder, (0.39, 1.93), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, MBR0540, SOD-123, microbuilder, (0.595, 1.49), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, 1N4148, SOD-323, microbuilder, (0.335, 0.98), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, FERRITE, _0805MP, microbuilder, (2.245, 1.405), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB2, FERRITE, _0805MP, microbuilder, (2.155, 1.405), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB3, Ferrite, _0805MP, microbuilder, (1.975, 1.405), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB4, FERITE, _0805MP, microbuilder, (2.06, 1.405), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.35, 0.055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.09, 0.275), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.24, 2.155), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, AR1100_SSOP, TSSOP20-5.3MMBODY, microbuilder, (2.12, 1.745), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 40PINFPCM4-1734839-0, 4-1734839-0, adafruit, (1.14, 2.075), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 6.8uH, power, L, CID, 2276, INDUCTOR_5X5MM_NR5040_NOTHERMALS, microbuilder, (0.55, 1.265), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (2.49, 1.83), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 20K, 0805-NO, microbuilder, (0.37, 1.22), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 6?, 0805-NO, microbuilder, (0.46, 1.675), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 12?, 0805-NO, microbuilder, (0.18, 1.675), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 12?, 0805-NO, microbuilder, (0.32, 1.675), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 20K, _0805MP, microbuilder, (0.585, 2.135), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 33, RESPACK_4X0603, microbuilder, (0.75, 1.755), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 12?, 0805-NO, microbuilder, (0.455, 1.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 33, RESPACK_4X0603, microbuilder, (0.91, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 33, RESPACK_4X0603, microbuilder, (1.07, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 33, RESPACK_4X0603, microbuilder, (1.23, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 33, RESPACK_4X0603, microbuilder, (1.39, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 33, RESPACK_4X0603, microbuilder, (1.55, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 470, 0805-NO, microbuilder, (2.49, 1.675), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 20K, 0805-NO, microbuilder, (2.285, 1.57), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS-SMT+SLOTS, PI_HAT_SMT_SLOTS, microbuilder, (0, 2.225), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, +50mA, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.46, 1.755), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, +25mA, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.18, 1.755), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, +100mA, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.32, 1.755), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TPTP15SQ, TP15SQ, testpad, (0.96, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TPTP15SQ, TP15SQ, testpad, (1.06, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TPTP15SQ, TP15SQ, testpad, (1.16, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TPTP15SQ, TP15SQ, testpad, (1.26, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP5, TPTP15SQ, TP15SQ, testpad, (0.26, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP6, TPTP15SQ, TP15SQ, testpad, (0.36, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP7, TPTP15SQ, TP15SQ, testpad, (0.46, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP8, TPTP15SQ, TP15SQ, testpad, (0.56, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP9, TPTP15SQ, TP15SQ, testpad, (0.66, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP10, TPTP15SQ, TP15SQ, testpad, (0.86, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP11, TPTP15SQ, TP15SQ, testpad, (0.76, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP12, TPTP15SQ, TP15SQ, testpad, (1.36, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP13, TPTP15SQ, TP15SQ, testpad, (2.16, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, FAN5333BSX, SOT23-5@1, microbuilder, (0.37, 1.335), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, MicroUSB, 4UCONN_20329, microbuilder, (2.075, 2.055), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 12MHz, RESONATOR-SMD, SparkFun, (1.88, 1.855), R270"
         },
         {
             "name": "oompID",

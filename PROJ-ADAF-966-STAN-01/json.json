@@ -54,7 +54,19 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "CN1, MICROSD, microbuilder, (200, 1219), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (843, 1068), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (71, 678), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, SDCARD_PCBCARRIERTDOCU, SDCARD_PCBCARRIER_DOCU, microbuilder, (472.44094, 1120.31496), MR0"
         },
         {
             "name": "oompID",

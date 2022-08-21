@@ -158,7 +158,123 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "BATT, JST-PH-2-SMT-RA, adafruit, (0.375, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, C0805K, adafruit, (1.23, 0.5), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, C0805K, adafruit, (0.375, 0.46), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF/10V, C0805K, adafruit, (0.65, 0.68622047), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 4700uF/10V, E5-13, adafruit, (1.55, 0.725), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CHRG/LBO, ORANGE, CHIP-LED0805, adafruit, (0.725, 0.275), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, DCIN, DCJACK_1.3MM_PTH, microbuilder, (1.3323622, 1.50606299), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN4, USB-MINIB, adafruit, (0.875, 1.325), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, MBR120VLSFT1G, SOD-123, microbuilder, (1.175, 0.98), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, 0, ohm, R0805, adafruit, (0.1, -0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "DONE, GREEN, CHIP-LED0805, adafruit, (1.025, 0.275), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, MCP73871, QFN20_4MM, adafruit, (0.875, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, DCIN, 1X02_OVAL, microbuilder, (0.52, 1.38), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, STATUS, 1X02_OVAL, microbuilder, (0.875, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, LOAD, 1X02_OVAL, microbuilder, (1.075, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, BATT, 1X02_OVAL, microbuilder, (0.675, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LOAD, JST-PH-2-SMT-RA, adafruit, (1.375, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "PWR, RED, CHIP-LED0805, adafruit, (0.29562992, 1.42244094), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 270K, R0805, adafruit, (0.85748031, 0.51811024), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100K, R0805, adafruit, (1.04311024, 0.51811024), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1K, M0805, adafruit, (0.45, 0.8), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 1K, R0805, adafruit, (0.825, 0.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 1K, R0805, adafruit, (0.925, 0.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 1K, R0805, adafruit, (0.29562992, 1.20744094), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 2K, 0805-THM, adafruit, (0.15, 0.8), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 100K, R0805, adafruit, (1.13, 0.73811024), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RT2, 150K, M0805, adafruit, (0.55, 0.8), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "THERM, 10K, 0805-THM, adafruit, (0.25, 0.8), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.14, 1.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.69, 0.24), R0"
         },
         {
             "name": "oompID",

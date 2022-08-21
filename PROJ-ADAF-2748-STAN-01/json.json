@@ -58,7 +58,23 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.1, 0.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X03_ROUND, microbuilder, (0.15, 0.08), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (0.085, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.15, 0.31), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ALS-PT19-315C, ALS-PT19-315C, microbuilder, (0.21, 0.185), R180"
         },
         {
             "name": "oompID",

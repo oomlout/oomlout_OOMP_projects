@@ -682,7 +682,647 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.26724409, 1.50358268), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, 0603-NO, microbuilder, (0.07716535, 1.63261811), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (1.43464567, 1.55440945), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (1.27082677, 1.50925197), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (0.08295276, 1.55527559), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 1uF, 0603-NO, microbuilder, (1.45826772, 1.63120079), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.26968504, 1.69291339), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN2, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.26574803, 1.69291339), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.0669685, 1.73173228), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.33087795, -0.16594882), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.49212598, 1.27559055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X07_ROUND_76, microbuilder, (0.76771654, 1.71259843), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED5, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED6, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED7, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED8, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED9, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED10, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED11, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED12, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED13, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 1.01181102), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED14, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED15, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED16, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED17, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED18, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED19, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED20, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED21, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED22, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED23, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED24, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED25, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED26, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.89370079), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED27, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED28, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED29, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED30, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED31, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED32, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED33, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED34, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED35, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED36, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED37, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED38, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED39, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.77559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED40, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED41, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED42, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED43, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED44, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED45, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED46, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED47, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED48, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED49, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED50, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED51, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED52, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.65748031), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED53, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED54, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED55, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED56, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED57, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED58, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED59, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED60, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED61, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED62, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED63, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED64, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED65, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.53937008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED66, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED67, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED68, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED69, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED70, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED71, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED72, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED73, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED74, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED75, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED76, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED77, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED78, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.42125984), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED79, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED80, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED81, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED82, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED83, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED84, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED85, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED86, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED87, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED88, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED89, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED90, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED91, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.30314961), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED92, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED93, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED94, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED95, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED96, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED97, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED98, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED99, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED100, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED101, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED102, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED103, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED104, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.18503937), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED105, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED106, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED107, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED108, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED109, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED110, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED111, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED112, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED113, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED114, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED115, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED116, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED117, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.06692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 2.2K, 0603-NO, microbuilder, (0.79007874, 1.62966535), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22, RESPACK_4X0603, microbuilder, (0.12625984, 1.1338189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 22, RESPACK_4X0603, microbuilder, (0.32844488, 1.1288189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 22, RESPACK_4X0603, microbuilder, (0.58344488, 1.1288189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 22, RESPACK_4X0603, microbuilder, (0.85844488, 1.1238189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 22, RESPACK_4X0603, microbuilder, (1.11094488, 1.1338189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 4.7K, RESPACK_4X0603, microbuilder, (1.06314961, 1.52299213), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 22, RESPACK_4X0603, microbuilder, (1.36844488, 1.1413189), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 22, 0603-NO, microbuilder, (1.48844488, 1.1388189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 51, 0603-NO, microbuilder, (0.21996063, 1.30625984), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 51, 0603-NO, microbuilder, (0.22844488, 1.1288189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 51, 0603-NO, microbuilder, (0.36619993, 1.27452965), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 51, 0603-NO, microbuilder, (0.43094488, 1.1438189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 51, 0603-NO, microbuilder, (0.48094488, 1.1588189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 51, 0603-NO, microbuilder, (0.68344488, 1.1288189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 51, 0603-NO, microbuilder, (0.95844488, 1.1338189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R17, 51, 0603-NO, microbuilder, (0.73969685, 1.12860236), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R18, 51, 0603-NO, microbuilder, (1.01094488, 1.1813189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R19, 51, 0603-NO, microbuilder, (1.21344488, 1.1338189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R20, 51, 0603-NO, microbuilder, (1.26594488, 1.1788189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R21, 51, 0603-NO, microbuilder, (1.2441811, 1.31594488), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R22, 51, 0603-NO, microbuilder, (1.18844488, 1.4388189), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R23, 22, 0603-NO, microbuilder, (1.2111811, 1.37594488), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.42007874), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.58007874), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.50007874), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.15889764, 1.33933071), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.0984252, -0.0984252), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.43700787, -0.0984252), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.0984252, 1.41732283), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.43700787, 1.41732283), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, IS31FL3741, QFN60_7MM, microbuilder, (0.70521654, 1.40677165), R225"
         },
         {
             "name": "oompID",

@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10467-STAN-01>LED Tactile Button Breakout](#proj-spar-10467-stan-01led-tactile-button-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, 0,JP1, 1X04, SparkFun, (0.15, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 7.619999999999999, 12.7, 270,S1, Switch, TACTILE-PTH-LED-12MM, SparkFun, (0.3, 0.5), R270|
+
 ## Tags
 
 - hexID: PRS10467
@@ -43,7 +52,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10467
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 7.619999999999999, 12.7, 270
-- rawPart: 
+- rawPart: JP1, 1X04, SparkFun, (0.15, 0.05), R0
+- rawPart: S1, Switch, TACTILE-PTH-LED-12MM, SparkFun, (0.3, 0.5), R270
 
 
 

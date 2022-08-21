@@ -106,7 +106,71 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 2.2uF, C0805K, adafruit, (0.295, 0.415), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (0.43, 0.415), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2uF, C0805K, adafruit, (0.295, 0.235), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.47uF, C0805K, adafruit, (0.67, 0.24), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 0.1uF, C0805K, adafruit, (0.64, 0.08), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, FERRITE, 0805, microbuilder, (0.205, 0.255), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB2, FERRITE, 0805, microbuilder, (0.205, 0.415), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, 1X05_ROUND_76, microbuilder, (0.055, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, CMA-4544PF-W, 9.7ELECTRET, adafruit, (0.715, 0.28), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 150k, R0805, adafruit, (0.67, 0.405), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100k, R0805, adafruit, (0.515, 0.415), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 2.2K, R0805, adafruit, (0.67, 0.325), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MAX9814TDFN14, TDFN14_3X3MM, adafruit, (0.465, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.215, 0.075), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.61, 0.49), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.92, 0.475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.92, 0.08), R0"
         },
         {
             "name": "oompID",

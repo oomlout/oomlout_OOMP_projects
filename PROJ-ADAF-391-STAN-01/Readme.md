@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-391-STAN-01>Adafruit BMP085 PCB](#proj-adaf-391-stan-01adafruit-bmp085-pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,24 @@ Contents
 |eagleImage|
 | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0,C1, 1.0uF, C0805, adafruit, (0.115, 0.54), R0|
+|CAPC-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0,C2, 1.0uF, C0805, adafruit, (0.115, 0.285), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.968999999999999, 14.097000000000001, 270,D1, 1N4148, SOD-323F, adafruit, (0.235, 0.555), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 0,JP2, Breakout, 1X07_ROUND_76, microbuilder, (0.4, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.477999999999998, 8.509, 90,Q1, BSS138, SOT23, adafruit, (0.57, 0.335), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.366999999999999, 12.318999999999999, 180,Q2, BSS138, SOT23, adafruit, (0.605, 0.485), R180|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 12.191999999999998, 0,U1, BMP085, BMP085, microbuilder, (0.4, 0.48), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.175, 10.540999999999999, 0,U2, RT9193-33GB, SOT23-5, microbuilder, (0.125, 0.415), R0|
 
 ## Tags
 
@@ -52,7 +71,22 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 14.858999999999998, 15.875, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 12.191999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.175, 10.540999999999999, 0
-- rawPart: 
+- rawPart: C1, 1.0uF, C0805, adafruit, (0.115, 0.54), R0
+- rawPart: C2, 1.0uF, C0805, adafruit, (0.115, 0.285), R0
+- rawPart: D1, 1N4148, SOD-323F, adafruit, (0.235, 0.555), R270
+- rawPart: JP2, Breakout, 1X07_ROUND_76, microbuilder, (0.4, 0.1), R0
+- rawPart: Q1, BSS138, SOT23, adafruit, (0.57, 0.335), R90
+- rawPart: Q2, BSS138, SOT23, adafruit, (0.605, 0.485), R180
+- rawPart: R1, 10K, R0805, adafruit, (0.69, 0.33), R270
+- rawPart: R2, 10K, R0805, adafruit, (0.27, 0.295), R180
+- rawPart: R3, 10K, R0805, adafruit, (0.42, 0.295), R0
+- rawPart: R4, 10K, R0805, adafruit, (0.72, 0.49), R90
+- rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.235, 0.375), R0
+- rawPart: U$7, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.7), R0
+- rawPart: U$8, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.7, 0.7), R0
+- rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.585, 0.625), R0
+- rawPart: U1, BMP085, BMP085, microbuilder, (0.4, 0.48), R0
+- rawPart: U2, RT9193-33GB, SOT23-5, microbuilder, (0.125, 0.415), R0
 
 
 

@@ -37,6 +37,142 @@
             "value": "https://www.sparkfun.com/products/14459"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 12.7, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 50.8, 2.54, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 50.8, 2.54, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 12.7, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, J1 Qwiic Right, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 19.049999999999997, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 24.13, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 34.29, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 3.8099999999999996, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, J6 Qwiic Right, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, J7 Qwiic Right, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, J8 Qwiic Right, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J12, 13.97, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.8099999999999996, 2.54, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, -6.35, 13.97, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 1.0uF, 0603, SparkFun-Capacitors, (0.15, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2, 0.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.5), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (1.55003076, 0.20000468), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, 1X02_NO_SILK, SparkFun-Connectors, (0.75, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 1X04_NO_SILK, SparkFun-Connectors, (0.95, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, 1X06_NO_SILK, SparkFun-Connectors, (1.35, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J5, 1X04_NO_SILK, SparkFun-Connectors, (0.15, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J6, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.5, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J7, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.85, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J8, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (1.2, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J12, 1X02_NO_SILK, SparkFun-Connectors, (0.55, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, 3.3V/600mA, SOT23-5, SparkFun-IC-Power, (0.15, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES, SparkFun-Connectors, (-0.25, 0.55), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-14459-STAN-01"
         },

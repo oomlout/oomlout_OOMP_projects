@@ -37,6 +37,126 @@
             "value": "http://www.adafruit.com/products/801"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 36.794000071999996, 79.468000068, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN2, 5.786000111999999, 27.000000101999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN3, 47.498, 3.8099999999999996, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN4, 46.736, 9.398, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.786000111999999, 77.999999956, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.786000111999999, 69.499999938, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 19.29400002, 79.468000068, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.786000111999999, 50.000000076, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.176, 45.72, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.176, 66.03999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 29.463999999999995, 74.16799999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 10.16, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 17.779999999999998, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 9.398, 8.636000000000001, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 1X4-3.5MM, 1X04-3.5MM, adafruit, (1.44858268, 3.12866142), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN2, 1X4-3.5MM, 1X04-3.5MM, adafruit, (0.22779528, 1.06299213), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN3, 1X4-3.5MM, 1X04-3.5MM, adafruit, (1.87, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN4, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (1.84, 0.37), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.22779528, 3.07086614), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.22779528, 2.73622047), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 1X5, 1X05-3.5MM, adafruit, (0.7596063, 3.12866142), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08-3.5MM, adafruit, (0.22779528, 1.96850394), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X08-BIG, adafruit, (0.44, 1.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06-BIG, adafruit, (0.44, 2.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08-BIG, adafruit, (1.16, 2.92), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X08-BIG, adafruit, (0.05, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X08-BIG, adafruit, (0.7, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, RASPBERRYPI_BB, RASBERRYPI_SHIELD, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, SMD-16SOIC, SO-16NMW, boogie, (0.37, 0.34), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ADAF-801-STAN-01"
         },

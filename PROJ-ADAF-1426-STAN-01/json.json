@@ -126,7 +126,91 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, C0805K, rcl, (0.33, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, C0805K, rcl, (0.665, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, C0805K, rcl, (0.875, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, C0805K, rcl, (1.125, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, C0805K, rcl, (1.325, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, C0805K, rcl, (1.655, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, C0805K, rcl, (1.9, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, C0805K, rcl, (0.095, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 1X4SMT, 1X4-SMT, adafruit, (1.945, 0.2), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN2, 1X4SMT, 1X4-SMT, adafruit, (0.055, 0.2), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.775, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS28115050, WS28115050, microbuilder, (0.125, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, WS28115050, WS28115050, microbuilder, (0.375, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, WS28115050, WS28115050, microbuilder, (0.625, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, WS28115050, WS28115050, microbuilder, (0.875, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED5, WS28115050, WS28115050, microbuilder, (1.125, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED6, WS28115050, WS28115050, microbuilder, (1.375, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED7, WS28115050, WS28115050, microbuilder, (1.625, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED8, WS28115050, WS28115050, microbuilder, (1.875, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.5, 0.32), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.5, 0.32), R0"
         },
         {
             "name": "oompID",

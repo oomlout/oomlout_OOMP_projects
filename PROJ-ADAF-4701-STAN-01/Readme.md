@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4701-STAN-01>Adafruit ST25DV16 PCB](#proj-adaf-4701-stan-01adafruit-st25dv16-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,21 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANT1, 12.7, 20.193, 0,ANT1, NFC_ANTENNA_25X15, NFCANT_25X15, microbuilder, (0.5, 0.795), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.254999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.325), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 8.254999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.325), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 14.985999999999999, 5.842, 270,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.23), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0|
+|RESE-UNMATCHED-X-O103-01, R3, 10.921999999999999, 6.476999999999999, 180,R3, 10K, RESPACK_4X0603, microbuilder, (0.43, 0.255), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, RF1, 14.985999999999999, 9.779, 0,RF1, ST25DVXX_TSSOP, TSSOP8-4.4MM, microbuilder, (0.59, 0.385), R0|
 
 ## Tags
 
@@ -54,7 +70,19 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RF1, 14.985999999999999, 9.779, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$19, 2.54, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$21, 22.86, 2.54, 0
-- rawPart: 
+- rawPart: ANT1, NFC_ANTENNA_25X15, NFCANT_25X15, microbuilder, (0.5, 0.795), R0
+- rawPart: C1, 0.1uF, 0603-NO, microbuilder, (0.59, 0.295), R180
+- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.285, 0.295), R270
+- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.325), R90
+- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.325), R270
+- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.23), R270
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.29, 0.42), R0
+- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.795, 0.04), R0
+- rawPart: JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0
+- rawPart: R3, 10K, RESPACK_4X0603, microbuilder, (0.43, 0.255), R180
+- rawPart: RF1, ST25DVXX_TSSOP, TSSOP8-4.4MM, microbuilder, (0.59, 0.385), R0
+- rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
+- rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 
 
 

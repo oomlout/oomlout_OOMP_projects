@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 22uF, 0805-NO, microbuilder, (0.045, 0.375), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 22uF, 0805-NO, microbuilder, (0.215, 0.3475), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 22uF, 0805-NO, microbuilder, (0.115, 0.375), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 120pF, 0603-NO, microbuilder, (0.0875, 0.5875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, green, CHIPLED_0603_NOOUTLINE, microbuilder, (0.37, 0.2875), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.03, 0.1725), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.1875, 0.605), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, TPS6282X, VSON_6, adafruit_power, (0.215, 0.4225), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, SDER041H-2R2MS, INDUCTOR_4X4MM_SRP0415, microbuilder, (0.175, 0.2275), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100K, 0603-NO, microbuilder, (0.335, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 450K, 0603-NO, microbuilder, (0.105, 0.5275), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100K, 0603-NO, microbuilder, (0.085, 0.4675), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10k, _0603MP, microbuilder, (0.3425, 0.36), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.3, 0.55), R0"
         },
         {
             "name": "oompID",

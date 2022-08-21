@@ -33,6 +33,446 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-leonardo-with-headers"
         },
         {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C1, 39.235, 10.425, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C2, 53.34, 26.67, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C3, 51.435, 26.67, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C4, 48.26, 31.75, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C5, 57.15, 26.67, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C6, 55.075, 10.45, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C7, 57.15, 16.51, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C8, 12.7, 28.575, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C9, 57.15, 18.034, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C10, 17.78, 7.62, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C11, 24.765, 19.685, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C12, 25.4, 7.62, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C13, 22.86, 30.48, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C14, 24.765, 14.605, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C22, 22.86, 38.354, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D+, 6.5, 39.37, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D-, 8.509, 39.37, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 21.59, 7.62, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 58.928, 26.67, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, EXTPOWER, 5.334, 8.382, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, F1 MF-MSMF050-2 500mA, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.35, 49.403, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 59.69, 34.925, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 2.505, 4.88, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 6.5, 36.83, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 16.51, 17.145, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 20.955, 34.29, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ICSP, 64.897, 27.94, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, J1 USB Micro, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 54.61, 50.8, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 36.83, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 57.15, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.226, 50.8, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, L, 4.445, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, L1, 55.245, 26.67, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, L2, 12.7, 32.385, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ON, 4.445, 16.51, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O105-01, R1, 48.26, 25.4, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R2, 55.88, 14.3256, M90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R3, 55.88, 14.9606, M90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O103-01, R4, 19.05, 38.354, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET, 6.35, 49.403, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-O103-01, RN1, 30.48, 18.415, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-O102-01, RN2, 12.7, 24.765, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RN3, 12.7, 37.465, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RX, 4.445, 27.94, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, T1, 17.78, 28.575, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TX, 4.445, 24.13, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 46.99, 16.51, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 46.99, 16.51, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 24.765, 17.145, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VUSB, 8.509, 36.83, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, Y1 16MHz KX-7, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Z1, 12.7, 34.29, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Z2, 12.7, 40.64, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 100n, C0603-ROUND, SmartPrj, (39.235, 10.425), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 100n, C0603-ROUND, SmartPrj, (53.34, 26.67), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 22p, C0603-ROUND, SmartPrj, (51.435, 26.67), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 22p, C0603-ROUND, SmartPrj, (48.26, 31.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 1uF, C0603-ROUND, SmartPrj, (57.15, 26.67), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 100n, C0603-ROUND, SmartPrj, (55.075, 10.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 1uF, C0603-ROUND, SmartPrj, (57.15, 16.51), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10u, SMC_B, rcl, (12.7, 28.575), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 100n, C0603-ROUND, SmartPrj, (57.15, 18.034), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 10u, SMC_B, rcl, (17.78, 7.62), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 1uF, C0603-ROUND, SmartPrj, (24.765, 19.685), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C12, 10u, SMC_B, rcl, (25.4, 7.62), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 100n, C0603-ROUND, SmartPrj, (22.86, 30.48), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C14, 1uF, C0603-ROUND, SmartPrj, (24.765, 14.605), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C22, 100n, C0603-ROUND, SmartPrj, (22.86, 38.354), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D+, DNP, TP-1.00MM, Arduino-utility, (6.5, 39.37), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D-, DNP, TP-1.00MM, Arduino-utility, (8.509, 39.37), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, M7, SMB, diode, (21.59, 7.62), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, CD1206-S01575, MINIMELF, diode, (58.928, 26.67), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "EXTPOWER, POWERSUPPLY_DC21MMX, POWERSUPPLY_DC-21MM, SmartPrj, (5.334, 8.382), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "F1, MF-MSMF050-2, 500mA, L1812, rcl, (12.7, 43.815), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, DNP, FD-1-1.5, Arduino-utility, (6.35, 49.403), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, DNP, FD-1-1.5, Arduino-utility, (59.69, 34.925), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, DNP, FD-1-1.5, Arduino-utility, (2.505, 4.88), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND, DNP, TP-1.00MM, Arduino-utility, (6.5, 36.83), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, NCP1117ST50T3G, SOT223, linear, (16.51, 17.145), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, LMV358IDGKR, MSOP08, linear, (20.955, 34.29), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ICSP, ICSP, 2X03, SmartPrj, (64.897, 27.94), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, USB, Micro, CON2_USB_MICRO_B_AT, Arduino-connectors, (1.4478, 38.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, 8x1F-H8.5, 1X08, SmartPrj, (54.61, 50.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 8x1F-H8.5, 1X08, SmartPrj, (36.83, 2.54), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, 6x1F-H8.5, 1X06, SmartPrj, (57.15, 2.54), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 10x1F-H8.5, 1X10, SmartPrj, (30.226, 50.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L, Yellow, CHIPLED_0805, led, (4.445, 20.32), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, MH2029-300Y, 0805, wuerth-elektronik, (55.245, 26.67), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "L2, MH2029-300Y, 0805, wuerth-elektronik, (12.7, 32.385), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ON, Green, CHIPLED_0805, led, (4.445, 16.51), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1M, R0603-ROUND, SmartPrj, (48.26, 25.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, NM, R0402, SmartPrj, (55.88, 14.3256), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, NM, R0402, SmartPrj, (55.88, 14.9606), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, R0603-ROUND, SmartPrj, (19.05, 38.354), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "RESET, TS42, TS42, SmartPrj, (6.35, 49.403), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN1, 10K, CAY16, resistor-dil, (30.48, 18.415), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN2, 1K, CAY16, resistor-dil, (12.7, 24.765), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN3, 22R, CAY16, resistor-dil, (12.7, 37.465), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RX, Yellow, CHIPLED_0805, led, (4.445, 27.94), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "T1, FDN340P, SOT-23, zetex, (17.78, 28.575), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TX, Yellow, CHIPLED_0805, led, (4.445, 24.13), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATMEGA32U4-XUMU, QFN44ML7X7, SmartPrj, (46.99, 16.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, ATMEGA32U4-XUAU, TQFP44-PAD, SmartPrj, (46.99, 16.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, LP2985-33DBVR, SOT23-DBV, SmartPrj, (24.765, 17.145), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "VUSB, DNP, TP-1.00MM, Arduino-utility, (8.509, 36.83), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 16MHz, KX-7, CRYSTAL-3.2-2.5, SmartPrj, (48.895, 28.575), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Z1, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 34.29), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Z2, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 40.64), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ARDU-LEO-STAN-01"
         },

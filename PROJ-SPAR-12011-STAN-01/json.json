@@ -37,6 +37,62 @@
             "value": "https://www.sparkfun.com/products/12011"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 9.4742, 9.5504, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.2258, 0.635, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 3.8099999999999996, 5.715, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04, SparkFun, (0.05, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.225), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-12011-STAN-01"
         },

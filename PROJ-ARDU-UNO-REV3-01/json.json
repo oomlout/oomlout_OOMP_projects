@@ -33,6 +33,926 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-uno-rev3"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 2250.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C1, 725.0, 605.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C2, 475.0, 1175.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 1005.0, 605.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C4, 1100.0, 1750.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C5, 1100.0, 1175.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C6, 1800.0, 900.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C7, 1100.0, 1240.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C8, 500.0, 1650.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C9, 630.0, 1165.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C10, 1745.0, 415.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0603-X-UNMATCHED-01, C11, 875.0, 1165.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 850.0, 110.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 2340.0, 1100.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 515.0, 1820.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, F1 MF-MSMF050-2 500mA, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 250.0, 1965.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 2119.68504, 659.09449, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 146.85039, 134.25197, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND_TP, 1700.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND_TP1, 1040.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GROUND, 450.0, 1600.0, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, ICSP 3x2 M, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, ICSP1 3x2 M, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IOH, 1190.0, 2000.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IOL, 2150.0, 2000.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, JP2 2x2 M, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, L, 1100.0, 1660.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, L1, 300.0, 1775.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, L2, 1540.0, 320.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, ON, 2300.0, 1440.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ORIGIN, 0.0, 0.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, PC1, 1005.0, 360.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, PC2, 725.0, 360.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, POWER, 1450.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O105-01, R1, 750.0, 1165.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O105-01, R2, 1625.0, 895.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET, 250.0, 1945.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET-EN, 1100.0, 1075.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-O103-01, RN1, 1100.0, 940.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-O102-01, RN2, 1100.0, 1550.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RN3, 505.0, 1450.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-O102-01, RN4, 2300.0, 1330.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, RX, 1100.0, 1350.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, T1, 320.0, 1045.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_0, 2500.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_1, 2400.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_2, 2300.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_3, 2200.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_3V3, 1400.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_4, 2100.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_5, 2000.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_5V, 1500.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_5V1, 2605.0, 1200.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_6, 1900.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_7, 1800.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_8, 1640.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_9, 1540.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_10, 1440.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_11, 1340.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_12, 1240.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_13, 1140.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A0, 2000.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A1, 2100.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A2, 2200.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A3, 2300.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A4, 2400.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_A5, 2500.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_AREF, 940.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_CMP, 1180.0, 920.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_D+, 235.0, 1550.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_D-, 335.0, 1550.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_DTR, 1020.0, 1175.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_GATE, 475.0, 845.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_LCMD, 745.0, 830.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_LL, 1005.0, 1700.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_MISO2, 820.0, 1870.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_MOSI2, 720.0, 1770.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_ONL, 2230.0, 1380.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_PB4, 820.0, 1570.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_PB5, 820.0, 1670.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_PB6, 720.0, 1570.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_PB7, 720.0, 1670.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_PWRIN, 520.0, 325.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_RESET, 1300.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_RESET2, 620.0, 1870.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_RX, 2065.0, 1345.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_RXL, 1235.0, 1405.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_SCK2, 720.0, 1870.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_SCL, 740.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_SDA, 840.0, 2000.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_TX, 2010.0, 1260.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_TXL, 1235.0, 1525.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_UGND, 235.0, 1450.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_USBVCC, 390.0, 1215.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_USH, 355.0, 1685.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_VIN, 1800.0, 100.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_VUCAP, 590.0, 1650.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_XT1, 1675.0, 795.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_XT2, 1575.0, 795.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_XT3, 645.0, 1030.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_XT4, 845.0, 1030.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP_XUSB, 335.0, 1450.0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, TX, 1100.0, 1440.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 305.0, 685.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 865.0, 600.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 785.0, 1365.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 750.0, 800.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 210.0, 330.0, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 150.0, 1500.0, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 745.0, 1030.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, Y2 CSTCE16M0V53-R0 16MHZ, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Z1, 500.0, 1550.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Z2, 500.0, 1325.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ZU4, 1825.0, 645.0, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "AD, 6x1F-H8.5, 1X06, SmartPrj, (2250, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 100n, C0603-ROUND, SmartPrj, (725, 605), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 100n, C0603-ROUND, SmartPrj, (475, 1175), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1u, C0603-ROUND, SmartPrj, (1005, 605), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 100n, C0603-ROUND, SmartPrj, (1100, 1750), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 100n, C0603-ROUND, SmartPrj, (1100, 1175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 100n, C0603-ROUND, SmartPrj, (1800, 900), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 100n, C0603-ROUND, SmartPrj, (1100, 1240), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 1u, C0603-ROUND, SmartPrj, (500, 1650), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 22p, C0603-ROUND, SmartPrj, (630, 1165), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 100n, C0603-ROUND, SmartPrj, (1745, 415), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 22p, C0603-ROUND, SmartPrj, (875, 1165), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, M7, SMB, diode, (850, 110), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, CD1206-S01575, MINIMELF, diode, (2340, 1100), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, CD1206-S01575, MINIMELF, diode, (515, 1820), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "F1, MF-MSMF050-2, 500mA, L1812, rcl, (160, 1045), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, FIDUCIALMOUNT, FIDUCIA-MOUNT, SmartPrj, (250, 1965), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, FIDUCIALMOUNT, FIDUCIA-MOUNT, SmartPrj, (2119.68504, 659.09449), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD3, FIDUCIALMOUNT, FIDUCIA-MOUNT, SmartPrj, (146.85039, 134.25197), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND_TP, TP_SP, TP-SP, SmartPrj, (1700, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND_TP1, TP_SP, TP-SP, SmartPrj, (1040, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GROUND, SJ, jumper, (450, 1600), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ICSP, 3x2, M, 2X03, SmartPrj, (2555, 1100), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "ICSP1, 3x2, M, 2X03, SmartPrj, (720, 1820), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IOH, 10x1F-H8.5, 1X10, SmartPrj, (1190, 2000), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IOL, 8x1F-H8.5, 1X08, SmartPrj, (2150, 2000), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 2x2, M, -, NM, 2X02, SmartPrj, (770, 1620), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L, YELLOW, CHIP-LED0805, led, (1100, 1660), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, BLM21, 0805, wuerth-elektronik, (300, 1775), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L2, 10uH, 0805, Induttanze, (1540, 320), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ON, GREEN, CHIP-LED0805, led, (2300, 1440), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "ORIGIN, TP_SP, TP-SP, SmartPrj, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "PC1, 47u, PANASONIC_D, rcl, (1005, 360), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "PC2, 47u, PANASONIC_D, rcl, (725, 360), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "POWER, 8x1F-H8.5, 1X08, SmartPrj, (1450, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1M, R0603-ROUND, SmartPrj, (750, 1165), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1M, R0603-ROUND, SmartPrj, (1625, 895), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "RESET, TS42031-160R-TR-7260, TS42, SmartPrj, (250, 1945), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RESET-EN, SJ, jumper, (1100, 1075), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN1, 10K, CAY16, resistor-dil, (1100, 940), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN2, 1K, CAY16, resistor-dil, (1100, 1550), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN3, 22R, CAY16, resistor-dil, (505, 1450), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RN4, 1K, CAY16, resistor-dil, (2300, 1330), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RX, YELLOW, CHIP-LED0805, led, (1100, 1350), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "T1, FDN340P, SOT-23, zetex, (320, 1045), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_0, TP_SP, TP-SP, SmartPrj, (2500, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_1, TP_SP, TP-SP, SmartPrj, (2400, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_2, TP_SP, TP-SP, SmartPrj, (2300, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_3, TP_SP, TP-SP, SmartPrj, (2200, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_3V3, TP_SP, TP-SP, SmartPrj, (1400, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_4, TP_SP, TP-SP, SmartPrj, (2100, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_5, TP_SP, TP-SP, SmartPrj, (2000, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_5V, TP_SP, TP-SP, SmartPrj, (1500, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_5V1, TP_SP, TP-SP, SmartPrj, (2605, 1200), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_6, TP_SP, TP-SP, SmartPrj, (1900, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_7, TP_SP, TP-SP, SmartPrj, (1800, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_8, TP_SP, TP-SP, SmartPrj, (1640, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_9, TP_SP, TP-SP, SmartPrj, (1540, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_10, TP_SP, TP-SP, SmartPrj, (1440, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_11, TP_SP, TP-SP, SmartPrj, (1340, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_12, TP_SP, TP-SP, SmartPrj, (1240, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_13, TP_SP, TP-SP, SmartPrj, (1140, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A0, TP_SP, TP-SP, SmartPrj, (2000, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A1, TP_SP, TP-SP, SmartPrj, (2100, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A2, TP_SP, TP-SP, SmartPrj, (2200, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A3, TP_SP, TP-SP, SmartPrj, (2300, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A4, TP_SP, TP-SP, SmartPrj, (2400, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_A5, TP_SP, TP-SP, SmartPrj, (2500, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_AREF, TP_SP, TP-SP, SmartPrj, (940, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_CMP, TP_SP, TP-SP, SmartPrj, (1180, 920), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_D+, TP_SP, TP-SP, SmartPrj, (235, 1550), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_D-, TP_SP, TP-SP, SmartPrj, (335, 1550), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_DTR, TP_SP, TP-SP, SmartPrj, (1020, 1175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_GATE, TP_SP, TP-SP, SmartPrj, (475, 845), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_LCMD, TP_SP, TP-SP, SmartPrj, (745, 830), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_LL, TP_SP, TP-SP, SmartPrj, (1005, 1700), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_MISO2, TP_SP, TP-SP, SmartPrj, (820, 1870), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_MOSI2, TP_SP, TP-SP, SmartPrj, (720, 1770), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_ONL, TP_SP, TP-SP, SmartPrj, (2230, 1380), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_PB4, TP_SP, TP-SP, SmartPrj, (820, 1570), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_PB5, TP_SP, TP-SP, SmartPrj, (820, 1670), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_PB6, TP_SP, TP-SP, SmartPrj, (720, 1570), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_PB7, TP_SP, TP-SP, SmartPrj, (720, 1670), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_PWRIN, TP_SP, TP-SP, SmartPrj, (520, 325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_RESET, TP_SP, TP-SP, SmartPrj, (1300, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_RESET2, TP_SP, TP-SP, SmartPrj, (620, 1870), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_RX, TP_SP, TP-SP, SmartPrj, (2065, 1345), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_RXL, TP_SP, TP-SP, SmartPrj, (1235, 1405), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_SCK2, TP_SP, TP-SP, SmartPrj, (720, 1870), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_SCL, TP_SP, TP-SP, SmartPrj, (740, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_SDA, TP_SP, TP-SP, SmartPrj, (840, 2000), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_TX, TP_SP, TP-SP, SmartPrj, (2010, 1260), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_TXL, TP_SP, TP-SP, SmartPrj, (1235, 1525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_UGND, TP_SP, TP-SP, SmartPrj, (235, 1450), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_USBVCC, TP_SP, TP-SP, SmartPrj, (390, 1215), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_USH, TP_SP, TP-SP, SmartPrj, (355, 1685), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_VIN, TP_SP, TP-SP, SmartPrj, (1800, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_VUCAP, TP_SP, TP-SP, SmartPrj, (590, 1650), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_XT1, TP_SP, TP-SP, SmartPrj, (1675, 795), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_XT2, TP_SP, TP-SP, SmartPrj, (1575, 795), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_XT3, TP_SP, TP-SP, SmartPrj, (645, 1030), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_XT4, TP_SP, TP-SP, SmartPrj, (845, 1030), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP_XUSB, TP_SP, TP-SP, SmartPrj, (335, 1450), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TX, YELLOW, CHIP-LED0805, led, (1100, 1440), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, NCP1117ST50T3G, SOT223, linear, (305, 685), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, LP2985-33DBVR, SOT23-DBV, SmartPrj, (865, 600), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, ATMEGA16U2-MU(R), MLF32, SmartPrj, (785, 1365), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U5, LMV358IDGKR, MSOP08, linear, (750, 800), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, POWERSUPPLY_DC21MMX, POWERSUPPLY_DC-21MM, SmartPrj, (210, 330), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, USB-B_TH, PN61729, SmartPrj, (150, 1500), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 16MHz, QS, SmartPrj, (745, 1030), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y2, CSTCE16M0V53-R0, 16MHZ, RESONATOR, SmartPrj, (1625, 980), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Z1, CG0603MLC-05E, CT/CN0603, varistor, (500, 1550), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Z2, CG0603MLC-05E, CT/CN0603, varistor, (500, 1325), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "ZU4, ATMEGA328P-PU, DIL28-3, SmartPrj, (1825, 645), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ARDU-UNO-REV3-01"
         },

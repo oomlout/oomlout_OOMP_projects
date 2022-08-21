@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-13684-STAN-01>MyoWare Power Shield](#proj-spar-13684-stan-01myoware-power-shield)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-13684-STAN-01>MyoWare Power Shield
@@ -20,6 +21,16 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|ERROR, BAT1 20mm coincell, 0, 0, 0,BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.45, 0.12), R180|
+|ERROR, BAT2 20mm coincell, 0, 0, 0,BAT2, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (-0.45, -0.12), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -24.5745, 2.54, 270,JP1, RAW, 1X03_NO_SILK, SparkFun-Connectors, (-0.9675, 0.1), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 24.5745, 2.54, 270,JP2, PROCESSED, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270|
+
 ## Tags
 
 - hexID: PRS13684
@@ -31,3 +42,15 @@ Contents
 - oompName: MyoWare Power Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_Power_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13684
+- oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
+- oompPart: ERROR, BAT2 20mm coincell, 0, 0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -22.86, -7.619999999999999, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 22.86, 7.619999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -24.5745, 2.54, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 24.5745, 2.54, 270
+- rawPart: BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.45, 0.12), R180
+- rawPart: BAT2, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (-0.45, -0.12), R0
+- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (-0.9, -0.3), R0
+- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.3), R0
+- rawPart: JP1, RAW, 1X03_NO_SILK, SparkFun-Connectors, (-0.9675, 0.1), R270
+- rawPart: JP2, PROCESSED, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270

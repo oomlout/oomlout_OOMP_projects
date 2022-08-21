@@ -110,7 +110,75 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.675, 0.145), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (0.43, 0.165), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.525, 0.07), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.79, 0.495), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.08, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, ATSAMD10D14A, QFN24_4MM, microbuilder, (0.69, 0.36), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q3, 2N7002D, SOT363, microbuilder, (0.46, 0.48), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0603-NO, microbuilder, (0.735, 0.075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, 0603-NO, microbuilder, (0.39, 0.07), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, RESPACK_4X0603, microbuilder, (0.46, 0.345), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ8, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.22, 0.22), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ9, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.22, 0.32), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TPTP15R, TP15R, testpad, (0.78, 0.125), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TPTP15R, TP15R, testpad, (0.78, 0.04), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TPTP10R, TP10R, testpad, (1.01, 0.26), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TPTP15R, TP15R, testpad, (0.625, 0.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.55, 0.17), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, STEMMA_I2C_RASMT, JSTPH4, microbuilder, (0.14, 0.275), R90"
         },
         {
             "name": "oompID",

@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4534-STAN-01>Adafruit Bonsai Buckaroo PCB](#proj-adaf-4534-stan-01adafruit-bonsai-buckaroo-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,26 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 36.093399999999995, 7.454899999999999, 270,D1, 1N4148, SOD-323, microbuilder, (1.421, 0.2935), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 35.81399999999999, 2.794, 180,D2, red, CHIPLED_0805_NOOUTLINE, microbuilder, (1.41, 0.11), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 10.540999999999999, 5.7785, 90,D6, 1N4148, SOD-323, microbuilder, (0.415, 0.2275), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MB2, 25.7429, 13.208, 0,MB2, MICROBIT_5PIN, MICROBIT_5SMTNUT, adafruit_connector, (1.0135, 0.52), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.5189, 9.8298, 90,Q1, BSS138, SOT23-WIDE, microbuilder, (0.4535, 0.387), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 33.528, 9.232899999999999, 180,Q2, BSS138, SOT23-WIDE, microbuilder, (1.32, 0.3635), R180|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R12</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SP1, 5.6007, 7.670799999999999, 0,SP1, SPEAKER_7.5MM, BUZZER_SMT_7.5MM, microbuilder, (0.2205, 0.302), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 17.779999999999998, 3.302, 180,TP1, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.7, 0.13), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 24.13, 3.302, 180,TP2, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.95, 0.13), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 30.479999999999997, 3.302, 180,TP3, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (1.2, 0.13), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 43.434, 7.874, 0,X1, 2060-402/998-404, P-2060-402/998-404, adafruit_connector, (1.71, 0.31), R0|
 
 ## Tags
 
@@ -57,7 +78,22 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 24.13, 3.302, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 30.479999999999997, 3.302, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 43.434, 7.874, 0
-- rawPart: 
+- rawPart: D1, 1N4148, SOD-323, microbuilder, (1.421, 0.2935), R270
+- rawPart: D2, red, CHIPLED_0805_NOOUTLINE, microbuilder, (1.41, 0.11), R180
+- rawPart: D6, 1N4148, SOD-323, microbuilder, (0.415, 0.2275), R90
+- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.93), R0
+- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.68, 0.61), R0
+- rawPart: MB2, MICROBIT_5PIN, MICROBIT_5SMTNUT, adafruit_connector, (1.0135, 0.52), R0
+- rawPart: Q1, BSS138, SOT23-WIDE, microbuilder, (0.4535, 0.387), R90
+- rawPart: Q2, BSS138, SOT23-WIDE, microbuilder, (1.32, 0.3635), R180
+- rawPart: R1, 10K, 0603-NO, microbuilder, (1.321, 0.47), R180
+- rawPart: R2, 1K, 0603-NO, microbuilder, (1.48, 0.1), R270
+- rawPart: R12, 10K, 0603-NO, microbuilder, (0.551, 0.3885), R90
+- rawPart: SP1, SPEAKER_7.5MM, BUZZER_SMT_7.5MM, microbuilder, (0.2205, 0.302), R0
+- rawPart: TP1, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.7, 0.13), R180
+- rawPart: TP2, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.95, 0.13), R180
+- rawPart: TP3, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (1.2, 0.13), R180
+- rawPart: X1, 2060-402/998-404, P-2060-402/998-404, adafruit_connector, (1.71, 0.31), R0
 
 
 

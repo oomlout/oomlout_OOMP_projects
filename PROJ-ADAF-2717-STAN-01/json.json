@@ -114,7 +114,79 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A0, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.65), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "A1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.55), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "A2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.45), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.31, 0.86), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 1.16), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.48, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X12_ROUND, microbuilder, (0.65, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X12_ROUND, microbuilder, (0.05, 0.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.465, 0.86), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.385, 0.86), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.425, 0.405), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.345, 0.405), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.27, 0.405), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, _0805MP, microbuilder, (0.23, 0.86), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SCLPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.85), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SDAPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.95), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 1.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, TCA9548APWR, TSSOP24, microbuilder, (0.35, 0.63), R270"
         },
         {
             "name": "oompID",

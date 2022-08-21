@@ -37,6 +37,70 @@
             "value": "https://www.sparkfun.com/products/11285"
         },
         {
+            "name": "oompPart",
+            "value": "ERROR, BAT1 20mm coincell, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-, 7.543799999999999, 2.413, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-2, 25.1714, 2.413, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+, 5.588, 23.241, 245"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+2, 26.593799999999998, 23.241, 115"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 29.784040507999997, 17.31518127, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 4.752340508, 5.12571873, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 16.002, 26.034999999999997, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.63, 0.445), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "BATB-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.297, 0.095), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "BATB-2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.991, 0.095), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "BATT+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.22, 0.915), R245"
+        },
+        {
+            "name": "rawPart",
+            "value": "BATT+2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (1.047, 0.915), R115"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (1.17260002, 0.68170005), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.18710002, 0.20179995), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, AYZ0202, SparkFun-Electromechanical, (0.63, 1.025), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11285-STAN-01"
         },

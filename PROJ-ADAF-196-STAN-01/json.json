@@ -122,7 +122,87 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "CN1, 1X4-3.5MM, 1X04-3.5MM, adafruit, (0.6, -0.14), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.46, 2.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06-3.5MM, adafruit, (1.35, -0.14), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06-CLEANBIG, adafruit, (2.25, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X08-CLEANBIG, adafruit, (2.15, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08-CLEANBIG, adafruit, (1.29, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X08-3.5MM, adafruit, (2.35, 2.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X08-3.5MM, adafruit, (1.2, 2.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X08-3.5MM, adafruit, (2.35, -0.14), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X06-CLEANBIG, adafruit, (1.55, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, 1X01, adafruit, (2.705, 1.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED, LED3MM, adafruit, (2.765, 1.97), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "POWER, LED3MM, adafruit, (2.755, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 0207/10, adafruit, (2.855, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 0207/10, adafruit, (2.855, 0.76), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RESET, B3F-10XX, switch-omron, (0.625, 0.44), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, ARDUINO-BPLACE, ARDUINO-BPLACE, adafruit, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "W, 1X01, adafruit, (0.765, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X, 1X01, adafruit, (0.865, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y, 1X01, adafruit, (0.965, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Z, 1X01, adafruit, (1.065, 0.1), R0"
         },
         {
             "name": "oompID",

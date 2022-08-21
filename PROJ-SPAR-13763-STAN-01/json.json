@@ -37,6 +37,70 @@
             "value": "https://www.sparkfun.com/products/13763"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C2, 7.619999999999999, 7.619999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 11.43, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.16, 1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 13.97, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 5.08, 11.43, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R2, 5.08, 3.8099999999999996, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 5.08, 7.619999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 7.619999999999999, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04, SparkFun-Connectors, (0.05, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.4, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.05, 0.55), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 4.7K, 0603-RES, SparkFun-Resistors, (0.2, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.2, 0.15), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.2, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, SI7021, SI7021, SparkFun-Sensors, (0.4, 0.3), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13763-STAN-01"
         },

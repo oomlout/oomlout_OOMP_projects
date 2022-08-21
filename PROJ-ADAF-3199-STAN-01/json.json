@@ -78,7 +78,43 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.455, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.045, 0.54), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X04_ROUND_76, microbuilder, (0.25, 0.075), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, DMG3415U, SOT23-WIDE, microbuilder, (0.42, 0.235), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 82?, 1%, 0805-NO, microbuilder, (0.06, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.06, 0.24), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.44, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, 0.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, MiCS-5524, MICS-5524, microbuilder, (0.25, 0.41), R90"
         },
         {
             "name": "oompID",

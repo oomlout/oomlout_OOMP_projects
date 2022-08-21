@@ -134,7 +134,99 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, _0805MP, microbuilder, (0.539, 0.4225), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, _0402NO, microbuilder, (0.195, 0.5105), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1uF, _0402NO, microbuilder, (0.3035, 0.511), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10uF, _0805MP, microbuilder, (0.537, 0.279), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN1, STEMMA_I2C_QTSKINNY, JST_SH4_SKINNY, microbuilder, (0.276, 0.094), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, NSR0320, SOD-323_MINI, microbuilder, (0.461, 0.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC3, ATSAMD21E, QFN32_5MM, adafruit_micro, (0.25689998, 0.36029995), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X07_CASTEL, microbuilder, (0.05, 0.4075), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X07_CASTEL, microbuilder, (0.65, 0.4075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (0.428, 0.2745), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, reset, BTN_KMR2_4.6X2.8, microbuilder, (0.495, 0.11), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 5.1K, _0402NO, microbuilder, (0.168, 0.2025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 5.1K, _0402NO, microbuilder, (0.135, 0.6535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 5.1K, _0402NO, microbuilder, (0.565, 0.671), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SWC, TPB1,27, B1,27, testpad, (0.4, 0.6), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SWC1, TPB1,27, B1,27, testpad, (0.35, 0.51), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SWD, TPB1,27, B1,27, testpad, (0.3, 0.6), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TESTPOINT_RECT_1X3MM, microbuilder, (0.425, 0.745), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TESTPOINT_RECT_1X3MM, microbuilder, (0.275, 0.745), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.232, 0.06), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.775), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.45, 0.402), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, SOIC8_150MIL, microbuilder, (0.2825, 0.3695), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.705), R180"
         },
         {
             "name": "oompID",

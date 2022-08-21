@@ -66,7 +66,31 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, C0805, adafruit, (0.265, 0.91), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805, adafruit, (0.375, 0.91), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X10_ROUND_76, microbuilder, (0.575, 0.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X10_ROUND_76, microbuilder, (0.075, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, R0805, adafruit, (0.32, 0.18), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.325, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, TXB0108PWR, TSSOP20, microbuilder, (0.325, 0.6), R270"
         },
         {
             "name": "oompID",

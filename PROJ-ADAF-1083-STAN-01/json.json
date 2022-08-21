@@ -94,7 +94,59 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, 0805, microbuilder, (0.85, 0.48), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, 0805, microbuilder, (0.15, 0.28), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, MMZ2012Y152B, 0805, microbuilder, (0.11, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB2, MMZ2012Y152B, 0805, microbuilder, (0.2, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.04, 0.23), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.69, 0.535), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X10_ROUND70, microbuilder, (0.55, 0.07), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805, microbuilder, (0.3, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805, microbuilder, (0.4, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805, microbuilder, (0.5, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805, microbuilder, (0.6, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1, 0.57), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.57), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ADS1115IDGST, MSOP10, microbuilder, (0.85, 0.37), R270"
         },
         {
             "name": "oompID",

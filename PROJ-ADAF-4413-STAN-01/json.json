@@ -118,7 +118,83 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0603-NO@1, microbuilder, (0.58, 0.44), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.245, 0.185), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805_10MGAP, microbuilder, (0.245, 0.5), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 220nF, 0603-NO@1, microbuilder, (0.415, 0.22), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.77, 0.2255), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25, 0.6165), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X04_ROUND, microbuilder, (0.5, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT363, microbuilder, (0.665, 0.29), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, RESPACK_4X0603, microbuilder, (0.69, 0.44), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, RESPACK_4X0603, microbuilder, (0.37, 0.442), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, LSM303AGR, LGA12_2X2MM, microbuilder, (0.5, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, AP2112K-3.3, SOT23-5, microbuilder, (0.325, 0.305), R0"
         },
         {
             "name": "oompID",

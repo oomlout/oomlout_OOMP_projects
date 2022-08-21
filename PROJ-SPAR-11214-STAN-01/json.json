@@ -37,6 +37,118 @@
             "value": "https://www.sparkfun.com/products/11214"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH1, 3.8099999999999996, 27.94, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH2, 17.779999999999998, 22.86, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH3, 17.779999999999998, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH4, 3.8099999999999996, 7.619999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 15.239999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 9.398, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.795, 24.511, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.795, 5.968999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 12.065, 27.94, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 20.574, 1.016, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 1.016, 29.463999999999995, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 15.239999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R1, 7.619999999999999, 21.59, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O105-01, R2, 11.43, 21.59, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "BH1, TRIG+, BUTTONHOLE, LilyPad-Wearables, (0.15, 1.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "BH2, TRIG-, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.9), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "BH3, OUT+, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "BH4, OUT-, BUTTONHOLE, LilyPad-Wearables, (0.15, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, JST-SMT, JST-2-SMD, SparkFun-Connectors, (0.7, 0.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X02, SparkFun-Connectors, (0.37, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.965), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.235), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X02, SparkFun-Connectors, (0.475, 1.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.81, 0.04), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.04, 1.16), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11214-STAN-01"
         },

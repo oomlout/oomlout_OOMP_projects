@@ -122,7 +122,87 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.47uF, 0805-NO, microbuilder, (0.5, 0.47), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.47uF, 0805-NO, microbuilder, (0.77, 0.54), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (1.09, 0.48), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (1.08, 0.26), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.14, 0.57), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.22, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X07_ROUND_76, microbuilder, (0.6, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.93, 0.44), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.77, 0.35), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.77, 0.46), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, 0805-NO, microbuilder, (0.93, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0805-NO, microbuilder, (0.93, 0.29), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, 0805-NO, microbuilder, (0.8, 0.23), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.1, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, Si5351A-B-GT, MSOP10, microbuilder, (0.61, 0.48), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, RT9193, SOT23-5, microbuilder, (1.08, 0.37), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, SMA_EDGELAUNCH, microbuilder, (0.2, 0.83), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, SMA_EDGELAUNCH, microbuilder, (0.6, 0.83), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X3, SMA_EDGELAUNCH, microbuilder, (1, 0.83), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 25MHz, CRYSTAL_3.2X2.5, microbuilder, (0.6, 0.29), R180"
         },
         {
             "name": "oompID",

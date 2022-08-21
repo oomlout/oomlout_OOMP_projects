@@ -494,7 +494,459 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (0.76574803, 0.375), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 47uF, EIA3528, SparkFun, (-0.5, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1uF, 0402-CAP, SparkFun, (0.75, -0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0402-CAP, SparkFun, (1.025, 0.175), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, EIA3216, SparkFun, (-0.95, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 0.1uF, 0402-CAP, SparkFun, (-0.85, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, EIA3216, SparkFun, (-0.5, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, 0402-CAP, SparkFun, (-0.4, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 4.7uF, 0402-CAP, SparkFun, (-0.95, -0.275), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 4.7uF, 0402-CAP, SparkFun, (-0.95, -0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 22pF, 0402-CAP, SparkFun, (-0.4, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C12, 22pF, 0402-CAP, SparkFun, (-0.4, 0.85), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 1uF, 0402-CAP, SparkFun, (0.3, 0.75), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C14, 10nF, 0402-CAP, SparkFun, (0.4, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C15, 10nF, 0402-CAP, SparkFun, (0.4, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C16, 47nF, 0402-CAP, SparkFun, (0.4, 0.625), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C17, 470pF, 0402-CAP, SparkFun, (-1.1, 0.2), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C18, 0.1uF, 0402-CAP, SparkFun, (-0.3, 0.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C19, 0.1uF, 0402-CAP, SparkFun, (-0.3, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C20, 0.1uF, 0402-CAP, SparkFun, (0.3, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C21, 0.1uF, 0402-CAP, SparkFun, (0.05, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C22, 10uF, EIA3216, SparkFun, (0, -0.425), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C23, 0.1uF, 0402-CAP, SparkFun, (-0.175, -0.325), SR315"
+        },
+        {
+            "name": "rawPart",
+            "value": "C24, 0.1uF, 0402-CAP, SparkFun, (0.2, -0.3125), SR45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C25, 0.1uF, 0402-CAP, SparkFun, (0.3125, -0.2), SR225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C26, 1uF, 0402-CAP, SparkFun, (-0.225, -0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C27, 1uF, 0402-CAP, SparkFun, (-0.175, -0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C28, 1uF, 0402-CAP, SparkFun, (0.225, -0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C29, 1uF, 0402-CAP, SparkFun, (0.175, -0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C30, 1nF, 0402-CAP, SparkFun-Passives, (-0.225, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C31, 1nF, 0402-CAP, SparkFun-Passives, (-0.275, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C32, 1nF, 0402-CAP, SparkFun-Passives, (0.225, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C33, 1nF, 0402-CAP, SparkFun-Passives, (0.275, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, SOD-523, SparkFun-DiscreteSemi, (-1.05, 0.4125), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, LiPo, JST-2-SMD, SparkFun, (-0.8511811, 0.85), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, FTDI, 1X06-SMD, SparkFun, (0.7, -0.7), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, POWER, 1X02, SparkFun, (-0.675, 0.6), SR45"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, PROG, 2X3-NS, SparkFun, (0.35, -0.35), SR225"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, HEADPHONE, AUDIO-JACK-3.5MM-SMD, SparkFun, (0.95, 0.95), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (-0.3, -1.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.3, 1.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 0805, SparkFun-Passives, (-0.2, -1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L2, 0805, SparkFun-Passives, (-0.3, -1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L3, 0805, SparkFun-Passives, (0.2, -1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L4, 0805, SparkFun-Passives, (0.3, -1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, RED, LED-0603, SparkFun, (-0.75, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, YELLOW, LED-0603, SparkFun, (-0.3, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 2K, 0402-RES, SparkFun, (-0.95, -0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1X, DNP, AXIAL-0.3, SparkFun, (-0.95, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, 0402-RES, SparkFun, (0.925, 0.275), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0402-RES, SparkFun, (1.025, 0.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 1M, 0402-RES, SparkFun, (-0.3, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 100k, 0402-RES, SparkFun, (-0.125, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 100k, 0402-RES, SparkFun, (-0.075, 0.95), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 100k, 0402-RES, SparkFun, (0.075, 0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 330, 0402-RES, SparkFun, (-0.75, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 330, 0402-RES, SparkFun, (-0.3, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 20, 0402-RES, SparkFun, (0.3, 0.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 20, 0402-RES, SparkFun, (0.3, 0.55), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 10, 0402-RES, SparkFun, (0.3, 0.625), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 100k, 0402-RES, SparkFun, (0.15, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 100k, 0402-RES, SparkFun, (0.1, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 100k, 0402-RES, SparkFun, (-0.175, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 100k, 0402-RES, SparkFun, (0.2, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R18, 4.7K, 0402-RES, SparkFun, (-0.375, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R19, 4.7K, 0402-RES, SparkFun, (-0.325, -0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R20, 1K, 0402-RES, SparkFun, (0.375, -0.85), SR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R21, 2K, 0402-RES, SparkFun, (0.325, -0.85), SR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R22, 10K, 0402-RES, SparkFun, (0.4375, -0.5375), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "R24, 330, 0402-RES, SparkFun, (0.4, 0.1), SR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R25, 330, 0402-RES, SparkFun, (0.4, 0.15), SR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R26, 330, 0402-RES, SparkFun, (0.4, 0.2), SR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, POWER, AYZ0202, SparkFun, (-0.75, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "S2, EC12PLRGBSDVBF-D, ENCODER_LED_3, mike-temp, (0, 0), SR45"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SJ_2S-NO, SparkFun, (-0.8, -0.675), SR135"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SJ_2S-NO, SparkFun, (-0.675, -0.8), SR135"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SJ_2S-NO, SparkFun, (-0.6, -0.725), MR225"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SJ_2S-NO, SparkFun, (0.75, 0.85), SMR45"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SJ_2S-NO, SparkFun, (0.85, 0.75), SMR225"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST1, TRIG2/SDA, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.61023622, 1.05708661), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST2, TRIG3/SCL, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (1.05708661, 0.61023622), R210"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST3, TRIG4/TXO, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (1.22047244, 0), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST4, TRIG5/RXI, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (1.05708661, -0.61023622), R150"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST5, SPKL-, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.61023622, -1.05708661), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST6, SPKL+, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, -1.22047244), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST7, SPKR-, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.61023622, -1.05708661), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST8, SPKR+, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-1.05708661, -0.61023622), R30"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST9, 3.3V, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-1.22047244, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST10, VIN, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-1.05708661, 0.61023622), R330"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST11, GND, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.61023622, 1.05708661), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "ST12, TRIG1, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 1.22047244), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TRIG1, 1X01NS, mike-temp, (0, 1.025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TRIG2/SDA, 1X01NS, mike-temp, (0.5125, 0.8875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TRIG3/SCL, 1X01NS, mike-temp, (0.8875, 0.5125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TRIG4/TXO, 1X01NS, mike-temp, (1.025, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP5, TRIG5/RXI, 1X01NS, mike-temp, (1.05, -0.4375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP6, SPKL-, 1X01NS, mike-temp, (0.3, -0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP7, SPKL+, 1X01NS, mike-temp, (0.2, -0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP8, SPKR-, 1X01NS, mike-temp, (-0.3, -0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP9, SPKR+, 1X01NS, mike-temp, (-0.2, -0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP10, 3.3V, 1X01NS, mike-temp, (-1.025, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP11, VIN, 1X01NS, mike-temp, (-0.8875, 0.5125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP12, GND, 1X01NS, mike-temp, (-0.5125, 0.8875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP13, DTR, PAD.03X.05, SparkFun, (0.7, -0.7), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP14, 1.8V, PAD.03X.05, SparkFun, (-0.5, 0.425), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATMEGA328, TQFP32-08, SparkFun, (0.75, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MCP73831, SOT23-5, SparkFun, (-1.1, -0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, MIC5219, 3.3V, SOT23-5, SparkFun, (-1.1, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, VS1053, LQFP-48, SparkFun, (0, 0.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U5, SP6214, 1.8V, SC70, SparkFun, (-0.625, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U6, TPA2016D2RTJ, QFN-20-0.5MM, mike-temp, (0, -0.65), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U7, USD-SOCKET, MICRO-SD-SOCKET-PP, SparkFun, (-0.48188976, -0.09251969), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.65551181, 0.26875), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y2, 12.288MHz, CRYSTAL-SMD-5X3, SparkFun, (-0.4, 0.7), R270"
         },
         {
             "name": "oompID",

@@ -114,7 +114,79 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "1X20BREAKOUT, 1X20, pinhead, (0, 1.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "2X10BREAKOUT, 2X10, pinhead, (0, -1.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 2.2uF+, C0805K, adafruit, (0.66, -0.23), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (-0.44, -0.52), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, C0805K, adafruit, (0.74, 0.63), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, C0805K, adafruit, (-0.17, -0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2uF+, C0805K, adafruit, (0.74, 1.03), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, ILI9325_28TFT, ILI9325_28INCH_TS, adafruit, (0, -1.35), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, LP298XS, SOT23-5L, adafruit, (0.75, 0.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, 74ACT245DW, SO20W, 74xx-eu, (-0.28, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC3, 74ACT245DW, SO20W, 74xx-eu, (0.56, 0.16), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 2222, SOT23-BEC, transistor-neu-to92, (-0.02, -0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 47, R0805, rcl, (0.1, -0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 47, R0805, rcl, (0.02, -0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 47, R0805, rcl, (-0.06, -0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 47, R0805, rcl, (-0.14, -0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1K, R0805, rcl, (-0.01, -0.91), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.9, -1.49), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$11, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.88, 1.12), R0"
         },
         {
             "name": "oompID",

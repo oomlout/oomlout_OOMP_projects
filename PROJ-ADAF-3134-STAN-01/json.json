@@ -494,7 +494,459 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.055, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.39, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.49, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.79, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.59, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.69, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.265, 0.79), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.69, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.59, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 0.1uF, 0805-NO, microbuilder, (0.23, 0.705), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.79, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.49, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.89, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.39, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-2, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-3, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-4, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-5, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-6, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-7, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-8, CHIPLED_0603_NOOUTLINE, microbuilder, (0.99, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.29, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-2, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.16), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-3, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.26), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-4, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.36), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-5, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.46), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-6, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.56), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-7, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.66), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-8, CHIPLED_0603_NOOUTLINE, microbuilder, (1.09, 0.76), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-9, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.76), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-10, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.66), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-11, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.56), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-12, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.46), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-13, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.36), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-14, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.26), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8-15, CHIPLED_0603_NOOUTLINE, microbuilder, (1.19, 0.16), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.3, 0.1125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.83, 0.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, RESPACK_4X0603, microbuilder, (0.175, 0.265), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.175, 0.35), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, IS31FL3731-SALS2, QFN28_4MM_0.4MM, microbuilder, (0.195, 0.52), R270"
         },
         {
             "name": "oompID",

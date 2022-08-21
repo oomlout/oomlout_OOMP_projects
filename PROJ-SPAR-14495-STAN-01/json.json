@@ -37,6 +37,62 @@
             "value": "https://www.sparkfun.com/products/14495"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 8.889999999999999, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 8.889999999999999, 2.54, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 13.97, 3.175, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 13.97, 3.175, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 3.8099999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 17.779999999999998, 3.8099999999999996, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 15.239999999999998, 5.08, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.35, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.35, 0.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.55, 0.125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.55, 0.125), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 1X04_1MM_RA, SparkFun-Connectors, (0.7, 0.15), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, PTH, 1X04, SparkFun-Connectors, (0.6, 0.2), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-14495-STAN-01"
         },

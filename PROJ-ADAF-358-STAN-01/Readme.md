@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-358-STAN-01>Adafruit_1.8_Inch_TFT_Breakout_PCB](#proj-adaf-358-stan-01adafruit_18_inch_tft_breakout_pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,22 @@ Contents
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -6.35, -0.127, 270,IC1, 4050D, SO16, 40xx, (-0.25, -0.005), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, -15.620999999999999, -10.668, 270,IC2, LP298XS, SOT23-5L, adafruit, (-0.615, -0.42), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -12.7, 11.049, 0,Q1, 2N2222, SOT23-BEC, transistor, (-0.5, 0.435), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 11.557, -5.968999999999999, 90,Q2, MICROSD, MICROSD, adafruit, (0.455, -0.235), R90|
+|ERROR, R1 22 ohm, 0, 0, 0,R1, 22, ohm, R0805, adafruit, (-0.295, 0.4), R180|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
 
 ## Tags
 
@@ -51,7 +68,21 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 20.32, -14.731999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, -22.098, 15.239999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 20.827999999999996, 15.239999999999998, 0
-- rawPart: 
+- rawPart: C1, 10uF, C0805K, rcl, (-0.77, -0.46), R270
+- rawPart: C2, 10uF, C0805K, rcl, (-0.465, -0.425), R270
+- rawPart: C3, 0.1uF, C0805K, rcl, (0.82, -0.33), R180
+- rawPart: C4, 0.1uF, C0805K, rcl, (-0.255, 0.26), R0
+- rawPart: IC1, 4050D, SO16, 40xx, (-0.25, -0.005), R270
+- rawPart: IC2, LP298XS, SOT23-5L, adafruit, (-0.615, -0.42), R270
+- rawPart: Q1, 2N2222, SOT23-BEC, transistor, (-0.5, 0.435), R0
+- rawPart: Q2, MICROSD, MICROSD, adafruit, (0.455, -0.235), R90
+- rawPart: R1, 22, ohm, R0805, adafruit, (-0.295, 0.4), R180
+- rawPart: R2, 1K, R0805, adafruit, (-0.68, 0.4), R180
+- rawPart: U$1, JD-T1800, JD-T1800, adafruit, (0, 0), MR90
+- rawPart: U$2, PINHD-1X10, 1X10-BIG, adafruit, (-1, 0), R270
+- rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.8, -0.58), R0
+- rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.87, 0.6), R0
+- rawPart: U$5, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.82, 0.6), R0
 
 
 

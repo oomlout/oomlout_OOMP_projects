@@ -130,7 +130,95 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0603-NO, microbuilder, (0.0625, 0.1975), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-NO, microbuilder, (0.0625, 0.3175), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.07, 0.0625), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0603-NO, microbuilder, (0.5925, 0.0975), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 1uF, 0603-NO, microbuilder, (0.5325, 0.0975), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 470pF, 0603-NO, microbuilder, (0.2875, 0.3475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 0.1uF, 0603-NO, microbuilder, (0.4125, 0.3475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.6975, 0.2875), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (-0.1025, 0.2875), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-0.1675, 0.0925), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.4375, 0.6775), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, NAU7802, SOIC16_NARROW, adafruit_sensor, (0.3025, 0.1525), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0.2975, -0.0625), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 51, 0603-NO, microbuilder, (0.535, 0.3075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 51, 0603-NO, microbuilder, (0.1575, 0.3475), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, RESPACK_4X0603, microbuilder, (-0.0525, 0.0925), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.1025, 0.6375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6975, 0.6375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.1025, -0.0625), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6975, -0.0625), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.1625, 0.5875), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4375, 0.5875), R180"
         },
         {
             "name": "oompID",

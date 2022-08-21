@@ -82,7 +82,47 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, 0805-NO, microbuilder, (0.44, 0.3125), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.175, 0.615), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.08, 0.075), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7875, 0.5325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 0.1, Header, 1X03_OVAL, microbuilder, (0.105, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 1K, 0603-NO, microbuilder, (0.31, 0.615), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.3425, 0.505), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, TMP235_DCKR, SC70-5, adafruit_sensor, (0.9, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "X4, JST, PH, 3, JSTPH3, microbuilder, (0.1825, 0.35), R90"
         },
         {
             "name": "oompID",

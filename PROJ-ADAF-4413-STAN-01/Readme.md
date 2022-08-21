@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4413-STAN-01>Adafruit LSM303AGR PCB](#proj-adaf-4413-stan-01adafruit-lsm303agr-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-UNMATCHED-X-NF100-V50, C1, 14.731999999999998, 11.176, 90,C1, 0.1uF, 0603-NO@1, microbuilder, (0.58, 0.44), R90|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-UNMATCHED-X-UF10-V25, C3, 6.223, 12.7, 90,C3, 10uF, 0805_10MGAP, microbuilder, (0.245, 0.5), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 10.540999999999999, 5.588, 270,C4, 220nF, 0603-NO@1, microbuilder, (0.415, 0.22), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.556, 12.572999999999999, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 15.239999999999998, 0,JP3, 1X04_ROUND, microbuilder, (0.5, 0.6), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 16.891, 7.365999999999999, 90,Q2, BSS138, SOT363, microbuilder, (0.665, 0.29), R90|
+|RESE-UNMATCHED-X-O103-01, R3, 17.525999999999996, 11.176, 180,R3, 10K, RESPACK_4X0603, microbuilder, (0.69, 0.44), R180|
+|RESE-UNMATCHED-X-O103-01, R5, 9.398, 11.226799999999999, 0,R5, 10K, RESPACK_4X0603, microbuilder, (0.37, 0.442), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 8.254999999999999, 7.746999999999999, 0,U2, AP2112K-3.3, SOT23-5, microbuilder, (0.325, 0.305), R0|
 
 ## Tags
 
@@ -61,7 +81,26 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$19, 2.54, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$21, 22.86, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 8.254999999999999, 7.746999999999999, 0
-- rawPart: 
+- rawPart: C1, 0.1uF, 0603-NO@1, microbuilder, (0.58, 0.44), R90
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.245, 0.185), R180
+- rawPart: C3, 10uF, 0805_10MGAP, microbuilder, (0.245, 0.5), R90
+- rawPart: C4, 220nF, 0603-NO@1, microbuilder, (0.415, 0.22), R270
+- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90
+- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270
+- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.77, 0.2255), R0
+- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25, 0.6165), R0
+- rawPart: JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0
+- rawPart: JP3, 1X04_ROUND, microbuilder, (0.5, 0.6), R0
+- rawPart: Q2, BSS138, SOT363, microbuilder, (0.665, 0.29), R90
+- rawPart: R3, 10K, RESPACK_4X0603, microbuilder, (0.69, 0.44), R180
+- rawPart: R5, 10K, RESPACK_4X0603, microbuilder, (0.37, 0.442), R0
+- rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
+- rawPart: U$2, LSM303AGR, LGA12_2X2MM, microbuilder, (0.5, 0.35), R0
+- rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
+- rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
+- rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
+- rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.325, 0.305), R0
 
 
 

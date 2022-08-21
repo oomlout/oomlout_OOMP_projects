@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-1770-STAN-01>2.8 TFT Breakout PCB](#proj-adaf-1770-stan-0128-tft-breakout-pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,29 @@ Contents
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1X20BREAKOUT, 0.0, 38.099999999999994, 180,1X20BREAKOUT, 1X20, pinhead, (0, 1.5), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2X10BREAKOUT, 0.0, -36.83, 180,2X10BREAKOUT, 2X10, pinhead, (0, -1.45), R180|
+|ERROR, C1 2.2uF+ C0805K, 0, 0, 0,C1, 2.2uF+, C0805K, adafruit, (0.66, -0.23), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|ERROR, C5 2.2uF+ C0805K, 0, 0, 0,C5, 2.2uF+, C0805K, adafruit, (0.74, 1.03), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, -34.29, M0,CN1, ILI9325_28TFT, ILI9325_28INCH_TS, adafruit, (0, -1.35), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 19.049999999999997, 20.32, 180,IC1, LP298XS, SOT23-5L, adafruit, (0.75, 0.8), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, -7.112, 3.8099999999999996, 180,IC2, 74ACT245DW, SO20W, 74xx-eu, (-0.28, 0.15), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 14.224, 4.064, 180,IC3, 74ACT245DW, SO20W, 74xx-eu, (0.56, 0.16), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -0.508, -17.779999999999998, 0,Q1, 2222, SOT23-BEC, transistor-neu-to92, (-0.02, -0.7), R0|
+|RESE-0805-X-UNMATCHED-01, R1, 2.54, -13.462, 90,R1, 47, R0805, rcl, (0.1, -0.53), R90|
+|RESE-0805-X-UNMATCHED-01, R2, 0.508, -13.462, 90,R2, 47, R0805, rcl, (0.02, -0.53), R90|
+|RESE-0805-X-UNMATCHED-01, R3, -1.5239999999999998, -13.462, 90,R3, 47, R0805, rcl, (-0.06, -0.53), R90|
+|RESE-0805-X-UNMATCHED-01, R4, -3.556, -13.462, 90,R4, 47, R0805, rcl, (-0.14, -0.53), R90|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
 
 ## Tags
 
@@ -55,7 +79,25 @@ Contents
 - oompPart: RESE-0805-X-O102-01, R5, -0.254, -23.114, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 22.86, -37.846, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, -22.352, 28.448, 0
-- rawPart: 
+- rawPart: 1X20BREAKOUT, 1X20, pinhead, (0, 1.5), R180
+- rawPart: 2X10BREAKOUT, 2X10, pinhead, (0, -1.45), R180
+- rawPart: C1, 2.2uF+, C0805K, adafruit, (0.66, -0.23), R270
+- rawPart: C2, 0.1uF, C0805K, adafruit, (-0.44, -0.52), R270
+- rawPart: C3, 0.1uF, C0805K, adafruit, (0.74, 0.63), R180
+- rawPart: C4, 0.1uF, C0805K, adafruit, (-0.17, -0.24), R180
+- rawPart: C5, 2.2uF+, C0805K, adafruit, (0.74, 1.03), R180
+- rawPart: CN1, ILI9325_28TFT, ILI9325_28INCH_TS, adafruit, (0, -1.35), MR0
+- rawPart: IC1, LP298XS, SOT23-5L, adafruit, (0.75, 0.8), R180
+- rawPart: IC2, 74ACT245DW, SO20W, 74xx-eu, (-0.28, 0.15), R180
+- rawPart: IC3, 74ACT245DW, SO20W, 74xx-eu, (0.56, 0.16), R180
+- rawPart: Q1, 2222, SOT23-BEC, transistor-neu-to92, (-0.02, -0.7), R0
+- rawPart: R1, 47, R0805, rcl, (0.1, -0.53), R90
+- rawPart: R2, 47, R0805, rcl, (0.02, -0.53), R90
+- rawPart: R3, 47, R0805, rcl, (-0.06, -0.53), R90
+- rawPart: R4, 47, R0805, rcl, (-0.14, -0.53), R90
+- rawPart: R5, 1K, R0805, rcl, (-0.01, -0.91), R180
+- rawPart: U$9, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.9, -1.49), R0
+- rawPart: U$11, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.88, 1.12), R0
 
 
 

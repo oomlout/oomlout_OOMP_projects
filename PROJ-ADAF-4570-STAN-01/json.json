@@ -110,7 +110,75 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0603-NO, microbuilder, (625, 235), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (280, 220), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (900, 350), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN2, STEMMA_I2C_QT, JST_SH4, microbuilder, (100, 350), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (135, 495), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (385, 237.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (750, 521.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, DS1841, DFN10_3X3MM, microbuilder, (500, 325), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04_ROUND, microbuilder, (500, 600), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06_ROUND, microbuilder, (500, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (260, 520), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, RESPACK_4X0603, microbuilder, (695, 360), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (650, 312), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (749, 312), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 600), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 600), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 100), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0"
         },
         {
             "name": "oompID",

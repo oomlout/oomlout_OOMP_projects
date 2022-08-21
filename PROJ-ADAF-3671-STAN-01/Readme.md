@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-3671-STAN-01>Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi](#proj-adaf-3671-stan-01adafruit-csi-or-dsi-cable-extender-thingy-for-raspberry-pi)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 5.08, 0,JP1, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.2), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 12.7, 180,JP2, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.5), R180|
+
 ## Tags
 
 - hexID: PRA3671
@@ -47,7 +56,12 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 12.7, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 2.54, 8.889999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 22.86, 8.889999999999999, 0
-- rawPart: 
+- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.75, 0.08), R0
+- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.255, 0.59), R0
+- rawPart: JP1, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.2), R0
+- rawPart: JP2, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.5), R180
+- rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.35), R0
+- rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.35), R0
 
 
 

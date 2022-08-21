@@ -82,7 +82,47 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.257, 0.184), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.054, 0.742), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.736, 0.601), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.458, 0.106), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.048, 0.796), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, RTC_PCF8523T, SOIC8_150MIL, microbuilder, (0.273, 0.416), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 32.768, CRYSTAL_8X3.8, microbuilder, (0.308, 0.701), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0805-NO, microbuilder, (0.115, 0.185), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.633, 0.703), R180"
         },
         {
             "name": "oompID",

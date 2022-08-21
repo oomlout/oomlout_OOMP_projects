@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10680-STAN-01>Shift Register Breakout-74HC595](#proj-spar-10680-stan-01shift-register-breakout-74hc595)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,18 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 24.13, 270,JP1, 1X08, SparkFun, (0.05, 0.95), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 29.209999999999997, 0,JP2, 1X07, SparkFun, (0.25, 1.15), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 6.35, 1.27, 0,JP3, 1X07, SparkFun, (0.25, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 1.27, 1.27, 0,JP6, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.05, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 20.066, 26.162, 0,JP7, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.79, 1.03), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 15.239999999999998, 270,U1, 74LS595D, SO16, SparkFun, (0.5, 0.6), R270|
+
 ## Tags
 
 - hexID: PRS10680
@@ -47,7 +60,12 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 1.27, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 20.066, 26.162, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 15.239999999999998, 270
-- rawPart: 
+- rawPart: JP1, 1X08, SparkFun, (0.05, 0.95), R270
+- rawPart: JP2, 1X07, SparkFun, (0.25, 1.15), R0
+- rawPart: JP3, 1X07, SparkFun, (0.25, 0.05), R0
+- rawPart: JP6, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.05, 0.05), R0
+- rawPart: JP7, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.79, 1.03), R0
+- rawPart: U1, 74LS595D, SO16, SparkFun, (0.5, 0.6), R270
 
 
 

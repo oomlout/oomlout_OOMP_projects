@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2133-STAN-01>Adafruit Audio FX Sound Board PCBs](#proj-adaf-2133-stan-01adafruit-audio-fx-sound-board-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,48 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C3, 9.906, 10.287, 180,C3, 1uF, 0805-NO, microbuilder, (0.39, 0.405), R180|
+|CAPC-UNMATCHED-X-UF10-V25, C6, 15.366999999999999, 18.287999999999997, 180,C6, 10uF, 0805_10MGAP, microbuilder, (0.605, 0.72), R180|
+|CAPC-UNMATCHED-X-UF10-V25, C7, 10.921999999999999, 7.619999999999999, 270,C7, 10uF, 0805_10MGAP, microbuilder, (0.43, 0.3), R270|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C9</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C10, 9.270999999999999, 17.653, 270,C10, 1uF, 0805-NO, microbuilder, (0.365, 0.695), R270|
+|CAPC-0805-X-UNMATCHED-01, C11, 42.418, 5.206999999999999, 0,C11, 4.7nF, 0805-NO, microbuilder, (1.67, 0.205), R0|
+|CAPC-0805-X-UNMATCHED-01, C12, 36.83, 17.779999999999998, 0,C12, 4.7nF, 0805-NO, microbuilder, (1.45, 0.7), R0|
+|ERROR, CONTROL Control Breakout, 0, 0, 0,CONTROL, Control, Breakout, 1X14-CB, adafruit, (0.95, 0.85), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.304, 18.034, 180,D2, 1N4148, SOD-323, microbuilder, (0.76, 0.71), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 5.206999999999999, 19.558, 90,D3, MBR120, SOD-123, microbuilder, (0.205, 0.77), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 6.858, 15.112999999999998, 270,D4, MBR120, SOD-123, microbuilder, (0.27, 0.595), R270|
+|ERROR, GPIO1 GPIO breakout, 0, 0, 0,GPIO1, GPIO, breakout, 1X14-CB, adafruit, (0.95, 0.05), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GREEN, 28.320999999999998, 15.748, 90,GREEN, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (1.115, 0.62), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 2.54, 5.334, 90,LED4, Green, CHIPLED_0805_NOOUTLINE, microbuilder, (0.1, 0.21), R90|
+|RESE-0805-X-O105-01, R1, 25.145999999999997, 17.018, 270,R1, 1M, 0805-NO, microbuilder, (0.99, 0.67), R270|
+|RESE-UNMATCHED-X-O104-01, R2, 8.001, 5.842, 0,R2, 100K, RESPACK_4X0603, microbuilder, (0.315, 0.23), R0|
+|RESE-0805-X-UNMATCHED-01, R3, 38.73499999999999, 5.206999999999999, 0,R3, 470, 0805-NO, microbuilder, (1.525, 0.205), R0|
+|RESE-0805-X-UNMATCHED-01, R6, 33.274, 17.779999999999998, 0,R6, 470, 0805-NO, microbuilder, (1.31, 0.7), R0|
+|RESE-0805-X-UNMATCHED-01, R7, 5.08, 1.9049999999999998, 90,R7, 470, 0805-NO, microbuilder, (0.2, 0.075), R90|
+|RESE-0805-X-UNMATCHED-01, R8, 28.194000000000003, 17.525999999999996, 0,R8, 470, 0805-NO, microbuilder, (1.11, 0.69), R0|
+|RESE-UNMATCHED-X-O104-01, R9, 14.858999999999998, 4.953, 180,R9, 100K, RESPACK_4X0603, microbuilder, (0.585, 0.195), R180|
+|RESE-UNMATCHED-X-O104-01, R10, 19.431, 4.953, 180,R10, 100K, RESPACK_4X0603, microbuilder, (0.765, 0.195), R180|
+|RESE-UNMATCHED-X-O104-01, R11, 32.512, 7.112, 0,R11, 100K, RESPACK_4X0603, microbuilder, (1.28, 0.28), R0|
+|RESE-UNMATCHED-X-O104-01, R12, 27.178, 7.112, 180,R12, 100K, RESPACK_4X0603, microbuilder, (1.07, 0.28), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 27.813, 11.43, M0,TP1, TPB1,27, B1,27, testpad, (1.095, 0.45), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 22.733, 14.097000000000001, M0,TP2, TPB1,27, B1,27, testpad, (0.895, 0.555), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 32.766, 11.302999999999999, M0,TP3, TPB1,27, B1,27, testpad, (1.29, 0.445), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 29.717999999999996, 11.937999999999999, 90,U1, MX25L1606, SOIC8_208MIL, microbuilder, (1.17, 0.47), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 16.764, 11.937999999999999, 90,U2, VS1000, LQFP48, microbuilder, (0.66, 0.47), R90|
+|ERROR, X1 Micro B, 0, 0, 0,X1, Micro, B, 4UCONN_20329, microbuilder, (0.17, 0.45), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 3.556, 11.43, M270,X2, JST_PH_2, JSTPH2, microbuilder, (0.14, 0.45), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, 46.99, 11.43, 180,X3, 19621, 4UCONN_18510, microbuilder, (1.85, 0.45), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y2, 22.987, 17.145, 270,Y2, 12MHz, RESONATOR-SMD, SparkFun, (0.905, 0.675), R270|
 
 ## Tags
 
@@ -83,7 +126,48 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 3.556, 11.43, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, 46.99, 11.43, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y2, 22.987, 17.145, 270
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (1.615, 0.285), R0
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (1.595, 0.7), R180
+- rawPart: C3, 1uF, 0805-NO, microbuilder, (0.39, 0.405), R180
+- rawPart: C6, 10uF, 0805_10MGAP, microbuilder, (0.605, 0.72), R180
+- rawPart: C7, 10uF, 0805_10MGAP, microbuilder, (0.43, 0.3), R270
+- rawPart: C8, 10uF, 0805-NO, microbuilder, (0.38, 0.515), R90
+- rawPart: C9, 10uF, 0805-NO, microbuilder, (0.44, 0.7), R270
+- rawPart: C10, 1uF, 0805-NO, microbuilder, (0.365, 0.695), R270
+- rawPart: C11, 4.7nF, 0805-NO, microbuilder, (1.67, 0.205), R0
+- rawPart: C12, 4.7nF, 0805-NO, microbuilder, (1.45, 0.7), R0
+- rawPart: CONTROL, Control, Breakout, 1X14-CB, adafruit, (0.95, 0.85), R0
+- rawPart: D2, 1N4148, SOD-323, microbuilder, (0.76, 0.71), R180
+- rawPart: D3, MBR120, SOD-123, microbuilder, (0.205, 0.77), R90
+- rawPart: D4, MBR120, SOD-123, microbuilder, (0.27, 0.595), R270
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.795, 0.215), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.04, 0.71), R0
+- rawPart: GPIO1, GPIO, breakout, 1X14-CB, adafruit, (0.95, 0.05), R180
+- rawPart: GREEN, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (1.115, 0.62), R90
+- rawPart: LED4, Green, CHIPLED_0805_NOOUTLINE, microbuilder, (0.1, 0.21), R90
+- rawPart: R1, 1M, 0805-NO, microbuilder, (0.99, 0.67), R270
+- rawPart: R2, 100K, RESPACK_4X0603, microbuilder, (0.315, 0.23), R0
+- rawPart: R3, 470, 0805-NO, microbuilder, (1.525, 0.205), R0
+- rawPart: R6, 470, 0805-NO, microbuilder, (1.31, 0.7), R0
+- rawPart: R7, 470, 0805-NO, microbuilder, (0.2, 0.075), R90
+- rawPart: R8, 470, 0805-NO, microbuilder, (1.11, 0.69), R0
+- rawPart: R9, 100K, RESPACK_4X0603, microbuilder, (0.585, 0.195), R180
+- rawPart: R10, 100K, RESPACK_4X0603, microbuilder, (0.765, 0.195), R180
+- rawPart: R11, 100K, RESPACK_4X0603, microbuilder, (1.28, 0.28), R0
+- rawPart: R12, 100K, RESPACK_4X0603, microbuilder, (1.07, 0.28), R180
+- rawPart: TP1, TPB1,27, B1,27, testpad, (1.095, 0.45), MR0
+- rawPart: TP2, TPB1,27, B1,27, testpad, (0.895, 0.555), MR0
+- rawPart: TP3, TPB1,27, B1,27, testpad, (1.29, 0.445), MR0
+- rawPart: U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.085, 0.815), R0
+- rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.085, 0.085), R0
+- rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.765, 0.815), R0
+- rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.765, 0.085), R0
+- rawPart: U1, MX25L1606, SOIC8_208MIL, microbuilder, (1.17, 0.47), R90
+- rawPart: U2, VS1000, LQFP48, microbuilder, (0.66, 0.47), R90
+- rawPart: X1, Micro, B, 4UCONN_20329, microbuilder, (0.17, 0.45), R270
+- rawPart: X2, JST_PH_2, JSTPH2, microbuilder, (0.14, 0.45), MR270
+- rawPart: X3, 19621, 4UCONN_18510, microbuilder, (1.85, 0.45), R180
+- rawPart: Y2, 12MHz, RESONATOR-SMD, SparkFun, (0.905, 0.675), R270
 
 
 

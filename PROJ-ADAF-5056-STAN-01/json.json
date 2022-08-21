@@ -182,7 +182,147 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.23, -0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, 0603-NO, microbuilder, (0.6975, 0.065), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 0.1uF, _0603MP, microbuilder, (0.18, 0.0725), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10uF, 0805-NO, microbuilder, (0.47, -0.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 0.1uF, 0603-NO, microbuilder, (0.3, -0.16), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 0.1uF, 0603-NO, microbuilder, (0.205, 0.1475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C12, 1uF, 0603-NO, microbuilder, (0.71, 0.1725), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 0.1uF, 0603-NO, microbuilder, (0.301, 0.2175), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C14, 0.1uF, 0603-NO, microbuilder, (0.42, -0.16), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C16, 0.1uF, 0603-NO, microbuilder, (0.21, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C17, 0.1uF, 0603-NO, microbuilder, (0.6975, 0.12), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C19, 22pF, 0603-NO, microbuilder, (0.79, -0.1525), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C20, 22pF, 0603-NO, microbuilder, (0.74, -0.0625), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN1, STEMMA_I2C_QTSKINNY, JST_SH4_SKINNY, microbuilder, (0.9, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, NSR0320, SOD-323_MINI, microbuilder, (0.666, -0.157), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, RP2040_QFN56, QFN56_7MM_REDUCEDEPAD, adafruit_micro, (0.4255, 0.032), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (0.3075, 0.285), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, RESPACK_4X0603, microbuilder, (0.4375, 0.285), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 1K, 0603-NO, microbuilder, (0.6575, 0.01), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 27, 0603-NO, microbuilder, (0.0825, 0.1375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 27, 0603-NO, microbuilder, (0.065, 0.0775), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 1K, 0603-NO, microbuilder, (0.54, -0.16), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, SPST_TACTILE_RA, adafruit_electromech, (0.6725, 0.2825), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, SPST_TACTILE_RA, adafruit_electromech, (0.6725, -0.2825), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.745, 0.225), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.67, -0.24), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, -0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, -0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.937, -0.004), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.0575, 0.1405), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.35, -0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U5, 8MB, USON8_4X4, microbuilder, (0.1375, -0.075), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, USBA_PCB, adafruit_electromech, (-0.3, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.6525, -0.0675), R180"
         },
         {
             "name": "oompID",

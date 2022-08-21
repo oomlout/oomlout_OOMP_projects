@@ -102,7 +102,67 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "D1, 1N4148, SOD-323, microbuilder, (1.421, 0.2935), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, red, CHIPLED_0805_NOOUTLINE, microbuilder, (1.41, 0.11), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D6, 1N4148, SOD-323, microbuilder, (0.415, 0.2275), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.93), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.68, 0.61), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MB2, MICROBIT_5PIN, MICROBIT_5SMTNUT, adafruit_connector, (1.0135, 0.52), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.4535, 0.387), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (1.32, 0.3635), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (1.321, 0.47), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, 0603-NO, microbuilder, (1.48, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 10K, 0603-NO, microbuilder, (0.551, 0.3885), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SP1, SPEAKER_7.5MM, BUZZER_SMT_7.5MM, microbuilder, (0.2205, 0.302), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.7, 0.13), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.95, 0.13), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (1.2, 0.13), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, 2060-402/998-404, P-2060-402/998-404, adafruit_connector, (1.71, 0.31), R0"
         },
         {
             "name": "oompID",

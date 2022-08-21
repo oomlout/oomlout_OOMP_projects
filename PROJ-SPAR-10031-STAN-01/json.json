@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, 1X05, SparkFun, (0.65, 0.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180"
         },
         {
             "name": "oompID",

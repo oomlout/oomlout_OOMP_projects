@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4900-STAN-01>Adafruit QT Py RP2040 PCB](#proj-adaf-4900-stan-01adafruit-qt-py-rp2040-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,50 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, 13.6144, 12.204699999999999, M180,C2, 1uF, 0603-NO, microbuilder, (0.536, 0.4805), MR180|
+|CAPC-UNMATCHED-X-NF100-V50, C7, 6.095999999999999, 1.8795999999999997, M180,C7, 0.1uF, _0402NO, microbuilder, (0.24, 0.074), MR180|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-UNMATCHED-X-NF100-V50, C9, 13.6779, 10.375899999999998, M90,C9, 0.1uF, _0402NO, microbuilder, (0.5385, 0.4085), MR90|
+|CAPC-0603-X-UNMATCHED-01, C10, 4.287603058, 2.23020636, M270,C10, 1uF, 0603-NO, microbuilder, (0.16880327, 0.0878034), MR270|
+|CAPC-UNMATCHED-X-NF100-V50, C11, 6.7691, 11.8618, M270,C11, 0.1uF, _0402NO, microbuilder, (0.2665, 0.467), MR270|
+|CAPC-0603-X-UNMATCHED-01, C12, 5.3721, 12.230099999999998, M90,C12, 1uF, 0603-NO, microbuilder, (0.2115, 0.4815), MR90|
+|CAPC-UNMATCHED-X-NF100-V50, C13, 7.175499999999999, 13.296899999999999, M0,C13, 0.1uF, _0402NO, microbuilder, (0.2825, 0.5235), MR0|
+|CAPC-UNMATCHED-X-NF100-V50, C14, 3.9496999999999995, 11.7475, M90,C14, 0.1uF, _0402NO, microbuilder, (0.1555, 0.4625), MR90|
+|CAPC-UNMATCHED-X-NF100-V50, C16, 11.4935, 8.8265, 90,C16, 0.1uF, _0402NO, microbuilder, (0.4525, 0.3475), R90|
+|CAPC-UNMATCHED-X-NF100-V50, C17, 13.9954, 4.7752, M270,C17, 0.1uF, _0402NO, microbuilder, (0.551, 0.188), MR270|
+|CAPE-UNMATCHED-X-PF22-01, C19, 12.890499999999998, 2.2859999999999996, M0,C19, 22pF, _0402NO, microbuilder, (0.5075, 0.09), MR0|
+|CAPE-UNMATCHED-X-PF22-01, C20, 12.890499999999998, 0.9524999999999999, M0,C20, 22pF, _0402NO, microbuilder, (0.5075, 0.0375), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 7.010400000000001, 2.3876, 0,CONN1, STEMMA_I2C_QTSKINNY, JST_SH4_SKINNY, microbuilder, (0.276, 0.094), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 11.7221, 11.8872, 90,D1, NSR0320, SOD-323_MINI, microbuilder, (0.4615, 0.468), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.264399999999999, 19.2278, M180,D2, NSR0320, SOD-323_MINI, microbuilder, (0.286, 0.757), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 9.143999999999998, 6.9977, M0,IC2, RP2040_QFN56, QFN56_7MM_REDUCEDEPAD, adafruit_micro, (0.36, 0.2755), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 10.350499999999998, 270,JP1, 1X07_CASTEL, microbuilder, (0.05, 0.4075), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 13.208, 17.0815, M0,JP2, SJ_2S-NO, SparkFun, (0.52, 0.6725), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 16.509999999999998, 10.350499999999998, 90,JP3, 1X07_CASTEL, microbuilder, (0.65, 0.4075), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 13.347699999999998, 6.400799999999999, 90,LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (0.5255, 0.252), R90|
+|RESE-UNMATCHED-X-O103-01, R3, 5.8547, 16.8783, M270,R3, 10K, _0402NO, microbuilder, (0.2305, 0.6645), MR270|
+|RESE-UNMATCHED-X-O102-01, R6, 8.6995, 1.5239999999999998, M90,R6, 1K, _0402NO, microbuilder, (0.3425, 0.06), MR90|
+|RESE-UNMATCHED-X-O103-01, R9, 11.4935, 6.7056, 270,R9, 10K, _0402NO, microbuilder, (0.4525, 0.264), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R12, 5.5499, 12.915899999999999, 0,R12, 5.1K, _0402NO, microbuilder, (0.2185, 0.5085), R0|
+|RESE-UNMATCHED-X-UNMATCHED-01, R13, 10.426699999999999, 12.611099999999999, 90,R13, 5.1K, _0402NO, microbuilder, (0.4105, 0.4965), R90|
+|RESE-UNMATCHED-X-UNMATCHED-01, R14, 9.309099999999999, 12.611099999999999, 270,R14, 27, _0402NO, microbuilder, (0.3665, 0.4965), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R15, 7.277099999999999, 12.4841, 270,R15, 27, _0402NO, microbuilder, (0.2865, 0.4915), R270|
+|RESE-UNMATCHED-X-O102-01, R16, 10.1346, 19.3294, M0,R16, 1K, _0402NO, microbuilder, (0.399, 0.761), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 12.5095, 2.794, 90,SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.4925, 0.11), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 5.1562, 9.398, 90,SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.203, 0.37), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 15.341599999999998, 1.016, M0,TP3, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.604, 0.04), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP4, 3.3401, 17.3101, M0,TP4, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.1315, 0.6815), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.839199999999998, 9.6774, 90,U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.348, 0.381), R90|
+|ERROR, U5 8MB QSPI, 0, 0, 0,U5, 8MB, QSPI, Flash, USON8_4X4, microbuilder, (0.3375, 0.6275), MR270|
+|ERROR, X2 USB Type, 0, 0, 0,X2, USB, Type, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.7055), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 10.502899999999999, 1.6129, M0,Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.4135, 0.0635), MR0|
 
 ## Tags
 
@@ -81,7 +126,46 @@ Contents
 - oompPart: ERROR, U5 8MB QSPI, 0, 0, 0
 - oompPart: ERROR, X2 USB Type, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 10.502899999999999, 1.6129, M0
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.523, 0.4705), R90
+- rawPart: C2, 1uF, 0603-NO, microbuilder, (0.536, 0.4805), MR180
+- rawPart: C7, 0.1uF, _0402NO, microbuilder, (0.24, 0.074), MR180
+- rawPart: C8, 10uF, 0805-NO, microbuilder, (0.343, 0.2775), R0
+- rawPart: C9, 0.1uF, _0402NO, microbuilder, (0.5385, 0.4085), MR90
+- rawPart: C10, 1uF, 0603-NO, microbuilder, (0.16880327, 0.0878034), MR270
+- rawPart: C11, 0.1uF, _0402NO, microbuilder, (0.2665, 0.467), MR270
+- rawPart: C12, 1uF, 0603-NO, microbuilder, (0.2115, 0.4815), MR90
+- rawPart: C13, 0.1uF, _0402NO, microbuilder, (0.2825, 0.5235), MR0
+- rawPart: C14, 0.1uF, _0402NO, microbuilder, (0.1555, 0.4625), MR90
+- rawPart: C16, 0.1uF, _0402NO, microbuilder, (0.4525, 0.3475), R90
+- rawPart: C17, 0.1uF, _0402NO, microbuilder, (0.551, 0.188), MR270
+- rawPart: C19, 22pF, _0402NO, microbuilder, (0.5075, 0.09), MR0
+- rawPart: C20, 22pF, _0402NO, microbuilder, (0.5075, 0.0375), MR0
+- rawPart: CONN1, STEMMA_I2C_QTSKINNY, JST_SH4_SKINNY, microbuilder, (0.276, 0.094), R0
+- rawPart: D1, NSR0320, SOD-323_MINI, microbuilder, (0.4615, 0.468), R90
+- rawPart: D2, NSR0320, SOD-323_MINI, microbuilder, (0.286, 0.757), MR180
+- rawPart: IC2, RP2040_QFN56, QFN56_7MM_REDUCEDEPAD, adafruit_micro, (0.36, 0.2755), MR0
+- rawPart: JP1, 1X07_CASTEL, microbuilder, (0.05, 0.4075), R270
+- rawPart: JP2, SJ_2S-NO, SparkFun, (0.52, 0.6725), MR0
+- rawPart: JP3, 1X07_CASTEL, microbuilder, (0.65, 0.4075), R90
+- rawPart: LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (0.5255, 0.252), R90
+- rawPart: R3, 10K, _0402NO, microbuilder, (0.2305, 0.6645), MR270
+- rawPart: R6, 1K, _0402NO, microbuilder, (0.3425, 0.06), MR90
+- rawPart: R9, 10K, _0402NO, microbuilder, (0.4525, 0.264), R270
+- rawPart: R12, 5.1K, _0402NO, microbuilder, (0.2185, 0.5085), R0
+- rawPart: R13, 5.1K, _0402NO, microbuilder, (0.4105, 0.4965), R90
+- rawPart: R14, 27, _0402NO, microbuilder, (0.3665, 0.4965), R270
+- rawPart: R15, 27, _0402NO, microbuilder, (0.2865, 0.4915), R270
+- rawPart: R16, 1K, _0402NO, microbuilder, (0.399, 0.761), MR0
+- rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.4925, 0.11), R90
+- rawPart: SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.203, 0.37), R90
+- rawPart: TP3, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.604, 0.04), MR0
+- rawPart: TP4, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (0.1315, 0.6815), MR0
+- rawPart: U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.098, 0.773), MR0
+- rawPart: U$8, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.7), R0
+- rawPart: U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.348, 0.381), R90
+- rawPart: U5, 8MB, QSPI, Flash, USON8_4X4, microbuilder, (0.3375, 0.6275), MR270
+- rawPart: X2, USB, Type, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.7055), R180
+- rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.4135, 0.0635), MR0
 
 
 

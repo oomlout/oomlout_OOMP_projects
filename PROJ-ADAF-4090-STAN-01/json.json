@@ -70,7 +70,35 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.5, 0.37), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.3, 0.495), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08_ROUND_76, microbuilder, (0.4, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 5.1K, 0603-NO, microbuilder, (0.08, 0.23), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 5.1K, 0603-NO, microbuilder, (0.08, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.4, 0.55), R180"
         },
         {
             "name": "oompID",

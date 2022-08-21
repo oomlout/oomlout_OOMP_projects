@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10730-STAN-01>LilyPad Coin Cell Battery Holder-20mm](#proj-spar-10730-stan-01lilypad-coin-cell-battery-holder-20mm)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|ERROR, BAT1 20mm coincell, 0, 0, 0,BAT1, 20mm, coincell, BATTCON_20MM_4LEGS_OVERPASTE, SparkFun-Electromechanical, (0, 0), R90|
+
 ## Tags
 
 - hexID: PRS10730
@@ -46,7 +54,11 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -8.762999999999998, -8.762999999999998, 313
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 8.762999999999998, 8.762999999999998, 133
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, -8.762999999999998, 8.762999999999998, 227
-- rawPart: 
+- rawPart: BAT1, 20mm, coincell, BATTCON_20MM_4LEGS_OVERPASTE, SparkFun-Electromechanical, (0, 0), R90
+- rawPart: U$1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, -0.345), R47
+- rawPart: U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, -0.345), R313
+- rawPart: U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, 0.345), R133
+- rawPart: U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, 0.345), R227
 
 
 

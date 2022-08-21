@@ -54,7 +54,19 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, HEADER1X4, boogie, (-0.15, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, HEADER1X4, boogie, (0.15, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, SO-8, SO-08NMW, boogie, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180"
         },
         {
             "name": "oompID",

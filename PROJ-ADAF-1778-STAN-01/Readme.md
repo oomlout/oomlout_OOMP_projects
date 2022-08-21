@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1778-STAN-01>Adafruit AD8495 Breakout PCB](#proj-adaf-1778-stan-01adafruit-ad8495-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-NF10-01, C2, 10.16, 2.794, 270,C2, 0.01uF, 0805-NO, microbuilder, (0.4, 0.11), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-NF10-01, C4, 9.906, 13.97, 270,C4, 0.01uF, 0805-NO, microbuilder, (0.39, 0.55), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 12.743999912, 3.376000106, 180,D1, TLVH431, SOT23-R, microbuilder, (0.50173228, 0.13291339), R180|
+|UNMATCHED-0805-X-UNMATCHED-01, FB1, 15.493999999999998, 12.191999999999998, 270,FB1, ferrite, 0805, microbuilder, (0.61, 0.48), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 7.874, 270,JP1, 1X04_ROUND, microbuilder, (0.7, 0.31), R270|
+|RESE-0805-X-UNMATCHED-01, R1, 9.143999999999998, 11.176, 0,R1, 100, 0805-NO, microbuilder, (0.36, 0.44), R0|
+|RESE-0805-X-UNMATCHED-01, R2, 9.143999999999998, 5.588, 0,R2, 100, 0805-NO, microbuilder, (0.36, 0.22), R0|
+|RESE-0805-X-O105-01, R3, 8.128, 2.794, 90,R3, 1M, 0805-NO, microbuilder, (0.32, 0.11), R90|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 8.382, 0,U1, AD8495ARMZ, MSOP8_0.65MM, microbuilder, (0.5, 0.33), R0|
+|ERROR, X1 3.5mm terminal, 0, 0, 0,X1, 3.5mm, terminal, TERMBLOCK_1X2-3.5MM, microbuilder, (0.13, 0.33), R270|
 
 ## Tags
 
@@ -58,7 +78,23 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$12, 2.54, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 8.382, 0
 - oompPart: ERROR, X1 3.5mm terminal, 0, 0, 0
-- rawPart: 
+- rawPart: C1, 0.1uF, 0805-NO, microbuilder, (0.47, 0.55), R270
+- rawPart: C2, 0.01uF, 0805-NO, microbuilder, (0.4, 0.11), R270
+- rawPart: C3, 0.1uF, 0805-NO, microbuilder, (0.355, 0.33), R270
+- rawPart: C4, 0.01uF, 0805-NO, microbuilder, (0.39, 0.55), R270
+- rawPart: D1, TLVH431, SOT23-R, microbuilder, (0.50173228, 0.13291339), R180
+- rawPart: FB1, ferrite, 0805, microbuilder, (0.61, 0.48), R270
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.72, 0.07), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.30795276, 0.52874016), R0
+- rawPart: JP1, 1X04_ROUND, microbuilder, (0.7, 0.31), R270
+- rawPart: R1, 100, 0805-NO, microbuilder, (0.36, 0.44), R0
+- rawPart: R2, 100, 0805-NO, microbuilder, (0.36, 0.22), R0
+- rawPart: R3, 1M, 0805-NO, microbuilder, (0.32, 0.11), R90
+- rawPart: R4, 1K, 0805-NO, microbuilder, (0.61102362, 0.13826772), R270
+- rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.55), R0
+- rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
+- rawPart: U1, AD8495ARMZ, MSOP8_0.65MM, microbuilder, (0.5, 0.33), R0
+- rawPart: X1, 3.5mm, terminal, TERMBLOCK_1X2-3.5MM, microbuilder, (0.13, 0.33), R270
 
 
 

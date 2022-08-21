@@ -37,6 +37,22 @@
             "value": "https://www.sparkfun.com/products/544"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 20.32, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 15.239999999999998, 2.54, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X07, SparkFun, (0.8, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, microSD, MICRO-SD-SOCKET-PP, SparkFun, (0.6, 0.1), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-544-STAN-01"
         },

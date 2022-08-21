@@ -37,6 +37,46 @@
             "value": "https://www.sparkfun.com/products/15035"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ATX_POWER_CONNECTOR, 17.145, 23.114, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.685, 11.684, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 9.524999999999999, 11.684, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 13.334999999999999, 3.6829999999999994, M180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 17.145, 1.5239999999999998, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "ATX_POWER_CONNECTOR, COMPUTER_PERIPHERAL_POWERRA-VT, COMPUTER-PERIPHERAL-POWER-RA-VT, SparkFun-Connectors, (0.675, 0.91), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.775, 0.46), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.375, 0.46), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 1X04, SparkFun-Connectors, (0.525, 0.145), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, 1X04_SMD_RA_MALE, SparkFun-Connectors, (0.675, 0.06), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15035-STAN-01"
         },

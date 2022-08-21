@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-3657-STAN-01>Adafruit SAMD09 Breakout PCB](#proj-adaf-3657-stan-01adafruit-samd09-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,27 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.35, 11.43, 90,D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.25, 0.45), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 4.699, 27.558999999999997, 0,D2, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.185, 1.085), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.35, 16.509999999999998, 315,IC1, ATSAMD09D14A-MU, QFN24_4MM, microbuilder, (0.25, 0.65), R315|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.43, 16.509999999999998, 270,JP1, 1X12_ROUND_76MIL, microbuilder, (0.45, 0.65), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 16.509999999999998, 270,JP3, 1X12_ROUND_76MIL, microbuilder, (0.05, 0.65), R270|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R4, 5.715, 6.223, 0,R4, 10k, 0603-NO, microbuilder, (0.225, 0.245), R0|
+|RESE-0603-X-UNMATCHED-01, R5, 5.715, 7.874, 0,R5, 10k, 0603-NO, microbuilder, (0.225, 0.31), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 6.35, 1.9049999999999998, 180,SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.25, 0.075), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.365999999999999, 27.94, 180,U1, AP2112K, SOT23-5, microbuilder, (0.29, 1.1), R180|
 
 ## Tags
 
@@ -58,7 +80,23 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 5.715, 7.874, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 6.35, 1.9049999999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.365999999999999, 27.94, 180
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.295, 0.98), R180
+- rawPart: C2, 0.1uF, 0603-NO, microbuilder, (0.3, 0.915), R180
+- rawPart: C4, 10uF, 0805-NO, microbuilder, (0.295, 1.225), R180
+- rawPart: D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.25, 0.45), R90
+- rawPart: D2, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.185, 1.085), R0
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.25, 0.05), R270
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.11, 1.26), R270
+- rawPart: IC1, ATSAMD09D14A-MU, QFN24_4MM, microbuilder, (0.25, 0.65), R315
+- rawPart: JP1, 1X12_ROUND_76MIL, microbuilder, (0.45, 0.65), R270
+- rawPart: JP3, 1X12_ROUND_76MIL, microbuilder, (0.05, 0.65), R270
+- rawPart: R1, 1K, 0603-NO, microbuilder, (0.19, 0.95), R90
+- rawPart: R2, 1K, 0603-NO, microbuilder, (0.215, 0.38), R180
+- rawPart: R3, 1K, 0603-NO, microbuilder, (0.185, 1.22), R90
+- rawPart: R4, 10k, 0603-NO, microbuilder, (0.225, 0.245), R0
+- rawPart: R5, 10k, 0603-NO, microbuilder, (0.225, 0.31), R0
+- rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.25, 0.075), R180
+- rawPart: U1, AP2112K, SOT23-5, microbuilder, (0.29, 1.1), R180
 
 
 

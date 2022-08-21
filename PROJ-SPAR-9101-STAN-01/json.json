@@ -37,6 +37,358 @@
             "value": "https://www.sparkfun.com/products/9101"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -21.479999965999998, 3.089999916, 351.8"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, -2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 15.239999999999998, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 15.239999999999998, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 12.7, 10.16, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 7.619999999999999, 12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 5.08, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 0.0, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, -5.08, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, -7.619999999999999, 12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, -12.7, 10.16, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, -15.239999999999998, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, -15.239999999999998, -7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP13, -12.7, -10.16, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP14, -7.619999999999999, -12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP15, -5.08, -15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP16, 0.0, -15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP17, 5.08, -15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP18, 7.619999999999999, -12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP19, 12.7, -10.16, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP20, 15.239999999999998, -7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP21, -15.239999999999998, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP22, -15.239999999999998, -2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 21.479999965999998, -3.089999916, 171.8"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$30, 21.479999965999998, 3.089999916, 188.2"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$31, 19.770000084, 9.039999953999999, 204.5"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$32, 16.399999966, 14.210000027999998, 220.9"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$33, 11.739999888, 18.260000056, 237.3"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$34, 6.109999972, 20.829999995999998, 253.7"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$35, -6.109999972, -20.829999995999998, 73.7"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$36, 0.0, -21.700000034, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$37, 6.109999972, -20.829999995999998, 106.3"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$38, 11.760000102, -18.280000016, 122.7"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$39, 16.399999966, -14.210000027999998, 139.1"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$40, 19.73999989, -9.019999993999999, 155.5"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$41, -16.399999966, -14.210000027999998, 40.9"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$42, -19.770000084, -9.029999973999999, 24.5"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$43, -19.770000084, 9.029999973999999, 335.5"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$44, -16.399999966, 14.210000027999998, 319.1"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$45, -11.729999908, 18.260000056, 302.7"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$46, -6.129999932, 20.889999875999997, 286.3"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$47, 0.0, 21.700000034, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$48, -11.739999888, -18.260000056, 57.3"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$51, -21.519999885999997, -3.099999896, 8.2"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84566929, 0.12165354), R351.8"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X01NS, SparkFun, (0.6, -0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X01NS, SparkFun, (0.6, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X01NS, SparkFun, (0.6, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X01NS, SparkFun, (0.5, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X01NS, SparkFun, (0.3, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X01NS, SparkFun, (0.2, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X01NS, SparkFun, (0, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X01NS, SparkFun, (-0.2, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, 1X01NS, SparkFun, (-0.3, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, 1X01NS, SparkFun, (-0.5, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, 1X01NS, SparkFun, (-0.6, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP12, 1X01NS, SparkFun, (-0.6, -0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP13, 1X01NS, SparkFun, (-0.5, -0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP14, 1X01NS, SparkFun, (-0.3, -0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP15, 1X01NS, SparkFun, (-0.2, -0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP16, 1X01NS, SparkFun, (0, -0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP17, 1X01NS, SparkFun, (0.2, -0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP18, 1X01NS, SparkFun, (0.3, -0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP19, 1X01NS, SparkFun, (0.5, -0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP20, 1X01NS, SparkFun, (0.6, -0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP21, 1X01NS, SparkFun, (-0.6, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP22, 1X01NS, SparkFun, (-0.6, -0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.84566929, -0.12165354), R171.8"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$30, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.84566929, 0.12165354), R188.2"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$31, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.77834646, 0.35590551), R204.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$32, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.64566929, 0.55944882), R220.9"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$33, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.46220472, 0.71889764), R237.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$34, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.24055118, 0.82007874), R253.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$35, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.24055118, -0.82007874), R73.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$36, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, -0.85433071), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$37, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.24055118, -0.82007874), R106.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$38, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.46299213, -0.71968504), R122.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$39, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.64566929, -0.55944882), R139.1"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$40, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.77716535, -0.35511811), R155.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$41, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.64566929, -0.55944882), R40.9"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$42, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.77834646, -0.35551181), R24.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$43, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.77834646, 0.35551181), R335.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$44, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.64566929, 0.55944882), R319.1"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$45, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.46181102, 0.71889764), R302.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$46, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.24133858, 0.82244094), R286.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$47, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 0.85433071), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$48, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.46220472, -0.71889764), R57.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$51, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84724409, -0.12204724), R8.2"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9101-STAN-01"
         },

@@ -37,6 +37,22 @@
             "value": "https://www.sparkfun.com/products/9540"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 38.099999999999994, 1.27, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, L298N, 20.32, 12.7, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, M15, 1X15, SparkFun, (1.5, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L298N, L298HEATSINK, MULTIWATT15_6400BGHEATSINK, SparkFun, (0.8, 0.5), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9540-STAN-01"
         },

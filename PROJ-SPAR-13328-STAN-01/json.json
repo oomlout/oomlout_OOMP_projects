@@ -37,6 +37,422 @@
             "value": "https://www.sparkfun.com/products/13328"
         },
         {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 38.018971967999995, 50.490375016, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.346178, 17.264887492, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 29.726128, 59.955428222, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 21.979128, 58.914028222, 285"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 14.790927999999997, 55.94222822199999, 300"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 8.618727999999999, 51.192428222, 315"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 3.868928, 45.020228222, 330"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J6, 0.9225279999999999, 37.832028222, 345"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, -0.11887199999999999, 30.110428222, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 0.9225279999999999, 22.363428222, 15"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J9, 3.868928, 15.175228222, 30"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J10, 8.618727999999999, 9.003028222, 45"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J11, 14.790927999999997, 4.253228222, 60"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J12, 21.725127999999998, 1.3068282219999998, 75"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J13, 37.447728, 58.914028222, 255"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J14, 44.635928, 55.94222822199999, 240"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J15, 50.808127999999996, 51.192428222, 225"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J16, 55.557928000000004, 45.020228222, 210"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J17, 58.529728, 37.832028222, 195"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J18, 59.571128, 30.110428222, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J19, 58.529728, 22.363428222, 165"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J20, 55.557928000000004, 15.175228222, 150"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J21, 50.808127999999996, 9.003028222, 135"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J22, 44.648627999999995, 4.253228222, 120"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J23, 37.447728, 1.3068282219999998, 105"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J24, 29.726128, 0.265428222, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 29.726128, 52.132240667999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 24.011128, 51.370228222, 285"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 18.702527999999997, 49.160428222, 300"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 14.130528, 45.680628222, 315"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.650728, 41.10862822199999, 330"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 8.440928, 35.800028222, 345"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 7.704327999999999, 30.110428222, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 8.440928, 24.395428222, 15"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 10.650728, 19.086828222, 30"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 14.130528, 14.537687459999999, 45"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 18.702527999999997, 11.035028222, 60"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, 24.011128, 8.825228222, 75"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP13, 35.415728, 51.370228222, 255"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP14, 40.724328, 49.160428222, 240"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP15, 45.296327999999995, 45.680628222, 225"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP16, 48.776128, 41.10862822199999, 210"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP17, 50.985927999999994, 35.800028222, 195"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP18, 51.747927999999995, 30.110428222, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP19, 50.985927999999994, 24.395428222, 165"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP20, 48.776128, 19.086828222, 150"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP21, 45.296327999999995, 14.514828221999998, 135"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP22, 40.724328, 11.035028222, 120"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP23, 35.415728, 8.825228222, 105"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP24, 29.726128, 8.088628221999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP25, 20.836128, 44.080428221999995, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP26, 38.616127999999996, 44.080428221999995, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.49680992, 1.98781004), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.48607, 0.67971998), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.17032, 2.36044993), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.86532, 2.31944993), R285"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.58232, 2.20244993), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.33932, 2.01544993), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "J5, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.15232, 1.77244993), R330"
+        },
+        {
+            "name": "rawPart",
+            "value": "J6, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.03632, 1.48944993), R345"
+        },
+        {
+            "name": "rawPart",
+            "value": "J7, PAD, PAD-LONG-2-SIDED, Photon_wearable, (-0.00468, 1.18544993), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J8, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.03632, 0.88044993), R15"
+        },
+        {
+            "name": "rawPart",
+            "value": "J9, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.15232, 0.59744993), R30"
+        },
+        {
+            "name": "rawPart",
+            "value": "J10, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.33932, 0.35444993), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "J11, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.58232, 0.16744993), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "J12, PAD, PAD-LONG-2-SIDED, Photon_wearable, (0.85532, 0.05144993), R75"
+        },
+        {
+            "name": "rawPart",
+            "value": "J13, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.47432, 2.31944993), R255"
+        },
+        {
+            "name": "rawPart",
+            "value": "J14, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.75732, 2.20244993), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "J15, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.00032, 2.01544993), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "J16, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.18732, 1.77244993), R210"
+        },
+        {
+            "name": "rawPart",
+            "value": "J17, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.30432, 1.48944993), R195"
+        },
+        {
+            "name": "rawPart",
+            "value": "J18, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.34532, 1.18544993), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J19, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.30432, 0.88044993), R165"
+        },
+        {
+            "name": "rawPart",
+            "value": "J20, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.18732, 0.59744993), R150"
+        },
+        {
+            "name": "rawPart",
+            "value": "J21, PAD, PAD-LONG-2-SIDED, Photon_wearable, (2.00032, 0.35444993), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "J22, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.75782, 0.16744993), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "J23, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.47432, 0.05144993), R105"
+        },
+        {
+            "name": "rawPart",
+            "value": "J24, PAD, PAD-LONG-2-SIDED, Photon_wearable, (1.17032, 0.01044993), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.17032, 2.05245042), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.94532, 2.02244993), R285"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.73632, 1.93544993), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.55632, 1.79844993), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.41932, 1.61844993), R330"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.33232, 1.40944993), R345"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.30332, 1.18544993), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.33232, 0.96044993), R15"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.41932, 0.75144993), R30"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.55632, 0.5723499), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.73632, 0.43444993), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP12, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.94532, 0.34744993), R75"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP13, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.39432, 2.02244993), R255"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP14, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.60332, 1.93544993), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP15, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.78332, 1.79844993), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP16, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.92032, 1.61844993), R210"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP17, M01SMDNS, 1X01NS, SparkFun-Connectors, (2.00732, 1.40944993), R195"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP18, M01SMDNS, 1X01NS, SparkFun-Connectors, (2.03732, 1.18544993), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP19, M01SMDNS, 1X01NS, SparkFun-Connectors, (2.00732, 0.96044993), R165"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP20, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.92032, 0.75144993), R150"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP21, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.78332, 0.57144993), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP22, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.60332, 0.43444993), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP23, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.39432, 0.34744993), R105"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP24, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.17032, 0.31844993), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP25, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (0.82032, 1.73544993), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP26, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (1.52032, 1.73544993), R270"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13328-STAN-01"
         },

@@ -86,7 +86,51 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0805, microbuilder, (0.21, 0.47712598), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.70598425, 0.62822835), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.1, 0.23), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.44893701, 0.68409449), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_ROUND_70, microbuilder, (0.45, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-THM, microbuilder, (0.84, 0.41), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RSHUNT, 0.1/1%, (PT2512FK-070R1L), 2512, microbuilder, (0.45, 0.45311024), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.8, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.72559055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.8, 0.72559055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, INA169, SOT23-5, microbuilder, (0.45, 0.29), R90"
         },
         {
             "name": "oompID",

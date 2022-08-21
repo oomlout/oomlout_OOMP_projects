@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-8464-STAN-01>LilyPad Light Sensor](#proj-spar-8464-stan-01lilypad-light-sensor)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-8464-STAN-01>LilyPad Light Sensor
@@ -20,6 +21,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT+, 6.499999954, -3.75000012, 60,LIGHT+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25590551, -0.1476378), R60|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT-, -6.489999974, -3.75000012, 300,LIGHT-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25551181, -0.1476378), R300|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHTS, 0.0, 7.499999985999999, 180,LIGHTS, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270,U1, TEMT6000, TEMT6000-SEN, SparkFun, (0, 0), R270|
+
 ## Tags
 
 - hexID: PRS8464
@@ -31,3 +43,13 @@ Contents
 - oompName: LilyPad Light Sensor
 - sources: All source files from https://github.com/sparkfun/LilyPad_Light_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8464
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT+, 6.499999954, -3.75000012, 60
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT-, -6.489999974, -3.75000012, 300
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHTS, 0.0, 7.499999985999999, 180
+- oompPart: RESE-0402-X-O103-01, R1, -2.54, 0.0, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270
+- rawPart: LIGHT+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25590551, -0.1476378), R60
+- rawPart: LIGHT-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25551181, -0.1476378), R300
+- rawPart: LIGHTS, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180
+- rawPart: R1, 10K, 0402-RES, SparkFun, (-0.1, 0), R90
+- rawPart: U1, TEMT6000, TEMT6000-SEN, SparkFun, (0, 0), R270

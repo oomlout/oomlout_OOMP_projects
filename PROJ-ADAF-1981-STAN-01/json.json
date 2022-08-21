@@ -86,7 +86,51 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C2, 10uF, 0805-NO, microbuilder, (115, 15), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-130, -5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (115, -185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0, -115), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0, 115), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, 115), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, 115), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, -115), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, -115), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, SI1145, SI114X, microbuilder, (0, 0), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -230), R180"
         },
         {
             "name": "oompID",

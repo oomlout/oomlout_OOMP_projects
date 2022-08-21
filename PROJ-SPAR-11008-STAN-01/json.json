@@ -58,7 +58,23 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "D1, SOD-323, SparkFun, (-0.205, -0.11), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "M1, MOTORSMD, VIBE-MOTOR-10MM-SMD, Testing, (0, 0.035), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 33, 0603-RES, SparkFun-Resistors, (0.21519685, -0.11153543), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "VIBE+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25590551, 0.1523622), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "VIBE-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25590551, 0.1476378), R240"
         },
         {
             "name": "oompID",

@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, C0805K, rcl, (-0.77, -0.46), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, C0805K, rcl, (-0.465, -0.425), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, C0805K, rcl, (0.82, -0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, C0805K, rcl, (-0.255, 0.26), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, 4050D, SO16, 40xx, (-0.25, -0.005), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, LP298XS, SOT23-5L, adafruit, (-0.615, -0.42), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 2N2222, SOT23-BEC, transistor, (-0.5, 0.435), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, MICROSD, MICROSD, adafruit, (0.455, -0.235), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 22, ohm, R0805, adafruit, (-0.295, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, R0805, adafruit, (-0.68, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, JD-T1800, JD-T1800, adafruit, (0, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, PINHD-1X10, 1X10-BIG, adafruit, (-1, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.8, -0.58), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.87, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.82, 0.6), R0"
         },
         {
             "name": "oompID",

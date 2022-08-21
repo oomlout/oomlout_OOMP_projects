@@ -37,6 +37,70 @@
             "value": "https://www.sparkfun.com/products/11512"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 24.13, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 5.08, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 2.54, 27.94, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.304, 3.0479999999999996, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R1, 7.619999999999999, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 15.239999999999998, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, .1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.35), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08, SparkFun-Connectors, (0.05, 0.95), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06, SparkFun-Connectors, (0.2, 1.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06, SparkFun-Connectors, (0.2, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 1.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.12), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, 74HC165D, SO16, SparkFun-DigitalIC, (0.45, 0.6), R270"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11512-STAN-01"
         },

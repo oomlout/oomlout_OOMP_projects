@@ -37,6 +37,270 @@
             "value": "https://www.sparkfun.com/products/11590"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$2, 37.317400092, 25.585600086, 300"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$3, 50.311200114, 25.587900056, 60"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$4, 50.308999965999995, 33.090499986, 120"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$5, 37.317499914, 33.088499989999995, 240"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$6, 43.815, 36.83, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$7, 43.811599956, 21.835000018, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3_LED+, 57.022999999999996, 36.957, 300"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3_LED-, 64.50199367799999, 41.275, 120"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 4_LED+, 43.815, 44.577, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 4_LED-, 43.815, 53.213, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5_LED+, 56.925471874, 21.734012412, 240"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5_LED-, 64.404468854, 17.416015714, 60"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 6_LED+, 43.815, 14.097000000000001, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 6_LED-, 43.815, 5.460999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1+, 7.112, 38.099999999999994, 223"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1-, 8.382, 18.034, 317"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2+, 27.178, 38.099999999999994, 137"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2-, 25.907999999999998, 18.034, 43"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 17.145, 26.796999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C1, 43.815, 34.416999999999994, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 69.85, 55.88, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 43.79500004, 10.491000099999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 60.038359476, 19.913693725999998, 240"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 60.155887562, 38.742681214, 300"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 43.83499996, 48.1829999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 43.79500004, 8.2050001, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R2, 62.018093642, 18.770696774, 60"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R3, 62.13561868, 39.885681214, 120"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R4, 43.83499996, 50.46899989999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R5, 43.815, 33.147, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 17.145, 41.148, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 43.815, 29.337, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$2, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.46918898, 1.00730709), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$3, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.98075591, 1.00739764), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$4, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.98066929, 1.30277559), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$5, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.46919291, 1.30269685), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$6, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.725, 1.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "1_U$7, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.72486614, 0.85964567), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "3_LED+, SEWTAP6, PETAL-SMALL, 3_LilyPad-Wearables, (2.245, 1.455), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "3_LED-, SEWTAP6, PETAL-SMALL, 3_LilyPad-Wearables, (2.53944857, 1.625), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "4_LED+, SEWTAP6, PETAL-SMALL, 4_LilyPad-Wearables, (1.725, 1.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "4_LED-, SEWTAP6, PETAL-SMALL, 4_LilyPad-Wearables, (1.725, 2.095), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "5_LED+, SEWTAP6, PETAL-SMALL, 5_LilyPad-Wearables, (2.24116031, 0.85566978), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "5_LED-, SEWTAP6, PETAL-SMALL, 5_LilyPad-Wearables, (2.53560901, 0.68566991), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "6_LED+, SEWTAP6, PETAL-SMALL, 6_LilyPad-Wearables, (1.725, 0.555), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "6_LED-, SEWTAP6, PETAL-SMALL, 6_LilyPad-Wearables, (1.725, 0.215), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "B1+, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (0.28, 1.5), R223"
+        },
+        {
+            "name": "rawPart",
+            "value": "B1-, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (0.33, 0.71), R317"
+        },
+        {
+            "name": "rawPart",
+            "value": "B2+, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (1.07, 1.5), R137"
+        },
+        {
+            "name": "rawPart",
+            "value": "B2-, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (1.02, 0.71), R43"
+        },
+        {
+            "name": "rawPart",
+            "value": "BAT1, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.675, 1.055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun-Capacitors, (1.725, 1.355), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (2.75, 2.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, White, LED-1206, SparkFun-LED, (1.7242126, 0.4130315), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, White, LED-1206, SparkFun-LED, (2.36371494, 0.78400369), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, White, LED-1206, SparkFun-LED, (2.36834203, 1.52530241), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, White, LED-1206, SparkFun-LED, (1.7257874, 1.8969685), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100, 0603-RES, 6_SparkFun, (1.7242126, 0.3230315), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100, 0603-RES, 5_SparkFun, (2.44165723, 0.73900381), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100, 0603-RES, 3_SparkFun, (2.4462842, 1.57030241), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 100, 0603-RES, 4_SparkFun, (1.7257874, 1.9869685), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10k, 0402-RES, SparkFun-Resistors, (1.725, 1.305), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, AYZ0202, SparkFun-Electromechanical, (0.675, 1.62), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATTINY85, SO08-EIAJ, SparkFun-DigitalIC, (1.725, 1.155), R270"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11590-STAN-01"
         },

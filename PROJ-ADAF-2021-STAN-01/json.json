@@ -154,7 +154,119 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.23, 0.47), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.23, 0.24), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.22uF, 0805-NO, microbuilder, (0.36, 0.535), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.48, 0.565), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323, microbuilder, (0.93, 0.28), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, 1N4148, SOD-323, microbuilder, (0.78, 0.28), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, 1N4148, SOD-323, microbuilder, (0.28, 0.685), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21, 0.635), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.095, 0.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.085, 0.755), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X05_ROUND_70, microbuilder, (0.65, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, PowerIO, 1X09_ROUND_70, microbuilder, (0.65, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.6, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.39, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.935, 0.63), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.71, 0.27), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (1.01, 0.63), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, _0805MP, microbuilder, (0.5, 0.27), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.23, 0.56), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0805-NO, microbuilder, (0.86, 0.26), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, 0805-NO, microbuilder, (1.01, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 10K, 0805-NO, microbuilder, (0.98, 0.47), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 10K, 0805-NO, microbuilder, (1.06, 0.47), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.2, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.2, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LSM9DS0TR, LGA24_4X4MM, microbuilder, (0.65, 0.465), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.23, 0.36), R270"
         },
         {
             "name": "oompID",

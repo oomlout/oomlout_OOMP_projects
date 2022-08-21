@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-259-STAN-01>Adafruit_MCP73833_PCB](#proj-adaf-259-stan-01adafruit_mcp73833_pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,34 @@ Contents
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 17.500000052, 30.253999943999997, 180,CN1, USB, USB-MINIB_LARGER, microbuilder, (0.68897638, 1.19110236), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN2, 24.511, 3.8099999999999996, 180,CN2, BATT_IN_JST, JSTPH2, microbuilder, (0.965, 0.15), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN3, 10.287, 3.8099999999999996, 180,CN3, LOAD_JST, JSTPH2, microbuilder, (0.405, 0.15), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 26.162, 31.75, 180,JP1, PWR_IN_0.1, 1X02_OVAL, microbuilder, (1.03, 1.25), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.000000002, 26.00000007, 0,JP2, FIDUCIAL1.5X3, FIDUCIAL-1X2.5, microbuilder, (0.31496063, 1.02362205), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 31.241999999999997, 23.368, 270,JP3, LOAD_0.1, 1X02_OVAL, microbuilder, (1.23, 0.92), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 32.000000008, 6.999999969999999, 0,JP4, FIDUCIAL1.5X3, FIDUCIAL-1X2.5, microbuilder, (1.25984252, 0.27559055), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 31.241999999999997, 13.208, 270,JP5, BATT_IN_0.1, 1X02_OVAL, microbuilder, (1.23, 0.52), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 31.241999999999997, 18.287999999999997, 270,JP6, STAT, 1X02_OVAL, microbuilder, (1.23, 0.72), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 18.796, 2.54, 0,LED1, STAT1-ORANGE, CHIPLED_0805, microbuilder, (0.74, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 16.256, 2.54, 0,LED2, STAT2-GREEN, CHIPLED_0805, microbuilder, (0.64, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 8.159999936, 32.654999968, 270,LED3, Power-RED, CHIPLED_0805, microbuilder, (0.32125984, 1.28562992), R270|
+|RESE-0805-X-UNMATCHED-01, R1, 18.796, 11.684, 270,R1, 150, 0805, microbuilder, (0.74, 0.46), R270|
+|RESE-0805-X-UNMATCHED-01, R2, 16.256, 11.684, 270,R2, 150, 0805, microbuilder, (0.64, 0.46), R270|
+|RESE-0805-X-UNMATCHED-01, R3, 8.159999936, 28.940000031999997, 180,R3, 150, 0805, microbuilder, (0.32125984, 1.13937008), R180|
+|RESE-0805-X-UNMATCHED-01, R4, 4.699, 17.525999999999996, 90,R4, PROG, 0805-THM, microbuilder, (0.185, 0.69), R90|
+|RESE-0805-X-UNMATCHED-01, R7, 2.1590000000000003, 17.525999999999996, 90,R7, 10K/THERM, 0805-THM, adafruit, (0.085, 0.69), R90|
+|UNMATCHED-0805-X-O102-01, RT1, 8.636000000000001, 16.509999999999998, 180,RT1, 1K, R0805, adafruit, (0.34, 0.65), R180|
+|UNMATCHED-0805-X-UNMATCHED-01, RT2, 8.636000000000001, 18.796, 180,RT2, 150K, R0805, adafruit, (0.34, 0.74), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.812000032, 20.859999935999998, 270,U1, MCP73833T-AMI/MF, DFN10_3X3MM, microbuilder, (0.81937008, 0.82125984), R270|
 
 ## Tags
 
@@ -62,7 +91,32 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$18, 3.000000096, 32.000000008, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$19, 3.000000096, 3.000000096, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.812000032, 20.859999935999998, 270
-- rawPart: 
+- rawPart: C1, 10uF, 0805, microbuilder, (1.00125984, 0.90062992), R90
+- rawPart: C2, 10uF, 0805, microbuilder, (0.62874016, 0.86937008), R270
+- rawPart: CN1, USB, USB-MINIB_LARGER, microbuilder, (0.68897638, 1.19110236), R180
+- rawPart: CN2, BATT_IN_JST, JSTPH2, microbuilder, (0.965, 0.15), R180
+- rawPart: CN3, LOAD_JST, JSTPH2, microbuilder, (0.405, 0.15), R180
+- rawPart: JP1, PWR_IN_0.1, 1X02_OVAL, microbuilder, (1.03, 1.25), R180
+- rawPart: JP2, FIDUCIAL1.5X3, FIDUCIAL-1X2.5, microbuilder, (0.31496063, 1.02362205), R0
+- rawPart: JP3, LOAD_0.1, 1X02_OVAL, microbuilder, (1.23, 0.92), R270
+- rawPart: JP4, FIDUCIAL1.5X3, FIDUCIAL-1X2.5, microbuilder, (1.25984252, 0.27559055), R0
+- rawPart: JP5, BATT_IN_0.1, 1X02_OVAL, microbuilder, (1.23, 0.52), R270
+- rawPart: JP6, STAT, 1X02_OVAL, microbuilder, (1.23, 0.72), R270
+- rawPart: LED1, STAT1-ORANGE, CHIPLED_0805, microbuilder, (0.74, 0.1), R0
+- rawPart: LED2, STAT2-GREEN, CHIPLED_0805, microbuilder, (0.64, 0.1), R0
+- rawPart: LED3, Power-RED, CHIPLED_0805, microbuilder, (0.32125984, 1.28562992), R270
+- rawPart: R1, 150, 0805, microbuilder, (0.74, 0.46), R270
+- rawPart: R2, 150, 0805, microbuilder, (0.64, 0.46), R270
+- rawPart: R3, 150, 0805, microbuilder, (0.32125984, 1.13937008), R180
+- rawPart: R4, PROG, 0805-THM, microbuilder, (0.185, 0.69), R90
+- rawPart: R7, 10K/THERM, 0805-THM, adafruit, (0.085, 0.69), R90
+- rawPart: RT1, 1K, R0805, adafruit, (0.34, 0.65), R180
+- rawPart: RT2, 150K, R0805, adafruit, (0.34, 0.74), R180
+- rawPart: U$11, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.25984252, 0.11811024), R0
+- rawPart: U$16, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.25984252, 1.25984252), R0
+- rawPart: U$18, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 1.25984252), R0
+- rawPart: U$19, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 0.11811024), R0
+- rawPart: U1, MCP73833T-AMI/MF, DFN10_3X3MM, microbuilder, (0.81937008, 0.82125984), R270
 
 
 

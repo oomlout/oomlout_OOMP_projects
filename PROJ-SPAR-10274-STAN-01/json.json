@@ -190,7 +190,155 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A2/16, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.77834646, 0.35590551), R204.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "A3/17, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.46220472, 0.71889764), R237.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "A4/18, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 0.85433071), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "A5/19, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.46724409, 0.71795276), R302.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (0.27559055, 0.07874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 47uF, EIA3528, SparkFun, (0.39370079, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1.0uF, 0402-CAP, SparkFun, (-0.27559055, 0.07874016), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0402-CAP, SparkFun, (0.35433071, 0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 4.7uF, 0402-CAP, SparkFun, (-0.56692913, -0.27559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 4.7uF, 0402-CAP, SparkFun, (-0.61417323, -0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, Status, LED-0603, SparkFun, (0.39370079, -0.15748031), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D4, Yellow, LED-0603, SparkFun, (-0.28346457, -0.27165354), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, LiPo, JST-2-SMD, SparkFun, (-0.5511811, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06-SMD, SparkFun, (0, 0.47244094), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "PP-MISO, PAD.03X.05, SparkFun, (0.19685039, -0.19685039), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "PP-RST, PAD.03X.05, SparkFun, (-0.43307087, 0.35433071), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "PP-SCK, PAD.03X.05, SparkFun, (0.27559055, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 330, 0402-RES, SparkFun, (0.27559055, -0.07874016), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10k, 0402-RES, SparkFun, (-0.37795276, -0.27559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0402-RES, SparkFun, (0.43307087, 0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 330, 0402-RES, SparkFun, (-0.33070866, -0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "S2, On/Off, AYZ0202, SparkFun, (0, -0.34251969), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S3, Reset, TACTILE_SWITCH_SMD, SparkFun, (-0.43307087, 0.35433071), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP-DTR, PAD.03X.05, SparkFun, (0.2519685, 0.37401575), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP-FTDI_VCC, PAD.03X.05, SparkFun, (-0.051, 0.374), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP-RX, PAD.03X.05, SparkFun, (0.0511811, 0.37401575), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP-TX, PAD.03X.05, SparkFun, (0.1496063, 0.37401575), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP-VBATT, PAD.03X.05, SparkFun, (-0.525, -0.001), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.84566929, -0.12165354), R171.8"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$35, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.24055118, -0.82007874), R73.7"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$37, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.24055118, -0.82007874), R106.3"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$39, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.64566929, -0.55944882), R139.1"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$41, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.64566929, -0.55944882), R40.9"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$43, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.77834646, 0.35551181), R335.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$45, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84181102, -0.12110236), R8.2"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATMEGA328, TQFP32-08, SparkFun, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MCP73831, SOT23-5, SparkFun, (-0.47244094, -0.27559055), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, 8MHz, RESONATOR-SMD, SparkFun, (-0.27165354, -0.07874016), R270"
         },
         {
             "name": "oompID",

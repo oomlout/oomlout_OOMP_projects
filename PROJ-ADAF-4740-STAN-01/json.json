@@ -106,7 +106,71 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "D1, 1N4148, SOD-323, microbuilder, (1.315, 0.475), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, BLUE, CHIPLED_0603, microbuilder, (1.95, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, BLUE, CHIPLED_0603, microbuilder, (0.05, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.06, 0.22), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.95, 0.69), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MIDIIN, DIN_5, CP-2350, microbuilder, (1.42, 0.675), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "MIDIOUT, DIN_5, CP-2350, microbuilder, (0.58, 0.675), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING_NODIM, FEATHERWING_NODIM, microbuilder, (2, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "OK2, H11L1MS, DIL6-SMD, optocoupler, (1, 0.565), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 33, 0603-NO, microbuilder, (0.62, 0.47), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 220, 0603-NO, microbuilder, (1.525, 0.475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 470, 0603-NO, microbuilder, (0.745, 0.47), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10, 0603-NO, microbuilder, (0.24, 0.175), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 2.2K, 0603-NO, microbuilder, (1.95, 0.33), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 2.2K, 0603-NO, microbuilder, (0.05, 0.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, 3.5mm, STX3100, microbuilder, (1.42, 0.675), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, 3.5mm, STX3100, microbuilder, (0.58, 0.675), MR270"
         },
         {
             "name": "oompID",

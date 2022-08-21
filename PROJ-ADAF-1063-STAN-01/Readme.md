@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1063-STAN-01>Adafruit MAX4466 Electret Mic Amplifier PCBs](#proj-adaf-1063-stan-01adafruit-max4466-electret-mic-amplifier-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,28 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-NF10-01, C2, 2.54, 13.97, 180,C2, 0.01uF, 0805, microbuilder, (0.1, 0.55), R180|
+|CAPE-0805-X-PF100-01, C3, 12.572999999999999, 5.715, 90,C3, 100pF, 0805, microbuilder, (0.495, 0.225), R90|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-0805-X-UNMATCHED-01, FB1, 3.556, 5.715, 90,FB1, FERRITE, 0805, microbuilder, (0.14, 0.225), R90|
+|UNMATCHED-0805-X-UNMATCHED-01, FB2, 1.5239999999999998, 5.715, 270,FB2, FERRITE, 0805, microbuilder, (0.06, 0.225), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.112, 1.5239999999999998, 0,JP1, 1X03_ROUND_76, microbuilder, (0.28, 0.06), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.985, 14.097000000000001, M0,Q1, CMA-4544PF-W, ELECTRET_9.7, microbuilder, (0.275, 0.555), MR0|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-O105-01, R3, 3.556, 10.668, 90,R3, 1M, 0805, microbuilder, (0.14, 0.42), R90|
+|RESE-0805-X-O105-01, R4, 1.5239999999999998, 10.668, 270,R4, 1M, 0805, microbuilder, (0.06, 0.42), R270|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O223-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O223-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O223-01<br>SMD (0805) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O223-01/)</td><td>[R85223](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O223-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 270,U1, MAX4466EXK+T, SC70-5, microbuilder, (0.3, 0.35), R270|
+|ERROR, VR1 TC33X-2-104E (100K), 0, 0, 0,VR1, TC33X-2-104E, (100K), TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.365, 0.215), R270|
 
 ## Tags
 
@@ -61,7 +84,26 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$14, 11.811, 19.304, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 270
 - oompPart: ERROR, VR1 TC33X-2-104E (100K), 0, 0, 0
-- rawPart: 
+- rawPart: C1, 0.1uF, 0805, microbuilder, (0.28, 0.45), R180
+- rawPart: C2, 0.01uF, 0805, microbuilder, (0.1, 0.55), R180
+- rawPart: C3, 100pF, 0805, microbuilder, (0.495, 0.225), R90
+- rawPart: C4, 10uF, 0805, microbuilder, (0.455, 0.435), R180
+- rawPart: FB1, FERRITE, 0805, microbuilder, (0.14, 0.225), R90
+- rawPart: FB2, FERRITE, 0805, microbuilder, (0.06, 0.225), R270
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.49, 0.095), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.065, 0.64), R0
+- rawPart: JP1, 1X03_ROUND_76, microbuilder, (0.28, 0.06), R0
+- rawPart: Q1, CMA-4544PF-W, ELECTRET_9.7, microbuilder, (0.275, 0.555), MR0
+- rawPart: R1, 1K, 0805, microbuilder, (0.28, 0.54), R0
+- rawPart: R2, 1K, 0805, microbuilder, (0.42, 0.555), R270
+- rawPart: R3, 1M, 0805, microbuilder, (0.14, 0.42), R90
+- rawPart: R4, 1M, 0805, microbuilder, (0.06, 0.42), R270
+- rawPart: R5, 1K, 0805, microbuilder, (0.455, 0.35), R180
+- rawPart: R7, 22K, 0805, microbuilder, (0.22, 0.225), R270
+- rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.085, 0.76), R0
+- rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.465, 0.76), R0
+- rawPart: U1, MAX4466EXK+T, SC70-5, microbuilder, (0.3, 0.35), R270
+- rawPart: VR1, TC33X-2-104E, (100K), TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.365, 0.215), R270
 
 
 

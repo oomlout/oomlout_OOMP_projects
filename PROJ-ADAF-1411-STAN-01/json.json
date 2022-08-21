@@ -214,7 +214,179 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805, microbuilder, (1.0725, 1.02812992), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1000uF+, 6.3V, E3,5-10, adafruit, (0.695, 1.055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.57940945, 0.16874016), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.25996063, 2.04393701), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55, 0.28), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, TERMBLOCK_1X2-3.5MM, 1X2-3.5MM, microbuilder, (0.145, 1.015), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 3X04, microbuilder, (1.1, 0.505), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 3X04, microbuilder, (0.6, 0.505), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X08-CLEANBIG, adafruit, (1.45, 0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08-CLEANBIG, adafruit, (2.15, 1.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 3X04, microbuilder, (2.2, 0.505), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 3X04, microbuilder, (1.7, 0.505), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X10_ROUND70, microbuilder, (1.19, 1.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X06-CLEANBIG, adafruit, (2.25, 0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, RED, CHIPLED_0805, microbuilder, (0.11, 0.64), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, GREEN, CHIPLED_0805, microbuilder, (0.11, 0.48), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, IRLML6401, SOT23-WIDE, microbuilder, (0.44948819, 0.93744094), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, RESPACK_4X0603, microbuilder, (1.865, 0.97), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, RESPACK_4X0603, microbuilder, (2.03, 0.97), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805, microbuilder, (0.505, 1.885), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805, microbuilder, (0.505, 1.81), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 470, 0805, microbuilder, (0.23, 0.48), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0805, microbuilder, (1.6475, 0.995), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 470, 0805, microbuilder, (0.23, 0.64), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 220, RESPACK_4X0603, microbuilder, (1.09, 0.775), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 220, RESPACK_4X0603, microbuilder, (2.195, 0.785), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 220, RESPACK_4X0603, microbuilder, (0.59, 0.785), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 220, RESPACK_4X0603, microbuilder, (1.69, 0.77), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.885, 0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (2.17, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (2.07, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A2, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.97, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A3, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.87, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A4, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.77, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A5, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.67, 1.16874016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, SPST_TACT-EVQQ2, EVQ-Q2, adafruit, (0.24, 0.185), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TESTPOINT_ROUND_2MM, microbuilder, (2.17, 1.165), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TESTPOINT_ROUND_2MM, microbuilder, (2.07, 1.165), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TESTPOINT_ROUND_2MM, microbuilder, (1.97, 1.165), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TESTPOINT_ROUND_2MM, microbuilder, (1.87, 1.165), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP5, TESTPOINT_ROUND_2MM, microbuilder, (1.77, 1.165), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP6, TESTPOINT_ROUND_2MM, microbuilder, (1.67, 1.165), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$44, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, PCA9685, TSSOP28, microbuilder, (1.365, 0.93), R270"
         },
         {
             "name": "oompID",

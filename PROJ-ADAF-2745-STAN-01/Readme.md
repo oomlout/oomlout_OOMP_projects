@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2745-STAN-01>Adafruit LM3671 Buck Converter PCB](#proj-adaf-2745-stan-01adafruit-lm3671-buck-converter-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,18 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 9.143999999999998, 180,C1, 22uF, 0805-NO, microbuilder, (0.12, 0.36), R180|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180,JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 1.9049999999999998, 6.604, 90,L1, 2.2uH/NRH2412T2R2MNGH, INDUCTOR_TAIYOYUDEN_NRH2412T, microbuilder, (0.075, 0.26), R90|
+|RESE-0805-X-O104-01, R1, 8.254999999999999, 9.906, 180,R1, 100K, 0805-NO, microbuilder, (0.325, 0.39), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.460999999999999, 6.604, 90,U1, LM3671MF-3.3/NOPB, SOT23-5, microbuilder, (0.215, 0.26), R90|
+
 ## Tags
 
 - hexID: PRA2745
@@ -49,7 +62,14 @@ Contents
 - oompPart: RESE-0805-X-O104-01, R1, 8.254999999999999, 9.906, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 5.08, 12.7, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.460999999999999, 6.604, 90
-- rawPart: 
+- rawPart: C1, 22uF, 0805-NO, microbuilder, (0.12, 0.36), R180
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.335, 0.24), R90
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.06, 0.5), R0
+- rawPart: JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180
+- rawPart: L1, 2.2uH/NRH2412T2R2MNGH, INDUCTOR_TAIYOYUDEN_NRH2412T, microbuilder, (0.075, 0.26), R90
+- rawPart: R1, 100K, 0805-NO, microbuilder, (0.325, 0.39), R180
+- rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.5), R0
+- rawPart: U1, LM3671MF-3.3/NOPB, SOT23-5, microbuilder, (0.215, 0.26), R90
 
 
 

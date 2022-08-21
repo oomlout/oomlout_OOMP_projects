@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-ADAF-14-STAN-01>Adafruit_MintyBoost_PCB](#proj-adaf-14-stan-01adafruit_mintyboost_pcb)
 	* [Images](#images)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,6 +25,27 @@ Contents
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
 |[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, +, 1.9049999999999998, 1.778, 0,+, 1X01, pinhead-ez, (0.075, 0.07), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, -, 31.267400000000002, 1.8541999999999998, 0,-, 1X01, pinhead-ez, (1.231, 0.073), R0|
+|CAPC-UNMATCHED-X-NF100-V50, C1, 5.8166, 1.3716, 0,C1, 0.1uF, C025-025X050, adafruit, (0.229, 0.054), R0|
+|CAPC-UNMATCHED-X-NF100-V50, C2, 10.540999999999999, 1.397, 180,C2, 0.1uF, C025-025X050, adafruit, (0.415, 0.055), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 5.9436, 12.9286, 180,C3, 220uF, E2,5-5, adafruit, (0.234, 0.509), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 29.616399999999995, 5.5626, 270,C4, 220uF, E2,5-5, adafruit, (1.166, 0.219), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 25.450799999999997, 5.8928, 270,D1, 1N5817, DO41-7, adafruit, (1.002, 0.232), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 18.5674, 5.6133999999999995, 90,IC1, LT1302, DIL08, adafruit, (0.731, 0.221), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 9.610600031999999, 6.965199938, 270,L1, L, 6000, adafruit, (0.37837008, 0.27422047), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R1, 4.571999999999999, 6.731, 90,R1, 49.9K, 0204/5, adafruit, (0.18, 0.265), R90|
+|RESE-UNMATCHED-X-UNMATCHED-01, R2, 2.050899886, 7.596599996, 270,R2, 75K, 0204/5, adafruit, (0.08074409, 0.29907874), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R3, 29.197599973999996, 10.528599973999999, 145,R3, 49.9K, 0204/5, adafruit, (1.14951181, 0.41451181), R145|
+|RESE-UNMATCHED-X-UNMATCHED-01, R4, 28.598500079999997, 13.277399912, 140,R4, 75K, 0204/5, adafruit, (1.1259252, 0.52273228), R140|
+|RESE-UNMATCHED-X-UNMATCHED-01, R5, 18.668999999999997, 5.588, 90,R5, 3.3k, 0204/5, adafruit, (0.735, 0.22), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 16.586199999999998, 15.4432, 180,X1, PN87520, con-berg, (0.653, 0.608), R180|
 
 ## Tags
 
@@ -51,7 +73,21 @@ Contents
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 28.598500079999997, 13.277399912, 140
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R5, 18.668999999999997, 5.588, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 16.586199999999998, 15.4432, 180
-- rawPart: 
+- rawPart: +, 1X01, pinhead-ez, (0.075, 0.07), R0
+- rawPart: -, 1X01, pinhead-ez, (1.231, 0.073), R0
+- rawPart: C1, 0.1uF, C025-025X050, adafruit, (0.229, 0.054), R0
+- rawPart: C2, 0.1uF, C025-025X050, adafruit, (0.415, 0.055), R180
+- rawPart: C3, 220uF, E2,5-5, adafruit, (0.234, 0.509), R180
+- rawPart: C4, 220uF, E2,5-5, adafruit, (1.166, 0.219), R270
+- rawPart: D1, 1N5817, DO41-7, adafruit, (1.002, 0.232), R270
+- rawPart: IC1, LT1302, DIL08, adafruit, (0.731, 0.221), R90
+- rawPart: L1, L, 6000, adafruit, (0.37837008, 0.27422047), R270
+- rawPart: R1, 49.9K, 0204/5, adafruit, (0.18, 0.265), R90
+- rawPart: R2, 75K, 0204/5, adafruit, (0.08074409, 0.29907874), R270
+- rawPart: R3, 49.9K, 0204/5, adafruit, (1.14951181, 0.41451181), R145
+- rawPart: R4, 75K, 0204/5, adafruit, (1.1259252, 0.52273228), R140
+- rawPart: R5, 3.3k, 0204/5, adafruit, (0.735, 0.22), R90
+- rawPart: X1, PN87520, con-berg, (0.653, 0.608), R180
 
 
 

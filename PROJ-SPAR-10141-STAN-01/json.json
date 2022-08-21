@@ -50,7 +50,15 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, M01PTH, 1X01, SparkFun, (0.3, 0.4), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06, SparkFun, (0.55, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LS20126, LS20126, SparkFun, (0.3, 0.25), R0"
         },
         {
             "name": "oompID",

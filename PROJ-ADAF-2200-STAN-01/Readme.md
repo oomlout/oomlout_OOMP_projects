@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2200-STAN-01>Adafruit LM4040 Voltage Reference PCB](#proj-adaf-2200-stan-01adafruit-lm4040-voltage-reference-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.8099999999999996, 9.143999999999998, 0,D1, LM4040AIM3-2.0/NOPB, SOT23-R, microbuilder, (0.15, 0.36), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 9.143999999999998, 0,D2, LM4040AIM3-4.1/NOPB, SOT23-R, microbuilder, (0.35, 0.36), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 2.54, 0,JP1, 1X04_ROUND, microbuilder, (0.25, 0.1), R0|
+|RESE-0805-X-UNMATCHED-01, R1, 3.8099999999999996, 11.937999999999999, 180,R1, 750, 0805-NO, microbuilder, (0.15, 0.47), R180|
+|RESE-0805-X-UNMATCHED-01, R2, 8.889999999999999, 11.937999999999999, 180,R2, 750, 0805-NO, microbuilder, (0.35, 0.47), R180|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+
 ## Tags
 
 - hexID: PRA2200
@@ -50,7 +64,15 @@ Contents
 - oompPart: RESE-0805-X-UNMATCHED-01, R2, 8.889999999999999, 11.937999999999999, 180
 - oompPart: RESE-0805-X-O103-01, R3, 3.8099999999999996, 6.35, 180
 - oompPart: RESE-0805-X-O103-01, R4, 8.889999999999999, 6.35, 180
-- rawPart: 
+- rawPart: D1, LM4040AIM3-2.0/NOPB, SOT23-R, microbuilder, (0.15, 0.36), R0
+- rawPart: D2, LM4040AIM3-4.1/NOPB, SOT23-R, microbuilder, (0.35, 0.36), R0
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.05, 0.6), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.45, 0.17), R0
+- rawPart: JP1, 1X04_ROUND, microbuilder, (0.25, 0.1), R0
+- rawPart: R1, 750, 0805-NO, microbuilder, (0.15, 0.47), R180
+- rawPart: R2, 750, 0805-NO, microbuilder, (0.35, 0.47), R180
+- rawPart: R3, 10K, 0805-NO, microbuilder, (0.15, 0.25), R180
+- rawPart: R4, 10K, 0805-NO, microbuilder, (0.35, 0.25), R180
 
 
 

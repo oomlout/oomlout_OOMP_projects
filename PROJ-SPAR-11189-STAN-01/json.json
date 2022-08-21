@@ -37,6 +37,78 @@
             "value": "https://www.sparkfun.com/products/11189"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C2, 13.334999999999999, 12.7, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 20.45461873, 9.387840507999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C4, 9.906, 12.7, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C5, 20.452081269999997, 5.669278221999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 5.08, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 20.32, 12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 24.13, 1.27, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 7.619999999999999, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.67, 0.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, .1uF, 0603-CAP, SparkFun-Capacitors, (0.525, 0.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, .1uF, 0603-CAP, SparkFun-Capacitors, (0.80529995, 0.36960002), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, .1uF, 0603-CAP, SparkFun-Capacitors, (0.39, 0.5), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, .1uF, 0603-CAP, SparkFun-Capacitors, (0.80520005, 0.22319993), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.15, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.8, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, M10, 1X10, SparkFun-Connectors, (0.95, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, MAX3232, SO016, SparkFun-DigitalIC, (0.5, 0.3), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11189-STAN-01"
         },

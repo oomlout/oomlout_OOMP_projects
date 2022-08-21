@@ -86,7 +86,51 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0603-CAP, SparkFun, (0.05, 0.365), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-CAP, SparkFun, (0.45, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10nF, 0603-CAP, SparkFun, (0.555, 0.165), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0603-CAP, SparkFun, (0.555, 0.38), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2nF, 0603-CAP, SparkFun, (0.3, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06, SparkFun, (0.05, 0.05), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.115), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 4.7K, 0603-RES, SparkFun, (0.3, 0.485), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 4.7k, 0603-RES, SparkFun, (0.15, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ADXL3451:1, LGA14, Testing, (0.15, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, ITG-32001:1, QFN-24_ITG3200_1:1, Testing, (0.4, 0.25), R90"
         },
         {
             "name": "oompID",

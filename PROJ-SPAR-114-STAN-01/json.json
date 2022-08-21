@@ -37,6 +37,158 @@
             "value": "https://www.sparkfun.com/products/114"
         },
         {
+            "name": "oompPart",
+            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 19.049999999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C2, 27.94, 15.239999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-NF100-V50, C3, 29.209999999999997, 22.86, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 5.08, 13.97, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 16.509999999999998, -3.0479999999999996, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 29.209999999999997, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 26.669999999999998, 29.209999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 15.239999999999998, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 3.8099999999999996, 26.669999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 16.509999999999998, 19.049999999999997, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 16.509999999999998, 16.509999999999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O331-01, R3, 16.509999999999998, 13.97, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-O331-01, R4, 10.16, 17.779999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 5.08, 6.35, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 26.669999999999998, 6.35, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 16.509999999999998, 22.86, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 100uF, CPOL-RADIAL-100UF-25V, SparkFun, (0.15, 0.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, CPOL-RADIAL-10UF-25V, SparkFun, (1.1, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.15, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4001, DIODE-0.4, SparkFun, (0.35, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "F1, 500mA, PTC, SparkFun, (0.2, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, POWER_JACKPTH, POWER_JACK_PTH, SparkFun, (0.65, -0.12), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X01, SparkFun, (0.65, 1.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X01, SparkFun, (0.75, 1.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X01, SparkFun, (1.15, 1.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X01, SparkFun, (1.05, 1.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X02, SparkFun, (0.6, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, Power, LED5MM, SparkFun-Nate, (0.15, 1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 240, AXIAL-0.3, SparkFun, (0.65, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 390, AXIAL-0.3, SparkFun, (0.65, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 330, AXIAL-0.3, SparkFun, (0.65, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 330, AXIAL-0.3, SparkFun, (0.4, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, On/Off, SWITCH-SPST, SparkFun, (0.2, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S2, Voltage, SWITCH-SPST, SparkFun, (1.05, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LM317, TO220-ADJ, SparkFun, (0.65, 0.9), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-114-STAN-01"
         },

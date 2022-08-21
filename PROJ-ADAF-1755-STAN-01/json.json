@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "LED1, 1206, adafruit, (0, -0.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, R0603, adafruit, (0, 0.04), R180"
         },
         {
             "name": "oompID",

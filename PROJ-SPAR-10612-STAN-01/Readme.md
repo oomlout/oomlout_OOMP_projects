@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10612-STAN-01>Tri-Axis Gyro Breakout-L3G4200D](#proj-spar-10612-stan-01tri-axis-gyro-breakout-l3g4200d)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-0402-X-NF100-V50, C1, 6.35, 7.619999999999999, 90,C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 0.3), R90|
+|CAPC-UNMATCHED-X-UF10-V25, C2, 10.16, 12.7, 180,C2, 10uF, 1206, SparkFun, (0.4, 0.5), R180|
+|CAPC-0402-X-UNMATCHED-01, C3, 5.08, 10.16, 90,C3, 10nF, 0402-CAP, SparkFun, (0.2, 0.4), R90|
+|CAPE-0402-X-UNMATCHED-01, C4, 6.35, 10.16, 90,C4, 470nF, 0402-CAP, SparkFun, (0.25, 0.4), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0,JP1, OUTPUT, 1X08, SparkFun, (0.05, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.016, 6.858, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.04, 0.27), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 15.239999999999998, 12.7, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.6, 0.5), R0|
+|RESE-0402-X-UNMATCHED-01, R1, 6.35, 12.7, 270,R1, 10k, 0402-RES, SparkFun, (0.25, 0.5), R270|
+|RESE-0402-X-UNMATCHED-01, R2, 3.8099999999999996, 7.619999999999999, 270,R2, 10k, 0402-RES, SparkFun, (0.15, 0.3), R270|
+|RESE-0402-X-UNMATCHED-01, R3, 2.54, 7.619999999999999, 270,R3, 10k, 0402-RES, SparkFun, (0.1, 0.3), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 6.35, 8.889999999999999, M0,SJ1, I2C-Add, SJ_3, SparkFun, (0.25, 0.35), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 13.97, 8.889999999999999, M0,SJ2, I2C-Mode, SJ_2S-NO, SparkFun, (0.55, 0.35), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 8.889999999999999, 90,U1, L3G4200D, LGA16-4X4, SparkFun, (0.4, 0.35), R90|
 
 ## Tags
 
@@ -54,7 +74,19 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 6.35, 8.889999999999999, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 13.97, 8.889999999999999, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 8.889999999999999, 90
-- rawPart: 
+- rawPart: C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 0.3), R90
+- rawPart: C2, 10uF, 1206, SparkFun, (0.4, 0.5), R180
+- rawPart: C3, 10nF, 0402-CAP, SparkFun, (0.2, 0.4), R90
+- rawPart: C4, 470nF, 0402-CAP, SparkFun, (0.25, 0.4), R90
+- rawPart: JP1, OUTPUT, 1X08, SparkFun, (0.05, 0.05), R0
+- rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.04, 0.27), R0
+- rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.6, 0.5), R0
+- rawPart: R1, 10k, 0402-RES, SparkFun, (0.25, 0.5), R270
+- rawPart: R2, 10k, 0402-RES, SparkFun, (0.15, 0.3), R270
+- rawPart: R3, 10k, 0402-RES, SparkFun, (0.1, 0.3), R270
+- rawPart: SJ1, I2C-Add, SJ_3, SparkFun, (0.25, 0.35), MR0
+- rawPart: SJ2, I2C-Mode, SJ_2S-NO, SparkFun, (0.55, 0.35), MR0
+- rawPart: U1, L3G4200D, LGA16-4X4, SparkFun, (0.4, 0.35), R90
 
 
 

@@ -66,7 +66,31 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, PI, RASBERRYPI_IDC, microbuilder, (0, 1.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, Right, 1X13_ROUND_70, microbuilder, (0.2, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, Left, 1X13_ROUND_70, microbuilder, (-0.2, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.2, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, -0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.2, -0.75), R0"
         },
         {
             "name": "oompID",

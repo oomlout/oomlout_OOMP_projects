@@ -138,7 +138,103 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, C0805K, rcl, (-0.155, 0.08), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.26, 0.66), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, AT42QT1070-SSU, SO14, adafruit, (-0.005, 0.365), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06-CLEANBIG, adafruit, (0.415, 0.335), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06-CLEANBIG, adafruit, (-0.385, 0.335), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, CHIP-LED0805, led, (0.26, 0.185), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, CHIP-LED0805, led, (0.26, 0.285), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, CHIP-LED0805, led, (0.26, 0.385), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, CHIP-LED0805, led, (0.26, 0.485), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED5, CHIP-LED0805, led, (0.26, 0.585), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, R0805, rcl, (-0.25, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, R0805, rcl, (-0.25, 0.285), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, R0805, rcl, (-0.25, 0.385), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, R0805, rcl, (-0.25, 0.48), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, R0805, rcl, (-0.25, 0.585), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 470, R0805, rcl, (0.19, 0.085), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 470, R0805, rcl, (0.07, 0.11), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 470, R0805, rcl, (-0.03, 0.11), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 470, R0805, rcl, (-0.05, 0.585), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 470, R0805, rcl, (0.11, 0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.335, 0.74), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, 0.74), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.335, -0.06), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, -0.06), R0"
         },
         {
             "name": "oompID",

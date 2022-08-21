@@ -118,7 +118,83 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF/16V, 0805, microbuilder, (0.8, 0.61), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF/50V, 0805, microbuilder, (0.8, 0.29), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 220uF+, E2,5-7, adafruit, (0.8, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.8, 0.385), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, TLC59711, HTSSOP20DAP, adafruit, (0.545, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, OUTPUT, 1X05_ROUND_70, microbuilder, (1.05, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, INPUT, 1X05_ROUND_70, microbuilder, (0.05, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, Green, CHIP-LED0805, adafruit, (0.35, 0.55), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 470, 0805, microbuilder, (0.35, 0.395), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 3.3K, 0805-THM-7, adafruit, (0.25, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.795), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.095), R0"
         },
         {
             "name": "oompID",

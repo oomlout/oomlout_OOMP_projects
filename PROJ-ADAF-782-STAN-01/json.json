@@ -142,7 +142,107 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.76051181, 0.8430315), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 18pF, 0805-NO, microbuilder, (0.64259843, 0.31110236), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 18pF, 0805-NO, microbuilder, (1.04791339, 0.31228346), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0805-NO, microbuilder, (0.72602362, 0.51712598), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (0.625, 0.515), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, miniB, USB-MINIB_LARGER, microbuilder, (0.165, 0.88), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN3, JST-PH-3, JSTPH3, microbuilder, (0.19, 0.405), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "F1, 500mA, R1206, adafruit, (0.48, 1.02), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (0.11, 0.41), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (1.92, 0.73), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, AT90USB162, TQFP32-08, adafruit, (1, 0.64), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "ISP6, PINHD-2X3THM, ISP6, adaprog, (1.92035433, 0.5338189), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, CHARLCD, 1X18-BIG, adafruit, (1.17, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.66425197, 0.97433071), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 22, 0805-NO, microbuilder, (0.63708661, 0.71838583), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22, 0805-NO, microbuilder, (0.70570866, 0.71838583), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 1K, 0805-NO, microbuilder, (0.81759843, 0.97346457), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1K, 0805-NO, microbuilder, (1.585, 0.81), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 1K, 0805-NO, microbuilder, (1.57, 0.61), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 1K, 0805-NO, microbuilder, (1.585, 0.41), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "T1, MMBT222, SOT23-BEC, transistor, (1.585, 0.305), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "T2, MMBT222, SOT23-BEC, transistor, (1.585, 0.51), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "T3, MMBT222, SOT23-BEC, transistor, (1.585, 0.71), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, PINHD-1X10, 1X10-BIG, adafruit, (1.57, 1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "USB, MALE, 1X05, pinhead, (0.51232283, 0.72807087), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X3, 16MHz, NX5032, adafruit, (0.84492126, 0.32590551), R0"
         },
         {
             "name": "oompID",

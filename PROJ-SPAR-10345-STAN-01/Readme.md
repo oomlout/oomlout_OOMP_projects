@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10345-STAN-01>Triple Axis Accelerometer Breakout-LIS331](#proj-spar-10345-stan-01triple-axis-accelerometer-breakout-lis331)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,18 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-UNMATCHED-X-UF10-V25, C1, 6.35, 6.35, 90,C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90|
+|CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180,JP1, 1X08, SparkFun, (0.75, 0.05), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.889, 7.874, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.431, 5.715, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90,U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90|
+
 ## Tags
 
 - hexID: PRS10345
@@ -47,7 +60,12 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.889, 7.874, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.431, 5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90
-- rawPart: 
+- rawPart: C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90
+- rawPart: C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270
+- rawPart: JP1, 1X08, SparkFun, (0.75, 0.05), R180
+- rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0
+- rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0
+- rawPart: U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90
 
 
 

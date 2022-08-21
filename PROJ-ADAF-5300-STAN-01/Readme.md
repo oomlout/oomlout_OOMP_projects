@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-5300-STAN-01>Adafruit ESP32 S2 TFT Feather PCB](#proj-adaf-5300-stan-01adafruit-esp32-s2-tft-feather-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,57 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C4, 41.7322, 4.6228, 0,C4, 1uF, 0603-NO, microbuilder, (1.643, 0.182), R0|
+|CAPC-0603-X-UNMATCHED-01, C5, 25.019, 18.2245, 0,C5, 1uF, 0603-NO, microbuilder, (0.985, 0.7175), R0|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C7</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C9</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C10, 35.05199999999999, 5.206999999999999, 180,C10, 1uF, 0603-NO, microbuilder, (1.38, 0.205), R180|
+|CAPC-0603-X-UNMATCHED-01, C11, 26.542999999999996, 16.065499999999997, 180,C11, 1uF, 0603-NO, microbuilder, (1.045, 0.6325), R180|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C12</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 49.022, 5.460999999999999, M270,CHG, ORANGE, CHIPLED_0603_NOOUTLINE, microbuilder, (1.93, 0.215), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 39.878, 11.557, M180,CONN1, STEMMA_I2C_QTRA, JST_SH4_RA, microbuilder, (1.57, 0.455), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 49.275999999999996, 17.399, M90,D3, RED, CHIPLED_0603_NOOUTLINE, microbuilder, (1.94, 0.685), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 39.700199999999995, 9.0932, 0,D4, MBR540, SOD-123, microbuilder, (1.563, 0.358), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 4.3180000000000005, 11.43, M90,DISP1, DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER, TFT_1.14IN_240X135_WRAPUNDER, adafruit_display, (0.17, 0.45), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 16.509999999999998, 0,IC1, LC709203F/MH, WLCSP9, adafruit_sensor, (1.35, 0.65), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 29.590999999999998, 17.653, 0,IC2, BME680, BME680, adafruit_sensor, (1.165, 0.695), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 25.4, 1.27, M180,JP1, 1X16_ROUND_MIN, microbuilder, (1, 0.05), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 20.32, 21.59, M0,JP3, 1X12_ROUND_MIN, microbuilder, (0.8, 0.85), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 45.592999999999996, 17.525999999999996, M90,LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (1.795, 0.69), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 22.542499999999997, 14.350999999999997, 270,Q1, BSS138, SOT23-R, microbuilder, (0.8875, 0.565), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 40.3352, 11.6332, 180,Q3, DMG3415U, SOT23-R, microbuilder, (1.588, 0.458), R180|
+|RESE-0603-X-UNMATCHED-01, R1, 38.608, 4.5085, 180,R1, 5.1K, 0603-NO, microbuilder, (1.52, 0.1775), R180|
+|RESE-0603-X-UNMATCHED-01, R2, 45.135799999999996, 5.4102, 180,R2, 5.1K, 0603-NO, microbuilder, (1.777, 0.213), R180|
+|RESE-UNMATCHED-X-O103-01, R3, 29.590999999999998, 13.843, 270,R3, 10K, RESPACK_4X0603, microbuilder, (1.165, 0.545), R270|
+|RESE-0603-X-UNMATCHED-01, R4, 43.1038, 17.145, 90,R4, 5.1K, 0603-NO, microbuilder, (1.697, 0.675), R90|
+|RESE-0603-X-UNMATCHED-01, R5, 47.370999999999995, 9.8806, 270,R5, 5.1K, 0603-NO, microbuilder, (1.865, 0.389), R270|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R8, 47.370999999999995, 13.017499999999998, 90,R8, 5.1K, 0603-NO, microbuilder, (1.865, 0.5125), R90|
+|RESE-0603-X-UNMATCHED-01, R10, 45.466, 17.525999999999996, 0,R10, 5.1K, 0603-NO, microbuilder, (1.79, 0.69), R0|
+|RESE-0603-X-UNMATCHED-01, R11, 24.9555, 13.398499999999999, 90,R11, 22, 0603-NO, microbuilder, (0.9825, 0.5275), R90|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R12</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R17, 21.9075, 18.2245, 0,R17, 1Meg, 0603-NO, microbuilder, (0.8625, 0.7175), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 37.083999999999996, 6.223, M90,SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.46, 0.245), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 41.783, 6.223, M90,SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.645, 0.245), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 35.05199999999999, 3.6702999999999997, 180,TP1, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (1.38, 0.1445), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 11.43, 90,U1, ESP32-S2-MODULE_MINI, QFN60_ESP32-S2-MINI-1_EXP, adafruit_wireless, (0.4, 0.45), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 35.0012, 8.382, 180,U2, AP2112-3.3, SOT23-5, microbuilder, (1.378, 0.33), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 40.004999999999995, 17.3228, 270,U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (1.575, 0.682), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 29.590999999999998, 17.653, 0,U4, BME280, BME280, adafruit_sensor, (1.165, 0.695), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 34.416999999999994, 13.589, 90,U5, AP2112-3.3, SOT23-5, microbuilder, (1.355, 0.535), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 40.004999999999995, 19.304, M0,X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (1.575, 0.76), MR0|
+|ERROR, X3 USB C, 0, 0, 0,X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (1.895, 0.45), MR270|
 
 ## Tags
 
@@ -92,7 +144,57 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 34.416999999999994, 13.589, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 40.004999999999995, 19.304, M0
 - oompPart: ERROR, X3 USB C, 0, 0, 0
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (1.52, 0.242), R0
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (1.0595, 0.2325), R90
+- rawPart: C3, 10uF, 0805-NO, microbuilder, (1.603, 0.57), R0
+- rawPart: C4, 1uF, 0603-NO, microbuilder, (1.643, 0.182), R0
+- rawPart: C5, 1uF, 0603-NO, microbuilder, (0.985, 0.7175), R0
+- rawPart: C6, 10uF, 0805-NO, microbuilder, (1.4804252, 0.46519685), R90
+- rawPart: C7, 10uF, 0805-NO, microbuilder, (0.9075, 0.2325), R90
+- rawPart: C8, 10uF, 0805-NO, microbuilder, (0.98490945, 0.2328622), R90
+- rawPart: C9, 10uF, 0805-NO, microbuilder, (1.265, 0.33), R90
+- rawPart: C10, 1uF, 0603-NO, microbuilder, (1.38, 0.205), R180
+- rawPart: C11, 1uF, 0603-NO, microbuilder, (1.045, 0.6325), R180
+- rawPart: C12, 10uF, 0805-NO, microbuilder, (1.05, 0.535), R90
+- rawPart: CHG, ORANGE, CHIPLED_0603_NOOUTLINE, microbuilder, (1.93, 0.215), MR270
+- rawPart: CONN1, STEMMA_I2C_QTRA, JST_SH4_RA, microbuilder, (1.57, 0.455), MR180
+- rawPart: D3, RED, CHIPLED_0603_NOOUTLINE, microbuilder, (1.94, 0.685), MR90
+- rawPart: D4, MBR540, SOD-123, microbuilder, (1.563, 0.358), R0
+- rawPart: DISP1, DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER, TFT_1.14IN_240X135_WRAPUNDER, adafruit_display, (0.17, 0.45), MR90
+- rawPart: IC1, LC709203F/MH, WLCSP9, adafruit_sensor, (1.35, 0.65), R0
+- rawPart: IC2, BME680, BME680, adafruit_sensor, (1.165, 0.695), R0
+- rawPart: JP1, 1X16_ROUND_MIN, microbuilder, (1, 0.05), MR180
+- rawPart: JP3, 1X12_ROUND_MIN, microbuilder, (0.8, 0.85), MR0
+- rawPart: LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (1.795, 0.69), MR90
+- rawPart: Q1, BSS138, SOT23-R, microbuilder, (0.8875, 0.565), R270
+- rawPart: Q3, DMG3415U, SOT23-R, microbuilder, (1.588, 0.458), R180
+- rawPart: R1, 5.1K, 0603-NO, microbuilder, (1.52, 0.1775), R180
+- rawPart: R2, 5.1K, 0603-NO, microbuilder, (1.777, 0.213), R180
+- rawPart: R3, 10K, RESPACK_4X0603, microbuilder, (1.165, 0.545), R270
+- rawPart: R4, 5.1K, 0603-NO, microbuilder, (1.697, 0.675), R90
+- rawPart: R5, 5.1K, 0603-NO, microbuilder, (1.865, 0.389), R270
+- rawPart: R7, 100K, 0603-NO, microbuilder, (1.38, 0.4395), R0
+- rawPart: R8, 5.1K, 0603-NO, microbuilder, (1.865, 0.5125), R90
+- rawPart: R10, 5.1K, 0603-NO, microbuilder, (1.79, 0.69), R0
+- rawPart: R11, 22, 0603-NO, microbuilder, (0.9825, 0.5275), R90
+- rawPart: R12, 100K, 0603-NO, microbuilder, (1.682, 0.462), R270
+- rawPart: R17, 1Meg, 0603-NO, microbuilder, (0.8625, 0.7175), R0
+- rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.46, 0.245), MR90
+- rawPart: SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.645, 0.245), MR90
+- rawPart: TP1, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (1.38, 0.1445), R180
+- rawPart: U$31, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.8), MR270
+- rawPart: U$32, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.1), MR270
+- rawPart: U$34, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.79, 0.86), MR270
+- rawPart: U$35, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25414173, 0.15927559), MR270
+- rawPart: U$55, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.96, 0.21), R0
+- rawPart: U$56, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.18, 0.87), R0
+- rawPart: U1, ESP32-S2-MODULE_MINI, QFN60_ESP32-S2-MINI-1_EXP, adafruit_wireless, (0.4, 0.45), R90
+- rawPart: U2, AP2112-3.3, SOT23-5, microbuilder, (1.378, 0.33), R180
+- rawPart: U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (1.575, 0.682), R270
+- rawPart: U4, BME280, BME280, adafruit_sensor, (1.165, 0.695), R0
+- rawPart: U5, AP2112-3.3, SOT23-5, microbuilder, (1.355, 0.535), R90
+- rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (1.575, 0.76), MR0
+- rawPart: X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (1.895, 0.45), MR270
 
 
 

@@ -246,7 +246,215 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 4n7, 0805-R2013X50N, Arduino-rcl, (6.8675, 6.475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 100n, 0402-1005X55N, Arduino-rcl, (11.27, 12.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 22u, 0805-R2013X50N, Arduino-rcl, (14.1625, 13), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 22u, 0805-R2013X50N, Arduino-rcl, (41.625, 8.89), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 4u7, 0402-1005X55N, Arduino-rcl, (7.2375, 3.505), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 1u, 0402-1005X55N, Arduino-rcl, (22.01, 5.3375), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 100n, 0402-1005X55N, Arduino-rcl, (6.2625, 3.505), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 100n, 0402-1005X55N, Arduino-rcl, (37.8675, 8.89), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 4u7, 0402-1005X55N, Arduino-rcl, (26.1325, 4.355), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 100n, 0402-1005X55N, Arduino-rcl, (26.1325, 5.4025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 100n, 0402-1005X55N, Arduino-rcl, (18.6, 13.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D+, DNP, TP-1.00MM, Arduino-utility, (1.778, 11.811), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D-, DNP, TP-1.00MM, Arduino-utility, (1.778, 14.351), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, PRTR5V, SOT190P230X110-4N, Arduino-diodes, (7.23, 9.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, PMEG6020, SODFL3517X110N, Arduino-diodes, (7.9, 12.95), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, DNP, SODFL3517X110N, Arduino-diodes, (41.65, 13), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DL1, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (1.9, 3.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "DL2, GREEN, LEDC1608X80N-AK, Arduino-diodes, (1.9, 14.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "DL3, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (25.6, 8.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "DL4, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (24.05, 8.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, DNP, FD-1-1.5, Arduino-utility, (7.94, 12.99), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, DNP, FD-1-1.5, Arduino-utility, (33.9, 8.83), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, MPM3610, MPM3610, Arduino-ICs, (15.65, 5.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, -, ZX62-AB-5PA, Arduino-connectors, (1.28, 8.89), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, DNP, 2X03-TP, Arduino-connectors, (40.5384, 8.89), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, -, 1X15-CASTELL, Arduino-connectors, (21.59, 1.27), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, -, 1X15-CASTELL, Arduino-connectors, (21.59, 16.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "PB1, PTS820, C&K_PTS820_NO_HOLES, Arduino-pushbuttons, (11.09, 8.89), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138PS, SOT363, Arduino-transistors, (38.4, 5.78), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138PS, SOT363, Arduino-transistors, (38.4, 12), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1M, 0402-1005X55N, Arduino-rcl, (6.7675, 4.975), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 330R, 0402-1005X55N, Arduino-rcl, (5.4, 14.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 330R, 0402-1005X55N, Arduino-rcl, (4.8, 3.0875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 100k, 0402-1005X55N, Arduino-rcl, (16.45, 14.5125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 4k7, 0402-1005X55N, Arduino-rcl, (19.6, 13.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 100k, 0402-1005X55N, Arduino-rcl, (11.1375, 4.225), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 0R, 0402-1005X55N, Arduino-rcl, (36.51464375, 12.793934375), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 19k1, 0402-1005X55N, Arduino-rcl, (12.275, 4.225), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 39k, 0402-1005X55N, Arduino-rcl, (13.85, 10.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 100k, 0402-1005X55N, Arduino-rcl, (15.6, 10.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 4k7, 0402-1005X55N, Arduino-rcl, (41.75, 3.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 330R, 0402-1005X55N, Arduino-rcl, (24.3, 5.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 330R, 0402-1005X55N, Arduino-rcl, (23.3, 5.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 4k7, 0402-1005X55N, Arduino-rcl, (39.46464375, 7.64393125), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 4k7, 0402-1005X55N, Arduino-rcl, (40.90858125, 6.25), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 4k7, 0402-1005X55N, Arduino-rcl, (37.835353125, 3.81464375), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "R17, 4k7, 0402-1005X55N, Arduino-rcl, (36.40355625, 5.25355625), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "R18, 4k7, 0402-1005X55N, Arduino-rcl, (38.023225, 14.2474875), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "R19, 4k7, 0402-1005X55N, Arduino-rcl, (39.464646875, 10.164646875), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "R20, DNP, 0402-1005X55N, Arduino-rcl, (38.8857875, 11.3857875), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATMEGA4809, TQFP48, Arduino-ucs&SoCs, (31.725, 8.89), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, AP2112K-3.3, SOT25, Arduino-ICs, (19.7625, 4.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, ATSAMD11D14A, HVQFN24, Arduino-ucs&SoCs, (20.55, 9.2), R0"
         },
         {
             "name": "oompID",

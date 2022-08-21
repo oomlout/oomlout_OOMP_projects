@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-12011-STAN-01>Tilt-a-Whirl Breakout](#proj-spar-12011-stan-01tilt-a-whirl-breakout)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-12011-STAN-01>Tilt-a-Whirl Breakout
@@ -20,6 +21,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90,JP1, 1X04, SparkFun, (0.05, 0.05), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 9.4742, 9.5504, 0,JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.2258, 0.635, 0,JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0|
+|RESE-0603-X-UNMATCHED-01, R1, 3.8099999999999996, 5.715, 270,R1, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.225), R270|
+|RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 2.54, 90,R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90|
+|RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180,R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180|
+|ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0,U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90|
+
 ## Tags
 
 - hexID: PRS12011
@@ -31,3 +45,17 @@ Contents
 - oompName: Tilt-a-Whirl Breakout
 - sources: All source files from https://github.com/sparkfun/Tilt-a-Whirl_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12011
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 9.4742, 9.5504, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.2258, 0.635, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 3.8099999999999996, 5.715, 270
+- oompPart: RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 2.54, 90
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180
+- oompPart: ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0
+- rawPart: JP1, 1X04, SparkFun, (0.05, 0.05), R90
+- rawPart: JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0
+- rawPart: JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0
+- rawPart: R1, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.225), R270
+- rawPart: R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90
+- rawPart: R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180
+- rawPart: U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90

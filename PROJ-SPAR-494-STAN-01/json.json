@@ -37,6 +37,102 @@
             "value": "https://www.sparkfun.com/products/494"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 19.558, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.889999999999999, 19.558, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.937999999999999, 19.558, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 19.558, 19.558, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 8.889999999999999, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 11.937999999999999, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 19.558, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 15.748, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 15.748, 15.748, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 5.08, 5.08, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 15.748, 5.08, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1x4, 1X04_NO_SILK, SparkFun-Connectors, (0.05, 0.77), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1x4, 1X04_NO_SILK_ALL_ROUND, SparkFun-Connectors, (0.35, 0.77), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1x4, 1X04_NO_SILK, SparkFun-Connectors, (0.47, 0.77), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1x4, 1X04_NO_SILK_ALL_ROUND, SparkFun-Connectors, (0.77, 0.77), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1x4, 1X04_NO_SILK, SparkFun-Connectors, (0.05, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1x4, 1X04_NO_SILK_ALL_ROUND, SparkFun-Connectors, (0.35, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1x4, 1X04_NO_SILK, SparkFun-Connectors, (0.47, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1x4, 1X04_NO_SILK_ALL_ROUND, SparkFun-Connectors, (0.77, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.2, 0.62), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.62, 0.62), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.2, 0.2), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.62, 0.2), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-494-STAN-01"
         },

@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1755-STAN-01>Adafruit LED Sequin PCB](#proj-adaf-1755-stan-01adafruit-led-sequin-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -0.7619999999999999, 0,LED1, 1206, adafruit, (0, -0.03), R0|
+|RESE-0603-X-UNMATCHED-01, R1, 0.0, 1.016, 180,R1, R0603, adafruit, (0, 0.04), R180|
+
 ## Tags
 
 - hexID: PRA1755
@@ -43,7 +52,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1755
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -0.7619999999999999, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 0.0, 1.016, 180
-- rawPart: 
+- rawPart: LED1, 1206, adafruit, (0, -0.03), R0
+- rawPart: R1, R0603, adafruit, (0, 0.04), R180
 
 
 

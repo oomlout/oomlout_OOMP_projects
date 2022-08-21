@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10031-STAN-01>USB microB Plug Breakout](#proj-spar-10031-stan-01usb-microb-plug-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 12.7, 180,JP1, 1X05, SparkFun, (0.65, 0.5), R180|
+|ERROR, JP2 USB Micro, 0, 0, 0,JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180|
+
 ## Tags
 
 - hexID: PRS10031
@@ -43,7 +52,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10031
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 12.7, 180
 - oompPart: ERROR, JP2 USB Micro, 0, 0, 0
-- rawPart: 
+- rawPart: JP1, 1X05, SparkFun, (0.65, 0.5), R180
+- rawPart: JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180
 
 
 

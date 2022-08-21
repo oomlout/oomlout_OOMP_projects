@@ -106,7 +106,71 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C2, 10uF, 0805-NO, microbuilder, (57.023, 21.59), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 2.2uF, 0805-NO, microbuilder, (11.43, 21.336), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 2.2uF, 0805-NO, microbuilder, (13.97, 21.336), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (52.197, 14.986), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 2.2uF, 0805-NO, microbuilder, (9.144, 21.336), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 2.2uF, 0805-NO, microbuilder, (54.991, 21.59), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 2.2uF, 0805-NO, microbuilder, (53.086, 21.59), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (45.72, 20.955), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (17.0208, 3.0122), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, APX803, SOT23, adafruit, (4.572, 21.336), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (1.524, 21.336), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 390K, 0805-NO, microbuilder, (51.181, 21.59), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS_BONNET_THMSMT, PI_BONNET_THMSMT, microbuilder, (0.0254, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, EVQQ, EVQ-Q2_SMALLER, microbuilder, (61.087, 15.748), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, EVQQ, EVQ-Q2_SMALLER, microbuilder, (53.848, 9.271), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, NAVSWITCHSKQUABAUE010, SKQUBAE010, microbuilder, (8.128, 13.462), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, UG-2864HSWEG01, UG-2864HSWEG01_1.3_WRAPAROUND, microbuilder, (32.512, 7.874), R0"
         },
         {
             "name": "oompID",

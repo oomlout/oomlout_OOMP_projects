@@ -78,7 +78,43 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.25, 0.38), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21, 0.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_ROUND_70, microbuilder, (0.25, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.36, 0.28), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.12, 0.26), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.05, 0.29), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0"
         },
         {
             "name": "oompID",

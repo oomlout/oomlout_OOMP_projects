@@ -58,7 +58,23 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "BAT1, 20mm, coincell, BATTCON_20MM_4LEGS_OVERPASTE, SparkFun-Electromechanical, (0, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, -0.345), R47"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, -0.345), R313"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, 0.345), R133"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, 0.345), R227"
         },
         {
             "name": "oompID",

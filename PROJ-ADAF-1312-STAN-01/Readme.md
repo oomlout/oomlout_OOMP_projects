@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1312-STAN-01>Adafruit_Breadboard_NeoPixel_PCB](#proj-adaf-1312-stan-01adafruit_breadboard_neopixel_pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-0603-X-UNMATCHED-01, C1, 2.921, 3.937, 0,C1, 1uF, C0603K, adafruit, (0.115, 0.155), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -5.08, 0.0, 90,JP1, 1X03-CLEANBIG, adafruit, (-0.2, 0), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 0.0, 270,JP2, 1X03-CLEANBIG, adafruit, (0.2, 0), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, 0,LED1, WS28115050, WS28115050, microbuilder, (0, 0), R0|
+|RESE-0603-X-UNMATCHED-01, R1, -2.921, 3.937, 180,R1, 1.0K, R0603, adafruit, (-0.115, 0.155), R180|
+|RESE-0603-X-UNMATCHED-01, R2, 2.921, -3.937, 0,R2, 22, R0603, adafruit, (0.115, -0.155), R0|
+|RESE-0603-X-UNMATCHED-01, R3, -2.921, -3.937, 180,R3, 22, R0603, adafruit, (-0.115, -0.155), R180|
+
 ## Tags
 
 - hexID: PRA1312
@@ -48,7 +62,13 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, -2.921, 3.937, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 2.921, -3.937, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, -2.921, -3.937, 180
-- rawPart: 
+- rawPart: C1, 1uF, C0603K, adafruit, (0.115, 0.155), R0
+- rawPart: JP1, 1X03-CLEANBIG, adafruit, (-0.2, 0), R90
+- rawPart: JP2, 1X03-CLEANBIG, adafruit, (0.2, 0), R270
+- rawPart: LED1, WS28115050, WS28115050, microbuilder, (0, 0), R0
+- rawPart: R1, 1.0K, R0603, adafruit, (-0.115, 0.155), R180
+- rawPart: R2, 22, R0603, adafruit, (0.115, -0.155), R0
+- rawPart: R3, 22, R0603, adafruit, (-0.115, -0.155), R180
 
 
 

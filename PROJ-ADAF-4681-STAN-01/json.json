@@ -126,7 +126,91 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0603-NO, microbuilder, (0.435, 0.46), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.31, 0.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.32, 0.48), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 1uF, 0603-NO, microbuilder, (0.555, 0.46), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN3, SM04B-SRSS-TB, JST_SH4, microbuilder, (0.9, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN4, SM04B-SRSS-TB, JST_SH4, microbuilder, (0.1, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.2, 0.18), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.77, 0.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, BH1750, WSOF-6, microbuilder, (0.5, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138BKS, SOT363, microbuilder, (0.665, 0.295), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (0.22, 0.49), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0603-NO, microbuilder, (0.465, 0.22), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, RESPACK_4X0603, microbuilder, (0.675, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 1K, 0603-NO, microbuilder, (0.495, 0.46), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.75, 0.27), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, AP2112K-3.3, SOT23-5, microbuilder, (0.32, 0.345), R0"
         },
         {
             "name": "oompID",

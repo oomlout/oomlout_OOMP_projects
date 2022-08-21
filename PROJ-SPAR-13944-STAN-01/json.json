@@ -37,6 +37,118 @@
             "value": "https://www.sparkfun.com/products/13944"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UF10-V25, C1, 5.08, 4.064, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C2, 5.08, 6.095999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C3, 5.08, 2.032, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C4, 5.08, 8.128, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C5, 9.524999999999999, 8.128, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 8.254999999999999, 0.889, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 21.59, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 1.27, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 9.524999999999999, 8.128, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.383, 2.413, M90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 16.383, 6.400799999999999, M90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 13.716, 3.937, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R2, 12.446, 3.937, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 9.398, 5.08, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.16), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.08), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10nF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.32), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.375, 0.32), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.325, 0.035), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.85, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, 1X04_NO_SILK_ALL_ROUND, SparkFun-Connectors, (0.05, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.375, 0.32), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.645, 0.095), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.645, 0.252), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 4.7K, 0603-RES, SparkFun-Resistors, (0.54, 0.155), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.49, 0.155), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LSM9DS1, LGA24-8X4, SparkFun-Sensors, (0.37, 0.2), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13944-STAN-01"
         },

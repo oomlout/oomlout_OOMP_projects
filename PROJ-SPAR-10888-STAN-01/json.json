@@ -126,7 +126,91 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, EIA3216, SparkFun, (0.6, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.65, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.22uF, 0402-CAP, SparkFun, (0.6, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 4.7uF, 0402-CAP, SparkFun, (0.6, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2uF, 0402-CAP, SparkFun, (0.35, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 2.2uF, 0402-CAP, SparkFun, (0.65, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 470pF, 0402-CAP, SparkFun, (0.35, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 470pF, 0402-CAP, SparkFun, (0.65, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X04, SparkFun, (0.05, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.75, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X04, SparkFun, (0.75, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, MOSFET-N-CH, SOT23-3, SparkFun, (0.35, 0.55), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, MOSFET-N-CH, SOT23-3, SparkFun, (0.35, 0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 4.7k, 0402-RES, SparkFun, (0.45, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 4.7k, 0402-RES, SparkFun, (0.45, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 4.7k, 0402-RES, SparkFun, (0.25, 0.55), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 4.7k, 0402-RES, SparkFun, (0.25, 0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SJ_3_PASTE2&3, SparkFun, (0.1, 0.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LSM303DLHSMD, LGA28-5X5, SparkFun, (0.4, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, 1.8V, SC70, SparkFun, (0.2, 0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, 3.3V, SOT23-5, SparkFun, (0.5, 0.1), R270"
         },
         {
             "name": "oompID",

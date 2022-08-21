@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-782-STAN-01>Adafruit USB Serial RGB Character Backpack PCB](#proj-adaf-782-stan-01adafruit-usb-serial-rgb-character-backpack-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,35 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C2, 16.322000122000002, 7.901999944, 180,C2, 18pF, 0805-NO, microbuilder, (0.64259843, 0.31110236), R180|
+|CAPC-0805-X-UNMATCHED-01, C3, 26.617000105999995, 7.931999884, 0,C3, 18pF, 0805-NO, microbuilder, (1.04791339, 0.31228346), R0|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 4.191, 22.352, 270,CN1, miniB, USB-MINIB_LARGER, microbuilder, (0.165, 0.88), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN3, 4.826, 10.287, 90,CN3, JST-PH-3, JSTPH3, microbuilder, (0.19, 0.405), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 12.191999999999998, 25.907999999999998, 180,F1, 500mA, R1206, adafruit, (0.48, 1.02), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 25.4, 16.256, 90,IC2, AT90USB162, TQFP32-08, adafruit, (1, 0.64), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, ISP6, 48.776999982, 13.559000059999999, 270,ISP6, PINHD-2X3THM, ISP6, adaprog, (1.92035433, 0.5338189), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 29.717999999999996, 2.54, 0,JP1, CHARLCD, 1X18-BIG, adafruit, (1.17, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED, 16.872000038, 24.748000034, 90,LED, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.66425197, 0.97433071), R90|
+|RESE-0805-X-UNMATCHED-01, R1, 16.181999894, 18.247000082, 270,R1, 22, 0805-NO, microbuilder, (0.63708661, 0.71838583), R270|
+|RESE-0805-X-UNMATCHED-01, R2, 17.924999963999998, 18.247000082, 270,R2, 22, 0805-NO, microbuilder, (0.70570866, 0.71838583), R270|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, T1, 40.259, 7.746999999999999, 270,T1, MMBT222, SOT23-BEC, transistor, (1.585, 0.305), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, T2, 40.259, 12.953999999999999, 270,T2, MMBT222, SOT23-BEC, transistor, (1.585, 0.51), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, T3, 40.259, 18.034, 270,T3, MMBT222, SOT23-BEC, transistor, (1.585, 0.71), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, USB, 13.012999881999999, 18.493000098, 270,USB, MALE, 1X05, pinhead, (0.51232283, 0.72807087), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, 21.461000004, 8.277999954, 0,X3, 16MHz, NX5032, adafruit, (0.84492126, 0.32590551), R0|
 
 ## Tags
 
@@ -67,7 +97,32 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 39.878, 25.4, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, USB, 13.012999881999999, 18.493000098, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, 21.461000004, 8.277999954, 0
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.76051181, 0.8430315), R180
+- rawPart: C2, 18pF, 0805-NO, microbuilder, (0.64259843, 0.31110236), R180
+- rawPart: C3, 18pF, 0805-NO, microbuilder, (1.04791339, 0.31228346), R0
+- rawPart: C4, 0.1uF, 0805-NO, microbuilder, (0.72602362, 0.51712598), R90
+- rawPart: C5, 10uF, 0805-NO, microbuilder, (0.625, 0.515), R90
+- rawPart: CN1, miniB, USB-MINIB_LARGER, microbuilder, (0.165, 0.88), R270
+- rawPart: CN3, JST-PH-3, JSTPH3, microbuilder, (0.19, 0.405), R90
+- rawPart: F1, 500mA, R1206, adafruit, (0.48, 1.02), R180
+- rawPart: FID1, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (0.11, 0.41), R0
+- rawPart: FID2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (1.92, 0.73), R0
+- rawPart: IC2, AT90USB162, TQFP32-08, adafruit, (1, 0.64), R90
+- rawPart: ISP6, PINHD-2X3THM, ISP6, adaprog, (1.92035433, 0.5338189), R270
+- rawPart: JP1, CHARLCD, 1X18-BIG, adafruit, (1.17, 0.1), R0
+- rawPart: LED, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.66425197, 0.97433071), R90
+- rawPart: R1, 22, 0805-NO, microbuilder, (0.63708661, 0.71838583), R270
+- rawPart: R2, 22, 0805-NO, microbuilder, (0.70570866, 0.71838583), R270
+- rawPart: R3, 1K, 0805-NO, microbuilder, (0.81759843, 0.97346457), R0
+- rawPart: R5, 1K, 0805-NO, microbuilder, (1.585, 0.81), R180
+- rawPart: R6, 1K, 0805-NO, microbuilder, (1.57, 0.61), R180
+- rawPart: R7, 1K, 0805-NO, microbuilder, (1.585, 0.41), R180
+- rawPart: T1, MMBT222, SOT23-BEC, transistor, (1.585, 0.305), R270
+- rawPart: T2, MMBT222, SOT23-BEC, transistor, (1.585, 0.51), R270
+- rawPart: T3, MMBT222, SOT23-BEC, transistor, (1.585, 0.71), R270
+- rawPart: U$1, PINHD-1X10, 1X10-BIG, adafruit, (1.57, 1), R180
+- rawPart: USB, MALE, 1X05, pinhead, (0.51232283, 0.72807087), R270
+- rawPart: X3, 16MHz, NX5032, adafruit, (0.84492126, 0.32590551), R0
 
 
 

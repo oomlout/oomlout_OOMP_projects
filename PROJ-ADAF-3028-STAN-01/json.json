@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "B1, CR1220, CR1220-2, microbuilder, (0.39, 0.51), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 1uF, 0805-NO, microbuilder, (0.89, 0.52), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.13, 0.24), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 0.84), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.94, 0.22), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, DS3231/SO, SO16W, adafruit, (1.24, 0.43), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X16_ROUND, microbuilder, (1, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X03_ROUND, microbuilder, (0.85, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X01_ROUND, microbuilder, (0.75, 0.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X11_ROUND, microbuilder, (1.25, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X01_ROUND, microbuilder, (1.55, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, MICROSHIELD_NODIM, MICROSHIELD_DIM, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (1.59, 0.49), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (1.59, 0.58), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.9, 0.45), R90"
         },
         {
             "name": "oompID",

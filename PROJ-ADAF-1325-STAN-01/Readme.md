@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1325-STAN-01>Adafruit FPC SMT Adapter PCBs](#proj-adaf-1325-stan-01adafruit-fpc-smt-adapter-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,16 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CON1, 0.0, 25.717499999999998, 0,CON1, PINHD-1X40-0.5MM, 1X40-0.5MM, adafruit, (0, 1.0125), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, -2.54, 0,JP1, 2X20-BIG, adafruit, (0, -0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -26.669999999999998, 26.669999999999998, 90,JP2, 1X20-BIG, adafruit, (-1.05, 1.05), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 26.669999999999998, 270,JP3, 1X20-BIG, adafruit, (1.05, 1.05), R270|
+
 ## Tags
 
 - hexID: PRA1325
@@ -49,7 +60,14 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 15.239999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 0.0, 6.35, 0
-- rawPart: 
+- rawPart: CON1, PINHD-1X40-0.5MM, 1X40-0.5MM, adafruit, (0, 1.0125), R0
+- rawPart: JP1, 2X20-BIG, adafruit, (0, -0.1), R0
+- rawPart: JP2, 1X20-BIG, adafruit, (-1.05, 1.05), R90
+- rawPart: JP3, 1X20-BIG, adafruit, (1.05, 1.05), R270
+- rawPart: U$1, PINHD-1X40-0.6MM, 1X40-0.6MM, adafruit, (0, 0.78), R0
+- rawPart: U$2, PINHD-1X40-0.7MM, 1X40-0.7MM, adafruit, (0, 0.6), R0
+- rawPart: U$3, PINHD-1X40-0.8MM, 1X40-0.8MM, adafruit, (0, 0.45), R0
+- rawPart: U$4, PINHD-1X40-1MM, 1X40-1MM, adafruit, (0, 0.25), R0
 
 
 

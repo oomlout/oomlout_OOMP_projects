@@ -66,7 +66,31 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP2, MYDAQ, 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING, Local, Lirary, (0.05, 1.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, M20_LOCKINGFEMALE_LOCK.009, 1X20_LOCK, Local, Library, (0.7, 2.65), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, M20, 1X20, Local, Lirary, (0.8, 2.65), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, M30, 1X30, Local, Library, (1, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, M30, 1X30, Local, Library, (1.1, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, M30, 1X30, Local, Library, (2.9, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, M30, 1X30, Local, Library, (3, 0.25), R90"
         },
         {
             "name": "oompID",

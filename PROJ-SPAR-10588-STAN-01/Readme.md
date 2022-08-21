@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10588-STAN-01>Audio Jack Breakout](#proj-spar-10588-stan-01audio-jack-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 12.7, 270,JP1, 1X05, SparkFun, (0.75, 0.5), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 7.619999999999999, 0,U1, AUDIO-JACK, AUDIO-JACK, SparkFun, (0.15, 0.3), R0|
+
 ## Tags
 
 - hexID: PRS10588
@@ -43,7 +52,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10588
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 7.619999999999999, 0
-- rawPart: 
+- rawPart: JP1, 1X05, SparkFun, (0.75, 0.5), R270
+- rawPart: U1, AUDIO-JACK, AUDIO-JACK, SparkFun, (0.15, 0.3), R0
 
 
 

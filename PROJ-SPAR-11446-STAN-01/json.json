@@ -37,6 +37,54 @@
             "value": "https://www.sparkfun.com/products/11446"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.302, 9.143999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 9.6774, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 8.889999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 5.08, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.31), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.13, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.381, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04, SparkFun-Connectors, (0.05, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X04, SparkFun-Connectors, (0.45, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ADXL362-1:1, SparkFun-Sensors, (0.25, 0.2), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11446-STAN-01"
         },
