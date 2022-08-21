@@ -22,7 +22,7 @@ newPart.addTag("rawPart","FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, 
 newPart.addTag("rawPart","FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.1, 0.17), R0")
 newPart.addTag("rawPart","JP1, 1X04, SparkFun-Connectors, (0.05, 1.25), R0")
 newPart.addTag("rawPart","JP2, M02PTH, 1X02@1, SparkFun-Connectors, (0.25, 0.25), R180")
-newPart.addTag("rawPart","L1, 33uH/±20%/1.4A, SRN6045, SparkFun-Coils, (0.2, 0.65), R0")
+newPart.addTag("rawPart","L1, 33uH/+/-20%/1.4A, SRN6045, SparkFun-Coils, (0.2, 0.65), R0")
 newPart.addTag("rawPart","R1, 0.3R, 0805, SparkFun-Resistors, (0.35, 1.025), R90")
 newPart.addTag("rawPart","R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270")
 newPart.addTag("rawPart","SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0")
