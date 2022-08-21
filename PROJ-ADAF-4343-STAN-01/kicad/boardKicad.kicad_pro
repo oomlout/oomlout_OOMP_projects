@@ -184,7 +184,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../kicadPcb3dBack.png",
-      "step": "",
+      "step": "boardKicad.step",
       "vrml": "boardKicad.wrl"
     },
     "page_layout_descr_file": ""

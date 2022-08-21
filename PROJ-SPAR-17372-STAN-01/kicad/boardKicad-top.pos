@@ -1,0 +1,19 @@
+### Module positions - created on Sun Aug 21 15:38:28 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                    Package                 PosX       PosY       Rot  Side
+C1        0.1uF                  0603                148.5011  -112.4966  180.0000  top
+D1        24V                    0603                152.3111  -112.4966  180.0000  top
+FRAME1    FRAME-LETTER           CREATIVE_COMMONS    123.1011  -124.6886    0.0000  top
+H1        STAND-OFF              STAND-OFF           148.5011   -96.7486    0.0000  top
+J1                               1X03_NO_SILK        145.9611  -114.5286    0.0000  top
+JP8       FIDUCIALUFIDUCIAL      MICRO-FIDUCIAL      143.4211  -114.5286    0.0000  top
+JP9       FIDUCIALUFIDUCIAL      MICRO-FIDUCIAL      153.5811   -95.4786    0.0000  top
+LOGO1     OSHW-LOGOMINI          OSHW-LOGO-MINI      153.3906  -110.7186    0.0000  top
+LOGO4     SFE_LOGO_FLAME.1_INCH  SFE_LOGO_FLAME_.1   143.6116  -110.5916    0.0000  top
+R5        47k                    0603                144.6911  -112.4966    0.0000  top
+U$2                              170UA0              143.4211   -99.9236   90.0000  top
+U$9                              1UA0                153.5811   -99.9236   90.0000  top
+U1        EKMC4607112k           TO-3                148.5011  -105.6386    0.0000  top
+## End

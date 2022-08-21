@@ -161,7 +161,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "boardKicad.step",
       "vrml": "boardKicad.wrl"
     },
     "page_layout_descr_file": ""

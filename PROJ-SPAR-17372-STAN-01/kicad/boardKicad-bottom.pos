@@ -1,0 +1,16 @@
+### Module positions - created on Sun Aug 21 15:38:28 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                         Package                      PosX       PosY       Rot  Side
+JP2       FIDUCIALUFIDUCIAL           MICRO-FIDUCIAL          -153.5811   -95.4786  180.0000  bottom
+JP6       FIDUCIALUFIDUCIAL           MICRO-FIDUCIAL          -143.4211  -114.5286  180.0000  bottom
+LOGO3     SFE_LOGO_NAME_FLAME.1_INCH  SFE_LOGO_NAME_FLAME_.1  -148.5011  -101.8286  180.0000  bottom
+U$1                                   #3V3#0                  -151.0411  -114.0206   90.0000  bottom
+U$3                                   #GND#0                  -145.9611  -114.0206   90.0000  bottom
+U$11                                  #OUT#0                  -148.5011  -114.0841   90.0000  bottom
+U$12                                  BREAKOUT0               -152.6286  -106.0196  180.0000  bottom
+U$13                                  PIR0                    -150.2156  -104.8131  180.0000  bottom
+U$14                                  X0                      -154.3431  -105.7656  180.0000  bottom
+U$16                                  Y0                      -153.5811  -106.9086  180.0000  bottom
+## End

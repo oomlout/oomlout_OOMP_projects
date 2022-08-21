@@ -3,4 +3,5 @@ newPart = OOMP.getPartByID("PROJ-SPAR-10495-STAN-01")
 
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 15.239999999999998, M270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 25.4, 16.509999999999998, 270")
-newPart.addTag("rawPart","")
+newPart.addTag("rawPart","BAT1, BATTCON_245MM_PTH, SparkFun, (0.4, 0.6), MR270")
+newPart.addTag("rawPart","J3, 1X02, SparkFun, (1, 0.65), R270")

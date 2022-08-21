@@ -1,4 +1,4 @@
-### Module positions - created on Mon Aug 15 18:08:22 2022 ###
+### Module positions - created on Sun Aug 21 11:08:11 2022 ###
 ### Printed by Pcbnew version (6.0.6)
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -37,7 +37,7 @@ C11       1uF                  0603-NO                          176.5013  -124.2
 C12       0.1uF                0603-NO                          192.7319   -90.3351  180.0000  top
 C13       10uF                 0805-NO                          166.6334  -105.7656  180.0000  top
 C15       10uF                 0805-NO                          191.7794  -110.9726   90.0000  top
-C16       1uF                  0603-NO                          166.9509  -104.1146  180.0000  top
+C16       1uF                  0603-NO                          166.9509  -104.1146   90.0000  top
 C17       10uF                 0805-NO                          183.8419  -117.3861  -90.0000  top
 C19       1uF                  0603-NO                          177.3014   -97.5106  180.0000  top
 C20       0.1uF                0603-NO                          197.7484  -100.3681  180.0000  top
