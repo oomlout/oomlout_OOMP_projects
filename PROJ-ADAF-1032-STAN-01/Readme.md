@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1032-STAN-01>Adafruit L3GD20 Breakout PCB](#proj-adaf-1032-stan-01adafruit-l3gd20-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,28 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 17.145, 6.476999999999999, 180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 23.622, 9.652, 0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 15.239999999999998, 9.906, 90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 1.5239999999999998, 0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 8.382, 14.604999999999999, 90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 5.842, 9.398, 180|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|RESE-UNMATCHED-X-O103-01, R3, 5.715, 6.095999999999999, 0|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
+|RESE-UNMATCHED-X-O103-01, R6, 19.177, 9.398, 270|
+|<table><tr><td>test</td><td>test</td><td>test</td></tr></table>|
 
 ## Tags
 
