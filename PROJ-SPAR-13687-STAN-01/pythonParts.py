@@ -1,0 +1,12 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-13687-STAN-01")
+
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.000000036, -8.000000002, M0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID2, -17.000000036, 8.000000002, M0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -22.0345, 2.54, 270")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -24.5745, 2.54, 270")
+newPart.addTag("oompPart","ERROR, JP3 3.5mm Jack, 0, 0, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 8.382, -8.889999999999999, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 24.5745, 2.54, 270")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 22.0345, 2.54, 270")
+newPart.addTag("rawPart","")

@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-16790-STAN-01")
+
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 6.35, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 6.35, M0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 19.049999999999997, 44.449999999999996, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 19.049999999999997, 44.449999999999996, M0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 11.43, 25.4, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.43, 5.08, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 11.43, 45.72, 180")
+newPart.addTag("oompPart","ERROR, J3 Vertical Qwiic, 0, 0, 0")
+newPart.addTag("oompPart","ERROR, J4 Vertical Qwiic, 0, 0, 0")
+newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 11.43, 25.4, 0")
+newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 25.4, 0")
+newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R2, 15.239999999999998, 25.4, 180")
+newPart.addTag("rawPart","")
