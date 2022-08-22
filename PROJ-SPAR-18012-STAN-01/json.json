@@ -37,6 +37,94 @@
             "value": "https://www.sparkfun.com/products/18012"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, D1, 10.668, 17.399, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 15.239999999999998, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 19.049999999999997, 10.16, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 19.049999999999997, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 12.7, 5.08, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 20.32, 12.7, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 12.7, 20.32, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.668, 18.923, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-UNMATCHED-01, R1, 10.668, 16.002, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, RED, LED-0603, SparkFun-LED, (0.42, 0.685), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.6), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.75, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.75, 0.4), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.5, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.5, 0.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, PWR_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.42, 0.745), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1k, 0603, SparkFun-Resistors, (0.42, 0.63), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18012-STAN-01"
         },

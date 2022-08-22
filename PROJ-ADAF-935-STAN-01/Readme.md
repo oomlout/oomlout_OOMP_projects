@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-935-STAN-01>Adafruit MCP4725 PCB](#proj-adaf-935-stan-01adafruit-mcp4725-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,22 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.733, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.895, 0.35), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.7304999999999997, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1075, 0.35), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.8099999999999996, 12.5095, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.15, 0.4925), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0|
+|RESE-UNMATCHED-X-O103-01, R1, 17.4625, 8.8265, 90,R1, 10K, RESPACK_4X0603, microbuilder, (0.6875, 0.3475), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 15.748, 5.842, M180,SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.62, 0.23), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.6365, 6.985, 270,U1, MCP4725A1T-E/CH, SOT23-6, microbuilder, (0.4975, 0.275), R270|
+|ERROR, X1 3.5mm Terminal, 0, 0, 0,X1, 3.5mm, Terminal, Block, TERMBLOCK_1X2-3.5MM, adafruit_electromech, (0.5, 0.55), R180|
 
 ## Tags
 
@@ -57,7 +74,22 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$27, 22.86, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.6365, 6.985, 270
 - oompPart: ERROR, X1 3.5mm Terminal, 0, 0, 0
-- rawPart: 
+- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.305, 0.3025), R90
+- rawPart: C4, 0.1uF, 0603-NO, microbuilder, (0.37, 0.2925), R90
+- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.895, 0.35), R90
+- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1075, 0.35), R270
+- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.15, 0.4925), R90
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.21, 0.185), R0
+- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7825, 0.6525), R0
+- rawPart: JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0
+- rawPart: R1, 10K, RESPACK_4X0603, microbuilder, (0.6875, 0.3475), R90
+- rawPart: SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.62, 0.23), MR180
+- rawPart: U$20, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, 0.6), R0
+- rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.6), R0
+- rawPart: U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, 0.1), R0
+- rawPart: U$27, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.1), R0
+- rawPart: U1, MCP4725A1T-E/CH, SOT23-6, microbuilder, (0.4975, 0.275), R270
+- rawPart: X1, 3.5mm, Terminal, Block, TERMBLOCK_1X2-3.5MM, adafruit_electromech, (0.5, 0.55), R180
 
 
 

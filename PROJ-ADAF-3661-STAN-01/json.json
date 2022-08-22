@@ -70,7 +70,35 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.34, 0.26), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.075, 0.26), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1uF, 0805-NO, microbuilder, (0.15, 0.375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.06, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, AP3602, SOT23-6, microbuilder, (0.2, 0.26), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100K, 0805-NO, microbuilder, (0.305, 0.375), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.5), R0"
         },
         {
             "name": "oompID",

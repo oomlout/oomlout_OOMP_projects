@@ -37,6 +37,22 @@
             "value": "https://www.sparkfun.com/products/12567"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.35, 15.239999999999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, JP1 1x3 RA, 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "B1, Buzzer, BUZZER-CCV, SparkFun, (0.25, 0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1x3, RA, Female, .1, 1X03_SMD_RA_FEMALE, SparkFun-Connectors, (0.175, 0.025), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-12567-STAN-01"
         },

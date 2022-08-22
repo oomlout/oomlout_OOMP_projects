@@ -122,7 +122,87 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, 0805, microbuilder, (0.73, 0.2), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, 0805, microbuilder, (0.73, 0.3), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1uF, 0805, microbuilder, (0.45, 0.42), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 1uF, 0805, microbuilder, (0.73, 0.4), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805, microbuilder, (0.16, 0.57), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, 0805, microbuilder, (0.24, 0.57), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, 0805, microbuilder, (0.5, 0.705), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323F, adafruit, (0.57, 0.425), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.18, 0.73), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.16, 0.08), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0.66929134, 0.08874016), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LCD1, UG-2832HSWEG02_WRAPUNDER, microbuilder, (1.25, 0.40984252), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.1, 0.22), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.43, 0.27), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 390K, 0805, microbuilder, (0.32, 0.57), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805, microbuilder, (0.1, 0.365), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805, microbuilder, (0.59, 0.27), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0805, microbuilder, (0.26, 0.26), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, 0805, microbuilder, (0.23, 0.1), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 10K, 0805, microbuilder, (0.31, 0.1), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, RT9193, SOT23-5, microbuilder, (0.68, 0.685), MR270"
         },
         {
             "name": "oompID",

@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, C0805, adafruit, (0.215, 0.21), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (0.05, 0.35), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN2, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (0.75, 0.35), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.68, 0.17), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.18, 0.645), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.13, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, 4093DT, MC14093B-TSSOP14, adafruit, (0.4, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED, RED, CHIP-LED0805, adafruit, (0.4, 0.09), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 2N2222, SOT23-BEC, transistor, (0.6, 0.445), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, POWER, PFET, SOT23-WIDE, microbuilder, (0.19, 0.46), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, R0805, rcl, (0.6, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100K, R0805, rcl, (0.61, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100K, R0805, rcl, (0.4, 0.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 1K, R0805, adafruit, (0.61, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, B3F-40XX-ROUND, adafruit, (0.4, 0.35), MR90"
         },
         {
             "name": "oompID",

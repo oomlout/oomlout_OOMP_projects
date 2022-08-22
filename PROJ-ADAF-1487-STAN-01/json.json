@@ -594,7 +594,559 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, RCL_C0805K, neomatrix-8x8, (-1.05, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, RCL_C0805K, neomatrix-8x8, (-0.7, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, RCL_C0805K, neomatrix-8x8, (-0.35, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, RCL_C0805K, neomatrix-8x8, (0, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, RCL_C0805K, neomatrix-8x8, (0.35, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, RCL_C0805K, neomatrix-8x8, (0.7, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, RCL_C0805K, neomatrix-8x8, (1.05, 1.25), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, RCL_C0805K, neomatrix-8x8, (-1.05, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, RCL_C0805K, neomatrix-8x8, (-0.7, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, RCL_C0805K, neomatrix-8x8, (-0.35, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C12, RCL_C0805K, neomatrix-8x8, (0, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, RCL_C0805K, neomatrix-8x8, (0.35, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C14, RCL_C0805K, neomatrix-8x8, (0.7, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C15, RCL_C0805K, neomatrix-8x8, (1.05, 0.9), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C17, RCL_C0805K, neomatrix-8x8, (-1.05, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C18, RCL_C0805K, neomatrix-8x8, (-0.7, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C19, RCL_C0805K, neomatrix-8x8, (-0.35, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C20, RCL_C0805K, neomatrix-8x8, (0, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C21, RCL_C0805K, neomatrix-8x8, (0.35, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C22, RCL_C0805K, neomatrix-8x8, (0.7, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C23, RCL_C0805K, neomatrix-8x8, (1.05, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C25, RCL_C0805K, neomatrix-8x8, (-1.05, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C26, RCL_C0805K, neomatrix-8x8, (-0.7, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C27, RCL_C0805K, neomatrix-8x8, (-0.35, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C28, RCL_C0805K, neomatrix-8x8, (0, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C29, RCL_C0805K, neomatrix-8x8, (0.35, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C30, RCL_C0805K, neomatrix-8x8, (0.7, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C31, RCL_C0805K, neomatrix-8x8, (1.05, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C33, RCL_C0805K, neomatrix-8x8, (-1.05, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C34, RCL_C0805K, neomatrix-8x8, (-0.7, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C35, RCL_C0805K, neomatrix-8x8, (-0.35, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C36, RCL_C0805K, neomatrix-8x8, (0, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C37, RCL_C0805K, neomatrix-8x8, (0.35, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C38, RCL_C0805K, neomatrix-8x8, (0.7, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C39, RCL_C0805K, neomatrix-8x8, (1.05, -0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C41, RCL_C0805K, neomatrix-8x8, (-1.05, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C42, RCL_C0805K, neomatrix-8x8, (-0.7, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C43, RCL_C0805K, neomatrix-8x8, (-0.35, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C44, RCL_C0805K, neomatrix-8x8, (0, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C45, RCL_C0805K, neomatrix-8x8, (0.35, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C46, RCL_C0805K, neomatrix-8x8, (0.7, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C47, RCL_C0805K, neomatrix-8x8, (1.05, -0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C49, RCL_C0805K, neomatrix-8x8, (-1.05, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C50, RCL_C0805K, neomatrix-8x8, (-0.7, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C51, RCL_C0805K, neomatrix-8x8, (-0.35, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C52, RCL_C0805K, neomatrix-8x8, (0, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C53, RCL_C0805K, neomatrix-8x8, (0.35, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C54, RCL_C0805K, neomatrix-8x8, (0.7, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C55, RCL_C0805K, neomatrix-8x8, (1.05, -0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C57, RCL_C0805K, neomatrix-8x8, (-1.05, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C58, RCL_C0805K, neomatrix-8x8, (-0.7, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C59, RCL_C0805K, neomatrix-8x8, (-0.35, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C60, RCL_C0805K, neomatrix-8x8, (0, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C61, RCL_C0805K, neomatrix-8x8, (0.35, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C62, RCL_C0805K, neomatrix-8x8, (0.7, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C63, RCL_C0805K, neomatrix-8x8, (1.05, -1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.335, 1.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-1.29, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-1.3, -1.045), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X03, neomatrix-8x8, (-1.325, 1.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X03, neomatrix-8x8, (1.315, -1.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS28115050, WS28115050, neomatrix-8x8, (-1.225, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, WS28115050, WS28115050, neomatrix-8x8, (-0.875, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, WS28115050, WS28115050, neomatrix-8x8, (-0.525, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, WS28115050, WS28115050, neomatrix-8x8, (-0.175, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED5, WS28115050, WS28115050, neomatrix-8x8, (0.175, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED6, WS28115050, WS28115050, neomatrix-8x8, (0.525, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED7, WS28115050, WS28115050, neomatrix-8x8, (0.875, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED8, WS28115050, WS28115050, neomatrix-8x8, (1.225, 1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED9, WS28115050, WS28115050, neomatrix-8x8, (-1.225, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED10, WS28115050, WS28115050, neomatrix-8x8, (-0.875, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED11, WS28115050, WS28115050, neomatrix-8x8, (-0.525, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED12, WS28115050, WS28115050, neomatrix-8x8, (-0.175, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED13, WS28115050, WS28115050, neomatrix-8x8, (0.175, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED14, WS28115050, WS28115050, neomatrix-8x8, (0.525, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED15, WS28115050, WS28115050, neomatrix-8x8, (0.875, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED16, WS28115050, WS28115050, neomatrix-8x8, (1.225, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED17, WS28115050, WS28115050, neomatrix-8x8, (-1.225, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED18, WS28115050, WS28115050, neomatrix-8x8, (-0.875, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED19, WS28115050, WS28115050, neomatrix-8x8, (-0.525, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED20, WS28115050, WS28115050, neomatrix-8x8, (-0.175, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED21, WS28115050, WS28115050, neomatrix-8x8, (0.175, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED22, WS28115050, WS28115050, neomatrix-8x8, (0.525, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED23, WS28115050, WS28115050, neomatrix-8x8, (0.875, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED24, WS28115050, WS28115050, neomatrix-8x8, (1.225, 0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED25, WS28115050, WS28115050, neomatrix-8x8, (-1.225, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED26, WS28115050, WS28115050, neomatrix-8x8, (-0.875, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED27, WS28115050, WS28115050, neomatrix-8x8, (-0.525, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED28, WS28115050, WS28115050, neomatrix-8x8, (-0.175, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED29, WS28115050, WS28115050, neomatrix-8x8, (0.175, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED30, WS28115050, WS28115050, neomatrix-8x8, (0.525, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED31, WS28115050, WS28115050, neomatrix-8x8, (0.875, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED32, WS28115050, WS28115050, neomatrix-8x8, (1.225, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED33, WS28115050, WS28115050, neomatrix-8x8, (-1.225, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED34, WS28115050, WS28115050, neomatrix-8x8, (-0.875, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED35, WS28115050, WS28115050, neomatrix-8x8, (-0.525, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED36, WS28115050, WS28115050, neomatrix-8x8, (-0.175, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED37, WS28115050, WS28115050, neomatrix-8x8, (0.175, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED38, WS28115050, WS28115050, neomatrix-8x8, (0.525, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED39, WS28115050, WS28115050, neomatrix-8x8, (0.875, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED40, WS28115050, WS28115050, neomatrix-8x8, (1.225, -0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED41, WS28115050, WS28115050, neomatrix-8x8, (-1.225, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED42, WS28115050, WS28115050, neomatrix-8x8, (-0.875, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED43, WS28115050, WS28115050, neomatrix-8x8, (-0.525, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED44, WS28115050, WS28115050, neomatrix-8x8, (-0.175, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED45, WS28115050, WS28115050, neomatrix-8x8, (0.175, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED46, WS28115050, WS28115050, neomatrix-8x8, (0.525, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED47, WS28115050, WS28115050, neomatrix-8x8, (0.875, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED48, WS28115050, WS28115050, neomatrix-8x8, (1.225, -0.525), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED49, WS28115050, WS28115050, neomatrix-8x8, (-1.225, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED50, WS28115050, WS28115050, neomatrix-8x8, (-0.875, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED51, WS28115050, WS28115050, neomatrix-8x8, (-0.525, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED52, WS28115050, WS28115050, neomatrix-8x8, (-0.175, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED53, WS28115050, WS28115050, neomatrix-8x8, (0.175, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED54, WS28115050, WS28115050, neomatrix-8x8, (0.525, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED55, WS28115050, WS28115050, neomatrix-8x8, (0.875, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED56, WS28115050, WS28115050, neomatrix-8x8, (1.225, -0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED57, WS28115050, WS28115050, neomatrix-8x8, (-1.225, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED58, WS28115050, WS28115050, neomatrix-8x8, (-0.875, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED59, WS28115050, WS28115050, neomatrix-8x8, (-0.525, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED60, WS28115050, WS28115050, neomatrix-8x8, (-0.175, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED61, WS28115050, WS28115050, neomatrix-8x8, (0.175, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED62, WS28115050, WS28115050, neomatrix-8x8, (0.525, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED63, WS28115050, WS28115050, neomatrix-8x8, (0.875, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED64, WS28115050, WS28115050, neomatrix-8x8, (1.225, -1.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TESTPOINT_SMT, microbuilder, (-1.305, 0.35), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TESTPOINT_SMT, microbuilder, (1.305, -0.35), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP3, TESTPOINT_SMT, microbuilder, (-1.305, -0.35), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, TESTPOINT_SMT, microbuilder, (1.305, 0.355), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP5, TESTPOINT_SMT, microbuilder, (0.435, 1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP6, TESTPOINT_SMT, microbuilder, (-1.305, -1.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP7, TESTPOINT_SMT, microbuilder, (1.305, 1.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP8, TESTPOINT_SMT, microbuilder, (-0.35, 1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP9, TESTPOINT_SMT, microbuilder, (1.05, 1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP10, TESTPOINT_SMT, microbuilder, (-0.35, -1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP11, TESTPOINT_SMT, microbuilder, (-1.05, -1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP12, TESTPOINT_SMT, microbuilder, (-1.05, 1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP13, TESTPOINT_SMT, microbuilder, (0.35, -1.305), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP14, TESTPOINT_SMT, microbuilder, (1.05, -1.305), MR270"
         },
         {
             "name": "oompID",

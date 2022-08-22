@@ -37,6 +37,30 @@
             "value": "https://www.sparkfun.com/products/13030"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, -11.43, -7.62, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 11.43, 5.08, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, U1 RFID ID_PACKAGE, 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X06, SparkFun-Connectors, (-11.43, -7.62), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X05, SparkFun-Connectors, (11.43, 5.08), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, RFID, ID_PACKAGE, ID, Innovations, (0, 0), MR0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13030-STAN-01"
         },

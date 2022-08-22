@@ -78,7 +78,43 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.13, 0.32), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-NO, microbuilder, (0.17, 0.64), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.06, 0.675), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.83, 0.315), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X09_ROUND_70, microbuilder, (0.5, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 47K, RESPACK_4X0603, microbuilder, (0.13, 0.46), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 47K, RESPACK_4X0603, microbuilder, (0.87, 0.46), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, microSD, MICROSD, microbuilder, (0.775, 0.265), R180"
         },
         {
             "name": "oompID",

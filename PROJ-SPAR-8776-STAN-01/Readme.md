@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-8776-STAN-01>LilyPad Button Board](#proj-spar-8776-stan-01lilypad-button-board)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-8776-STAN-01>LilyPad Button Board
@@ -20,6 +21,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON-, 0.0, 3.937, 180,BUTTON-, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.155), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTONS, 0.0, -3.937, 0,BUTTONS, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.155), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, -0.127, 0.0, 180,S1, TACTILE_SWITCH_SMD, SparkFun, (-0.005, 0), R180|
+
 ## Tags
 
 - hexID: PRS8776
@@ -31,3 +41,9 @@ Contents
 - oompName: LilyPad Button Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Button_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8776
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON-, 0.0, 3.937, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTONS, 0.0, -3.937, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, -0.127, 0.0, 180
+- rawPart: BUTTON-, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.155), R180
+- rawPart: BUTTONS, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.155), R0
+- rawPart: S1, TACTILE_SWITCH_SMD, SparkFun, (-0.005, 0), R180

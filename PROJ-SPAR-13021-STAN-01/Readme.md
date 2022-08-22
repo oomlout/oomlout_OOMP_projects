@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-13021-STAN-01>MagJack Breakout](#proj-spar-13021-stan-01magjack-breakout)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-13021-STAN-01>MagJack Breakout
@@ -20,6 +21,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 27.94, 180,J1, MAGJACK-NOLABELS, MAGJACK, SparkFun-Connectors, (0.95, 1.1), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0,JP1, M13LOCK, 1X13_LOCK, SparkFun-Connectors, (0.05, 0.05), R0|
+
 ## Tags
 
 - hexID: PRS13021
@@ -31,3 +40,11 @@ Contents
 - oompName: MagJack Breakout
 - sources: All source files from https://github.com/sparkfun/MagJack_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13021
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 16.509999999999998, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 31.75, 5.08, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 27.94, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0
+- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.65), R0
+- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.25, 0.2), R0
+- rawPart: J1, MAGJACK-NOLABELS, MAGJACK, SparkFun-Connectors, (0.95, 1.1), R180
+- rawPart: JP1, M13LOCK, 1X13_LOCK, SparkFun-Connectors, (0.05, 0.05), R0

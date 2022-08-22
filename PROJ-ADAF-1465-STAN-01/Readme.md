@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1465-STAN-01>Adafruit ISP SWD and JTAG Breakout PCBs](#proj-adaf-1465-stan-01adafruit-isp-swd-and-jtag-breakout-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 6.35, 270,JP1, 1X05_ROUND_FULL_76, microbuilder, (0.65, 0.25), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 6.35, 270,JP2, 1X05_ROUND_FULL_76, microbuilder, (0.05, 0.25), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 8.889999999999999, 6.35, 270,X1, 20317, 2X05_1.27MM_BOX_POSTS, microbuilder, (0.35, 0.25), R270|
+
 ## Tags
 
 - hexID: PRA1465
@@ -46,7 +56,11 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 8.889999999999999, 6.35, 270
-- rawPart: 
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.3, 0.05), R270
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.4, 0.45), R270
+- rawPart: JP1, 1X05_ROUND_FULL_76, microbuilder, (0.65, 0.25), R270
+- rawPart: JP2, 1X05_ROUND_FULL_76, microbuilder, (0.05, 0.25), R270
+- rawPart: X1, 20317, 2X05_1.27MM_BOX_POSTS, microbuilder, (0.35, 0.25), R270
 
 
 

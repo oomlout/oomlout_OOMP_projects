@@ -130,7 +130,95 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, 1X08-CLEANBIG, adafruit, (2.15, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X08_ROUND_76, microbuilder, (1.5, 1.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X08_ROUND_76, microbuilder, (1.5, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08-CLEANBIG, adafruit, (1.45, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X10_ROUND70, microbuilder, (1.19, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X06-CLEANBIG, adafruit, (2.25, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP15, Shrouded, 2x8, 2X08_SHROUDED, microbuilder, (1.5, 1.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "MATRIX_PWR, PINHEAD, TERMBLOCK508, mshield, (0.205, 0.92), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "S4, 6mm, B3F-10XX, switch-omron, (0.235, 1.955), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.65, 0.53), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.85, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.75, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.65, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.55, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ6, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.45, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ7, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.35, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ8, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.25, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ9, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.15, 1.57), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ10, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.85, 0.53), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ12, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.45, 0.53), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ13, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.35, 0.53), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ14, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.25, 0.53), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$41, ARDUINO_R3_ICSP_NODIM, ARDUINOR3_ICSP_NODIM, adafruit, (0, 0), R0"
         },
         {
             "name": "oompID",

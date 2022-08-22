@@ -166,7 +166,131 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF/16V, _0805MP, microbuilder, (0.5019685, -0.32480315), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF/16V, _0805MP, microbuilder, (0.62992126, -0.11811024), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1.0uF, _0805MP, microbuilder, (0.47244094, -0.00984252), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 1.0uF, _0805MP, microbuilder, (-0.46751969, -0.29527559), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, _0805MP, microbuilder, (-0.47244094, -0.18700787), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, _0805MP, microbuilder, (0.58070866, 0.34448819), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, _0805MP, microbuilder, (0.0492126, -0.08858268), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, _0805MP, microbuilder, (0.34448819, -0.08858268), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 10uF, _0805MP, microbuilder, (0.57086614, 0.12795276), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, microSD, MICROSD, microbuilder, (-0.05905512, 0.47244094), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323, microbuilder, (0.5019685, -0.15748031), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, BAT54T1G, SOD-123, microbuilder, (0.37401575, 0.07874016), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, 1N4148, SOD-323, microbuilder, (0.5019685, -0.24606299), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X11_ROUND, microbuilder, (0, 0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 10uH, INDUCTOR_1007, microbuilder, (0.24606299, 0.05905512), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 600K, _0805MP, microbuilder, (-0.19192913, -0.13779528), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 50, _0805MP, microbuilder, (0.5511811, -0.00984252), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 100K, _0805MP, microbuilder, (0.19685039, -0.08858268), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, _0805MP, microbuilder, (0.00984252, 0.0492126), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, _0805MP, microbuilder, (-0.46751969, -0.36909449), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, BS0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (-0.59055118, -0.30511811), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$22, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.75, -0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$23, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.75, -0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$24, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.75, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.75, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$26, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.00984252, -0.59055118), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$27, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.52165354, 0.45275591), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$29, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.6003937, 0.62007874), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, UG-2828GDEDF11, FPC_XF2M-3015-1A, microbuilder, (0, -0.32480315), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3v, SOT23-5, microbuilder, (0.55610236, 0.23622047), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, FAN5331SX, SOT23-5@1, microbuilder, (0.11811024, 0.0492126), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, 74HC4050D, SOIC16, microbuilder, (0.18700787, 0.35917323), R180"
         },
         {
             "name": "oompID",

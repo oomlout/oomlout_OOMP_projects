@@ -37,6 +37,78 @@
             "value": "https://www.sparkfun.com/products/12849"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, D1, 10.16, 24.13, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, D2, 25.4, 24.13, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.0584, 29.6926, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 27.94, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 49.529999999999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O331-01, R1, 12.7, 24.13, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O331-01, R2, 22.86, 24.13, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 17.779999999999998, 40.64, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, GREEN, LED-0603, SparkFun-LED, (0.4, 0.95), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, RED, LED-0603, SparkFun-LED, (1, 0.95), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.396, 1.169), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.1, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, M20, 1X20, SparkFun-Connectors, (0.05, 0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, M20, 1X20, SparkFun-Connectors, (1.35, 1.95), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 330, 0603-RES, SparkFun-Resistors, (0.5, 0.95), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 330, 0603-RES, SparkFun-Resistors, (0.9, 0.95), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, BLUETOOTH-RN-52, RN-52, SparkFun-RF, (0.7, 1.6), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-12849-STAN-01"
         },

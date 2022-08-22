@@ -74,7 +74,39 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "CONN1, HEADER-1X25, 1X25_ROUND_70MIL, microbuilder, (1.29, 1.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.33, 0.06), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.3, 1.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 3.9K, 0805-NO, microbuilder, (2.145, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 3.9K, 0805-NO, microbuilder, (2.205, 0.21), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 3.9K, 0805-NO, microbuilder, (1.995, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS_HATNOSLOTS, PI_HAT_NOSLOTS, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.855, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, CAT24C32, SOIC8_150MIL, microbuilder, (2.005, 0.19), R270"
         },
         {
             "name": "oompID",

@@ -86,7 +86,51 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, 0805-NO, microbuilder, (0.23, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1uF, 0805-NO, microbuilder, (0.47, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.64, 0.11), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.13, 0.43), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_ROUND_FULL_76, microbuilder, (0.35, 0.07), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.56, 0.27), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.15, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TESTPOINT_PAD_2MM, microbuilder, (0.45, 0.57), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TESTPOINT_PAD_2MM, microbuilder, (0.25, 0.57), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, DRV2605LDGS, PSOP10, microbuilder, (0.35, 0.32), R0"
         },
         {
             "name": "oompID",

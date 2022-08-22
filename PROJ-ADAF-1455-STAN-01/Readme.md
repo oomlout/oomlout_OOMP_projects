@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1455-STAN-01>Adafruit TLC59711 Breakout PCB](#proj-adaf-1455-stan-01adafruit-tlc59711-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|ERROR, C1 10uF/16V 0805, 0, 0, 0,C1, 10uF/16V, 0805, microbuilder, (0.8, 0.61), R180|
+|ERROR, C2 1uF/50V 0805, 0, 0, 0,C2, 1uF/50V, 0805, microbuilder, (0.8, 0.29), R180|
+|ERROR, C4 220uF+ E2,5-7, 0, 0, 0,C4, 220uF+, E2,5-7, adafruit, (0.8, 0.45), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 13.843, 11.43, 0,IC1, TLC59711, HTSSOP20DAP, adafruit, (0.545, 0.45), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 26.669999999999998, 11.43, 90,JP1, OUTPUT, 1X05_ROUND_70, microbuilder, (1.05, 0.45), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.889999999999999, 2.54, 0,JP2, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.049999999999997, 2.54, 0,JP3, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 11.43, 90,JP4, INPUT, 1X05_ROUND_70, microbuilder, (0.05, 0.45), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 8.889999999999999, 20.32, 0,JP5, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.8), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 19.049999999999997, 20.32, 0,JP8, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.8), R0|
+|UNMATCHED-0805-X-UNMATCHED-01, LED1, 8.889999999999999, 13.97, 180,LED1, Green, CHIP-LED0805, adafruit, (0.35, 0.55), R180|
+|RESE-0805-X-UNMATCHED-01, R2, 8.889999999999999, 10.033, 90,R2, 470, 0805, microbuilder, (0.35, 0.395), R90|
+|RESE-UNMATCHED-X-UNMATCHED-01, R3, 6.35, 11.43, 270,R3, 3.3K, 0805-THM-7, adafruit, (0.25, 0.45), R270|
 
 ## Tags
 
@@ -61,7 +81,26 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 25.273, 20.193, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 2.54, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 25.273, 2.413, 0
-- rawPart: 
+- rawPart: C1, 10uF/16V, 0805, microbuilder, (0.8, 0.61), R180
+- rawPart: C2, 1uF/50V, 0805, microbuilder, (0.8, 0.29), R180
+- rawPart: C4, 220uF+, E2,5-7, adafruit, (0.8, 0.45), R180
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55, 0.1), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.8, 0.385), R0
+- rawPart: FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55, 0.8), R0
+- rawPart: IC1, TLC59711, HTSSOP20DAP, adafruit, (0.545, 0.45), R0
+- rawPart: JP1, OUTPUT, 1X05_ROUND_70, microbuilder, (1.05, 0.45), R90
+- rawPart: JP2, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.1), R0
+- rawPart: JP3, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.1), R0
+- rawPart: JP4, INPUT, 1X05_ROUND_70, microbuilder, (0.05, 0.45), R90
+- rawPart: JP5, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.8), R0
+- rawPart: JP8, 2X03_ROUND_70MIL, microbuilder, (0.75, 0.8), R0
+- rawPart: LED1, Green, CHIP-LED0805, adafruit, (0.35, 0.55), R180
+- rawPart: R2, 470, 0805, microbuilder, (0.35, 0.395), R90
+- rawPart: R3, 3.3K, 0805-THM-7, adafruit, (0.25, 0.45), R270
+- rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0
+- rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.795), R0
+- rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
+- rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.095), R0
 
 
 

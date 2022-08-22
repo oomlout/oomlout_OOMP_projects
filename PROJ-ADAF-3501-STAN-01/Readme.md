@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-3501-STAN-01>Adafruit Gemma M0 PCB](#proj-adaf-3501-stan-01adafruit-gemma-m0-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,36 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3, -8.001, -8.001, 135,3V3, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.315, -0.315), R135|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B0, -11.302999999999999, 0.0, 90,B0, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.445, 0), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 0.0, 270,B1, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.445, 0), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, -8.001, 8.001, 45,B2, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.315, 0.315), R45|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, -5.6514999999999995, -5.7785, 135,C2, 1uF, 0603-NO, microbuilder, (-0.2225, -0.2275), R135|
+|CAPC-0603-X-UNMATCHED-01, C3, -6.727806203999999, -3.6426094279999996, 180,C3, 1uF, 0603-NO, microbuilder, (-0.26487426, -0.14340982), R180|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, -10.033, 180,CN1, JST-PH, JSTPH2, microbuilder, (0, -0.395), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 4.117999892, -4.498999892, 180,D1, SCHOTTKY, SOD-123FL, adafruit, (0.16212598, -0.17712598), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 3.6194999999999995, 6.35, 180,D2, SCHOTTKY, SOD-123FL, adafruit, (0.1425, 0.25), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 8.001, 8.001, 315,GND, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.315, 0.315), R315|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -1.7716157099999998, 2.9472999219999996, 0,IC1, ATSAMD21E, QFN32_5MM, microbuilder, (-0.06974865, 0.11603543), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -6.35, 4.191, 90,LED1, AP102-2020, APA102_2020, microbuilder, (-0.25, 0.165), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 5.968999999999999, 4.571999999999999, 270,PWR, red, CHIPLED_0603_NOOUTLINE, microbuilder, (0.235, 0.18), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -7.429499999999999, -0.3175, 270,Q1, reset, BTN_KMR2_4.6X2.8, microbuilder, (-0.2925, -0.0125), R270|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 5.334, 0.127, 90,SW1, EG1218, EG1390, microbuilder, (0.21, 0.005), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SWC, -2.54, 5.715, M0,SWC, TPTP15R, TP15R, testpad, (-0.1, 0.225), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SWD, -5.460999999999999, 5.715, M0,SWD, TPTP15R, TP15R, testpad, (-0.215, 0.225), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 0.508, 5.715, M0,TP1, TPTP16R, TP16R, testpad, (0.02, 0.225), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, -0.38099999999999995, -1.9685, 270,U1, AP2112K-3.3, SOT23-5, microbuilder, (-0.015, -0.0775), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, VBAT, 8.001, -8.001, 225,VBAT, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.315, -0.315), R225|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 0.0, 9.143999999999998, 180,X2, MicroUSB, 4UCONN_20329_V2, microbuilder, (0, 0.36), R180|
 
 ## Tags
 
@@ -67,7 +98,32 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, -0.38099999999999995, -1.9685, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VBAT, 8.001, -8.001, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 0.0, 9.143999999999998, 180
-- rawPart: 
+- rawPart: 3V3, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.315, -0.315), R135
+- rawPart: B0, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.445, 0), R90
+- rawPart: B1, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.445, 0), R270
+- rawPart: B2, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (-0.315, 0.315), R45
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (-0.13962598, -0.1775), R180
+- rawPart: C2, 1uF, 0603-NO, microbuilder, (-0.2225, -0.2275), R135
+- rawPart: C3, 1uF, 0603-NO, microbuilder, (-0.26487426, -0.14340982), R180
+- rawPart: C8, 10uF, 0805-NO, microbuilder, (-0.1575, -0.075), R270
+- rawPart: CN1, JST-PH, JSTPH2, microbuilder, (0, -0.395), R180
+- rawPart: D1, SCHOTTKY, SOD-123FL, adafruit, (0.16212598, -0.17712598), R180
+- rawPart: D2, SCHOTTKY, SOD-123FL, adafruit, (0.1425, 0.25), R180
+- rawPart: GND, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.315, 0.315), R315
+- rawPart: IC1, ATSAMD21E, QFN32_5MM, microbuilder, (-0.06974865, 0.11603543), R0
+- rawPart: LED1, AP102-2020, APA102_2020, microbuilder, (-0.25, 0.165), R90
+- rawPart: PWR, red, CHIPLED_0603_NOOUTLINE, microbuilder, (0.235, 0.18), R270
+- rawPart: Q1, reset, BTN_KMR2_4.6X2.8, microbuilder, (-0.2925, -0.0125), R270
+- rawPart: R5, 1K, 0603-NO, microbuilder, (0.1271966, 0.17866105), R180
+- rawPart: SW1, EG1218, EG1390, microbuilder, (0.21, 0.005), R90
+- rawPart: SWC, TPTP15R, TP15R, testpad, (-0.1, 0.225), MR0
+- rawPart: SWD, TPTP15R, TP15R, testpad, (-0.215, 0.225), MR0
+- rawPart: TP1, TPTP16R, TP16R, testpad, (0.02, 0.225), MR0
+- rawPart: U$1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.38456693, 0.14494094), R90
+- rawPart: U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.005, -0.46261811), R0
+- rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (-0.015, -0.0775), R270
+- rawPart: VBAT, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.315, -0.315), R225
+- rawPart: X2, MicroUSB, 4UCONN_20329_V2, microbuilder, (0, 0.36), R180
 
 
 

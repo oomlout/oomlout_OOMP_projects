@@ -37,6 +37,94 @@
             "value": "https://www.sparkfun.com/products/9370"
         },
         {
+            "name": "oompPart",
+            "value": "ERROR, C1 100uF-25V NIPPON_F80, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, C2 22uF-35v PANASONIC_C, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 25.4, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 20.574, 26.162, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.588, 4.571999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IN, 8.889999999999999, 2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, OUT, 16.509999999999998, 25.4, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 24.13, 13.97, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O223-01, R1, 24.13, 7.619999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O104-01, R2, 24.13, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 13.97, 13.97, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 100uF-25V, NIPPON_F80, SparkFun, (0.15, 0.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 22uF-35v, PANASONIC_C, SparkFun, (0.16, 0.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0603-CAP, SparkFun, (0.3, 1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.81, 1.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.22, 0.18), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IN, 1X05, SparkFun, (0.35, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "OUT, 1X03, SparkFun, (0.65, 1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, MOSFET-NCHANNELSMD, SOT23-3, SparkFun, (0.95, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 22K, 0603-RES, SparkFun, (0.95, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100K, 0603-RES, SparkFun, (0.95, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, DC-DC_CONVERTER, DC-DC_CONVERTER, SparkFun, (0.55, 0.55), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9370-STAN-01"
         },

@@ -90,7 +90,55 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP6, 1X05, SparkFun, (-0.2, 0.8), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, Red, LED10MM, SparkFun, (0, -0.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, Green, LED10MM, SparkFun, (-0.235, 0.135), R150"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, Blue, LED10MM, SparkFun, (0.235, 0.135), R30"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 2N3904, TO-92, SparkFun, (-0.345, -0.2), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, 2N3904, TO-92, SparkFun, (0, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q3, 2N3904, TO-92, SparkFun, (0.35, -0.2), R240"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 36, AXIAL-0.4, SparkFun, (0, -0.55), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22, AXIAL-0.4, SparkFun, (-0.47, 0.275), R60"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 22, AXIAL-0.4, SparkFun, (0.47, 0.275), R300"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 330, AXIAL-0.3, SparkFun, (-0.475, -0.275), R120"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 330, AXIAL-0.3, SparkFun, (0, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 330, AXIAL-0.3, SparkFun, (0.48, -0.275), R240"
         },
         {
             "name": "oompID",

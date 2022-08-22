@@ -37,6 +37,422 @@
             "value": "https://www.sparkfun.com/products/13006"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 41.275, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 60.324999999999996, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 29.209999999999997, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 21.59, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R3, 13.97, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R4, 6.35, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R5, 6.35, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R6, 10.16, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R7, 17.779999999999998, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R8, 25.4, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R9, 29.209999999999997, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R10, 62.230000000000004, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R11, 54.60999999999999, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R12, 46.99, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R13, 39.37, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R14, 39.37, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R15, 43.18, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R16, 50.8, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R17, 58.419999999999995, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R18, 62.230000000000004, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R19, 95.25, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R20, 87.63, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R21, 80.00999999999999, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R22, 72.39, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R23, 72.39, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R24, 76.19999999999999, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R25, 83.82, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R26, 91.44, 44.449999999999996, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R27, 95.25, 52.06999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R28, 33.019999999999996, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R29, 25.4, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R30, 17.779999999999998, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R31, 10.16, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R32, 10.16, 17.779999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R33, 13.97, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R34, 21.59, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R35, 29.209999999999997, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R36, 33.019999999999996, 17.779999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R37, 91.44, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R38, 83.82, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R39, 76.19999999999999, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R40, 68.58, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R41, 68.58, 17.779999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R42, 72.39, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R43, 80.00999999999999, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R44, 87.63, 10.16, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R45, 91.44, 17.779999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 17.779999999999998, 60.959999999999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 50.8, 60.959999999999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 83.82, 60.959999999999994, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 21.59, 26.669999999999998, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW5, 80.00999999999999, 26.669999999999998, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, BANANA-JACK, Testing, (1.625, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, BANANA-JACK, Testing, (2.375, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (1.15, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.85, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.55, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.25, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.25, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.4, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (0.7, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (1, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 100k, AXIAL-0.1EZ, SparkFun-Resistors, (1.15, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (2.45, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (2.15, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (1.85, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (1.55, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (1.55, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (1.7, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (2, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R17, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (2.3, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R18, 10k, AXIAL-0.1EZ, SparkFun-Resistors, (2.45, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R19, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.75, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R20, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.45, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R21, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.15, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R22, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (2.85, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R23, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (2.85, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R24, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R25, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.3, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R26, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.6, 1.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R27, 1k, AXIAL-0.1EZ, SparkFun-Resistors, (3.75, 2.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R28, 100, AXIAL-0.1EZ, SparkFun-Resistors, (1.3, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R29, 100, AXIAL-0.1EZ, SparkFun-Resistors, (1, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R30, 100, AXIAL-0.1EZ, SparkFun-Resistors, (0.7, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R31, 100, AXIAL-0.1EZ, SparkFun-Resistors, (0.4, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R32, 100, AXIAL-0.1EZ, SparkFun-Resistors, (0.4, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R33, 100, AXIAL-0.1EZ, SparkFun-Resistors, (0.55, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R34, 100, AXIAL-0.1EZ, SparkFun-Resistors, (0.85, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R35, 100, AXIAL-0.1EZ, SparkFun-Resistors, (1.15, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R36, 100, AXIAL-0.1EZ, SparkFun-Resistors, (1.3, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R37, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3.6, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R38, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3.3, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R39, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R40, 10, AXIAL-0.1EZ, SparkFun-Resistors, (2.7, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R41, 10, AXIAL-0.1EZ, SparkFun-Resistors, (2.7, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R42, 10, AXIAL-0.1EZ, SparkFun-Resistors, (2.85, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R43, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3.15, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R44, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3.45, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R45, 10, AXIAL-0.1EZ, SparkFun-Resistors, (3.6, 0.7), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (0.7, 2.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (2, 2.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (3.3, 2.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW4, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (0.85, 1.05), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW5, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (3.15, 1.05), R270"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13006-STAN-01"
         },

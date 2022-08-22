@@ -86,7 +86,51 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.475, 0.33905512), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.25, 0.335), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23425197, 0.14153543), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.55043307, 0.87299213), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, VMOTORIN, TERMBLOCK_1X2-3.5MM, microbuilder, (0.37, 0.91), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X10_ROUND_76, microbuilder, (0.1, 0.525), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06-CLEANBIG, adafruit, (0.7, 0.525), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, DMG3415, SOT23-WIDE, microbuilder, (0.36405512, 0.34), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.5, 0.165), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, TB6612, SSOP, SSOP24, microbuilder, (0.39, 0.59), R90"
         },
         {
             "name": "oompID",

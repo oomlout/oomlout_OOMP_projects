@@ -122,7 +122,87 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A0, SJ, jumper, (0.68, 0.12), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "A1, SJ, jumper, (0.52, 0.12), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "A2, SJ, jumper, (0.36, 0.12), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, A/3216-18R, adafruit, (1.63, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (0.805, 0.155), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONTRAST, 10K, TC33X, adafruit, (1.45, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, MCP2300X/SO, SO18W, adafruit, (0.47, 0.44), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, 74LS595D, SO16, 74xx-us, (1.065, 0.46), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 1X5, 3.5MM-5P, adafruit, (1.61, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X16, pinhead, (0.91, 0.777), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, SOT23-BEC, transistor, (0.14, 0.655), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10k, R0805, adafruit, (0.13, 0.28), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10k, R0805, adafruit, (0.13, 0.37), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10k, R0805, adafruit, (0.13, 0.455), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 4.7k, R0805, adafruit, (0.13, 0.195), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 4.7k, R0805, adafruit, (0.13, 0.11), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10k, R0805, adafruit, (0.805, 0.315), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10k, R0805, adafruit, (0.13, 0.54), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SPI, SJ, jumper, (1.135, 0.21), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.06, 0.82), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.815, 0.23), R0"
         },
         {
             "name": "oompID",

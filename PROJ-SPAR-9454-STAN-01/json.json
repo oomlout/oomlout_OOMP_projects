@@ -37,6 +37,62 @@
             "value": "https://www.sparkfun.com/products/9454"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.858, 13.208, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.7619999999999999, 6.35, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 1.27, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-UNMATCHED-01, R1, 6.35, 3.8099999999999996, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O221-01, R2, 1.27, 3.8099999999999996, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 6.35, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10nF, 0402-CAP, SparkFun, (0.15, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.27, 0.52), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.03, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X03, SparkFun, (0.25, 0.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100, 0402-RES, SparkFun, (0.25, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 220, 0402-RES, SparkFun, (0.05, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, QRE1113, QRE1113, SparkFun, (0.15, 0.25), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9454-STAN-01"
         },

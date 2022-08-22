@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-14050-STAN-01>Serial Basic Breakout-CH340G](#proj-spar-14050-stan-01serial-basic-breakout-ch340g)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-14050-STAN-01>Serial Basic Breakout-CH340G
@@ -20,6 +21,33 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 15.875, 180,C1, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.625), R180|
+|CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 10.540999999999999, 180,C2, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.415), R180|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-PF10-01, C4, 7.619999999999999, 8.001, 0,C4, 10pF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.315), R0|
+|CAPC-0603-X-PF10-01, C5, 7.619999999999999, 2.921, 180,C5, 10pF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.115), R180|
+|CAPC-0603-X-UNMATCHED-01, C6, 7.619999999999999, 9.270999999999999, 180,C6, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.365), R180|
+|UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 8.128, 90,D1, GREEN, LED-0603, SparkFun-LED, (0.1, 0.32), R90|
+|UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 5.08, 270,D2, Yellow, LED-0603, SparkFun-LED, (0.1, 0.2), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 20.955, 8.636000000000001, 180,J1, microB, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.825, 0.34), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 8.128, 8.636000000000001, M90,J2, 1X06-SMD-FEMALE-V2, SparkFun-Connectors, (0.32, 0.34), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 8.636000000000001, M270,JP1, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.7, 0.34), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.8099999999999996, 16.002, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.15, 0.63), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 21.462999999999997, 1.397, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.845, 0.055), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 1.27, M0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.05), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 21.59, 16.128999999999998, M0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.85, 0.635), MR0|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 13.208, 180,U1, AP2112-3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.52), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 13.334999999999999, 8.636000000000001, 270,U2, CH340G, SO016, SparkFun-DigitalIC, (0.525, 0.34), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 4.3180000000000005, 2.2859999999999996, 90,U4, 74LVC1G08SE, SOT353, Serial-Basic, (0.17, 0.09), R90|
+|ERROR, Y2 12MHz CRYSTAL-SMD-3.2X2.5, 0, 0, 0,Y2, 12MHz, CRYSTAL-SMD-3.2X2.5, USB, Basic, (0.3, 0.215), R180|
+
 ## Tags
 
 - hexID: PRS14050
@@ -31,3 +59,45 @@ Contents
 - oompName: Serial Basic Breakout-CH340G
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340G (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14050
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 15.875, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 10.540999999999999, 180
+- oompPart: CAPC-0603-X-NF100-V50, C3, 13.334999999999999, 14.985999999999999, 180
+- oompPart: CAPC-0603-X-PF10-01, C4, 7.619999999999999, 8.001, 0
+- oompPart: CAPC-0603-X-PF10-01, C5, 7.619999999999999, 2.921, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 7.619999999999999, 9.270999999999999, 180
+- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 8.128, 90
+- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 5.08, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 20.955, 8.636000000000001, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 8.128, 8.636000000000001, M90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 8.636000000000001, M270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.8099999999999996, 16.002, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 21.462999999999997, 1.397, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 1.27, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 21.59, 16.128999999999998, M0
+- oompPart: RESE-0603-X-O102-01, R2, 3.8099999999999996, 5.08, 270
+- oompPart: RESE-0603-X-O331-01, R3, 3.8099999999999996, 8.128, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 13.208, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 13.334999999999999, 8.636000000000001, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 4.3180000000000005, 2.2859999999999996, 90
+- oompPart: ERROR, Y2 12MHz CRYSTAL-SMD-3.2X2.5, 0, 0, 0
+- rawPart: C1, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.625), R180
+- rawPart: C2, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.415), R180
+- rawPart: C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.525, 0.59), R180
+- rawPart: C4, 10pF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.315), R0
+- rawPart: C5, 10pF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.115), R180
+- rawPart: C6, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.365), R180
+- rawPart: D1, GREEN, LED-0603, SparkFun-LED, (0.1, 0.32), R90
+- rawPart: D2, Yellow, LED-0603, SparkFun-LED, (0.1, 0.2), R270
+- rawPart: J1, microB, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.825, 0.34), R180
+- rawPart: J2, 1X06-SMD-FEMALE-V2, SparkFun-Connectors, (0.32, 0.34), MR90
+- rawPart: JP1, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.7, 0.34), MR270
+- rawPart: JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.15, 0.63), R0
+- rawPart: JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.845, 0.055), R0
+- rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.05), MR0
+- rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.85, 0.635), MR0
+- rawPart: R2, 1K, 0603-RES, SparkFun-Resistors, (0.15, 0.2), R270
+- rawPart: R3, 330, 0603-RES, SparkFun-Resistors, (0.15, 0.32), R90
+- rawPart: U1, AP2112-3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.52), R180
+- rawPart: U2, CH340G, SO016, SparkFun-DigitalIC, (0.525, 0.34), R270
+- rawPart: U4, 74LVC1G08SE, SOT353, Serial-Basic, (0.17, 0.09), R90
+- rawPart: Y2, 12MHz, CRYSTAL-SMD-3.2X2.5, USB, Basic, (0.3, 0.215), R180

@@ -138,7 +138,103 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.75, 0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.62, 0.33), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, MBR120, SOD-123, microbuilder, (0.475, 0.265), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.41, 0.88), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 1.07), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.52, 1.23), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, 74LVC2G34DBVR, SOT23-6, microbuilder, (0.31, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X01-CLEANBIG, adafruit, (0.75, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X01-CLEANBIG, adafruit, (0.05, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X06-BIG, adafruit, (0.4, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 2X03_ROUND_70MIL, microbuilder, (0.41, 0.66), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 1.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 0.85), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.06, 0.85), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.055, 0.655), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 470, 0805-NO, microbuilder, (0.745, 1.205), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 2.2K, 0805-NO, microbuilder, (0.055, 0.46), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, _0805MP, microbuilder, (0.45, 0.375), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 220, 0805-NO, microbuilder, (0.745, 0.99), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 220, 0805-NO, microbuilder, (0.06, 1.01), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.63, 0.695), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.135, 0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "VBAT, JST-2PH, JST-PH-2-SMT-RA, adafruit, (0.4, 1.04), MR0"
         },
         {
             "name": "oompID",

@@ -66,7 +66,31 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "J1, FKIT-RIBBON_CONNECTOR-2MM_L_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_L, SparkFun, (0.13, 0.4), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, FKIT-RIBBON_CONNECTOR-2MM_L_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_L, SparkFun, (0.67, 0.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, FKIT-RIBBON_CONNECTOR-2MM_R_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_R, SparkFun, (0.4, 0.13), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J4, FKIT-RIBBON_CONNECTOR-2MM_R_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_R, SparkFun, (0.4, 0.67), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, FKIT-LED-1206_NO_CREAM, Testing, (0.36, 0.44), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, LED3MM-NS, SparkFun, (0.36, 0.44), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 0603-RES, SparkFun-Resistors, (0.45, 0.35), R225"
         },
         {
             "name": "oompID",

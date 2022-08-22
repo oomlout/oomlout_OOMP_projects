@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-5188-STAN-01>Adafruit DS3231 Precision RTC Breakout PCB](#proj-adaf-5188-stan-01adafruit-ds3231-precision-rtc-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,24 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 10.795, M0,B1, CR1220, CR1220, microbuilder, (0.5, 0.425), MR0|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.6829999999999994, 12.446, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.145, 0.49), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 12.382499999999999, 10.287, 90,IC2, DS3231/SO, SO16W, adafruit_sensor, (0.4875, 0.405), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X08_ROUND_70, microbuilder, (0.5, 0.1), R0|
+|RESE-0603-X-UNMATCHED-01, R1, 5.9055, 5.334, 270,R1, 10k, 0603-NO, microbuilder, (0.2325, 0.21), R270|
+|RESE-0603-X-UNMATCHED-01, R2, 3.6829999999999994, 5.08, 180,R2, 10k, 0603-NO, microbuilder, (0.145, 0.2), R180|
+|RESE-0603-X-UNMATCHED-01, R3, 5.588, 13.462, 90,R3, 10k, 0603-NO, microbuilder, (0.22, 0.53), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 3.8734999999999995, 5.334, M90,SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.1525, 0.21), MR90|
 
 ## Tags
 
@@ -59,7 +78,24 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 3.8734999999999995, 5.334, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 2.54, 15.239999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$17, 22.86, 15.239999999999998, 0
-- rawPart: 
+- rawPart: B1, CR1220, CR1220, microbuilder, (0.5, 0.425), MR0
+- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.79, 0.2), R0
+- rawPart: C5, 0.1uF, 0603-NO, microbuilder, (0.05, 0.145), R90
+- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90
+- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270
+- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.145, 0.49), R90
+- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.2, 0.665), MR0
+- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.795, 0.04), MR0
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7875, 0.6675), R0
+- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.075, 0.045), R0
+- rawPart: IC2, DS3231/SO, SO16W, adafruit_sensor, (0.4875, 0.405), R90
+- rawPart: JP1, 1X08_ROUND_70, microbuilder, (0.5, 0.1), R0
+- rawPart: R1, 10k, 0603-NO, microbuilder, (0.2325, 0.21), R270
+- rawPart: R2, 10k, 0603-NO, microbuilder, (0.145, 0.2), R180
+- rawPart: R3, 10k, 0603-NO, microbuilder, (0.22, 0.53), R90
+- rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.1525, 0.21), MR90
+- rawPart: U$9, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, adafruit_electromech, (0.1, 0.6), R0
+- rawPart: U$17, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, adafruit_electromech, (0.9, 0.6), R0
 
 
 

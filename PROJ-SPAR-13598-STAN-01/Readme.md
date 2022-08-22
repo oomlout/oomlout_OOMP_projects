@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-13598-STAN-01>Photon Proto Shield](#proj-spar-13598-stan-01photon-proto-shield)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-13598-STAN-01>Photon Proto Shield
@@ -20,6 +21,22 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 0.0, 0,JP1, SPARK_PHOTONTEMPLATE_WIDE, SPARK_PHOTON_TEMPLATE_WIDE, template_temp, (0.4, 0), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 34.29, 0,JP2, 1X04, SparkFun-Connectors, (0.65, 1.35), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 30.479999999999997, 0,JP3, 1X03, SparkFun-Connectors, (0.85, 1.2), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 19.049999999999997, 30.479999999999997, 180,JP4, 1X03, SparkFun-Connectors, (0.75, 1.2), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 13.97, 3.8099999999999996, 90,JP5, 1X10_NO_SILK, SparkFun-Connectors, (0.55, 0.15), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 16.509999999999998, 3.8099999999999996, 90,JP6, 1X10_NO_SILK, SparkFun-Connectors, (0.65, 0.15), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.049999999999997, 6.35, 90,JP7, 1X09_NO_SILK, SparkFun-Connectors, (0.75, 0.25), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 6.35, 90,JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.85, 0.25), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 24.13, 6.35, 90,JP9, 1X09_NO_SILK, SparkFun-Connectors, (0.95, 0.25), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 26.669999999999998, 6.35, 90,JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.05, 0.25), R90|
+
 ## Tags
 
 - hexID: PRS13598
@@ -31,3 +48,23 @@ Contents
 - oompName: Photon Proto Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Proto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13598
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 0.0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 34.29, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 30.479999999999997, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 19.049999999999997, 30.479999999999997, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 13.97, 3.8099999999999996, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 16.509999999999998, 3.8099999999999996, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.049999999999997, 6.35, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 6.35, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 24.13, 6.35, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 26.669999999999998, 6.35, 90
+- rawPart: JP1, SPARK_PHOTONTEMPLATE_WIDE, SPARK_PHOTON_TEMPLATE_WIDE, template_temp, (0.4, 0), R0
+- rawPart: JP2, 1X04, SparkFun-Connectors, (0.65, 1.35), R0
+- rawPart: JP3, 1X03, SparkFun-Connectors, (0.85, 1.2), R0
+- rawPart: JP4, 1X03, SparkFun-Connectors, (0.75, 1.2), R180
+- rawPart: JP5, 1X10_NO_SILK, SparkFun-Connectors, (0.55, 0.15), R90
+- rawPart: JP6, 1X10_NO_SILK, SparkFun-Connectors, (0.65, 0.15), R90
+- rawPart: JP7, 1X09_NO_SILK, SparkFun-Connectors, (0.75, 0.25), R90
+- rawPart: JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.85, 0.25), R90
+- rawPart: JP9, 1X09_NO_SILK, SparkFun-Connectors, (0.95, 0.25), R90
+- rawPart: JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.05, 0.25), R90

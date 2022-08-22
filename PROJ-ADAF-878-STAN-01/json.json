@@ -90,7 +90,55 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.16, -0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.07, -0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF, C0805, rcl, (0.165, 0.325), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (0.01, 0.475), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323F, adafruit, (-0.175, -0.425), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, BL-M07C881UR, SEGMENT_BL-M07C881UR, microbuilder, (0, 0), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, R0805, adafruit, (-0.155, 0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, R0805, adafruit, (0.005, 0.325), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, R0805, adafruit, (-0.02, -0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, R0805, adafruit, (-0.1, -0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.065, -0.245), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, 0.21), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, SOP24_300MIL, microbuilder, (0, -0.03), R270"
         },
         {
             "name": "oompID",

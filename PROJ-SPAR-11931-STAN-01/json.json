@@ -37,6 +37,78 @@
             "value": "https://www.sparkfun.com/products/11931"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C1, 2.54, 5.08, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 7.619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.16, 13.97, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O102-01, R1, 5.08, 5.08, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O102-01, R2, 7.619999999999999, 5.08, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O102-01, R3, 10.16, 5.08, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, 0603-CAP, SparkFun, (0.1, 0.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06, SparkFun, (0.05, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, JUMPER-32-3, SJ_3_PASTE2&3, SparkFun, (0.5, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0603-RES, SparkFun, (0.2, 0.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1K, 0603-RES, SparkFun, (0.3, 0.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 1K, 0603-RES, SparkFun, (0.4, 0.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, TMP1021:1, SOT563-2, SparkFun-Sensors, (0.3, 0.35), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11931-STAN-01"
         },

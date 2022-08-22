@@ -190,7 +190,155 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 220uF, PANASONIC_C, rcl, (0.73, 2.03), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 220uF, PANASONIC_C, rcl, (0.5, 2.03), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10pF, _0805MP, microbuilder, (0.615, 1.241), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10pF, _0805MP, microbuilder, (0.497, 1.145), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, _0805MP, microbuilder, (0.725, 1.085), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, _0805MP, microbuilder, (0.79, 1.085), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, _0805MP, microbuilder, (0.36189764, 1.80169291), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C19, 10uF, _0805MP, microbuilder, (0.13, 0.34), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C20, 10uF, _0805MP, microbuilder, (0.769, 1.347), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C21, 10nF, (0.01uF), _0805MP, microbuilder, (0.28346469, 2.03366142), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C22, 10nF, (0.01uF), _0805MP, microbuilder, (0.74613386, 1.78638583), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C26, 0.1uF, _0805MP, microbuilder, (0.212, 1.55225197), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 2908-05WB-M6, MICROSD, microbuilder, (0.25031496, 0.63), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323, microbuilder, (0.235, 0.82), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, FERITTE, _0805MP, microbuilder, (0.26216548, 1.92021248), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB2, FERITTE, _0805MP, microbuilder, (0.87865354, 1.51774803), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.225, 2.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.86751969, 0.04799213), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X16_ROUND, microbuilder, (1, 1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X16_ROUND, microbuilder, (0.1, 1.2), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1M, _0805MP, microbuilder, (0.531, 1.346), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100K, _0805MP, microbuilder, (0.20906312, 1.71206299), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 20, _0805MP, microbuilder, (0.34366154, 1.92248019), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 20, _0805MP, microbuilder, (0.74299213, 1.85594488), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 100, _0805MP, microbuilder, (0.62629921, 1.8807874), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 100, _0805MP, microbuilder, (0.50645669, 1.85090551), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 100K, RESPACK_4X0603, microbuilder, (0.256, 1.043), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 100K, RESPACK_4X0603, microbuilder, (0.827, 0.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 10K, 0805-NO, microbuilder, (0.215, 0.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 100K, RESPACK_4X0603, microbuilder, (0.253, 1.343), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$50, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.115, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$51, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.955, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$52, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.955, 2.135), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$53, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.115, 2.135), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, VS1053B, LQFP48, microbuilder, (0.55, 1.605), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, AP7312-1833W6-7, SOT23-6, microbuilder, (0.77031496, 1.22515748), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, 74HC4050D, SOIC16, microbuilder, (0.527, 0.86), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, ABM8G-12.288MHZ-4Y-T3, CRYSTAL_3.2X2.5, microbuilder, (0.50347244, 1.24584252), R0"
         },
         {
             "name": "oompID",

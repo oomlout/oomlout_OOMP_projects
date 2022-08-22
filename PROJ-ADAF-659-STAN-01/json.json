@@ -234,7 +234,199 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "3.3VTAP, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.775, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "3V3TAP2, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.39, 0.67), R330"
+        },
+        {
+            "name": "rawPart",
+            "value": "BATT, 3-9VDC, JST-PH-2-SMT-RA, adafruit, (0, -0.73), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "BOOT, SPST_TACT-KMR2, KMR2, adafruit, (0, -0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 18pF, C0805K, adafruit, (-0.49, -0.31), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 18pF, C0805K, adafruit, (-0.285, -0.42), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, C0805K, adafruit, (0.485, -0.31), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, C0805K, adafruit, (0.39, -0.445), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, C0805K, adafruit, (0.41, 0.395), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 10uF, C0805K, adafruit, (0.32, -0.17), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10uF, C0805K, adafruit, (-0.285, -0.495), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 10uF, C0805K, adafruit, (-0.165, 0.335), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, MiniB, USB, USB-MINIB_LARGER, microbuilder, (0, 0.67), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, SCHOTTKY, SOD-123, adafruit, (0.42, 0.24), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, SCHOTTKY, SOD-123, adafruit, (0.21, -0.49), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D6, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.73, -0.26), R250"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND3TAP, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.39, 0.67), R30"
+        },
+        {
+            "name": "rawPart",
+            "value": "GNDTAP, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.77, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "GNDTAP2, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.39, -0.67), R150"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, ATMEGA32U4-AU, TQFP44, adaprog, (0, -0.055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, LP2985-3.3v, SOT23-5L, adafruit, (0.355, -0.32), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "IO9, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.73, 0.26), R290"
+        },
+        {
+            "name": "rawPart",
+            "value": "IO10, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.59, 0.5), R310"
+        },
+        {
+            "name": "rawPart",
+            "value": "IO12, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.59, -0.5), R230"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, ICSP, 2X03, pinhead, (0.47, -0.075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L, RED, CHIPLED_0805, adafruit, (0.275, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 500mA, R1206, adafruit, (0.205, 0.33), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "ON/OFF, EG1390, EG1390, adafruit, (-0.465, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "PWR, GREEN, CHIPLED_0805, adafruit, (-0.275, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 22, R0805, adafruit, (0.105, 0.365), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22, R0805, adafruit, (0.035, 0.36), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 470, R0805, adafruit, (-0.095, 0.335), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 1K, R0805, adafruit, (-0.26, 0.335), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1K, R0805, adafruit, (0.34, 0.46), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 1K, R0805, adafruit, (-0.5, 0.295), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, R0805, adafruit, (-0.465, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 150K, R0805, adafruit, (0.325, 0.145), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 10K, R0805, adafruit, (0.435, 0.135), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.73, -0.26), R110"
+        },
+        {
+            "name": "rawPart",
+            "value": "RXLED, YELLOW, CHIPLED_0805, adafruit, (-0.42, 0.295), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SCL, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.59, 0.5), R50"
+        },
+        {
+            "name": "rawPart",
+            "value": "SDA, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.73, 0.26), R70"
+        },
+        {
+            "name": "rawPart",
+            "value": "T1, IRLML2246, SOT-23, zetex, (0.21, -0.385), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.59, -0.5), R130"
+        },
+        {
+            "name": "rawPart",
+            "value": "TXLED, YELLOW, CHIPLED_0805, adafruit, (-0.35, 0.295), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.4, -0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.32, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "VCC2, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.39, -0.67), R210"
+        },
+        {
+            "name": "rawPart",
+            "value": "X3, 8MHz, NX5032, adaprog, (-0.315, -0.31), R0"
         },
         {
             "name": "oompID",

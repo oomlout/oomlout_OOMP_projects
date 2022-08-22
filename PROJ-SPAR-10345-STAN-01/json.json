@@ -62,7 +62,27 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08, SparkFun, (0.75, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90"
         },
         {
             "name": "oompID",

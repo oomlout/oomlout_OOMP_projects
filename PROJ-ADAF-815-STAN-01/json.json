@@ -238,7 +238,203 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805, microbuilder, (-477.5, 708.12992), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, E3,5-8, adafruit, (-740, 835), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (549.40945, 53.74016), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-745.03937, 938.93701), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, TERMBLOCK_1X2-3.5MM, 1X2-3.5MM, microbuilder, (0, 850), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 3X04, microbuilder, (-300, 155), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 3X04, microbuilder, (-800, 155), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06-CLEANBIG, adafruit, (-1150, 505), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X06-CLEANBIG, adafruit, (1150, 505), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 3X04, microbuilder, (800, 155), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 3X04, microbuilder, (300, 155), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, VCC, CHIPLED_0805, microbuilder, (-320, 790), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, IRLML6401, SOT23-WIDE, microbuilder, (-499.48819, 912.55906), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805, microbuilder, (385, 714.37008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805, microbuilder, (485, 714.37008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805, microbuilder, (585, 714.37008), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805, microbuilder, (685, 715.62992), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805, microbuilder, (785, 715.62992), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, 0805, microbuilder, (885, 715.62992), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0805, microbuilder, (-945, 817.5), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, 0805, microbuilder, (-978.12992, 627.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 10K, 0805, microbuilder, (-898.12992, 627.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 220, 0805, microbuilder, (-480, 790), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 220, 0805, microbuilder, (-415, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 220, 0805, microbuilder, (-490, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R13, 220, 0805, microbuilder, (-565, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 220, 0805, microbuilder, (-640, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 220, 0805, microbuilder, (-715, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R16, 220, 0805, microbuilder, (-790, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R17, 220, 0805, microbuilder, (-865, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R18, 220, 0805, microbuilder, (-940, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R19, 220, 0805, microbuilder, (950, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R20, 220, 0805, microbuilder, (875, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R21, 220, 0805, microbuilder, (800, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R22, 220, 0805, microbuilder, (725, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R23, 220, 0805, microbuilder, (650, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R24, 220, 0805, microbuilder, (575, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R25, 220, 0805, microbuilder, (500, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R26, 220, 0805, microbuilder, (425, 435), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (885, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (785, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A2, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (685, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A3, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (585, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A4, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (485, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ_A5, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (385, 908.74016), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$47, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-1100, 875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$48, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-1100, 125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$49, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$50, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, PCA9685, TSSOP28, microbuilder, (0, 510), R270"
         },
         {
             "name": "oompID",

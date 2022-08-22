@@ -94,7 +94,59 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.515, 0.295), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.42, 0.295), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 1uF, 0805-NO@1, microbuilder, (1.645, 0.645), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.96, 0.18), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.96, 0.725), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (1.85, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X12_ROUND_76MIL, microbuilder, (1.2, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X02_ROUND, microbuilder, (1.8, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X16_ROUND_76MIL, microbuilder, (1, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 0.1/1%, (PT2512FK-070R1L), 2512, microbuilder, (1.64, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, RESPACK_4X0603, microbuilder, (1.47, 0.615), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.45, 0.78), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, INA219BIDCNT, SOT23-8, microbuilder, (1.485, 0.45), R90"
         },
         {
             "name": "oompID",

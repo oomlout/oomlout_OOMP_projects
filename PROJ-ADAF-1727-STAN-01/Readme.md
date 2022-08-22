@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1727-STAN-01>Adafruit MAX31850 thermocouple breakout board](#proj-adaf-1727-stan-01adafruit-max31850-thermocouple-breakout-board)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-0805-X-UNMATCHED-01, FB1, 8.399999964, 12.257000124, 0,FB1, Ferrite, 0805, microbuilder, (0.33070866, 0.48255906), R0|
+|UNMATCHED-0805-X-UNMATCHED-01, FB2, 12.081999966, 12.257000124, 180,FB2, Ferrite, 0805, microbuilder, (0.47566929, 0.48255906), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180,JP1, Breakout, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 17.779999999999998, 12.953999999999999, M0,SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.51), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 17.779999999999998, 10.413999999999998, M0,SJ2, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.41), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ3, 17.779999999999998, 7.874, M0,SJ3, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.31), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ4, 17.779999999999998, 5.334, M0,SJ4, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.21), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.205999908, 7.730000034, 270,U1, MAX31850, TDFN10_3X4MM, microbuilder, (0.40181102, 0.30433071), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.366000094, 9.033999966, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09314961, 0.35566929), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 10.16, 16.637, 180,X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4, 0.655), R180|
 
 ## Tags
 
@@ -58,7 +78,23 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.205999908, 7.730000034, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.366000094, 9.033999966, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 10.16, 16.637, 180
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.11685039, 0.23622047), R180
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.11314961, 0.49755906), R0
+- rawPart: C3, 0.1uF, 0805-NO, microbuilder, (0.41181102, 0.41244094), R0
+- rawPart: FB1, Ferrite, 0805, microbuilder, (0.33070866, 0.48255906), R0
+- rawPart: FB2, Ferrite, 0805, microbuilder, (0.47566929, 0.48255906), R180
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.52874016, 0.39181102), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.05051181, 0.57622047), R0
+- rawPart: JP1, Breakout, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R180
+- rawPart: SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.51), MR0
+- rawPart: SJ2, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.41), MR0
+- rawPart: SJ3, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.31), MR0
+- rawPart: SJ4, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.21), MR0
+- rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.7), R0
+- rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0
+- rawPart: U1, MAX31850, TDFN10_3X4MM, microbuilder, (0.40181102, 0.30433071), R270
+- rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09314961, 0.35566929), R0
+- rawPart: X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4, 0.655), R180
 
 
 

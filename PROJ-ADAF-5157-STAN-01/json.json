@@ -170,7 +170,135 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-8.382, -73.914), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (87.757, -83.566), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-8.255, 2.413), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X3, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X4, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X5, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X6, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X7, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (0, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X8, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (19.05, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X9, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (38.1, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X10, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (57.15, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X11, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (76.2, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X12, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (95.25, -19.05), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X13, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X14, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X15, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X16, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X17, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X18, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -38.1), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X19, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (0, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X20, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (19.05, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X21, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (38.1, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X22, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (57.15, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X23, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (76.2, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X24, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (95.25, -57.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X25, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, -76.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X26, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, -76.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X27, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, -76.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X28, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -76.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X29, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -76.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X30, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -76.2), MR0"
         },
         {
             "name": "oompID",

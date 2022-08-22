@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1247-STAN-01>Adafruit Flora LSM303 PCB](#proj-adaf-1247-stan-01adafruit-flora-lsm303-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-UNMATCHED-X-UF10-V25, C2, 125.0, -80.0, 270,C2, 10uF, _0805, microbuilder, (125, -80), R270|
+|CAPC-UNMATCHED-X-NF100-V50, C3, 0.0, 170.0, 0,C3, 0.1uF, _0805, microbuilder, (0, 170), R0|
+|CAPC-UNMATCHED-X-UF10-V25, C4, 0.0, -170.0, 180,C4, 10uF, _0805, microbuilder, (0, -170), R180|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C5, 125.0, 80.0, 90,C5, 0.22uF, _0805, microbuilder, (125, 80), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 280.0, 0,GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 280), R0|
+|RESE-UNMATCHED-X-O103-01, R2, -125.0, -90.0, 270,R2, 10K, _0805, microbuilder, (-125, -90), R270|
+|RESE-UNMATCHED-X-O103-01, R3, -125.0, 75.0, 90,R3, 10K, _0805, microbuilder, (-125, 75), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 240.0, 140.0, 300,SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, 140), R300|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL2, -240.0, 140.0, 60,SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, 140), R60|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA1, 240.0, -140.0, 240,SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, -140), R240|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA2, -240.0, -140.0, 120,SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, -140), R120|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 90,U1, LSM303DLHC, LGA14, microbuilder, (0, 0), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -280.0, 180,VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -280), R180|
 
 ## Tags
 
@@ -56,7 +76,21 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA2, -240.0, -140.0, 120
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -280.0, 180
-- rawPart: 
+- rawPart: C2, 10uF, _0805, microbuilder, (125, -80), R270
+- rawPart: C3, 0.1uF, _0805, microbuilder, (0, 170), R0
+- rawPart: C4, 10uF, _0805, microbuilder, (0, -170), R180
+- rawPart: C5, 0.22uF, _0805, microbuilder, (125, 80), R90
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-125, 230), R0
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (145, -225), R0
+- rawPart: GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 280), R0
+- rawPart: R2, 10K, _0805, microbuilder, (-125, -90), R270
+- rawPart: R3, 10K, _0805, microbuilder, (-125, 75), R90
+- rawPart: SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, 140), R300
+- rawPart: SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, 140), R60
+- rawPart: SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, -140), R240
+- rawPart: SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, -140), R120
+- rawPart: U1, LSM303DLHC, LGA14, microbuilder, (0, 0), R90
+- rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -280), R180
 
 
 

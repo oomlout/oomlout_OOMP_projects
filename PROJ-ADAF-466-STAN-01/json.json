@@ -94,7 +94,59 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805, microbuilder, (0.64685039, 0.41299213), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805, microbuilder, (0.2, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0805, microbuilder, (0.12031496, 0.2), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805, microbuilder, (0.64685039, 0.61220472), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, 0805, microbuilder, (0.64685039, 0.53188976), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_ROUND_76, microbuilder, (0.45275591, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805, microbuilder, (0.11968504, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805, microbuilder, (0.11968504, 0.3), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 0.78740157), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.78740157, 0.78740157), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.8, 0.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.09, 0.08), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, VCNL4000-GS08, VCNL4000, microbuilder, (0.45, 0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, AP7311-33, SOT23-5, microbuilder, (0.2, 0.51062992), R90"
         },
         {
             "name": "oompID",

@@ -37,6 +37,38 @@
             "value": "https://www.sparkfun.com/products/11818"
         },
         {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.558, 0.7619999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 8.889999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 8.889999999999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 2.54, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.77, 0.03), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.05, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06, SparkFun-Connectors, (0.65, 0.35), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, JST_VERTICAL, JST-6-SMD-VERT-1.0MM, SparkFun-Connectors, (0.4, 0.1), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11818-STAN-01"
         },

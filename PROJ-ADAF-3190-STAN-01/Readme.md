@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-3190-STAN-01>Adafruit DRV8871 Breakout PCB](#proj-adaf-3190-stan-01adafruit-drv8871-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,19 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|ERROR, C1 0.1uF/50V 0805-NO, 0, 0, 0,C1, 0.1uF/50V, 0805-NO, microbuilder, (0.345, 0.49), R270|
+|ERROR, C2 22uF/63V PANASONIC_D, 0, 0, 0,C2, 22uF/63V, PANASONIC_D, microbuilder, (0.57, 0.44), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 180,JP2, 1X04_ROUND_76, microbuilder, (0.4, 0.1), R180|
+|RESE-0805-X-UNMATCHED-01, R1, 13.081, 6.35, 180,R1, 30K, 0805-THM, adafruit, (0.515, 0.25), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 4.699, 10.921999999999999, 0,U1, DRV8871, HSOP8, microbuilder, (0.185, 0.43), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 5.842, 20.32, 180,X1, DCMOTOR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.23, 0.8), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 14.477999999999998, 20.32, 180,X2, POWER, TERMBLOCK_1X2-3.5MM, microbuilder, (0.57, 0.8), R180|
 
 ## Tags
 
@@ -52,7 +66,17 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 4.699, 10.921999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 5.842, 20.32, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 14.477999999999998, 20.32, 180
-- rawPart: 
+- rawPart: C1, 0.1uF/50V, 0805-NO, microbuilder, (0.345, 0.49), R270
+- rawPart: C2, 22uF/63V, PANASONIC_D, microbuilder, (0.57, 0.44), R180
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.75, 0.85), R90
+- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.055, 0.215), R90
+- rawPart: JP2, 1X04_ROUND_76, microbuilder, (0.4, 0.1), R180
+- rawPart: R1, 30K, 0805-THM, adafruit, (0.515, 0.25), R180
+- rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R90
+- rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.1), R90
+- rawPart: U1, DRV8871, HSOP8, microbuilder, (0.185, 0.43), R0
+- rawPart: X1, DCMOTOR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.23, 0.8), R180
+- rawPart: X2, POWER, TERMBLOCK_1X2-3.5MM, microbuilder, (0.57, 0.8), R180
 
 
 

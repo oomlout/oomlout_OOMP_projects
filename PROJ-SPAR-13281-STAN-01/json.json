@@ -37,6 +37,62 @@
             "value": "https://www.sparkfun.com/products/13281"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 13.97, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 13.97, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 13.97, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 6.35, 13.97, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 19.049999999999997, 1.27, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 27.94, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 26.669999999999998, 22.86, 270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, UL, 1X03, SparkFun-Connectors, (0.85, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, UR, 1X03, SparkFun-Connectors, (0.65, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, LL, 1X03, SparkFun-Connectors, (0.45, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, LR, 1X03, SparkFun-Connectors, (0.25, 0.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-13281-STAN-01"
         },

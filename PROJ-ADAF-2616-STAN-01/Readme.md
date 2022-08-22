@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2616-STAN-01>Adafruit PiTFT Plus 3.2 PCB](#proj-adaf-2616-stan-01adafruit-pitft-plus-32-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,53 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 15.366999999999999, 43.18, 180,D3, 1N4148, SOD-323, microbuilder, (0.605, 1.7), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 15.366999999999999, 45.084999999999994, 180,D4, 1N4148, SOD-323, microbuilder, (0.605, 1.775), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO5, 6.35, 14.477999999999998, 90,GPIO5, PAD-1.5X2.0, microbuilder, (0.25, 0.57), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO6, 6.35, 17.018, 90,GPIO6, PAD-1.5X2.0, microbuilder, (0.25, 0.67), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO12, 2.032, 17.018, 90,GPIO12, PAD-1.5X2.0, microbuilder, (0.08, 0.67), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO13, 6.35, 19.558, 90,GPIO13, PAD-1.5X2.0, microbuilder, (0.25, 0.77), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO16, 2.032, 19.558, 90,GPIO16, PAD-1.5X2.0, microbuilder, (0.08, 0.77), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO19, 6.35, 22.098, 90,GPIO19, PAD-1.5X2.0, microbuilder, (0.25, 0.87), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO20, 2.032, 22.098, 90,GPIO20, PAD-1.5X2.0, microbuilder, (0.08, 0.87), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO21, 2.032, 24.637999999999998, 90,GPIO21, PAD-1.5X2.0, microbuilder, (0.08, 0.97), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, GPIO26, 6.35, 24.637999999999998, 90,GPIO26, PAD-1.5X2.0, microbuilder, (0.25, 0.97), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 49.403, 36.957, 0,IC5, AXP803, SOT23, adafruit, (1.945, 1.455), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 28.955999999999996, 74.54899999999999, 0,JP1, 2X13_SMT_MALE, microbuilder, (1.14, 2.935), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 13.081, 40.132, 180,Q2, BSS138, SOT23-WIDE, microbuilder, (0.515, 1.58), R180|
+|RESE-0805-X-UNMATCHED-01, R1, 14.604999999999999, 35.940999999999995, 270,R1, 100, 0805-NO, microbuilder, (0.575, 1.415), R270|
+|RESE-0805-X-UNMATCHED-01, R2, 42.037, 34.416999999999994, 270,R2, 100, 0805-NO, microbuilder, (1.655, 1.355), R270|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R8, 44.323, 39.624, 180,R8, DNP, 0805-NO, microbuilder, (1.745, 1.56), R180|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R11</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R12, 19.812, 59.69, 0,R12, 3.9K, 0805-NO, microbuilder, (0.78, 2.35), R0|
+|RESE-0805-X-UNMATCHED-01, R13, 23.368, 59.69, 0,R13, 3.9K, 0805-NO, microbuilder, (0.92, 2.35), R0|
+|RESE-0805-X-UNMATCHED-01, R14, 19.812, 52.324, 180,R14, 3.9K, 0805-NO, microbuilder, (0.78, 2.06), R180|
+|RESE-0805-X-UNMATCHED-01, R15, 16.383, 35.940999999999995, 270,R15, 100, 0805-NO, microbuilder, (0.645, 1.415), R270|
+|RESE-0805-X-UNMATCHED-01, R16, 18.160999999999998, 35.940999999999995, 270,R16, 100, 0805-NO, microbuilder, (0.715, 1.415), R270|
+|RESE-0805-X-UNMATCHED-01, R17, 19.939, 35.940999999999995, 270,R17, 100, 0805-NO, microbuilder, (0.785, 1.415), R270|
+|RESE-0805-X-UNMATCHED-01, R18, 40.132, 34.416999999999994, 270,R18, 100, 0805-NO, microbuilder, (1.58, 1.355), R270|
+|RESE-0805-X-UNMATCHED-01, R20, 12.191999999999998, 44.577, 90,R20, 3.9K, 0805-NO, microbuilder, (0.48, 1.755), R90|
+|RESE-0805-X-UNMATCHED-01, R22, 34.416999999999994, 38.480999999999995, 270,R22, 22, 0805-NO, microbuilder, (1.355, 1.515), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R23, 30.733999999999998, 39.49699999999999, 270,R23, 22, _0805MP, microbuilder, (1.21, 1.555), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 56.76899999999999, 0.127, M0,RPI1, RASPBERRYPI_BPLUS_SMT, RASPBERRYPI_BPLUS_SHIELD_SMT, microbuilder, (2.235, 0.005), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 23.368, 52.324, 180,SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.92, 2.06), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 47.370999999999995, 81.28, M180,SW1, TACT_PANA-EVQ, microbuilder, (1.865, 3.2), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 9.270999999999999, 81.28, M0,SW2, TACT_PANA-EVQ, microbuilder, (0.365, 3.2), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 21.971, 81.28, M180,SW3, TACT_PANA-EVQ, microbuilder, (0.865, 3.2), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 34.671, 81.28, M180,SW4, TACT_PANA-EVQ, microbuilder, (1.365, 3.2), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.336, 56.13399999999999, 90,U1, CAT24C32, SOIC8_150MIL, microbuilder, (0.84, 2.21), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 38.989, 41.275, 180,U2, STMPE610, QFN16_3MM, microbuilder, (1.535, 1.625), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ1, 19.939, 45.084999999999994, 180,WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.785, 1.775), R180|
 
 ## Tags
 
@@ -90,7 +138,55 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.336, 56.13399999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 38.989, 41.275, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ1, 19.939, 45.084999999999994, 180
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (1.975, 1.675), R0
+- rawPart: C4, 0.1uF, 0805-NO, microbuilder, (1.64, 1.84), R90
+- rawPart: D3, 1N4148, SOD-323, microbuilder, (0.605, 1.7), R180
+- rawPart: D4, 1N4148, SOD-323, microbuilder, (0.605, 1.775), R180
+- rawPart: GPIO5, PAD-1.5X2.0, microbuilder, (0.25, 0.57), R90
+- rawPart: GPIO6, PAD-1.5X2.0, microbuilder, (0.25, 0.67), R90
+- rawPart: GPIO12, PAD-1.5X2.0, microbuilder, (0.08, 0.67), R90
+- rawPart: GPIO13, PAD-1.5X2.0, microbuilder, (0.25, 0.77), R90
+- rawPart: GPIO16, PAD-1.5X2.0, microbuilder, (0.08, 0.77), R90
+- rawPart: GPIO19, PAD-1.5X2.0, microbuilder, (0.25, 0.87), R90
+- rawPart: GPIO20, PAD-1.5X2.0, microbuilder, (0.08, 0.87), R90
+- rawPart: GPIO21, PAD-1.5X2.0, microbuilder, (0.08, 0.97), R90
+- rawPart: GPIO26, PAD-1.5X2.0, microbuilder, (0.25, 0.97), R90
+- rawPart: IC5, AXP803, SOT23, adafruit, (1.945, 1.455), R0
+- rawPart: JP1, 2X13_SMT_MALE, microbuilder, (1.14, 2.935), R0
+- rawPart: Q2, BSS138, SOT23-WIDE, microbuilder, (0.515, 1.58), R180
+- rawPart: R1, 100, 0805-NO, microbuilder, (0.575, 1.415), R270
+- rawPart: R2, 100, 0805-NO, microbuilder, (1.655, 1.355), R270
+- rawPart: R6, 10K, 0805-NO, microbuilder, (2.06, 1.455), R90
+- rawPart: R7, 10K, 0805-NO, microbuilder, (1.77, 1.76), R0
+- rawPart: R8, DNP, 0805-NO, microbuilder, (1.745, 1.56), R180
+- rawPart: R11, 10K, 0805-NO, microbuilder, (1.805, 1.635), R180
+- rawPart: R12, 3.9K, 0805-NO, microbuilder, (0.78, 2.35), R0
+- rawPart: R13, 3.9K, 0805-NO, microbuilder, (0.92, 2.35), R0
+- rawPart: R14, 3.9K, 0805-NO, microbuilder, (0.78, 2.06), R180
+- rawPart: R15, 100, 0805-NO, microbuilder, (0.645, 1.415), R270
+- rawPart: R16, 100, 0805-NO, microbuilder, (0.715, 1.415), R270
+- rawPart: R17, 100, 0805-NO, microbuilder, (0.785, 1.415), R270
+- rawPart: R18, 100, 0805-NO, microbuilder, (1.58, 1.355), R270
+- rawPart: R20, 3.9K, 0805-NO, microbuilder, (0.48, 1.755), R90
+- rawPart: R22, 22, 0805-NO, microbuilder, (1.355, 1.515), R270
+- rawPart: R23, 22, _0805MP, microbuilder, (1.21, 1.555), R270
+- rawPart: RPI1, RASPBERRYPI_BPLUS_SMT, RASPBERRYPI_BPLUS_SHIELD_SMT, microbuilder, (2.235, 0.005), MR0
+- rawPart: SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.92, 2.06), R180
+- rawPart: SW1, TACT_PANA-EVQ, microbuilder, (1.865, 3.2), MR180
+- rawPart: SW2, TACT_PANA-EVQ, microbuilder, (0.365, 3.2), MR0
+- rawPart: SW3, TACT_PANA-EVQ, microbuilder, (0.865, 3.2), MR180
+- rawPart: SW4, TACT_PANA-EVQ, microbuilder, (1.365, 3.2), MR180
+- rawPart: U$1, DISP_LCD_6LED_240X320_50PIN, TFT_3.2IN_240X320_50PIN, microbuilder, (1.11, 1.595), MR0
+- rawPart: U$10, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.875, 0.78), R90
+- rawPart: U$11, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.205, 0.305), R180
+- rawPart: U$15, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.135, -0.125), MR90
+- rawPart: U$16, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.1, 3.465), MR90
+- rawPart: U$17, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.1, -0.125), MR0
+- rawPart: U$18, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.05, 2.85), R0
+- rawPart: U$20, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.135, 3.465), MR0
+- rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (0.84, 2.21), R90
+- rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.535, 1.625), R180
+- rawPart: WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.785, 1.775), R180
 
 
 

@@ -174,7 +174,139 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.175, 0.285), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.765, 0.72), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (1.02, 0.725), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0603-NO, microbuilder, (0.21, 0.38), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 1uF, 0603-NO, microbuilder, (1.215, 0.255), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 1uF, 0603-NO, microbuilder, (1.215, 0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10uF, 0805-NO, microbuilder, (1.095, 0.695), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 10uF, 0805-NO, microbuilder, (1.195, 0.72), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN1, HEADER-1X25, 1X25_ROUND_70MIL, microbuilder, (1.29, 0.83), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CS, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.695, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DIO0, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.89, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DIO1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.99, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DIO2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.09, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.0975, 1.1425), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (2.49, 0.055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC5, APX803, SOT23, adafruit, (1.195, 0.575), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_ROUND_70, microbuilder, (1.1, 0.29), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X03_ROUND, microbuilder, (0.59, 0.73), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X05_ROUND_70, microbuilder, (0.3, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X01_ROUND, microbuilder, (0.19, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LCD1, OLED, 128x32, UG-2832HSWEG02_WRAPUNDER, microbuilder, (2.47, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MISO, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.39, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "MOSI, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.29, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 390K, 0603-NO, microbuilder, (1.21, 0.66), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, RESPACK_4X0603, microbuilder, (1.215, 0.435), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS_BONNET_THMSMT, PI_BONNET_THMSMT, microbuilder, (0, -0.005), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RST, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.19, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SCK, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.49, 0.725), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.435, 0.125), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.775, 0.125), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, 6mm, EVQ-Q2_SMALLER, microbuilder, (2.12, 0.125), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, AP2112K-3.3, SOT23-5, microbuilder, (0.885, 0.725), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, RFM69/9x, RFMHCW_SMT, microbuilder, (0.7, 0.33), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (0.01, 0.6), R0"
         },
         {
             "name": "oompID",

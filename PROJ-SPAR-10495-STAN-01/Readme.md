@@ -8,6 +8,7 @@ Contents
 * [PROJ-SPAR-10495-STAN-01>Coin Cell Battery Holder Breakout-24.5mm](#proj-spar-10495-stan-01coin-cell-battery-holder-breakout-245mm)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 15.239999999999998, M270,BAT1, BATTCON_245MM_PTH, SparkFun, (0.4, 0.6), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 25.4, 16.509999999999998, 270,J3, 1X02, SparkFun, (1, 0.65), R270|
+
 ## Tags
 
 - hexID: PRS10495
@@ -43,7 +52,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10495
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 15.239999999999998, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 25.4, 16.509999999999998, 270
-- rawPart: 
+- rawPart: BAT1, BATTCON_245MM_PTH, SparkFun, (0.4, 0.6), MR270
+- rawPart: J3, 1X02, SparkFun, (1, 0.65), R270
 
 
 

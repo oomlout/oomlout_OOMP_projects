@@ -114,7 +114,79 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1.0uF, 0805, microbuilder, (0.53, 0.33), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 1.0uF, 0805, microbuilder, (0.62, 0.33), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 1.0uF, 0805, microbuilder, (0.51, 0.8), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 1.0uF, 0805, microbuilder, (0.86, 0.8), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2uF, 0805, microbuilder, (0.69, 0.8), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 2.2uF, 0805, microbuilder, (0.77, 0.8), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 2.2uF, 0805, microbuilder, (0.355, 0.8), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, 0805, microbuilder, (0.265, 0.8), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08_ROUND_76, microbuilder, (0.62992126, 0.11), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LCD1, UG-2832HSWEG04, UG-2832HSWEG04_WRAPAROUND, microbuilder, (1.2, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 390K, 0805, microbuilder, (0.6, 0.8), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 0.11811024), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 0.79055118), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.13543307, 0.11811024), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.13543307, 0.79055118), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.06122047, 0.66492126), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.13732283, 0.34905512), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, 74HC4050D, SOIC16, microbuilder, (0.28, 0.45), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, SOT23-5, microbuilder, (0.535, 0.655), MR90"
         },
         {
             "name": "oompID",

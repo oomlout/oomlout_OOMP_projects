@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2717-STAN-01>Adafruit TCA9548A I2C Multiplexer PCB](#proj-adaf-2717-stan-01adafruit-tca9548a-i2c-multiplexer-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,27 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 3.937, 16.509999999999998, M180,A0, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.65), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 3.937, 13.97, M180,A1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.55), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, 3.937, 11.43, M0,A2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.45), MR0|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 15.239999999999998, 90,JP1, 1X12_ROUND, microbuilder, (0.65, 0.6), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 15.239999999999998, 270,JP3, 1X12_ROUND, microbuilder, (0.05, 0.6), R270|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|RESE-UNMATCHED-X-O103-01, R6, 5.842, 21.843999999999998, 90,R6, 10K, _0805MP, microbuilder, (0.23, 0.86), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCLPU, 4.064, 21.59, M180,SCLPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.85), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDAPU, 4.064, 24.13, M180,SDAPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.95), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 16.002, 270,U1, TCA9548APWR, TSSOP24, microbuilder, (0.35, 0.63), R270|
 
 ## Tags
 
@@ -60,7 +82,25 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 8.889999999999999, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 8.889999999999999, 27.94, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 16.002, 270
-- rawPart: 
+- rawPart: A0, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.65), MR180
+- rawPart: A1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.55), MR180
+- rawPart: A2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.155, 0.45), MR0
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.31, 0.86), R270
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 1.16), R0
+- rawPart: FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.48, 0.1), R0
+- rawPart: JP1, 1X12_ROUND, microbuilder, (0.65, 0.6), R90
+- rawPart: JP3, 1X12_ROUND, microbuilder, (0.05, 0.6), R270
+- rawPart: R1, 10K, 0805-NO, microbuilder, (0.465, 0.86), R270
+- rawPart: R2, 10K, 0805-NO, microbuilder, (0.385, 0.86), R90
+- rawPart: R3, 10K, 0805-NO, microbuilder, (0.425, 0.405), R270
+- rawPart: R4, 10K, 0805-NO, microbuilder, (0.345, 0.405), R90
+- rawPart: R5, 10K, 0805-NO, microbuilder, (0.27, 0.405), R90
+- rawPart: R6, 10K, _0805MP, microbuilder, (0.23, 0.86), R90
+- rawPart: SCLPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.85), MR180
+- rawPart: SDAPU, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.16, 0.95), MR180
+- rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 0.1), R0
+- rawPart: U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 1.1), R0
+- rawPart: U1, TCA9548APWR, TSSOP24, microbuilder, (0.35, 0.63), R270
 
 
 

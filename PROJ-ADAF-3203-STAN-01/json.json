@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "CONN1, HEADER-1X25, 1X25_ROUND_70MIL, microbuilder, (1.28, 0.872), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS_BONNETNODIM, PI_BONNET_NODIM, microbuilder, (0, 0.00030709), R0"
         },
         {
             "name": "oompID",

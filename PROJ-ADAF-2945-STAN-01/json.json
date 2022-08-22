@@ -302,7 +302,267 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (1.79, 0.72), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (1.825, 0.245), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (1.8, 0.54), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (1.79, 0.36), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (0.185, 0.285), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, MBR120, SOD-123, microbuilder, (0.155, 0.57), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, MBR120, SOD-123, microbuilder, (0.075, 0.57), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.825, 0.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.19, 0.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, 74AHCT1G125DBV, SOT23-5, 74xx-little-us, (0.08, 0.375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X01_ROUND, microbuilder, (0.09, 0.245), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X01_ROUND, microbuilder, (1.795, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS2812B3535, LED3535, microbuilder, (0.32, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, WS2812B3535, LED3535, microbuilder, (0.51, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, WS2812B3535, LED3535, microbuilder, (0.7, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, WS2812B3535, LED3535, microbuilder, (0.89, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED5, WS2812B3535, LED3535, microbuilder, (1.08, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED6, WS2812B3535, LED3535, microbuilder, (1.27, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED7, WS2812B3535, LED3535, microbuilder, (0.32, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED8, WS2812B3535, LED3535, microbuilder, (0.51, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED9, WS2812B3535, LED3535, microbuilder, (0.7, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED10, WS2812B3535, LED3535, microbuilder, (0.89, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED11, WS2812B3535, LED3535, microbuilder, (1.08, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED12, WS2812B3535, LED3535, microbuilder, (1.27, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED13, WS2812B3535, LED3535, microbuilder, (0.32, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED14, WS2812B3535, LED3535, microbuilder, (0.51, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED15, WS2812B3535, LED3535, microbuilder, (0.7, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED16, WS2812B3535, LED3535, microbuilder, (0.89, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED17, WS2812B3535, LED3535, microbuilder, (1.08, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED18, WS2812B3535, LED3535, microbuilder, (1.27, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED19, WS2812B3535, LED3535, microbuilder, (0.32, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED20, WS2812B3535, LED3535, microbuilder, (0.51, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED21, WS2812B3535, LED3535, microbuilder, (0.7, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED22, WS2812B3535, LED3535, microbuilder, (0.89, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED23, WS2812B3535, LED3535, microbuilder, (1.08, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED24, WS2812B3535, LED3535, microbuilder, (1.27, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED25, WS2812B3535, LED3535, microbuilder, (1.46, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED26, WS2812B3535, LED3535, microbuilder, (1.65, 0.71), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED27, WS2812B3535, LED3535, microbuilder, (1.46, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED28, WS2812B3535, LED3535, microbuilder, (1.65, 0.535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED29, WS2812B3535, LED3535, microbuilder, (1.46, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED30, WS2812B3535, LED3535, microbuilder, (1.65, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED31, WS2812B3535, LED3535, microbuilder, (1.46, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED32, WS2812B3535, LED3535, microbuilder, (1.65, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.65, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.75, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.85, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.95, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.05, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ6, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ7, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.25, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ8, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.35, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ9, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.45, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ10, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.55, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ11, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.65, 0.15), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ12, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.75, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ13, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.65, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ14, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.55, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ15, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.35, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ16, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.25, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ17, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.05, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ18, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ19, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.95, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ20, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.45, 0.75), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.92, 0.45), R270"
         },
         {
             "name": "oompID",

@@ -134,7 +134,99 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (1.07, 0.295), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (-0.03, 1.245), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0603-NO, microbuilder, (0.95, 0.975), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.92, 0.415), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 0.1uF, 0603-NO, microbuilder, (0.85, 0.415), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DISP1, DISP_LCD_GENERIC_SPI_1.69_WRAPUNDER, TFT_1.69IN_240X280_12P, adafruit_display, (0.625, 0.9), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, AP2112, SOT23-5L, adafruit, (1.07, 0.41), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC4, APX803-SAG, SOT23, adafruit, (0.325, 0.37), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X11_ROUND_76, microbuilder, (0.625, 0.075), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, MICROSD, MICROSD, adafruit, (0.56, 1.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q3, BSS138, SOT23-WIDE, microbuilder, (0.84, 1.315), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (0.52, 0.36), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0603-NO, microbuilder, (0.225, 0.36), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0603-NO, microbuilder, (0.13, 0.355), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0603-NO, microbuilder, (0.42, 0.36), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10, 0603-NO, microbuilder, (0.84, 1.17), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.085, 1.71), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.015, 0.335), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.25, 1.7), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0, 1.7), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.25, 0.175), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0, 0.175), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, 74HC4050PWR, TSSOP16, microbuilder, (0.805, 0.93), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, EYE_SPI_DISPLAY_FLIP, EYE_SPI_DISPLAY_BOTCONTACT, adafruit_display, (0.625, 1.675), R0"
         },
         {
             "name": "oompID",

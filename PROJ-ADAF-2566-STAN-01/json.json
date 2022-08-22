@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "CN2, JSTPH3, adafruit, (0, 0), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, -0.09), R0"
         },
         {
             "name": "oompID",

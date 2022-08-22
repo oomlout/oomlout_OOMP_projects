@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-496-STAN-01>SOIC28-DIP Adapter](#proj-spar-496-stan-01soic28-dip-adapter)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-496-STAN-01>SOIC28-DIP Adapter
@@ -20,6 +21,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 34.29, 270,JP1, M14, 1X14, SparkFun, (0.05, 1.35), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 1.27, 90,JP2, M14, 1X14, SparkFun, (0.65, 0.05), R90|
+
 ## Tags
 
 - hexID: PRS496
@@ -31,3 +40,9 @@ Contents
 - oompName: SOIC28-DIP Adapter
 - sources: All source files from https://github.com/sparkfun/SOIC28-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/496
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 34.29, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 1.27, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 8.889999999999999, 17.779999999999998, 270
+- rawPart: JP1, M14, 1X14, SparkFun, (0.05, 1.35), R270
+- rawPart: JP2, M14, 1X14, SparkFun, (0.65, 0.05), R90
+- rawPart: U$3, PIC18F2455SMD, SO-28W, SparkFun, (0.35, 0.7), R270

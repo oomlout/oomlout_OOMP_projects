@@ -70,7 +70,35 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.645, 0.4675), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.655, -0.4765), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X09_ROUND_70, microbuilder, (0, -0.725), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, -0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$27, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.6, -0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$29, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$30, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.6, 0.6), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, ENCODER_ANO, ENCODER_ANO, adafruit_electromech, (0, 0), MR225"
         },
         {
             "name": "oompID",

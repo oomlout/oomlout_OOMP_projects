@@ -37,6 +37,158 @@
             "value": "https://www.sparkfun.com/products/9365"
         },
         {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C1, 25.4, 11.43, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C2, 25.4, 13.97, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C5, 20.32, 17.779999999999998, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C6, 10.16, 12.7, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C7, 19.049999999999997, 15.239999999999998, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C8, 11.43, 10.16, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C11, 22.86, 5.08, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C12, 22.86, 8.889999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C13, 26.669999999999998, 5.08, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-NF100-V50, C14, 26.669999999999998, 8.889999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 19.049999999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 34.29, 19.049999999999997, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, -2.54, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, -5.08, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ3, 17.018, 10.16, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 25.4, 17.779999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 13.97, 17.779999999999998, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 17.779999999999998, 10.16, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, U4 24.576MHz OSCILLATOR, 0, 0, 0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (1, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, EIA3216, SparkFun, (1, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, EIA3216, SparkFun, (0.8, 0.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, EIA3216, SparkFun, (0.4, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 0.1uF, 0402-CAP, SparkFun, (0.75, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, 0402-CAP, SparkFun, (0.45, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 10uF, EIA3216, SparkFun, (0.9, 0.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C12, 0.1uF, 0402-CAP, SparkFun, (0.9, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 10uF, EIA3216, SparkFun, (1.05, 0.2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C14, 0.1uF, 0402-CAP, SparkFun, (1.05, 0.35), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X06, SparkFun, (0.05, 0.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X08, SparkFun, (1.35, 0.75), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, -0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, -0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.67, 0.4), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, 5V_REG, SOT23-5, SparkFun, (1, 0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, 3.3V_REG, SOT23-5, SparkFun, (0.55, 0.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, PCM1803SMD, SSOP20, SparkFun, (0.7, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, 24.576MHz, OSCILLATOR, CRYSTAL-SMD-7.5X5.2-6PIN, SparkFun, (0.4, 0.15), R0"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9365-STAN-01"
         },

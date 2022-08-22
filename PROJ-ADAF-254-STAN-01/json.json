@@ -78,7 +78,43 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "ACT, RED, CHIP-LED0805, adafruit, (0.3, 0.83), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 10uF/10V, A/3216-18R, adafruit, (0.37, 0.125), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (0.72, 0.255), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, 4050D, SO16, 40xx, (0.83, 0.54), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, LP298XS, SOT23-5L, adafruit, (0.595, 0.12), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08-BIG, adafruit, (1.2, 0.495), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, R0805, adafruit, (0.465, 0.83), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.2, 0.305), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.045, 0.925), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, MICROSD, MICROSD, adafruit, (0.62, 0.77), R270"
         },
         {
             "name": "oompID",

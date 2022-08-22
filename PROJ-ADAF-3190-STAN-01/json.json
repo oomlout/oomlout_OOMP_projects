@@ -82,7 +82,47 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF/50V, 0805-NO, microbuilder, (0.345, 0.49), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 22uF/63V, PANASONIC_D, microbuilder, (0.57, 0.44), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.75, 0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.055, 0.215), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X04_ROUND_76, microbuilder, (0.4, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 30K, 0805-THM, adafruit, (0.515, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, DRV8871, HSOP8, microbuilder, (0.185, 0.43), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, DCMOTOR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.23, 0.8), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, POWER, TERMBLOCK_1X2-3.5MM, microbuilder, (0.57, 0.8), R180"
         },
         {
             "name": "oompID",

@@ -106,7 +106,71 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0805-NO, microbuilder, (0.22137795, 0.25181102), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0805-NO, microbuilder, (0.105, 0.45968504), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.11, 0.22), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.22, 0.395), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.58759843, 0.17716535), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21393701, 0.65393701), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, MPL3115A2LGA, LGA8, microbuilder, (0.385, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X07_ROUND_70, microbuilder, (0.375, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.575, 0.43), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.575, 0.285), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.685, 0.43), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.685, 0.28), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.285, 0.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, 0805-NO, microbuilder, (0.43, 0.495), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.105, 0.34), R0"
         },
         {
             "name": "oompID",

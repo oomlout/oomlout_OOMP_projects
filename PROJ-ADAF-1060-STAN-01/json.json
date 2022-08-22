@@ -78,7 +78,43 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, C0805K, adafruit, (-0.11, -0.14), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "DATA_INPUT, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -0.205), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "DATA_OUTPUT, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 0.205), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-0.205, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, WS2811-SOP8, SO08-SKINNYPADS, adafruit, (0, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, RGBLED5050, RGBLED5050, adafruit, (0, 0), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1.0K, R0805, adafruit, (0.11, -0.14), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22, R0805, adafruit, (0.11, 0.14), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 22, R0805, adafruit, (-0.11, 0.14), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "VDD, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0.205, 0), R270"
         },
         {
             "name": "oompID",

@@ -66,7 +66,31 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (0.3, 0.45), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, EIA3216, SparkFun, (0.5, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05, SparkFun, (0.1, 0.05), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.55, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.03, 0.57), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, VCNL4000, VCNL4000, SparkFun, (0.3, 0.3), R0"
         },
         {
             "name": "oompID",

@@ -178,7 +178,143 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 1uF, 0603-NO, microbuilder, (-1.0625, 0.2075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.24, -0.18), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.4075, 0.22), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0603-NO, microbuilder, (0.0775, 0.17), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 1uF, 0603-NO, microbuilder, (1.0225, 0.2025), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 1uF, 0603-NO, microbuilder, (-0.4075, 0.2075), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 1uF, 0603-NO, microbuilder, (0.335, 0.22), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (-0.6, 0), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.6, 0), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-1.0775, -0.3375), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.005, 0.36), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-1.4375, -0.2375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, ATTINY8X7-MU, QFN24_4MM, adafruit_micro, (0.115, 0.015), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0, 0.35), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X06_ROUND_70, microbuilder, (0, -0.35), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (1.05, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.375, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (-0.375, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (-1.05, 0), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "POT1, SLIDE_POT_75MM, SLIDE_POT_75MM, adafruit_electromech, (0, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0603-NO, microbuilder, (-1.1975, -0.335), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0603-NO, microbuilder, (1.0525, -0.175), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0603-NO, microbuilder, (-0.505, -0.205), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0603-NO, microbuilder, (-0.44, -0.205), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, RESPACK_4X0603, microbuilder, (-0.23, 0.01), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, 0603-NO, microbuilder, (0.245, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (-0.1, -0.115), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (-0.1, 0.125), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (-0.1, 0.045), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (-1.33, -0.335), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (-0.1025, -0.035), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.75, 0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (-0.75, 0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.75, -0.325), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (-0.75, -0.325), R0"
         },
         {
             "name": "oompID",

@@ -242,7 +242,207 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "ADDR, 1X01_ROUND, microbuilder, (0.25, 2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL1, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (2.2, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL2, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (1.5, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL3, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (0.8, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL4, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (2.2, 0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL5, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (1.5, 0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL6, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (0.8, 0.85), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL7, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (2.195, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL8, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (1.5, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL9, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (0.8, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL10, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (2.19, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL11, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (1.5, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "AL12, ALLIGATORCLIP_MICRO, ALLIGATORCLIP, microbuilder, (0.8, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.09, 0.75), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0805-NO, microbuilder, (0.335, 1.355), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0805-NO, microbuilder, (0.09, 1.035), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, 0805-NO, microbuilder, (0.145, 0.47), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.16, 1.355), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.895, 0.14), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.61, 0.225), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.085, 2.045), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IRQ, 1X01_ROUND, microbuilder, (0.35, 2), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08-CLEANBIG, adafruit, (2.15, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X01_ROUND, microbuilder, (0.8, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X01_ROUND, microbuilder, (1.5, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X08-CLEANBIG, adafruit, (1.45, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X01_ROUND, microbuilder, (2.19, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X10_ROUND70, microbuilder, (1.19, 1.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X01_ROUND, microbuilder, (0.8, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X06-CLEANBIG, adafruit, (2.25, 0.25), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, 1X01_ROUND, microbuilder, (1.5, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, 1X01_ROUND, microbuilder, (2.195, 1.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, 1X01_ROUND, microbuilder, (0.8, 0.85), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP12, 1X01_ROUND, microbuilder, (1.5, 0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP13, 1X01_ROUND, microbuilder, (2.2, 0.85), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP14, 1X01_ROUND, microbuilder, (0.8, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP15, 1X01_ROUND, microbuilder, (1.5, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP16, 1X01_ROUND, microbuilder, (2.2, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.285, 1.63), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.12, 1.635), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.285, 1.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.325, 1.745), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.12, 1.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.155, 1.745), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 75K, 0805-NO, microbuilder, (0.1, 0.905), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 75K, 0805-NO, microbuilder, (0.07, 1.275), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 1K, 0805-NO, microbuilder, (0.24, 1.36), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, SPST_TACT-EVQQ2, EVQ-Q2, adafruit, (0.23, 0.2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$41, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MPR121, QFN20_3MM_NOTHERMAL, microbuilder, (0.285, 1.065), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, MIC5225-3.3, SOT23-5, microbuilder, (0.11, 0.615), R0"
         },
         {
             "name": "oompID",

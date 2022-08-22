@@ -262,7 +262,227 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (0.18, 2.135), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.175, 1.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0402-CAP, SparkFun, (0.18, 2.19), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, 0402-CAP, SparkFun, (0.51, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, EIA3216, SparkFun, (0.06, 0.5), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 0.1uF, 0402-CAP, SparkFun, (0.05, 0.69), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 0.1uF, 0402-CAP, SparkFun, (0.465, 1.72), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 10uF, EIA3216, SparkFun, (0.5, 1.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C19, 10uF, EIA3216, SparkFun, (0.18, 1.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, Green, LED-0603, SparkFun, (0.16, 2.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, FTDI, Basic, 1X06, SparkFun, (0.1, 1.25), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X02, SparkFun, (0.165, 1.795), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X06, SparkFun, (0.55, 0.95), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X12, SparkFun, (0.05, 1.35), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X12, SparkFun, (0.65, 2.45), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X04, SparkFun, (1, 1.55), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, 1X02, SparkFun, (1, 0.75), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, 1X03, SparkFun, (1, 1.8), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP16, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.03, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP19, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.21, 2.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP20, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (1.5, 0.6), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP21, 1X03, SparkFun, (1, 2.25), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP22, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (1.46, 2.47), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, Red, LED-0603, SparkFun, (0.35, 1.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, Red, LED-0603, SparkFun, (0.56, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, Green, LED-0603, SparkFun, (0.56, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, LED-TRICOLOR, LED-TRICOLOR-SMD, SparkFun, (1.3, 1.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 16MHz, RESONATOR-SMD, SparkFun, (0.53, 1.735), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0402-RES, SparkFun, (0.56, 0.75), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0402-RES, SparkFun, (0.5, 2.35), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 1K, 0402-RES, SparkFun, (0.56, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 200, 0402-RES, SparkFun, (1.3, 1.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 100, 0402-RES, SparkFun, (1.4, 1.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 330, 0402-RES, SparkFun, (0.16, 2.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 100, 0402-RES, SparkFun, (1.3, 1.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10k, 0402-RES, SparkFun, (1.3, 2), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 10K, 0603-RES, SparkFun, (1.136, 2.412), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 10K, 0402-RES, SparkFun, (0.35, 1.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, Reset, TACTILE_SWITCH_SMD, SparkFun, (0.35, 2.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S2, SWITCH-MOMENTARY-2SMD, TACTILE_SWITCH_SMD, SparkFun, (1.336, 2.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SG1, BUZZERSMD2, BUZZER-CCV, SparkFun, (1.25, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SJ_3, SparkFun, (0.29, 0.3), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUSE-BITE-3, MOUSE-BITE-3, SparkFun, (0.925, 2.351), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUSE-BITE-5, MOUSE-BITE-5, SparkFun, (0.625, 0.125), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$7, MOUSE-BITE-2, MOUSE-BITE-2, SparkFun, (0.925, 0.8), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$8, MOUSE-BITE-4, MOUSE-BITE-4, SparkFun, (0.925, 1.4), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUSE-BITE-3, MOUSE-BITE-3, SparkFun, (0.925, 1.9), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$13, MOUSE-BITE-4, MOUSE-BITE-4, SparkFun, (0.725, 2.15), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$14, MOUSE-BITE-4, MOUSE-BITE-4, SparkFun, (0.725, 1.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$22, MOUSE-BITE-5, MOUSE-BITE-5, SparkFun, (0.35, 1.175), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$23, MOUSE-BITE-5, MOUSE-BITE-5, SparkFun, (0.3, 1.025), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ATMEGA328, TQFP32-08, SparkFun, (0.35, 1.95), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5205, SOT23-5, SparkFun, (0.35, 1.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U3, FT232RLSSOP, SSOP28DB, SparkFun, (0.29, 0.6), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, TEMT6000, TEMT6000-SEN, SparkFun, (1.3, 1.9), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, USB-SMD-NS, USB-MINIB-NOSTOP, SparkFun, (0.29, 0.2), R90"
         },
         {
             "name": "oompID",

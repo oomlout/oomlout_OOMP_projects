@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-1135-STAN-01>Adafruit Perma Proto Pi PCBs](#proj-adaf-1135-stan-01adafruit-perma-proto-pi-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 0.0, 90,JP1, RASBERRYPI_IDC, microbuilder, (0, 0), R90|
+
 ## Tags
 
 - hexID: PRA1135
@@ -42,7 +50,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 0.0, 90
-- rawPart: 
+- rawPart: JP1, RASBERRYPI_IDC, microbuilder, (0, 0), R90
 
 
 

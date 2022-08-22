@@ -154,7 +154,119 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, 0805-NO, microbuilder, (0.22, 0.21), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0805-NO, microbuilder, (0.5225, 0.4425), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, 0805-NO, microbuilder, (0.36, 0.555), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.37, 0.26), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 0.1uF, 0805-NO, microbuilder, (0.18, 0.445), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 10uF, 0805-NO, microbuilder, (0.07, 0.34), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 0.1uF, 0805-NO, microbuilder, (0.46, 0.26), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323, microbuilder, (0.92, 0.42), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.875, 0.0575), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.05, 0.215), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.52, 0.5725), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X06_ROUND_70, microbuilder, (0.55, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X04_ROUND, microbuilder, (0.55, 0.7), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.855, 0.27), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.64, 0.26), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q3, BSS138, SOT23-WIDE, microbuilder, (0.1825, 0.555), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.865, 0.545), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, 0805-NO, microbuilder, (0.72, 0.565), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.745, 0.255), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.535, 0.26), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.07, 0.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, 0805-NO, microbuilder, (0.845, 0.415), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1, 0.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, MIC5225-3.3V, SOT23-5, microbuilder, (0.175, 0.33), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, FXOS8700CQ, QFN16_3MM_FREESCALE_5X3, microbuilder, (0.375, 0.43), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U4, FXAS21002C, QFN24_4MM_FREESCALE_7X5, microbuilder, (0.67, 0.43), R180"
         },
         {
             "name": "oompID",

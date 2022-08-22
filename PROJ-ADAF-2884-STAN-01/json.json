@@ -74,7 +74,39 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, 1X12_ROUND_76MIL, microbuilder, (1.2, 0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X16_ROUND_76MIL, microbuilder, (1, 1.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X16_ROUND_76MIL, microbuilder, (1, 0.15), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X12_ROUND_76MIL, microbuilder, (1.2, 1.7), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X12_ROUND_76MIL, microbuilder, (1.2, 2.65), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X16_ROUND_76MIL, microbuilder, (1, 2.05), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS2, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS3, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 1.9), R0"
         },
         {
             "name": "oompID",

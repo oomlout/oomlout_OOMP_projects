@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-3573-STAN-01>Adafruit TPL5111 Reset Enable Timer PCB](#proj-adaf-3573-stan-01adafruit-tpl5111-reset-enable-timer-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,23 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 8.889999999999999, 15.493999999999998, M0,B1, JSTPH2, JSTPH2, microbuilder, (0.35, 0.61), MR0|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 15.239999999999998, 11.302999999999999, 270,D1, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.6, 0.445), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.54, 0,JP1, 1X05_ROUND_76, microbuilder, (0.35, 0.1), R0|
+|RESE-0805-X-O105-01, R1, 13.462, 6.731, 270,R1, 1M, 0805-NO, microbuilder, (0.53, 0.265), R270|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 14.985999999999999, 11.049, M180,SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.59, 0.435), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 2.794, 10.921999999999999, M180,SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.11, 0.43), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 8.889999999999999, 14.604999999999999, 90,SW1, MANUAL, EVQ-Q2_SMALLER, microbuilder, (0.35, 0.575), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 7.112, 270,U1, TPL5111DDC, SOT23-6, microbuilder, (0.4, 0.28), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR1, 6.095999999999999, 7.429499999999999, 0,VR1, 200k, TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.24, 0.2925), R0|
 
 ## Tags
 
@@ -56,7 +74,21 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 2.54, 16.509999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 7.112, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR1, 6.095999999999999, 7.429499999999999, 0
-- rawPart: 
+- rawPart: B1, JSTPH2, JSTPH2, microbuilder, (0.35, 0.61), MR0
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.13, 0.26), R90
+- rawPart: D1, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.6, 0.445), R270
+- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.575), R0
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.06, 0.085), R0
+- rawPart: JP1, 1X05_ROUND_76, microbuilder, (0.35, 0.1), R0
+- rawPart: R1, 1M, 0805-NO, microbuilder, (0.53, 0.265), R270
+- rawPart: R2, 1K, 0805-NO, microbuilder, (0.595, 0.515), R0
+- rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.59, 0.435), MR180
+- rawPart: SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.11, 0.43), MR180
+- rawPart: SW1, MANUAL, EVQ-Q2_SMALLER, microbuilder, (0.35, 0.575), R90
+- rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.65), R0
+- rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R0
+- rawPart: U1, TPL5111DDC, SOT23-6, microbuilder, (0.4, 0.28), R270
+- rawPart: VR1, 200k, TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.24, 0.2925), R0
 
 
 

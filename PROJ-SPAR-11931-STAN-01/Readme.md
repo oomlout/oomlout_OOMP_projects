@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-11931-STAN-01>Digital Temperature Sensor Breakout - TMP102](#proj-spar-11931-stan-01digital-temperature-sensor-breakout---tmp102)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-11931-STAN-01>Digital Temperature Sensor Breakout - TMP102
@@ -20,6 +21,21 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0,JP1, 1X06, SparkFun, (0.05, 0.05), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 7.619999999999999, 0,JP2, JUMPER-32-3, SJ_3_PASTE2&3, SparkFun, (0.5, 0.3), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 7.619999999999999, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.3), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.16, 13.97, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.55), R0|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 180,U1, TMP1021:1, SOT563-2, SparkFun-Sensors, (0.3, 0.35), R180|
+
 ## Tags
 
 - hexID: PRS11931
@@ -31,3 +47,21 @@ Contents
 - oompName: Digital Temperature Sensor Breakout - TMP102
 - sources: All source files from https://github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11931
+- oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 5.08, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 7.619999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 7.619999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.16, 13.97, 0
+- oompPart: RESE-0603-X-O102-01, R1, 5.08, 5.08, 90
+- oompPart: RESE-0603-X-O102-01, R2, 7.619999999999999, 5.08, 90
+- oompPart: RESE-0603-X-O102-01, R3, 10.16, 5.08, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 8.889999999999999, 180
+- rawPart: C1, 0.1uF, 0603-CAP, SparkFun, (0.1, 0.2), R270
+- rawPart: JP1, 1X06, SparkFun, (0.05, 0.05), R0
+- rawPart: JP2, JUMPER-32-3, SJ_3_PASTE2&3, SparkFun, (0.5, 0.3), R0
+- rawPart: JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.3), R0
+- rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.55), R0
+- rawPart: R1, 1K, 0603-RES, SparkFun, (0.2, 0.2), R90
+- rawPart: R2, 1K, 0603-RES, SparkFun, (0.3, 0.2), R90
+- rawPart: R3, 1K, 0603-RES, SparkFun, (0.4, 0.2), R90
+- rawPart: U1, TMP1021:1, SOT563-2, SparkFun-Sensors, (0.3, 0.35), R180

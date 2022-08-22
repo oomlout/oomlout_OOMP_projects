@@ -170,7 +170,135 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 10uF, C0805K, adafruit, (1.36, 1.78), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, C0805K, adafruit, (1.62, 1.77), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, C0805K, adafruit, (1.07, 1.68), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, C0805K, adafruit, (1.62, 1.86), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, C0805K, adafruit, (1.36, 1.51), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC4, MIC5225-3.3, SOT23-5L, adafruit, (1.35, 1.64), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC5, AXP803, SOT23, adafruit, (1.08, 1.55), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 2X13, microbuilder, (1.12, 3.19), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, MMBT2222, SOT23-BEC, transistor-neu-to92, (0.55, 1.58), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100, R0805, rcl, (0.67, 1.68), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 100, R0805, rcl, (0.76, 1.68), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100, R0805, rcl, (0.85, 1.68), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 100, R0805, rcl, (0.94, 1.68), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1K, R0805, rcl, (0.58, 1.77), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 10K, R0805, rcl, (1.21, 1.53), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 10K, R0805, rcl, (1.74, 1.73), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 10K, R0805, rcl, (1.83, 1.475), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 1K, R0805, rcl, (0.72, 1.81), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 22, R0805, rcl, (0.47, 1.19), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 22, R0805, rcl, (0.455, 1.3), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, TACT_PANA-EVQ, microbuilder, (0.115, 0.5), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, TACT_PANA-EVQ, microbuilder, (0.115, 0.9), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, TACT_PANA-EVQ, microbuilder, (0.115, 1.3), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW4, TACT_PANA-EVQ, microbuilder, (0.115, 1.7), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, DISP_LCD_1.28IN_240X320_50PIN, TFT_2.83IN_240X320_50PIN, microbuilder, (1.23, 1.77), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$3, RASPBERRYPI_B_MODELB_V2, RASPBERRYPIV2_SHIELD, microbuilder, (0, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$10, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.02, 0.74), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$11, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.45, 0.75), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$15, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.15, 0.15), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$16, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.05, 3.2), MR90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$17, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.05, 0.15), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$18, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.03, 2.955), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, STMPE610, QFN16_3MM, microbuilder, (1.62, 1.57), R180"
         },
         {
             "name": "oompID",

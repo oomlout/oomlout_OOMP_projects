@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2899-STAN-01>Adafruit VEML6070 PCB](#proj-adaf-2899-stan-01adafruit-veml6070-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -30,6 +31,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 2.54, 0,JP1, 1X05_ROUND_70, microbuilder, (0.25, 0.1), R0|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R3, 11.176, 7.112, 270,R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 6.858, 0,U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0|
+
 ## Tags
 
 - hexID: PRA2899
@@ -51,7 +65,16 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 2.54, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 10.16, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 6.858, 0
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.25, 0.38), R180
+- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21, 0.03), R0
+- rawPart: JP1, 1X05_ROUND_70, microbuilder, (0.25, 0.1), R0
+- rawPart: R1, 10K, 0805-NO, microbuilder, (0.36, 0.28), R90
+- rawPart: R2, 10K, 0805-NO, microbuilder, (0.12, 0.26), R270
+- rawPart: R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270
+- rawPart: R4, 10K, 0805-NO, microbuilder, (0.05, 0.29), R270
+- rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R0
+- rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, 0.45), R0
+- rawPart: U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0
 
 
 

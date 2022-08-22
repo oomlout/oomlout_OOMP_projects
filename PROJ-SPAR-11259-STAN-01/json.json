@@ -37,6 +37,134 @@
             "value": "https://www.sparkfun.com/products/11259"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 0.0, 0.0, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0603-X-NF100-V50, C2, 4.999999905999999, -6.999999969999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C10, 2.000000064, -8.000000002, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C11, -16.000000004, -6.999999969999999, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, -3.000000096, -9.500000049999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "ERROR, F1 PTC 5V/500mA, 0, 0, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, -10.000000066, -6.999999969999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 11.999999875999999, -6.999999969999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0603-X-O102-01, R1, 6.999999969999999, -6.999999969999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, 9.000000034, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 17.779999999999998, 0.0, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 22.999999973999998, -6.999999969999999, 45"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -22.999999973999998, 6.999999969999999, 225"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 22.999999973999998, 6.999999969999999, 135"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$5, -22.999999973999998, -6.999999969999999, 315"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, -3.000000096, -5.999999937999999, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "BAT1, AAA, BATTERY-AAA, SparkFun, (0, 0), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, 0603-CAP, SparkFun, (0.19685039, -0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 68uF, EIA3528-21, SparkFun-Nate, (0.07874016, -0.31496063), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 10uF, CPOL_1206, SparkFun-Nate, (-0.62992126, -0.27559055), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, MBRA140, SMA-DIODE, SparkFun-Nate, (-0.11811024, -0.37401575), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "F1, PTC, 5V/500mA, PTC-1206, SparkFun, (0.70866142, -0.23622047), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 47uH, CR54, SparkFun-Nate, (-0.39370079, -0.27559055), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, Red, LED-1206, SparkFun, (0.47244094, -0.27559055), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0603-RES, SparkFun, (0.27559055, -0.27559055), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, AYZ0202, AYZ0202, SparkFun, (0, 0.35433071), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, PAD.03X.05, SparkFun, (0.7, 0), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (0.90551181, -0.27559055), R45"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$2, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (-0.90551181, 0.27559055), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (0.90551181, 0.27559055), R135"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$5, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (-0.90551181, -0.27559055), R315"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, NCP1402-5V, SOT23-5, SparkFun, (-0.11811024, -0.23622047), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11259-STAN-01"
         },

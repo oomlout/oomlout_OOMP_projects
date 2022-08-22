@@ -90,7 +90,55 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.0425, 1.0425), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.4175, 1.04), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (2.1, 0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.3375, 0.4), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JOY1, JOYSTICK_ANALOG_XY, JOYSTICK_ANALOG_MINITHM, microbuilder, (0.45, 0.59), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RPI1, RASPBERRYPI_BPLUS_BONNETSMT, PI_BONNET_SMT, microbuilder, (2.5575, 1.18), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW1, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.4175, 0.59), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW2, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.83, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW3, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.1, 0.95), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW4, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.1, 0.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW5, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.37, 0.65), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW8, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.0425, 0.59), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, ADS1015, MSOP10, microbuilder, (1.23, 0.845), R270"
         },
         {
             "name": "oompID",

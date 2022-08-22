@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4702-STAN-01>Adafruit RGB Matrix FeatherWing PCB](#proj-adaf-4702-stan-01adafruit-rgb-matrix-featherwing-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,26 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C7</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 12.827, 21.209, 90,IC2, AP2112K-3.3, SOT23-5L, adafruit, (0.505, 0.835), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 19.049999999999997, 0,JP1, 1X12_ROUND, microbuilder, (1.2, 0.75), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 26.669999999999998, 16.764, 0,JP2, 1X08_ROUND_70, microbuilder, (1.05, 0.66), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 6.095999999999999, 180,JP3, 1X08_ROUND_70, microbuilder, (1.05, 0.24), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 25.4, 3.8099999999999996, 180,JP4, 1X16_ROUND, microbuilder, (1, 0.15), R180|
+|ERROR, JP15 Shrouded 2x8, 0, 0, 0,JP15, Shrouded, 2x8, 2X08_SHROUDED, microbuilder, (1.05, 0.45), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 11.176, 17.906999999999996, 180,Q2, AON7401, POWERDI3333, microbuilder, (0.44, 0.705), R180|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 7.619999999999999, 21.209, 0,SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.3, 0.835), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, -3.175, 11.43, 0,X1, DCJACK_2MM_PTH, microbuilder, (-0.125, 0.45), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 45.72, 11.43, 90,X2, TERMBLOCK_508_1X2, microbuilder, (1.8, 0.45), R90|
 
 ## Tags
 
@@ -57,7 +78,22 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 7.619999999999999, 21.209, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, -3.175, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 45.72, 11.43, 90
-- rawPart: 
+- rawPart: C6, 10uF, 0805-NO, microbuilder, (0.28, 0.675), R180
+- rawPart: C7, 10uF, 0805-NO, microbuilder, (0.51, 0.235), R0
+- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.925, 0.25), R0
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.06, 0.225), R0
+- rawPart: IC2, AP2112K-3.3, SOT23-5L, adafruit, (0.505, 0.835), R90
+- rawPart: JP1, 1X12_ROUND, microbuilder, (1.2, 0.75), R0
+- rawPart: JP2, 1X08_ROUND_70, microbuilder, (1.05, 0.66), R0
+- rawPart: JP3, 1X08_ROUND_70, microbuilder, (1.05, 0.24), R180
+- rawPart: JP4, 1X16_ROUND, microbuilder, (1, 0.15), R180
+- rawPart: JP15, Shrouded, 2x8, 2X08_SHROUDED, microbuilder, (1.05, 0.45), R180
+- rawPart: MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0
+- rawPart: Q2, AON7401, POWERDI3333, microbuilder, (0.44, 0.705), R180
+- rawPart: R1, 100K, 0603-NO, microbuilder, (0.58, 0.7), R270
+- rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.3, 0.835), R0
+- rawPart: X1, DCJACK_2MM_PTH, microbuilder, (-0.125, 0.45), R0
+- rawPart: X2, TERMBLOCK_508_1X2, microbuilder, (1.8, 0.45), R90
 
 
 

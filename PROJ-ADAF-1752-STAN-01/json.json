@@ -294,7 +294,259 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 330uF, CELEC_3.5MM_8MM, microbuilder, (1.64098425, 1.43224409), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805-NO, microbuilder, (0.49007874, 1.04692913), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 10uF, 0805-NO, microbuilder, (1.84751969, 1.35606299), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 10uF, 0805-NO, microbuilder, (0.76074803, 1.04692913), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 2.2uF, 0805-NO, microbuilder, (0.84774016, 0.594), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 0.1uF, 0805-NO, microbuilder, (1.53248031, 0.745), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 470pF, 0805-NO, microbuilder, (1.73748031, 0.56), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 0.1uF, 0805-NO, microbuilder, (1.53248031, 0.595), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 470pF, 0805-NO, microbuilder, (1.73748031, 0.715), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 0.1uF, 0805-NO, microbuilder, (1.15874016, 1.07), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C11, 0.1uF, 0805-NO, microbuilder, (1.13874016, 0.532), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C13, 0.1uF, 0805-NO, microbuilder, (1.53248031, 0.875), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C15, 0.1uF, 0805-NO, microbuilder, (1.53248031, 1.04), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C16, 470pF, 0805-NO, microbuilder, (1.73748031, 1.07), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C17, 470pF, 0805-NO, microbuilder, (1.73748031, 0.915), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C22, 0.47uF, 0805-NO, microbuilder, (0.62216535, 0.90551181), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C23, 0.47uF, 0805-NO, microbuilder, (0.62216535, 0.82562992), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, 2.1mm, DCJACK_2MM_SMT, microbuilder, (0.61374016, 1.52437008), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, 1N4148, SOD-323, microbuilder, (0.94374016, 0.26), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, 1N4148, SOD-323, microbuilder, (1.42874016, 0.285), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, 1N4148, SOD-323, microbuilder, (1.35874016, 0.285), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "D4, 1N4148, SOD-323, microbuilder, (1.28374016, 0.285), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, MPZ2012S221A, _0805, microbuilder, (0.39862205, 0.99704724), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB2, MPZ2012S221A, _0805, microbuilder, (1.65748031, 0.715), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB3, MPZ2012S221A, _0805, microbuilder, (1.65748031, 0.56), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB4, MPZ2012S221A, _0805, microbuilder, (1.65748031, 0.915), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB5, MPZ2012S221A, _0805, microbuilder, (1.65748031, 1.07), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (2.04598425, 1.34737008), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.26, 0.09), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "J1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (1.03874016, 1.43937008), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "J2, SPKRIGHT, TERMBLOCK_1X2-3.5MM, microbuilder, (1.95248031, 0.62), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, SPKLEFT, TERMBLOCK_1X2-3.5MM, microbuilder, (1.95248031, 1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X14_ROUND70, microbuilder, (1.05, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, AOD417, TO252, microbuilder, (1.33374016, 1.36649606), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (0.55874016, 0.405), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q3, BS138, SOT23-WIDE, microbuilder, (0.55874016, 0.265), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q4, BSS138, SOT23-WIDE, microbuilder, (1.05374016, 0.34), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 10K, 0805-NO, microbuilder, (0.67106299, 0.55374016), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 10K, _0805MP, microbuilder, (1.05374016, 0.46106299), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0805-NO, microbuilder, (0.66374016, 0.265), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10K, 0805-NO, microbuilder, (0.74874016, 0.26106299), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 10K, 0805-NO, microbuilder, (0.83374016, 0.26106299), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 20K, 0805-NO, microbuilder, (0.8173622, 0.89669291), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 20K, 0805-NO, microbuilder, (0.8173622, 0.74775591), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R8, 20K, 0805-NO, microbuilder, (0.74015748, 0.89818898), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R9, 20K, 0805-NO, microbuilder, (0.73901575, 0.74645669), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R10, 10K, _0805MP, microbuilder, (0.95374016, 1.065), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R11, 10K, _0805MP, microbuilder, (0.87374016, 1.065), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R12, 10K, 0805-NO, microbuilder, (0.89767717, 0.375), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R14, 10K, _0805MP, microbuilder, (1.17374016, 0.42106299), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R15, 10K, _0805MP, microbuilder, (1.13874016, 0.23106299), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.24925197, 1.15598425), MR180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.66874016, 0.285), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.55874016, 0.285), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.75874016, 0.375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$29, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$38, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$39, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.1, 1.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$40, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2, 1.5), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, MAX9744, TQFN44_7MM, microbuilder, (1.07874016, 0.81), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.62425197, 1.04692913), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "VR1, Must, be, <1Kohm, TRIMPOT_100MILPTH, microbuilder, (0.19535433, 0.34740157), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "X1, 3.5mm, TERMBLOCK_1X3-3.5MM, microbuilder, (0.14287402, 1.09), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "X2, 3.5mm, 4UCONN_19269, microbuilder, (0, 0.665), R0"
         },
         {
             "name": "oompID",

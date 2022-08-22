@@ -37,6 +37,278 @@
             "value": "https://www.sparkfun.com/products/12702"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 7.619999999999999, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.16, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 12.7, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 15.239999999999998, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 17.779999999999998, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 20.32, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 22.86, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 25.4, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 27.94, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, 30.479999999999997, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP13, 33.019999999999996, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP14, 35.559999999999995, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP15, 38.099999999999994, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP16, 40.64, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP17, 43.18, 2.54, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP18, 2.54, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP19, 5.08, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP20, 7.619999999999999, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP21, 10.16, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP22, 12.7, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP23, 15.239999999999998, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP24, 17.779999999999998, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP25, 20.32, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP26, 22.86, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP27, 25.4, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP28, 27.94, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP29, 30.479999999999997, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP30, 33.019999999999996, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP31, 35.559999999999995, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP32, 38.099999999999994, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP33, 40.64, 20.32, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP34, 43.18, 20.32, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X05_NO_SILK, SparkFun-Connectors, (0.1, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, 1X05_NO_SILK, SparkFun-Connectors, (0.2, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X05_NO_SILK, SparkFun-Connectors, (0.3, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, 1X05_NO_SILK, SparkFun-Connectors, (0.4, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, 1X05_NO_SILK, SparkFun-Connectors, (0.5, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, 1X05_NO_SILK, SparkFun-Connectors, (0.6, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, 1X05_NO_SILK, SparkFun-Connectors, (0.7, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, 1X05_NO_SILK, SparkFun-Connectors, (0.8, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, 1X05_NO_SILK, SparkFun-Connectors, (0.9, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, 1X05_NO_SILK, SparkFun-Connectors, (1, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, 1X05_NO_SILK, SparkFun-Connectors, (1.1, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP12, 1X05_NO_SILK, SparkFun-Connectors, (1.2, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP13, 1X05_NO_SILK, SparkFun-Connectors, (1.3, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP14, 1X05_NO_SILK, SparkFun-Connectors, (1.4, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP15, 1X05_NO_SILK, SparkFun-Connectors, (1.5, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP16, 1X05_NO_SILK, SparkFun-Connectors, (1.6, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP17, 1X05_NO_SILK, SparkFun-Connectors, (1.7, 0.1), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP18, 1X05_NO_SILK, SparkFun-Connectors, (0.1, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP19, 1X05_NO_SILK, SparkFun-Connectors, (0.2, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP20, 1X05_NO_SILK, SparkFun-Connectors, (0.3, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP21, 1X05_NO_SILK, SparkFun-Connectors, (0.4, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP22, 1X05_NO_SILK, SparkFun-Connectors, (0.5, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP23, 1X05_NO_SILK, SparkFun-Connectors, (0.6, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP24, 1X05_NO_SILK, SparkFun-Connectors, (0.7, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP25, 1X05_NO_SILK, SparkFun-Connectors, (0.8, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP26, 1X05_NO_SILK, SparkFun-Connectors, (0.9, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP27, 1X05_NO_SILK, SparkFun-Connectors, (1, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP28, 1X05_NO_SILK, SparkFun-Connectors, (1.1, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP29, 1X05_NO_SILK, SparkFun-Connectors, (1.2, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP30, 1X05_NO_SILK, SparkFun-Connectors, (1.3, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP31, 1X05_NO_SILK, SparkFun-Connectors, (1.4, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP32, 1X05_NO_SILK, SparkFun-Connectors, (1.5, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP33, 1X05_NO_SILK, SparkFun-Connectors, (1.6, 0.8), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP34, 1X05_NO_SILK, SparkFun-Connectors, (1.7, 0.8), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-12702-STAN-01"
         },

@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, 1X04, SparkFun, (0.15, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, Switch, TACTILE-PTH-LED-12MM, SparkFun, (0.3, 0.5), R270"
         },
         {
             "name": "oompID",

@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-4314-STAN-01>Adafruit ATECC608 PCB](#proj-adaf-4314-stan-01adafruit-atecc608-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,22 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 16.764, -5.6514999999999995, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.66, -0.2225), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, -3.556, -5.6514999999999995, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (-0.14, -0.2225), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -2.667, -1.9685, 270,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-0.105, -0.0775), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, ECC1, 6.604, -6.0325, 270,ECC1, ATECC608, SOIC8, cryptotronix, (0.26, -0.2375), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.604, -12.001499999999998, 0,JP2, 1X04_ROUND, microbuilder, (0.26, -0.4725), R0|
+|RESE-0603-X-UNMATCHED-01, R3, 0.254, -1.9685, 0,R3, 4.7K, 0603-NO, microbuilder, (0.01, -0.0775), R0|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 
 ## Tags
 
@@ -57,7 +74,22 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$12, 16.764, 0.6985, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$14, -3.556, -12.001499999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 16.764, -12.001499999999998, 0
-- rawPart: 
+- rawPart: C1, 0.1uF, 0603-NO, microbuilder, (0.51, -0.1075), R0
+- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.03, -0.1975), R90
+- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.66, -0.2225), R90
+- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (-0.14, -0.2225), R270
+- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-0.105, -0.0775), R270
+- rawPart: ECC1, ATECC608, SOIC8, cryptotronix, (0.26, -0.2375), R270
+- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0, 0), R0
+- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.51, -0.431), R0
+- rawPart: JP2, 1X04_ROUND, microbuilder, (0.26, -0.4725), R0
+- rawPart: R3, 4.7K, 0603-NO, microbuilder, (0.01, -0.0775), R0
+- rawPart: R4, 10K, 0603-NO, microbuilder, (0.475, -0.3175), R270
+- rawPart: R5, 10K, 0603-NO, microbuilder, (0.475, -0.1925), R90
+- rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.14, 0.0275), R0
+- rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.66, 0.0275), R0
+- rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.14, -0.4725), R0
+- rawPart: U$15, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.66, -0.4725), R0
 
 
 

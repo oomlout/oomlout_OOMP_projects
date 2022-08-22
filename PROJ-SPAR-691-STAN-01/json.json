@@ -37,6 +37,206 @@
             "value": "https://www.sparkfun.com/products/691"
         },
         {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-PF22-01, C1, 18.160999999999998, 4.953, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-PF22-01, C2, 18.160999999999998, 8.001, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPE-0402-X-UNMATCHED-01, C3, 5.715, 4.826, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C4, 14.224199897999998, 10.668100076, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C5, 14.224, 11.937400052, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C6, 8.382, 13.97, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C7, 10.159400052, 13.460400054, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C8, 4.444999999999999, 7.619999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-0402-X-UNMATCHED-01, C9, 4.444999999999999, 4.826, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "CAPC-UNMATCHED-X-UF10-V25, C10, 3.429, 10.16, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 13.208, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.304, 3.302, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0402-X-UNMATCHED-01, L1, 10.160299974, 11.251499976, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0402-X-UNMATCHED-01, L2, 11.937999999999999, 10.668, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-0402-X-UNMATCHED-01, L3, 10.287, 9.5504, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.748, 6.476999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O105-01, R1, 13.081, 7.238999999999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "RESE-0402-X-O223-01, R2, 5.715, 7.619999999999999, 270"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 12.953999999999999, 5.08, M0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 9.398, 8.6614, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 12.2174, 6.35, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 9.905299975999998, 6.350599947999999, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.2859999999999996, 4.699, 180"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 10.160299974, 18.795899923999997, 90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C1, 22pF, 0402-CAP, SparkFun, (0.715, 0.195), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 22pF, 0402-CAP, SparkFun, (0.715, 0.315), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 33nF, 0402-CAP, SparkFun, (0.225, 0.19), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 2.2nF, 0402-CAP, SparkFun, (0.56000787, 0.42000394), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 4.7pF, 0402-CAP, SparkFun, (0.56, 0.46997638), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C6, 1.0pF, 0402-CAP, SparkFun, (0.33, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C7, 1.5pF, 0402-CAP, SparkFun, (0.39997638, 0.52993701), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10nF, 0402-CAP, SparkFun, (0.175, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C9, 1nF, 0402-CAP, SparkFun, (0.175, 0.19), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C10, 10uF, EIA3216, SparkFun, (0.135, 0.4), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X08, SparkFun, (0.05, 0.05), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 0.52), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.13), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 3.9nH, C0402, SparkFun, (0.40001181, 0.44297244), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "L2, 2.7nH, C0402, SparkFun, (0.47, 0.42), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L3, 8.2nH, C0402, SparkFun, (0.405, 0.376), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (0.62, 0.255), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1M, 0402-RES, SparkFun, (0.515, 0.285), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 22K, 0402-RES, SparkFun, (0.225, 0.3), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, PAD.03X.05, SparkFun, (0.51, 0.2), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$1, PAD, PAD-0.008, Testing, (0.37, 0.341), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$4, PAD, PAD-0.008, Testing, (0.481, 0.25), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, NRF24L01ALT1, QFN20_ALT1, Testing, (0.38997244, 0.25002362), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U2, 3.3V, SOT23-5, SparkFun, (0.09, 0.185), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "Y1, ANTENNA2SMD5, ANTENNA-CHIP5, SparkFun, (0.40001181, 0.73999606), R90"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-691-STAN-01"
         },

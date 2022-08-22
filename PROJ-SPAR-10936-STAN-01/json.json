@@ -126,7 +126,91 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 0.1uF, CAP-PTH-SMALL2, SparkFun, (0.4, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.1, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.8, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 0.1uF, CAP-PTH-SMALL2, SparkFun, (2.5, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 10uF, CPOL-RADIAL-10UF-25V, SparkFun, (0.8, 0.15), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "D1, LED_BARGAPH_10, SparkFun, (0.5, 1.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D2, LED_BARGAPH_10, SparkFun, (1.5, 1.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "D3, LED_BARGAPH_10, SparkFun, (2.5, 1.35), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, 74LS595N, DIL16, SparkFun, (0.45, 0.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC2, 74LS595N, DIL16, SparkFun, (1.15, 0.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC3, 74LS595N, DIL16, SparkFun, (1.85, 0.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC4, 74LS595N, DIL16, SparkFun, (2.55, 0.65), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, IN, 1X06, SparkFun, (0.05, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, OUT, 1X06, SparkFun, (2.95, 0.3), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, 1X02, SparkFun, (2.95, 0.9), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, AXIAL-0.3, SparkFun, (1.5, 0.25), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 330, RPACK-SIP-PTH-5, SparkFun, (0.05, 1.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 330, RPACK-SIP-PTH-5, SparkFun, (0.45, 1.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 330, RPACK-SIP-PTH-5, SparkFun, (0.95, 1.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 330, RPACK-SIP-PTH-5, SparkFun, (1.45, 1.7), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R6, 330, RPACK-SIP-PTH-5, SparkFun, (1.95, 1.6), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R7, 330, RPACK-SIP-PTH-5, SparkFun, (2.45, 1.7), R90"
         },
         {
             "name": "oompID",

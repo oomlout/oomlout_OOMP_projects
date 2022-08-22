@@ -98,7 +98,63 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "3V3IN, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.46, -0.185), R247.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 10uF, 0805, microbuilder, (0.00094488, -0.41), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FB1, Ferrite, 0805, microbuilder, (0.35602338, -0.36140293), R225"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.195, 0.15), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-0.22909449, -0.14822835), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.46, -0.185), R112.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "GND1, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.19, 0.455), R22.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, FIX, CHIPLED_0805, microbuilder, (0.45594488, 0.095), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 1K, 0805, microbuilder, (0.37594488, 0.095), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "RX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.19, -0.455), R157.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.46, 0.185), R67.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP4, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, 0.455), R337.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "TX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, -0.455), R202.5"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$20, U.FL, U.FL, microbuilder, (0.41, 0.28), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0, 0), R90"
         },
         {
             "name": "oompID",

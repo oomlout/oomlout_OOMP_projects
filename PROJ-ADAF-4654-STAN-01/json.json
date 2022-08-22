@@ -82,7 +82,47 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C1, 22uF, 0805-NO, microbuilder, (0.325, 0.26), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "C2, 22uF, 0805-NO, microbuilder, (0.125, 0.185), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C3, 22uF, 0805-NO, microbuilder, (0.325, 0.186), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.375, 0.635), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, TPS61023, SOT563, adafruit_power, (0.31, 0.345), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP1, 1X04_ROUND, microbuilder, (0.225, 0.1), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "L1, 1uH, INDUCTOR_5X5MM_TDK_VLC5045, microbuilder, (0.145, 0.345), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R1, 100K, 0603-NO, microbuilder, (0.32, 0.455), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 732K, 0603-NO, microbuilder, (0.38, 0.354), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 100K, 0603-NO, microbuilder, (0.38, 0.475), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0"
         },
         {
             "name": "oompID",

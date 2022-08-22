@@ -146,7 +146,111 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (1.155, 0.725), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "DOWN, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.57, 0.23), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.145, 0.66), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.86, 0.45), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC1, ATSAMD09D14A-MU, QFN24_4MM, microbuilder, (0.98, 0.255), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "JOY1, JOYSTICK_ANALOG_XY, JOYSTICK_ANALOG_MINITHM, microbuilder, (0.45, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LEFT, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.285, 0.45), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R2, 1k, 0603-NO, microbuilder, (1.155, 0.66), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R3, 10K, 0603-NO, microbuilder, (1.8, 0.705), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R4, 10k, 0603-NO, microbuilder, (1.8, 0.645), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "R5, 1k, 0603-NO, microbuilder, (0.845, 0.36), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RIGHT, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.86, 0.45), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.55, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.45, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.35, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ4, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.25, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ5, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ6, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.05, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ7, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.95, 0.74), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ8, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.9, 0.39), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SJ9, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.9, 0.3), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW6, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.975, 0.725), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "SW7, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.975, 0.495), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP1, TESTPOINT_ROUND_2MM, microbuilder, (0.77, 0.33), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "TP2, TESTPOINT_ROUND_2MM, microbuilder, (0.66, 0.33), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "UP, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.57, 0.67), R180"
         },
         {
             "name": "oompID",

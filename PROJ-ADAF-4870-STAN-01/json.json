@@ -106,7 +106,71 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "C3, 10uF, 0805-NO, microbuilder, (0.235, -0.1575), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "C4, 1uF, 0603-NO, microbuilder, (0.5375, -0.1575), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "C5, 1uF, 0603-NO, microbuilder, (0.5075, -0.0375), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "C8, 10uF, 0805-NO, microbuilder, (0.4725, -0.1525), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "CN1, USBA_PCB, microbuilder, (0, 0), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.66, 0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.8305, -0.1), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "IC3, ATSAMD21E, QFN32_5MM, microbuilder, (0.3175, 0.065), R180"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED1, WS2812B3535, LED3535, adafruit, (0.66, 0.095), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED2, WS2812B3535, LED3535, adafruit, (0.83, 0.095), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED3, WS2812B3535, LED3535, adafruit, (0.83, -0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "LED4, WS2812B3535, LED3535, adafruit, (0.66, -0.1), R270"
+        },
+        {
+            "name": "rawPart",
+            "value": "Q2, reset, BTN_KMR2_4.6X2.8, microbuilder, (0.51, 0.0925), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "RST, TPTP16R, TP16R, testpad, (0.25, -0.13), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SWC, TPTP15R, TP15R, testpad, (0.35, -0.13), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SWD, TPTP16R, TP16R, testpad, (0.45, -0.13), MR0"
+        },
+        {
+            "name": "rawPart",
+            "value": "U1, AP2112K-3.3, SOT23-5, microbuilder, (0.355, -0.1525), R270"
         },
         {
             "name": "oompID",

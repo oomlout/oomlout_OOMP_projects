@@ -46,7 +46,11 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "BAT1, BATTCON_245MM_PTH, SparkFun, (0.4, 0.6), MR270"
+        },
+        {
+            "name": "rawPart",
+            "value": "J3, 1X02, SparkFun, (1, 0.65), R270"
         },
         {
             "name": "oompID",

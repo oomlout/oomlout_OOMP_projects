@@ -7,6 +7,7 @@ Contents
 
 * [PROJ-SPAR-13716-STAN-01>FemtoBuck](#proj-spar-13716-stan-01femtobuck)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
 
 # PROJ-SPAR-13716-STAN-01>FemtoBuck
@@ -20,6 +21,23 @@ Contents
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270,C1, 1uF, 1206-CAP, SparkFun-Capacitors, (0.35, 0.875), R270|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.8099999999999996, 26.924, 180,C2, 2.2uF, 1206-CAP, SparkFun-Capacitors, (0.15, 1.06), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0,CH1, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.13, 0.365), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 1.9049999999999998, 22.86, 90,D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.075, 0.9), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 31.75, 0,JP1, 1X04, SparkFun-Connectors, (0.05, 1.25), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 6.35, 180,JP2, M02PTH, 1X02@1, SparkFun-Connectors, (0.25, 0.25), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 5.08, 16.509999999999998, 0,L1, 33uH/+/-20%/1.4A, SRN6045, SparkFun-Coils, (0.2, 0.65), R0|
+|RESE-0805-X-UNMATCHED-01, R1, 8.889999999999999, 26.034999999999997, 90,R1, 0.3R, 0805, SparkFun-Resistors, (0.35, 1.025), R90|
+|RESE-0805-X-UNMATCHED-01, R2, 7.365999999999999, 26.034999999999997, 270,R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270|
+|ERROR, SJ2 NO Jumper, 0, 0, 0,SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 21.971, 0,U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.2, 0.865), R0|
+
 ## Tags
 
 - hexID: PRS13716
@@ -31,3 +49,29 @@ Contents
 - oompName: FemtoBuck
 - sources: All source files from https://github.com/sparkfun/FemtoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13716
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.8099999999999996, 26.924, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 1.9049999999999998, 22.86, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.254999999999999, 37.465, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 4.3180000000000005, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 31.75, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 6.35, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 5.08, 16.509999999999998, 0
+- oompPart: RESE-0805-X-UNMATCHED-01, R1, 8.889999999999999, 26.034999999999997, 90
+- oompPart: RESE-0805-X-UNMATCHED-01, R2, 7.365999999999999, 26.034999999999997, 270
+- oompPart: ERROR, SJ2 NO Jumper, 0, 0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 21.971, 0
+- rawPart: C1, 1uF, 1206-CAP, SparkFun-Capacitors, (0.35, 0.875), R270
+- rawPart: C2, 2.2uF, 1206-CAP, SparkFun-Capacitors, (0.15, 1.06), R180
+- rawPart: CH1, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.13, 0.365), R0
+- rawPart: D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.075, 0.9), R90
+- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.325, 1.475), R0
+- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.1, 0.17), R0
+- rawPart: JP1, 1X04, SparkFun-Connectors, (0.05, 1.25), R0
+- rawPart: JP2, M02PTH, 1X02@1, SparkFun-Connectors, (0.25, 0.25), R180
+- rawPart: L1, 33uH/+/-20%/1.4A, SRN6045, SparkFun-Coils, (0.2, 0.65), R0
+- rawPart: R1, 0.3R, 0805, SparkFun-Resistors, (0.35, 1.025), R90
+- rawPart: R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270
+- rawPart: SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0
+- rawPart: U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.2, 0.865), R0

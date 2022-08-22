@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2651-STAN-01>Adafruit BMP280 Breakout PCB](#proj-adaf-2651-stan-01adafruit-bmp280-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,25 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.716, 11.43, 180,D2, 1N4148, SOD-323, microbuilder, (0.54, 0.45), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.889999999999999, 2.54, 0,JP2, 1X07_ROUND_70, microbuilder, (0.35, 0.1), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.128, 6.35, 180,Q3, BSS138, SOT23-WIDE, microbuilder, (0.32, 0.25), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q4, 14.097000000000001, 6.731, 180,Q4, BSS138, SOT23-WIDE, microbuilder, (0.555, 0.265), R180|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|RESE-UNMATCHED-X-O103-01, R4, 5.206999999999999, 11.049, 270,R4, 10K, _0805MP, microbuilder, (0.205, 0.435), R270|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 12.446, 270,U1, BME280, BME280, microbuilder, (0.35, 0.49), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.413, 9.017, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (0.095, 0.355), R0|
 
 ## Tags
 
@@ -58,7 +78,23 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 16.891, 5.968999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 12.446, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.413, 9.017, 0
-- rawPart: 
+- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.09, 0.23), R0
+- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.095, 0.475), R0
+- rawPart: D2, 1N4148, SOD-323, microbuilder, (0.54, 0.45), R180
+- rawPart: JP2, 1X07_ROUND_70, microbuilder, (0.35, 0.1), R0
+- rawPart: Q3, BSS138, SOT23-WIDE, microbuilder, (0.32, 0.25), R180
+- rawPart: Q4, BSS138, SOT23-WIDE, microbuilder, (0.555, 0.265), R180
+- rawPart: R1, 10K, 0805-NO, microbuilder, (0.555, 0.375), R0
+- rawPart: R2, 10K, 0805-NO, microbuilder, (0.32, 0.355), R0
+- rawPart: R4, 10K, _0805MP, microbuilder, (0.205, 0.435), R270
+- rawPart: R7, 10K, 0805-NO, microbuilder, (0.205, 0.26), R90
+- rawPart: R8, 10K, 0805-NO, microbuilder, (0.43, 0.26), R90
+- rawPart: U$5, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.04, 0.55), R0
+- rawPart: U$7, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.65), R0
+- rawPart: U$8, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.6, 0.65), R0
+- rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.665, 0.235), R0
+- rawPart: U1, BME280, BME280, microbuilder, (0.35, 0.49), R270
+- rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.095, 0.355), R0
 
 
 

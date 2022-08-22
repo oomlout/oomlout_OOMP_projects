@@ -8,6 +8,7 @@ Contents
 * [PROJ-ADAF-2927-STAN-01>Adafruit DC Stepper Motor FeatherWing PCB](#proj-adaf-2927-stan-01adafruit-dc-stepper-motor-featherwing-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -29,6 +30,39 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 41.528999999999996, 14.985999999999999, M90,A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.635, 0.59), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 39.116, 14.985999999999999, M90,A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.54, 0.59), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, 36.57599999999999, 14.985999999999999, M90,A2, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.44, 0.59), MR90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A3, 34.416999999999994, 14.985999999999999, M270,A3, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.355, 0.59), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4, 31.369, 14.985999999999999, M270,A4, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.235, 0.59), MR270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|ERROR, C4 47uF/16v PANASONIC_C, 0, 0, 0,C4, 47uF/16v, PANASONIC_C, microbuilder, (0.855, 0.31), R0|
+|ERROR, C5 47uF+/16v PANASONIC_C, 0, 0, 0,C5, 47uF+/16v, PANASONIC_C, microbuilder, (0.84, 0.575), R270|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C10</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.557, 9.270999999999999, 270,IC1, TB6612FNG, SSOP24, adafruit, (0.455, 0.365), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 39.116, 9.143999999999998, 90,IC3, TB6612FNG, SSOP24, adafruit, (1.54, 0.36), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 19.304, 0,JP1, 1X12_ROUND, microbuilder, (1.2, 0.76), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 25.4, 3.556, 180,JP2, 1X16_ROUND, microbuilder, (1, 0.14), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 13.081, 14.731999999999998, 90,LED1, Green, CHIPLED_0805_NOOUTLINE, microbuilder, (0.515, 0.58), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MPOWER, 10.795, 19.177, 180,MPOWER, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.425, 0.755), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.637, 16.128999999999998, 90,Q1, AON7401, POWERDI3333, microbuilder, (0.655, 0.635), R90|
+|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-UNMATCHED-X-O103-01, R9, 36.703, 15.493999999999998, 0,R9, 10K, RESPACK_4X0603, microbuilder, (1.445, 0.61), R0|
+|RESE-UNMATCHED-X-O103-01, R10, 41.275, 15.493999999999998, 180,R10, 10K, RESPACK_4X0603, microbuilder, (1.625, 0.61), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 28.194000000000003, 6.985, 0,SW1, BTN_KMR2_4.6X2.8, microbuilder, (1.11, 0.275), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 29.590999999999998, 13.716, 180,U2, PCA9685, TSSOP28, microbuilder, (1.165, 0.54), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 3.556, 14.935199999999998, 270,X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.14, 0.588), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 3.556, 8.001, 270,X2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.14, 0.315), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X4, 47.244, 7.874, 90,X4, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.31), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X6, 47.244, 14.858999999999998, 90,X6, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.585), R90|
 
 ## Tags
 
@@ -70,7 +104,35 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 3.556, 8.001, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X4, 47.244, 7.874, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X6, 47.244, 14.858999999999998, 90
-- rawPart: 
+- rawPart: A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.635, 0.59), MR90
+- rawPart: A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.54, 0.59), MR90
+- rawPart: A2, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.44, 0.59), MR90
+- rawPart: A3, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.355, 0.59), MR270
+- rawPart: A4, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.235, 0.59), MR270
+- rawPart: C2, 0.1uF, 0805-NO, microbuilder, (1.29, 0.335), R180
+- rawPart: C4, 47uF/16v, PANASONIC_C, microbuilder, (0.855, 0.31), R0
+- rawPart: C5, 47uF+/16v, PANASONIC_C, microbuilder, (0.84, 0.575), R270
+- rawPart: C6, 10uF, 0805-NO, microbuilder, (0.68, 0.335), R270
+- rawPart: C10, 10uF, 0805-NO, microbuilder, (1.29, 0.26), R180
+- rawPart: IC1, TB6612FNG, SSOP24, adafruit, (0.455, 0.365), R270
+- rawPart: IC3, TB6612FNG, SSOP24, adafruit, (1.54, 0.36), R90
+- rawPart: JP1, 1X12_ROUND, microbuilder, (1.2, 0.76), R0
+- rawPart: JP2, 1X16_ROUND, microbuilder, (1, 0.14), R180
+- rawPart: LED1, Green, CHIPLED_0805_NOOUTLINE, microbuilder, (0.515, 0.58), R90
+- rawPart: MPOWER, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.425, 0.755), R180
+- rawPart: MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0
+- rawPart: Q1, AON7401, POWERDI3333, microbuilder, (0.655, 0.635), R90
+- rawPart: R4, 1K, 0805-NO, microbuilder, (0.375, 0.58), R0
+- rawPart: R9, 10K, RESPACK_4X0603, microbuilder, (1.445, 0.61), R0
+- rawPart: R10, 10K, RESPACK_4X0603, microbuilder, (1.625, 0.61), R180
+- rawPart: SW1, BTN_KMR2_4.6X2.8, microbuilder, (1.11, 0.275), R0
+- rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 0.675), R0
+- rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.81, 0.095), R0
+- rawPart: U2, PCA9685, TSSOP28, microbuilder, (1.165, 0.54), R180
+- rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.14, 0.588), R270
+- rawPart: X2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.14, 0.315), R270
+- rawPart: X4, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.31), R90
+- rawPart: X6, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.585), R90
 
 
 

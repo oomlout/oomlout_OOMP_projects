@@ -37,6 +37,30 @@
             "value": "https://www.sparkfun.com/products/9350"
         },
         {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, -1.27, 90"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEOFF, 0.0, -6.476999999999999, 0"
+        },
+        {
+            "name": "oompPart",
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEON, 0.0, 3.937, 180"
+        },
+        {
+            "name": "rawPart",
+            "value": "S1, AYZ0202, AYZ0202, SparkFun, (0, -0.05), R90"
+        },
+        {
+            "name": "rawPart",
+            "value": "SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.255), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.155), R180"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9350-STAN-01"
         },

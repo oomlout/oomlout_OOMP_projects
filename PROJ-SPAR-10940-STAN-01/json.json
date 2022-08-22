@@ -90,7 +90,55 @@
         },
         {
             "name": "rawPart",
-            "value": ""
+            "value": "JP1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (-0.55, -0.75), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.75, 0.55), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP3, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.74135039, 0.33856299), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP4, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.44062205, 0.68562205), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP5, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0, 0.68562205), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP6, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.44062205, 0.68562205), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP7, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.61593701, -0.5337126), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP8, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.22961024, -0.78198819), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP9, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.22961024, -0.78198819), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP10, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.61593701, -0.5337126), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP11, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.80670472, -0.11598819), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP12, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.80670472, -0.11598819), R0"
+        },
+        {
+            "name": "rawPart",
+            "value": "JP13, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.74135039, 0.33856299), R0"
         },
         {
             "name": "oompID",
