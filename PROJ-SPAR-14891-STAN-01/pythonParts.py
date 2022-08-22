@@ -9,7 +9,7 @@ newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 2.54, 2.54, 
 newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R8, 41.91, 29.845, 90")
 newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R9, 50.165, 29.845, 270")
 newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R10, 45.72, 26.669999999999998, 0")
-newPart.addTag("oompPart","RESE-0603-X-UNMATCHED-01, R11, 75.565, 21.59, 0")
+newPart.addTag("oompPart","RESE-0603-X-O103-01, R11, 75.565, 21.59, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 37.465, 19.558, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 21.59, 11.43, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, U$12, 45.72, 43.18, 180")
