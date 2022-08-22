@@ -1,10 +1,10 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-2021-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C1, 5.842, 11.937999999999999, 180")
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C2, 5.842, 6.095999999999999, 0")
-newPart.addTag("oompPart","CAPC-0805-X-UNMATCHED-01, C3, 9.143999999999998, 13.589, 270")
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C4, 12.191999999999998, 14.350999999999997, 180")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0")
+newPart.addTag("oompPart","CAPE-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C4, 12.191999999999998, 14.350999999999997, 180")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 23.622, 7.112, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.812, 7.112, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 7.112, 17.399, 270")
@@ -18,7 +18,7 @@ newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 9.906, 6.858,
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R1, 23.749, 16.002, 90")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R2, 18.034, 6.858, 90")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R3, 25.654, 16.002, 90")
-newPart.addTag("oompPart","RESE-UNMATCHED-X-O103-01, R4, 12.7, 6.858, 90")
+newPart.addTag("oompPart","RESE-0805-X-O103-01, R4, 12.7, 6.858, 90")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R5, 5.842, 14.224, 180")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R7, 21.843999999999998, 6.604, 270")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R8, 25.654, 7.619999999999999, 90")

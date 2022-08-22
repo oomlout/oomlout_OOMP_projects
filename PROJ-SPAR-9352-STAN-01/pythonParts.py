@@ -1,9 +1,9 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9352-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C1, 12.954, 20.574, 270")
-newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C2, 35.814, 13.224, 90")
-newPart.addTag("oompPart","CAPC-UNMATCHED-X-UF10-V25, C4, 15.494, 20.574, 90")
+newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C1, 12.954, 20.574, 270")
+newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C2, 35.814, 13.224, 90")
+newPart.addTag("oompPart","CAPE-UNMATCHED-X-UNMATCHED-01, C4, 15.494, 20.574, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 49.784, 14.224, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 41.656, 10.414, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 49.784, 1.524, 180")

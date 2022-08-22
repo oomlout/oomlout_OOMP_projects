@@ -1,10 +1,10 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-5022-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C3, 8.509, -4.0005, 90")
-newPart.addTag("oompPart","CAPC-0603-X-UNMATCHED-01, C4, 16.1925, -3.7464999999999997, 270")
-newPart.addTag("oompPart","CAPC-0603-X-UNMATCHED-01, C5, 15.4305, -1.3335, 0")
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C8, 14.5415, -3.8734999999999995, 270")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C3, 8.509, -4.0005, 90")
+newPart.addTag("oompPart","CAPE-0603-X-UNMATCHED-01, C4, 16.1925, -3.7464999999999997, 270")
+newPart.addTag("oompPart","CAPE-0603-X-UNMATCHED-01, C5, 15.4305, -1.3335, 0")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C8, 14.5415, -3.8734999999999995, 270")
 newPart.addTag("oompPart","ERROR, CN1 USB A, 0, 0, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 21.209, 3.556, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.2217, -3.8734999999999995, 0")

@@ -1,8 +1,8 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-1875-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0805-X-NF100-V50, C1, 5.08, 13.081, 270")
-newPart.addTag("oompPart","CAPC-0805-X-NF100-V50, C2, 7.619999999999999, 13.081, 270")
+newPart.addTag("oompPart","CAPE-0805-X-NF100-01, C1, 5.08, 13.081, 270")
+newPart.addTag("oompPart","CAPE-0805-X-NF100-01, C2, 7.619999999999999, 13.081, 270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 8.889999999999999, 270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 8.889999999999999, 90")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R1, 5.842, 2.413, 0")

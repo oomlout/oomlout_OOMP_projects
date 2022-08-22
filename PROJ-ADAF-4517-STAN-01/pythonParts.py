@@ -1,11 +1,11 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-4517-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C1, 320.0, 405.0, 0")
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C2, 235.5, 181.0, 180")
-newPart.addTag("oompPart","CAPC-0805-X-UF10-V25, C3, 227.5, 492.5, 90")
-newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C4, 578.5, 443.5, 270")
-newPart.addTag("oompPart","CAPC-0603-X-UNMATCHED-01, C5, 435.0, 197.5, 0")
+newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C1, 320.0, 405.0, 0")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C2, 235.5, 181.0, 180")
+newPart.addTag("oompPart","CAPE-0805-X-UNMATCHED-01, C3, 227.5, 492.5, 90")
+newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C4, 578.5, 443.5, 270")
+newPart.addTag("oompPart","CAPE-0603-X-UNMATCHED-01, C5, 435.0, 197.5, 0")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 900.0, 350.0, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 100.0, 350.0, 270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 140.0, 495.0, 90")

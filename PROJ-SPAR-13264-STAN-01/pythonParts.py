@@ -1,7 +1,7 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-13264-STAN-01")
 
-newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C2, -0.127, 4.191, 0")
+newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C2, -0.127, 4.191, 0")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 0.0, 0.0, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 6.858, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, -6.858, 0")
