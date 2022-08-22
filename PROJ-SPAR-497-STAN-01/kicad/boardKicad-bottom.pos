@@ -1,0 +1,7 @@
+### Module positions - created on Sun Aug 21 22:38:26 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+JP1       LOGO-SFESK  SFE-LOGO-FLAME    -149.2631  -106.1466  180.0000  bottom
+## End

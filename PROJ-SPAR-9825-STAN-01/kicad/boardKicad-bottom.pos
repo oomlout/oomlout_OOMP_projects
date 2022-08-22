@@ -1,0 +1,8 @@
+### Module positions - created on Mon Aug 22 10:24:38 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                PosX       PosY       Rot  Side
+LOGO1     OSHW-LOGOM   OSHW-LOGO-M       -146.5961  -113.8936  180.0000  bottom
+U$8       LOGO-SFENEW  SFE-NEW-WEBLOGO   -159.0421  -107.2896  180.0000  bottom
+## End

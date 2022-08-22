@@ -1,0 +1,8 @@
+### Module positions - created on Mon Aug 22 09:35:12 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                PosX       PosY       Rot  Side
+J7        USB-A-S      USB-A-S           -200.8251  -105.0036  180.0000  bottom
+U$4       LOGO-SFENEW  SFE-NEW-WEBLOGO   -151.2951  -106.7816  180.0000  bottom
+## End
