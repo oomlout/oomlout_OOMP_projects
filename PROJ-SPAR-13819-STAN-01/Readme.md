@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13819-STAN-01>Arduino ProtoShield Bare PCB](#proj-spar-13819-stan-01arduino-protoshield-bare-pcb)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13819-STAN-01>Arduino ProtoShield Bare PCB
 
 - ID: PROJ-SPAR-13819-STAN-01
 - Hex ID: PRS13819
 - Name: Arduino ProtoShield Bare PCB
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -118,7 +128,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L2, 19.049999999999997, 2.54, 0,L2, LED_3MM, SparkFun-LED, (0.75, 0.1), R0|
 |RESE-UNMATCHED-X-O331-01, R1, 10.033, 1.27, 180,R1, 330, AXIAL-0.3, SparkFun-Resistors, (0.395, 0.05), R180|
 |RESE-UNMATCHED-X-O331-01, R2, 11.557, 3.556, 0,R2, 330, AXIAL-0.3, SparkFun-Resistors, (0.455, 0.14), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R4, 39.6875, 3.8099999999999996, 180,R4, 10k, AXIAL-0.3, SparkFun-Resistors, (1.5625, 0.15), R180|
+|RESE-UNMATCHED-X-O103-01, R4, 39.6875, 3.8099999999999996, 180,R4, 10k, AXIAL-0.3, SparkFun-Resistors, (1.5625, 0.15), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S4, 4.444999999999999, 55.626, 90,S4, MOMENTARY-SWITCH-SPST-PTH-6.0MM, TACTILE_SWITCH_PTH_6.0MM, SparkFun-Switches, (0.175, 2.19), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 33.654999999999994, 62.230000000000004, M180,SJ1, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.325, 2.45), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 33.654999999999994, 59.69, M180,SJ2, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.325, 2.35), MR180|
@@ -230,7 +240,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L2, 19.049999999999997, 2.54, 0
 - oompPart: RESE-UNMATCHED-X-O331-01, R1, 10.033, 1.27, 180
 - oompPart: RESE-UNMATCHED-X-O331-01, R2, 11.557, 3.556, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 39.6875, 3.8099999999999996, 180
+- oompPart: RESE-UNMATCHED-X-O103-01, R4, 39.6875, 3.8099999999999996, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S4, 4.444999999999999, 55.626, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 33.654999999999994, 62.230000000000004, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 33.654999999999994, 59.69, M180
@@ -338,3 +348,7 @@ Contents
 - rawPart: SJ4, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.55, 2.35), MR0
 - rawPart: SW2, MOMENTARY-SWITCH-SPST-PTH-6.0MM, TACTILE_SWITCH_PTH_6.0MM, SparkFun-Switches, (1.9125, 0.15), R0
 - rawPart: VDD_RAIL, 1X04_NO_SILK, SparkFun-Connectors, (0.6, 0.45), R0
+
+
+
+[im]: kicadPcb3d_450.png

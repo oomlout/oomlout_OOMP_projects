@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15096-STAN-01>Serial Basic Breakout-CH340C](#proj-spar-15096-stan-01serial-basic-breakout-ch340c)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15096-STAN-01>Serial Basic Breakout-CH340C
 
 - ID: PROJ-SPAR-15096-STAN-01
 - Hex ID: PRS15096
 - Name: Serial Basic Breakout-CH340C
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 12.7, 1.1429999999999998, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.5, 0.045), R0|
-|CAPC-0603-X-UNMATCHED-01, C2, 5.08, 1.778, 90,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.2, 0.07), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C9, 8.382, 11.684, 90,C9, 10nF, 0603, SparkFun-Capacitors, (0.33, 0.46), R90|
+|CAPE-0603-X-UNMATCHED-01, C1, 12.7, 1.1429999999999998, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.5, 0.045), R0|
+|CAPE-0603-X-UNMATCHED-01, C2, 5.08, 1.778, 90,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.2, 0.07), R90|
+|CAPE-0603-X-NF100-01, C5, 5.08, 14.731999999999998, 90,C5, 0.1uF, 0603, SparkFun-Capacitors, (0.2, 0.58), R90|
+|CAPE-0603-X-UNMATCHED-01, C9, 8.382, 11.684, 90,C9, 10nF, 0603, SparkFun-Capacitors, (0.33, 0.46), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 13.208, 8.254999999999999, M270,J1, 1X06-SMD-FEMALE, SparkFun-Connectors, (0.52, 0.325), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 6.35, 8.254999999999999, 270,J2, USB-C-16P, SparkFun-Connectors, (0.25, 0.325), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.6829999999999994, 8.254999999999999, M90,JP1, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.145, 0.325), MR90|
@@ -57,10 +67,10 @@ Contents
 - oompName: Serial Basic Breakout-CH340C
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340C (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15096
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 12.7, 1.1429999999999998, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.08, 1.778, 90
-- oompPart: CAPC-0603-X-NF100-V50, C5, 5.08, 14.731999999999998, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C9, 8.382, 11.684, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 12.7, 1.1429999999999998, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 5.08, 1.778, 90
+- oompPart: CAPE-0603-X-NF100-01, C5, 5.08, 14.731999999999998, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C9, 8.382, 11.684, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 13.208, 8.254999999999999, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 6.35, 8.254999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.6829999999999994, 8.254999999999999, M90
@@ -95,3 +105,7 @@ Contents
 - rawPart: R6, 1k, 0603, SparkFun-Resistors, (0.695, 0.485), R270
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-IC-Power, (0.33, 0.07), R90
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.325), R270
+
+
+
+[im]: kicadPcb3d_450.png

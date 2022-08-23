@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9822-STAN-01>USB RS-485 Converter](#proj-spar-9822-stan-01usb-rs-485-converter)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9822-STAN-01>USB RS-485 Converter
 
 - ID: PROJ-SPAR-9822-STAN-01
 - Hex ID: PRS9822
 - Name: USB RS-485 Converter
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 13.97, 5.08, 90,C1, 0.1uF, 0402-CAP, SparkFun, (0.55, 0.2), R90|
-|CAPC-0402-X-NF100-V50, C2, 12.7, 5.08, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.5, 0.2), R90|
-|CAPC-0402-X-NF100-V50, C3, 22.86, 16.509999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.9, 0.65), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C5, 8.889999999999999, 3.8099999999999996, 0,C5, 10uF, EIA3216, SparkFun, (0.35, 0.15), R0|
+|CAPE-0402-X-NF100-01, C1, 13.97, 5.08, 90,C1, 0.1uF, 0402-CAP, SparkFun, (0.55, 0.2), R90|
+|CAPE-0402-X-NF100-01, C2, 12.7, 5.08, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.5, 0.2), R90|
+|CAPE-0402-X-NF100-01, C3, 22.86, 16.509999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.9, 0.65), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 8.889999999999999, 3.8099999999999996, 0,C5, 10uF, EIA3216, SparkFun, (0.35, 0.15), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 10.287, 11.43, 270,F1, 500mA, PTC-1206, SparkFun, (0.405, 0.45), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 8.001, 90,JP2, SCREWTERMINAL-3.5MM-3, SparkFun, (1.35, 0.315), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 38.099999999999994, 8.889999999999999, 90,JP3, 1X03, SparkFun, (1.5, 0.35), R90|
@@ -61,10 +71,10 @@ Contents
 - oompName: USB RS-485 Converter
 - sources: All source files from https://github.com/sparkfun/USB_RS-485_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9822
-- oompPart: CAPC-0402-X-NF100-V50, C1, 13.97, 5.08, 90
-- oompPart: CAPC-0402-X-NF100-V50, C2, 12.7, 5.08, 90
-- oompPart: CAPC-0402-X-NF100-V50, C3, 22.86, 16.509999999999998, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C5, 8.889999999999999, 3.8099999999999996, 0
+- oompPart: CAPE-0402-X-NF100-01, C1, 13.97, 5.08, 90
+- oompPart: CAPE-0402-X-NF100-01, C2, 12.7, 5.08, 90
+- oompPart: CAPE-0402-X-NF100-01, C3, 22.86, 16.509999999999998, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 8.889999999999999, 3.8099999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 10.287, 11.43, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 8.001, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 38.099999999999994, 8.889999999999999, 90
@@ -107,3 +117,7 @@ Contents
 - rawPart: U1, FT232R, SSOP28DB, SparkFun, (0.65, 0.45), R270
 - rawPart: U2, RS485, SO08, SparkFun, (0.95, 0.45), R0
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.2, 0.45), R0
+
+
+
+[im]: kicadPcb3d_450.png

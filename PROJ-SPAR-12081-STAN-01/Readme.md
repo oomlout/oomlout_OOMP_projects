@@ -6,9 +6,11 @@ Contents
 ========
 
 * [PROJ-SPAR-12081-STAN-01>USB Weather Board](#proj-spar-12081-stan-01usb-weather-board)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12081-STAN-01>USB Weather Board
 
 - ID: PROJ-SPAR-12081-STAN-01
@@ -16,23 +18,31 @@ Contents
 - Name: USB Weather Board
 - Description: 
 
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 30.479999999999997, 32.385, 0,C1, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.275), R0|
-|CAPC-0402-X-NF100-V50, C2, 15.239999999999998, 38.099999999999994, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.6, 1.5), R90|
-|CAPC-0402-X-NF100-V50, C3, 30.479999999999997, 36.195, 0,C3, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.425), R0|
-|CAPC-0402-X-NF100-V50, C4, 15.239999999999998, 41.275, 90,C4, 0.1uF, 0402-CAP, SparkFun, (0.6, 1.625), R90|
-|CAPC-0402-X-NF100-V50, C5, 16.509999999999998, 21.9075, 90,C5, 0.1uF, 0402-CAP, SparkFun, (0.65, 0.8625), R90|
+|CAPE-0402-X-NF100-01, C1, 30.479999999999997, 32.385, 0,C1, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.275), R0|
+|CAPE-0402-X-NF100-01, C2, 15.239999999999998, 38.099999999999994, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.6, 1.5), R90|
+|CAPE-0402-X-NF100-01, C3, 30.479999999999997, 36.195, 0,C3, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.425), R0|
+|CAPE-0402-X-NF100-01, C4, 15.239999999999998, 41.275, 90,C4, 0.1uF, 0402-CAP, SparkFun, (0.6, 1.625), R90|
+|CAPE-0402-X-NF100-01, C5, 16.509999999999998, 21.9075, 90,C5, 0.1uF, 0402-CAP, SparkFun, (0.65, 0.8625), R90|
 |CAPE-0402-X-UNMATCHED-01, C6, 26.669999999999998, 18.415, 0,C6, 470pF, 0402-CAP, SparkFun, (1.05, 0.725), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C7, 26.669999999999998, 20.955, 180,C7, 10uF, EIA3216, SparkFun, (1.05, 0.825), R180|
-|CAPC-0402-X-NF100-V50, C8, 25.4, 10.16, 90,C8, 0.1uF, 0402-CAP, SparkFun, (1, 0.4), R90|
-|CAPC-0402-X-NF100-V50, C9, 39.37, 12.7, 90,C9, 0.1uF, 0402-CAP, SparkFun, (1.55, 0.5), R90|
-|CAPC-0402-X-NF100-V50, C10, 40.004999999999995, 27.304999999999996, 270,C10, 0.1uF, 0402-CAP, SparkFun, (1.575, 1.075), R270|
-|CAPC-0402-X-NF100-V50, C11, 40.004999999999995, 23.495, 270,C11, 0.1uF, 0402-CAP, SparkFun, (1.575, 0.925), R270|
-|CAPC-0402-X-NF100-V50, C12, 9.524999999999999, 63.5, 90,C12, 0.1uF, 0402-CAP, SparkFun, (0.375, 2.5), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C7, 26.669999999999998, 20.955, 180,C7, 10uF, EIA3216, SparkFun, (1.05, 0.825), R180|
+|CAPE-0402-X-NF100-01, C8, 25.4, 10.16, 90,C8, 0.1uF, 0402-CAP, SparkFun, (1, 0.4), R90|
+|CAPE-0402-X-NF100-01, C9, 39.37, 12.7, 90,C9, 0.1uF, 0402-CAP, SparkFun, (1.55, 0.5), R90|
+|CAPE-0402-X-NF100-01, C10, 40.004999999999995, 27.304999999999996, 270,C10, 0.1uF, 0402-CAP, SparkFun, (1.575, 1.075), R270|
+|CAPE-0402-X-NF100-01, C11, 40.004999999999995, 23.495, 270,C11, 0.1uF, 0402-CAP, SparkFun, (1.575, 0.925), R270|
+|CAPE-0402-X-NF100-01, C12, 9.524999999999999, 63.5, 90,C12, 0.1uF, 0402-CAP, SparkFun, (0.375, 2.5), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 3.8099999999999996, 270,D1, RED, LED-0603, SparkFun, (0.85, 0.15), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 12.7, 3.8099999999999996, 270,D2, GREEN, LED-0603, SparkFun, (0.5, 0.15), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 11.43, 49.529999999999994, 180,D3, 3.6V, SOD-323, SparkFun, (0.45, 1.95), R180|
@@ -62,16 +72,16 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R4, 31.75, 41.275, 180,R4, 4.7K, 0402-RES, SparkFun, (1.25, 1.625), R180|
 |RESE-0402-X-UNMATCHED-01, R5, 31.75, 44.449999999999996, 180,R5, 4.7K, 0402-RES, SparkFun, (1.25, 1.75), R180|
 |RESE-0402-X-UNMATCHED-01, R6, 30.479999999999997, 33.654999999999994, 180,R6, 3.9K, 0402-RES, SparkFun, (1.2, 1.325), R180|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R8</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O222-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O222-01/image_140.jpg)</td><td> R9</td><td>[RESE-0402-X-O222-01<br>SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)</td><td>[R42222](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O222-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O222-01/image_140.jpg)</td><td> R10</td><td>[RESE-0402-X-O222-01<br>SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)</td><td>[R42222](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R11</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R12</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R13</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R14</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R15</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R16</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R7, 30.479999999999997, 34.925, 0,R7, 1K, 0402-RES, SparkFun, (1.2, 1.375), R0|
+|RESE-0402-X-UNMATCHED-01, R8, 45.72, 38.099999999999994, 270,R8, 1K, 0402-RES, SparkFun, (1.8, 1.5), R270|
+|RESE-0402-X-UNMATCHED-01, R9, 15.239999999999998, 49.529999999999994, 180,R9, 2.2K, 0402-RES, SparkFun, (0.6, 1.95), R180|
+|RESE-0402-X-UNMATCHED-01, R10, 24.13, 49.529999999999994, 180,R10, 2.2K, 0402-RES, SparkFun, (0.95, 1.95), R180|
+|RESE-0402-X-UNMATCHED-01, R11, 45.084999999999994, 57.15, 180,R11, 1K, 0402-RES, SparkFun, (1.775, 2.25), R180|
+|RESE-0402-X-UNMATCHED-01, R12, 39.37, 57.15, 0,R12, 1K, 0402-RES, SparkFun, (1.55, 2.25), R0|
+|RESE-0402-X-UNMATCHED-01, R13, 24.13, 58.419999999999995, 180,R13, 1K, 0402-RES, SparkFun, (0.95, 2.3), R180|
+|RESE-0402-X-UNMATCHED-01, R14, 10.795, 58.419999999999995, 0,R14, 1K, 0402-RES, SparkFun, (0.425, 2.3), R0|
+|RESE-0402-X-UNMATCHED-01, R15, 20.32, 57.15, 0,R15, 1K, 0402-RES, SparkFun, (0.8, 2.25), R0|
+|RESE-0402-X-UNMATCHED-01, R16, 16.509999999999998, 57.15, 180,R16, 1K, 0402-RES, SparkFun, (0.65, 2.25), R180|
 |RESE-0402-X-UNMATCHED-01, R17, 24.13, 52.705, 180,R17, 4.7K, 0402-RES, SparkFun, (0.95, 2.075), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 8.889999999999999, 30.479999999999997, 90,S1, POWER, AYZ0202, SparkFun, (0.35, 1.2), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 16.509999999999998, 27.94, 90,S2, RESET, TACTILE_SWITCH_SMD, SparkFun, (0.65, 1.1), R90|
@@ -97,18 +107,18 @@ Contents
 - oompName: USB Weather Board
 - sources: All source files from https://github.com/sparkfun/USB_Weather_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12081
-- oompPart: CAPC-0402-X-NF100-V50, C1, 30.479999999999997, 32.385, 0
-- oompPart: CAPC-0402-X-NF100-V50, C2, 15.239999999999998, 38.099999999999994, 90
-- oompPart: CAPC-0402-X-NF100-V50, C3, 30.479999999999997, 36.195, 0
-- oompPart: CAPC-0402-X-NF100-V50, C4, 15.239999999999998, 41.275, 90
-- oompPart: CAPC-0402-X-NF100-V50, C5, 16.509999999999998, 21.9075, 90
+- oompPart: CAPE-0402-X-NF100-01, C1, 30.479999999999997, 32.385, 0
+- oompPart: CAPE-0402-X-NF100-01, C2, 15.239999999999998, 38.099999999999994, 90
+- oompPart: CAPE-0402-X-NF100-01, C3, 30.479999999999997, 36.195, 0
+- oompPart: CAPE-0402-X-NF100-01, C4, 15.239999999999998, 41.275, 90
+- oompPart: CAPE-0402-X-NF100-01, C5, 16.509999999999998, 21.9075, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C6, 26.669999999999998, 18.415, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C7, 26.669999999999998, 20.955, 180
-- oompPart: CAPC-0402-X-NF100-V50, C8, 25.4, 10.16, 90
-- oompPart: CAPC-0402-X-NF100-V50, C9, 39.37, 12.7, 90
-- oompPart: CAPC-0402-X-NF100-V50, C10, 40.004999999999995, 27.304999999999996, 270
-- oompPart: CAPC-0402-X-NF100-V50, C11, 40.004999999999995, 23.495, 270
-- oompPart: CAPC-0402-X-NF100-V50, C12, 9.524999999999999, 63.5, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C7, 26.669999999999998, 20.955, 180
+- oompPart: CAPE-0402-X-NF100-01, C8, 25.4, 10.16, 90
+- oompPart: CAPE-0402-X-NF100-01, C9, 39.37, 12.7, 90
+- oompPart: CAPE-0402-X-NF100-01, C10, 40.004999999999995, 27.304999999999996, 270
+- oompPart: CAPE-0402-X-NF100-01, C11, 40.004999999999995, 23.495, 270
+- oompPart: CAPE-0402-X-NF100-01, C12, 9.524999999999999, 63.5, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 3.8099999999999996, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 12.7, 3.8099999999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 11.43, 49.529999999999994, 180
@@ -138,16 +148,16 @@ Contents
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, 31.75, 41.275, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R5, 31.75, 44.449999999999996, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R6, 30.479999999999997, 33.654999999999994, 180
-- oompPart: RESE-0402-X-O102-01, R7, 30.479999999999997, 34.925, 0
-- oompPart: RESE-0402-X-O102-01, R8, 45.72, 38.099999999999994, 270
-- oompPart: RESE-0402-X-O222-01, R9, 15.239999999999998, 49.529999999999994, 180
-- oompPart: RESE-0402-X-O222-01, R10, 24.13, 49.529999999999994, 180
-- oompPart: RESE-0402-X-O102-01, R11, 45.084999999999994, 57.15, 180
-- oompPart: RESE-0402-X-O102-01, R12, 39.37, 57.15, 0
-- oompPart: RESE-0402-X-O102-01, R13, 24.13, 58.419999999999995, 180
-- oompPart: RESE-0402-X-O102-01, R14, 10.795, 58.419999999999995, 0
-- oompPart: RESE-0402-X-O102-01, R15, 20.32, 57.15, 0
-- oompPart: RESE-0402-X-O102-01, R16, 16.509999999999998, 57.15, 180
+- oompPart: RESE-0402-X-UNMATCHED-01, R7, 30.479999999999997, 34.925, 0
+- oompPart: RESE-0402-X-UNMATCHED-01, R8, 45.72, 38.099999999999994, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R9, 15.239999999999998, 49.529999999999994, 180
+- oompPart: RESE-0402-X-UNMATCHED-01, R10, 24.13, 49.529999999999994, 180
+- oompPart: RESE-0402-X-UNMATCHED-01, R11, 45.084999999999994, 57.15, 180
+- oompPart: RESE-0402-X-UNMATCHED-01, R12, 39.37, 57.15, 0
+- oompPart: RESE-0402-X-UNMATCHED-01, R13, 24.13, 58.419999999999995, 180
+- oompPart: RESE-0402-X-UNMATCHED-01, R14, 10.795, 58.419999999999995, 0
+- oompPart: RESE-0402-X-UNMATCHED-01, R15, 20.32, 57.15, 0
+- oompPart: RESE-0402-X-UNMATCHED-01, R16, 16.509999999999998, 57.15, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R17, 24.13, 52.705, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 8.889999999999999, 30.479999999999997, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 16.509999999999998, 27.94, 90
@@ -225,3 +235,7 @@ Contents
 - rawPart: U5, BMP085, BMP085, SparkFun, (1.8, 1), R270
 - rawPart: U6, TEMT6000, TEMT6000-SEN, SparkFun, (1.725, 1.5), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.6, 1.35), R270
+
+
+
+[im]: kicadPcb3d_450.png

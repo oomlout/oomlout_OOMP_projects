@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C7</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C2, 9.7282, 5.4737, 270,C2, 0.1uF, 0603-NO, microbuilder, (0.383, 0.2155), R270|
+|CAPE-0805-X-UNMATCHED-01, C5, 7.340599999999999, 4.9276, 0,C5, 10uF, 0805-NO, microbuilder, (0.289, 0.194), R0|
+|CAPE-0805-X-UNMATCHED-01, C6, 5.588, 12.496799999999999, 90,C6, 10uF, 0805-NO, microbuilder, (0.22, 0.492), R90|
+|CAPE-0603-X-NF100-01, C7, 13.4493, 5.588, 0,C7, 0.1uF, 0603-NO, microbuilder, (0.5295, 0.22), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.4925, 12.5095, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.1375, 0.4925), R90|
@@ -64,10 +64,10 @@ Contents
 - oompName: Adafruit ICM20649 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ICM20649-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4464
-- oompPart: CAPC-0603-X-NF100-V50, C2, 9.7282, 5.4737, 270
-- oompPart: CAPC-0805-X-UF10-V25, C5, 7.340599999999999, 4.9276, 0
-- oompPart: CAPC-0805-X-UF10-V25, C6, 5.588, 12.496799999999999, 90
-- oompPart: CAPC-0603-X-NF100-V50, C7, 13.4493, 5.588, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 9.7282, 5.4737, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 7.340599999999999, 4.9276, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 5.588, 12.496799999999999, 90
+- oompPart: CAPE-0603-X-NF100-01, C7, 13.4493, 5.588, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.4925, 12.5095, 90
@@ -113,4 +113,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

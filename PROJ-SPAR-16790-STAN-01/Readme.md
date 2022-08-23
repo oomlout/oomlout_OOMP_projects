@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-16790-STAN-01>Qwiic Shield for Thing Plus](#proj-spar-16790-stan-01qwiic-shield-for-thing-plus)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-16790-STAN-01>Qwiic Shield for Thing Plus
 
 - ID: PROJ-SPAR-16790-STAN-01
 - Hex ID: PRS16790
 - Name: Qwiic Shield for Thing Plus
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -74,3 +84,7 @@ Contents
 - rawPart: J5, THING_PLUS, THING_PLUS, SparkFun-Boards, (0.45, 1), R0
 - rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.3, 1), R0
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.6, 1), R180
+
+
+
+[im]: kicadPcb3d_450.png

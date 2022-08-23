@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270,C2, 10uF, 0805-NO, microbuilder, (0.475, 0.33905512), R270|
+|CAPE-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270,C3, 10uF, 0805-NO, microbuilder, (0.25, 0.335), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 9.398, 23.114, 180,J1, VMOTORIN, TERMBLOCK_1X2-3.5MM, microbuilder, (0.37, 0.91), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 13.334999999999999, 270,JP1, 1X10_ROUND_76, microbuilder, (0.1, 0.525), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 17.779999999999998, 13.334999999999999, 90,JP3, 1X06-CLEANBIG, adafruit, (0.7, 0.525), R90|
@@ -56,8 +56,8 @@ Contents
 - oompName: Adafruit TB6612 Motor Driver Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2448
-- oompPart: CAPC-0805-X-UF10-V25, C2, 12.065, 8.612000047999999, 270
-- oompPart: CAPC-0805-X-UF10-V25, C3, 6.35, 8.509, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.950000038, 3.5949999219999995, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 13.980999977999998, 22.174000101999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 9.398, 23.114, 180

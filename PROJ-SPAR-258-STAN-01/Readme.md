@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-258-STAN-01>Serial Enabled LCD Backpack](#proj-spar-258-stan-01serial-enabled-lcd-backpack)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-258-STAN-01>Serial Enabled LCD Backpack
 
 - ID: PROJ-SPAR-258-STAN-01
 - Hex ID: PRS258
 - Name: Serial Enabled LCD Backpack
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ERROR, C1  0402-CAP, 0, 0, 0,C1, 0402-CAP, SparkFun, (1.05, 0.15), R270|
+|UNMATCHED-0402-X-UNMATCHED-01, C1, 26.669999999999998, 3.8099999999999996, 270,C1, 0402-CAP, SparkFun, (1.05, 0.15), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 20.32, 6.35, 270,IC1, PIC16F88-SSOP, SSOP20, SparkFun, (0.8, 0.25), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 26.669999999999998, 13.843, 1.1,JP1, 1X06_LOCK, SparkFun, (1.05, 0.545), R1.1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 13.843, 1.1,JP2, 1X06_LOCK, SparkFun, (0.05, 0.545), R1.1|
@@ -49,7 +59,7 @@ Contents
 - oompName: Serial Enabled LCD Backpack
 - sources: All source files from https://github.com/sparkfun/Serial_Enabled_LCD_Backpack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/258
-- oompPart: ERROR, C1  0402-CAP, 0, 0, 0
+- oompPart: UNMATCHED-0402-X-UNMATCHED-01, C1, 26.669999999999998, 3.8099999999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 20.32, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 26.669999999999998, 13.843, 1.1
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 13.843, 1.1
@@ -77,3 +87,7 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.45), R90
 - rawPart: U$4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.4, 0.05), R90
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (1.05, 0.3), R90
+
+
+
+[im]: kicadPcb3d_450.png

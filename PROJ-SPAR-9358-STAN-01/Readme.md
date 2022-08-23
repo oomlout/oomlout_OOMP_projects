@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9358-STAN-01>Bluetooth Mate](#proj-spar-9358-stan-01bluetooth-mate)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9358-STAN-01>Bluetooth Mate
 
 - ID: PROJ-SPAR-9358-STAN-01
 - Hex ID: PRS9358
 - Name: Bluetooth Mate
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 30.479999999999997, 11.43, 0,C1, 10uF, EIA3216, SparkFun, (1.2, 0.45), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 30.479999999999997, 1.9049999999999998, 0,C3, 10uF, EIA3216, SparkFun, (1.2, 0.075), R0|
-|CAPC-0603-X-UNMATCHED-01, C4, 30.479999999999997, 4.3180000000000005, 180,C4, 1uF, 0603-CAP, SparkFun, (1.2, 0.17), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 30.479999999999997, 11.43, 0,C1, 10uF, EIA3216, SparkFun, (1.2, 0.45), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 30.479999999999997, 1.9049999999999998, 0,C3, 10uF, EIA3216, SparkFun, (1.2, 0.075), R0|
+|CAPE-0603-X-UNMATCHED-01, C4, 30.479999999999997, 4.3180000000000005, 180,C4, 1uF, 0603-CAP, SparkFun, (1.2, 0.17), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 34.798, 1.9049999999999998, 270,D1, Red, LED-0603, SparkFun, (1.37, 0.075), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 34.925, 14.604999999999999, 270,D2, Green, LED-0603, SparkFun, (1.375, 0.575), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 15.748, 0,JP1, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.1, 0.62), R0|
@@ -62,9 +72,9 @@ Contents
 - oompName: Bluetooth Mate
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Mate (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9358
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 30.479999999999997, 11.43, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 30.479999999999997, 1.9049999999999998, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 30.479999999999997, 4.3180000000000005, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 30.479999999999997, 11.43, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 30.479999999999997, 1.9049999999999998, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 30.479999999999997, 4.3180000000000005, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 34.798, 1.9049999999999998, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 34.925, 14.604999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 15.748, 0
@@ -110,3 +120,7 @@ Contents
 - rawPart: TP1, PAD.03X.05, SparkFun, (0.9, 0.15), MR0
 - rawPart: U1, BLUETOOTH-RN41, RN41, SparkFun-RF, (0.65062992, 0.31551181), R0
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (1.2, 0.3), R180
+
+
+
+[im]: kicadPcb3d_450.png

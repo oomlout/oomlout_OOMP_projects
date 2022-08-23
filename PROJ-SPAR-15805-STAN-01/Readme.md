@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15805-STAN-01>SparkFun High Precision Temperature Sensor TMP117 Qwiic](#proj-spar-15805-stan-01sparkfun-high-precision-temperature-sensor-tmp117-qwiic)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15805-STAN-01>SparkFun High Precision Temperature Sensor TMP117 Qwiic
 
 - ID: PROJ-SPAR-15805-STAN-01
 - Hex ID: PRS15805
 - Name: SparkFun High Precision Temperature Sensor TMP117 Qwiic
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 9.524999999999999, 8.889999999999999, 270,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.375, 0.35), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 2.1843999999999997, 7.9756, 0,D1, RED, LED-0603, SparkFun-LED, (0.086, 0.314), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.7111999999999999, 0.7111999999999999, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.028, 0.028), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.6634, 24.561799999999998, 0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.971, 0.967), R0|
@@ -42,8 +52,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 22.8854, 16.383, M270,JP5, JUMPER-SMT_3_NO_NO_SILK, SMT-JUMPER_3_0-NO_TRACE_NO-SILK, SparkFun-Jumpers, (0.901, 0.645), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 17.8054, 8.4582, M90,JP10, INT, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.701, 0.333), MR90|
 |RESE-0603-X-UNMATCHED-01, R1, 2.1590000000000003, 6.5024, 180,R1, 1k, 0603, SparkFun-Resistors, (0.085, 0.256), R180|
-|RESE-0603-X-UNMATCHED-01, R2, 6.35, 17.145, 0,R2, 10k, 0603, SparkFun-Resistors, (0.25, 0.675), R0|
-|RESE-0603-X-UNMATCHED-01, R3, 15.875, 8.889999999999999, 270,R3, 10k, 0603, SparkFun-Resistors, (0.625, 0.35), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R4, 21.717, 7.238999999999999, 270,R4, 2.2k, 0603, SparkFun-Resistors, (0.855, 0.285), R270|
 |RESE-0603-X-UNMATCHED-01, R5, 24.0538, 7.238999999999999, 270,R5, 2.2k, 0603, SparkFun-Resistors, (0.947, 0.285), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 180,U1, TMP117, TMP117, SparkFun-Sensors, (0.5, 0.5), R180|
@@ -59,7 +69,7 @@ Contents
 - oompName: SparkFun High Precision Temperature Sensor TMP117 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15805
-- oompPart: CAPC-0603-X-NF100-V50, C1, 9.524999999999999, 8.889999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 9.524999999999999, 8.889999999999999, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.1843999999999997, 7.9756, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.7111999999999999, 0.7111999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.6634, 24.561799999999998, 0
@@ -75,8 +85,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 22.8854, 16.383, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 17.8054, 8.4582, M90
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 2.1590000000000003, 6.5024, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 6.35, 17.145, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 15.875, 8.889999999999999, 270
+- oompPart: RESE-0603-X-O103-01, R2, 6.35, 17.145, 0
+- oompPart: RESE-0603-X-O103-01, R3, 15.875, 8.889999999999999, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 21.717, 7.238999999999999, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 24.0538, 7.238999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 180
@@ -101,3 +111,7 @@ Contents
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.855, 0.285), R270
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.947, 0.285), R270
 - rawPart: U1, TMP117, TMP117, SparkFun-Sensors, (0.5, 0.5), R180
+
+
+
+[im]: kicadPcb3d_450.png

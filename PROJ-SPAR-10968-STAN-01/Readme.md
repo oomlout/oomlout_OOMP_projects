@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 3.8099999999999996, 6.35, 270,C1, 10uF, EIA3216, SparkFun, (0.15, 0.25), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 270,C1, 10uF, EIA3216, SparkFun, (0.15, 0.25), R270|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 12.7, 90,C2, 68uF, EIA3528, SparkFun, (0.1, 0.5), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 12.446, 90,D1, MBRA140, SMA-DIODE, SparkFun, (0.4, 0.49), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, 0,JP1, 1X03, SparkFun-Connectors, (0.15, 0.05), R0|
@@ -54,7 +54,7 @@ Contents
 - oompName: NCP1402-5V Breakout
 - sources: All source files from https://github.com/sparkfun/NCP1402-5V_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10968
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 3.8099999999999996, 6.35, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 12.7, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 12.446, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.43, 1.27, 0
@@ -73,4 +73,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

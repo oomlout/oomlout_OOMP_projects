@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-NF100-V50, C1, -2.125000068, -3.6179998759999994, 0,C1, 0.1uF, _0805, microbuilder, (-0.08366142, -0.14244094), R0|
+|CAPE-0805-X-NF100-01, C1, -2.125000068, -3.6179998759999994, 0,C1, 0.1uF, _0805, microbuilder, (-0.08366142, -0.14244094), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -3.303999996, -0.35600005, 90,LED1, 45-21/LK2C-B38452C4CB2/2T, EVERLIGHT_45-21, microbuilder, (-0.13007874, -0.01401575), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, -1.762000032, 3.1680000139999995, 180,Q3, BSS138, SOT23-WIDE, microbuilder, (-0.06937008, 0.12472441), R180|
-|RESE-UNMATCHED-X-O103-01, R1, 3.2690000660000003, -0.22000006799999997, 270,R1, 10K, _0805, microbuilder, (0.12870079, -0.00866142), R270|
-|RESE-UNMATCHED-X-O103-01, R2, 2.038999986, -3.5969999180000003, 180,R2, 10K, _0805, microbuilder, (0.08027559, -0.14161417), R180|
-|RESE-UNMATCHED-X-O103-01, R6, 2.032, 3.429, 0,R6, 10K, _0805, microbuilder, (0.08, 0.135), R0|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 0.0, -6.35, 180,TP1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 0.0, 6.35, 0,TP2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 0.25), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, -5.588, -3.175, 120,TP3, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-0.22, -0.125), R120|
@@ -61,14 +61,14 @@ Contents
 - oompName: Adafruit Flora TCS34725 Color Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1356
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, -2.125000068, -3.6179998759999994, 0
+- oompPart: CAPE-0805-X-NF100-01, C1, -2.125000068, -3.6179998759999994, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -2.794, 5.968999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.667, -5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -3.303999996, -0.35600005, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, -1.762000032, 3.1680000139999995, 180
-- oompPart: RESE-UNMATCHED-X-O103-01, R1, 3.2690000660000003, -0.22000006799999997, 270
-- oompPart: RESE-UNMATCHED-X-O103-01, R2, 2.038999986, -3.5969999180000003, 180
-- oompPart: RESE-UNMATCHED-X-O103-01, R6, 2.032, 3.429, 0
+- oompPart: RESE-0805-X-O103-01, R1, 3.2690000660000003, -0.22000006799999997, 270
+- oompPart: RESE-0805-X-O103-01, R2, 2.038999986, -3.5969999180000003, 180
+- oompPart: RESE-0805-X-O103-01, R6, 2.032, 3.429, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 0.0, -6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 0.0, 6.35, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, -5.588, -3.175, 120

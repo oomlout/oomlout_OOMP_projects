@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 24.764999999999997, 180,C1, 10uF, 0805-NO, microbuilder, (0.12, 0.975), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 15.366999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.12, 0.605), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 3.0479999999999996, 20.955, 180,C3, 10uF, 0805-NO, microbuilder, (0.12, 0.825), R180|
+|CAPE-0805-X-UNMATCHED-01, C4, 3.0479999999999996, 22.86, 180,C4, 10uF, 0805-NO, microbuilder, (0.12, 0.9), R180|
+|CAPE-0603-X-NF100-01, C5, 30.733999999999998, 24.002999999999997, 270,C5, 0.1uF, 0603-NO, microbuilder, (1.21, 0.945), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.08, 13.589, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.2, 0.535), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 5.08, 10.921999999999999, 90,D2, BLUE, CHIPLED_0603_NOOUTLINE, microbuilder, (0.2, 0.43), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 5.08, 12.318999999999999, 90,D3, RED, CHIPLED_0603_NOOUTLINE, microbuilder, (0.2, 0.485), R90|
@@ -48,7 +48,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.875, 2.54, 0,JP1, 1X12_ROUND, microbuilder, (0.625, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 27.304999999999996, 7.365999999999999, 180,Q3, BSS138, SOT23-WIDE, microbuilder, (1.075, 0.29), R180|
 |RESE-UNMATCHED-X-O103-01, R2, 27.686, 10.795, 0,R2, 10K, RESPACK_4X0603, microbuilder, (1.09, 0.425), R0|
-|RESE-UNMATCHED-X-O102-01, R6, 2.2859999999999996, 12.318999999999999, 270,R6, 1K, RESPACK_4X0603, microbuilder, (0.09, 0.485), R270|
+|RESE-UNMATCHED-X-UNMATCHED-01, R6, 2.2859999999999996, 12.318999999999999, 270,R6, 1K, RESPACK_4X0603, microbuilder, (0.09, 0.485), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.0479999999999996, 18.034, 270,U1, AP2112-3.3, SOT23-5, microbuilder, (0.12, 0.71), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 28.448, 17.145, 0,U2, 74AHC4050, TSSOP16, microbuilder, (1.12, 0.675), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 15.875, 20.32, 0,X1, ESP32_WROOM32, WROOM32, microbuilder, (0.625, 0.8), R0|
@@ -64,11 +64,11 @@ Contents
 - oompName: Adafruit AirLift Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4201
-- oompPart: CAPC-0805-X-UF10-V25, C1, 3.0479999999999996, 24.764999999999997, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 3.0479999999999996, 15.366999999999999, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 3.0479999999999996, 20.955, 180
-- oompPart: CAPC-0805-X-UF10-V25, C4, 3.0479999999999996, 22.86, 180
-- oompPart: CAPC-0603-X-NF100-V50, C5, 30.733999999999998, 24.002999999999997, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 24.764999999999997, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 15.366999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 3.0479999999999996, 20.955, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 3.0479999999999996, 22.86, 180
+- oompPart: CAPE-0603-X-NF100-01, C5, 30.733999999999998, 24.002999999999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.08, 13.589, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 5.08, 10.921999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 5.08, 12.318999999999999, 90
@@ -78,7 +78,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.875, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 27.304999999999996, 7.365999999999999, 180
 - oompPart: RESE-UNMATCHED-X-O103-01, R2, 27.686, 10.795, 0
-- oompPart: RESE-UNMATCHED-X-O102-01, R6, 2.2859999999999996, 12.318999999999999, 270
+- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R6, 2.2859999999999996, 12.318999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 2.54, 30.353, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$16, 28.701999999999995, 29.845, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.0479999999999996, 18.034, 270
@@ -107,4 +107,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

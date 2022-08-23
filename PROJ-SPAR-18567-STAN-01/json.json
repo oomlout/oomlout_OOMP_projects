@@ -42,19 +42,19 @@
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C1 DNP 0603, 0, 0, 0"
+            "value": "UNMATCHED-0603-X-UNMATCHED-01, C1, 48.00599999999999, 36.83, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180"
+            "value": "CAPE-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270"
+            "value": "CAPE-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UF10-V25, C4, 50.99049999999999, 16.700499999999998, 270"
+            "value": "CAPE-0603-X-UNMATCHED-01, C4, 50.99049999999999, 16.700499999999998, 270"
         },
         {
             "name": "oompPart",

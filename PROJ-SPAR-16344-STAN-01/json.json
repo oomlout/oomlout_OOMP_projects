@@ -42,31 +42,31 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C1, 27.619999877999998, 5.702000025999999, 0"
+            "value": "CAPE-0402-X-NF100-01, C1, 27.619999877999998, 5.702000025999999, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 25.4, 34.925, 0"
+            "value": "CAPE-0603-X-UNMATCHED-01, C2, 25.4, 34.925, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-UNMATCHED-01, C3, 35.981550084, 18.012000044, 180"
+            "value": "CAPE-0402-X-UNMATCHED-01, C3, 35.981550084, 18.012000044, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-UNMATCHED-01, C4, 35.575150084, 6.893200082, 180"
+            "value": "CAPE-0402-X-UNMATCHED-01, C4, 35.575150084, 6.893200082, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C5, 19.7866, 34.7726, 0"
+            "value": "CAPE-0603-X-UNMATCHED-01, C5, 19.7866, 34.7726, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C6, 26.212999897999996, 13.375999918, 90"
+            "value": "CAPE-0402-X-NF100-01, C6, 26.212999897999996, 13.375999918, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C7, 22.377200102, 10.804800082, 270"
+            "value": "CAPE-0402-X-NF100-01, C7, 22.377200102, 10.804800082, 270"
         },
         {
             "name": "oompPart",
@@ -74,11 +74,11 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C9, 23.622, 41.021, 0"
+            "value": "CAPE-0603-X-UNMATCHED-01, C9, 23.622, 41.021, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C10, 26.162, 38.099999999999994, 90"
+            "value": "CAPE-0603-X-UNMATCHED-01, C10, 26.162, 38.099999999999994, 90"
         },
         {
             "name": "oompPart",

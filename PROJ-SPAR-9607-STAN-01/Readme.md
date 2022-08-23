@@ -6,9 +6,11 @@ Contents
 ========
 
 * [PROJ-SPAR-9607-STAN-01>SM5100B Cellular Shield](#proj-spar-9607-stan-01sm5100b-cellular-shield)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9607-STAN-01>SM5100B Cellular Shield
 
 - ID: PROJ-SPAR-9607-STAN-01
@@ -16,12 +18,20 @@ Contents
 - Name: SM5100B Cellular Shield
 - Description: 
 
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C3, 41.91, 48.26, 0,C3, 0.1uF, 0603-CAP, SparkFun, (1.65, 1.9), R0|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C5, 46.99, 5.08, 270,C5, 100uF, EIA7343, SparkFun, (1.85, 0.2), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 72.39, 0,JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 2.85), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 50.8, 2.54, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (2, 0.1), R0|
@@ -50,7 +60,7 @@ Contents
 - oompName: SM5100B Cellular Shield
 - sources: All source files from https://github.com/sparkfun/SM5100B_Cellular_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9607
-- oompPart: CAPC-0603-X-NF100-V50, C3, 41.91, 48.26, 0
+- oompPart: CAPE-0603-X-NF100-01, C3, 41.91, 48.26, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 46.99, 5.08, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 72.39, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 50.8, 2.54, 0
@@ -84,3 +94,7 @@ Contents
 - rawPart: U2, SPX29302, Q5-DD_SPX29300, SparkFun, (1.45, 2.35), R0
 - rawPart: U3, SM5100B, SM5100B, SparkFun, (1, 0.2), R0
 - rawPart: U4, SIMHOLDER3, SIMHOLDER3, SparkFun, (1, 1.7), R90
+
+
+
+[im]: kicadPcb3d_450.png

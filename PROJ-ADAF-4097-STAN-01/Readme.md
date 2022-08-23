@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 3.175, 5.968999999999999, 0,C2, 10UF, 0805-NO, microbuilder, (0.125, 0.235), R0|
-|CAPC-0805-X-UNMATCHED-01, C3, 5.968999999999999, 11.302999999999999, 270,C3, 10UF, 0805-NO, microbuilder, (0.235, 0.445), R270|
+|CAPE-0603-X-NF100-01, C1, 11.176, 13.081, 0,C1, 0.1uF, 0603-NO, microbuilder, (0.44, 0.515), R0|
+|CAPE-0805-X-UNMATCHED-01, C2, 3.175, 5.968999999999999, 0,C2, 10UF, 0805-NO, microbuilder, (0.125, 0.235), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 5.968999999999999, 11.302999999999999, 270,C3, 10UF, 0805-NO, microbuilder, (0.235, 0.445), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.128, 7.619999999999999, 90,D1, 1N4148, SOD-323, microbuilder, (0.32, 0.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X09_ROUND_70, microbuilder, (0.5, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 18.668999999999997, 7.619999999999999, 180,Q3, 2N7002D, SOT363, microbuilder, (0.735, 0.3), R180|
@@ -59,9 +59,9 @@ Contents
 - oompName: Adafruit_ADXL343_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_ADXL343_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4097
-- oompPart: CAPC-0603-X-NF100-V50, C1, 11.176, 13.081, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.175, 5.968999999999999, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.968999999999999, 11.302999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 11.176, 13.081, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.175, 5.968999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 5.968999999999999, 11.302999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.128, 7.619999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 18.668999999999997, 7.619999999999999, 180
@@ -92,4 +92,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

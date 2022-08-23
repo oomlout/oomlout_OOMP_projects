@@ -37,7 +37,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 9.143999999999998, 180,C1, 22uF, 0805-NO, microbuilder, (0.12, 0.36), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C2, 8.509, 6.095999999999999, 90,C2, 10uF, 0805-NO, microbuilder, (0.335, 0.24), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180,JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 1.9049999999999998, 6.604, 90,L1, 2.2uH/NRH2412T2R2MNGH, INDUCTOR_TAIYOYUDEN_NRH2412T, microbuilder, (0.075, 0.26), R90|
 |RESE-0805-X-O104-01, R1, 8.254999999999999, 9.906, 180,R1, 100K, 0805-NO, microbuilder, (0.325, 0.39), R180|
@@ -55,7 +55,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2745
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 9.143999999999998, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 8.509, 6.095999999999999, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 8.509, 6.095999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 12.7, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 1.9049999999999998, 6.604, 90

@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 2.9679999059999997, 5.999999937999999, 180,C1, 10uF, 0805-NO, microbuilder, (0.11685039, 0.23622047), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 2.874000094, 12.638000124, 0,C2, 10uF, 0805-NO, microbuilder, (0.11314961, 0.49755906), R0|
+|CAPE-0805-X-NF100-01, C3, 10.459999908, 10.475999876, 0,C3, 0.1uF, 0805-NO, microbuilder, (0.41181102, 0.41244094), R0|
 |UNMATCHED-0805-X-UNMATCHED-01, FB1, 8.399999964, 12.257000124, 0,FB1, Ferrite, 0805, microbuilder, (0.33070866, 0.48255906), R0|
 |UNMATCHED-0805-X-UNMATCHED-01, FB2, 12.081999966, 12.257000124, 180,FB2, Ferrite, 0805, microbuilder, (0.47566929, 0.48255906), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180,JP1, Breakout, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R180|
@@ -61,9 +61,9 @@ Contents
 - oompName: Adafruit MAX31850 thermocouple breakout board
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1727
-- oompPart: CAPC-0805-X-UF10-V25, C1, 2.9679999059999997, 5.999999937999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 2.874000094, 12.638000124, 0
-- oompPart: CAPC-0805-X-NF100-V50, C3, 10.459999908, 10.475999876, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 2.9679999059999997, 5.999999937999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.874000094, 12.638000124, 0
+- oompPart: CAPE-0805-X-NF100-01, C3, 10.459999908, 10.475999876, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 8.399999964, 12.257000124, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB2, 12.081999966, 12.257000124, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 13.430000064, 9.951999908, 0

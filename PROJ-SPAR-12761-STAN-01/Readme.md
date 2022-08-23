@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12761-STAN-01>microSD Shield](#proj-spar-12761-stan-01microsd-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12761-STAN-01>microSD Shield
 
 - ID: PROJ-SPAR-12761-STAN-01
 - Hex ID: PRS12761
 - Name: microSD Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UF10-V25, C3, 41.91, 27.304999999999996, 90,C3, 10uF, 0603-CAP, SparkFun-Capacitors, (1.65, 1.075), R90|
+|CAPE-0603-X-NF100-01, C1, 16.509999999999998, 3.8099999999999996, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.15), R270|
+|CAPE-0603-X-NF100-01, C2, 35.559999999999995, 3.8099999999999996, 270,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.4, 0.15), R270|
+|CAPE-0603-X-UNMATCHED-01, C3, 41.91, 27.304999999999996, 90,C3, 10uF, 0603-CAP, SparkFun-Capacitors, (1.65, 1.075), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 55.88, 0,J1, AVR_SPI_PRG_6NS, 2X3-NS, SparkFun-Connectors, (0.95, 2.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 46.99, 57.785, 0,JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.85, 2.275), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 2.54, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.1), R0|
@@ -56,9 +66,9 @@ Contents
 - oompName: microSD Shield
 - sources: All source files from https://github.com/sparkfun/microSD_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12761
-- oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 3.8099999999999996, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 3.8099999999999996, 270
-- oompPart: CAPC-0603-X-UF10-V25, C3, 41.91, 27.304999999999996, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 16.509999999999998, 3.8099999999999996, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 35.559999999999995, 3.8099999999999996, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 41.91, 27.304999999999996, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 55.88, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 46.99, 57.785, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 2.54, 0
@@ -92,3 +102,7 @@ Contents
 - rawPart: U1, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun, (0.75, 0.7), R180
 - rawPart: U2, ARDUINO_R3_SHIELDNOLABELS, UNO_R3_SHIELD_NOLABELS, SparkFun-Boards, (-0.05, 0), R0
 - rawPart: U3, HEX_CONVERTER, SO016, SparkFun, (0.525, 0.425), R90
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13303-STAN-01>LSM303C 6 DOF IMU Breakout](#proj-spar-13303-stan-01lsm303c-6-dof-imu-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13303-STAN-01>LSM303C 6 DOF IMU Breakout
 
 - ID: PROJ-SPAR-13303-STAN-01
 - Hex ID: PRS13303
 - Name: LSM303C 6 DOF IMU Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 13.843, 14.985999999999999, 270,C1, 10uF, EIA3216, SparkFun, (0.545, 0.59), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 13.843, 14.985999999999999, 270,C1, 10uF, EIA3216, SparkFun, (0.545, 0.59), R270|
+|CAPE-0603-X-NF100-01, C2, 11.811, 11.049, 90,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.465, 0.435), R90|
+|CAPE-0603-X-NF100-01, C3, 9.398, 13.462, 90,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.37, 0.53), R90|
+|CAPE-0603-X-NF100-01, C4, 9.143999999999998, 5.842, 180,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.36, 0.23), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 22.605999999999998, 24.13, 270,JP1, 1X04, SparkFun-Connectors, (0.89, 0.95), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.605999999999998, 13.97, 270,JP2, 1X06, SparkFun-Connectors, (0.89, 0.55), R270|
 |RESE-0603-X-UNMATCHED-01, R1, 12.649199999999999, 7.874, 90,R1, 68, 0603-RES, SparkFun-Passives, (0.498, 0.31), R90|
@@ -54,10 +64,10 @@ Contents
 - oompName: LSM303C 6 DOF IMU Breakout
 - sources: All source files from https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13303
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 13.843, 14.985999999999999, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 11.811, 11.049, 90
-- oompPart: CAPC-0603-X-NF100-V50, C3, 9.398, 13.462, 90
-- oompPart: CAPC-0603-X-NF100-V50, C4, 9.143999999999998, 5.842, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 13.843, 14.985999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 11.811, 11.049, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 9.398, 13.462, 90
+- oompPart: CAPE-0603-X-NF100-01, C4, 9.143999999999998, 5.842, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 18.034, 24.383999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.588, 0.8636, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 22.605999999999998, 24.13, 270
@@ -90,3 +100,7 @@ Contents
 - rawPart: TP1, VDD_TP, TP_15TH, SparkFun-Passives, (0.46, 0.56), R0
 - rawPart: U1, LSM303C, LGA-12, SparkFun-DigitalIC, (0.35, 0.36), R0
 - rawPart: U2, LM3880, SOT23-6, SparkFun-DigitalIC, (0.625, 0.31), R90
+
+
+
+[im]: kicadPcb3d_450.png

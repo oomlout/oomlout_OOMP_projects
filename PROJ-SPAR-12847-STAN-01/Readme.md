@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12847-STAN-01>XBee Shield](#proj-spar-12847-stan-01xbee-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12847-STAN-01>XBee Shield
 
 - ID: PROJ-SPAR-12847-STAN-01
 - Hex ID: PRS12847
 - Name: XBee Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 10.16, 29.209999999999997, 180,C1, 10uF, EIA3216, SparkFun, (0.4, 1.15), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 10.16, 21.59, 180,C3, 10uF, EIA3216, SparkFun, (0.4, 0.85), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 10.16, 29.209999999999997, 180,C1, 10uF, EIA3216, SparkFun, (0.4, 1.15), R180|
+|CAPE-0603-X-NF100-01, C2, 7.6453999999999995, 24.612599999999997, 270,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.301, 0.969), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 10.16, 21.59, 180,C3, 10uF, EIA3216, SparkFun, (0.4, 0.85), R180|
+|CAPE-0603-X-NF100-01, C4, 10.413999999999998, 17.272000000000002, 180,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.41, 0.68), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 44.323, 10.16, 90,JP1, 1X06, SparkFun, (1.745, 0.4), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 27.94, 270,JP2, M11PTH, 1X11, SparkFun, (1.35, 1.1), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 2.54, 90,JP3, M11PTH, 1X11, SparkFun, (0.85, 0.1), R90|
@@ -72,10 +82,10 @@ Contents
 - oompName: XBee Shield
 - sources: All source files from https://github.com/sparkfun/XBee_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12847
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 10.16, 29.209999999999997, 180
-- oompPart: CAPC-0603-X-NF100-V50, C2, 7.6453999999999995, 24.612599999999997, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 10.16, 21.59, 180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 10.413999999999998, 17.272000000000002, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 10.16, 29.209999999999997, 180
+- oompPart: CAPE-0603-X-NF100-01, C2, 7.6453999999999995, 24.612599999999997, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 10.16, 21.59, 180
+- oompPart: CAPE-0603-X-NF100-01, C4, 10.413999999999998, 17.272000000000002, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 44.323, 10.16, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 27.94, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 2.54, 90
@@ -140,3 +150,7 @@ Contents
 - rawPart: U1, ARDUINO_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (2.1, 2.35), R180
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun, (1.1, 1), R180
 - rawPart: U4, V_REG_LDOSMD, SOT23-5, SparkFun-PowerIC, (0.4, 1), R0
+
+
+
+[im]: kicadPcb3d_450.png

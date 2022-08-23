@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-16476-STAN-01>MicroPressure Sensor](#proj-spar-16476-stan-01micropressure-sensor)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-16476-STAN-01>MicroPressure Sensor
 
 - ID: PROJ-SPAR-16476-STAN-01
 - Hex ID: PRS16476
 - Name: MicroPressure Sensor
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, 16.509999999999998, 13.081, 90,C2, 1nF, 0603, SparkFun-Capacitors, (0.65, 0.515), R90|
+|CAPE-0603-X-NF100-01, C1, 8.889999999999999, 13.081, 270,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.35, 0.515), R270|
+|CAPE-0603-X-UNMATCHED-01, C2, 16.509999999999998, 13.081, 90,C2, 1nF, 0603, SparkFun-Capacitors, (0.65, 0.515), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 4.3180000000000005, 17.272000000000002, 0,D1, RED, LED-0603, SparkFun-LED, (0.17, 0.68), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.635, 0.635, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.025, 0.025), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.635, 0.635, M0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.025, 0.025), MR0|
@@ -56,8 +66,8 @@ Contents
 - oompName: MicroPressure Sensor
 - sources: All source files from https://github.com/sparkfun/MicroPressure_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16476
-- oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 13.081, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 16.509999999999998, 13.081, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 8.889999999999999, 13.081, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 16.509999999999998, 13.081, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 4.3180000000000005, 17.272000000000002, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.635, 0.635, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.635, 0.635, M0
@@ -92,3 +102,7 @@ Contents
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.17, 0.74), R0
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.5, 0.315), R0
 - rawPart: U1, MPR, Series, MPR_SERIES_PRESSURE_I2C, SparkFun-Sensors, (0.5, 0.5), R180
+
+
+
+[im]: kicadPcb3d_450.png

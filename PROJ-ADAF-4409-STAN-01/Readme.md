@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 6.604, 4.444999999999999, 180,C1, 10uF, 0805-NO, microbuilder, (0.26, 0.175), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.953499999999998, 18.9865, 90,D1, 1N4148, SOD-323, microbuilder, (0.3525, 0.7475), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 6.731, 1.27, 270,D2, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.265, 0.05), R270|
 |ERROR, JP1 0.1 Header, 0, 0, 0,JP1, 0.1, Header, 1X03_OVAL, microbuilder, (0.1, 0.425), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.5405, 19.367499999999996, 0,Q1, MMBT2222, SOT23-R, microbuilder, (0.2575, 0.7625), R0|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R1, 8.889999999999999, 15.112999999999998, 90,R1, 1K, 0603-NO, microbuilder, (0.35, 0.595), R90|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R3, 6.604, 2.794, 0,R3, 1K, 0603-NO, microbuilder, (0.26, 0.11), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 9.334499999999998, 4.444999999999999, M270,SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.3675, 0.175), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 14.350999999999997, 13.462, 270,X1, RELAY_NONLATCHING-EE2NUH, RELAY_EE2_NOLATCH, microbuilder, (0.565, 0.53), R270|
 |ERROR, X3 3.5mm Terminal, 0, 0, 0,X3, 3.5mm, Terminal, TERMBLOCK_1X3-3.5MM, microbuilder, (0.625, 0.09), R0|
@@ -61,16 +61,16 @@ Contents
 - oompName: Adafruit STEMMA Non Latching Mini Relay PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4409
-- oompPart: CAPC-0805-X-UF10-V25, C1, 6.604, 4.444999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 6.604, 4.444999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.953499999999998, 18.9865, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 6.731, 1.27, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 9.270999999999999, 4.3180000000000005, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 19.240499999999997, 16.827499999999997, 0
 - oompPart: ERROR, JP1 0.1 Header, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.5405, 19.367499999999996, 0
-- oompPart: RESE-0603-X-O102-01, R1, 8.889999999999999, 15.112999999999998, 90
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 8.889999999999999, 15.112999999999998, 90
 - oompPart: RESE-0603-X-O103-01, R2, 6.476999999999999, 17.018, 180
-- oompPart: RESE-0603-X-O102-01, R3, 6.604, 2.794, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, 6.604, 2.794, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 9.334499999999998, 4.444999999999999, M270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 31.75, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$8, 31.75, 19.049999999999997, 0
@@ -102,4 +102,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

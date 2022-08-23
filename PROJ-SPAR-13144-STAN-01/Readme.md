@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13144-STAN-01>Touch Potentiometer](#proj-spar-13144-stan-01touch-potentiometer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13144-STAN-01>Touch Potentiometer
 
 - ID: PROJ-SPAR-13144-STAN-01
 - Hex ID: PRS13144
 - Name: Touch Potentiometer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 16.509999999999998, 69.85, 180,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.65, 2.75), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 20.955, 67.945, 90,C2, 10uF, EIA3216, SparkFun-Capacitors, (0.825, 2.675), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C5, 24.764999999999997, 67.945, 90,C5, 10uF, EIA3216, SparkFun-Capacitors, (0.975, 2.675), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C7, 40.64, 57.15, 180,C7, 10uF, EIA3216, SparkFun-Capacitors, (1.6, 2.25), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 16.509999999999998, 69.85, 180,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.65, 2.75), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 20.955, 67.945, 90,C2, 10uF, EIA3216, SparkFun-Capacitors, (0.825, 2.675), R90|
+|CAPE-0603-X-NF100-01, C3, 11.43, 57.15, 270,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.45, 2.25), R270|
+|CAPE-0603-X-NF100-01, C4, 35.559999999999995, 59.69, 0,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.4, 2.35), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 24.764999999999997, 67.945, 90,C5, 10uF, EIA3216, SparkFun-Capacitors, (0.975, 2.675), R90|
+|CAPE-0603-X-NF100-01, C6, 33.019999999999996, 64.77, 90,C6, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.3, 2.55), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C7, 40.64, 57.15, 180,C7, 10uF, EIA3216, SparkFun-Capacitors, (1.6, 2.25), R180|
+|CAPE-0603-X-NF100-01, C8, 42.545, 62.230000000000004, 90,C8, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.675, 2.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 34.29, 16.509999999999998, 180,D1, Green, LED-1206-BOTTOM, SparkFun-LED, (1.35, 0.65), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 34.29, 22.224999999999998, 180,D2, Green, LED-1206-BOTTOM, SparkFun-LED, (1.35, 0.875), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 34.29, 27.94, 180,D3, Green, LED-1206-BOTTOM, SparkFun-LED, (1.35, 1.1), R180|
@@ -107,14 +117,14 @@ Contents
 - oompName: Touch Potentiometer
 - sources: All source files from https://github.com/sparkfun/Touch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13144
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 16.509999999999998, 69.85, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 20.955, 67.945, 90
-- oompPart: CAPC-0603-X-NF100-V50, C3, 11.43, 57.15, 270
-- oompPart: CAPC-0603-X-NF100-V50, C4, 35.559999999999995, 59.69, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C5, 24.764999999999997, 67.945, 90
-- oompPart: CAPC-0603-X-NF100-V50, C6, 33.019999999999996, 64.77, 90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C7, 40.64, 57.15, 180
-- oompPart: CAPC-0603-X-NF100-V50, C8, 42.545, 62.230000000000004, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 16.509999999999998, 69.85, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 20.955, 67.945, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 11.43, 57.15, 270
+- oompPart: CAPE-0603-X-NF100-01, C4, 35.559999999999995, 59.69, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 24.764999999999997, 67.945, 90
+- oompPart: CAPE-0603-X-NF100-01, C6, 33.019999999999996, 64.77, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C7, 40.64, 57.15, 180
+- oompPart: CAPE-0603-X-NF100-01, C8, 42.545, 62.230000000000004, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 34.29, 16.509999999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 34.29, 22.224999999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 34.29, 27.94, 180
@@ -249,3 +259,7 @@ Contents
 - rawPart: U1, PIC16F1829, SSOP20, SparkFun-DigitalIC, (0.25, 2.25), R180
 - rawPart: U2, AD5262, SSOP16, SparkFun-AnalogIC, (1.475, 2.475), R0
 - rawPart: U3, 5V, SOT23-5, SparkFun-PowerIC, (0.55, 2.625), R90
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14589-STAN-01>SparkFun Differential I2C Breakout PCA9615 Qwiic](#proj-spar-14589-stan-01sparkfun-differential-i2c-breakout-pca9615-qwiic)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14589-STAN-01>SparkFun Differential I2C Breakout PCA9615 Qwiic
 
 - ID: PROJ-SPAR-14589-STAN-01
 - Hex ID: PRS14589
 - Name: SparkFun Differential I2C Breakout PCA9615 Qwiic
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C3, 15.875, 17.145, 180,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.625, 0.675), R180|
-|CAPC-0603-X-UNMATCHED-01, C4, 22.224999999999998, 15.239999999999998, 0,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.875, 0.6), R0|
+|CAPE-0603-X-NF100-01, C1, 15.875, 15.239999999999998, 180,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.625, 0.6), R180|
+|CAPE-0603-X-NF100-01, C2, 22.224999999999998, 17.145, 0,C2, 0.1uF, 0603, SparkFun-Capacitors, (0.875, 0.675), R0|
+|CAPE-0603-X-UNMATCHED-01, C3, 15.875, 17.145, 180,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.625, 0.675), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 22.224999999999998, 15.239999999999998, 0,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.875, 0.6), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 1.27, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.2, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 43.815, 24.764999999999997, 0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (1.725, 0.975), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 5.08, 1.27, M0,FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.2, 0.05), MR0|
@@ -65,10 +75,10 @@ Contents
 - oompName: SparkFun Differential I2C Breakout PCA9615 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14589
-- oompPart: CAPC-0603-X-NF100-V50, C1, 15.875, 15.239999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C2, 22.224999999999998, 17.145, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 15.875, 17.145, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 22.224999999999998, 15.239999999999998, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 15.875, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C2, 22.224999999999998, 17.145, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 15.875, 17.145, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 22.224999999999998, 15.239999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 43.815, 24.764999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 5.08, 1.27, M0
@@ -119,3 +129,7 @@ Contents
 - rawPart: R7, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.4), R0
 - rawPart: R8, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.6), R0
 - rawPart: U1, PCA9615, TSSOP10, SparkFun-IC-Comms, (0.75, 0.5), R0
+
+
+
+[im]: kicadPcb3d_450.png

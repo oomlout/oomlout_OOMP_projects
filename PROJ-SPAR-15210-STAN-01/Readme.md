@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15210-STAN-01>SparkFun u-blox SAM-M8Q](#proj-spar-15210-stan-01sparkfun-u-blox-sam-m8q)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15210-STAN-01>SparkFun u-blox SAM-M8Q
 
 - ID: PROJ-SPAR-15210-STAN-01
 - Hex ID: PRS15210
 - Name: SparkFun u-blox SAM-M8Q
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 4.571999999999999, 31.496, 180,BT1, 6.8MM_COIN_CELL, ML414H_IV01E, SparkFun-Batteries, (0.18, 1.24), R180|
-|CAPC-0603-X-UNMATCHED-01, C1, 6.35, 38.099999999999994, 90,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.25, 1.5), R90|
-|CAPC-0603-X-UNMATCHED-01, C2, 2.54, 15.239999999999998, 180,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.1, 0.6), R180|
+|CAPE-0603-X-UNMATCHED-01, C1, 6.35, 38.099999999999994, 90,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.25, 1.5), R90|
+|CAPE-0603-X-UNMATCHED-01, C2, 2.54, 15.239999999999998, 180,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.1, 0.6), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 10.16, 270,D1, Yellow, LED-0603, SparkFun-LED, (0.125, 0.4), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 10.16, 38.099999999999994, 90,D2, 0.5A/40V/420mV, SOD-323, SparkFun-DiscreteSemi, (0.4, 1.5), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 38.227, 26.542999999999996, 180,D3, RED, LED-0603, SparkFun-LED, (1.505, 1.045), R180|
@@ -66,8 +76,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_SAM-M8Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15210
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 4.571999999999999, 31.496, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 38.099999999999994, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 2.54, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 6.35, 38.099999999999994, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 2.54, 15.239999999999998, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 10.16, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 10.16, 38.099999999999994, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 38.227, 26.542999999999996, 180
@@ -119,3 +129,7 @@ Contents
 - rawPart: R8, 2.2k, 0603, SparkFun-Resistors, (1.3, 0.33), R270
 - rawPart: R9, 2.2k, 0603, SparkFun-Resistors, (1.5, 0.335), R270
 - rawPart: U1, UBLOX_SAM_M8Q-0-10, SAM-M8Q, SparkFun-GPS, (0.8, 0.8), R0
+
+
+
+[im]: kicadPcb3d_450.png

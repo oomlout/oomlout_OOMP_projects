@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-7841-STAN-01>FT245RL Breakout](#proj-spar-7841-stan-01ft245rl-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-7841-STAN-01>FT245RL Breakout
 
 - ID: PROJ-SPAR-7841-STAN-01
 - Hex ID: PRS7841
 - Name: FT245RL Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 2.54, 11.43, 180,C1, 10uF, CPOL_1206, SparkFun-Nate, (0.1, 0.45), R180|
-|CAPC-0402-X-NF100-V50, C2, 5.08, 11.43, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.45), R270|
-|CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 17.779999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.7), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180,C1, 10uF, CPOL_1206, SparkFun-Nate, (0.1, 0.45), R180|
+|CAPE-0402-X-NF100-01, C2, 5.08, 11.43, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.45), R270|
+|CAPE-0402-X-NF100-01, C3, 15.239999999999998, 17.779999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.7), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0,JP1, M09, 1X09, SparkFun, (0.1, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 20.32, 180,JP2, M09, 1X09, SparkFun, (0.9, 0.8), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.8636, 1.016, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.034, 0.04), R0|
@@ -48,9 +58,9 @@ Contents
 - oompName: FT245RL Breakout
 - sources: All source files from https://github.com/sparkfun/FT245RL_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/7841
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 2.54, 11.43, 180
-- oompPart: CAPC-0402-X-NF100-V50, C2, 5.08, 11.43, 270
-- oompPart: CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 17.779999999999998, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
+- oompPart: CAPE-0402-X-NF100-01, C2, 5.08, 11.43, 270
+- oompPart: CAPE-0402-X-NF100-01, C3, 15.239999999999998, 17.779999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 20.32, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.8636, 1.016, 0
@@ -68,3 +78,7 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNC2, SJ_2S-NOTRACE, SparkFun, (0.0985, 0.28490157), R0
 - rawPart: U1, FT245RL, SSOP28DB, SparkFun, (0.45, 0.45), R0
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.85, 0.45), R180
+
+
+
+[im]: kicadPcb3d_450.png

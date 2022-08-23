@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11590-STAN-01>LilyTwinkle ProtoSnap](#proj-spar-11590-stan-01lilytwinkle-protosnap)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11590-STAN-01>LilyTwinkle ProtoSnap
 
 - ID: PROJ-SPAR-11590-STAN-01
 - Hex ID: PRS11590
 - Name: LilyTwinkle ProtoSnap
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -45,7 +55,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2+, 27.178, 38.099999999999994, 137,B2+, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (1.07, 1.5), R137|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2-, 25.907999999999998, 18.034, 43,B2-, SEWTAP6, PETAL-SMALL-2SIDE, 2_LilyPad-Wearables, (1.02, 0.71), R43|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 17.145, 26.796999999999997, 0,BAT1, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.675, 1.055), R0|
-|CAPC-0402-X-NF100-V50, C1, 43.815, 34.416999999999994, 180,C1, 0.1uF, 0402-CAP, SparkFun-Capacitors, (1.725, 1.355), R180|
+|CAPE-0402-X-NF100-01, C1, 43.815, 34.416999999999994, 180,C1, 0.1uF, 0402-CAP, SparkFun-Capacitors, (1.725, 1.355), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0,JP1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 69.85, 55.88, 0,JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (2.75, 2.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 43.79500004, 10.491000099999999, 180,LED1, White, LED-1206, SparkFun-LED, (1.7242126, 0.4130315), R180|
@@ -56,7 +66,7 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R2, 62.018093642, 18.770696774, 60,R2, 100, 0603-RES, 5_SparkFun, (2.44165723, 0.73900381), R60|
 |RESE-0603-X-UNMATCHED-01, R3, 62.13561868, 39.885681214, 120,R3, 100, 0603-RES, 3_SparkFun, (2.4462842, 1.57030241), R120|
 |RESE-0603-X-UNMATCHED-01, R4, 43.83499996, 50.46899989999999, 180,R4, 100, 0603-RES, 4_SparkFun, (1.7257874, 1.9869685), R180|
-|RESE-0402-X-UNMATCHED-01, R5, 43.815, 33.147, 180,R5, 10k, 0402-RES, SparkFun-Resistors, (1.725, 1.305), R180|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 17.145, 41.148, 180,S1, AYZ0202, SparkFun-Electromechanical, (0.675, 1.62), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 43.815, 29.337, 270,U1, ATTINY85, SO08-EIAJ, SparkFun-DigitalIC, (1.725, 1.155), R270|
 
@@ -90,7 +100,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2+, 27.178, 38.099999999999994, 137
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2-, 25.907999999999998, 18.034, 43
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 17.145, 26.796999999999997, 0
-- oompPart: CAPC-0402-X-NF100-V50, C1, 43.815, 34.416999999999994, 180
+- oompPart: CAPE-0402-X-NF100-01, C1, 43.815, 34.416999999999994, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 69.85, 55.88, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 43.79500004, 10.491000099999999, 180
@@ -101,7 +111,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 62.018093642, 18.770696774, 60
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 62.13561868, 39.885681214, 120
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 43.83499996, 50.46899989999999, 180
-- oompPart: RESE-0402-X-UNMATCHED-01, R5, 43.815, 33.147, 180
+- oompPart: RESE-0402-X-O103-01, R5, 43.815, 33.147, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 17.145, 41.148, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 43.815, 29.337, 270
 - rawPart: 1_U$2, SEWTAP6, PETAL-SMALL-2SIDE, 1_LilyPad-Wearables, (1.46918898, 1.00730709), R300
@@ -137,3 +147,7 @@ Contents
 - rawPart: R5, 10k, 0402-RES, SparkFun-Resistors, (1.725, 1.305), R180
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.675, 1.62), R180
 - rawPart: U1, ATTINY85, SO08-EIAJ, SparkFun-DigitalIC, (1.725, 1.155), R270
+
+
+
+[im]: kicadPcb3d_450.png

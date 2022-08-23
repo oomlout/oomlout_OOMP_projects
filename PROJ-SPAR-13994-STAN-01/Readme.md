@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13994-STAN-01>SSOP-DIP Adapter 16-Pin](#proj-spar-13994-stan-01ssop-dip-adapter-16-pin)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13994-STAN-01>SSOP-DIP Adapter 16-Pin
 
 - ID: PROJ-SPAR-13994-STAN-01
 - Hex ID: PRS13994
 - Name: SSOP-DIP Adapter 16-Pin
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -56,3 +66,7 @@ Contents
 - rawPart: JP4, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.77), R0
 - rawPart: U1, SSOP16, SSOP16, generic-ssop16, (0.4, 0.2), R270
 - rawPart: U2, SSOP16, SSOP16, generic-ssop16, (0.4, 0.62), R270
+
+
+
+[im]: kicadPcb3d_450.png

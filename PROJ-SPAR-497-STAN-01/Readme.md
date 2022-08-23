@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-497-STAN-01>SSOP-DIP Adapter 8-Pin](#proj-spar-497-stan-01ssop-dip-adapter-8-pin)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-497-STAN-01>SSOP-DIP Adapter 8-Pin
 
 - ID: PROJ-SPAR-497-STAN-01
 - Hex ID: PRS497
 - Name: SSOP-DIP Adapter 8-Pin
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -46,3 +56,7 @@ Contents
 - rawPart: JP2, 1X04, SparkFun, (0.1, 0.1), R90
 - rawPart: JP3, 1X04, SparkFun, (0.6, 0.1), R90
 - rawPart: U$1, SSOP8, SSOP8, SparkFun, (0.35, 0.25), R270
+
+
+
+[im]: kicadPcb3d_450.png

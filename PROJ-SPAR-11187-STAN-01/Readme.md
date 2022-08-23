@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11187-STAN-01>5-Way Tactile Switch Breakout](#proj-spar-11187-stan-015-way-tactile-switch-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11187-STAN-01>5-Way Tactile Switch Breakout
 
 - ID: PROJ-SPAR-11187-STAN-01
 - Hex ID: PRS11187
 - Name: 5-Way Tactile Switch Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -65,3 +75,7 @@ Contents
 - rawPart: R4, 10K, 0603-RES, SparkFun, (0.55, 0.2125), R90
 - rawPart: R5, 10K, 0603-RES, SparkFun, (0.65, 0.2125), R90
 - rawPart: S1, 5-WAY-TACTILE-SWITCH, JOYSTICK_MINI, SparkFun-Electromechanical, (0.45, 0.5), SR315
+
+
+
+[im]: kicadPcb3d_450.png

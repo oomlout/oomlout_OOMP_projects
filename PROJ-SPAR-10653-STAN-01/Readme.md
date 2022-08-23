@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C4, 22.86, 22.86, 180,C4, 10uF, EIA3216, SparkFun, (0.9, 0.9), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C5, 22.86, 31.75, 180,C5, 10uF, EIA3216, SparkFun, (0.9, 1.25), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C6, 9.524999999999999, 11.43, 180,C6, 10uF, EIA3216, SparkFun, (0.375, 0.45), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C7, 15.875, 11.43, 0,C7, 10uF, EIA3216, SparkFun, (0.625, 0.45), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C9</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C10, 24.13, 46.99, 270,C10, 4.7uF, 0603-CAP, SparkFun, (0.95, 1.85), R270|
+|CAPE-0603-X-NF100-01, C1, 8.889999999999999, 13.97, 0,C1, 0.1uF, 0603-CAP, SparkFun, (0.35, 0.55), R0|
+|CAPE-0603-X-NF100-01, C2, 20.32, 25.4, 0,C2, 0.1uF, 0603-CAP, SparkFun, (0.8, 1), R0|
+|CAPE-0603-X-NF100-01, C3, 16.509999999999998, 36.83, 0,C3, 0.1uF, 0603-CAP, SparkFun, (0.65, 1.45), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 22.86, 22.86, 180,C4, 10uF, EIA3216, SparkFun, (0.9, 0.9), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 22.86, 31.75, 180,C5, 10uF, EIA3216, SparkFun, (0.9, 1.25), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C6, 9.524999999999999, 11.43, 180,C6, 10uF, EIA3216, SparkFun, (0.375, 0.45), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C7, 15.875, 11.43, 0,C7, 10uF, EIA3216, SparkFun, (0.625, 0.45), R0|
+|CAPE-0603-X-NF100-01, C8, 21.59, 35.559999999999995, 0,C8, 0.1uF, 0603-CAP, SparkFun, (0.85, 1.4), R0|
+|CAPE-0603-X-NF100-01, C9, 17.779999999999998, 39.37, 270,C9, 0.1uF, 0603-CAP, SparkFun, (0.7, 1.55), R270|
+|CAPE-0603-X-UNMATCHED-01, C10, 24.13, 46.99, 270,C10, 4.7uF, 0603-CAP, SparkFun, (0.95, 1.85), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 4.953, 54.736999999999995, 0,JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.195, 2.155), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.304, 4.826, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.76, 0.19), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 6.35, 90,JP4, 1X02, SparkFun, (0.05, 0.25), R90|
@@ -74,16 +74,16 @@ Contents
 - oompName: Voice Recorder Breakout-ISD1932
 - sources: All source files from https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10653
-- oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 13.97, 0
-- oompPart: CAPC-0603-X-NF100-V50, C2, 20.32, 25.4, 0
-- oompPart: CAPC-0603-X-NF100-V50, C3, 16.509999999999998, 36.83, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C4, 22.86, 22.86, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C5, 22.86, 31.75, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C6, 9.524999999999999, 11.43, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C7, 15.875, 11.43, 0
-- oompPart: CAPC-0603-X-NF100-V50, C8, 21.59, 35.559999999999995, 0
-- oompPart: CAPC-0603-X-NF100-V50, C9, 17.779999999999998, 39.37, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C10, 24.13, 46.99, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 8.889999999999999, 13.97, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 20.32, 25.4, 0
+- oompPart: CAPE-0603-X-NF100-01, C3, 16.509999999999998, 36.83, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 22.86, 22.86, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 22.86, 31.75, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C6, 9.524999999999999, 11.43, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C7, 15.875, 11.43, 0
+- oompPart: CAPE-0603-X-NF100-01, C8, 21.59, 35.559999999999995, 0
+- oompPart: CAPE-0603-X-NF100-01, C9, 17.779999999999998, 39.37, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C10, 24.13, 46.99, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 4.953, 54.736999999999995, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.304, 4.826, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 6.35, 90
@@ -129,4 +129,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11824-STAN-01>BMP180 Breakout](#proj-spar-11824-stan-01bmp180-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11824-STAN-01>BMP180 Breakout
 
 - ID: PROJ-SPAR-11824-STAN-01
 - Hex ID: PRS11824
 - Name: BMP180 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 2.54, 8.254999999999999, 0,C3, 10uF, EIA3216, SparkFun-Capacitors, (0.1, 0.325), R0|
+|CAPE-0603-X-NF100-01, C1, 7.619999999999999, 11.112499999999999, 0,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.4375), R0|
+|CAPE-0603-X-NF100-01, C2, 3.8099999999999996, 5.08, 270,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.15, 0.2), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 8.254999999999999, 0,C3, 10uF, EIA3216, SparkFun-Capacitors, (0.1, 0.325), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0,JP1, 1X05_ROUNDONLY_NOSILK, mike-temp, (0.1, 0.05), R0|
 |RESE-0603-X-UNMATCHED-01, R1, 13.97, 5.08, 90,R1, 4.7K, 0603-RES, SparkFun-Passives, (0.55, 0.2), R90|
 |RESE-0603-X-UNMATCHED-01, R2, 11.43, 5.08, 90,R2, 4.7K, 0603-RES, SparkFun-Passives, (0.45, 0.2), R90|
@@ -47,9 +57,9 @@ Contents
 - oompName: BMP180 Breakout
 - sources: All source files from https://github.com/sparkfun/BMP180_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11824
-- oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 11.112499999999999, 0
-- oompPart: CAPC-0603-X-NF100-V50, C2, 3.8099999999999996, 5.08, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 2.54, 8.254999999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 7.619999999999999, 11.112499999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 3.8099999999999996, 5.08, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 8.254999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 14.2875, 10.795, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.9524999999999999, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0
@@ -69,3 +79,7 @@ Contents
 - rawPart: SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.5, 0.325), R0
 - rawPart: SJ2, SJ_2S, mike-temp, (0.05, 0.18125), R0
 - rawPart: U1, BMP180, BMP180, SparkFun-Sensors, (0.3, 0.3), R0
+
+
+
+[im]: kicadPcb3d_450.png

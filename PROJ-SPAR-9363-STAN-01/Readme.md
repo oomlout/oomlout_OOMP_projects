@@ -6,15 +6,25 @@ Contents
 ========
 
 * [PROJ-SPAR-9363-STAN-01>ColorLCDShield](#proj-spar-9363-stan-01colorlcdshield)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9363-STAN-01>ColorLCDShield
 
 - ID: PROJ-SPAR-9363-STAN-01
 - Hex ID: PRS9363
 - Name: ColorLCDShield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## OOMP Parts
   
@@ -125,3 +135,7 @@ Contents
 - rawPart: SJ3, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (2.05, 1.7), R0
 - rawPart: U$1, NOKIA6100_LCD, NOKIA6100_LCD, SparkFun, (1.7, 1.85), R180
 - rawPart: U1, MC34063SMD, SO08, SparkFun, (2, 0.85), R90
+
+
+
+[im]: eagleImage_450.png

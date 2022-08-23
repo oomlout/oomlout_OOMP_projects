@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8688-STAN-01>Ambient Light Sensor Breakout-TEMT6000](#proj-spar-8688-stan-01ambient-light-sensor-breakout-temt6000)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8688-STAN-01>Ambient Light Sensor Breakout-TEMT6000
 
 - ID: PROJ-SPAR-8688-STAN-01
 - Hex ID: PRS8688
 - Name: Ambient Light Sensor Breakout-TEMT6000
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -53,3 +63,7 @@ Contents
 - rawPart: JP4, 1X03, SparkFun, (0.05, 0.1), R90
 - rawPart: R1, 10K, 0402-RES, SparkFun, (0.28, 0.33), R0
 - rawPart: U1, TEMT6000, TEMT6000-SEN, SparkFun, (0.28, 0.17), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13601-STAN-01>SX1509 IO-Expander](#proj-spar-13601-stan-01sx1509-io-expander)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13601-STAN-01>SX1509 IO-Expander
 
 - ID: PROJ-SPAR-13601-STAN-01
 - Hex ID: PRS13601
 - Name: SX1509 IO-Expander
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 15.239999999999998, 10.16, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.4), R270|
+|CAPE-0603-X-NF100-01, C2, 8.254999999999999, 15.239999999999998, 90,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.325, 0.6), R90|
+|CAPE-0603-X-NF100-01, C3, 17.145, 15.239999999999998, 270,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.675, 0.6), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 34.29, 0,JP1, 1X06, SparkFun-Connectors, (0.25, 1.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 1.27, 0,JP2, 1X06, SparkFun-Connectors, (0.25, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.8099999999999996, 17.779999999999998, 270,JP3, 2X10_ROUND_NOSILK, SparkFun-Connectors, (0.15, 0.7), R270|
@@ -63,9 +73,9 @@ Contents
 - oompName: SX1509 IO-Expander
 - sources: All source files from https://github.com/sparkfun/SX1509_IO-Expander (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13601
-- oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 10.16, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 8.254999999999999, 15.239999999999998, 90
-- oompPart: CAPC-0603-X-NF100-V50, C3, 17.145, 15.239999999999998, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 15.239999999999998, 10.16, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 8.254999999999999, 15.239999999999998, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 17.145, 15.239999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 34.29, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.8099999999999996, 17.779999999999998, 270
@@ -113,3 +123,7 @@ Contents
 - rawPart: SJ8, B-VCC2, PAD-JUMPER-2-NO_NO_SILK, SparkFun-Passives, (0.85, 0.65), MR0
 - rawPart: SJ9, GND, PAD-JUMPER-2-NC_BY_TRACE_NO_SILK, SparkFun-Passives, (0.85, 1.15), MR180
 - rawPart: U1, SX1509, QFN-28, SparkFun-DigitalIC, (0.5, 0.6), R0
+
+
+
+[im]: kicadPcb3d_450.png

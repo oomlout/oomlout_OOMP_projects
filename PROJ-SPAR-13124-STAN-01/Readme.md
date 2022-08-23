@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13124-STAN-01>Proto Pedal](#proj-spar-13124-stan-01proto-pedal)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13124-STAN-01>Proto Pedal
 
 - ID: PROJ-SPAR-13124-STAN-01
 - Hex ID: PRS13124
 - Name: Proto Pedal
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -125,11 +135,11 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP96, 54.60999999999999, 81.28, 0,JP96, 1x3, 1X03_NO_SILK, SparkFun-Connectors, (2.15, 3.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP97, 67.30999999999999, 81.28, 0,JP97, 1x3, 1X03_NO_SILK, SparkFun-Connectors, (2.65, 3.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 57.15, 91.44, 270,Q1, 2.5A/30V, SOT23-3, SparkFun-DiscreteSemi, (2.25, 3.6), R270|
-|<table><tr><td>![RESE-0603-X-O105-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O105-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O105-01<br>SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td><td>[R6105](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O105-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O105-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O105-01<br>SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td><td>[R6105](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O105-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O105-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O105-01<br>SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td><td>[R6105](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R1, 53.339999999999996, 91.44, 90,R1, 1M, 0603-RES, SparkFun-Resistors, (2.1, 3.6), R90|
+|RESE-0603-X-UNMATCHED-01, R2, 19.685, 22.86, 180,R2, 1M, 0603-RES, SparkFun-Resistors, (0.775, 0.9), R180|
+|RESE-0603-X-UNMATCHED-01, R3, 29.209999999999997, 22.86, 0,R3, 1M, 0603-RES, SparkFun-Resistors, (1.15, 0.9), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R4, 76.073, 25.4, 180,R4, BRT, AXIAL-0.3, SparkFun-Resistors, (2.995, 1), R180|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R5, 75.946, 21.59, 90,R5, 1K, 0603-RES, SparkFun-Resistors, (2.99, 0.85), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 67.30999999999999, 11.43, 0,S1, SWITCH-3PDT, STOMP-SWITCH-3PDT, SparkFun-Electromechanical, (2.65, 0.45), R0|
 |ERROR, SJ1 disable LED, 0, 0, 0,SJ1, disable, LED, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (2.865, 0.835), R0|
 |ERROR, TP1 Raw In, 0, 0, 0,TP1, Raw, In, 1X01_NO_SILK, SparkFun-Connectors, (3, 3.65), R0|
@@ -252,11 +262,11 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP96, 54.60999999999999, 81.28, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP97, 67.30999999999999, 81.28, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 57.15, 91.44, 270
-- oompPart: RESE-0603-X-O105-01, R1, 53.339999999999996, 91.44, 90
-- oompPart: RESE-0603-X-O105-01, R2, 19.685, 22.86, 180
-- oompPart: RESE-0603-X-O105-01, R3, 29.209999999999997, 22.86, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 53.339999999999996, 91.44, 90
+- oompPart: RESE-0603-X-UNMATCHED-01, R2, 19.685, 22.86, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, 29.209999999999997, 22.86, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 76.073, 25.4, 180
-- oompPart: RESE-0603-X-O102-01, R5, 75.946, 21.59, 90
+- oompPart: RESE-0603-X-UNMATCHED-01, R5, 75.946, 21.59, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 67.30999999999999, 11.43, 0
 - oompPart: ERROR, SJ1 disable LED, 0, 0, 0
 - oompPart: ERROR, TP1 Raw In, 0, 0, 0
@@ -381,3 +391,7 @@ Contents
 - rawPart: TP5, FX, Input, 1X01_NO_SILK, SparkFun-Connectors, (0.725, 1), R0
 - rawPart: TP6, FX, Output, 1X01_NO_SILK, SparkFun-Connectors, (1.2, 1), R180
 - rawPart: TP7, Out, Ring, 1X01_LONGPAD, SparkFun-Connectors, (1.75, 4.15), R0
+
+
+
+[im]: kicadPcb3d_450.png

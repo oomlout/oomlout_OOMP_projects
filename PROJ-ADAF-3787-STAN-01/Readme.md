@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 31.115000000000002, 26.924, 270,C1, 10uF, 0805-NO, microbuilder, (1.225, 1.06), R270|
+|CAPE-0805-X-UNMATCHED-01, C2, 24.13, 26.924, 90,C2, 10uF, 0805-NO, microbuilder, (0.95, 1.06), R90|
+|CAPE-0603-X-NF100-01, C3, 26.416, 19.304, 0,C3, 0.1uF, 0603-NO, microbuilder, (1.04, 0.76), R0|
+|CAPE-0805-X-UNMATCHED-01, C4, 8.128, 14.604999999999999, 270,C4, 10uF, 0805-NO, microbuilder, (0.32, 0.575), R270|
+|CAPE-0603-X-NF100-01, C5, 6.223, 14.858999999999998, 270,C5, 0.1uF, 0603-NO, microbuilder, (0.245, 0.585), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 27.432, 26.924, 90,IC2, AP2112, SOT23-5L, adafruit, (1.08, 1.06), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 28.701999999999995, 6.223, 180,IC4, APX803-SAG, SOT23, adafruit, (1.13, 0.245), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 36.83, 15.620999999999999, 270,JP2, 1X12_ROUND_76MIL, microbuilder, (1.45, 0.615), R270|
@@ -65,11 +65,11 @@ Contents
 - oompName: Adafruit 1.54 inch 240x240 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.54-inch-240x240-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3787
-- oompPart: CAPC-0805-X-UF10-V25, C1, 31.115000000000002, 26.924, 270
-- oompPart: CAPC-0805-X-UF10-V25, C2, 24.13, 26.924, 90
-- oompPart: CAPC-0603-X-NF100-V50, C3, 26.416, 19.304, 0
-- oompPart: CAPC-0805-X-UF10-V25, C4, 8.128, 14.604999999999999, 270
-- oompPart: CAPC-0603-X-NF100-V50, C5, 6.223, 14.858999999999998, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 31.115000000000002, 26.924, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 24.13, 26.924, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 26.416, 19.304, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 8.128, 14.604999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C5, 6.223, 14.858999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 27.432, 26.924, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 28.701999999999995, 6.223, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 36.83, 15.620999999999999, 270

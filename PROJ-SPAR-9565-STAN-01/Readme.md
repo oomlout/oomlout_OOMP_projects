@@ -6,15 +6,25 @@ Contents
 ========
 
 * [PROJ-SPAR-9565-STAN-01>Through-Hole Christmas Kit](#proj-spar-9565-stan-01through-hole-christmas-kit)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9565-STAN-01>Through-Hole Christmas Kit
 
 - ID: PROJ-SPAR-9565-STAN-01
 - Hex ID: PRS9565
 - Name: Through-Hole Christmas Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
@@ -75,3 +85,7 @@ Contents
 - rawPart: R1, 10K, AXIAL-0.3, SparkFun, (2.05, 1.6), MR180
 - rawPart: U2, ATTINY13DIP, DIP08, SparkFun, (2.05, 1.95), MR90
 - rawPart: U4, AVR_SPI_PRG_6PTH, 2X3, SparkFun, (2.15, 0.5), MR0
+
+
+
+[im]: kicadPcb3d_450.png

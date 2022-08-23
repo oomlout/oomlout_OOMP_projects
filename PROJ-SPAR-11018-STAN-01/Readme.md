@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 41.91, 33.019999999999996, 180,C1, 10uF, EIA3216, SparkFun, (1.65, 1.3), R180|
-|CAPC-0402-X-NF100-V50, C2, 41.91, 35.559999999999995, 0,C2, 0.1uF, 0402-CAP, SparkFun, (1.65, 1.4), R0|
-|CAPC-0402-X-NF100-V50, C3, 20.32, 30.479999999999997, 90,C3, 0.1uF, 0402-CAP, SparkFun, (0.8, 1.2), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 33.019999999999996, 180,C1, 10uF, EIA3216, SparkFun, (1.65, 1.3), R180|
+|CAPE-0402-X-NF100-01, C2, 41.91, 35.559999999999995, 0,C2, 0.1uF, 0402-CAP, SparkFun, (1.65, 1.4), R0|
+|CAPE-0402-X-NF100-01, C3, 20.32, 30.479999999999997, 90,C3, 0.1uF, 0402-CAP, SparkFun, (0.8, 1.2), R90|
 |CAPE-0402-X-UNMATCHED-01, C4, 41.91, 40.64, 0,C4, 470pF, 0402-CAP, SparkFun, (1.65, 1.6), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 27.94, 0,JP1, 1X01, SparkFun, (0.6, 1.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 57.15, 0,JP2, Antenna, 1X01, SparkFun, (1.35, 2.25), R0|
@@ -72,9 +72,9 @@ Contents
 - oompName: RFM22 Shield-434MHz
 - sources: All source files from https://github.com/sparkfun/RFM22_Shield-434MHz (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11018
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 41.91, 33.019999999999996, 180
-- oompPart: CAPC-0402-X-NF100-V50, C2, 41.91, 35.559999999999995, 0
-- oompPart: CAPC-0402-X-NF100-V50, C3, 20.32, 30.479999999999997, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 33.019999999999996, 180
+- oompPart: CAPE-0402-X-NF100-01, C2, 41.91, 35.559999999999995, 0
+- oompPart: CAPE-0402-X-NF100-01, C3, 20.32, 30.479999999999997, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C4, 41.91, 40.64, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 27.94, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 34.29, 57.15, 0
@@ -123,4 +123,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

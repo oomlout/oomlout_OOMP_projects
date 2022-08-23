@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14968-STAN-01>gator control](#proj-spar-14968-stan-01gator-control)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14968-STAN-01>gator control
 
 - ID: PROJ-SPAR-14968-STAN-01
 - Hex ID: PRS14968
 - Name: gator control
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -78,3 +88,7 @@ Contents
 - rawPart: U$16, GATOR, GATOR, SparkFun-Connectors, (3.4, 1.6), R180
 - rawPart: U$17, GATOR, GATOR, SparkFun-Connectors, (0.55, 0.65), R0
 - rawPart: U$19, GATOR, GATOR, SparkFun-Connectors, (1.5, 0.65), R0
+
+
+
+[im]: kicadPcb3d_450.png

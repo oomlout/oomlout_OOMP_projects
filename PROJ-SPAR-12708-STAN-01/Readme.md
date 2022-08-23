@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12708-STAN-01>RTC-Module](#proj-spar-12708-stan-01rtc-module)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12708-STAN-01>RTC-Module
 
 - ID: PROJ-SPAR-12708-STAN-01
 - Hex ID: PRS12708
 - Name: RTC-Module
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,7 +37,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0,BAT1, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.375, 0.45), MR0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 16.509999999999998, 8.889999999999999, 0,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$1, 0.8636, 2.667, 0,E$1, FIDUCIAL-1X2, SparkFun, (0.034, 0.105), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$2, 17.8816, 14.173200000000001, 0,E$2, FIDUCIAL-1X2, SparkFun, (0.704, 0.558), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 1.27, 180,JP1, 1X05, SparkFun, (0.5, 0.05), R180|
@@ -49,7 +59,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RTC-Module (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12708
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0
-- oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 8.889999999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 16.509999999999998, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$1, 0.8636, 2.667, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$2, 17.8816, 14.173200000000001, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 1.27, 180
@@ -68,3 +78,7 @@ Contents
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.15, 0.29), R0
 - rawPart: SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.65, 0.25), R90
 - rawPart: U1, DS1307, SO08-TIGHT, SparkFun-FreqCtrl, (0.3, 0.5), R180
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11722-STAN-01>Rotary Encoder Breakout-Illuminated](#proj-spar-11722-stan-01rotary-encoder-breakout-illuminated)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11722-STAN-01>Rotary Encoder Breakout-Illuminated
 
 - ID: PROJ-SPAR-11722-STAN-01
 - Hex ID: PRS11722
 - Name: Rotary Encoder Breakout-Illuminated
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -50,3 +60,7 @@ Contents
 - rawPart: JP2, 1X05, SparkFun-Connectors, (0.5, 1.05), R180
 - rawPart: SW1, ENCODER_LED_3_KIT, SparkFun-Electromechanical, (0.3, 0.625), R0
 - rawPart: U1, ENCODER_2LEDKIT, ENCODER_LED_2_KIT, SparkFun-Electromechanical, (0.3, 0.5), MR0
+
+
+
+[im]: kicadPcb3d_450.png

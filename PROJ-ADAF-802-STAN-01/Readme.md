@@ -22,9 +22,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
@@ -34,10 +34,10 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOGS, 57.15, 6.35, 180,ANALOGS, 1X06-CLEANBIG, adafruit, (2.25, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BACKLITE, 43.687999999999995, 45.466, 0,BACKLITE, 1X01, pinhead, (1.72, 1.79), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTN1, 8.001, 18.415, 0,BTN1, SWITCH_4WAY_TPA511GLFS, microbuilder, (0.315, 0.725), R0|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 13.716, 10.413999999999998, 90,C1, 10uF, C0805K, rcl, (0.54, 0.41), R90|
+|CAPE-0805-X-UNMATCHED-01, C2, 15.875, 10.413999999999998, 90,C2, 10uF, C0805K, rcl, (0.625, 0.41), R90|
+|CAPE-0805-X-NF100-01, C3, 14.858999999999998, 24.892, 180,C3, 0.1uF, C0805K, rcl, (0.585, 0.98), R180|
+|CAPE-0805-X-NF100-01, C4, 2.54, 24.13, 180,C4, 0.1uF, C0805K, rcl, (0.1, 0.95), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DIGITALS, 54.60999999999999, 46.99, 0,DIGITALS, 1X08-CLEANBIG, adafruit, (2.15, 1.85), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DIGITALS2, 32.766, 46.99, 0,DIGITALS2, 1X08-CLEANBIG, adafruit, (1.29, 1.85), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.35, 46.99, 0,IC1, 4050D, SO16, 40xx, (0.25, 1.85), R0|
@@ -46,14 +46,14 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, POWER, 39.37, 6.35, 180,POWER, 1X06-CLEANBIG, adafruit, (1.55, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.858999999999998, 22.098, 270,Q1, 2N2222, SOT23-BEC, transistor, (0.585, 0.87), R270|
 |ERROR, R1 22 ohm, 0, 0, 0,R1, 22, ohm, R0805, adafruit, (0.58, 0.765), R180|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R2, 11.811, 24.256999999999998, 90,R2, 1K, R0805, adafruit, (0.465, 0.955), R90|
 |RESE-0805-X-UNMATCHED-01, R3, 7.619999999999999, 24.256999999999998, 90,R3, 1.0K, R0805, adafruit, (0.3, 0.955), R90|
 |ERROR, R4 470 ohm, 0, 0, 0,R4, 470, ohm, R0805, adafruit, (0.58, 0.685), R0|
 |ERROR, R5 220 ohm, 0, 0, 0,R5, 220, ohm, R0805, adafruit, (0.58, 0.52), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |ERROR, R7 22 ohm, 0, 0, 0,R7, 22, ohm, R0805, adafruit, (0.22, 0.955), R90|
 |RESE-0805-X-UNMATCHED-01, R8, 30.099, 6.731, 270,R8, 1Kohm, R0805, adafruit, (1.185, 0.265), R270|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R9</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R9, 9.779, 24.256999999999998, 270,R9, 1K, R0805, adafruit, (0.385, 0.955), R270|
 
 ## Tags
 
@@ -69,10 +69,10 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOGS, 57.15, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BACKLITE, 43.687999999999995, 45.466, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTN1, 8.001, 18.415, 0
-- oompPart: CAPC-0805-X-UF10-V25, C1, 13.716, 10.413999999999998, 90
-- oompPart: CAPC-0805-X-UF10-V25, C2, 15.875, 10.413999999999998, 90
-- oompPart: CAPC-0805-X-NF100-V50, C3, 14.858999999999998, 24.892, 180
-- oompPart: CAPC-0805-X-NF100-V50, C4, 2.54, 24.13, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 13.716, 10.413999999999998, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 15.875, 10.413999999999998, 90
+- oompPart: CAPE-0805-X-NF100-01, C3, 14.858999999999998, 24.892, 180
+- oompPart: CAPE-0805-X-NF100-01, C4, 2.54, 24.13, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DIGITALS, 54.60999999999999, 46.99, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DIGITALS2, 32.766, 46.99, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.811, 38.099999999999994, 0
@@ -83,14 +83,14 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, POWER, 39.37, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.858999999999998, 22.098, 270
 - oompPart: ERROR, R1 22 ohm, 0, 0, 0
-- oompPart: RESE-0805-X-O102-01, R2, 11.811, 24.256999999999998, 90
+- oompPart: RESE-0805-X-UNMATCHED-01, R2, 11.811, 24.256999999999998, 90
 - oompPart: RESE-0805-X-UNMATCHED-01, R3, 7.619999999999999, 24.256999999999998, 90
 - oompPart: ERROR, R4 470 ohm, 0, 0, 0
 - oompPart: ERROR, R5 220 ohm, 0, 0, 0
 - oompPart: RESE-0805-X-O103-01, R6, 14.731999999999998, 15.239999999999998, 0
 - oompPart: ERROR, R7 22 ohm, 0, 0, 0
 - oompPart: RESE-0805-X-UNMATCHED-01, R8, 30.099, 6.731, 270
-- oompPart: RESE-0805-X-O102-01, R9, 9.779, 24.256999999999998, 270
+- oompPart: RESE-0805-X-UNMATCHED-01, R9, 9.779, 24.256999999999998, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 40.64, 26.669999999999998, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 16.002, 40.64, 270
@@ -127,4 +127,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14966-STAN-01>LuMini 2 Inch](#proj-spar-14966-stan-01lumini-2-inch)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14966-STAN-01>LuMini 2 Inch
 
 - ID: PROJ-SPAR-14966-STAN-01
 - Hex ID: PRS14966
 - Name: LuMini 2 Inch
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ERROR, C1 DNP 1206, 0, 0, 0,C1, DNP, 1206, SparkFun-Capacitors, (1.967, 0.7595), MR110|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 49.9618, 19.291299999999996, M110,C1, DNP, 1206, SparkFun-Capacitors, (1.967, 0.7595), MR110|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 52.705, 27.94, 90,D1, APA102-2020, APA102-2020, SparkFun-LED, (2.075, 1.1), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 52.4002, 31.826199999999996, 99,D2, APA102-2020, APA102-2020, SparkFun-LED, (2.063, 1.253), R99|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 51.4858, 35.5854, 108,D3, APA102-2020, APA102-2020, SparkFun-LED, (2.027, 1.401), R108|
@@ -94,7 +104,7 @@ Contents
 - oompName: LuMini 2 Inch
 - sources: All source files from https://github.com/sparkfun/LuMini_2_Inch (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14966
-- oompPart: ERROR, C1 DNP 1206, 0, 0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 49.9618, 19.291299999999996, M110
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 52.705, 27.94, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 52.4002, 31.826199999999996, 99
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 51.4858, 35.5854, 108
@@ -206,3 +216,7 @@ Contents
 - rawPart: J1, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (2.067, 1.2525), MR261
 - rawPart: J2, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (2.08, 1.1005), MR270
 - rawPart: J3, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (2.068, 0.94), MR99
+
+
+
+[im]: kicadPcb3d_450.png

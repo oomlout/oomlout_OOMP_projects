@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-10570-STAN-01>DangerShield](#proj-spar-10570-stan-01dangershield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-10570-STAN-01>DangerShield
 
 - ID: PROJ-SPAR-10570-STAN-01
 - Hex ID: PRS10570
 - Name: DangerShield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-NF100-V50, C1, 67.30999999999999, 74.93, 90,C1, 0.1uF, CAP-PTH-SMALL2, SparkFun-Passives, (2.65, 2.95), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C2, 8.889999999999999, 57.15, 180,C2, 0.1uF, CAP-PTH-SMALL2, SparkFun-Passives, (0.35, 2.25), R180|
+|CAPE-UNMATCHED-X-NF100-01, C1, 67.30999999999999, 74.93, 90,C1, 0.1uF, CAP-PTH-SMALL2, SparkFun-Passives, (2.65, 2.95), R90|
+|CAPE-UNMATCHED-X-NF100-01, C2, 8.889999999999999, 57.15, 180,C2, 0.1uF, CAP-PTH-SMALL2, SparkFun-Passives, (0.35, 2.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 13.97, 270,JP1, 1X05, SparkFun, (0.05, 0.55), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 72.39, 99.05999999999999, 0,LED1, Red, LED5MM, SparkFun, (2.85, 3.9), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 72.39, 54.60999999999999, 0,LED2, Yellow, LED5MM, SparkFun, (2.85, 2.15), R0|
@@ -35,7 +45,7 @@ Contents
 |RESE-UNMATCHED-X-O331-01, R1, 72.39, 92.71, 0,R1, 330, AXIAL-0.3, SparkFun, (2.85, 3.65), R0|
 |RESE-UNMATCHED-X-O331-01, R2, 72.39, 39.37, 0,R2, 330, AXIAL-0.3, SparkFun, (2.85, 1.55), R0|
 |RESE-UNMATCHED-X-O331-01, R3, 72.39, 49.529999999999994, 0,R3, 330, AXIAL-0.3, SparkFun, (2.85, 1.95), R0|
-|RESE-UNMATCHED-X-O105-01, R4, 72.39, 8.889999999999999, 0,R4, 1M, AXIAL-0.3, SparkFun, (2.85, 0.35), R0|
+|RESE-UNMATCHED-X-UNMATCHED-01, R4, 72.39, 8.889999999999999, 0,R4, 1M, AXIAL-0.3, SparkFun, (2.85, 0.35), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R5, 72.39, 66.03999999999999, 180,R5, CdS, PHOTOCELL, SparkFun, (2.85, 2.6), R180|
 |RESE-UNMATCHED-X-UNMATCHED-01, R6, 25.4, 60.959999999999994, 90,R6, Slider3, SLIDER, SparkFun, (1, 2.4), R90|
 |RESE-UNMATCHED-X-UNMATCHED-01, R7, 40.64, 60.959999999999994, 90,R7, Slider2, SLIDER, SparkFun, (1.6, 2.4), R90|
@@ -70,8 +80,8 @@ Contents
 - oompName: DangerShield
 - sources: All source files from https://github.com/sparkfun/DangerShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10570
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 67.30999999999999, 74.93, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 8.889999999999999, 57.15, 180
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C1, 67.30999999999999, 74.93, 90
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C2, 8.889999999999999, 57.15, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 13.97, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 72.39, 99.05999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 72.39, 54.60999999999999, 0
@@ -79,7 +89,7 @@ Contents
 - oompPart: RESE-UNMATCHED-X-O331-01, R1, 72.39, 92.71, 0
 - oompPart: RESE-UNMATCHED-X-O331-01, R2, 72.39, 39.37, 0
 - oompPart: RESE-UNMATCHED-X-O331-01, R3, 72.39, 49.529999999999994, 0
-- oompPart: RESE-UNMATCHED-X-O105-01, R4, 72.39, 8.889999999999999, 0
+- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 72.39, 8.889999999999999, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R5, 72.39, 66.03999999999999, 180
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R6, 25.4, 60.959999999999994, 90
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R7, 40.64, 60.959999999999994, 90
@@ -134,3 +144,7 @@ Contents
 - rawPart: U2, 74LS595N, DIL16, SparkFun, (0.3, 1.75), R270
 - rawPart: U4, TMP36, TO-92, SparkFun-Sensors, (2.85, 3), R90
 - rawPart: U6, 7-SEGMENT-DISPLAY-1-RED, 7-SEGMENT-1PTH, SparkFun, (0.35, 3.2), R0
+
+
+
+[im]: kicadPcb3d_450.png

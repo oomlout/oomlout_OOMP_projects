@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C10</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 16.128999999999998, 2.921, M90,C1, 10uF, 0805-NO, microbuilder, (0.635, 0.115), MR90|
+|CAPE-0805-X-UNMATCHED-01, C10, 52.197, 14.985999999999999, 180,C10, 10uF, 0805-NO, microbuilder, (2.055, 0.59), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 11.302999999999999, 2.54, M0,CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.445, 0.1), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISPLAY1, 46.126999948, -0.10800003799999999, M0,DISPLAY1, DISP_LCD_ST7789_1.3IN, TFT_1.3IN_240X240_24P, adafruit_display, (1.81602362, -0.00425197), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 4.571999999999999, 21.336, 0,IC1, APX803, SOT23, adafruit, (0.18, 0.84), R0|
@@ -68,8 +68,8 @@ Contents
 - oompName: Adafruit 1.3in Color TFT Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4506
-- oompPart: CAPC-0805-X-UF10-V25, C1, 16.128999999999998, 2.921, M90
-- oompPart: CAPC-0805-X-UF10-V25, C10, 52.197, 14.985999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 16.128999999999998, 2.921, M90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C10, 52.197, 14.985999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 11.302999999999999, 2.54, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISPLAY1, 46.126999948, -0.10800003799999999, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 45.72, 20.955, 0
@@ -115,4 +115,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

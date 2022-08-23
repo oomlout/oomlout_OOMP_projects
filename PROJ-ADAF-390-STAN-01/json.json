@@ -42,19 +42,19 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C1, 31.241999999999997, 12.7, 90"
+            "value": "CAPE-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C2, 9.524999999999999, 11.684, 0"
+            "value": "CAPE-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C3 10uF/10V C0805K, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C3, 16.509999999999998, 17.429999937999998, 270"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C4 4700uF/10V E5-13, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 39.37, 18.415, 270"
         },
         {
             "name": "oompPart",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R2, 21.779999873999998, 13.160000096000001, 0"
+            "value": "RESE-0805-X-O274-01, R2, 21.779999873999998, 13.160000096000001, 0"
         },
         {
             "name": "oompPart",
@@ -118,19 +118,19 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-O102-01, R5, 11.43, 20.32, 270"
+            "value": "RESE-0805-X-UNMATCHED-01, R5, 11.43, 20.32, 270"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-O102-01, R8, 20.955, 6.985, 270"
+            "value": "RESE-0805-X-UNMATCHED-01, R8, 20.955, 6.985, 270"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-O102-01, R9, 23.495, 6.985, 270"
+            "value": "RESE-0805-X-UNMATCHED-01, R9, 23.495, 6.985, 270"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-O102-01, R10, 7.5089999679999995, 30.668999875999997, 0"
+            "value": "RESE-0805-X-UNMATCHED-01, R10, 7.5089999679999995, 30.668999875999997, 0"
         },
         {
             "name": "oompPart",
@@ -146,7 +146,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-0805-X-O103-01, THERM, 6.35, 20.32, 270"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, THERM, 6.35, 20.32, 270"
         },
         {
             "name": "oompPart",

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14890-STAN-01>gator color](#proj-spar-14890-stan-01gator-color)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14890-STAN-01>gator color
 
 - ID: PROJ-SPAR-14890-STAN-01
 - Hex ID: PRS14890
 - Name: gator color
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -126,3 +136,7 @@ Contents
 - rawPart: U$33, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (0.8, 1.3), R180
 - rawPart: U$34, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (1.35, 1.975), R180
 - rawPart: U$38, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (4.15, 2.225), R180
+
+
+
+[im]: kicadPcb3d_450.png

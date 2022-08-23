@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, -3.937, 2.032, 180,C1, 0.1uF, C0805K, rcl, (-0.155, 0.08), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -0.127, 9.270999999999999, 90,IC1, AT42QT1070-SSU, SO14, adafruit, (-0.005, 0.365), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.540999999999999, 8.509, 90,JP1, 1X06-CLEANBIG, adafruit, (0.415, 0.335), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -9.779, 8.509, 270,JP3, 1X06-CLEANBIG, adafruit, (-0.385, 0.335), R270|
@@ -67,7 +67,7 @@ Contents
 - oompName: Adafruit Standalone Capacitive Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1362
-- oompPart: CAPC-0805-X-NF100-V50, C1, -3.937, 2.032, 180
+- oompPart: CAPE-0805-X-NF100-01, C1, -3.937, 2.032, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.604, 16.764, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.0, 0.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -0.127, 9.270999999999999, 90

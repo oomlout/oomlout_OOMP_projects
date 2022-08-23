@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ERROR, C1 0.1uF/50V 0805-NO, 0, 0, 0,C1, 0.1uF/50V, 0805-NO, microbuilder, (0.345, 0.49), R270|
-|ERROR, C2 22uF/63V PANASONIC_D, 0, 0, 0,C2, 22uF/63V, PANASONIC_D, microbuilder, (0.57, 0.44), R180|
+|UNMATCHED-0805-X-NF100-01, C1, 8.762999999999998, 12.446, 270,C1, 0.1uF/50V, 0805-NO, microbuilder, (0.345, 0.49), R270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 14.477999999999998, 11.176, 180,C2, 22uF/63V, PANASONIC_D, microbuilder, (0.57, 0.44), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 180,JP2, 1X04_ROUND_76, microbuilder, (0.4, 0.1), R180|
-|RESE-0805-X-UNMATCHED-01, R1, 13.081, 6.35, 180,R1, 30K, 0805-THM, adafruit, (0.515, 0.25), R180|
+|<table><tr><td>![RESE-0805-X-O303-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O303-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O303-01<br>SMD (0805) 30k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O303-01/)</td><td>[R85303](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O303-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 4.699, 10.921999999999999, 0,U1, DRV8871, HSOP8, microbuilder, (0.185, 0.43), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 5.842, 20.32, 180,X1, DCMOTOR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.23, 0.8), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 14.477999999999998, 20.32, 180,X2, POWER, TERMBLOCK_1X2-3.5MM, microbuilder, (0.57, 0.8), R180|
@@ -55,12 +55,12 @@ Contents
 - oompName: Adafruit DRV8871 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3190
-- oompPart: ERROR, C1 0.1uF/50V 0805-NO, 0, 0, 0
-- oompPart: ERROR, C2 22uF/63V PANASONIC_D, 0, 0, 0
+- oompPart: UNMATCHED-0805-X-NF100-01, C1, 8.762999999999998, 12.446, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 14.477999999999998, 11.176, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 21.59, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.397, 5.460999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 180
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 13.081, 6.35, 180
+- oompPart: RESE-0805-X-O303-01, R1, 13.081, 6.35, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 2.54, 2.54, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 17.779999999999998, 2.54, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 4.699, 10.921999999999999, 0

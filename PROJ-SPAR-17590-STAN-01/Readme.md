@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17590-STAN-01>Qwiic Haptic Driver DA7280](#proj-spar-17590-stan-01qwiic-haptic-driver-da7280)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17590-STAN-01>Qwiic Haptic Driver DA7280
 
 - ID: PROJ-SPAR-17590-STAN-01
 - Hex ID: PRS17590
 - Name: Qwiic Haptic Driver DA7280
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, 15.480799874, 10.671599941999999, 135,C2, 4.7uF, 0603, SparkFun-Capacitors, (0.60948031, 0.42014173), R135|
+|CAPE-0603-X-NF100-01, C1, 14.445396813999999, 9.618390719999999, 135,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.56871641, 0.3786768), R135|
+|CAPE-0603-X-UNMATCHED-01, C2, 15.480799874, 10.671599941999999, 135,C2, 4.7uF, 0603, SparkFun-Capacitors, (0.60948031, 0.42014173), R135|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 3.0479999999999996, 18.415, 270,D1, RED, LED-0603, SparkFun-LED, (0.12, 0.725), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.016, 0.635, 180,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.04, 0.025), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.016, 0.635, M180,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.04, 0.025), MR180|
@@ -45,7 +55,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, M1, 12.7, 23.090000048, 270,M1, G1040003D_LRA_CASTELLATED, COIN_VIBRATION_MOTOR_CASTEL, TEMP, (0.5, 0.90905512), R270|
 |RESE-0603-X-UNMATCHED-01, R1, 22.224999999999998, 18.326999922, 90,R1, 4.7k, 0603, SparkFun-Resistors, (0.875, 0.72153543), R90|
 |RESE-0603-X-UNMATCHED-01, R2, 20.574, 18.326999922, 90,R2, 4.7k, 0603, SparkFun-Resistors, (0.81, 0.72153543), R90|
-|RESE-0603-X-UNMATCHED-01, R3, 23.0124, 8.128, 180,R3, 10k, 0603, SparkFun-Resistors, (0.906, 0.32), R180|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R4, 1.397, 18.376000077999997, 270,R4, 1k, 0603, SparkFun-Resistors, (0.055, 0.72346457), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 7.874, 135,U1, HAPTIC_DRIVER_DA7280, QFN_DA7280, TEMP, (0.5, 0.31), R135|
 
@@ -60,8 +70,8 @@ Contents
 - oompName: Qwiic Haptic Driver DA7280
 - sources: All source files from https://github.com/sparkfun/Qwiic_Haptic_Driver_DA7280 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17590
-- oompPart: CAPC-0603-X-NF100-V50, C1, 14.445396813999999, 9.618390719999999, 135
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.480799874, 10.671599941999999, 135
+- oompPart: CAPE-0603-X-NF100-01, C1, 14.445396813999999, 9.618390719999999, 135
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 15.480799874, 10.671599941999999, 135
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.0479999999999996, 18.415, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.016, 0.635, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.016, 0.635, M180
@@ -79,7 +89,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, M1, 12.7, 23.090000048, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 22.224999999999998, 18.326999922, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 20.574, 18.326999922, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 23.0124, 8.128, 180
+- oompPart: RESE-0603-X-O103-01, R3, 23.0124, 8.128, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 1.397, 18.376000077999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 7.874, 135
 - rawPart: C1, 0.1uF, 0603, SparkFun-Capacitors, (0.56871641, 0.3786768), R135
@@ -104,3 +114,7 @@ Contents
 - rawPart: R3, 10k, 0603, SparkFun-Resistors, (0.906, 0.32), R180
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.055, 0.72346457), R270
 - rawPart: U1, HAPTIC_DRIVER_DA7280, QFN_DA7280, TEMP, (0.5, 0.31), R135
+
+
+
+[im]: kicadPcb3d_450.png

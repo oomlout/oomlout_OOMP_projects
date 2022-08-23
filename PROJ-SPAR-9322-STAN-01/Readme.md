@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9322-STAN-01>Photo Interrupter Breakout](#proj-spar-9322-stan-01photo-interrupter-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9322-STAN-01>Photo Interrupter Breakout
 
 - ID: PROJ-SPAR-9322-STAN-01
 - Hex ID: PRS9322
 - Name: Photo Interrupter Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -47,3 +57,7 @@ Contents
 - rawPart: JP1, 1X03, SparkFun, (0.5, 0.5), R180
 - rawPart: R1, 220, AXIAL-0.3, SparkFun, (0.4, 0.35), R0
 - rawPart: U1, GP1A57HR, GP1A57HR, SparkFun, (0.4, 0.15), R0
+
+
+
+[im]: kicadPcb3d_450.png

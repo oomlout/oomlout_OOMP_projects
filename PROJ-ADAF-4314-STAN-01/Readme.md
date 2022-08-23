@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 12.953999999999999, -2.7304999999999997, 0,C1, 0.1uF, 0603-NO, microbuilder, (0.51, -0.1075), R0|
+|CAPE-0805-X-UNMATCHED-01, C2, 0.7619999999999999, -5.0165, 90,C2, 10uF, 0805-NO, microbuilder, (0.03, -0.1975), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 16.764, -5.6514999999999995, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.66, -0.2225), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, -3.556, -5.6514999999999995, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (-0.14, -0.2225), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -2.667, -1.9685, 270,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-0.105, -0.0775), R270|
@@ -58,8 +58,8 @@ Contents
 - oompName: Adafruit ATECC608 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ATECC608-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4314
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.953999999999999, -2.7304999999999997, 0
-- oompPart: CAPC-0805-X-UF10-V25, C2, 0.7619999999999999, -5.0165, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.953999999999999, -2.7304999999999997, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 0.7619999999999999, -5.0165, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 16.764, -5.6514999999999995, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, -3.556, -5.6514999999999995, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -2.667, -1.9685, 270
@@ -93,4 +93,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

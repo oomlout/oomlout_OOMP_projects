@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 115.0, 0.0, 90,C1, 0.1uF, C0805K, adafruit, (115, 0), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 225.0, 0,GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 225), R0|
-|RESE-UNMATCHED-X-O103-01, R2, 0.0, -115.0, 0,R2, 10K, _0805, microbuilder, (0, -115), R0|
-|RESE-UNMATCHED-X-O103-01, R3, 0.0, 115.0, 0,R3, 10K, _0805, microbuilder, (0, 115), R0|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 195.0, 115.0, 300,SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, 115), R300|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL2, -195.0, 115.0, 60,SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, 115), R60|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA1, 195.0, -115.0, 240,SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, -115), R240|
@@ -59,12 +59,12 @@ Contents
 - oompName: Adafruit Flora TSL2561 Lux Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1246
-- oompPart: CAPC-0805-X-NF100-V50, C1, 115.0, 0.0, 90
+- oompPart: CAPE-0805-X-NF100-01, C1, 115.0, 0.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -115.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 225.0, 0
-- oompPart: RESE-UNMATCHED-X-O103-01, R2, 0.0, -115.0, 0
-- oompPart: RESE-UNMATCHED-X-O103-01, R3, 0.0, 115.0, 0
+- oompPart: RESE-0805-X-O103-01, R2, 0.0, -115.0, 0
+- oompPart: RESE-0805-X-O103-01, R3, 0.0, 115.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 195.0, 115.0, 300
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL2, -195.0, 115.0, 60
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SDA1, 195.0, -115.0, 240

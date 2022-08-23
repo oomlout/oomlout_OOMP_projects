@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -38,7 +38,7 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 38.480999999999995, 7.492999999999999, 90,A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.515, 0.295), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 36.068, 7.492999999999999, 90,A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (1.42, 0.295), R90|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.783, 16.383, 0,C1, 1uF, 0805-NO@1, microbuilder, (1.645, 0.645), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.783, 16.383, 0,C1, 1uF, 0805-NO@1, microbuilder, (1.645, 0.645), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 46.99, 11.43, 90,J1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (1.85, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 19.049999999999997, 0,JP1, 1X12_ROUND_76MIL, microbuilder, (1.2, 0.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 45.72, 6.35, 0,JP2, 1X02_ROUND, microbuilder, (1.8, 0.25), R0|
@@ -62,7 +62,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/904
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 38.480999999999995, 7.492999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 36.068, 7.492999999999999, 90
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.783, 16.383, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.783, 16.383, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 49.784, 4.571999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 49.784, 18.415, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 46.99, 11.43, 90
@@ -91,4 +91,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

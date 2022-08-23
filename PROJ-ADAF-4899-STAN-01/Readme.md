@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 12.827, 5.460999999999999, 0,C1, 0.1uF, 0603-NO, microbuilder, (0.505, 0.215), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 3.429, 11.176, 0,C3, 10uF, 0805-NO, microbuilder, (0.135, 0.44), R0|
+|CAPE-0805-X-UNMATCHED-01, C4, 3.556, 5.842, 0,C4, 10uF, 0805-NO, microbuilder, (0.14, 0.23), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.795, 2.54, 0,JP2, 1X07_ROUND_70, microbuilder, (0.425, 0.1), R0|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 8.001, 9.017, 0,U3, 74HC4050D, TSSOP16, microbuilder, (0.315, 0.355), R0|
@@ -56,9 +56,9 @@ Contents
 - oompName: Adafruit SPI Flash SD Card PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SPI-Flash-SD-Card-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4899
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.827, 5.460999999999999, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 3.429, 11.176, 0
-- oompPart: CAPC-0805-X-UF10-V25, C4, 3.556, 5.842, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.827, 5.460999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 3.429, 11.176, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 3.556, 5.842, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.889, 12.572999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 20.447, 4.826, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.795, 2.54, 0
@@ -83,4 +83,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

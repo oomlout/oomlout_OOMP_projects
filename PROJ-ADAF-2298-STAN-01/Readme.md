@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90,C1, 10uF, 0805-NO, microbuilder, (25.781, 39.116), R90|
+|CAPE-0805-X-NF100-01, C2, 41.275, 45.593, 90,C2, 0.1uF, 0805-NO, microbuilder, (41.275, 45.593), R90|
+|CAPE-0805-X-NF100-01, C3, 29.337, 43.688, 180,C3, 0.1uF, 0805-NO, microbuilder, (29.337, 43.688), R180|
+|CAPE-0805-X-NF100-01, C4, 38.1, 38.608, 90,C4, 0.1uF, 0805-NO, microbuilder, (38.1, 38.608), R90|
+|CAPE-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0,C5, 10uF, 0805-NO, microbuilder, (18.415, 46.609), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.606, 42.164, 180,D1, 1N4148, SOD-323, microbuilder, (22.606, 42.164), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 21.463, 45.339, 270,D2, 1N4148, SOD-323, microbuilder, (21.463, 45.339), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 29.464, 40.894, 270,IC5, APX803, SOT23, adafruit, (29.464, 40.894), R270|
@@ -84,11 +84,11 @@ Contents
 - oompName: Adafruit PiTFT Plus 2.8 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2298
-- oompPart: CAPC-0805-X-UF10-V25, C1, 25.781, 39.116, 90
-- oompPart: CAPC-0805-X-NF100-V50, C2, 41.275, 45.593, 90
-- oompPart: CAPC-0805-X-NF100-V50, C3, 29.337, 43.688, 180
-- oompPart: CAPC-0805-X-NF100-V50, C4, 38.1, 38.608, 90
-- oompPart: CAPC-0805-X-UF10-V25, C5, 18.415, 46.609, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90
+- oompPart: CAPE-0805-X-NF100-01, C2, 41.275, 45.593, 90
+- oompPart: CAPE-0805-X-NF100-01, C3, 29.337, 43.688, 180
+- oompPart: CAPE-0805-X-NF100-01, C4, 38.1, 38.608, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.606, 42.164, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 21.463, 45.339, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 29.464, 40.894, 270

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C4, 16.065499999999997, 6.7945, 180,C4, 1uF, 0603-NO, microbuilder, (0.6325, 0.2675), R180|
-|CAPC-0603-X-UNMATCHED-01, C5, 16.065499999999997, 4.5085, 180,C5, 1uF, 0603-NO, microbuilder, (0.6325, 0.1775), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C3, 14.604999999999999, -5.715, 90,C3, 10uF, 0805-NO, microbuilder, (0.575, -0.225), R90|
+|CAPE-0603-X-UNMATCHED-01, C4, 16.065499999999997, 6.7945, 180,C4, 1uF, 0603-NO, microbuilder, (0.6325, 0.2675), R180|
+|CAPE-0603-X-UNMATCHED-01, C5, 16.065499999999997, 4.5085, 180,C5, 1uF, 0603-NO, microbuilder, (0.6325, 0.1775), R180|
+|CAPE-0805-X-UNMATCHED-01, C8, 19.304, -3.0479999999999996, 0,C8, 10uF, 0805-NO, microbuilder, (0.76, -0.12), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 4.953, 0.0, M180,CN1, USBA_PCB, microbuilder, (0.195, 0), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 20.8915, 5.08, 270,IC3, ATSAMD21E, QFN32_5MM, microbuilder, (0.8225, 0.2), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 15.938499999999998, 0.127, M270,LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.6275, 0.005), MR270|
@@ -61,10 +61,10 @@ Contents
 - oompName: Adafruit NeoKey Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5020
-- oompPart: CAPC-0805-X-UF10-V25, C3, 14.604999999999999, -5.715, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 16.065499999999997, 6.7945, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 16.065499999999997, 4.5085, 180
-- oompPart: CAPC-0805-X-UF10-V25, C8, 19.304, -3.0479999999999996, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 14.604999999999999, -5.715, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 16.065499999999997, 6.7945, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 16.065499999999997, 4.5085, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 19.304, -3.0479999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 4.953, 0.0, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 26.860500000000002, -6.858, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 10.363199999999999, 4.953, 180
@@ -94,4 +94,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

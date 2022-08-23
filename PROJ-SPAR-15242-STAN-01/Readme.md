@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15242-STAN-01>Qwiic Scale](#proj-spar-15242-stan-01qwiic-scale)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15242-STAN-01>Qwiic Scale
 
 - ID: PROJ-SPAR-15242-STAN-01
 - Hex ID: PRS15242
 - Name: Qwiic Scale
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C9</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C10</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C8, 16.509999999999998, 15.239999999999998, 180,C8, 0.1uF, 0603, SparkFun-Capacitors, (0.65, 0.6), R180|
+|CAPE-0603-X-NF100-01, C9, 20.32, 22.86, 90,C9, 0.1uF, 0603, SparkFun-Capacitors, (0.8, 0.9), R90|
+|CAPE-0603-X-NF100-01, C10, 8.889999999999999, 15.239999999999998, 180,C10, 0.1uF, 0603, SparkFun-Capacitors, (0.35, 0.6), R180|
 |CAPE-0603-X-UNMATCHED-01, C11, 12.7, 15.239999999999998, 180,C11, 330pF, 0603, SparkFun-Capacitors, (0.5, 0.6), R180|
-|CAPC-0603-X-UNMATCHED-01, C12, 19.049999999999997, 10.16, 90,C12, 1.0uF, 0603, SparkFun-Capacitors, (0.75, 0.4), R90|
+|CAPE-0603-X-UNMATCHED-01, C12, 19.049999999999997, 10.16, 90,C12, 1.0uF, 0603, SparkFun-Capacitors, (0.75, 0.4), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 3.0479999999999996, 7.619999999999999, 90,D1, RED, LED-0603, SparkFun-LED, (0.12, 0.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 7.619999999999999, 13.97, M0,J1, CAP, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.3, 0.55), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 20.32, 13.97, 90,J2, Qwiic, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.55), R90|
@@ -63,11 +73,11 @@ Contents
 - oompName: Qwiic Scale
 - sources: All source files from https://github.com/sparkfun/Qwiic_Scale (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15242
-- oompPart: CAPC-0603-X-NF100-V50, C8, 16.509999999999998, 15.239999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C9, 20.32, 22.86, 90
-- oompPart: CAPC-0603-X-NF100-V50, C10, 8.889999999999999, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C8, 16.509999999999998, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C9, 20.32, 22.86, 90
+- oompPart: CAPE-0603-X-NF100-01, C10, 8.889999999999999, 15.239999999999998, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C11, 12.7, 15.239999999999998, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C12, 19.049999999999997, 10.16, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C12, 19.049999999999997, 10.16, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.0479999999999996, 7.619999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 7.619999999999999, 13.97, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 20.32, 13.97, 90
@@ -113,3 +123,7 @@ Contents
 - rawPart: R9, 47, 0603, SparkFun-Resistors, (0.65, 0.66), R0
 - rawPart: R10, 47, 0603, SparkFun-Resistors, (0.5, 0.66), R0
 - rawPart: U1, NAU7802, SO16, SparkFun-IC-Conversion, (0.5, 0.4), R180
+
+
+
+[im]: kicadPcb3d_450.png

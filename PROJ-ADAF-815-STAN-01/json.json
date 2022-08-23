@@ -38,11 +38,11 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C1, -477.5, 708.12992, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C2  E3,5-8, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180"
         },
         {
             "name": "oompPart",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -320.0, 790.0, 90"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED1, -320.0, 790.0, 90"
         },
         {
             "name": "oompPart",

@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 31.241999999999997, 24.13, 180,C1, 10uF, 0805-NO, microbuilder, (1.23, 0.95), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 28.066999999999997, 27.813, 270,C2, 10uF, 0805-NO, microbuilder, (1.105, 1.095), R270|
+|CAPE-0805-X-NF100-01, C4, 5.968999999999999, 26.924, 0,C4, 0.1uF, 0805-NO, microbuilder, (0.235, 1.06), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 23.622, 16.128999999999998, 270,IC1, 4050D, SO16, 40xx, (0.93, 0.635), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 31.241999999999997, 27.813, 0,IC2, mic5225-3.3, SOT23-5L, adafruit, (1.23, 1.095), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 42.545, 16.509999999999998, 270,JP1, 1X11_ROUND_76, microbuilder, (1.675, 0.65), R270|
@@ -58,9 +58,9 @@ Contents
 - oompName: Adafruit 1.44 TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2088
-- oompPart: CAPC-0805-X-UF10-V25, C1, 31.241999999999997, 24.13, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 28.066999999999997, 27.813, 270
-- oompPart: CAPC-0805-X-NF100-V50, C4, 5.968999999999999, 26.924, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 31.241999999999997, 24.13, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 28.066999999999997, 27.813, 270
+- oompPart: CAPE-0805-X-NF100-01, C4, 5.968999999999999, 26.924, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 23.622, 16.128999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 31.241999999999997, 27.813, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 42.545, 16.509999999999998, 270

@@ -23,9 +23,9 @@ Contents
   
   
 
-|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: |
-|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -61,8 +61,8 @@ Contents
 |RESE-0805-X-UNMATCHED-01, R1, 60.959999999999994, 28.320999999999998, 180,R1, 3.9K, 0805-NO, microbuilder, (2.4, 1.115), R180|
 |RESE-0805-X-UNMATCHED-01, R2, 62.483999999999995, 32.385, 90,R2, 3.9K, 0805-NO, microbuilder, (2.46, 1.275), R90|
 |RESE-0805-X-UNMATCHED-01, R3, 57.15, 28.320999999999998, 0,R3, 3.9K, 0805-NO, microbuilder, (2.25, 1.115), R0|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R13</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R4, 22.605999999999998, 19.558, 0,R4, 1K, 0805-NO, microbuilder, (0.89, 0.77), R0|
+|RESE-0805-X-UNMATCHED-01, R13, 15.112999999999998, 18.668999999999997, 0,R13, 1K, 0805-NO, microbuilder, (0.595, 0.735), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0, 0,RPI1, RASPBERRYPI_BPLUS_HATSLOTS, PI_HAT_SLOTS, microbuilder, (0, 0), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 53.593999999999994, 28.320999999999998, 0,SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (2.11, 1.115), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 57.40399999999999, 31.876999999999995, 270,U1, CAT24C32, SOIC8_150MIL, microbuilder, (2.26, 1.255), R270|
@@ -111,8 +111,8 @@ Contents
 - oompPart: RESE-0805-X-UNMATCHED-01, R1, 60.959999999999994, 28.320999999999998, 180
 - oompPart: RESE-0805-X-UNMATCHED-01, R2, 62.483999999999995, 32.385, 90
 - oompPart: RESE-0805-X-UNMATCHED-01, R3, 57.15, 28.320999999999998, 0
-- oompPart: RESE-0805-X-O102-01, R4, 22.605999999999998, 19.558, 0
-- oompPart: RESE-0805-X-O102-01, R13, 15.112999999999998, 18.668999999999997, 0
+- oompPart: RESE-0805-X-UNMATCHED-01, R4, 22.605999999999998, 19.558, 0
+- oompPart: RESE-0805-X-UNMATCHED-01, R13, 15.112999999999998, 18.668999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 53.593999999999994, 28.320999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 57.40399999999999, 31.876999999999995, 270

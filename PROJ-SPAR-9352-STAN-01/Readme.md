@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9352-STAN-01>GraphicLCD Serial Backpack](#proj-spar-9352-stan-01graphiclcd-serial-backpack)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9352-STAN-01>GraphicLCD Serial Backpack
 
 - ID: PROJ-SPAR-9352-STAN-01
 - Hex ID: PRS9352
 - Name: GraphicLCD Serial Backpack
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C4, 15.494, 20.574, 90,C4, 10uF, EIA3216, SparkFun, (15.494, 20.574), R90|
+|CAPE-0603-X-NF100-01, C1, 12.954, 20.574, 270,C1, 0.1uF, 0603-CAP, SparkFun, (12.954, 20.574), R270|
+|CAPE-0603-X-NF100-01, C2, 35.814, 13.224, 90,C2, 0.1uF, 0603-CAP, SparkFun, (35.814, 13.224), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 15.494, 20.574, 90,C4, 10uF, EIA3216, SparkFun, (15.494, 20.574), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 49.784, 14.224, 90,JP1, 1X04-SMD, SparkFun, (49.784, 14.224), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 41.656, 10.414, 90,JP2, 1X04, SparkFun, (41.656, 10.414), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 49.784, 1.524, 180,JP3, M20SPECIAL, 1X20_LOCK_SPECIAL, SparkFun, (49.784, 1.524), R180|
@@ -57,9 +67,9 @@ Contents
 - oompName: GraphicLCD Serial Backpack
 - sources: All source files from https://github.com/sparkfun/GraphicLCD_Serial_Backpack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9352
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.954, 20.574, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 35.814, 13.224, 90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C4, 15.494, 20.574, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.954, 20.574, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 35.814, 13.224, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 15.494, 20.574, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 49.784, 14.224, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 41.656, 10.414, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 49.784, 1.524, 180
@@ -101,3 +111,7 @@ Contents
 - rawPart: U1, V_REG_LDOSMD, SOT23-5, SparkFun, (18.034, 25.654), R90
 - rawPart: U2, ATMEGA168, TQFP32-08, SparkFun, (28.194, 15.494), R180
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (35.814, 18.034), R90
+
+
+
+[im]: kicadPcb3d_450.png

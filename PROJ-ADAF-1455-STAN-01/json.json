@@ -38,15 +38,15 @@
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C1 10uF/16V 0805, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C1, 20.32, 15.493999999999998, 180"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C2 1uF/50V 0805, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C2, 20.32, 7.365999999999999, 180"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C4 220uF+ E2,5-7, 0, 0, 0"
+            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C4, 20.32, 11.43, 180"
         },
         {
             "name": "oompPart",

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9419-STAN-01>MicroSD Sniffer](#proj-spar-9419-stan-01microsd-sniffer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9419-STAN-01>MicroSD Sniffer
 
 - ID: PROJ-SPAR-9419-STAN-01
 - Hex ID: PRS9419
 - Name: MicroSD Sniffer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|
+| :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
 
 ## Interactive BOM
 
@@ -51,3 +61,7 @@ Contents
 - rawPart: JP1, 1X08, SparkFun, (0.102, 0.062), R0
 - rawPart: U1, MICRO-SDCARD, MICRO-SDCARD, SparkFun-Boards, (1.85, 0.311), R90
 - rawPart: U2, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.14820005, 0.41969993), R0
+
+
+
+[im]: eagleImage_450.png

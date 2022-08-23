@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 12.446, 19.049999999999997, 180,C2, 1uF, 0805-NO, microbuilder, (0.49, 0.75), R180|
-|CAPC-0805-X-UNMATCHED-01, C3, 5.334, 19.049999999999997, 180,C3, 2.2uF, 0805-NO, microbuilder, (0.21, 0.75), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 20.066, 18.796, 180,C1, 10uF, 0805-NO, microbuilder, (0.79, 0.74), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 12.446, 19.049999999999997, 180,C2, 1uF, 0805-NO, microbuilder, (0.49, 0.75), R180|
+|CAPE-0805-X-UF22D-01, C3, 5.334, 19.049999999999997, 180,C3, 2.2uF, 0805-NO, microbuilder, (0.21, 0.75), R180|
+|CAPE-0805-X-UNMATCHED-01, C4, 2.413, 9.398, 180,C4, 10uF, 0805-NO, microbuilder, (0.095, 0.37), R180|
+|CAPE-0805-X-UNMATCHED-01, C5, 1.9049999999999998, 17.145, 270,C5, 10uF, 0805-NO, microbuilder, (0.075, 0.675), R270|
+|CAPE-0805-X-NF100-01, C6, 16.002, 19.049999999999997, 0,C6, 0.1uF, 0805-NO, microbuilder, (0.63, 0.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0,JP1, 1X06_ROUND_70, microbuilder, (0.5, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 22.86, 0,JP2, 1X06_ROUND_70, microbuilder, (0.5, 0.9), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 20.066, 7.365999999999999, 180,Q1, BSS138, SOT23-WIDE, microbuilder, (0.79, 0.29), R180|
@@ -68,12 +68,12 @@ Contents
 - oompName: Adafruit AMG8833 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3538
-- oompPart: CAPC-0805-X-UF10-V25, C1, 20.066, 18.796, 180
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.446, 19.049999999999997, 180
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.334, 19.049999999999997, 180
-- oompPart: CAPC-0805-X-UF10-V25, C4, 2.413, 9.398, 180
-- oompPart: CAPC-0805-X-UF10-V25, C5, 1.9049999999999998, 17.145, 270
-- oompPart: CAPC-0805-X-NF100-V50, C6, 16.002, 19.049999999999997, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 20.066, 18.796, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 12.446, 19.049999999999997, 180
+- oompPart: CAPE-0805-X-UF22D-01, C3, 5.334, 19.049999999999997, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 2.413, 9.398, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 1.9049999999999998, 17.145, 270
+- oompPart: CAPE-0805-X-NF100-01, C6, 16.002, 19.049999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 23.495, 19.049999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.397, 5.842, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 2.54, 0

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-18567-STAN-01>WiFi Shield-DA16200](#proj-spar-18567-stan-01wifi-shield-da16200)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-18567-STAN-01>WiFi Shield-DA16200
 
 - ID: PROJ-SPAR-18567-STAN-01
 - Hex ID: PRS18567
 - Name: WiFi Shield-DA16200
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,10 +37,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 30.479999999999997, 26.669999999999998, 270,B1, ARDUINO_UNO_R3_SHIELD, UNO_R3_SHIELD_NOLABELS_LOCK, SparkFun-Boards, (1.2, 1.05), R270|
-|ERROR, C1 DNP 0603, 0, 0, 0,C1, DNP, 0603, SparkFun-Capacitors, (1.89, 1.45), R90|
-|CAPC-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180,C2, 1uF, 0603, SparkFun-Capacitors, (1.34, 1.185), R180|
-|CAPC-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270,C3, 1uF, 0603, SparkFun-Capacitors, (1.9495, 0.655), R270|
-|CAPC-0603-X-UF10-V25, C4, 50.99049999999999, 16.700499999999998, 270,C4, 10uF, 0603, SparkFun-Capacitors, (2.0075, 0.6575), R270|
+|UNMATCHED-0603-X-UNMATCHED-01, C1, 48.00599999999999, 36.83, 90,C1, DNP, 0603, SparkFun-Capacitors, (1.89, 1.45), R90|
+|CAPE-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180,C2, 1uF, 0603, SparkFun-Capacitors, (1.34, 1.185), R180|
+|CAPE-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270,C3, 1uF, 0603, SparkFun-Capacitors, (1.9495, 0.655), R270|
+|CAPE-0603-X-UNMATCHED-01, C4, 50.99049999999999, 16.700499999999998, 270,C4, 10uF, 0603, SparkFun-Capacitors, (2.0075, 0.6575), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 50.99049999999999, 13.398499999999999, 270,D1, RED, LED-0603, SparkFun-LED, (2.0075, 0.5275), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.9524999999999999, 48.19649999999999, 0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.0375, 1.8975), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.9524999999999999, 48.19649999999999, M0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.0375, 1.8975), MR0|
@@ -75,10 +85,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/WiFi_Shield-DA16200 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18567
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 30.479999999999997, 26.669999999999998, 270
-- oompPart: ERROR, C1 DNP 0603, 0, 0, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270
-- oompPart: CAPC-0603-X-UF10-V25, C4, 50.99049999999999, 16.700499999999998, 270
+- oompPart: UNMATCHED-0603-X-UNMATCHED-01, C1, 48.00599999999999, 36.83, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 49.5173, 16.637, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 50.99049999999999, 16.700499999999998, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 50.99049999999999, 13.398499999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.9524999999999999, 48.19649999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.9524999999999999, 48.19649999999999, M0
@@ -146,3 +156,7 @@ Contents
 - rawPart: S3, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.55, 1.661), R90
 - rawPart: TP1, PAD.03X.03, SparkFun-Connectors, (1.1875, 1.5125), MR0
 - rawPart: U1, DA16200MOD, XCVR_DA16200MOD-AAC4WA32, DA16200MOD, (1.9, 1.05), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15193-STAN-01>SparkFun u-blox ZOE-M8Q](#proj-spar-15193-stan-01sparkfun-u-blox-zoe-m8q)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15193-STAN-01>SparkFun u-blox ZOE-M8Q
 
 - ID: PROJ-SPAR-15193-STAN-01
 - Hex ID: PRS15193
 - Name: SparkFun u-blox ZOE-M8Q
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 22.605999999999998, 11.811, 180,B1, ML414H_IV01E_BATTERY, ML414H_IV01E, SparkFun-Batteries, (0.89, 0.465), R180|
-|CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.35, 0.5), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.35, 0.5), R90|
+|CAPE-0603-X-NF100-01, C2, 9.118599999999999, 8.3058, 270,C2, 0.1uF, 0603, SparkFun-Capacitors, (0.359, 0.327), R270|
 |CAPE-0603-X-UNMATCHED-01, C3, 15.011399999999998, 17.018, 90,C3, 47pF, 0603, SparkFun-Capacitors, (0.591, 0.67), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.592799999999997, 12.6746, 270,D1, 0.5A/40V/420mV, SOD-323, SparkFun-DiscreteSemi, (0.732, 0.499), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 2.032, 18.541999999999998, 0,D2, RED, LED-0603, SparkFun-LED, (0.08, 0.73), R0|
@@ -65,8 +75,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_ZOE-M8Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15193
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 22.605999999999998, 11.811, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 9.118599999999999, 8.3058, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90
+- oompPart: CAPE-0603-X-NF100-01, C2, 9.118599999999999, 8.3058, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 15.011399999999998, 17.018, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.592799999999997, 12.6746, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.032, 18.541999999999998, 0
@@ -116,3 +126,7 @@ Contents
 - rawPart: R5, 10, 0603, SparkFun-Resistors, (0.7, 0.61), R0
 - rawPart: U1, U-BLOX_ZOE_M8Q-0-10, UBLOX_ZOE_M8-0-10, SparkFun-GPS, (0.5, 0.5), R0
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.552, 0.317), R0
+
+
+
+[im]: kicadPcb3d_450.png

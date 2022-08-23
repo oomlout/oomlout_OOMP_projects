@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13988-STAN-01>Micro Bit Breakout](#proj-spar-13988-stan-01micro-bit-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13988-STAN-01>Micro Bit Breakout
 
 - ID: PROJ-SPAR-13988-STAN-01
 - Hex ID: PRS13988
 - Name: Micro Bit Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -56,3 +66,7 @@ Contents
 - rawPart: FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.27, 0.675), MR0
 - rawPart: J1, EDGE-80PTH-RA, VEC-127-080-R, local_lib, (1.35, 0.3), R180
 - rawPart: J2, M22PTH, 1X22, local_lib, (0.3, 0.05), R0
+
+
+
+[im]: kicadPcb3d_450.png

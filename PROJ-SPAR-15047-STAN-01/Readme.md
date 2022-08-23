@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15047-STAN-01>Lumini 8x8](#proj-spar-15047-stan-01lumini-8x8)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15047-STAN-01>Lumini 8x8
 
 - ID: PROJ-SPAR-15047-STAN-01
 - Hex ID: PRS15047
 - Name: Lumini 8x8
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ERROR, C1 DNP 1206, 0, 0, 0,C1, DNP, 1206, SparkFun-Capacitors, (0.8, 0.5), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 20.32, 12.7, M270,C1, DNP, 1206, SparkFun-Capacitors, (0.8, 0.5), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.2075, 1.5875, 0,D1, APA102-2020, APA102-2020, SparkFun-LED, (0.3625, 0.0625), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.382499999999999, 1.5875, 0,D2, APA102-2020, APA102-2020, SparkFun-LED, (0.4875, 0.0625), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 15.557500000000001, 1.5875, 0,D3, APA102-2020, APA102-2020, SparkFun-LED, (0.6125, 0.0625), R0|
@@ -127,7 +137,7 @@ Contents
 - oompName: Lumini 8x8
 - sources: All source files from https://github.com/sparkfun/Lumini_8x8 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15047
-- oompPart: ERROR, C1 DNP 1206, 0, 0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 20.32, 12.7, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.2075, 1.5875, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.382499999999999, 1.5875, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 15.557500000000001, 1.5875, 0
@@ -305,3 +315,7 @@ Contents
 - rawPart: J14, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (0.74, 0.96), MR180
 - rawPart: J15, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (1.26, 0.5625), MR270
 - rawPart: J16, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (0.8625, 0.96), MR180
+
+
+
+[im]: kicadPcb3d_450.png

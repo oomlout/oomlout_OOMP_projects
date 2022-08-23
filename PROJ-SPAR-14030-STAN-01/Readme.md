@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14030-STAN-01>Mini GPS Shield](#proj-spar-14030-stan-01mini-gps-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14030-STAN-01>Mini GPS Shield
 
 - ID: PROJ-SPAR-14030-STAN-01
 - Hex ID: PRS14030
 - Name: Mini GPS Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C5, 4.953, 22.733, 180,C5, 1.0uF, 0805-CAP, SparkFun-Capacitors, (0.195, 0.895), R180|
-|CAPC-0603-X-UNMATCHED-01, C6, 5.08, 16.509999999999998, 180,C6, 2.2uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.65), R180|
+|CAPE-0805-X-UNMATCHED-01, C5, 4.953, 22.733, 180,C5, 1.0uF, 0805-CAP, SparkFun-Capacitors, (0.195, 0.895), R180|
+|CAPE-0603-X-UF22D-01, C6, 5.08, 16.509999999999998, 180,C6, 2.2uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.65), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 4.191, 31.369, 0,D1, BLUE, LED-0603, SparkFun-LED, (0.165, 1.235), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 2.54, 6.985, 0,FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.1, 0.275), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 16.891, 38.73499999999999, 0,FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.665, 1.525), R0|
@@ -53,8 +63,8 @@ Contents
 - oompName: Mini GPS Shield
 - sources: All source files from https://github.com/sparkfun/Mini_GPS_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14030
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 4.953, 22.733, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 5.08, 16.509999999999998, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 4.953, 22.733, 180
+- oompPart: CAPE-0603-X-UF22D-01, C6, 5.08, 16.509999999999998, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 4.191, 31.369, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 2.54, 6.985, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 16.891, 38.73499999999999, 0
@@ -83,3 +93,7 @@ Contents
 - rawPart: U1, GP735, GP735, GPS_Pro_Mini_temp, (0.45, 1.35), R0
 - rawPart: U2, TXB0108, UFDFN-20, SparkFun-DigitalIC, (0.395, 0.755), R270
 - rawPart: U3, AP2112K-3.3V, SOT23-5, SparkFun-PowerIC, (0.195, 0.765), R180
+
+
+
+[im]: kicadPcb3d_450.png

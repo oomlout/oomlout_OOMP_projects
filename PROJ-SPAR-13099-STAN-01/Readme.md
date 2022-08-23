@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13099-STAN-01>Rotary Switch Potentiometer](#proj-spar-13099-stan-01rotary-switch-potentiometer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13099-STAN-01>Rotary Switch Potentiometer
 
 - ID: PROJ-SPAR-13099-STAN-01
 - Hex ID: PRS13099
 - Name: Rotary Switch Potentiometer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -71,3 +81,7 @@ Contents
 - rawPart: R8, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.8), R0
 - rawPart: R9, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.9), R0
 - rawPart: SW1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (1.05, 0.5), R270
+
+
+
+[im]: kicadPcb3d_450.png

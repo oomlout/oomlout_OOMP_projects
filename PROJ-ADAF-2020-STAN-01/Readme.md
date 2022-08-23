@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C2, 145.0, -65.0, 90,C2, 10uF, 0805_10MGAP, microbuilder, (145, -65), R90|
-|CAPC-0805-X-UNMATCHED-01, C6, 5.0, 150.0, 180,C6, 0.22uF, 0805-NO, microbuilder, (5, 150), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C7</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 145.0, -65.0, 90,C2, 10uF, 0805_10MGAP, microbuilder, (145, -65), R90|
+|CAPE-0805-X-NF220-01, C6, 5.0, 150.0, 180,C6, 0.22uF, 0805-NO, microbuilder, (5, 150), R180|
+|CAPE-0805-X-UNMATCHED-01, C7, 145.0, 75.0, 270,C7, 10uF, 0805-NO, microbuilder, (145, 75), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 275.0, 0,GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 275), R0|
 |RESE-UNMATCHED-X-O103-01, R1, 20.0, -160.0, 180,R1, 10K, RESPACK_4X0603, microbuilder, (20, -160), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SCL1, 240.0, 140.0, 300,SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, 140), R300|
@@ -59,9 +59,9 @@ Contents
 - oompName: Adafruit Flora LSM9DS0 9DOF PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2020
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 145.0, -65.0, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 5.0, 150.0, 180
-- oompPart: CAPC-0805-X-UF10-V25, C7, 145.0, 75.0, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 145.0, -65.0, 90
+- oompPart: CAPE-0805-X-NF220-01, C6, 5.0, 150.0, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C7, 145.0, 75.0, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -125.0, 230.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 145.0, -225.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 275.0, 0

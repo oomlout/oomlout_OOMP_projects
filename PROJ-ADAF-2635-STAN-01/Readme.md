@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 15.748, 7.874, 270,C1, 10uF, 0805-NO, microbuilder, (0.62, 0.31), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.2859999999999996, 180,JP1, 1X07_ROUND_70, microbuilder, (0.35, 0.09), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-O103-01, R2, 11.684, 7.874, 90,R2, 10K, _0805MP, microbuilder, (0.46, 0.31), R90|
+|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -56,12 +56,12 @@ Contents
 - oompName: Adafruit HDC1008 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2635
-- oompPart: CAPC-0805-X-UF10-V25, C1, 15.748, 7.874, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 15.748, 7.874, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.6829999999999994, 4.699, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.7, 10.668, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.2859999999999996, 180
 - oompPart: RESE-0805-X-O103-01, R1, 13.716, 7.874, 90
-- oompPart: RESE-UNMATCHED-X-O103-01, R2, 11.684, 7.874, 90
+- oompPart: RESE-0805-X-O103-01, R2, 11.684, 7.874, 90
 - oompPart: RESE-0805-X-O103-01, R3, 6.223, 7.874, 90
 - oompPart: RESE-0805-X-O103-01, R4, 3.8099999999999996, 7.874, 90
 - oompPart: RESE-0805-X-O103-01, R5, 1.778, 7.874, 90

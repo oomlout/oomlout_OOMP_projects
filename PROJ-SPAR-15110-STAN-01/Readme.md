@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15110-STAN-01>SparkFun ESP32 Thing Plus DMX to LED Shield](#proj-spar-15110-stan-01sparkfun-esp32-thing-plus-dmx-to-led-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15110-STAN-01>SparkFun ESP32 Thing Plus DMX to LED Shield
 
 - ID: PROJ-SPAR-15110-STAN-01
 - Hex ID: PRS15110
 - Name: SparkFun ESP32 Thing Plus DMX to LED Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 20.955, 66.03999999999999, 0,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.825, 2.6), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 20.955, 66.03999999999999, 0,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.825, 2.6), R0|
+|CAPE-0603-X-NF100-01, C2, 35.559999999999995, 46.99, 90,C2, 0.1uF, 0603, SparkFun-Capacitors, (1.4, 1.85), R90|
+|CAPE-0603-X-NF100-01, C3, 35.559999999999995, 26.669999999999998, 180,C3, 0.1uF, 0603, SparkFun-Capacitors, (1.4, 1.05), R180|
+|CAPE-0603-X-NF100-01, C4, 35.559999999999995, 13.97, 0,C4, 0.1uF, 0603, SparkFun-Capacitors, (1.4, 0.55), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 5.08, M0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.05, 0.2), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 5.08, 0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.05, 0.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 55.88, 67.30999999999999, 0,FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (2.2, 2.65), R0|
@@ -76,10 +86,10 @@ Contents
 - oompName: SparkFun ESP32 Thing Plus DMX to LED Shield
 - sources: All source files from https://github.com/sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15110
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 20.955, 66.03999999999999, 0
-- oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 46.99, 90
-- oompPart: CAPC-0603-X-NF100-V50, C3, 35.559999999999995, 26.669999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 35.559999999999995, 13.97, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 20.955, 66.03999999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 35.559999999999995, 46.99, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 35.559999999999995, 26.669999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C4, 35.559999999999995, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 5.08, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 5.08, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 55.88, 67.30999999999999, 0
@@ -152,3 +162,7 @@ Contents
 - rawPart: U4, 6N137S, 8-SMD, SparkFun-DiscreteSemi, (1.25, 0.3), R270
 - rawPart: U5, 6N137S, 8-SMD, SparkFun-DiscreteSemi, (1.25, 0.8), R270
 - rawPart: U6, RFB-0505S, RFB-0505S, SparkFun-IC-Power, (1.1, 2.4), R0
+
+
+
+[im]: kicadPcb3d_450.png

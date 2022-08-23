@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270,C1, 1uF, 0603-NO, microbuilder, (0.94, 0.27), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270,C1, 1uF, 0603-NO, microbuilder, (0.94, 0.27), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 27.94, 10.16, 90,JP1, 1X03_ROUND, microbuilder, (1.1, 0.4), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 15.239999999999998, 2.54, 180,JP3, 1X11_ROUND, microbuilder, (0.6, 0.1), R180|
 |RESE-UNMATCHED-X-O103-01, R1, 20.193, 6.858, 180,R1, 10K, RESPACK_4X0603, microbuilder, (0.795, 0.27), R180|
@@ -56,7 +56,7 @@ Contents
 - oompName: Adafruit DVI Breakout Board PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DVI-Breakout-Board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4984
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 24.764999999999997, 17.779999999999998, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 8.762999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 27.94, 10.16, 90
@@ -83,4 +83,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

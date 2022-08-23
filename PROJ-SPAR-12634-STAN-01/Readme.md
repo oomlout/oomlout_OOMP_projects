@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12634-STAN-01>Simon Tilts](#proj-spar-12634-stan-01simon-tilts)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12634-STAN-01>Simon Tilts
 
 - ID: PROJ-SPAR-12634-STAN-01
 - Hex ID: PRS12634
 - Name: Simon Tilts
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -28,8 +38,8 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 11.43, 34.29, 270,BAT1, AA, BATTERY-AA-KIT, SparkFun-Electromechanical, (0.45, 1.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 64.77, 34.29, 90,BAT2, AA, BATTERY-AA-KIT, SparkFun-Electromechanical, (2.55, 1.35), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C1, 60.959999999999994, 64.77, 180,C1, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.4, 2.55), R180|
-|CAPC-UNMATCHED-X-NF100-V50, C2, 22.86, 41.91, 180,C2, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (0.9, 1.65), R180|
+|CAPE-UNMATCHED-X-NF100-01, C1, 60.959999999999994, 64.77, 180,C1, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.4, 2.55), R180|
+|CAPE-UNMATCHED-X-NF100-01, C2, 22.86, 41.91, 180,C2, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (0.9, 1.65), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 57.15, M270,JP1, Serial, 1X06-NOSILK, unclepetes, (0.05, 2.25), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 52.06999999999999, 39.37, M90,JP3, 2X3-NS, SparkFun, (2.05, 1.55), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 74.93, 60.959999999999994, M270,JP4, M09, 1X09, SparkFun-Connectors, (2.95, 2.4), MR270|
@@ -73,8 +83,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12634
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 11.43, 34.29, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 64.77, 34.29, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 60.959999999999994, 64.77, 180
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 22.86, 41.91, 180
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C1, 60.959999999999994, 64.77, 180
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C2, 22.86, 41.91, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 57.15, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 52.06999999999999, 39.37, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 74.93, 60.959999999999994, M270
@@ -145,3 +155,7 @@ Contents
 - rawPart: U$5, TILT_SENSORV5, TILT_SENSOR_V5, Testing, (1.05, 0.5), R315
 - rawPart: U$6, TILT_SENSORV5, TILT_SENSOR_V5, Testing, (1.95, 1), R135
 - rawPart: U$7, AVR-MEGA8-P-KEYED-14, DIL28-3_KEYED-14, Testing, (1.5, 2.025), R0
+
+
+
+[im]: kicadPcb3d_450.png

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90,C3, 10nF, 0603-CAP, SparkFun, (0.555, 0.165), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C5, 7.619999999999999, 10.16, 0,C5, 2.2nF, 0603-CAP, SparkFun, (0.3, 0.4), R0|
+|CAPE-0603-X-NF100-01, C1, 1.27, 9.270999999999999, 90,C1, 0.1uF, 0603-CAP, SparkFun, (0.05, 0.365), R90|
+|CAPE-0603-X-NF100-01, C2, 11.43, 10.16, 0,C2, 0.1uF, 0603-CAP, SparkFun, (0.45, 0.4), R0|
+|CAPE-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90,C3, 10nF, 0603-CAP, SparkFun, (0.555, 0.165), R90|
+|CAPE-0603-X-NF100-01, C4, 14.097000000000001, 9.652, 90,C4, 0.1uF, 0603-CAP, SparkFun, (0.555, 0.38), R90|
+|CAPE-0603-X-NF22D-01, C5, 7.619999999999999, 10.16, 0,C5, 2.2nF, 0603-CAP, SparkFun, (0.3, 0.4), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, M180,JP1, 1X06, SparkFun, (0.05, 0.05), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.16, 15.239999999999998, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.6), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 5.08, 2.921, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.115), R0|
@@ -60,11 +60,11 @@ Contents
 - oompName: IMU Digital Combo Board
 - sources: All source files from https://github.com/sparkfun/IMU_Digital_Combo_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10121
-- oompPart: CAPC-0603-X-NF100-V50, C1, 1.27, 9.270999999999999, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 11.43, 10.16, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90
-- oompPart: CAPC-0603-X-NF100-V50, C4, 14.097000000000001, 9.652, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 7.619999999999999, 10.16, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 1.27, 9.270999999999999, 90
+- oompPart: CAPE-0603-X-NF100-01, C2, 11.43, 10.16, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90
+- oompPart: CAPE-0603-X-NF100-01, C4, 14.097000000000001, 9.652, 90
+- oompPart: CAPE-0603-X-NF22D-01, C5, 7.619999999999999, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.16, 15.239999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 5.08, 2.921, 0
@@ -87,4 +87,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

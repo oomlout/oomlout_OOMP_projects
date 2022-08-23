@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-UNMATCHED-X-NF100-V50, C4, 6.223, 10.668, 90,C4, 0.1uF, 0805_10MGAP, microbuilder, (0.245, 0.42), R90|
+|CAPE-0805-X-NF100-01, C1, 8.889999999999999, 12.7, 0,C1, 0.1uF, 0805-NO, microbuilder, (0.35, 0.5), R0|
+|CAPE-0805-X-UNMATCHED-01, C2, 3.556, 4.571999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.14, 0.18), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 3.302, 11.937999999999999, 0,C3, 10uF, 0805-NO, microbuilder, (0.13, 0.47), R0|
+|CAPE-UNMATCHED-X-NF100-01, C4, 6.223, 10.668, 90,C4, 0.1uF, 0805_10MGAP, microbuilder, (0.245, 0.42), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180,JP1, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.748, 10.921999999999999, 270,Q1, BSS138, SOT23-WIDE, microbuilder, (0.62, 0.43), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.748, 7.112, 270,Q2, BSS138, SOT23-WIDE, microbuilder, (0.62, 0.28), R270|
@@ -62,10 +62,10 @@ Contents
 - oompName: Adafruit MMA8451 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MMA8451-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2019
-- oompPart: CAPC-0805-X-NF100-V50, C1, 8.889999999999999, 12.7, 0
-- oompPart: CAPC-0805-X-UF10-V25, C2, 3.556, 4.571999999999999, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 3.302, 11.937999999999999, 0
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C4, 6.223, 10.668, 90
+- oompPart: CAPE-0805-X-NF100-01, C1, 8.889999999999999, 12.7, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.556, 4.571999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 3.302, 11.937999999999999, 0
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C4, 6.223, 10.668, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 10.16, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 10.795, 5.588, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180

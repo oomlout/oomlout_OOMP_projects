@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15334-STAN-01>SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015](#proj-spar-15334-stan-01sparkfun-qwiic-12-bit-adc---4-channel-ads1015)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15334-STAN-01>SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015
 
 - ID: PROJ-SPAR-15334-STAN-01
 - Hex ID: PRS15334
 - Name: SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 9.652, 12.065, 0,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.38, 0.475), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 22.9616, 7.0358, 0,D1, RED, LED-0603, SparkFun-LED, (0.904, 0.277), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 24.637999999999998, 0.7619999999999999, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.97, 0.03), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.637999999999998, 0.7619999999999999, M0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.97, 0.03), MR0|
@@ -58,7 +68,7 @@ Contents
 - oompName: SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15334
-- oompPart: CAPC-0603-X-NF100-V50, C1, 9.652, 12.065, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 9.652, 12.065, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.9616, 7.0358, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 24.637999999999998, 0.7619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.637999999999998, 0.7619999999999999, M0
@@ -98,3 +108,7 @@ Contents
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.904, 0.334), R0
 - rawPart: U1, ADS1015, MSOP10, SparkFun-IC-Conversion, (0.38, 0.375), R270
 - rawPart: VR1, 10k, TRIMPOT-SMD-3MM-CLOSED, SparkFun-Resistors, (0.615, 0.41), R0
+
+
+
+[im]: kicadPcb3d_450.png

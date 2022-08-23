@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0,C3, 4.7uF, 0402-CAP, SparkFun, (0.4, 0.35), R0|
-|CAPC-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180,C4, 4.7uF, 0402-CAP, SparkFun, (0.5, 0.35), R180|
+|CAPE-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0,C3, 4.7uF, 0402-CAP, SparkFun, (0.4, 0.35), R0|
+|CAPE-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180,C4, 4.7uF, 0402-CAP, SparkFun, (0.5, 0.35), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D11, 12.7, 11.43, 270,D11, RED, LED-0603, SparkFun, (0.5, 0.45), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 4.826, 1.27, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.19, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 30.987999999999996, 11.684, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.22, 0.46), R0|
@@ -59,8 +59,8 @@ Contents
 - oompName: Lipo Charger Basic-miniUSB
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-miniUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10401
-- oompPart: CAPC-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180
+- oompPart: CAPE-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D11, 12.7, 11.43, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 4.826, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 30.987999999999996, 11.684, 0
@@ -84,4 +84,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

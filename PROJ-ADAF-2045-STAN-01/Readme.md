@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 12.7, 11.937999999999999, 90,C1, 0.47uF, 0805-NO, microbuilder, (0.5, 0.47), R90|
-|CAPC-0805-X-UNMATCHED-01, C2, 19.558, 13.716, 180,C2, 0.47uF, 0805-NO, microbuilder, (0.77, 0.54), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90,C1, 0.47uF, 0805-NO, microbuilder, (0.5, 0.47), R90|
+|CAPE-0805-X-NF470-01, C2, 19.558, 13.716, 180,C2, 0.47uF, 0805-NO, microbuilder, (0.77, 0.54), R180|
+|CAPE-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180,C3, 10uF, 0805-NO, microbuilder, (1.09, 0.48), R180|
+|CAPE-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0,C5, 10uF, 0805-NO, microbuilder, (1.08, 0.26), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 2.54, 180,JP1, 1X07_ROUND_76, microbuilder, (0.6, 0.1), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 23.622, 11.176, 180,Q1, BSS138, SOT23-WIDE, microbuilder, (0.93, 0.44), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 19.558, 8.889999999999999, 180,Q2, BSS138, SOT23-WIDE, microbuilder, (0.77, 0.35), R180|
@@ -65,10 +65,10 @@ Contents
 - oompName: Adafruit Si5351A Clock Generator Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2045
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 12.7, 11.937999999999999, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 19.558, 13.716, 180
-- oompPart: CAPC-0805-X-UF10-V25, C3, 27.686, 12.191999999999998, 180
-- oompPart: CAPC-0805-X-UF10-V25, C5, 27.432, 6.604, 0
+- oompPart: CAPE-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90
+- oompPart: CAPE-0805-X-NF470-01, C2, 19.558, 13.716, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 28.955999999999996, 14.477999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.588, 1.27, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 2.54, 180

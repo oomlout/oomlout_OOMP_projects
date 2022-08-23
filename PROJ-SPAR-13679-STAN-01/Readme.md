@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13679-STAN-01>Current Sensor Breakout-ACS723](#proj-spar-13679-stan-01current-sensor-breakout-acs723)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13679-STAN-01>Current Sensor Breakout-ACS723
 
 - ID: PROJ-SPAR-13679-STAN-01
 - Hex ID: PRS13679
 - Name: Current Sensor Breakout-ACS723
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, 14.858999999999998, 4.191, 180,C2, 1nF, 0603, SparkFun-Capacitors, (0.585, 0.165), R180|
+|CAPE-0603-X-NF100-01, C1, 14.858999999999998, 11.049, 180,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.585, 0.435), R180|
+|CAPE-0603-X-UNMATCHED-01, C2, 14.858999999999998, 4.191, 180,C2, 1nF, 0603, SparkFun-Capacitors, (0.585, 0.165), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.889, 0.889, 0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.035, 0.035), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 22.86, 13.97, M0,FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.55), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 22.86, 13.97, 0,FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.55), R0|
@@ -51,8 +61,8 @@ Contents
 - oompName: Current Sensor Breakout-ACS723
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13679
-- oompPart: CAPC-0603-X-NF100-V50, C1, 14.858999999999998, 11.049, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 14.858999999999998, 4.191, 180
+- oompPart: CAPE-0603-X-NF100-01, C1, 14.858999999999998, 11.049, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 14.858999999999998, 4.191, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.889, 0.889, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 22.86, 13.97, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 22.86, 13.97, 0
@@ -77,3 +87,7 @@ Contents
 - rawPart: JP1, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.6205, 0.3), MR180
 - rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.585, 0.495), R0
 - rawPart: U1, ACS723, SO08, SparkFun-Sensors, (0.5, 0.3), R270
+
+
+
+[im]: kicadPcb3d_450.png

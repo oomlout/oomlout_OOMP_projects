@@ -58,23 +58,23 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C2, 32.766, 8.509, 180"
+            "value": "CAPE-0805-X-NF100-01, C2, 32.766, 8.509, 180"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C4 47uF/16v PANASONIC_C, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 21.717, 7.874, 0"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C5 47uF+/16v PANASONIC_C, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 21.336, 14.604999999999999, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C6, 17.272000000000002, 8.509, 270"
+            "value": "CAPE-0805-X-UNMATCHED-01, C6, 17.272000000000002, 8.509, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C10, 32.766, 6.604, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C10, 32.766, 6.604, 180"
         },
         {
             "name": "oompPart",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-O102-01, R4, 9.524999999999999, 14.731999999999998, 0"
+            "value": "RESE-0805-X-UNMATCHED-01, R4, 9.524999999999999, 14.731999999999998, 0"
         },
         {
             "name": "oompPart",

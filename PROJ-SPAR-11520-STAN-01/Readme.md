@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11520-STAN-01>Fio v3](#proj-spar-11520-stan-01fio-v3)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11520-STAN-01>Fio v3
 
 - ID: PROJ-SPAR-11520-STAN-01
 - Hex ID: PRS11520
 - Name: Fio v3
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 13.97, 50.8, 90,C1, 10uF, EIA3216, SparkFun, (0.55, 2), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPE-0603-X-PF22-01, C5, 10.16, 29.209999999999997, 180,C5, 22pF, 0603-CAP, SparkFun-Capacitors, (0.4, 1.15), R180|
-|CAPE-0603-X-PF22-01, C7, 15.239999999999998, 29.209999999999997, 0,C7, 22pF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.15), R0|
-|CAPC-0603-X-UNMATCHED-01, C8, 15.239999999999998, 26.034999999999997, 315,C8, 1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.025), R315|
-|CAPC-0603-X-UNMATCHED-01, C9, 5.08, 50.8, 270,C9, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.2, 2), R270|
-|CAPC-0603-X-UNMATCHED-01, C11, 18.034, 23.241, 135,C11, 1uF, 0603-CAP, SparkFun-Capacitors, (0.71, 0.915), R135|
-|CAPC-0603-X-UNMATCHED-01, C12, 16.509999999999998, 44.449999999999996, 270,C12, 1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 1.75), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C13, 13.97, 44.449999999999996, 90,C13, 10uF, EIA3216, SparkFun, (0.55, 1.75), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C14</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 13.97, 50.8, 90,C1, 10uF, EIA3216, SparkFun, (0.55, 2), R90|
+|CAPE-0603-X-NF100-01, C4, 18.145000032, 18.145000032, 225,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.71437008, 0.71437008), R225|
+|CAPE-0603-X-UNMATCHED-01, C5, 10.16, 29.209999999999997, 180,C5, 22pF, 0603-CAP, SparkFun-Capacitors, (0.4, 1.15), R180|
+|CAPE-0603-X-UNMATCHED-01, C7, 15.239999999999998, 29.209999999999997, 0,C7, 22pF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.15), R0|
+|CAPE-0603-X-UNMATCHED-01, C8, 15.239999999999998, 26.034999999999997, 315,C8, 1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.025), R315|
+|CAPE-0603-X-UNMATCHED-01, C9, 5.08, 50.8, 270,C9, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.2, 2), R270|
+|CAPE-0603-X-UNMATCHED-01, C11, 18.034, 23.241, 135,C11, 1uF, 0603-CAP, SparkFun-Capacitors, (0.71, 0.915), R135|
+|CAPE-0603-X-UNMATCHED-01, C12, 16.509999999999998, 44.449999999999996, 270,C12, 1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 1.75), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C13, 13.97, 44.449999999999996, 90,C13, 10uF, EIA3216, SparkFun, (0.55, 1.75), R90|
+|CAPE-0603-X-NF100-01, C14, 17.779999999999998, 44.449999999999996, 90,C14, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.7, 1.75), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 49.529999999999994, 180,D1, Yellow, LED-0603, SparkFun, (0.85, 1.95), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 36.83, 90,D2, Green, LED-0603, SparkFun, (0.1, 1.45), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 39.37, 90,D3, Red, LED-0603, SparkFun, (0.1, 1.55), R90|
@@ -95,16 +105,16 @@ Contents
 - oompName: Fio v3
 - sources: All source files from https://github.com/sparkfun/Fio_v3 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11520
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 13.97, 50.8, 90
-- oompPart: CAPC-0603-X-NF100-V50, C4, 18.145000032, 18.145000032, 225
-- oompPart: CAPE-0603-X-PF22-01, C5, 10.16, 29.209999999999997, 180
-- oompPart: CAPE-0603-X-PF22-01, C7, 15.239999999999998, 29.209999999999997, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C8, 15.239999999999998, 26.034999999999997, 315
-- oompPart: CAPC-0603-X-UNMATCHED-01, C9, 5.08, 50.8, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C11, 18.034, 23.241, 135
-- oompPart: CAPC-0603-X-UNMATCHED-01, C12, 16.509999999999998, 44.449999999999996, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C13, 13.97, 44.449999999999996, 90
-- oompPart: CAPC-0603-X-NF100-V50, C14, 17.779999999999998, 44.449999999999996, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 13.97, 50.8, 90
+- oompPart: CAPE-0603-X-NF100-01, C4, 18.145000032, 18.145000032, 225
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 10.16, 29.209999999999997, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C7, 15.239999999999998, 29.209999999999997, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C8, 15.239999999999998, 26.034999999999997, 315
+- oompPart: CAPE-0603-X-UNMATCHED-01, C9, 5.08, 50.8, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C11, 18.034, 23.241, 135
+- oompPart: CAPE-0603-X-UNMATCHED-01, C12, 16.509999999999998, 44.449999999999996, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C13, 13.97, 44.449999999999996, 90
+- oompPart: CAPE-0603-X-NF100-01, C14, 17.779999999999998, 44.449999999999996, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 49.529999999999994, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 36.83, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 39.37, 90
@@ -209,3 +219,7 @@ Contents
 - rawPart: U6, MIC5219-3.3, SOT23-5, SparkFun, (0.4, 1.75), R270
 - rawPart: X2, USB_MICROB_PLUGCONN-11752, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.3, 2.5), R270
 - rawPart: Y2, 8MHz, CRYSTAL-SMD-5X3, SparkFun, (0.5, 1.25), R180
+
+
+
+[im]: kicadPcb3d_450.png

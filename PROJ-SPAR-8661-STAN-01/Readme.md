@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8661-STAN-01>Polar Heart Rate Monitor Interface](#proj-spar-8661-stan-01polar-heart-rate-monitor-interface)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8661-STAN-01>Polar Heart Rate Monitor Interface
 
 - ID: PROJ-SPAR-8661-STAN-01
 - Hex ID: PRS8661
 - Name: Polar Heart Rate Monitor Interface
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,13 +36,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UNMATCHED-01, C1, 17.018, 20.955, 270,C1, 9pF, 0402-CAP, SparkFun, (0.67, 0.825), R270|
-|CAPC-0402-X-UNMATCHED-01, C2, 13.462, 20.955, 270,C2, 9pF, 0402-CAP, SparkFun, (0.53, 0.825), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C7, 20.32, 25.4, 90,C7, 10uF, EIA3216, SparkFun, (0.8, 1), R90|
-|CAPC-0402-X-NF100-V50, C8, 44.449999999999996, 40.64, 0,C8, 0.1uF, 0402-CAP, SparkFun, (1.75, 1.6), R0|
-|CAPC-0402-X-NF100-V50, C9, 22.86, 27.94, 270,C9, 0.1uF, 0402-CAP, SparkFun, (0.9, 1.1), R270|
-|CAPC-0402-X-NF100-V50, C11, 10.795, 37.083999999999996, 270,C11, 0.1uF, 0402-CAP, SparkFun, (0.425, 1.46), R270|
-|CAPC-0402-X-NF100-V50, C14, 10.795, 34.671, 270,C14, 0.1uF, 0402-CAP, SparkFun, (0.425, 1.365), R270|
+|CAPE-0402-X-UNMATCHED-01, C1, 17.018, 20.955, 270,C1, 9pF, 0402-CAP, SparkFun, (0.67, 0.825), R270|
+|CAPE-0402-X-UNMATCHED-01, C2, 13.462, 20.955, 270,C2, 9pF, 0402-CAP, SparkFun, (0.53, 0.825), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C7, 20.32, 25.4, 90,C7, 10uF, EIA3216, SparkFun, (0.8, 1), R90|
+|CAPE-0402-X-NF100-01, C8, 44.449999999999996, 40.64, 0,C8, 0.1uF, 0402-CAP, SparkFun, (1.75, 1.6), R0|
+|CAPE-0402-X-NF100-01, C9, 22.86, 27.94, 270,C9, 0.1uF, 0402-CAP, SparkFun, (0.9, 1.1), R270|
+|CAPE-0402-X-NF100-01, C11, 10.795, 37.083999999999996, 270,C11, 0.1uF, 0402-CAP, SparkFun, (0.425, 1.46), R270|
+|CAPE-0402-X-NF100-01, C14, 10.795, 34.671, 270,C14, 0.1uF, 0402-CAP, SparkFun, (0.425, 1.365), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 7.619999999999999, 43.18, 0,F1, 500mA-PTC, PTC-1206, SparkFun, (0.3, 1.7), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 26.669999999999998, 270,JP2, 1X04, SparkFun, (0.1, 1.05), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 16.509999999999998, 0,JP3, M09, 1X09, SparkFun, (1.05, 0.65), R0|
@@ -41,9 +51,9 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, LED3, 15.239999999999998, 43.18, 270,LED3, Green, LED-0603, SparkFun, (0.6, 1.7), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.002, 18.796, 90,Q1, 32kHz, CRYSTAL-32KHZ-SMD_EPSON_MC146, SparkFun, (0.63, 0.74), R90|
 |RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 41.91, 180,R1, 750, 0402-RES, SparkFun, (0.75, 1.65), R180|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R2, 24.13, 20.32, 90,R2, 1K, 0402-RES, SparkFun, (0.95, 0.8), R90|
 |RESE-0402-X-UNMATCHED-01, R3, 15.239999999999998, 41.91, 180,R3, 750, 0402-RES, SparkFun, (0.6, 1.65), R180|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R4, 19.049999999999997, 20.32, 90,R4, 1K, 0402-RES, SparkFun, (0.75, 0.8), R90|
 |RESE-0402-X-UNMATCHED-01, R5, 2.54, 13.97, 270,R5, 750, 0402-RES, SparkFun, (0.1, 0.55), R270|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
@@ -74,13 +84,13 @@ Contents
 - oompName: Polar Heart Rate Monitor Interface
 - sources: All source files from https://github.com/sparkfun/Polar_Heart_Rate_Monitor_Interface (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8661
-- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 17.018, 20.955, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C2, 13.462, 20.955, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C7, 20.32, 25.4, 90
-- oompPart: CAPC-0402-X-NF100-V50, C8, 44.449999999999996, 40.64, 0
-- oompPart: CAPC-0402-X-NF100-V50, C9, 22.86, 27.94, 270
-- oompPart: CAPC-0402-X-NF100-V50, C11, 10.795, 37.083999999999996, 270
-- oompPart: CAPC-0402-X-NF100-V50, C14, 10.795, 34.671, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 17.018, 20.955, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C2, 13.462, 20.955, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C7, 20.32, 25.4, 90
+- oompPart: CAPE-0402-X-NF100-01, C8, 44.449999999999996, 40.64, 0
+- oompPart: CAPE-0402-X-NF100-01, C9, 22.86, 27.94, 270
+- oompPart: CAPE-0402-X-NF100-01, C11, 10.795, 37.083999999999996, 270
+- oompPart: CAPE-0402-X-NF100-01, C14, 10.795, 34.671, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 7.619999999999999, 43.18, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 26.669999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 16.509999999999998, 0
@@ -89,9 +99,9 @@ Contents
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED3, 15.239999999999998, 43.18, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.002, 18.796, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 41.91, 180
-- oompPart: RESE-0402-X-O102-01, R2, 24.13, 20.32, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R2, 24.13, 20.32, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, 15.239999999999998, 41.91, 180
-- oompPart: RESE-0402-X-O102-01, R4, 19.049999999999997, 20.32, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R4, 19.049999999999997, 20.32, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R5, 2.54, 13.97, 270
 - oompPart: RESE-0402-X-O103-01, R6, 31.75, 25.4, 90
 - oompPart: RESE-0402-X-O103-01, R7, 44.449999999999996, 43.18, 0
@@ -150,3 +160,7 @@ Contents
 - rawPart: U3, FT232RL-BASICSSOP, SSOP28DB, SparkFun, (0.7, 1.4), R90
 - rawPart: U10, PIC-ICSPPTH, MOLEX-1X6, SparkFun, (1.05, 1.45), R270
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 1.4), R0
+
+
+
+[im]: kicadPcb3d_450.png

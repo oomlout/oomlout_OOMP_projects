@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13339-STAN-01>LSM6DS3 Breakout](#proj-spar-13339-stan-01lsm6ds3-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13339-STAN-01>LSM6DS3 Breakout
 
 - ID: PROJ-SPAR-13339-STAN-01
 - Hex ID: PRS13339
 - Name: LSM6DS3 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C3, 7.619999999999999, 13.652499999999998, 0,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5375), R0|
+|CAPE-0603-X-NF100-01, C4, 11.43, 15.239999999999998, 180,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.6), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180,JP1, IO, 1X06_NO_SILK_YES_STOP, SparkFun-Connectors, (0.75, 0.05), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.889999999999999, 3.8099999999999996, 0,JP2, 3.3V, 1X01_NO_SILK, SparkFun-Connectors, (0.35, 0.15), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 6.35, 21.59, 0,JP3, IO, 1X05, SparkFun-Connectors, (0.25, 0.85), R0|
@@ -53,8 +63,8 @@ Contents
 - oompName: LSM6DS3 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM6DS3_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13339
-- oompPart: CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 13.652499999999998, 0
-- oompPart: CAPC-0603-X-NF100-V50, C4, 11.43, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C3, 7.619999999999999, 13.652499999999998, 0
+- oompPart: CAPE-0603-X-NF100-01, C4, 11.43, 15.239999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.0318749999999999, 21.748749999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.59, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180
@@ -87,3 +97,7 @@ Contents
 - rawPart: SJ3, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.65, 0.75), MR180
 - rawPart: SJ4, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.55, 0.75), MR0
 - rawPart: U2, LSM6DS3, LGA14L_DOT_INDICATOR, LSM6DS3, (0.45, 0.45), R180
+
+
+
+[im]: kicadPcb3d_450.png

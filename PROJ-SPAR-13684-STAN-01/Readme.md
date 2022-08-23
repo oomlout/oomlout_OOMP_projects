@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13684-STAN-01>MyoWare Power Shield](#proj-spar-13684-stan-01myoware-power-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13684-STAN-01>MyoWare Power Shield
 
 - ID: PROJ-SPAR-13684-STAN-01
 - Hex ID: PRS13684
 - Name: MyoWare Power Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -54,3 +64,7 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.3), R0
 - rawPart: JP1, RAW, 1X03_NO_SILK, SparkFun-Connectors, (-0.9675, 0.1), R270
 - rawPart: JP2, PROCESSED, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
+
+
+
+[im]: kicadPcb3d_450.png

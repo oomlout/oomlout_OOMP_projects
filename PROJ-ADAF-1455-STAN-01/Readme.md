@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ERROR, C1 10uF/16V 0805, 0, 0, 0,C1, 10uF/16V, 0805, microbuilder, (0.8, 0.61), R180|
-|ERROR, C2 1uF/50V 0805, 0, 0, 0,C2, 1uF/50V, 0805, microbuilder, (0.8, 0.29), R180|
-|ERROR, C4 220uF+ E2,5-7, 0, 0, 0,C4, 220uF+, E2,5-7, adafruit, (0.8, 0.45), R180|
+|UNMATCHED-0805-X-UNMATCHED-01, C1, 20.32, 15.493999999999998, 180,C1, 10uF/16V, 0805, microbuilder, (0.8, 0.61), R180|
+|UNMATCHED-0805-X-UNMATCHED-01, C2, 20.32, 7.365999999999999, 180,C2, 1uF/50V, 0805, microbuilder, (0.8, 0.29), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 20.32, 11.43, 180,C4, 220uF+, E2,5-7, adafruit, (0.8, 0.45), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 13.843, 11.43, 0,IC1, TLC59711, HTSSOP20DAP, adafruit, (0.545, 0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 26.669999999999998, 11.43, 90,JP1, OUTPUT, 1X05_ROUND_70, microbuilder, (1.05, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 8.889999999999999, 2.54, 0,JP2, 2X03_ROUND_70MIL, microbuilder, (0.35, 0.1), R0|
@@ -61,9 +61,9 @@ Contents
 - oompName: Adafruit TLC59711 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TLC59711-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1455
-- oompPart: ERROR, C1 10uF/16V 0805, 0, 0, 0
-- oompPart: ERROR, C2 1uF/50V 0805, 0, 0, 0
-- oompPart: ERROR, C4 220uF+ E2,5-7, 0, 0, 0
+- oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 20.32, 15.493999999999998, 180
+- oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 20.32, 7.365999999999999, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 20.32, 11.43, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 13.97, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 20.32, 9.779, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 13.97, 20.32, 0

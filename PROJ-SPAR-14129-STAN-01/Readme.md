@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14129-STAN-01>Ardumoto-Motor Driver Shield](#proj-spar-14129-stan-01ardumoto-motor-driver-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14129-STAN-01>Ardumoto-Motor Driver Shield
 
 - ID: PROJ-SPAR-14129-STAN-01
 - Hex ID: PRS14129
 - Name: Ardumoto-Motor Driver Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 32.385, 10.668, 180,C1, 0.1uF, 0603, SparkFun-Capacitors, (1.275, 0.42), R180|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 9.143999999999998, 90,C3, 100uF, PANASONIC_D, SparkFun-Capacitors, (0.6, 0.36), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C8, 27.178, 40.132, 90,C8, 0.1uF, 0603, SparkFun-Capacitors, (1.07, 1.58), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 12.7, 16.509999999999998, 270,D1, 1A/40V/500mV, SMA-DIODE, SparkFun-DiscreteSemi, (0.5, 0.65), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 16.509999999999998, 90,D2, 1A/40V/500mV, SMA-DIODE, SparkFun-DiscreteSemi, (0.35, 0.65), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 16.509999999999998, 16.509999999999998, 270,D3, 1A/40V/500mV, SMA-DIODE, SparkFun-DiscreteSemi, (0.65, 0.65), R270|
@@ -97,9 +107,9 @@ Contents
 - oompName: Ardumoto-Motor Driver Shield
 - sources: All source files from https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14129
-- oompPart: CAPC-0603-X-NF100-V50, C1, 32.385, 10.668, 180
+- oompPart: CAPE-0603-X-NF100-01, C1, 32.385, 10.668, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 9.143999999999998, 90
-- oompPart: CAPC-0603-X-NF100-V50, C8, 27.178, 40.132, 90
+- oompPart: CAPE-0603-X-NF100-01, C8, 27.178, 40.132, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 12.7, 16.509999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 16.509999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 16.509999999999998, 16.509999999999998, 270
@@ -215,3 +225,7 @@ Contents
 - rawPart: U2, L298, POWERSO20_L298_PAD, SparkFun-IC-Special-Function, (1.15, 1.05), R90
 - rawPart: U5, 74HC1G04, SOT353, SparkFun-IC-Logic, (1.275, 0.5), R270
 - rawPart: U6, 74HC1G04, SOT353, SparkFun-IC-Logic, (1.15, 1.58), R180
+
+
+
+[im]: kicadPcb3d_450.png

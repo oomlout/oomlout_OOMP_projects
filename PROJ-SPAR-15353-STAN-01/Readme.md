@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15353-STAN-01>SparkFun TPL5110 Nano Power Timer](#proj-spar-15353-stan-01sparkfun-tpl5110-nano-power-timer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15353-STAN-01>SparkFun TPL5110 Nano Power Timer
 
 - ID: PROJ-SPAR-15353-STAN-01
 - Hex ID: PRS15353
 - Name: SparkFun TPL5110 Nano Power Timer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +46,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.858, 22.605999999999998, M180,JP2, LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.27, 0.89), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 21.59, 3.3274, 180,Q1, 1.1A/60V/600m?, SOT23-3, SparkFun-DiscreteSemi, (0.85, 0.131), R180|
 |RESE-0603-X-UNMATCHED-01, R1, 19.2786, 23.368, 90,R1, 16.2k, 0603, SparkFun-Resistors, (0.759, 0.92), R90|
-|RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 23.368, 90,R2, 22k, 0603, SparkFun-Resistors, (0.7, 0.92), R90|
+|<table><tr><td>![RESE-0603-X-O223-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O223-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O223-01<br>SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td><td>[R6223](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R3, 16.256, 23.368, 90,R3, 93.1k, 0603, SparkFun-Resistors, (0.64, 0.92), R90|
 |RESE-0603-X-UNMATCHED-01, R4, 14.731999999999998, 23.368, 90,R4, 124k, 0603, SparkFun-Resistors, (0.58, 0.92), R90|
 |RESE-0603-X-UNMATCHED-01, R5, 13.208, 23.368, 90,R5, 169K, 0603, SparkFun-Resistors, (0.52, 0.92), R90|
@@ -68,7 +78,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.858, 22.605999999999998, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 21.59, 3.3274, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 19.2786, 23.368, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 23.368, 90
+- oompPart: RESE-0603-X-O223-01, R2, 17.779999999999998, 23.368, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 16.256, 23.368, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 14.731999999999998, 23.368, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 13.208, 23.368, 90
@@ -98,3 +108,7 @@ Contents
 - rawPart: S1, MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.829, 0.318), R0
 - rawPart: SW1, DIP-06, DIPSWITCH-06-SMD, SparkFun-Switches, (0.29, 0.5), R270
 - rawPart: U1, TPL5110, SOT23-6, SparkFun-IC-Power, (0.595, 0.278), R0
+
+
+
+[im]: kicadPcb3d_450.png

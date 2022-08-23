@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9760-STAN-01>Joystick Shield Kit](#proj-spar-9760-stan-01joystick-shield-kit)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9760-STAN-01>Joystick Shield Kit
 
 - ID: PROJ-SPAR-9760-STAN-01
 - Hex ID: PRS9760
 - Name: Joystick Shield Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -59,3 +69,7 @@ Contents
 - rawPart: S6, Reset, TACTILE-PTH, SparkFun, (1.95, 0.75), R0
 - rawPart: U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD, SparkFun, (0.05, 0), R0
 - rawPart: U2, JOYSTICK, JOYSTICK, SparkFun, (1.1, 0.55), R0
+
+
+
+[im]: kicadPcb3d_450.png

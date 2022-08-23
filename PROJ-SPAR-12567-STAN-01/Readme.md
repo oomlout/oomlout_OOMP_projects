@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12567-STAN-01>RedBot Buzzer](#proj-spar-12567-stan-01redbot-buzzer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12567-STAN-01>RedBot Buzzer
 
 - ID: PROJ-SPAR-12567-STAN-01
 - Hex ID: PRS12567
 - Name: RedBot Buzzer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -44,3 +54,7 @@ Contents
 - oompPart: ERROR, JP1 1x3 RA, 0, 0, 0
 - rawPart: B1, Buzzer, BUZZER-CCV, SparkFun, (0.25, 0.6), R180
 - rawPart: JP1, 1x3, RA, Female, .1, 1X03_SMD_RA_FEMALE, SparkFun-Connectors, (0.175, 0.025), R0
+
+
+
+[im]: kicadPcb3d_450.png

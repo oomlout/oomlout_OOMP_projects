@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C9, 21.462999999999997, 7.238999999999999, 270,C9, 1uF, 0603-NO, microbuilder, (0.845, 0.285), R270|
-|CAPC-0603-X-UNMATCHED-01, C13, 23.749, 6.476999999999999, 180,C13, 1uF, 0603-NO, microbuilder, (0.935, 0.255), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C15</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C9, 21.462999999999997, 7.238999999999999, 270,C9, 1uF, 0603-NO, microbuilder, (0.845, 0.285), R270|
+|CAPE-0603-X-UNMATCHED-01, C13, 23.749, 6.476999999999999, 180,C13, 1uF, 0603-NO, microbuilder, (0.935, 0.255), R180|
+|CAPE-0805-X-UNMATCHED-01, C15, 5.842, 3.429, 90,C15, 10uF, 0805-NO, microbuilder, (0.23, 0.135), R90|
 |RESE-0603-X-UNMATCHED-01, R12, 20.574, 9.524999999999999, 180,R12, 100, 0603-NO, microbuilder, (0.81, 0.375), R180|
 |RESE-0603-X-UNMATCHED-01, R13, 22.987, 8.762999999999998, 90,R13, 100, 0603-NO, microbuilder, (0.905, 0.345), R90|
 |ERROR, SENSE JST PH, 0, 0, 0,SENSE, JST, PH, 3, JSTPH3, microbuilder, (0.6, 0.18), R180|
@@ -59,9 +59,9 @@ Contents
 - oompName: Adafruit STEMMA Speaker PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3885
-- oompPart: CAPC-0603-X-UNMATCHED-01, C9, 21.462999999999997, 7.238999999999999, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C13, 23.749, 6.476999999999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C15, 5.842, 3.429, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C9, 21.462999999999997, 7.238999999999999, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C13, 23.749, 6.476999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C15, 5.842, 3.429, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 29.083, 31.241999999999997, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 12.446, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R12, 20.574, 9.524999999999999, 180
@@ -98,4 +98,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

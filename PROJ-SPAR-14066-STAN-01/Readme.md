@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14066-STAN-01>Simultaneous RFID Tag Reader](#proj-spar-14066-stan-01simultaneous-rfid-tag-reader)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14066-STAN-01>Simultaneous RFID Tag Reader
 
 - ID: PROJ-SPAR-14066-STAN-01
 - Hex ID: PRS14066
 - Name: Simultaneous RFID Tag Reader
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,12 +37,12 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 29.209999999999997, 26.669999999999998, 270,B1, ARDUINO_UNO_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (1.15, 1.05), R270|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|ERROR, C3 DNP 0603, 0, 0, 0,C3, DNP, 0603, SparkFun-Capacitors, (2.45, 0.585), R90|
-|ERROR, C4 DNP 0603, 0, 0, 0,C4, DNP, 0603, SparkFun-Capacitors, (2.045, 0.775), R180|
-|CAPC-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90,C7, 0.0, 0603, SparkFun-Capacitors, (2.08, 0.68), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C9</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C12</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C2, 16.509999999999998, 43.18, 90,C2, 10uF, 0805, SparkFun-Capacitors, (0.65, 1.7), R90|
+|UNMATCHED-0603-X-UNMATCHED-01, C3, 62.230000000000004, 14.858999999999998, 90,C3, DNP, 0603, SparkFun-Capacitors, (2.45, 0.585), R90|
+|UNMATCHED-0603-X-UNMATCHED-01, C4, 51.943, 19.685, 180,C4, DNP, 0603, SparkFun-Capacitors, (2.045, 0.775), R180|
+|CAPE-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90,C7, 0.0, 0603, SparkFun-Capacitors, (2.08, 0.68), R90|
+|CAPE-0603-X-NF100-01, C9, 21.59, 43.18, 90,C9, 0.1uF, 0603, SparkFun-Capacitors, (0.85, 1.7), R90|
+|CAPE-0603-X-NF100-01, C12, 19.049999999999997, 43.18, 90,C12, 0.1uF, 0603, SparkFun-Capacitors, (0.75, 1.7), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 16.509999999999998, 8.889999999999999, 90,D1, RED, LED-0603, SparkFun-LED, (0.65, 0.35), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.97, 43.18, 270,D2, B340A, SMA-DIODE, SparkFun-DiscreteSemi, (0.55, 1.7), R270|
 |ERROR, E1 Trace Antenna, 0, 0, 0,E1, Trace, Antenna, 915MHZ_ANTENNA_TRIMBLE, ThingMagic_Module, (2.34, 0.545), R90|
@@ -67,12 +77,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Simultaneous_RFID_Tag_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14066
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 29.209999999999997, 26.669999999999998, 270
-- oompPart: CAPC-0805-X-UF10-V25, C2, 16.509999999999998, 43.18, 90
-- oompPart: ERROR, C3 DNP 0603, 0, 0, 0
-- oompPart: ERROR, C4 DNP 0603, 0, 0, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90
-- oompPart: CAPC-0603-X-NF100-V50, C9, 21.59, 43.18, 90
-- oompPart: CAPC-0603-X-NF100-V50, C12, 19.049999999999997, 43.18, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 16.509999999999998, 43.18, 90
+- oompPart: UNMATCHED-0603-X-UNMATCHED-01, C3, 62.230000000000004, 14.858999999999998, 90
+- oompPart: UNMATCHED-0603-X-UNMATCHED-01, C4, 51.943, 19.685, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90
+- oompPart: CAPE-0603-X-NF100-01, C9, 21.59, 43.18, 90
+- oompPart: CAPE-0603-X-NF100-01, C12, 19.049999999999997, 43.18, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 16.509999999999998, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.97, 43.18, 270
 - oompPart: ERROR, E1 Trace Antenna, 0, 0, 0
@@ -126,3 +136,7 @@ Contents
 - rawPart: U2, TXB0104, SO14, SparkFun-IC-Comms, (1.1, 1.7), R0
 - rawPart: U3, ESD, Diode, SOT-23-6, UHF_RFID_Nano_Module, (1.375, 1.7), R0
 - rawPart: U4, Nano, NANO_MODULE, ThingMagic_Module, (1.15, 1.05), R270
+
+
+
+[im]: kicadPcb3d_450.png

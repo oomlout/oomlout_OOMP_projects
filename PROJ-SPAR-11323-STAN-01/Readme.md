@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11323-STAN-01>EL Sequencer](#proj-spar-11323-stan-01el-sequencer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11323-STAN-01>EL Sequencer
 
 - ID: PROJ-SPAR-11323-STAN-01
 - Hex ID: PRS11323
 - Name: EL Sequencer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,13 +36,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 20.32, 68.58, 270,C1, 0.1uF, 0402-CAP, SparkFun, (0.8, 2.7), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 17.145, 66.35749999999999, 0,C2, 10uF, EIA3216, SparkFun, (0.675, 2.6125), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 3.8099999999999996, 41.91, 0,C3, 10uF, EIA3216, SparkFun, (0.15, 1.65), R0|
-|CAPC-0402-X-NF100-V50, C4, 18.0975, 17.380000038, 0,C4, 0.1uF, 0402-CAP, SparkFun, (0.7125, 0.68425197), R0|
-|CAPC-0402-X-NF100-V50, C5, 15.875, 32.385, 270,C5, 0.1uF, 0402-CAP, SparkFun, (0.625, 1.275), R270|
-|CAPC-0402-X-NF100-V50, C6, 5.715, 17.779999999999998, 270,C6, 0.1uF, 0402-CAP, SparkFun, (0.225, 0.7), R270|
-|CAPC-0402-X-NF100-V50, C7, 5.715, 10.16, 0,C7, 0.1uF, 0402-CAP, SparkFun, (0.225, 0.4), R0|
+|CAPE-0402-X-NF100-01, C1, 20.32, 68.58, 270,C1, 0.1uF, 0402-CAP, SparkFun, (0.8, 2.7), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 17.145, 66.35749999999999, 0,C2, 10uF, EIA3216, SparkFun, (0.675, 2.6125), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 3.8099999999999996, 41.91, 0,C3, 10uF, EIA3216, SparkFun, (0.15, 1.65), R0|
+|CAPE-0402-X-NF100-01, C4, 18.0975, 17.380000038, 0,C4, 0.1uF, 0402-CAP, SparkFun, (0.7125, 0.68425197), R0|
+|CAPE-0402-X-NF100-01, C5, 15.875, 32.385, 270,C5, 0.1uF, 0402-CAP, SparkFun, (0.625, 1.275), R270|
+|CAPE-0402-X-NF100-01, C6, 5.715, 17.779999999999998, 270,C6, 0.1uF, 0402-CAP, SparkFun, (0.225, 0.7), R270|
+|CAPE-0402-X-NF100-01, C7, 5.715, 10.16, 0,C7, 0.1uF, 0402-CAP, SparkFun, (0.225, 0.4), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.8099999999999996, 54.60999999999999, 90,J1, Battery, JST-2-SMD, SparkFun, (0.15, 2.15), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 3.8099999999999996, 63.5, 90,J2, DC-OUTPUT, JST-2-SMD, SparkFun, (0.15, 2.5), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 3.8099999999999996, 72.39, 90,J3, AC-INPUT, JST-2-SMD, SparkFun, (0.15, 2.85), R90|
@@ -63,13 +73,13 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, LED2, 3.4925, 33.019999999999996, 0,LED2, Status, LED-0603, SparkFun, (0.1375, 1.3), R0|
 |RESE-0603-X-UNMATCHED-01, R1, 15.875, 57.785, 270,R1, 390, 0603-RES, SparkFun, (0.625, 2.275), R270|
 |RESE-0603-X-UNMATCHED-01, R2, 18.415, 57.785, 90,R2, 240, 0603-RES, SparkFun, (0.725, 2.275), R90|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R3, 39.37, 3.8099999999999996, 270,R3, 1K, 0402-RES, SparkFun, (1.55, 0.15), R270|
 |RESE-0402-X-UNMATCHED-01, R4, 45.72, 3.8099999999999996, 90,R4, 2K, 0402-RES, SparkFun, (1.8, 0.15), R90|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R5, 19.685, 32.385, 270,R5, 1K, 0402-RES, SparkFun, (0.775, 1.275), R270|
 |RESE-0402-X-UNMATCHED-01, R6, 18.415, 32.385, 90,R6, 2K, 0402-RES, SparkFun, (0.725, 1.275), R90|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R7, 4.762499999999999, 38.099999999999994, 90,R7, 1K, 0402-RES, SparkFun, (0.1875, 1.5), R90|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R9</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R9, 4.762499999999999, 33.019999999999996, 90,R9, 1K, 0402-RES, SparkFun, (0.1875, 1.3), R90|
 |RESE-0402-X-UNMATCHED-01, R10, 20.32, 10.795, 270,R10, 390, 0402-RES, SparkFun, (0.8, 0.425), R270|
 |RESE-0402-X-UNMATCHED-01, R11, 20.32, 18.415, 90,R11, 390, 0402-RES, SparkFun, (0.8, 0.725), R90|
 |RESE-0402-X-UNMATCHED-01, R12, 20.32, 25.4, 90,R12, 390, 0402-RES, SparkFun, (0.8, 1), R90|
@@ -133,13 +143,13 @@ Contents
 - oompName: EL Sequencer
 - sources: All source files from https://github.com/sparkfun/EL_Sequencer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11323
-- oompPart: CAPC-0402-X-NF100-V50, C1, 20.32, 68.58, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 17.145, 66.35749999999999, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 3.8099999999999996, 41.91, 0
-- oompPart: CAPC-0402-X-NF100-V50, C4, 18.0975, 17.380000038, 0
-- oompPart: CAPC-0402-X-NF100-V50, C5, 15.875, 32.385, 270
-- oompPart: CAPC-0402-X-NF100-V50, C6, 5.715, 17.779999999999998, 270
-- oompPart: CAPC-0402-X-NF100-V50, C7, 5.715, 10.16, 0
+- oompPart: CAPE-0402-X-NF100-01, C1, 20.32, 68.58, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 17.145, 66.35749999999999, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 3.8099999999999996, 41.91, 0
+- oompPart: CAPE-0402-X-NF100-01, C4, 18.0975, 17.380000038, 0
+- oompPart: CAPE-0402-X-NF100-01, C5, 15.875, 32.385, 270
+- oompPart: CAPE-0402-X-NF100-01, C6, 5.715, 17.779999999999998, 270
+- oompPart: CAPE-0402-X-NF100-01, C7, 5.715, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.8099999999999996, 54.60999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 3.8099999999999996, 63.5, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 3.8099999999999996, 72.39, 90
@@ -170,13 +180,13 @@ Contents
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED2, 3.4925, 33.019999999999996, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 15.875, 57.785, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 18.415, 57.785, 90
-- oompPart: RESE-0402-X-O102-01, R3, 39.37, 3.8099999999999996, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R3, 39.37, 3.8099999999999996, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, 45.72, 3.8099999999999996, 90
-- oompPart: RESE-0402-X-O102-01, R5, 19.685, 32.385, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R5, 19.685, 32.385, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R6, 18.415, 32.385, 90
-- oompPart: RESE-0402-X-O102-01, R7, 4.762499999999999, 38.099999999999994, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R7, 4.762499999999999, 38.099999999999994, 90
 - oompPart: RESE-0402-X-O103-01, R8, 14.604999999999999, 32.385, 90
-- oompPart: RESE-0402-X-O102-01, R9, 4.762499999999999, 33.019999999999996, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R9, 4.762499999999999, 33.019999999999996, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R10, 20.32, 10.795, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R11, 20.32, 18.415, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R12, 20.32, 25.4, 90
@@ -327,3 +337,7 @@ Contents
 - rawPart: U19, Z0103MN, SOT223, mike-temp, (1.5, 2.5), R90
 - rawPart: U20, Z0103MN, SOT223, mike-temp, (1.5, 2.85), R90
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.7125, 0.80698819), R90
+
+
+
+[im]: kicadPcb3d_450.png

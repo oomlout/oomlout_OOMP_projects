@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12849-STAN-01>RN-52](#proj-spar-12849-stan-01rn-52)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12849-STAN-01>RN-52
 
 - ID: PROJ-SPAR-12849-STAN-01
 - Hex ID: PRS12849
 - Name: RN-52
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -63,3 +73,7 @@ Contents
 - rawPart: R1, 330, 0603-RES, SparkFun-Resistors, (0.5, 0.95), R90
 - rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.9, 0.95), R90
 - rawPart: U1, BLUETOOTH-RN-52, RN-52, SparkFun-RF, (0.7, 1.6), R0
+
+
+
+[im]: kicadPcb3d_450.png

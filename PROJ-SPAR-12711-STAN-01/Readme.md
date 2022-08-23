@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12711-STAN-01>USB LiPolyCharger SingleCell](#proj-spar-12711-stan-01usb-lipolycharger-singlecell)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12711-STAN-01>USB LiPolyCharger SingleCell
 
 - ID: PROJ-SPAR-12711-STAN-01
 - Hex ID: PRS12711
 - Name: USB LiPolyCharger SingleCell
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 17.906999999999996, 26.669999999999998, 270,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.705, 1.05), R270|
-|CAPC-0603-X-UNMATCHED-01, C2, 14.935199999999998, 10.033, 270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.588, 0.395), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 17.906999999999996, 26.669999999999998, 270,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.705, 1.05), R270|
+|CAPE-0603-X-UNMATCHED-01, C2, 14.935199999999998, 10.033, 270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.588, 0.395), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 19.558, 9.779, 180,D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.77, 0.385), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.5072, 15.697199999999999, 180,D2, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.768, 0.618), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 30.479999999999997, 25.4, 180,J1, POWER_JACKSMD, POWER_JACK_SMD, SparkFun-Connectors, (1.2, 1), R180|
@@ -58,8 +68,8 @@ Contents
 - oompName: USB LiPolyCharger SingleCell
 - sources: All source files from https://github.com/sparkfun/USB_LiPolyCharger_SingleCell (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12711
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.906999999999996, 26.669999999999998, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 14.935199999999998, 10.033, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 17.906999999999996, 26.669999999999998, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 14.935199999999998, 10.033, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 19.558, 9.779, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.5072, 15.697199999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 30.479999999999997, 25.4, 180
@@ -98,3 +108,7 @@ Contents
 - rawPart: SJ1, SJ_3, SparkFun, (0.36, 1.435), R0
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.55, 0.75), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun-Connectors, (1.15, 0.45), R180
+
+
+
+[im]: kicadPcb3d_450.png

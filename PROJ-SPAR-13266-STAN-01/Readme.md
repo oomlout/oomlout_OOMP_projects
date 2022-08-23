@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13266-STAN-01>MAX31855K Thermocouple Breakout](#proj-spar-13266-stan-01max31855k-thermocouple-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13266-STAN-01>MAX31855K Thermocouple Breakout
 
 - ID: PROJ-SPAR-13266-STAN-01
 - Hex ID: PRS13266
 - Name: MAX31855K Thermocouple Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.906, 270,C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.39), R270|
+|CAPE-0603-X-NF100-01, C1, 12.7, 13.462, 0,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.53), R0|
+|CAPE-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.906, 270,C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.39), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 16.256, 270,JP1, DNP, 1X06, SparkFun-Connectors, (0.05, 0.64), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 14.477999999999998, 9.906, 90,JP2, PCB_THERMOCOUPLE, PCC-SMP, Testing, (0.57, 0.39), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, L1, 15.239999999999998, 6.604, 270,L1, 470OHM, 0603, SparkFun-Passives, (0.6, 0.26), R270|
@@ -48,8 +58,8 @@ Contents
 - oompName: MAX31855K Thermocouple Breakout
 - sources: All source files from https://github.com/sparkfun/MAX31855K_Thermocouple_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13266
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 13.462, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.906, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.7, 13.462, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.906, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 25.4, 16.764, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 16.256, 270
@@ -72,3 +82,7 @@ Contents
 - rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.64, 0.6), R0
 - rawPart: TP2, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.64, 0.18), R0
 - rawPart: U1, MAX31855K, SOIC8, SparkFun-AnalogIC, (0.39, 0.39), R90
+
+
+
+[im]: kicadPcb3d_450.png

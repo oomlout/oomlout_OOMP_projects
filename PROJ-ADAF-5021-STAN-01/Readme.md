@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180,C4, 1uF, 0603-NO, microbuilder, (0.7225, 0.185), MR180|
-|CAPC-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180,C5, 1uF, 0603-NO, microbuilder, (0.79, -0.1425), MR180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C3, 27.304999999999996, 1.5239999999999998, M270,C3, 10uF, 0805-NO, microbuilder, (1.075, 0.06), MR270|
+|CAPE-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180,C4, 1uF, 0603-NO, microbuilder, (0.7225, 0.185), MR180|
+|CAPE-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180,C5, 1uF, 0603-NO, microbuilder, (0.79, -0.1425), MR180|
+|CAPE-0805-X-UNMATCHED-01, C8, 24.637999999999998, -1.7145, M180,C8, 10uF, 0805-NO, microbuilder, (0.97, -0.0675), MR180|
 |ERROR, CN1 USB A, 0, 0, 0,CN1, USB, A, USBA_PCB, adafruit_electromech, (1.915, 0), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 18.0975, 0.6985, M180,IC3, ATSAMD21E, QFN32_5MM, adafruit_micro, (0.7125, 0.0275), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 11.557, 0.0, 270,LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.455, 0), R270|
@@ -63,10 +63,10 @@ Contents
 - oompName: Adafruit Slider Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5021
-- oompPart: CAPC-0805-X-UF10-V25, C3, 27.304999999999996, 1.5239999999999998, M270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180
-- oompPart: CAPC-0805-X-UF10-V25, C8, 24.637999999999998, -1.7145, M180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 27.304999999999996, 1.5239999999999998, M270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 24.637999999999998, -1.7145, M180
 - oompPart: ERROR, CN1 USB A, 0, 0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.636000000000001, 3.302, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 39.9923, -4.826, M180
@@ -100,4 +100,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

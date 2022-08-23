@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8130-STAN-01>I2C Expander Breakout-PCF8575](#proj-spar-8130-stan-01i2c-expander-breakout-pcf8575)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8130-STAN-01>I2C Expander Breakout-PCF8575
 
 - ID: PROJ-SPAR-8130-STAN-01
 - Hex ID: PRS8130
 - Name: I2C Expander Breakout-PCF8575
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -68,3 +78,7 @@ Contents
 - rawPart: SJ2, A1, SJ_3, SparkFun, (0.45, 0.35), MR0
 - rawPart: SJ3, A2, SJ_3, SparkFun, (0.7, 0.35), MR0
 - rawPart: U1, PCF8575C, SO-24DW, SparkFun, (0.45, 0.55), R0
+
+
+
+[im]: kicadPcb3d_450.png

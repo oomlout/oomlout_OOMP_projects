@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11040-STAN-01>LED RingCoder Breakout](#proj-spar-11040-stan-01led-ringcoder-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11040-STAN-01>LED RingCoder Breakout
 
 - ID: PROJ-SPAR-11040-STAN-01
 - Hex ID: PRS11040
 - Name: LED RingCoder Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 10.795, 25.4, 90,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.425, 1), R90|
+|CAPE-0603-X-NF100-01, C2, 28.575, 7.619999999999999, 270,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.125, 0.3), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 16.509999999999998, 90,IC1, 74LS595D, SO16, SparkFun-DigitalIC, (1.35, 0.65), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 6.35, 16.509999999999998, 270,IC2, 74LS595D, SO16, SparkFun-DigitalIC, (0.25, 0.65), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 39.37, M0,JP1, 1X06, SparkFun, (0.7, 1.55), MR0|
@@ -56,7 +66,7 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R17, 25.4, 32.385, 90,R17, 180, 0603-RES, SparkFun-Resistors, (1, 1.275), R90|
 |RESE-0603-X-UNMATCHED-01, R18, 22.86, 32.385, 90,R18, 180, 0603-RES, SparkFun-Resistors, (0.9, 1.275), R90|
 |RESE-0603-X-UNMATCHED-01, R19, 27.94, 32.385, 90,R19, 300, 0603-RES, SparkFun-Resistors, (1.1, 1.275), R90|
-|RESE-0603-X-UNMATCHED-01, R20, 12.7, 7.619999999999999, 270,R20, 10k, 0603-RES, SparkFun-Resistors, (0.5, 0.3), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R20</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.32, 16.509999999999998, M180,U1, ENCODER_RGB, ENCODER_LED_RGB, SparkFun, (0.8, 0.65), MR180|
 
 ## Tags
@@ -70,8 +80,8 @@ Contents
 - oompName: LED RingCoder Breakout
 - sources: All source files from https://github.com/sparkfun/LED_RingCoder_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11040
-- oompPart: CAPC-0603-X-NF100-V50, C1, 10.795, 25.4, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 28.575, 7.619999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 10.795, 25.4, 90
+- oompPart: CAPE-0603-X-NF100-01, C2, 28.575, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 16.509999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 6.35, 16.509999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 39.37, M0
@@ -100,7 +110,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R17, 25.4, 32.385, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R18, 22.86, 32.385, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R19, 27.94, 32.385, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R20, 12.7, 7.619999999999999, 270
+- oompPart: RESE-0603-X-O103-01, R20, 12.7, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.32, 16.509999999999998, M180
 - rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.425, 1), R90
 - rawPart: C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.125, 0.3), R270
@@ -134,3 +144,7 @@ Contents
 - rawPart: R19, 300, 0603-RES, SparkFun-Resistors, (1.1, 1.275), R90
 - rawPart: R20, 10k, 0603-RES, SparkFun-Resistors, (0.5, 0.3), R270
 - rawPart: U1, ENCODER_RGB, ENCODER_LED_RGB, SparkFun, (0.8, 0.65), MR180
+
+
+
+[im]: kicadPcb3d_450.png

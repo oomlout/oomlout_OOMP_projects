@@ -36,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C3, 11.43, 21.336, 270,C3, 2.2uF, 0805-NO, microbuilder, (11.43, 21.336), R270|
-|CAPC-0805-X-UNMATCHED-01, C4, 13.97, 21.336, 270,C4, 2.2uF, 0805-NO, microbuilder, (13.97, 21.336), R270|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C6, 9.144, 21.336, 90,C6, 2.2uF, 0805-NO, microbuilder, (9.144, 21.336), R90|
-|CAPC-0805-X-UNMATCHED-01, C7, 54.991, 21.59, 270,C7, 2.2uF, 0805-NO, microbuilder, (54.991, 21.59), R270|
-|CAPC-0805-X-UNMATCHED-01, C8, 53.086, 21.59, 270,C8, 2.2uF, 0805-NO, microbuilder, (53.086, 21.59), R270|
+|CAPE-0805-X-UNMATCHED-01, C2, 57.023, 21.59, 90,C2, 10uF, 0805-NO, microbuilder, (57.023, 21.59), R90|
+|CAPE-0805-X-UF22D-01, C3, 11.43, 21.336, 270,C3, 2.2uF, 0805-NO, microbuilder, (11.43, 21.336), R270|
+|CAPE-0805-X-UF22D-01, C4, 13.97, 21.336, 270,C4, 2.2uF, 0805-NO, microbuilder, (13.97, 21.336), R270|
+|CAPE-0805-X-UNMATCHED-01, C5, 52.197, 14.986, 180,C5, 10uF, 0805-NO, microbuilder, (52.197, 14.986), R180|
+|CAPE-0805-X-UF22D-01, C6, 9.144, 21.336, 90,C6, 2.2uF, 0805-NO, microbuilder, (9.144, 21.336), R90|
+|CAPE-0805-X-UF22D-01, C7, 54.991, 21.59, 270,C7, 2.2uF, 0805-NO, microbuilder, (54.991, 21.59), R270|
+|CAPE-0805-X-UF22D-01, C8, 53.086, 21.59, 270,C8, 2.2uF, 0805-NO, microbuilder, (53.086, 21.59), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 4.572, 21.336, 0,IC1, APX803, SOT23, adafruit, (4.572, 21.336), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-0805-X-UNMATCHED-01, R3, 51.181, 21.59, 270,R3, 390K, 0805-NO, microbuilder, (51.181, 21.59), R270|
+|RESE-0805-X-O394-01, R3, 51.181, 21.59, 270,R3, 390K, 0805-NO, microbuilder, (51.181, 21.59), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0254, 0.0, 0,RPI1, RASPBERRYPI_BPLUS_BONNET_THMSMT, PI_BONNET_THMSMT, microbuilder, (0.0254, 0), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 61.087, 15.748, 270,SW1, EVQQ, EVQ-Q2_SMALLER, microbuilder, (61.087, 15.748), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 53.848, 9.271, 270,SW2, EVQQ, EVQ-Q2_SMALLER, microbuilder, (53.848, 9.271), R270|
@@ -63,18 +63,18 @@ Contents
 - oompName: Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3531
-- oompPart: CAPC-0805-X-UF10-V25, C2, 57.023, 21.59, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.43, 21.336, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 13.97, 21.336, 270
-- oompPart: CAPC-0805-X-UF10-V25, C5, 52.197, 14.986, 180
-- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 9.144, 21.336, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C7, 54.991, 21.59, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C8, 53.086, 21.59, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 57.023, 21.59, 90
+- oompPart: CAPE-0805-X-UF22D-01, C3, 11.43, 21.336, 270
+- oompPart: CAPE-0805-X-UF22D-01, C4, 13.97, 21.336, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 52.197, 14.986, 180
+- oompPart: CAPE-0805-X-UF22D-01, C6, 9.144, 21.336, 90
+- oompPart: CAPE-0805-X-UF22D-01, C7, 54.991, 21.59, 270
+- oompPart: CAPE-0805-X-UF22D-01, C8, 53.086, 21.59, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 45.72, 20.955, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 17.0208, 3.0122, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 4.572, 21.336, 0
 - oompPart: RESE-0805-X-O103-01, R1, 1.524, 21.336, 90
-- oompPart: RESE-0805-X-UNMATCHED-01, R3, 51.181, 21.59, 270
+- oompPart: RESE-0805-X-O394-01, R3, 51.181, 21.59, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0254, 0.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 61.087, 15.748, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 53.848, 9.271, 270

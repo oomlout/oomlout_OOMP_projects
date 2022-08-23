@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13035-STAN-01>Edison OLED Block](#proj-spar-13035-stan-01edison-oled-block)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13035-STAN-01>Edison OLED Block
 
 - ID: PROJ-SPAR-13035-STAN-01
 - Hex ID: PRS13035
 - Name: Edison OLED Block
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 13.97, 13.334999999999999, 0,C1, 2.2uF, 0805, SparkFun-Passives, (0.55, 0.525), R0|
+|CAPE-0805-X-UF22D-01, C1, 13.97, 13.334999999999999, 0,C1, 2.2uF, 0805, SparkFun-Passives, (0.55, 0.525), R0|
 |ERROR, C2 1uF X5R, 0, 0, 0,C2, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.175), R0|
 |ERROR, C3 1uF X5R, 0, 0, 0,C3, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.25), R0|
-|CAPC-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180,C4, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1), R180|
-|ERROR, C5 4.7uF/16V 1206, 0, 0, 0,C5, 4.7uF/16V, 1206, SparkFun-Passives, (0.55, 0.625), R0|
-|CAPC-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180,C6, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1.075), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180,C4, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 13.97, 15.875, 0,C5, 4.7uF/16V, 1206, SparkFun-Passives, (0.55, 0.625), R0|
+|CAPE-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180,C6, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1.075), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 27.94, 3.8099999999999996, M0,J1, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.9049999999999998, 19.685, 90,JP1, M02PTH, 1X02, SparkFun-Connectors, (0.075, 0.775), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, OLED1, 8.889999999999999, 30.987999999999996, 270,OLED1, OLED0.66, OLED-0.66-64X48, SparkFun-Displays, (0.35, 1.22), R270|
-|RESE-0603-X-UNMATCHED-01, R1, 13.97, 18.415, 180,R1, 390k, 0603-RES, SparkFun-Passives, (0.55, 0.725), R180|
+|RESE-0603-X-O394-01, R1, 13.97, 18.415, 180,R1, 390k, 0603-RES, SparkFun-Passives, (0.55, 0.725), R180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -66,12 +76,12 @@ Contents
 - oompName: Edison OLED Block
 - sources: All source files from https://github.com/sparkfun/Edison_OLED_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13035
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.97, 13.334999999999999, 0
+- oompPart: CAPE-0805-X-UF22D-01, C1, 13.97, 13.334999999999999, 0
 - oompPart: ERROR, C2 1uF X5R, 0, 0, 0
 - oompPart: ERROR, C3 1uF X5R, 0, 0, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180
-- oompPart: ERROR, C5 4.7uF/16V 1206, 0, 0, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 13.97, 15.875, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 25.4, 43.18, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 5.08, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.27, 5.08, M0
@@ -79,7 +89,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 27.94, 3.8099999999999996, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.9049999999999998, 19.685, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, OLED1, 8.889999999999999, 30.987999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 13.97, 18.415, 180
+- oompPart: RESE-0603-X-O394-01, R1, 13.97, 18.415, 180
 - oompPart: RESE-0603-X-O103-01, R2, 20.32, 35.559999999999995, 0
 - oompPart: RESE-0603-X-O103-01, R3, 20.32, 30.479999999999997, 0
 - oompPart: RESE-0603-X-O103-01, R4, 20.32, 43.18, 0
@@ -130,3 +140,7 @@ Contents
 - rawPart: SJ6, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.4), MR180
 - rawPart: SJ7, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.6), MR180
 - rawPart: SJ8, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.6, 0.3), MR180
+
+
+
+[im]: kicadPcb3d_450.png

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90,C5, 1uF, 0603-NO, microbuilder, (0.8675, 0.58), R90|
+|CAPE-0603-X-NF100-01, C1, 27.686, 7.365999999999999, 270,C1, 0.1uF, 0603-NO, microbuilder, (1.09, 0.29), R270|
+|CAPE-0805-X-UNMATCHED-01, C2, 11.049, 7.238999999999999, 90,C2, 10uF, 0805-NO, microbuilder, (0.435, 0.285), R90|
+|CAPE-0603-X-NF100-01, C4, 23.6601, 14.7701, 90,C4, 0.1uF, 0603-NO, microbuilder, (0.9315, 0.5815), R90|
+|CAPE-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90,C5, 1uF, 0603-NO, microbuilder, (0.8675, 0.58), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 48.26, 11.43, 90,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.9, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.86, 11.43, 180,IC1, LIS3MDL, LGA12_2X2MM, adafruit_sensor, (0.9, 0.45), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 31.75, 11.43, 270,JP1, 1X04_ROUND, microbuilder, (1.25, 0.45), R270|
@@ -69,10 +69,10 @@ Contents
 - oompName: Adafruit ISM330DHCX LIS3MDL FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4569
-- oompPart: CAPC-0603-X-NF100-V50, C1, 27.686, 7.365999999999999, 270
-- oompPart: CAPC-0805-X-UF10-V25, C2, 11.049, 7.238999999999999, 90
-- oompPart: CAPC-0603-X-NF100-V50, C4, 23.6601, 14.7701, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 27.686, 7.365999999999999, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 11.049, 7.238999999999999, 90
+- oompPart: CAPE-0603-X-NF100-01, C4, 23.6601, 14.7701, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 48.26, 11.43, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 9.779, 10.287, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 49.911, 18.034, 0
@@ -120,4 +120,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

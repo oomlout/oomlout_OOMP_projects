@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13795-STAN-01>LED Array 8x7](#proj-spar-13795-stan-01led-array-8x7)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13795-STAN-01>LED Array 8x7
 
 - ID: PROJ-SPAR-13795-STAN-01
 - Hex ID: PRS13795
 - Name: LED Array 8x7
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -237,3 +247,7 @@ Contents
 - rawPart: R6, 82, 0603-RES, SparkFun-Resistors, (0.7, 0.2), R90
 - rawPart: R7, 82, 0603-RES, SparkFun-Resistors, (0.8, 0.2), R90
 - rawPart: R8, 82, 0603-RES, SparkFun-Resistors, (0.9, 0.2), R90
+
+
+
+[im]: kicadPcb3d_450.png

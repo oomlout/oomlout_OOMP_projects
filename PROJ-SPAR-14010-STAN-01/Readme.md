@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14010-STAN-01>LilyPad LED 5pcs](#proj-spar-14010-stan-01lilypad-led-5pcs)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14010-STAN-01>LilyPad LED 5pcs
 
 - ID: PROJ-SPAR-14010-STAN-01
 - Hex ID: PRS14010
 - Name: LilyPad LED 5pcs
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -98,3 +108,7 @@ Contents
 - rawPart: R3, 150, 0603-RES, SparkFun-Resistors, (0.60660002, 0.24249988), R0
 - rawPart: R4, 150, 0603-RES, SparkFun-Resistors, (0.38220005, 0.2425999), R0
 - rawPart: R5, 150, 0603-RES, SparkFun-Resistors, (0.16379995, 0.24339985), R0
+
+
+
+[im]: kicadPcb3d_450.png

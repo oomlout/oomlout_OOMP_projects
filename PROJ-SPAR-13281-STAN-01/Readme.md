@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13281-STAN-01>Load Sensor Combinator](#proj-spar-13281-stan-01load-sensor-combinator)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13281-STAN-01>Load Sensor Combinator
 
 - ID: PROJ-SPAR-13281-STAN-01
 - Hex ID: PRS13281
 - Name: Load Sensor Combinator
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -59,3 +69,7 @@ Contents
 - rawPart: JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180
 - rawPart: JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180
 - rawPart: JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270
+
+
+
+[im]: kicadPcb3d_450.png

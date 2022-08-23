@@ -44,7 +44,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0|
 |RESE-0603-X-UNMATCHED-01, R2, 29.337, 16.764, 0,R2, 1k, 0603-NO, microbuilder, (1.155, 0.66), R0|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R4, 45.72, 16.383, 0,R4, 10k, 0603-NO, microbuilder, (1.8, 0.645), R0|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R5, 21.462999999999997, 9.143999999999998, 90,R5, 1k, 0603-NO, microbuilder, (0.845, 0.36), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RIGHT, 47.244, 11.43, 90,RIGHT, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.86, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 39.37, 18.796, M270,SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.55, 0.74), MR270|
@@ -83,7 +83,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 29.337, 16.764, 0
 - oompPart: RESE-0603-X-O103-01, R3, 45.72, 17.906999999999996, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 45.72, 16.383, 0
+- oompPart: RESE-0603-X-O103-01, R4, 45.72, 16.383, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 21.462999999999997, 9.143999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RIGHT, 47.244, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 39.37, 18.796, M270

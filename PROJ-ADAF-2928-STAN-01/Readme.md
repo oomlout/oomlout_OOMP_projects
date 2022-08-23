@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|ERROR, C2  E3,5-8, 0, 0, 0,C2, E3,5-8, adafruit, (0.885, 0.485), R270|
+|CAPE-0805-X-UNMATCHED-01, C1, 38.480999999999995, 16.891, 180,C1, 10uF, 0805-NO, microbuilder, (1.515, 0.665), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 22.479, 12.318999999999999, 270,C2, E3,5-8, adafruit, (0.885, 0.485), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 10.287, 19.177, 180,J1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.405, 0.755), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 46.355, 10.16, 270,JP1, 3X04, microbuilder, (1.825, 0.4), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 4.444999999999999, 10.16, 90,JP2, 3X04, microbuilder, (0.175, 0.4), R90|
@@ -72,8 +72,8 @@ Contents
 - oompName: Adafruit PWM Servo FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2928
-- oompPart: CAPC-0805-X-UF10-V25, C1, 38.480999999999995, 16.891, 180
-- oompPart: ERROR, C2  E3,5-8, 0, 0, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 38.480999999999995, 16.891, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 22.479, 12.318999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.4460000299999995, 18.129000064, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 45.973000002, 2.513000054, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 10.287, 19.177, 180

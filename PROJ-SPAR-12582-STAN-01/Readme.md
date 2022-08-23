@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12582-STAN-01>BlueSMiRF](#proj-spar-12582-stan-01bluesmirf)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12582-STAN-01>BlueSMiRF
 
 - ID: PROJ-SPAR-12582-STAN-01
 - Hex ID: PRS12582
 - Name: BlueSMiRF
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 29.845, 1.9049999999999998, 0,C1, 10uF, EIA3216, SparkFun, (1.175, 0.075), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 29.845, 11.43, 0,C3, 10uF, EIA3216, SparkFun, (1.175, 0.45), R0|
-|CAPC-0603-X-UNMATCHED-01, C4, 29.209999999999997, 8.889999999999999, 180,C4, 1uF, 0603-CAP, SparkFun, (1.15, 0.35), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 29.845, 1.9049999999999998, 0,C1, 10uF, EIA3216, SparkFun, (1.175, 0.075), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 29.845, 11.43, 0,C3, 10uF, EIA3216, SparkFun, (1.175, 0.45), R0|
+|CAPE-0603-X-UNMATCHED-01, C4, 29.209999999999997, 8.889999999999999, 180,C4, 1uF, 0603-CAP, SparkFun, (1.15, 0.35), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 37.465, 2.794, 270,D1, Red, LED-0603, SparkFun, (1.475, 0.11), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 37.465, 13.462, 90,D2, Green, LED-0603, SparkFun, (1.475, 0.53), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 40.64, 14.350999999999997, M270,JP1, 1X06, SparkFun, (1.6, 0.565), MR270|
@@ -61,9 +71,9 @@ Contents
 - oompName: BlueSMiRF
 - sources: All source files from https://github.com/sparkfun/BlueSMiRF (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12582
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 29.845, 1.9049999999999998, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 29.845, 11.43, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 29.209999999999997, 8.889999999999999, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 29.845, 1.9049999999999998, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 29.845, 11.43, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 29.209999999999997, 8.889999999999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 37.465, 2.794, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 37.465, 13.462, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 40.64, 14.350999999999997, M270
@@ -107,3 +117,7 @@ Contents
 - rawPart: TP1, PAD.03X.05, SparkFun, (0.85, 0.15), MR0
 - rawPart: U1, BLUETOOTH-RN41, RN41, SparkFun-RF, (0.64562992, 0.31551181), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun, (1.15, 0.25), R270
+
+
+
+[im]: kicadPcb3d_450.png

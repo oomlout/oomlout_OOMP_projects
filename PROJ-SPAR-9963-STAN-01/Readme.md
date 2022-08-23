@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9963-STAN-01>RFID USB Reader](#proj-spar-9963-stan-01rfid-usb-reader)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9963-STAN-01>RFID USB Reader
 
 - ID: PROJ-SPAR-9963-STAN-01
 - Hex ID: PRS9963
 - Name: RFID USB Reader
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,10 +37,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180,BUZZ, buzz, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.5, 0.25), MR180|
-|CAPC-0603-X-UNMATCHED-01, C1, 34.29, 1.27, 180,C1, 2.2uF, 0603, SparkFun-Capacitors, (1.35, 0.05), R180|
-|CAPC-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270,C4, 10nF, 0603, SparkFun-Capacitors, (0.39, 1.085), R270|
+|CAPE-0603-X-UF22D-01, C1, 34.29, 1.27, 180,C1, 2.2uF, 0603, SparkFun-Capacitors, (1.35, 0.05), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270,C4, 10nF, 0603, SparkFun-Capacitors, (0.39, 1.085), R270|
 |CAPE-0603-X-UNMATCHED-01, C5, 12.7, 28.575, 180,C5, 470nF, 0603, SparkFun-Capacitors, (0.5, 1.125), R180|
-|CAPC-0603-X-UF10-V25, C6, 12.7, 26.669999999999998, 0,C6, 10uF, 0603-POLAR, SparkFun-Capacitors, (0.5, 1.05), R0|
+|CAPE-0603-X-UNMATCHED-01, C6, 12.7, 26.669999999999998, 0,C6, 10uF, 0603-POLAR, SparkFun-Capacitors, (0.5, 1.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 49.529999999999994, 7.619999999999999, 90,J1, 1X07, SparkFun-Connectors, (1.95, 0.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J10, 7.619999999999999, 15.239999999999998, 270,J10, USB-C-16P, SparkFun-Connectors, (0.3, 0.6), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 39.37, 26.669999999999998, M0,JP1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.55, 1.05), MR0|
@@ -59,10 +69,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9963
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 34.29, 1.27, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270
+- oompPart: CAPE-0603-X-UF22D-01, C1, 34.29, 1.27, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C5, 12.7, 28.575, 180
-- oompPart: CAPC-0603-X-UF10-V25, C6, 12.7, 26.669999999999998, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C6, 12.7, 26.669999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 49.529999999999994, 7.619999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J10, 7.619999999999999, 15.239999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 39.37, 26.669999999999998, M0
@@ -98,3 +108,7 @@ Contents
 - rawPart: SG1, BUZZER-SMD, BUZZER-CCV, SparkFun-Electromechanical, (0.5, 0.25), R270
 - rawPart: U1, ID-12/20SMD, ID-12_SMD, SparkFun-RF, (1.25, 0.6), R0
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.8), R270
+
+
+
+[im]: kicadPcb3d_450.png

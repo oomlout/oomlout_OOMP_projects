@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17047-STAN-01>Qwiic GPIO](#proj-spar-17047-stan-01qwiic-gpio)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17047-STAN-01>Qwiic GPIO
 
 - ID: PROJ-SPAR-17047-STAN-01
 - Hex ID: PRS17047
 - Name: Qwiic GPIO
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -29,7 +39,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR0, 39.37, 16.509999999999998, M180,ADR0, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.55, 0.65), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 39.37, 19.049999999999997, M180,ADR1, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.55, 0.75), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 39.37, 21.59, M180,ADR2, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.55, 0.85), MR180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C4, 22.098, 17.145, 90,C4, 0.1uF, 0603, SparkFun-Capacitors, (0.87, 0.675), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 6.35, 25.4, 0,D1, RED, LED-0603, SparkFun-LED, (0.25, 1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 36.83, M0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.2, 1.45), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 55.88, 1.27, M270,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2.2, 0.05), MR270|
@@ -51,7 +61,7 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R3, 39.37, 16.509999999999998, 180,R3, 2.2k, 0603, SparkFun-Resistors, (1.55, 0.65), R180|
 |RESE-0603-X-UNMATCHED-01, R4, 1.27, 25.4, 90,R4, 2.2k, 0603, SparkFun-Resistors, (0.05, 1), R90|
 |RESE-0603-X-UNMATCHED-01, R5, 41.91, 15.239999999999998, 270,R5, 2.2k, 0603, SparkFun-Resistors, (1.65, 0.6), R270|
-|RESE-0603-X-UNMATCHED-01, R6, 54.60999999999999, 10.795, 270,R6, 10k, 0603, SparkFun-Resistors, (2.15, 0.425), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R7, 6.35, 23.495, 0,R7, 1k, 0603, SparkFun-Resistors, (0.25, 0.925), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 30.479999999999997, 19.049999999999997, 180,U3, TCA9534, 16SOIC, SparkFun-IC-Conversion, (1.2, 0.75), R180|
 
@@ -69,7 +79,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR0, 39.37, 16.509999999999998, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 39.37, 19.049999999999997, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 39.37, 21.59, M180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 22.098, 17.145, 90
+- oompPart: CAPE-0603-X-NF100-01, C4, 22.098, 17.145, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 6.35, 25.4, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 36.83, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 55.88, 1.27, M270
@@ -91,7 +101,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 39.37, 16.509999999999998, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 1.27, 25.4, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 41.91, 15.239999999999998, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 54.60999999999999, 10.795, 270
+- oompPart: RESE-0603-X-O103-01, R6, 54.60999999999999, 10.795, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 6.35, 23.495, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 30.479999999999997, 19.049999999999997, 180
 - rawPart: ADR0, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.55, 0.65), MR180
@@ -122,3 +132,7 @@ Contents
 - rawPart: R6, 10k, 0603, SparkFun-Resistors, (2.15, 0.425), R270
 - rawPart: R7, 1k, 0603, SparkFun-Resistors, (0.25, 0.925), R0
 - rawPart: U3, TCA9534, 16SOIC, SparkFun-IC-Conversion, (1.2, 0.75), R180
+
+
+
+[im]: kicadPcb3d_450.png

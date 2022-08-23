@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8530-STAN-01>Speed Trap](#proj-spar-8530-stan-01speed-trap)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8530-STAN-01>Speed Trap
 
 - ID: PROJ-SPAR-8530-STAN-01
 - Hex ID: PRS8530
 - Name: Speed Trap
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -50,3 +60,7 @@ Contents
 - rawPart: J2, Power, COMPUTER-PERIPHERAL-POWER-RA, SparkFun-Connectors, (1.95, 1.4), R270
 - rawPart: JP1, LIDAR, JST-4-PTH, SparkFun-Connectors, (0.4, 0.25), R180
 - rawPart: JP2, OUT, 1X06, SparkFun-Connectors, (2.25, 0.85), R270
+
+
+
+[im]: kicadPcb3d_450.png

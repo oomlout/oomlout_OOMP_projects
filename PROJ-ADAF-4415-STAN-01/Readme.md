@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -37,9 +37,9 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 12.7, M0,B1, CR1220-2, microbuilder, (0.5, 0.5), MR0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 4.953, 8.889999999999999, 180,C1, 0.1uF, 0603-NO, microbuilder, (0.195, 0.35), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 1.1429999999999998, 6.858, 90,C2, 10uF, 0805-NO, microbuilder, (0.045, 0.27), R90|
+|CAPE-0805-X-UNMATCHED-01, C3, 9.906, 6.35, 90,C3, 10uF, 0805-NO, microbuilder, (0.39, 0.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 12.7, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.5), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 12.7, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.5), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 4.571999999999999, 17.779999999999998, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.18, 0.7), R90|
@@ -66,9 +66,9 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4415
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 12.7, M0
-- oompPart: CAPC-0603-X-NF100-V50, C1, 4.953, 8.889999999999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 1.1429999999999998, 6.858, 90
-- oompPart: CAPC-0805-X-UF10-V25, C3, 9.906, 6.35, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 4.953, 8.889999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 1.1429999999999998, 6.858, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 9.906, 6.35, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 12.7, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.54, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 4.571999999999999, 17.779999999999998, 90
@@ -114,4 +114,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

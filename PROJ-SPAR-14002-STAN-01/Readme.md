@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14002-STAN-01>THAT 1206 Breakout](#proj-spar-14002-stan-01that-1206-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14002-STAN-01>THAT 1206 Breakout
 
 - ID: PROJ-SPAR-14002-STAN-01
 - Hex ID: PRS14002
 - Name: THAT 1206 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -28,10 +38,10 @@ Contents
 | :---: |
 |CAPE-0603-X-UNMATCHED-01, C1, 25.4, 12.7, 270,C1, 470pF, 0603-CAP, SparkFun-Capacitors, (1, 0.5), R270|
 |CAPE-0603-X-UNMATCHED-01, C2, 26.669999999999998, 4.064, 0,C2, 470pF, 0603-CAP, SparkFun-Capacitors, (1.05, 0.16), R0|
-|CAPE-0603-X-PF100-01, C3, 24.892, 7.112, 180,C3, 100pF, 0603-CAP, SparkFun-Capacitors, (0.98, 0.28), R180|
+|CAPE-0603-X-UNMATCHED-01, C3, 24.892, 7.112, 180,C3, 100pF, 0603-CAP, SparkFun-Capacitors, (0.98, 0.28), R180|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C4, 34.544000000000004, 16.509999999999998, 180,C4, 220uf, PANASONIC_D, that-ics, (1.36, 0.65), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C5, 28.194000000000003, 18.541999999999998, 180,C5, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.11, 0.73), R180|
+|CAPE-0603-X-NF100-01, C6, 40.386, 2.54, 0,C6, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.59, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 32.257999999999996, 3.0479999999999996, 180,D1, 12V, SOD-323, that-ics, (1.27, 0.12), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 30.225999999999996, 6.619999968, 180,D2, BAV99, SOT23-3, SparkFun-DiscreteSemi, (1.19, 0.26062992), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 30.225999999999996, 11.176, 180,D3, BAV99, SOT23-3, SparkFun-DiscreteSemi, (1.19, 0.44), R180|
@@ -68,10 +78,10 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14002
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 25.4, 12.7, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 26.669999999999998, 4.064, 0
-- oompPart: CAPE-0603-X-PF100-01, C3, 24.892, 7.112, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 24.892, 7.112, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 34.544000000000004, 16.509999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C5, 28.194000000000003, 18.541999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C6, 40.386, 2.54, 0
+- oompPart: CAPE-0603-X-NF100-01, C5, 28.194000000000003, 18.541999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C6, 40.386, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 32.257999999999996, 3.0479999999999996, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 30.225999999999996, 6.619999968, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 30.225999999999996, 11.176, 180
@@ -122,3 +132,7 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun-Resistors, (0.98, 0.66), R0
 - rawPart: R2, 100, 0603-RES, SparkFun-Resistors, (0.98, 0.09), R0
 - rawPart: R3, 4.7K, 0603-RES, SparkFun-Resistors, (1.05, 0.36), R0
+
+
+
+[im]: kicadPcb3d_450.png

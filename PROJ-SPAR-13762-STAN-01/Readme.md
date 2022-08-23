@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13762-STAN-01>MPU-9250 Breakout](#proj-spar-13762-stan-01mpu-9250-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13762-STAN-01>MPU-9250 Breakout
 
 - ID: PROJ-SPAR-13762-STAN-01
 - Hex ID: PRS13762
 - Name: MPU-9250 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 4.7498, 4.826, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.187, 0.19), R270|
+|CAPE-0603-X-NF100-01, C2, 7.492999999999999, 8.737599999999999, 90,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.295, 0.344), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 2.0065999999999997, 16.509999999999998, 0,J1, 1X04, SparkFun-Connectors, (0.079, 0.65), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 9.6266, 6.35, 90,J2, 1X03, SparkFun-Connectors, (0.379, 0.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 2.0065999999999997, 1.27, 0,J3, 1X04, SparkFun-Connectors, (0.079, 0.05), R0|
@@ -49,8 +59,8 @@ Contents
 - oompName: MPU-9250 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-9250_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13762
-- oompPart: CAPC-0603-X-NF100-V50, C1, 4.7498, 4.826, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 7.492999999999999, 8.737599999999999, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 4.7498, 4.826, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 7.492999999999999, 8.737599999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.0584, 14.477999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.8166, 2.6161999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 2.0065999999999997, 16.509999999999998, 0
@@ -75,3 +85,7 @@ Contents
 - rawPart: SJ1, JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.058, 0.373), R90
 - rawPart: SJ2, JUMPER_PAD-3-1&2_NC_BY_PASTE, PAD-HUMPER-3-1&2_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.079, 0.2), R180
 - rawPart: U1, MPU-9250, QFN24_PAD, Testing, (0.179, 0.35), R0
+
+
+
+[im]: kicadPcb3d_450.png

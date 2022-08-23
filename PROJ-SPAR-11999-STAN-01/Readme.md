@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11999-STAN-01>RedBot Whisker Bumper](#proj-spar-11999-stan-01redbot-whisker-bumper)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11999-STAN-01>RedBot Whisker Bumper
 
 - ID: PROJ-SPAR-11999-STAN-01
 - Hex ID: PRS11999
 - Name: RedBot Whisker Bumper
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -54,3 +64,7 @@ Contents
 - rawPart: R1, 10K, 0603-RES, SparkFun-Resistors, (0.15, 0.5), R180
 - rawPart: S1, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S2, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.85, 0.15), R0
+
+
+
+[im]: kicadPcb3d_450.png

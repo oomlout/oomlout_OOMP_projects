@@ -42,67 +42,67 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C1, 38.0365, 56.070499999999996, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C1, 38.0365, 56.070499999999996, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C2, 44.449999999999996, 42.4815, 270"
+            "value": "CAPE-0603-X-NF100-01, C2, 44.449999999999996, 42.4815, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C3, 19.049999999999997, 20.5105, 90"
+            "value": "CAPE-0805-X-UNMATCHED-01, C3, 19.049999999999997, 20.5105, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C4, 28.194000000000003, 21.59, 90"
+            "value": "CAPE-0805-X-UNMATCHED-01, C4, 28.194000000000003, 21.59, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C5, 29.971999999999998, 18.034, 270"
+            "value": "CAPE-0603-X-NF100-01, C5, 29.971999999999998, 18.034, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C6, 37.211, 43.3705, 270"
+            "value": "CAPE-0603-X-UNMATCHED-01, C6, 37.211, 43.3705, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C7, 9.779, 55.75299999999999, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C7, 9.779, 55.75299999999999, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C8, 15.875, 11.2395, 0"
+            "value": "CAPE-0805-X-UNMATCHED-01, C8, 15.875, 11.2395, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C10, 9.270999999999999, 53.848, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C10, 9.270999999999999, 53.848, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C11, 18.668999999999997, 17.7165, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C11, 18.668999999999997, 17.7165, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C12, 18.923, 23.9395, 90"
+            "value": "CAPE-0603-X-NF100-01, C12, 18.923, 23.9395, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C13, 28.2575, 18.034, 270"
+            "value": "CAPE-0805-X-UNMATCHED-01, C13, 28.2575, 18.034, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C14, 43.307, 58.6105, 270"
+            "value": "CAPE-0603-X-UNMATCHED-01, C14, 43.307, 58.6105, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C15, 43.307, 55.498999999999995, 90"
+            "value": "CAPE-0603-X-NF100-01, C15, 43.307, 55.498999999999995, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C17, 8.509, 51.943, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C17, 8.509, 51.943, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0805-X-UF10-V25, C18, 7.492999999999999, 50.038, 180"
+            "value": "CAPE-0805-X-UNMATCHED-01, C18, 7.492999999999999, 50.038, 180"
         },
         {
             "name": "oompPart",
@@ -202,7 +202,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0603-X-O222-01, R4, 10.9855, 6.985, 270"
+            "value": "RESE-0603-X-UNMATCHED-01, R4, 10.9855, 6.985, 270"
         },
         {
             "name": "oompPart",
@@ -222,7 +222,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R14, 23.4315, 13.334999999999999, 180"
+            "value": "RESE-0603-X-O104-01, R14, 23.4315, 13.334999999999999, 180"
         },
         {
             "name": "oompPart",

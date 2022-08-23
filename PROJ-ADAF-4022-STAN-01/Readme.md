@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180,C1, 10uf, 0805_10MGAP, microbuilder, (0.1, 0.45), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 3.556, 6.095999999999999, 0,C2, 10uF, 0805_10MGAP, microbuilder, (0.14, 0.24), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180,C1, 10uf, 0805_10MGAP, microbuilder, (0.1, 0.45), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 3.556, 6.095999999999999, 0,C2, 10uF, 0805_10MGAP, microbuilder, (0.14, 0.24), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.334, 13.208, 270,D1, 1N4148, SOD-323, microbuilder, (0.21, 0.52), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 15.239999999999998, 0,JP2, H3, 1X04_ROUND, microbuilder, (0.45, 0.6), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 2.54, 0,JP3, H8, 1X08_ROUND, microbuilder, (0.45, 0.1), R0|
@@ -58,8 +58,8 @@ Contents
 - oompName: Adafruit MLX90393 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MLX90393-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4022
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 3.556, 6.095999999999999, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 3.556, 6.095999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.334, 13.208, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 13.462, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 21.336, 4.826, 0
@@ -89,4 +89,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

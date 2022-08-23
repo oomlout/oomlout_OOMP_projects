@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11801-STAN-01>Tiny-AVR-Programmer](#proj-spar-11801-stan-01tiny-avr-programmer)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11801-STAN-01>Tiny-AVR-Programmer
 
 - ID: PROJ-SPAR-11801-STAN-01
 - Hex ID: PRS11801
 - Name: Tiny-AVR-Programmer
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 3.8099999999999996, 270,C1, 0.1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.15), R270|
-|CAPC-0402-X-UNMATCHED-01, C2, 21.59, 11.43, 0,C2, 18pF, 0402-CAP, SparkFun-Passives, (0.85, 0.45), R0|
-|CAPC-0402-X-UF10-V25, C3, 10.16, 3.8099999999999996, 270,C3, 10uF, 0402-CAP, SparkFun-Passives, (0.4, 0.15), R270|
-|CAPC-0402-X-UNMATCHED-01, C4, 21.59, 3.8099999999999996, 0,C4, 18pF, 0402-CAP, SparkFun-Passives, (0.85, 0.15), R0|
+|CAPE-0402-X-NF100-01, C1, 7.619999999999999, 3.8099999999999996, 270,C1, 0.1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.15), R270|
+|CAPE-0402-X-UNMATCHED-01, C2, 21.59, 11.43, 0,C2, 18pF, 0402-CAP, SparkFun-Passives, (0.85, 0.45), R0|
+|CAPE-0402-X-UNMATCHED-01, C3, 10.16, 3.8099999999999996, 270,C3, 10uF, 0402-CAP, SparkFun-Passives, (0.4, 0.15), R270|
+|CAPE-0402-X-UNMATCHED-01, C4, 21.59, 3.8099999999999996, 0,C4, 18pF, 0402-CAP, SparkFun-Passives, (0.85, 0.15), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 11.43, 90,D1, 3.3V, SOD-323, SparkFun-DiscreteSemi, (0.4, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.619999999999999, 11.43, 90,D2, 3.3V, SOD-323, SparkFun-DiscreteSemi, (0.3, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 40.64, 11.43, 270,JP1, 1X04, SparkFun-Connectors, (1.6, 0.45), R270|
@@ -45,7 +55,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R1, 8.889999999999999, 7.619999999999999, 270,R1, 68, 0402-RES, SparkFun-Passives, (0.35, 0.3), R270|
 |RESE-0402-X-UNMATCHED-01, R2, 10.16, 7.619999999999999, 270,R2, 68, 0402-RES, SparkFun-Passives, (0.4, 0.3), R270|
 |RESE-0402-X-UNMATCHED-01, R3, 7.619999999999999, 7.619999999999999, 270,R3, 1.5K, 0402-RES, SparkFun-Passives, (0.3, 0.3), R270|
-|RESE-0402-X-UNMATCHED-01, R4, 26.669999999999998, 13.97, 0,R4, 10k, 0402-RES, SparkFun-Passives, (1.05, 0.55), R0|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-O331-01, R5, 54.60999999999999, 1.27, 0,R5, 330, 0402-RES, SparkFun-Passives, (2.15, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 24.13, 12.7, 0,SJ1, SOLDERJUMPERNO, SJ_2S-NO, SparkFun-Passives, (0.95, 0.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 29.209999999999997, 12.7, 0,SJ2, NC, SJ_2S, SparkFun-Passives, (1.15, 0.5), R0|
@@ -64,10 +74,10 @@ Contents
 - oompName: Tiny-AVR-Programmer
 - sources: All source files from https://github.com/sparkfun/Tiny-AVR-Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11801
-- oompPart: CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 3.8099999999999996, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C2, 21.59, 11.43, 0
-- oompPart: CAPC-0402-X-UF10-V25, C3, 10.16, 3.8099999999999996, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C4, 21.59, 3.8099999999999996, 0
+- oompPart: CAPE-0402-X-NF100-01, C1, 7.619999999999999, 3.8099999999999996, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C2, 21.59, 11.43, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C3, 10.16, 3.8099999999999996, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C4, 21.59, 3.8099999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.619999999999999, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 40.64, 11.43, 270
@@ -83,7 +93,7 @@ Contents
 - oompPart: RESE-0402-X-UNMATCHED-01, R1, 8.889999999999999, 7.619999999999999, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 10.16, 7.619999999999999, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, 7.619999999999999, 7.619999999999999, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R4, 26.669999999999998, 13.97, 0
+- oompPart: RESE-0402-X-O103-01, R4, 26.669999999999998, 13.97, 0
 - oompPart: RESE-0402-X-O331-01, R5, 54.60999999999999, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 24.13, 12.7, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 29.209999999999997, 12.7, 0
@@ -116,3 +126,7 @@ Contents
 - rawPart: TP1, TEST-POINT3, PAD.03X.03, SparkFun-Passives, (0.6, 0.25), MR0
 - rawPart: U1, ATTINY84, SO14, SparkFun-DigitalIC, (0.6, 0.3), R90
 - rawPart: X1, USB-A-H, USB-A-H, SparkFun-Connectors, (0.1, 0.3), R0
+
+
+
+[im]: kicadPcb3d_450.png

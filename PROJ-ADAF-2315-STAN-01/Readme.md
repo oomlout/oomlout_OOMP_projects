@@ -47,8 +47,8 @@ Contents
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |RESE-0805-X-UNMATCHED-01, R7, 3.302, 26.162, 180,R7, 100, 0805-NO, microbuilder, (0.13, 1.03), R180|
 |RESE-0805-X-UNMATCHED-01, R8, 3.302, 24.13, 180,R8, 100, 0805-NO, microbuilder, (0.13, 0.95), R180|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R9</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R10</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R9, 2.2859999999999996, 32.638999999999996, 270,R9, 1K, 0805-NO, microbuilder, (0.09, 1.285), R270|
+|RESE-0805-X-UNMATCHED-01, R10, 4.3180000000000005, 32.638999999999996, 270,R10, 1K, 0805-NO, microbuilder, (0.17, 1.285), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0, 0,RPI1, RASPBERRYPI_BPLUS_HATNOSLOTS, PI_HAT_NOSLOTS, microbuilder, (0, 0), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 3.6829999999999994, 41.783, M0,SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.145, 1.645), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 3.302, 36.068, M180,SJ2, BACKLITE, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.13, 1.42), MR180|
@@ -84,8 +84,8 @@ Contents
 - oompPart: RESE-0805-X-O103-01, R6, 1.778, 16.764, 270
 - oompPart: RESE-0805-X-UNMATCHED-01, R7, 3.302, 26.162, 180
 - oompPart: RESE-0805-X-UNMATCHED-01, R8, 3.302, 24.13, 180
-- oompPart: RESE-0805-X-O102-01, R9, 2.2859999999999996, 32.638999999999996, 270
-- oompPart: RESE-0805-X-O102-01, R10, 4.3180000000000005, 32.638999999999996, 270
+- oompPart: RESE-0805-X-UNMATCHED-01, R9, 2.2859999999999996, 32.638999999999996, 270
+- oompPart: RESE-0805-X-UNMATCHED-01, R10, 4.3180000000000005, 32.638999999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 3.6829999999999994, 41.783, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 3.302, 36.068, M180

@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180,C1, 10uF, 0805, microbuilder, (20, 110), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 300.0, -90.0, 0,JP1, 1X07_ROUND_76, microbuilder, (300, -90), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -56,7 +56,7 @@ Contents
 - oompName: Adafruit TMP006 and TMP007 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1296
-- oompPart: CAPC-0805-X-UF10-V25, C1, 20.0, 110.0, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 510.0, 410.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 300.0, -90.0, 0

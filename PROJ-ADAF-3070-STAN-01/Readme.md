@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 2.032, 13.208, 270,C1, 10uF, 0805-NO, microbuilder, (0.08, 0.52), R270|
+|CAPE-0805-X-NF100-01, C2, 15.493999999999998, 26.924, 90,C2, 0.1uF, 0805-NO, microbuilder, (0.61, 1.06), R90|
+|CAPE-0805-X-UNMATCHED-01, C3, 2.413, 5.588, 0,C3, 10uF, 0805-NO, microbuilder, (0.095, 0.22), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 27.94, 0,JP1, 1X05_ROUND_70, microbuilder, (0.3, 1.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 21.59, 24.511, 0,JP2, 1X01_ROUND, microbuilder, (0.85, 0.965), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 2.54, 0,JP3, 1X09_ROUND_70, microbuilder, (0.5, 0.1), R0|
@@ -61,9 +61,9 @@ Contents
 - oompName: Adafruit RFM LoRa Radio Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3070
-- oompPart: CAPC-0805-X-UF10-V25, C1, 2.032, 13.208, 270
-- oompPart: CAPC-0805-X-NF100-V50, C2, 15.493999999999998, 26.924, 90
-- oompPart: CAPC-0805-X-UF10-V25, C3, 2.413, 5.588, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 2.032, 13.208, 270
+- oompPart: CAPE-0805-X-NF100-01, C2, 15.493999999999998, 26.924, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.413, 5.588, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 21.209, 9.143999999999998, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 7.746999999999999, 15.748, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 27.94, 0

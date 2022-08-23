@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14607-STAN-01>Qwiic GRIDEye](#proj-spar-14607-stan-01qwiic-grideye)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14607-STAN-01>Qwiic GRIDEye
 
 - ID: PROJ-SPAR-14607-STAN-01
 - Hex ID: PRS14607
 - Name: Qwiic GRIDEye
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 19.049999999999997, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.6, 0.75), R0|
-|CAPC-0603-X-UNMATCHED-01, C2, 10.16, 19.049999999999997, 180,C2, 2.2uF, 0603, SparkFun-Capacitors, (0.4, 0.75), R180|
-|CAPC-0603-X-UF10-V25, C3, 6.35, 19.049999999999997, 0,C3, 10uF, 0603, SparkFun-Capacitors, (0.25, 0.75), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 15.239999999999998, 19.049999999999997, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.6, 0.75), R0|
+|CAPE-0603-X-UF22D-01, C2, 10.16, 19.049999999999997, 180,C2, 2.2uF, 0603, SparkFun-Capacitors, (0.4, 0.75), R180|
+|CAPE-0603-X-UNMATCHED-01, C3, 6.35, 19.049999999999997, 0,C3, 10uF, 0603, SparkFun-Capacitors, (0.25, 0.75), R0|
+|CAPE-0603-X-NF100-01, C4, 7.619999999999999, 6.35, 180,C4, 0.1uF, 0603, SparkFun-Capacitors, (0.3, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 17.779999999999998, 1.27, 0,J1, 1X01_NO_SILK, SparkFun-Connectors, (0.7, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270,J2, SMD, 1X04_1MM_RA, SparkX, (0.2, 0.5), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 7.619999999999999, 1.27, 0,J3, PTH, 1X04_NO_SILK, SparkX, (0.3, 0.05), R0|
@@ -40,7 +50,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.03, 0.97), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 12.7, 21.59, 0,JP7, SMT-JUMPER_3_2-NC_PASTE_SILK, SparkFun-Jumpers, (0.5, 0.85), R0|
 |RESE-0603-X-UNMATCHED-01, R1, 19.049999999999997, 19.049999999999997, 180,R1, 20, 0603, SparkFun-Resistors, (0.75, 0.75), R180|
-|RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 6.35, 0,R2, 10k, 0603, SparkFun-Resistors, (0.7, 0.25), R0|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R4, 16.509999999999998, 21.59, 180,R4, 4.7k, 0603, SparkFun-Resistors, (0.65, 0.85), R180|
 |RESE-0603-X-UNMATCHED-01, R5, 8.889999999999999, 21.59, 0,R5, 4.7k, 0603, SparkFun-Resistors, (0.35, 0.85), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 21.59, 5.08, M0,SJ1, SJ_2S-NO, SparkFun, (0.85, 0.2), MR0|
@@ -57,10 +67,10 @@ Contents
 - oompName: Qwiic GRIDEye
 - sources: All source files from https://github.com/sparkfun/Qwiic_GRIDEye (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14607
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 19.049999999999997, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 10.16, 19.049999999999997, 180
-- oompPart: CAPC-0603-X-UF10-V25, C3, 6.35, 19.049999999999997, 0
-- oompPart: CAPC-0603-X-NF100-V50, C4, 7.619999999999999, 6.35, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 15.239999999999998, 19.049999999999997, 0
+- oompPart: CAPE-0603-X-UF22D-01, C2, 10.16, 19.049999999999997, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 6.35, 19.049999999999997, 0
+- oompPart: CAPE-0603-X-NF100-01, C4, 7.619999999999999, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 17.779999999999998, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 7.619999999999999, 1.27, 0
@@ -71,7 +81,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 12.7, 21.59, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 19.049999999999997, 19.049999999999997, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 6.35, 0
+- oompPart: RESE-0603-X-O103-01, R2, 17.779999999999998, 6.35, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 16.509999999999998, 21.59, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 8.889999999999999, 21.59, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 21.59, 5.08, M0
@@ -95,3 +105,7 @@ Contents
 - rawPart: R5, 4.7k, 0603, SparkFun-Resistors, (0.35, 0.85), R0
 - rawPart: SJ1, SJ_2S-NO, SparkFun, (0.85, 0.2), MR0
 - rawPart: U2, GRIDEYE, GRIDEYE-AMG88, SparkFun-Sensors, (0.5, 0.5), R0
+
+
+
+[im]: kicadPcb3d_450.png

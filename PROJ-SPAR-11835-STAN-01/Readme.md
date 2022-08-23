@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11835-STAN-01>Gram Piano](#proj-spar-11835-stan-01gram-piano)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11835-STAN-01>Gram Piano
 
 - ID: PROJ-SPAR-11835-STAN-01
 - Hex ID: PRS11835
 - Name: Gram Piano
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -28,10 +38,10 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 134.61999999999998, 60.959999999999994, 180,BAT1, BATTERY-AA-KIT, SparkFun-Electromechanical, (5.3, 2.4), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 134.61999999999998, 44.449999999999996, 0,BAT2, BATTERY-AA-KIT, SparkFun-Electromechanical, (5.3, 1.75), R0|
-|CAPC-UNMATCHED-X-NF100-V50, C1, 73.66, 40.64, 270,C1, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.9, 1.6), R270|
-|CAPC-UNMATCHED-X-NF100-V50, C2, 91.44, 55.88, 180,C2, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (3.6, 2.2), R180|
-|CAPC-UNMATCHED-X-NF100-V50, C3, 53.339999999999996, 40.513, 90,C3, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.1, 1.595), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C10, 77.46999999999998, 40.64, 90,C10, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (3.05, 1.6), R90|
+|CAPE-UNMATCHED-X-NF100-01, C1, 73.66, 40.64, 270,C1, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.9, 1.6), R270|
+|CAPE-UNMATCHED-X-NF100-01, C2, 91.44, 55.88, 180,C2, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (3.6, 2.2), R180|
+|CAPE-UNMATCHED-X-NF100-01, C3, 53.339999999999996, 40.513, 90,C3, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.1, 1.595), R90|
+|CAPE-UNMATCHED-X-NF100-01, C10, 77.46999999999998, 40.64, 90,C10, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (3.05, 1.6), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 60.959999999999994, 63.5, 0,J1, AVR_SPI_PRG_6PTH, 2X3, SparkFun-Connectors, (2.4, 2.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 78.74, 63.5, 0,JP1, SJ_2S-NO, SparkFun-Passives, (3.1, 2.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 94.83800006199999, 67.118999874, 180,JP9, Program, 1X06-KIT, SparkFun-Connectors, (3.73377953, 2.64248031), R180|
@@ -73,10 +83,10 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11835
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 134.61999999999998, 60.959999999999994, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 134.61999999999998, 44.449999999999996, 0
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 73.66, 40.64, 270
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 91.44, 55.88, 180
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 53.339999999999996, 40.513, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C10, 77.46999999999998, 40.64, 90
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C1, 73.66, 40.64, 270
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C2, 91.44, 55.88, 180
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C3, 53.339999999999996, 40.513, 90
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C10, 77.46999999999998, 40.64, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 60.959999999999994, 63.5, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 78.74, 63.5, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 94.83800006199999, 67.118999874, 180
@@ -137,3 +147,7 @@ Contents
 - rawPart: S2, TACTILE-PTH, SparkFun-Electromechanical, (0.25, 2.05), R90
 - rawPart: SP1, SPEAKERPCB_MOUNT, PCB_MOUNT_SPEAKER, SparkFun-Electromechanical, (1.235, 1.945), R90
 - rawPart: U3, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (2.5, 1.6), R270
+
+
+
+[im]: kicadPcb3d_450.png

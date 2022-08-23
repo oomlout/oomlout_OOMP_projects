@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 6.35, 9.652, 180,C1, 10uF, 0805-NO, microbuilder, (0.25, 0.38), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 2.54, 0,JP1, 1X05_ROUND_70, microbuilder, (0.25, 0.1), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-0805-X-UNMATCHED-01, R3, 11.176, 7.112, 270,R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270|
+|RESE-0805-X-O274-01, R3, 11.176, 7.112, 270,R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 6.858, 0,U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0|
 
@@ -55,12 +55,12 @@ Contents
 - oompName: Adafruit VEML6070 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VEML6070-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2899
-- oompPart: CAPC-0805-X-UF10-V25, C1, 6.35, 9.652, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 6.35, 9.652, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.334, 0.7619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 2.54, 0
 - oompPart: RESE-0805-X-O103-01, R1, 9.143999999999998, 7.112, 90
 - oompPart: RESE-0805-X-O103-01, R2, 3.0479999999999996, 6.604, 270
-- oompPart: RESE-0805-X-UNMATCHED-01, R3, 11.176, 7.112, 270
+- oompPart: RESE-0805-X-O274-01, R3, 11.176, 7.112, 270
 - oompPart: RESE-0805-X-O103-01, R4, 1.27, 7.365999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 2.54, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 10.16, 11.43, 0

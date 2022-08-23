@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14449-STAN-01>Variable Load](#proj-spar-14449-stan-01variable-load)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14449-STAN-01>Variable Load
 
 - ID: PROJ-SPAR-14449-STAN-01
 - Hex ID: PRS14449
 - Name: Variable Load
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,20 +36,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 13.081, 14.604999999999999, 270,C1, 2.2nF, 0603, SparkFun-Capacitors, (0.515, 0.575), R270|
-|CAPC-0402-X-NF100-V50, C2, 13.208, 18.415, 180,C2, 0.1uF, 0402, SparkFun-Capacitors, (0.52, 0.725), R180|
-|CAPC-0402-X-UNMATCHED-01, C3, 13.208, 19.812, 180,C3, 1.0uF, 0402, SparkFun-Capacitors, (0.52, 0.78), R180|
-|CAPC-0402-X-NF100-V50, C4, 27.686, 18.415, 0,C4, 0.1uF, 0402, SparkFun-Capacitors, (1.09, 0.725), R0|
-|CAPC-0402-X-NF100-V50, C5, 14.731999999999998, 14.224, 270,C5, 0.1uF, 0402, SparkFun-Capacitors, (0.58, 0.56), R270|
-|CAPC-0402-X-NF100-V50, C6, 25.907999999999998, 14.858999999999998, 0,C6, 0.1uF, 0402, SparkFun-Capacitors, (1.02, 0.585), R0|
-|CAPC-0402-X-NF100-V50, C7, 13.97, 22.86, 180,C7, 0.1uF, 0402, SparkFun-Capacitors, (0.55, 0.9), R180|
-|CAPC-0402-X-NF100-V50, C8, 25.4, 24.13, 0,C8, 0.1uF, 0402, SparkFun-Capacitors, (1, 0.95), R0|
-|CAPC-0402-X-NF100-V50, C9, 20.193, 25.273, 90,C9, 0.1uF, 0402, SparkFun-Capacitors, (0.795, 0.995), R90|
-|CAPC-0402-X-UNMATCHED-01, C10, 18.796, 25.273, 90,C10, 1.0uF, 0402, SparkFun-Capacitors, (0.74, 0.995), R90|
-|CAPC-0402-X-UNMATCHED-01, C11, 21.59, 25.273, 90,C11, 1.0uF, 0402, SparkFun-Capacitors, (0.85, 0.995), R90|
-|CAPC-0402-X-UNMATCHED-01, C12, 26.669999999999998, 19.812, 0,C12, 1.0uF, 0402, SparkFun-Capacitors, (1.05, 0.78), R0|
-|CAPC-0402-X-UNMATCHED-01, C13, 15.366999999999999, 26.416, 180,C13, 1.0uF, 0402, SparkFun-Capacitors, (0.605, 1.04), R180|
-|CAPC-0402-X-UNMATCHED-01, C14, 16.256, 32.512, 90,C14, 1.0uF, 0402, SparkFun-Capacitors, (0.64, 1.28), R90|
+|CAPE-0603-X-NF22D-01, C1, 13.081, 14.604999999999999, 270,C1, 2.2nF, 0603, SparkFun-Capacitors, (0.515, 0.575), R270|
+|CAPE-0402-X-NF100-01, C2, 13.208, 18.415, 180,C2, 0.1uF, 0402, SparkFun-Capacitors, (0.52, 0.725), R180|
+|CAPE-0402-X-UNMATCHED-01, C3, 13.208, 19.812, 180,C3, 1.0uF, 0402, SparkFun-Capacitors, (0.52, 0.78), R180|
+|CAPE-0402-X-NF100-01, C4, 27.686, 18.415, 0,C4, 0.1uF, 0402, SparkFun-Capacitors, (1.09, 0.725), R0|
+|CAPE-0402-X-NF100-01, C5, 14.731999999999998, 14.224, 270,C5, 0.1uF, 0402, SparkFun-Capacitors, (0.58, 0.56), R270|
+|CAPE-0402-X-NF100-01, C6, 25.907999999999998, 14.858999999999998, 0,C6, 0.1uF, 0402, SparkFun-Capacitors, (1.02, 0.585), R0|
+|CAPE-0402-X-NF100-01, C7, 13.97, 22.86, 180,C7, 0.1uF, 0402, SparkFun-Capacitors, (0.55, 0.9), R180|
+|CAPE-0402-X-NF100-01, C8, 25.4, 24.13, 0,C8, 0.1uF, 0402, SparkFun-Capacitors, (1, 0.95), R0|
+|CAPE-0402-X-NF100-01, C9, 20.193, 25.273, 90,C9, 0.1uF, 0402, SparkFun-Capacitors, (0.795, 0.995), R90|
+|CAPE-0402-X-UNMATCHED-01, C10, 18.796, 25.273, 90,C10, 1.0uF, 0402, SparkFun-Capacitors, (0.74, 0.995), R90|
+|CAPE-0402-X-UNMATCHED-01, C11, 21.59, 25.273, 90,C11, 1.0uF, 0402, SparkFun-Capacitors, (0.85, 0.995), R90|
+|CAPE-0402-X-UNMATCHED-01, C12, 26.669999999999998, 19.812, 0,C12, 1.0uF, 0402, SparkFun-Capacitors, (1.05, 0.78), R0|
+|CAPE-0402-X-UNMATCHED-01, C13, 15.366999999999999, 26.416, 180,C13, 1.0uF, 0402, SparkFun-Capacitors, (0.605, 1.04), R180|
+|CAPE-0402-X-UNMATCHED-01, C14, 16.256, 32.512, 90,C14, 1.0uF, 0402, SparkFun-Capacitors, (0.64, 1.28), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 35.559999999999995, 21.59, 90,D1, GREEN, LED-1206-BOTTOM, SparkFun-LED, (1.4, 0.85), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 22.86, 33.528, 270,F1, 6V/0.5A, 1206, SparkFun-Fuses, (0.9, 1.32), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 118.11, 5.08, M0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (4.65, 0.2), MR0|
@@ -58,8 +68,8 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R2, 37.465, 6.35, 270,R2, 560, 0402, SparkFun-Resistors, (1.475, 0.25), R270|
 |RESE-0402-X-UNMATCHED-01, R3, 27.304999999999996, 6.35, 270,R3, 560, 0402, SparkFun-Resistors, (1.075, 0.25), R270|
 |RESE-0402-X-UNMATCHED-01, R4, 17.145, 6.35, 270,R4, 560, 0402, SparkFun-Resistors, (0.675, 0.25), R270|
-|RESE-0603-X-UNMATCHED-01, R5, 43.18, 21.59, 0,R5, 47k, 0603, SparkFun-Resistors, (1.7, 0.85), R0|
-|RESE-0603-X-UNMATCHED-01, R6, 43.18, 23.114, 0,R6, 47k, 0603, SparkFun-Resistors, (1.7, 0.91), R0|
+|<table><tr><td>![RESE-0603-X-O473-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O473-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O473-01<br>SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td><td>[R6473](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O473-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O473-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O473-01<br>SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td><td>[R6473](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td></tr></table>|
 |RESE-UNMATCHED-X-UNMATCHED-01, R7, 91.44, 12.7, 0,R7, 0.05, 2512, SparkFun-Resistors, (3.6, 0.5), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R8, 82.55, 12.7, 0,R8, 0.05, 2512, SparkFun-Resistors, (3.25, 0.5), R0|
 |RESE-0603-X-UNMATCHED-01, R9, 43.18, 27.686, 0,R9, 1k, 0603, SparkFun-Resistors, (1.7, 1.09), R0|
@@ -84,20 +94,20 @@ Contents
 - oompName: Variable Load
 - sources: All source files from https://github.com/sparkfun/Variable_Load (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14449
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.081, 14.604999999999999, 270
-- oompPart: CAPC-0402-X-NF100-V50, C2, 13.208, 18.415, 180
-- oompPart: CAPC-0402-X-UNMATCHED-01, C3, 13.208, 19.812, 180
-- oompPart: CAPC-0402-X-NF100-V50, C4, 27.686, 18.415, 0
-- oompPart: CAPC-0402-X-NF100-V50, C5, 14.731999999999998, 14.224, 270
-- oompPart: CAPC-0402-X-NF100-V50, C6, 25.907999999999998, 14.858999999999998, 0
-- oompPart: CAPC-0402-X-NF100-V50, C7, 13.97, 22.86, 180
-- oompPart: CAPC-0402-X-NF100-V50, C8, 25.4, 24.13, 0
-- oompPart: CAPC-0402-X-NF100-V50, C9, 20.193, 25.273, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C10, 18.796, 25.273, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C11, 21.59, 25.273, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C12, 26.669999999999998, 19.812, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C13, 15.366999999999999, 26.416, 180
-- oompPart: CAPC-0402-X-UNMATCHED-01, C14, 16.256, 32.512, 90
+- oompPart: CAPE-0603-X-NF22D-01, C1, 13.081, 14.604999999999999, 270
+- oompPart: CAPE-0402-X-NF100-01, C2, 13.208, 18.415, 180
+- oompPart: CAPE-0402-X-UNMATCHED-01, C3, 13.208, 19.812, 180
+- oompPart: CAPE-0402-X-NF100-01, C4, 27.686, 18.415, 0
+- oompPart: CAPE-0402-X-NF100-01, C5, 14.731999999999998, 14.224, 270
+- oompPart: CAPE-0402-X-NF100-01, C6, 25.907999999999998, 14.858999999999998, 0
+- oompPart: CAPE-0402-X-NF100-01, C7, 13.97, 22.86, 180
+- oompPart: CAPE-0402-X-NF100-01, C8, 25.4, 24.13, 0
+- oompPart: CAPE-0402-X-NF100-01, C9, 20.193, 25.273, 90
+- oompPart: CAPE-0402-X-UNMATCHED-01, C10, 18.796, 25.273, 90
+- oompPart: CAPE-0402-X-UNMATCHED-01, C11, 21.59, 25.273, 90
+- oompPart: CAPE-0402-X-UNMATCHED-01, C12, 26.669999999999998, 19.812, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C13, 15.366999999999999, 26.416, 180
+- oompPart: CAPE-0402-X-UNMATCHED-01, C14, 16.256, 32.512, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 35.559999999999995, 21.59, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 22.86, 33.528, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 118.11, 5.08, M0
@@ -116,8 +126,8 @@ Contents
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 37.465, 6.35, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, 27.304999999999996, 6.35, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, 17.145, 6.35, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 43.18, 21.59, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 43.18, 23.114, 0
+- oompPart: RESE-0603-X-O473-01, R5, 43.18, 21.59, 0
+- oompPart: RESE-0603-X-O473-01, R6, 43.18, 23.114, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R7, 91.44, 12.7, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R8, 82.55, 12.7, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R9, 43.18, 27.686, 0
@@ -176,3 +186,7 @@ Contents
 - rawPart: R19, 22, 0402-RES, SparkFun-Resistors, (0.795, 1.34), R90
 - rawPart: U1, CY8C5868LTI-LP039, QFN-68, SparkFun-IC-Microcontroller, (0.8, 0.75), R90
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (0.6, 1.15), R180
+
+
+
+[im]: kicadPcb3d_450.png

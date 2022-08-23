@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9546-STAN-01>XMega100 Breakout](#proj-spar-9546-stan-01xmega100-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9546-STAN-01>XMega100 Breakout
 
 - ID: PROJ-SPAR-9546-STAN-01
 - Hex ID: PRS9546
 - Name: XMega100 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C3, 25.4, 39.37, 90,C3, 0.1uF, 0402-CAP, SparkFun, (1, 1.55), R90|
-|CAPC-0402-X-NF100-V50, C4, 26.669999999999998, 16.509999999999998, 270,C4, 0.1uF, 0402-CAP, SparkFun, (1.05, 0.65), R270|
-|CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 21.59, 270,C5, 0.1uF, 0402-CAP, SparkFun, (0.7, 0.85), R270|
-|CAPC-0402-X-NF100-V50, C6, 31.75, 17.779999999999998, 270,C6, 0.1uF, 0402-CAP, SparkFun, (1.25, 0.7), R270|
-|CAPC-0402-X-NF100-V50, C7, 16.509999999999998, 26.669999999999998, 180,C7, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.05), R180|
-|CAPC-0402-X-NF100-V50, C8, 38.8112, 28.448, 0,C8, 0.1uF, 0402-CAP, SparkFun, (1.528, 1.12), R0|
-|CAPC-0402-X-NF100-V50, C9, 30.479999999999997, 39.37, 90,C9, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.55), R90|
-|CAPC-0402-X-NF100-V50, C10, 39.37, 22.86, 0,C10, 0.1uF, 0402-CAP, SparkFun, (1.55, 0.9), R0|
-|CAPC-0402-X-NF100-V50, C11, 39.37, 34.29, 0,C11, 0.1uF, 0402-CAP, SparkFun, (1.55, 1.35), R0|
-|CAPC-0402-X-NF100-V50, C13, 16.509999999999998, 34.29, 90,C13, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.35), R90|
+|CAPE-0402-X-NF100-01, C3, 25.4, 39.37, 90,C3, 0.1uF, 0402-CAP, SparkFun, (1, 1.55), R90|
+|CAPE-0402-X-NF100-01, C4, 26.669999999999998, 16.509999999999998, 270,C4, 0.1uF, 0402-CAP, SparkFun, (1.05, 0.65), R270|
+|CAPE-0402-X-NF100-01, C5, 17.779999999999998, 21.59, 270,C5, 0.1uF, 0402-CAP, SparkFun, (0.7, 0.85), R270|
+|CAPE-0402-X-NF100-01, C6, 31.75, 17.779999999999998, 270,C6, 0.1uF, 0402-CAP, SparkFun, (1.25, 0.7), R270|
+|CAPE-0402-X-NF100-01, C7, 16.509999999999998, 26.669999999999998, 180,C7, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.05), R180|
+|CAPE-0402-X-NF100-01, C8, 38.8112, 28.448, 0,C8, 0.1uF, 0402-CAP, SparkFun, (1.528, 1.12), R0|
+|CAPE-0402-X-NF100-01, C9, 30.479999999999997, 39.37, 90,C9, 0.1uF, 0402-CAP, SparkFun, (1.2, 1.55), R90|
+|CAPE-0402-X-NF100-01, C10, 39.37, 22.86, 0,C10, 0.1uF, 0402-CAP, SparkFun, (1.55, 0.9), R0|
+|CAPE-0402-X-NF100-01, C11, 39.37, 34.29, 0,C11, 0.1uF, 0402-CAP, SparkFun, (1.55, 1.35), R0|
+|CAPE-0402-X-NF100-01, C13, 16.509999999999998, 34.29, 90,C13, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.35), R90|
 |ERROR, JP6 Left Port, 0, 0, 0,JP6, Left, Port, B, 1X08, SparkFun, (0.05, 1.15), R90|
 |ERROR, JP7 Left Port, 0, 0, 0,JP7, Left, Port, C, 1X08, SparkFun, (0.05, 0.35), R90|
 |ERROR, JP8 Right Port, 0, 0, 0,JP8, Right, Port, H, 1X08, SparkFun, (2.15, 0.35), R90|
@@ -61,16 +71,16 @@ Contents
 - oompName: XMega100 Breakout
 - sources: All source files from https://github.com/sparkfun/XMega100_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9546
-- oompPart: CAPC-0402-X-NF100-V50, C3, 25.4, 39.37, 90
-- oompPart: CAPC-0402-X-NF100-V50, C4, 26.669999999999998, 16.509999999999998, 270
-- oompPart: CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 21.59, 270
-- oompPart: CAPC-0402-X-NF100-V50, C6, 31.75, 17.779999999999998, 270
-- oompPart: CAPC-0402-X-NF100-V50, C7, 16.509999999999998, 26.669999999999998, 180
-- oompPart: CAPC-0402-X-NF100-V50, C8, 38.8112, 28.448, 0
-- oompPart: CAPC-0402-X-NF100-V50, C9, 30.479999999999997, 39.37, 90
-- oompPart: CAPC-0402-X-NF100-V50, C10, 39.37, 22.86, 0
-- oompPart: CAPC-0402-X-NF100-V50, C11, 39.37, 34.29, 0
-- oompPart: CAPC-0402-X-NF100-V50, C13, 16.509999999999998, 34.29, 90
+- oompPart: CAPE-0402-X-NF100-01, C3, 25.4, 39.37, 90
+- oompPart: CAPE-0402-X-NF100-01, C4, 26.669999999999998, 16.509999999999998, 270
+- oompPart: CAPE-0402-X-NF100-01, C5, 17.779999999999998, 21.59, 270
+- oompPart: CAPE-0402-X-NF100-01, C6, 31.75, 17.779999999999998, 270
+- oompPart: CAPE-0402-X-NF100-01, C7, 16.509999999999998, 26.669999999999998, 180
+- oompPart: CAPE-0402-X-NF100-01, C8, 38.8112, 28.448, 0
+- oompPart: CAPE-0402-X-NF100-01, C9, 30.479999999999997, 39.37, 90
+- oompPart: CAPE-0402-X-NF100-01, C10, 39.37, 22.86, 0
+- oompPart: CAPE-0402-X-NF100-01, C11, 39.37, 34.29, 0
+- oompPart: CAPE-0402-X-NF100-01, C13, 16.509999999999998, 34.29, 90
 - oompPart: ERROR, JP6 Left Port, 0, 0, 0
 - oompPart: ERROR, JP7 Left Port, 0, 0, 0
 - oompPart: ERROR, JP8 Right Port, 0, 0, 0
@@ -107,3 +117,7 @@ Contents
 - rawPart: U1, XMEGA-100SMD, TQFP-100-14X14MM, SparkFun, (1.1, 1.1), R0
 - rawPart: U5, BottonInside, 1X13, SparkFun, (1.75, 0.15), R180
 - rawPart: U6, BottomEdge, 1X13, SparkFun, (1.75, 0.05), R180
+
+
+
+[im]: kicadPcb3d_450.png

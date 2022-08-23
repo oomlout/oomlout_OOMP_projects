@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13157-STAN-01>Breadboard Power Supply Stick 3.3V-1.8V](#proj-spar-13157-stan-01breadboard-power-supply-stick-33v-18v)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13157-STAN-01>Breadboard Power Supply Stick 3.3V-1.8V
 
 - ID: PROJ-SPAR-13157-STAN-01
 - Hex ID: PRS13157
 - Name: Breadboard Power Supply Stick 3.3V-1.8V
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPE-UNMATCHED-X-UNMATCHED-01, C1, 28.194000000000003, 7.619999999999999, 90,C1, 100uF, EIA7343, SparkFun, (1.11, 0.3), R90|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 41.91, 13.97, 0,C2, 10uF, EIA3216, SparkFun, (1.65, 0.55), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 41.91, 13.97, 0,C2, 10uF, EIA3216, SparkFun, (1.65, 0.55), R0|
+|CAPE-0603-X-NF100-01, C3, 41.91, 11.43, 180,C3, 0.1uF, 0603-CAP, SparkFun, (1.65, 0.45), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.398, 6.858, 90,D1, 1N4001, SMA-DIODE-TYLERALT1, Testing, (0.37, 0.27), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 9.398, 13.462, 90,F1, PTCSMD-W, PTC-1206-WIDE, SparkFun-PowerIC, (0.37, 0.53), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 18.287999999999997, 5.715, 90,J1, POWER_JACKOVERPASTE_REDBOARD_0603, POWER_JACK_SMD_OVERPASTE_REDBOARD_0603, Testing, (0.72, 0.225), R90|
@@ -62,8 +72,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13157
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 28.194000000000003, 7.619999999999999, 90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 41.91, 13.97, 0
-- oompPart: CAPC-0603-X-NF100-V50, C3, 41.91, 11.43, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 41.91, 13.97, 0
+- oompPart: CAPE-0603-X-NF100-01, C3, 41.91, 11.43, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.398, 6.858, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 9.398, 13.462, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 18.287999999999997, 5.715, 90
@@ -111,3 +121,7 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.35, 0.05), R0
 - rawPart: U$4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (2.09, 0.57), R0
 - rawPart: U1, V_REG_317SMD, SOT223, SparkFun, (1.35, 0.3), R180
+
+
+
+[im]: kicadPcb3d_450.png

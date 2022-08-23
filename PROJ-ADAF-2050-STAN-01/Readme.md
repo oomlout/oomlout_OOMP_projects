@@ -36,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C16, -10.668, 15.875, 180,C16, 10uF, _0805MP, microbuilder, (-0.42, 0.625), R180|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C18</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C20, -12.191999999999998, -1.397, 0,C20, 1uF, 0805-NO, microbuilder, (-0.48, -0.055), R0|
+|CAPE-0805-X-NF100-01, C1, -20.32, 21.209, 0,C1, 0.1uF, 0805-NO, microbuilder, (-0.8, 0.835), R0|
+|CAPE-0805-X-UNMATCHED-01, C2, 22.605999999999998, -30.987999999999996, 0,C2, 10uF, 0805-NO, microbuilder, (0.89, -1.22), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 19.558, 7.112, 0,C3, 10uF, 0805-NO, microbuilder, (0.77, 0.28), R0|
+|CAPE-0805-X-NF100-01, C4, -5.588, -1.016, 180,C4, 0.1uF, 0805-NO, microbuilder, (-0.22, -0.04), R180|
+|CAPE-0805-X-UNMATCHED-01, C5, 21.336, -1.27, 180,C5, 10uF, 0805-NO, microbuilder, (0.84, -0.05), R180|
+|CAPE-0805-X-UNMATCHED-01, C16, -10.668, 15.875, 180,C16, 10uF, _0805MP, microbuilder, (-0.42, 0.625), R180|
+|CAPE-0805-X-NF100-01, C18, -11.049, 4.064, 180,C18, 0.1uF, 0805-NO, microbuilder, (-0.435, 0.16), R180|
+|CAPE-0805-X-UNMATCHED-01, C20, -12.191999999999998, -1.397, 0,C20, 1uF, 0805-NO, microbuilder, (-0.48, -0.055), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -11.684, 1.397, 0,D1, MM3Z24VT1G, SMADIODE, microbuilder, (-0.46, 0.055), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, -14.350999999999997, 6.35, 90,D2, MBR0540, SOD-123, microbuilder, (-0.565, 0.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, -3.937, 3.175, 270,D4, 1N4148, SOD-323F, adafruit, (-0.155, 0.125), R270|
@@ -54,7 +54,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 50.291999999999994, 180,JP1, 1X20_ROUND, microbuilder, (0, 1.98), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, -40.64, 180,JP2, 1X20_ROUND, microbuilder, (0, -1.6), R180|
 |ERROR, L1 10uH inductor, 0, 0, 0,L1, 10uH, inductor, INDUCTOR_5X5MM_NR5040_NOTHERMALS, microbuilder, (-0.44, 0.47), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, -7.365999999999999, 4.064, 180,R1, 12?, _0805MP, microbuilder, (-0.29, 0.16), R180|
+|RESE-0805-X-UNMATCHED-01, R1, -7.365999999999999, 4.064, 180,R1, 12?, _0805MP, microbuilder, (-0.29, 0.16), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -77,14 +77,14 @@ Contents
 - oompName: 3.5inch TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/3.5inch-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2050
-- oompPart: CAPC-0805-X-NF100-V50, C1, -20.32, 21.209, 0
-- oompPart: CAPC-0805-X-UF10-V25, C2, 22.605999999999998, -30.987999999999996, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 19.558, 7.112, 0
-- oompPart: CAPC-0805-X-NF100-V50, C4, -5.588, -1.016, 180
-- oompPart: CAPC-0805-X-UF10-V25, C5, 21.336, -1.27, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C16, -10.668, 15.875, 180
-- oompPart: CAPC-0805-X-NF100-V50, C18, -11.049, 4.064, 180
-- oompPart: CAPC-0805-X-UNMATCHED-01, C20, -12.191999999999998, -1.397, 0
+- oompPart: CAPE-0805-X-NF100-01, C1, -20.32, 21.209, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 22.605999999999998, -30.987999999999996, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 19.558, 7.112, 0
+- oompPart: CAPE-0805-X-NF100-01, C4, -5.588, -1.016, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 21.336, -1.27, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C16, -10.668, 15.875, 180
+- oompPart: CAPE-0805-X-NF100-01, C18, -11.049, 4.064, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C20, -12.191999999999998, -1.397, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -11.684, 1.397, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, -14.350999999999997, 6.35, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, -3.937, 3.175, 270
@@ -95,7 +95,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 50.291999999999994, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, -40.64, 180
 - oompPart: ERROR, L1 10uH inductor, 0, 0, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, -7.365999999999999, 4.064, 180
+- oompPart: RESE-0805-X-UNMATCHED-01, R1, -7.365999999999999, 4.064, 180
 - oompPart: RESE-0805-X-O103-01, R2, -8.128, 7.112, 90
 - oompPart: RESE-0805-X-O103-01, R6, 8.382, 9.906, 90
 - oompPart: RESE-0805-X-O103-01, R8, -22.224999999999998, -27.432, 90

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 46.99, 7.619999999999999, 270,C2, 10uF, EIA3216, SparkFun, (1.85, 0.3), R270|
+|CAPE-0603-X-NF100-01, C1, 63.5, 24.764999999999997, 270,C1, 0.1uF, 0603-CAP, SparkFun, (2.5, 0.975), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 7.619999999999999, 270,C2, 10uF, EIA3216, SparkFun, (1.85, 0.3), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_A, 3.8099999999999996, 67.30999999999999, 90,CHAN_A, JST-2-SMD, SparkFun, (0.15, 2.65), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_B, 3.8099999999999996, 58.419999999999995, 90,CHAN_B, JST-2-SMD, SparkFun, (0.15, 2.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_C, 3.8099999999999996, 49.529999999999994, 90,CHAN_C, JST-2-SMD, SparkFun, (0.15, 1.95), R90|
@@ -122,8 +122,8 @@ Contents
 - oompName: EL Escudo Dos
 - sources: All source files from https://github.com/sparkfun/EL_Escudo_Dos (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10878
-- oompPart: CAPC-0603-X-NF100-V50, C1, 63.5, 24.764999999999997, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 46.99, 7.619999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 63.5, 24.764999999999997, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_A, 3.8099999999999996, 67.30999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_B, 3.8099999999999996, 58.419999999999995, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_C, 3.8099999999999996, 49.529999999999994, 90
@@ -273,4 +273,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

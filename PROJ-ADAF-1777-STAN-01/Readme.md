@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 6.095999999999999, 11.176, 90,C1, 10uF, 0805-NO, microbuilder, (0.24, 0.44), R90|
+|CAPE-0805-X-UNMATCHED-01, C2, 2.032, 7.112, 90,C2, 10uF, 0805-NO, microbuilder, (0.08, 0.28), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 0,JP1, 1X07_ROUND_70, microbuilder, (0.4, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.748, 10.921999999999999, 270,Q1, BSS138, SOT23-WIDE, microbuilder, (0.62, 0.43), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.748, 6.858, 270,Q2, BSS138, SOT23-WIDE, microbuilder, (0.62, 0.27), R270|
@@ -60,8 +60,8 @@ Contents
 - oompName: Adafruit Si1145 Light Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1777
-- oompPart: CAPC-0805-X-UF10-V25, C1, 6.095999999999999, 11.176, 90
-- oompPart: CAPC-0805-X-UF10-V25, C2, 2.032, 7.112, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 6.095999999999999, 11.176, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.032, 7.112, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 14.477999999999998, 16.256, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.08, 4.571999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 0

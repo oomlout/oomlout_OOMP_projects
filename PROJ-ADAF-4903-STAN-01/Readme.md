@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 17.525999999999996, 8.889999999999999, 270,C1, 0.1uF, 0603-NO, microbuilder, (0.69, 0.35), R270|
+|CAPE-0603-X-NF100-01, C2, 7.874, 8.889999999999999, 270,C2, 0.1uF, 0603-NO, microbuilder, (0.31, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 2.54, 8.889999999999999, 270,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 22.86, 8.889999999999999, 90,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.9, 0.35), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 21.843999999999998, 5.334, 270,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.86, 0.21), R270|
@@ -59,8 +59,8 @@ Contents
 - oompName: Adafruit ISO1540 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ISO1540-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4903
-- oompPart: CAPC-0603-X-NF100-V50, C1, 17.525999999999996, 8.889999999999999, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 7.874, 8.889999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 17.525999999999996, 8.889999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 7.874, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 2.54, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 22.86, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 21.843999999999998, 5.334, 270
@@ -96,4 +96,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

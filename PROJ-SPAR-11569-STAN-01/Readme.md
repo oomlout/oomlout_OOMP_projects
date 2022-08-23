@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11569-STAN-01>Papilio VGA Wing](#proj-spar-11569-stan-01papilio-vga-wing)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11569-STAN-01>Papilio VGA Wing
 
 - ID: PROJ-SPAR-11569-STAN-01
 - Hex ID: PRS11569
 - Name: Papilio VGA Wing
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -77,3 +87,7 @@ Contents
 - rawPart: R6, 270, 0402-RES, SparkFun-Passives, (0.15, 0.4), R270
 - rawPart: R7, 270, 0402-RES, SparkFun-Passives, (0.35, 0.4), R270
 - rawPart: R8, 270, 0402-RES, SparkFun-Passives, (0.5, 0.4), R270
+
+
+
+[im]: kicadPcb3d_450.png

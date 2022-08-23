@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15270-STAN-01>gator log](#proj-spar-15270-stan-01gator-log)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15270-STAN-01>gator log
 
 - ID: PROJ-SPAR-15270-STAN-01
 - Hex ID: PRS15270
 - Name: gator log
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C2, 31.75, 19.049999999999997, 0,C2, 0.1uF, 0603, SparkFun-Capacitors, (1.25, 0.75), R0|
+|CAPE-0603-X-NF100-01, C3, 21.59, 15.239999999999998, 270,C3, 0.1uF, 0603, SparkFun-Capacitors, (0.85, 0.6), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 19.685, 15.239999999999998, 90,D1, BLUE, LED-0603, SparkFun-LED, (0.775, 0.6), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 29.209999999999997, 2.54, 270,D2, 3.6V, SOD-323, SparkFun-DiscreteSemi, (1.15, 0.1), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 19.685, 10.16, 90,D3, GREEN, LED-0603, SparkFun-LED, (0.775, 0.4), R90|
@@ -43,8 +53,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 22.260559492, 10.83818127, 90,Q1, 16MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (0.87639998, 0.42670005), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.889999999999999, 8.254999999999999, 0,Q3, 2.5A/30V/105m?, SOT23-3, SparkFun-DiscreteSemi, (0.35, 0.325), R0|
 |RESE-0603-X-UNMATCHED-01, R1, 17.779999999999998, 15.239999999999998, 270,R1, 1k, 0603, SparkFun-Resistors, (0.7, 0.6), R270|
-|RESE-0603-X-UNMATCHED-01, R2, 35.559999999999995, 15.239999999999998, 270,R2, 10k, 0603, SparkFun-Resistors, (1.4, 0.6), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 8.889999999999999, 2.54, 90,R3, 10k, 0603, SparkFun-Resistors, (0.35, 0.1), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 29.209999999999997, 12.7, 0,U1, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (1.15, 0.5), R0|
 |ERROR, U3 microSD Socket, 0, 0, 0,U3, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.625, 0.4), R90|
@@ -60,8 +70,8 @@ Contents
 - oompName: gator log
 - sources: All source files from https://github.com/sparkfun/gator_log (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 31.75, 19.049999999999997, 0
-- oompPart: CAPC-0603-X-NF100-V50, C3, 21.59, 15.239999999999998, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 31.75, 19.049999999999997, 0
+- oompPart: CAPE-0603-X-NF100-01, C3, 21.59, 15.239999999999998, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 19.685, 15.239999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 29.209999999999997, 2.54, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 19.685, 10.16, 90
@@ -81,8 +91,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 22.260559492, 10.83818127, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.889999999999999, 8.254999999999999, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 17.779999999999998, 15.239999999999998, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 35.559999999999995, 15.239999999999998, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 8.889999999999999, 2.54, 90
+- oompPart: RESE-0603-X-O103-01, R2, 35.559999999999995, 15.239999999999998, 270
+- oompPart: RESE-0603-X-O103-01, R3, 8.889999999999999, 2.54, 90
 - oompPart: RESE-0603-X-O331-01, R6, 17.779999999999998, 10.16, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 29.209999999999997, 12.7, 0
 - oompPart: ERROR, U3 microSD Socket, 0, 0, 0
@@ -112,3 +122,7 @@ Contents
 - rawPart: R6, 330, 0603, SparkFun-Resistors, (0.7, 0.4), R270
 - rawPart: U1, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (1.15, 0.5), R0
 - rawPart: U3, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.625, 0.4), R90
+
+
+
+[im]: kicadPcb3d_450.png

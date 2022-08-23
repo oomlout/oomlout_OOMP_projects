@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9147-STAN-01>AVR Stick](#proj-spar-9147-stan-01avr-stick)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9147-STAN-01>AVR Stick
 
 - ID: PROJ-SPAR-9147-STAN-01
 - Hex ID: PRS9147
 - Name: AVR Stick
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C3, 26.669999999999998, 7.619999999999999, 0,C3, 0.1uF, 0402-CAP, SparkFun, (1.05, 0.3), R0|
-|CAPC-UNMATCHED-X-UF10-V25, C4, 26.669999999999998, 10.16, 0,C4, 10uF, EIA3216, SparkFun, (1.05, 0.4), R0|
+|CAPE-0402-X-NF100-01, C3, 26.669999999999998, 7.619999999999999, 0,C3, 0.1uF, 0402-CAP, SparkFun, (1.05, 0.3), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 26.669999999999998, 10.16, 0,C4, 10uF, EIA3216, SparkFun, (1.05, 0.4), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 21.59, 6.35, 180,IC1, TINY85S, SOIC8, atmel, (0.85, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 10.16, 0,JP1, 1X04, SparkFun, (0.35, 0.4), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 2.54, 180,JP2, 1X04, SparkFun, (0.65, 0.1), R180|
@@ -56,8 +66,8 @@ Contents
 - oompName: AVR Stick
 - sources: All source files from https://github.com/sparkfun/AVR_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9147
-- oompPart: CAPC-0402-X-NF100-V50, C3, 26.669999999999998, 7.619999999999999, 0
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C4, 26.669999999999998, 10.16, 0
+- oompPart: CAPE-0402-X-NF100-01, C3, 26.669999999999998, 7.619999999999999, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 26.669999999999998, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 21.59, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 2.54, 180
@@ -96,3 +106,7 @@ Contents
 - rawPart: U$2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.445, 0.04), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.13, 0.4), R0
 - rawPart: X1, USBPCB, USB-A-PCB, SparkFun, (1.3, 0.24), R180
+
+
+
+[im]: kicadPcb3d_450.png

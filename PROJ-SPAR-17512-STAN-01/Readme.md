@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17512-STAN-01>SparkFun Qwiic pHAT Extension](#proj-spar-17512-stan-01sparkfun-qwiic-phat-extension)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17512-STAN-01>SparkFun Qwiic pHAT Extension
 
 - ID: PROJ-SPAR-17512-STAN-01
 - Hex ID: PRS17512
 - Name: SparkFun Qwiic pHAT Extension
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -62,3 +72,7 @@ Contents
 - rawPart: J2, RASPBERRYPI-40-PIN-GPIO_RIGHT_ANGLE, 2X20_RIGHT_ANGLE, SparkFun-Connectors, (1.27913386, 0.1384252), R0
 - rawPart: J3, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (2.35275591, 0.94283465), R90
 - rawPart: J5, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.20207087, 0.94283465), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11168-STAN-01>AVR ISP Shield](#proj-spar-11168-stan-01avr-isp-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11168-STAN-01>AVR ISP Shield
 
 - ID: PROJ-SPAR-11168-STAN-01
 - Hex ID: PRS11168
 - Name: AVR ISP Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -97,3 +107,7 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNO, SJ_2S-NO, SparkFun, (0.95, 0.35), R90
 - rawPart: U$9, AVR_SPI_PROG, AVR_ICSP, SparkFun, (0.4, 1.5), R90
 - rawPart: U1, ARDUINO_SHIELDLABEL, DUEMILANOVE_SHIELD, SparkFun, (0, 2.1), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C9</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C10, 12.827, 5.460999999999999, 180,C10, 1uF, 0805-NO, microbuilder, (0.505, 0.215), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 8.254999999999999, -5.334, 90,C2, 10uF, 0805-NO, microbuilder, (0.325, -0.21), R90|
+|CAPE-0805-X-UNMATCHED-01, C3, 13.9065, -2.032, 270,C3, 10uF, 0805-NO, microbuilder, (0.5475, -0.08), R270|
+|CAPE-0603-X-NF100-01, C4, 2.921, 3.1115, 90,C4, 0.1uF, 0603-NO, microbuilder, (0.115, 0.1225), R90|
+|CAPE-0805-X-UNMATCHED-01, C8, 11.176, -0.7619999999999999, 180,C8, 10uF, 0805-NO, microbuilder, (0.44, -0.03), R180|
+|CAPE-0805-X-UNMATCHED-01, C9, 10.033, 2.032, 270,C9, 10uF, 0805-NO, microbuilder, (0.395, 0.08), R270|
+|CAPE-0805-X-UNMATCHED-01, C10, 12.827, 5.460999999999999, 180,C10, 1uF, 0805-NO, microbuilder, (0.505, 0.215), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, -29.209999999999997, 0.0, 270,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (-1.15, 0), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 29.209999999999997, 0.0, 90,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.15, 0), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, -28.8925, -7.429499999999999, 270,D2, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (-1.1375, -0.2925), R270|
@@ -94,12 +94,12 @@ Contents
 - oompName: Adafruit LED Arcade Button 1x4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Arcade-Button-1x4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5296
-- oompPart: CAPC-0805-X-UF10-V25, C2, 8.254999999999999, -5.334, 90
-- oompPart: CAPC-0805-X-UF10-V25, C3, 13.9065, -2.032, 270
-- oompPart: CAPC-0603-X-NF100-V50, C4, 2.921, 3.1115, 90
-- oompPart: CAPC-0805-X-UF10-V25, C8, 11.176, -0.7619999999999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C9, 10.033, 2.032, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C10, 12.827, 5.460999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 8.254999999999999, -5.334, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 13.9065, -2.032, 270
+- oompPart: CAPE-0603-X-NF100-01, C4, 2.921, 3.1115, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 11.176, -0.7619999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C9, 10.033, 2.032, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C10, 12.827, 5.460999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, -29.209999999999997, 0.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 29.209999999999997, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, -28.8925, -7.429499999999999, 270
@@ -205,4 +205,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

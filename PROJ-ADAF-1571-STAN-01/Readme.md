@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 20.574, 11.302999999999999, 180,C1, 0.1uF, 0805-NO, microbuilder, (0.81, 0.445), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 23.875999999999998, 5.842, 180,C2, 10uF, 0805-NO, microbuilder, (0.94, 0.23), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.034, 6.858, 90,D1, 1N4148, SOD-323F, adafruit, (0.71, 0.27), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 2.1590000000000003, 180,JP1, 1X11_ROUND, microbuilder, (0.55, 0.085), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 20.574, 19.049999999999997, 180,JP4, 1X02_ROUND, microbuilder, (0.81, 0.75), R180|
@@ -64,8 +64,8 @@ Contents
 - oompName: Adafruit STMPE610 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1571
-- oompPart: CAPC-0805-X-NF100-V50, C1, 20.574, 11.302999999999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 23.875999999999998, 5.842, 180
+- oompPart: CAPE-0805-X-NF100-01, C1, 20.574, 11.302999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 23.875999999999998, 5.842, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.034, 6.858, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 4.953, 15.875, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 26.669999999999998, 11.176, 0

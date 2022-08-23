@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9540-STAN-01>Full Bridge Motor Driver Breakout-L298N](#proj-spar-9540-stan-01full-bridge-motor-driver-breakout-l298n)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9540-STAN-01>Full Bridge Motor Driver Breakout-L298N
 
 - ID: PROJ-SPAR-9540-STAN-01
 - Hex ID: PRS9540
 - Name: Full Bridge Motor Driver Breakout-L298N
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -44,3 +54,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L298N, 20.32, 12.7, 0
 - rawPart: JP1, M15, 1X15, SparkFun, (1.5, 0.05), R180
 - rawPart: L298N, L298HEATSINK, MULTIWATT15_6400BGHEATSINK, SparkFun, (0.8, 0.5), R0
+
+
+
+[im]: kicadPcb3d_450.png

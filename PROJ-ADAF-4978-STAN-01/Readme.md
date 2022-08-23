@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0,C1, 1uF, 0603-NO, microbuilder, (0.58, 0.22), R0|
+|CAPE-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0,C1, 1uF, 0603-NO, microbuilder, (0.58, 0.22), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90,D1, 1N4148, SOD-323, microbuilder, (0.255, 0.335), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 9.524999999999999, 18.415, M0,JP1, 1X05_ROUND_70, microbuilder, (0.375, 0.725), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 8.254999999999999, M90,JP2, 1X02_ROUND, microbuilder, (0.7, 0.325), MR90|
@@ -56,7 +56,7 @@ Contents
 - oompName: Adafruit NeoKey Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4978
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 17.779999999999998, 4.571999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.778, 18.796, 0
@@ -79,4 +79,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

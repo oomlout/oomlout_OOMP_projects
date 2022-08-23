@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13711-STAN-01>ESP8266 Thing Dev 4H](#proj-spar-13711-stan-01esp8266-thing-dev-4h)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13711-STAN-01>ESP8266 Thing Dev 4H
 
 - ID: PROJ-SPAR-13711-STAN-01
 - Hex ID: PRS13711
 - Name: ESP8266 Thing Dev 4H
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,20 +36,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF10-V25, C1, 30.479999999999997, 19.685, 180,C1, 10uF, 0603, SparkFun-Capacitors, (1.2, 0.775), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-PF10-01, C3, 29.209999999999997, 8.889999999999999, 270,C3, 10pF, 0603, SparkFun-Capacitors, (1.15, 0.35), R270|
-|CAPC-0603-X-PF10-01, C4, 34.29, 8.889999999999999, 90,C4, 10pF, 0603, SparkFun-Capacitors, (1.35, 0.35), R90|
-|CAPC-0805-X-UNMATCHED-01, C5, 9.524999999999999, 19.558, 0,C5, 1.0uF, 0805, SparkFun-Capacitors, (0.375, 0.77), R0|
-|CAPC-0603-X-UNMATCHED-01, C6, 9.524999999999999, 14.604999999999999, 180,C6, 2.2uF, 0603, SparkFun-Capacitors, (0.375, 0.575), R180|
-|CAPC-0603-X-UNMATCHED-01, C7, 41.65599999999999, 13.994500078, 0,C7, 5.6PF, 0603, SparkFun-Capacitors, (1.64, 0.55096457), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 30.479999999999997, 19.685, 180,C1, 10uF, 0603, SparkFun-Capacitors, (1.2, 0.775), R180|
+|CAPE-0603-X-NF100-01, C2, 35.559999999999995, 8.889999999999999, 270,C2, 0.1uF, 0603, SparkFun-Capacitors, (1.4, 0.35), R270|
+|CAPE-0603-X-UNMATCHED-01, C3, 29.209999999999997, 8.889999999999999, 270,C3, 10pF, 0603, SparkFun-Capacitors, (1.15, 0.35), R270|
+|CAPE-0603-X-UNMATCHED-01, C4, 34.29, 8.889999999999999, 90,C4, 10pF, 0603, SparkFun-Capacitors, (1.35, 0.35), R90|
+|CAPE-0805-X-UNMATCHED-01, C5, 9.524999999999999, 19.558, 0,C5, 1.0uF, 0805, SparkFun-Capacitors, (0.375, 0.77), R0|
+|CAPE-0603-X-UF22D-01, C6, 9.524999999999999, 14.604999999999999, 180,C6, 2.2uF, 0603, SparkFun-Capacitors, (0.375, 0.575), R180|
+|CAPE-0603-X-UNMATCHED-01, C7, 41.65599999999999, 13.994500078, 0,C7, 5.6PF, 0603, SparkFun-Capacitors, (1.64, 0.55096457), R0|
+|CAPE-0603-X-NF100-01, C8, 2.54, 12.065, 180,C8, 0.1uF, 0603, SparkFun-Capacitors, (0.1, 0.475), R180|
 |CAPE-0603-X-UNMATCHED-01, C9, 8.128, 8.5852, 0,C9, 47pF, 0603, SparkFun-Capacitors, (0.32, 0.338), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C10</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C10, 22.86, 12.7, 0,C10, 0.1uF, 0603, SparkFun-Capacitors, (0.9, 0.5), R0|
 |CAPE-0603-X-UNMATCHED-01, C11, 8.128, 4.7752, 0,C11, 47pF, 0603, SparkFun-Capacitors, (0.32, 0.188), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C12</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C13, 17.779999999999998, 5.08, 180,C13, 10uF, EIA3216, SparkFun-Capacitors, (0.7, 0.2), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C14</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C12, 11.43, 10.16, 90,C12, 0.1uF, 0603, SparkFun-Capacitors, (0.45, 0.4), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C13, 17.779999999999998, 5.08, 180,C13, 10uF, EIA3216, SparkFun-Capacitors, (0.7, 0.2), R180|
+|CAPE-0603-X-NF100-01, C14, 16.509999999999998, 14.604999999999999, 180,C14, 0.1uF, 0603, SparkFun-Capacitors, (0.65, 0.575), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.524999999999999, 12.953999999999999, 0,D1, 1A/23V/620mV, SOD-323, SparkFun-DiscreteSemi, (0.375, 0.51), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 15.875, 19.049999999999997, 0,D2, RED, LED-0603, SparkFun-LED, (0.625, 0.75), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 15.875, 20.32, 0,D3, BLUE, LED-0603, SparkFun-LED, (0.625, 0.8), R0|
@@ -58,23 +68,23 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, L2, 43.942, 13.5255, 270,L2, DNP, 0603, SparkFun-Passives, (1.73, 0.5325), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 25.4, 6.985, 180,Q1, 600mA/40V, SOT23-3, SparkFun-DiscreteSemi, (1, 0.275), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 25.4, 10.795, 0,Q2, 600mA/40V, SOT23-3, SparkFun-DiscreteSemi, (1, 0.425), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 36.83, 8.889999999999999, 90,R1, 12k, 0603, SparkFun-Resistors, (1.45, 0.35), R90|
-|RESE-0603-X-UNMATCHED-01, R2, 40.64, 17.145, 270,R2, 10k, 0603, SparkFun-Resistors, (1.6, 0.675), R270|
+|<table><tr><td>![RESE-0603-X-O123-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O123-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O123-01<br>SMD (0603) 12k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)</td><td>[R6123](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R3, 19.049999999999997, 19.049999999999997, 0,R3, 200, 0603, SparkFun-Resistors, (0.75, 0.75), R0|
 |RESE-0603-X-UNMATCHED-01, R4, 26.034999999999997, 20.32, 90,R4, 200, 0603, SparkFun-Resistors, (1.025, 0.8), R90|
-|RESE-0603-X-UNMATCHED-01, R5, 38.099999999999994, 8.889999999999999, 270,R5, 10k, 0603, SparkFun-Resistors, (1.5, 0.35), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R6, 19.049999999999997, 20.32, 180,R6, 200, 0603, SparkFun-Resistors, (0.75, 0.8), R180|
 |RESE-0603-X-UNMATCHED-01, R7, 8.128, 7.315199999999999, 0,R7, 27, 0603, SparkFun-Resistors, (0.32, 0.288), R0|
 |RESE-0603-X-UNMATCHED-01, R8, 8.128, 6.0451999999999995, 0,R8, 27, 0603, SparkFun-Resistors, (0.32, 0.238), R0|
-|RESE-0603-X-UNMATCHED-01, R9, 27.94, 8.889999999999999, 270,R9, 10k, 0603, SparkFun-Resistors, (1.1, 0.35), R270|
-|RESE-0603-X-UNMATCHED-01, R10, 22.86, 8.889999999999999, 90,R10, 10k, 0603, SparkFun-Resistors, (0.9, 0.35), R90|
-|RESE-0603-X-UNMATCHED-01, R11, 22.86, 5.08, 90,R11, 10k, 0603, SparkFun-Resistors, (0.9, 0.2), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R9</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R10</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R11</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R12, 30.479999999999997, 5.08, 90,R12, 1k, 0603, SparkFun-Resistors, (1.2, 0.2), R90|
 |RESE-0603-X-UNMATCHED-01, R13, 27.94, 5.08, 270,R13, 1k, 0603, SparkFun-Resistors, (1.1, 0.2), R270|
-|RESE-0603-X-UNMATCHED-01, R14, 24.764999999999997, 20.32, 90,R14, 10k, 0603, SparkFun-Resistors, (0.975, 0.8), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R14</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R15, 19.049999999999997, 17.779999999999998, 180,R15, 1k, 0603, SparkFun-Resistors, (0.75, 0.7), R180|
 |RESE-0603-X-UNMATCHED-01, R16, 19.049999999999997, 16.509999999999998, 180,R16, 1k, 0603, SparkFun-Resistors, (0.75, 0.65), R180|
-|RESE-0603-X-UNMATCHED-01, R17, 39.37, 20.32, 90,R17, 10k, 0603, SparkFun-Resistors, (1.55, 0.8), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R17</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 4.571999999999999, 22.605999999999998, 0,S1, SWITCH_SPST_SMD_A, SparkFun-Switches, (0.18, 0.89), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 19.685, 19.049999999999997, M180,SJ1, PWRLED, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.775, 0.75), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 38.099999999999994, 5.08, 0,SJ2, SLEEP-PTH, PTH-JUMPER-2-NO_NO_SILK, SparkFun-Passives, (1.5, 0.2), R0|
@@ -97,20 +107,20 @@ Contents
 - oompName: ESP8266 Thing Dev 4H
 - sources: All source files from https://github.com/sparkfun/ESP8266_Thing_Dev_4H (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13711
-- oompPart: CAPC-0603-X-UF10-V25, C1, 30.479999999999997, 19.685, 180
-- oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 8.889999999999999, 270
-- oompPart: CAPC-0603-X-PF10-01, C3, 29.209999999999997, 8.889999999999999, 270
-- oompPart: CAPC-0603-X-PF10-01, C4, 34.29, 8.889999999999999, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 9.524999999999999, 19.558, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 9.524999999999999, 14.604999999999999, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C7, 41.65599999999999, 13.994500078, 0
-- oompPart: CAPC-0603-X-NF100-V50, C8, 2.54, 12.065, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 30.479999999999997, 19.685, 180
+- oompPart: CAPE-0603-X-NF100-01, C2, 35.559999999999995, 8.889999999999999, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 29.209999999999997, 8.889999999999999, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 34.29, 8.889999999999999, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 9.524999999999999, 19.558, 0
+- oompPart: CAPE-0603-X-UF22D-01, C6, 9.524999999999999, 14.604999999999999, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C7, 41.65599999999999, 13.994500078, 0
+- oompPart: CAPE-0603-X-NF100-01, C8, 2.54, 12.065, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C9, 8.128, 8.5852, 0
-- oompPart: CAPC-0603-X-NF100-V50, C10, 22.86, 12.7, 0
+- oompPart: CAPE-0603-X-NF100-01, C10, 22.86, 12.7, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C11, 8.128, 4.7752, 0
-- oompPart: CAPC-0603-X-NF100-V50, C12, 11.43, 10.16, 90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C13, 17.779999999999998, 5.08, 180
-- oompPart: CAPC-0603-X-NF100-V50, C14, 16.509999999999998, 14.604999999999999, 180
+- oompPart: CAPE-0603-X-NF100-01, C12, 11.43, 10.16, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C13, 17.779999999999998, 5.08, 180
+- oompPart: CAPE-0603-X-NF100-01, C14, 16.509999999999998, 14.604999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.524999999999999, 12.953999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 15.875, 19.049999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 15.875, 20.32, 0
@@ -131,23 +141,23 @@ Contents
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, L2, 43.942, 13.5255, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 25.4, 6.985, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 25.4, 10.795, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 36.83, 8.889999999999999, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 40.64, 17.145, 270
+- oompPart: RESE-0603-X-O123-01, R1, 36.83, 8.889999999999999, 90
+- oompPart: RESE-0603-X-O103-01, R2, 40.64, 17.145, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 19.049999999999997, 19.049999999999997, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 26.034999999999997, 20.32, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 38.099999999999994, 8.889999999999999, 270
+- oompPart: RESE-0603-X-O103-01, R5, 38.099999999999994, 8.889999999999999, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R6, 19.049999999999997, 20.32, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 8.128, 7.315199999999999, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R8, 8.128, 6.0451999999999995, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R9, 27.94, 8.889999999999999, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R10, 22.86, 8.889999999999999, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R11, 22.86, 5.08, 90
+- oompPart: RESE-0603-X-O103-01, R9, 27.94, 8.889999999999999, 270
+- oompPart: RESE-0603-X-O103-01, R10, 22.86, 8.889999999999999, 90
+- oompPart: RESE-0603-X-O103-01, R11, 22.86, 5.08, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R12, 30.479999999999997, 5.08, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R13, 27.94, 5.08, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R14, 24.764999999999997, 20.32, 90
+- oompPart: RESE-0603-X-O103-01, R14, 24.764999999999997, 20.32, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R15, 19.049999999999997, 17.779999999999998, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R16, 19.049999999999997, 16.509999999999998, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R17, 39.37, 20.32, 90
+- oompPart: RESE-0603-X-O103-01, R17, 39.37, 20.32, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 4.571999999999999, 22.605999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 19.685, 19.049999999999997, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 38.099999999999994, 5.08, 0
@@ -219,3 +229,7 @@ Contents
 - rawPart: U3, AT25SF041-SOIC8, SO08, esp8266-development-board, (1, 0.625), R90
 - rawPart: U4, FTS31XS-U, SSOP20_L, SparkFun-DigitalIC, (0.65, 0.4), R180
 - rawPart: Y1, 26MHz, CRYSTAL-SMD-3.2X2.5, things, (1.25, 0.35), R0
+
+
+
+[im]: kicadPcb3d_450.png

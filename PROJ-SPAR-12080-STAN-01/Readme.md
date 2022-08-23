@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12080-STAN-01>VKey Voltage Keypad](#proj-spar-12080-stan-01vkey-voltage-keypad)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12080-STAN-01>VKey Voltage Keypad
 
 - ID: PROJ-SPAR-12080-STAN-01
 - Hex ID: PRS12080
 - Name: VKey Voltage Keypad
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 36.83, 23.495, M90,C1, .01uF, 0603-CAP, SparkFun-Capacitors, (1.45, 0.925), MR90|
+|CAPE-0603-X-NF10-01, C1, 36.83, 23.495, M90,C1, .01uF, 0603-CAP, SparkFun-Capacitors, (1.45, 0.925), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 22.86, M270,D1, BAS16, SOD-323, SparkFun-DiscreteSemi, (1.05, 0.9), MR270|
 |ERROR, JP1 POWER &, 0, 0, 0,JP1, POWER, &, OUTPUT, 1X03_NO_SILK, SparkFun-Connectors, (0.8, 0.05), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 31.75, 33.019999999999996, M180,Q1, MMBT3906, SOT23, SparkFun-DiscreteSemi, (1.25, 1.3), MR180|
-|RESE-0603-X-UNMATCHED-01, R1, 21.59, 22.86, M90,R1, 10k, 0603-RES, SparkFun-Resistors, (0.85, 0.9), MR90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R2, 24.13, 22.86, M270,R2, 1k, 0603-RES, SparkFun-Resistors, (0.95, 0.9), MR270|
 |RESE-0603-X-UNMATCHED-01, R3, 49.529999999999994, 20.32, M180,R3, 1meg, 0603-RES, SparkFun-Resistors, (1.95, 0.8), MR180|
 |RESE-0603-X-UNMATCHED-01, R4, 31.115000000000002, 13.97, M270,R4, 100, 0603-RES, SparkFun-Resistors, (1.225, 0.55), MR270|
@@ -76,13 +86,13 @@ Contents
 - oompName: VKey Voltage Keypad
 - sources: All source files from https://github.com/sparkfun/VKey_Voltage_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12080
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 36.83, 23.495, M90
+- oompPart: CAPE-0603-X-NF10-01, C1, 36.83, 23.495, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 22.86, M270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 54.60999999999999, 2.54, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, 72.39, M0
 - oompPart: ERROR, JP1 POWER &, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 31.75, 33.019999999999996, M180
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 21.59, 22.86, M90
+- oompPart: RESE-0603-X-O103-01, R1, 21.59, 22.86, M90
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 24.13, 22.86, M270
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 49.529999999999994, 20.32, M180
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 31.115000000000002, 13.97, M270
@@ -156,3 +166,7 @@ Contents
 - rawPart: S15, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S16, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 3.05), R0
 - rawPart: U1, LMV358, SO08, SparkFun-AnalogIC, (1.25, 0.9), MR180
+
+
+
+[im]: kicadPcb3d_450.png

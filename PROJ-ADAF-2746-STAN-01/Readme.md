@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 18.923, 19.558, 180,C2, 1.0uF, 0805-NO, microbuilder, (0.745, 0.77), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 18.541999999999998, 5.08, 90,C1, 10uF, 0805-NO, microbuilder, (0.73, 0.2), R90|
+|CAPE-0805-X-UNMATCHED-01, C2, 18.923, 19.558, 180,C2, 1.0uF, 0805-NO, microbuilder, (0.745, 0.77), R180|
+|CAPE-0805-X-UNMATCHED-01, C3, 25.145999999999997, 5.08, 90,C3, 10uF, 0805-NO, microbuilder, (0.99, 0.2), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CS_JMP, 41.65599999999999, 44.449999999999996, M270,CS_JMP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.64, 1.75), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.794, 40.894, 90,D1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.11, 1.61), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 2.794, 35.81399999999999, 90,D2, BLUE, CHIPLED_0805_NOOUTLINE, microbuilder, (0.11, 1.41), R90|
@@ -86,9 +86,9 @@ Contents
 - oompName: Adafruit Bluefruit LE Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2746
-- oompPart: CAPC-0805-X-UF10-V25, C1, 18.541999999999998, 5.08, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 18.923, 19.558, 180
-- oompPart: CAPC-0805-X-UF10-V25, C3, 25.145999999999997, 5.08, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 18.541999999999998, 5.08, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 18.923, 19.558, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 25.145999999999997, 5.08, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CS_JMP, 41.65599999999999, 44.449999999999996, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.794, 40.894, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 2.794, 35.81399999999999, 90

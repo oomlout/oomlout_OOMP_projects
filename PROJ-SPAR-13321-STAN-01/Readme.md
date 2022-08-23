@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13321-STAN-01>Photon RedBoard](#proj-spar-13321-stan-01photon-redboard)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13321-STAN-01>Photon RedBoard
 
 - ID: PROJ-SPAR-13321-STAN-01
 - Hex ID: PRS13321
 - Name: Photon RedBoard
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,18 +36,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 5.08, 13.97, 0,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.2, 0.55), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 13.97, 0,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.2, 0.55), R0|
+|CAPE-0603-X-NF100-01, C2, 13.97, 46.99, 0,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 1.85), R0|
 |CAPE-0805-X-UNMATCHED-01, C3, 12.7, 22.224999999999998, 180,C3, 22uF, 0805, SparkFun-Capacitors, (0.5, 0.875), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UF10-V25, C5, 46.355, 9.524999999999999, 0,C5, 10uF, 0603-CAP, SparkFun-Capacitors, (1.825, 0.375), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UF10-V25, C7, 50.165, 33.019999999999996, 180,C7, 10uF, 0603-CAP, SparkFun-Capacitors, (1.975, 1.3), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C9</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UF10-V25, C10, 38.099999999999994, 19.685, 90,C10, 10uF, 0603-CAP, SparkFun-Capacitors, (1.5, 0.775), R90|
-|CAPC-0603-X-UF10-V25, C11, 54.60999999999999, 33.019999999999996, 0,C11, 10uF, 0603-CAP, SparkFun-Capacitors, (2.15, 1.3), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C12</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C4, 12.7, 20.32, 180,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.8), R180|
+|CAPE-0603-X-UNMATCHED-01, C5, 46.355, 9.524999999999999, 0,C5, 10uF, 0603-CAP, SparkFun-Capacitors, (1.825, 0.375), R0|
+|CAPE-0603-X-NF100-01, C6, 46.355, 8.254999999999999, 0,C6, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.825, 0.325), R0|
+|CAPE-0603-X-UNMATCHED-01, C7, 50.165, 33.019999999999996, 180,C7, 10uF, 0603-CAP, SparkFun-Capacitors, (1.975, 1.3), R180|
+|CAPE-0603-X-NF100-01, C8, 50.165, 34.29, 180,C8, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.975, 1.35), R180|
+|CAPE-0603-X-NF100-01, C9, 36.83, 19.685, 90,C9, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.45, 0.775), R90|
+|CAPE-0603-X-UNMATCHED-01, C10, 38.099999999999994, 19.685, 90,C10, 10uF, 0603-CAP, SparkFun-Capacitors, (1.5, 0.775), R90|
+|CAPE-0603-X-UNMATCHED-01, C11, 54.60999999999999, 33.019999999999996, 0,C11, 10uF, 0603-CAP, SparkFun-Capacitors, (2.15, 1.3), R0|
+|CAPE-0603-X-NF100-01, C12, 54.60999999999999, 34.29, 0,C12, 0.1uF, 0603-CAP, SparkFun-Capacitors, (2.15, 1.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 41.91, 0,D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.35, 1.65), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.1590000000000003, 38.099999999999994, 0,JP1, USB, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.085, 1.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -2.794, 7.619999999999999, 270,JP2, POWER, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (-0.11, 0.3), R270|
@@ -50,7 +60,7 @@ Contents
 |ERROR, LED3 RGB LED, 0, 0, 0,LED3, RGB, LED, PLCC-6-LED, SparkFun-LED, (0.9, 0.65), R90|
 |RESE-0603-X-UNMATCHED-01, R1, 8.889999999999999, 39.060000112, 0,R1, 22, 0603-RES, SparkFun-Resistors, (0.35, 1.53779528), R0|
 |RESE-0603-X-UNMATCHED-01, R2, 8.889999999999999, 37.790000112, 0,R2, 22, 0603-RES, SparkFun-Resistors, (0.35, 1.48779528), R0|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R3, 22.86, 13.334999999999999, 180,R3, 1K, 0603-RES, SparkFun-Resistors, (0.9, 0.525), R180|
 |RESE-0603-X-UNMATCHED-01, R4, 12.7, 15.875, 180,R4, 390, 0603-RES, SparkFun-Resistors, (0.5, 0.625), R180|
 |RESE-0603-X-UNMATCHED-01, R5, 22.86, 19.685, 180,R5, 300, 0603-RES, SparkFun-Resistors, (0.9, 0.775), R180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -86,18 +96,18 @@ Contents
 - oompName: Photon RedBoard
 - sources: All source files from https://github.com/sparkfun/Photon_RedBoard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13321
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 5.08, 13.97, 0
-- oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 46.99, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 13.97, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 13.97, 46.99, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.7, 22.224999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 20.32, 180
-- oompPart: CAPC-0603-X-UF10-V25, C5, 46.355, 9.524999999999999, 0
-- oompPart: CAPC-0603-X-NF100-V50, C6, 46.355, 8.254999999999999, 0
-- oompPart: CAPC-0603-X-UF10-V25, C7, 50.165, 33.019999999999996, 180
-- oompPart: CAPC-0603-X-NF100-V50, C8, 50.165, 34.29, 180
-- oompPart: CAPC-0603-X-NF100-V50, C9, 36.83, 19.685, 90
-- oompPart: CAPC-0603-X-UF10-V25, C10, 38.099999999999994, 19.685, 90
-- oompPart: CAPC-0603-X-UF10-V25, C11, 54.60999999999999, 33.019999999999996, 0
-- oompPart: CAPC-0603-X-NF100-V50, C12, 54.60999999999999, 34.29, 0
+- oompPart: CAPE-0603-X-NF100-01, C4, 12.7, 20.32, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 46.355, 9.524999999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C6, 46.355, 8.254999999999999, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C7, 50.165, 33.019999999999996, 180
+- oompPart: CAPE-0603-X-NF100-01, C8, 50.165, 34.29, 180
+- oompPart: CAPE-0603-X-NF100-01, C9, 36.83, 19.685, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C10, 38.099999999999994, 19.685, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C11, 54.60999999999999, 33.019999999999996, 0
+- oompPart: CAPE-0603-X-NF100-01, C12, 54.60999999999999, 34.29, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 41.91, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 64.77, 48.26, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 2.54, 0
@@ -112,7 +122,7 @@ Contents
 - oompPart: ERROR, LED3 RGB LED, 0, 0, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 8.889999999999999, 39.060000112, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 8.889999999999999, 37.790000112, 0
-- oompPart: RESE-0603-X-O102-01, R3, 22.86, 13.334999999999999, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, 22.86, 13.334999999999999, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 12.7, 15.875, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 22.86, 19.685, 180
 - oompPart: RESE-0603-X-O103-01, R6, 13.97, 45.72, 0
@@ -186,3 +196,7 @@ Contents
 - rawPart: TP10, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (1.62637795, 0.42), R0
 - rawPart: U1, WM-N-BM-14, WM-N-BM-14, sparkfun_photon_temp, (1.9, 0.85), R0
 - rawPart: U2, SOT223, SparkFun-PowerIC, (0.25, 0.75), R90
+
+
+
+[im]: kicadPcb3d_450.png

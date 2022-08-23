@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12941-STAN-01>SD-MMC Breakout](#proj-spar-12941-stan-01sd-mmc-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12941-STAN-01>SD-MMC Breakout
 
 - ID: PROJ-SPAR-12941-STAN-01
 - Hex ID: PRS12941
 - Name: SD-MMC Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -48,3 +58,7 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.4, 1.3), R0
 - rawPart: JP5, M10, 1X10, SparkFun-Connectors, (0.05, 0.2), R90
 - rawPart: U1, SD_CARD_SOCKET, SD_1:1, SparkFun-Connectors, (0.4, 0.65), R0
+
+
+
+[im]: kicadPcb3d_450.png

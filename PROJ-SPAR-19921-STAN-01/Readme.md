@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-19921-STAN-01>SparkFun Qwiic Magnetometer-MMC5983MA](#proj-spar-19921-stan-01sparkfun-qwiic-magnetometer-mmc5983ma)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-19921-STAN-01>SparkFun Qwiic Magnetometer-MMC5983MA
 
 - ID: PROJ-SPAR-19921-STAN-01
 - Hex ID: PRS19921
 - Name: SparkFun Qwiic Magnetometer-MMC5983MA
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UNMATCHED-01, C2, 1.0287, 10.413999999999998, 270,C2, 1.0uF, 0402-TIGHT, SparkFun-Capacitors, (0.0405, 0.41), R270|
-|CAPC-0402-X-UF10-V25, C5, 3.556, 12.827, 180,C5, 10uF, 0402-TIGHT, SparkFun-Capacitors, (0.14, 0.505), R180|
+|CAPE-0402-X-UNMATCHED-01, C2, 1.0287, 10.413999999999998, 270,C2, 1.0uF, 0402-TIGHT, SparkFun-Capacitors, (0.0405, 0.41), R270|
+|CAPE-0402-X-UNMATCHED-01, C5, 3.556, 12.827, 180,C5, 10uF, 0402-TIGHT, SparkFun-Capacitors, (0.14, 0.505), R180|
 |UNMATCHED-0402-X-UNMATCHED-01, D1, 6.838340654, 6.5024, 270,D1, RED, LED-0402, SparkFun-LED, (0.26922601, 0.256), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.2578, 18.440399999999997, M90,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.207, 0.726), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.6096, 5.384799999999999, M90,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.024, 0.212), MR90|
@@ -39,7 +49,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R1, 5.2578, 7.021599876, 0,R1, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.207, 0.27644094), R0|
 |RESE-0402-X-UNMATCHED-01, R2, 3.1496, 6.999200124000001, 180,R2, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.124, 0.27555906), R180|
 |RESE-0402-X-UNMATCHED-01, R4, 6.838340654, 8.737599999999999, 90,R4, 1k, 0402-TIGHT, SparkFun-Resistors, (0.26922601, 0.344), R90|
-|RESE-0402-X-UNMATCHED-01, R7, 1.0287, 7.264399999999999, 270,R7, 100k, 0402-TIGHT, SparkFun-Resistors, (0.0405, 0.286), R270|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 2.8575, 0.9524999999999999, M90,TP1, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.1125, 0.0375), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 4.762499999999999, 0.9524999999999999, M90,TP2, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.1875, 0.0375), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 6.6674999999999995, 0.9524999999999999, M90,TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.2625, 0.0375), MR90|
@@ -57,8 +67,8 @@ Contents
 - oompName: SparkFun Qwiic Magnetometer-MMC5983MA
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19921
-- oompPart: CAPC-0402-X-UNMATCHED-01, C2, 1.0287, 10.413999999999998, 270
-- oompPart: CAPC-0402-X-UF10-V25, C5, 3.556, 12.827, 180
+- oompPart: CAPE-0402-X-UNMATCHED-01, C2, 1.0287, 10.413999999999998, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C5, 3.556, 12.827, 180
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, D1, 6.838340654, 6.5024, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.2578, 18.440399999999997, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.6096, 5.384799999999999, M90
@@ -72,7 +82,7 @@ Contents
 - oompPart: RESE-0402-X-UNMATCHED-01, R1, 5.2578, 7.021599876, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 3.1496, 6.999200124000001, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, 6.838340654, 8.737599999999999, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R7, 1.0287, 7.264399999999999, 270
+- oompPart: RESE-0402-X-O104-01, R7, 1.0287, 7.264399999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 2.8575, 0.9524999999999999, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 4.762499999999999, 0.9524999999999999, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP3, 6.6674999999999995, 0.9524999999999999, M90
@@ -99,3 +109,7 @@ Contents
 - rawPart: TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.2625, 0.0375), MR90
 - rawPart: TP5, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.0375, 0.0375), MR90
 - rawPart: U2, MMC5983MA_QFN16, LGA-16-3X3MM-4X4PINS, SparkFun-Sensors, (0.15, 0.4), R180
+
+
+
+[im]: kicadPcb3d_450.png

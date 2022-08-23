@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15423-STAN-01>SparkFun Qwiic Micro SAMD21E](#proj-spar-15423-stan-01sparkfun-qwiic-micro-samd21e)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15423-STAN-01>SparkFun Qwiic Micro SAMD21E
 
 - ID: PROJ-SPAR-15423-STAN-01
 - Hex ID: PRS15423
 - Name: SparkFun Qwiic Micro SAMD21E
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF10-V25, C1, 15.493999999999998, 6.5786, 90,C1, 10uF, 0603, SparkFun-Capacitors, (0.61, 0.259), R90|
-|CAPC-0402-X-UNMATCHED-01, C2, 16.9926, 6.172199999999999, 90,C2, 1.0uF, 0402, SparkFun-Capacitors, (0.669, 0.243), R90|
-|CAPC-0603-X-UF10-V25, C3, 11.2014, 8.6868, 90,C3, 10uF, 0603, SparkFun-Capacitors, (0.441, 0.342), R90|
-|CAPC-0402-X-UNMATCHED-01, C4, 3.62711873, 12.387578222, 270,C4, 1.0uF, 0402, SparkFun-Capacitors, (0.14279995, 0.48769993), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 15.493999999999998, 6.5786, 90,C1, 10uF, 0603, SparkFun-Capacitors, (0.61, 0.259), R90|
+|CAPE-0402-X-UNMATCHED-01, C2, 16.9926, 6.172199999999999, 90,C2, 1.0uF, 0402, SparkFun-Capacitors, (0.669, 0.243), R90|
+|CAPE-0603-X-UNMATCHED-01, C3, 11.2014, 8.6868, 90,C3, 10uF, 0603, SparkFun-Capacitors, (0.441, 0.342), R90|
+|CAPE-0402-X-UNMATCHED-01, C4, 3.62711873, 12.387578222, 270,C4, 1.0uF, 0402, SparkFun-Capacitors, (0.14279995, 0.48769993), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 16.8656, 20.5232, 0,D1, 1A/23V/620mV, SOD-323, SparkFun-DiscreteSemi, (0.664, 0.808), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 6.858, 2.3114, 0,D2, BLUE, LED-0603, SparkFun-LED, (0.27, 0.091), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 18.415, 2.3114, 0,D3, RED, LED-0603, SparkFun-LED, (0.725, 0.091), R0|
@@ -46,11 +56,11 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 24.13, 16.509999999999998, 90,J7, 1X02_NO_SILK, SparkFun-Connectors, (0.95, 0.65), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.287999999999997, 2.032, M90,JP1, LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.72, 0.08), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.9164, 18.211799999999997, 180,Q1, 3.1A/30V/105m?, SOT23-3, SparkFun-DiscreteSemi, (0.666, 0.717), R180|
-|RESE-0402-X-UNMATCHED-01, R1, 20.1295, 19.4945, 180,R1, 10k, 0402, SparkFun-Resistors, (0.7925, 0.7675), R180|
-|RESE-0402-X-UNMATCHED-01, R2, 16.662399999999998, 13.4874, 270,R2, 10k, 0402, SparkFun-Resistors, (0.656, 0.531), R270|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|RESE-0402-X-UNMATCHED-01, R4, 18.034, 13.4874, 270,R4, 10k, 0402, SparkFun-Resistors, (0.71, 0.531), R270|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R3, 18.160999999999998, 0.9652, 0,R3, 1K, 0402, SparkFun-Resistors, (0.715, 0.038), R0|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R5, 6.604, 1.0413999999999999, 0,R5, 1K, 0402, SparkFun-Resistors, (0.26, 0.041), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 15.748, 23.7236, 0,S1, SWITCH_SPST_SMD_A, SparkFun-Switches, (0.62, 0.934), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 20.2438, 15.493999999999998, 90,S2, MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM, TACTILE_SWITCH_SMD_4.6X2.8MM, SparkFun-Switches, (0.797, 0.61), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 16.8402, 20.4978, 0,TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Connectors, (0.663, 0.807), R0|
@@ -71,10 +81,10 @@ Contents
 - oompName: SparkFun Qwiic Micro SAMD21E
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Micro_SAMD21E (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15423
-- oompPart: CAPC-0603-X-UF10-V25, C1, 15.493999999999998, 6.5786, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C2, 16.9926, 6.172199999999999, 90
-- oompPart: CAPC-0603-X-UF10-V25, C3, 11.2014, 8.6868, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C4, 3.62711873, 12.387578222, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 15.493999999999998, 6.5786, 90
+- oompPart: CAPE-0402-X-UNMATCHED-01, C2, 16.9926, 6.172199999999999, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 11.2014, 8.6868, 90
+- oompPart: CAPE-0402-X-UNMATCHED-01, C4, 3.62711873, 12.387578222, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 16.8656, 20.5232, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 6.858, 2.3114, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 18.415, 2.3114, 0
@@ -91,11 +101,11 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 24.13, 16.509999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.287999999999997, 2.032, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.9164, 18.211799999999997, 180
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 20.1295, 19.4945, 180
-- oompPart: RESE-0402-X-UNMATCHED-01, R2, 16.662399999999998, 13.4874, 270
-- oompPart: RESE-0402-X-O102-01, R3, 18.160999999999998, 0.9652, 0
-- oompPart: RESE-0402-X-UNMATCHED-01, R4, 18.034, 13.4874, 270
-- oompPart: RESE-0402-X-O102-01, R5, 6.604, 1.0413999999999999, 0
+- oompPart: RESE-0402-X-O103-01, R1, 20.1295, 19.4945, 180
+- oompPart: RESE-0402-X-O103-01, R2, 16.662399999999998, 13.4874, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R3, 18.160999999999998, 0.9652, 0
+- oompPart: RESE-0402-X-O103-01, R4, 18.034, 13.4874, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R5, 6.604, 1.0413999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 15.748, 23.7236, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 20.2438, 15.493999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 16.8402, 20.4978, 0
@@ -137,3 +147,7 @@ Contents
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-IC-Power, (0.757, 0.251), R0
 - rawPart: U2, W25Q32FV, SOIC-8, SparkFun-IC-Memory, (0.38, 0.477), MR270
 - rawPart: U3, ATSAMD21E18A-U, QFN-32_SAMD, SparkFun-IC-Microcontroller, (0.3, 0.45), R90
+
+
+
+[im]: kicadPcb3d_450.png

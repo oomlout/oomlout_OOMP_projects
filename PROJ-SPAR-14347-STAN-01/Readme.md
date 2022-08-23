@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14347-STAN-01>Qwiic Spectral Sensor AS726X](#proj-spar-14347-stan-01qwiic-spectral-sensor-as726x)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14347-STAN-01>Qwiic Spectral Sensor AS726X
 
 - ID: PROJ-SPAR-14347-STAN-01
 - Hex ID: PRS14347
 - Name: Qwiic Spectral Sensor AS726X
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.75), R90|
-|CAPC-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.7, 0.24), R0|
-|CAPC-0603-X-UF10-V25, C3, 17.779999999999998, 7.619999999999999, 0,C3, 10uF, 0603, SparkFun-Capacitors, (0.7, 0.3), R0|
+|CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.75), R90|
+|CAPE-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.7, 0.24), R0|
+|CAPE-0603-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0,C3, 10uF, 0603, SparkFun-Capacitors, (0.7, 0.3), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 18.668999999999997, 12.7, 90,D1, BLUE, LED-0603, SparkFun-LED, (0.735, 0.5), R90|
 |ERROR, D2 White, 60mA, 0, 0, 0,D2, White,, 60mA, SUPER_BRIGHT_SMD_LED_3014, SparkFun-LED, (0.665, 0.5), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 22.224999999999998, 17.399, M0,D4, Incandescent, LED_5MM_NOSILK, SparkX, (0.875, 0.685), MR0|
@@ -45,8 +55,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 6.35, 90,JP1, SMT-JUMPER_3_2-NC_PASTE_SILK, SparkFun-Jumpers, (0.15, 0.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 11.43, M90,JP2, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.3, 0.45), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.891, 9.5885, 270,JP4, SMT-JUMPER_2_NC_PASTE_NO-SILK, SparkFun-Jumpers, (0.665, 0.3775), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 15.239999999999998, 90,R3, 10k, 0603, SparkFun-Resistors, (0.3, 0.6), R90|
-|RESE-0603-X-UNMATCHED-01, R4, 17.779999999999998, 19.049999999999997, 90,R4, 10k, 0603, SparkFun-Resistors, (0.7, 0.75), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R13, 7.619999999999999, 7.619999999999999, 180,R13, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.3), R180|
 |RESE-0603-X-UNMATCHED-01, R14, 7.619999999999999, 6.095999999999999, 180,R14, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.24), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 270,U1, IR, LGA20, SparkFun-Sensors, (0.5, 0.5), R270|
@@ -63,9 +73,9 @@ Contents
 - oompName: Qwiic Spectral Sensor AS726X
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14347
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0
-- oompPart: CAPC-0603-X-UF10-V25, C3, 17.779999999999998, 7.619999999999999, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 18.668999999999997, 12.7, 90
 - oompPart: ERROR, D2 White, 60mA, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 22.224999999999998, 17.399, M0
@@ -82,8 +92,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 6.35, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 11.43, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.891, 9.5885, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 15.239999999999998, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 17.779999999999998, 19.049999999999997, 90
+- oompPart: RESE-0603-X-O103-01, R3, 7.619999999999999, 15.239999999999998, 90
+- oompPart: RESE-0603-X-O103-01, R4, 17.779999999999998, 19.049999999999997, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R13, 7.619999999999999, 7.619999999999999, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R14, 7.619999999999999, 6.095999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 270
@@ -113,3 +123,7 @@ Contents
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.24), R180
 - rawPart: U1, IR, LGA20, SparkFun-Sensors, (0.5, 0.5), R270
 - rawPart: U3, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.5, 0.75), R270
+
+
+
+[im]: kicadPcb3d_450.png

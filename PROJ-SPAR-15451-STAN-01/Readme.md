@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15451-STAN-01>Qwiic Motor Driver](#proj-spar-15451-stan-01qwiic-motor-driver)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15451-STAN-01>Qwiic Motor Driver
 
 - ID: PROJ-SPAR-15451-STAN-01
 - Hex ID: PRS15451
 - Name: Qwiic Motor Driver
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,15 +36,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0402-X-NF100-V50, C2, 15.493999999999998, 17.525999999999996, 270,C2, 0.1uF, 0402, SparkFun-Capacitors, (0.61, 0.69), R270|
-|CAPC-0402-X-UNMATCHED-01, C3, 17.779999999999998, 8.254999999999999, 0,C3, 1.0uF, 0402, SparkFun-Capacitors, (0.7, 0.325), R0|
-|CAPC-0402-X-NF100-V50, C4, 17.779999999999998, 6.858, 0,C4, 0.1uF, 0402, SparkFun-Capacitors, (0.7, 0.27), R0|
-|CAPC-0402-X-UNMATCHED-01, C5, 17.018, 12.572999999999999, 0,C5, 1.0uF, 0402, SparkFun-Capacitors, (0.67, 0.495), R0|
-|CAPC-0402-X-NF100-V50, C6, 17.018, 13.9446, 0,C6, 0.1uF, 0402, SparkFun-Capacitors, (0.67, 0.549), R0|
-|CAPC-0402-X-UNMATCHED-01, C7, 17.018, 15.316199999999998, 0,C7, 1.0uF, 0402, SparkFun-Capacitors, (0.67, 0.603), R0|
-|CAPC-0402-X-UNMATCHED-01, C8, 15.875, 7.492999999999999, 270,C8, 1.0uF, 0402, SparkFun-Capacitors, (0.625, 0.295), R270|
-|CAPC-0402-X-NF100-V50, C9, 14.477999999999998, 7.492999999999999, 270,C9, 0.1uF, 0402, SparkFun-Capacitors, (0.57, 0.295), R270|
+|CAPE-0805-X-UNMATCHED-01, C1, 17.779999999999998, 18.034, 0,C1, 10uF, 0805, SparkFun-Capacitors, (0.7, 0.71), R0|
+|CAPE-0402-X-NF100-01, C2, 15.493999999999998, 17.525999999999996, 270,C2, 0.1uF, 0402, SparkFun-Capacitors, (0.61, 0.69), R270|
+|CAPE-0402-X-UNMATCHED-01, C3, 17.779999999999998, 8.254999999999999, 0,C3, 1.0uF, 0402, SparkFun-Capacitors, (0.7, 0.325), R0|
+|CAPE-0402-X-NF100-01, C4, 17.779999999999998, 6.858, 0,C4, 0.1uF, 0402, SparkFun-Capacitors, (0.7, 0.27), R0|
+|CAPE-0402-X-UNMATCHED-01, C5, 17.018, 12.572999999999999, 0,C5, 1.0uF, 0402, SparkFun-Capacitors, (0.67, 0.495), R0|
+|CAPE-0402-X-NF100-01, C6, 17.018, 13.9446, 0,C6, 0.1uF, 0402, SparkFun-Capacitors, (0.67, 0.549), R0|
+|CAPE-0402-X-UNMATCHED-01, C7, 17.018, 15.316199999999998, 0,C7, 1.0uF, 0402, SparkFun-Capacitors, (0.67, 0.603), R0|
+|CAPE-0402-X-UNMATCHED-01, C8, 15.875, 7.492999999999999, 270,C8, 1.0uF, 0402, SparkFun-Capacitors, (0.625, 0.295), R270|
+|CAPE-0402-X-NF100-01, C9, 14.477999999999998, 7.492999999999999, 270,C9, 0.1uF, 0402, SparkFun-Capacitors, (0.57, 0.295), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 6.35, 2.1590000000000003, 90,D1, BLUE, LED-0603, SparkFun-LED, (0.25, 0.085), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.635, 0.635, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.025, 0.025), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.635, 0.635, M0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.025, 0.025), MR0|
@@ -74,15 +84,15 @@ Contents
 - oompName: Qwiic Motor Driver
 - sources: All source files from https://github.com/sparkfun/Qwiic_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15451
-- oompPart: CAPC-0805-X-UF10-V25, C1, 17.779999999999998, 18.034, 0
-- oompPart: CAPC-0402-X-NF100-V50, C2, 15.493999999999998, 17.525999999999996, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C3, 17.779999999999998, 8.254999999999999, 0
-- oompPart: CAPC-0402-X-NF100-V50, C4, 17.779999999999998, 6.858, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C5, 17.018, 12.572999999999999, 0
-- oompPart: CAPC-0402-X-NF100-V50, C6, 17.018, 13.9446, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C7, 17.018, 15.316199999999998, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C8, 15.875, 7.492999999999999, 270
-- oompPart: CAPC-0402-X-NF100-V50, C9, 14.477999999999998, 7.492999999999999, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 17.779999999999998, 18.034, 0
+- oompPart: CAPE-0402-X-NF100-01, C2, 15.493999999999998, 17.525999999999996, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C3, 17.779999999999998, 8.254999999999999, 0
+- oompPart: CAPE-0402-X-NF100-01, C4, 17.779999999999998, 6.858, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C5, 17.018, 12.572999999999999, 0
+- oompPart: CAPE-0402-X-NF100-01, C6, 17.018, 13.9446, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C7, 17.018, 15.316199999999998, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C8, 15.875, 7.492999999999999, 270
+- oompPart: CAPE-0402-X-NF100-01, C9, 14.477999999999998, 7.492999999999999, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 6.35, 2.1590000000000003, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 0.635, 0.635, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 0.635, 0.635, M0
@@ -146,3 +156,7 @@ Contents
 - rawPart: TP6, TP_15TH, SparkFun-Connectors, (0.89, 0.465), R0
 - rawPart: U1, DRV8835, WSON-12, SparkFun-IC-Special-Function, (0.5, 0.69), R180
 - rawPart: U2, CY8C4245LQI-483, QFN-40, SparkFun-IC-Microcontroller, (0.441, 0.485), R180
+
+
+
+[im]: kicadPcb3d_450.png

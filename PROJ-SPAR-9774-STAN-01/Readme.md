@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9774-STAN-01>Benchtop Power Board Kit](#proj-spar-9774-stan-01benchtop-power-board-kit)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9774-STAN-01>Benchtop Power Board Kit
 
 - ID: PROJ-SPAR-9774-STAN-01
 - Hex ID: PRS9774
 - Name: Benchtop Power Board Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -32,7 +42,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F4, 114.3, 26.669999999999998, 270,F4, FUSEX20MM, FUSE_5MM, SparkFun, (4.5, 1.05), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 66.03999999999999, 8.889999999999999, 0,J1, ATX24RH, ATX24_RIGHT_ANGLE, SparkFun-Connectors, (2.6, 0.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 27.94, 6.35, 270,LED1, RED, LED5MM, SparkFun, (1.1, 0.25), R270|
-|RESE-UNMATCHED-X-O102-01, R1, 27.94, 11.43, 0,R1, 1K, AXIAL-0.3, SparkFun, (1.1, 0.45), R0|
+|RESE-UNMATCHED-X-UNMATCHED-01, R1, 27.94, 11.43, 0,R1, 1K, AXIAL-0.3, SparkFun, (1.1, 0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 8.889999999999999, 38.099999999999994, 225,S1, BINDING_POST, BINDING_POST, SparkFun-Connectors, (0.35, 1.5), R225|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 27.94, 38.099999999999994, 135,S2, BINDING_POST, BINDING_POST, SparkFun-Connectors, (1.1, 1.5), R135|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 40.64, 38.099999999999994, 225,S3, BINDING_POST, BINDING_POST, SparkFun-Connectors, (1.6, 1.5), R225|
@@ -60,7 +70,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F4, 114.3, 26.669999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 66.03999999999999, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 27.94, 6.35, 270
-- oompPart: RESE-UNMATCHED-X-O102-01, R1, 27.94, 11.43, 0
+- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 27.94, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 8.889999999999999, 38.099999999999994, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 27.94, 38.099999999999994, 135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 40.64, 38.099999999999994, 225
@@ -86,3 +96,7 @@ Contents
 - rawPart: S7, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.1, 1.5), R225
 - rawPart: S8, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.85, 1.5), R135
 - rawPart: S9, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.1, 0.15), R270
+
+
+
+[im]: kicadPcb3d_450.png

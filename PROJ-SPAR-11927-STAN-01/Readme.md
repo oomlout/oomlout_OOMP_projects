@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11927-STAN-01>BC127 Breakout Board](#proj-spar-11927-stan-01bc127-breakout-board)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11927-STAN-01>BC127 Breakout Board
 
 - ID: PROJ-SPAR-11927-STAN-01
 - Hex ID: PRS11927
 - Name: BC127 Breakout Board
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 54.60999999999999, 21.59, 0,C1, 10uF, EIA3216, SparkFun-Capacitors, (2.15, 0.85), R0|
-|CAPC-0805-X-UNMATCHED-01, C2, 55.117999999999995, 19.049999999999997, 180,C2, 1uF, 0805, SparkFun-Capacitors, (2.17, 0.75), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 54.60999999999999, 11.43, 180,C3, 10uF, EIA3216, SparkFun-Capacitors, (2.15, 0.45), R180|
-|CAPC-0603-X-UNMATCHED-01, C4, 31.75, 15.239999999999998, 0,C4, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.25, 0.6), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 54.60999999999999, 21.59, 0,C1, 10uF, EIA3216, SparkFun-Capacitors, (2.15, 0.85), R0|
+|CAPE-0805-X-UNMATCHED-01, C2, 55.117999999999995, 19.049999999999997, 180,C2, 1uF, 0805, SparkFun-Capacitors, (2.17, 0.75), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 54.60999999999999, 11.43, 180,C3, 10uF, EIA3216, SparkFun-Capacitors, (2.15, 0.45), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 31.75, 15.239999999999998, 0,C4, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.25, 0.6), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 5.460999999999999, -0.127, 270,D1, GREEN, LED-0603, SparkFun-LED, (0.215, -0.005), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 5.460999999999999, 2.54, 270,D2, RED, LED-0603, SparkFun-LED, (0.215, 0.1), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 5.460999999999999, 1.27, 270,D3, BLUE, LED-0603, SparkFun-LED, (0.215, 0.05), R270|
@@ -72,10 +82,10 @@ Contents
 - oompName: BC127 Breakout Board
 - sources: All source files from https://github.com/sparkfun/BC127_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11927
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 54.60999999999999, 21.59, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 55.117999999999995, 19.049999999999997, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 54.60999999999999, 11.43, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 31.75, 15.239999999999998, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 54.60999999999999, 21.59, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 55.117999999999995, 19.049999999999997, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 54.60999999999999, 11.43, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 31.75, 15.239999999999998, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 5.460999999999999, -0.127, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 5.460999999999999, 2.54, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 5.460999999999999, 1.27, 270
@@ -140,3 +150,7 @@ Contents
 - rawPart: R13, 10K, 0603-RES, SparkFun-Resistors, (0.1, 0.95), R270
 - rawPart: U1, BC127, BC127_XTRA_PASTE, SparkFun-RF, (0.34566929, 0.60228346), R90
 - rawPart: U2, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (2.15, 0.6), R0
+
+
+
+[im]: kicadPcb3d_450.png

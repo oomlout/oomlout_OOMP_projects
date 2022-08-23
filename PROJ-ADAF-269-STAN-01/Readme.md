@@ -31,8 +31,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 13.462, 180,C1, 10uF, C0805K, adafruit, (0.12, 0.53), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 7.365999999999999, 180,C2, 10uF, C0805K, adafruit, (0.12, 0.29), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 17.018, 9.398, 0,D1, 1n4148, SOD-323F, adafruit, (0.67, 0.37), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 17.018, 11.43, 0,D2, 1N4148, SOD-323F, adafruit, (0.67, 0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 10.16, 10.16, 270,IC1, MAX31855, SO08, adafruit, (0.4, 0.4), R270|
@@ -53,8 +53,8 @@ Contents
 - oompName: Adafruit MAX31855 breakout board
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31855-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/269
-- oompPart: CAPC-0805-X-UF10-V25, C1, 3.0479999999999996, 13.462, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 3.0479999999999996, 7.365999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 13.462, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 7.365999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 17.018, 9.398, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 17.018, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 10.16, 10.16, 270

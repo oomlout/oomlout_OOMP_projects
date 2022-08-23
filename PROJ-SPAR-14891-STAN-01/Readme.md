@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14891-STAN-01>gator starter](#proj-spar-14891-stan-01gator-starter)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14891-STAN-01>gator starter
 
 - ID: PROJ-SPAR-14891-STAN-01
 - Hex ID: PRS14891
 - Name: gator starter
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -34,7 +44,7 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R8, 41.91, 29.845, 90,R8, 200, 0603, SparkFun-Resistors, (1.65, 1.175), R90|
 |RESE-0603-X-UNMATCHED-01, R9, 50.165, 29.845, 270,R9, 100, 0603, SparkFun-Resistors, (1.975, 1.175), R270|
 |RESE-0603-X-UNMATCHED-01, R10, 45.72, 26.669999999999998, 0,R10, 100, 0603, SparkFun-Resistors, (1.8, 1.05), R0|
-|RESE-0603-X-UNMATCHED-01, R11, 75.565, 21.59, 0,R11, 10k, 0603, SparkFun-Resistors, (2.975, 0.85), R0|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R11</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 75.565, 24.13, 180,U2, LIGHT_SENSORTEMT6000, TEMT6000, SparkFun-Sensors, (2.975, 0.95), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 15.875, 23.495, 0,U3, MCP9700TT, SOT23-3, SparkFun-Sensors, (0.625, 0.925), R0|
 
@@ -57,7 +67,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R8, 41.91, 29.845, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R9, 50.165, 29.845, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R10, 45.72, 26.669999999999998, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R11, 75.565, 21.59, 0
+- oompPart: RESE-0603-X-O103-01, R11, 75.565, 21.59, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 37.465, 19.558, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 21.59, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$12, 45.72, 43.18, 180
@@ -95,3 +105,7 @@ Contents
 - rawPart: U$35, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (3.325, 0.025), R0
 - rawPart: U2, LIGHT_SENSORTEMT6000, TEMT6000, SparkFun-Sensors, (2.975, 0.95), R180
 - rawPart: U3, MCP9700TT, SOT23-3, SparkFun-Sensors, (0.625, 0.925), R0
+
+
+
+[im]: kicadPcb3d_450.png

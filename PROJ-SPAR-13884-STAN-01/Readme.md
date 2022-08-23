@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13884-STAN-01>LP55231 Breakout](#proj-spar-13884-stan-01lp55231-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13884-STAN-01>LP55231 Breakout
 
 - ID: PROJ-SPAR-13884-STAN-01
 - Hex ID: PRS13884
 - Name: LP55231 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0,C1, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.185, 0.5), R0|
-|CAPC-0603-X-UNMATCHED-01, C2, 7.365999999999999, 20.447, 0,C2, 0.47uf, 0603-CAP, SparkFun-Capacitors, (0.29, 0.805), R0|
-|CAPC-0603-X-UNMATCHED-01, C3, 6.095999999999999, 18.160999999999998, 90,C3, 0.47uf, 0603-CAP, SparkFun-Capacitors, (0.24, 0.715), R90|
-|CAPC-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0,C4, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.42, 0.805), R0|
+|CAPE-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0,C1, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.185, 0.5), R0|
+|CAPE-0603-X-NF470-01, C2, 7.365999999999999, 20.447, 0,C2, 0.47uf, 0603-CAP, SparkFun-Capacitors, (0.29, 0.805), R0|
+|CAPE-0603-X-NF470-01, C3, 6.095999999999999, 18.160999999999998, 90,C3, 0.47uf, 0603-CAP, SparkFun-Capacitors, (0.24, 0.715), R90|
+|CAPE-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0,C4, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.42, 0.805), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 20.32, 27.94, 0,FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.8, 1.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 2.667, 3.8099999999999996, 0,FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.105, 0.15), R0|
 |ERROR, J1 To micro, 0, 0, 0,J1, To, micro, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.25), R90|
@@ -45,9 +55,9 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 16.509999999999998, 25.4, 90,LED1, TRICOLOR-5050, LED-TRICOLOR-5050, SparkFun-LED, (0.65, 1), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 16.509999999999998, 15.239999999999998, 90,LED2, TRICOLOR-5050, LED-TRICOLOR-5050, SparkFun-LED, (0.65, 0.6), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 16.509999999999998, 5.08, 270,LED3, TRICOLOR-5050, LED-TRICOLOR-5050, SparkFun-LED, (0.65, 0.2), R270|
-|RESE-0603-X-UNMATCHED-01, R1, 5.842, 6.858, 270,R1, 150K, 0603-RES, SparkFun-Resistors, (0.23, 0.27), R270|
-|RESE-0603-X-UNMATCHED-01, R2, 7.365999999999999, 6.858, 270,R2, 150K, 0603-RES, SparkFun-Resistors, (0.29, 0.27), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 11.937999999999999, 6.858, 270,R3, 150K, 0603-RES, SparkFun-Resistors, (0.47, 0.27), R270|
+|<table><tr><td>![RESE-0603-X-O154-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O154-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O154-01<br>SMD (0603) 150k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td><td>[R6154](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O154-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O154-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O154-01<br>SMD (0603) 150k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td><td>[R6154](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O154-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O154-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O154-01<br>SMD (0603) 150k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td><td>[R6154](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R4, 10.413999999999998, 6.858, 270,R4, 4.7K, 0603-RES, SparkFun-Resistors, (0.41, 0.27), R270|
 |RESE-0603-X-UNMATCHED-01, R5, 8.889999999999999, 6.858, 270,R5, 4.7K, 0603-RES, SparkFun-Resistors, (0.35, 0.27), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 15.239999999999998, 0,U1, LP55231WQFN, WQFN-24, LP55231, (0.4, 0.6), R0|
@@ -63,10 +73,10 @@ Contents
 - oompName: LP55231 Breakout
 - sources: All source files from https://github.com/sparkfun/LP55231_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13884
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.365999999999999, 20.447, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.095999999999999, 18.160999999999998, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0
+- oompPart: CAPE-0603-X-NF470-01, C2, 7.365999999999999, 20.447, 0
+- oompPart: CAPE-0603-X-NF470-01, C3, 6.095999999999999, 18.160999999999998, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 20.32, 27.94, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 2.667, 3.8099999999999996, 0
 - oompPart: ERROR, J1 To micro, 0, 0, 0
@@ -82,9 +92,9 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 16.509999999999998, 25.4, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 16.509999999999998, 15.239999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 16.509999999999998, 5.08, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 5.842, 6.858, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 7.365999999999999, 6.858, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 11.937999999999999, 6.858, 270
+- oompPart: RESE-0603-X-O154-01, R1, 5.842, 6.858, 270
+- oompPart: RESE-0603-X-O154-01, R2, 7.365999999999999, 6.858, 270
+- oompPart: RESE-0603-X-O154-01, R3, 11.937999999999999, 6.858, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 10.413999999999998, 6.858, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 8.889999999999999, 6.858, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 15.239999999999998, 0
@@ -113,3 +123,7 @@ Contents
 - rawPart: R4, 4.7K, 0603-RES, SparkFun-Resistors, (0.41, 0.27), R270
 - rawPart: R5, 4.7K, 0603-RES, SparkFun-Resistors, (0.35, 0.27), R270
 - rawPart: U1, LP55231WQFN, WQFN-24, LP55231, (0.4, 0.6), R0
+
+
+
+[im]: kicadPcb3d_450.png

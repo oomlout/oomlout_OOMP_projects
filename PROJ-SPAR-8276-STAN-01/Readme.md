@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8276-STAN-01>XBee Module Breakout Board](#proj-spar-8276-stan-01xbee-module-breakout-board)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8276-STAN-01>XBee Module Breakout Board
 
 - ID: PROJ-SPAR-8276-STAN-01
 - Hex ID: PRS8276
 - Name: XBee Module Breakout Board
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -47,3 +57,7 @@ Contents
 - rawPart: JP1, 1X10, SparkFun, (0.26, 0.95), R270
 - rawPart: JP2, 1X10, SparkFun, (0.765, 0.95), R270
 - rawPart: U1, XBEE, XBEE-1, SparkFun, (0.51181102, 0), R0
+
+
+
+[im]: kicadPcb3d_450.png

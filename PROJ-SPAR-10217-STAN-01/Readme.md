@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C3, 6.29158127, 7.508240508, 0,C3, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.24770005, 0.29560002), R0|
-|CAPC-0603-X-UNMATCHED-01, C4, 9.375140508, 7.505703047999999, 180,C4, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.36910002, 0.29550012), R180|
+|CAPE-0603-X-UNMATCHED-01, C3, 6.29158127, 7.508240508, 0,C3, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.24770005, 0.29560002), R0|
+|CAPE-0603-X-UNMATCHED-01, C4, 9.375140508, 7.505703047999999, 180,C4, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.36910002, 0.29550012), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D11, 9.466581269999999, 8.889999999999999, 270,D11, RED, LED-0603, SparkFun-LED, (0.37270005, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 25.4, 5.08, 270,JP1, JST, JST-2-SMD, SparkFun-Connectors, (1, 0.2), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 5.3213, 1.0541, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2095, 0.0415), R0|
@@ -60,8 +60,8 @@ Contents
 - oompName: Lipo Charger Basic-microUSB
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-microUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10217
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.29158127, 7.508240508, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.375140508, 7.505703047999999, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 6.29158127, 7.508240508, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 9.375140508, 7.505703047999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D11, 9.466581269999999, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 25.4, 5.08, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 5.3213, 1.0541, 0
@@ -87,4 +87,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

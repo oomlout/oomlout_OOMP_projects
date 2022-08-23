@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11561-STAN-01>RaspiRobot](#proj-spar-11561-stan-01raspirobot)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11561-STAN-01>RaspiRobot
 
 - ID: PROJ-SPAR-11561-STAN-01
 - Hex ID: PRS11561
 - Name: RaspiRobot
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -28,7 +38,7 @@ Contents
 | :---: |
 |CAPE-UNMATCHED-X-UNMATCHED-01, C1, 46.99, 41.275, 90,C1, 100uF, CPOL-RADIAL-100UF-25V, SparkFun, (1.85, 1.625), R90|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 15.239999999999998, 90,C2, 220uF, CPOL-RADIAL-100UF-25V, SparkFun-Capacitors, (1.85, 0.6), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C3, 30.479999999999997, 46.99, 180,C3, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.2, 1.85), R180|
+|CAPE-UNMATCHED-X-NF100-01, C3, 30.479999999999997, 46.99, 180,C3, 0.1uF, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.2, 1.85), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 20.32, 19.049999999999997, 270,IC1, L293D, DIL16, st-microelectronics, (0.8, 0.75), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 46.99, 30.479999999999997, 90,IC2, LM2940CT-5.0, TO220-IGO, SparkFun, (1.85, 1.2), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 20.32, 39.37, 270,IC3, 7406N, DIL14, 74xx-eu, (0.8, 1.55), R270|
@@ -66,7 +76,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11561
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 46.99, 41.275, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 15.239999999999998, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 30.479999999999997, 46.99, 180
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C3, 30.479999999999997, 46.99, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 20.32, 19.049999999999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 46.99, 30.479999999999997, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 20.32, 39.37, 270
@@ -116,3 +126,7 @@ Contents
 - rawPart: R6, 470, AXIAL-0.3EZ, SparkFun-Passives, (0.3, 0.25), R180
 - rawPart: R7, 1k, AXIAL-0.3EZ, SparkFun-Passives, (1.5, 0.75), R180
 - rawPart: R8, 1k, AXIAL-0.3EZ, SparkFun-Passives, (1.5, 0.9), R0
+
+
+
+[im]: kicadPcb3d_450.png

@@ -22,17 +22,17 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 15.239999999999998, 45.72, 180,C1, 10uF, EIA3216, SparkFun, (0.6, 1.8), R180|
-|CAPC-0402-X-NF100-V50, C2, 6.35, 45.72, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.25, 1.8), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 15.239999999999998, 45.72, 180,C1, 10uF, EIA3216, SparkFun, (0.6, 1.8), R180|
+|CAPE-0402-X-NF100-01, C2, 6.35, 45.72, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.25, 1.8), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, INPUT, 18.541999999999998, 7.619999999999999, 90,INPUT, 1X06-SMD-FEMALE-V2, SparkFun, (0.73, 0.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 4.1148, 16.4084, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.162, 0.646), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 17.906999999999996, 43.307, 0,JP7, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.705, 1.705), R0|
@@ -54,8 +54,8 @@ Contents
 - oompName: Serial Alphanumeric Display Driver
 - sources: All source files from https://github.com/sparkfun/Serial_Alphanumeric_Display_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10103
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 15.239999999999998, 45.72, 180
-- oompPart: CAPC-0402-X-NF100-V50, C2, 6.35, 45.72, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 15.239999999999998, 45.72, 180
+- oompPart: CAPE-0402-X-NF100-01, C2, 6.35, 45.72, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, INPUT, 18.541999999999998, 7.619999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 4.1148, 16.4084, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 17.906999999999996, 43.307, 0
@@ -79,4 +79,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11373-STAN-01>XBee Explorer Regulated](#proj-spar-11373-stan-01xbee-explorer-regulated)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11373-STAN-01>XBee Explorer Regulated
 
 - ID: PROJ-SPAR-11373-STAN-01
 - Hex ID: PRS11373
 - Name: XBee Explorer Regulated
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 8.889999999999999, 10.413999999999998, 0,C1, 10uF, EIA3216, SparkFun, (0.35, 0.41), R0|
-|CAPC-0402-X-NF100-V50, C2, 11.43, 13.97, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.45, 0.55), R90|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 8.889999999999999, 17.525999999999996, 0,C3, 10uF, EIA3216, SparkFun, (0.35, 0.69), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 10.413999999999998, 0,C1, 10uF, EIA3216, SparkFun, (0.35, 0.41), R0|
+|CAPE-0402-X-NF100-01, C2, 11.43, 13.97, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.45, 0.55), R90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 8.889999999999999, 17.525999999999996, 0,C3, 10uF, EIA3216, SparkFun, (0.35, 0.69), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 20.32, 0,JP2, M11PTH, 1X11, SparkFun, (0.15, 0.8), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 29.209999999999997, 7.619999999999999, 180,JP3, M11PTH, 1X11, SparkFun, (1.15, 0.3), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 7.619999999999999, 90,JP4, 1X06, SparkFun, (0.05, 0.3), R90|
@@ -61,9 +71,9 @@ Contents
 - oompName: XBee Explorer Regulated
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Regulated (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11373
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 8.889999999999999, 10.413999999999998, 0
-- oompPart: CAPC-0402-X-NF100-V50, C2, 11.43, 13.97, 90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 8.889999999999999, 17.525999999999996, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 10.413999999999998, 0
+- oompPart: CAPE-0402-X-NF100-01, C2, 11.43, 13.97, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 8.889999999999999, 17.525999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 29.209999999999997, 7.619999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 7.619999999999999, 90
@@ -111,3 +121,7 @@ Contents
 - rawPart: U$16, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 1.05), R0
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun, (0.2, 0.55), R270
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.35, 0.55), R180
+
+
+
+[im]: kicadPcb3d_450.png

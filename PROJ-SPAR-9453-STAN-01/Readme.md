@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9453-STAN-01>QRE1113 Line Sensor-Analog](#proj-spar-9453-stan-01qre1113-line-sensor-analog)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9453-STAN-01>QRE1113 Line Sensor-Analog
 
 - ID: PROJ-SPAR-9453-STAN-01
 - Hex ID: PRS9453
 - Name: QRE1113 Line Sensor-Analog
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -50,3 +60,7 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun, (0.21, 0.15), R180
 - rawPart: R2, 10K, 0603-RES, SparkFun, (0.09, 0.15), R180
 - rawPart: U1, QRE11131:1, QRE1113-1:1, Testing, (0.15, 0.25), R180
+
+
+
+[im]: kicadPcb3d_450.png

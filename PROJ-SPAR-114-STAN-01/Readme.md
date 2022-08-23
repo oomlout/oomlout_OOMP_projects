@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-114-STAN-01>Breadboard Power Supply 5V 3.3V](#proj-spar-114-stan-01breadboard-power-supply-5v-33v)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-114-STAN-01>Breadboard Power Supply 5V 3.3V
 
 - ID: PROJ-SPAR-114-STAN-01
 - Hex ID: PRS114
 - Name: Breadboard Power Supply 5V 3.3V
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 19.049999999999997, 270,C1, 100uF, CPOL-RADIAL-100UF-25V, SparkFun, (0.15, 0.75), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 27.94, 15.239999999999998, 90,C2, 10uF, CPOL-RADIAL-10UF-25V, SparkFun, (1.1, 0.6), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C3, 29.209999999999997, 22.86, 270,C3, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.15, 0.9), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 27.94, 15.239999999999998, 90,C2, 10uF, CPOL-RADIAL-10UF-25V, SparkFun, (1.1, 0.6), R90|
+|CAPE-UNMATCHED-X-NF100-01, C3, 29.209999999999997, 22.86, 270,C3, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.15, 0.9), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 1.27, 90,D1, 1N4001, DIODE-0.4, SparkFun, (0.35, 0.05), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 5.08, 13.97, 0,F1, 500mA, PTC, SparkFun, (0.2, 0.55), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 16.509999999999998, -3.0479999999999996, 0,J1, POWER_JACKPTH, POWER_JACK_PTH, SparkFun, (0.65, -0.12), R0|
@@ -58,8 +68,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_5V_3.3V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/114
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 19.049999999999997, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 27.94, 15.239999999999998, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 29.209999999999997, 22.86, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 27.94, 15.239999999999998, 90
+- oompPart: CAPE-UNMATCHED-X-NF100-01, C3, 29.209999999999997, 22.86, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 1.27, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 5.08, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 16.509999999999998, -3.0479999999999996, 0
@@ -95,3 +105,7 @@ Contents
 - rawPart: S1, On/Off, SWITCH-SPST, SparkFun, (0.2, 0.25), R0
 - rawPart: S2, Voltage, SWITCH-SPST, SparkFun, (1.05, 0.25), R0
 - rawPart: U1, LM317, TO220-ADJ, SparkFun, (0.65, 0.9), R0
+
+
+
+[im]: kicadPcb3d_450.png

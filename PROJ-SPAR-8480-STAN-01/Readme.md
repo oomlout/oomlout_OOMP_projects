@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8480-STAN-01>Gainer PSoC Development Board](#proj-spar-8480-stan-01gainer-psoc-development-board)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8480-STAN-01>Gainer PSoC Development Board
 
 - ID: PROJ-SPAR-8480-STAN-01
 - Hex ID: PRS8480
 - Name: Gainer PSoC Development Board
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 6.35, 45.72, 270,C1, 0.1uF, C0402, SparkFun, (0.25, 1.8), R270|
-|CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 39.37, 270,C2, 0.1uF, C0402, SparkFun, (0.75, 1.55), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 2.54, 49.529999999999994, 270,C3, 10uF, EIA3216, SparkFun, (0.1, 1.95), R270|
-|CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 36.83, 270,C5, 0.1uF, C0402, SparkFun, (0.7, 1.45), R270|
+|CAPE-0402-X-NF100-01, C1, 6.35, 45.72, 270,C1, 0.1uF, C0402, SparkFun, (0.25, 1.8), R270|
+|CAPE-0402-X-NF100-01, C2, 19.049999999999997, 39.37, 270,C2, 0.1uF, C0402, SparkFun, (0.75, 1.55), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 49.529999999999994, 270,C3, 10uF, EIA3216, SparkFun, (0.1, 1.95), R270|
+|CAPE-0402-X-NF100-01, C5, 17.779999999999998, 36.83, 270,C5, 0.1uF, C0402, SparkFun, (0.7, 1.45), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$1, 20.574, 55.88, 0,E$1, FIDUCIAL-1X2, SparkFun, (0.81, 2.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$2, 0.7619999999999999, 5.08, 0,E$2, FIDUCIAL-1X2, SparkFun, (0.03, 0.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 5.08, 49.529999999999994, 270,F1, PTC, PTC-1206, SparkFun, (0.2, 1.95), R270|
@@ -46,12 +56,12 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 5.08, 5.08, 270,LED2, LED-1206, SparkFun, (0.2, 0.2), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, LED3, 17.779999999999998, 43.18, 180,LED3, TX, LED-0603, SparkFun, (0.7, 1.7), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, LED4, 19.049999999999997, 43.18, 180,LED4, RX, LED-0603, SparkFun, (0.75, 1.7), R180|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 48.26, 270,R1, 1K, C0402, SparkFun, (0.75, 1.9), R270|
 |RESE-0402-X-O331-01, R2, 5.08, 8.889999999999999, 90,R2, 330, C0402, SparkFun, (0.2, 0.35), R90|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O102-01/image_140.jpg)</td><td> R6</td><td>[RESE-0402-X-O102-01<br>SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td><td>[R42102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R3, 17.779999999999998, 45.72, 90,R3, 1K, C0402, SparkFun, (0.7, 1.8), R90|
+|RESE-0402-X-UNMATCHED-01, R4, 19.049999999999997, 45.72, 90,R4, 1K, C0402, SparkFun, (0.75, 1.8), R90|
+|RESE-0402-X-UNMATCHED-01, R5, 6.35, 43.18, 270,R5, 1K, C0402, SparkFun, (0.25, 1.7), R270|
+|RESE-0402-X-UNMATCHED-01, R6, 6.35, 40.64, 270,R6, 1K, C0402, SparkFun, (0.25, 1.6), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 12.7, 5.08, 0,S1, TACTILE_SWITCH_SMD, SparkFun, (0.5, 0.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 24.13, 90,U1, CY8C29466-24SOIC, SOIC28, cypress-psoc, (0.5, 0.95), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 12.7, 40.64, 270,U2, FT232RL, SSOP28DB, SparkFun, (0.5, 1.6), R270|
@@ -68,10 +78,10 @@ Contents
 - oompName: Gainer PSoC Development Board
 - sources: All source files from https://github.com/sparkfun/Gainer_PSoC_Development_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8480
-- oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 45.72, 270
-- oompPart: CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 39.37, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 2.54, 49.529999999999994, 270
-- oompPart: CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 36.83, 270
+- oompPart: CAPE-0402-X-NF100-01, C1, 6.35, 45.72, 270
+- oompPart: CAPE-0402-X-NF100-01, C2, 19.049999999999997, 39.37, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 49.529999999999994, 270
+- oompPart: CAPE-0402-X-NF100-01, C5, 17.779999999999998, 36.83, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$1, 20.574, 55.88, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E$2, 0.7619999999999999, 5.08, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 5.08, 49.529999999999994, 270
@@ -88,12 +98,12 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 5.08, 5.08, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED3, 17.779999999999998, 43.18, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED4, 19.049999999999997, 43.18, 180
-- oompPart: RESE-0402-X-O102-01, R1, 19.049999999999997, 48.26, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 48.26, 270
 - oompPart: RESE-0402-X-O331-01, R2, 5.08, 8.889999999999999, 90
-- oompPart: RESE-0402-X-O102-01, R3, 17.779999999999998, 45.72, 90
-- oompPart: RESE-0402-X-O102-01, R4, 19.049999999999997, 45.72, 90
-- oompPart: RESE-0402-X-O102-01, R5, 6.35, 43.18, 270
-- oompPart: RESE-0402-X-O102-01, R6, 6.35, 40.64, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R3, 17.779999999999998, 45.72, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R4, 19.049999999999997, 45.72, 90
+- oompPart: RESE-0402-X-UNMATCHED-01, R5, 6.35, 43.18, 270
+- oompPart: RESE-0402-X-UNMATCHED-01, R6, 6.35, 40.64, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 12.7, 5.08, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 20.827999999999996, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$17, 4.826, 55.88, 0
@@ -132,3 +142,7 @@ Contents
 - rawPart: U1, CY8C29466-24SOIC, SOIC28, cypress-psoc, (0.5, 0.95), R90
 - rawPart: U2, FT232RL, SSOP28DB, SparkFun, (0.5, 1.6), R270
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.5, 2.05), R270
+
+
+
+[im]: kicadPcb3d_450.png

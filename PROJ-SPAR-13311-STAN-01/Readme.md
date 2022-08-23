@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13311-STAN-01>Teensy 3 1 XBee Adapter](#proj-spar-13311-stan-01teensy-3-1-xbee-adapter)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13311-STAN-01>Teensy 3 1 XBee Adapter
 
 - ID: PROJ-SPAR-13311-STAN-01
 - Hex ID: PRS13311
 - Name: Teensy 3 1 XBee Adapter
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -117,3 +127,7 @@ Contents
 - rawPart: SJ3, D_RX, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK, SparkFun-Passives, (0.25, 1.9375), R0
 - rawPart: SJ4, JUMPER-PAD-3-2OF3_NC_BY_PASTE, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.9, 1.9625), R180
 - rawPart: SJ5, EXT_JPR, PAD-JUMPER-2-NO_YES_SILK, SparkFun-Passives, (0.4, 0.175), R0
+
+
+
+[im]: kicadPcb3d_450.png

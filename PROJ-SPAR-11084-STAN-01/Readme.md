@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11084-STAN-01>MPL3115A2 Breakout](#proj-spar-11084-stan-01mpl3115a2-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11084-STAN-01>MPL3115A2 Breakout
 
 - ID: PROJ-SPAR-11084-STAN-01
 - Hex ID: PRS11084
 - Name: MPL3115A2 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 8.889999999999999, 8.889999999999999, 270,C1, 0.1uF, 0402-CAP, SparkFun, (0.35, 0.35), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 12.7, 10.16, 90,C2, 10uF, EIA3216, SparkFun, (0.5, 0.4), R90|
-|CAPC-0402-X-NF100-V50, C3, 7.619999999999999, 8.889999999999999, 270,C3, 0.1uF, 0402-CAP, SparkFun, (0.3, 0.35), R270|
-|CAPC-0402-X-UNMATCHED-01, C4, 10.16, 8.889999999999999, 270,C4, 1uF, 0402-CAP, SparkFun, (0.4, 0.35), R270|
+|CAPE-0402-X-NF100-01, C1, 8.889999999999999, 8.889999999999999, 270,C1, 0.1uF, 0402-CAP, SparkFun, (0.35, 0.35), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 12.7, 10.16, 90,C2, 10uF, EIA3216, SparkFun, (0.5, 0.4), R90|
+|CAPE-0402-X-NF100-01, C3, 7.619999999999999, 8.889999999999999, 270,C3, 0.1uF, 0402-CAP, SparkFun, (0.3, 0.35), R270|
+|CAPE-0402-X-UNMATCHED-01, C4, 10.16, 8.889999999999999, 270,C4, 1uF, 0402-CAP, SparkFun, (0.4, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 1.27, 0,JP4, 1X06, SparkFun, (0.05, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 6.35, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.55, 0.25), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 0.7619999999999999, 17.018, 0,JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.03, 0.67), R0|
@@ -48,10 +58,10 @@ Contents
 - oompName: MPL3115A2 Breakout
 - sources: All source files from https://github.com/sparkfun/MPL3115A2_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11084
-- oompPart: CAPC-0402-X-NF100-V50, C1, 8.889999999999999, 8.889999999999999, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 12.7, 10.16, 90
-- oompPart: CAPC-0402-X-NF100-V50, C3, 7.619999999999999, 8.889999999999999, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C4, 10.16, 8.889999999999999, 270
+- oompPart: CAPE-0402-X-NF100-01, C1, 8.889999999999999, 8.889999999999999, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 12.7, 10.16, 90
+- oompPart: CAPE-0402-X-NF100-01, C3, 7.619999999999999, 8.889999999999999, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C4, 10.16, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 6.35, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 0.7619999999999999, 17.018, 0
@@ -68,3 +78,7 @@ Contents
 - rawPart: R1, 1k, 0402-RES, SparkFun, (0.25, 0.35), R270
 - rawPart: R2, 1k, 0402-RES, SparkFun, (0.2, 0.35), R270
 - rawPart: U1, MPL3115A2LGA8, LGA8, SparkFun-Sensors, (0.3, 0.55), R180
+
+
+
+[im]: kicadPcb3d_450.png

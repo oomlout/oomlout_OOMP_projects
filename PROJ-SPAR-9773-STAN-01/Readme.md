@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9773-STAN-01>SparkFun-Fuse-Breakout-Board](#proj-spar-9773-stan-01sparkfun-fuse-breakout-board)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9773-STAN-01>SparkFun-Fuse-Breakout-Board
 
 - ID: PROJ-SPAR-9773-STAN-01
 - Hex ID: PRS9773
 - Name: SparkFun-Fuse-Breakout-Board
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -53,3 +63,7 @@ Contents
 - rawPart: J1, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.15, 0.35), R270
 - rawPart: J2, POWER_JACKPTH_LOCK, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (0.155, 0.245), R270
 - rawPart: J3, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (2.4, 0.15), R90
+
+
+
+[im]: kicadPcb3d_450.png

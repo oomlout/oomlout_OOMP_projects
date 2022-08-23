@@ -38,19 +38,19 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C1, 6.35, 45.72, 270"
+            "value": "CAPE-0402-X-NF100-01, C1, 6.35, 45.72, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 39.37, 270"
+            "value": "CAPE-0402-X-NF100-01, C2, 19.049999999999997, 39.37, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UF10-V25, C3, 2.54, 49.529999999999994, 270"
+            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 49.529999999999994, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 36.83, 270"
+            "value": "CAPE-0402-X-NF100-01, C5, 17.779999999999998, 36.83, 270"
         },
         {
             "name": "oompPart",
@@ -118,7 +118,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0402-X-O102-01, R1, 19.049999999999997, 48.26, 270"
+            "value": "RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 48.26, 270"
         },
         {
             "name": "oompPart",
@@ -126,19 +126,19 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0402-X-O102-01, R3, 17.779999999999998, 45.72, 90"
+            "value": "RESE-0402-X-UNMATCHED-01, R3, 17.779999999999998, 45.72, 90"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0402-X-O102-01, R4, 19.049999999999997, 45.72, 90"
+            "value": "RESE-0402-X-UNMATCHED-01, R4, 19.049999999999997, 45.72, 90"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0402-X-O102-01, R5, 6.35, 43.18, 270"
+            "value": "RESE-0402-X-UNMATCHED-01, R5, 6.35, 43.18, 270"
         },
         {
             "name": "oompPart",
-            "value": "RESE-0402-X-O102-01, R6, 6.35, 40.64, 270"
+            "value": "RESE-0402-X-UNMATCHED-01, R6, 6.35, 40.64, 270"
         },
         {
             "name": "oompPart",

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 12.7, 34.29, 90,C1, 10uF, EIA3216, SparkFun, (0.5, 1.35), R90|
-|CAPC-0402-X-NF100-V50, C2, 13.97, 27.94, 0,C2, 0.1uF, 0402-CAP, SparkFun, (0.55, 1.1), R0|
-|CAPC-0402-X-NF100-V50, C3, 22.098, 20.32, 180,C3, 0.1uF, 0402-CAP, SparkFun, (0.87, 0.8), R180|
-|CAPC-0402-X-NF100-V50, C6, 13.334999999999999, 14.604999999999999, 0,C6, 0.1uF, 0402-CAP, SparkFun, (0.525, 0.575), R0|
-|CAPC-0402-X-UNMATCHED-01, C9, 8.889999999999999, 50.8, 180,C9, 4.7uF, 0402-CAP, SparkFun, (0.35, 2), R180|
-|CAPC-0402-X-UNMATCHED-01, C10, 16.509999999999998, 49.529999999999994, 0,C10, 4.7uF, 0402-CAP, SparkFun, (0.65, 1.95), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 12.7, 34.29, 90,C1, 10uF, EIA3216, SparkFun, (0.5, 1.35), R90|
+|CAPE-0402-X-NF100-01, C2, 13.97, 27.94, 0,C2, 0.1uF, 0402-CAP, SparkFun, (0.55, 1.1), R0|
+|CAPE-0402-X-NF100-01, C3, 22.098, 20.32, 180,C3, 0.1uF, 0402-CAP, SparkFun, (0.87, 0.8), R180|
+|CAPE-0402-X-NF100-01, C6, 13.334999999999999, 14.604999999999999, 0,C6, 0.1uF, 0402-CAP, SparkFun, (0.525, 0.575), R0|
+|CAPE-0402-X-UNMATCHED-01, C9, 8.889999999999999, 50.8, 180,C9, 4.7uF, 0402-CAP, SparkFun, (0.35, 2), R180|
+|CAPE-0402-X-UNMATCHED-01, C10, 16.509999999999998, 49.529999999999994, 0,C10, 4.7uF, 0402-CAP, SparkFun, (0.65, 1.95), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 12.7, 1.27, 270,D1, Red, LED-0603, SparkFun, (0.5, 0.05), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 36.83, 90,D2, Green, LED-0603, SparkFun, (0.1, 1.45), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 39.37, 90,D3, Red, LED-0603, SparkFun, (0.1, 1.55), R90|
@@ -61,7 +61,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R1, 8.254999999999999, 1.27, 0,R1, 1k, 0402-RES, SparkFun, (0.325, 0.05), R0|
 |RESE-0402-X-UNMATCHED-01, R2, 5.08, 35.559999999999995, 0,R2, 1k, 0402-RES, SparkFun, (0.2, 1.4), R0|
 |RESE-0402-X-UNMATCHED-01, R3, 5.08, 38.099999999999994, 0,R3, 1k, 0402-RES, SparkFun, (0.2, 1.5), R0|
-|RESE-0402-X-UNMATCHED-01, R4, 17.779999999999998, 6.35, 270,R4, 10k, 0402-RES, SparkFun, (0.7, 0.25), R270|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R5, 12.7, 48.26, 0,R5, 2K, 0402-RES, SparkFun, (0.5, 1.9), R0|
 |RESE-0402-X-UNMATCHED-01, R8, 19.049999999999997, 45.72, 90,R8, 100, 0402-RES, SparkFun, (0.75, 1.8), R90|
 |RESE-0402-X-UNMATCHED-01, R9, 8.889999999999999, 44.449999999999996, 180,R9, 470, 0402-RES, SparkFun, (0.35, 1.75), R180|
@@ -88,12 +88,12 @@ Contents
 - oompName: Arduino Fio
 - sources: All source files from https://github.com/sparkfun/Arduino_Fio (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10116
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 12.7, 34.29, 90
-- oompPart: CAPC-0402-X-NF100-V50, C2, 13.97, 27.94, 0
-- oompPart: CAPC-0402-X-NF100-V50, C3, 22.098, 20.32, 180
-- oompPart: CAPC-0402-X-NF100-V50, C6, 13.334999999999999, 14.604999999999999, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C9, 8.889999999999999, 50.8, 180
-- oompPart: CAPC-0402-X-UNMATCHED-01, C10, 16.509999999999998, 49.529999999999994, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 12.7, 34.29, 90
+- oompPart: CAPE-0402-X-NF100-01, C2, 13.97, 27.94, 0
+- oompPart: CAPE-0402-X-NF100-01, C3, 22.098, 20.32, 180
+- oompPart: CAPE-0402-X-NF100-01, C6, 13.334999999999999, 14.604999999999999, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C9, 8.889999999999999, 50.8, 180
+- oompPart: CAPE-0402-X-UNMATCHED-01, C10, 16.509999999999998, 49.529999999999994, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 12.7, 1.27, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.54, 36.83, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 39.37, 90
@@ -113,7 +113,7 @@ Contents
 - oompPart: RESE-0402-X-UNMATCHED-01, R1, 8.254999999999999, 1.27, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 5.08, 35.559999999999995, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, 5.08, 38.099999999999994, 0
-- oompPart: RESE-0402-X-UNMATCHED-01, R4, 17.779999999999998, 6.35, 270
+- oompPart: RESE-0402-X-O103-01, R4, 17.779999999999998, 6.35, 270
 - oompPart: RESE-0402-X-UNMATCHED-01, R5, 12.7, 48.26, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R8, 19.049999999999997, 45.72, 90
 - oompPart: RESE-0402-X-UNMATCHED-01, R9, 8.889999999999999, 44.449999999999996, 180
@@ -175,4 +175,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

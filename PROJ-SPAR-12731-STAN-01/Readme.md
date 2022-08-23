@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12731-STAN-01>FT232RL USB Breakout](#proj-spar-12731-stan-01ft232rl-usb-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12731-STAN-01>FT232RL USB Breakout
 
 - ID: PROJ-SPAR-12731-STAN-01
 - Hex ID: PRS12731
 - Name: FT232RL USB Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C5, 25.4, 17.145, 180,C5, 10uF, EIA3216, SparkFun-Capacitors, (1, 0.675), R180|
+|CAPE-0603-X-NF100-01, C1, 2.54, 4.444999999999999, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.1, 0.175), R270|
+|CAPE-0603-X-NF100-01, C2, 13.97, 17.779999999999998, 180,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.7), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180,C5, 10uF, EIA3216, SparkFun-Capacitors, (1, 0.675), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 25.526999999999997, 5.715, 180,F1, 500mA, PTC-1206, SparkFun, (1.005, 0.225), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 20.32, 0,JP1, 1X09, SparkFun, (0.3, 0.8), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 2.54, 0,JP2, 1X09, SparkFun, (0.3, 0.1), R0|
@@ -54,9 +64,9 @@ Contents
 - oompName: FT232RL USB Breakout
 - sources: All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12731
-- oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 4.444999999999999, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 17.779999999999998, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C5, 25.4, 17.145, 180
+- oompPart: CAPE-0603-X-NF100-01, C1, 2.54, 4.444999999999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 13.97, 17.779999999999998, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 25.526999999999997, 5.715, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 2.54, 0
@@ -86,3 +96,7 @@ Contents
 - rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.1, 0.725), R270
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.875, 0.45), R90
 - rawPart: U1, FT232R, SSOP28DB, SparkFun, (0.525, 0.45), R0
+
+
+
+[im]: kicadPcb3d_450.png

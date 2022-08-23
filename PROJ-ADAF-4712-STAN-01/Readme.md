@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 8.382, 9.906, 180,C1, 1uF, 0603-NO, microbuilder, (0.33, 0.39), R180|
+|CAPE-0603-X-UNMATCHED-01, C1, 8.382, 9.906, 180,C1, 1uF, 0603-NO, microbuilder, (0.33, 0.39), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.796499999999998, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.8975, 0.35), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.6034999999999995, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1025, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.667, 13.208, 270,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.105, 0.52), R270|
@@ -60,7 +60,7 @@ Contents
 - oompName: Adafruit LC709203F PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LC709203F-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4712
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.382, 9.906, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 8.382, 9.906, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.796499999999998, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.6034999999999995, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.667, 13.208, 270
@@ -95,4 +95,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

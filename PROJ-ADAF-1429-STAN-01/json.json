@@ -38,19 +38,19 @@
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C1 10uF/16V 0805, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C1, 18.541999999999998, 14.985999999999999, 270"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C2 1uF/50V 0805, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C2, 33.274, 9.143999999999998, 90"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C3 10uF/16V 0805, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C3, 42.925999999999995, 8.636000000000001, 90"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C4 ~1000uF E3,5-8, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 13.208, 12.7, 270"
         },
         {
             "name": "oompPart",

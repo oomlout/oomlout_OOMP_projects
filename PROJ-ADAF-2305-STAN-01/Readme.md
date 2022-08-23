@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 5.842, 7.619999999999999, 270,C1, 1uF, 0805-NO, microbuilder, (0.23, 0.3), R270|
-|CAPC-0805-X-UNMATCHED-01, C2, 11.937999999999999, 7.619999999999999, 90,C2, 1uF, 0805-NO, microbuilder, (0.47, 0.3), R90|
+|CAPE-0805-X-UNMATCHED-01, C1, 5.842, 7.619999999999999, 270,C1, 1uF, 0805-NO, microbuilder, (0.23, 0.3), R270|
+|CAPE-0805-X-UNMATCHED-01, C2, 11.937999999999999, 7.619999999999999, 90,C2, 1uF, 0805-NO, microbuilder, (0.47, 0.3), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 1.778, 0,JP1, 1X05_ROUND_FULL_76, microbuilder, (0.35, 0.07), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -56,8 +56,8 @@ Contents
 - oompName: Adafruit DRV2605 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV2605-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2305
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.842, 7.619999999999999, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.937999999999999, 7.619999999999999, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 5.842, 7.619999999999999, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 11.937999999999999, 7.619999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.256, 2.794, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.302, 10.921999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 1.778, 0

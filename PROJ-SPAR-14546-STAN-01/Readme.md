@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14546-STAN-01>LilyPad E-Sewing Kit](#proj-spar-14546-stan-01lilypad-e-sewing-kit)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14546-STAN-01>LilyPad E-Sewing Kit
 
 - ID: PROJ-SPAR-14546-STAN-01
 - Hex ID: PRS14546
 - Name: LilyPad E-Sewing Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -158,3 +168,7 @@ Contents
 - rawPart: S3, S3, AYZ0202, SparkFun-Electromechanical, (1.4500999, 1.42760002), R90
 - rawPart: SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (1.4500999, 1.22260002), R0
 - rawPart: SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (1.4500999, 1.62839998), R180
+
+
+
+[im]: kicadPcb3d_450.png

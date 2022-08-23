@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14480-STAN-01>Triple Axis Accelerometer Breakout-H3LIS331DL](#proj-spar-14480-stan-01triple-axis-accelerometer-breakout-h3lis331dl)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14480-STAN-01>Triple Axis Accelerometer Breakout-H3LIS331DL
 
 - ID: PROJ-SPAR-14480-STAN-01
 - Hex ID: PRS14480
 - Name: Triple Axis Accelerometer Breakout-H3LIS331DL
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 6.35, 10.16, 270,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.25, 0.4), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 10.16, 270,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.25, 0.4), R270|
+|CAPE-0603-X-NF100-01, C2, 3.8099999999999996, 10.16, 90,C2, 0.1uF, 0603, SparkFun-Capacitors, (0.15, 0.4), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 6.35, 19.049999999999997, 0,J1, 1X04, SparkFun-Connectors, (0.25, 0.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 6.35, 1.27, 0,J2, 1X04, SparkFun-Connectors, (0.25, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 5.08, 90,JP1, JUMPER-SMT_3_2-NC_PASTE_NO-SILK, SMT-JUMPER_3_2-NC_PASTE_NO-SILK, SparkFun-Jumpers, (0.3, 0.2), R90|
@@ -37,10 +47,10 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 15.239999999999998, M0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.6), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 5.08, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.75, 0.2), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.049999999999997, 5.08, M0,JP7, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.75, 0.2), MR0|
-|RESE-0603-X-UNMATCHED-01, R1, 15.239999999999998, 6.476999999999999, 90,R1, 10k, 0603, SparkFun-Resistors, (0.6, 0.255), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R2, 11.049, 5.968999999999999, 0,R2, 4.7k, 0603, SparkFun-Resistors, (0.435, 0.235), R0|
 |RESE-0603-X-UNMATCHED-01, R3, 11.049, 4.191, 0,R3, 4.7k, 0603, SparkFun-Resistors, (0.435, 0.165), R0|
-|RESE-0603-X-UNMATCHED-01, R4, 13.97, 13.97, 90,R4, 10k, 0603, SparkFun-Resistors, (0.55, 0.55), R90|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 10.16, 90,U1, H3LIS331DL, LGA-16-3X3, SparkFun-Sensors, (0.4, 0.4), R90|
 
 ## Tags
@@ -54,8 +64,8 @@ Contents
 - oompName: Triple Axis Accelerometer Breakout-H3LIS331DL
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14480
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 6.35, 10.16, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 3.8099999999999996, 10.16, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 10.16, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 3.8099999999999996, 10.16, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 6.35, 19.049999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 6.35, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 5.08, 90
@@ -65,10 +75,10 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.27, 15.239999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 5.08, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.049999999999997, 5.08, M0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 15.239999999999998, 6.476999999999999, 90
+- oompPart: RESE-0603-X-O103-01, R1, 15.239999999999998, 6.476999999999999, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 11.049, 5.968999999999999, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 11.049, 4.191, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 13.97, 13.97, 90
+- oompPart: RESE-0603-X-O103-01, R4, 13.97, 13.97, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 10.16, 90
 - rawPart: C1, 10uF, EIA3216, SparkFun-Capacitors, (0.25, 0.4), R270
 - rawPart: C2, 0.1uF, 0603, SparkFun-Capacitors, (0.15, 0.4), R90
@@ -86,3 +96,7 @@ Contents
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.435, 0.165), R0
 - rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.55, 0.55), R90
 - rawPart: U1, H3LIS331DL, LGA-16-3X3, SparkFun-Sensors, (0.4, 0.4), R90
+
+
+
+[im]: kicadPcb3d_450.png

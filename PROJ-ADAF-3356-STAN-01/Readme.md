@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 10.795, 6.35, 180,C1, 10uF, 0805-NO, microbuilder, (0.425, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.512, 21.209, 0,CONN1, HEADER-1X25, 1X25_ROUND_70MIL, microbuilder, (1.28, 0.835), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 13.97, 0,JP1, 1X11_ROUND, microbuilder, (0.6, 0.55), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 49.529999999999994, 13.97, 0,JP2, 1X11_ROUND, microbuilder, (1.95, 0.55), R0|
@@ -63,7 +63,7 @@ Contents
 - oompName: Adafruit Animated Eyes Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3356
-- oompPart: CAPC-0805-X-UF10-V25, C1, 10.795, 6.35, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 10.795, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.512, 21.209, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.9524999999999999, 23.1775, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 63.75399999999999, 7.492999999999999, 0

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11285-STAN-01>LilyPad Coin Cell Battery Holder-Switched](#proj-spar-11285-stan-01lilypad-coin-cell-battery-holder-switched)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11285-STAN-01>LilyPad Coin Cell Battery Holder-Switched
 
 - ID: PROJ-SPAR-11285-STAN-01
 - Hex ID: PRS11285
 - Name: LilyPad Coin Cell Battery Holder-Switched
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -62,3 +72,7 @@ Contents
 - rawPart: FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (1.17260002, 0.68170005), R0
 - rawPart: FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.18710002, 0.20179995), R0
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.63, 1.025), R180
+
+
+
+[im]: kicadPcb3d_450.png

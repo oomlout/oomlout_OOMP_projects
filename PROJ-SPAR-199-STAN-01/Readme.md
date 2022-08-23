@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-199-STAN-01>USB Serial GPIO Breakout-CP2103](#proj-spar-199-stan-01usb-serial-gpio-breakout-cp2103)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-199-STAN-01>USB Serial GPIO Breakout-CP2103
 
 - ID: PROJ-SPAR-199-STAN-01
 - Hex ID: PRS199
 - Name: USB Serial GPIO Breakout-CP2103
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0,C1, 1uF, C0402, SparkFun, (0.65, 0.25), R0|
-|CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 20.32, 180,C2, 0.1uF, C0402, SparkFun, (0.75, 0.8), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C3, 19.049999999999997, 22.86, 0,C3, 10uF, EIA3216, SparkFun, (0.75, 0.9), R0|
+|CAPE-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0,C1, 1uF, C0402, SparkFun, (0.65, 0.25), R0|
+|CAPE-0402-X-NF100-01, C2, 19.049999999999997, 20.32, 180,C2, 0.1uF, C0402, SparkFun, (0.75, 0.8), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0,C3, 10uF, EIA3216, SparkFun, (0.75, 0.9), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0,JP1, 1X02, SparkFun, (0.05, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 24.13, 0,JP2, 1X02, SparkFun, (0.05, 0.95), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 33.019999999999996, 21.59, 270,JP3, 1X04, SparkFun, (1.3, 0.85), R270|
@@ -50,9 +60,9 @@ Contents
 - oompName: USB Serial GPIO Breakout-CP2103
 - sources: All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/199
-- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
-- oompPart: CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 20.32, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C3, 19.049999999999997, 22.86, 0
+- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
+- oompPart: CAPE-0402-X-NF100-01, C2, 19.049999999999997, 20.32, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 24.13, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 33.019999999999996, 21.59, 270
@@ -78,3 +88,7 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.85), R0
 - rawPart: U1, CP2103, MLP28, SparkFun, (0.75, 0.5), R0
 - rawPart: X1, USBPTH, USB-B-PTH, SparkFun, (0.35, 0.5), R0
+
+
+
+[im]: kicadPcb3d_450.png

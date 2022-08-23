@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-18354-STAN-01>SparkFun Qwiic LED Stick](#proj-spar-18354-stan-01sparkfun-qwiic-led-stick)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-18354-STAN-01>SparkFun Qwiic LED Stick
 
 - ID: PROJ-SPAR-18354-STAN-01
 - Hex ID: PRS18354
 - Name: SparkFun Qwiic LED Stick
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 22.86, 16.509999999999998, M0,ADDR, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.9, 0.65), MR0|
-|CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.001, 270,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.3, 0.315), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.001, 270,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.3, 0.315), R270|
+|CAPE-0603-X-NF100-01, C4, 16.509999999999998, 8.636000000000001, 0,C4, 0.1uF, 0603, SparkFun-Capacitors, (0.65, 0.34), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D0, 25.4, 12.7, 0,D0, APA102-5050, APA102-5050, SparkFun-LED, (1, 0.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 31.75, 12.7, 0,D1, APA102-5050, APA102-5050, SparkFun-LED, (1.25, 0.5), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 38.099999999999994, 12.7, 0,D2, APA102-5050, APA102-5050, SparkFun-LED, (1.5, 0.5), R0|
@@ -71,8 +81,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18354
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 22.86, 16.509999999999998, M0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.001, 270
-- oompPart: CAPC-0603-X-NF100-V50, C4, 16.509999999999998, 8.636000000000001, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.001, 270
+- oompPart: CAPE-0603-X-NF100-01, C4, 16.509999999999998, 8.636000000000001, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D0, 25.4, 12.7, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 31.75, 12.7, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 38.099999999999994, 12.7, 0
@@ -134,3 +144,7 @@ Contents
 - rawPart: R6, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.725), R90
 - rawPart: U2, ATTINY85, ATTINY85, SparkFun-IC-Microcontroller, (0.65, 0.5), R180
 - rawPart: VLED, JUMPER-SMT_3_1-NC_TRACE_SILK, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.425, 0.34), MR180
+
+
+
+[im]: kicadPcb3d_450.png

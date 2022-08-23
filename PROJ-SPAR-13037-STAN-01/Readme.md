@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13037-STAN-01>Edison Battery Block](#proj-spar-13037-stan-01edison-battery-block)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13037-STAN-01>Edison Battery Block
 
 - ID: PROJ-SPAR-13037-STAN-01
 - Hex ID: PRS13037
 - Name: Edison Battery Block
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.48), R180|
-|CAPC-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.21, 1.55), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.48), R180|
+|CAPE-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.21, 1.55), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 1.016, 35.81399999999999, 180,D1, RED, LED-0603, SparkFun-LED, (0.04, 1.41), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 1.016, 8.382, 180,D2, BLUE, LED-0603, SparkFun-LED, (0.04, 0.33), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 42.291, 270,JP1, USB_MICROB_PLUG, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.6, 1.665), R270|
@@ -52,8 +62,8 @@ Contents
 - oompName: Edison Battery Block
 - sources: All source files from https://github.com/sparkfun/Edison_Battery_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13037
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 1.016, 35.81399999999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 1.016, 8.382, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 5.08, 0
@@ -88,3 +98,7 @@ Contents
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.3, 1.55), R180
 - rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
 - rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
+
+
+
+[im]: kicadPcb3d_450.png

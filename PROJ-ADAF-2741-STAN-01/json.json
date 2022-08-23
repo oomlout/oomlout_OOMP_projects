@@ -42,11 +42,11 @@
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C1 22uF,6.3V _0805MP, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C1, 531.25, 330.0, 90"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C2 22uF,6.3V _0805MP, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-UNMATCHED-01, C2, 485.0, 175.0, 0"
         },
         {
             "name": "oompPart",
@@ -102,7 +102,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 350.0, 202.5, 180"
+            "value": "RESE-0603-X-O473-01, R2, 350.0, 202.5, 180"
         },
         {
             "name": "oompPart",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R4, 350.0, 427.5, 180"
+            "value": "RESE-0603-X-O473-01, R4, 350.0, 427.5, 180"
         },
         {
             "name": "oompPart",
@@ -118,7 +118,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R6, 700.0, 447.5, 180"
+            "value": "RESE-0603-X-O473-01, R6, 700.0, 447.5, 180"
         },
         {
             "name": "oompPart",
@@ -130,7 +130,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R9, 470.0, 425.0, 270"
+            "value": "RESE-0603-X-UNMATCHED-01, R9, 470.0, 425.0, 270"
         },
         {
             "name": "oompPart",

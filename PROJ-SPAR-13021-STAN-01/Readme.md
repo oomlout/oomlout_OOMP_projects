@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13021-STAN-01>MagJack Breakout](#proj-spar-13021-stan-01magjack-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13021-STAN-01>MagJack Breakout
 
 - ID: PROJ-SPAR-13021-STAN-01
 - Hex ID: PRS13021
 - Name: MagJack Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -48,3 +58,7 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.25, 0.2), R0
 - rawPart: J1, MAGJACK-NOLABELS, MAGJACK, SparkFun-Connectors, (0.95, 1.1), R180
 - rawPart: JP1, M13LOCK, 1X13_LOCK, SparkFun-Connectors, (0.05, 0.05), R0
+
+
+
+[im]: kicadPcb3d_450.png

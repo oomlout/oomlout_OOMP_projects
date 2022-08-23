@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 43.18, 39.624, 90,C1, 10uF, 0805-NO, microbuilder, (1.7, 1.56), R90|
+|CAPE-0805-X-NF100-01, C2, 44.958, 39.624, 90,C2, 0.1uF, 0805-NO, microbuilder, (1.77, 1.56), R90|
+|CAPE-0805-X-NF100-01, C3, 25.654, 36.57599999999999, 0,C3, 0.1uF, 0805-NO, microbuilder, (1.01, 1.44), R0|
+|CAPE-0805-X-UNMATCHED-01, C5, 29.845, 33.782, 270,C5, 10uF, 0805-NO, microbuilder, (1.175, 1.33), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 47.625, 32.004, 90,D1, 1n4148, SOD-323, microbuilder, (1.875, 1.26), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 25.780999999999995, 33.782, 270,IC5, AXP803, SOT23, adafruit, (1.015, 1.33), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 28.320999999999998, 45.592999999999996, 0,JP2, CID:2608, 2X13_SMT_MALE, microbuilder, (1.115, 1.795), R0|
@@ -79,10 +79,10 @@ Contents
 - oompName: Adafruit PiTFT 2.4 Inch HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2455
-- oompPart: CAPC-0805-X-UF10-V25, C1, 43.18, 39.624, 90
-- oompPart: CAPC-0805-X-NF100-V50, C2, 44.958, 39.624, 90
-- oompPart: CAPC-0805-X-NF100-V50, C3, 25.654, 36.57599999999999, 0
-- oompPart: CAPC-0805-X-UF10-V25, C5, 29.845, 33.782, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 43.18, 39.624, 90
+- oompPart: CAPE-0805-X-NF100-01, C2, 44.958, 39.624, 90
+- oompPart: CAPE-0805-X-NF100-01, C3, 25.654, 36.57599999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 29.845, 33.782, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 47.625, 32.004, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 25.780999999999995, 33.782, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 28.320999999999998, 45.592999999999996, 0

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8937-STAN-01>LilyPad XBee](#proj-spar-8937-stan-01lilypad-xbee)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8937-STAN-01>LilyPad XBee
 
 - ID: PROJ-SPAR-8937-STAN-01
 - Hex ID: PRS8937
 - Name: LilyPad XBee
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, -4.9022, 13.6398, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (-0.193, 0.537), R270|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C2, -1.27, 13.97, 0,C2, 47uF, EIA3528, SparkFun, (-0.05, 0.55), R0|
-|CAPC-0603-X-UNMATCHED-01, C3, -6.4516, 13.6398, 270,C3, 1.0uF, 0603-CAP, SparkFun-Capacitors, (-0.254, 0.537), R270|
-|CAPC-0603-X-UNMATCHED-01, C4, 6.35, 12.7, 90,C4, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.5), R90|
+|CAPE-0603-X-UNMATCHED-01, C3, -6.4516, 13.6398, 270,C3, 1.0uF, 0603-CAP, SparkFun-Capacitors, (-0.254, 0.537), R270|
+|CAPE-0603-X-UNMATCHED-01, C4, 6.35, 12.7, 90,C4, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.5), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 14.884399999999998, 2.5907999999999998, 90,D1, Status, LED-0603, SparkFun-LED, (0.586, 0.102), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 14.884399999999998, 1.1683999999999999, 90,D2, Status, LED-0603, SparkFun-LED, (0.586, 0.046), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -21.479999965999998, 3.089999916, 351.8,GND, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84566929, 0.12165354), R351.8|
@@ -53,10 +63,10 @@ Contents
 - oompName: LilyPad XBee
 - sources: All source files from https://github.com/sparkfun/LilyPad_XBee (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8937
-- oompPart: CAPC-0603-X-NF100-V50, C1, -4.9022, 13.6398, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, -4.9022, 13.6398, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, -1.27, 13.97, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, -6.4516, 13.6398, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 6.35, 12.7, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, -6.4516, 13.6398, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 6.35, 12.7, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 14.884399999999998, 2.5907999999999998, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 14.884399999999998, 1.1683999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -7.619999999999999, 11.43, 0
@@ -129,3 +139,7 @@ Contents
 - rawPart: U$51, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84724409, -0.12204724), R8.2
 - rawPart: U1, XBEE-1B3, XBEE-SMD, SparkFun, (0, -0.4), R0
 - rawPart: U2, V_REG_LDOSMD, SOT23-5, SparkFun, (0.15, 0.55), R0
+
+
+
+[im]: kicadPcb3d_450.png

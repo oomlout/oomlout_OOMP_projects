@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13716-STAN-01>FemtoBuck](#proj-spar-13716-stan-01femtobuck)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13716-STAN-01>FemtoBuck
 
 - ID: PROJ-SPAR-13716-STAN-01
 - Hex ID: PRS13716
 - Name: FemtoBuck
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270,C1, 1uF, 1206-CAP, SparkFun-Capacitors, (0.35, 0.875), R270|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.8099999999999996, 26.924, 180,C2, 2.2uF, 1206-CAP, SparkFun-Capacitors, (0.15, 1.06), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270,C1, 1uF, 1206-CAP, SparkFun-Capacitors, (0.35, 0.875), R270|
+|CAPE-UNMATCHED-X-UF22D-01, C2, 3.8099999999999996, 26.924, 180,C2, 2.2uF, 1206-CAP, SparkFun-Capacitors, (0.15, 1.06), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0,CH1, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.13, 0.365), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 1.9049999999999998, 22.86, 90,D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.075, 0.9), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 31.75, 0,JP1, 1X04, SparkFun-Connectors, (0.05, 1.25), R0|
@@ -49,8 +59,8 @@ Contents
 - oompName: FemtoBuck
 - sources: All source files from https://github.com/sparkfun/FemtoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13716
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.8099999999999996, 26.924, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270
+- oompPart: CAPE-UNMATCHED-X-UF22D-01, C2, 3.8099999999999996, 26.924, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 1.9049999999999998, 22.86, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.254999999999999, 37.465, 0
@@ -75,3 +85,7 @@ Contents
 - rawPart: R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270
 - rawPart: SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0
 - rawPart: U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.2, 0.865), R0
+
+
+
+[im]: kicadPcb3d_450.png

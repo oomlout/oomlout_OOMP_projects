@@ -22,17 +22,17 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|ERROR, C2  E3,5-8, 0, 0, 0,C2, E3,5-8, adafruit, (-740, 835), R180|
+|CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180,C1, 10uF, 0805, microbuilder, (-477.5, 708.12992), R180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180,C2, E3,5-8, adafruit, (-740, 835), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 850.0, 180,J1, TERMBLOCK_1X2-3.5MM, 1X2-3.5MM, microbuilder, (0, 850), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -300.0, 155.0, 180,JP1, 3X04, microbuilder, (-300, 155), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -800.0, 155.0, 180,JP2, 3X04, microbuilder, (-800, 155), R180|
@@ -40,7 +40,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1150.0, 505.0, 90,JP4, 1X06-CLEANBIG, adafruit, (1150, 505), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 800.0, 155.0, 180,JP5, 3X04, microbuilder, (800, 155), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 300.0, 155.0, 180,JP6, 3X04, microbuilder, (300, 155), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -320.0, 790.0, 90,LED1, VCC, CHIPLED_0805, microbuilder, (-320, 790), R90|
+|UNMATCHED-0805-X-UNMATCHED-01, LED1, -320.0, 790.0, 90,LED1, VCC, CHIPLED_0805, microbuilder, (-320, 790), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -499.48819, 912.55906, 270,Q1, IRLML6401, SOT23-WIDE, microbuilder, (-499.48819, 912.55906), R270|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -87,8 +87,8 @@ Contents
 - oompName: Adafruit 16 Channel PWM Servo Driver PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/815
-- oompPart: CAPC-0805-X-UF10-V25, C1, -477.5, 708.12992, 180
-- oompPart: ERROR, C2  E3,5-8, 0, 0, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 549.40945, 53.74016, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, -745.03937, 938.93701, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 850.0, 180
@@ -98,7 +98,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1150.0, 505.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 800.0, 155.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 300.0, 155.0, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, -320.0, 790.0, 90
+- oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED1, -320.0, 790.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -499.48819, 912.55906, 270
 - oompPart: RESE-0805-X-O103-01, R1, 385.0, 714.37008, 90
 - oompPart: RESE-0805-X-O103-01, R2, 485.0, 714.37008, 90
@@ -190,4 +190,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13735-STAN-01>LilyPad Tri-Color LED](#proj-spar-13735-stan-01lilypad-tri-color-led)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13735-STAN-01>LilyPad Tri-Color LED
 
 - ID: PROJ-SPAR-13735-STAN-01
 - Hex ID: PRS13735
 - Name: LilyPad Tri-Color LED
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -70,3 +80,7 @@ Contents
 - rawPart: U$8, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.4335, 0.133), R0
 - rawPart: U$9, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.6895, 0.285), R60
 - rawPart: U$10, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.4335, 0.728), R180
+
+
+
+[im]: kicadPcb3d_450.png

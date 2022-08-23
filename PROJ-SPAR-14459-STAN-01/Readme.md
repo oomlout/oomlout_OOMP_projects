@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14459-STAN-01>Qwiic Hat for Raspberry Pi](#proj-spar-14459-stan-01qwiic-hat-for-raspberry-pi)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14459-STAN-01>Qwiic Hat for Raspberry Pi
 
 - ID: PROJ-SPAR-14459-STAN-01
 - Hex ID: PRS14459
 - Name: Qwiic Hat for Raspberry Pi
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.15, 0.25), R0|
-|CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.1), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.15, 0.25), R0|
+|CAPE-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.1), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 12.7, 180,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.5), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 50.8, 2.54, 180,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2, 0.1), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 50.8, 2.54, M0,FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2, 0.1), MR0|
@@ -55,8 +65,8 @@ Contents
 - oompName: Qwiic Hat for Raspberry Pi
 - sources: All source files from https://github.com/sparkfun/Qwiic_Hat_for_Raspberry_Pi (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14459
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 12.7, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 50.8, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 50.8, 2.54, M0
@@ -89,3 +99,7 @@ Contents
 - rawPart: J12, 1X02_NO_SILK, SparkFun-Connectors, (0.55, 0.35), R0
 - rawPart: U2, 3.3V/600mA, SOT23-5, SparkFun-IC-Power, (0.15, 0.1), R270
 - rawPart: U3, RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES, SparkFun-Connectors, (-0.25, 0.55), R0
+
+
+
+[im]: kicadPcb3d_450.png

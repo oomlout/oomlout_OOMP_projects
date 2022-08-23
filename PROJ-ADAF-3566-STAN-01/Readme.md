@@ -36,15 +36,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 9.779, 7.365999999999999, 180,C1, 0.1uF, 0603-NO, microbuilder, (0.385, 0.29), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 2.2859999999999996, 6.095999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.09, 0.24), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 2.2859999999999996, 12.191999999999998, 0,C3, 10uF, 0805-NO, microbuilder, (0.09, 0.48), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.35, 6.985, 90,D1, 1N4148, SOD-323, microbuilder, (0.25, 0.275), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 9.524999999999999, 5.460999999999999, 0,D2, 1N4148, SOD-323, microbuilder, (0.375, 0.215), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.16, 2.54, 0,JP3, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 16.256, 6.095999999999999, 270,Q3, 2N7002D, SOT363, microbuilder, (0.64, 0.24), R270|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 16.256, 10.16, 90,R1, 10k, RESPACK_4X0603, microbuilder, (0.64, 0.4), R90|
-|RESE-UNMATCHED-X-UNMATCHED-01, R2, 5.588, 11.684, 90,R2, 100k, RESPACK_4X0603, microbuilder, (0.22, 0.46), R90|
+|RESE-UNMATCHED-X-O103-01, R1, 16.256, 10.16, 90,R1, 10k, RESPACK_4X0603, microbuilder, (0.64, 0.4), R90|
+|RESE-UNMATCHED-X-O104-01, R2, 5.588, 11.684, 90,R2, 100k, RESPACK_4X0603, microbuilder, (0.22, 0.46), R90|
 |ERROR, R5 10K NTC, 0, 0, 0,R5, 10K, NTC, _0402, microbuilder, (0.545, 0.37), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.2859999999999996, 9.143999999999998, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09, 0.36), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 10.16, 10.16, 0,U3, CCS811, CCS811, microbuilder, (0.4, 0.4), R0|
@@ -60,17 +60,17 @@ Contents
 - oompName: Adafruit CCS811 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3566
-- oompPart: CAPC-0603-X-NF100-V50, C1, 9.779, 7.365999999999999, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 2.2859999999999996, 6.095999999999999, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 2.2859999999999996, 12.191999999999998, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 9.779, 7.365999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.2859999999999996, 6.095999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.2859999999999996, 12.191999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.35, 6.985, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 9.524999999999999, 5.460999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.827, 6.095999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 19.177, 12.446, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.16, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 16.256, 6.095999999999999, 270
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 16.256, 10.16, 90
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, 5.588, 11.684, 90
+- oompPart: RESE-UNMATCHED-X-O103-01, R1, 16.256, 10.16, 90
+- oompPart: RESE-UNMATCHED-X-O104-01, R2, 5.588, 11.684, 90
 - oompPart: ERROR, R5 10K NTC, 0, 0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 2.54, 15.239999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 17.779999999999998, 15.239999999999998, 0

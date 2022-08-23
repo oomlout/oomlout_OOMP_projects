@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 15.7607, 6.6548, 270,C1, 1uF, 0603-NO, microbuilder, (0.6205, 0.262), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 15.7607, 6.6548, 270,C1, 1uF, 0603-NO, microbuilder, (0.6205, 0.262), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.43, 10.16, 270,IC1, INA260, TSSOP16, microbuilder, (0.45, 0.4), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 2.54, 0,JP2, 1X08_ROUND_70, microbuilder, (0.45, 0.1), R0|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -61,7 +61,7 @@ Contents
 - oompName: Adafruit INA260 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-INA260-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4226
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.7607, 6.6548, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 15.7607, 6.6548, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 20.32, 5.4864, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.2192, 17.4498, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.43, 10.16, 270
@@ -98,4 +98,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

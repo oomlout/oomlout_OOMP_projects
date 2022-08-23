@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11282-STAN-01>BMP085 Breakout](#proj-spar-11282-stan-01bmp085-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11282-STAN-01>BMP085 Breakout
 
 - ID: PROJ-SPAR-11282-STAN-01
 - Hex ID: PRS11282
 - Name: BMP085 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 2.54, 9.2075, 90,C1, 0.1uF, 0402-CAP, SparkFun, (0.1, 0.3625), R90|
-|CAPC-0402-X-NF100-V50, C2, 1.27, 9.2075, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.05, 0.3625), R90|
+|CAPE-0402-X-NF100-01, C1, 2.54, 9.2075, 90,C1, 0.1uF, 0402-CAP, SparkFun, (0.1, 0.3625), R90|
+|CAPE-0402-X-NF100-01, C2, 1.27, 9.2075, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.05, 0.3625), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 13.97, 0,JP1, 1X06, SparkFun, (0.05, 0.55), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.635, 11.049, 0,JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.025, 0.435), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 14.604999999999999, 0.635, 0,JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.575, 0.025), R0|
@@ -47,8 +57,8 @@ Contents
 - oompName: BMP085 Breakout
 - sources: All source files from https://github.com/sparkfun/BMP085_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11282
-- oompPart: CAPC-0402-X-NF100-V50, C1, 2.54, 9.2075, 90
-- oompPart: CAPC-0402-X-NF100-V50, C2, 1.27, 9.2075, 90
+- oompPart: CAPE-0402-X-NF100-01, C1, 2.54, 9.2075, 90
+- oompPart: CAPE-0402-X-NF100-01, C2, 1.27, 9.2075, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.635, 11.049, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 14.604999999999999, 0.635, 0
@@ -65,3 +75,7 @@ Contents
 - rawPart: R2, 4.7k, 0402-RES, SparkFun, (0.5, 0.3625), R270
 - rawPart: SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.525, 0.2625), R0
 - rawPart: U1, BMP085, BMP085, SparkFun, (0.3, 0.3), R0
+
+
+
+[im]: kicadPcb3d_450.png

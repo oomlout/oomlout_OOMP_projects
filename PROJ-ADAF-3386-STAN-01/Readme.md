@@ -37,10 +37,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90,B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 6.5278, 4.6735999999999995, M180,C1, 10uF, 0805-NO, microbuilder, (0.257, 0.184), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.9342, 10.5664, M180,IC1, RTC_PCF8523T, SOIC8_150MIL, microbuilder, (0.273, 0.416), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 7.823199999999999, 17.8054, M180,Q1, 32.768, CRYSTAL_8X3.8, microbuilder, (0.308, 0.701), MR180|
-|<table><tr><td>![RESE-0805-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O102-01<br>SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td><td>[R85102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)</td></tr></table>|
+|RESE-0805-X-UNMATCHED-01, R1, 2.921, 4.699, M180,R1, 1K, 0805-NO, microbuilder, (0.115, 0.185), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0,RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0|
 
 ## Tags
@@ -55,14 +55,14 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3386
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90
-- oompPart: CAPC-0805-X-UF10-V25, C1, 6.5278, 4.6735999999999995, M180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 6.5278, 4.6735999999999995, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.3716, 18.846799999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 18.694399999999998, 15.265399999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 11.6332, 2.6923999999999997, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.2192, 20.2184, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.9342, 10.5664, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 7.823199999999999, 17.8054, M180
-- oompPart: RESE-0805-X-O102-01, R1, 2.921, 4.699, M180
+- oompPart: RESE-0805-X-UNMATCHED-01, R1, 2.921, 4.699, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 16.0782, 17.856199999999998, 180
 - rawPart: B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90

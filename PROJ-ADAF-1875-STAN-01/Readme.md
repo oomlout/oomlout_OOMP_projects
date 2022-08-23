@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 5.08, 13.081, 270,C1, 0.1uF, 0805-NO, microbuilder, (0.2, 0.515), R270|
+|CAPE-0805-X-NF100-01, C2, 7.619999999999999, 13.081, 270,C2, 0.1uF, 0805-NO, microbuilder, (0.3, 0.515), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 8.889999999999999, 270,JP3, 1X06-CLEANBIG, adafruit, (0.45, 0.35), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 8.889999999999999, 90,JP4, 1X06-CLEANBIG, adafruit, (0.05, 0.35), R90|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -54,8 +54,8 @@ Contents
 - oompName: Adafruit TXB0104 Level Shifter Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1875
-- oompPart: CAPC-0805-X-NF100-V50, C1, 5.08, 13.081, 270
-- oompPart: CAPC-0805-X-NF100-V50, C2, 7.619999999999999, 13.081, 270
+- oompPart: CAPE-0805-X-NF100-01, C1, 5.08, 13.081, 270
+- oompPart: CAPE-0805-X-NF100-01, C2, 7.619999999999999, 13.081, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 8.889999999999999, 90
 - oompPart: RESE-0805-X-O103-01, R1, 5.842, 2.413, 0

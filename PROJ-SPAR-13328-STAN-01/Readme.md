@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13328-STAN-01>Photon Wearable Shield](#proj-spar-13328-stan-01photon-wearable-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13328-STAN-01>Photon Wearable Shield
 
 - ID: PROJ-SPAR-13328-STAN-01
 - Hex ID: PRS13328
 - Name: Photon Wearable Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -192,3 +202,7 @@ Contents
 - rawPart: JP24, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.17032, 0.31844993), R90
 - rawPart: JP25, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (0.82032, 1.73544993), R270
 - rawPart: JP26, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (1.52032, 1.73544993), R270
+
+
+
+[im]: kicadPcb3d_450.png

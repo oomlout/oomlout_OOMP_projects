@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C20</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 5.334, 11.7475, 180,C1, 10uF, 0805-NO, microbuilder, (0.21, 0.4625), R180|
+|CAPE-0805-X-UNMATCHED-01, C20, 10.0965, 9.270999999999999, 270,C20, 10uF, 0805-NO, microbuilder, (0.3975, 0.365), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 13.779499999999999, 18.034, 180,CHG, ORANGE, CHIPLED_0603_NOOUTLINE, microbuilder, (0.5425, 0.71), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 3.6829999999999994, 15.366999999999999, 270,D2, MBR120, SOD-123FL, adafruit, (0.145, 0.605), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 10.350499999999998, M270,JP1, 1X07_CASTEL, adafruit_electromech, (0.65, 0.4075), MR270|
@@ -62,8 +62,8 @@ Contents
 - oompName: Adafruit Charger BFF PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Charger-BFF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5397
-- oompPart: CAPC-0805-X-UF10-V25, C1, 5.334, 11.7475, 180
-- oompPart: CAPC-0805-X-UF10-V25, C20, 10.0965, 9.270999999999999, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 5.334, 11.7475, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C20, 10.0965, 9.270999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 13.779499999999999, 18.034, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 3.6829999999999994, 15.366999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 10.350499999999998, M270
@@ -97,4 +97,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17871-STAN-01>Qwiic KX13X](#proj-spar-17871-stan-01qwiic-kx13x)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17871-STAN-01>Qwiic KX13X
 
 - ID: PROJ-SPAR-17871-STAN-01
 - Hex ID: PRS17871
 - Name: Qwiic KX13X
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 10.033, 9.398, M180,ADR, JUMPER-SMT_3_1-NC_TRACE_SILK, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.395, 0.37), MR180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 12.7, 15.239999999999998, 180,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.5, 0.6), R180|
+|CAPE-0603-X-NF100-01, C4, 12.7, 10.413999999999998, 180,C4, 0.1uF, 0603, SparkFun-Capacitors, (0.5, 0.41), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 2.032, 18.034, 90,D1, RED, LED-0603, SparkFun-LED, (0.08, 0.71), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0,I2C, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.5, 0.7), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 15.239999999999998, 24.13, 180,J1, 1X03_NO_SILK, SparkFun-Connectors, (0.6, 0.95), R180|
@@ -60,8 +70,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_KX13X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17871
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 10.033, 9.398, M180
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 15.239999999999998, 180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 10.413999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.7, 15.239999999999998, 180
+- oompPart: CAPE-0603-X-NF100-01, C4, 12.7, 10.413999999999998, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.032, 18.034, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 15.239999999999998, 24.13, 180
@@ -101,3 +111,7 @@ Contents
 - rawPart: R7, 4.7k, 0603, SparkFun-Resistors, (0.7, 0.7), R90
 - rawPart: TRIG, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.7, 0.65), MR180
 - rawPart: U1, KX134, KX13X, SparkFun-Sensors, (0.5, 0.5), R90
+
+
+
+[im]: kicadPcb3d_450.png

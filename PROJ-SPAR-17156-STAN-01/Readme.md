@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17156-STAN-01>Qwiic Shield for Teensy Extended](#proj-spar-17156-stan-01qwiic-shield-for-teensy-extended)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17156-STAN-01>Qwiic Shield for Teensy Extended
 
 - ID: PROJ-SPAR-17156-STAN-01
 - Hex ID: PRS17156
 - Name: Qwiic Shield for Teensy Extended
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -89,3 +99,7 @@ Contents
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.162, 2.079), R270
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.161, 2.223), R90
 - rawPart: S1, SMD_5.2MM, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.35, 1.65), R0
+
+
+
+[im]: kicadPcb3d_450.png

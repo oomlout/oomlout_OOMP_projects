@@ -37,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 10.033, 12.827, 0,B1, CR1220, CR1220-2, microbuilder, (0.395, 0.505), R0|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 27.432, 6.35, 180,C1, 0.1uF, 0805-NO, microbuilder, (1.08, 0.25), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 20.193, 10.287, 0,C2, 10uF, 0805-NO, microbuilder, (0.795, 0.405), R0|
 |UNMATCHED-0805-X-UNMATCHED-01, FB1, 18.415, 7.215000047999999, 90,FB1, Ferrite, 0805-NO, microbuilder, (0.725, 0.28405512), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 28.448, 12.7, 270,JP1, 1X04_ROUND, microbuilder, (1.12, 0.5), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 23.368, 19.049999999999997, 0,JP2, 1X05_ROUND_70, microbuilder, (0.92, 0.75), R0|
@@ -69,8 +69,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3133
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 10.033, 12.827, 0
-- oompPart: CAPC-0805-X-NF100-V50, C1, 27.432, 6.35, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 20.193, 10.287, 0
+- oompPart: CAPE-0805-X-NF100-01, C1, 27.432, 6.35, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 20.193, 10.287, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 18.415, 7.215000047999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.651, 16.891, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 46.504999954, 1.06099991, 0

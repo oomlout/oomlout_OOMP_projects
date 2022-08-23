@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12959-STAN-01>MOSFET Power Control Kit](#proj-spar-12959-stan-01mosfet-power-control-kit)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12959-STAN-01>MOSFET Power Control Kit
 
 - ID: PROJ-SPAR-12959-STAN-01
 - Hex ID: PRS12959
 - Name: MOSFET Power Control Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -62,3 +72,7 @@ Contents
 - rawPart: JP8, JST-2-PTH, SparkFun, (0.85, 0.2), R270
 - rawPart: Q1, RFP30N6LE, TO220V, SparkFun, (0.45, 0.2), R270
 - rawPart: R1, 10K, AXIAL-0.3, SparkFun, (0.6, 0.2), R90
+
+
+
+[im]: kicadPcb3d_450.png

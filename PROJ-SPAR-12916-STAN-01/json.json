@@ -38,11 +38,11 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C1, 3.175, 11.43, 270"
+            "value": "CAPE-0603-X-NF100-01, C1, 3.175, 11.43, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 1.27, 11.43, 270"
+            "value": "CAPE-0603-X-UNMATCHED-01, C2, 1.27, 11.43, 270"
         },
         {
             "name": "oompPart",

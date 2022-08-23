@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C3, 4.953, 19.431, 90,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.195, 0.765), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 1.27, 0,JP1, 1X04, SparkFun, (0.3, 0.05), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 10.540999999999999, 90,JP2, SCREWTERMINAL-3.5MM-3, SparkFun, (0.7, 0.415), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 11.43, 90,JP3, 1X03, SparkFun, (0.85, 0.45), R90|
@@ -60,7 +60,7 @@ Contents
 - oompName: RS-485 Breakout
 - sources: All source files from https://github.com/sparkfun/RS-485_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10124
-- oompPart: CAPC-0603-X-NF100-V50, C3, 4.953, 19.431, 90
+- oompPart: CAPE-0603-X-NF100-01, C3, 4.953, 19.431, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 10.540999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 21.59, 11.43, 90
@@ -87,4 +87,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

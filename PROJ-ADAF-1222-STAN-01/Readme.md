@@ -41,8 +41,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 0.0, 270,B1, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.445, 0), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, -8.001, 8.001, 45,B2, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.315, 0.315), R45|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BOOT, -7.492999999999999, 3.556, 90,BOOT, red, CHIPLED_0805_NOOUTLINE, microbuilder, (-0.295, 0.14), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 8.128, 2.54, 90,C1, 10uF, 0805-NO, microbuilder, (0.32, 0.1), R90|
+|CAPE-0805-X-UNMATCHED-01, C8, 8.128, -2.794, 90,C8, 10uF, 0805-NO, microbuilder, (0.32, -0.11), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, -10.033, 180,CN1, JST-PH, JST-PH-2-SMT-RA, adafruit, (0, -0.395), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 6.35, 3.175, 90,D2, SCHOTTKY, SOD-123FL, adafruit, (0.25, 0.125), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 4.571999999999999, -4.444999999999999, 180,D3, SCHOTTKY, SOD-123FL, adafruit, (0.18, -0.175), R180|
@@ -76,8 +76,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 0.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, -8.001, 8.001, 45
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BOOT, -7.492999999999999, 3.556, 90
-- oompPart: CAPC-0805-X-UF10-V25, C1, 8.128, 2.54, 90
-- oompPart: CAPC-0805-X-UF10-V25, C8, 8.128, -2.794, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 8.128, 2.54, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 8.128, -2.794, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, -10.033, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 6.35, 3.175, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 4.571999999999999, -4.444999999999999, 180

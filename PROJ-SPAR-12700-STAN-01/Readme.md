@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12700-STAN-01>USB Type A Female Breakout](#proj-spar-12700-stan-01usb-type-a-female-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12700-STAN-01>USB Type A Female Breakout
 
 - ID: PROJ-SPAR-12700-STAN-01
 - Hex ID: PRS12700
 - Name: USB Type A Female Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -51,3 +61,7 @@ Contents
 - rawPart: JP1, USB+SHIELDUSB-A-S-NOSILK-FEMALE, USB-A-S-NOSILK-FEMALE, SparkFun-Connectors, (0.3, 0.5), R0
 - rawPart: JP2, 1X04, SparkFun-Connectors, (0.75, 0.65), R270
 - rawPart: R1, 0, 0603-RES, SparkFun-Resistors, (0.5, 0.15), R180
+
+
+
+[im]: kicadPcb3d_450.png

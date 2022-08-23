@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-17241-STAN-01>SparkFun Qwiic ADXL313](#proj-spar-17241-stan-01sparkfun-qwiic-adxl313)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-17241-STAN-01>SparkFun Qwiic ADXL313
 
 - ID: PROJ-SPAR-17241-STAN-01
 - Hex ID: PRS17241
 - Name: SparkFun Qwiic ADXL313
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 23.875999999999998, 7.365999999999999, M270,ADR, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.94, 0.29), MR270|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 15.493999999999998, 8.102599999999999, 180,C2, 10uF, EIA3216, SparkFun-Retired, (0.61, 0.319), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 15.493999999999998, 8.102599999999999, 180,C2, 10uF, EIA3216, SparkFun-Retired, (0.61, 0.319), R180|
+|CAPE-0603-X-NF100-01, C4, 11.0998, 8.1534, 180,C4, 0.1uF, 0603, SparkFun-Capacitors, (0.437, 0.321), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 2.794, 7.9502, 0,D2, RED, LED-0603, SparkFun-LED, (0.11, 0.313), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 4.7498, 17.399, M270,I2C, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.187, 0.685), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 13.97, 24.13, 180,J1, 1X02_NO_SILK, SparkFun-Connectors, (0.55, 0.95), R180|
@@ -41,8 +51,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.7619999999999999, 24.637999999999998, M0,JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.03, 0.97), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.03, 0.97), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 24.511, 0.889, M0,JP11, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.965, 0.035), MR0|
-|RESE-0603-X-UNMATCHED-01, R1, 19.049999999999997, 4.2418, 90,R1, 10k, 0603, SparkFun-Resistors, (0.75, 0.167), R90|
-|RESE-0603-X-UNMATCHED-01, R2, 21.59, 6.35, 180,R2, 10k, 0603, SparkFun-Resistors, (0.85, 0.25), R180|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R3, 5.588, 18.415, 90,R3, 4.7k, 0603, SparkFun-Resistors, (0.22, 0.725), R90|
 |RESE-0603-X-UNMATCHED-01, R4, 3.8353999999999995, 18.415, 90,R4, 4.7k, 0603, SparkFun-Resistors, (0.151, 0.725), R90|
 |RESE-0603-X-UNMATCHED-01, R5, 2.7432, 6.2738, 180,R5, 1k, 0603, SparkFun-Resistors, (0.108, 0.247), R180|
@@ -61,8 +71,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ADXL313 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17241
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 23.875999999999998, 7.365999999999999, M270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 15.493999999999998, 8.102599999999999, 180
-- oompPart: CAPC-0603-X-NF100-V50, C4, 11.0998, 8.1534, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 15.493999999999998, 8.102599999999999, 180
+- oompPart: CAPE-0603-X-NF100-01, C4, 11.0998, 8.1534, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.794, 7.9502, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 4.7498, 17.399, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 13.97, 24.13, 180
@@ -75,8 +85,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.7619999999999999, 24.637999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 24.511, 0.889, M0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 19.049999999999997, 4.2418, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 21.59, 6.35, 180
+- oompPart: RESE-0603-X-O103-01, R1, 19.049999999999997, 4.2418, 90
+- oompPart: RESE-0603-X-O103-01, R2, 21.59, 6.35, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R3, 5.588, 18.415, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 3.8353999999999995, 18.415, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 2.7432, 6.2738, 180
@@ -104,3 +114,7 @@ Contents
 - rawPart: R5, 1k, 0603, SparkFun-Resistors, (0.108, 0.247), R180
 - rawPart: R6, 0, 0603, SparkFun-Resistors, (0.69, 0.444), R270
 - rawPart: U1, ADXL313, LFCSP, SparkFun-Sensors, (0.5, 0.5), R90
+
+
+
+[im]: kicadPcb3d_450.png

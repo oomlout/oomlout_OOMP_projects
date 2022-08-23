@@ -22,26 +22,26 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 13.462, 8.382, M90,C1, 1.0uF, 0805, microbuilder, (0.53, 0.33), MR90|
-|CAPC-0805-X-UNMATCHED-01, C2, 15.748, 8.382, M270,C2, 1.0uF, 0805, microbuilder, (0.62, 0.33), MR270|
-|CAPC-0805-X-UNMATCHED-01, C3, 12.953999999999999, 20.32, M270,C3, 1.0uF, 0805, microbuilder, (0.51, 0.8), MR270|
-|CAPC-0805-X-UNMATCHED-01, C4, 21.843999999999998, 20.32, M270,C4, 1.0uF, 0805, microbuilder, (0.86, 0.8), MR270|
-|CAPC-0805-X-UNMATCHED-01, C5, 17.525999999999996, 20.32, M270,C5, 2.2uF, 0805, microbuilder, (0.69, 0.8), MR270|
-|CAPC-0805-X-UNMATCHED-01, C6, 19.558, 20.32, M270,C6, 2.2uF, 0805, microbuilder, (0.77, 0.8), MR270|
-|CAPC-0805-X-UNMATCHED-01, C7, 9.017, 20.32, M90,C7, 2.2uF, 0805, microbuilder, (0.355, 0.8), MR90|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 13.462, 8.382, M90,C1, 1.0uF, 0805, microbuilder, (0.53, 0.33), MR90|
+|CAPE-0805-X-UNMATCHED-01, C2, 15.748, 8.382, M270,C2, 1.0uF, 0805, microbuilder, (0.62, 0.33), MR270|
+|CAPE-0805-X-UNMATCHED-01, C3, 12.953999999999999, 20.32, M270,C3, 1.0uF, 0805, microbuilder, (0.51, 0.8), MR270|
+|CAPE-0805-X-UNMATCHED-01, C4, 21.843999999999998, 20.32, M270,C4, 1.0uF, 0805, microbuilder, (0.86, 0.8), MR270|
+|CAPE-0805-X-UF22D-01, C5, 17.525999999999996, 20.32, M270,C5, 2.2uF, 0805, microbuilder, (0.69, 0.8), MR270|
+|CAPE-0805-X-UF22D-01, C6, 19.558, 20.32, M270,C6, 2.2uF, 0805, microbuilder, (0.77, 0.8), MR270|
+|CAPE-0805-X-UF22D-01, C7, 9.017, 20.32, M90,C7, 2.2uF, 0805, microbuilder, (0.355, 0.8), MR90|
+|CAPE-0805-X-NF100-01, C8, 6.731, 20.32, M90,C8, 0.1uF, 0805, microbuilder, (0.265, 0.8), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.000000004, 2.794, 0,JP1, 1X08_ROUND_76, microbuilder, (0.62992126, 0.11), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LCD1, 30.479999999999997, 11.43, 0,LCD1, UG-2832HSWEG04, UG-2832HSWEG04_WRAPAROUND, microbuilder, (1.2, 0.45), R0|
-|RESE-0805-X-UNMATCHED-01, R1, 15.239999999999998, 20.32, M270,R1, 390K, 0805, microbuilder, (0.6, 0.8), MR270|
+|RESE-0805-X-O394-01, R1, 15.239999999999998, 20.32, M270,R1, 390K, 0805, microbuilder, (0.6, 0.8), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.112, 11.43, M270,U1, 74HC4050D, SOIC16, microbuilder, (0.28, 0.45), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 13.589, 16.637, M90,U2, SOT23-5, microbuilder, (0.535, 0.655), MR90|
 
@@ -56,17 +56,17 @@ Contents
 - oompName: Adafruit 128x32 SPI OLED breakout board PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/661
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.462, 8.382, M90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 15.748, 8.382, M270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 12.953999999999999, 20.32, M270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 21.843999999999998, 20.32, M270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 17.525999999999996, 20.32, M270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 19.558, 20.32, M270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C7, 9.017, 20.32, M90
-- oompPart: CAPC-0805-X-NF100-V50, C8, 6.731, 20.32, M90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 13.462, 8.382, M90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 15.748, 8.382, M270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.953999999999999, 20.32, M270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 21.843999999999998, 20.32, M270
+- oompPart: CAPE-0805-X-UF22D-01, C5, 17.525999999999996, 20.32, M270
+- oompPart: CAPE-0805-X-UF22D-01, C6, 19.558, 20.32, M270
+- oompPart: CAPE-0805-X-UF22D-01, C7, 9.017, 20.32, M90
+- oompPart: CAPE-0805-X-NF100-01, C8, 6.731, 20.32, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.000000004, 2.794, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LCD1, 30.479999999999997, 11.43, 0
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 15.239999999999998, 20.32, M270
+- oompPart: RESE-0805-X-O394-01, R1, 15.239999999999998, 20.32, M270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 3.000000096, 3.000000096, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 3.000000096, 20.079999972, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 28.839999977999998, 3.000000096, 0
@@ -97,4 +97,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

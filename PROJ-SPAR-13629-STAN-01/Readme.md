@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13629-STAN-01>Photon IMU Shield](#proj-spar-13629-stan-01photon-imu-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13629-STAN-01>Photon IMU Shield
 
 - ID: PROJ-SPAR-13629-STAN-01
 - Hex ID: PRS13629
 - Name: Photon IMU Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UF10-V25, C4, 12.7, 21.843999999999998, 180,C4, 10uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.86), R180|
-|CAPC-0603-X-UNMATCHED-01, C5, 12.7, 24.383999999999997, 180,C5, 10nF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.96), R180|
+|CAPE-0603-X-NF100-01, C1, 12.7, 23.114, 180,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.91), R180|
+|CAPE-0603-X-NF100-01, C2, 12.7, 19.304, 180,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.76), R180|
+|CAPE-0603-X-NF100-01, C3, 12.7, 20.574, 180,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.81), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 12.7, 21.843999999999998, 180,C4, 10uF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.86), R180|
+|CAPE-0603-X-UNMATCHED-01, C5, 12.7, 24.383999999999997, 180,C5, 10nF, 0603-CAP, SparkFun-Capacitors, (0.5, 0.96), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 0.0, 0,JP1, SPARK_PHOTONTEMPLATE_WIDE, SPARK_PHOTON_TEMPLATE_WIDE, template_temp, (0.3, 0), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 34.29, 180,JP2, 1X05, SparkFun-Connectors, (0.9, 1.35), R180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -58,11 +68,11 @@ Contents
 - oompName: Photon IMU Shield
 - sources: All source files from https://github.com/sparkfun/Photon_IMU_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13629
-- oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 23.114, 180
-- oompPart: CAPC-0603-X-NF100-V50, C2, 12.7, 19.304, 180
-- oompPart: CAPC-0603-X-NF100-V50, C3, 12.7, 20.574, 180
-- oompPart: CAPC-0603-X-UF10-V25, C4, 12.7, 21.843999999999998, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 12.7, 24.383999999999997, 180
+- oompPart: CAPE-0603-X-NF100-01, C1, 12.7, 23.114, 180
+- oompPart: CAPE-0603-X-NF100-01, C2, 12.7, 19.304, 180
+- oompPart: CAPE-0603-X-NF100-01, C3, 12.7, 20.574, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 12.7, 21.843999999999998, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 12.7, 24.383999999999997, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 29.209999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 33.782, 5.842, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 0.0, 0
@@ -102,3 +112,7 @@ Contents
 - rawPart: SJ7, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.855, 0.425), MR180
 - rawPart: SJ8, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.855, 0.3), MR180
 - rawPart: U1, LSM9DS1, LGA24-8X4, LSM9DS1_temp, (0.7, 0.9), R90
+
+
+
+[im]: kicadPcb3d_450.png

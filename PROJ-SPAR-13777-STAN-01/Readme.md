@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13777-STAN-01>Battery Babysitter](#proj-spar-13777-stan-01battery-babysitter)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13777-STAN-01>Battery Babysitter
 
 - ID: PROJ-SPAR-13777-STAN-01
 - Hex ID: PRS13777
 - Name: Battery Babysitter
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 22.86, 24.13, 180,C1, 1.0uF, 1206-CAP, SparkFun-Capacitors, (0.9, 0.95), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C4, 16.700499999999998, 13.97, 0,C4, 0.47uF, 0603-CAP, SparkFun-Capacitors, (0.6575, 0.55), R0|
-|CAPC-0603-X-UNMATCHED-01, C5, 18.415, 15.239999999999998, 0,C5, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.725, 0.6), R0|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 22.86, 24.13, 180,C1, 1.0uF, 1206-CAP, SparkFun-Capacitors, (0.9, 0.95), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 19.049999999999997, 18.415, 270,C2, 10uF, 0805-CAP, SparkFun-Capacitors, (0.75, 0.725), R270|
+|CAPE-0805-X-UNMATCHED-01, C3, 26.669999999999998, 19.431, 270,C3, 10uF, 0805-CAP, SparkFun-Capacitors, (1.05, 0.765), R270|
+|CAPE-0603-X-NF470-01, C4, 16.700499999999998, 13.97, 0,C4, 0.47uF, 0603-CAP, SparkFun-Capacitors, (0.6575, 0.55), R0|
+|CAPE-0603-X-UNMATCHED-01, C5, 18.415, 15.239999999999998, 0,C5, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.725, 0.6), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 13.97, 31.115000000000002, 180,D1, BLUE, LED-0603, SparkFun-LED, (0.55, 1.225), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 16.509999999999998, 31.115000000000002, 180,D2, RED, LED-0603, SparkFun-LED, (0.65, 1.225), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 22.86, 30.861, 270,JP1, USB-AB-MICRO-SMD_V03, USB-AB-MICRO-SMD_V03, SparkFun-Connectors, (0.9, 1.215), R270|
@@ -53,11 +63,11 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R5, 24.13, 10.795, 180,R5, 590, 0603-RES, SparkFun-Passives, (0.95, 0.425), R180|
 |RESE-UNMATCHED-X-UNMATCHED-01, R6, 29.209999999999997, 8.889999999999999, 0,R6, ILIM, 1/6W-RES, SparkFun-Resistors, (1.15, 0.35), R0|
 |RESE-0603-X-UNMATCHED-01, R7, 24.13, 9.524999999999999, 180,R7, 1.1k, 0603-RES, SparkFun-Passives, (0.95, 0.375), R180|
-|RESE-0603-X-UNMATCHED-01, R8, 19.049999999999997, 6.35, 90,R8, 100k, 0603-RES, SparkFun-Resistors, (0.75, 0.25), R90|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R9, 13.97, 27.304999999999996, 270,R9, 180, 0603-RES, SparkFun-Resistors, (0.55, 1.075), R270|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R10</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R10, 16.509999999999998, 27.304999999999996, 270,R10, 1K, 0603-RES, SparkFun-Resistors, (0.65, 1.075), R270|
 |RESE-UNMATCHED-X-UNMATCHED-01, R11, 15.875, 24.13, 180,R11, 0.01, 1206, SparkFun-Resistors, (0.625, 0.95), R180|
-|RESE-0603-X-UNMATCHED-01, R12, 26.669999999999998, 25.4, 270,R12, 100k, 0603-RES, SparkFun-Resistors, (1.05, 1), R270|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R12</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R13, 11.43, 6.35, 270,R13, 4.7K, 0603-RES, SparkFun-Resistors, (0.45, 0.25), R270|
 |RESE-0603-X-UNMATCHED-01, R14, 13.97, 6.35, 270,R14, 4.7K, 0603-RES, SparkFun-Resistors, (0.55, 0.25), R270|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R15</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -86,11 +96,11 @@ Contents
 - oompName: Battery Babysitter
 - sources: All source files from https://github.com/sparkfun/Battery_Babysitter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13777
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 22.86, 24.13, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 19.049999999999997, 18.415, 270
-- oompPart: CAPC-0805-X-UF10-V25, C3, 26.669999999999998, 19.431, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 16.700499999999998, 13.97, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 18.415, 15.239999999999998, 0
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 22.86, 24.13, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 19.049999999999997, 18.415, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 26.669999999999998, 19.431, 270
+- oompPart: CAPE-0603-X-NF470-01, C4, 16.700499999999998, 13.97, 0
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 18.415, 15.239999999999998, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 13.97, 31.115000000000002, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 16.509999999999998, 31.115000000000002, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.889, 28.194000000000003, 0
@@ -115,11 +125,11 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 24.13, 10.795, 180
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R6, 29.209999999999997, 8.889999999999999, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 24.13, 9.524999999999999, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R8, 19.049999999999997, 6.35, 90
+- oompPart: RESE-0603-X-O104-01, R8, 19.049999999999997, 6.35, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R9, 13.97, 27.304999999999996, 270
-- oompPart: RESE-0603-X-O102-01, R10, 16.509999999999998, 27.304999999999996, 270
+- oompPart: RESE-0603-X-UNMATCHED-01, R10, 16.509999999999998, 27.304999999999996, 270
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R11, 15.875, 24.13, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R12, 26.669999999999998, 25.4, 270
+- oompPart: RESE-0603-X-O104-01, R12, 26.669999999999998, 25.4, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R13, 11.43, 6.35, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R14, 13.97, 6.35, 270
 - oompPart: RESE-0603-X-O103-01, R15, 16.509999999999998, 6.35, 270
@@ -186,3 +196,7 @@ Contents
 - rawPart: TP2, PAD.03X.04, SparkFun-Passives, (0.85, 1.0375), MR0
 - rawPart: U1, BQ24075, PVQFN-N16, SparkFun-PowerIC, (0.9, 0.8), R270
 - rawPart: U2, BQ27441-G1, PDSO-N12, SparkFun-PowerIC, (0.6, 0.75), R0
+
+
+
+[im]: kicadPcb3d_450.png

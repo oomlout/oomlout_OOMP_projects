@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13709-STAN-01>MyoWare Proto Shield](#proj-spar-13709-stan-01myoware-proto-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13709-STAN-01>MyoWare Proto Shield
 
 - ID: PROJ-SPAR-13709-STAN-01
 - Hex ID: PRS13709
 - Name: MyoWare Proto Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -95,3 +105,7 @@ Contents
 - rawPart: JP17, 1X08_NO_SILK, SparkFun-Connectors, (0.7, -0.35), R90
 - rawPart: JP18, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.8675, 0.1), R270
 - rawPart: JP19, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
+
+
+
+[im]: kicadPcb3d_450.png

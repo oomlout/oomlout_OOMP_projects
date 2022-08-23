@@ -6,15 +6,25 @@ Contents
 ========
 
 * [PROJ-SPAR-9346-STAN-01>MegaShield Kit](#proj-spar-9346-stan-01megashield-kit)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9346-STAN-01>MegaShield Kit
 
 - ID: PROJ-SPAR-9346-STAN-01
 - Hex ID: PRS9346
 - Name: MegaShield Kit
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
@@ -35,7 +45,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 3.8099999999999996, 5.08, 0,LED2, Green, LED5MM, SparkFun, (0.15, 0.2), R0|
 |RESE-UNMATCHED-X-O331-01, R1, 19.049999999999997, 7.746999999999999, 0,R1, 330, AXIAL-0.3, SparkFun, (0.75, 0.305), R0|
 |RESE-UNMATCHED-X-O331-01, R2, 19.049999999999997, 10.16, 0,R2, 330, AXIAL-0.3, SparkFun, (0.75, 0.4), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R3, 19.049999999999997, 5.460999999999999, 180,R3, 10k, AXIAL-0.3, SparkFun, (0.75, 0.215), R180|
+|RESE-UNMATCHED-X-O103-01, R3, 19.049999999999997, 5.460999999999999, 180,R3, 10k, AXIAL-0.3, SparkFun, (0.75, 0.215), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 4.826, 270,S1, TACTILE-PTH, SparkFun, (1.1, 0.19), R270|
 
 ## Tags
@@ -63,7 +73,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 3.8099999999999996, 5.08, 0
 - oompPart: RESE-UNMATCHED-X-O331-01, R1, 19.049999999999997, 7.746999999999999, 0
 - oompPart: RESE-UNMATCHED-X-O331-01, R2, 19.049999999999997, 10.16, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R3, 19.049999999999997, 5.460999999999999, 180
+- oompPart: RESE-UNMATCHED-X-O103-01, R3, 19.049999999999997, 5.460999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 4.826, 270
 - rawPart: JP3, 1X08_LOCK, SparkFun, (1.65, 2), R180
 - rawPart: JP4, 1X08_LOCK, SparkFun, (2.5, 2), R180
@@ -81,3 +91,7 @@ Contents
 - rawPart: R2, 330, AXIAL-0.3, SparkFun, (0.75, 0.4), R0
 - rawPart: R3, 10k, AXIAL-0.3, SparkFun, (0.75, 0.215), R180
 - rawPart: S1, TACTILE-PTH, SparkFun, (1.1, 0.19), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C7</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C6, 7.112, 17.145, 180,C6, 10uF, 0805-NO, microbuilder, (0.28, 0.675), R180|
+|CAPE-0805-X-UNMATCHED-01, C7, 12.953999999999999, 5.968999999999999, 0,C7, 10uF, 0805-NO, microbuilder, (0.51, 0.235), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 12.827, 21.209, 90,IC2, AP2112K-3.3, SOT23-5L, adafruit, (0.505, 0.835), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 30.479999999999997, 19.049999999999997, 0,JP1, 1X12_ROUND, microbuilder, (1.2, 0.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 26.669999999999998, 16.764, 0,JP2, 1X08_ROUND_70, microbuilder, (1.05, 0.66), R0|
@@ -62,8 +62,8 @@ Contents
 - oompName: Adafruit RGB Matrix FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4702
-- oompPart: CAPC-0805-X-UF10-V25, C6, 7.112, 17.145, 180
-- oompPart: CAPC-0805-X-UF10-V25, C7, 12.953999999999999, 5.968999999999999, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 7.112, 17.145, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C7, 12.953999999999999, 5.968999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 48.894999999999996, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.5239999999999998, 5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 12.827, 21.209, 90
@@ -97,4 +97,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

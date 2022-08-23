@@ -23,9 +23,9 @@ Contents
   
   
 
-|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: |
-|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -42,8 +42,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_CREDIT, 11.43, 6.35, 270,BUTTON_CREDIT, 1X02_OVAL, microbuilder, (0.45, 0.25), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_START, 19.049999999999997, 6.35, 270,BUTTON_START, 1X02_OVAL, microbuilder, (0.75, 0.25), R270|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C1, 4.444999999999999, 12.7, 90,C1, 100uF, PANASONIC_C, microbuilder, (0.175, 0.5), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C2, 14.477999999999998, 38.608, 90,C2, 10uF, 0805-NO, microbuilder, (0.57, 1.52), R90|
+|CAPE-0805-X-NF100-01, C3, 12.446, 38.608, 90,C3, 0.1uF, 0805-NO, microbuilder, (0.49, 1.52), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 17.779999999999998, 31.75, 90,IC1, LM339D, SO14, linear, (0.7, 1.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 3.8099999999999996, 31.115000000000002, 0,IC2, TS922, SO08, linear, (0.15, 1.225), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOYSTICK, 15.239999999999998, 22.86, 0,JOYSTICK, 1X05_OVAL, microbuilder, (0.6, 0.9), R0|
@@ -72,8 +72,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_CREDIT, 11.43, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_START, 19.049999999999997, 6.35, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 4.444999999999999, 12.7, 90
-- oompPart: CAPC-0805-X-UF10-V25, C2, 14.477999999999998, 38.608, 90
-- oompPart: CAPC-0805-X-NF100-V50, C3, 12.446, 38.608, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 14.477999999999998, 38.608, 90
+- oompPart: CAPE-0805-X-NF100-01, C3, 12.446, 38.608, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.858, 2.2859999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.081999999999997, 2.2859999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 6.095999999999999, 38.862, 0

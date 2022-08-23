@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 28.066999999999997, 6.35, 180,C1, 1uF, 0603-NO, microbuilder, (1.105, 0.25), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C1, 28.066999999999997, 6.35, 180,C1, 1uF, 0603-NO, microbuilder, (1.105, 0.25), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 7.619999999999999, 10.795, 270,C2, 10uF, 0805-NO, microbuilder, (0.3, 0.425), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 2.54, 11.43, 270,CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.1, 0.45), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 48.26, 11.43, M90,JP1, 1X04_ROUND, microbuilder, (1.9, 0.45), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 20.32, 19.049999999999997, M0,JP5, 1X12_ROUND, microbuilder, (0.8, 0.75), MR0|
@@ -65,8 +65,8 @@ Contents
 - oompName: Adafruit NeoKey FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4979
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 28.066999999999997, 6.35, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 7.619999999999999, 10.795, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 28.066999999999997, 6.35, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 7.619999999999999, 10.795, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 2.54, 11.43, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 45.211999999999996, 18.415, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.397, 5.08, 0
@@ -106,4 +106,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

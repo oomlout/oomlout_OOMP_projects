@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12898-STAN-01>MIDI Shield](#proj-spar-12898-stan-01midi-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12898-STAN-01>MIDI Shield
 
 - ID: PROJ-SPAR-12898-STAN-01
 - Hex ID: PRS12898
 - Name: MIDI Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -126,3 +136,7 @@ Contents
 - rawPart: SJ7, JUMPER-PAD-2-NOYES_SILK, PAD-JUMPER-2-NO_YES_SILK, SparkFun-Passives, (0.35, 0.35), MR180
 - rawPart: U1, 6N138M, 8-SMD, SparkFun-DiscreteSemi, (1, 1.15), R0
 - rawPart: U2, 74AHC1G125, SOT23-5, SparkFun-DigitalIC, (0.85, 0.705), R90
+
+
+
+[im]: kicadPcb3d_450.png

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13098-STAN-01>Rotary Switch Breakout](#proj-spar-13098-stan-01rotary-switch-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13098-STAN-01>Rotary Switch Breakout
 
 - ID: PROJ-SPAR-13098-STAN-01
 - Hex ID: PRS13098
 - Name: Rotary Switch Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -44,3 +54,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 15.239999999999998, 17.779999999999998, 270
 - rawPart: JP1, M111X11_NO_SILK, 1X11_NO_SILK, SparkFun-Connectors, (0.1, 0.05), R0
 - rawPart: S1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (0.6, 0.7), R270
+
+
+
+[im]: kicadPcb3d_450.png

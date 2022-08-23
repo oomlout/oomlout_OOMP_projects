@@ -6,15 +6,25 @@ Contents
 ========
 
 * [PROJ-SPAR-9598-STAN-01>MIDI Breakout](#proj-spar-9598-stan-01midi-breakout)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9598-STAN-01>MIDI Breakout
 
 - ID: PROJ-SPAR-9598-STAN-01
 - Hex ID: PRS9598
 - Name: MIDI Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## OOMP Parts
   
@@ -97,3 +107,7 @@ Contents
 - rawPart: U$3, MIDI_CONN_FEMALE_SUPPORT, DIN_5_FEMALE_SUPPORT, SparkFun, (1.9, 1.45), R90
 - rawPart: U$5, MIDI_CONN_FEMALE_SUPPORT, DIN_5_FEMALE_SUPPORT, SparkFun, (1, 1.55), R180
 - rawPart: U$6, OPTO_DARL_6N138S, 8-SMD, SparkFun, (1.2, 0.9), R0
+
+
+
+[im]: kicadPcb3d_450.png

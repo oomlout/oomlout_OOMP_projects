@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 35.559999999999995, 22.86, 270,C1, 10uF, EIA3216, SparkFun-Capacitors, (1.4, 0.9), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C2, 44.449999999999996, 22.86, 270,C2, 10uF, EIA3528, SparkFun-Capacitors, (1.75, 0.9), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 35.559999999999995, 22.86, 270,C1, 10uF, EIA3216, SparkFun-Capacitors, (1.4, 0.9), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 44.449999999999996, 22.86, 270,C2, 10uF, EIA3528, SparkFun-Capacitors, (1.75, 0.9), R270|
+|CAPE-0603-X-NF100-01, C3, 33.019999999999996, 23.368, 90,C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.3, 0.92), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 1.27, 90,JP1, 1X03, SparkFun, (0.35, 0.05), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 20.066, 1.27, 90,JP2, 1X03, SparkFun, (0.79, 0.05), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 31.241999999999997, 1.27, 90,JP3, 1X03, SparkFun, (1.23, 0.05), R90|
@@ -94,9 +94,9 @@ Contents
 - oompName: LED Driver Breakout-TLC5940
 - sources: All source files from https://github.com/sparkfun/LED_Driver_Breakout-TLC5940 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10616
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 35.559999999999995, 22.86, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C2, 44.449999999999996, 22.86, 270
-- oompPart: CAPC-0603-X-NF100-V50, C3, 33.019999999999996, 23.368, 90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 35.559999999999995, 22.86, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 44.449999999999996, 22.86, 270
+- oompPart: CAPE-0603-X-NF100-01, C3, 33.019999999999996, 23.368, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 1.27, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 20.066, 1.27, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 31.241999999999997, 1.27, 90
@@ -189,4 +189,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

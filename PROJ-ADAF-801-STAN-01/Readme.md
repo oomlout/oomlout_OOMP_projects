@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-ADAF-801-STAN-01>Adafruit Prototyping Pi Plate PCB](#proj-adaf-801-stan-01adafruit-prototyping-pi-plate-pcb)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-ADAF-801-STAN-01>Adafruit Prototyping Pi Plate PCB
 
 - ID: PROJ-ADAF-801-STAN-01
 - Hex ID: PRA801
 - Name: Adafruit Prototyping Pi Plate PCB
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -81,3 +91,7 @@ Contents
 - rawPart: JP6, 1X08-BIG, adafruit, (0.7, 0.4), R270
 - rawPart: U$1, RASPBERRYPI_BB, RASBERRYPI_SHIELD, microbuilder, (0, 0), R0
 - rawPart: U$2, SMD-16SOIC, SO-16NMW, boogie, (0.37, 0.34), R90
+
+
+
+[im]: kicadPcb3d_450.png

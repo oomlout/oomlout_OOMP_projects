@@ -36,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-UF10-V25, C1, 37.274499999999996, 9.017, 180,C1, 10uF, _0805MP, microbuilder, (1.4675, 0.355), R180|
+|CAPE-0805-X-UNMATCHED-01, C1, 37.274499999999996, 9.017, 180,C1, 10uF, _0805MP, microbuilder, (1.4675, 0.355), R180|
 |CAPE-0805-X-UNMATCHED-01, C2, 53.593999999999994, 21.59, 0,C2, 33pF, 0805-NO, microbuilder, (2.11, 0.85), R0|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 36.195, 5.715, 0,C4, 100uF, C1210, rcl, (1.425, 0.225), R0|
-|CAPC-0805-X-PF10-01, C5, 50.165, 21.59, 180,C5, 10pF, 0805-NO, microbuilder, (1.975, 0.85), R180|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C7, 18.939999966, 15.036999898, 90,C7, 1uF, 0603-NO, microbuilder, (0.74566929, 0.59200787), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UF10-V25, C9, 29.568799891999994, 15.46359366, 180,C9, 10uF, _0805MP, microbuilder, (1.16412598, 0.6088029), R180|
-|CAPC-0603-X-UNMATCHED-01, C14, 10.7188, 4.2175937999999995, 0,C14, 1uF, 0603-NO, microbuilder, (0.422, 0.166047), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 11.811, 12.065, 0,C3, 10uF, 0805-NO, microbuilder, (0.465, 0.475), R0|
+|CAPE-1210-X-UNMATCHED-01, C4, 36.195, 5.715, 0,C4, 100uF, C1210, rcl, (1.425, 0.225), R0|
+|CAPE-0805-X-UNMATCHED-01, C5, 50.165, 21.59, 180,C5, 10pF, 0805-NO, microbuilder, (1.975, 0.85), R180|
+|CAPE-0805-X-UNMATCHED-01, C6, 8.08800008, 12.95899999, 90,C6, 10uF, 0805-NO, microbuilder, (0.3184252, 0.51019685), R90|
+|CAPE-0603-X-UNMATCHED-01, C7, 18.939999966, 15.036999898, 90,C7, 1uF, 0603-NO, microbuilder, (0.74566929, 0.59200787), R90|
+|CAPE-0805-X-UNMATCHED-01, C8, 14.365999969999999, 11.624000119999998, 270,C8, 10uF, 0805-NO, microbuilder, (0.56559055, 0.4576378), R270|
+|CAPE-0805-X-UNMATCHED-01, C9, 29.568799891999994, 15.46359366, 180,C9, 10uF, _0805MP, microbuilder, (1.16412598, 0.6088029), R180|
+|CAPE-0603-X-UNMATCHED-01, C14, 10.7188, 4.2175937999999995, 0,C14, 1uF, 0603-NO, microbuilder, (0.422, 0.166047), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 2.413, 5.588, 270,CHG, ORANGE, CHIPLED_0805_NOOUTLINE, microbuilder, (0.095, 0.22), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 33.782, 12.318999999999999, 270,D1, 1N4148, SOD-323, microbuilder, (1.33, 0.485), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 37.465, 12.191999999999998, 0,D2, SMF05C, SOT363, microbuilder, (1.475, 0.48), R0|
@@ -60,14 +60,14 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L, 2.6450000439999997, 17.359000079999998, 90,L, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.10413386, 0.6834252), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, NETSTAT, 58.29299999999999, 4.826, 90,NETSTAT, BLUE, CHIPLED_0805_NOOUTLINE, microbuilder, (2.295, 0.19), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWRSTAT, 58.29299999999999, 7.746999999999999, 90,PWRSTAT, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (2.295, 0.305), R90|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O102-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O102-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O102-01<br>SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td><td>[R6102](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R1, 58.29299999999999, 9.143999999999998, 180,R1, 1K, 0603-NO, microbuilder, (2.295, 0.36), R180|
+|RESE-0603-X-UNMATCHED-01, R2, 6.223, 4.191, 0,R2, 1K, 0603-NO, microbuilder, (0.245, 0.165), R0|
+|RESE-0603-X-UNMATCHED-01, R3, 58.29299999999999, 3.429, 180,R3, 1K, 0603-NO, microbuilder, (2.295, 0.135), R180|
 |RESE-0603-X-UNMATCHED-01, R4, 8.219000072, 10.268000038, 0,R4, 22, 0603-NO, microbuilder, (0.32358268, 0.40425197), R0|
 |RESE-0603-X-UNMATCHED-01, R5, 8.149787611999999, 8.878687602, 0,R5, 22, 0603-NO, microbuilder, (0.32085778, 0.34955463), R0|
-|RESE-0603-X-UNMATCHED-01, R6, 17.399, 17.424400000000002, 0,R6, 100k, 0603-NO, microbuilder, (0.685, 0.686), R0|
-|<table><tr><td>![RESE-0603-X-O222-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O222-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O222-01<br>SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)</td><td>[R6222](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O222-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O222-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O222-01<br>SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)</td><td>[R6222](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
+|RESE-0603-X-UNMATCHED-01, R7, 5.715, 20.955, 270,R7, 2.2K, 0603-NO, microbuilder, (0.225, 0.825), R270|
+|RESE-0603-X-UNMATCHED-01, R8, 13.843, 4.191, 180,R8, 2.2K, 0603-NO, microbuilder, (0.545, 0.165), R180|
 |RESE-0603-X-UNMATCHED-01, R9, 32.385, 12.065, 90,R9, DNP, 0603-NO, microbuilder, (1.275, 0.475), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 48.513999999999996, 1.1429999999999998, M0,SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.91, 0.045), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.398, 6.476999999999999, 180,SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.37, 0.255), R180|
@@ -95,16 +95,16 @@ Contents
 - oompName: Adafruit Feather 32u4 FONA PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3027
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C1, 37.274499999999996, 9.017, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 37.274499999999996, 9.017, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 53.593999999999994, 21.59, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 11.811, 12.065, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 36.195, 5.715, 0
-- oompPart: CAPC-0805-X-PF10-01, C5, 50.165, 21.59, 180
-- oompPart: CAPC-0805-X-UF10-V25, C6, 8.08800008, 12.95899999, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C7, 18.939999966, 15.036999898, 90
-- oompPart: CAPC-0805-X-UF10-V25, C8, 14.365999969999999, 11.624000119999998, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C9, 29.568799891999994, 15.46359366, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C14, 10.7188, 4.2175937999999995, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 11.811, 12.065, 0
+- oompPart: CAPE-1210-X-UNMATCHED-01, C4, 36.195, 5.715, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 50.165, 21.59, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 8.08800008, 12.95899999, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C7, 18.939999966, 15.036999898, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 14.365999969999999, 11.624000119999998, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C9, 29.568799891999994, 15.46359366, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C14, 10.7188, 4.2175937999999995, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 2.413, 5.588, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 33.782, 12.318999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 37.465, 12.191999999999998, 0
@@ -119,14 +119,14 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L, 2.6450000439999997, 17.359000079999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, NETSTAT, 58.29299999999999, 4.826, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWRSTAT, 58.29299999999999, 7.746999999999999, 90
-- oompPart: RESE-0603-X-O102-01, R1, 58.29299999999999, 9.143999999999998, 180
-- oompPart: RESE-0603-X-O102-01, R2, 6.223, 4.191, 0
-- oompPart: RESE-0603-X-O102-01, R3, 58.29299999999999, 3.429, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R1, 58.29299999999999, 9.143999999999998, 180
+- oompPart: RESE-0603-X-UNMATCHED-01, R2, 6.223, 4.191, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R3, 58.29299999999999, 3.429, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R4, 8.219000072, 10.268000038, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 8.149787611999999, 8.878687602, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 17.399, 17.424400000000002, 0
-- oompPart: RESE-0603-X-O222-01, R7, 5.715, 20.955, 270
-- oompPart: RESE-0603-X-O222-01, R8, 13.843, 4.191, 180
+- oompPart: RESE-0603-X-O104-01, R6, 17.399, 17.424400000000002, 0
+- oompPart: RESE-0603-X-UNMATCHED-01, R7, 5.715, 20.955, 270
+- oompPart: RESE-0603-X-UNMATCHED-01, R8, 13.843, 4.191, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R9, 32.385, 12.065, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 48.513999999999996, 1.1429999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.398, 6.476999999999999, 180

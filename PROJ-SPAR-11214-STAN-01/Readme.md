@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11214-STAN-01>MOSFET Power Controller](#proj-spar-11214-stan-01mosfet-power-controller)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11214-STAN-01>MOSFET Power Controller
 
 - ID: PROJ-SPAR-11214-STAN-01
 - Hex ID: PRS11214
 - Name: MOSFET Power Controller
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -38,8 +48,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 20.574, 1.016, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.81, 0.04), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 1.016, 29.463999999999995, 0,JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.04, 1.16), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 15.239999999999998, 90,Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90|
-|RESE-0402-X-UNMATCHED-01, R1, 7.619999999999999, 21.59, 0,R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.85), R0|
-|<table><tr><td>![RESE-0402-X-O105-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O105-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O105-01<br>SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)</td><td>[R42105](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
+|RESE-0402-X-UNMATCHED-01, R2, 11.43, 21.59, 0,R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0|
 
 ## Tags
 
@@ -64,8 +74,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 20.574, 1.016, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 1.016, 29.463999999999995, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 15.239999999999998, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 7.619999999999999, 21.59, 0
-- oompPart: RESE-0402-X-O105-01, R2, 11.43, 21.59, 0
+- oompPart: RESE-0402-X-O103-01, R1, 7.619999999999999, 21.59, 0
+- oompPart: RESE-0402-X-UNMATCHED-01, R2, 11.43, 21.59, 0
 - rawPart: BH1, TRIG+, BUTTONHOLE, LilyPad-Wearables, (0.15, 1.1), R270
 - rawPart: BH2, TRIG-, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.9), R90
 - rawPart: BH3, OUT+, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.1), R90
@@ -80,3 +90,7 @@ Contents
 - rawPart: Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90
 - rawPart: R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.85), R0
 - rawPart: R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0
+
+
+
+[im]: kicadPcb3d_450.png

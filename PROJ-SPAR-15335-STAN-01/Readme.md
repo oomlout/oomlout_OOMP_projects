@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15335-STAN-01>SparkFun Qwiic 9DoF IMU Breakout](#proj-spar-15335-stan-01sparkfun-qwiic-9dof-imu-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15335-STAN-01>SparkFun Qwiic 9DoF IMU Breakout
 
 - ID: PROJ-SPAR-15335-STAN-01
 - Hex ID: PRS15335
 - Name: SparkFun Qwiic 9DoF IMU Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 270,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.67, 0.5), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C4, 6.604, 12.7, 270,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.26, 0.5), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 270,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.67, 0.5), R270|
+|CAPE-0603-X-NF100-01, C2, 18.668999999999997, 12.7, 270,C2, 0.1uF, 0603, SparkFun-Capacitors, (0.735, 0.5), R270|
+|CAPE-0603-X-NF100-01, C3, 15.366999999999999, 12.7, 270,C3, 0.1uF, 0603, SparkFun-Capacitors, (0.605, 0.5), R270|
+|CAPE-0603-X-UNMATCHED-01, C4, 6.604, 12.7, 270,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.26, 0.5), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 8.636000000000001, 8.636000000000001, 180,D1, RED, LED-0603, SparkFun-LED, (0.34, 0.34), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 24.637999999999998, 24.637999999999998, 0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.97, 0.97), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.637999999999998, 24.637999999999998, M0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.97, 0.97), MR0|
@@ -83,10 +93,10 @@ Contents
 - oompName: SparkFun Qwiic 9DoF IMU Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15335
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 18.668999999999997, 12.7, 270
-- oompPart: CAPC-0603-X-NF100-V50, C3, 15.366999999999999, 12.7, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 6.604, 12.7, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 270
+- oompPart: CAPE-0603-X-NF100-01, C2, 18.668999999999997, 12.7, 270
+- oompPart: CAPE-0603-X-NF100-01, C3, 15.366999999999999, 12.7, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 6.604, 12.7, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 8.636000000000001, 8.636000000000001, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 24.637999999999998, 24.637999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.637999999999998, 24.637999999999998, M0
@@ -173,3 +183,7 @@ Contents
 - rawPart: TP1, 1.8V, PAD.03X.03, SparkFun-Connectors, (0.4, 0.8), MR0
 - rawPart: U2, 9DoF, IMU, QFN24-3X3, SparkFun-Sensors, (0.5, 0.5), R180
 - rawPart: U3, 1.8V/100mA, SC70, SparkFun-IC-Power, (0.34, 0.5), R270
+
+
+
+[im]: kicadPcb3d_450.png

@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 47.879, 12.446, 0,C1, 10uF, 0805-NO, microbuilder, (1.885, 0.49), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 3.8099999999999996, 180,JP1, 1X09_ROUND_70, microbuilder, (0.65, 0.15), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 21.59, 19.049999999999997, 0,JP2, 1X05_ROUND_70, microbuilder, (0.85, 0.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 4.444999999999999, 11.43, 270,JP3, 1X05_ROUND_70, microbuilder, (0.175, 0.45), R270|
@@ -45,8 +45,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 7.619999999999999, 0,JP6, 1X02_ROUND, microbuilder, (0.75, 0.3), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 15.239999999999998, 15.239999999999998, 0,JP7, 1X05_ROUND_76, microbuilder, (0.6, 0.6), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING_NOHOLES, FEATHERWING_NOHOLES, microbuilder, (0, 0), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 15.366999999999999, 11.937999999999999, 180,R1, 100k, 0603-NO, microbuilder, (0.605, 0.47), R180|
-|RESE-0603-X-UNMATCHED-01, R2, 11.684, 11.43, 180,R2, 100k, 0603-NO, microbuilder, (0.46, 0.45), R180|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.652, 20.447, 0,SW1, BTN_KMR2_4.6X2.8, microbuilder, (0.38, 0.805), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 37.211, 11.43, 0,U4, RFM69/9x, RFMHCW_SMT, microbuilder, (1.465, 0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 50.673, 4.444999999999999, 180,X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (1.995, 0.175), R180|
@@ -62,7 +62,7 @@ Contents
 - oompName: Adafruit Radio FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3229
-- oompPart: CAPC-0805-X-UF10-V25, C1, 47.879, 12.446, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 47.879, 12.446, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.128, 7.365999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 41.65599999999999, 18.034, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 3.8099999999999996, 180
@@ -73,8 +73,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 15.239999999999998, 15.239999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 15.366999999999999, 11.937999999999999, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 11.684, 11.43, 180
+- oompPart: RESE-0603-X-O104-01, R1, 15.366999999999999, 11.937999999999999, 180
+- oompPart: RESE-0603-X-O104-01, R2, 11.684, 11.43, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.652, 20.447, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$7, 2.54, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$8, 2.54, 20.32, 0

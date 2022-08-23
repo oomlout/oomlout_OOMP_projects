@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11629-STAN-01>Serial7SegmentDisplay](#proj-spar-11629-stan-01serial7segmentdisplay)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11629-STAN-01>Serial7SegmentDisplay
 
 - ID: PROJ-SPAR-11629-STAN-01
 - Hex ID: PRS11629
 - Name: Serial7SegmentDisplay
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,9 +37,9 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ATMEGA328P-AU, 7.619999999999999, 11.43, 135,ATMEGA328P-AU, ATMEGA328P-AU, TQFP32-08, SparkFun, (0.3, 0.45), R135|
-|CAPC-0402-X-NF100-V50, C1, 15.239999999999998, 11.43, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.45), R0|
-|CAPC-0402-X-NF100-V50, C3, 33.019999999999996, 15.239999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun-Passives, (1.3, 0.6), R0|
-|CAPC-0402-X-NF100-V50, C4, 2.54, 15.875, 0,C4, 0.1uF, 0402-CAP, SparkFun-Passives, (0.1, 0.625), R0|
+|CAPE-0402-X-NF100-01, C1, 15.239999999999998, 11.43, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.45), R0|
+|CAPE-0402-X-NF100-01, C3, 33.019999999999996, 15.239999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun-Passives, (1.3, 0.6), R0|
+|CAPE-0402-X-NF100-01, C4, 2.54, 15.875, 0,C4, 0.1uF, 0402-CAP, SparkFun-Passives, (0.1, 0.625), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 39.37, 21.59, 270,JP2, 1X02_NO_SILK, SparkFun-Connectors, (1.55, 0.85), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 1.27, 1.27, 90,JP6, 1X02_NO_SILK, SparkFun-Connectors, (0.05, 0.05), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 1.27, 21.59, 270,JP7, 1X02_NO_SILK, SparkFun-Connectors, (0.05, 0.85), R270|
@@ -39,7 +49,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 39.37, 6.35, 90,JP11, 1X05_NO_SILK, SparkFun-Connectors, (1.55, 0.25), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, 31.75, 21.59, 180,JP12, M10SIP_NS, 1X10_NO_SILK, SparkFun-Connectors, (1.25, 0.85), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 20.32, 11.43, M0,LED1, 7-SEGMENT-4DIGIT-YOUNGSUN, 7-SEGMENT-4DIGIT-YOUNGSUN, SparkFun, (0.8, 0.45), MR0|
-|RESE-0402-X-UNMATCHED-01, R1, 33.019999999999996, 12.7, 0,R1, 10k, 0402-RES, SparkFun, (1.3, 0.5), R0|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R2, 19.049999999999997, 14.604999999999999, 180,R2, 1k, 0402-RES, SparkFun, (0.75, 0.575), R180|
 |RESE-0402-X-UNMATCHED-01, R3, 22.86, 14.604999999999999, 180,R3, 1k, 0402-RES, SparkFun, (0.9, 0.575), R180|
 |RESE-0402-X-UNMATCHED-01, R4, 29.209999999999997, 14.604999999999999, 180,R4, 1k, 0402-RES, SparkFun, (1.15, 0.575), R180|
@@ -61,9 +71,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial7SegmentDisplay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11629
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ATMEGA328P-AU, 7.619999999999999, 11.43, 135
-- oompPart: CAPC-0402-X-NF100-V50, C1, 15.239999999999998, 11.43, 0
-- oompPart: CAPC-0402-X-NF100-V50, C3, 33.019999999999996, 15.239999999999998, 0
-- oompPart: CAPC-0402-X-NF100-V50, C4, 2.54, 15.875, 0
+- oompPart: CAPE-0402-X-NF100-01, C1, 15.239999999999998, 11.43, 0
+- oompPart: CAPE-0402-X-NF100-01, C3, 33.019999999999996, 15.239999999999998, 0
+- oompPart: CAPE-0402-X-NF100-01, C4, 2.54, 15.875, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 39.37, 21.59, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 1.27, 1.27, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 1.27, 21.59, 270
@@ -73,7 +83,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 39.37, 6.35, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP12, 31.75, 21.59, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 20.32, 11.43, M0
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 33.019999999999996, 12.7, 0
+- oompPart: RESE-0402-X-O103-01, R1, 33.019999999999996, 12.7, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 19.049999999999997, 14.604999999999999, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, 22.86, 14.604999999999999, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, 29.209999999999997, 14.604999999999999, 180
@@ -104,3 +114,7 @@ Contents
 - rawPart: R8, 1k, 0402-RES, SparkFun, (0.6, 0.575), R180
 - rawPart: R9, 1k, 0402-RES, SparkFun, (1, 0.575), R180
 - rawPart: R10, 1k, 0402-RES, SparkFun, (0.6, 0.325), R180
+
+
+
+[im]: kicadPcb3d_450.png

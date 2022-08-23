@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-9118-STAN-01>Opto Isolator Breakout](#proj-spar-9118-stan-01opto-isolator-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9118-STAN-01>Opto Isolator Breakout
 
 - ID: PROJ-SPAR-9118-STAN-01
 - Hex ID: PRS9118
 - Name: Opto Isolator Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -32,10 +42,10 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 9.524999999999999, 10.16, 0,Q2, NPN, SOT23-3, SparkFun-DiscreteSemi, (0.375, 0.4), R0|
 |<table><tr><td>![RESE-0603-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O221-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O221-01<br>SMD (0603) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)</td><td>[R6221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O221-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O221-01<br>SMD (0603) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)</td><td>[R6221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R3, 11.963399999999998, 6.6802, 270,R3, 10k, 0603, SparkFun-Resistors, (0.471, 0.263), R270|
-|RESE-0603-X-UNMATCHED-01, R4, 11.937999999999999, 3.175, 90,R4, 10k, 0603, SparkFun-Resistors, (0.47, 0.125), R90|
-|RESE-0603-X-UNMATCHED-01, R5, 6.858, 10.16, 270,R5, 10k, 0603, SparkFun-Resistors, (0.27, 0.4), R270|
-|RESE-0603-X-UNMATCHED-01, R6, 11.811, 10.16, 270,R6, 10k, 0603, SparkFun-Resistors, (0.465, 0.4), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 3.429, 270,U1, ILD213T-IDL213T, SO08, SparkFun-DiscreteSemi, (0.3, 0.135), R270|
 
 ## Tags
@@ -55,10 +65,10 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 9.524999999999999, 10.16, 0
 - oompPart: RESE-0603-X-O221-01, R1, 3.302, 6.731, 270
 - oompPart: RESE-0603-X-O221-01, R2, 3.302, 3.429, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 11.963399999999998, 6.6802, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 11.937999999999999, 3.175, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 6.858, 10.16, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 11.811, 10.16, 270
+- oompPart: RESE-0603-X-O103-01, R3, 11.963399999999998, 6.6802, 270
+- oompPart: RESE-0603-X-O103-01, R4, 11.937999999999999, 3.175, 90
+- oompPart: RESE-0603-X-O103-01, R5, 6.858, 10.16, 270
+- oompPart: RESE-0603-X-O103-01, R6, 11.811, 10.16, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.7111999999999999, 12.065, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 14.401799999999998, 0.635, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 3.429, 270
@@ -75,3 +85,7 @@ Contents
 - rawPart: U$2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.028, 0.475), R0
 - rawPart: U$3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.567, 0.025), R0
 - rawPart: U1, ILD213T-IDL213T, SO08, SparkFun-DiscreteSemi, (0.3, 0.135), R270
+
+
+
+[im]: kicadPcb3d_450.png

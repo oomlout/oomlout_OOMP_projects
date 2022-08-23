@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 27.894000092, 9.165999956, 180,C1, 10uF, 0805-NO, microbuilder, (1.09818898, 0.36086614), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 27.756000113999995, 16.223000066, 0,C2, 10uF, 0805-NO, microbuilder, (1.09275591, 0.63870079), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 19.409000044, 40.306999904, 270,C3, 10uF, 0805-NO, microbuilder, (0.76413386, 1.58688976), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 24.898999985999996, 42.797000004, 180,CN1, MICROSD, microbuilder, (0.98027559, 1.68492126), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 17.145, 34.29, M0,DISP1, DISP_LCD_GENERIC_SPI_2.0IN_240X320, TFT_2.0IN_240X320_12P, microbuilder, (0.675, 1.35), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 9.017, 11.811, 270,IC4, APX803-SAG, SOT23, adafruit, (0.355, 0.465), R270|
@@ -63,9 +63,9 @@ Contents
 - oompName: Adafruit 2.0 inch 240x320 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4311
-- oompPart: CAPC-0805-X-UF10-V25, C1, 27.894000092, 9.165999956, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 27.756000113999995, 16.223000066, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 19.409000044, 40.306999904, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 27.894000092, 9.165999956, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 27.756000113999995, 16.223000066, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 19.409000044, 40.306999904, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 24.898999985999996, 42.797000004, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 17.145, 34.29, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 31.001999971999997, 10.30699996, 0
@@ -106,4 +106,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

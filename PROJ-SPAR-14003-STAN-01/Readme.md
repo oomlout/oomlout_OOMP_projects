@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14003-STAN-01>THAT 1646 Breakout](#proj-spar-14003-stan-01that-1646-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14003-STAN-01>THAT 1646 Breakout
 
 - ID: PROJ-SPAR-14003-STAN-01
 - Hex ID: PRS14003
 - Name: THAT 1646 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 8.128, 3.0479999999999996, 90,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.32, 0.12), R90|
+|CAPE-0603-X-NF100-01, C2, 5.08, 3.0479999999999996, 90,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.12), R90|
 |ERROR, C3 10uf NP, 0, 0, 0,C3, 10uf, NP, PANASONIC_D, that-ics, (0.59, 0.15), R180|
 |ERROR, C4 10uf NP, 0, 0, 0,C4, 10uf, NP, PANASONIC_D, that-ics, (0.59, 0.65), R180|
-|CAPE-0603-X-PF100-01, C5, 22.86, 2.032, 270,C5, 100pF, 0603-CAP, SparkFun-Capacitors, (0.9, 0.08), R270|
-|CAPE-0603-X-PF100-01, C6, 23.368, 17.018, 90,C6, 100pF, 0603-CAP, SparkFun-Capacitors, (0.92, 0.67), R90|
+|CAPE-0603-X-UNMATCHED-01, C5, 22.86, 2.032, 270,C5, 100pF, 0603-CAP, SparkFun-Capacitors, (0.9, 0.08), R270|
+|CAPE-0603-X-UNMATCHED-01, C6, 23.368, 17.018, 90,C6, 100pF, 0603-CAP, SparkFun-Capacitors, (0.92, 0.67), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 13.462, 10.16, 180,D1, BAV99, SOT23-3, SparkFun-DiscreteSemi, (0.53, 0.4), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 17.272000000000002, 10.16, 0,D2, BAV99, SOT23-3, SparkFun-DiscreteSemi, (0.68, 0.4), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.016, 16.002, M0,FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.04, 0.63), MR0|
@@ -63,12 +73,12 @@ Contents
 - oompName: THAT 1646 Breakout
 - sources: All source files from https://github.com/sparkfun/THAT_1646_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14003
-- oompPart: CAPC-0603-X-NF100-V50, C1, 8.128, 3.0479999999999996, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 5.08, 3.0479999999999996, 90
+- oompPart: CAPE-0603-X-NF100-01, C1, 8.128, 3.0479999999999996, 90
+- oompPart: CAPE-0603-X-NF100-01, C2, 5.08, 3.0479999999999996, 90
 - oompPart: ERROR, C3 10uf NP, 0, 0, 0
 - oompPart: ERROR, C4 10uf NP, 0, 0, 0
-- oompPart: CAPE-0603-X-PF100-01, C5, 22.86, 2.032, 270
-- oompPart: CAPE-0603-X-PF100-01, C6, 23.368, 17.018, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 22.86, 2.032, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C6, 23.368, 17.018, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 13.462, 10.16, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 17.272000000000002, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.016, 16.002, M0
@@ -113,3 +123,7 @@ Contents
 - rawPart: JP1, GND-JOIN, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.825, 0.1), MR0
 - rawPart: L1, 27uH, 0603, SparkFun-Passives, (0.82, 0.57), R0
 - rawPart: L2, 27uH, 0603, SparkFun-Passives, (0.82, 0.19), R0
+
+
+
+[im]: kicadPcb3d_450.png

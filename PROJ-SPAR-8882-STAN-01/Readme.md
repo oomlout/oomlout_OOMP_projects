@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8882-STAN-01>Hall-Effect Current Sensor Breakout-ACS712](#proj-spar-8882-stan-01hall-effect-current-sensor-breakout-acs712)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8882-STAN-01>Hall-Effect Current Sensor Breakout-ACS712
 
 - ID: PROJ-SPAR-8882-STAN-01
 - Hex ID: PRS8882
 - Name: Hall-Effect Current Sensor Breakout-ACS712
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -55,3 +65,7 @@ Contents
 - rawPart: JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.8, 0.55), R0
 - rawPart: JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.3, 0.05), R0
 - rawPart: U$1, ACS712, SO08, SparkFun, (0.45, 0.3), R270
+
+
+
+[im]: kicadPcb3d_450.png

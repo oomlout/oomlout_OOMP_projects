@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 7.365999999999999, 16.509999999999998, 0,C2, 1uF, 0805, microbuilder, (0.29, 0.65), R0|
-|CAPC-0805-X-UNMATCHED-01, C3, 7.365999999999999, 14.477999999999998, 0,C3, 1uF, 0805, microbuilder, (0.29, 0.57), R0|
-|CAPC-0805-X-UNMATCHED-01, C4, 7.365999999999999, 10.413999999999998, 0,C4, 1uF, 0805, microbuilder, (0.29, 0.41), R0|
-|CAPC-0805-X-UNMATCHED-01, C5, 7.365999999999999, 12.446, 0,C5, 1uF, 0805, microbuilder, (0.29, 0.49), R0|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C6</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 14.097000000000001, 18.796, 270,C1, 0.1uF, 0805, microbuilder, (0.555, 0.74), R270|
+|CAPE-0805-X-UNMATCHED-01, C2, 7.365999999999999, 16.509999999999998, 0,C2, 1uF, 0805, microbuilder, (0.29, 0.65), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 7.365999999999999, 14.477999999999998, 0,C3, 1uF, 0805, microbuilder, (0.29, 0.57), R0|
+|CAPE-0805-X-UNMATCHED-01, C4, 7.365999999999999, 10.413999999999998, 0,C4, 1uF, 0805, microbuilder, (0.29, 0.41), R0|
+|CAPE-0805-X-UNMATCHED-01, C5, 7.365999999999999, 12.446, 0,C5, 1uF, 0805, microbuilder, (0.29, 0.49), R0|
+|CAPE-0805-X-UNMATCHED-01, C6, 11.937999999999999, 18.796, 270,C6, 10uF, 0805, microbuilder, (0.47, 0.74), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.812, 17.525999999999996, 90,J1, OUTL, TERMBLOCK_1X2-3.5MM, microbuilder, (0.78, 0.69), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 19.812, 9.906, 90,J2, OUTR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.78, 0.39), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.668, 2.54, 180,JP1, 2X04, adafruit, (0.42, 0.1), R180|
@@ -63,12 +63,12 @@ Contents
 - oompName: Adafruit MAX98306 Class D Amp PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/987
-- oompPart: CAPC-0805-X-NF100-V50, C1, 14.097000000000001, 18.796, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.365999999999999, 16.509999999999998, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 7.365999999999999, 14.477999999999998, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 7.365999999999999, 10.413999999999998, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 7.365999999999999, 12.446, 0
-- oompPart: CAPC-0805-X-UF10-V25, C6, 11.937999999999999, 18.796, 270
+- oompPart: CAPE-0805-X-NF100-01, C1, 14.097000000000001, 18.796, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 7.365999999999999, 16.509999999999998, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 7.365999999999999, 14.477999999999998, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 7.365999999999999, 10.413999999999998, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 7.365999999999999, 12.446, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 11.937999999999999, 18.796, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.6001999999999998, 26.162, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 16.9672, 5.2832, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.812, 17.525999999999996, 90
@@ -104,4 +104,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

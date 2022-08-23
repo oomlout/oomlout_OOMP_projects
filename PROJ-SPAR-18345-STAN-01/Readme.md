@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-18345-STAN-01>Qwiic Air Quality Sensor SGP40](#proj-spar-18345-stan-01qwiic-air-quality-sensor-sgp40)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-18345-STAN-01>Qwiic Air Quality Sensor SGP40
 
 - ID: PROJ-SPAR-18345-STAN-01
 - Hex ID: PRS18345
 - Name: Qwiic Air Quality Sensor SGP40
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.36, 0.42), R270|
-|CAPC-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.64, 0.42), R270|
+|CAPE-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.36, 0.42), R270|
+|CAPE-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.64, 0.42), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.35, 180,D1, RED, LED-0603, SparkFun-LED, (0.125, 0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0,I2C, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.5, 0.7), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 1.27, M180,J1, DNP, 1X04_NO_SILK, SparkFun-Connectors, (0.35, 0.05), MR180|
@@ -55,8 +65,8 @@ Contents
 - oompName: Qwiic Air Quality Sensor SGP40
 - sources: All source files from https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18345
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 1.27, M180
@@ -89,3 +99,7 @@ Contents
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.26, 0.25), R0
 - rawPart: R4, 4.7, 0603, SparkFun-Resistors, (0.325, 0.52), R0
 - rawPart: U1, SGP40, SGP40, SparkFun-Sensors, (0.5, 0.5), R0
+
+
+
+[im]: kicadPcb3d_450.png

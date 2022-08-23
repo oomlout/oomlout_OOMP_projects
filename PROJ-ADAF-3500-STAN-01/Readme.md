@@ -37,10 +37,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 0.0, 9.017, M0,BAT, JST-2PH, JSTPH2, microbuilder, (0, 0.355), MR0|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, -3.556, 1.3335, 270,C2, 1uF, 0603-NO, microbuilder, (-0.14, 0.0525), R270|
-|CAPC-0603-X-UNMATCHED-01, C3, -3.556, 4.381499999999999, 90,C3, 1uF, 0603-NO, microbuilder, (-0.14, 0.1725), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 2.032, -7.175499999999999, 270,C1, 10uF, 0805-NO, microbuilder, (0.08, -0.2825), R270|
+|CAPE-0603-X-UNMATCHED-01, C2, -3.556, 1.3335, 270,C2, 1uF, 0603-NO, microbuilder, (-0.14, 0.0525), R270|
+|CAPE-0603-X-UNMATCHED-01, C3, -3.556, 4.381499999999999, 90,C3, 1uF, 0603-NO, microbuilder, (-0.14, 0.1725), R90|
+|CAPE-0805-X-UNMATCHED-01, C8, 2.7304999999999997, -10.6045, 270,C8, 10uF, 0805-NO, microbuilder, (0.1075, -0.4175), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, 8.382, 180,CN1, 4U#20329, 4UCONN_20329_V2, microbuilder, (0, 0.33), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 2.2352, -4.6354999999999995, 0,D2, SCHOTTKY, SOD-123FL, adafruit, (0.088, -0.1825), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, -2.1590000000000003, -4.6354999999999995, 180,D3, SCHOTTKY, SOD-123FL, adafruit, (-0.085, -0.1825), R180|
@@ -69,10 +69,10 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Trinket-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3500
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 0.0, 9.017, M0
-- oompPart: CAPC-0805-X-UF10-V25, C1, 2.032, -7.175499999999999, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, -3.556, 1.3335, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, -3.556, 4.381499999999999, 90
-- oompPart: CAPC-0805-X-UF10-V25, C8, 2.7304999999999997, -10.6045, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 2.032, -7.175499999999999, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, -3.556, 1.3335, 270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, -3.556, 4.381499999999999, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 2.7304999999999997, -10.6045, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, 8.382, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 2.2352, -4.6354999999999995, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, -2.1590000000000003, -4.6354999999999995, 180

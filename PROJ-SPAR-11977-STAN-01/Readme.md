@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11977-STAN-01>ITG-3200 Breakout](#proj-spar-11977-stan-01itg-3200-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11977-STAN-01>ITG-3200 Breakout
 
 - ID: PROJ-SPAR-11977-STAN-01
 - Hex ID: PRS11977
 - Name: ITG-3200 Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 6.35, 0,C1, 2.2nF, 0603-CAP, SparkFun, (0.6, 0.25), R0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C4, 2.54, 12.7, 180,C4, 10nF, 0603-CAP, SparkFun, (0.1, 0.5), R180|
+|CAPE-0603-X-NF22D-01, C1, 15.239999999999998, 6.35, 0,C1, 2.2nF, 0603-CAP, SparkFun, (0.6, 0.25), R0|
+|CAPE-0603-X-NF100-01, C2, 2.54, 6.35, 180,C2, 0.1uF, 0603-CAP, SparkFun, (0.1, 0.25), R180|
+|CAPE-0603-X-NF100-01, C3, 2.54, 8.889999999999999, 180,C3, 0.1uF, 0603-CAP, SparkFun, (0.1, 0.35), R180|
+|CAPE-0603-X-UNMATCHED-01, C4, 2.54, 12.7, 180,C4, 10nF, 0603-CAP, SparkFun, (0.1, 0.5), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 20.32, 0,JP2, 1X07, SparkFun, (0.05, 0.8), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 10.16, 13.97, M90,JP6, SJ_2S-NO, SparkFun, (0.4, 0.55), MR90|
 |RESE-0603-X-UNMATCHED-01, R1, 15.239999999999998, 13.97, 0,R1, DNP, 0603-RES, SparkFun, (0.6, 0.55), R0|
@@ -49,10 +59,10 @@ Contents
 - oompName: ITG-3200 Breakout
 - sources: All source files from https://github.com/sparkfun/ITG-3200_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11977
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 6.35, 0
-- oompPart: CAPC-0603-X-NF100-V50, C2, 2.54, 6.35, 180
-- oompPart: CAPC-0603-X-NF100-V50, C3, 2.54, 8.889999999999999, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 2.54, 12.7, 180
+- oompPart: CAPE-0603-X-NF22D-01, C1, 15.239999999999998, 6.35, 0
+- oompPart: CAPE-0603-X-NF100-01, C2, 2.54, 6.35, 180
+- oompPart: CAPE-0603-X-NF100-01, C3, 2.54, 8.889999999999999, 180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 2.54, 12.7, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.7178, 18.059399999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.725399999999999, 0.9905999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 20.32, 0
@@ -75,3 +85,7 @@ Contents
 - rawPart: R3, 10K, 0603-RES, SparkFun-Resistors, (0.1, 0.6), R180
 - rawPart: SJ1, SJ_3_PASTE1&2, SparkFun, (0.3, 0.55), R270
 - rawPart: U1, ITG-32001:1, QFN-24_ITG3200_1:1, SparkFun-DigitalIC, (0.35, 0.35), R270
+
+
+
+[im]: kicadPcb3d_450.png

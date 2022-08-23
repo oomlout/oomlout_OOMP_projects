@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -45,9 +45,9 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180,JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 4.444999999999999, 5.7785, 180,L1, SDER041H-2R2MS, INDUCTOR_4X4MM_SRP0415, microbuilder, (0.175, 0.2275), R180|
 |<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R2, 2.667, 13.398499999999999, 180,R2, 450K, 0603-NO, microbuilder, (0.105, 0.5275), R180|
+|RESE-0603-X-O454-01, R2, 2.667, 13.398499999999999, 180,R2, 450K, 0603-NO, microbuilder, (0.105, 0.5275), R180|
 |<table><tr><td>![RESE-0603-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O104-01<br>SMD (0603) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td><td>[R6104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O104-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-UNMATCHED-01, R4, 8.6995, 9.143999999999998, 180,R4, 10k, _0603MP, microbuilder, (0.3425, 0.36), R180|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 
 ## Tags
 
@@ -71,9 +71,9 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 4.444999999999999, 5.7785, 180
 - oompPart: RESE-0603-X-O104-01, R1, 8.509, 4.444999999999999, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 2.667, 13.398499999999999, 180
+- oompPart: RESE-0603-X-O454-01, R2, 2.667, 13.398499999999999, 180
 - oompPart: RESE-0603-X-O104-01, R3, 2.1590000000000003, 11.8745, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 8.6995, 9.143999999999998, 180
+- oompPart: RESE-0603-X-O103-01, R4, 8.6995, 9.143999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 7.619999999999999, 13.97, 0
 - rawPart: C1, 22uF, 0805-NO, microbuilder, (0.045, 0.375), R90
 - rawPart: C2, 22uF, 0805-NO, microbuilder, (0.215, 0.3475), R180
@@ -93,4 +93,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

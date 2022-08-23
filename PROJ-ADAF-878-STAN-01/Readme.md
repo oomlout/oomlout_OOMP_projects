@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -38,7 +38,7 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 4.064, -10.668, 90,A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.16, -0.42), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 1.778, -10.668, 90,A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.07, -0.42), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 4.191, 8.254999999999999, 180,C1, 10uF, C0805, rcl, (0.165, 0.325), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.254, 12.065, 0,CN1, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (0.01, 0.475), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -4.444999999999999, -10.795, 270,D1, 1N4148, SOD-323F, adafruit, (-0.175, -0.425), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, M270,LED1, BL-M07C881UR, SEGMENT_BL-M07C881UR, microbuilder, (0, 0), MR270|
@@ -61,7 +61,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/878
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 4.064, -10.668, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 1.778, -10.668, 90
-- oompPart: CAPC-0805-X-UF10-V25, C1, 4.191, 8.254999999999999, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 4.191, 8.254999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.254, 12.065, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -4.444999999999999, -10.795, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, M270
@@ -88,4 +88,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

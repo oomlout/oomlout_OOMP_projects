@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 5.334, 12.118999892, 180,C1, 0.1uF, 0805, microbuilder, (0.21, 0.47712598), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.403000054, 17.376000045999998, 180,J1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.44893701, 0.68409449), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.43, 2.54, 0,JP1, 1X05_ROUND_70, microbuilder, (0.45, 0.1), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -54,7 +54,7 @@ Contents
 - oompName: Adafruit INA169 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-INA169-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1164
-- oompPart: CAPC-0805-X-NF100-V50, C1, 5.334, 12.118999892, 180
+- oompPart: CAPE-0805-X-NF100-01, C1, 5.334, 12.118999892, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.931999949999998, 15.95700009, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 5.842, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.403000054, 17.376000045999998, 180

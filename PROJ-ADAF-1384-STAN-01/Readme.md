@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-UNMATCHED-X-NF100-V50, C1, 2.032, 4.953, 90,C1, 0.1uF, _0805MP, microbuilder, (0.08, 0.195), R90|
+|CAPE-0805-X-NF100-01, C1, 2.032, 4.953, 90,C1, 0.1uF, _0805MP, microbuilder, (0.08, 0.195), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.2779999839999998, 0,JP1, 1X03_ROUND, microbuilder, (0.2, 0.05031496), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 8.001, 4.953, 270,R1, 68K, _0805MP, microbuilder, (0.315, 0.195), R270|
+|RESE-0805-X-O683-01, R1, 8.001, 4.953, 270,R1, 68K, _0805MP, microbuilder, (0.315, 0.195), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 4.960999984, 270,U1, GA1A1S202WP, GA1A1S202WP, microbuilder, (0.2, 0.19531496), R270|
 
 ## Tags
@@ -52,11 +52,11 @@ Contents
 - oompName: Adafruit GA1A1S202WP Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1384
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 2.032, 4.953, 90
+- oompPart: CAPE-0805-X-NF100-01, C1, 2.032, 4.953, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.032, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 8.128, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.2779999839999998, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 8.001, 4.953, 270
+- oompPart: RESE-0805-X-O683-01, R1, 8.001, 4.953, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 5.08, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 4.960999984, 270
 - rawPart: C1, 0.1uF, _0805MP, microbuilder, (0.08, 0.195), R90

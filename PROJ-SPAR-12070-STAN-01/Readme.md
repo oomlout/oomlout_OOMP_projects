@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-12070-STAN-01>Solder-able Breadboard](#proj-spar-12070-stan-01solder-able-breadboard)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-12070-STAN-01>Solder-able Breadboard
 
 - ID: PROJ-SPAR-12070-STAN-01
 - Hex ID: PRS12070
 - Name: Solder-able Breadboard
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -254,3 +264,7 @@ Contents
 - rawPart: S2, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (3.55, 2.35), R0
 - rawPart: S3, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S4, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (3.55, 0.15), R0
+
+
+
+[im]: kicadPcb3d_450.png

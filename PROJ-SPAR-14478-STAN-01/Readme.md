@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14478-STAN-01>MaKeyMaKey](#proj-spar-14478-stan-01makeymakey)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14478-STAN-01>MaKeyMaKey
 
 - ID: PROJ-SPAR-14478-STAN-01
 - Hex ID: PRS14478
 - Name: MaKeyMaKey
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C2, 50.8, 29.209999999999997, M270,C2, 1uF, 0603-CAP, SparkFun, (2, 1.15), MR270|
-|CAPE-0603-X-PF22-01, C3, 63.5, 17.779999999999998, M90,C3, 22pF, 0603-CAP, SparkFun, (2.5, 0.7), MR90|
-|CAPE-0603-X-PF22-01, C4, 63.5, 22.86, M90,C4, 22pF, 0603-CAP, SparkFun, (2.5, 0.9), MR90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C6, 57.15, 13.97, M90,C6, 1uF, 0603-CAP, SparkFun, (2.25, 0.55), MR90|
-|CAPC-UNMATCHED-X-UF10-V25, C7, 40.64, 16.509999999999998, M270,C7, 10uF, EIA3216, SparkFun, (1.6, 0.65), MR270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 43.18, 23.875999999999998, M270,C1, 0.1uF, 0603-CAP, SparkFun, (1.7, 0.94), MR270|
+|CAPE-0603-X-UNMATCHED-01, C2, 50.8, 29.209999999999997, M270,C2, 1uF, 0603-CAP, SparkFun, (2, 1.15), MR270|
+|CAPE-0603-X-UNMATCHED-01, C3, 63.5, 17.779999999999998, M90,C3, 22pF, 0603-CAP, SparkFun, (2.5, 0.7), MR90|
+|CAPE-0603-X-UNMATCHED-01, C4, 63.5, 22.86, M90,C4, 22pF, 0603-CAP, SparkFun, (2.5, 0.9), MR90|
+|CAPE-0603-X-NF100-01, C5, 43.18, 16.509999999999998, M270,C5, 0.1uF, 0603-CAP, SparkFun, (1.7, 0.65), MR270|
+|CAPE-0603-X-UNMATCHED-01, C6, 57.15, 13.97, M90,C6, 1uF, 0603-CAP, SparkFun, (2.25, 0.55), MR90|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C7, 40.64, 16.509999999999998, M270,C7, 10uF, EIA3216, SparkFun, (1.6, 0.65), MR270|
+|CAPE-0603-X-NF100-01, C8, 32.385, 36.321999999999996, M270,C8, 0.1uF, 0603-CAP, SparkFun, (1.275, 1.43), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CLICK, 78.74, 28.575, M180,CLICK, 1X01_ALLIGATOR_3MM, SparkFun-Connectors, (3.1, 1.125), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOWN, 26.669999999999998, 19.685, 0,DOWN, 1X01_ALLIGATOR_3MM, SparkFun-Connectors, (1.05, 0.775), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 30.479999999999997, 35.559999999999995, M270,F1, 500mA, PTC-1206-WIDE, SparkFun-PowerIC, (1.2, 1.4), MR270|
@@ -109,14 +119,14 @@ Contents
 - oompName: MaKeyMaKey
 - sources: All source files from https://github.com/sparkfun/MaKeyMaKey (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14478
-- oompPart: CAPC-0603-X-NF100-V50, C1, 43.18, 23.875999999999998, M270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 50.8, 29.209999999999997, M270
-- oompPart: CAPE-0603-X-PF22-01, C3, 63.5, 17.779999999999998, M90
-- oompPart: CAPE-0603-X-PF22-01, C4, 63.5, 22.86, M90
-- oompPart: CAPC-0603-X-NF100-V50, C5, 43.18, 16.509999999999998, M270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 57.15, 13.97, M90
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C7, 40.64, 16.509999999999998, M270
-- oompPart: CAPC-0603-X-NF100-V50, C8, 32.385, 36.321999999999996, M270
+- oompPart: CAPE-0603-X-NF100-01, C1, 43.18, 23.875999999999998, M270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 50.8, 29.209999999999997, M270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 63.5, 17.779999999999998, M90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 63.5, 22.86, M90
+- oompPart: CAPE-0603-X-NF100-01, C5, 43.18, 16.509999999999998, M270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C6, 57.15, 13.97, M90
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C7, 40.64, 16.509999999999998, M270
+- oompPart: CAPE-0603-X-NF100-01, C8, 32.385, 36.321999999999996, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CLICK, 78.74, 28.575, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOWN, 26.669999999999998, 19.685, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 30.479999999999997, 35.559999999999995, M270
@@ -251,3 +261,7 @@ Contents
 - rawPart: UP, 1X01_ALLIGATOR_3MM, SparkFun-Connectors, (1.05, 1.475), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (1.4, 1.7), MR270
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (2.4, 0.8), MR270
+
+
+
+[im]: kicadPcb3d_450.png

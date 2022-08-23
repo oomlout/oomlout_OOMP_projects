@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-16833-STAN-01>Qwiic Quad Solid State Relay](#proj-spar-16833-stan-01qwiic-quad-solid-state-relay)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-16833-STAN-01>Qwiic Quad Solid State Relay
 
 - ID: PROJ-SPAR-16833-STAN-01
 - Hex ID: PRS16833
 - Name: Qwiic Quad Solid State Relay
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -27,7 +37,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 29.209999999999997, 5.08, 180,ADR, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.15, 0.2), R180|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C5, 34.29, 13.334999999999999, 0,C5, 0.1uF, 0603, SparkFun-Capacitors, (1.35, 0.525), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 152.39999999999998, 21.59, 270,D1, BLUE, LED-0603, SparkFun-LED, (6, 0.85), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 106.67999999999999, 21.59, 270,D2, BLUE, LED-0603, SparkFun-LED, (4.2, 0.85), R270|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 60.959999999999994, 21.59, 270,D3, BLUE, LED-0603, SparkFun-LED, (2.4, 0.85), R270|
@@ -82,7 +92,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Quad_Solid_State_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16833
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 29.209999999999997, 5.08, 180
-- oompPart: CAPC-0603-X-NF100-V50, C5, 34.29, 13.334999999999999, 0
+- oompPart: CAPE-0603-X-NF100-01, C5, 34.29, 13.334999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 152.39999999999998, 21.59, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 106.67999999999999, 21.59, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 60.959999999999994, 21.59, 270
@@ -167,3 +177,7 @@ Contents
 - rawPart: R15, 4.7k, 0603, SparkFun-Resistors, (0.625, 0.45), R270
 - rawPart: R17, 4.7k, 0603, SparkFun-Resistors, (1.35, 0.6), R0
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (1.35, 0.3), R270
+
+
+
+[im]: kicadPcb3d_450.png

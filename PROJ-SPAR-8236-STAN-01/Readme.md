@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-8236-STAN-01>Navigation Switch Breakout](#proj-spar-8236-stan-01navigation-switch-breakout)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-8236-STAN-01>Navigation Switch Breakout
 
 - ID: PROJ-SPAR-8236-STAN-01
 - Hex ID: PRS8236
 - Name: Navigation Switch Breakout
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -44,3 +54,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 8.889999999999999, 90
 - rawPart: JP1, 1X04, SparkFun, (0.5, 0.5), R270
 - rawPart: JP2, NAV_SWITCH, NAV_SWITCH, SparkFun, (0.1, 0.35), R90
+
+
+
+[im]: kicadPcb3d_450.png

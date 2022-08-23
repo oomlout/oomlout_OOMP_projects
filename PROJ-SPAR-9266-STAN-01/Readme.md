@@ -6,9 +6,11 @@ Contents
 ========
 
 * [PROJ-SPAR-9266-STAN-01>LilyPad Arduino 328 Main Board](#proj-spar-9266-stan-01lilypad-arduino-328-main-board)
+	* [Images](#images)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-9266-STAN-01>LilyPad Arduino 328 Main Board
 
 - ID: PROJ-SPAR-9266-STAN-01
@@ -16,15 +18,23 @@ Contents
 - Name: LilyPad Arduino 328 Main Board
 - Description: 
 
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 9.000000034, 6.999999969999999, 270,C1, 0.1uF, 0603-CAP, SparkFun, (0.35433071, 0.27559055), R270|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C2, -9.000000034, -4.999999905999999, 90,C2, 47uF, EIA3528, SparkFun, (-0.35433071, -0.19685039), R90|
-|CAPC-0603-X-UNMATCHED-01, C3, -11.999999875999999, -3.9999998740000002, 270,C3, 1.0uF, 0603-CAP, SparkFun, (-0.47244094, -0.15748031), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-UNMATCHED-01, C3, -11.999999875999999, -3.9999998740000002, 270,C3, 1.0uF, 0603-CAP, SparkFun, (-0.47244094, -0.15748031), R270|
+|CAPE-0603-X-NF100-01, C4, 6.999999969999999, -1.000000032, 90,C4, 0.1uF, 0603-CAP, SparkFun, (0.27559055, -0.03937008), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 8.000000002, -9.000000034, 180,D1, Status, LED-0603, SparkFun, (0.31496063, -0.35433071), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -21.479999965999998, 3.089999916, 351.8,GND, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84566929, 0.12165354), R351.8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 11.999999875999999, 180,JP1, 1X06-SMD, SparkFun, (0, 0.47244094), R180|
@@ -46,10 +56,10 @@ Contents
 - oompName: LilyPad Arduino 328 Main Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_328_Main_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9266
-- oompPart: CAPC-0603-X-NF100-V50, C1, 9.000000034, 6.999999969999999, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 9.000000034, 6.999999969999999, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, -9.000000034, -4.999999905999999, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, -11.999999875999999, -3.9999998740000002, 270
-- oompPart: CAPC-0603-X-NF100-V50, C4, 6.999999969999999, -1.000000032, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C3, -11.999999875999999, -3.9999998740000002, 270
+- oompPart: CAPE-0603-X-NF100-01, C4, 6.999999969999999, -1.000000032, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 8.000000002, -9.000000034, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -21.479999965999998, 3.089999916, 351.8
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 11.999999875999999, 180
@@ -114,3 +124,7 @@ Contents
 - rawPart: U$21, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.77716535, -0.35511811), R155.5
 - rawPart: U1, ATMEGA168, TQFP32-08, SparkFun, (0, 0), R0
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (-0.23622047, -0.15748031), R270
+
+
+
+[im]: kicadPcb3d_450.png

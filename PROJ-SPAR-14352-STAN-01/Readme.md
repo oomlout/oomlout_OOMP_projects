@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-14352-STAN-01>Qwiic Shield for Arduino](#proj-spar-14352-stan-01qwiic-shield-for-arduino)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-14352-STAN-01>Qwiic Shield for Arduino
 
 - ID: PROJ-SPAR-14352-STAN-01
 - Hex ID: PRS14352
 - Name: Qwiic Shield for Arduino
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -98,3 +108,7 @@ Contents
 - rawPart: R3, 4.7K, 0603-RES, SparkFun-Resistors, (1.85, 0.6), R0
 - rawPart: R4, 4.7K, 0603-RES, SparkFun-Resistors, (2, 0.6), R0
 - rawPart: U1, ARDUINO, UNO, UNO_R3_SHIELD_NOLABELS, SparkFun-Boards, (0, 0), R0
+
+
+
+[im]: kicadPcb3d_450.png

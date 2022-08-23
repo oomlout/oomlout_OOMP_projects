@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-NF100-01, C1, 7.746999999999999, 12.7, 180,C1, 0.1uF, 0805-NO, microbuilder, (0.305, 0.5), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 2.413, 5.334, 0,C2, 10uF, 0805-NO, microbuilder, (0.095, 0.21), R0|
+|CAPE-0805-X-UNMATCHED-01, C3, 3.8099999999999996, 12.191999999999998, 0,C3, 10uF, 0805-NO, microbuilder, (0.15, 0.48), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.254999999999999, 2.54, 0,JP1, 1X05_ROUND_70, microbuilder, (0.325, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 8.254999999999999, 6.095999999999999, 180,Q1, BSS138, SOT23-WIDE, microbuilder, (0.325, 0.24), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 11.811, 9.906, 270,Q2, BSS138, SOT23-WIDE, microbuilder, (0.465, 0.39), R270|
@@ -60,9 +60,9 @@ Contents
 - oompName: Adafruit HTU21D Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1899
-- oompPart: CAPC-0805-X-NF100-V50, C1, 7.746999999999999, 12.7, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 2.413, 5.334, 0
-- oompPart: CAPC-0805-X-UF10-V25, C3, 3.8099999999999996, 12.191999999999998, 0
+- oompPart: CAPE-0805-X-NF100-01, C1, 7.746999999999999, 12.7, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.413, 5.334, 0
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 3.8099999999999996, 12.191999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.1429999999999998, 11.811, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 15.239999999999998, 3.6829999999999994, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.254999999999999, 2.54, 0

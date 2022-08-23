@@ -38,10 +38,10 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, -2.1590000000000003, 28.955999999999996, 270,B1, red, CHIPLED_0805_NOOUTLINE, microbuilder, (-0.085, 1.14), R270|
 |ERROR, BAT JST 2-PH, 0, 0, 0,BAT, JST, 2-PH, JSTPH2, microbuilder, (0, 1.28), MR0|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|CAPC-UNMATCHED-X-NF100-V50, C2, -4.571999999999999, 18.287999999999997, 0,C2, 0.1uF, _0805MP, microbuilder, (-0.18, 0.72), R0|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, -3.429, 21.462999999999997, 270,C1, 10uF, 0805-NO, microbuilder, (-0.135, 0.845), R270|
+|CAPE-0805-X-NF100-01, C2, -4.571999999999999, 18.287999999999997, 0,C2, 0.1uF, _0805MP, microbuilder, (-0.18, 0.72), R0|
+|CAPE-0805-X-NF100-01, C3, 3.8099999999999996, 5.588, 270,C3, 0.1uF, 0805-NO, microbuilder, (0.15, 0.22), R270|
+|CAPE-0805-X-UNMATCHED-01, C8, 3.0225999999999997, 21.081999999999997, 270,C8, 10uF, 0805-NO, microbuilder, (0.119, 0.83), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, 31.75, 180,CN1, 4UCONN_20329, microbuilder, (0, 1.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -3.6829999999999994, 25.654, 90,D1, 3.6v, SOD-323, microbuilder, (-0.145, 1.01), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 3.6829999999999994, 25.222199999999997, 90,D2, SCHOTTKY, SOD-123FL, adafruit, (0.145, 0.993), R90|
@@ -75,10 +75,10 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2000
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, -2.1590000000000003, 28.955999999999996, 270
 - oompPart: ERROR, BAT JST 2-PH, 0, 0, 0
-- oompPart: CAPC-0805-X-UF10-V25, C1, -3.429, 21.462999999999997, 270
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, -4.571999999999999, 18.287999999999997, 0
-- oompPart: CAPC-0805-X-NF100-V50, C3, 3.8099999999999996, 5.588, 270
-- oompPart: CAPC-0805-X-UF10-V25, C8, 3.0225999999999997, 21.081999999999997, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, -3.429, 21.462999999999997, 270
+- oompPart: CAPE-0805-X-NF100-01, C2, -4.571999999999999, 18.287999999999997, 0
+- oompPart: CAPE-0805-X-NF100-01, C3, 3.8099999999999996, 5.588, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C8, 3.0225999999999997, 21.081999999999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.0, 31.75, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -3.6829999999999994, 25.654, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 3.6829999999999994, 25.222199999999997, 90

@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11645-STAN-01>OpenSegment](#proj-spar-11645-stan-01opensegment)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11645-STAN-01>OpenSegment
 
 - ID: PROJ-SPAR-11645-STAN-01
 - Hex ID: PRS11645
 - Name: OpenSegment
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 6.35, 5.08, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 0.2), R0|
-|CAPC-0402-X-NF100-V50, C3, 3.8099999999999996, 13.97, 180,C3, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.55), R180|
-|CAPC-0402-X-NF100-V50, C4, -6.35, 0.0, 270,C4, 0.1uF, 0402-CAP, SparkFun, (-0.25, 0), R270|
-|CAPC-0402-X-UNMATCHED-01, C10, -6.35, -13.97, 180,C10, 1uF, 0402-CAP, SparkFun, (-0.25, -0.55), R180|
-|CAPC-UNMATCHED-X-UF10-V25, C13, -9.524999999999999, 0.0, 270,C13, 10uF, EIA3216, SparkFun, (-0.375, 0), R270|
-|CAPC-UNMATCHED-X-UF10-V25, C19, -15.875, 0.0, 270,C19, 10uF, EIA3216, SparkFun, (-0.625, 0), R270|
+|CAPE-0402-X-NF100-01, C1, 6.35, 5.08, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 0.2), R0|
+|CAPE-0402-X-NF100-01, C3, 3.8099999999999996, 13.97, 180,C3, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.55), R180|
+|CAPE-0402-X-NF100-01, C4, -6.35, 0.0, 270,C4, 0.1uF, 0402-CAP, SparkFun, (-0.25, 0), R270|
+|CAPE-0402-X-UNMATCHED-01, C10, -6.35, -13.97, 180,C10, 1uF, 0402-CAP, SparkFun, (-0.25, -0.55), R180|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C13, -9.524999999999999, 0.0, 270,C13, 10uF, EIA3216, SparkFun, (-0.375, 0), R270|
+|CAPE-UNMATCHED-X-UNMATCHED-01, C19, -15.875, 0.0, 270,C19, 10uF, EIA3216, SparkFun, (-0.625, 0), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 17.779999999999998, M0,JP1, FTDI_BASIC, FTDI_BASIC, SparkFun, (0.25, 0.7), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, -17.779999999999998, M0,JP2, Connections, 1X10, SparkFun-Connectors, (0.45, -0.7), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, -10.921999999999999, 13.716, 0,JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (-0.43, 0.54), R0|
@@ -55,7 +65,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q10, -2.54, 7.619999999999999, 0,Q10, MMBT2222, SOT23-3, SparkFun-DiscreteSemi, (-0.1, 0.3), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q11, -6.35, 7.619999999999999, 0,Q11, MMBT2222, SOT23-3, SparkFun-DiscreteSemi, (-0.25, 0.3), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q12, -10.16, -7.619999999999999, 180,Q12, MMBT2222, SOT23-3, SparkFun-DiscreteSemi, (-0.4, -0.3), R180|
-|RESE-0402-X-UNMATCHED-01, R1, 1.27, 13.97, 180,R1, 10k, 0402-RES, SparkFun, (0.05, 0.55), R180|
+|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R2, 6.35, 13.97, 180,R2, 33/68, 0402-RES, SparkFun, (0.25, 0.55), R180|
 |RESE-0402-X-UNMATCHED-01, R3, -6.35, 13.97, 0,R3, 33/68, 0402-RES, SparkFun, (-0.25, 0.55), R0|
 |RESE-0402-X-UNMATCHED-01, R4, -1.27, -13.97, 0,R4, 33/68, 0402-RES, SparkFun, (-0.05, -0.55), R0|
@@ -82,12 +92,12 @@ Contents
 - oompName: OpenSegment
 - sources: All source files from https://github.com/sparkfun/OpenSegment (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11645
-- oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 5.08, 0
-- oompPart: CAPC-0402-X-NF100-V50, C3, 3.8099999999999996, 13.97, 180
-- oompPart: CAPC-0402-X-NF100-V50, C4, -6.35, 0.0, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C10, -6.35, -13.97, 180
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C13, -9.524999999999999, 0.0, 270
-- oompPart: CAPC-UNMATCHED-X-UF10-V25, C19, -15.875, 0.0, 270
+- oompPart: CAPE-0402-X-NF100-01, C1, 6.35, 5.08, 0
+- oompPart: CAPE-0402-X-NF100-01, C3, 3.8099999999999996, 13.97, 180
+- oompPart: CAPE-0402-X-NF100-01, C4, -6.35, 0.0, 270
+- oompPart: CAPE-0402-X-UNMATCHED-01, C10, -6.35, -13.97, 180
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C13, -9.524999999999999, 0.0, 270
+- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C19, -15.875, 0.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 17.779999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, -17.779999999999998, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, -10.921999999999999, 13.716, 0
@@ -111,7 +121,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q10, -2.54, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q11, -6.35, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q12, -10.16, -7.619999999999999, 180
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 1.27, 13.97, 180
+- oompPart: RESE-0402-X-O103-01, R1, 1.27, 13.97, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R2, 6.35, 13.97, 180
 - oompPart: RESE-0402-X-UNMATCHED-01, R3, -6.35, 13.97, 0
 - oompPart: RESE-0402-X-UNMATCHED-01, R4, -1.27, -13.97, 0
@@ -170,3 +180,7 @@ Contents
 - rawPart: U1, MIC5219, SOT23-5, SparkFun, (-0.5, 0), R180
 - rawPart: U2, ATMEGA328, TQFP32-08, SparkFun-DigitalIC, (0, 0), R45
 - rawPart: U3, 7-SEGMENT-4DIGIT-COUNTERPTH, 7-SEGMENT-4DIGIT-COUNTER, SparkFun-Displays, (0, 0), MR0
+
+
+
+[im]: kicadPcb3d_450.png

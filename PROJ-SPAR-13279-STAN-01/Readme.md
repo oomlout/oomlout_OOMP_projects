@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13279-STAN-01>Large Digit Driver](#proj-spar-13279-stan-01large-digit-driver)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13279-STAN-01>Large Digit Driver
 
 - ID: PROJ-SPAR-13279-STAN-01
 - Hex ID: PRS13279
 - Name: Large Digit Driver
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -111,3 +121,7 @@ Contents
 - rawPart: R7, 15, 0603-RES, SparkFun-Resistors, (0.28, 0.15), R270
 - rawPart: R8, 15, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R270
 - rawPart: U1, TPIC6C596, SO016, SparkFun-DigitalIC, (0.9, 0.6), R180
+
+
+
+[im]: kicadPcb3d_450.png

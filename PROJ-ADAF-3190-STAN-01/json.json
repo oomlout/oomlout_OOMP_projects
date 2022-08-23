@@ -38,11 +38,11 @@
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C1 0.1uF/50V 0805-NO, 0, 0, 0"
+            "value": "UNMATCHED-0805-X-NF100-01, C1, 8.762999999999998, 12.446, 270"
         },
         {
             "name": "oompPart",
-            "value": "ERROR, C2 22uF/63V PANASONIC_D, 0, 0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 14.477999999999998, 11.176, 180"
         },
         {
             "name": "oompPart",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R1, 13.081, 6.35, 180"
+            "value": "RESE-0805-X-O303-01, R1, 13.081, 6.35, 180"
         },
         {
             "name": "oompPart",

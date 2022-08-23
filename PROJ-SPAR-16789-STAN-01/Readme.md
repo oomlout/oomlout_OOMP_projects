@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-16789-STAN-01>Qwiic Shield for Arduino Nano](#proj-spar-16789-stan-01qwiic-shield-for-arduino-nano)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-16789-STAN-01>Qwiic Shield for Arduino Nano
 
 - ID: PROJ-SPAR-16789-STAN-01
 - Hex ID: PRS16789
 - Name: Qwiic Shield for Arduino Nano
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -89,3 +99,7 @@ Contents
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.425, 0.75), R180
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.275, 0.95), R0
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.275, 0.75), R180
+
+
+
+[im]: kicadPcb3d_450.png

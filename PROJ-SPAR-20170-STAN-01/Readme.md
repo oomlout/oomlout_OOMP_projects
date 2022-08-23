@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-20170-STAN-01>SparkFun Qwiic Pressure Sensor BMP581](#proj-spar-20170-stan-01sparkfun-qwiic-pressure-sensor-bmp581)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-20170-STAN-01>SparkFun Qwiic Pressure Sensor BMP581
 
 - ID: PROJ-SPAR-20170-STAN-01
 - Hex ID: PRS20170
 - Name: SparkFun Qwiic Pressure Sensor BMP581
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-NF100-V50, C1, 3.8099999999999996, 6.9342, 0,C1, 0.1uF, 0402-TIGHT, SparkFun-Capacitors, (0.15, 0.273), R0|
+|CAPE-0402-X-NF100-01, C1, 3.8099999999999996, 6.9342, 0,C1, 0.1uF, 0402-TIGHT, SparkFun-Capacitors, (0.15, 0.273), R0|
 |UNMATCHED-0402-X-UNMATCHED-01, D1, 4.953, 11.557, 180,D1, RED, LED-0402, SparkFun-LED, (0.195, 0.455), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.985, 18.415, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.275, 0.725), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 6.985, 18.415, M0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.275, 0.725), MR0|
@@ -60,7 +70,7 @@ Contents
 - oompName: SparkFun Qwiic Pressure Sensor BMP581
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/20170
-- oompPart: CAPC-0402-X-NF100-V50, C1, 3.8099999999999996, 6.9342, 0
+- oompPart: CAPE-0402-X-NF100-01, C1, 3.8099999999999996, 6.9342, 0
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, D1, 4.953, 11.557, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.985, 18.415, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 6.985, 18.415, M0
@@ -104,3 +114,7 @@ Contents
 - rawPart: TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.1875, 0.0375), MR0
 - rawPart: TP4, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.2625, 0.0375), MR0
 - rawPart: U1, BMP581, BMP581, BMP581, (0.15, 0.35), R180
+
+
+
+[im]: kicadPcb3d_450.png

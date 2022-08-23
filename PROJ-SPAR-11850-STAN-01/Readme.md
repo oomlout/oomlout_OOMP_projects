@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-11850-STAN-01>PicoBuck](#proj-spar-11850-stan-01picobuck)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-11850-STAN-01>PicoBuck
 
 - ID: PROJ-SPAR-11850-STAN-01
 - Hex ID: PRS11850
 - Name: PicoBuck
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 7.619999999999999, 16.319499999999998, 270,C1, 1uF, 0805, SparkFun-Capacitors, (0.3, 0.6425), R270|
-|CAPC-0805-X-UNMATCHED-01, C2, 24.892, 20.955, 270,C2, 2.2uF, 0805, SparkFun-Capacitors, (0.98, 0.825), R270|
-|CAPC-0805-X-UNMATCHED-01, C3, 16.256, 16.319499999999998, 270,C3, 1uF, 0805, SparkFun-Capacitors, (0.64, 0.6425), R270|
-|CAPC-0805-X-UNMATCHED-01, C4, 16.256, 20.955, 270,C4, 2.2uF, 0805, SparkFun-Capacitors, (0.64, 0.825), R270|
-|CAPC-0805-X-UNMATCHED-01, C5, 24.892, 16.319499999999998, 270,C5, 1uF, 0805, SparkFun-Capacitors, (0.98, 0.6425), R270|
-|CAPC-0805-X-UNMATCHED-01, C6, 7.619999999999999, 20.955, 270,C6, 2.2uF, 0805, SparkFun-Capacitors, (0.3, 0.825), R270|
+|CAPE-0805-X-UNMATCHED-01, C1, 7.619999999999999, 16.319499999999998, 270,C1, 1uF, 0805, SparkFun-Capacitors, (0.3, 0.6425), R270|
+|CAPE-0805-X-UF22D-01, C2, 24.892, 20.955, 270,C2, 2.2uF, 0805, SparkFun-Capacitors, (0.98, 0.825), R270|
+|CAPE-0805-X-UNMATCHED-01, C3, 16.256, 16.319499999999998, 270,C3, 1uF, 0805, SparkFun-Capacitors, (0.64, 0.6425), R270|
+|CAPE-0805-X-UF22D-01, C4, 16.256, 20.955, 270,C4, 2.2uF, 0805, SparkFun-Capacitors, (0.64, 0.825), R270|
+|CAPE-0805-X-UNMATCHED-01, C5, 24.892, 16.319499999999998, 270,C5, 1uF, 0805, SparkFun-Capacitors, (0.98, 0.6425), R270|
+|CAPE-0805-X-UF22D-01, C6, 7.619999999999999, 20.955, 270,C6, 2.2uF, 0805, SparkFun-Capacitors, (0.3, 0.825), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 2.413, 2.54, 0,CH1, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.095, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH2, 11.049, 2.54, 0,CH2, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.435, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH3, 19.685, 2.54, 0,CH3, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.775, 0.1), R0|
@@ -68,12 +78,12 @@ Contents
 - oompName: PicoBuck
 - sources: All source files from https://github.com/sparkfun/PicoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11850
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.619999999999999, 16.319499999999998, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 24.892, 20.955, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.256, 16.319499999999998, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 16.256, 20.955, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 24.892, 16.319499999999998, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 7.619999999999999, 20.955, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 7.619999999999999, 16.319499999999998, 270
+- oompPart: CAPE-0805-X-UF22D-01, C2, 24.892, 20.955, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 16.256, 16.319499999999998, 270
+- oompPart: CAPE-0805-X-UF22D-01, C4, 16.256, 20.955, 270
+- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 24.892, 16.319499999999998, 270
+- oompPart: CAPE-0805-X-UF22D-01, C6, 7.619999999999999, 20.955, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 2.413, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH2, 11.049, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH3, 19.685, 2.54, 0
@@ -132,3 +142,7 @@ Contents
 - rawPart: U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.195, 0.675), R0
 - rawPart: U2, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.535, 0.675), R0
 - rawPart: U3, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.875, 0.675), R0
+
+
+
+[im]: kicadPcb3d_450.png

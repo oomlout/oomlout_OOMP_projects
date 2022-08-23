@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13688-STAN-01>MyoWare LED Shield](#proj-spar-13688-stan-01myoware-led-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13688-STAN-01>MyoWare LED Shield
 
 - ID: PROJ-SPAR-13688-STAN-01
 - Hex ID: PRS13688
 - Name: MyoWare LED Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 43.561, 20.1295, M180,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.715, 0.7925), MR180|
-|CAPC-0603-X-UNMATCHED-01, C2, 35.2425, 17.525999999999996, M270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.3875, 0.69), MR270|
+|CAPE-0603-X-UNMATCHED-01, C1, 43.561, 20.1295, M180,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.715, 0.7925), MR180|
+|CAPE-0603-X-UNMATCHED-01, C2, 35.2425, 17.525999999999996, M270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (1.3875, 0.69), MR270|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 48.5775, 17.779999999999998, M90,D1, RED, LED-0603, SparkFun-LED, (1.9125, 0.7), MR90|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 48.5775, 15.938499999999998, M90,D2, GREEN, LED-0603, SparkFun-LED, (1.9125, 0.6275), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 36.512499999999996, 10.921999999999999, 180,D3, SMA-B500, LED_BAR_SMD, Testing, (1.4375, 0.43), R180|
@@ -56,8 +66,8 @@ Contents
 - oompName: MyoWare LED Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_LED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13688
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 43.561, 20.1295, M180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 35.2425, 17.525999999999996, M270
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 43.561, 20.1295, M180
+- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 35.2425, 17.525999999999996, M270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 48.5775, 17.779999999999998, M90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 48.5775, 15.938499999999998, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 36.512499999999996, 10.921999999999999, 180
@@ -100,3 +110,7 @@ Contents
 - rawPart: R5, 330, 0603-RES, SparkFun-Resistors, (1.715, 0.565), MR180
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (1.535, 0.6975), MR90
 - rawPart: U2, LM3914V, PLCC20S, Testing, (0.4175, 0.43), MR45
+
+
+
+[im]: kicadPcb3d_450.png

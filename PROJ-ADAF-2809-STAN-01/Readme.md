@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 5.3975, 5.5245, 180,C1, 0.1uF, 0603-NO, microbuilder, (0.2125, 0.2175), R180|
+|CAPE-0805-X-UNMATCHED-01, C2, 12.318999999999999, 7.492999999999999, 90,C2, 10uF, 0805-NO, microbuilder, (0.485, 0.295), R90|
+|CAPE-0805-X-UNMATCHED-01, C3, 12.5095, 10.9855, 270,C3, 10uF, 0805-NO, microbuilder, (0.4925, 0.4325), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 8.889999999999999, 22.86, 180,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.35, 0.9), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 8.889999999999999, 2.54, 0,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.35, 0.1), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.206999999999999, 3.556, 180,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.205, 0.14), R180|
@@ -63,9 +63,9 @@ Contents
 - oompName: Adafruit LIS3DH Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2809
-- oompPart: CAPC-0603-X-NF100-V50, C1, 5.3975, 5.5245, 180
-- oompPart: CAPC-0805-X-UF10-V25, C2, 12.318999999999999, 7.492999999999999, 90
-- oompPart: CAPC-0805-X-UF10-V25, C3, 12.5095, 10.9855, 270
+- oompPart: CAPE-0603-X-NF100-01, C1, 5.3975, 5.5245, 180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 12.318999999999999, 7.492999999999999, 90
+- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.5095, 10.9855, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 8.889999999999999, 22.86, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 8.889999999999999, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.206999999999999, 3.556, 180

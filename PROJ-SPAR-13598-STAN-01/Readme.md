@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-13598-STAN-01>Photon Proto Shield](#proj-spar-13598-stan-01photon-proto-shield)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-13598-STAN-01>Photon Proto Shield
 
 - ID: PROJ-SPAR-13598-STAN-01
 - Hex ID: PRS13598
 - Name: Photon Proto Shield
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -68,3 +78,7 @@ Contents
 - rawPart: JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.85, 0.25), R90
 - rawPart: JP9, 1X09_NO_SILK, SparkFun-Connectors, (0.95, 0.25), R90
 - rawPart: JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.05, 0.25), R90
+
+
+
+[im]: kicadPcb3d_450.png

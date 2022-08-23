@@ -6,16 +6,26 @@ Contents
 ========
 
 * [PROJ-SPAR-15093-STAN-01>Qwiic Relay](#proj-spar-15093-stan-01qwiic-relay)
+	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
-
+  
+![][im]
 # PROJ-SPAR-15093-STAN-01>Qwiic Relay
 
 - ID: PROJ-SPAR-15093-STAN-01
 - Hex ID: PRS15093
 - Name: Qwiic Relay
 - Description: 
+
+## Images
+  
+  
+
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -26,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF10-V25, C1, 7.619999999999999, 49.529999999999994, 90,C1, 10uF, 0603, SparkFun-Capacitors, (0.3, 1.95), R90|
+|CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 49.529999999999994, 90,C1, 10uF, 0603, SparkFun-Capacitors, (0.3, 1.95), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.54, 39.37, 0,D1, 1A/23V/620mV, SOD-323, SparkFun-DiscreteSemi, (0.1, 1.55), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 22.86, 43.18, 180,D2, BLUE, LED-0603, SparkFun-LED, (0.9, 1.7), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 41.91, 180,D3, RED, LED-0603, SparkFun-LED, (0.1, 1.65), R180|
@@ -48,7 +58,7 @@ Contents
 |<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R6, 15.239999999999998, 49.529999999999994, 90,R6, 2.2k, 0603, SparkFun-Resistors, (0.6, 1.95), R90|
 |RESE-0603-X-UNMATCHED-01, R7, 10.16, 49.529999999999994, 90,R7, 2.2k, 0603, SparkFun-Resistors, (0.4, 1.95), R90|
-|RESE-0603-X-UNMATCHED-01, R8, 17.779999999999998, 49.529999999999994, 270,R8, 10k, 0603, SparkFun-Resistors, (0.7, 1.95), R270|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R9, 2.54, 43.18, 0,R9, 1k, 0603, SparkFun-Resistors, (0.1, 1.7), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 12.7, 40.64, 0,U3, ATTINY85, ATTINY85, SparkFun-IC-Microcontroller, (0.5, 1.6), R0|
 
@@ -63,7 +73,7 @@ Contents
 - oompName: Qwiic Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15093
-- oompPart: CAPC-0603-X-UF10-V25, C1, 7.619999999999999, 49.529999999999994, 90
+- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 49.529999999999994, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.54, 39.37, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 22.86, 43.18, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 2.54, 41.91, 180
@@ -85,7 +95,7 @@ Contents
 - oompPart: RESE-0603-X-O331-01, R4, 22.86, 41.91, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R6, 15.239999999999998, 49.529999999999994, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 10.16, 49.529999999999994, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R8, 17.779999999999998, 49.529999999999994, 270
+- oompPart: RESE-0603-X-O103-01, R8, 17.779999999999998, 49.529999999999994, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R9, 2.54, 43.18, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 12.7, 40.64, 0
 - rawPart: C1, 10uF, 0603, SparkFun-Capacitors, (0.3, 1.95), R90
@@ -113,3 +123,7 @@ Contents
 - rawPart: R8, 10k, 0603, SparkFun-Resistors, (0.7, 1.95), R270
 - rawPart: R9, 1k, 0603, SparkFun-Resistors, (0.1, 1.7), R0
 - rawPart: U3, ATTINY85, ATTINY85, SparkFun-IC-Microcontroller, (0.5, 1.6), R0
+
+
+
+[im]: kicadPcb3d_450.png

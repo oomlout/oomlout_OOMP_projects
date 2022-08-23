@@ -42,7 +42,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-NF100-V50, C1, 3.556, 8.636000000000001, 180"
+            "value": "CAPE-UNMATCHED-X-NF100-01, C1, 3.556, 8.636000000000001, 180"
         },
         {
             "name": "oompPart",
@@ -62,7 +62,7 @@
         },
         {
             "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O222-01, R2, 8.382, 6.604, 90"
+            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 8.382, 6.604, 90"
         },
         {
             "name": "rawPart",

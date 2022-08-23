@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPE-0603-X-NF100-01, C1, 1.778, 3.8099999999999996, 0,C1, 0.1uF, 0603-CAP, SparkFun, (0.07, 0.15), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 0.0, M270,J1, 2X3_TEST_POINTS, SparkFun-Connectors, (0, 0), MR270|
-|RESE-0603-X-UNMATCHED-01, R1, -1.778, 3.8099999999999996, 180,R1, 10k, 0603-RES, SparkFun, (-0.07, 0.15), R180|
+|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270,U1, ATTINY85, SO08-EIAJ, SparkFun, (0, 0), R270|
 
 ## Tags
@@ -52,11 +52,11 @@ Contents
 - oompName: LilyTiny LilyTwinkle
 - sources: All source files from https://github.com/sparkfun/LilyTiny_LilyTwinkle (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10899
-- oompPart: CAPC-0603-X-NF100-V50, C1, 1.778, 3.8099999999999996, 0
+- oompPart: CAPE-0603-X-NF100-01, C1, 1.778, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 7.619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, -7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 0.0, M270
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, -1.778, 3.8099999999999996, 180
+- oompPart: RESE-0603-X-O103-01, R1, -1.778, 3.8099999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -6.497599908, -3.7513999140000003, 300
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 6.496200113999999, -3.7490999439999997, 60
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 6.493999966, 3.753499986, 120
@@ -79,4 +79,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png

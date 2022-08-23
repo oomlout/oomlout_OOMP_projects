@@ -23,9 +23,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+| :---: | :---: | :---: | :---: |
+|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
 
 ## Interactive BOM
 
@@ -37,7 +37,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90,B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90|
-|<table><tr><td>![CAPC-0805-X-UF10-V25](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-UF10-V25/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-UF10-V25<br>SMD (0805) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td><td>[C85U010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V25/)</td></tr></table>|
+|CAPE-0805-X-UNMATCHED-01, C1, 5.1308, 18.389599999999998, M180,C1, 10uF, 0805-NO, microbuilder, (0.202, 0.724), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 6.731, 10.795, M180,IC2, DS3231/SO, SO16W, adafruit, (0.265, 0.425), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.43, 18.668999999999997, 180,JP1, 1X02_ROUND, microbuilder, (0.45, 0.735), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0,RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0|
@@ -54,7 +54,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-PiRTC-DS3231-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4282
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90
-- oompPart: CAPC-0805-X-UF10-V25, C1, 5.1308, 18.389599999999998, M180
+- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 5.1308, 18.389599999999998, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.3716, 18.846799999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 18.694399999999998, 15.265399999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 11.6332, 2.6923999999999997, M0
@@ -76,4 +76,4 @@ Contents
 
 
 
-[im]: eagleImage_450.png
+[im]: kicadPcb3d_450.png
