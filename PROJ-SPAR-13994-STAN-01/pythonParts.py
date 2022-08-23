@@ -1,10 +1,10 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-13994-STAN-01")
 
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 8.889999999999999, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 11.937999999999999, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1.27, 19.558, 0")
+newPart.addTag("oompPart","HEAD-I01-X-PI081-01, JP1, 1.27, 1.27, 0")
+newPart.addTag("oompPart","HEAD-I01-X-PI08-01, JP2, 1.27, 8.889999999999999, 0")
+newPart.addTag("oompPart","HEAD-I01-X-PI081-01, JP3, 1.27, 11.937999999999999, 0")
+newPart.addTag("oompPart","HEAD-I01-X-PI08-01, JP4, 1.27, 19.558, 0")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 5.08, 270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 10.16, 15.748, 270")
 newPart.addTag("rawPart","JP1, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.05), R0")

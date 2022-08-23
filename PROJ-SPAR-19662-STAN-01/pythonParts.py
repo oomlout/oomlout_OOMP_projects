@@ -1,12 +1,12 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-19662-STAN-01")
 
-newPart.addTag("oompPart","CAPE-0603-X-NF100-01, C1, 12.7, 17.145, 90")
+newPart.addTag("oompPart","CAPC-0603-X-NF100-V50, C1, 12.7, 17.145, 90")
 newPart.addTag("oompPart","UNMATCHED-0603-X-UNMATCHED-01, D1, 22.605999999999998, 18.415, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 1.27, M0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 20.32, 21.59, 0")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 20.32, 21.59, M0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 1.27, M0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 20.32, 21.59, 0")
+newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 20.32, 21.59, M0")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 12.7, 270")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 20.32, 12.7, 90")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 5.08, 1.27, 0")
