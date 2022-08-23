@@ -1,11 +1,11 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-1164-STAN-01")
 
-newPart.addTag("oompPart","CAPE-0805-X-NF100-01, C1, 5.334, 12.118999892, 180")
+newPart.addTag("oompPart","CAPC-0805-X-NF100-V50, C1, 5.334, 12.118999892, 180")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.931999949999998, 15.95700009, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 5.842, 0")
 newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.403000054, 17.376000045999998, 180")
-newPart.addTag("oompPart","UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.43, 2.54, 0")
+newPart.addTag("oompPart","HEAD-I01-X-PI05-01, JP1, 11.43, 2.54, 0")
 newPart.addTag("oompPart","RESE-0805-X-O103-01, R1, 21.336, 10.413999999999998, 90")
 newPart.addTag("oompPart","ERROR, RSHUNT 0.1/1% (PT2512FK-070R1L), 0, 0, 0")
 newPart.addTag("oompPart","SKIP-UNMATCHED-X-UNMATCHED-01, U$7, 20.32, 2.54, 0")
