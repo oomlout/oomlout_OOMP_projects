@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2717"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2717-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A0, 3.937, 16.509999999999998, M180"
         },

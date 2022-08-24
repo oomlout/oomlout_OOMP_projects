@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2324"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2324-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 18.668999999999997, 7.746999999999999, 180"
         },

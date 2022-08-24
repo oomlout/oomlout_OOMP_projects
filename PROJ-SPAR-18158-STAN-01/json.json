@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/18158"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-18158-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.762999999999998, 35.433, 270"
         },

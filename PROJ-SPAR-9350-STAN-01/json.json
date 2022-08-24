@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9350"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9350-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, -1.27, 90"
         },

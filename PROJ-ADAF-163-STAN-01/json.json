@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/163"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-163-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0805-X-NF10-01, C1, 4.2164, -1.6256, 90"
         },

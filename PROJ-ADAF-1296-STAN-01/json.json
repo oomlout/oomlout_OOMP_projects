@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1296"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1296-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180"
         },

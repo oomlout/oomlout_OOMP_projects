@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/8245"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-8245-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C5, 18.415, 3.8099999999999996, 90"
         },

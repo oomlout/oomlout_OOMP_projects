@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-micro"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-MICRO-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0402-X-NF100-01, C1, 10.795, 37.846, M0"
         },

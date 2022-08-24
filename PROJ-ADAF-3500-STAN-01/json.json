@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3500"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3500-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, BAT, 0.0, 9.017, M0"
         },

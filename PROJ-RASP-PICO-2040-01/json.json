@@ -461,6 +461,10 @@
             "value": "PROJ-RASP-PICO-2040-01"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-RASP-PICO-2040-01"
+        },
+        {
             "name": "name",
             "value": "Raspberry Pi Foundation 2040 Pico"
         }

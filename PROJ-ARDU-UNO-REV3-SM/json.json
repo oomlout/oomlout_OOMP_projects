@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-UNO-REV3-SM"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0603-X-NF100-01, C1, 18.415, 15.367, 270"
         },

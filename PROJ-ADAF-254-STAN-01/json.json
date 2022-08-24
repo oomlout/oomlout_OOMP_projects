@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/254"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-254-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-0805-X-UNMATCHED-01, ACT, 7.619999999999999, 21.081999999999997, 270"
         },

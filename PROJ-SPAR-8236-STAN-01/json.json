@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/8236"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-8236-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI04-01, JP1, 12.7, 12.7, 270"
         },

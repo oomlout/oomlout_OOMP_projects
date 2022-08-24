@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4740"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4740-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 33.400999999999996, 12.065, 180"
         },

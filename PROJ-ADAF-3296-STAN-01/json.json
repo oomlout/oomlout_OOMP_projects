@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3296"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3296-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.971, 6.095999999999999, 180"
         },

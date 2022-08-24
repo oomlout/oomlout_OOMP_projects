@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3886"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3886-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0603-X-NF22D-V50, C1, 16.052799999999998, 6.095999999999999, 270"
         },

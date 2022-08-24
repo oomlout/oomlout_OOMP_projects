@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/17272"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-17272-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 8.889999999999999, 47.751999999999995, M0"
         },

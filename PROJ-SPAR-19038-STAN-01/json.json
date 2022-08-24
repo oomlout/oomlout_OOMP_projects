@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/19038"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-19038-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0603-X-NF220-V50, C1, 21.861778221999998, 45.35678127, 90"
         },

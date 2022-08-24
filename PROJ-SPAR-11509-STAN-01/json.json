@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/11509"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-11509-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI04-01, JP1, 19.049999999999997, 3.8099999999999996, 180"
         },

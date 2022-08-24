@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/11282"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-11282-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0402-X-NF100-V50, C1, 2.54, 9.2075, 90"
         },

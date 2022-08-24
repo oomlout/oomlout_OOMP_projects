@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4343"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0805-X-UF10-V25, C1, -22.399500032, 7.238999999999999, 180"
         },

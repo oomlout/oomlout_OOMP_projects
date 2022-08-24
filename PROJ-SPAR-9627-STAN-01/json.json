@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9627"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9627-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2.2UH, 5.08, 21.59, 180"
         },

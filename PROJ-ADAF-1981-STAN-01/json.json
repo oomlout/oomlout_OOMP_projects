@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1981"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1981-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0805-X-UNMATCHED-01, C2, 115.0, 15.0, 90"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3444"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3444-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, CI, 23.368, 24.13, M0"
         },

@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-uno-rev3"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-UNO-REV3-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 2250.0, 100.0, 0"
         },

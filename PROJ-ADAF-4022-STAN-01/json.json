@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4022"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4022-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180"
         },

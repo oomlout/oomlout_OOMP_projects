@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-leonardo-with-headers"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-LEO-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0603-X-NF100-01, C1, 39.235, 10.425, 180"
         },

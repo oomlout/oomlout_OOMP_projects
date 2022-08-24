@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/10661"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10661-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0603-X-UNMATCHED-01, C1, 21.59, 20.32, 270"
         },

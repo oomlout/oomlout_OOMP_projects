@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-mega-2560-rev3"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-MEGA-2560-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADCH, 3250.0, 100.0, 0"
         },

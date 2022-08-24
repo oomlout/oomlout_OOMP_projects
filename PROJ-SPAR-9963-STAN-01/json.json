@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9963"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9963-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180"
         },

@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/18576"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-18576-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 2.0827999999999998, 32.345099902, M270"
         },

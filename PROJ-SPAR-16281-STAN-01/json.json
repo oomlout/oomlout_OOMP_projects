@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/16281"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-16281-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 12.7, 19.939, M0"
         },

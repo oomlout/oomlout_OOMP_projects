@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/19096"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-19096-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 11.43, 9.398, M180"
         },

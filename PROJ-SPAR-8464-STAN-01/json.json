@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/8464"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-8464-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT+, 6.499999954, -3.75000012, 60"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1110"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1110-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A0, 2.921, 6.731, M90"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2000"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2000-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, -2.1590000000000003, 28.955999999999996, 270"
         },

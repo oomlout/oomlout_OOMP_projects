@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/801"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-801-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 36.794000071999996, 79.468000068, 180"
         },

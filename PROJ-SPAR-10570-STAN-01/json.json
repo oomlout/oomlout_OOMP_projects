@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/10570"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10570-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-NF100-V50, C1, 67.30999999999999, 74.93, 90"
         },

@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9814"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9814-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "ERROR, BAT1 AA Battery, 0, 0, 0"
         },

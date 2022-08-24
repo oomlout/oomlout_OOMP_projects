@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3000"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3000-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -22.6695, 0.0, 90"
         },

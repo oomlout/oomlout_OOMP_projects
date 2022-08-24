@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/5221"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-5221-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, -16.383, 11.8745, 180"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1770"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1770-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1X20BREAKOUT, 0.0, 38.099999999999994, 180"
         },

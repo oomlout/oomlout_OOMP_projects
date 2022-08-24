@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1932"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1932-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 57.531, 15.748, 270"
         },

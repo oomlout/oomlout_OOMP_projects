@@ -41,6 +41,10 @@
             "value": "PROJ-ADAF-1895-STAN-01"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1895-STAN-01"
+        },
+        {
             "name": "name",
             "value": "Adafruit"
         }

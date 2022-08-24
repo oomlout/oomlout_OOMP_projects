@@ -33,6 +33,10 @@
             "value": "https://store.arduino.cc/collections/boards/products/arduino-nano"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDU-NANO-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0603-X-UNMATCHED-01, C1, 7.035, 3.0226, M0"
         },

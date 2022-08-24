@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9729"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9729-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 43.18, 7.619999999999999, 0"
         },

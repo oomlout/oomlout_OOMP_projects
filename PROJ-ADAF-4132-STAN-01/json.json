@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4132"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4132-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, ADDR0, 16.907999966, 17.190999908, 90"
         },

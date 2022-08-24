@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/10705"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10705-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "ERROR, JP2 MYDAQ 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING, 0, 0, 0"
         },

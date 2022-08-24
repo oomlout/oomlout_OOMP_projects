@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2741"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2741-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, !MCLR, 770.0, 190.0, 0"
         },

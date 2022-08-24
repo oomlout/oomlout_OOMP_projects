@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2190"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2190-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "ERROR, C1 10uF/16V X5R, 0, 0, 0"
         },

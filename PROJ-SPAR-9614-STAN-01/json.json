@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9614"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9614-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI05-01, JP5, 15.239999999999998, 10.16, 180"
         },

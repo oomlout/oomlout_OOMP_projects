@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/18000"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-18000-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BP, 27.94, 12.7, M270"
         },

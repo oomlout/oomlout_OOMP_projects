@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4920"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4920-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0805-X-UNMATCHED-01, C1, 1.1429999999999998, 9.524999999999999, 90"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/390"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-390-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180"
         },

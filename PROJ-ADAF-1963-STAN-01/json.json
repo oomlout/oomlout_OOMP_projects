@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1963"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1963-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADC, 11.176, 20.32, 0"
         },

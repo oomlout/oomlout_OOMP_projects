@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4481"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4481-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0603-X-UNMATCHED-01, C1, 16.4084, 12.344399999999998, 270"
         },

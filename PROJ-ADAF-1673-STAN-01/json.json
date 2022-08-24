@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1673"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1673-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-0805-X-UNMATCHED-01, C1, 12.7499999, -8.250000009999999, 180"
         },

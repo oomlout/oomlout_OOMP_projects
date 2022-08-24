@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2406"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2406-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BACKLITEPWM, 1.599200002, 81.30099995799999, 0"
         },

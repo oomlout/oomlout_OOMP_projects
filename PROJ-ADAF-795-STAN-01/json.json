@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/795"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-795-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-NF100-V50, C1, 21.462999999999997, 43.053, 0"
         },

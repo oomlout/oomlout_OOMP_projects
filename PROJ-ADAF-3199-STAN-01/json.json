@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3199"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3199-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.557, 13.589, 0"
         },

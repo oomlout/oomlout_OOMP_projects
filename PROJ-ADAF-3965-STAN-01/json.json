@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3965"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3965-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0603-X-NF100-V50, C1, 9.143999999999998, 12.191999999999998, 180"
         },

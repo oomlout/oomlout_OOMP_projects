@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1465"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1465-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 1.27, 270"
         },

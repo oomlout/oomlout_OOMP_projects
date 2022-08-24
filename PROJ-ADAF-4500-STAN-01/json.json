@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4500"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4500-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTNA, 45.70000004, 20.99999991, M270"
         },

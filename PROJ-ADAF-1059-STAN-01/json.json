@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1059"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1059-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, 3V3IN, 11.684, -4.699, 247.5"
         },

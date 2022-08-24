@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/11088"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-11088-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 18.541999999999998, 51.815999999999995, 0"
         },

@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/14812"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-14812-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UF22D-01, C1, 11.43, 43.18, 270"
         },

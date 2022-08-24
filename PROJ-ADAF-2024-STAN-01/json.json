@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2024"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2024-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 6.35, 50.8, 90"
         },

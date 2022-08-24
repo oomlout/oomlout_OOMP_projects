@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/757"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-757-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI06-01, JP3, 2.54, 10.16, 90"
         },

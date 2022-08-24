@@ -165,6 +165,10 @@
             "value": "PROJ-ARDC-HQBS-LG32-01"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ARDC-HQBS-LG32-01"
+        },
+        {
             "name": "name",
             "value": "Compatible Arduino (LGT8F328P) HQB Special"
         }

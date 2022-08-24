@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/14691"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-14691-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0603-X-UF22D-01, C1, 10.16, 11.43, 0"
         },

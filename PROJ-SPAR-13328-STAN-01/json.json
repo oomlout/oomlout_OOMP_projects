@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/13328"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-13328-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 38.018971967999995, 50.490375016, 0"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/5157"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-5157-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, -8.382, -73.914, 0"
         },

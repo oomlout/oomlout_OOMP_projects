@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/14891"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-14891-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 45.72, 29.845, 0"
         },

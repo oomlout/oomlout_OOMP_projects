@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2020"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2020-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C2, 145.0, -65.0, 90"
         },

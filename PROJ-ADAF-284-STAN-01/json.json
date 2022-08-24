@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/284"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-284-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.921, 10.0076, 90"
         },

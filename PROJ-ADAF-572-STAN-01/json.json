@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/572"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-572-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI23-01, JP1, 46.99, 45.084999999999994, 180"
         },

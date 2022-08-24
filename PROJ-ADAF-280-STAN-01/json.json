@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/280"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-280-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, BATT_IN, 17.272000000000002, 3.429, 180"
         },

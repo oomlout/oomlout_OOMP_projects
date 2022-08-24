@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3421"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3421-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-0805-X-UNMATCHED-01, C2, 14.224, 5.588, M90"
         },

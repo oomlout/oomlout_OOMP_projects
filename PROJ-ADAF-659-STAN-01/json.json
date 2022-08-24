@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/659"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-659-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -19.685, 0.0, 90"
         },

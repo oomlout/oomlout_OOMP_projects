@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3695"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3695-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI11-01, JP1, -3.8099999999999996, -25.4, 270"
         },

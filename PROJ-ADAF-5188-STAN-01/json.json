@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/5188"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-5188-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 10.795, M0"
         },

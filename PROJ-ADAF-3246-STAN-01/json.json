@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/3246"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-3246-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOY1, 12.7, 12.953999999999999, 0"
         },

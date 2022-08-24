@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/10730"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10730-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "ERROR, BAT1 20mm coincell, 0, 0, 0"
         },

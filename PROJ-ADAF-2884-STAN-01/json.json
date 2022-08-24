@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2884"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2884-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI12-01, JP1, 30.479999999999997, 19.049999999999997, 0"
         },

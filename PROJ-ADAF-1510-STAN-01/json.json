@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1510"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1510-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0402-X-PF22D-01, C1, 13.645999885999998, 35.999999882, 0"
         },

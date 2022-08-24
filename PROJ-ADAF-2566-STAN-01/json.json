@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/2566"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-2566-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "SKIP-UNMATCHED-X-UNMATCHED-01, CN2, 0.0, 0.0, 180"
         },

@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4282"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4282-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90"
         },

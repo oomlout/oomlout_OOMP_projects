@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9825"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9825-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270"
         },

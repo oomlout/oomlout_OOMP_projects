@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/4413"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-4413-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-UNMATCHED-X-NF100-V50, C1, 14.731999999999998, 11.176, 90"
         },

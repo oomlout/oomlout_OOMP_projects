@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/10618"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-10618-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 41.91, 8.254999999999999, 180"
         },

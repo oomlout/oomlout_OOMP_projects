@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1899"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1899-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0805-X-NF100-V50, C1, 7.746999999999999, 12.7, 180"
         },

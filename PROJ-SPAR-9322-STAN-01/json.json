@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/9322"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-9322-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "HEAD-I01-X-PI03-01, JP1, 12.7, 12.7, 180"
         },

@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/19895"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-19895-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 6DOF_ADDR, 19.84375, 8.001, M90"
         },

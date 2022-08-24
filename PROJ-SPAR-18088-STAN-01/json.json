@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/18088"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-18088-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 26.288999999999998, 12.572999999999999, M0"
         },

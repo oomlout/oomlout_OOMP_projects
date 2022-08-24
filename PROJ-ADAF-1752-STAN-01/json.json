@@ -37,6 +37,10 @@
             "value": "http://www.adafruit.com/products/1752"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1752-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.68099995, 36.378999885999995, 270"
         },

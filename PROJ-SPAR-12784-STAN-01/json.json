@@ -37,6 +37,10 @@
             "value": "https://www.sparkfun.com/products/12784"
         },
         {
+            "name": "oompID",
+            "value": "PROJ-SPAR-12784-STAN-01"
+        },
+        {
             "name": "oompPart",
             "value": "CAPC-0603-X-UNMATCHED-01, C1, 10.668, 11.049, 0"
         },
