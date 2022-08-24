@@ -139,6 +139,7 @@ Contents
 - rawPart: R8, 1K, AXIAL-0.3, SparkFun, (2.2, 0.65), R270
 - rawPart: S1, SWITCH-SPDT, SparkFun, (2, 1.05), R270
 - rawPart: U1, Arduino, DUEMILANOVE_SHIELD, SparkFun, (0, 2.1), R270
+- oompID: PROJ-SPAR-10618-STAN-01
 
 
 

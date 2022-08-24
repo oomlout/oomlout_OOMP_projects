@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 45.72, 10.16, 90,JP1, 1X03_NO_SILK, SparkFun-Connectors, (1.8, 0.4), R90|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |RESE-UNMATCHED-X-UNMATCHED-01, R1, 3.175, 2.54, 0,R1, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.1), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.175, 5.08, 0,R2, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.2), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R3, 5.715, 7.619999999999999, 180,R3, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.3), R180|
@@ -59,7 +59,7 @@ Contents
 - oompName: Rotary Switch Potentiometer
 - sources: All source files from https://github.com/sparkfun/Rotary_Switch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13099
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 45.72, 10.16, 90
+- oompPart: HEAD-I01-X-PI03-01, JP1, 45.72, 10.16, 90
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 3.175, 2.54, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.175, 5.08, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R3, 5.715, 7.619999999999999, 180
@@ -81,6 +81,7 @@ Contents
 - rawPart: R8, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.8), R0
 - rawPart: R9, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.9), R0
 - rawPart: SW1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (1.05, 0.5), R270
+- oompID: PROJ-SPAR-13099-STAN-01
 
 
 

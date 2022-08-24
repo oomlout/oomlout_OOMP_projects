@@ -57,3 +57,4 @@ Contents
 - oompSymbol: twoSidedPackage;##ooNumPins@@
 - ooDesignator: U1
 - ooDesignator1: U
+- oompID: PROJ-ARDC-HQBS-LG32-01

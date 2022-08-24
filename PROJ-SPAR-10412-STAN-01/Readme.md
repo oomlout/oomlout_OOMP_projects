@@ -69,6 +69,7 @@ Contents
 - rawPart: LED1, FKIT-LED-1206_NO_CREAM, Testing, (0.36, 0.44), R45
 - rawPart: LED2, LED3MM-NS, SparkFun, (0.36, 0.44), R45
 - rawPart: R1, 0603-RES, SparkFun-Resistors, (0.45, 0.35), R225
+- oompID: PROJ-SPAR-10412-STAN-01
 
 
 

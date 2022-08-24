@@ -69,6 +69,7 @@ Contents
 - rawPart: JP6, M30, 1X30, Local, Library, (1.1, 0.25), R90
 - rawPart: JP7, M30, 1X30, Local, Library, (2.9, 0.25), R90
 - rawPart: JP8, M30, 1X30, Local, Library, (3, 0.25), R90
+- oompID: PROJ-SPAR-10705-STAN-01
 
 
 

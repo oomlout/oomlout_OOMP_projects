@@ -31,9 +31,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, 2.54, 15.239999999999998, 90,C1, .1uF, 0603-CAP, SparkFun, (0.1, 0.6), R90|
+|CAPC-0603-X-UNMATCHED-01, C1, 2.54, 15.239999999999998, 90,C1, .1uF, 0603-CAP, SparkFun, (0.1, 0.6), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.35, 12.7, 0,IC1, LMV358, SO08, SparkFun, (0.25, 0.5), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 1.27, 0,JP2, 1X06, SparkFun, (0.05, 0.05), R0|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.7, 11.43, 90,Q1, mmbt2222, SOT23-3, SparkFun, (0.5, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 15.239999999999998, 90,Q2, mmbt2222, SOT23-3, SparkFun, (0.5, 0.6), R90|
 |RESE-UNMATCHED-X-O103-01, R1, 12.7, 21.59, 180,R1, 10K, TRIMPOT-3MM, SparkFun, (0.5, 0.85), R180|
@@ -56,9 +56,9 @@ Contents
 - oompName: Window Comparator
 - sources: All source files from https://github.com/sparkfun/Window_Comparator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10101
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 2.54, 15.239999999999998, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.54, 15.239999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.35, 12.7, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 1.27, 0
+- oompPart: HEAD-I01-X-PI06-01, JP2, 1.27, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.7, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 15.239999999999998, 90
 - oompPart: RESE-UNMATCHED-X-O103-01, R1, 12.7, 21.59, 180
@@ -82,6 +82,7 @@ Contents
 - rawPart: R6, 20K, 0603-RES, SparkFun, (0.4, 0.4), R90
 - rawPart: R7, 2K, 0603-RES, SparkFun, (0.55, 0.3), R270
 - rawPart: STAT, LED-0603, SparkFun, (0.31496063, 0.86614173), R0
+- oompID: PROJ-SPAR-10101-STAN-01
 
 
 

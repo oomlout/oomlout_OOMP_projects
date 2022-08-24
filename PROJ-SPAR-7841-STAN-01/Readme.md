@@ -36,14 +36,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180,C1, 10uF, CPOL_1206, SparkFun-Nate, (0.1, 0.45), R180|
-|CAPE-0402-X-NF100-01, C2, 5.08, 11.43, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.45), R270|
-|CAPE-0402-X-NF100-01, C3, 15.239999999999998, 17.779999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.7), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0,JP1, M09, 1X09, SparkFun, (0.1, 0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 20.32, 180,JP2, M09, 1X09, SparkFun, (0.9, 0.8), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.8636, 1.016, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.034, 0.04), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 25.3492, 21.336, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.998, 0.84), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 2.5019, 7.236499877999999, 0,SJ1, SOLDERJUMPERNC2, SJ_2S-NOTRACE, SparkFun, (0.0985, 0.28490157), R0|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180,C1, 10uF, CPOL_1206, SparkFun-Nate, (0.1, 0.45), R180|
+|CAPC-0402-X-NF100-V50, C2, 5.08, 11.43, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.45), R270|
+|CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 17.779999999999998, 0,C3, 0.1uF, 0402-CAP, SparkFun, (0.6, 0.7), R0|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|HEAD-I01-X-PI2-01, JP3, 0.8636, 1.016, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.034, 0.04), R0|
+|HEAD-I01-X-PI2-01, JP4, 25.3492, 21.336, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.998, 0.84), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 11.43, 0,U1, FT245RL, SSOP28DB, SparkFun, (0.45, 0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 21.59, 11.43, 180,X2, USBSMD, USB-MINIB, SparkFun, (0.85, 0.45), R180|
 
@@ -58,14 +57,14 @@ Contents
 - oompName: FT245RL Breakout
 - sources: All source files from https://github.com/sparkfun/FT245RL_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/7841
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
-- oompPart: CAPE-0402-X-NF100-01, C2, 5.08, 11.43, 270
-- oompPart: CAPE-0402-X-NF100-01, C3, 15.239999999999998, 17.779999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 20.32, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.8636, 1.016, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 25.3492, 21.336, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 2.5019, 7.236499877999999, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
+- oompPart: CAPC-0402-X-NF100-V50, C2, 5.08, 11.43, 270
+- oompPart: CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 17.779999999999998, 0
+- oompPart: HEAD-I01-X-PI09-01, JP1, 2.54, 2.54, 0
+- oompPart: HEAD-I01-X-PI09-01, JP2, 22.86, 20.32, 180
+- oompPart: HEAD-I01-X-PI2-01, JP3, 0.8636, 1.016, 0
+- oompPart: HEAD-I01-X-PI2-01, JP4, 25.3492, 21.336, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 2.5019, 7.236499877999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 21.59, 11.43, 180
 - rawPart: C1, 10uF, CPOL_1206, SparkFun-Nate, (0.1, 0.45), R180
@@ -78,6 +77,7 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNC2, SJ_2S-NOTRACE, SparkFun, (0.0985, 0.28490157), R0
 - rawPart: U1, FT245RL, SSOP28DB, SparkFun, (0.45, 0.45), R0
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.85, 0.45), R180
+- oompID: PROJ-SPAR-7841-STAN-01
 
 
 

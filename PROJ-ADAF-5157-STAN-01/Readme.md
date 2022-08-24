@@ -144,6 +144,7 @@ Contents
 - rawPart: X28, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -76.2), MR0
 - rawPart: X29, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -76.2), MR0
 - rawPart: X30, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -76.2), MR0
+- oompID: PROJ-ADAF-5157-STAN-01
 
 
 

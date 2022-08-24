@@ -36,15 +36,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 2.54, 4.444999999999999, 270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.1, 0.175), R270|
-|CAPE-0603-X-NF100-01, C2, 13.97, 17.779999999999998, 180,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.7), R180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180,C5, 10uF, EIA3216, SparkFun-Capacitors, (1, 0.675), R180|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180,C5, 10uF, EIA3216, SparkFun-Capacitors, (1, 0.675), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 25.526999999999997, 5.715, 180,F1, 500mA, PTC-1206, SparkFun, (1.005, 0.225), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 20.32, 0,JP1, 1X09, SparkFun, (0.3, 0.8), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 2.54, 0,JP2, 1X09, SparkFun, (0.3, 0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 7.619999999999999, 90,JP3, 1X04, SparkFun, (0.1, 0.3), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 30.479999999999997, 2.54, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.2, 0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 3.8099999999999996, 20.32, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.15, 0.8), R0|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
+|HEAD-I01-X-PI2-01, JP5, 30.479999999999997, 2.54, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.2, 0.1), R0|
+|HEAD-I01-X-PI2-01, JP6, 3.8099999999999996, 20.32, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.15, 0.8), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 29.845, 11.43, 180,JP7, USB_MICROB_PLUGCONN-11752, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (1.175, 0.45), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, LED1, 3.8099999999999996, 4.444999999999999, 0,LED1, Red, LED-0603, SparkFun-LED, (0.15, 0.175), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, LED2, 3.8099999999999996, 18.415, 180,LED2, Green, LED-0603, SparkFun-LED, (0.15, 0.725), R180|
@@ -64,15 +64,15 @@ Contents
 - oompName: FT232RL USB Breakout
 - sources: All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12731
-- oompPart: CAPE-0603-X-NF100-01, C1, 2.54, 4.444999999999999, 270
-- oompPart: CAPE-0603-X-NF100-01, C2, 13.97, 17.779999999999998, 180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180
+- oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 4.444999999999999, 270
+- oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 17.779999999999998, 180
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 25.526999999999997, 5.715, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 20.32, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 7.619999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 30.479999999999997, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 3.8099999999999996, 20.32, 0
+- oompPart: HEAD-I01-X-PI09-01, JP1, 7.619999999999999, 20.32, 0
+- oompPart: HEAD-I01-X-PI09-01, JP2, 7.619999999999999, 2.54, 0
+- oompPart: HEAD-I01-X-PI04-01, JP3, 2.54, 7.619999999999999, 90
+- oompPart: HEAD-I01-X-PI2-01, JP5, 30.479999999999997, 2.54, 0
+- oompPart: HEAD-I01-X-PI2-01, JP6, 3.8099999999999996, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 29.845, 11.43, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED1, 3.8099999999999996, 4.444999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED2, 3.8099999999999996, 18.415, 180
@@ -96,6 +96,7 @@ Contents
 - rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.1, 0.725), R270
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.875, 0.45), R90
 - rawPart: U1, FT232R, SSOP28DB, SparkFun, (0.525, 0.45), R0
+- oompID: PROJ-SPAR-12731-STAN-01
 
 
 

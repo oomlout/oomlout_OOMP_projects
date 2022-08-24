@@ -124,6 +124,7 @@ Contents
 - rawPart: R9, 100, _0603MP, microbuilder, (470, 425), R270
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (609, 279), R0
 - rawPart: U$7, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (820, 466), R0
+- oompID: PROJ-ADAF-2741-STAN-01
 
 
 

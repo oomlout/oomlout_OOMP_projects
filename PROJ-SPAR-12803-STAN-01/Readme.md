@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0,C1, 10nF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.25), R0|
-|CAPE-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90,C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.35), R90|
-|CAPE-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270,C3, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5), R270|
-|CAPE-0603-X-NF100-01, C4, 15.239999999999998, 10.16, 270,C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.4), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.27, 0,JP1, 1X06, SparkFun-Connectors, (0.2, 0.05), R0|
+|CAPC-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0,C1, 10nF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.25), R0|
+|CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90,C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.35), R90|
+|CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270,C3, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5), R270|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 10.16, 0,U1, ADXL377, LFCSP_LQ-16, SparkFun-Sensors, (0.45, 0.4), R0|
 
 ## Tags
@@ -54,13 +54,13 @@ Contents
 - oompName: ADXL377 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL377_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12803
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270
-- oompPart: CAPE-0603-X-NF100-01, C4, 15.239999999999998, 10.16, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.43, 6.35, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 8.889999999999999, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 12.7, 270
+- oompPart: CAPC-0603-X-NF100-V50, C4, 15.239999999999998, 10.16, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.509999999999998, 16.509999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 1.27, 0
+- oompPart: HEAD-I01-X-PI06-01, JP1, 5.08, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 10.16, 0
 - rawPart: C1, 10nF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.25), R0
 - rawPart: C2, 10nF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.35), R90
@@ -70,6 +70,7 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.05), R0
 - rawPart: JP1, 1X06, SparkFun-Connectors, (0.2, 0.05), R0
 - rawPart: U1, ADXL377, LFCSP_LQ-16, SparkFun-Sensors, (0.45, 0.4), R0
+- oompID: PROJ-SPAR-12803-STAN-01
 
 
 

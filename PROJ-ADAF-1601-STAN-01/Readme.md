@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 34.544000000000004, 45.211999999999996, 0,C1, 10uF, C0805K, adafruit, (1.36, 1.78), R0|
-|CAPE-0805-X-NF100-01, C2, 41.148, 44.958, 0,C2, 0.1uF, C0805K, adafruit, (1.62, 1.77), R0|
-|CAPE-0805-X-NF100-01, C3, 27.178, 42.672, 180,C3, 0.1uF, C0805K, adafruit, (1.07, 1.68), R180|
-|CAPE-0805-X-NF100-01, C4, 41.148, 47.244, 0,C4, 0.1uF, C0805K, adafruit, (1.62, 1.86), R0|
-|CAPE-0805-X-UNMATCHED-01, C5, 34.544000000000004, 38.354, 180,C5, 10uF, C0805K, adafruit, (1.36, 1.51), R180|
+|CAPC-0805-X-UNMATCHED-01, C1, 34.544000000000004, 45.211999999999996, 0,C1, 10uF, C0805K, adafruit, (1.36, 1.78), R0|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C5, 34.544000000000004, 38.354, 180,C5, 10uF, C0805K, adafruit, (1.36, 1.51), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 34.29, 41.65599999999999, 0,IC4, MIC5225-3.3, SOT23-5L, adafruit, (1.35, 1.64), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 27.432, 39.37, 270,IC5, AXP803, SOT23, adafruit, (1.08, 1.55), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 28.448, 81.026, 0,JP1, 2X13, microbuilder, (1.12, 3.19), R0|
@@ -60,6 +60,8 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 2.921, 22.86, M270,SW2, TACT_PANA-EVQ, microbuilder, (0.115, 0.9), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 2.921, 33.019999999999996, M270,SW3, TACT_PANA-EVQ, microbuilder, (0.115, 1.3), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 2.921, 43.18, M270,SW4, TACT_PANA-EVQ, microbuilder, (0.115, 1.7), MR270|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 31.241999999999997, 44.958, M0,U$2, DISP_LCD_1.28IN_240X320_50PIN, TFT_2.83IN_240X320_50PIN, microbuilder, (1.23, 1.77), MR0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 0.0, M0,U$3, RASPBERRYPI_B_MODELB_V2, RASPBERRYPIV2_SHIELD, microbuilder, (0, 0), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 41.148, 39.878, 180,U2, STMPE610, QFN16_3MM, microbuilder, (1.62, 1.57), R180|
 
 ## Tags
@@ -73,11 +75,11 @@ Contents
 - oompName: Adafruit PiTFT 2.8 inch Display PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1601
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 34.544000000000004, 45.211999999999996, 0
-- oompPart: CAPE-0805-X-NF100-01, C2, 41.148, 44.958, 0
-- oompPart: CAPE-0805-X-NF100-01, C3, 27.178, 42.672, 180
-- oompPart: CAPE-0805-X-NF100-01, C4, 41.148, 47.244, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 34.544000000000004, 38.354, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 34.544000000000004, 45.211999999999996, 0
+- oompPart: CAPC-0805-X-NF100-V50, C2, 41.148, 44.958, 0
+- oompPart: CAPC-0805-X-NF100-V50, C3, 27.178, 42.672, 180
+- oompPart: CAPC-0805-X-NF100-V50, C4, 41.148, 47.244, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 34.544000000000004, 38.354, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 34.29, 41.65599999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 27.432, 39.37, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 28.448, 81.026, 0
@@ -97,8 +99,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 2.921, 22.86, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 2.921, 33.019999999999996, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 2.921, 43.18, M270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 31.241999999999997, 44.958, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 0.0, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 31.241999999999997, 44.958, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 0.0, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 51.308, 18.796, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 11.43, 19.049999999999997, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 3.8099999999999996, 3.8099999999999996, M90
@@ -139,6 +141,7 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.05, 0.15), MR0
 - rawPart: U$18, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.03, 2.955), R0
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.62, 1.57), R180
+- oompID: PROJ-ADAF-1601-STAN-01
 
 
 

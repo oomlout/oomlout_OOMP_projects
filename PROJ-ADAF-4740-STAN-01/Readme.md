@@ -97,6 +97,7 @@ Contents
 - rawPart: R6, 2.2K, 0603-NO, microbuilder, (0.05, 0.57), R270
 - rawPart: X1, 3.5mm, STX3100, microbuilder, (1.42, 0.675), MR270
 - rawPart: X2, 3.5mm, STX3100, microbuilder, (0.58, 0.675), MR270
+- oompID: PROJ-ADAF-4740-STAN-01
 
 
 

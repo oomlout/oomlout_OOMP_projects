@@ -38,8 +38,12 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CON1, 0.0, 25.717499999999998, 0,CON1, PINHD-1X40-0.5MM, 1X40-0.5MM, adafruit, (0, 1.0125), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, -2.54, 0,JP1, 2X20-BIG, adafruit, (0, -0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -26.669999999999998, 26.669999999999998, 90,JP2, 1X20-BIG, adafruit, (-1.05, 1.05), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 26.669999999999998, 270,JP3, 1X20-BIG, adafruit, (1.05, 1.05), R270|
+|<table><tr><td>![HEAD-I01-X-PI20-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI20-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI20-01<br>2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td><td>[H20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI20-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI20-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI20-01<br>2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td><td>[H20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 19.812, 0,U$1, PINHD-1X40-0.6MM, 1X40-0.6MM, adafruit, (0, 0.78), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 15.239999999999998, 0,U$2, PINHD-1X40-0.7MM, 1X40-0.7MM, adafruit, (0, 0.6), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 11.43, 0,U$3, PINHD-1X40-0.8MM, 1X40-0.8MM, adafruit, (0, 0.45), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 0.0, 6.35, 0,U$4, PINHD-1X40-1MM, 1X40-1MM, adafruit, (0, 0.25), R0|
 
 ## Tags
 
@@ -54,12 +58,12 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1325
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CON1, 0.0, 25.717499999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, -2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -26.669999999999998, 26.669999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 26.669999999999998, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 19.812, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 15.239999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 11.43, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 0.0, 6.35, 0
+- oompPart: HEAD-I01-X-PI20-01, JP2, -26.669999999999998, 26.669999999999998, 90
+- oompPart: HEAD-I01-X-PI20-01, JP3, 26.669999999999998, 26.669999999999998, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 19.812, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 15.239999999999998, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 0.0, 11.43, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 0.0, 6.35, 0
 - rawPart: CON1, PINHD-1X40-0.5MM, 1X40-0.5MM, adafruit, (0, 1.0125), R0
 - rawPart: JP1, 2X20-BIG, adafruit, (0, -0.1), R0
 - rawPart: JP2, 1X20-BIG, adafruit, (-1.05, 1.05), R90
@@ -68,6 +72,7 @@ Contents
 - rawPart: U$2, PINHD-1X40-0.7MM, 1X40-0.7MM, adafruit, (0, 0.6), R0
 - rawPart: U$3, PINHD-1X40-0.8MM, 1X40-0.8MM, adafruit, (0, 0.45), R0
 - rawPart: U$4, PINHD-1X40-1MM, 1X40-1MM, adafruit, (0, 0.25), R0
+- oompID: PROJ-ADAF-1325-STAN-01
 
 
 

@@ -31,13 +31,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180,C1, 10uF, 0805, microbuilder, (-477.5, 708.12992), R180|
+|CAPC-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180,C1, 10uF, 0805, microbuilder, (-477.5, 708.12992), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180,C2, E3,5-8, adafruit, (-740, 835), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 850.0, 180,J1, TERMBLOCK_1X2-3.5MM, 1X2-3.5MM, microbuilder, (0, 850), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -300.0, 155.0, 180,JP1, 3X04, microbuilder, (-300, 155), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -800.0, 155.0, 180,JP2, 3X04, microbuilder, (-800, 155), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -1150.0, 505.0, 90,JP3, 1X06-CLEANBIG, adafruit, (-1150, 505), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1150.0, 505.0, 90,JP4, 1X06-CLEANBIG, adafruit, (1150, 505), R90|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 800.0, 155.0, 180,JP5, 3X04, microbuilder, (800, 155), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 300.0, 155.0, 180,JP6, 3X04, microbuilder, (300, 155), R180|
 |UNMATCHED-0805-X-UNMATCHED-01, LED1, -320.0, 790.0, 90,LED1, VCC, CHIPLED_0805, microbuilder, (-320, 790), R90|
@@ -68,12 +68,6 @@ Contents
 |<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R24</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R25</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R26</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A0, 885.0, 908.74016, 270,SJ_A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (885, 908.74016), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A1, 785.0, 908.74016, 270,SJ_A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (785, 908.74016), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A2, 685.0, 908.74016, 270,SJ_A2, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (685, 908.74016), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A3, 585.0, 908.74016, 270,SJ_A3, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (585, 908.74016), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A4, 485.0, 908.74016, 270,SJ_A4, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (485, 908.74016), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A5, 385.0, 908.74016, 270,SJ_A5, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (385, 908.74016), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 510.0, 270,U1, PCA9685, TSSOP28, microbuilder, (0, 510), R270|
 
 ## Tags
@@ -87,15 +81,15 @@ Contents
 - oompName: Adafruit 16 Channel PWM Servo Driver PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/815
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 549.40945, 53.74016, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, -745.03937, 938.93701, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 850.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -300.0, 155.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -800.0, 155.0, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -1150.0, 505.0, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1150.0, 505.0, 90
+- oompPart: HEAD-I01-X-PI06-01, JP3, -1150.0, 505.0, 90
+- oompPart: HEAD-I01-X-PI06-01, JP4, 1150.0, 505.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 800.0, 155.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 300.0, 155.0, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED1, -320.0, 790.0, 90
@@ -126,12 +120,12 @@ Contents
 - oompPart: RESE-0805-X-O221-01, R24, 575.0, 435.0, 90
 - oompPart: RESE-0805-X-O221-01, R25, 500.0, 435.0, 90
 - oompPart: RESE-0805-X-O221-01, R26, 425.0, 435.0, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A0, 885.0, 908.74016, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A1, 785.0, 908.74016, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A2, 685.0, 908.74016, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A3, 585.0, 908.74016, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A4, 485.0, 908.74016, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A5, 385.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A0, 885.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A1, 785.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A2, 685.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A3, 585.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A4, 485.0, 908.74016, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A5, 385.0, 908.74016, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$47, -1100.0, 875.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$48, -1100.0, 125.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$49, 1100.0, 875.0, 0
@@ -187,6 +181,7 @@ Contents
 - rawPart: U$49, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 875), R0
 - rawPart: U$50, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 125), R0
 - rawPart: U1, PCA9685, TSSOP28, microbuilder, (0, 510), R270
+- oompID: PROJ-ADAF-815-STAN-01
 
 
 

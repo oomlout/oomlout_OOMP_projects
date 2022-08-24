@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 12.7, 180,JP1, 1X03, SparkFun, (0.5, 0.5), R180|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |RESE-UNMATCHED-X-O221-01, R1, 10.16, 8.889999999999999, 0,R1, 220, AXIAL-0.3, SparkFun, (0.4, 0.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 3.8099999999999996, 0,U1, GP1A57HR, GP1A57HR, SparkFun, (0.4, 0.15), R0|
 
@@ -51,12 +51,13 @@ Contents
 - oompName: Photo Interrupter Breakout
 - sources: All source files from https://github.com/sparkfun/Photo_Interrupter_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9322
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 12.7, 180
+- oompPart: HEAD-I01-X-PI03-01, JP1, 12.7, 12.7, 180
 - oompPart: RESE-UNMATCHED-X-O221-01, R1, 10.16, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 3.8099999999999996, 0
 - rawPart: JP1, 1X03, SparkFun, (0.5, 0.5), R180
 - rawPart: R1, 220, AXIAL-0.3, SparkFun, (0.4, 0.35), R0
 - rawPart: U1, GP1A57HR, GP1A57HR, SparkFun, (0.4, 0.15), R0
+- oompID: PROJ-SPAR-9322-STAN-01
 
 
 

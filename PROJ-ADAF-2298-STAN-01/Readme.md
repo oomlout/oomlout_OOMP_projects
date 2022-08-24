@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90,C1, 10uF, 0805-NO, microbuilder, (25.781, 39.116), R90|
-|CAPE-0805-X-NF100-01, C2, 41.275, 45.593, 90,C2, 0.1uF, 0805-NO, microbuilder, (41.275, 45.593), R90|
-|CAPE-0805-X-NF100-01, C3, 29.337, 43.688, 180,C3, 0.1uF, 0805-NO, microbuilder, (29.337, 43.688), R180|
-|CAPE-0805-X-NF100-01, C4, 38.1, 38.608, 90,C4, 0.1uF, 0805-NO, microbuilder, (38.1, 38.608), R90|
-|CAPE-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0,C5, 10uF, 0805-NO, microbuilder, (18.415, 46.609), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90,C1, 10uF, 0805-NO, microbuilder, (25.781, 39.116), R90|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0,C5, 10uF, 0805-NO, microbuilder, (18.415, 46.609), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.606, 42.164, 180,D1, 1N4148, SOD-323, microbuilder, (22.606, 42.164), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 21.463, 45.339, 270,D2, 1N4148, SOD-323, microbuilder, (21.463, 45.339), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 29.464, 40.894, 270,IC5, APX803, SOT23, adafruit, (29.464, 40.894), R270|
@@ -68,10 +68,9 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 10.795, 81.28, M180,SW2, TACT_PANA-EVQ, microbuilder, (10.795, 81.28), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 44.45, 81.28, M180,SW3, TACT_PANA-EVQ, microbuilder, (44.45, 81.28), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 22.225, 81.28, M180,SW4, TACT_PANA-EVQ, microbuilder, (22.225, 81.28), MR180|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 31.115, 45.212, M0,U$2, DISP_LCD_240X320_50PIN_2.8IN, TFT_2.83IN_240X320_50PIN, microbuilder, (31.115, 45.212), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 25.146, 65.532, 90,U1, CAT24C32, SOIC8_150MIL, microbuilder, (25.146, 65.532), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 41.91, 40.386, 180,U2, STMPE811, QFN16_3MM, microbuilder, (41.91, 40.386), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ, 19.304, 61.087, 0,WPJ, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (19.304, 61.087), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ1, 17.399, 55.499, 270,WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (17.399, 55.499), R270|
 
 ## Tags
 
@@ -84,11 +83,11 @@ Contents
 - oompName: Adafruit PiTFT Plus 2.8 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2298
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90
-- oompPart: CAPE-0805-X-NF100-01, C2, 41.275, 45.593, 90
-- oompPart: CAPE-0805-X-NF100-01, C3, 29.337, 43.688, 180
-- oompPart: CAPE-0805-X-NF100-01, C4, 38.1, 38.608, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90
+- oompPart: CAPC-0805-X-NF100-V50, C2, 41.275, 45.593, 90
+- oompPart: CAPC-0805-X-NF100-V50, C3, 29.337, 43.688, 180
+- oompPart: CAPC-0805-X-NF100-V50, C4, 38.1, 38.608, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 18.415, 46.609, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.606, 42.164, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 21.463, 45.339, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 29.464, 40.894, 270
@@ -116,7 +115,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 10.795, 81.28, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 44.45, 81.28, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 22.225, 81.28, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 31.115, 45.212, M0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 31.115, 45.212, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 3.2766, 81.7118, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 48.006, 3.302, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 11.43, 19.05, 180
@@ -127,8 +126,8 @@ Contents
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$40, 3.2766, 23.7236, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 25.146, 65.532, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 41.91, 40.386, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ, 19.304, 61.087, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, WPJ1, 17.399, 55.499, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, WPJ, 19.304, 61.087, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, WPJ1, 17.399, 55.499, 270
 - rawPart: C1, 10uF, 0805-NO, microbuilder, (25.781, 39.116), R90
 - rawPart: C2, 0.1uF, 0805-NO, microbuilder, (41.275, 45.593), R90
 - rawPart: C3, 0.1uF, 0805-NO, microbuilder, (29.337, 43.688), R180
@@ -174,6 +173,7 @@ Contents
 - rawPart: U2, STMPE811, QFN16_3MM, microbuilder, (41.91, 40.386), R180
 - rawPart: WPJ, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (19.304, 61.087), R0
 - rawPart: WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (17.399, 55.499), R270
+- oompID: PROJ-ADAF-2298-STAN-01
 
 
 

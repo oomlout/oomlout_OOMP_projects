@@ -78,7 +78,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C10, 603.0, 1465.0, 180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C10, 603.0, 1465.0, 180"
         },
         {
             "name": "oompPart",
@@ -90,7 +90,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C13, 1100.0, 850.0, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C13, 1100.0, 850.0, 0"
         },
         {
             "name": "oompPart",
@@ -126,23 +126,23 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 2789.0, 1503.62992, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 2789.0, 1503.62992, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 105.0, 95.0, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 105.0, 95.0, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 70.0, 1500.0, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 70.0, 1500.0, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 2000.0, 1116.0, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 2000.0, 1116.0, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GROUND, 425.0, 1300.0, M180"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, GROUND, 425.0, 1300.0, M180"
         },
         {
             "name": "oompPart",
@@ -178,11 +178,11 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 1190.0, 2000.0, 0"
+            "value": "HEAD-I01-X-PI10-01, JP6, 1190.0, 2000.0, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, L, 1100.0, 1660.0, 90"
+            "value": "LEDS-0805-X-UNMATCHED-01, L, 1100.0, 1660.0, 90"
         },
         {
             "name": "oompPart",
@@ -226,7 +226,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET-EN, 1100.0, 620.0, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, RESET-EN, 1100.0, 620.0, 0"
         },
         {
             "name": "oompPart",

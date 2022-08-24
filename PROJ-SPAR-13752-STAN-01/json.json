@@ -38,11 +38,11 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C1, 47.625, 14.477999999999998, 0"
+            "value": "CAPC-0603-X-NF100-V50, C1, 47.625, 14.477999999999998, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C2, 48.387, 12.318999999999999, 180"
+            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C2, 48.387, 12.318999999999999, 180"
         },
         {
             "name": "oompPart",
@@ -50,19 +50,19 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF220-01, C4, 19.049999999999997, 8.254999999999999, 0"
+            "value": "CAPC-0603-X-NF220-V50, C4, 19.049999999999997, 8.254999999999999, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF220-01, C5, 32.385, 8.382, 180"
+            "value": "CAPC-0603-X-NF220-V50, C5, 32.385, 8.382, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C6, 32.257999999999996, 13.334999999999999, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C6, 32.257999999999996, 13.334999999999999, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C7, 11.43, 27.94, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C7, 11.43, 27.94, 0"
         },
         {
             "name": "oompPart",
@@ -142,19 +142,19 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 29.209999999999997, 21.081999999999997, 180"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 29.209999999999997, 21.081999999999997, 180"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 39.37, 21.59, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 39.37, 21.59, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ3, 19.049999999999997, 25.4, 90"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 19.049999999999997, 25.4, 90"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 29.209999999999997, 15.239999999999998, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 29.209999999999997, 15.239999999999998, 0"
         },
         {
             "name": "oompPart",

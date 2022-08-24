@@ -38,9 +38,9 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.622, 6.858, 270,JP1, SCREWTERMINAL-3.5MM-2, SparkFun, (0.93, 0.27), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -2.54, 5.08, 90,JP2, JST-3-PTH, SparkFun, (-0.1, 0.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.049999999999997, 6.35, 270,JP3, 1X02, SparkFun-Connectors, (0.75, 0.25), R270|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.0, 1.5239999999999998, 90,JP4, SCREWTERMINAL-3.5MM-3, SparkFun, (0, 0.06), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 5.08, 2.54, 90,JP5, 1X03, SparkFun, (0.2, 0.1), R90|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 5.08, 270,JP8, JST-2-PTH, SparkFun, (0.85, 0.2), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.43, 5.08, 270,Q1, RFP30N6LE, TO220V, SparkFun, (0.45, 0.2), R270|
 |RESE-UNMATCHED-X-O103-01, R1, 15.239999999999998, 5.08, 90,R1, 10K, AXIAL-0.3, SparkFun, (0.6, 0.2), R90|
@@ -58,9 +58,9 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12959
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.622, 6.858, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -2.54, 5.08, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 19.049999999999997, 6.35, 270
+- oompPart: HEAD-I01-X-PI02-01, JP3, 19.049999999999997, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.0, 1.5239999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 5.08, 2.54, 90
+- oompPart: HEAD-I01-X-PI03-01, JP5, 5.08, 2.54, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 5.08, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.43, 5.08, 270
 - oompPart: RESE-UNMATCHED-X-O103-01, R1, 15.239999999999998, 5.08, 90
@@ -72,6 +72,7 @@ Contents
 - rawPart: JP8, JST-2-PTH, SparkFun, (0.85, 0.2), R270
 - rawPart: Q1, RFP30N6LE, TO220V, SparkFun, (0.45, 0.2), R270
 - rawPart: R1, 10K, AXIAL-0.3, SparkFun, (0.6, 0.2), R90
+- oompID: PROJ-SPAR-12959-STAN-01
 
 
 

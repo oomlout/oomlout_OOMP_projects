@@ -75,6 +75,7 @@ Contents
 - rawPart: S1, BUTTON, TACTILE-PTH-SIDEEZ, SparkFun-Electromechanical, (1.6, 0.4), R90
 - rawPart: U1, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (0.85, 1.3), R180
 - rawPart: Y1, 32.768kHz, TC26HEZ, SparkFun-FreqCtrl, (0.65, 1.6), R90
+- oompID: PROJ-SPAR-11178-STAN-01
 
 
 

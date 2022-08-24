@@ -36,25 +36,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, 1425.0, 625.0, 270,C1, 10uF, 0603, SparkFun-Capacitors, (1425, 625), R270|
-|CAPE-0603-X-UNMATCHED-01, C2, 1370.0, 625.0, 270,C2, 1.0uF, 0603, SparkFun-Capacitors, (1370, 625), R270|
-|CAPE-0603-X-NF100-01, C3, 1315.0, 625.0, 270,C3, 0.1uF, 0603, SparkFun-Capacitors, (1315, 625), R270|
-|CAPE-0603-X-NF100-01, C4, 3350.0, 350.0, 225,C4, 0.1uF, 0603, SparkFun-Capacitors, (3350, 350), R225|
-|CAPE-0603-X-UF22D-01, C5, 150.0, 527.0, 0,C5, 2.2uF, 0603, SparkFun-Capacitors, (150, 527), R0|
-|CAPE-0603-X-NF100-01, C6, 145.0, 100.0, 270,C6, 0.1uF, 0603, SparkFun-Capacitors, (145, 100), R270|
-|CAPE-0603-X-NF100-01, C7, 350.0, 540.0, 180,C7, 0.1uF, 0603, SparkFun-Capacitors, (350, 540), R180|
-|CAPE-0603-X-UNMATCHED-01, C8, 200.0, 100.0, 270,C8, 12pF, 0603, SparkFun-Capacitors, (200, 100), R270|
-|CAPE-0603-X-UNMATCHED-01, C9, 400.0, 100.0, 270,C9, 12pF, 0603, SparkFun-Capacitors, (400, 100), R270|
-|CAPE-0603-X-UNMATCHED-01, C10, 1700.0, 625.0, 90,C10, 15pF, 0603, SparkFun-Capacitors, (1700, 625), R90|
-|CAPE-0603-X-UNMATCHED-01, C11, 1500.0, 625.0, 90,C11, 15pF, 0603, SparkFun-Capacitors, (1500, 625), R90|
-|CAPE-0603-X-UNMATCHED-01, C12, 500.0, 900.0, 180,C12, 1.0uF, 0603, SparkFun-Capacitors, (500, 900), R180|
-|CAPE-0603-X-NF100-01, C13, 500.0, 600.0, 180,C13, 0.1uF, 0603, SparkFun-Capacitors, (500, 600), R180|
-|CAPE-0603-X-NF100-01, C14, 565.0, 100.0, 270,C14, 0.1uF, 0603, SparkFun-Capacitors, (565, 100), R270|
-|CAPE-0603-X-UNMATCHED-01, C15, 445.0, 1135.0, 90,C15, 1.0uF, 0603, SparkFun-Capacitors, (445, 1135), R90|
-|CAPE-0603-X-NF100-01, C16, 445.0, 1325.0, 270,C16, 0.1uF, 0603, SparkFun-Capacitors, (445, 1325), R270|
-|CAPE-0603-X-UNMATCHED-01, C17, 500.0, 1325.0, 270,C17, 10uF, 0603, SparkFun-Capacitors, (500, 1325), R270|
-|CAPE-0603-X-UNMATCHED-01, C18, 1750.0, 300.0, 0,C18, 1.0uF, 0603, SparkFun-Capacitors, (1750, 300), R0|
-|CAPE-0603-X-UNMATCHED-01, C19, 1750.0, 500.0, 180,C19, 1.0uF, 0603, SparkFun-Capacitors, (1750, 500), R180|
+|CAPC-0603-X-UNMATCHED-01, C1, 1425.0, 625.0, 270,C1, 10uF, 0603, SparkFun-Capacitors, (1425, 625), R270|
+|CAPC-0603-X-UNMATCHED-01, C2, 1370.0, 625.0, 270,C2, 1.0uF, 0603, SparkFun-Capacitors, (1370, 625), R270|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UF22D-01, C5, 150.0, 527.0, 0,C5, 2.2uF, 0603, SparkFun-Capacitors, (150, 527), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C7</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C8, 200.0, 100.0, 270,C8, 12pF, 0603, SparkFun-Capacitors, (200, 100), R270|
+|CAPC-0603-X-UNMATCHED-01, C9, 400.0, 100.0, 270,C9, 12pF, 0603, SparkFun-Capacitors, (400, 100), R270|
+|CAPC-0603-X-UNMATCHED-01, C10, 1700.0, 625.0, 90,C10, 15pF, 0603, SparkFun-Capacitors, (1700, 625), R90|
+|CAPC-0603-X-UNMATCHED-01, C11, 1500.0, 625.0, 90,C11, 15pF, 0603, SparkFun-Capacitors, (1500, 625), R90|
+|CAPC-0603-X-UNMATCHED-01, C12, 500.0, 900.0, 180,C12, 1.0uF, 0603, SparkFun-Capacitors, (500, 900), R180|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C13</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C14</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C15, 445.0, 1135.0, 90,C15, 1.0uF, 0603, SparkFun-Capacitors, (445, 1135), R90|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C16</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C17, 500.0, 1325.0, 270,C17, 10uF, 0603, SparkFun-Capacitors, (500, 1325), R270|
+|CAPC-0603-X-UNMATCHED-01, C18, 1750.0, 300.0, 0,C18, 1.0uF, 0603, SparkFun-Capacitors, (1750, 300), R0|
+|CAPC-0603-X-UNMATCHED-01, C19, 1750.0, 500.0, 180,C19, 1.0uF, 0603, SparkFun-Capacitors, (1750, 500), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 850.0, 745.0, 180,D1, BLUE, LED-0603, SparkFun-LED, (850, 745), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 850.0, 800.0, 180,D2, GREEN, LED-0603, SparkFun-LED, (850, 800), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D3, 850.0, 855.0, 180,D3, Yellow, LED-0603, SparkFun-LED, (850, 855), R180|
@@ -62,10 +62,6 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, D5, 850.0, 650.0, 180,D5, BLUE, LED-0603, SparkFun-LED, (850, 650), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 365.0, 750.0, 0,D6, PRTR5V0U2F, SOT886, SparkFun-IC-Power, (365, 750), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, E1, 570.0, 1135.0, 90,E1, SPH0641LM4H-1, SPH0641LM4H-1_MICROPHONE, SparkFun-Sensors, (570, 1135), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 50.0, 1450.0, 0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (50, 1450), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 50.0, 1450.0, M0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (50, 1450), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 3650.0, 50.0, 0,FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (3650, 50), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 3650.0, 50.0, M0,FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (3650, 50), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 250.0, 750.0, 270,J1, USB, USB-C-16P, SparkFun-Connectors, (250, 750), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 852.0, 1226.0, 270,J2, CORTEX_JTAG_DEBUG_MINIMUM_PTH, 2X5-PTH-1.27MM, SparkFun-Connectors, (852, 1226), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 150.0, 350.0, 270,J3, CORTEX_JTAG_DEBUG_PTH, 2X5-PTH-1.27MM, SparkFun-Connectors, (150, 350), R270|
@@ -99,8 +95,6 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 3500.0, 202.5, 225,S2, TGT_RST, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (3500, 202.5), R225|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TGT_BOOT, 690.0, 95.0, 90,TGT_BOOT, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (690, 95), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, TGT_SWD_CLK, 785.0, 472.5, 270,TGT_SWD_CLK, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (785, 472.5), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 350.0, 300.0, M0,TP1, INTFC_SWDIO, PAD.03X.03, SparkFun-Connectors, (350, 300), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 250.0, 400.0, M0,TP2, INTFC_SWDCLK, PAD.03X.03, SparkFun-Connectors, (250, 400), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 400.0, 350.0, 180,U1, DAPLINK_KL26Z128VFM4, QFN-32-NOPAD, SparkFun-IC-Microcontroller, (400, 350), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 1500.0, 1100.0, 90,U2, ARTEMIS_MODULESMD, ARTEMIS_FP, SparkFun-IC-Microcontroller, (1500, 1100), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 605.0, 1325.0, 90,U3, LIS2DH12, LGA-12-LISDH12, SparkFun-Sensors, (605, 1325), R90|
@@ -120,25 +114,25 @@ Contents
 - oompName: ArtemisDevKit
 - sources: All source files from https://github.com/sparkfun/ArtemisDevKit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16828
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 1425.0, 625.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 1370.0, 625.0, 270
-- oompPart: CAPE-0603-X-NF100-01, C3, 1315.0, 625.0, 270
-- oompPart: CAPE-0603-X-NF100-01, C4, 3350.0, 350.0, 225
-- oompPart: CAPE-0603-X-UF22D-01, C5, 150.0, 527.0, 0
-- oompPart: CAPE-0603-X-NF100-01, C6, 145.0, 100.0, 270
-- oompPart: CAPE-0603-X-NF100-01, C7, 350.0, 540.0, 180
-- oompPart: CAPE-0603-X-UNMATCHED-01, C8, 200.0, 100.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C9, 400.0, 100.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C10, 1700.0, 625.0, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C11, 1500.0, 625.0, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C12, 500.0, 900.0, 180
-- oompPart: CAPE-0603-X-NF100-01, C13, 500.0, 600.0, 180
-- oompPart: CAPE-0603-X-NF100-01, C14, 565.0, 100.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C15, 445.0, 1135.0, 90
-- oompPart: CAPE-0603-X-NF100-01, C16, 445.0, 1325.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C17, 500.0, 1325.0, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C18, 1750.0, 300.0, 0
-- oompPart: CAPE-0603-X-UNMATCHED-01, C19, 1750.0, 500.0, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 1425.0, 625.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 1370.0, 625.0, 270
+- oompPart: CAPC-0603-X-NF100-V50, C3, 1315.0, 625.0, 270
+- oompPart: CAPC-0603-X-NF100-V50, C4, 3350.0, 350.0, 225
+- oompPart: CAPC-0603-X-UF22D-01, C5, 150.0, 527.0, 0
+- oompPart: CAPC-0603-X-NF100-V50, C6, 145.0, 100.0, 270
+- oompPart: CAPC-0603-X-NF100-V50, C7, 350.0, 540.0, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C8, 200.0, 100.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C9, 400.0, 100.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C10, 1700.0, 625.0, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C11, 1500.0, 625.0, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C12, 500.0, 900.0, 180
+- oompPart: CAPC-0603-X-NF100-V50, C13, 500.0, 600.0, 180
+- oompPart: CAPC-0603-X-NF100-V50, C14, 565.0, 100.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C15, 445.0, 1135.0, 90
+- oompPart: CAPC-0603-X-NF100-V50, C16, 445.0, 1325.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C17, 500.0, 1325.0, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C18, 1750.0, 300.0, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C19, 1750.0, 500.0, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 850.0, 745.0, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 850.0, 800.0, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 850.0, 855.0, 180
@@ -146,10 +140,10 @@ Contents
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D5, 850.0, 650.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 365.0, 750.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E1, 570.0, 1135.0, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 50.0, 1450.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 50.0, 1450.0, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 3650.0, 50.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 3650.0, 50.0, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 50.0, 1450.0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 50.0, 1450.0, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 3650.0, 50.0, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 3650.0, 50.0, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 250.0, 750.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 852.0, 1226.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 150.0, 350.0, 270
@@ -183,8 +177,8 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 3500.0, 202.5, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TGT_BOOT, 690.0, 95.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TGT_SWD_CLK, 785.0, 472.5, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 350.0, 300.0, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 250.0, 400.0, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 350.0, 300.0, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP2, 250.0, 400.0, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 400.0, 350.0, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 1500.0, 1100.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 605.0, 1325.0, 90
@@ -264,6 +258,7 @@ Contents
 - rawPart: U5, 3.3V, SOT23-5, SparkFun-IC-Power, (975, 400), R90
 - rawPart: X1, 16MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (300, 100), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (1600, 625), R0
+- oompID: PROJ-SPAR-16828-STAN-01
 
 
 

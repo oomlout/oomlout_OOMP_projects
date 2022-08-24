@@ -61,6 +61,7 @@ Contents
 - rawPart: JP1, 1X08, SparkFun, (0.102, 0.062), R0
 - rawPart: U1, MICRO-SDCARD, MICRO-SDCARD, SparkFun-Boards, (1.85, 0.311), R90
 - rawPart: U2, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.14820005, 0.41969993), R0
+- oompID: PROJ-SPAR-9419-STAN-01
 
 
 

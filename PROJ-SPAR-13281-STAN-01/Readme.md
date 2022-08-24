@@ -36,13 +36,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 13.97, 270,JP1, UL, 1X03, SparkFun-Connectors, (0.85, 0.55), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 13.97, 270,JP2, UR, 1X03, SparkFun-Connectors, (0.65, 0.55), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 13.97, 270,JP3, LL, 1X03, SparkFun-Connectors, (0.45, 0.55), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 6.35, 13.97, 270,JP4, LR, 1X03, SparkFun-Connectors, (0.25, 0.55), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 19.049999999999997, 1.27, 180,JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 27.94, 180,JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 26.669999999999998, 22.86, 270,JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 
 ## Tags
 
@@ -55,13 +55,13 @@ Contents
 - oompName: Load Sensor Combinator
 - sources: All source files from https://github.com/sparkfun/Load_Sensor_Combinator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13281
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 13.97, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 13.97, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 13.97, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 6.35, 13.97, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 19.049999999999997, 1.27, 180
+- oompPart: HEAD-I01-X-PI03-01, JP1, 21.59, 13.97, 270
+- oompPart: HEAD-I01-X-PI03-01, JP2, 16.509999999999998, 13.97, 270
+- oompPart: HEAD-I01-X-PI03-01, JP3, 11.43, 13.97, 270
+- oompPart: HEAD-I01-X-PI03-01, JP4, 6.35, 13.97, 270
+- oompPart: HEAD-I01-X-PI05-01, JP5, 19.049999999999997, 1.27, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 27.94, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 26.669999999999998, 22.86, 270
+- oompPart: HEAD-I01-X-PI03-01, JP7, 26.669999999999998, 22.86, 270
 - rawPart: JP1, UL, 1X03, SparkFun-Connectors, (0.85, 0.55), R270
 - rawPart: JP2, UR, 1X03, SparkFun-Connectors, (0.65, 0.55), R270
 - rawPart: JP3, LL, 1X03, SparkFun-Connectors, (0.45, 0.55), R270
@@ -69,6 +69,7 @@ Contents
 - rawPart: JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180
 - rawPart: JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180
 - rawPart: JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270
+- oompID: PROJ-SPAR-13281-STAN-01
 
 
 

@@ -36,24 +36,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 5.08, 0,FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.2), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 5.08, M0,FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.2), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 35.559999999999995, 34.29, 0,FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (1.4, 1.35), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 35.559999999999995, 34.29, M0,FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (1.4, 1.35), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 11.43, 270,J1, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.45), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 38.099999999999994, 24.13, 90,J2, 1X04_1MM_RA, SparkFun-Connectors, (1.5, 0.95), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 38.099999999999994, 11.43, 90,J3, 1X04_1MM_RA, SparkFun-Connectors, (1.5, 0.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 5.08, 24.13, 270,J4, 1X04_1MM_RA, SparkX, (0.2, 0.95), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 19.049999999999997, 0,JP1, PARTICLE_PHOTONTEMPLATE_NO_STANDOFF, PARTICLE_PHOTON_TEMPLATE_NO_STANDOFF, SparkFun-Boards, (0.85, 0.75), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 34.29, 0,JP2, 1X04, SparkFun-Connectors, (0.7, 1.35), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 22.86, 30.479999999999997, 0,JP3, 1X03, SparkFun-Connectors, (0.9, 1.2), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 20.32, 30.479999999999997, 180,JP4, 1X03, SparkFun-Connectors, (0.8, 1.2), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 15.239999999999998, 3.8099999999999996, 90,JP5, 1X10_NO_SILK, SparkFun-Connectors, (0.6, 0.15), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 17.779999999999998, 3.8099999999999996, 90,JP6, 1X10_NO_SILK, SparkFun-Connectors, (0.7, 0.15), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 20.32, 6.35, 90,JP7, 1X09_NO_SILK, SparkFun-Connectors, (0.8, 0.25), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 22.86, 6.35, 90,JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.9, 0.25), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 25.4, 6.35, 90,JP9, 1X09_NO_SILK, SparkFun-Connectors, (1, 0.25), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 27.94, 6.35, 90,JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.1, 0.25), R90|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI10-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI10-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI10-01<br>2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td><td>[H10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI10-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI10-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI10-01<br>2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td><td>[H10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP8</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP9</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP10</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
 
 ## Tags
 
@@ -66,24 +62,24 @@ Contents
 - oompName: Qwiic Shield for Photon
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Photon (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14477
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 5.08, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 5.08, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 35.559999999999995, 34.29, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 35.559999999999995, 34.29, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 5.08, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 5.08, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 35.559999999999995, 34.29, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 35.559999999999995, 34.29, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 11.43, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 38.099999999999994, 24.13, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 38.099999999999994, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 5.08, 24.13, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 19.049999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 34.29, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 22.86, 30.479999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 20.32, 30.479999999999997, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 15.239999999999998, 3.8099999999999996, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 17.779999999999998, 3.8099999999999996, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 20.32, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 22.86, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 25.4, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 27.94, 6.35, 90
+- oompPart: HEAD-I01-X-PI04-01, JP2, 17.779999999999998, 34.29, 0
+- oompPart: HEAD-I01-X-PI03-01, JP3, 22.86, 30.479999999999997, 0
+- oompPart: HEAD-I01-X-PI03-01, JP4, 20.32, 30.479999999999997, 180
+- oompPart: HEAD-I01-X-PI10-01, JP5, 15.239999999999998, 3.8099999999999996, 90
+- oompPart: HEAD-I01-X-PI10-01, JP6, 17.779999999999998, 3.8099999999999996, 90
+- oompPart: HEAD-I01-X-PI09-01, JP7, 20.32, 6.35, 90
+- oompPart: HEAD-I01-X-PI09-01, JP8, 22.86, 6.35, 90
+- oompPart: HEAD-I01-X-PI09-01, JP9, 25.4, 6.35, 90
+- oompPart: HEAD-I01-X-PI09-01, JP10, 27.94, 6.35, 90
 - rawPart: FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.2), R0
 - rawPart: FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.25, 0.2), MR0
 - rawPart: FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (1.4, 1.35), R0
@@ -102,6 +98,7 @@ Contents
 - rawPart: JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.9, 0.25), R90
 - rawPart: JP9, 1X09_NO_SILK, SparkFun-Connectors, (1, 0.25), R90
 - rawPart: JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.1, 0.25), R90
+- oompID: PROJ-SPAR-14477-STAN-01
 
 
 

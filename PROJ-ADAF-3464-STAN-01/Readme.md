@@ -85,6 +85,7 @@ Contents
 - rawPart: SW5, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.37, 0.65), R180
 - rawPart: SW8, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.0425, 0.59), R180
 - rawPart: U1, ADS1015, MSOP10, microbuilder, (1.23, 0.845), R270
+- oompID: PROJ-ADAF-3464-STAN-01
 
 
 

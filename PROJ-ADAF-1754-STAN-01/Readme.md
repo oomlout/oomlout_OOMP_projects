@@ -37,8 +37,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 26.669999999999998, 90,JP1, PI, RASBERRYPI_IDC, microbuilder, (0, 1.05), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 0.0, 270,JP2, Right, 1X13_ROUND_70, microbuilder, (0.2, 0), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -5.08, 0.0, 270,JP3, Left, 1X13_ROUND_70, microbuilder, (-0.2, 0), R270|
+|HEAD-I01-X-PI13-01, JP2, 5.08, 0.0, 270,JP2, Right, 1X13_ROUND_70, microbuilder, (0.2, 0), R270|
+|HEAD-I01-X-PI13-01, JP3, -5.08, 0.0, 270,JP3, Left, 1X13_ROUND_70, microbuilder, (-0.2, 0), R270|
 
 ## Tags
 
@@ -52,8 +52,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1754
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 26.669999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 0.0, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -5.08, 0.0, 270
+- oompPart: HEAD-I01-X-PI13-01, JP2, 5.08, 0.0, 270
+- oompPart: HEAD-I01-X-PI13-01, JP3, -5.08, 0.0, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -5.08, 19.049999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 5.08, 19.049999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 5.08, -19.049999999999997, 0
@@ -65,6 +65,7 @@ Contents
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.75), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, -0.75), R0
 - rawPart: U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.2, -0.75), R0
+- oompID: PROJ-ADAF-1754-STAN-01
 
 
 

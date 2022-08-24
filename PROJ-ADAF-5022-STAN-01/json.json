@@ -38,19 +38,19 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C3, 8.509, -4.0005, 90"
+            "value": "CAPC-0805-X-UNMATCHED-01, C3, 8.509, -4.0005, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C4, 16.1925, -3.7464999999999997, 270"
+            "value": "CAPC-0603-X-UNMATCHED-01, C4, 16.1925, -3.7464999999999997, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C5, 15.4305, -1.3335, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C5, 15.4305, -1.3335, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C8, 14.5415, -3.8734999999999995, 270"
+            "value": "CAPC-0805-X-UNMATCHED-01, C8, 14.5415, -3.8734999999999995, 270"
         },
         {
             "name": "oompPart",
@@ -90,23 +90,23 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RST, 8.889999999999999, -3.302, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, RST, 8.889999999999999, -3.302, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SWC, 11.43, -3.302, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SWC, 11.43, -3.302, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SWD, 13.97, -3.302, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SWD, 13.97, -3.302, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 26.0985, -4.953, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 26.0985, -4.953, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 26.034999999999997, 4.8895, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP2, 26.034999999999997, 4.8895, M0"
         },
         {
             "name": "oompPart",

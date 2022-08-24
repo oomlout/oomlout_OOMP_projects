@@ -36,10 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 3.8099999999999996, 180,JP1, 1X04, SparkFun-Connectors, (0.75, 0.15), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 1.27, 180,JP2, 1X08, SparkFun-Connectors, (0.75, 0.05), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.016, 30.733999999999998, 0,JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.04, 1.21), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.304, 8.636000000000001, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.34), R0|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
 |UNMATCHED-0603-X-UNMATCHED-01, LED1, 2.54, 29.209999999999997, 0,LED1, Red, LED-0603, SparkFun-LED, (0.1, 1.15), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, LED2, 6.35, 29.209999999999997, 0,LED2, Yellow, LED-0603, SparkFun-LED, (0.25, 1.15), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, LED3, 10.16, 29.209999999999997, 0,LED3, Green, LED-0603, SparkFun-LED, (0.4, 1.15), R0|
@@ -68,10 +66,10 @@ Contents
 - oompName: Papilio Button LED Wing
 - sources: All source files from https://github.com/sparkfun/Papilio_Button_LED_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11509
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 3.8099999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 1.016, 30.733999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.304, 8.636000000000001, 0
+- oompPart: HEAD-I01-X-PI04-01, JP1, 19.049999999999997, 3.8099999999999996, 180
+- oompPart: HEAD-I01-X-PI08-01, JP2, 19.049999999999997, 1.27, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 1.016, 30.733999999999998, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 19.304, 8.636000000000001, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED1, 2.54, 29.209999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED2, 6.35, 29.209999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED3, 10.16, 29.209999999999997, 0
@@ -108,6 +106,7 @@ Contents
 - rawPart: S2, Button, 2, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.15, 0.85), R90
 - rawPart: S3, Button, 3, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.45, 0.5), R90
 - rawPart: S4, Button, 4, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.45, 0.85), R90
+- oompID: PROJ-SPAR-11509-STAN-01
 
 
 

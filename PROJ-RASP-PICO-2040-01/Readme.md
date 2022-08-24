@@ -131,3 +131,4 @@ Contents
 - oompSymbol: twoSidedPackage;##ooNumPins@@
 - ooDesignator: U1
 - ooDesignator1: U
+- oompID: PROJ-RASP-PICO-2040-01

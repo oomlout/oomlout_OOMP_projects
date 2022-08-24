@@ -38,51 +38,51 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C1, 9.270999999999999, 12.827, M180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 9.270999999999999, 12.827, M180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UF22D-01, C2, 9.270999999999999, 11.302999999999999, M180"
+            "value": "CAPC-0603-X-UF22D-01, C2, 9.270999999999999, 11.302999999999999, M180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C3, 17.525999999999996, 12.318999999999999, M180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 17.525999999999996, 12.318999999999999, M180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C4, 25.4, 10.1092, M180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C4, 25.4, 10.1092, M180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C5, 16.509999999999998, 28.575, 180"
+            "value": "CAPC-0603-X-NF100-V50, C5, 16.509999999999998, 28.575, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C6, 20.32, 25.4, 270"
+            "value": "CAPC-0603-X-NF100-V50, C6, 20.32, 25.4, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C7, 17.145, 19.049999999999997, 0"
+            "value": "CAPC-0603-X-NF100-V50, C7, 17.145, 19.049999999999997, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C8, 17.525999999999996, 5.715, 0"
+            "value": "CAPC-0603-X-NF100-V50, C8, 17.525999999999996, 5.715, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C9, 14.097000000000001, 5.715, 180"
+            "value": "CAPC-0603-X-NF100-V50, C9, 14.097000000000001, 5.715, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C10, 21.59, 4.444999999999999, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C10, 21.59, 4.444999999999999, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C11, 21.8948, 12.7, 90"
+            "value": "CAPC-0603-X-NF100-V50, C11, 21.8948, 12.7, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C12, 24.13, 7.619999999999999, 270"
+            "value": "CAPC-0603-X-UNMATCHED-01, C12, 24.13, 7.619999999999999, 270"
         },
         {
             "name": "oompPart",
@@ -106,19 +106,19 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 5.08, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 5.08, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 26.669999999999998, 30.479999999999997, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 26.669999999999998, 30.479999999999997, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 26.669999999999998, 30.479999999999997, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 26.669999999999998, 30.479999999999997, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 5.08, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 5.08, 0"
         },
         {
             "name": "oompPart",
@@ -202,11 +202,11 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP1, 10.16, 18.415, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 10.16, 18.415, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TP2, 10.16, 20.955, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP2, 10.16, 20.955, 0"
         },
         {
             "name": "oompPart",

@@ -36,16 +36,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-NF100-01, C1, 15.239999999999998, 27.94, 270,C1, 0.1uF, 0805-NO, microbuilder, (0.6, 1.1), R270|
-|CAPE-0805-X-NF100-01, C2, 13.97, 24.637999999999998, 180,C2, 0.1uF, 0805-NO, microbuilder, (0.55, 0.97), R180|
-|CAPE-0805-X-NF100-01, C3, 30.479999999999997, 27.94, 90,C3, 0.1uF, 0805-NO, microbuilder, (1.2, 1.1), R90|
-|CAPE-0805-X-NF100-01, C4, 31.75, 24.637999999999998, 180,C4, 0.1uF, 0805-NO, microbuilder, (1.25, 0.97), R180|
-|CAPE-0805-X-NF100-01, C5, 30.479999999999997, 8.889999999999999, 270,C5, 0.1uF, 0805-NO, microbuilder, (1.2, 0.35), R270|
-|CAPE-0805-X-UNMATCHED-01, C6, 32.512, 8.889999999999999, 270,C6, 10uF, 0805-NO, microbuilder, (1.28, 0.35), R270|
-|CAPE-0805-X-NF100-01, C7, 30.479999999999997, 2.54, 90,C7, 0.1uF, 0805-NO, microbuilder, (1.2, 0.1), R90|
-|CAPE-0805-X-NF100-01, C8, 15.239999999999998, 8.889999999999999, 270,C8, 0.1uF, 0805-NO, microbuilder, (0.6, 0.35), R270|
-|CAPE-0805-X-UNMATCHED-01, C9, 12.7, 8.889999999999999, 270,C9, 10uF, 0805-NO, microbuilder, (0.5, 0.35), R270|
-|CAPE-0805-X-NF100-01, C10, 15.239999999999998, 2.54, 90,C10, 0.1uF, 0805-NO, microbuilder, (0.6, 0.1), R90|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C6, 32.512, 8.889999999999999, 270,C6, 10uF, 0805-NO, microbuilder, (1.28, 0.35), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C7</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C8</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C9, 12.7, 8.889999999999999, 270,C9, 10uF, 0805-NO, microbuilder, (0.5, 0.35), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C10</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 35.81399999999999, 2.54, 0,D1, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (1.41, 0.1), R0|
 |RESE-0805-X-UNMATCHED-01, R1, 13.97, 21.59, 0,R1, 24, 0805-NO, microbuilder, (0.55, 0.85), R0|
 |RESE-0805-X-UNMATCHED-01, R2, 13.97, 19.049999999999997, 0,R2, 24, 0805-NO, microbuilder, (0.55, 0.75), R0|
@@ -69,16 +69,16 @@ Contents
 - oompName: Adafruit USB Isolator PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-Isolator-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2107
-- oompPart: CAPE-0805-X-NF100-01, C1, 15.239999999999998, 27.94, 270
-- oompPart: CAPE-0805-X-NF100-01, C2, 13.97, 24.637999999999998, 180
-- oompPart: CAPE-0805-X-NF100-01, C3, 30.479999999999997, 27.94, 90
-- oompPart: CAPE-0805-X-NF100-01, C4, 31.75, 24.637999999999998, 180
-- oompPart: CAPE-0805-X-NF100-01, C5, 30.479999999999997, 8.889999999999999, 270
-- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 32.512, 8.889999999999999, 270
-- oompPart: CAPE-0805-X-NF100-01, C7, 30.479999999999997, 2.54, 90
-- oompPart: CAPE-0805-X-NF100-01, C8, 15.239999999999998, 8.889999999999999, 270
-- oompPart: CAPE-0805-X-UNMATCHED-01, C9, 12.7, 8.889999999999999, 270
-- oompPart: CAPE-0805-X-NF100-01, C10, 15.239999999999998, 2.54, 90
+- oompPart: CAPC-0805-X-NF100-V50, C1, 15.239999999999998, 27.94, 270
+- oompPart: CAPC-0805-X-NF100-V50, C2, 13.97, 24.637999999999998, 180
+- oompPart: CAPC-0805-X-NF100-V50, C3, 30.479999999999997, 27.94, 90
+- oompPart: CAPC-0805-X-NF100-V50, C4, 31.75, 24.637999999999998, 180
+- oompPart: CAPC-0805-X-NF100-V50, C5, 30.479999999999997, 8.889999999999999, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 32.512, 8.889999999999999, 270
+- oompPart: CAPC-0805-X-NF100-V50, C7, 30.479999999999997, 2.54, 90
+- oompPart: CAPC-0805-X-NF100-V50, C8, 15.239999999999998, 8.889999999999999, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C9, 12.7, 8.889999999999999, 270
+- oompPart: CAPC-0805-X-NF100-V50, C10, 15.239999999999998, 2.54, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 35.81399999999999, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.874, 4.826, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 37.592, 26.669999999999998, 0
@@ -125,6 +125,7 @@ Contents
 - rawPart: U2, ADuM5000, SOIC16WIDE, microbuilder, (0.9, 0.23), R270
 - rawPart: X2, 05241, USB_HOST-PTH, microbuilder, (1.8, 0.6), R90
 - rawPart: X3, 06564, USB-MINIB_LARGER, microbuilder, (0.2, 0.6), R270
+- oompID: PROJ-ADAF-2107-STAN-01
 
 
 

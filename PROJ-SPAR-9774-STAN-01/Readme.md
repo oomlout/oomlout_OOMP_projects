@@ -96,6 +96,7 @@ Contents
 - rawPart: S7, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.1, 1.5), R225
 - rawPart: S8, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.85, 1.5), R135
 - rawPart: S9, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.1, 0.15), R270
+- oompID: PROJ-SPAR-9774-STAN-01
 
 
 

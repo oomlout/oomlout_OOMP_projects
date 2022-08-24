@@ -81,6 +81,7 @@ Contents
 - rawPart: S1, Reset, TACTILE-PTH, SparkFun, (2.55, 1.6), R270
 - rawPart: S2, General, TACTILE-PTH, SparkFun, (2.55, 2), R270
 - rawPart: U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES, SparkFun, (0, 2.65), R270
+- oompID: PROJ-SPAR-9729-STAN-01
 
 
 

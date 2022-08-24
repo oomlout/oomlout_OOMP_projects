@@ -36,13 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, 13.97, 7.365999999999999, 180,C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.29), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, 0,JP1, 1X08, SparkFun-Connectors, (0.15, 0.05), R0|
+|CAPC-0603-X-UNMATCHED-01, C1, 13.97, 7.365999999999999, 180,C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.29), R180|
+|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R1, 9.143999999999998, 8.889999999999999, 180,R1, 4.7k, 0603, SparkFun-Resistors, (0.36, 0.35), R180|
 |RESE-0603-X-UNMATCHED-01, R2, 9.143999999999998, 10.921999999999999, 180,R2, 4.7k, 0603, SparkFun-Resistors, (0.36, 0.43), R180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 6.35, 9.906, 90,SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.25, 0.39), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 13.97, 10.413999999999998, 90,U1, T5400, T5400, SparkFun-Sensors, (0.55, 0.41), R90|
 
 ## Tags
@@ -56,15 +55,15 @@ Contents
 - oompName: SparkFun T5403 Barometric Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12039
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 13.97, 7.365999999999999, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.97, 7.365999999999999, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 24.13, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, 0
+- oompPart: HEAD-I01-X-PI08-01, JP1, 3.8099999999999996, 1.27, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 9.143999999999998, 8.889999999999999, 180
 - oompPart: RESE-0603-X-UNMATCHED-01, R2, 9.143999999999998, 10.921999999999999, 180
 - oompPart: RESE-0603-X-O103-01, R3, 9.143999999999998, 12.953999999999999, 180
 - oompPart: RESE-0603-X-O103-01, R4, 17.018, 7.874, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 6.35, 9.906, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 6.35, 9.906, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 13.97, 10.413999999999998, 90
 - rawPart: C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.29), R180
 - rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.45), R0
@@ -76,6 +75,7 @@ Contents
 - rawPart: R4, 10k, 0603-RES, SparkFun-Resistors, (0.67, 0.31), R90
 - rawPart: SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.25, 0.39), R90
 - rawPart: U1, T5400, T5400, SparkFun-Sensors, (0.55, 0.41), R90
+- oompID: PROJ-SPAR-12039-STAN-01
 
 
 

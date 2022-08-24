@@ -63,6 +63,7 @@ Contents
 - rawPart: R1, 33, 0603-RES, SparkFun-Resistors, (0.21519685, -0.11153543), R60
 - rawPart: VIBE+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25590551, 0.1523622), R120
 - rawPart: VIBE-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25590551, 0.1476378), R240
+- oompID: PROJ-SPAR-11008-STAN-01
 
 
 

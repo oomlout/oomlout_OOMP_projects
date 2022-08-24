@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 7.619999999999999, 0,JP1, 1X12_ROUND_76MIL, microbuilder, (0.2, 0.3), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.0, -7.619999999999999, 180,JP3, 1X16_ROUND_76MIL, microbuilder, (0, -0.3), R180|
+|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, -25.4, -11.43, 0,MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (-1, -0.45), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 29.717999999999996, 0.0, 90,S2, OS102011MA1Q, OS102011MA1Q, adafruit, (1.17, 0), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, -24.665999944, -17.695999913999998, 0,X1, TERMBLOCK_1X2-3.5MM, microbuilder, (-0.97110236, -0.69669291), R0|
@@ -64,8 +64,8 @@ Contents
 - oompName: Adafruit Terminal Block FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Terminal-Block-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2926
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 7.619999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.0, -7.619999999999999, 180
+- oompPart: HEAD-I01-X-PI12-01, JP1, 5.08, 7.619999999999999, 0
+- oompPart: HEAD-I01-X-PI16-01, JP3, 0.0, -7.619999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, -25.4, -11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 29.717999999999996, 0.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -29.209999999999997, 10.16, 0
@@ -104,6 +104,7 @@ Contents
 - rawPart: X10, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.20433071, 0.7023622), R180
 - rawPart: X11, TERMBLOCK_1X3-3.5MM, microbuilder, (0.20905512, 0.7023622), R180
 - rawPart: X12, TERMBLOCK_1X3-3.5MM, microbuilder, (0.62244094, 0.7023622), R180
+- oompID: PROJ-ADAF-2926-STAN-01
 
 
 

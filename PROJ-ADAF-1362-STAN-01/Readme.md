@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-NF100-01, C1, -3.937, 2.032, 180,C1, 0.1uF, C0805K, rcl, (-0.155, 0.08), R180|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -0.127, 9.270999999999999, 90,IC1, AT42QT1070-SSU, SO14, adafruit, (-0.005, 0.365), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.540999999999999, 8.509, 90,JP1, 1X06-CLEANBIG, adafruit, (0.415, 0.335), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -9.779, 8.509, 270,JP3, 1X06-CLEANBIG, adafruit, (-0.385, 0.335), R270|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-0805-X-UNMATCHED-01, LED1, 6.604, 4.699, 270,LED1, CHIP-LED0805, led, (0.26, 0.185), R270|
 |UNMATCHED-0805-X-UNMATCHED-01, LED2, 6.604, 7.238999999999999, 270,LED2, CHIP-LED0805, led, (0.26, 0.285), R270|
 |UNMATCHED-0805-X-UNMATCHED-01, LED3, 6.604, 9.779, 270,LED3, CHIP-LED0805, led, (0.26, 0.385), R270|
@@ -67,12 +67,12 @@ Contents
 - oompName: Adafruit Standalone Capacitive Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1362
-- oompPart: CAPE-0805-X-NF100-01, C1, -3.937, 2.032, 180
+- oompPart: CAPC-0805-X-NF100-V50, C1, -3.937, 2.032, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.604, 16.764, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.0, 0.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, -0.127, 9.270999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.540999999999999, 8.509, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -9.779, 8.509, 270
+- oompPart: HEAD-I01-X-PI06-01, JP1, 10.540999999999999, 8.509, 90
+- oompPart: HEAD-I01-X-PI06-01, JP3, -9.779, 8.509, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED1, 6.604, 4.699, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED2, 6.604, 7.238999999999999, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED3, 6.604, 9.779, 270
@@ -117,6 +117,7 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, 0.74), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.335, -0.06), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, -0.06), R0
+- oompID: PROJ-ADAF-1362-STAN-01
 
 
 

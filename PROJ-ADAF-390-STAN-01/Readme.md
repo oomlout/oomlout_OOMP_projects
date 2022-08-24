@@ -32,8 +32,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180,BATT, JST-PH-2-SMT-RA, adafruit, (0.375, 0.15), R180|
-|CAPE-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90,C1, 10uF, C0805K, adafruit, (1.23, 0.5), R90|
-|CAPE-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0,C2, 10uF, C0805K, adafruit, (0.375, 0.46), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90,C1, 10uF, C0805K, adafruit, (1.23, 0.5), R90|
+|CAPC-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0,C2, 10uF, C0805K, adafruit, (0.375, 0.46), R0|
 |UNMATCHED-0805-X-UNMATCHED-01, C3, 16.509999999999998, 17.429999937999998, 270,C3, 10uF/10V, C0805K, adafruit, (0.65, 0.68622047), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 39.37, 18.415, 270,C4, 4700uF/10V, E5-13, adafruit, (1.55, 0.725), R270|
 |UNMATCHED-0805-X-UNMATCHED-01, CHRG/LBO, 18.415, 6.985, 180,CHRG/LBO, ORANGE, CHIP-LED0805, adafruit, (0.725, 0.275), R180|
@@ -43,10 +43,10 @@ Contents
 |ERROR, D2 0 ohm, 0, 0, 0,D2, 0, ohm, R0805, adafruit, (0.1, -0.55), R0|
 |UNMATCHED-0805-X-UNMATCHED-01, DONE, 26.034999999999997, 6.985, 180,DONE, GREEN, CHIP-LED0805, adafruit, (1.025, 0.275), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.224999999999998, 19.049999999999997, 0,IC1, MCP73871, QFN20_4MM, adafruit, (0.875, 0.75), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.208, 35.05199999999999, 180,JP1, DCIN, 1X02_OVAL, microbuilder, (0.52, 1.38), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.224999999999998, 2.54, 0,JP2, STATUS, 1X02_OVAL, microbuilder, (0.875, 0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 27.304999999999996, 2.54, 0,JP3, LOAD, 1X02_OVAL, microbuilder, (1.075, 0.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 17.145, 2.54, 0,JP4, BATT, 1X02_OVAL, microbuilder, (0.675, 0.1), R0|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LOAD, 34.925, 3.8099999999999996, 180,LOAD, JST-PH-2-SMT-RA, adafruit, (1.375, 0.15), R180|
 |UNMATCHED-0805-X-UNMATCHED-01, PWR, 7.5089999679999995, 36.129999876, 270,PWR, RED, CHIP-LED0805, adafruit, (0.29562992, 1.42244094), R270|
 |RESE-0805-X-O274-01, R2, 21.779999873999998, 13.160000096000001, 0,R2, 270K, R0805, adafruit, (0.85748031, 0.51811024), R0|
@@ -72,8 +72,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/390
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 16.509999999999998, 17.429999937999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 39.37, 18.415, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, CHRG/LBO, 18.415, 6.985, 180
@@ -83,10 +83,10 @@ Contents
 - oompPart: ERROR, D2 0 ohm, 0, 0, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, DONE, 26.034999999999997, 6.985, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.224999999999998, 19.049999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.208, 35.05199999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 22.224999999999998, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 27.304999999999996, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 17.145, 2.54, 0
+- oompPart: HEAD-I01-X-PI02-01, JP1, 13.208, 35.05199999999999, 180
+- oompPart: HEAD-I01-X-PI02-01, JP2, 22.224999999999998, 2.54, 0
+- oompPart: HEAD-I01-X-PI02-01, JP3, 27.304999999999996, 2.54, 0
+- oompPart: HEAD-I01-X-PI02-01, JP4, 17.145, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LOAD, 34.925, 3.8099999999999996, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, PWR, 7.5089999679999995, 36.129999876, 270
 - oompPart: RESE-0805-X-O274-01, R2, 21.779999873999998, 13.160000096000001, 0
@@ -131,6 +131,7 @@ Contents
 - rawPart: THERM, 10K, 0805-THM, adafruit, (0.25, 0.8), R270
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.14, 1.25), R0
 - rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.69, 0.24), R0
+- oompID: PROJ-ADAF-390-STAN-01
 
 
 

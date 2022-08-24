@@ -69,6 +69,7 @@ Contents
 - rawPart: S6, Reset, TACTILE-PTH, SparkFun, (1.95, 0.75), R0
 - rawPart: U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD, SparkFun, (0.05, 0), R0
 - rawPart: U2, JOYSTICK, JOYSTICK, SparkFun, (1.1, 0.55), R0
+- oompID: PROJ-SPAR-9760-STAN-01
 
 
 

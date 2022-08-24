@@ -63,6 +63,7 @@ Contents
 - rawPart: B3, B3F-10XX, switch-omron, (0.87204724, 0.88582677), R180
 - rawPart: B4, B3F-10XX, switch-omron, (0.56299213, 0.57677165), R180
 - rawPart: HEADER, 1X06, pinhead, (0.56102362, 1.49106299), R0
+- oompID: PROJ-ADAF-3015-STAN-01
 
 
 

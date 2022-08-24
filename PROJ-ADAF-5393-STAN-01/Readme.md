@@ -36,15 +36,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 33.019999999999996, 6.35, 0,C1, 10uF, 0805-NO, microbuilder, (1.3, 0.25), R0|
-|CAPE-0805-X-UNMATCHED-01, C2, 7.874, 22.605999999999998, 0,C2, 10uF, 0805-NO, microbuilder, (0.31, 0.89), R0|
-|CAPE-0603-X-NF100-01, C3, 19.177, 20.193, 90,C3, 0.1uF, 0603-NO, microbuilder, (0.755, 0.795), R90|
-|CAPE-0805-X-UNMATCHED-01, C4, 25.273, 7.112, 90,C4, 10uF, 0805-NO, microbuilder, (0.995, 0.28), R90|
-|CAPE-0603-X-NF100-01, C5, 4.444999999999999, 23.114, 180,C5, 0.1uF, 0603-NO, microbuilder, (0.175, 0.91), R180|
+|CAPC-0805-X-UNMATCHED-01, C1, 33.019999999999996, 6.35, 0,C1, 10uF, 0805-NO, microbuilder, (1.3, 0.25), R0|
+|CAPC-0805-X-UNMATCHED-01, C2, 7.874, 22.605999999999998, 0,C2, 10uF, 0805-NO, microbuilder, (0.31, 0.89), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C4, 25.273, 7.112, 90,C4, 10uF, 0805-NO, microbuilder, (0.995, 0.28), R90|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 19.431, 15.239999999999998, M90,DISP1, DISP_LCD_GENERIC_SPI_1.47IN_172X320_12P_WRAPUNDER, TFT_1.47IN_172X320_12P, adafruit_display, (0.765, 0.6), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 28.575, 7.112, 90,IC2, AP2112, SOT23-5L, adafruit, (1.125, 0.28), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 10.413999999999998, 7.365999999999999, 0,IC4, APX803-SAG, SOT23, adafruit, (0.41, 0.29), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.415, 1.9049999999999998, 180,JP1, 1X11_ROUND_76, microbuilder, (0.725, 0.075), R180|
+|HEAD-I01-X-PI11-01, JP1, 18.415, 1.9049999999999998, 180,JP1, 1X11_ROUND_76, microbuilder, (0.725, 0.075), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 20.066, 9.017, 90,Q2, MICROSD, MICROSD, adafruit, (0.79, 0.355), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 14.985999999999999, 21.717, 90,Q3, BSS138, SOT23-WIDE, microbuilder, (0.59, 0.855), R90|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -66,15 +66,15 @@ Contents
 - oompName: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5393
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 33.019999999999996, 6.35, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 7.874, 22.605999999999998, 0
-- oompPart: CAPE-0603-X-NF100-01, C3, 19.177, 20.193, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 25.273, 7.112, 90
-- oompPart: CAPE-0603-X-NF100-01, C5, 4.444999999999999, 23.114, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 33.019999999999996, 6.35, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.874, 22.605999999999998, 0
+- oompPart: CAPC-0603-X-NF100-V50, C3, 19.177, 20.193, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 25.273, 7.112, 90
+- oompPart: CAPC-0603-X-NF100-V50, C5, 4.444999999999999, 23.114, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 19.431, 15.239999999999998, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 28.575, 7.112, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 10.413999999999998, 7.365999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.415, 1.9049999999999998, 180
+- oompPart: HEAD-I01-X-PI11-01, JP1, 18.415, 1.9049999999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 20.066, 9.017, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 14.985999999999999, 21.717, 90
 - oompPart: RESE-0603-X-O103-01, R1, 14.604999999999999, 7.365999999999999, 90
@@ -114,6 +114,7 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), MR270
 - rawPart: U1, 74HC4050PWR, TSSOP16, microbuilder, (0.655, 0.58), R180
 - rawPart: X1, EYE_SPI_DISPLAY_FLIP, EYE_SPI_DISPLAY_BOTCONTACT, adafruit_display, (0.135, 0.6), R90
+- oompID: PROJ-ADAF-5393-STAN-01
 
 
 

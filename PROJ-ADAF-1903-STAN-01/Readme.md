@@ -36,13 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 3.556, 10.795, 90,B1, 1.8-5V, JSTPH2, microbuilder, (0.14, 0.425), R90|
-|CAPE-0805-X-UNMATCHED-01, C1, 10.668, 12.446, 270,C1, 10uF, 0805-NO, microbuilder, (0.42, 0.49), R270|
-|CAPE-0805-X-UF22D-01, C2, 20.574, 4.953, 270,C2, 2.2uF, 0805-NO, microbuilder, (0.81, 0.195), R270|
-|CAPE-0805-X-NF100-01, C4, 12.446, 12.446, 270,C4, 0.1uF, 0805-NO, microbuilder, (0.49, 0.49), R270|
+|CAPC-0805-X-UNMATCHED-01, C1, 10.668, 12.446, 270,C1, 10uF, 0805-NO, microbuilder, (0.42, 0.49), R270|
+|CAPC-0805-X-UF22D-01, C2, 20.574, 4.953, 270,C2, 2.2uF, 0805-NO, microbuilder, (0.81, 0.195), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 18.160999999999998, 2.794, 90,C5, 100uF/6V, EIA3528-21/B-R, microbuilder, (0.715, 0.11), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 29.463999999999995, 10.795, 90,CN1, USBA_FEMALE, USB_HOST-PTH, microbuilder, (1.16, 0.425), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 20.32, 0,JP1, 1X06-CLEANBIG, adafruit, (0.55, 0.8), R0|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 16.400999964, 14.125999942, 0,L1, VLC5045-6.8uH, INDUCTOR_5X5MM_TDK_VLC5045, microbuilder, (0.64570866, 0.55614173), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LBO, 2.54, 5.588, 90,LBO, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.1, 0.22), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 24.950999881999998, 1.365000064, 90,PWR, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.98232283, 0.05374016), R90|
@@ -72,15 +71,15 @@ Contents
 - oompName: Adafruit PowerBoost 500 Basic PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1903
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 3.556, 10.795, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 10.668, 12.446, 270
-- oompPart: CAPE-0805-X-UF22D-01, C2, 20.574, 4.953, 270
-- oompPart: CAPE-0805-X-NF100-01, C4, 12.446, 12.446, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 3.556, 10.795, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 10.668, 12.446, 270
+- oompPart: CAPC-0805-X-UF22D-01, C2, 20.574, 4.953, 270
+- oompPart: CAPC-0805-X-NF100-V50, C4, 12.446, 12.446, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 18.160999999999998, 2.794, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 29.463999999999995, 10.795, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.9279999539999997, 9.755000048, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 26.162, 20.193, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 20.32, 0
+- oompPart: HEAD-I01-X-PI06-01, JP1, 13.97, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 16.400999964, 14.125999942, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LBO, 2.54, 5.588, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 24.950999881999998, 1.365000064, 90
@@ -128,6 +127,7 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U1, TPS61090RSAR, PVQFN-16, microbuilder, (0.63555118, 0.33181102), R180
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.015, 0.42), R90
+- oompID: PROJ-ADAF-1903-STAN-01
 
 
 

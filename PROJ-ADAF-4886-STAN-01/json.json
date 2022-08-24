@@ -38,11 +38,11 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C1, 5.968999999999999, 5.08, 180"
+            "value": "CAPC-0603-X-NF100-V50, C1, 5.968999999999999, 5.08, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C2, 7.112, 7.365999999999999, 90"
+            "value": "CAPC-0805-X-UNMATCHED-01, C2, 7.112, 7.365999999999999, 90"
         },
         {
             "name": "oompPart",
@@ -70,19 +70,19 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 2.54, 0"
+            "value": "HEAD-I01-X-PI11-01, JP1, 19.049999999999997, 2.54, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 12.7, 0"
+            "value": "HEAD-I01-X-PI11-01, JP2, 19.049999999999997, 12.7, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 26.669999999999998, 5.08, 0"
+            "value": "HEAD-I01-X-PI05-01, JP3, 26.669999999999998, 5.08, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.049999999999997, 15.239999999999998, 180"
+            "value": "HEAD-I01-X-PI11-01, JP7, 19.049999999999997, 15.239999999999998, 180"
         },
         {
             "name": "oompPart",
@@ -98,11 +98,11 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 20.700999999999997, 8.509, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 20.700999999999997, 8.509, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ2, 25.019, 8.509, 180"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 25.019, 8.509, 180"
         },
         {
             "name": "oompPart",

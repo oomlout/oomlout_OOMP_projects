@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 12.065, 9.652, 0,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.475, 0.38), R0|
-|CAPE-0603-X-UNMATCHED-01, C2, 12.065, 8.001, 0,C2, 4.7uF, 0603, SparkFun-Capacitors, (0.475, 0.315), R0|
-|CAPE-0603-X-NF100-01, C3, 10.921999999999999, 15.901999945999998, 180,C3, 0.1uF, 0603, SparkFun-Capacitors, (0.43, 0.62606299), R180|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, 12.065, 8.001, 0,C2, 4.7uF, 0603, SparkFun-Capacitors, (0.475, 0.315), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 5.334, 15.239999999999998, 90,I2C, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.21, 0.6), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 3.8099999999999996, 270,JP1, 2X3_SMT_POSTS, SparkFun-Connectors, (0.2, 0.15), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 3.8099999999999996, M270,JP2, 2X3_SMD, SparkFun-Connectors, (0.2, 0.15), MR270|
@@ -63,9 +63,9 @@ Contents
 - oompName: RedBot Accelerometer
 - sources: All source files from https://github.com/sparkfun/RedBot_Accelerometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12589
-- oompPart: CAPE-0603-X-NF100-01, C1, 12.065, 9.652, 0
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 12.065, 8.001, 0
-- oompPart: CAPE-0603-X-NF100-01, C3, 10.921999999999999, 15.901999945999998, 180
+- oompPart: CAPC-0603-X-NF100-V50, C1, 12.065, 9.652, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 12.065, 8.001, 0
+- oompPart: CAPC-0603-X-NF100-V50, C3, 10.921999999999999, 15.901999945999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.9286, 16.814799999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 0.8636, 2.5146, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 5.334, 15.239999999999998, 90
@@ -97,6 +97,7 @@ Contents
 - rawPart: R10, 10k, 0603, SparkFun-Resistors, (0.13, 0.6), R90
 - rawPart: U1, MMA8452Q, QFN-16, SparkFun-Sensors, (0.45, 0.5), R270
 - rawPart: U2, MIC5205-3.3V, SOT23-5, SparkFun-PowerIC, (0.475, 0.2), R0
+- oompID: PROJ-SPAR-12589-STAN-01
 
 
 

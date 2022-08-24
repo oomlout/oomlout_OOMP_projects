@@ -37,16 +37,12 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 16.509999999999998, 0.0, 0,B1, ESP32_THING_WO_ANT_KEEPOUT, ESP32_THING_NO_ANT, SparkFun-Boards, (0.65, 0), R0|
-|CAPE-0603-X-NF100-01, C1, 50.8, 37.846, 180,C1, 0.1uF, 0603, SparkFun-Capacitors, (2, 1.49), R180|
-|CAPE-0603-X-UNMATCHED-01, C2, 53.339999999999996, 28.575, 0,C2, 1.0uF, 0603, SparkFun-Capacitors, (2.1, 1.125), R0|
-|CAPE-0603-X-UNMATCHED-01, C3, 11.302999999999999, 22.605999999999998, 0,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.445, 0.89), R0|
-|CAPE-0603-X-NF100-01, C4, 50.8, 39.37, 180,C4, 0.1uF, 0603, SparkFun-Capacitors, (2, 1.55), R180|
-|CAPE-0603-X-UNMATCHED-01, C5, 10.287, 29.209999999999997, 270,C5, 1.0uF, 0603, SparkFun-Capacitors, (0.405, 1.15), R270|
-|CAPE-0603-X-NF100-01, C6, 50.8, 7.365999999999999, 0,C6, 0.1uF, 0603, SparkFun-Capacitors, (2, 0.29), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 48.26, 0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.25, 1.9), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 57.15, 6.35, 0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2.25, 0.25), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 57.15, 6.35, M0,FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2.25, 0.25), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 6.35, 48.26, M0,FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.25, 1.9), MR0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, 53.339999999999996, 28.575, 0,C2, 1.0uF, 0603, SparkFun-Capacitors, (2.1, 1.125), R0|
+|CAPC-0603-X-UNMATCHED-01, C3, 11.302999999999999, 22.605999999999998, 0,C3, 1.0uF, 0603, SparkFun-Capacitors, (0.445, 0.89), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C5, 10.287, 29.209999999999997, 270,C5, 1.0uF, 0603, SparkFun-Capacitors, (0.405, 1.15), R270|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 38.099999999999994, 270,J1, WEATHER_METER-WIND, RJ11-6, esp32-environ-monitor-temp, (0.2, 1.5), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270,J2, WEATHER_METER-RAIN, RJ11-6, esp32-environ-monitor-temp, (0.2, 0.5), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 10.16, 1.27, 0,J3, 1X03, SparkFun-Connectors, (0.4, 0.05), R0|
@@ -93,16 +89,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ESP32_Environment_Sensor_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14153
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 16.509999999999998, 0.0, 0
-- oompPart: CAPE-0603-X-NF100-01, C1, 50.8, 37.846, 180
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 53.339999999999996, 28.575, 0
-- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 11.302999999999999, 22.605999999999998, 0
-- oompPart: CAPE-0603-X-NF100-01, C4, 50.8, 39.37, 180
-- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 10.287, 29.209999999999997, 270
-- oompPart: CAPE-0603-X-NF100-01, C6, 50.8, 7.365999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 48.26, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 57.15, 6.35, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 57.15, 6.35, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 6.35, 48.26, M0
+- oompPart: CAPC-0603-X-NF100-V50, C1, 50.8, 37.846, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 53.339999999999996, 28.575, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 11.302999999999999, 22.605999999999998, 0
+- oompPart: CAPC-0603-X-NF100-V50, C4, 50.8, 39.37, 180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 10.287, 29.209999999999997, 270
+- oompPart: CAPC-0603-X-NF100-V50, C6, 50.8, 7.365999999999999, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 48.26, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 57.15, 6.35, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 57.15, 6.35, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 6.35, 48.26, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 38.099999999999994, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 10.16, 1.27, 0
@@ -180,6 +176,7 @@ Contents
 - rawPart: U2, CCS811, LGA10-2.7X4.0MM, esp32-environ-monitor-temp, (2, 1), R90
 - rawPart: U3, APDS-9301, CHIPLED-6, SparkFun-Sensors, (1.995, 0.45), R270
 - rawPart: U4, TVS, Diode, SOT-23-6, esp32-environ-monitor-temp, (0.5, 1), R270
+- oompID: PROJ-SPAR-14153-STAN-01
 
 
 

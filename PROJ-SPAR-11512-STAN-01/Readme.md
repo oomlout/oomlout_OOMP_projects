@@ -36,12 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180,C1, .1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.35), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 24.13, 270,JP1, 1X08, SparkFun-Connectors, (0.05, 0.95), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 29.209999999999997, 0,JP2, 1X06, SparkFun-Connectors, (0.2, 1.15), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 5.08, 1.27, 0,JP3, 1X06, SparkFun-Connectors, (0.2, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 2.54, 27.94, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 1.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.304, 3.0479999999999996, 0,JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.12), R0|
+|CAPC-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180,C1, .1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.35), R180|
+|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 15.239999999999998, 270,U1, 74HC165D, SO16, SparkFun-DigitalIC, (0.45, 0.6), R270|
 
@@ -56,12 +54,12 @@ Contents
 - oompName: SN74HC165-Shift-In-Breakout
 - sources: All source files from https://github.com/sparkfun/SN74HC165-Shift-In-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11512
-- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 24.13, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 5.08, 29.209999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 5.08, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 2.54, 27.94, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 19.304, 3.0479999999999996, 0
+- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180
+- oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 24.13, 270
+- oompPart: HEAD-I01-X-PI06-01, JP2, 5.08, 29.209999999999997, 0
+- oompPart: HEAD-I01-X-PI06-01, JP3, 5.08, 1.27, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 2.54, 27.94, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP7, 19.304, 3.0479999999999996, 0
 - oompPart: RESE-0402-X-O103-01, R1, 7.619999999999999, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 15.239999999999998, 270
 - rawPart: C1, .1uF, 0402-CAP, SparkFun-Passives, (0.3, 0.35), R180
@@ -72,6 +70,7 @@ Contents
 - rawPart: JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.12), R0
 - rawPart: R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.3), R0
 - rawPart: U1, 74HC165D, SO16, SparkFun-DigitalIC, (0.45, 0.6), R270
+- oompID: PROJ-SPAR-11512-STAN-01
 
 
 

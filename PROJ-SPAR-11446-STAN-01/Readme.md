@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0,C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.31), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90,JP1, 1X04, SparkFun-Connectors, (0.05, 0.05), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 8.889999999999999, 270,JP2, 1X04, SparkFun-Connectors, (0.45, 0.35), R270|
+|CAPC-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0,C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.31), R0|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 5.08, 0,U1, ADXL362-1:1, SparkFun-Sensors, (0.25, 0.2), R0|
 
 ## Tags
@@ -52,11 +52,11 @@ Contents
 - oompName: ADXL362 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL362_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11446
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.302, 9.143999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 9.6774, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 8.889999999999999, 270
+- oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 1.27, 90
+- oompPart: HEAD-I01-X-PI04-01, JP2, 11.43, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 5.08, 0
 - rawPart: C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.25, 0.31), R0
 - rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.13, 0.36), R0
@@ -64,6 +64,7 @@ Contents
 - rawPart: JP1, 1X04, SparkFun-Connectors, (0.05, 0.05), R90
 - rawPart: JP2, 1X04, SparkFun-Connectors, (0.45, 0.35), R270
 - rawPart: U1, ADXL362-1:1, SparkFun-Sensors, (0.25, 0.2), R0
+- oompID: PROJ-SPAR-11446-STAN-01
 
 
 

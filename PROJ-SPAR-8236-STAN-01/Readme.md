@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 12.7, 270,JP1, 1X04, SparkFun, (0.5, 0.5), R270|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 8.889999999999999, 90,JP2, NAV_SWITCH, NAV_SWITCH, SparkFun, (0.1, 0.35), R90|
 
 ## Tags
@@ -50,10 +50,11 @@ Contents
 - oompName: Navigation Switch Breakout
 - sources: All source files from https://github.com/sparkfun/Navigation_Switch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8236
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 12.7, 270
+- oompPart: HEAD-I01-X-PI04-01, JP1, 12.7, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 8.889999999999999, 90
 - rawPart: JP1, 1X04, SparkFun, (0.5, 0.5), R270
 - rawPart: JP2, NAV_SWITCH, NAV_SWITCH, SparkFun, (0.1, 0.35), R90
+- oompID: PROJ-SPAR-8236-STAN-01
 
 
 

@@ -31,16 +31,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 17.272000000000002, 3.0479999999999996, 180,A0, SJ, jumper, (0.68, 0.12), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 13.208, 3.0479999999999996, 180,A1, SJ, jumper, (0.52, 0.12), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, 9.143999999999998, 3.0479999999999996, 0,A2, SJ, jumper, (0.36, 0.12), R0|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.401999999999994, 16.509999999999998, 180,C1, 10uF, A/3216-18R, adafruit, (1.63, 0.65), R180|
-|CAPE-0805-X-NF100-01, C2, 20.447, 3.937, 90,C2, 0.1uF, C0805K, adafruit, (0.805, 0.155), R90|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.401999999999994, 16.509999999999998, 180,C1, 10uF, A/3216-18R, adafruit, (1.63, 0.65), R180|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONTRAST, 36.83, 15.112999999999998, 0,CONTRAST, 10K, TC33X, adafruit, (1.45, 0.595), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.937999999999999, 11.176, 0,IC1, MCP2300X/SO, SO18W, adafruit, (0.47, 0.44), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 27.051, 11.684, 180,IC2, 74LS595D, SO16, 74xx-us, (1.065, 0.46), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 40.894, 3.8099999999999996, 0,J1, 1X5, 3.5MM-5P, adafruit, (1.61, 0.15), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.114, 19.7358, 180,JP1, 1X16, pinhead, (0.91, 0.777), R180|
+|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 3.556, 16.637, 270,Q1, SOT23-BEC, transistor, (0.14, 0.655), R270|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -49,7 +46,6 @@ Contents
 |RESE-0805-X-UNMATCHED-01, R5, 3.302, 2.794, 180,R5, 4.7k, R0805, adafruit, (0.13, 0.11), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SPI, 28.828999999999997, 5.334, 180,SPI, SJ, jumper, (1.135, 0.21), R180|
 
 ## Tags
 
@@ -62,16 +58,16 @@ Contents
 - oompName: Adafruit I2C SPI LCD Backpack PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/292
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 17.272000000000002, 3.0479999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 13.208, 3.0479999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, 9.143999999999998, 3.0479999999999996, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.401999999999994, 16.509999999999998, 180
-- oompPart: CAPE-0805-X-NF100-01, C2, 20.447, 3.937, 90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 17.272000000000002, 3.0479999999999996, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 13.208, 3.0479999999999996, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 9.143999999999998, 3.0479999999999996, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.401999999999994, 16.509999999999998, 180
+- oompPart: CAPC-0805-X-NF100-V50, C2, 20.447, 3.937, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONTRAST, 36.83, 15.112999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.937999999999999, 11.176, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 27.051, 11.684, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 40.894, 3.8099999999999996, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.114, 19.7358, 180
+- oompPart: HEAD-I01-X-PI16-01, JP1, 23.114, 19.7358, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 3.556, 16.637, 270
 - oompPart: RESE-0805-X-O103-01, R1, 3.302, 7.112, 0
 - oompPart: RESE-0805-X-O103-01, R2, 3.302, 9.398, 0
@@ -80,7 +76,7 @@ Contents
 - oompPart: RESE-0805-X-UNMATCHED-01, R5, 3.302, 2.794, 180
 - oompPart: RESE-0805-X-O103-01, R6, 20.447, 8.001, 90
 - oompPart: RESE-0805-X-O103-01, R7, 3.302, 13.716, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SPI, 28.828999999999997, 5.334, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SPI, 28.828999999999997, 5.334, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 1.5239999999999998, 20.827999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 46.101, 5.842, 0
 - rawPart: A0, SJ, jumper, (0.68, 0.12), R180
@@ -104,6 +100,7 @@ Contents
 - rawPart: SPI, SJ, jumper, (1.135, 0.21), R180
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.06, 0.82), R0
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.815, 0.23), R0
+- oompID: PROJ-ADAF-292-STAN-01
 
 
 

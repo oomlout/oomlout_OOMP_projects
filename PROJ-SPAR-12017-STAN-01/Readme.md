@@ -36,15 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 13.97, 6.985, M270,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.275), MR270|
-|CAPE-0603-X-NF100-01, C2, 31.75, 6.985, M90,C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.25, 0.275), MR90|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 24.13, 10.16, M90,IC1, MPR121, QFN-20-0.4MM-V2, SparkFun-Sensors, (0.95, 0.4), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 7.619999999999999, 77.46999999999998, M0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.3, 3.05), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 19.049999999999997, 1.27, M180,JP9, 1X05, SparkFun, (0.75, 0.05), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 41.91, 1.27, M0,JP10, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.65, 0.05), MR0|
+|HEAD-I01-X-PI2-01, JP5, 7.619999999999999, 77.46999999999998, M0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.3, 3.05), MR0|
+|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP9</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
+|HEAD-I01-X-PI2-01, JP10, 41.91, 1.27, M0,JP10, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.65, 0.05), MR0|
 |RESE-0603-X-O753-01, R1, 11.43, 6.985, M90,R1, 75k, 0603-RES, SparkFun, (0.45, 0.275), MR90|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 6.985, M270,SJ1, SJ_3_PASTE1&2, SparkFun-Passives, (0.65, 0.275), MR270|
 
 ## Tags
 
@@ -57,15 +56,15 @@ Contents
 - oompName: MPR121 Capacitive Touch Keypad
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12017
-- oompPart: CAPE-0603-X-NF100-01, C1, 13.97, 6.985, M270
-- oompPart: CAPE-0603-X-NF100-01, C2, 31.75, 6.985, M90
+- oompPart: CAPC-0603-X-NF100-V50, C1, 13.97, 6.985, M270
+- oompPart: CAPC-0603-X-NF100-V50, C2, 31.75, 6.985, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 24.13, 10.16, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 7.619999999999999, 77.46999999999998, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 19.049999999999997, 1.27, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 41.91, 1.27, M0
+- oompPart: HEAD-I01-X-PI2-01, JP5, 7.619999999999999, 77.46999999999998, M0
+- oompPart: HEAD-I01-X-PI05-01, JP9, 19.049999999999997, 1.27, M180
+- oompPart: HEAD-I01-X-PI2-01, JP10, 41.91, 1.27, M0
 - oompPart: RESE-0603-X-O753-01, R1, 11.43, 6.985, M90
 - oompPart: RESE-0603-X-O103-01, R2, 20.32, 6.985, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 6.985, M270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 6.985, M270
 - rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.275), MR270
 - rawPart: C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.25, 0.275), MR90
 - rawPart: IC1, MPR121, QFN-20-0.4MM-V2, SparkFun-Sensors, (0.95, 0.4), MR90
@@ -75,6 +74,7 @@ Contents
 - rawPart: R1, 75k, 0603-RES, SparkFun, (0.45, 0.275), MR90
 - rawPart: R2, 10K, 0603-RES, SparkFun-Resistors, (0.8, 0.275), MR180
 - rawPart: SJ1, SJ_3_PASTE1&2, SparkFun-Passives, (0.65, 0.275), MR270
+- oompID: PROJ-SPAR-12017-STAN-01
 
 
 

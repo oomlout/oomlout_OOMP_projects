@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90,C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90|
-|CAPE-0402-X-NF100-01, C2, 3.8099999999999996, 6.858, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180,JP1, 1X08, SparkFun, (0.75, 0.05), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.889, 7.874, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.431, 5.715, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90,C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90|
+|CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270,C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270|
+|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
+|HEAD-I01-X-PI2-01, JP5, 0.889, 7.874, 0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0|
+|HEAD-I01-X-PI2-01, JP6, 19.431, 5.715, 0,JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90,U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90|
 
 ## Tags
@@ -54,11 +54,11 @@ Contents
 - oompName: Triple Axis Accelerometer Breakout-LIS331
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10345
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90
-- oompPart: CAPE-0402-X-NF100-01, C2, 3.8099999999999996, 6.858, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 0.889, 7.874, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.431, 5.715, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90
+- oompPart: CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270
+- oompPart: HEAD-I01-X-PI08-01, JP1, 19.049999999999997, 1.27, 180
+- oompPart: HEAD-I01-X-PI2-01, JP5, 0.889, 7.874, 0
+- oompPart: HEAD-I01-X-PI2-01, JP6, 19.431, 5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90
 - rawPart: C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90
 - rawPart: C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270
@@ -66,6 +66,7 @@ Contents
 - rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0
 - rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0
 - rawPart: U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90
+- oompID: PROJ-SPAR-10345-STAN-01
 
 
 

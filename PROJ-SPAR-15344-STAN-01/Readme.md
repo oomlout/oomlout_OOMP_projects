@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 22.86, 12.7, 90,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.9, 0.5), R90|
-|CAPE-0603-X-UNMATCHED-01, C2, 21.336, 12.7, 90,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.84, 0.5), R90|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, 21.336, 12.7, 90,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.84, 0.5), R90|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 31.241999999999997, 21.336, 180,D2, RED, LED-0603, SparkFun-LED, (1.23, 0.84), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 8.889999999999999, 2.54, 180,D3, Green, LED-1206-BOTTOM, SparkFun-LED, (0.35, 0.1), R180|
 |ERROR, J1 Qwiic Right, 0, 0, 0,J1, Qwiic, Right, Angle, JST04_1MM_RA, SparkFun-Connectors, (1, 0.2), R0|
@@ -66,8 +66,8 @@ Contents
 - oompName: Qwiic Capacitive Touch Slider CAP1203
 - sources: All source files from https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15344
-- oompPart: CAPE-0603-X-NF100-01, C1, 22.86, 12.7, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 21.336, 12.7, 90
+- oompPart: CAPC-0603-X-NF100-V50, C1, 22.86, 12.7, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 21.336, 12.7, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 31.241999999999997, 21.336, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 8.889999999999999, 2.54, 180
 - oompPart: ERROR, J1 Qwiic Right, 0, 0, 0
@@ -102,6 +102,7 @@ Contents
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.5, 0.1), R270
 - rawPart: S1, CAP_SENSE_SLIDER, SparkX, (0.7, 0.5), MR0
 - rawPart: U2, CAP1203, SO08-TIGHT, SparkFun-Sensors, (0.7, 0.5), R0
+- oompID: PROJ-SPAR-15344-STAN-01
 
 
 

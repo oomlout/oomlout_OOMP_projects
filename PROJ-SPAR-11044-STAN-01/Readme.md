@@ -36,16 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 15.239999999999998, 270,C1, 1uF, 1206, SparkFun, (0.2, 0.6), R270|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 5.08, 5.08, 90,C2, 10uF, 1206, SparkFun, (0.2, 0.2), R90|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 15.239999999999998, 270,C3, 1uF, 1206, SparkFun, (0.65, 0.6), R270|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 16.509999999999998, 5.08, 90,C4, 1uF, 1206, SparkFun, (0.65, 0.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, M90,JP1, POWER, 1X03, SparkFun, (0.05, 0.05), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 16.509999999999998, M270,JP2, IN, 1X02, SparkFun, (0.75, 0.65), MR270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 16.509999999999998, M270,JP3, OUT, 1X02, SparkFun, (0.05, 0.65), MR270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 19.049999999999997, 1.27, M90,JP4, VOLUME, 1X03, SparkFun, (0.75, 0.05), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 3.1496, 2.5654, 0,JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.124, 0.101), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 19.049999999999997, 0,JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.75, 0.75), R0|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 15.239999999999998, 270,C1, 1uF, 1206, SparkFun, (0.2, 0.6), R270|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 5.08, 5.08, 90,C2, 10uF, 1206, SparkFun, (0.2, 0.2), R90|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 15.239999999999998, 270,C3, 1uF, 1206, SparkFun, (0.65, 0.6), R270|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C4, 16.509999999999998, 5.08, 90,C4, 1uF, 1206, SparkFun, (0.65, 0.2), R90|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |UNMATCHED-0603-X-UNMATCHED-01, LED1, 10.16, 10.16, 270,LED1, LED-0603, SparkFun, (0.4, 0.4), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 10.16, 5.08, 0,Q1, MMBT2222A, SOT23-3, SparkFun, (0.4, 0.2), R0|
 |<table><tr><td>![RESE-0603-X-O154-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O154-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O154-01<br>SMD (0603) 150k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td><td>[R6154](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O154-01/)</td></tr></table>|
@@ -55,7 +53,6 @@ Contents
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 1.27, 270,SJ1, SJ_2S-NOTRACE, SparkFun, (0.65, 0.05), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 15.239999999999998, 90,U1, TPA2005D1DRB, QFN-8_PAD, mike-temp, (0.4, 0.6), R90|
 
 ## Tags
@@ -69,16 +66,16 @@ Contents
 - oompName: Mono Audio Amp Breakout-TPA2005D1
 - sources: All source files from https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11044
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 15.239999999999998, 270
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 5.08, 5.08, 90
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 15.239999999999998, 270
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 16.509999999999998, 5.08, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 16.509999999999998, M270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 1.27, 16.509999999999998, M270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 19.049999999999997, 1.27, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 3.1496, 2.5654, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 19.049999999999997, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 15.239999999999998, 270
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 5.08, 5.08, 90
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 15.239999999999998, 270
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 16.509999999999998, 5.08, 90
+- oompPart: HEAD-I01-X-PI03-01, JP1, 1.27, 1.27, M90
+- oompPart: HEAD-I01-X-PI02-01, JP2, 19.049999999999997, 16.509999999999998, M270
+- oompPart: HEAD-I01-X-PI02-01, JP3, 1.27, 16.509999999999998, M270
+- oompPart: HEAD-I01-X-PI03-01, JP4, 19.049999999999997, 1.27, M90
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 3.1496, 2.5654, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 19.049999999999997, 19.049999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED1, 10.16, 10.16, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 10.16, 5.08, 0
 - oompPart: RESE-0603-X-O154-01, R1, 13.97, 5.08, 270
@@ -88,7 +85,7 @@ Contents
 - oompPart: RESE-0603-X-O103-01, R3, 7.619999999999999, 3.4925, 90
 - oompPart: RESE-0603-X-O331-01, R4, 7.619999999999999, 6.6674999999999995, 270
 - oompPart: RESE-0603-X-O103-01, R5, 5.556300038, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 1.27, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 16.509999999999998, 1.27, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 15.239999999999998, 90
 - rawPart: C1, 1uF, 1206, SparkFun, (0.2, 0.6), R270
 - rawPart: C2, 10uF, 1206, SparkFun, (0.2, 0.2), R90
@@ -111,6 +108,7 @@ Contents
 - rawPart: R5, 10K, 0603-RES, SparkFun, (0.21875197, 0.05), R180
 - rawPart: SJ1, SJ_2S-NOTRACE, SparkFun, (0.65, 0.05), R270
 - rawPart: U1, TPA2005D1DRB, QFN-8_PAD, mike-temp, (0.4, 0.6), R90
+- oompID: PROJ-SPAR-11044-STAN-01
 
 
 

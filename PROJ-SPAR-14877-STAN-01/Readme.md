@@ -60,6 +60,7 @@ Contents
 - rawPart: D1, LED_5MM-KIT-NO-SILK, SparkFun-LED, (0.75, 1.55), R0
 - rawPart: R1, 10, AXIAL-0.3-KIT, SparkFun-Resistors, (0.5, 1.2), R90
 - rawPart: S2, SWITCH_SPDT_PTH_11.6X4.0MM_KIT, SparkFun-Switches, (1.05, 1.2), R0
+- oompID: PROJ-SPAR-14877-STAN-01
 
 
 

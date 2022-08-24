@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-NF100-01, C1, 14.224, 13.334999999999999, 180,C1, 0.1uF, 0805-NO, microbuilder, (0.56, 0.525), R180|
-|CAPE-0805-X-UNMATCHED-01, C2, 2.921, 11.684, 0,C2, 10uF, 0805-NO, microbuilder, (0.115, 0.46), R0|
-|CAPE-0805-X-UNMATCHED-01, C3, 3.175, 5.715, 0,C3, 10uF, 0805-NO, microbuilder, (0.125, 0.225), R0|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C2, 2.921, 11.684, 0,C2, 10uF, 0805-NO, microbuilder, (0.115, 0.46), R0|
+|CAPC-0805-X-UNMATCHED-01, C3, 3.175, 5.715, 0,C3, 10uF, 0805-NO, microbuilder, (0.125, 0.225), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 5.968999999999999, 180,D1, 1N4148, SOD-323, microbuilder, (0.4, 0.235), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180,JP1, 1X07_ROUND_70, microbuilder, (0.4, 0.1), R180|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.350999999999997, 8.636000000000001, 180,Q1, BSS138, SOT23-WIDE, microbuilder, (0.565, 0.34), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 18.160999999999998, 8.636000000000001, 180,Q2, BSS138, SOT23-WIDE, microbuilder, (0.715, 0.34), R180|
 |RESE-0805-X-O473-01, R1, 6.35, 6.985, 270,R1, 47K, 0805-NO, microbuilder, (0.25, 0.275), R270|
@@ -63,13 +63,13 @@ Contents
 - oompName: Adafruit VL6180X ToF Distance Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3316
-- oompPart: CAPE-0805-X-NF100-01, C1, 14.224, 13.334999999999999, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.921, 11.684, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 3.175, 5.715, 0
+- oompPart: CAPC-0805-X-NF100-V50, C1, 14.224, 13.334999999999999, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.921, 11.684, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.175, 5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 5.968999999999999, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.715, 14.604999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 19.431, 3.6829999999999994, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 2.54, 180
+- oompPart: HEAD-I01-X-PI07-01, JP1, 10.16, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.350999999999997, 8.636000000000001, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 18.160999999999998, 8.636000000000001, 180
 - oompPart: RESE-0805-X-O473-01, R1, 6.35, 6.985, 270
@@ -101,6 +101,7 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U1, VL6180X, VL6180, microbuilder, (0.4, 0.4), R0
 - rawPart: U2, MIC5225_2.8V, SOT23-5, microbuilder, (0.115, 0.345), R0
+- oompID: PROJ-ADAF-3316-STAN-01
 
 
 

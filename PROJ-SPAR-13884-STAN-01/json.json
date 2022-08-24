@@ -38,27 +38,27 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF470-01, C2, 7.365999999999999, 20.447, 0"
+            "value": "CAPC-0603-X-NF470-V50, C2, 7.365999999999999, 20.447, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF470-01, C3, 6.095999999999999, 18.160999999999998, 90"
+            "value": "CAPC-0603-X-NF470-V50, C3, 6.095999999999999, 18.160999999999998, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C4, 10.668, 20.447, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 20.32, 27.94, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 20.32, 27.94, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 2.667, 3.8099999999999996, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 2.667, 3.8099999999999996, 0"
         },
         {
             "name": "oompPart",
@@ -78,15 +78,15 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 11.176, 26.669999999999998, M270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 11.176, 26.669999999999998, M270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 13.716, 26.669999999999998, M270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 13.716, 26.669999999999998, M270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 8.128, 2.794, M180"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 8.128, 2.794, M180"
         },
         {
             "name": "oompPart",

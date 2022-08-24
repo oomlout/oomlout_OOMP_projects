@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 10.16, 90,JP3, 1X06-CLEANBIG, adafruit, (0.1, 0.4), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 12.7, 10.16, 90,JP4, 1X06-CLEANBIG, adafruit, (0.5, 0.4), R90|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.398, 14.477999999999998, 270,Q1, BSS138, SOT23, adafruit, (0.37, 0.57), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.095999999999999, 11.937999999999999, 270,Q2, BSS138, SOT23, adafruit, (0.24, 0.47), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 9.652, 7.112, 270,Q3, BSS138, SOT23, adafruit, (0.38, 0.28), R270|
@@ -62,8 +62,8 @@ Contents
 - oompName: 4 Channel Level Shifter PCB
 - sources: All source files from https://github.com/adafruit/4-Channel-Level-Shifter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/757
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 10.16, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 12.7, 10.16, 90
+- oompPart: HEAD-I01-X-PI06-01, JP3, 2.54, 10.16, 90
+- oompPart: HEAD-I01-X-PI06-01, JP4, 12.7, 10.16, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.398, 14.477999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.095999999999999, 11.937999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 9.652, 7.112, 270
@@ -90,6 +90,7 @@ Contents
 - rawPart: R6, 10K, R0805, adafruit, (0.39, 0.39), R180
 - rawPart: R7, 10K, R0805, adafruit, (0.38, 0.16), R180
 - rawPart: R8, 10K, R0805, adafruit, (0.22, 0.27), R180
+- oompID: PROJ-ADAF-757-STAN-01
 
 
 

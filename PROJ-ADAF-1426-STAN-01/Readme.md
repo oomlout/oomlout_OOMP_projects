@@ -110,6 +110,7 @@ Contents
 - rawPart: LED8, WS28115050, WS28115050, microbuilder, (1.875, 0.15), R0
 - rawPart: U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.5, 0.32), R0
 - rawPart: U$3, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.5, 0.32), R0
+- oompID: PROJ-ADAF-1426-STAN-01
 
 
 

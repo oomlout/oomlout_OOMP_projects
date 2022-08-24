@@ -31,10 +31,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0,C1, 1.0uF, C0805, adafruit, (0.115, 0.54), R0|
-|CAPE-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0,C2, 1.0uF, C0805, adafruit, (0.115, 0.285), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0,C1, 1.0uF, C0805, adafruit, (0.115, 0.54), R0|
+|CAPC-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0,C2, 1.0uF, C0805, adafruit, (0.115, 0.285), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.968999999999999, 14.097000000000001, 270,D1, 1N4148, SOD-323F, adafruit, (0.235, 0.555), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 0,JP2, Breakout, 1X07_ROUND_76, microbuilder, (0.4, 0.1), R0|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.477999999999998, 8.509, 90,Q1, BSS138, SOT23, adafruit, (0.57, 0.335), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.366999999999999, 12.318999999999999, 180,Q2, BSS138, SOT23, adafruit, (0.605, 0.485), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -55,10 +55,10 @@ Contents
 - oompName: Adafruit BMP085 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP085-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/391
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.968999999999999, 14.097000000000001, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 10.16, 2.54, 0
+- oompPart: HEAD-I01-X-PI07-01, JP2, 10.16, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.477999999999998, 8.509, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.366999999999999, 12.318999999999999, 180
 - oompPart: RESE-0805-X-O103-01, R1, 17.525999999999996, 8.382, 270
@@ -87,6 +87,7 @@ Contents
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.585, 0.625), R0
 - rawPart: U1, BMP085, BMP085, microbuilder, (0.4, 0.48), R0
 - rawPart: U2, RT9193-33GB, SOT23-5, microbuilder, (0.125, 0.415), R0
+- oompID: PROJ-ADAF-391-STAN-01
 
 
 

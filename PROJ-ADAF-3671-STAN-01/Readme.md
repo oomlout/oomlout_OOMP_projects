@@ -62,6 +62,7 @@ Contents
 - rawPart: JP2, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.5), R180
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.35), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.35), R0
+- oompID: PROJ-ADAF-3671-STAN-01
 
 
 

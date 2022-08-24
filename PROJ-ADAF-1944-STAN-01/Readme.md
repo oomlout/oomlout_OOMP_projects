@@ -36,15 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.937999999999999, 3.556, 180,B1, 1.8-5V, JSTPH2, microbuilder, (0.47, 0.14), R180|
-|CAPE-0805-X-UNMATCHED-01, C1, 18.287999999999997, 13.081, 270,C1, 10uF, 0805-NO, microbuilder, (0.72, 0.515), R270|
-|CAPE-0805-X-UF22D-01, C2, 28.194000000000003, 4.953, 270,C2, 2.2uF, 0805-NO, microbuilder, (1.11, 0.195), R270|
-|CAPE-0805-X-NF100-01, C4, 20.066, 13.081, 270,C4, 0.1uF, 0805-NO, microbuilder, (0.79, 0.515), R270|
+|CAPC-0805-X-UNMATCHED-01, C1, 18.287999999999997, 13.081, 270,C1, 10uF, 0805-NO, microbuilder, (0.72, 0.515), R270|
+|CAPC-0805-X-UF22D-01, C2, 28.194000000000003, 4.953, 270,C2, 2.2uF, 0805-NO, microbuilder, (1.11, 0.195), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 25.780999999999995, 2.794, 90,C5, 100uF/6V, EIA3528-21/B-R, microbuilder, (1.015, 0.11), R90|
-|CAPE-0805-X-UNMATCHED-01, C6, 6.858, 10.921999999999999, 270,C6, 10uF, 0805-NO, microbuilder, (0.27, 0.43), R270|
+|CAPC-0805-X-UNMATCHED-01, C6, 6.858, 10.921999999999999, 270,C6, 10uF, 0805-NO, microbuilder, (0.27, 0.43), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 37.083999999999996, 10.795, 90,CN1, USBA_FEMALE, USB_HOST-PTH, microbuilder, (1.46, 0.425), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 20.32, 0,JP1, 1X06-CLEANBIG, adafruit, (0.85, 0.8), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 20.32, 0,JP2, 1X02_ROUND, microbuilder, (0.45, 0.8), R0|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 24.020999963999998, 14.125999942, 0,L1, VLC5045-6.8uH, INDUCTOR_5X5MM_TDK_VLC5045, microbuilder, (0.94570866, 0.55614173), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LBO, 6.731, 2.1590000000000003, 180,LBO, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.265, 0.085), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 8.382, 19.558, 180,LED3, ORANGE, CHIPLED_0805_NOOUTLINE, microbuilder, (0.33, 0.77), R180|
@@ -81,17 +80,17 @@ Contents
 - oompName: Adafruit PowerBoost 500 Charger PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1944
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.937999999999999, 3.556, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 18.287999999999997, 13.081, 270
-- oompPart: CAPE-0805-X-UF22D-01, C2, 28.194000000000003, 4.953, 270
-- oompPart: CAPE-0805-X-NF100-01, C4, 20.066, 13.081, 270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 11.937999999999999, 3.556, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 18.287999999999997, 13.081, 270
+- oompPart: CAPC-0805-X-UF22D-01, C2, 28.194000000000003, 4.953, 270
+- oompPart: CAPC-0805-X-NF100-V50, C4, 20.066, 13.081, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 25.780999999999995, 2.794, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C6, 6.858, 10.921999999999999, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 6.858, 10.921999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 37.083999999999996, 10.795, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 10.690999953999999, 3.1510000479999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 33.782, 20.193, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 21.59, 20.32, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 11.43, 20.32, 0
+- oompPart: HEAD-I01-X-PI06-01, JP1, 21.59, 20.32, 0
+- oompPart: HEAD-I01-X-PI02-01, JP2, 11.43, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 24.020999963999998, 14.125999942, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LBO, 6.731, 2.1590000000000003, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 8.382, 19.558, 180
@@ -155,6 +154,7 @@ Contents
 - rawPart: U2, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (0.575, 0.585), R90
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.315, 0.42), R90
 - rawPart: X2, microUSB, 4UCONN_20329, microbuilder, (0.17, 0.425), R270
+- oompID: PROJ-ADAF-1944-STAN-01
 
 
 

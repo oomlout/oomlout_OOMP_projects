@@ -26,3 +26,4 @@ Contents
 - oompName: Adafruit FRAM Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1895
+- oompID: PROJ-ADAF-1895-STAN-01

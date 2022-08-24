@@ -38,7 +38,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C1, 12.7, 16.433799999999998, 180"
+            "value": "CAPC-0603-X-NF100-V50, C1, 12.7, 16.433799999999998, 180"
         },
         {
             "name": "oompPart",
@@ -46,19 +46,19 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 24.13, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 24.13, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 20.32, 1.27, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 20.32, 1.27, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 20.32, 1.27, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 20.32, 1.27, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 5.08, 24.13, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 5.08, 24.13, M0"
         },
         {
             "name": "oompPart",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED, 20.1676, 7.6453999999999995, M180"
+            "value": "LEDS-UNMATCHED-G-UNMATCHED-01, LED, 20.1676, 7.6453999999999995, M180"
         },
         {
             "name": "oompPart",

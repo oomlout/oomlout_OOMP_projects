@@ -38,15 +38,15 @@ Contents
 | :---: |
 |ERROR, C1 10uF/16V X5R, 0, 0, 0,C1, 10uF/16V, X5R, 0805-NO, microbuilder, (0.345, 0.35), R270|
 |ERROR, C2 10uF/16V X5R, 0, 0, 0,C2, 10uF/16V, X5R, 0805-NO, microbuilder, (0.345, 0.49), R90|
-|CAPE-0805-X-NF100-01, C3, 14.985999999999999, 5.334, 270,C3, 0.1uF, 0805-NO, microbuilder, (0.59, 0.21), R270|
-|CAPE-0805-X-UNMATCHED-01, C4, 19.685, 4.826, 270,C4, 10pF, 0805-NO, microbuilder, (0.775, 0.19), R270|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C4, 19.685, 4.826, 270,C4, 10pF, 0805-NO, microbuilder, (0.775, 0.19), R270|
 |ERROR, C5 22uF/10V X5R, 0, 0, 0,C5, 22uF/10V, X5R, 0805-NO, microbuilder, (0.88, 0.37), R270|
 |ERROR, C6 22uF/10V X5R, 0, 0, 0,C6, 22uF/10V, X5R, 0805-NO, microbuilder, (0.72, 0.37), R270|
 |ERROR, C7 22uF/10V X5R, 0, 0, 0,C7, 22uF/10V, X5R, 0805-NO, microbuilder, (0.8, 0.37), R270|
 |ERROR, C8 1uF/10V X5R, 0, 0, 0,C8, 1uF/10V, X5R, 0805-NO, microbuilder, (0.64, 0.37), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 32.766, 9.524999999999999, 90,CN1, USBA_FEMALE, USB_HOST-PTH, microbuilder, (1.29, 0.375), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 21.717, 15.620999999999999, 0,D1, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.855, 0.615), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 1.778, 0,JP1, 1X07_ROUND_70, microbuilder, (0.55, 0.07), R0|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 12.7, 14.604999999999999, 0,L1, NRS5030T1R0NMGJ, INDUCTOR_5X5MM_TDK_VLC5045, microbuilder, (0.5, 0.575), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 17.399, 15.493999999999998, 90,Q1, BSS138, SOT23-WIDE, microbuilder, (0.685, 0.61), R90|
 |RESE-0805-X-UNMATCHED-01, R1, 21.59, 4.826, 270,R1, 1M, 0805-NO, microbuilder, (0.85, 0.19), R270|
@@ -76,8 +76,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2190
 - oompPart: ERROR, C1 10uF/16V X5R, 0, 0, 0
 - oompPart: ERROR, C2 10uF/16V X5R, 0, 0, 0
-- oompPart: CAPE-0805-X-NF100-01, C3, 14.985999999999999, 5.334, 270
-- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 19.685, 4.826, 270
+- oompPart: CAPC-0805-X-NF100-V50, C3, 14.985999999999999, 5.334, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 19.685, 4.826, 270
 - oompPart: ERROR, C5 22uF/10V X5R, 0, 0, 0
 - oompPart: ERROR, C6 22uF/10V X5R, 0, 0, 0
 - oompPart: ERROR, C7 22uF/10V X5R, 0, 0, 0
@@ -86,7 +86,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 21.717, 15.620999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 26.034999999999997, 3.302, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.588, 17.779999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 1.778, 0
+- oompPart: HEAD-I01-X-PI07-01, JP1, 13.97, 1.778, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 12.7, 14.604999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 17.399, 15.493999999999998, 90
 - oompPart: RESE-0805-X-UNMATCHED-01, R1, 21.59, 4.826, 270
@@ -134,6 +134,7 @@ Contents
 - rawPart: U1, TPS63060, PWSON-N10, microbuilder, (0.5, 0.36), R270
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.15, 0.375), R270
 - rawPart: X2, TERMBLOCK_1X2-3.5MM, microbuilder, (1.15, 0.375), R90
+- oompID: PROJ-ADAF-2190-STAN-01
 
 
 

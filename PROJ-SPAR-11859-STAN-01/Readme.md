@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 8.889999999999999, 6.35, 0,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.35, 0.25), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0,JP1, 1X07, SparkFun-Connectors, (0.1, 0.05), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -56,10 +56,10 @@ Contents
 - oompName: TMP006-Temp Sensor Breakout
 - sources: All source files from https://github.com/sparkfun/TMP006-Temp_Sensor_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11859
-- oompPart: CAPE-0603-X-NF100-01, C1, 8.889999999999999, 6.35, 0
+- oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 13.97, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 19.049999999999997, 3.8099999999999996, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0
+- oompPart: HEAD-I01-X-PI07-01, JP1, 2.54, 1.27, 0
 - oompPart: RESE-0603-X-O103-01, R1, 2.54, 7.619999999999999, 180
 - oompPart: RESE-0603-X-O103-01, R2, 2.54, 9.398, 180
 - oompPart: RESE-0603-X-O103-01, R3, 2.54, 11.176, 180
@@ -76,6 +76,7 @@ Contents
 - rawPart: R4, 10k, 0603-RES, SparkFun-Resistors, (0.7, 0.35), R180
 - rawPart: R5, 10k, 0603-RES, SparkFun-Resistors, (0.7, 0.28), R180
 - rawPart: U1, TMP006, BGA8DS, SparkFun-DigitalIC, (0.4, 0.45), R0
+- oompID: PROJ-SPAR-11859-STAN-01
 
 
 

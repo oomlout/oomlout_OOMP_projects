@@ -132,6 +132,7 @@ Contents
 - rawPart: R5, 150, 0603-RES, SparkFun-Resistors, (0.5592126, 0.1630315), R0
 - rawPart: R6, 150, 0603-RES, SparkFun-Resistors, (0.3392126, 0.1630315), R0
 - rawPart: R7, 150, 0603-RES, SparkFun-Resistors, (0.1192126, 0.1630315), R0
+- oompID: PROJ-SPAR-13903-STAN-01
 
 
 

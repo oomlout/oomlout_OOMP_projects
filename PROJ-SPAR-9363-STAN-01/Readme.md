@@ -135,6 +135,7 @@ Contents
 - rawPart: SJ3, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (2.05, 1.7), R0
 - rawPart: U$1, NOKIA6100_LCD, NOKIA6100_LCD, SparkFun, (1.7, 1.85), R180
 - rawPart: U1, MC34063SMD, SO08, SparkFun, (2, 0.85), R90
+- oompID: PROJ-SPAR-9363-STAN-01
 
 
 

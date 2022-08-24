@@ -36,10 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-NF100-01, C1, 6.223, 8.509, 90,C1, 0.1uF, 0805-NO, microbuilder, (0.245, 0.335), R90|
-|CAPE-0805-X-UNMATCHED-01, C2, 2.54, 5.842, 0,C2, 10uF, 0805-NO, microbuilder, (0.1, 0.23), R0|
-|CAPE-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 180,C3, 10uF, 0805-NO, microbuilder, (0.1, 0.45), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.54, 0,JP1, 1X06_ROUND_76, microbuilder, (0.35, 0.1), R0|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C2, 2.54, 5.842, 0,C2, 10uF, 0805-NO, microbuilder, (0.1, 0.23), R0|
+|CAPC-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 180,C3, 10uF, 0805-NO, microbuilder, (0.1, 0.45), R180|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.191999999999998, 8.889999999999999, 90,Q1, BSS138, SOT23-WIDE, microbuilder, (0.48, 0.35), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.748, 8.889999999999999, 270,Q2, BSS138, SOT23-WIDE, microbuilder, (0.62, 0.35), R270|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -60,12 +60,12 @@ Contents
 - oompName: Adafruit APDS9960 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3595
-- oompPart: CAPE-0805-X-NF100-01, C1, 6.223, 8.509, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.54, 5.842, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 180
+- oompPart: CAPC-0805-X-NF100-V50, C1, 6.223, 8.509, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.54, 5.842, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.492999999999999, 4.826, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.318999999999999, 16.509999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 2.54, 0
+- oompPart: HEAD-I01-X-PI06-01, JP1, 8.889999999999999, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.191999999999998, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 15.748, 8.889999999999999, 270
 - oompPart: RESE-0805-X-O103-01, R1, 12.191999999999998, 11.684, 180
@@ -92,6 +92,7 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.6), R0
 - rawPart: U1, APDS-9960, APDS-9960, microbuilder, (0.35, 0.35), R0
 - rawPart: U2, SOT23-5, microbuilder, (0.115, 0.345), R270
+- oompID: PROJ-ADAF-3595-STAN-01
 
 
 

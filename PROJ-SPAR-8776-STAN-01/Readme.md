@@ -57,6 +57,7 @@ Contents
 - rawPart: BUTTON-, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.155), R180
 - rawPart: BUTTONS, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.155), R0
 - rawPart: S1, TACTILE_SWITCH_SMD, SparkFun, (-0.005, 0), R180
+- oompID: PROJ-SPAR-8776-STAN-01
 
 
 

@@ -38,12 +38,8 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 6.35, 12.7, M270,ADR1, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.25, 0.5), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 17.653, 12.7, M90,ADR2, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.695, 0.5), MR90|
-|CAPE-0603-X-NF100-01, C1, 19.049999999999997, 7.619999999999999, 270,C1, 0.1uF, 0603, SparkFun-Capacitors, (0.75, 0.3), R270|
-|CAPE-0603-X-UNMATCHED-01, C2, 10.16, 16.509999999999998, 180,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.4, 0.65), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 19.685, 0,FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.775), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.13, 1.27, 0,FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 24.13, 1.27, M0,FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.05), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 19.685, M0,FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.775), MR0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-0603-X-UNMATCHED-01, C2, 10.16, 16.509999999999998, 180,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.4, 0.65), R180|
 |ERROR, J1 Qwiic Right, 0, 0, 0,J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270|
 |ERROR, J2 CCS811 Options, 0, 0, 0,J2, CCS811, Options, 1X03_NO_SILK, SparkFun-Connectors, (0.4, 0.05), R180|
 |ERROR, J3 Qwiic Right, 0, 0, 0,J3, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90|
@@ -71,12 +67,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14348
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 6.35, 12.7, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 17.653, 12.7, M90
-- oompPart: CAPE-0603-X-NF100-01, C1, 19.049999999999997, 7.619999999999999, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 10.16, 16.509999999999998, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 19.685, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 24.13, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD3, 24.13, 1.27, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 19.685, M0
+- oompPart: CAPC-0603-X-NF100-V50, C1, 19.049999999999997, 7.619999999999999, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 10.16, 16.509999999999998, 180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 19.685, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 24.13, 1.27, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 24.13, 1.27, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 19.685, M0
 - oompPart: ERROR, J1 Qwiic Right, 0, 0, 0
 - oompPart: ERROR, J2 CCS811 Options, 0, 0, 0
 - oompPart: ERROR, J3 Qwiic Right, 0, 0, 0
@@ -111,6 +107,7 @@ Contents
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.25, 0.35), R180
 - rawPart: U2, CCS811, LGA10, SparkFun-Sensors, (0.4, 0.5), R90
 - rawPart: U3, BME280, LGA-8-2.5X2.5, SparkFun-Sensors, (0.65, 0.5), R180
+- oompID: PROJ-SPAR-14348-STAN-01
 
 
 

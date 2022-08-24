@@ -63,6 +63,7 @@ Contents
 - rawPart: J2, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.375, 0.46), R0
 - rawPart: J3, 1X04, SparkFun-Connectors, (0.525, 0.145), MR180
 - rawPart: J4, 1X04_SMD_RA_MALE, SparkFun-Connectors, (0.675, 0.06), R0
+- oompID: PROJ-SPAR-15035-STAN-01
 
 
 

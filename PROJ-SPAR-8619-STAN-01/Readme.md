@@ -41,6 +41,7 @@ Contents
 - oompName: ProtoBoard Wombat-PTH
 - sources: All source files from https://github.com/sparkfun/ProtoBoard_Wombat-PTH (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8619
+- oompID: PROJ-SPAR-8619-STAN-01
 
 
 

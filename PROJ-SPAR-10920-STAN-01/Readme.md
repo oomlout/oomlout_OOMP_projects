@@ -36,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF100-01, C1, 5.08, 5.08, 90,C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.2, 0.2), R90|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 10.16, 90,C2, 10uF, EIA3216, SparkFun, (0.45, 0.4), R90|
-|CAPE-0603-X-UNMATCHED-01, C3, 10.8712, 15.646399999999998, 90,C3, 1uF, 0603-CAP, SparkFun-Capacitors, (0.428, 0.616), R90|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 10.16, 90,C2, 10uF, EIA3216, SparkFun, (0.45, 0.4), R90|
+|CAPC-0603-X-UNMATCHED-01, C3, 10.8712, 15.646399999999998, 90,C3, 1uF, 0603-CAP, SparkFun-Capacitors, (0.428, 0.616), R90|
 |CAPE-0603-X-UNMATCHED-01, C4, 26.339799999999997, 16.128999999999998, 90,C4, 22pF, 0603-CAP, SparkFun-Capacitors, (1.037, 0.635), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J$1, 29.311599999999995, 7.012999944, 90,J$1, SMA_EDGE, SMA-EDGE, SparkFun, (1.154, 0.27610236), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 17.779999999999998, 0,JP1, UART, 1X04, SparkFun-Connectors, (0.05, 0.7), R0|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 11.43, 90,JP2, Battery, S2B-PH, SparkFun, (0.15, 0.45), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 1.27, 180,JP3, General, 1X05, SparkFun-Connectors, (0.45, 0.05), R180|
+|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
 |ERROR, JP4 Low Power, 0, 0, 0,JP4, Low, Power, Mode, SJ_2S, SparkFun-Passives, (0.05, 0.2), R270|
 |ERROR, JP5 VBAT Select, 0, 0, 0,JP5, VBAT, Select, SJ_2S, SparkFun-Passives, (0.537, 0.164), MR90|
 |UNMATCHED-0603-X-UNMATCHED-01, LED3, 11.43, 6.604, 270,LED3, Green, LED-0603, SparkFun-LED, (0.45, 0.26), R270|
@@ -66,16 +66,16 @@ Contents
 - oompName: Venus GPS Logger SMA
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_Logger_SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10920
-- oompPart: CAPE-0603-X-NF100-01, C1, 5.08, 5.08, 90
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 10.16, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 10.8712, 15.646399999999998, 90
+- oompPart: CAPC-0603-X-NF100-V50, C1, 5.08, 5.08, 90
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 10.16, 90
+- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 10.8712, 15.646399999999998, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C4, 26.339799999999997, 16.128999999999998, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 28.955999999999996, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 8.889999999999999, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J$1, 29.311599999999995, 7.012999944, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 17.779999999999998, 0
+- oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 17.779999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 11.43, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 1.27, 180
+- oompPart: HEAD-I01-X-PI05-01, JP3, 11.43, 1.27, 180
 - oompPart: ERROR, JP4 Low Power, 0, 0, 0
 - oompPart: ERROR, JP5 VBAT Select, 0, 0, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED3, 11.43, 6.604, 270
@@ -106,6 +106,7 @@ Contents
 - rawPart: U2, 33nH, 0603-RES, SparkFun-Resistors, (1.0385, 0.49160236), R270
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.3, 0.2), R180
 - rawPart: U4, SPI_FLASH-X25XXSMD1, SO08-EIAJ, SparkFun, (0.7, 0.62), R270
+- oompID: PROJ-SPAR-10920-STAN-01
 
 
 

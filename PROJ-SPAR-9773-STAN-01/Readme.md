@@ -63,6 +63,7 @@ Contents
 - rawPart: J1, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.15, 0.35), R270
 - rawPart: J2, POWER_JACKPTH_LOCK, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (0.155, 0.245), R270
 - rawPart: J3, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (2.4, 0.15), R90
+- oompID: PROJ-SPAR-9773-STAN-01
 
 
 

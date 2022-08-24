@@ -41,6 +41,7 @@ Contents
 - oompName: Snappable P-Board
 - sources: All source files from https://github.com/sparkfun/Snappable_P-Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13268
+- oompID: PROJ-SPAR-13268-STAN-01
 
 
 

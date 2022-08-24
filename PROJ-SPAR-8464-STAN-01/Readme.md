@@ -63,6 +63,7 @@ Contents
 - rawPart: LIGHTS, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180
 - rawPart: R1, 10K, 0402-RES, SparkFun, (-0.1, 0), R90
 - rawPart: U1, TEMT6000, TEMT6000-SEN, SparkFun, (0, 0), R270
+- oompID: PROJ-SPAR-8464-STAN-01
 
 
 

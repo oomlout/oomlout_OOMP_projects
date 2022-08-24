@@ -36,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0,C1, 1uF, C0402, SparkFun, (0.65, 0.25), R0|
-|CAPE-0402-X-NF100-01, C2, 19.049999999999997, 20.32, 180,C2, 0.1uF, C0402, SparkFun, (0.75, 0.8), R180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0,C3, 10uF, EIA3216, SparkFun, (0.75, 0.9), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0,JP1, 1X02, SparkFun, (0.05, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 24.13, 0,JP2, 1X02, SparkFun, (0.05, 0.95), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 33.019999999999996, 21.59, 270,JP3, 1X04, SparkFun, (1.3, 0.85), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 25.4, 24.13, 270,JP4, 1X10, SparkFun, (1, 0.95), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 33.019999999999996, 3.8099999999999996, 90,JP5, 1X04, SparkFun, (1.3, 0.15), R90|
+|CAPC-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0,C1, 1uF, C0402, SparkFun, (0.65, 0.25), R0|
+|CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 20.32, 180,C2, 0.1uF, C0402, SparkFun, (0.75, 0.8), R180|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0,C3, 10uF, EIA3216, SparkFun, (0.75, 0.9), R0|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI10-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI10-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI10-01<br>2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td><td>[H10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 19.049999999999997, 3.8099999999999996, 0,LED1, Red, LED-1206, SparkFun, (0.75, 0.15), R0|
 |RESE-0402-X-O331-01, R1, 19.049999999999997, 6.35, 0,R1, 330, C0402, SparkFun, (0.75, 0.25), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 19.049999999999997, 12.7, 0,U1, CP2103, MLP28, SparkFun, (0.75, 0.5), R0|
@@ -60,14 +60,14 @@ Contents
 - oompName: USB Serial GPIO Breakout-CP2103
 - sources: All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/199
-- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
-- oompPart: CAPE-0402-X-NF100-01, C2, 19.049999999999997, 20.32, 180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 24.13, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 33.019999999999996, 21.59, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 25.4, 24.13, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 33.019999999999996, 3.8099999999999996, 90
+- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
+- oompPart: CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 20.32, 180
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0
+- oompPart: HEAD-I01-X-PI02-01, JP1, 1.27, 1.27, 0
+- oompPart: HEAD-I01-X-PI02-01, JP2, 1.27, 24.13, 0
+- oompPart: HEAD-I01-X-PI04-01, JP3, 33.019999999999996, 21.59, 270
+- oompPart: HEAD-I01-X-PI10-01, JP4, 25.4, 24.13, 270
+- oompPart: HEAD-I01-X-PI04-01, JP5, 33.019999999999996, 3.8099999999999996, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 19.049999999999997, 3.8099999999999996, 0
 - oompPart: RESE-0402-X-O331-01, R1, 19.049999999999997, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 33.019999999999996, 1.27, 0
@@ -88,6 +88,7 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.85), R0
 - rawPart: U1, CP2103, MLP28, SparkFun, (0.75, 0.5), R0
 - rawPart: X1, USBPTH, USB-B-PTH, SparkFun, (0.35, 0.5), R0
+- oompID: PROJ-SPAR-199-STAN-01
 
 
 

@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270,C2, 10uF, 0805-NO, microbuilder, (0.475, 0.33905512), R270|
-|CAPE-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270,C3, 10uF, 0805-NO, microbuilder, (0.25, 0.335), R270|
+|CAPC-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270,C2, 10uF, 0805-NO, microbuilder, (0.475, 0.33905512), R270|
+|CAPC-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270,C3, 10uF, 0805-NO, microbuilder, (0.25, 0.335), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 9.398, 23.114, 180,J1, VMOTORIN, TERMBLOCK_1X2-3.5MM, microbuilder, (0.37, 0.91), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 13.334999999999999, 270,JP1, 1X10_ROUND_76, microbuilder, (0.1, 0.525), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 17.779999999999998, 13.334999999999999, 90,JP3, 1X06-CLEANBIG, adafruit, (0.7, 0.525), R90|
+|<table><tr><td>![HEAD-I01-X-PI10-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI10-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI10-01<br>2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td><td>[H10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.247000048, 8.636000000000001, 180,Q1, DMG3415, SOT23-WIDE, microbuilder, (0.36405512, 0.34), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |ERROR, U1 TB6612 SSOP, 0, 0, 0,U1, TB6612, SSOP, SSOP24, microbuilder, (0.39, 0.59), R90|
@@ -56,13 +56,13 @@ Contents
 - oompName: Adafruit TB6612 Motor Driver Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2448
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270
-- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.950000038, 3.5949999219999995, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 13.980999977999998, 22.174000101999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 9.398, 23.114, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 13.334999999999999, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 17.779999999999998, 13.334999999999999, 90
+- oompPart: HEAD-I01-X-PI10-01, JP1, 2.54, 13.334999999999999, 270
+- oompPart: HEAD-I01-X-PI06-01, JP3, 17.779999999999998, 13.334999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.247000048, 8.636000000000001, 180
 - oompPart: RESE-0805-X-O103-01, R1, 12.7, 4.191, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$13, 16.509999999999998, 24.13, 0
@@ -80,6 +80,7 @@ Contents
 - rawPart: U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.95), R0
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.1), R0
 - rawPart: U1, TB6612, SSOP, SSOP24, microbuilder, (0.39, 0.59), R90
+- oompID: PROJ-ADAF-2448-STAN-01
 
 
 

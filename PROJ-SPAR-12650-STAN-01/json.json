@@ -38,31 +38,31 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C1, 26.034999999999997, 9.398, 180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 26.034999999999997, 9.398, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C2, 20.574, 14.350999999999997, 270"
+            "value": "CAPC-0603-X-UNMATCHED-01, C2, 20.574, 14.350999999999997, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C3, 22.733, 11.811, 180"
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 22.733, 11.811, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-NF330-01, C4, 20.574, 18.796, 90"
+            "value": "CAPC-0805-X-NF330-01, C4, 20.574, 18.796, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C5, 28.320999999999998, 18.923, 270"
+            "value": "CAPC-0603-X-NF100-V50, C5, 28.320999999999998, 18.923, 270"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-NF330-01, C6, 26.542999999999996, 26.034999999999997, 0"
+            "value": "CAPC-0805-X-NF330-01, C6, 26.542999999999996, 26.034999999999997, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C7, 28.194000000000003, 21.59, 0"
+            "value": "CAPC-0603-X-NF100-V50, C7, 28.194000000000003, 21.59, 0"
         },
         {
             "name": "oompPart",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 1.27, 15.239999999999998, 90"
+            "value": "HEAD-I01-X-PI03-01, JP1, 1.27, 15.239999999999998, 90"
         },
         {
             "name": "oompPart",
@@ -86,7 +86,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 1.27, 0"
+            "value": "HEAD-I01-X-PI06-01, JP3, 11.43, 1.27, 0"
         },
         {
             "name": "oompPart",

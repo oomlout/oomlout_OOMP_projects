@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 2.032, 0,JP2, 1X03_ROUND, microbuilder, (0.15, 0.08), R0|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.334, 4.699, 180,U1, ALS-PT19-315C, ALS-PT19-315C, microbuilder, (0.21, 0.185), R180|
 
@@ -52,7 +52,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2748
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.54, 0.7619999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 2.032, 0
+- oompPart: HEAD-I01-X-PI03-01, JP2, 3.8099999999999996, 2.032, 0
 - oompPart: RESE-0603-X-O103-01, R1, 2.1590000000000003, 4.699, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 3.8099999999999996, 7.874, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.334, 4.699, 180
@@ -61,6 +61,7 @@ Contents
 - rawPart: R1, 10K, 0603-NO, microbuilder, (0.085, 0.185), R0
 - rawPart: U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.15, 0.31), R0
 - rawPart: U1, ALS-PT19-315C, ALS-PT19-315C, microbuilder, (0.21, 0.185), R180
+- oompID: PROJ-ADAF-2748-STAN-01
 
 
 

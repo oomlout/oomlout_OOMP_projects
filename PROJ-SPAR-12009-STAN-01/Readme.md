@@ -36,10 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 1.27, M0,JP1, 1X06, SparkFun, (0.55, 0.05), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 11.43, M180,JP2, 1X06, SparkFun, (0.05, 0.45), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 4.826, 0,JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.5, 0.19), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.635, 7.112, 0,JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.025, 0.28), R0|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 2.54, 6.35, 0,Q1, BSS138, SOT23-3, SparkFun, (0.1, 0.25), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 6.35, 0,Q2, BSS138, SOT23-3, SparkFun, (0.5, 0.25), R0|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
@@ -62,10 +60,10 @@ Contents
 - oompName: Logic Level Converter
 - sources: All source files from https://github.com/sparkfun/Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12009
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 13.97, 1.27, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 11.43, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 4.826, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.635, 7.112, 0
+- oompPart: HEAD-I01-X-PI06-01, JP1, 13.97, 1.27, M0
+- oompPart: HEAD-I01-X-PI06-01, JP2, 1.27, 11.43, M180
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 4.826, 0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP4, 0.635, 7.112, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 2.54, 6.35, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 6.35, 0
 - oompPart: RESE-0603-X-O103-01, R1, 6.35, 8.001, 90
@@ -90,6 +88,7 @@ Contents
 - rawPart: R7, 10K, 0603-RES, SparkFun, (0.5, 0.35), R0
 - rawPart: R8, 10K, 0603-RES, SparkFun, (0.35, 0.315), R90
 - rawPart: R9, 20K, 0603-RES, SparkFun, (0.35, 0.185), R90
+- oompID: PROJ-SPAR-12009-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 25.4, 16.509999999999998, 270
 - rawPart: BAT1, BATTCON_245MM_PTH, SparkFun, (0.4, 0.6), MR270
 - rawPart: J3, 1X02, SparkFun, (1, 0.65), R270
+- oompID: PROJ-SPAR-10495-STAN-01
 
 
 

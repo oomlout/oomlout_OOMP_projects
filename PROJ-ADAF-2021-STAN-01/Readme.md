@@ -36,15 +36,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180,C1, 10uF, 0805-NO, microbuilder, (0.23, 0.47), R180|
-|CAPE-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.23, 0.24), R0|
-|CAPE-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270,C3, 0.22uF, 0805-NO, microbuilder, (0.36, 0.535), R270|
-|CAPE-0805-X-UNMATCHED-01, C4, 12.191999999999998, 14.350999999999997, 180,C4, 10uF, 0805-NO, microbuilder, (0.48, 0.565), R180|
+|CAPC-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180,C1, 10uF, 0805-NO, microbuilder, (0.23, 0.47), R180|
+|CAPC-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.23, 0.24), R0|
+|CAPC-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270,C3, 0.22uF, 0805-NO, microbuilder, (0.36, 0.535), R270|
+|CAPC-0805-X-UNMATCHED-01, C4, 12.191999999999998, 14.350999999999997, 180,C4, 10uF, 0805-NO, microbuilder, (0.48, 0.565), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 23.622, 7.112, 90,D1, 1N4148, SOD-323, microbuilder, (0.93, 0.28), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.812, 7.112, 90,D2, 1N4148, SOD-323, microbuilder, (0.78, 0.28), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 7.112, 17.399, 270,D3, 1N4148, SOD-323, microbuilder, (0.28, 0.685), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 17.779999999999998, 0,JP2, 1X05_ROUND_70, microbuilder, (0.65, 0.7), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.509999999999998, 2.54, 180,JP4, PowerIO, 1X09_ROUND_70, microbuilder, (0.65, 0.1), R180|
+|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.239999999999998, 6.858, 270,Q1, BSS138, SOT23-WIDE, microbuilder, (0.6, 0.27), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 9.906, 6.858, 270,Q2, BSS138, SOT23-WIDE, microbuilder, (0.39, 0.27), R270|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -70,18 +70,18 @@ Contents
 - oompName: Adafruit LSM9DS0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM9DS0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2021
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0
-- oompPart: CAPE-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270
-- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 12.191999999999998, 14.350999999999997, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0
+- oompPart: CAPC-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270
+- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 12.191999999999998, 14.350999999999997, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 23.622, 7.112, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.812, 7.112, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 7.112, 17.399, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.334, 16.128999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 27.813, 0.7619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 27.558999999999997, 19.177, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 16.509999999999998, 17.779999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.509999999999998, 2.54, 180
+- oompPart: HEAD-I01-X-PI05-01, JP2, 16.509999999999998, 17.779999999999998, 0
+- oompPart: HEAD-I01-X-PI09-01, JP4, 16.509999999999998, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.239999999999998, 6.858, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 9.906, 6.858, 270
 - oompPart: RESE-0805-X-O103-01, R1, 23.749, 16.002, 90
@@ -128,6 +128,7 @@ Contents
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0
 - rawPart: U1, LSM9DS0TR, LGA24_4X4MM, microbuilder, (0.65, 0.465), R180
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.23, 0.36), R270
+- oompID: PROJ-ADAF-2021-STAN-01
 
 
 

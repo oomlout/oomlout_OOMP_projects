@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180,C1, 10uF, 0805, microbuilder, (20, 110), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 300.0, -90.0, 0,JP1, 1X07_ROUND_76, microbuilder, (300, -90), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180,C1, 10uF, 0805, microbuilder, (20, 110), R180|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -56,10 +56,10 @@ Contents
 - oompName: Adafruit TMP006 and TMP007 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1296
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 510.0, 410.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 300.0, -90.0, 0
+- oompPart: HEAD-I01-X-PI07-01, JP1, 300.0, -90.0, 0
 - oompPart: RESE-0805-X-O103-01, R1, 20.0, 210.0, 180
 - oompPart: RESE-0805-X-O103-01, R2, 20.0, 290.0, 180
 - oompPart: RESE-0805-X-O103-01, R3, 20.0, 370.0, 180
@@ -80,6 +80,7 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (600, 510), R0
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0, 510), R0
 - rawPart: U1, TMP006AIYZFR, WCSP-8, microbuilder, (300, 210), R0
+- oompID: PROJ-ADAF-1296-STAN-01
 
 
 

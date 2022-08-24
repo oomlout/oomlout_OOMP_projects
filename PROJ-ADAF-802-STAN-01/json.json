@@ -46,23 +46,23 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTN1, 8.001, 18.415, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, BTN1, 8.001, 18.415, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C1, 13.716, 10.413999999999998, 90"
+            "value": "CAPC-0805-X-UNMATCHED-01, C1, 13.716, 10.413999999999998, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C2, 15.875, 10.413999999999998, 90"
+            "value": "CAPC-0805-X-UNMATCHED-01, C2, 15.875, 10.413999999999998, 90"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-NF100-01, C3, 14.858999999999998, 24.892, 180"
+            "value": "CAPC-0805-X-NF100-V50, C3, 14.858999999999998, 24.892, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-NF100-01, C4, 2.54, 24.13, 180"
+            "value": "CAPC-0805-X-NF100-V50, C4, 2.54, 24.13, 180"
         },
         {
             "name": "oompPart",
@@ -138,19 +138,19 @@
         },
         {
             "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 40.64, 26.669999999999998, 270"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 40.64, 26.669999999999998, 270"
         },
         {
             "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, 0"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, 0"
         },
         {
             "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 16.002, 40.64, 270"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 16.002, 40.64, 270"
         },
         {
             "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 23.114, 4.571999999999999, 180"
+            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 23.114, 4.571999999999999, 180"
         },
         {
             "name": "rawPart",

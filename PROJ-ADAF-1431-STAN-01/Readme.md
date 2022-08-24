@@ -26,3 +26,4 @@ Contents
 - oompName: Adafruit 1.5inch Color OLED PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1431
+- oompID: PROJ-ADAF-1431-STAN-01

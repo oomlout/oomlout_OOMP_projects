@@ -36,8 +36,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -3.8099999999999996, 0.0, 270,JP1, HEADER1X4, boogie, (-0.15, 0), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 0.0, 90,JP2, HEADER1X4, boogie, (0.15, 0), R90|
+|HEAD-I01-X-PI4-01, JP1, -3.8099999999999996, 0.0, 270,JP1, HEADER1X4, boogie, (-0.15, 0), R270|
+|HEAD-I01-X-PI4-01, JP2, 3.8099999999999996, 0.0, 90,JP2, HEADER1X4, boogie, (0.15, 0), R90|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0,U$1, SO-8, SO-08NMW, boogie, (0, 0), R0|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180,U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180|
 
 ## Tags
 
@@ -50,14 +52,15 @@ Contents
 - oompName: Adafruit SMT Breakout PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1377
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -3.8099999999999996, 0.0, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 0.0, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180
+- oompPart: HEAD-I01-X-PI4-01, JP1, -3.8099999999999996, 0.0, 270
+- oompPart: HEAD-I01-X-PI4-01, JP2, 3.8099999999999996, 0.0, 90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180
 - rawPart: JP1, HEADER1X4, boogie, (-0.15, 0), R270
 - rawPart: JP2, HEADER1X4, boogie, (0.15, 0), R90
 - rawPart: U$1, SO-8, SO-08NMW, boogie, (0, 0), R0
 - rawPart: U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180
+- oompID: PROJ-ADAF-1377-STAN-01
 
 
 

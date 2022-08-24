@@ -38,7 +38,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-NF100-01, C1, 5.460999999999999, 5.334, 90"
+            "value": "CAPC-0805-X-NF100-V50, C1, 5.460999999999999, 5.334, 90"
         },
         {
             "name": "oompPart",
@@ -66,7 +66,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, LED, 10.16, 2.2859999999999996, 0"
+            "value": "LEDS-0805-R-UNMATCHED-01, LED, 10.16, 2.2859999999999996, 0"
         },
         {
             "name": "oompPart",

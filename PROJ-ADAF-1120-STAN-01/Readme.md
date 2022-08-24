@@ -36,12 +36,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 640.0, 590.0, 180,C1, 10uF, _0805, microbuilder, (640, 590), R180|
-|CAPE-0805-X-NF100-01, C2, 460.0, 590.0, 0,C2, 0.1uF, _0805, microbuilder, (460, 590), R0|
-|CAPE-0805-X-UNMATCHED-01, C3, 410.0, 235.0, 180,C3, 4.70uF, _0805, microbuilder, (410, 235), R180|
-|CAPE-0805-X-NF220-01, C4, 640.0, 510.0, 0,C4, 0.22uF, _0805, microbuilder, (640, 510), R0|
-|CAPE-0805-X-UNMATCHED-01, C5, 640.0, 430.0, 0,C5, 10uF, _0805, microbuilder, (640, 430), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 450.0, 100.0, 0,JP1, 1X08_ROUND_76, microbuilder, (450, 100), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 640.0, 590.0, 180,C1, 10uF, _0805, microbuilder, (640, 590), R180|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
+|CAPC-0805-X-UNMATCHED-01, C3, 410.0, 235.0, 180,C3, 4.70uF, _0805, microbuilder, (410, 235), R180|
+|CAPC-0805-X-NF220-01, C4, 640.0, 510.0, 0,C4, 0.22uF, _0805, microbuilder, (640, 510), R0|
+|CAPC-0805-X-UNMATCHED-01, C5, 640.0, 430.0, 0,C5, 10uF, _0805, microbuilder, (640, 430), R0|
+|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 220.0, 270.0, 90,Q1, BSS138, SOT23-WIDE, microbuilder, (220, 270), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 270.0, 590.0, 0,Q2, BSS138, SOT23-WIDE, microbuilder, (270, 590), R0|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -62,14 +62,14 @@ Contents
 - oompName: Adafruit LSM303 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM303-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1120
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 640.0, 590.0, 180
-- oompPart: CAPE-0805-X-NF100-01, C2, 460.0, 590.0, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 410.0, 235.0, 180
-- oompPart: CAPE-0805-X-NF220-01, C4, 640.0, 510.0, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 640.0, 430.0, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 640.0, 590.0, 180
+- oompPart: CAPC-0805-X-NF100-V50, C2, 460.0, 590.0, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 410.0, 235.0, 180
+- oompPart: CAPC-0805-X-NF220-01, C4, 640.0, 510.0, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 640.0, 430.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 60.0, 570.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 780.0, 260.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 450.0, 100.0, 0
+- oompPart: HEAD-I01-X-PI08-01, JP1, 450.0, 100.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 220.0, 270.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 270.0, 590.0, 0
 - oompPart: RESE-0805-X-O103-01, R1, 270.0, 480.0, 180
@@ -98,6 +98,7 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (800, 700), R0
 - rawPart: U1, LSM303DLHC, LGA14, microbuilder, (460, 400), R90
 - rawPart: U2, RT9193, SOT23-5, microbuilder, (655, 270), R270
+- oompID: PROJ-ADAF-1120-STAN-01
 
 
 

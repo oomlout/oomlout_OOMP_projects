@@ -36,14 +36,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0402-X-NF100-01, C1, 16.509999999999998, 27.94, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.1), R0|
-|CAPE-0402-X-NF100-01, C2, 5.08, 20.32, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.8), R90|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 29.209999999999997, 0,C3, 10uF, EIA3216, SparkFun, (0.45, 1.15), R0|
+|CAPC-0402-X-NF100-V50, C1, 16.509999999999998, 27.94, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.65, 1.1), R0|
+|CAPC-0402-X-NF100-V50, C2, 5.08, 20.32, 90,C2, 0.1uF, 0402-CAP, SparkFun, (0.2, 0.8), R90|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 29.209999999999997, 0,C3, 10uF, EIA3216, SparkFun, (0.45, 1.15), R0|
 |CAPE-0402-X-UNMATCHED-01, C4, 20.32, 24.13, 0,C4, 22pF, 0402-CAP, SparkFun, (0.8, 0.95), R0|
 |CAPE-0402-X-UNMATCHED-01, C5, 20.32, 16.509999999999998, 0,C5, 22pF, 0402-CAP, SparkFun, (0.8, 0.65), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 6.35, 90,JP2, 1X12, SparkFun, (0.05, 0.25), R90|
+|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 16.509999999999998, 90,JP3, PIC-ICSP-MINI, PIC-ICSP-MINI, SparkFun, (0.45, 0.65), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 24.13, 26.669999999999998, 270,JP4, 1X09, SparkFun, (0.95, 1.05), R270|
+|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 5.334, 37.592, 90,LED1, Green, LED-1206, SparkFun, (0.21, 1.48), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 22.86, 36.83, 90,LED2, Yellow, LED-1206, SparkFun, (0.9, 1.45), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 20.32, 36.83, 90,LED3, Red, LED-1206, SparkFun, (0.8, 1.45), R90|
@@ -69,16 +69,16 @@ Contents
 - oompName: USB Bit Whacker-18F2553
 - sources: All source files from https://github.com/sparkfun/USB_Bit_Whacker-18F2553 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/762
-- oompPart: CAPE-0402-X-NF100-01, C1, 16.509999999999998, 27.94, 0
-- oompPart: CAPE-0402-X-NF100-01, C2, 5.08, 20.32, 90
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 29.209999999999997, 0
+- oompPart: CAPC-0402-X-NF100-V50, C1, 16.509999999999998, 27.94, 0
+- oompPart: CAPC-0402-X-NF100-V50, C2, 5.08, 20.32, 90
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 29.209999999999997, 0
 - oompPart: CAPE-0402-X-UNMATCHED-01, C4, 20.32, 24.13, 0
 - oompPart: CAPE-0402-X-UNMATCHED-01, C5, 20.32, 16.509999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 38.099999999999994, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 23.622, 2.032, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 6.35, 90
+- oompPart: HEAD-I01-X-PI12-01, JP2, 1.27, 6.35, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 16.509999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 24.13, 26.669999999999998, 270
+- oompPart: HEAD-I01-X-PI09-01, JP4, 24.13, 26.669999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 5.334, 37.592, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 22.86, 36.83, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 20.32, 36.83, 90
@@ -115,6 +115,7 @@ Contents
 - rawPart: S2, PRG, TACTILE_SWITCH_SMD, SparkFun, (0.3, 0.15), R0
 - rawPart: U2, PIC18F2455, SO-28W, SparkFun, (0.45, 0.7), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.5, 1.4), R270
+- oompID: PROJ-SPAR-762-STAN-01
 
 
 

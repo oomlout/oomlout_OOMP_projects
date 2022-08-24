@@ -36,6 +36,7 @@ Contents
 - oompName: Adafruit Perma Proto PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/723
+- oompID: PROJ-ADAF-723-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 0.0, 1.016, 180
 - rawPart: LED1, 1206, adafruit, (0, -0.03), R0
 - rawPart: R1, R0603, adafruit, (0, 0.04), R180
+- oompID: PROJ-ADAF-1755-STAN-01
 
 
 

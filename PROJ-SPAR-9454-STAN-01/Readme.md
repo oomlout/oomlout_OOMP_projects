@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180,C1, 10nF, 0402-CAP, SparkFun, (0.15, 0.15), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 1.27, M0,JP1, 1X03, SparkFun, (0.25, 0.05), MR0|
+|CAPC-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180,C1, 10nF, 0402-CAP, SparkFun, (0.15, 0.15), R180|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R1, 6.35, 3.8099999999999996, 180,R1, 100, 0402-RES, SparkFun, (0.25, 0.15), R180|
 |RESE-0402-X-O221-01, R2, 1.27, 3.8099999999999996, 180,R2, 220, 0402-RES, SparkFun, (0.05, 0.15), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 6.35, 180,U1, QRE1113, QRE1113, SparkFun, (0.15, 0.25), R180|
@@ -53,10 +53,10 @@ Contents
 - oompName: QRE1113 Line Sensor Breakout-Digital
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor_Breakout-Digital (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9454
-- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180
+- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.858, 13.208, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.7619999999999999, 6.35, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 1.27, M0
+- oompPart: HEAD-I01-X-PI03-01, JP1, 6.35, 1.27, M0
 - oompPart: RESE-0402-X-UNMATCHED-01, R1, 6.35, 3.8099999999999996, 180
 - oompPart: RESE-0402-X-O221-01, R2, 1.27, 3.8099999999999996, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 6.35, 180
@@ -67,6 +67,7 @@ Contents
 - rawPart: R1, 100, 0402-RES, SparkFun, (0.25, 0.15), R180
 - rawPart: R2, 220, 0402-RES, SparkFun, (0.05, 0.15), R180
 - rawPart: U1, QRE1113, QRE1113, SparkFun, (0.15, 0.25), R180
+- oompID: PROJ-SPAR-9454-STAN-01
 
 
 

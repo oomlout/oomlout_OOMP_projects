@@ -38,15 +38,15 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C1, 23.875999999999998, 4.826, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 4.826, 0"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-NF100-01, C2, 19.049999999999997, 18.415, 180"
+            "value": "CAPC-0603-X-NF100-V50, C2, 19.049999999999997, 18.415, 180"
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C3, 23.875999999999998, 20.574, 0"
+            "value": "CAPC-0603-X-UNMATCHED-01, C3, 23.875999999999998, 20.574, 0"
         },
         {
             "name": "oompPart",
@@ -74,7 +74,7 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 6.985, 21.59, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, J7, 6.985, 21.59, 270"
         },
         {
             "name": "oompPart",
@@ -82,19 +82,19 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.7619999999999999, 24.637999999999998, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 0.7619999999999999, 24.637999999999998, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 29.590999999999998, 0.889, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 29.590999999999998, 0.889, 0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 29.590999999999998, 0.889, M0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 29.590999999999998, 0.889, M0"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0"
         },
         {
             "name": "oompPart",

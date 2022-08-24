@@ -36,17 +36,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 26.162, 3.302, 0,C1, 10uF, 0805-NO, microbuilder, (1.03, 0.13), R0|
-|CAPE-0805-X-UNMATCHED-01, C2, 27.304999999999996, -3.0479999999999996, 180,C2, 10uF, 0805-NO, microbuilder, (1.075, -0.12), R180|
-|CAPE-0805-X-NF100-01, C3, 19.812, 11.176, 0,C3, 0.1uF, 0805-NO, microbuilder, (0.78, 0.44), R0|
+|CAPC-0805-X-UNMATCHED-01, C1, 26.162, 3.302, 0,C1, 10uF, 0805-NO, microbuilder, (1.03, 0.13), R0|
+|CAPC-0805-X-UNMATCHED-01, C2, 27.304999999999996, -3.0479999999999996, 180,C2, 10uF, 0805-NO, microbuilder, (1.075, -0.12), R180|
+|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 14.350999999999997, 11.302999999999999, 270,CN1, MICROSD, microbuilder, (0.565, 0.445), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 23.114, -1.778, 270,IC5, APX803, SOT23, adafruit, (0.91, -0.07), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 14.350999999999997, -6.35, 180,JP1, 1X11_ROUND, microbuilder, (0.565, -0.25), R180|
+|HEAD-I01-X-PI11-01, JP1, 14.350999999999997, -6.35, 180,JP1, 1X11_ROUND, microbuilder, (0.565, -0.25), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 27.178, 6.731, 180,Q1, MMBT2222, SOT23-WIDE, microbuilder, (1.07, 0.265), R180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R5, 24.637999999999998, 6.731, 90,R5, 22, 0603-NO, microbuilder, (0.97, 0.265), R90|
 |RESE-0603-X-UNMATCHED-01, R7, 27.304999999999996, 9.652, 0,R7, 1K, 0603-NO, microbuilder, (1.075, 0.38), R0|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.7619999999999999, 4.064, M90,U$2, DISP_LCD_0.9IN_160X80, TFT_0.96IN_160X80, microbuilder, (0.03, 0.16), MR90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 26.416, 0.254, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (1.04, 0.01), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 20.066, 4.826, 270,U3, 74HC4050D, SOIC16, microbuilder, (0.79, 0.19), R270|
 
@@ -61,20 +62,20 @@ Contents
 - oompName: Adafruit 0.96 160x80 TFT Display Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3533
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 26.162, 3.302, 0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C2, 27.304999999999996, -3.0479999999999996, 180
-- oompPart: CAPE-0805-X-NF100-01, C3, 19.812, 11.176, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 26.162, 3.302, 0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 27.304999999999996, -3.0479999999999996, 180
+- oompPart: CAPC-0805-X-NF100-V50, C3, 19.812, 11.176, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 14.350999999999997, 11.302999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 11.049, 7.746999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 23.114, -1.778, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 14.350999999999997, -6.35, 180
+- oompPart: HEAD-I01-X-PI11-01, JP1, 14.350999999999997, -6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 27.178, 6.731, 180
 - oompPart: RESE-0603-X-O103-01, R2, 19.812, -3.302, 270
 - oompPart: RESE-0603-X-UNMATCHED-01, R5, 24.637999999999998, 6.731, 90
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 27.304999999999996, 9.652, 0
 - oompPart: RESE-0603-X-O103-01, R8, 25.145999999999997, 10.287, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.7619999999999999, 4.064, M90
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.7619999999999999, 4.064, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 1.016, 16.509999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 27.686, 16.509999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 26.416, 0.254, 0
@@ -97,6 +98,7 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.09, 0.65), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (1.04, 0.01), R0
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.79, 0.19), R270
+- oompID: PROJ-ADAF-3533-STAN-01
 
 
 

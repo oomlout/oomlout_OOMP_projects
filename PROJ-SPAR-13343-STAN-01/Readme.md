@@ -57,6 +57,7 @@ Contents
 - rawPart: S1, REED, REED_SWITCH_PLASTIC, SparkFun-Electromechanical, (0, 0), R270
 - rawPart: SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.505), R0
 - rawPart: SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.505), R180
+- oompID: PROJ-SPAR-13343-STAN-01
 
 
 

@@ -51,6 +51,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 0.0, 90
 - rawPart: JP1, RASBERRYPI_IDC, microbuilder, (0, 0), R90
+- oompID: PROJ-ADAF-1135-STAN-01
 
 
 

@@ -36,9 +36,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 26.801, 12.94, M180,C1, 10uF, 0805-NO, microbuilder, (26.801, 12.94), MR180|
-|CAPE-0603-X-UNMATCHED-01, C2, 5.123, 10.273, M0,C2, 1uF, 0603-NO, microbuilder, (5.123, 10.273), MR0|
-|CAPE-0805-X-UNMATCHED-01, C10, 5.084, 8.495, M0,C10, 10uF, 0805-NO, microbuilder, (5.084, 8.495), MR0|
+|CAPC-0805-X-UNMATCHED-01, C1, 26.801, 12.94, M180,C1, 10uF, 0805-NO, microbuilder, (26.801, 12.94), MR180|
+|CAPC-0603-X-UNMATCHED-01, C2, 5.123, 10.273, M0,C2, 1uF, 0603-NO, microbuilder, (5.123, 10.273), MR0|
+|CAPC-0805-X-UNMATCHED-01, C10, 5.084, 8.495, M0,C10, 10uF, 0805-NO, microbuilder, (5.084, 8.495), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 3.433, 1.764, M0,CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (3.433, 1.764), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISPLAY1, 29.1505, -2.808, M0,DISPLAY1, DISP_LCD_ST7789_1.3IN, TFT_1.3IN_240X240_24P, microbuilder, (29.1505, -2.808), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 20.959, 14.21, M90,IC5, APX803, SOT23, adafruit, (20.959, 14.21), MR90|
@@ -50,7 +50,6 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R7, 26.547, 18.274, M180,R7, 1K, 0603-NO, microbuilder, (26.547, 18.274), MR180|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, RASPI1, -6.6, -2.3, 0,RASPI1, RASPBERRYPI_2X12_SMT, RASPBERRYPI_2X12_SMT, adafruit_sbc, (-6.6, -2.3), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 22.864, 18.274, M0,SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (22.864, 18.274), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, -2.6, 17.7, 90,SW1, EVQ-Q2_SMALLER, microbuilder, (-2.6, 17.7), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, -2.6, 7.7, 90,SW2, EVQ-Q2_SMALLER, microbuilder, (-2.6, 7.7), R90|
 
@@ -65,9 +64,9 @@ Contents
 - oompName: Adafruit Mini PiTFT 240x135 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4393
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 26.801, 12.94, M180
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, 5.123, 10.273, M0
-- oompPart: CAPE-0805-X-UNMATCHED-01, C10, 5.084, 8.495, M0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 26.801, 12.94, M180
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.123, 10.273, M0
+- oompPart: CAPC-0805-X-UNMATCHED-01, C10, 5.084, 8.495, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 3.433, 1.764, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISPLAY1, 29.1505, -2.808, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -4.187, 26.91, 0
@@ -83,7 +82,7 @@ Contents
 - oompPart: RESE-0603-X-UNMATCHED-01, R7, 26.547, 18.274, M180
 - oompPart: RESE-0603-X-O103-01, R8, 22.864, 16.496, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RASPI1, -6.6, -2.3, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 22.864, 18.274, M0
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 22.864, 18.274, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, -2.6, 17.7, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, -2.6, 7.7, 90
 - rawPart: C1, 10uF, 0805-NO, microbuilder, (26.801, 12.94), MR180
@@ -107,6 +106,7 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (22.864, 18.274), MR0
 - rawPart: SW1, EVQ-Q2_SMALLER, microbuilder, (-2.6, 17.7), R90
 - rawPart: SW2, EVQ-Q2_SMALLER, microbuilder, (-2.6, 7.7), R90
+- oompID: PROJ-ADAF-4393-STAN-01
 
 
 

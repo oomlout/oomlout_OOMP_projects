@@ -33,8 +33,8 @@ Contents
 | :---: |
 |CAPE-0603-X-UNMATCHED-01, C1, 857.0, 1385.0, 90,C1, 22nF, 0603, SparkFun-Capacitors, (857, 1385), R90|
 |CAPE-UNMATCHED-X-UNMATCHED-01, C2, 899.0, 995.79995, 0,C2, 47uF, PANASONIC_D, SparkFun-Capacitors, (899, 995.79995), R0|
-|CAPE-0603-X-NF100-01, C3, 1064.60002, 1136.0, 0,C3, 0.1uF, 0603, SparkFun-Capacitors, (1064.60002, 1136), R0|
-|CAPE-0603-X-NF100-01, C4, 1066.69993, 1445.70005, 0,C4, 0.1uF, 0603, SparkFun-Capacitors, (1066.69993, 1445.70005), R0|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 879.89998, 785.89998, 0,D1, 3A/40V/500mV, SMA-DIODE, SparkFun-DiscreteSemi, (879.89998, 785.89998), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1BP, 879.0, 713.0, M180,D1BP, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (879, 713), MR180|
 |UNMATCHED-0603-X-UNMATCHED-01, D2, 115.60002, 295.0, 180,D2, RED, LED-0603, SparkFun-LED, (115.60002, 295), R180|
@@ -82,8 +82,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/16836
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 857.0, 1385.0, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 899.0, 995.79995, 0
-- oompPart: CAPE-0603-X-NF100-01, C3, 1064.60002, 1136.0, 0
-- oompPart: CAPE-0603-X-NF100-01, C4, 1066.69993, 1445.70005, 0
+- oompPart: CAPC-0603-X-NF100-V50, C3, 1064.60002, 1136.0, 0
+- oompPart: CAPC-0603-X-NF100-V50, C4, 1066.69993, 1445.70005, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 879.89998, 785.89998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1BP, 879.0, 713.0, M180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 115.60002, 295.0, 180
@@ -162,6 +162,7 @@ Contents
 - rawPart: U1, TC78H670FTG, P-VQFN16-0303-0.50-001, SparkFun-IC-Special-Function, (1000, 1300), R180
 - rawPart: U2, LM1117, SOT223, SparkFun-IC-Power, (399, 185), R90
 - rawPart: VR1, 10k, TRIMPOT-SMD-3MM-CLOSED, SparkFun-Resistors, (1150, 1650), R180
+- oompID: PROJ-SPAR-16836-STAN-01
 
 
 

@@ -38,7 +38,7 @@
         },
         {
             "name": "oompPart",
-            "value": "CAPE-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180"
+            "value": "CAPC-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180"
         },
         {
             "name": "oompPart",
@@ -66,11 +66,11 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -1150.0, 505.0, 90"
+            "value": "HEAD-I01-X-PI06-01, JP3, -1150.0, 505.0, 90"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 1150.0, 505.0, 90"
+            "value": "HEAD-I01-X-PI06-01, JP4, 1150.0, 505.0, 90"
         },
         {
             "name": "oompPart",
@@ -194,27 +194,27 @@
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A0, 885.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A0, 885.0, 908.74016, 270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A1, 785.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A1, 785.0, 908.74016, 270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A2, 685.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A2, 685.0, 908.74016, 270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A3, 585.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A3, 585.0, 908.74016, 270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A4, 485.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A4, 485.0, 908.74016, 270"
         },
         {
             "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ_A5, 385.0, 908.74016, 270"
+            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ_A5, 385.0, 908.74016, 270"
         },
         {
             "name": "oompPart",

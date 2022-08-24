@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270,C1, 10uF, EIA3216, SparkFun, (1, 1), R270|
-|CAPE-0603-X-NF100-01, C2, 12.7, 24.13, 0,C2, 0.1uF, 0603-CAP, SparkFun, (0.5, 0.95), R0|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270,C1, 10uF, EIA3216, SparkFun, (1, 1), R270|
+|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
 |CAPE-0603-X-UNMATCHED-01, C3, 11.43, 21.59, 0,C3, 22pF, 0603-CAP, SparkFun, (0.45, 0.85), R0|
 |CAPE-0603-X-UNMATCHED-01, C4, 11.43, 13.97, 180,C4, 22pF, 0603-CAP, SparkFun, (0.45, 0.55), R180|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 14.097000000000001, 5.968999999999999, 90,D1, Blue, LED-0603, SparkFun, (0.555, 0.235), R90|
@@ -76,8 +76,8 @@ Contents
 - oompName: Pocket AVR Programmer
 - sources: All source files from https://github.com/sparkfun/Pocket_AVR_Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9825
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270
-- oompPart: CAPE-0603-X-NF100-01, C2, 12.7, 24.13, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270
+- oompPart: CAPC-0603-X-NF100-V50, C2, 12.7, 24.13, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 11.43, 21.59, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C4, 11.43, 13.97, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 14.097000000000001, 5.968999999999999, 90
@@ -136,6 +136,7 @@ Contents
 - rawPart: U1, ATTINY2313-20S, SO20L, avr, (0.8, 0.65), R270
 - rawPart: U2, 74ACT125D, SO014, SparkFun, (1.2, 0.6), R90
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.2, 0.6), R0
+- oompID: PROJ-SPAR-9825-STAN-01
 
 
 

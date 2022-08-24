@@ -37,12 +37,12 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2.2UH, 5.08, 21.59, 180,2.2UH, 2.2uH, VLF4012A, PEBBLE, (0.2, 0.85), R180|
-|CAPE-0402-X-NF100-01, C1, 6.35, 29.337, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 1.155), R0|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 29.209999999999997, M180,C2, 10uF, EIA3216, SparkFun, (0.25, 1.15), MR180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 6.35, 26.669999999999998, M180,C3, 10uF, EIA3216, SparkFun, (0.25, 1.05), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 14.099999994, 1.29999994, 90,JP2, M12PTH, 1X12, SparkFun, (0.55511811, 0.0511811), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 1.27, 90,JP3, M12PTH, 1X12, SparkFun, (0.45, 0.05), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 8.889999999999999, 3.8099999999999996, 270,JP4, 1X02, SparkFun, (0.35, 0.15), R270|
+|CAPC-0402-X-NF100-V50, C1, 6.35, 29.337, 0,C1, 0.1uF, 0402-CAP, SparkFun, (0.25, 1.155), R0|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 29.209999999999997, M180,C2, 10uF, EIA3216, SparkFun, (0.25, 1.15), MR180|
+|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 6.35, 26.669999999999998, M180,C3, 10uF, EIA3216, SparkFun, (0.25, 1.05), MR180|
+|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
+|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 17.779999999999998, 90,Q1, FDMA1024NZ, MICROFET_2X2, PEBBLE, (0.25, 0.7), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.35, 13.97, 90,Q2, FDMA1024NZ, MICROFET_2X2, PEBBLE, (0.25, 0.55), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 6.35, 10.16, 90,Q3, FDMA1024NZ, MICROFET_2X2, PEBBLE, (0.25, 0.4), R90|
@@ -72,12 +72,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mini_FET_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9627
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2.2UH, 5.08, 21.59, 180
-- oompPart: CAPE-0402-X-NF100-01, C1, 6.35, 29.337, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 29.209999999999997, M180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 6.35, 26.669999999999998, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 14.099999994, 1.29999994, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 11.43, 1.27, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 8.889999999999999, 3.8099999999999996, 270
+- oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 29.337, 0
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 29.209999999999997, M180
+- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 6.35, 26.669999999999998, M180
+- oompPart: HEAD-I01-X-PI12-01, JP2, 14.099999994, 1.29999994, 90
+- oompPart: HEAD-I01-X-PI12-01, JP3, 11.43, 1.27, 90
+- oompPart: HEAD-I01-X-PI02-01, JP4, 8.889999999999999, 3.8099999999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 17.779999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.35, 13.97, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 6.35, 10.16, 90
@@ -117,6 +117,7 @@ Contents
 - rawPart: R16, 1k, 0402-RES, SparkFun, (0.15, 0.2), MR0
 - rawPart: U1, TPS61200, DRC-S-PVSON-N10, texas, (0.25, 1.05), R270
 - rawPart: U2, ARDUINO_MINI, ARDUINO_MINI, SparkFun, (0.35, 0.65), R0
+- oompID: PROJ-SPAR-9627-STAN-01
 
 
 

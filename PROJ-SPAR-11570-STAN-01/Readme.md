@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0,JP1, 1X04, SparkFun-Connectors, (0.1, 0.05), R0|
+|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, 12.7, 0,JP2, AUDIO-JACK3, AUDIO-JACK-TRRS-SMD, SparkFun-Connectors, (0, 0.5), R0|
 
 ## Tags
@@ -50,10 +50,11 @@ Contents
 - oompName: TRRS 3.5mm Jack Breakout
 - sources: All source files from https://github.com/sparkfun/TRRS_3.5mm_Jack_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11570
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 1.27, 0
+- oompPart: HEAD-I01-X-PI04-01, JP1, 2.54, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, 12.7, 0
 - rawPart: JP1, 1X04, SparkFun-Connectors, (0.1, 0.05), R0
 - rawPart: JP2, AUDIO-JACK3, AUDIO-JACK-TRRS-SMD, SparkFun-Connectors, (0, 0.5), R0
+- oompID: PROJ-SPAR-11570-STAN-01
 
 
 

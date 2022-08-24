@@ -31,7 +31,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 17.779999999999998, 270,JP1, 1X05, SparkFun, (0.65, 0.7), R270|
+|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 5.08, 12.7, 0,U$1, USB-MINIB-5PIN, USB-MINIB, SparkFun, (0.2, 0.5), R0|
 
 ## Tags
 
@@ -44,10 +45,11 @@ Contents
 - oompName: USB miniB Breakout
 - sources: All source files from https://github.com/sparkfun/USB_miniB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9966
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 16.509999999999998, 17.779999999999998, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 5.08, 12.7, 0
+- oompPart: HEAD-I01-X-PI05-01, JP1, 16.509999999999998, 17.779999999999998, 270
+- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 5.08, 12.7, 0
 - rawPart: JP1, 1X05, SparkFun, (0.65, 0.7), R270
 - rawPart: U$1, USB-MINIB-5PIN, USB-MINIB, SparkFun, (0.2, 0.5), R0
+- oompID: PROJ-SPAR-9966-STAN-01
 
 
 

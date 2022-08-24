@@ -36,13 +36,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90,C1, 10uF, 0805-NO, microbuilder, (0.75, 0.53), R90|
-|CAPE-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90,C4, 10uF, 0805-NO, microbuilder, (0.62, 0.33), R90|
+|CAPC-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90,C1, 10uF, 0805-NO, microbuilder, (0.75, 0.53), R90|
+|CAPC-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90,C4, 10uF, 0805-NO, microbuilder, (0.62, 0.33), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.065, 6.731, 0,D2, MBR120, SOD-123, microbuilder, (0.475, 0.265), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 7.874, 8.382, 0,IC1, 74LVC2G34DBVR, SOT23-6, microbuilder, (0.31, 0.33), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 0,JP1, 1X01-CLEANBIG, adafruit, (0.75, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 1.27, 0,JP2, 1X01-CLEANBIG, adafruit, (0.05, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.16, 1.27, 0,JP4, 1X06-BIG, adafruit, (0.4, 0.05), R0|
+|HEAD-I01-X-PI01-01, JP1, 19.049999999999997, 1.27, 0,JP1, 1X01-CLEANBIG, adafruit, (0.75, 0.05), R0|
+|HEAD-I01-X-PI01-01, JP2, 1.27, 1.27, 0,JP2, 1X01-CLEANBIG, adafruit, (0.05, 0.05), R0|
+|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.413999999999998, 16.764, 180,JP5, 2X03_ROUND_70MIL, microbuilder, (0.41, 0.66), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 18.923, 34.29, 0,LED1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 1.35), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 18.923, 21.59, 180,LED3, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 0.85), R180|
@@ -53,7 +53,6 @@ Contents
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R8</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R10</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.002, 17.653, M270,SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.63, 0.695), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 3.429, 8.254999999999999, 0,SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.135, 0.325), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 26.416, 0,U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 18.415, 9.143999999999998, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0|
@@ -70,16 +69,16 @@ Contents
 - oompName: Adafruit Bluefruit Classic PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1588
-- oompPart: CAPE-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90
-- oompPart: CAPE-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90
+- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.065, 6.731, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.413999999999998, 22.352, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.842, 27.178, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 13.208, 31.241999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 7.874, 8.382, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 19.049999999999997, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 1.27, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.16, 1.27, 0
+- oompPart: HEAD-I01-X-PI01-01, JP1, 19.049999999999997, 1.27, 0
+- oompPart: HEAD-I01-X-PI01-01, JP2, 1.27, 1.27, 0
+- oompPart: HEAD-I01-X-PI06-01, JP4, 10.16, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.413999999999998, 16.764, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 18.923, 34.29, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 18.923, 21.59, 180
@@ -90,7 +89,7 @@ Contents
 - oompPart: RESE-0805-X-O103-01, R6, 11.43, 9.524999999999999, 270
 - oompPart: RESE-0805-X-O221-01, R8, 18.923, 25.145999999999997, 90
 - oompPart: RESE-0805-X-O221-01, R10, 1.5239999999999998, 25.654, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SJ1, 16.002, 17.653, M270
+- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 16.002, 17.653, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 3.429, 8.254999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 26.416, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 18.415, 9.143999999999998, 0
@@ -120,6 +119,7 @@ Contents
 - rawPart: U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0
 - rawPart: VBAT, JST-2PH, JST-PH-2-SMT-RA, adafruit, (0.4, 1.04), MR0
+- oompID: PROJ-ADAF-1588-STAN-01
 
 
 

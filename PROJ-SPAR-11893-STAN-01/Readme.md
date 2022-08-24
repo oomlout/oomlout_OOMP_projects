@@ -36,8 +36,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.175, -0.225), R270|
-|CAPE-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.065, 0.0875), R0|
+|CAPC-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.175, -0.225), R270|
+|CAPC-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.065, 0.0875), R0|
 |UNMATCHED-0603-X-UNMATCHED-01, D1, 0.3175, -7.9375, 0,D1, Yellow, LED-0603, SparkFun-LED, (0.0125, -0.3125), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -9.8425, -2.54, 90,JP1, M02-JST-2MM-SMT, JST-2-SMD, SparkFun-Connectors, (-0.3875, -0.1), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, 8.254999999999999, 270,JP2, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 0.325), R270|
@@ -59,8 +59,8 @@ Contents
 - oompName: LilyPad Simple Power
 - sources: All source files from https://github.com/sparkfun/LilyPad_Simple_Power (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11893
-- oompPart: CAPE-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0
+- oompPart: CAPC-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270
+- oompPart: CAPC-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 0.3175, -7.9375, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -5.08, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.08, -11.43, 0
@@ -85,6 +85,7 @@ Contents
 - rawPart: R4, 2.0k, 0603-RES, SparkFun-Resistors, (-0.04, -0.225), R180
 - rawPart: S1, DPDT, AYZ0202, SparkFun-Electromechanical, (0.1625, -0.1), R270
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (-0.0625, -0.1), R180
+- oompID: PROJ-SPAR-11893-STAN-01
 
 
 

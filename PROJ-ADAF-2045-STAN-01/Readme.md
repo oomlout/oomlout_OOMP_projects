@@ -36,11 +36,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90,C1, 0.47uF, 0805-NO, microbuilder, (0.5, 0.47), R90|
-|CAPE-0805-X-NF470-01, C2, 19.558, 13.716, 180,C2, 0.47uF, 0805-NO, microbuilder, (0.77, 0.54), R180|
-|CAPE-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180,C3, 10uF, 0805-NO, microbuilder, (1.09, 0.48), R180|
-|CAPE-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0,C5, 10uF, 0805-NO, microbuilder, (1.08, 0.26), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 2.54, 180,JP1, 1X07_ROUND_76, microbuilder, (0.6, 0.1), R180|
+|CAPC-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90,C1, 0.47uF, 0805-NO, microbuilder, (0.5, 0.47), R90|
+|CAPC-0805-X-NF470-01, C2, 19.558, 13.716, 180,C2, 0.47uF, 0805-NO, microbuilder, (0.77, 0.54), R180|
+|CAPC-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180,C3, 10uF, 0805-NO, microbuilder, (1.09, 0.48), R180|
+|CAPC-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0,C5, 10uF, 0805-NO, microbuilder, (1.08, 0.26), R0|
+|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 23.622, 11.176, 180,Q1, BSS138, SOT23-WIDE, microbuilder, (0.93, 0.44), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 19.558, 8.889999999999999, 180,Q2, BSS138, SOT23-WIDE, microbuilder, (0.77, 0.35), R180|
 |<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
@@ -65,13 +65,13 @@ Contents
 - oompName: Adafruit Si5351A Clock Generator Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2045
-- oompPart: CAPE-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90
-- oompPart: CAPE-0805-X-NF470-01, C2, 19.558, 13.716, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180
-- oompPart: CAPE-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0
+- oompPart: CAPC-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90
+- oompPart: CAPC-0805-X-NF470-01, C2, 19.558, 13.716, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180
+- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 27.432, 6.604, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 28.955999999999996, 14.477999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.588, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 2.54, 180
+- oompPart: HEAD-I01-X-PI07-01, JP1, 15.239999999999998, 2.54, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 23.622, 11.176, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 19.558, 8.889999999999999, 180
 - oompPart: RESE-0805-X-O103-01, R5, 19.558, 11.684, 0
@@ -107,6 +107,7 @@ Contents
 - rawPart: X2, SMA_EDGELAUNCH, microbuilder, (0.6, 0.83), R270
 - rawPart: X3, SMA_EDGELAUNCH, microbuilder, (1, 0.83), R270
 - rawPart: Y1, 25MHz, CRYSTAL_3.2X2.5, microbuilder, (0.6, 0.29), R180
+- oompID: PROJ-ADAF-2045-STAN-01
 
 
 

@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, M0,JP1, 1X03_SMD_RA_MALE_POST_SMALLER, SparkFun-Connectors, (0.15, 0.05), MR0|
+|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R1, 5.08, 17.779999999999998, 270,R1, 100, 0603-RES, SparkFun-Resistors, (0.2, 0.7), R270|
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 21.59, 180,U1, QRE1113SMD-W, QRE1113-W, SparkFun-Sensors, (0.15, 0.85), R180|
@@ -54,7 +54,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11769
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7366, 23.495, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.858, 15.748, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 1.27, M0
+- oompPart: HEAD-I01-X-PI03-01, JP1, 3.8099999999999996, 1.27, M0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 5.08, 17.779999999999998, 270
 - oompPart: RESE-0603-X-O103-01, R2, 2.54, 17.779999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 21.59, 180
@@ -64,6 +64,7 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun-Resistors, (0.2, 0.7), R270
 - rawPart: R2, 10k, 0603-RES, SparkFun-Resistors, (0.1, 0.7), R270
 - rawPart: U1, QRE1113SMD-W, QRE1113-W, SparkFun-Sensors, (0.15, 0.85), R180
+- oompID: PROJ-SPAR-11769-STAN-01
 
 
 

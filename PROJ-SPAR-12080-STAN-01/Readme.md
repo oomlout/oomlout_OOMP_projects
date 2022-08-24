@@ -36,7 +36,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPE-0603-X-NF10-01, C1, 36.83, 23.495, M90,C1, .01uF, 0603-CAP, SparkFun-Capacitors, (1.45, 0.925), MR90|
+|<table><tr><td>![CAPC-0603-X-NF10-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF10-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF10-V50<br>SMD (0603) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)</td><td>[C6N010](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 22.86, M270,D1, BAS16, SOD-323, SparkFun-DiscreteSemi, (1.05, 0.9), MR270|
 |ERROR, JP1 POWER &, 0, 0, 0,JP1, POWER, &, OUTPUT, 1X03_NO_SILK, SparkFun-Connectors, (0.8, 0.05), MR180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 31.75, 33.019999999999996, M180,Q1, MMBT3906, SOT23, SparkFun-DiscreteSemi, (1.25, 1.3), MR180|
@@ -86,7 +86,7 @@ Contents
 - oompName: VKey Voltage Keypad
 - sources: All source files from https://github.com/sparkfun/VKey_Voltage_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12080
-- oompPart: CAPE-0603-X-NF10-01, C1, 36.83, 23.495, M90
+- oompPart: CAPC-0603-X-NF10-V50, C1, 36.83, 23.495, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 22.86, M270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 54.60999999999999, 2.54, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, 72.39, M0
@@ -166,6 +166,7 @@ Contents
 - rawPart: S15, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S16, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 3.05), R0
 - rawPart: U1, LMV358, SO08, SparkFun-AnalogIC, (1.25, 0.9), MR180
+- oompID: PROJ-SPAR-12080-STAN-01
 
 
 
