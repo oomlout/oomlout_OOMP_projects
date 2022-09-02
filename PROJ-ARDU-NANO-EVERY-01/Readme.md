@@ -97,6 +97,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
+- oompID: PROJ-ARDU-NANO-EVERY-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.8675, 6.475, 0
 - oompPart: CAPE-UNMATCHED-X-NF100-01, C2, 11.27, 12.5, 0
 - oompPart: CAPE-UNMATCHED-X-UF22-01, C3, 14.1625, 13.0, 180
@@ -203,7 +204,6 @@ Contents
 - rawPart: U1, ATMEGA4809, TQFP48, Arduino-ucs&SoCs, (31.725, 8.89), R135
 - rawPart: U2, AP2112K-3.3, SOT25, Arduino-ICs, (19.7625, 4.85), R90
 - rawPart: U3, ATSAMD11D14A, HVQFN24, Arduino-ucs&SoCs, (20.55, 9.2), R0
-- oompID: PROJ-ARDU-NANO-EVERY-01
 
 
 

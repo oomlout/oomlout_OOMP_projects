@@ -161,6 +161,7 @@ Contents
 - oompName: ProtoSnap-LilyPad Development Board
 - sources: All source files from https://github.com/sparkfun/ProtoSnap-LilyPad_Development_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11262
+- oompID: PROJ-SPAR-11262-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2/16, 71.840000084, 56.03010003, 204.5
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A3/17, 63.810099964, 65.250099878, 237.3
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4/18, 52.06999999999999, 68.69010010999999, 270
@@ -395,7 +396,6 @@ Contents
 - rawPart: VIBE+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.75585433, 2.44763386), R120
 - rawPart: VIBE-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.24409449, 2.4476378), R240
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (1.77834646, 1.77126378), R270
-- oompID: PROJ-SPAR-11262-STAN-01
 
 
 

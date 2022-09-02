@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit TPA2012 or TS2012 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1552
+- oompID: PROJ-ADAF-1552-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.8999999160000005, 24.299999913999997, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 14.499999956, 17.100000089999998, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 13.999999939999999, 24.000000005999997, 180
@@ -113,7 +114,6 @@ Contents
 - rawPart: U$20, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.80708661, 0.0984252), R0
 - rawPart: U$21, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.80708661, 1.00393701), R0
 - rawPart: U1, TS2012, WQFN20, microbuilder, (0.41338583, 0.5511811), R0
-- oompID: PROJ-ADAF-1552-STAN-01
 
 
 

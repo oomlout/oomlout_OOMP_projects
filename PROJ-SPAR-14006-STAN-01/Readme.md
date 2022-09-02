@@ -103,6 +103,7 @@ Contents
 - oompName: Lil Soundie Audio Player
 - sources: All source files from https://github.com/sparkfun/Lil_Soundie_Audio_Player (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14006
+- oompID: PROJ-SPAR-14006-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 16.637, 27.178, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 8.85825, 26.44775, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 11.271249999999998, 46.83125, 0
@@ -221,7 +222,6 @@ Contents
 - rawPart: U2, VS1000D, LQFP-48, SparkFun-IC-Conversion, (0.5, 1.45), R315
 - rawPart: U3, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.49375, 0.84375), R90
 - rawPart: Y1, 12MHz, CRYSTAL-SMD-5X3, SparkFun-FreqCtrl, (0.5, 1.045), R0
-- oompID: PROJ-SPAR-14006-STAN-01
 
 
 

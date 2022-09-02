@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit AHT20 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AHT20-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4566
+- oompID: PROJ-ADAF-4566-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 8.254999999999999, 5.588, 0
 - oompPart: CAPC-0603-X-NF100-V50, C6, 12.7, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.796499999999998, 8.889999999999999, 90
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$22, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U1, AHT20, SNR6-1.0-3X3X1MM, Longan-IC, (0.5, 0.4), R0
-- oompID: PROJ-ADAF-4566-STAN-01
 
 
 

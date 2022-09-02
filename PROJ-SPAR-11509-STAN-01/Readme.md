@@ -66,6 +66,7 @@ Contents
 - oompName: Papilio Button LED Wing
 - sources: All source files from https://github.com/sparkfun/Papilio_Button_LED_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11509
+- oompID: PROJ-SPAR-11509-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 19.049999999999997, 3.8099999999999996, 180
 - oompPart: HEAD-I01-X-PI08-01, JP2, 19.049999999999997, 1.27, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 1.016, 30.733999999999998, 0
@@ -106,7 +107,6 @@ Contents
 - rawPart: S2, Button, 2, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.15, 0.85), R90
 - rawPart: S3, Button, 3, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.45, 0.5), R90
 - rawPart: S4, Button, 4, TACTILE_SWITCH_SMD, SparkFun-Electromechanical, (0.45, 0.85), R90
-- oompID: PROJ-SPAR-11509-STAN-01
 
 
 

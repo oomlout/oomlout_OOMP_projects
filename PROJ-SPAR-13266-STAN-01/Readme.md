@@ -56,6 +56,7 @@ Contents
 - oompName: MAX31855K Thermocouple Breakout
 - sources: All source files from https://github.com/sparkfun/MAX31855K_Thermocouple_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13266
+- oompID: PROJ-SPAR-13266-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 13.462, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.906, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 25.4, 16.764, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.64, 0.6), R0
 - rawPart: TP2, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.64, 0.18), R0
 - rawPart: U1, MAX31855K, SOIC8, SparkFun-AnalogIC, (0.39, 0.39), R90
-- oompID: PROJ-SPAR-13266-STAN-01
 
 
 

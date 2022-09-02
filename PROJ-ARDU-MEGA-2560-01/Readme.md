@@ -105,6 +105,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
+- oompID: PROJ-ARDU-MEGA-2560-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADCH, 3250.0, 100.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADCL, 2350.0, 100.0, 0
 - oompPart: CAPE-0603-X-PF22-01, C1, 1320.0, 575.0, 270
@@ -233,7 +234,6 @@ Contents
 - rawPart: Y2, 16MHz, QS, Cristalli, (725, 1025), R180
 - rawPart: Z1, BRNCG0603MLC-05E, CT/CN0603, Protezione, (475, 1350), R0
 - rawPart: Z2, BRNCG0603MLC-05E, CT/CN0603, Protezione, (475, 1562), R0
-- oompID: PROJ-ARDU-MEGA-2560-01
 
 
 

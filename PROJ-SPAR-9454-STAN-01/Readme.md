@@ -53,6 +53,7 @@ Contents
 - oompName: QRE1113 Line Sensor Breakout-Digital
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor_Breakout-Digital (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9454
+- oompID: PROJ-SPAR-9454-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 3.8099999999999996, 3.8099999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.858, 13.208, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.7619999999999999, 6.35, 0
@@ -67,7 +68,6 @@ Contents
 - rawPart: R1, 100, 0402-RES, SparkFun, (0.25, 0.15), R180
 - rawPart: R2, 220, 0402-RES, SparkFun, (0.05, 0.15), R180
 - rawPart: U1, QRE1113, QRE1113, SparkFun, (0.15, 0.25), R180
-- oompID: PROJ-SPAR-9454-STAN-01
 
 
 

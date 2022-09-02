@@ -57,6 +57,7 @@ Contents
 - oompName: Current Sensor Breakout-ACS723
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13679
+- oompID: PROJ-SPAR-13679-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 14.858999999999998, 11.049, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 14.858999999999998, 4.191, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 0.889, 0.889, 0
@@ -83,7 +84,6 @@ Contents
 - rawPart: JP1, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.6205, 0.3), MR180
 - rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.585, 0.495), R0
 - rawPart: U1, ACS723, SO08, SparkFun-Sensors, (0.5, 0.3), R270
-- oompID: PROJ-SPAR-13679-STAN-01
 
 
 

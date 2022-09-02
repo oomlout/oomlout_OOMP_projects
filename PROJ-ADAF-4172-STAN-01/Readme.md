@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit ESP32 HUZZAH Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ESP32-HUZZAH-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4172
+- oompID: PROJ-ADAF-4172-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 10.540999999999999, 11.049, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 16.637, 13.716, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 13.97, 13.462, 0
@@ -115,7 +116,6 @@ Contents
 - rawPart: U1, AP2112-3.3, SOT23-5, microbuilder, (0.57, 0.415), R90
 - rawPart: X1, ESP32_WROOM32, WROOM32, microbuilder, (0.5, 1.22), R0
 - rawPart: X2, JSTPH, JSTPH2, microbuilder, (0.5, 0.35), MR180
-- oompID: PROJ-ADAF-4172-STAN-01
 
 
 

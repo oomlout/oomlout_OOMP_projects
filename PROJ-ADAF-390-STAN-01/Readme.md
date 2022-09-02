@@ -71,6 +71,7 @@ Contents
 - oompName: USB DC Solar Lithium Ion Polymer charger
 - sources: All source files from https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/390
+- oompID: PROJ-ADAF-390-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0
@@ -131,7 +132,6 @@ Contents
 - rawPart: THERM, 10K, 0805-THM, adafruit, (0.25, 0.8), R270
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.14, 1.25), R0
 - rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.69, 0.24), R0
-- oompID: PROJ-ADAF-390-STAN-01
 
 
 

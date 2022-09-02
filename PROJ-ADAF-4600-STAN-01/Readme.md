@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit QT Py PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4600
+- oompID: PROJ-ADAF-4600-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.6906, 10.731499999999999, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 4.953, 12.966699999999998, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 7.708899999999999, 12.9794, 0
@@ -116,7 +117,6 @@ Contents
 - rawPart: U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.45, 0.402), R180
 - rawPart: U2, SOIC8_150MIL, microbuilder, (0.2825, 0.3695), MR90
 - rawPart: X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.705), R180
-- oompID: PROJ-ADAF-4600-STAN-01
 
 
 

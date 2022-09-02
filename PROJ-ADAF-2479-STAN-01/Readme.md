@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit Bluefruit LE UART Friend PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2479
+- oompID: PROJ-ADAF-2479-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.54, 21.336, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.302, 18.541999999999998, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 0
@@ -134,7 +135,6 @@ Contents
 - rawPart: VTREF, FCTRST, PAD-1.5X2.0, microbuilder, (0.68, 0.72), MR270
 - rawPart: X1, JST, 2PH, JSTPH2, microbuilder, (0.42, 1.1), MR0
 - rawPart: Y1, 32.768kHz, (535-9166-2-ND), CRYSTAL_CYL_2X6MM_SMT, microbuilder, (0.11, 0.65), MR90
-- oompID: PROJ-ADAF-2479-STAN-01
 
 
 

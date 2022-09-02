@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit 1.27inch Color OLED Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1673
+- oompID: PROJ-ADAF-1673-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 12.7499999, -8.250000009999999, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 16.000000004, -3.000000096, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.999999875999999, -0.250000008, 90
@@ -136,7 +137,6 @@ Contents
 - rawPart: U2, MIC5225-3.3v, SOT23-5, microbuilder, (0.55610236, 0.23622047), R90
 - rawPart: U3, FAN5331SX, SOT23-5@1, microbuilder, (0.11811024, 0.0492126), R180
 - rawPart: U4, 74HC4050D, SOIC16, microbuilder, (0.18700787, 0.35917323), R180
-- oompID: PROJ-ADAF-1673-STAN-01
 
 
 

@@ -52,6 +52,7 @@ Contents
 - oompName: Hall-Effect Current Sensor Breakout-ACS712
 - sources: All source files from https://github.com/sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8882
+- oompID: PROJ-SPAR-8882-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 11.43, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 3.8099999999999996, 3.8099999999999996, 0
 - oompPart: HEAD-I01-X-PI04-01, JP3, 20.32, 11.43, 270
@@ -64,7 +65,6 @@ Contents
 - rawPart: JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.8, 0.55), R0
 - rawPart: JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.3, 0.05), R0
 - rawPart: U$1, ACS712, SO08, SparkFun, (0.45, 0.3), R270
-- oompID: PROJ-SPAR-8882-STAN-01
 
 
 

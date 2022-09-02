@@ -94,6 +94,7 @@ Contents
 - oompName: SparkFun Pro Micro-RP2040
 - sources: All source files from https://github.com/sparkfun/SparkFun_Pro_Micro-RP2040 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17717
+- oompID: PROJ-SPAR-17717-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C6, 11.43, 25.019, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C7, 11.43, 24.13, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C8, 11.43, 23.241, 180
@@ -194,7 +195,6 @@ Contents
 - rawPart: U3, WS2812-2020, WS2812-2020, SparkFun-LED, (0.61417323, 1.24015748), R90
 - rawPart: U4, W25QXX128MBIT, WSON-8-6X5-SKINNY_CENTERPAD, SparkFun-IC-Memory, (0.35, 0.76), R0
 - rawPart: Y1, 12MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.145, 0.27), R180
-- oompID: PROJ-SPAR-17717-STAN-01
 
 
 

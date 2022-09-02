@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit PowerBoost 500 Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-500-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2078
+- oompID: PROJ-ADAF-2078-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOG, 56.13399999999999, 6.731, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT_IN, 14.985999999999999, 2.54, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 8.382, 8.128, 0
@@ -160,7 +161,6 @@ Contents
 - rawPart: U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (0.335, 0.205), R90
 - rawPart: U4, TPS61030RSAR, PVQFN-16, microbuilder, (1.115, 0.27), R270
 - rawPart: X1, MicroUSB, 4UCONN_20329, microbuilder, (0.17, 0.22), R270
-- oompID: PROJ-ADAF-2078-STAN-01
 
 
 

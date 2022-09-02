@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit ItsyBitsy nRF52840 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4481
+- oompID: PROJ-ADAF-4481-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 16.4084, 12.344399999999998, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 15.239999999999998, 12.3317, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 27.5336, 10.6426, M0
@@ -139,7 +140,6 @@ Contents
 - rawPart: U2, AP2112(3.3V), SOT23-5, microbuilder, (0.438, 0.247), MR90
 - rawPart: X1, 4u20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.35), R270
 - rawPart: Y2, 32.768, XTAL3215, adafruit2, (0.712, 0.489), R90
-- oompID: PROJ-ADAF-4481-STAN-01
 
 
 

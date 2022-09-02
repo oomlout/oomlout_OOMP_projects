@@ -51,6 +51,7 @@ Contents
 - oompName: MMA8452 Accelerometer
 - sources: All source files from https://github.com/sparkfun/MMA8452_Accelerometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13926
+- oompID: PROJ-SPAR-13926-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 11.43, 7.619999999999999, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 8.889999999999999, 11.43, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 11.43, 6.35, 0
@@ -73,7 +74,6 @@ Contents
 - rawPart: R3, 10k, 0402-RES, SparkFun, (0.45, 0.35), R180
 - rawPart: SJ1, SJ_2S-NO, SparkFun, (0.3, 0.3), MR90
 - rawPart: U1, MMA8452Q, QFN-16_0.5MM, SparkFun, (0.3, 0.3), R270
-- oompID: PROJ-SPAR-13926-STAN-01
 
 
 

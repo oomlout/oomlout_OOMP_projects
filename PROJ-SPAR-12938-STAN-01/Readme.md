@@ -81,6 +81,7 @@ Contents
 - oompName: Si4703 FM Tuner Evaluation Board
 - sources: All source files from https://github.com/sparkfun/Si4703_FM_Tuner_Evaluation_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12938
+- oompID: PROJ-SPAR-12938-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.97, 13.97, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 3.8099999999999996, 13.97, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 13.97, 12.7, 180
@@ -147,7 +148,6 @@ Contents
 - rawPart: U3, TPA6111, SO08-TIGHT, SparkFun-AnalogIC, (0.75, 0.85), R0
 - rawPart: U4, AUDIO-JACK-3.5MM-SMD, SparkFun-Connectors, (0.25, 1.25), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (0.55, 0.4), R270
-- oompID: PROJ-SPAR-12938-STAN-01
 
 
 

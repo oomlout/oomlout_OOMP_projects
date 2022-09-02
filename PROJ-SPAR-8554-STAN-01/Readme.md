@@ -54,6 +54,7 @@ Contents
 - oompName: IR Receiver Breakout
 - sources: All source files from https://github.com/sparkfun/IR_Receiver_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8554
+- oompID: PROJ-SPAR-8554-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 2.54, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 8.889999999999999, 2.54, 270
 - oompPart: HEAD-I01-X-PI03-01, JP1, 11.43, 2.54, M90
@@ -66,7 +67,6 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun, (0.25, 0.3), R270
 - rawPart: R2, 2.2k, 0603-RES, SparkFun, (0.35, 0.3), R90
 - rawPart: U1, IRRECEIVERSMD, TSOP8523, SparkFun, (0.15, 0.2), R270
-- oompID: PROJ-SPAR-8554-STAN-01
 
 
 

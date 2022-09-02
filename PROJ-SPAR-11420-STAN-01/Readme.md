@@ -76,6 +76,7 @@ Contents
 - oompName: MiniGen
 - sources: All source files from https://github.com/sparkfun/MiniGen (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11420
+- oompID: PROJ-SPAR-11420-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 12.827, 28.701999999999995, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 4.699, 28.575, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 8.889999999999999, 26.669999999999998, 0
@@ -138,7 +139,6 @@ Contents
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-PowerIC, (0.35, 1.15), R90
 - rawPart: U3, AD9837, AD9837, SparkFun-AnalogIC, (0.5, 0.75), R270
 - rawPart: U4, SO08, SparkFun-AnalogIC, (0.225, 0.3), R180
-- oompID: PROJ-SPAR-11420-STAN-01
 
 
 

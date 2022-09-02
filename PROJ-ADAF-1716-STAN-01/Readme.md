@@ -98,6 +98,7 @@ Contents
 - oompName: Adafruit Qualia Driver PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Qualia-Driver-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1716
+- oompID: PROJ-ADAF-1716-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.9999998740000002, 41.000000041999996, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 10.100000119999999, 41.199999895999994, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 21.499999925999997, 33.000000039999996, 180
@@ -222,7 +223,6 @@ Contents
 - rawPart: X1, 0472720001, DISPLAYPORT_0472720001, microbuilder, (1.65354331, 0.66929134), R90
 - rawPart: X2, 502250-5191, FPC_51PIN_502250-5191_EXT, microbuilder, (0.23622047, 0.94488189), R270
 - rawPart: X3, 2.1mm, DCJACK_2MM_SMT, microbuilder, (1.69291339, 2.34251969), R180
-- oompID: PROJ-ADAF-1716-STAN-01
 
 
 

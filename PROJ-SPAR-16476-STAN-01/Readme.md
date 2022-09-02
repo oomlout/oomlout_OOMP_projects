@@ -62,6 +62,7 @@ Contents
 - oompName: MicroPressure Sensor
 - sources: All source files from https://github.com/sparkfun/MicroPressure_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16476
+- oompID: PROJ-SPAR-16476-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 13.081, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 16.509999999999998, 13.081, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 4.3180000000000005, 17.272000000000002, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.17, 0.74), R0
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.5, 0.315), R0
 - rawPart: U1, MPR, Series, MPR_SERIES_PRESSURE_I2C, SparkFun-Sensors, (0.5, 0.5), R180
-- oompID: PROJ-SPAR-16476-STAN-01
 
 
 

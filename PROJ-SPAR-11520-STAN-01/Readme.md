@@ -102,6 +102,7 @@ Contents
 - oompName: Fio v3
 - sources: All source files from https://github.com/sparkfun/Fio_v3 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11520
+- oompID: PROJ-SPAR-11520-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 13.97, 50.8, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 18.145000032, 18.145000032, 225
 - oompPart: CAPE-0603-X-UNMATCHED-01, C5, 10.16, 29.209999999999997, 180
@@ -216,7 +217,6 @@ Contents
 - rawPart: U6, MIC5219-3.3, SOT23-5, SparkFun, (0.4, 1.75), R270
 - rawPart: X2, USB_MICROB_PLUGCONN-11752, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.3, 2.5), R270
 - rawPart: Y2, 8MHz, CRYSTAL-SMD-5X3, SparkFun, (0.5, 1.25), R180
-- oompID: PROJ-SPAR-11520-STAN-01
 
 
 

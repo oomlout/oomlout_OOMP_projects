@@ -85,6 +85,7 @@ Contents
 - oompName: Top pHat
 - sources: All source files from https://github.com/sparkfun/Top_pHat (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16653
+- oompID: PROJ-SPAR-16653-STAN-01
 - oompPart: CAPC-0603-X-UF22D-01, C1, 67.95, 7.55, 180
 - oompPart: CAPC-0603-X-UF22D-01, C2, 72.0, 52.77, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 76.5, 45.0, 180
@@ -199,7 +200,6 @@ Contents
 - rawPart: U4, WM8960, QFN-32, SparkFun-IC-Special-Function, (72, 42.5), R270
 - rawPart: U5, ATTINY84, SO14, SparkFun-IC-Microcontroller, (69.5, 13.5), R270
 - rawPart: Y1, 24, MHz, RESONATOR-SMD-3.2X2.5, SparkFun-Clocks, (66.5, 44.5), R270
-- oompID: PROJ-SPAR-16653-STAN-01
 
 
 

@@ -114,6 +114,7 @@ Contents
 - oompName: Adafruit Circuit Playground Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3333
+- oompID: PROJ-ADAF-3333-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -22.6695, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3TAP2, 11.302999999999999, 19.685, 330
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BATT, 0.0, -21.59, 180
@@ -260,7 +261,6 @@ Contents
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (-0.145, -0.59), R0
 - rawPart: U4, SPI, FLASH, SOIC8_150MIL, microbuilder, (-0.0275, 0.6375), R270
 - rawPart: VCC2, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.445, -0.775), R210
-- oompID: PROJ-ADAF-3333-STAN-01
 
 
 

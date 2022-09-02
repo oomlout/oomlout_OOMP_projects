@@ -85,6 +85,7 @@ Contents
 - oompName: Power Delivery Board-USB-C
 - sources: All source files from https://github.com/sparkfun/Power_Delivery_Board-USB-C (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15801
+- oompID: PROJ-SPAR-15801-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.208, 21.462999999999997, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 16.256, 21.462999999999997, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 17.779999999999998, 11.557, 90
@@ -167,7 +168,6 @@ Contents
 - rawPart: R13, 1k, 0603, SparkFun-Resistors, (1.295, 0.865), R0
 - rawPart: S1, TACTILE_SWITCH_SMD_4.6X2.8MM, SparkFun-Switches, (0.815, 0.975), R180
 - rawPart: U1, STUSB4500, QFN-24, SparkFun-IC-Power, (0.57, 0.65), R0
-- oompID: PROJ-SPAR-15801-STAN-01
 
 
 

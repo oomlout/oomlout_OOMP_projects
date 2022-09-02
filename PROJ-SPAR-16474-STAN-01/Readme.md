@@ -79,6 +79,7 @@ Contents
 - oompName: SparkFun Photodetector Breakout MAX30101 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16474
+- oompID: PROJ-SPAR-16474-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 14.604999999999999, 8.889999999999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 16.6116, 18.211799999999997, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 8.889999999999999, 9.118599999999999, 270
@@ -149,7 +150,6 @@ Contents
 - rawPart: U1, 1.8V/100mA, SC70, SparkFun-PowerIC, (0.5, 0.35), R0
 - rawPart: U2, MAX30101EFD, 14_PIN_OESIP, SparkFun-IC-Special-Function, (0.5, 0.885), R270
 - rawPart: U3, PAM2401, MSOP8, SparkFun-IC-Power, (0.437, 0.671), R90
-- oompID: PROJ-SPAR-16474-STAN-01
 
 
 

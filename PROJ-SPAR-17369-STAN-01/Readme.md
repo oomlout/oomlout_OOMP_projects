@@ -141,6 +141,7 @@ Contents
 - oompName: SparkFun RTK Surveyor
 - sources: All source files from https://github.com/sparkfun/SparkFun_RTK_Surveyor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17369
+- oompID: PROJ-SPAR-17369-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BLUETOOTH_BROADCAST, 3.8099999999999996, 19.049999999999997, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 21.59, 16.256, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 30.479999999999997, 38.099999999999994, 90
@@ -337,7 +338,6 @@ Contents
 - rawPart: U7, MAX17048, DFN-8, SparkFun-IC-Power, (0.45, 4.15), MR0
 - rawPart: U10, MCP73833, DFN-10, SparkFun-IC-Power, (0.3, 4), MR90
 - rawPart: ZED_CONTROL, SWITCH_DPDT_SMD_AYZ0202, SparkFun-Switches, (-0.074, 0.75), MR90
-- oompID: PROJ-SPAR-17369-STAN-01
 
 
 

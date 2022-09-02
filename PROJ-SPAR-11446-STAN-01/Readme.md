@@ -52,6 +52,7 @@ Contents
 - oompName: ADXL362 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL362_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11446
+- oompID: PROJ-SPAR-11446-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 7.874, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.302, 9.143999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 9.6774, 2.54, 0
@@ -64,7 +65,6 @@ Contents
 - rawPart: JP1, 1X04, SparkFun-Connectors, (0.05, 0.05), R90
 - rawPart: JP2, 1X04, SparkFun-Connectors, (0.45, 0.35), R270
 - rawPart: U1, ADXL362-1:1, SparkFun-Sensors, (0.25, 0.2), R0
-- oompID: PROJ-SPAR-11446-STAN-01
 
 
 

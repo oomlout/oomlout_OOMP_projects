@@ -76,6 +76,7 @@ Contents
 - oompName: Pocket AVR Programmer
 - sources: All source files from https://github.com/sparkfun/Pocket_AVR_Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9825
+- oompID: PROJ-SPAR-9825-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 25.4, 25.4, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 12.7, 24.13, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 11.43, 21.59, 0
@@ -136,7 +137,6 @@ Contents
 - rawPart: U1, ATTINY2313-20S, SO20L, avr, (0.8, 0.65), R270
 - rawPart: U2, 74ACT125D, SO014, SparkFun, (1.2, 0.6), R90
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.2, 0.6), R0
-- oompID: PROJ-SPAR-9825-STAN-01
 
 
 

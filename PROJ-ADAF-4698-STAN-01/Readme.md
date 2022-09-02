@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit AS7341 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AS7341-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4698
+- oompID: PROJ-ADAF-4698-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.049, 5.588, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.746999999999999, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.270999999999999, 11.557, 90
@@ -105,7 +106,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U1, AP7312-3.3/1.8, SOT23-6, adafruit_power, (0.325, 0.325), R270
 - rawPart: X1, AS7341, AS7341, adafruit_sensor, (0.5, 0.335), R0
-- oompID: PROJ-ADAF-4698-STAN-01
 
 
 

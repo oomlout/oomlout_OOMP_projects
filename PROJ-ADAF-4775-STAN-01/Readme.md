@@ -105,6 +105,7 @@ Contents
 - oompName: Adafruit Metro ESP32 S2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4775
+- oompID: PROJ-ADAF-4775-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 2.2859999999999996, 11.557, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 38.0365, 56.070499999999996, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 44.449999999999996, 42.4815, 270
@@ -231,7 +232,6 @@ Contents
 - rawPart: X2, 4u20317, 2X05_1.27MM_BOX_POSTS, microbuilder, (1.545, 1.96), R0
 - rawPart: X4, USB, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (1.49, 2.555), R180
 - rawPart: X5, 2.1mm, DCJACK_2MM_PTH, microbuilder, (0.31, 2.835), R270
-- oompID: PROJ-ADAF-4775-STAN-01
 
 
 

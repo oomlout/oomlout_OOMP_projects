@@ -123,6 +123,7 @@ Contents
 - oompName: Wireless Motor Driver Shield
 - sources: All source files from https://github.com/sparkfun/Wireless_Motor_Driver_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14285
+- oompID: PROJ-SPAR-14285-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 48.387, 34.416999999999994, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 24.13, 22.86, 90
 - oompPart: CAPC-1210-X-UNMATCHED-01, C3, 52.06999999999999, 36.83, 0
@@ -307,7 +308,6 @@ Contents
 - rawPart: U1, XBEE-1XBEE-1_LOCK, XBEE-1_LOCK, SparkFun-RF, (1.1, 0.9), R90
 - rawPart: U2, ARDUINO, UNO_R3_SHIELD_NOLABELS_LOCK, SparkFun-Boards, (0, 2.1), R270
 - rawPart: U3, TB6612FNG, SSOP24, SparkFun-PowerIC, (1.7, 1.05), R0
-- oompID: PROJ-SPAR-14285-STAN-01
 
 
 

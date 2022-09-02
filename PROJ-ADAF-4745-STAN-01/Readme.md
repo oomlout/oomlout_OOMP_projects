@@ -99,6 +99,7 @@ Contents
 - oompName: Adafruit MatrixPortal M4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MatrixPortal-M4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4745
+- oompID: PROJ-ADAF-4745-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3VON, 8.001, 41.9735, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5VON, 5.3594, 41.9481, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 15.5956, 11.413690659999999, 270
@@ -217,7 +218,6 @@ Contents
 - rawPart: X1, RGBMATRIX_THMSMT, 2X08_SMTTHM_RGBMATRIX, microbuilder, (2.25, 0.875), R270
 - rawPart: X5, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.15, 0.325), R270
 - rawPart: X6, ESP32_WROOM32, WROOM32, microbuilder, (1.036, 1.248), R0
-- oompID: PROJ-ADAF-4745-STAN-01
 
 
 

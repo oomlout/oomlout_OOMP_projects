@@ -106,6 +106,7 @@ Contents
 - oompName: Qwiic GPS-RTK2
 - sources: All source files from https://github.com/sparkfun/Qwiic_GPS-RTK2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16481
+- oompID: PROJ-SPAR-16481-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.43, 29.209999999999997, 180
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 35.05199999999999, 23.241, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 13.97, 19.812, 180
@@ -230,7 +231,6 @@ Contents
 - rawPart: SPI, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.95, 0.335), MR90
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (0.5, 0.95), R270
 - rawPart: U3, ZED-F9P, ZED-F9P, ZED-F9P, (1, 0.85), R90
-- oompID: PROJ-SPAR-16481-STAN-01
 
 
 

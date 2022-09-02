@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit LSM303 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM303-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1120
+- oompID: PROJ-ADAF-1120-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 640.0, 590.0, 180
 - oompPart: CAPC-0805-X-NF100-V50, C2, 460.0, 590.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 410.0, 235.0, 180
@@ -98,7 +99,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (800, 700), R0
 - rawPart: U1, LSM303DLHC, LGA14, microbuilder, (460, 400), R90
 - rawPart: U2, RT9193, SOT23-5, microbuilder, (655, 270), R270
-- oompID: PROJ-ADAF-1120-STAN-01
 
 
 

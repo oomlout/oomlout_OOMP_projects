@@ -94,6 +94,7 @@ Contents
 - oompName: CryptoCape
 - sources: All source files from https://github.com/sparkfun/CryptoCape (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12773
+- oompID: PROJ-SPAR-12773-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AES1, 26.162, 34.798, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 5.588, 10.795, 90
 - oompPart: CAPC-0603-X-NF100-V50, C1, 29.209999999999997, 14.224, 270
@@ -192,7 +193,6 @@ Contents
 - rawPart: U2, ATMEGA328P, TQFP32-08, SparkFun-DigitalIC, (1.55, 1.3), R180
 - rawPart: U3, EEPROM-I2CSMD, SO08, SparkFun-DigitalIC, (1.01, 0.65), R180
 - rawPart: Y2, 8MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (1.825, 1.395), R90
-- oompID: PROJ-SPAR-12773-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: ToF Range Finder Breakout-VL6180
 - sources: All source files from https://github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12784
+- oompID: PROJ-SPAR-12784-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.668, 11.049, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.112, 11.049, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.764, 2.794, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: R4, 47K, 0603-RES, SparkFun-Resistors, (0.1, 0.21), R90
 - rawPart: SJ1, PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.565, 0.21), R90
 - rawPart: U1, VL6180, VL6180, VL6180, (0.35, 0.33), R0
-- oompID: PROJ-SPAR-12784-STAN-01
 
 
 

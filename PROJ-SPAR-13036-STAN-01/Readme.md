@@ -73,6 +73,7 @@ Contents
 - oompName: Edison Arduino Block
 - sources: All source files from https://github.com/sparkfun/Edison_Arduino_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13036
+- oompID: PROJ-SPAR-13036-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.334999999999999, 39.37, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 5.715, 30.479999999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 11.43, 25.4, 0
@@ -141,7 +142,6 @@ Contents
 - rawPart: U4, ATMEGA328, TQFP32-08, SparkFun, (0.5, 1.25), R90
 - rawPart: U5, SO14, SparkFun-DigitalIC, (0.45, 0.65), R90
 - rawPart: Y1, 8MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (0.6, 0.95), R0
-- oompID: PROJ-SPAR-13036-STAN-01
 
 
 

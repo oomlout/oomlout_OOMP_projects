@@ -98,6 +98,7 @@ Contents
 - oompName: PoEthernet Shield
 - sources: All source files from https://github.com/sparkfun/PoEthernet_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10864
+- oompID: PROJ-SPAR-10864-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 27.94, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 33.019999999999996, 31.75, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C4, 25.4, 31.75, 270
@@ -214,7 +215,6 @@ Contents
 - rawPart: U6, MAGJACK-POE, MAGJACK-POE, SparkFun, (0.25, 1.5), R90
 - rawPart: U7, STM811, SOT143, SparkFun, (0.7, 0.35), R180
 - rawPart: Y1, 25MHz, CRYSTAL-SMD-5X3, SparkFun, (1.15, 1.25), R180
-- oompID: PROJ-SPAR-10864-STAN-01
 
 
 

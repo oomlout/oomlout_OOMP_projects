@@ -50,6 +50,7 @@ Contents
 - oompName: Humidity Sensor Breakout-HIH-4030
 - sources: All source files from https://github.com/sparkfun/Humidity_Sensor_Breakout-HIH-4030 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9569
+- oompID: PROJ-SPAR-9569-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.365999999999999, 6.858, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 17.525999999999996, 1.778, 0
 - oompPart: HEAD-I01-X-PI03-01, JP1, 1.27, 6.35, 270
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.69, 0.07), R0
 - rawPart: JP1, 1X03, SparkFun, (0.05, 0.25), R270
 - rawPart: U1, HIH-4030SMD, HIH-4030, SparkFun, (0.45, 0.15), R270
-- oompID: PROJ-SPAR-9569-STAN-01
 
 
 

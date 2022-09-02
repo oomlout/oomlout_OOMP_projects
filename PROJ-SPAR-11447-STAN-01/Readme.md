@@ -68,6 +68,7 @@ Contents
 - oompName: Wake on shake
 - sources: All source files from https://github.com/sparkfun/Wake_on_shake (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11447
+- oompID: PROJ-SPAR-11447-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.43, 7.874, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.43, 14.350999999999997, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 17.906999999999996, 11.176, 270
@@ -112,7 +113,6 @@ Contents
 - rawPart: U1, ADXL362, ADXL362-1:1, SparkFun-Sensors, (0.6, 0.25), R0
 - rawPart: U2, SOP20W, SparkFun-DigitalIC, (1.05, 0.45), R0
 - rawPart: U3, ADP160-3.3, SOT23-5, SparkFun-PowerIC, (0.595, 0.45), R270
-- oompID: PROJ-SPAR-11447-STAN-01
 
 
 

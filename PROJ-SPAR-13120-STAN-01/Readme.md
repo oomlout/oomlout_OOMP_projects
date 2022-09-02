@@ -89,6 +89,7 @@ Contents
 - oompName: MG2639 Cellular Shield
 - sources: All source files from https://github.com/sparkfun/MG2639_Cellular_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13120
+- oompID: PROJ-SPAR-13120-STAN-01
 - oompPart: ERROR, BAT1 12mm coincell, 0, 0, 0
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 46.99, 36.83, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 38.099999999999994, 67.30999999999999, 90
@@ -201,7 +202,6 @@ Contents
 - rawPart: U1, SPX29302, Q5-DD_SPX29300, SparkFun-PowerIC, (1.6, 1.75), R0
 - rawPart: U2, TXB0104, SO14, SparkFun-DigitalIC, (0.55, 1.8), R90
 - rawPart: U3, MG2639V3, MG2639, MG2639, (0.8, 0.95), R0
-- oompID: PROJ-SPAR-13120-STAN-01
 
 
 

@@ -91,6 +91,7 @@ Contents
 - oompName: Adafruit QT Py ESP32 S2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-ESP32-S2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5325
+- oompID: PROJ-ADAF-5325-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 11.937999999999999, 12.738099999999998, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 4.381499999999999, 9.8552, M0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 14.2875, 2.0955, M0
@@ -185,7 +186,6 @@ Contents
 - rawPart: X1, ANT_2450AT18B100, adafruit_wireless, (0.1865, 0.104), R270
 - rawPart: X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.705), R180
 - rawPart: Y1, 40MHz, CRYSTAL_2X1.6, microbuilder, (0.415, 0.109), MR270
-- oompID: PROJ-ADAF-5325-STAN-01
 
 
 

@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit BeagleBone ProtoBoard PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/572
+- oompID: PROJ-ADAF-572-STAN-01
 - oompPart: HEAD-I01-X-PI23-01, JP1, 46.99, 45.084999999999994, 180
 - oompPart: HEAD-I01-X-PI23-01, JP2, 46.99, 47.625, 0
 - oompPart: HEAD-I01-X-PI23-01, JP3, 46.99, 6.985, 180
@@ -137,7 +138,6 @@ Contents
 - rawPart: U$23, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (3.1515748, 0.2488189), R0
 - rawPart: U1, BREAKOUT_SOIC8, microbuilder, (2.96, 0.85), R0
 - rawPart: U2, BREAKOUT_SOT23-6, microbuilder, (2.775, 0.825), R180
-- oompID: PROJ-ADAF-572-STAN-01
 
 
 

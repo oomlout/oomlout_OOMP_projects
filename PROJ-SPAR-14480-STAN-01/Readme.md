@@ -64,6 +64,7 @@ Contents
 - oompName: Triple Axis Accelerometer Breakout-H3LIS331DL
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-H3LIS331DL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14480
+- oompID: PROJ-SPAR-14480-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 10.16, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 3.8099999999999996, 10.16, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 6.35, 19.049999999999997, 0
@@ -96,7 +97,6 @@ Contents
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.435, 0.165), R0
 - rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.55, 0.55), R90
 - rawPart: U1, H3LIS331DL, LGA-16-3X3, SparkFun-Sensors, (0.4, 0.4), R90
-- oompID: PROJ-SPAR-14480-STAN-01
 
 
 

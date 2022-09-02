@@ -64,6 +64,7 @@ Contents
 - oompName: Qwiic Shield for Arduino
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Arduino (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14352
+- oompID: PROJ-SPAR-14352-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 52.06999999999999, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 3.8099999999999996, 57.15, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 52.06999999999999, 3.8099999999999996, M0
@@ -104,7 +105,6 @@ Contents
 - rawPart: R3, 4.7K, 0603-RES, SparkFun-Resistors, (1.85, 0.6), R0
 - rawPart: R4, 4.7K, 0603-RES, SparkFun-Resistors, (2, 0.6), R0
 - rawPart: U1, ARDUINO, UNO, UNO_R3_SHIELD_NOLABELS, SparkFun-Boards, (0, 0), R0
-- oompID: PROJ-SPAR-14352-STAN-01
 
 
 

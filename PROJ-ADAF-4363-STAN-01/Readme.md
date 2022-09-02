@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Airlift Bitsy Add On PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4363
+- oompID: PROJ-ADAF-4363-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 70.0, 200.0, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 140.0, 200.0, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 211.0, 200.5, 90
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$34, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1311, 113), R270
 - rawPart: U$35, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (38.14173, 314.72441), R90
 - rawPart: U5, NINA-W102, ARDUINO-UCS&SOCS_NINA-W1X, microbuilder, (1075, 350), R180
-- oompID: PROJ-ADAF-4363-STAN-01
 
 
 

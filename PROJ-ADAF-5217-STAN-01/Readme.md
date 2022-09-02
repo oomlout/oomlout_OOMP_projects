@@ -215,6 +215,7 @@ Contents
 - oompName: Adafruit EyeLights LED Glasses and Driver PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5217
+- oompID: PROJ-ADAF-5217-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -66.258000072, 24.059999886, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.261999889999999, 31.689499993999995, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 65.77100003, 20.900499982, 270
@@ -557,7 +558,6 @@ Contents
 - rawPart: R41, 51, 0603-NO, microbuilder, (-0.77, 0.99), R180
 - rawPart: R42, 2.2K, 0603-NO, microbuilder, (2.55, 0.9325), R180
 - rawPart: X1, IS31FL3741, QFN60_7MM, microbuilder, (-0.00478346, 1.04177165), R225
-- oompID: PROJ-ADAF-5217-STAN-01
 
 
 

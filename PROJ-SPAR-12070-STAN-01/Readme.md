@@ -120,6 +120,7 @@ Contents
 - oompName: Solder-able Breadboard
 - sources: All source files from https://github.com/sparkfun/Solder-able_Breadboard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12070
+- oompID: PROJ-SPAR-12070-STAN-01
 - oompPart: HEAD-I01-X-PI29-01, JP1, 11.43, 55.88, 0
 - oompPart: HEAD-I01-X-PI29-01, JP2, 11.43, 53.339999999999996, 0
 - oompPart: HEAD-I01-X-PI29-01, JP3, 11.43, 10.16, 0
@@ -264,7 +265,6 @@ Contents
 - rawPart: S2, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (3.55, 2.35), R0
 - rawPart: S3, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S4, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (3.55, 0.15), R0
-- oompID: PROJ-SPAR-12070-STAN-01
 
 
 

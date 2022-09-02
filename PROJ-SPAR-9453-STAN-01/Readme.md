@@ -52,6 +52,7 @@ Contents
 - oompName: QRE1113 Line Sensor-Analog
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor-Analog (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9453
+- oompID: PROJ-SPAR-9453-STAN-01
 - oompPart: HEAD-I01-X-PI03-01, JP1, 6.35, 1.27, M0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 5.334, 3.8099999999999996, 180
 - oompPart: RESE-0603-X-O103-01, R2, 2.2859999999999996, 3.8099999999999996, 180
@@ -60,7 +61,6 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun, (0.21, 0.15), R180
 - rawPart: R2, 10K, 0603-RES, SparkFun, (0.09, 0.15), R180
 - rawPart: U1, QRE11131:1, QRE1113-1:1, Testing, (0.15, 0.25), R180
-- oompID: PROJ-SPAR-9453-STAN-01
 
 
 

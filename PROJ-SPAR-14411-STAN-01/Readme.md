@@ -79,6 +79,7 @@ Contents
 - oompName: LiPo Charger Booster 5V 1A
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14411
+- oompID: PROJ-SPAR-14411-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 17.525999999999996, 8.889999999999999, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 17.525999999999996, 7.112, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 10.921999999999999, 21.59, 90
@@ -143,7 +144,6 @@ Contents
 - rawPart: TP1, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.16, 0.65), MR0
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-IC-Power, (0.38, 0.695), R180
 - rawPart: U2, PAM2401, MSOP8, SparkFun-IC-Power, (0.65, 0.515), R180
-- oompID: PROJ-SPAR-14411-STAN-01
 
 
 

@@ -83,6 +83,7 @@ Contents
 - oompName: Adafruit PiTFT Plus 2.8 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2298
+- oompID: PROJ-ADAF-2298-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 25.781, 39.116, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 41.275, 45.593, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 29.337, 43.688, 180
@@ -173,7 +174,6 @@ Contents
 - rawPart: U2, STMPE811, QFN16_3MM, microbuilder, (41.91, 40.386), R180
 - rawPart: WPJ, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (19.304, 61.087), R0
 - rawPart: WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (17.399, 55.499), R270
-- oompID: PROJ-ADAF-2298-STAN-01
 
 
 

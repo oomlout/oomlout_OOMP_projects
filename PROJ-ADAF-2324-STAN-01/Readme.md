@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Ultimate GPS HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Ultimate-GPS-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2324
+- oompID: PROJ-ADAF-2324-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 18.668999999999997, 7.746999999999999, 180
 - oompPart: CAPC-0805-X-NF100-V50, C1, 22.098, 35.559999999999995, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.098, 37.719, 180
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$20, U.FL, U.FL, microbuilder, (0.27, 0.535), R90
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (1.13, 1.505), R0
 - rawPart: U2, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0.67, 0.995), R270
-- oompID: PROJ-ADAF-2324-STAN-01
 
 
 

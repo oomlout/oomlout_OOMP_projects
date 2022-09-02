@@ -66,6 +66,7 @@ Contents
 - oompName: MIDI Breakout
 - sources: All source files from https://github.com/sparkfun/MIDI_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9598
+- oompID: PROJ-SPAR-9598-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.86, 22.86, 270
 - oompPart: HEAD-I01-X-PI2-01, JP1, 50.900000053999996, 7.649999939999999, 0
 - oompPart: HEAD-I01-X-PI2-01, JP2, 7.470000045999999, 50.979999893999995, 180
@@ -112,7 +113,6 @@ Contents
 - rawPart: U$3, MIDI_CONN_FEMALE_SUPPORT, DIN_5_FEMALE_SUPPORT, SparkFun, (1.9, 1.45), R90
 - rawPart: U$5, MIDI_CONN_FEMALE_SUPPORT, DIN_5_FEMALE_SUPPORT, SparkFun, (1, 1.55), R180
 - rawPart: U$6, OPTO_DARL_6N138S, 8-SMD, SparkFun, (1.2, 0.9), R0
-- oompID: PROJ-SPAR-9598-STAN-01
 
 
 

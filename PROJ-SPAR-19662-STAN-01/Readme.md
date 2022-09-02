@@ -62,6 +62,7 @@ Contents
 - oompName: SparkFun Qwiic Pressure Sensor BMP384
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19662
+- oompID: PROJ-SPAR-19662-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 17.145, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.605999999999998, 18.415, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.575, 0.675), R90
 - rawPart: R5, 1k, 0603, SparkFun-Resistors, (0.89, 0.675), R0
 - rawPart: U1, BMP384, LGA-10, bmp384, (0.49964567, 0.50017717), R90
-- oompID: PROJ-SPAR-19662-STAN-01
 
 
 

@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit USB DC LiPoly Charger
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-DC-LiPoly-Charger (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/280
+- oompID: PROJ-ADAF-280-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BATT_IN, 17.272000000000002, 3.429, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BATT_OUT, 27.178, 3.429, 180
 - oompPart: CAPC-0805-X-NF470-01, C3, 18.668999999999997, 16.383, 180
@@ -119,7 +120,6 @@ Contents
 - rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.09, 1.34), R90
 - rawPart: USB, MINI-USB, USB-MINIB, adafruit, (0.43, 1.41), R180
 - rawPart: VIN, 1X2-3.5MM, 3.5MMTERM, adafruit, (0.84, 1.45), R180
-- oompID: PROJ-ADAF-280-STAN-01
 
 
 

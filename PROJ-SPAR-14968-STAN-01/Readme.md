@@ -52,6 +52,7 @@ Contents
 - oompName: gator control
 - sources: All source files from https://github.com/sparkfun/gator_control (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14968
+- oompID: PROJ-SPAR-14968-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 99.05999999999999, 45.72, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 99.05999999999999, 45.72, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 3.8099999999999996, 1.27, M0
@@ -84,7 +85,6 @@ Contents
 - rawPart: U$16, GATOR, GATOR, SparkFun-Connectors, (3.4, 1.6), R180
 - rawPart: U$17, GATOR, GATOR, SparkFun-Connectors, (0.55, 0.65), R0
 - rawPart: U$19, GATOR, GATOR, SparkFun-Connectors, (1.5, 0.65), R0
-- oompID: PROJ-SPAR-14968-STAN-01
 
 
 

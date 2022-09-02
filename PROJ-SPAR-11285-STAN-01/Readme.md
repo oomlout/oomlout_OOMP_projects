@@ -54,6 +54,7 @@ Contents
 - oompName: LilyPad Coin Cell Battery Holder-Switched
 - sources: All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11285
+- oompID: PROJ-SPAR-11285-STAN-01
 - oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-, 7.543799999999999, 2.413, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-2, 25.1714, 2.413, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (1.17260002, 0.68170005), R0
 - rawPart: FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.18710002, 0.20179995), R0
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.63, 1.025), R180
-- oompID: PROJ-SPAR-11285-STAN-01
 
 
 

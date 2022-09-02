@@ -51,13 +51,13 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, D7, 1.27, 6.35, M270,D7, 1A/23V/620mV, SOD-323, SparkFun-DiscreteSemi, (0.05, 0.25), MR270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.000000098, 0.0, 0,J1, MICROMOD-2222, M.2-CARD-E-22, SparkFun-MicroMod, (0.43307087, 0), R0|
 |RESE-0402-X-UNMATCHED-01, R1, 5.999999937999999, 20.99999991, 0,R1, 1k, 0402-TIGHT, SparkFun-Resistors, (0.23622047, 0.82677165), R0|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-O154-01, R4, 9.000000034, 11.999999875999999, M270,R4, 150k, 0402-TIGHT, SparkFun-Resistors, (0.35433071, 0.47244094), MR270|
 |RESE-0402-X-O154-01, R5, 12.01000011, 4.950000006, M0,R5, 150k, 0402-TIGHT, SparkFun-Resistors, (0.47283465, 0.19488189), MR0|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R6</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R6</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-O154-01, R7, 11.999999875999999, 5.999999937999999, M0,R7, 150k, 0402-TIGHT, SparkFun-Resistors, (0.47244094, 0.23622047), MR0|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R14</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R14</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0402-X-O224-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O224-01/image_140.jpg)</td><td> R15</td><td>[RESE-0402-X-O224-01<br>SMD (0402) 220k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O224-01/)</td><td>[R42224](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O224-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.500000113999999, 11.999999875999999, 180,U1, ARTEMIS_MODULESMD, ARTEMIS_FP, SparkFun-IC-Microcontroller, (0.45275591, 0.47244094), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 11.000000098, 9.000000034, M270,U2, TSV524, QFN-16, OpAmp, (0.43307087, 0.35433071), MR270|
@@ -75,6 +75,7 @@ Contents
 - oompName: MicroMod Artemis Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_Artemis_Processor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16401
+- oompID: PROJ-SPAR-16401-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 14.050000093999998, 9.000000034, M270
 - oompPart: CAPC-0402-X-NF220-01, C2, 21.160000097999998, 15.499999987999999, M90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 20.060000012, 11.999999875999999, M270
@@ -137,7 +138,6 @@ Contents
 - rawPart: U2, TSV524, QFN-16, OpAmp, (0.43307087, 0.35433071), MR270
 - rawPart: U6, CH340E_MSOP10, MSOP10, SparkFun-IC-Comms, (0.70866142, 0.47244094), MR90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.79527559, 0.5511811), R270
-- oompID: PROJ-SPAR-16401-STAN-01
 
 
 

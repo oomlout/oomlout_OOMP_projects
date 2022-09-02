@@ -80,6 +80,7 @@ Contents
 - oompName: XBee Explorer Serial
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Serial (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9111
+- oompID: PROJ-SPAR-9111-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 19.685, 12.7, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 19.685, 10.16, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 17.779999999999998, 20.32, 0
@@ -164,7 +165,6 @@ Contents
 - rawPart: U1, MAX232SOIC16, SO016, SparkFun-DigitalIC, (0.85, 1), R0
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun-RF, (0.8, 1.1), R180
 - rawPart: U3, LM117, SOT223, SparkFun-PowerIC, (1.8, 0.825), R180
-- oompID: PROJ-SPAR-9111-STAN-01
 
 
 

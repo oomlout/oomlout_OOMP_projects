@@ -54,6 +54,7 @@ Contents
 - oompName: LilyPad Protoboard Small
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Small (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9102
+- oompID: PROJ-SPAR-9102-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, -6.604, 3.8099999999999996, 240
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 6.604, 3.8099999999999996, 120
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$5, 0.0, -7.619999999999999, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: U$8, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25984252, -0.1496063), R300
 - rawPart: U$9, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25984252, -0.1496063), R60
 - rawPart: U$10, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.2992126), R180
-- oompID: PROJ-SPAR-9102-STAN-01
 
 
 

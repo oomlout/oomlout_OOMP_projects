@@ -66,6 +66,7 @@ Contents
 - oompName: SparkFun Qwiic ADXL313
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ADXL313 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17241
+- oompID: PROJ-SPAR-17241-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 23.875999999999998, 7.365999999999999, M270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 15.493999999999998, 8.102599999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C4, 11.0998, 8.1534, 180
@@ -110,7 +111,6 @@ Contents
 - rawPart: R5, 1k, 0603, SparkFun-Resistors, (0.108, 0.247), R180
 - rawPart: R6, 0, 0603, SparkFun-Resistors, (0.69, 0.444), R270
 - rawPart: U1, ADXL313, LFCSP, SparkFun-Sensors, (0.5, 0.5), R90
-- oompID: PROJ-SPAR-17241-STAN-01
 
 
 

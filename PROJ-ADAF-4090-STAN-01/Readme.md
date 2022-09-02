@@ -52,6 +52,7 @@ Contents
 - oompName: Adafruit USB C Downstream Breakout
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4090
+- oompID: PROJ-ADAF-4090-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.7, 9.398, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 7.619999999999999, 12.572999999999999, 180
 - oompPart: HEAD-I01-X-PI08-01, JP1, 10.16, 2.54, 180
@@ -68,7 +69,6 @@ Contents
 - rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.45), R180
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R180
 - rawPart: X1, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.4, 0.55), R180
-- oompID: PROJ-ADAF-4090-STAN-01
 
 
 

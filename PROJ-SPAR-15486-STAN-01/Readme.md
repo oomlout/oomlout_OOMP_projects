@@ -63,6 +63,7 @@ Contents
 - oompName: gator rtc
 - sources: All source files from https://github.com/sparkfun/gator_rtc (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15486
+- oompID: PROJ-SPAR-15486-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 10.16, 12.7, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 19.049999999999997, 22.86, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 24.13, 12.7, 90
@@ -117,7 +118,6 @@ Contents
 - rawPart: R10, 10k, 0603, SparkFun-Resistors, (0.75, 0.7), R180
 - rawPart: S2, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.75, 0.5), R180
 - rawPart: U3, RV-3028, RV-3028, SparkFun-Clocks, (1.15, 0.5), R90
-- oompID: PROJ-SPAR-15486-STAN-01
 
 
 

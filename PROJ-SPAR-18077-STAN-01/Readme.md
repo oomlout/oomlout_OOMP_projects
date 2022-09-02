@@ -59,6 +59,7 @@ Contents
 - oompName: SparkFun Cryptographic Co-Processor Breakout ATECC608A Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18077
+- oompID: PROJ-SPAR-18077-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 16.433799999999998, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.5806, 7.619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 24.13, 0
@@ -89,7 +90,6 @@ Contents
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.5, 0.29), R180
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.75, 0.3), R180
 - rawPart: U1, ATECC608A, DUAL_UDFN_2X3MM_SOIC-8, SparkFun-IC-Special-Function, (0.5, 0.5), R270
-- oompID: PROJ-SPAR-18077-STAN-01
 
 
 

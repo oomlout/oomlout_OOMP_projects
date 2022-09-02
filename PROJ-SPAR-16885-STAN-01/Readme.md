@@ -103,6 +103,7 @@ Contents
 - oompName: MicroMod ATP Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_ATP_Carrier_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16885
+- oompID: PROJ-SPAR-16885-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 6.604, 8.889999999999999, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 69.596, 37.846, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 11.4046, 27.6606, 0
@@ -227,7 +228,6 @@ Contents
 - rawPart: TP3, TEST-POINT3X5, PAD.03X.05, SparkFun-Connectors, (0.9, 1.1), MR0
 - rawPart: U5, AP7361C-33, UDFN-8, SparkFun-IC-Power, (0.43, 0.7), R0
 - rawPart: VIN_LED, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.26, 0.27), MR0
-- oompID: PROJ-SPAR-16885-STAN-01
 
 
 

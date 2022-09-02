@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3463
+- oompID: PROJ-ADAF-3463-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.588, 5.334, 180
 - oompPart: CAPC-0805-X-NF100-V50, C2, 13.271499999999998, 11.2395, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 9.143999999999998, 14.097000000000001, 180
@@ -128,7 +129,6 @@ Contents
 - rawPart: U1, MIC5225-3.3V, SOT23-5, microbuilder, (0.175, 0.33), R0
 - rawPart: U2, FXOS8700CQ, QFN16_3MM_FREESCALE_5X3, microbuilder, (0.375, 0.43), R0
 - rawPart: U4, FXAS21002C, QFN24_4MM_FREESCALE_7X5, microbuilder, (0.67, 0.43), R180
-- oompID: PROJ-ADAF-3463-STAN-01
 
 
 

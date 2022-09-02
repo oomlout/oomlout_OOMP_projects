@@ -63,6 +63,7 @@ Contents
 - oompName: Servo Trigger
 - sources: All source files from https://github.com/sparkfun/Servo_Trigger (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13118
+- oompID: PROJ-SPAR-13118-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.128, 30.987999999999996, 90
 - oompPart: CAPC-0603-X-NF100-V50, C5, 2.54, 15.239999999999998, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.35, 38.099999999999994, 0
@@ -107,7 +108,6 @@ Contents
 - rawPart: TP3, TEST-POINT3X4, PAD.03X.04, SparkFun-Passives, (0.7, 1), MR0
 - rawPart: U1, ATTINY84, SO14, SparkFun-DigitalIC, (0.35, 0.55), R0
 - rawPart: Y1, 16MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (0.25, 0.3), R180
-- oompID: PROJ-SPAR-13118-STAN-01
 
 
 

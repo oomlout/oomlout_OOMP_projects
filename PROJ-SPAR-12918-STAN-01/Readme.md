@@ -55,6 +55,7 @@ Contents
 - oompName: MCP4725 Breakout
 - sources: All source files from https://github.com/sparkfun/MCP4725_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12918
+- oompID: PROJ-SPAR-12918-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.524999999999999, 12.065, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.8204, 1.0668, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 7.874, 14.528799999999999, 0
@@ -77,7 +78,6 @@ Contents
 - rawPart: SJ1, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.3, 0.525), MR180
 - rawPart: SJ2, JUMPER-PAD-3-2OF3_NC_BY_PASTE, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.3, 0.125), R90
 - rawPart: U1, MCP4725, SOT23-6, SparkFun-AnalogIC, (0.3, 0.3), R270
-- oompID: PROJ-SPAR-12918-STAN-01
 
 
 

@@ -82,6 +82,7 @@ Contents
 - oompName: LilyPad XBee
 - sources: All source files from https://github.com/sparkfun/LilyPad_XBee (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8937
+- oompID: PROJ-SPAR-8937-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, -4.9022, 13.6398, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, -1.27, 13.97, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, -6.4516, 13.6398, 270
@@ -158,7 +159,6 @@ Contents
 - rawPart: U$51, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84724409, -0.12204724), R8.2
 - rawPart: U1, XBEE-1B3, XBEE-SMD, SparkFun, (0, -0.4), R0
 - rawPart: U2, V_REG_LDOSMD, SOT23-5, SparkFun, (0.15, 0.55), R0
-- oompID: PROJ-SPAR-8937-STAN-01
 
 
 

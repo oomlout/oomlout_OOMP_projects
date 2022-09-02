@@ -60,6 +60,7 @@ Contents
 - oompName: SparkFun BME280 Breakout Board
 - sources: All source files from https://github.com/sparkfun/SparkFun_BME280_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13676
+- oompID: PROJ-SPAR-13676-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 15.795624999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.619999999999999, 14.208124999999997, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 19.367499999999996, 0
@@ -88,7 +89,6 @@ Contents
 - rawPart: SJ2, EN, I2C, MODE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.2875, 0.2625), MR270
 - rawPart: SJ3, EN, ADR, PULLUP, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.1875, 0.75), MR180
 - rawPart: U1, BME280, BME280_LGA, BME280ComponentLibrary, (0.25, 0.45), R270
-- oompID: PROJ-SPAR-13676-STAN-01
 
 
 

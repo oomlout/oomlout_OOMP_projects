@@ -87,6 +87,7 @@ Contents
 - oompName: LumiDrive
 - sources: All source files from https://github.com/sparkfun/LumiDrive (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14779
+- oompID: PROJ-SPAR-14779-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 21.59, 45.846999999999994, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 27.813, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 21.462999999999997, 40.259, 0
@@ -189,7 +190,6 @@ Contents
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.35, 1.755), R90
 - rawPart: U4, W25Q32FV, SOIC-8, SparkFun-IC-Memory, (0.8, 0.89), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.405, 1.095), R180
-- oompID: PROJ-SPAR-14779-STAN-01
 
 
 

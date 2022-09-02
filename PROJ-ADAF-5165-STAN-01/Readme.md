@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit MCP9601 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MCP9601-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5165
+- oompID: PROJ-ADAF-5165-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.238999999999999, 12.065, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 8.001, 5.5245, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90
@@ -114,7 +115,6 @@ Contents
 - rawPart: U$33, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U$34, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: X1, TERMBLK, TERMBLOCK_1X2-3.5MM, microbuilder, (0.5, 0.55), R180
-- oompID: PROJ-ADAF-5165-STAN-01
 
 
 

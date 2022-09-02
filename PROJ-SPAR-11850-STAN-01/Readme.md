@@ -75,6 +75,7 @@ Contents
 - oompName: PicoBuck
 - sources: All source files from https://github.com/sparkfun/PicoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11850
+- oompID: PROJ-SPAR-11850-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.619999999999999, 16.319499999999998, 270
 - oompPart: CAPC-0805-X-UF22D-01, C2, 24.892, 20.955, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.256, 16.319499999999998, 270
@@ -139,7 +140,6 @@ Contents
 - rawPart: U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.195, 0.675), R0
 - rawPart: U2, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.535, 0.675), R0
 - rawPart: U3, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.875, 0.675), R0
-- oompID: PROJ-SPAR-11850-STAN-01
 
 
 

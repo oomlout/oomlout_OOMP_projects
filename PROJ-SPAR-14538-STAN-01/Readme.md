@@ -55,6 +55,7 @@ Contents
 - oompName: Haptic Motor Driver
 - sources: All source files from https://github.com/sparkfun/Haptic_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14538
+- oompID: PROJ-SPAR-14538-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 12.858749999999999, 14.604999999999999, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 7.9375, 14.604999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.35, 1.5875, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: R1, 2.2k, 0603-RES, SparkFun-Resistors, (0.54375, 0.2625), R270
 - rawPart: R2, 2.2k, 0603-RES, SparkFun-Resistors, (0.3125, 0.2625), R270
 - rawPart: U1, DRV2605L, VSSOP-10, SparkFun-PowerIC, (0.41875, 0.4625), R0
-- oompID: PROJ-SPAR-14538-STAN-01
 
 
 

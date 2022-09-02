@@ -148,6 +148,7 @@ Contents
 - oompName: LilyPad ProtoSnap Plus
 - sources: All source files from https://github.com/sparkfun/LilyPad_ProtoSnap_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14346
+- oompID: PROJ-SPAR-14346-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 13.97, 40.64, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 58.80099695199999, 55.292628048, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 65.43674695200001, 65.516128048, 45
@@ -392,7 +393,6 @@ Contents
 - rawPart: U3, ALS-PT19, ALS-PT19, SparkFun-Sensors, (0.55, 2.6), R0
 - rawPart: U5, 32U4, QFN-44-PAD_1:1-LESS_PASTE, SparkFun-IC-Microcontroller, (2.4, 2.4), R0
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun-FreqCtrl, (2.415, 2.09000025), R180
-- oompID: PROJ-SPAR-14346-STAN-01
 
 
 

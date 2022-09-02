@@ -109,6 +109,7 @@ Contents
 - oompName: Adafruit PyRuler PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PyRuler-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4319
+- oompID: PROJ-ADAF-4319-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.8755, 14.731999999999998, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.3665, 9.080499999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 8.3185, 9.143999999999998, 180
@@ -239,7 +240,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.9, 0.275), R90
 - rawPart: U$9, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.9, 0.725), R90
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.79, 0.4375), R0
-- oompID: PROJ-ADAF-4319-STAN-01
 
 
 

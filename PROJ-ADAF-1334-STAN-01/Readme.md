@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit TCS34725 Color Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TCS34725-Color-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1334
+- oompID: PROJ-ADAF-1334-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 13.241999931999999, 7.050000124, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 17.432999932, 11.176999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 17.800999958, 4.990999924, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.7), R180
 - rawPart: U1, TCS34725, TCS3472_FN6, microbuilder, (0.41181102, 0.39370079), R180
 - rawPart: U2, RT9193, SOT23-5, microbuilder, (0.68082677, 0.32838583), R90
-- oompID: PROJ-ADAF-1334-STAN-01
 
 
 

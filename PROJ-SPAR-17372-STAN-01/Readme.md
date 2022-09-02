@@ -53,6 +53,7 @@ Contents
 - oompName: SparkFun PIR Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_PIR_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17372
+- oompID: PROJ-SPAR-17372-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 3.302, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 10.16, 3.302, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.8099999999999996, 1.27, 0
@@ -71,7 +72,6 @@ Contents
 - rawPart: JP9, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.45, 0.8), R0
 - rawPart: R5, 47k, 0603, SparkFun-Resistors, (0.1, 0.13), R0
 - rawPart: U1, EKMC4607112k, TO-3, SparkFun-Sensors, (0.25, 0.4), R0
-- oompID: PROJ-SPAR-17372-STAN-01
 
 
 

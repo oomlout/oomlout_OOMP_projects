@@ -66,6 +66,7 @@ Contents
 - oompName: AVR Stick
 - sources: All source files from https://github.com/sparkfun/AVR_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9147
+- oompID: PROJ-SPAR-9147-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C3, 26.669999999999998, 7.619999999999999, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 26.669999999999998, 10.16, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 21.59, 6.35, 180
@@ -106,7 +107,6 @@ Contents
 - rawPart: U$2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.445, 0.04), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.13, 0.4), R0
 - rawPart: X1, USBPCB, USB-A-PCB, SparkFun, (1.3, 0.24), R180
-- oompID: PROJ-SPAR-9147-STAN-01
 
 
 

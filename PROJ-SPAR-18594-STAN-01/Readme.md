@@ -84,6 +84,7 @@ Contents
 - oompName: MicroMod DA16200 Function
 - sources: All source files from https://github.com/sparkfun/MicroMod_DA16200_Function (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18594
+- oompID: PROJ-SPAR-18594-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 56.260999999999996, 15.493999999999998, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 39.37, 28.575, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 54.736999999999995, 15.493999999999998, 270
@@ -166,7 +167,6 @@ Contents
 - rawPart: U2, CH340E_MSOP10, MSOP10, SparkFun-IC-Comms, (2.095, 0.24), R180
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.62, 1.085), R270
 - rawPart: U4, EEPROM, SO08, SparkFun-IC-Memory, (0.34, 0.71), R270
-- oompID: PROJ-SPAR-18594-STAN-01
 
 
 

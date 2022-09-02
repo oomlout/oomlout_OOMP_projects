@@ -129,6 +129,7 @@ Contents
 - oompName: OBD-II UART
 - sources: All source files from https://github.com/sparkfun/OBD-II_UART (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10769
+- oompID: PROJ-SPAR-10769-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 13.97, 21.59, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 3.8099999999999996, 16.509999999999998, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 6.35, 11.43, 180
@@ -291,7 +292,6 @@ Contents
 - rawPart: U3, 5V, Reg., SOT23-5, SparkFun, (2.5, 0.5), R270
 - rawPart: X2, Male, DB9, DB9_MALE, SparkFun, (1.35, 1.4), R0
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (0.25, 0.6), R90
-- oompID: PROJ-SPAR-10769-STAN-01
 
 
 

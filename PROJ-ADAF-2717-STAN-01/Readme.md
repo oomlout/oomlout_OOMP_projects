@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit TCA9548A I2C Multiplexer PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2717
+- oompID: PROJ-ADAF-2717-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 3.937, 16.509999999999998, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 3.937, 13.97, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 3.937, 11.43, M0
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 0.1), R0
 - rawPart: U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.35, 1.1), R0
 - rawPart: U1, TCA9548APWR, TSSOP24, microbuilder, (0.35, 0.63), R270
-- oompID: PROJ-ADAF-2717-STAN-01
 
 
 

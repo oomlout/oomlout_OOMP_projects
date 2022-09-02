@@ -54,6 +54,7 @@ Contents
 - oompName: SN74HC165-Shift-In-Breakout
 - sources: All source files from https://github.com/sparkfun/SN74HC165-Shift-In-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11512
+- oompID: PROJ-SPAR-11512-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 7.619999999999999, 8.889999999999999, 180
 - oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 24.13, 270
 - oompPart: HEAD-I01-X-PI06-01, JP2, 5.08, 29.209999999999997, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.12), R0
 - rawPart: R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.3), R0
 - rawPart: U1, 74HC165D, SO16, SparkFun-DigitalIC, (0.45, 0.6), R270
-- oompID: PROJ-SPAR-11512-STAN-01
 
 
 

@@ -55,6 +55,7 @@ Contents
 - oompName: gator starter
 - sources: All source files from https://github.com/sparkfun/gator_starter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14891
+- oompID: PROJ-SPAR-14891-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 45.72, 29.845, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 88.89999999999999, 46.99, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 88.89999999999999, 46.99, M0
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$35, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (3.325, 0.025), R0
 - rawPart: U2, LIGHT_SENSORTEMT6000, TEMT6000, SparkFun-Sensors, (2.975, 0.95), R180
 - rawPart: U3, MCP9700TT, SOT23-3, SparkFun-Sensors, (0.625, 0.925), R0
-- oompID: PROJ-SPAR-14891-STAN-01
 
 
 

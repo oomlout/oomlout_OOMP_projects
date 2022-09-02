@@ -71,6 +71,7 @@ Contents
 - oompName: Mini FET Shield
 - sources: All source files from https://github.com/sparkfun/Mini_FET_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9627
+- oompID: PROJ-SPAR-9627-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2.2UH, 5.08, 21.59, 180
 - oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 29.337, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 29.209999999999997, M180
@@ -117,7 +118,6 @@ Contents
 - rawPart: R16, 1k, 0402-RES, SparkFun, (0.15, 0.2), MR0
 - rawPart: U1, TPS61200, DRC-S-PVSON-N10, texas, (0.25, 1.05), R270
 - rawPart: U2, ARDUINO_MINI, ARDUINO_MINI, SparkFun, (0.35, 0.65), R0
-- oompID: PROJ-SPAR-9627-STAN-01
 
 
 

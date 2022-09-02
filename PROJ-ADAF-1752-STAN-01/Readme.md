@@ -102,6 +102,7 @@ Contents
 - oompName: Adafruit MAX9744 Amplifier PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX9744-Amplifier-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1752
+- oompID: PROJ-ADAF-1752-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 41.68099995, 36.378999885999995, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.447999996, 26.591999902, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 46.927000125999996, 34.443999946, 270
@@ -230,7 +231,6 @@ Contents
 - rawPart: VR1, Must, be, <1Kohm, TRIMPOT_100MILPTH, microbuilder, (0.19535433, 0.34740157), R180
 - rawPart: X1, 3.5mm, TERMBLOCK_1X3-3.5MM, microbuilder, (0.14287402, 1.09), R270
 - rawPart: X2, 3.5mm, 4UCONN_19269, microbuilder, (0, 0.665), R0
-- oompID: PROJ-ADAF-1752-STAN-01
 
 
 

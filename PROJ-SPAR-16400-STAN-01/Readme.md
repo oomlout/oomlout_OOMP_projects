@@ -105,6 +105,7 @@ Contents
 - oompName: MicroMod Machine Learning Carrier
 - sources: All source files from https://github.com/sparkfun/MicroMod_Machine_Learning_Carrier (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16400
+- oompID: PROJ-SPAR-16400-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 43.18, 2.54, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 12.7, 27.94, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 3.8099999999999996, 20.32, 0
@@ -229,7 +230,6 @@ Contents
 - rawPart: U5, AP7361C-33FGE, UDFN-8, SparkFun-IC-Power, (0.4, 0.4), R0
 - rawPart: VE, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (1, 0.335), MR0
 - rawPart: VIN_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (2, 0.1), MR0
-- oompID: PROJ-SPAR-16400-STAN-01
 
 
 

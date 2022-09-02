@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit STMPE610 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1571
+- oompID: PROJ-ADAF-1571-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 20.574, 11.302999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 23.875999999999998, 5.842, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.034, 6.858, 90
@@ -109,7 +110,6 @@ Contents
 - rawPart: U$7, FPC_4PIN_12969, FPC_CONN_1MM_DUAL_4P, microbuilder, (0.555, 0.61), R180
 - rawPart: U1, STMPE610, QFN16_3MM, microbuilder, (0.555, 0.4), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.925, 0.355), R90
-- oompID: PROJ-ADAF-1571-STAN-01
 
 
 

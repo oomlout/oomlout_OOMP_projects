@@ -70,6 +70,7 @@ Contents
 - oompName: Bluetooth Mate
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Mate (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9358
+- oompID: PROJ-SPAR-9358-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 30.479999999999997, 11.43, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 30.479999999999997, 1.9049999999999998, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 30.479999999999997, 4.3180000000000005, 180
@@ -118,7 +119,6 @@ Contents
 - rawPart: TP1, PAD.03X.05, SparkFun, (0.9, 0.15), MR0
 - rawPart: U1, BLUETOOTH-RN41, RN41, SparkFun-RF, (0.65062992, 0.31551181), R0
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (1.2, 0.3), R180
-- oompID: PROJ-SPAR-9358-STAN-01
 
 
 

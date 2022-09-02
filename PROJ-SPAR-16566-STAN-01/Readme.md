@@ -106,6 +106,7 @@ Contents
 - oompName: Qwiic Quad Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Quad_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16566
+- oompID: PROJ-SPAR-16566-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 39.37, 38.099999999999994, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 60.959999999999994, 35.559999999999995, M0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 60.98539999999999, 40.1066, 270
@@ -232,7 +233,6 @@ Contents
 - rawPart: U2, DUAL-OPTOISOLATOR_SOIC8, SO08, SparkFun-DiscreteSemi, (1.76, 1.502), R180
 - rawPart: U3, DUAL-OPTOISOLATOR_SOIC8, SO08, SparkFun-DiscreteSemi, (0.75, 1.5), R180
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (1.225, 1.505), R0
-- oompID: PROJ-SPAR-16566-STAN-01
 
 
 

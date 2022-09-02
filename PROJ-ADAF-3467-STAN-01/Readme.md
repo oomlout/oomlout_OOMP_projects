@@ -181,6 +181,7 @@ Contents
 - oompName: Adafruit CharliePlex Bonnet PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-CharliePlex-Bonnet-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3467
+- oompID: PROJ-ADAF-3467-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2-1, 11.0617, 1.6001999999999998, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2-2, 11.0617, 4.648199999999999, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2-3, 11.0617, 7.696199999999999, 225
@@ -457,7 +458,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.28, 0.415), MR180
 - rawPart: TP1, TESTPOINT_ROUND_1.5MM, microbuilder, (0.19, 0.88), MR0
 - rawPart: U1, IS31FL3731-SALS2, QFN28_4MM_0.4MM, microbuilder, (0.1875, 0.69), R270
-- oompID: PROJ-ADAF-3467-STAN-01
 
 
 

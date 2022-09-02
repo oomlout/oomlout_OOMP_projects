@@ -98,6 +98,7 @@ Contents
 - oompName: ProtoSnap-Pro Mini
 - sources: All source files from https://github.com/sparkfun/ProtoSnap-Pro_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10889
+- oompID: PROJ-SPAR-10889-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 4.571999999999999, 54.22899999999999, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 4.444999999999999, 34.29, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 4.571999999999999, 55.626, 0
@@ -210,7 +211,6 @@ Contents
 - rawPart: U3, FT232RLSSOP, SSOP28DB, SparkFun, (0.29, 0.6), R270
 - rawPart: U4, TEMT6000, TEMT6000-SEN, SparkFun, (1.3, 1.9), R0
 - rawPart: X2, USB-SMD-NS, USB-MINIB-NOSTOP, SparkFun, (0.29, 0.2), R90
-- oompID: PROJ-SPAR-10889-STAN-01
 
 
 

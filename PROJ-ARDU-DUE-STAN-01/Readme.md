@@ -115,7 +115,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R1, 904.0, 1704.0, 90,R1, 0R, R0402, Resistenze, (904, 1704), R90|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R3, 1144.0, 1000.0, 180,R3, 1K, R0402, Resistenze, (1144, 1000), R180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |ERROR, R5 39R 1%, 0, 0, 0,R5, 39R, 1%, R0402, Resistenze, (1456, 1428), R90|
 |ERROR, R6 39R 1%, 0, 0, 0,R6, 39R, 1%, R0402, Resistenze, (1356, 1378), R270|
 |RESE-0603-X-UNMATCHED-01, R7, 1036.0, 1444.0, 90,R7, 6K8, R0603-ROUND, Resistenze, (1036, 1444), R90|
@@ -124,7 +124,7 @@ Contents
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R13</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R14, 132.0, 596.0, 270,R14, 1K, R0402, Resistenze, (132, 596), R270|
 |RESE-0402-X-UNMATCHED-01, R15, 80.0, 596.0, 90,R15, 1K, R0402, Resistenze, (80, 596), R90|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R16</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R16</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-O753-01, R17, 334.0, 808.0, 0,R17, 75K, R0603-ROUND, Resistenze, (334, 808), R0|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R18</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R19, 572.0, 948.0, 180,R19, 22R, R0402, Resistenze, (572, 948), R180|
@@ -174,6 +174,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-due
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-due
+- oompID: PROJ-ARDU-DUE-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADCH, 3250.0, 100.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADCL, 2350.0, 100.0, 0
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, BR1, 1108.0, 834.0, 270
@@ -452,7 +453,6 @@ Contents
 - rawPart: Z3, BRNCG0603MLC-05E, CT/CN0603, Protezione, (260, 972), R270
 - rawPart: Z4, BRNCG0603MLC-05E, CT/CN0603, Protezione, (232, 816), R90
 - rawPart: Z5, BRNCG0603MLC-05E, CT/CN0603, Protezione, (176, 1716), R0
-- oompID: PROJ-ARDU-DUE-STAN-01
 
 
 

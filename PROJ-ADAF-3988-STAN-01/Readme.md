@@ -87,6 +87,7 @@ Contents
 - oompName: Adafruit Prop Maker FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Prop-Maker-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3988
+- oompID: PROJ-ADAF-3988-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 17.970499999999998, 7.302499999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 41.275, 6.7945, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 36.1315, 17.208499999999997, 0
@@ -171,7 +172,6 @@ Contents
 - rawPart: U5, PAM8302AASCR, MSOP8_0.65MM, microbuilder, (0.355, 0.33), R0
 - rawPart: VR2, 10K, trim, TRIMPOT_BOURNS_3303W, microbuilder, (0.6, 0.295), R0
 - rawPart: X6, CON_JST_PH_2PIN_MTPH2, JSTPH2, microbuilder, (0.385, 0.705), R0
-- oompID: PROJ-ADAF-3988-STAN-01
 
 
 

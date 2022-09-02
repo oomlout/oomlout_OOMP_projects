@@ -63,6 +63,7 @@ Contents
 - oompName: Temperature Sensor TMP102 Qwiic
 - sources: All source files from https://github.com/sparkfun/Temperature_Sensor_TMP102_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16304
+- oompID: PROJ-SPAR-16304-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.462, 8.889999999999999, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 4.3180000000000005, 17.272000000000002, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 0.635, 0.635, 0
@@ -101,7 +102,6 @@ Contents
 - rawPart: R5, 10k, 0603, SparkFun-Resistors, (0.47, 0.35), R270
 - rawPart: R6, 1k, 0603, SparkFun-Resistors, (0.17, 0.74), R0
 - rawPart: U1, TMP102, SOT563, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-16304-STAN-01
 
 
 

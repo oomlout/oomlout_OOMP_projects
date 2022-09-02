@@ -50,6 +50,7 @@ Contents
 - oompName: SD-MMC Breakout
 - sources: All source files from https://github.com/sparkfun/SD-MMC_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12941
+- oompID: PROJ-SPAR-12941-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.35, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 35.559999999999995, 33.019999999999996, 0
 - oompPart: HEAD-I01-X-PI10-01, JP5, 1.27, 5.08, 90
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.4, 1.3), R0
 - rawPart: JP5, M10, 1X10, SparkFun-Connectors, (0.05, 0.2), R90
 - rawPart: U1, SD_CARD_SOCKET, SD_1:1, SparkFun-Connectors, (0.4, 0.65), R0
-- oompID: PROJ-SPAR-12941-STAN-01
 
 
 

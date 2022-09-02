@@ -86,6 +86,7 @@ Contents
 - oompName: MicroMod mikroBUS Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_mikroBUS_Carrier_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18710
+- oompID: PROJ-SPAR-18710-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 6.476999999999999, 21.59, M180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.087999922, 17.145, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 19.049999999999997, 180
@@ -174,7 +175,6 @@ Contents
 - rawPart: SWDIO, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Connectors, (1.2, 0.25), R0
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-IC-Power, (0.55, 1), R180
 - rawPart: U2, AP7361C-33FGEUDFN-8, UDFN-8, SparkFun-IC-Power, (0.445, 0.48), R0
-- oompID: PROJ-SPAR-18710-STAN-01
 
 
 

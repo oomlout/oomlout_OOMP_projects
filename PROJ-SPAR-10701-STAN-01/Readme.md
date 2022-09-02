@@ -62,6 +62,7 @@ Contents
 - oompName: Color Light Sensor Evaluation Board
 - sources: All source files from https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10701
+- oompID: PROJ-SPAR-10701-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 8.889999999999999, 7.619999999999999, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 8.889999999999999, 3.8099999999999996, 0
 - oompPart: HEAD-I01-X-PI03-01, JP3, 20.32, 8.889999999999999, 270
@@ -100,7 +101,6 @@ Contents
 - rawPart: U1, ADJD-S311-CR999, CSP-9, ADJD-S311, (0.5, 0.25), R180
 - rawPart: U2, 2.8V, SOT23-5, SparkFun, (0.2, 0.35), R270
 - rawPart: U3, 2.8V, SOT23-5, SparkFun, (0.2, 0.15), R270
-- oompID: PROJ-SPAR-10701-STAN-01
 
 
 

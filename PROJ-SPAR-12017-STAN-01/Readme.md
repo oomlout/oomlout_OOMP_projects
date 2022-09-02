@@ -56,6 +56,7 @@ Contents
 - oompName: MPR121 Capacitive Touch Keypad
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12017
+- oompID: PROJ-SPAR-12017-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.97, 6.985, M270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 31.75, 6.985, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 24.13, 10.16, M90
@@ -74,7 +75,6 @@ Contents
 - rawPart: R1, 75k, 0603-RES, SparkFun, (0.45, 0.275), MR90
 - rawPart: R2, 10K, 0603-RES, SparkFun-Resistors, (0.8, 0.275), MR180
 - rawPart: SJ1, SJ_3_PASTE1&2, SparkFun-Passives, (0.65, 0.275), MR270
-- oompID: PROJ-SPAR-12017-STAN-01
 
 
 

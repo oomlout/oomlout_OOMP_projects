@@ -53,6 +53,7 @@ Contents
 - oompName: SparkFun-Fuse-Breakout-Board
 - sources: All source files from https://github.com/sparkfun/SparkFun-Fuse-Breakout-Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9773
+- oompID: PROJ-SPAR-9773-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 38.099999999999994, 6.35, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F2, 38.099999999999994, 6.35, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.8099999999999996, 8.889999999999999, 270
@@ -63,7 +64,6 @@ Contents
 - rawPart: J1, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.15, 0.35), R270
 - rawPart: J2, POWER_JACKPTH_LOCK, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (0.155, 0.245), R270
 - rawPart: J3, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (2.4, 0.15), R90
-- oompID: PROJ-SPAR-9773-STAN-01
 
 
 

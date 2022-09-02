@@ -53,6 +53,7 @@ Contents
 - oompName: Adafruit MAX31855 breakout board
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31855-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/269
+- oompID: PROJ-ADAF-269-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 13.462, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 7.365999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 17.018, 9.398, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.076, 0.175), R0
 - rawPart: U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.7, 0.7), R0
 - rawPart: U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.7), R0
-- oompID: PROJ-ADAF-269-STAN-01
 
 
 

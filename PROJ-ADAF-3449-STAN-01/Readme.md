@@ -137,6 +137,7 @@ Contents
 - oompName: Adafruit DotStar FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DotStar-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3449
+- oompID: PROJ-ADAF-3449-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 49.529999999999994, 6.985, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 46.863, 8.128, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 49.529999999999994, 16.128999999999998, 270
@@ -347,7 +348,6 @@ Contents
 - rawPart: TP9, PAD-1.5X2.0, microbuilder, (1, 0.1325), MR0
 - rawPart: TP10, PAD-1.5X2.0, microbuilder, (0.8825, 0.135), MR0
 - rawPart: TP11, PAD-1.5X2.0, microbuilder, (0.76, 0.135), MR0
-- oompID: PROJ-ADAF-3449-STAN-01
 
 
 

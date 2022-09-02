@@ -60,6 +60,7 @@ Contents
 - oompName: Photon OLED Shield
 - sources: All source files from https://github.com/sparkfun/Photon_OLED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13628
+- oompID: PROJ-SPAR-13628-STAN-01
 - oompPart: CAPC-0805-X-UF22D-01, C1, 55.117999999999995, 26.924, M180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 55.117999999999995, 11.684, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 55.117999999999995, 9.143999999999998, M0
@@ -106,7 +107,6 @@ Contents
 - rawPart: SJ10, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (1.97, 0.12), MR180
 - rawPart: TP1, TEST-POINT3X5, PAD.03X.05, SparkFun-Passives, (2.02, 1.01), MR270
 - rawPart: TP2, TEST-POINT3X5, PAD.03X.05, SparkFun-Passives, (2.02, 1.01), R90
-- oompID: PROJ-SPAR-13628-STAN-01
 
 
 

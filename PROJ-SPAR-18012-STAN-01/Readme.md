@@ -55,6 +55,7 @@ Contents
 - oompName: Qwiic MultiPort
 - sources: All source files from https://github.com/sparkfun/Qwiic_MultiPort (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18012
+- oompID: PROJ-SPAR-18012-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 10.668, 17.399, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 15.239999999999998, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 15.239999999999998, 0
@@ -77,7 +78,6 @@ Contents
 - rawPart: J4, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.5, 0.8), R180
 - rawPart: JP1, PWR_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.42, 0.745), MR0
 - rawPart: R1, 1k, 0603, SparkFun-Resistors, (0.42, 0.63), R0
-- oompID: PROJ-SPAR-18012-STAN-01
 
 
 

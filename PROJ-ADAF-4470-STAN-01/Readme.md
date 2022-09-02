@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit MCP4728 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MCP4728-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4470
+- oompID: PROJ-ADAF-4470-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 11.302999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.985, 5.842, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.86, 8.889999999999999, 90
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- oompID: PROJ-ADAF-4470-STAN-01
 
 
 

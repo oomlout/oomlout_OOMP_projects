@@ -60,6 +60,7 @@ Contents
 - oompName: Edison GPIO Block
 - sources: All source files from https://github.com/sparkfun/Edison_GPIO_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13038
+- oompID: PROJ-SPAR-13038-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 24.383999999999997, 1.651, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 4.3180000000000005, 8.001, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 8.762999999999998, 8.382, 90
@@ -92,7 +93,6 @@ Contents
 - rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
 - rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
 - rawPart: U4, TXB0108, UFDFN-20, Testing, (0.78, 0.18), R90
-- oompID: PROJ-SPAR-13038-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: SparkFun Simblee Breakout Board
 - sources: All source files from https://github.com/sparkfun/SparkFun_Simblee_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13632
+- oompID: PROJ-SPAR-13632-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.287, 54.864, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 13.97, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 15.239999999999998, 8.889999999999999, 0
@@ -103,7 +104,6 @@ Contents
 - rawPart: S2, SWITCH-MOMENTARY-2SMD, TACTILE-SWITCH-SMD, SparkFun-Electromechanical, (0.45, 1.15), R270
 - rawPart: U1, ADP160, SOT23-5, SparkFun-PowerIC, (0.6, 0.45), R270
 - rawPart: U2, RFD77101, RFD77101, RFDigital, (0.52, 2.28), R0
-- oompID: PROJ-SPAR-13632-STAN-01
 
 
 

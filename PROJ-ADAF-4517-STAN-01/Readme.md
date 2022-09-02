@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit LSM6DSOX LIS3MDL PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4517
+- oompID: PROJ-ADAF-4517-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 320.0, 405.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 235.5, 181.0, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 227.5, 492.5, 90
@@ -112,7 +113,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
 - rawPart: U$35, LSM6DSOX, LGA-14L, adafruit_sensor, (490, 280), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (307, 297.5), R0
-- oompID: PROJ-ADAF-4517-STAN-01
 
 
 

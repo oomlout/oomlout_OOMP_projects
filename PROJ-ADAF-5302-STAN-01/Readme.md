@@ -88,6 +88,7 @@ Contents
 - oompName: Adafruit KB2040 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-KB2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5302
+- oompID: PROJ-ADAF-5302-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 8.6614, 13.804899999999998, 0
 - oompPart: CAPC-0402-X-NF100-V50, C7, 14.2875, 12.763499999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C8, 11.2395, 9.8425, 90
@@ -176,7 +177,6 @@ Contents
 - rawPart: U5, 8MB, QSPI, Flash, USON8_4X4, microbuilder, (0.485, 0.2225), R90
 - rawPart: X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (0.1025, 0.35), R270
 - rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.99, 0.3025), R180
-- oompID: PROJ-ADAF-5302-STAN-01
 
 
 

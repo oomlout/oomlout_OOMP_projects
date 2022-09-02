@@ -68,6 +68,7 @@ Contents
 - oompName: THAT 1646 Breakout
 - sources: All source files from https://github.com/sparkfun/THAT_1646_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14003
+- oompID: PROJ-SPAR-14003-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.128, 3.0479999999999996, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 5.08, 3.0479999999999996, 90
 - oompPart: ERROR, C3 10uf NP, 0, 0, 0
@@ -118,7 +119,6 @@ Contents
 - rawPart: JP1, GND-JOIN, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.825, 0.1), MR0
 - rawPart: L1, 27uH, 0603, SparkFun-Passives, (0.82, 0.57), R0
 - rawPart: L2, 27uH, 0603, SparkFun-Passives, (0.82, 0.19), R0
-- oompID: PROJ-SPAR-14003-STAN-01
 
 
 

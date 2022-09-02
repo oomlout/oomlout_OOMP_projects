@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit Teensy 3.x Feather Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3200
+- oompID: PROJ-ADAF-3200-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 41.021, 5.206999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 1.3099999199999999, 15.997000009999999, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C7, 10.938999965999999, 8.559999898, 90
@@ -102,7 +103,6 @@ Contents
 - rawPart: U$35, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.92185827, 0.40527559), R270
 - rawPart: U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (1.54, 0.455), R0
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (1.86, 0.45), R270
-- oompID: PROJ-ADAF-3200-STAN-01
 
 
 

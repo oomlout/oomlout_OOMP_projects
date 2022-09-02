@@ -95,6 +95,7 @@ Contents
 - oompName: LilyPad LilyMini ProtoSnap
 - sources: All source files from https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14063
+- oompID: PROJ-SPAR-14063-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 39.37, 24.764999999999997, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 40.62000004, 17.779999999999998, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 38.11999996, 17.779999999999998, M90
@@ -217,7 +218,6 @@ Contents
 - rawPart: U2, AP2112K-3.3V, SOT23-5, SparkFun-PowerIC, (1.8375, 1.3), MR0
 - rawPart: U3, ALS-PT19, ALS-PT19, SparkFun-Sensors, (0.5, 1.6), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-FreqCtrl, (1.55, 0.825), MR180
-- oompID: PROJ-SPAR-14063-STAN-01
 
 
 

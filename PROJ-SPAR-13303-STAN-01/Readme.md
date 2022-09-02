@@ -61,6 +61,7 @@ Contents
 - oompName: LSM303C 6 DOF IMU Breakout
 - sources: All source files from https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13303
+- oompID: PROJ-SPAR-13303-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 13.843, 14.985999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 11.811, 11.049, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 9.398, 13.462, 90
@@ -97,7 +98,6 @@ Contents
 - rawPart: TP1, VDD_TP, TP_15TH, SparkFun-Passives, (0.46, 0.56), R0
 - rawPart: U1, LSM303C, LGA-12, SparkFun-DigitalIC, (0.35, 0.36), R0
 - rawPart: U2, LM3880, SOT23-6, SparkFun-DigitalIC, (0.625, 0.31), R90
-- oompID: PROJ-SPAR-13303-STAN-01
 
 
 

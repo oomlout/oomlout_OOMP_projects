@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit TFT Gizmo PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TFT-Gizmo-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4367
+- oompID: PROJ-ADAF-4367-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 9.398, 5.842, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -2.54, 11.557, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C9, -2.921, -12.065, 270
@@ -156,7 +157,6 @@ Contents
 - rawPart: U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.48, -0.495), R0
 - rawPart: U5, PAM8302AASCR, MSOP8_0.65MM, microbuilder, (0, -0.68), R180
 - rawPart: VR2, 10K, trim, TRIMPOT_BOURNS_3303W, microbuilder, (0.215, -0.505), R90
-- oompID: PROJ-ADAF-4367-STAN-01
 
 
 

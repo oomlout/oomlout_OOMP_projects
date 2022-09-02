@@ -61,6 +61,7 @@ Contents
 - oompName: Tri-Color Breakout
 - sources: All source files from https://github.com/sparkfun/Tri-Color_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10111
+- oompID: PROJ-SPAR-10111-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP6, -5.08, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -6.985, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, -5.968999999999999, 3.429, 150
@@ -87,7 +88,6 @@ Contents
 - rawPart: R4, 330, AXIAL-0.3, SparkFun, (-0.475, -0.275), R120
 - rawPart: R5, 330, AXIAL-0.3, SparkFun, (0, 0.55), R0
 - rawPart: R6, 330, AXIAL-0.3, SparkFun, (0.48, -0.275), R240
-- oompID: PROJ-SPAR-10111-STAN-01
 
 
 

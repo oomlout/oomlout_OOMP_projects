@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit DRV8833 Motor Driver Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3297
+- oompID: PROJ-ADAF-3297-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 2.413, 21.971, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 4.444999999999999, 5.206999999999999, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 4.064, 14.985999999999999, 270
@@ -99,7 +100,6 @@ Contents
 - rawPart: U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.51, 0.85), R0
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.51, 0.05), R0
 - rawPart: U1, DRV8833PWPR, HTSSOP16, microbuilder, (0.27, 0.36), R90
-- oompID: PROJ-ADAF-3297-STAN-01
 
 
 

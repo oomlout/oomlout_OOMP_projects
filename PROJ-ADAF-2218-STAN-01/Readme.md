@@ -126,6 +126,7 @@ Contents
 - oompName: Adafruit TFP401 HDMI To 40Pin TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2218
+- oompID: PROJ-ADAF-2218-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 48.387, 3.556, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 26.299999978, 19.999999877999997, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 27.050000002, 41.799999966, 180
@@ -306,7 +307,6 @@ Contents
 - rawPart: X2, microUSB, 4UCONN_20329, microbuilder, (0.1726378, 0.57086614), R270
 - rawPart: X3, XF2-40-RARBT, 4-1734839-0, adafruit, (2.4488189, 0.96653543), R270
 - rawPart: Y1, 12MHz, RESONATOR-SMD, SparkFun, (2.04669291, 0.19354331), R90
-- oompID: PROJ-ADAF-2218-STAN-01
 
 
 

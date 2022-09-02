@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit MAX98306 Class D Amp PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/987
+- oompID: PROJ-ADAF-987-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 14.097000000000001, 18.796, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.365999999999999, 16.509999999999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 7.365999999999999, 14.477999999999998, 0
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.85, 0.1), R0
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.85, 1.005), R0
 - rawPart: U1, MAX98306ETD+T, TDFN14_3X3MM, microbuilder, (0.52, 0.55), R0
-- oompID: PROJ-ADAF-987-STAN-01
 
 
 

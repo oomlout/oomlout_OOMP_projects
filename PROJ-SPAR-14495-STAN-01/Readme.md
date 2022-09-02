@@ -51,6 +51,7 @@ Contents
 - oompName: Qwiic Adapter
 - sources: All source files from https://github.com/sparkfun/Qwiic_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14495
+- oompID: PROJ-SPAR-14495-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 8.889999999999999, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 8.889999999999999, 2.54, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 13.97, 3.175, 0
@@ -65,7 +66,6 @@ Contents
 - rawPart: J1, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.15), R270
 - rawPart: J3, 1X04_1MM_RA, SparkFun-Connectors, (0.7, 0.15), R90
 - rawPart: J4, PTH, 1X04, SparkFun-Connectors, (0.6, 0.2), R180
-- oompID: PROJ-SPAR-14495-STAN-01
 
 
 

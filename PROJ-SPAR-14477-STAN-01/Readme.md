@@ -62,6 +62,7 @@ Contents
 - oompName: Qwiic Shield for Photon
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Photon (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14477
+- oompID: PROJ-SPAR-14477-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 5.08, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 5.08, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 35.559999999999995, 34.29, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.9, 0.25), R90
 - rawPart: JP9, 1X09_NO_SILK, SparkFun-Connectors, (1, 0.25), R90
 - rawPart: JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.1, 0.25), R90
-- oompID: PROJ-SPAR-14477-STAN-01
 
 
 

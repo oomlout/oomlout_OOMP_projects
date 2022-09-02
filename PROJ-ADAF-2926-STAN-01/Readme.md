@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Terminal Block FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Terminal-Block-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2926
+- oompID: PROJ-ADAF-2926-STAN-01
 - oompPart: HEAD-I01-X-PI12-01, JP1, 5.08, 7.619999999999999, 0
 - oompPart: HEAD-I01-X-PI16-01, JP3, 0.0, -7.619999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, -25.4, -11.43, 0
@@ -104,7 +105,6 @@ Contents
 - rawPart: X10, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.20433071, 0.7023622), R180
 - rawPart: X11, TERMBLOCK_1X3-3.5MM, microbuilder, (0.20905512, 0.7023622), R180
 - rawPart: X12, TERMBLOCK_1X3-3.5MM, microbuilder, (0.62244094, 0.7023622), R180
-- oompID: PROJ-ADAF-2926-STAN-01
 
 
 

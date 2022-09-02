@@ -60,6 +60,7 @@ Contents
 - oompName: USB Serial GPIO Breakout-CP2103
 - sources: All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/199
+- oompID: PROJ-SPAR-199-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 20.32, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0
@@ -88,7 +89,6 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.85), R0
 - rawPart: U1, CP2103, MLP28, SparkFun, (0.75, 0.5), R0
 - rawPart: X1, USBPTH, USB-B-PTH, SparkFun, (0.35, 0.5), R0
-- oompID: PROJ-SPAR-199-STAN-01
 
 
 

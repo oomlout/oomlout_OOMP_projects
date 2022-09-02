@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit Trinket PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Trinket-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1500
+- oompID: PROJ-ADAF-1500-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.476999999999999, 8.128, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BAT, 0.0, 12.191999999999998, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -3.8099999999999996, 4.444999999999999, 90
@@ -118,7 +119,6 @@ Contents
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.0125, -0.425), R0
 - rawPart: U$8, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (-0.225, -0.4), R0
 - rawPart: U$9, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.225, -0.4), R0
-- oompID: PROJ-ADAF-1500-STAN-01
 
 
 

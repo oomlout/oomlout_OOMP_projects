@@ -84,6 +84,7 @@ Contents
 - oompName: Photon RedBoard
 - sources: All source files from https://github.com/sparkfun/Photon_RedBoard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13321
+- oompID: PROJ-SPAR-13321-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 13.97, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 46.99, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.7, 22.224999999999998, 180
@@ -184,7 +185,6 @@ Contents
 - rawPart: TP10, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (1.62637795, 0.42), R0
 - rawPart: U1, WM-N-BM-14, WM-N-BM-14, sparkfun_photon_temp, (1.9, 0.85), R0
 - rawPart: U2, SOT223, SparkFun-PowerIC, (0.25, 0.75), R90
-- oompID: PROJ-SPAR-13321-STAN-01
 
 
 

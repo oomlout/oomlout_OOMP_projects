@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit STEMMA Non Latching Mini Relay PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4409
+- oompID: PROJ-ADAF-4409-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.604, 4.444999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.953499999999998, 18.9865, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 6.731, 1.27, 270
@@ -98,7 +99,6 @@ Contents
 - rawPart: X3, 3.5mm, Terminal, TERMBLOCK_1X3-3.5MM, microbuilder, (0.625, 0.09), R0
 - rawPart: X4, JST, PH, 3, JSTPH3, microbuilder, (0.1775, 0.425), R90
 - rawPart: X5, 2060-403/998-404, P-2060-403/998-404, adafruit_connector, (1.035, 0.425), R0
-- oompID: PROJ-ADAF-4409-STAN-01
 
 
 

@@ -50,11 +50,11 @@ Contents
 - oompName: RedBot Buzzer
 - sources: All source files from https://github.com/sparkfun/RedBot_Buzzer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12567
+- oompID: PROJ-SPAR-12567-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.35, 15.239999999999998, 180
 - oompPart: ERROR, JP1 1x3 RA, 0, 0, 0
 - rawPart: B1, Buzzer, BUZZER-CCV, SparkFun, (0.25, 0.6), R180
 - rawPart: JP1, 1x3, RA, Female, .1, 1X03_SMD_RA_FEMALE, SparkFun-Connectors, (0.175, 0.025), R0
-- oompID: PROJ-SPAR-12567-STAN-01
 
 
 

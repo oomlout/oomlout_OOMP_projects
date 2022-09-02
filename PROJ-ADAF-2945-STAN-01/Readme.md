@@ -92,6 +92,7 @@ Contents
 - oompName: Adafruit NeoPixel FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPixel-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2945
+- oompID: PROJ-ADAF-2945-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 45.466, 18.287999999999997, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 46.355, 6.223, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 45.72, 13.716, 90
@@ -224,7 +225,6 @@ Contents
 - rawPart: SJ19, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.95, 0.75), MR270
 - rawPart: SJ20, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.45, 0.75), MR270
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.92, 0.45), R270
-- oompID: PROJ-ADAF-2945-STAN-01
 
 
 

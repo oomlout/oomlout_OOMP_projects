@@ -55,17 +55,17 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, LED1, 41.91, 43.18, 270,LED1, Power, LED-0603, SparkFun, (1.65, 1.7), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 16.509999999999998, 36.83, 270,Q1, 12.288MHz, CRYSTAL-SMD-5X3, SparkFun, (0.65, 1.45), R270|
 |RESE-0402-X-UNMATCHED-01, R1, 19.049999999999997, 36.83, 270,R1, 1M, 0402-RES, SparkFun, (0.75, 1.45), R270|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R6, 34.29, 34.29, 180,R6, 20, 0402-RES, SparkFun, (1.35, 1.35), R180|
 |RESE-0402-X-UNMATCHED-01, R7, 34.29, 39.37, 180,R7, 20, 0402-RES, SparkFun, (1.35, 1.55), R180|
 |RESE-0402-X-O331-01, R8, 41.91, 41.91, 0,R8, 330, 0402-RES, SparkFun, (1.65, 1.65), R0|
 |RESE-0402-X-UNMATCHED-01, R9, 34.29, 35.559999999999995, 180,R9, 10, 0402-RES, SparkFun, (1.35, 1.4), R180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R10</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R11</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R12</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R10</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R11</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R12</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R13, 17.779999999999998, 46.99, 0,R13, 1K, 0402-RES, SparkFun, (0.7, 1.85), R0|
 |RESE-0402-X-UNMATCHED-01, R14, 17.779999999999998, 44.449999999999996, 0,R14, 1K, 0402-RES, SparkFun, (0.7, 1.75), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 49.529999999999994, 19.049999999999997, 270,S2, Reset, TACTILE_SWITCH_SMD, SparkFun, (1.95, 0.75), R270|
@@ -86,6 +86,7 @@ Contents
 - oompName: Music Instrument Shield
 - sources: All source files from https://github.com/sparkfun/Music_Instrument_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10587
+- oompID: PROJ-SPAR-10587-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 25.4, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 41.91, 27.94, 0
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 16.509999999999998, 33.019999999999996, 0
@@ -174,7 +175,6 @@ Contents
 - rawPart: U3, VS1053, LQFP-48, SparkFun, (1.05, 1.45), R180
 - rawPart: U4, 1.8V, SC70, SparkFun, (1.65, 1.2), R90
 - rawPart: U5, AUDIO-JACK-3.5MM-SMD, SparkFun, (1.05, 0), R90
-- oompID: PROJ-SPAR-10587-STAN-01
 
 
 

@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit_Trellis
 - sources: All source files from https://github.com/adafruit/Adafruit_Trellis (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1611
+- oompID: PROJ-ADAF-1611-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 12.7, -9.652, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 5.08, -9.652, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 19.812, -9.652, M180
@@ -159,7 +160,6 @@ Contents
 - rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.59, 0), R0
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.59, 0), R0
 - rawPart: U1, HT16K33, 28SOP, SOP28_300MIL, microbuilder, (0.00110236, 0.00110236), MR0
-- oompID: PROJ-ADAF-1611-STAN-01
 
 
 

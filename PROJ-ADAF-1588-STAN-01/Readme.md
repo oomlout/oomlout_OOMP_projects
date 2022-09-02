@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit Bluefruit Classic PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1588
+- oompID: PROJ-ADAF-1588-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.065, 6.731, 0
@@ -119,7 +120,6 @@ Contents
 - rawPart: U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0
 - rawPart: VBAT, JST-2PH, JST-PH-2-SMT-RA, adafruit, (0.4, 1.04), MR0
-- oompID: PROJ-ADAF-1588-STAN-01
 
 
 

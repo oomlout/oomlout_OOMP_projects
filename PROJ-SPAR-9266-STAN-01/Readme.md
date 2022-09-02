@@ -77,6 +77,7 @@ Contents
 - oompName: LilyPad Arduino 328 Main Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_328_Main_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9266
+- oompID: PROJ-SPAR-9266-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.000000034, 6.999999969999999, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, -9.000000034, -4.999999905999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, -11.999999875999999, -3.9999998740000002, 270
@@ -145,7 +146,6 @@ Contents
 - rawPart: U$21, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0.77716535, -0.35511811), R155.5
 - rawPart: U1, ATMEGA168, TQFP32-08, SparkFun, (0, 0), R0
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (-0.23622047, -0.15748031), R270
-- oompID: PROJ-SPAR-9266-STAN-01
 
 
 

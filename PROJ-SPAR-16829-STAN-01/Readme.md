@@ -111,6 +111,7 @@ Contents
 - oompName: MicroMod Data Logging Carrier
 - sources: All source files from https://github.com/sparkfun/MicroMod_Data_Logging_Carrier (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16829
+- oompID: PROJ-SPAR-16829-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 10.16, 3.8099999999999996, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 44.449999999999996, 36.83, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 3.8099999999999996, 20.32, 0
@@ -245,7 +246,6 @@ Contents
 - rawPart: U5, AP7361C-33, UDFN-8, SparkFun-IC-Power, (0.4, 0.4), R0
 - rawPart: VE, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.8, 0.35), MR0
 - rawPart: VIN_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.65, 0.15), MR180
-- oompID: PROJ-SPAR-16829-STAN-01
 
 
 

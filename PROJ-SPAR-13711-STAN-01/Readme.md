@@ -103,6 +103,7 @@ Contents
 - oompName: ESP8266 Thing Dev 4H
 - sources: All source files from https://github.com/sparkfun/ESP8266_Thing_Dev_4H (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13711
+- oompID: PROJ-SPAR-13711-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 30.479999999999997, 19.685, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 8.889999999999999, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 29.209999999999997, 8.889999999999999, 270
@@ -225,7 +226,6 @@ Contents
 - rawPart: U3, AT25SF041-SOIC8, SO08, esp8266-development-board, (1, 0.625), R90
 - rawPart: U4, FTS31XS-U, SSOP20_L, SparkFun-DigitalIC, (0.65, 0.4), R180
 - rawPart: Y1, 26MHz, CRYSTAL-SMD-3.2X2.5, things, (1.25, 0.35), R0
-- oompID: PROJ-SPAR-13711-STAN-01
 
 
 

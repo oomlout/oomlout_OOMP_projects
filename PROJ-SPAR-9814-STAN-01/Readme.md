@@ -74,6 +74,7 @@ Contents
 - oompName: ADXL345 Eval
 - sources: All source files from https://github.com/sparkfun/ADXL345_Eval (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9814
+- oompID: PROJ-SPAR-9814-STAN-01
 - oompPart: ERROR, BAT1 AA Battery, 0, 0, 0
 - oompPart: ERROR, BAT2 AA Battery, 0, 0, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 33.019999999999996, 5.08, 90
@@ -140,7 +141,6 @@ Contents
 - rawPart: U3, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun, (1.45, 1.7), R270
 - rawPart: U4, AVR_SPI_PRG_6PTH, 2X3, SparkFun, (2.1, 0.85), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (1.995, 1.4), R180
-- oompID: PROJ-SPAR-9814-STAN-01
 
 
 

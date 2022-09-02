@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit LED Arcade Button 1x4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Arcade-Button-1x4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5296
+- oompID: PROJ-ADAF-5296-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 8.254999999999999, -5.334, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 13.9065, -2.032, 270
 - oompPart: CAPC-0603-X-NF100-V50, C4, 2.921, 3.1115, 90
@@ -188,7 +189,6 @@ Contents
 - rawPart: X6, CON_JST_XH_2PIN-VERT, JST-XH-2-SV, adafruit_electromech, (0.425, -0.125), MR180
 - rawPart: X7, CON_JST_XH_2PIN-VERT, JST-XH-2-SV, adafruit_electromech, (1.175, 0.125), MR0
 - rawPart: X8, CON_JST_XH_2PIN-VERT, JST-XH-2-SV, adafruit_electromech, (1.175, -0.125), MR180
-- oompID: PROJ-ADAF-5296-STAN-01
 
 
 

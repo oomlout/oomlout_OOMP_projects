@@ -120,6 +120,7 @@ Contents
 - oompName: Adafruit FunHouse PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FunHouse-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4985
+- oompID: PROJ-ADAF-4985-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 46.945799936, 13.946000048, M90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 42.0751, 17.665699999999998, M90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 35.1663, 33.502599999999994, M270
@@ -296,7 +297,6 @@ Contents
 - rawPart: X4, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (2.09462992, 0.45100394), MR270
 - rawPart: X5, CAPTOUCH_10MM, CAPTOUCH_7X9MM, adafruit_electromech, (1.525, 2.61), R0
 - rawPart: X6, CAPTOUCH_5SLIDER_10MM, CAPTOUCH_5SLIDER, adafruit_electromech, (1.97, 1.57047244), R0
-- oompID: PROJ-ADAF-4985-STAN-01
 
 
 

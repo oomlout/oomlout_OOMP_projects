@@ -86,6 +86,7 @@ Contents
 - oompName: Adafruit PiTFT 3.5 Plus PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-3.5-Plus-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2441
+- oompID: PROJ-ADAF-2441-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 50.165, 41.148, 0
 - oompPart: CAPC-0805-X-NF100-V50, C4, 41.65599999999999, 45.339, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C16, 16.383, 49.657, 180
@@ -180,7 +181,6 @@ Contents
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.535, 1.57), R180
 - rawPart: U3, FAN5333BSX, SOT23-5@1, microbuilder, (0.64, 1.725), R270
 - rawPart: X1, TFT_3.5IN_320X480_50PIN, microbuilder, (1.12, 1.46), MR0
-- oompID: PROJ-ADAF-2441-STAN-01
 
 
 

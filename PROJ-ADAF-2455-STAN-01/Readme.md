@@ -78,6 +78,7 @@ Contents
 - oompName: Adafruit PiTFT 2.4 Inch HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2455
+- oompID: PROJ-ADAF-2455-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 43.18, 39.624, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 44.958, 39.624, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 25.654, 36.57599999999999, 0
@@ -148,7 +149,6 @@ Contents
 - rawPart: U$18, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.95, 2.32), R90
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (0.385, 0.51), R0
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.505, 1.46), R180
-- oompID: PROJ-ADAF-2455-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: Uh-Oh Battery Indicator
 - sources: All source files from https://github.com/sparkfun/Uh-Oh_Battery_Indicator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11087
+- oompID: PROJ-SPAR-11087-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 5.08, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 15.239999999999998, 90
 - oompPart: HEAD-I01-X-PI02-01, JP3, 3.8099999999999996, 13.97, 90
@@ -76,7 +77,6 @@ Contents
 - rawPart: TP1, TP1, 1X01, SparkFun, (0.6, 0.7), MR0
 - rawPart: TP2, TP2, 1X01, SparkFun, (0.9, 0.7), MR0
 - rawPart: U1, TL431, TO-92, SparkFun, (0.75, 0.65), R0
-- oompID: PROJ-SPAR-11087-STAN-01
 
 
 

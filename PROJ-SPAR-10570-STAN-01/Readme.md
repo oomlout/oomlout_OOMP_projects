@@ -80,6 +80,7 @@ Contents
 - oompName: DangerShield
 - sources: All source files from https://github.com/sparkfun/DangerShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10570
+- oompID: PROJ-SPAR-10570-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 67.30999999999999, 74.93, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 8.889999999999999, 57.15, 180
 - oompPart: HEAD-I01-X-PI05-01, JP1, 1.27, 13.97, 270
@@ -144,7 +145,6 @@ Contents
 - rawPart: U2, 74LS595N, DIL16, SparkFun, (0.3, 1.75), R270
 - rawPart: U4, TMP36, TO-92, SparkFun-Sensors, (2.85, 3), R90
 - rawPart: U6, 7-SEGMENT-DISPLAY-1-RED, 7-SEGMENT-1PTH, SparkFun, (0.35, 3.2), R0
-- oompID: PROJ-SPAR-10570-STAN-01
 
 
 

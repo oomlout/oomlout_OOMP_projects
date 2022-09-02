@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit LPS2X PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LPS2X-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4530
+- oompID: PROJ-ADAF-4530-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 400.0, 361.0, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 300.0, 225.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 320.0, 490.0, 0
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$2, LPS2X_LPS25, HLGA-10L, adafruit_sensor, (500, 350), R0
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 600), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (300, 350), R0
-- oompID: PROJ-ADAF-4530-STAN-01
 
 
 

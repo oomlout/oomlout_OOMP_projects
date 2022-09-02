@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit TCA4307 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TCA4307-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5159
+- oompID: PROJ-ADAF-5159-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.175499999999999, 5.7785, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 2.54, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 22.86, 8.889999999999999, 90
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- oompID: PROJ-ADAF-5159-STAN-01
 
 
 

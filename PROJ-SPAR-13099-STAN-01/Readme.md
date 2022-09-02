@@ -59,6 +59,7 @@ Contents
 - oompName: Rotary Switch Potentiometer
 - sources: All source files from https://github.com/sparkfun/Rotary_Switch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13099
+- oompID: PROJ-SPAR-13099-STAN-01
 - oompPart: HEAD-I01-X-PI03-01, JP1, 45.72, 10.16, 90
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 3.175, 2.54, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.175, 5.08, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: R8, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.8), R0
 - rawPart: R9, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.9), R0
 - rawPart: SW1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (1.05, 0.5), R270
-- oompID: PROJ-SPAR-13099-STAN-01
 
 
 

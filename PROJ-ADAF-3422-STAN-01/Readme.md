@@ -78,6 +78,7 @@ Contents
 - oompName: Adafruit Arcade Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Arcade-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3422
+- oompID: PROJ-ADAF-3422-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B0, 6.858, 14.478, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.446, 6.985, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, 23.622, 6.985, 180
@@ -146,7 +147,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (29.591, 10.541), MR180
 - rawPart: SPKR, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (32.512, 4.064), R0
 - rawPart: U1, MAX98357A, QFN16_3MM, microbuilder, (32.766, 9.652), R270
-- oompID: PROJ-ADAF-3422-STAN-01
 
 
 

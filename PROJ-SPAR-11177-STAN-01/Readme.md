@@ -114,6 +114,7 @@ Contents
 - oompName: Sparkpunk
 - sources: All source files from https://github.com/sparkfun/Sparkpunk (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11177
+- oompID: PROJ-SPAR-11177-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 27.94, 43.18, M180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 16.509999999999998, 55.88, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 35.559999999999995, 58.419999999999995, 90
@@ -246,7 +247,6 @@ Contents
 - rawPart: S4, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (2.2, 2.4), R0
 - rawPart: S5, SWITCH-MOMENTARY-LEDEZ, TACTILE-PTH-LED-12MM-EZ, SparkFun-Electromechanical, (3, 0.4), R180
 - rawPart: S6, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (3.35, 1.5), R180
-- oompID: PROJ-SPAR-11177-STAN-01
 
 
 

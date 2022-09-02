@@ -96,6 +96,7 @@ Contents
 - oompName: Adafruit Feather STM32F405 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-STM32F405-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4382
+- oompID: PROJ-ADAF-4382-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.334499999999998, 4.191, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 22.098, 12.827, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.1925, 16.446499999999997, 270
@@ -212,7 +213,6 @@ Contents
 - rawPart: X5, MICROSD, microbuilder, (1.375, 0.725), MR270
 - rawPart: X6, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.105, 0.455), R270
 - rawPart: Y1, 12mhz, CRYSTAL_2.5X2, microbuilder, (0.92, 0.375), R180
-- oompID: PROJ-ADAF-4382-STAN-01
 
 
 

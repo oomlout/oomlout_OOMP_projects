@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit ICM20649 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ICM20649-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4464
+- oompID: PROJ-ADAF-4464-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 9.7282, 5.4737, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 7.340599999999999, 4.9276, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 5.588, 12.496799999999999, 90
@@ -109,7 +110,6 @@ Contents
 - rawPart: U$42, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$43, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (0.303, 0.31), R0
-- oompID: PROJ-ADAF-4464-STAN-01
 
 
 

@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit 2.2 SPI TFT
 - sources: All source files from https://github.com/adafruit/Adafruit-2.2-SPI-TFT (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1480
+- oompID: PROJ-ADAF-1480-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -14.499999956, -12.999999908, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -11.500000113999999, -10.000000066, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, -3.000000096, 12.721999955999998, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: U1, TM022HDH26_2.2IN_LCD, microbuilder, (0, -0.015), MR0
 - rawPart: U2, RT9193-3.3, SOT23-5, microbuilder, (-0.45275591, -0.51181102), R270
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.31496063, 0.03937008), R270
-- oompID: PROJ-ADAF-1480-STAN-01
 
 
 

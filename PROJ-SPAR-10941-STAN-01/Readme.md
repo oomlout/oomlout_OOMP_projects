@@ -84,6 +84,7 @@ Contents
 - oompName: LilyPad Arduino SimpleSnap
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_SimpleSnap (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10941
+- oompID: PROJ-SPAR-10941-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 1.9049999999999998, 0.0, 90
 - oompPart: CAPC-0402-X-NF100-V50, C1, -6.97000003, 2.000000064, M90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, -10.000000066, 3.000000096, M270
@@ -172,7 +173,6 @@ Contents
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun, (0, 0), MR0
 - rawPart: U2, MCP73831, SOT23-5, SparkFun, (-0.39370079, -0.27559055), MR180
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.27559055, -0.07874016), MR270
-- oompID: PROJ-SPAR-10941-STAN-01
 
 
 

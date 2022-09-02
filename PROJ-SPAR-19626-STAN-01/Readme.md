@@ -56,6 +56,7 @@ Contents
 - oompName: 8 channel level shifter TXS0108E
 - sources: All source files from https://github.com/sparkfun/8_channel_level_shifter_TXS0108E (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19626
+- oompID: PROJ-SPAR-19626-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.16, 4.699, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.16, 8.001, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 4.699, 90
@@ -80,7 +81,6 @@ Contents
 - rawPart: J2, 1X10_NO_SILK, SparkFun-Connectors, (0.95, 0.45), R180
 - rawPart: R1, 100k, 0603, SparkFun-Resistors, (0.8, 0.185), R270
 - rawPart: U1, TXS0108, VFQFN-20, SparkFun-IC-Comms, (0.6, 0.25), R0
-- oompID: PROJ-SPAR-19626-STAN-01
 
 
 

@@ -66,6 +66,7 @@ Contents
 - oompName: AD Stereo Converter-PCM1803A
 - sources: All source files from https://github.com/sparkfun/AD_Stereo_Converter-PCM1803A (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9365
+- oompID: PROJ-SPAR-9365-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 25.4, 11.43, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 25.4, 13.97, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 20.32, 17.779999999999998, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: U2, 3.3V_REG, SOT23-5, SparkFun, (0.55, 0.7), R90
 - rawPart: U3, PCM1803SMD, SSOP20, SparkFun, (0.7, 0.4), R180
 - rawPart: U4, 24.576MHz, OSCILLATOR, CRYSTAL-SMD-7.5X5.2-6PIN, SparkFun, (0.4, 0.15), R0
-- oompID: PROJ-SPAR-9365-STAN-01
 
 
 

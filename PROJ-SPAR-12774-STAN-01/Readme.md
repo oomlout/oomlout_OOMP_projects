@@ -68,6 +68,7 @@ Contents
 - oompName: BeagleBone Black Proto Cape
 - sources: All source files from https://github.com/sparkfun/BeagleBone_Black_Proto_Cape (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12774
+- oompID: PROJ-SPAR-12774-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.176, 18.415, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 10.921999999999999, 48.26, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 10.921999999999999, 46.736, 90
@@ -118,7 +119,6 @@ Contents
 - rawPart: U$4, M23, 1X23, SparkFun-Connectors, (1.95, 0.3), R180
 - rawPart: U$5, M23, 1X23, SparkFun-Connectors, (1.95, 0.4), R180
 - rawPart: U1, EEPROM-I2CSMD, SO08, SparkFun-DigitalIC, (0.32, 0.55), R270
-- oompID: PROJ-SPAR-12774-STAN-01
 
 
 

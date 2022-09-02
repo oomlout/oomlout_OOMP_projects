@@ -85,6 +85,7 @@ Contents
 - oompName: Adafruit PowerBoost 1000C
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-1000C (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2465
+- oompID: PROJ-ADAF-2465-STAN-01
 - oompPart: ERROR, B1 JST 2-PH, 0, 0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.558, 16.509999999999998, 180
 - oompPart: CAPC-0805-X-UF22D-01, C2, 28.448, 17.145, 270
@@ -169,7 +170,6 @@ Contents
 - rawPart: U1, TPS61090RSAR, PVQFN-16, microbuilder, (0.95555118, 0.40181102), R180
 - rawPart: U2, MCP73871, QFN20_4MM, microbuilder, (0.465, 0.37), R270
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.335, 0.4625), R90
-- oompID: PROJ-ADAF-2465-STAN-01
 
 
 

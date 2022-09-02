@@ -55,6 +55,7 @@ Contents
 - oompName: ADXL345 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL345_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9836
+- oompID: PROJ-SPAR-9836-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.1975999999999996, 11.937999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 10.16, 13.081, 180
 - oompPart: UNMATCHED-0603-X-NF100-01, CIO, 14.097000000000001, 11.937999999999999, 90
@@ -69,7 +70,6 @@ Contents
 - rawPart: JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.075, 0.275), R0
 - rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.595, 0.56), R0
 - rawPart: U2, ADXL345PATRICK, LGA14_1:1_PATRICK, Testing, (0.404, 0.319), R0
-- oompID: PROJ-SPAR-9836-STAN-01
 
 
 

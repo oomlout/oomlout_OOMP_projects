@@ -57,6 +57,7 @@ Contents
 - oompName: AD5330 Breakout
 - sources: All source files from https://github.com/sparkfun/AD5330_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12082
+- oompID: PROJ-SPAR-12082-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.16, 19.049999999999997, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 10.16, 21.59, 180
 - oompPart: HEAD-I01-X-PI2-01, JP2, 2.54, 21.59, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: JP8, 1X02, SparkFun, (0.75, 0.95), R90
 - rawPart: JP9, 1X02, SparkFun, (0.05, 1.05), R270
 - rawPart: U1, AD5330, TSSOP20, SparkFun, (0.4, 0.55), R0
-- oompID: PROJ-SPAR-12082-STAN-01
 
 
 

@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit Proximity Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Proximity-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5022
+- oompID: PROJ-ADAF-5022-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.509, -4.0005, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 16.1925, -3.7464999999999997, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 15.4305, -1.3335, 0
@@ -101,7 +102,6 @@ Contents
 - rawPart: TP2, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (1.025, 0.1925), MR0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.455, -0.1525), R270
 - rawPart: U3, APDS-9960, APDS-9960, microbuilder, (0.8, 0), R90
-- oompID: PROJ-ADAF-5022-STAN-01
 
 
 

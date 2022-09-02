@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit Si4713 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si4713-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1958
+- oompID: PROJ-ADAF-1958-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANT, 8.889999999999999, 17.272000000000002, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 18.287999999999997, 6.35, 90
 - oompPart: CAPC-0805-X-NF470-01, C2, 28.955999999999996, 6.604, 90
@@ -128,7 +129,6 @@ Contents
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.93, 0.26), R90
 - rawPart: X3, 3.5mm, stereo, 4UCONN_19269, microbuilder, (1.5, 0.47), R180
 - rawPart: Y2, 32.768, CRYSTAL_8X3.8, microbuilder, (0.695, 0.505), R90
-- oompID: PROJ-ADAF-1958-STAN-01
 
 
 

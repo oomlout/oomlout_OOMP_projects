@@ -66,6 +66,7 @@ Contents
 - oompName: Edison ADC Block
 - sources: All source files from https://github.com/sparkfun/Edison_ADC_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13770
+- oompID: PROJ-SPAR-13770-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.97, 30.479999999999997, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.619999999999999, 17.779999999999998, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 10.16, 11.43, 270
@@ -122,7 +123,6 @@ Contents
 - rawPart: U1, ADS1015, MSOP10, SparkFun-AnalogIC, (0.55, 1.3), R90
 - rawPart: U2, PCA9306, PCA9306DC-1:1, SparkFun-DigitalIC, (0.5, 0.6), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-PowerIC, (0.78, 1.1), R270
-- oompID: PROJ-SPAR-13770-STAN-01
 
 
 

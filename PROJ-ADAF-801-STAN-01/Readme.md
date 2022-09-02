@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Prototyping Pi Plate PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/801
+- oompID: PROJ-ADAF-801-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 36.794000071999996, 79.468000068, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN2, 5.786000111999999, 27.000000101999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN3, 47.498, 3.8099999999999996, 0
@@ -93,7 +94,6 @@ Contents
 - rawPart: JP6, 1X08-BIG, adafruit, (0.7, 0.4), R270
 - rawPart: U$1, RASPBERRYPI_BB, RASBERRYPI_SHIELD, microbuilder, (0, 0), R0
 - rawPart: U$2, SMD-16SOIC, SO-16NMW, boogie, (0.37, 0.34), R90
-- oompID: PROJ-ADAF-801-STAN-01
 
 
 

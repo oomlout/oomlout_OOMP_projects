@@ -78,6 +78,7 @@ Contents
 - oompName: SparkFun ESP32 Thing Plus DMX to LED Shield
 - sources: All source files from https://github.com/sparkfun/SparkFun_ESP32_Thing_Plus_DMX_to_LED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15110
+- oompID: PROJ-SPAR-15110-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 20.955, 66.03999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 46.99, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 35.559999999999995, 26.669999999999998, 180
@@ -154,7 +155,6 @@ Contents
 - rawPart: U4, 6N137S, 8-SMD, SparkFun-DiscreteSemi, (1.25, 0.3), R270
 - rawPart: U5, 6N137S, 8-SMD, SparkFun-DiscreteSemi, (1.25, 0.8), R270
 - rawPart: U6, RFB-0505S, RFB-0505S, SparkFun-IC-Power, (1.1, 2.4), R0
-- oompID: PROJ-SPAR-15110-STAN-01
 
 
 

@@ -98,6 +98,7 @@ Contents
 - oompName: Photon Wearable Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Wearable_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13328
+- oompID: PROJ-SPAR-13328-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 38.018971967999995, 50.490375016, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.346178, 17.264887492, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 29.726128, 59.955428222, 270
@@ -202,7 +203,6 @@ Contents
 - rawPart: JP24, M01SMDNS, 1X01NS, SparkFun-Connectors, (1.17032, 0.31844993), R90
 - rawPart: JP25, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (0.82032, 1.73544993), R270
 - rawPart: JP26, M12SMD_COMBINED, 1X12_SMD_COMBINED, SparkFun-Connectors, (1.52032, 1.73544993), R270
-- oompID: PROJ-SPAR-13328-STAN-01
 
 
 

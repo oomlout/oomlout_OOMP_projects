@@ -50,6 +50,7 @@ Contents
 - oompName: Touch Screen Connector Breakout-Nintendo DS
 - sources: All source files from https://github.com/sparkfun/Touch_Screen_Connector_Breakout-Nintendo_DS (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9170
+- oompID: PROJ-SPAR-9170-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 7.619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 11.43, 1.27, 0
 - oompPart: HEAD-I01-X-PI04-01, JP1, 2.54, 11.43, 0
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.45, 0.05), R0
 - rawPart: JP1, 1X04, SparkFun, (0.1, 0.45), R0
 - rawPart: U$1, DS_TOUCH_CONNECTOR, DS_TOUCH_CONNECTOR, SparkFun, (0.25, 0.15), R0
-- oompID: PROJ-SPAR-9170-STAN-01
 
 
 

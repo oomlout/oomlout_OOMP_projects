@@ -53,6 +53,7 @@ Contents
 - oompName: LilyPad Coin Cell Battery Holder-20mm
 - sources: All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10730
+- oompID: PROJ-SPAR-10730-STAN-01
 - oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 8.762999999999998, -8.762999999999998, 47
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, -8.762999999999998, -8.762999999999998, 313
@@ -63,7 +64,6 @@ Contents
 - rawPart: U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, -0.345), R313
 - rawPart: U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, 0.345), R133
 - rawPart: U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, 0.345), R227
-- oompID: PROJ-SPAR-10730-STAN-01
 
 
 

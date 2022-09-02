@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Animated Eyes Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3356
+- oompID: PROJ-ADAF-3356-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 10.795, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.512, 21.209, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.9524999999999999, 23.1775, 0
@@ -97,7 +98,6 @@ Contents
 - rawPart: R4, 10K, 0805-NO, microbuilder, (1.125, 0.225), R270
 - rawPart: RPI1, RASPBERRYPI_BPLUS_PHAT, PI_BONNET, microbuilder, (0, 0), R0
 - rawPart: U1, ADS1015IDGST, MSOP10, microbuilder, (0.475, 0.1), R90
-- oompID: PROJ-ADAF-3356-STAN-01
 
 
 

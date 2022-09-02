@@ -80,6 +80,7 @@ Contents
 - oompName: Gram Piano
 - sources: All source files from https://github.com/sparkfun/Gram_Piano (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11835
+- oompID: PROJ-SPAR-11835-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 134.61999999999998, 60.959999999999994, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 134.61999999999998, 44.449999999999996, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 73.66, 40.64, 270
@@ -146,7 +147,6 @@ Contents
 - rawPart: S2, TACTILE-PTH, SparkFun-Electromechanical, (0.25, 2.05), R90
 - rawPart: SP1, SPEAKERPCB_MOUNT, PCB_MOUNT_SPEAKER, SparkFun-Electromechanical, (1.235, 1.945), R90
 - rawPart: U3, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (2.5, 1.6), R270
-- oompID: PROJ-SPAR-11835-STAN-01
 
 
 

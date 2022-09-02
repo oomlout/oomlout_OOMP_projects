@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit GUVA Analog UV Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1918
+- oompID: PROJ-ADAF-1918-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.08, 5.334, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 8.382, 11.176, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 3.8099999999999996, 90
@@ -78,7 +79,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.625), R0
 - rawPart: U1, MCP6001, SOT23-5, microbuilder, (0.2, 0.32), R90
 - rawPart: U2, GUVA-S12SD, GUVA-S12SD, microbuilder, (0.2, 0.46), R90
-- oompID: PROJ-ADAF-1918-STAN-01
 
 
 

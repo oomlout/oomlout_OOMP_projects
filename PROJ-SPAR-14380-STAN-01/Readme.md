@@ -68,6 +68,7 @@ Contents
 - oompName: Adjustable Lipo Charger
 - sources: All source files from https://github.com/sparkfun/Adjustable_Lipo_Charger (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14380
+- oompID: PROJ-SPAR-14380-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 21.209, 19.049999999999997, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 5.206999999999999, 32.004, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 11.557, 32.004, 270
@@ -116,7 +117,6 @@ Contents
 - rawPart: R9, 470, 0603, SparkFun-Resistors, (0.67, 1.26), R270
 - rawPart: SW1, DIP-06, DIPSWITCH-06-SMD, SparkFun-Switches, (0.495, 0.605), R270
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-IC-Power, (0.34, 1.26), R90
-- oompID: PROJ-SPAR-14380-STAN-01
 
 
 

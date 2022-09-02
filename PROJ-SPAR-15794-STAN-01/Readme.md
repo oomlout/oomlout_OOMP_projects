@@ -53,6 +53,7 @@ Contents
 - oompName: Qwiic Pi SHIM
 - sources: All source files from https://github.com/sparkfun/Qwiic_Pi_SHIM (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15794
+- oompID: PROJ-SPAR-15794-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.492999999999999, 2.3114, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.9502, 7.874, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 5.08, 13.3604, 180
@@ -71,7 +72,6 @@ Contents
 - rawPart: J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.196, 0.22), R270
 - rawPart: J9, SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS, Qwiic, Pi, SHIM, (0.15, 0.45), R0
 - rawPart: U2, 3.3V/600mA, SOT23-5, SparkFun-IC-Power, (0.314, 0.199), R0
-- oompID: PROJ-SPAR-15794-STAN-01
 
 
 

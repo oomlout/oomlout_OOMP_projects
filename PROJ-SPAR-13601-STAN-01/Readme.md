@@ -64,6 +64,7 @@ Contents
 - oompName: SX1509 IO-Expander
 - sources: All source files from https://github.com/sparkfun/SX1509_IO-Expander (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13601
+- oompID: PROJ-SPAR-13601-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 10.16, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 8.254999999999999, 15.239999999999998, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 17.145, 15.239999999999998, 270
@@ -114,7 +115,6 @@ Contents
 - rawPart: SJ8, B-VCC2, PAD-JUMPER-2-NO_NO_SILK, SparkFun-Passives, (0.85, 0.65), MR0
 - rawPart: SJ9, GND, PAD-JUMPER-2-NC_BY_TRACE_NO_SILK, SparkFun-Passives, (0.85, 1.15), MR180
 - rawPart: U1, SX1509, QFN-28, SparkFun-DigitalIC, (0.5, 0.6), R0
-- oompID: PROJ-SPAR-13601-STAN-01
 
 
 

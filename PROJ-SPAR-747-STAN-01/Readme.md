@@ -50,11 +50,11 @@ Contents
 - oompName: LMD1820x Breakout
 - sources: All source files from https://github.com/sparkfun/LMD1820x_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/747
+- oompID: PROJ-SPAR-747-STAN-01
 - oompPart: HEAD-I01-X-PI11-01, JP1, 27.94, 1.27, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 25.4, 11.43, 180
 - rawPart: JP1, M11PTH, 1X11, SparkFun, (1.1, 0.05), R180
 - rawPart: U$1, LMD1820X, TO-220-11LEAD, SparkFun, (1, 0.45), R180
-- oompID: PROJ-SPAR-747-STAN-01
 
 
 

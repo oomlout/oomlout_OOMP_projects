@@ -59,6 +59,7 @@ Contents
 - oompName: MegaShield Kit
 - sources: All source files from https://github.com/sparkfun/MegaShield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9346
+- oompID: PROJ-SPAR-9346-STAN-01
 - oompPart: HEAD-I01-X-PI08-01, JP3, 41.91, 50.8, 180
 - oompPart: HEAD-I01-X-PI08-01, JP4, 63.5, 50.8, 180
 - oompPart: HEAD-I01-X-PI08-01, JP5, 68.58, 50.8, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: R2, 330, AXIAL-0.3, SparkFun, (0.75, 0.4), R0
 - rawPart: R3, 10k, AXIAL-0.3, SparkFun, (0.75, 0.215), R180
 - rawPart: S1, TACTILE-PTH, SparkFun, (1.1, 0.19), R270
-- oompID: PROJ-SPAR-9346-STAN-01
 
 
 

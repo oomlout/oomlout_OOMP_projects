@@ -65,6 +65,7 @@ Contents
 - oompName: LilyPad LiPower
 - sources: All source files from https://github.com/sparkfun/LilyPad_LiPower (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11260
+- oompID: PROJ-SPAR-11260-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 100MA, 27.94, 17.779999999999998, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 25.4, 24.13, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C10, 22.86, 24.13, 0
@@ -99,7 +100,6 @@ Contents
 - rawPart: U$4, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (1.12, 1.12), R135
 - rawPart: U$5, SEWTAP10, PETAL-LONG-2-2SIDE, LilyPad-Wearables, (0.28, 1.12), R225
 - rawPart: U1, NCP1400-5V, SOT23-5, SparkFun, (0.7, 1.05), R90
-- oompID: PROJ-SPAR-11260-STAN-01
 
 
 

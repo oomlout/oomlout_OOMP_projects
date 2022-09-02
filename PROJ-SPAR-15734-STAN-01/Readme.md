@@ -78,6 +78,7 @@ Contents
 - oompName: SparkFun Clock Generator 5P49V60
 - sources: All source files from https://github.com/sparkfun/SparkFun_Clock_Generator_5P49V60 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15734
+- oompID: PROJ-SPAR-15734-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 18.313399999999998, 16.637, M180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 8.889999999999999, 14.350999999999997, M0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 15.748, 10.2108, M270
@@ -146,7 +147,6 @@ Contents
 - rawPart: R5, 10k, 0402, SparkFun-Resistors, (0.91, 0.723), MR0
 - rawPart: U1, IDT_5P49V60_CLOCK_GENERATOR, VFQFPN-24, SparkFun-IC-Special-Function, (0.55, 0.57), R270
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.56, 0.753), R0
-- oompID: PROJ-SPAR-15734-STAN-01
 
 
 

@@ -92,6 +92,7 @@ Contents
 - oompName: Ludus ProtoShield
 - sources: All source files from https://github.com/sparkfun/Ludus_ProtoShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13310
+- oompID: PROJ-SPAR-13310-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 48.387, 34.416999999999994, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 33.782, 31.241999999999997, 0
 - oompPart: ERROR, C4 10uf ,, 0, 0, 0
@@ -210,7 +211,6 @@ Contents
 - rawPart: TP11, PAD.03X.05, SparkFun-Passives, (1.65, 0.7), MR0
 - rawPart: U1, ARDUINO, UNO_R3_SHIELD_NOLABELS_LOCK, SparkFun-Boards, (0, 2.1), R270
 - rawPart: U2, TB6612FNG, SSOP24, SparkFun-PowerIC, (1.6, 1.05), R0
-- oompID: PROJ-SPAR-13310-STAN-01
 
 
 

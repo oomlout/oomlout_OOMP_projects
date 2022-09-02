@@ -57,6 +57,7 @@ Contents
 - oompName: LIS3DH Breakout
 - sources: All source files from https://github.com/sparkfun/LIS3DH_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13963
+- oompID: PROJ-SPAR-13963-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 15.493999999999998, 5.460999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.493999999999998, 4.064, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.049999999999997, 11.43, 180
@@ -83,7 +84,6 @@ Contents
 - rawPart: SJ1, SJ_2S-NO, SparkFun, (0.45, 0.27), MR90
 - rawPart: SJ2, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, TestAperatures, (0.3, 0.185), MR180
 - rawPart: U1, LIS3DH, LGA-16-3X3, SparkFun-Sensors, (0.45, 0.25), R180
-- oompID: PROJ-SPAR-13963-STAN-01
 
 
 

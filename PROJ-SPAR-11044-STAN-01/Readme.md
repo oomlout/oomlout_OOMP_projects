@@ -66,6 +66,7 @@ Contents
 - oompName: Mono Audio Amp Breakout-TPA2005D1
 - sources: All source files from https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11044
+- oompID: PROJ-SPAR-11044-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 5.08, 15.239999999999998, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 5.08, 5.08, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 15.239999999999998, 270
@@ -108,7 +109,6 @@ Contents
 - rawPart: R5, 10K, 0603-RES, SparkFun, (0.21875197, 0.05), R180
 - rawPart: SJ1, SJ_2S-NOTRACE, SparkFun, (0.65, 0.05), R270
 - rawPart: U1, TPA2005D1DRB, QFN-8_PAD, mike-temp, (0.4, 0.6), R90
-- oompID: PROJ-SPAR-11044-STAN-01
 
 
 

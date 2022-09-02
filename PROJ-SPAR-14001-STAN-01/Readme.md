@@ -90,6 +90,7 @@ Contents
 - oompName: 9DOF Razor IMU
 - sources: All source files from https://github.com/sparkfun/9DOF_Razor_IMU (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14001
+- oompID: PROJ-SPAR-14001-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 9.270999999999999, 12.827, M180
 - oompPart: CAPC-0603-X-UF22D-01, C2, 9.270999999999999, 11.302999999999999, M180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 17.525999999999996, 12.318999999999999, M180
@@ -186,7 +187,6 @@ Contents
 - rawPart: U3, MPU-9250, QFN24-3X3, 9dof-devboard-temp, (0.65, 1), R90
 - rawPart: U4, ATSAMD21G-A, TQFP-48, SparkFun-IC-Microcontroller, (0.6, 0.475), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.865, 0.3), R270
-- oompID: PROJ-SPAR-14001-STAN-01
 
 
 

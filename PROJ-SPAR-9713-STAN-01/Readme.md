@@ -106,6 +106,7 @@ Contents
 - oompName: UBW32
 - sources: All source files from https://github.com/sparkfun/UBW32 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9713
+- oompID: PROJ-SPAR-9713-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3, 80.00999999999999, 6.35, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5, 82.55, 6.35, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 72.64399999999999, 6.35, 0
@@ -222,7 +223,6 @@ Contents
 - rawPart: U3, 5V, SOT223, SparkFun, (3, 0.6), R0
 - rawPart: USB, GREEN, LED-0603, SparkFun, (0.62, 0.3), R0
 - rawPart: USER, TACTILE_SWITCH_SMD, SparkFun02-20-08, (0.75, 0.7), R180
-- oompID: PROJ-SPAR-9713-STAN-01
 
 
 

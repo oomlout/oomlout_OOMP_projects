@@ -62,6 +62,7 @@ Contents
 - oompName: SparkFun Qwiic Pressure Sensor BMP581
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/20170
+- oompID: PROJ-SPAR-20170-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 3.8099999999999996, 6.9342, 0
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, D1, 4.953, 11.557, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.985, 18.415, 0
@@ -106,7 +107,6 @@ Contents
 - rawPart: TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.1875, 0.0375), MR0
 - rawPart: TP4, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.2625, 0.0375), MR0
 - rawPart: U1, BMP581, BMP581, BMP581, (0.15, 0.35), R180
-- oompID: PROJ-SPAR-20170-STAN-01
 
 
 

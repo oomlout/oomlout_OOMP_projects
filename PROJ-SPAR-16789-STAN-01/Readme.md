@@ -61,6 +61,7 @@ Contents
 - oompName: Qwiic Shield for Arduino Nano
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Arduino_Nano (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16789
+- oompID: PROJ-SPAR-16789-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 2.54, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 2.54, 2.54, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 15.239999999999998, 40.64, 0
@@ -95,7 +96,6 @@ Contents
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.425, 0.75), R180
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.275, 0.95), R0
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.275, 0.75), R180
-- oompID: PROJ-SPAR-16789-STAN-01
 
 
 

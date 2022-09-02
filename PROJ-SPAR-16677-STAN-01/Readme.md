@@ -61,6 +61,7 @@ Contents
 - oompName: SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16677
+- oompID: PROJ-SPAR-16677-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 12.7, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 1.9049999999999998, 8.254999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 24.764999999999997, 24.764999999999997, 0
@@ -95,7 +96,6 @@ Contents
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.35, 0.5), R90
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.075, 0.25), R0
 - rawPart: U1, ZMOD4450, Refrigeration, Gas, Sensor, LGA-12-3X3, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-16677-STAN-01
 
 
 

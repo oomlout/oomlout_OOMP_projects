@@ -106,6 +106,7 @@ Contents
 - oompName: Adafruit Proto Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Proto-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2077
+- oompID: PROJ-ADAF-2077-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 63.672699934, 43.571100056, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 66.664899944, 7.411699933999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GNDSTRIP1, 56.39810005599999, 27.894300065999996, 180
@@ -222,7 +223,6 @@ Contents
 - rawPart: U$43, 5-STRIP, 5-STRIP, Atmex, (2.42, 0.5), R90
 - rawPart: VCCSTRIP1, 12-STRIP, 12-STRIP, Atmex, (2.32039764, 1.69820079), R180
 - rawPart: VCCSTRIP2, 12-STRIP, 12-STRIP, Atmex, (2.22039764, 0.99820079), R180
-- oompID: PROJ-ADAF-2077-STAN-01
 
 
 

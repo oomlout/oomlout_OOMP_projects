@@ -138,6 +138,7 @@ Contents
 - oompName: FreeSoc2
 - sources: All source files from https://github.com/sparkfun/FreeSoc2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13714
+- oompID: PROJ-SPAR-13714-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 72.39, 26.162, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 60.833, 40.259, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 60.833, 38.989, 0
@@ -336,7 +337,6 @@ Contents
 - rawPart: U7, CY8C5868LTI-LP039, QFN-68, SparkFun-DigitalIC, (1.1, 1.3), R90
 - rawPart: Y1, 32.768kHz, TC26H, SparkFun-FreqCtrl, (3.075, 0.83), R0
 - rawPart: Y2, HC49US, SparkFun-FreqCtrl, (2.5, 0.45), R0
-- oompID: PROJ-SPAR-13714-STAN-01
 
 
 

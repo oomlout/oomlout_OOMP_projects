@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Gemma PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Gemma-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1222
+- oompID: PROJ-ADAF-1222-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3V3, -8.001, -8.001, 135
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B0, -11.302999999999999, 0.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 0.0, 270
@@ -114,7 +115,6 @@ Contents
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.025, -0.465), R0
 - rawPart: VBAT, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.315, -0.315), R225
 - rawPart: X2, MiniB, USB-MINI_MEDIUM, microbuilder, (0, 0.34), R180
-- oompID: PROJ-ADAF-1222-STAN-01
 
 
 

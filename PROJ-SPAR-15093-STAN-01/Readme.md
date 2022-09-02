@@ -68,6 +68,7 @@ Contents
 - oompName: Qwiic Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15093
+- oompID: PROJ-SPAR-15093-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 49.529999999999994, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 2.54, 39.37, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 22.86, 43.18, 180
@@ -118,7 +119,6 @@ Contents
 - rawPart: R8, 10k, 0603, SparkFun-Resistors, (0.7, 1.95), R270
 - rawPart: R9, 1k, 0603, SparkFun-Resistors, (0.1, 1.7), R0
 - rawPart: U3, ATTINY85, ATTINY85, SparkFun-IC-Microcontroller, (0.5, 1.6), R0
-- oompID: PROJ-SPAR-15093-STAN-01
 
 
 

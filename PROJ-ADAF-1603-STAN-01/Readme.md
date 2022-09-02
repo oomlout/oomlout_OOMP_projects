@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit BMP180 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP180-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1603
+- oompID: PROJ-ADAF-1603-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.921, 12.446, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.794, 6.223, 180
 - oompPart: HEAD-I01-X-PI05-01, JP1, 8.889999999999999, 1.397, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.65, 0.54), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.11, 0.37), R0
 - rawPart: U3, BMP180, BMP180_EXTENDED, microbuilder, (0.35, 0.455), R270
-- oompID: PROJ-ADAF-1603-STAN-01
 
 
 

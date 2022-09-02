@@ -79,7 +79,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R12, 34.29, 8.889999999999999, 180,R12, 1k, 0402-TIGHT, SparkFun-Resistors, (1.35, 0.35), R180|
 |RESE-0402-X-UNMATCHED-01, R13, 34.29, 7.619999999999999, 180,R13, 1k, 0402-TIGHT, SparkFun-Resistors, (1.35, 0.3), R180|
 |RESE-0402-X-UNMATCHED-01, R14, 35.05199999999999, 25.780999999999995, 90,R14, 10?, 0402-TIGHT, SparkFun-Resistors, (1.38, 1.015), R90|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R15</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R15</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R16, 3.175, 6.985, 0,R16, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.125, 0.275), R0|
 |RESE-0402-X-UNMATCHED-01, R17, 3.175, 18.415, 0,R17, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.125, 0.725), R0|
 |RESE-0402-X-UNMATCHED-01, R19, 13.97, 8.889999999999999, 90,R19, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.55, 0.35), R90|
@@ -100,6 +100,7 @@ Contents
 - oompName: SparkFun GNSS Timing-ZED-F9T
 - sources: All source files from https://github.com/sparkfun/SparkFun_GNSS_Timing-ZED-F9T (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18774
+- oompID: PROJ-SPAR-18774-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.43, 29.209999999999997, 180
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 35.05199999999999, 27.94, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 13.97, 19.685, 180
@@ -216,7 +217,6 @@ Contents
 - rawPart: TP2, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.25, 0.55), MR180
 - rawPart: U3, U-BLOX_ZED_F9T, ZED-F9X, ZED-F9T, (1, 0.85), R90
 - rawPart: U5, AP2112K-3.3V, SOT23-5, SparkFun-IC-Power, (0.5, 0.95), R270
-- oompID: PROJ-SPAR-18774-STAN-01
 
 
 

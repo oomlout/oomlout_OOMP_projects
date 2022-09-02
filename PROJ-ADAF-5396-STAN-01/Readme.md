@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit VL53L4CD PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VL53L4CD-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5396
+- oompID: PROJ-ADAF-5396-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 8.001, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 8.636000000000001, 11.937999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C6, 10.413999999999998, 6.476999999999999, 270
@@ -107,7 +108,6 @@ Contents
 - rawPart: U$34, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U1, VL53L0X, LGA12_ST, microbuilder, (0.5, 0.35), R270
 - rawPart: U3, LP5907-2.8, SOT23-5, microbuilder, (0.32, 0.345), R0
-- oompID: PROJ-ADAF-5396-STAN-01
 
 
 

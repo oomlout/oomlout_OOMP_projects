@@ -69,6 +69,7 @@ Contents
 - oompName: BlueSMiRF
 - sources: All source files from https://github.com/sparkfun/BlueSMiRF (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12582
+- oompID: PROJ-SPAR-12582-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 29.845, 1.9049999999999998, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 29.845, 11.43, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 29.209999999999997, 8.889999999999999, 180
@@ -115,7 +116,6 @@ Contents
 - rawPart: TP1, PAD.03X.05, SparkFun, (0.85, 0.15), MR0
 - rawPart: U1, BLUETOOTH-RN41, RN41, SparkFun-RF, (0.64562992, 0.31551181), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun, (1.15, 0.25), R270
-- oompID: PROJ-SPAR-12582-STAN-01
 
 
 

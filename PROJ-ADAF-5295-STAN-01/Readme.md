@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit NeoSlider PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoSlider-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5295
+- oompID: PROJ-ADAF-5295-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, -26.987499999999997, 5.270499999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.095999999999999, -4.571999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 10.350499999999998, 5.588, 90
@@ -142,7 +143,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (-0.75, 0.325), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.75, -0.325), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (-0.75, -0.325), R0
-- oompID: PROJ-ADAF-5295-STAN-01
 
 
 

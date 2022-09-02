@@ -75,6 +75,7 @@ Contents
 - oompName: SunnyBuddy
 - sources: All source files from https://github.com/sparkfun/SunnyBuddy (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12885
+- oompID: PROJ-SPAR-12885-STAN-01
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 17.779999999999998, 19.049999999999997, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 22.86, 21.843999999999998, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 22.86, 29.209999999999997, 0
@@ -137,7 +138,6 @@ Contents
 - rawPart: R6, 220k, 0603-RES, SparkFun-Resistors, (0.925, 0.4), R0
 - rawPart: R7, 10k, TRIMPOT-3MM, SparkFun-Electromechanical, (0.3, 0.15), R0
 - rawPart: U1, LT3652, MSOP-12_GND, SparkFun-PowerIC, (0.8, 0.55), R0
-- oompID: PROJ-SPAR-12885-STAN-01
 
 
 

@@ -62,6 +62,7 @@ Contents
 - oompName: Qwiic GRIDEye
 - sources: All source files from https://github.com/sparkfun/Qwiic_GRIDEye (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14607
+- oompID: PROJ-SPAR-14607-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 19.049999999999997, 0
 - oompPart: CAPC-0603-X-UF22D-01, C2, 10.16, 19.049999999999997, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.35, 19.049999999999997, 0
@@ -100,7 +101,6 @@ Contents
 - rawPart: R5, 4.7k, 0603, SparkFun-Resistors, (0.35, 0.85), R0
 - rawPart: SJ1, SJ_2S-NO, SparkFun, (0.85, 0.2), MR0
 - rawPart: U2, GRIDEYE, GRIDEYE-AMG88, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-14607-STAN-01
 
 
 

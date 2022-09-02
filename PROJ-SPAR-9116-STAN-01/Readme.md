@@ -51,6 +51,7 @@ Contents
 - oompName: DS1077 Breakout
 - sources: All source files from https://github.com/sparkfun/DS1077_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9116
+- oompID: PROJ-SPAR-9116-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 12.7, 3.8099999999999996, 0
 - oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 10.16, 8.889999999999999, 0
@@ -61,7 +62,6 @@ Contents
 - rawPart: U$1, DS1077, SO08, SparkFun, (0.4, 0.35), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.76, 0.425), R0
 - rawPart: U$4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.1, 0.15), R0
-- oompID: PROJ-SPAR-9116-STAN-01
 
 
 

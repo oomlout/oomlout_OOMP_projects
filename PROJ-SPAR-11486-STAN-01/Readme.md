@@ -56,6 +56,7 @@ Contents
 - oompName: MPU-9150 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-9150_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11486
+- oompID: PROJ-SPAR-11486-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 8.889999999999999, 270
 - oompPart: CAPC-0402-X-NF22D-01, C2, 10.16, 17.779999999999998, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 12.7, 12.7, 0
@@ -82,7 +83,6 @@ Contents
 - rawPart: SJ2**, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun-Passives, (0.35, 0.8), MR0
 - rawPart: SJ3**, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun-Passives, (0.35, 0.3), MR180
 - rawPart: U1, MPU-9150, QFN-24-NP, SparkFun-Sensors, (0.35, 0.55), R0
-- oompID: PROJ-SPAR-11486-STAN-01
 
 
 

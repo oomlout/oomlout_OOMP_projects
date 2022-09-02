@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit Bluefruit LE SPI Friend PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2633
+- oompID: PROJ-ADAF-2633-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 3.429, 16.128999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 20.955, 6.476999999999999, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 3.556, 6.223, 180
@@ -116,7 +117,6 @@ Contents
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.79, 0.4), R90
 - rawPart: VTREF, THREEV, PAD-1.5X2.0, microbuilder, (0.84, 0.45), MR270
 - rawPart: Y1, 32.768kHz, (535-9166-2-ND), CRYSTAL_CYL_2X6MM_SMT, microbuilder, (0.135, 0.435), MR270
-- oompID: PROJ-ADAF-2633-STAN-01
 
 
 

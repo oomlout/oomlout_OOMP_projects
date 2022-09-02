@@ -56,6 +56,7 @@ Contents
 - oompName: Qwiic Shield for Thing Plus
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Thing_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16790
+- oompID: PROJ-SPAR-16790-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 6.35, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 19.049999999999997, 44.449999999999996, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: J5, THING_PLUS, THING_PLUS, SparkFun-Boards, (0.45, 1), R0
 - rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.3, 1), R0
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.6, 1), R180
-- oompID: PROJ-SPAR-16790-STAN-01
 
 
 

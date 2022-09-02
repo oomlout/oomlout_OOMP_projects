@@ -66,6 +66,7 @@ Contents
 - oompName: Qwiic Capacitive Touch Slider CAP1203
 - sources: All source files from https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15344
+- oompID: PROJ-SPAR-15344-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 22.86, 12.7, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 21.336, 12.7, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 31.241999999999997, 21.336, 180
@@ -102,7 +103,6 @@ Contents
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.5, 0.1), R270
 - rawPart: S1, CAP_SENSE_SLIDER, SparkX, (0.7, 0.5), MR0
 - rawPart: U2, CAP1203, SO08-TIGHT, SparkFun-Sensors, (0.7, 0.5), R0
-- oompID: PROJ-SPAR-15344-STAN-01
 
 
 

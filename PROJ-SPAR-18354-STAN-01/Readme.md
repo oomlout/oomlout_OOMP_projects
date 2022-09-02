@@ -75,6 +75,7 @@ Contents
 - oompName: SparkFun Qwiic LED Stick
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18354
+- oompID: PROJ-SPAR-18354-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 22.86, 16.509999999999998, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.001, 270
 - oompPart: CAPC-0603-X-NF100-V50, C4, 16.509999999999998, 8.636000000000001, 0
@@ -139,7 +140,6 @@ Contents
 - rawPart: R6, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.725), R90
 - rawPart: U2, ATTINY85, ATTINY85, SparkFun-IC-Microcontroller, (0.65, 0.5), R180
 - rawPart: VLED, JUMPER-SMT_3_1-NC_TRACE_SILK, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.425, 0.34), MR180
-- oompID: PROJ-SPAR-18354-STAN-01
 
 
 

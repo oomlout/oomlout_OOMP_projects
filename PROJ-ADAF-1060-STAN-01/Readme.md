@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit Flora Smart NeoPixel
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Smart-NeoPixel (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1060
+- oompID: PROJ-ADAF-1060-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -2.794, -3.556, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, DATA_INPUT, 0.0, -5.206999999999999, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, DATA_OUTPUT, 0.0, 5.206999999999999, 0
@@ -74,7 +75,6 @@ Contents
 - rawPart: R2, 22, R0805, adafruit, (0.11, 0.14), MR0
 - rawPart: R3, 22, R0805, adafruit, (-0.11, 0.14), MR0
 - rawPart: VDD, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0.205, 0), R270
-- oompID: PROJ-ADAF-1060-STAN-01
 
 
 

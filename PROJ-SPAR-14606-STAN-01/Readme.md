@@ -68,6 +68,7 @@ Contents
 - oompName: Flexible Grayscale OLED
 - sources: All source files from https://github.com/sparkfun/Flexible_Grayscale_OLED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14606
+- oompID: PROJ-SPAR-14606-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.43, 32.639, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.43, 22.86, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 9.525, 19.05, 90
@@ -130,7 +131,6 @@ Contents
 - rawPart: U1, AP3012, SOT23-5, SparkFun-IC-Power, (11.43, 29.21), R0
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (12.7, 11.43), R270
 - rawPart: U3, TXB0104, SO14, SparkFun-IC-Comms, (5.08, 12.065), R180
-- oompID: PROJ-SPAR-14606-STAN-01
 
 
 

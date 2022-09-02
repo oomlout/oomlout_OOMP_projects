@@ -65,6 +65,7 @@ Contents
 - oompName: Beefy 3
 - sources: All source files from https://github.com/sparkfun/Beefy_3 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13746
+- oompID: PROJ-SPAR-13746-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.3367999999999998, 10.693399999999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.3594, 11.6332, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 12.065, 13.5382, 90
@@ -99,7 +100,6 @@ Contents
 - rawPart: R2, 1K, 0603-RES, SparkFun-Resistors, (0.242, 0.14), R180
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-PowerIC, (0.194, 0.34), R270
 - rawPart: U2, FTS31XS-U, SSOP20_L, SparkFun-DigitalIC, (0.45, 0.34), R0
-- oompID: PROJ-SPAR-13746-STAN-01
 
 
 

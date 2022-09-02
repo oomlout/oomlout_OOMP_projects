@@ -81,6 +81,7 @@ Contents
 - oompName: Adafruit Flora Mainboard
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Mainboard (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/659
+- oompID: PROJ-ADAF-659-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -19.685, 0.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3V3TAP2, 9.906, 17.018, 330
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 0.0, -18.541999999999998, 180
@@ -179,7 +180,6 @@ Contents
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.32, 0.33), R0
 - rawPart: VCC2, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.39, -0.67), R210
 - rawPart: X3, 8MHz, NX5032, adaprog, (-0.315, -0.31), R0
-- oompID: PROJ-ADAF-659-STAN-01
 
 
 

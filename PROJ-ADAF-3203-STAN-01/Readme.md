@@ -50,11 +50,11 @@ Contents
 - oompName: Adafruit Perma Proto Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3203
+- oompID: PROJ-ADAF-3203-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.512, 22.148799999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 0.0, 0.0078000859999999995, 0
 - rawPart: CONN1, HEADER-1X25, 1X25_ROUND_70MIL, microbuilder, (1.28, 0.872), R0
 - rawPart: RPI1, RASPBERRYPI_BPLUS_BONNETNODIM, PI_BONNET_NODIM, microbuilder, (0, 0.00030709), R0
-- oompID: PROJ-ADAF-3203-STAN-01
 
 
 

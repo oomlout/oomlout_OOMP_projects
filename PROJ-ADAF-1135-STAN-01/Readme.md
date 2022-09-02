@@ -49,9 +49,9 @@ Contents
 - oompName: Adafruit Perma Proto Pi PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1135
+- oompID: PROJ-ADAF-1135-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, 0.0, 90
 - rawPart: JP1, RASBERRYPI_IDC, microbuilder, (0, 0), R90
-- oompID: PROJ-ADAF-1135-STAN-01
 
 
 

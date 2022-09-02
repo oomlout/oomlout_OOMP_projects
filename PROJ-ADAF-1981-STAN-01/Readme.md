@@ -52,6 +52,7 @@ Contents
 - oompName: Adafruit Flora Si1145 Light Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1981
+- oompID: PROJ-ADAF-1981-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 115.0, 15.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -130.0, -5.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, -115), R120
 - rawPart: U1, SI1145, SI114X, microbuilder, (0, 0), R180
 - rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -230), R180
-- oompID: PROJ-ADAF-1981-STAN-01
 
 
 

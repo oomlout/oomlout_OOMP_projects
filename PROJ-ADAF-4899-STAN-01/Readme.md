@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit SPI Flash SD Card PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SPI-Flash-SD-Card-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4899
+- oompID: PROJ-ADAF-4899-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.827, 5.460999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.429, 11.176, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 3.556, 5.842, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U3, 74HC4050D, TSSOP16, microbuilder, (0.315, 0.355), R0
 - rawPart: U4, AP2112K-3.3, SOT23-5, microbuilder, (0.125, 0.335), R270
 - rawPart: U5, XTSD, LGA8_8X6, microbuilder, (0.615, 0.37), R180
-- oompID: PROJ-ADAF-4899-STAN-01
 
 
 

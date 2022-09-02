@@ -65,6 +65,7 @@ Contents
 - oompName: SparkFun Real Time Clock Module RV-8803
 - sources: All source files from https://github.com/sparkfun/SparkFun_Real_Time_Clock_Module_RV-8803 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16281
+- oompID: PROJ-SPAR-16281-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 12.7, 19.939, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 16.509999999999998, 11.43, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 8.889999999999999, 11.43, 90
@@ -107,7 +108,6 @@ Contents
 - rawPart: R6, 100k, 0603, SparkFun-Resistors, (0.95, 0.15), R270
 - rawPart: S1, MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.5, 0.75), R180
 - rawPart: U1, RV-8803, RV-3028, SparkFun-Clocks, (0.5, 0.45), R0
-- oompID: PROJ-SPAR-16281-STAN-01
 
 
 

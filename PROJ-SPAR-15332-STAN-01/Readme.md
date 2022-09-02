@@ -131,6 +131,7 @@ Contents
 - oompName: SparkFun Artemis
 - sources: All source files from https://github.com/sparkfun/SparkFun_Artemis (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15332
+- oompID: PROJ-SPAR-15332-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 13.499999924, 4.999999905999999, 270
 - oompPart: CAPC-0402-X-NF470-01, C1, 2.1000001179999996, 7.700000094, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 3.5000001119999995, 2.199999918, 270
@@ -301,7 +302,6 @@ Contents
 - rawPart: R2, 0, 0402-TIGHT, SparkFun-Resistors, (0.10629921, 0.08661417), R270
 - rawPart: U1, AMBIQ-APOLLO3KBR, BGA-81-5X5MM, SparkFun-IC-Microcontroller, (0.23181102, 0.25594488), R90
 - rawPart: Y1, 32MHz, CRYSTAL-SMD-2.0X1.6MM, SparkFun-Clocks, (0.33464567, 0.09055118), R180
-- oompID: PROJ-SPAR-15332-STAN-01
 
 
 

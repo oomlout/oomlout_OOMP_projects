@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit Flora TCS34725 Color Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1356
+- oompID: PROJ-ADAF-1356-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, -2.125000068, -3.6179998759999994, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -2.794, 5.968999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.667, -5.715, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: TP5, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-0.22, 0.125), R60
 - rawPart: TP6, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0.22, 0.125), R300
 - rawPart: U1, TCS34725, TCS3472_FN6, microbuilder, (0.005, -0.005), R180
-- oompID: PROJ-ADAF-1356-STAN-01
 
 
 

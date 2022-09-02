@@ -59,6 +59,7 @@ Contents
 - oompName: Opto Isolator Breakout
 - sources: All source files from https://github.com/sparkfun/Opto_Isolator_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9118
+- oompID: PROJ-SPAR-9118-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 13.97, 2.54, M90
 - oompPart: HEAD-I01-X-PI04-01, JP2, 1.27, 10.16, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 4.3180000000000005, 10.16, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: U$2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.028, 0.475), R0
 - rawPart: U$3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.567, 0.025), R0
 - rawPart: U1, ILD213T-IDL213T, SO08, SparkFun-DiscreteSemi, (0.3, 0.135), R270
-- oompID: PROJ-SPAR-9118-STAN-01
 
 
 

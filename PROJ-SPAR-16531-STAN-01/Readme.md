@@ -66,6 +66,7 @@ Contents
 - oompName: SparkFun Air Quality Sensor-SGP30
 - sources: All source files from https://github.com/sparkfun/SparkFun_Air_Quality_Sensor-SGP30 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16531
+- oompID: PROJ-SPAR-16531-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.16, 8.382, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 8.382, 270
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 15.239999999999998, 0
@@ -110,7 +111,6 @@ Contents
 - rawPart: R7, 10k, 0603, SparkFun-Resistors, (0.75, 0.7), R90
 - rawPart: U2, AP2127K-1.8V, SOT23-5, SparkFun-IC-Power, (0.5, 0.35), R0
 - rawPart: U3, SGP30, SGP30, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-16531-STAN-01
 
 
 

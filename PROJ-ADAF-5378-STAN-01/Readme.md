@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit VEML7700 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VEML7700-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5378
+- oompID: PROJ-ADAF-5378-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.842, 8.254999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.0479999999999996, 10.795, 180
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.55), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.55, 0.55), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.125, 0.325), R270
-- oompID: PROJ-ADAF-5378-STAN-01
 
 
 

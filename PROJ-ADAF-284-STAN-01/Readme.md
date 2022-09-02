@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit_FTDI Friend PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_FTDI-Friend-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/284
+- oompID: PROJ-ADAF-284-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.921, 10.0076, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 2.8956, 15.366999999999999, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 2.9464, 18.923, 90
@@ -95,7 +96,6 @@ Contents
 - rawPart: TX, Red, CHIP-LED0805, adafruit, (0.609, 0.62), R0
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.63, 1.12), R270
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.21, 0.31), R270
-- oompID: PROJ-ADAF-284-STAN-01
 
 
 

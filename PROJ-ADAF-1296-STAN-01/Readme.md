@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit TMP006 and TMP007 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1296
+- oompID: PROJ-ADAF-1296-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 20.0, 110.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 510.0, 410.0, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (600, 510), R0
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0, 510), R0
 - rawPart: U1, TMP006AIYZFR, WCSP-8, microbuilder, (300, 210), R0
-- oompID: PROJ-ADAF-1296-STAN-01
 
 
 

@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit 1.69in 280x240 Round Rectangle TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5206
+- oompID: PROJ-ADAF-5206-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 27.178, 7.492999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -0.7619999999999999, 31.623, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 24.13, 24.764999999999997, 270
@@ -114,7 +115,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0, 0.175), MR270
 - rawPart: U1, 74HC4050PWR, TSSOP16, microbuilder, (0.805, 0.93), R180
 - rawPart: X1, EYE_SPI_DISPLAY_FLIP, EYE_SPI_DISPLAY_BOTCONTACT, adafruit_display, (0.625, 1.675), R0
-- oompID: PROJ-ADAF-5206-STAN-01
 
 
 

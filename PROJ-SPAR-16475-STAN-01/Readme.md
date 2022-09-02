@@ -66,7 +66,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 23.718000061999998, 7.681500004, 270,JP4, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.93377953, 0.30242126), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 14.974599971999998, 41.020400052, 180,JP5, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.58955118, 1.61497638), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 11.000000098, 41.092000111999994, 180,JP6, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.43307087, 1.61779528), R180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R2, 33.129599983999995, 22.970199932, 0,R2, 33, 0603, SparkFun-Resistors, (1.30431496, 0.90433858), R0|
 |RESE-UNMATCHED-X-UNMATCHED-01, R3, 19.974599878, 30.353, 270,R3, 33, 1206_RA, SparkFun-Resistors, (0.78640157, 1.195), R270|
 |RESE-0603-X-UNMATCHED-01, R4, 19.999999877999997, 34.000000072, 180,R4, 33, 0603, SparkFun-Resistors, (0.78740157, 1.33858268), R180|
@@ -106,6 +106,7 @@ Contents
 - oompName: SparkFun GPS Dead Reckoning PHat ZED-F9R
 - sources: All source files from https://github.com/sparkfun/SparkFun_GPS_Dead_Reckoning_PHat_ZED-F9R (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16475
+- oompID: PROJ-SPAR-16475-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 55.032999915999994, 44.686000036, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 36.070800096, 42.634799922, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 31.736799874, 43.599999921999995, 0
@@ -244,7 +245,6 @@ Contents
 - rawPart: U2, DUAL-OPTO_HCPL-073L, SOP_8-PIN, SparkFun-DiscreteSemi, (0.76015748, 0.79858268), R270
 - rawPart: U3, UHS_INVERTER_SCHMITT_TRIGGERSIP6, SIP6, SparkFun-IC-Amplifiers, (0.83208661, 0.52086614), R180
 - rawPart: U4, UHS_INVERTER_SCHMITT_TRIGGERSIP6, SIP6, SparkFun-IC-Amplifiers, (0.70003937, 0.52086614), R180
-- oompID: PROJ-SPAR-16475-STAN-01
 
 
 

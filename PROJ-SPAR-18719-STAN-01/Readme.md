@@ -70,7 +70,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 24.637999999999998, 1.6001999999999998, M0,PWR, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.97, 0.063), MR0|
 |RESE-0603-X-UNMATCHED-01, R1, 35.981550084, 13.230999953999998, 180,R1, 3.3k, 0603, SparkFun-Resistors, (1.41659646, 0.52090551), R180|
 |RESE-0603-X-UNMATCHED-01, R2, 35.981550084, 5.419600031999999, 180,R2, 3.3k, 0603, SparkFun-Resistors, (1.41659646, 0.21337008), R180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R4, 30.475000009999995, 13.680799918, 90,R4, 910, 0603, SparkFun-Resistors, (1.19980315, 0.53861417), R90|
 |RESE-0603-X-UNMATCHED-01, R5, 35.981550084, 19.535000045999997, 180,R5, 470, 0603, SparkFun-Resistors, (1.41659646, 0.76909449), R180|
 |RESE-0603-X-UNMATCHED-01, R6, 35.981550084, 11.727999912, 180,R6, 470, 0603, SparkFun-Resistors, (1.41659646, 0.46173228), R180|
@@ -111,6 +111,7 @@ Contents
 - oompName: SparkFun GNSS Dead Reckoning ZED-F9K
 - sources: All source files from https://github.com/sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18719
+- oompID: PROJ-SPAR-18719-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 28.575, 43.307, 270
 - oompPart: CAPC-0402-X-NF100-V50, C1, 27.558999999999997, 5.715, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 25.019, 34.798, 0
@@ -247,7 +248,6 @@ Contents
 - rawPart: U3, UHS_INVERTER_SCHMITT_TRIGGERSIP6, SIP6, SparkFun-IC-Amplifiers, (0.95262992, 0.43074803), R0
 - rawPart: U4, UHS_INVERTER_SCHMITT_TRIGGERSIP6, SIP6, SparkFun-IC-Amplifiers, (1.11, 0.53), R90
 - rawPart: U5, 3.3V, SOT23-5, SparkFun-IC-Power, (0.93, 1.505), R180
-- oompID: PROJ-SPAR-18719-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit HDC1008 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2635
+- oompID: PROJ-ADAF-2635-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 15.748, 7.874, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.6829999999999994, 4.699, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.7, 10.668, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.5), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.5), R0
 - rawPart: U1, HDC1008, DSBGA8_HDC1008, microbuilder, (0.35, 0.32), R180
-- oompID: PROJ-ADAF-2635-STAN-01
 
 
 

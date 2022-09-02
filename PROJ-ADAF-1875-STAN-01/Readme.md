@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit TXB0104 Level Shifter Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1875
+- oompID: PROJ-ADAF-1875-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.08, 13.081, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 7.619999999999999, 13.081, 270
 - oompPart: HEAD-I01-X-PI06-01, JP3, 11.43, 8.889999999999999, 270
@@ -68,7 +69,6 @@ Contents
 - rawPart: R1, 10K, 0805-NO, microbuilder, (0.23, 0.095), R0
 - rawPart: U$5, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25, 0.65), R0
 - rawPart: U2, TSSOP14, microbuilder, (0.25, 0.29), R180
-- oompID: PROJ-ADAF-1875-STAN-01
 
 
 

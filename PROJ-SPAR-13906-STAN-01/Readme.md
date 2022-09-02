@@ -53,6 +53,7 @@ Contents
 - oompName: 74HC4051 8-Channel Mux Breakout
 - sources: All source files from https://github.com/sparkfun/74HC4051_8-Channel_Mux_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13906
+- oompID: PROJ-SPAR-13906-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 17.779999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 0.889, 0.889, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 8.762999999999998, 27.051, 0
@@ -69,7 +70,6 @@ Contents
 - rawPart: JP1, VEE-GND, PAD-JUMPER-2-NC_BY_PASTE_NO_SILK, SparkFun-Passives, (0.25, 0.85), R90
 - rawPart: R1, 10k, 0603, SparkFun-Resistors, (0.25, 0.3), R0
 - rawPart: U1, DHVQFN-16-2.5X3.5MM, SparkFun-IC-Logic, (0.25, 0.55), R270
-- oompID: PROJ-SPAR-13906-STAN-01
 
 
 

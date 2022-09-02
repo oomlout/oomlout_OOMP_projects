@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit BNO055 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2472
+- oompID: PROJ-ADAF-2472-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 7.619999999999999, 8.128, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 7.112, 15.620999999999999, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 17.525999999999996, 8.762999999999998, 180
@@ -126,7 +127,6 @@ Contents
 - rawPart: U$32, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.95, 0.1), R0
 - rawPart: U1, MIC5225-3.3, SOT23-5, microbuilder, (0.295, 0.21), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL_8X3.8, microbuilder, (0.24, 0.465), R180
-- oompID: PROJ-ADAF-2472-STAN-01
 
 
 

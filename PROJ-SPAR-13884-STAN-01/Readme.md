@@ -68,6 +68,7 @@ Contents
 - oompName: LP55231 Breakout
 - sources: All source files from https://github.com/sparkfun/LP55231_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13884
+- oompID: PROJ-SPAR-13884-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 4.699, 12.7, 0
 - oompPart: CAPC-0603-X-NF470-V50, C2, 7.365999999999999, 20.447, 0
 - oompPart: CAPC-0603-X-NF470-V50, C3, 6.095999999999999, 18.160999999999998, 90
@@ -118,7 +119,6 @@ Contents
 - rawPart: R4, 4.7K, 0603-RES, SparkFun-Resistors, (0.41, 0.27), R270
 - rawPart: R5, 4.7K, 0603-RES, SparkFun-Resistors, (0.35, 0.27), R270
 - rawPart: U1, LP55231WQFN, WQFN-24, LP55231, (0.4, 0.6), R0
-- oompID: PROJ-SPAR-13884-STAN-01
 
 
 

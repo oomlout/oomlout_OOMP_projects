@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit MAX98357 I2S Amp Breakout
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3006
+- oompID: PROJ-ADAF-3006-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 12.7, 8.128, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 14.731999999999998, 8.128, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C4, 2.54, 10.921999999999999, 180
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R0
 - rawPart: U1, MAX98357A, QFN16_3MM, microbuilder, (0.35, 0.3), R90
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.35, 0.61), R180
-- oompID: PROJ-ADAF-3006-STAN-01
 
 
 

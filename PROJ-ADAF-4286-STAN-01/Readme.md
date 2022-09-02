@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit DS3502 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DS3502-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4286
+- oompID: PROJ-ADAF-4286-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 495.0, 420.0, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 495.0, 230.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 900.0, 350.0, 90
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 600), R0
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 100), R0
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
-- oompID: PROJ-ADAF-4286-STAN-01
 
 
 

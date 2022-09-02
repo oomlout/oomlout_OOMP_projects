@@ -87,6 +87,7 @@ Contents
 - oompName: SparkFun u-blox NEO-M8U
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_NEO-M8U (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16329
+- oompID: PROJ-SPAR-16329-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 3.0479999999999996, 9.652, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.16, 12.725399999999999, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 33.909, 15.849599999999999, 270
@@ -173,7 +174,6 @@ Contents
 - rawPart: R15, 10, 0603, SparkFun-Resistors, (1.155, 0.729), R180
 - rawPart: U1, U-BLOX_MEO-M8U, NEO-M9N/M8T/M8U, SparkFun-GPS, (0.8, 0.645), R0
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (1.225, 0.624), R90
-- oompID: PROJ-SPAR-16329-STAN-01
 
 
 

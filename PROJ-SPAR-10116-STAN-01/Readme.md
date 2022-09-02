@@ -83,6 +83,7 @@ Contents
 - oompName: Arduino Fio
 - sources: All source files from https://github.com/sparkfun/Arduino_Fio (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10116
+- oompID: PROJ-SPAR-10116-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 12.7, 34.29, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 13.97, 27.94, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 22.098, 20.32, 180
@@ -167,7 +168,6 @@ Contents
 - rawPart: U4, XBEE-1B3, XBEE-SMD, SparkFun, (0.5, 2.55), MR180
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.33, 2.35), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.375, 1.08), R0
-- oompID: PROJ-SPAR-10116-STAN-01
 
 
 

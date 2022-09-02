@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit LED Backpack FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Backpack-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3088
+- oompID: PROJ-ADAF-3088-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 21.971, -4.191, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 21.971, -1.651, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 21.971, 0.889, M180
@@ -106,7 +107,6 @@ Contents
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-0.935, -0.385), MR0
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.94, 0.395), MR0
 - rawPart: U2, SOP28_300MIL_SKINNY, microbuilder, (-0.47, 0), MR0
-- oompID: PROJ-ADAF-3088-STAN-01
 
 
 

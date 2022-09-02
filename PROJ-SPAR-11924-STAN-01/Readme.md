@@ -100,16 +100,16 @@ Contents
 |<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R10</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 |RESE-0805-X-UNMATCHED-01, R11, 60.959999999999994, 29.209999999999997, 180,R11, 0.75, 0805, SparkFun-Resistors, (2.4, 1.15), R180|
 |RESE-0805-X-UNMATCHED-01, R12, 64.008, 29.209999999999997, 180,R12, 0.22, 0805, SparkFun-Resistors, (2.52, 1.15), R180|
-|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R13</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 15k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R13</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R14, 29.209999999999997, 37.719, 270,R14, 30.1k, 0603-RES, SparkFun-Resistors, (1.15, 1.485), R270|
 |<table><tr><td>![RESE-0603-X-O433-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O433-01/image_140.jpg)</td><td> R15</td><td>[RESE-0603-X-O433-01<br>SMD (0603) 43k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td><td>[R6433](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R16</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 15k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R16</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O433-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O433-01/image_140.jpg)</td><td> R17</td><td>[RESE-0603-X-O433-01<br>SMD (0603) 43k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td><td>[R6433](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R18, 28.320999999999998, 42.799, 0,R18, 30.1k, 0603-RES, SparkFun-Resistors, (1.115, 1.685), R0|
-|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R19</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 15k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R19</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R20, 29.209999999999997, 33.400999999999996, 270,R20, 30.1k, 0603-RES, SparkFun-Resistors, (1.15, 1.315), R270|
 |<table><tr><td>![RESE-0603-X-O433-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O433-01/image_140.jpg)</td><td> R21</td><td>[RESE-0603-X-O433-01<br>SMD (0603) 43k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td><td>[R6433](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R22</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 15k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0603-X-O153-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O153-01/image_140.jpg)</td><td> R22</td><td>[RESE-0603-X-O153-01<br>SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td><td>[R6153](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0603-X-O433-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O433-01/image_140.jpg)</td><td> R23</td><td>[RESE-0603-X-O433-01<br>SMD (0603) 43k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td><td>[R6433](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O433-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R24, 28.320999999999998, 28.320999999999998, 0,R24, 30.1k, 0603-RES, SparkFun-Resistors, (1.115, 1.115), R0|
 |RESE-0603-X-UNMATCHED-01, R25, 21.59, 21.59, 90,R25, 2.2k, 0603-RES, SparkFun-Resistors, (0.85, 0.85), R90|
@@ -144,6 +144,7 @@ Contents
 - oompName: Purpletooth Jamboree
 - sources: All source files from https://github.com/sparkfun/Purpletooth_Jamboree (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11924
+- oompID: PROJ-SPAR-11924-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 78.86699999999999, 23.622, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 80.899, 24.13, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 87.37599999999999, 23.622, 270
@@ -340,7 +341,6 @@ Contents
 - rawPart: U1, BC127_XTRA_PASTE, SparkFun-RF, (2.15, 1.65), R0
 - rawPart: U2, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (3.3, 0.95), R90
 - rawPart: U3, TPA6138A2, TSSOP-14, SparkFun-AnalogIC, (0.9, 1.4), R270
-- oompID: PROJ-SPAR-11924-STAN-01
 
 
 

@@ -164,6 +164,7 @@ Contents
 - oompName: SparkFun Auto pHAT
 - sources: All source files from https://github.com/sparkfun/SparkFun_Auto_pHAT (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16328
+- oompID: PROJ-SPAR-16328-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 12.7, 34.29, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 18.176240508, 18.981421777999998, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 60.22847822199999, 20.721321778, 180
@@ -446,7 +447,6 @@ Contents
 - rawPart: U6, CY8C4245LQI-483, QFN-40, SparkFun-IC-Microcontroller, (1.059, 0.665), R0
 - rawPart: U7, 9DoF, IMU, QFN24-3X3, SparkFun-Sensors, (1.25, 1.15), R180
 - rawPart: U8, 1.8V/100mA, SC70, SparkFun-IC-Power, (1.0575999, 1.11330007), R0
-- oompID: PROJ-SPAR-16328-STAN-01
 
 
 

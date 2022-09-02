@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit DC Stepper Motor FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2927
+- oompID: PROJ-ADAF-2927-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 41.528999999999996, 14.985999999999999, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 39.116, 14.985999999999999, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 36.57599999999999, 14.985999999999999, M90
@@ -128,7 +129,6 @@ Contents
 - rawPart: X2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.14, 0.315), R270
 - rawPart: X4, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.31), R90
 - rawPart: X6, TERMBLOCK_1X2-3.5MM, microbuilder, (1.86, 0.585), R90
-- oompID: PROJ-ADAF-2927-STAN-01
 
 
 

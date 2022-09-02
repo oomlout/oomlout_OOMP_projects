@@ -55,6 +55,7 @@ Contents
 - oompName: Joystick Shield Kit
 - sources: All source files from https://github.com/sparkfun/Joystick_Shield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9760
+- oompID: PROJ-SPAR-9760-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 78.74, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 15.239999999999998, 66.03999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 40.64, 66.03999999999999, 180
@@ -69,7 +70,6 @@ Contents
 - rawPart: S6, Reset, TACTILE-PTH, SparkFun, (1.95, 0.75), R0
 - rawPart: U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD, SparkFun, (0.05, 0), R0
 - rawPart: U2, JOYSTICK, JOYSTICK, SparkFun, (1.1, 0.55), R0
-- oompID: PROJ-SPAR-9760-STAN-01
 
 
 

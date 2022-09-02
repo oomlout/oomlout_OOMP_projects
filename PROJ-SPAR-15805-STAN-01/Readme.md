@@ -65,6 +65,7 @@ Contents
 - oompName: SparkFun High Precision Temperature Sensor TMP117 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15805
+- oompID: PROJ-SPAR-15805-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.524999999999999, 8.889999999999999, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.1843999999999997, 7.9756, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 0.7111999999999999, 0.7111999999999999, 0
@@ -107,7 +108,6 @@ Contents
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.855, 0.285), R270
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.947, 0.285), R270
 - rawPart: U1, TMP117, TMP117, SparkFun-Sensors, (0.5, 0.5), R180
-- oompID: PROJ-SPAR-15805-STAN-01
 
 
 

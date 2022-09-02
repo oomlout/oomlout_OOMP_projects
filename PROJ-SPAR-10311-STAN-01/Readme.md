@@ -89,6 +89,7 @@ Contents
 - oompName: PicoBoard
 - sources: All source files from https://github.com/sparkfun/PicoBoard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10311
+- oompID: PROJ-SPAR-10311-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 52.06999999999999, 45.72, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 40.64, 31.75, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 40.64, 25.145999999999997, 180
@@ -175,7 +176,6 @@ Contents
 - rawPart: U10, SLIDER, SparkFun-Electromechanical, (2.2, 2.1), R180
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (4.15, 1.2), R180
 - rawPart: Y1, 16MHz, RESONATOR-SMD, SparkFun, (1.6, 0.85), R270
-- oompID: PROJ-SPAR-10311-STAN-01
 
 
 

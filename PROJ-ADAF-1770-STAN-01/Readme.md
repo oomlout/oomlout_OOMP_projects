@@ -60,6 +60,7 @@ Contents
 - oompName: 2.8 TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/2.8-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1770
+- oompID: PROJ-ADAF-1770-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1X20BREAKOUT, 0.0, 38.099999999999994, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2X10BREAKOUT, 0.0, -36.83, 180
 - oompPart: CAPC-0805-X-UF22D-01, C1, 16.764, -5.842, 270
@@ -98,7 +99,6 @@ Contents
 - rawPart: R5, 1K, R0805, rcl, (-0.01, -0.91), R180
 - rawPart: U$9, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.9, -1.49), R0
 - rawPart: U$11, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.88, 1.12), R0
-- oompID: PROJ-ADAF-1770-STAN-01
 
 
 

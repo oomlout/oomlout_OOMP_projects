@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit 96x64 RGB OLED Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/684
+- oompID: PROJ-ADAF-684-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 9.652, 23.630999982, M0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 12.056000018, 26.796999999999997, M270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 26.805999981999996, 12.953999999999999, M90
@@ -105,7 +106,6 @@ Contents
 - rawPart: U$12, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.155, 0.13535433), MR0
 - rawPart: U$13, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.28, 1.18535433), MR0
 - rawPart: U1, FAN5331SX, SOT23-5, microbuilder, (0.43, 0.78464567), MR180
-- oompID: PROJ-ADAF-684-STAN-01
 
 
 

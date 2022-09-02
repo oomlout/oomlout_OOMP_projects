@@ -52,6 +52,7 @@ Contents
 - oompName: WS2812 Breakout
 - sources: All source files from https://github.com/sparkfun/WS2812_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11820
+- oompID: PROJ-SPAR-11820-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 4.444999999999999, 3.6067999999999993, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.842, 11.937999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 12.191999999999998, 0.7619999999999999, 0
@@ -64,7 +65,6 @@ Contents
 - rawPart: JP1, INPUT, 1X03, SparkFun-Connectors, (0.05, 0.05), R90
 - rawPart: JP2, OUTPUT, 1X03, SparkFun-Connectors, (0.65, 0.05), R90
 - rawPart: U1, WS2812B, WS2812B, SparkFun-LED, (0.35, 0.166), R0
-- oompID: PROJ-SPAR-11820-STAN-01
 
 
 

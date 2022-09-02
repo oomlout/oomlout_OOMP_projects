@@ -194,6 +194,7 @@ Contents
 - oompName: Adafruit IS31FL3731 CharliePlex LED Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2946
+- oompID: PROJ-ADAF-2946-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1-1, 2.413, 24.002999999999997, 135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1-2, 4.953, 24.002999999999997, 135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1-3, 7.492999999999999, 24.002999999999997, 135
@@ -492,7 +493,6 @@ Contents
 - rawPart: FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.535, 0.055), R0
 - rawPart: JP1, 1X13_ROUND_70, microbuilder, (0.845, 1.05), R0
 - rawPart: JP4, 1X13_ROUND_70, microbuilder, (0.85, 0.05), R0
-- oompID: PROJ-ADAF-2946-STAN-01
 
 
 

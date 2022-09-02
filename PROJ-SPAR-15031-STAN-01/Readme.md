@@ -72,6 +72,7 @@ Contents
 - oompName: ESP8266 WiFi IR Blaster
 - sources: All source files from https://github.com/sparkfun/ESP8266_WiFi_IR_Blaster (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15031
+- oompID: PROJ-SPAR-15031-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.525999999999996, 22.86, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.524999999999999, 22.86, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 12.827, 11.43, 90
@@ -128,7 +129,6 @@ Contents
 - rawPart: U1, ESP-12S, ESP-12S, SparkFun-RF, (0.5, 0.8), MR0
 - rawPart: U2, 38kHz, TSOP382, SparkFun-Sensors, (0.375, 0.26), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.385, 0.45), R90
-- oompID: PROJ-SPAR-15031-STAN-01
 
 
 

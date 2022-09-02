@@ -80,6 +80,7 @@ Contents
 - oompName: SparkFun ProDriver TC78H670FTG
 - sources: All source files from https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16836
+- oompID: PROJ-SPAR-16836-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 857.0, 1385.0, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 899.0, 995.79995, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 1064.60002, 1136.0, 0
@@ -162,7 +163,6 @@ Contents
 - rawPart: U1, TC78H670FTG, P-VQFN16-0303-0.50-001, SparkFun-IC-Special-Function, (1000, 1300), R180
 - rawPart: U2, LM1117, SOT223, SparkFun-IC-Power, (399, 185), R90
 - rawPart: VR1, 10k, TRIMPOT-SMD-3MM-CLOSED, SparkFun-Resistors, (1150, 1650), R180
-- oompID: PROJ-SPAR-16836-STAN-01
 
 
 

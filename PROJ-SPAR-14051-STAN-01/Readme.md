@@ -109,6 +109,7 @@ Contents
 - oompName: Wireless Joystick
 - sources: All source files from https://github.com/sparkfun/Wireless_Joystick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14051
+- oompID: PROJ-SPAR-14051-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 61.6458, 7.238999999999999, 0
 - oompPart: CAPC-0603-X-UF22D-01, C2, 61.59499999999999, 13.589, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 74.93, 10.033, 0
@@ -247,7 +248,6 @@ Contents
 - rawPart: U7, MCP73831, SOT23-5, SparkFun-PowerIC, (3.02, 0.27), R90
 - rawPart: U8, ATSAMD21G-A, TQFP-48, SparkFun-DigitalIC, (1.895, 0.445), R0
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-FreqCtrl, (1.585, 0.66), R90
-- oompID: PROJ-SPAR-14051-STAN-01
 
 
 

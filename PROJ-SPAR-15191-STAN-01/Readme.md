@@ -73,6 +73,7 @@ Contents
 - oompName: SparkFun Qwiic RFID ID-XXLA
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_RFID_ID-XXLA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15191
+- oompID: PROJ-SPAR-15191-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.985, 20.700999999999997, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.667, 20.700999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 22.479, 20.700999999999997, 0
@@ -133,7 +134,6 @@ Contents
 - rawPart: R8, 1k, 0603, SparkFun-Resistors, (0.885, 0.755), R0
 - rawPart: U1, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (0.5, 0.655), R270
 - rawPart: U2, ID-12/20SMD, ID-12_SMD, SparkFun-RF, (0.5, 0.555), MR270
-- oompID: PROJ-SPAR-15191-STAN-01
 
 
 

@@ -79,6 +79,7 @@ Contents
 - oompName: XBee Shield
 - sources: All source files from https://github.com/sparkfun/XBee_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12847
+- oompID: PROJ-SPAR-12847-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 10.16, 29.209999999999997, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.6453999999999995, 24.612599999999997, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 10.16, 21.59, 180
@@ -147,7 +148,6 @@ Contents
 - rawPart: U1, ARDUINO_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (2.1, 2.35), R180
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun, (1.1, 1), R180
 - rawPart: U4, V_REG_LDOSMD, SOT23-5, SparkFun-PowerIC, (0.4, 1), R0
-- oompID: PROJ-SPAR-12847-STAN-01
 
 
 

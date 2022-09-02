@@ -93,6 +93,7 @@ Contents
 - oompName: LED Driver Breakout-TLC5940
 - sources: All source files from https://github.com/sparkfun/LED_Driver_Breakout-TLC5940 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10616
+- oompID: PROJ-SPAR-10616-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 35.559999999999995, 22.86, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 44.449999999999996, 22.86, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 33.019999999999996, 23.368, 90
@@ -185,7 +186,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.7, 0.6), MR270
 - rawPart: U2, V_REG_MIC52055V, SOT23-5, SparkFun-PowerIC, (1.55, 0.9), R90
 - rawPart: U3, TLC5940-RHB, QFN-32, SparkFun-DigitalIC, (1.15, 0.7), R270
-- oompID: PROJ-SPAR-10616-STAN-01
 
 
 

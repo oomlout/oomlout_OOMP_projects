@@ -76,6 +76,7 @@ Contents
 - oompName: LilyPad LED Rainbow
 - sources: All source files from https://github.com/sparkfun/LilyPad_LED_Rainbow (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13903
+- oompID: PROJ-SPAR-13903-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED+1, 36.57599999999999, 10.033, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED+2, 30.987999999999996, 10.033, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED+3, 25.4, 10.033, 180
@@ -132,7 +133,6 @@ Contents
 - rawPart: R5, 150, 0603-RES, SparkFun-Resistors, (0.5592126, 0.1630315), R0
 - rawPart: R6, 150, 0603-RES, SparkFun-Resistors, (0.3392126, 0.1630315), R0
 - rawPart: R7, 150, 0603-RES, SparkFun-Resistors, (0.1192126, 0.1630315), R0
-- oompID: PROJ-SPAR-13903-STAN-01
 
 
 

@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit 16 channel PWM Servo Shield
 - sources: All source files from https://github.com/adafruit/Adafruit-16-channel-PWM-Servo-Shield (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1411
+- oompID: PROJ-ADAF-1411-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 27.2415, 26.114499968, 180
 - oompPart: ERROR, C2 1000uF+ 6.3V, 0, 0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 65.51700002999999, 4.2860000639999996, 0
@@ -164,7 +165,6 @@ Contents
 - rawPart: TP6, TESTPOINT_ROUND_2MM, microbuilder, (1.67, 1.165), MR270
 - rawPart: U$44, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0
 - rawPart: U1, PCA9685, TSSOP28, microbuilder, (1.365, 0.93), R270
-- oompID: PROJ-ADAF-1411-STAN-01
 
 
 

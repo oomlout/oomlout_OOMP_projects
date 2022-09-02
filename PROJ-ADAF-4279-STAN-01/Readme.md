@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Ultimate GPS
 - sources: All source files from https://github.com/adafruit/Adafruit-Ultimate-GPS (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4279
+- oompID: PROJ-ADAF-4279-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 27.051, M0
 - oompPart: CAPC-0805-X-NF100-V50, C1, 21.971, 24.915999952, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 24.002999999999997, 24.868000048, 90
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$20, U.FL, U.FL, microbuilder, (0.745, 1.14), R270
 - rawPart: U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0.48, 0.69), R90
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.905, 0.66905512), R270
-- oompID: PROJ-ADAF-4279-STAN-01
 
 
 

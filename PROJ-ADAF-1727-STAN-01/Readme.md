@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit MAX31850 thermocouple breakout board
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1727
+- oompID: PROJ-ADAF-1727-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.9679999059999997, 5.999999937999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.874000094, 12.638000124, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 10.459999908, 10.475999876, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: U1, MAX31850, TDFN10_3X4MM, microbuilder, (0.40181102, 0.30433071), R270
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09314961, 0.35566929), R0
 - rawPart: X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4, 0.655), R180
-- oompID: PROJ-ADAF-1727-STAN-01
 
 
 

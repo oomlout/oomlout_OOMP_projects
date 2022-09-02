@@ -91,6 +91,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-micro
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-micro
+- oompID: PROJ-ARDU-MICRO-STAN-01
 - oompPart: CAPE-0402-X-NF100-01, C1, 10.795, 37.846, M0
 - oompPart: CAPE-0402-X-NF100-01, C2, 9.779, 40.64, M270
 - oompPart: CAPE-UNMATCHED-X-UF22-01, C3, 12.573, 33.401, 90
@@ -183,7 +184,6 @@ Contents
 - rawPart: Y3, 16MHz, KX-7, CRYSTAL-3.2-2.5, gen_comp, (4.318, 29.845), R90
 - rawPart: Z1, CG0603MLC-05E, CT/CN0603, varistor, (10.033, 7.874), MR180
 - rawPart: Z2, CG0603MLC-05E, CT/CN0603, varistor, (10.033, 6.223), MR180
-- oompID: PROJ-ARDU-MICRO-STAN-01
 
 
 

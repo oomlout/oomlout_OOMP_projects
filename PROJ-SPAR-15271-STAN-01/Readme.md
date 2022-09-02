@@ -69,6 +69,7 @@ Contents
 - oompName: gator particle
 - sources: All source files from https://github.com/sparkfun/gator_particle (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15271
+- oompID: PROJ-SPAR-15271-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.795, 15.239999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 13.334999999999999, 12.7, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 10.795, 10.16, 180
@@ -135,7 +136,6 @@ Contents
 - rawPart: TP1, 1.8V, Test, PAD.03X.04, SparkFun-Passives, (0.55, 0.4), MR0
 - rawPart: U1, 1.8V/100mA, SC70, SparkFun-IC-Power, (0.425, 0.5), R180
 - rawPart: U2, 30102, OLGA-14, SparkFun-Sensors, (0.75, 0.5), R180
-- oompID: PROJ-SPAR-15271-STAN-01
 
 
 

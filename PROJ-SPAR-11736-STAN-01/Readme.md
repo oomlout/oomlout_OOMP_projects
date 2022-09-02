@@ -67,6 +67,7 @@ Contents
 - oompName: FT231X Breakout
 - sources: All source files from https://github.com/sparkfun/FT231X_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11736
+- oompID: PROJ-SPAR-11736-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 20.32, 3.8099999999999996, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 17.779999999999998, 3.6829999999999994, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 6.35, 5.715, 0
@@ -115,7 +116,6 @@ Contents
 - rawPart: SJ3, RXLED, SJ_2S-TRACE, SparkFun-Passives, (0.25, 0.2), MR0
 - rawPart: U1, FT231XS, SSOP20_L, SparkFun-DigitalIC, (0.55, 0.3), R0
 - rawPart: X1, USB-MICROB, USB-MICROB, SparkFun-Connectors, (0.05, 0.3), R270
-- oompID: PROJ-SPAR-11736-STAN-01
 
 
 

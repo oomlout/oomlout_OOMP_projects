@@ -104,6 +104,7 @@ Contents
 - oompName: MaKeyMaKey
 - sources: All source files from https://github.com/sparkfun/MaKeyMaKey (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14478
+- oompID: PROJ-SPAR-14478-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 43.18, 23.875999999999998, M270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 50.8, 29.209999999999997, M270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 63.5, 17.779999999999998, M90
@@ -246,7 +247,6 @@ Contents
 - rawPart: UP, 1X01_ALLIGATOR_3MM, SparkFun-Connectors, (1.05, 1.475), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (1.4, 1.7), MR270
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (2.4, 0.8), MR270
-- oompID: PROJ-SPAR-14478-STAN-01
 
 
 

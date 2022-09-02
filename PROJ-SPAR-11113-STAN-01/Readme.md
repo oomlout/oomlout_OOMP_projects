@@ -71,6 +71,7 @@ Contents
 - oompName: Pro Mini Candy
 - sources: All source files from https://github.com/sparkfun/Pro_Mini_Candy (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11113
+- oompID: PROJ-SPAR-11113-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 4.4196, 5.7404, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 12.8016, 29.21, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 9.652, 7.239, 180
@@ -121,7 +122,6 @@ Contents
 - rawPart: S2, Reset, TACTILE_SWITCH_SMD, SparkFun, (8.89, 2.667), R180
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun, (8.89, 13.97), R315
 - rawPart: U2, MIC5205, SOT23-5, SparkFun, (8.89, 24.1808), R90
-- oompID: PROJ-SPAR-11113-STAN-01
 
 
 

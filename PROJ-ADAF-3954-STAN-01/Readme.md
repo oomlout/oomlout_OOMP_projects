@@ -117,6 +117,7 @@ Contents
 - oompName: Adafruit NeoTrellis 4x4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoTrellis-4x4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3954
+- oompID: PROJ-ADAF-3954-STAN-01
 - oompPart: CAPC-0805-X-UF10-V25, C1, 22.098, -3.937, 0
 - oompPart: CAPC-0805-X-UF10-V25, C2, -21.336, -3.8099999999999996, 270
 - oompPart: CAPC-0805-X-UF10-V25, C3, 1.5239999999999998, -23.868000015999996, 0
@@ -315,7 +316,6 @@ Contents
 - rawPart: U$29, ELAST_10X10, ELAST_PAD_SQUARE_10MM_4X4WIDE, microbuilder, (-0.88582677, -0.88582677), MR0
 - rawPart: U2, AP2112-3.3, SOT23-5, microbuilder, (-0.33437008, 0.60023622), R270
 - rawPart: X2, STEMMA_I2C_RASMT, JSTPH4, microbuilder, (-0.255, -0.03), R180
-- oompID: PROJ-ADAF-3954-STAN-01
 
 
 

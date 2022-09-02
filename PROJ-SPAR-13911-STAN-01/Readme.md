@@ -80,6 +80,7 @@ Contents
 - oompName: Serial Controlled Motor Driver
 - sources: All source files from https://github.com/sparkfun/Serial_Controlled_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13911
+- oompID: PROJ-SPAR-13911-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 12.303125, 12.858749999999999, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 13.97, 14.76375, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 15.017750000000001, 18.0975, 90
@@ -162,7 +163,6 @@ Contents
 - rawPart: U$3, SPX3819M5_3_3, SOT-23-5-VREG, PSOC4TempLib, (0.6290625, 1.0503125), R90
 - rawPart: U1, CY8C4245LQI-483, QFN-40, PSOC4TempLib, (0.35, 0.7), R180
 - rawPart: U2, DRV8835, WSON-12, PSOC4TempLib, (0.4, 1.25), R180
-- oompID: PROJ-SPAR-13911-STAN-01
 
 
 

@@ -70,6 +70,7 @@ Contents
 - oompName: Transceiver Breakout-nRF24L01
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24L01 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/691
+- oompID: PROJ-SPAR-691-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 18.160999999999998, 4.953, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 18.160999999999998, 8.001, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 5.715, 4.826, 270
@@ -120,7 +121,6 @@ Contents
 - rawPart: U1, NRF24L01ALT1, QFN20_ALT1, Testing, (0.38997244, 0.25002362), R90
 - rawPart: U2, 3.3V, SOT23-5, SparkFun, (0.09, 0.185), R180
 - rawPart: Y1, ANTENNA2SMD5, ANTENNA-CHIP5, SparkFun, (0.40001181, 0.73999606), R90
-- oompID: PROJ-SPAR-691-STAN-01
 
 
 

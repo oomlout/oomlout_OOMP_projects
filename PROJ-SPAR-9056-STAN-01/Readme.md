@@ -53,6 +53,7 @@ Contents
 - oompName: Analog Digital MUX Breakout
 - sources: All source files from https://github.com/sparkfun/Analog_Digital_MUX_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9056
+- oompID: PROJ-SPAR-9056-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.43, 11.43, 270
 - oompPart: HEAD-I01-X-PI16-01, JP1, 1.27, 1.27, M90
 - oompPart: HEAD-I01-X-PI08-01, JP3, 16.509999999999998, 11.43, M90
@@ -63,7 +64,6 @@ Contents
 - rawPart: JP3, 1X08, SparkFun-Connectors, (0.65, 0.45), MR90
 - rawPart: R1, 10K, 0603, SparkFun, (0.45, 1.05), R270
 - rawPart: U1, MUX-74HC4067, SSOP24, SparkFun, (0.35, 0.8), R0
-- oompID: PROJ-SPAR-9056-STAN-01
 
 
 

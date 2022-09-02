@@ -53,6 +53,7 @@ Contents
 - oompName: LilyPad Vibe Board
 - sources: All source files from https://github.com/sparkfun/LilyPad_Vibe_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11008
+- oompID: PROJ-SPAR-11008-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -5.206999999999999, -2.794, 135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, M1, 0.0, 0.889, 0
 - oompPart: RESE-0603-X-UNMATCHED-01, R1, 5.465999989999999, -2.832999922, 60
@@ -63,7 +64,6 @@ Contents
 - rawPart: R1, 33, 0603-RES, SparkFun-Resistors, (0.21519685, -0.11153543), R60
 - rawPart: VIBE+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25590551, 0.1523622), R120
 - rawPart: VIBE-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25590551, 0.1476378), R240
-- oompID: PROJ-SPAR-11008-STAN-01
 
 
 

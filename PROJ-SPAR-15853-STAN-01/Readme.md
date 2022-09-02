@@ -85,6 +85,7 @@ Contents
 - oompName: Qwiic FM Transceiver Si4721
 - sources: All source files from https://github.com/sparkfun/Qwiic_FM_Transceiver_Si4721 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15853
+- oompID: PROJ-SPAR-15853-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.16, 11.937999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 10.16, 5.968999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 21.081999999999997, 26.669999999999998, 90
@@ -163,7 +164,6 @@ Contents
 - rawPart: U1, SI4721, QFN-20-3X3MM, SparkFun-RF, (0.63, 0.42), R270
 - rawPart: U3, TPA6111A2DR, SO08, SparkFun-IC-Amplifiers, (1.5, 0.35), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.43, 0.35), R270
-- oompID: PROJ-SPAR-15853-STAN-01
 
 
 

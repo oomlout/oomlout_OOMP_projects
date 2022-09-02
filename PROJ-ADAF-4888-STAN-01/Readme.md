@@ -84,6 +84,7 @@ Contents
 - oompName: Adafruit ItsyBitsy RP2040 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4888
+- oompID: PROJ-ADAF-4888-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 25.0825, 13.7668, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 24.676099999999998, 5.384799999999999, 90
 - oompPart: CAPC-0402-X-NF100-V50, C4, 13.093699999999998, 6.248399999999999, 0
@@ -162,7 +163,6 @@ Contents
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.355, 0.285), R180
 - rawPart: X3, microUSB, 4UCONN_20329_NARROW, adafruit_connector, (0.175, 0.35), R270
 - rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.4725, 0.412), R0
-- oompID: PROJ-ADAF-4888-STAN-01
 
 
 

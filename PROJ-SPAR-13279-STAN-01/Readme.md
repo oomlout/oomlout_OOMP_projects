@@ -71,6 +71,7 @@ Contents
 - oompName: Large Digit Driver
 - sources: All source files from https://github.com/sparkfun/Large_Digit_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13279
+- oompID: PROJ-SPAR-13279-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 18.541999999999998, 21.843999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 44.449999999999996, 3.8099999999999996, 0
 - oompPart: HEAD-I01-X-PI01-01, JP1, 43.18, 0.0, 180
@@ -121,7 +122,6 @@ Contents
 - rawPart: R7, 15, 0603-RES, SparkFun-Resistors, (0.28, 0.15), R270
 - rawPart: R8, 15, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R270
 - rawPart: U1, TPIC6C596, SO016, SparkFun-DigitalIC, (0.9, 0.6), R180
-- oompID: PROJ-SPAR-13279-STAN-01
 
 
 

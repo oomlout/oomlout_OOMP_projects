@@ -71,6 +71,7 @@ Contents
 - oompName: MIDI Shield
 - sources: All source files from https://github.com/sparkfun/MIDI_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12898
+- oompID: PROJ-SPAR-12898-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 27.94, 19.049999999999997, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 53.339999999999996, 6.35, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, 49.529999999999994, 0
@@ -131,7 +132,6 @@ Contents
 - rawPart: SJ7, JUMPER-PAD-2-NOYES_SILK, PAD-JUMPER-2-NO_YES_SILK, SparkFun-Passives, (0.35, 0.35), MR180
 - rawPart: U1, 6N138M, 8-SMD, SparkFun-DiscreteSemi, (1, 1.15), R0
 - rawPart: U2, 74AHC1G125, SOT23-5, SparkFun-DigitalIC, (0.85, 0.705), R90
-- oompID: PROJ-SPAR-12898-STAN-01
 
 
 

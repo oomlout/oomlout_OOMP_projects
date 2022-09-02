@@ -97,6 +97,7 @@ Contents
 - oompName: Qwiic Mux TCA9548A
 - sources: All source files from https://github.com/sparkfun/Qwiic_Mux_TCA9548A (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16784
+- oompID: PROJ-SPAR-16784-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.240118871999998, 31.749218695999996, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.144118872, 39.115218696, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 9.144118872, 28.955218696, 180
@@ -203,7 +204,6 @@ Contents
 - rawPart: R22, 10k, 0603, SparkFun-Resistors, (0.45500468, 1.44996924), R270
 - rawPart: R24, 1k, 0603, SparkFun-Resistors, (1.1, 1.95), R0
 - rawPart: U2, PCA9548A, TSSOP28, SparkFun-IC-Logic, (0.70000468, 0.99996924), R0
-- oompID: PROJ-SPAR-16784-STAN-01
 
 
 

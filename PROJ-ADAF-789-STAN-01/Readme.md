@@ -111,6 +111,7 @@ Contents
 - oompName: Adafruit PN532 RFID NFC Shield
 - sources: All source files from https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Shield (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/789
+- oompID: PROJ-ADAF-789-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 47.233000022, 24.260999992, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 47.233000022, 29.460000007999998, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 43.300000014, 24.260999992, 270
@@ -259,7 +260,6 @@ Contents
 - rawPart: U2, ADP122(3.3V), SOT23-5, microbuilder, (1.24448819, 0.44862205), R0
 - rawPart: U3, ARDUINOR3NODIM, ARDUINOR3-NODIM, microbuilder, (-0.63779528, 0), R0
 - rawPart: Y1, 27.12MHz, CRYSTAL_3.2X2.5, microbuilder, (1.08377953, 1.41), R180
-- oompID: PROJ-ADAF-789-STAN-01
 
 
 

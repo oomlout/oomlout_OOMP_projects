@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit TLC5947 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TLC5947-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1429
+- oompID: PROJ-ADAF-1429-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 18.541999999999998, 14.985999999999999, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 33.274, 9.143999999999998, 90
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 42.925999999999995, 8.636000000000001, 90
@@ -128,7 +129,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.9), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.1), R0
-- oompID: PROJ-ADAF-1429-STAN-01
 
 
 

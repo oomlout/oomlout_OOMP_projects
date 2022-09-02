@@ -54,6 +54,7 @@ Contents
 - oompName: Pi Wedge 40-Pin PreAssembled
 - sources: All source files from https://github.com/sparkfun/Pi_Wedge_40-Pin_PreAssembled (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13717
+- oompID: PROJ-SPAR-13717-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C3V, 6.35, 59.181999999999995, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5V, 6.35, 50.038, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 74.93, 64.77, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: JP2, RASPBERRYPI-40-PIN-GPIO-SMT, 2X20-SHROUDED-SMT, SparkFun-Boards, (1.6, 2.32), R270
 - rawPart: JP3, 1x17, 1X17_NO_SILK_KIT, SparkFun-Connectors, (1.45, 0.06), MR90
 - rawPart: JP4, 1x17, 1X17_NO_SILK_KIT, SparkFun-Connectors, (1.75, 0.06), MR90
-- oompID: PROJ-SPAR-13717-STAN-01
 
 
 

@@ -52,7 +52,7 @@ Contents
 |RESE-0603-X-UNMATCHED-01, R1, 10.668, 9.906, M0,R1, 4.7k, 0603, SparkFun-Resistors, (0.42, 0.39), MR0|
 |RESE-0603-X-UNMATCHED-01, R2, 10.668, 11.43, M0,R2, 4.7k, 0603, SparkFun-Resistors, (0.42, 0.45), MR0|
 |RESE-0603-X-O754-01, R3, 18.034, 4.3180000000000005, 270,R3, 750K, 0603, SparkFun-Resistors, (0.71, 0.17), R270|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R5, 15.239999999999998, 11.43, M0,R5, 4.7k, 0603, SparkFun-Resistors, (0.6, 0.45), MR0|
 |RESE-0603-X-UNMATCHED-01, R6, 21.0566, 4.064, M90,R6, 4.7k, 0603, SparkFun-Resistors, (0.829, 0.16), MR90|
 |RESE-0603-X-UNMATCHED-01, R7, 22.682199999999998, 4.064, M90,R7, 4.7k, 0603, SparkFun-Resistors, (0.893, 0.16), MR90|
@@ -73,6 +73,7 @@ Contents
 - oompName: SparkFun Pulse Oximeter Heart Rate Sensor
 - sources: All source files from https://github.com/sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15219
+- oompID: PROJ-SPAR-15219-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 14.622781269999999, 3.761740508, M180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 11.684, 3.8099999999999996, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 20.32, 11.43, 180
@@ -131,7 +132,6 @@ Contents
 - rawPart: U2, MAX32664GWEA, 16_PIN_WLP, SparkFun-IC-Special-Function, (0.31, 0.24), R90
 - rawPart: U3, 1.8V/100mA, SC70, SparkFun-IC-Power, (0.686, 0.25), MR0
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.259, 0.15), R180
-- oompID: PROJ-SPAR-15219-STAN-01
 
 
 

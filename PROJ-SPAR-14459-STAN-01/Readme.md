@@ -61,6 +61,7 @@ Contents
 - oompName: Qwiic Hat for Raspberry Pi
 - sources: All source files from https://github.com/sparkfun/Qwiic_Hat_for_Raspberry_Pi (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14459
+- oompID: PROJ-SPAR-14459-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 7.619999999999999, 2.54, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 12.7, 180
@@ -95,7 +96,6 @@ Contents
 - rawPart: J12, 1X02_NO_SILK, SparkFun-Connectors, (0.55, 0.35), R0
 - rawPart: U2, 3.3V/600mA, SOT23-5, SparkFun-IC-Power, (0.15, 0.1), R270
 - rawPart: U3, RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES, SparkFun-Connectors, (-0.25, 0.55), R0
-- oompID: PROJ-SPAR-14459-STAN-01
 
 
 

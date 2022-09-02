@@ -54,7 +54,7 @@ Contents
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R2, 10.331, 19.836, M270,R2, 1k, 0402-TIGHT, SparkFun-Resistors, (10.331, 19.836), MR270|
 |RESE-0402-X-UNMATCHED-01, R3, 2.2098, 20.828, M0,R3, 1k, 0402-TIGHT, SparkFun-Resistors, (2.2098, 20.828), MR0|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R4</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.557, 11.938, M0,U1, W25QXX128MBIT-6X5-NO_CENTER, WSON-8-6X5-NO_CENTERPAD, SparkFun-MicroMod, (11.557, 11.938), MR0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 11.0, 11.85, 270,U2, ATSAMD51J20A-A, TQFP64, SparkFun-IC-Microcontroller, (11, 11.85), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 2.667, 15.367, 270,Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (2.667, 15.367), R270|
@@ -70,6 +70,7 @@ Contents
 - oompName: MicroMod Processor Board-SAMD51
 - sources: All source files from https://github.com/sparkfun/MicroMod_Processor_Board-SAMD51 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16791
+- oompID: PROJ-SPAR-16791-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 1.905, 17.707, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 1.905, 12.977, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 9.506, 4.826, 0
@@ -122,7 +123,6 @@ Contents
 - rawPart: U1, W25QXX128MBIT-6X5-NO_CENTER, WSON-8-6X5-NO_CENTERPAD, SparkFun-MicroMod, (11.557, 11.938), MR0
 - rawPart: U2, ATSAMD51J20A-A, TQFP64, SparkFun-IC-Microcontroller, (11, 11.85), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (2.667, 15.367), R270
-- oompID: PROJ-SPAR-16791-STAN-01
 
 
 

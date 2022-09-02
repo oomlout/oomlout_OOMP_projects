@@ -73,6 +73,7 @@ Contents
 - oompName: Magician Encoder
 - sources: All source files from https://github.com/sparkfun/Magician_Encoder (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12617
+- oompID: PROJ-SPAR-12617-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1.9049999999999998, 20.32, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.08, 20.955, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 6.35, 27.304999999999996, 90
@@ -127,7 +128,6 @@ Contents
 - rawPart: R12, 100, 0603-RES, SparkFun-Resistors, (0.65, 1.075), R270
 - rawPart: U1, QRE1113, QRE1113, SparkFun-Sensors, (0.2, 0.65), R0
 - rawPart: U2, QRE1113, QRE1113, SparkFun-Sensors, (0.65, 0.65), R0
-- oompID: PROJ-SPAR-12617-STAN-01
 
 
 

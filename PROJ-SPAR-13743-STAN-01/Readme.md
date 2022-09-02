@@ -60,6 +60,7 @@ Contents
 - oompName: Shifting microSD
 - sources: All source files from https://github.com/sparkfun/Shifting_microSD (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13743
+- oompID: PROJ-SPAR-13743-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 33.5, 483.0, M270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 209.5, 559.5, M270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 203.5, 280.0, M90
@@ -94,7 +95,6 @@ Contents
 - rawPart: TP1, PAD.03X.03, SparkFun-Passives, (50, 800), MR0
 - rawPart: U1, TXB0104, SO14, SparkFun-DigitalIC, (421, 357.5), MR180
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-PowerIC, (120.5, 567.5), MR0
-- oompID: PROJ-SPAR-13743-STAN-01
 
 
 

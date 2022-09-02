@@ -67,6 +67,7 @@ Contents
 - oompName: AVR ISP Shield
 - sources: All source files from https://github.com/sparkfun/AVR_ISP_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11168
+- oompID: PROJ-SPAR-11168-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 29.209999999999997, 25.4, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 43.18, 0
 - oompPart: HEAD-I01-X-PI2.5-01, JP5, 58.419999999999995, 10.16, 0
@@ -107,7 +108,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNO, SJ_2S-NO, SparkFun, (0.95, 0.35), R90
 - rawPart: U$9, AVR_SPI_PROG, AVR_ICSP, SparkFun, (0.4, 1.5), R90
 - rawPart: U1, ARDUINO_SHIELDLABEL, DUEMILANOVE_SHIELD, SparkFun, (0, 2.1), R270
-- oompID: PROJ-SPAR-11168-STAN-01
 
 
 

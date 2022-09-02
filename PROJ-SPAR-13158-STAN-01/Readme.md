@@ -86,6 +86,7 @@ Contents
 - oompName: LiPower-Shield
 - sources: All source files from https://github.com/sparkfun/LiPower-Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13158
+- oompID: PROJ-SPAR-13158-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 6.35, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.875, 13.9954, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.2605999999999997, 27.94, 180
@@ -178,7 +179,6 @@ Contents
 - rawPart: U3, MCP73831, SOT23-5, SparkFun-PowerIC, (0.55, 1.5), R90
 - rawPart: U4, ARDUINO_R3_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (0, 2.1), R270
 - rawPart: VREG, MIC5205-3.3V, SOT23-5, SparkFun-PowerIC, (0.65, 0.95), R180
-- oompID: PROJ-SPAR-13158-STAN-01
 
 
 

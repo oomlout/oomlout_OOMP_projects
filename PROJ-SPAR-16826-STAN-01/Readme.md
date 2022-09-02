@@ -66,6 +66,7 @@ Contents
 - oompName: SparkFun Pulsed Radar Breakout A111
 - sources: All source files from https://github.com/sparkfun/SparkFun_Pulsed_Radar_Breakout_A111 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16826
+- oompID: PROJ-SPAR-16826-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 29.337, 6.35, 180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.43, 26.669999999999998, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.43, 28.194000000000003, M0
@@ -110,7 +111,6 @@ Contents
 - rawPart: U2, AP2127K-1.8V, SOT23-5, SparkFun-IC-Power, (1.1, 0.45), MR270
 - rawPart: U4, TXB0108DQSR, UFDFN-20, SparkFun-IC-Comms, (0.65, 0.45), MR180
 - rawPart: Y1, 26MHz, CRYSTAL-SMD-3.2X2.5MM, SparkFun-Clocks, (0.85, 1), MR90
-- oompID: PROJ-SPAR-16826-STAN-01
 
 
 

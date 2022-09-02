@@ -144,6 +144,7 @@ Contents
 - oompName: WAV Trigger
 - sources: All source files from https://github.com/sparkfun/WAV_Trigger (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12000
+- oompID: PROJ-SPAR-12000-STAN-01
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 16.509999999999998, 40.64, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.86, 43.18, 270
 - oompPart: CAPC-0805-X-UF22D-01, C3, 22.86, 55.88, 90
@@ -348,7 +349,6 @@ Contents
 - rawPart: U5, PCM5100, PW_R-PDSO-G20, robertsonics, (1.5, 1.8), R180
 - rawPart: U6, LM4990, S-PDSO-G08, robertsonics, (2.3, 1.9), R0
 - rawPart: Y1, 8MHz, HC49UP, SparkFun-FreqCtrl, (1.1, 0.9), R90
-- oompID: PROJ-SPAR-12000-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: LCD TFT Breakout 1in8 128x160
 - sources: All source files from https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15143
+- oompID: PROJ-SPAR-15143-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 31.876999999999995, 9.017, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 31.876999999999995, 7.492999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 31.876999999999995, 14.604999999999999, 0
@@ -117,7 +118,6 @@ Contents
 - rawPart: U1, FPC05040-17204, SparkFun-Displays, (0.75, 0.815), R180
 - rawPart: U2, TXB0108DQSR, UFDFN-20, SparkFun-IC-Comms, (0.91, 0.34), R180
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (1.255, 0.464), R0
-- oompID: PROJ-SPAR-15143-STAN-01
 
 
 

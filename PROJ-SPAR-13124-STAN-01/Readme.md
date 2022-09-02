@@ -161,6 +161,7 @@ Contents
 - oompName: Proto Pedal
 - sources: All source files from https://github.com/sparkfun/Proto_Pedal (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13124
+- oompID: PROJ-SPAR-13124-STAN-01
 - oompPart: ERROR, C1 C in, 0, 0, 0
 - oompPart: ERROR, C2 C out, 0, 0, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 78.232, 21.59, 180
@@ -391,7 +392,6 @@ Contents
 - rawPart: TP5, FX, Input, 1X01_NO_SILK, SparkFun-Connectors, (0.725, 1), R0
 - rawPart: TP6, FX, Output, 1X01_NO_SILK, SparkFun-Connectors, (1.2, 1), R180
 - rawPart: TP7, Out, Ring, 1X01_LONGPAD, SparkFun-Connectors, (1.75, 4.15), R0
-- oompID: PROJ-SPAR-13124-STAN-01
 
 
 

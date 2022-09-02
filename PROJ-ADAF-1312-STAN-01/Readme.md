@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit_Breadboard_NeoPixel_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1312
+- oompID: PROJ-ADAF-1312-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.921, 3.937, 0
 - oompPart: HEAD-I01-X-PI03-01, JP1, -5.08, 0.0, 90
 - oompPart: HEAD-I01-X-PI03-01, JP2, 5.08, 0.0, 270
@@ -69,7 +70,6 @@ Contents
 - rawPart: R1, 1.0K, R0603, adafruit, (-0.115, 0.155), R180
 - rawPart: R2, 22, R0603, adafruit, (0.115, -0.155), R0
 - rawPart: R3, 22, R0603, adafruit, (-0.115, -0.155), R180
-- oompID: PROJ-ADAF-1312-STAN-01
 
 
 

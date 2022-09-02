@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit FeatherWing Proto Doubler Tripler and Quad
 - sources: All source files from https://github.com/adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2884
+- oompID: PROJ-ADAF-2884-STAN-01
 - oompPart: HEAD-I01-X-PI12-01, JP1, 30.479999999999997, 19.049999999999997, 0
 - oompPart: HEAD-I01-X-PI16-01, JP2, 25.4, 27.94, 180
 - oompPart: HEAD-I01-X-PI16-01, JP3, 25.4, 3.8099999999999996, 180
@@ -75,7 +76,6 @@ Contents
 - rawPart: MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0), R0
 - rawPart: MS2, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0.95), R0
 - rawPart: MS3, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 1.9), R0
-- oompID: PROJ-ADAF-2884-STAN-01
 
 
 

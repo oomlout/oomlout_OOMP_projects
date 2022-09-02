@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit 2.0 inch 240x320 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4311
+- oompID: PROJ-ADAF-4311-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 27.894000092, 9.165999956, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 27.756000113999995, 16.223000066, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 19.409000044, 40.306999904, 270
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 2.225), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (1.09181102, 0.50724409), R0
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.80003937, 0.55062992), R90
-- oompID: PROJ-ADAF-4311-STAN-01
 
 
 

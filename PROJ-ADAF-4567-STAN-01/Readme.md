@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit 2.23 inch Monochrome OLED Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4567
+- oompID: PROJ-ADAF-4567-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1115.0, 360.0, M270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 1045.0, 358.50394, M270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 1630.39395, 420.72047, M270
@@ -110,7 +111,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1750, 650), MR90
 - rawPart: U$33, 2.23_INCH_OLEDBOTTOM_CONTACT_24_PIN_OLED, 2.23OLED_BOTTOM_CONTACT, microbuilder, (1279.52756, 580.7874), R0
 - rawPart: U1, FAN5331, SOT23-5, microbuilder, (2015.90551, 454.17323), MR90
-- oompID: PROJ-ADAF-4567-STAN-01
 
 
 

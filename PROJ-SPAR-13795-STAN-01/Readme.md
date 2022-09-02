@@ -113,6 +113,7 @@ Contents
 - oompName: LED Array 8x7
 - sources: All source files from https://github.com/sparkfun/LED_Array_8x7 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13795
+- oompID: PROJ-SPAR-13795-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 8.889999999999999, 225
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 6.35, 8.889999999999999, 225
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 10.16, 8.889999999999999, 225
@@ -247,7 +248,6 @@ Contents
 - rawPart: R6, 82, 0603-RES, SparkFun-Resistors, (0.7, 0.2), R90
 - rawPart: R7, 82, 0603-RES, SparkFun-Resistors, (0.8, 0.2), R90
 - rawPart: R8, 82, 0603-RES, SparkFun-Resistors, (0.9, 0.2), R90
-- oompID: PROJ-SPAR-13795-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompName: HMC6343 Breakout
 - sources: All source files from https://github.com/sparkfun/HMC6343_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12916
+- oompID: PROJ-SPAR-12916-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 3.175, 11.43, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 1.27, 11.43, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 1.27, 0
@@ -72,7 +73,6 @@ Contents
 - rawPart: R2, 10K, 0603-RES, SparkFun-Resistors, (0.3, 0.7), R180
 - rawPart: SJ1, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.15, 0.7), R90
 - rawPart: U1, HMC6343A, LCC36, SparkFun-Sensors, (0.4, 0.45), R0
-- oompID: PROJ-SPAR-12916-STAN-01
 
 
 

@@ -61,6 +61,7 @@ Contents
 - oompName: Touch Shield
 - sources: All source files from https://github.com/sparkfun/Touch_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12013
+- oompID: PROJ-SPAR-12013-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 29.845, 8.889999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 26.034999999999997, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.54, 2.54, 0
@@ -93,7 +94,6 @@ Contents
 - rawPart: R6, 10K, 0603-RES, SparkFun-Resistors, (1.425, 0.35), R270
 - rawPart: SJ1, SJ_3_PASTE1&2, SparkFun-Passives, (1.325, 0.4), R0
 - rawPart: U1, ARDUINO_R3_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (0, 0), R0
-- oompID: PROJ-SPAR-12013-STAN-01
 
 
 

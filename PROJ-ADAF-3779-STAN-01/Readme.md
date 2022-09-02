@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit AS7262 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AS7262-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3779
+- oompID: PROJ-ADAF-3779-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.937, 13.716, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 25.145999999999997, 12.7, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 6.604, 7.238999999999999, 270
@@ -127,7 +128,6 @@ Contents
 - rawPart: U2, AS7262-BLGT, AS726X_LGA20, microbuilder, (0.55, 0.5), R180
 - rawPart: U3, MIC5225-3.3, SOT23-5, microbuilder, (0.15, 0.39), R0
 - rawPart: UART, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.835, 0.76), R90
-- oompID: PROJ-ADAF-3779-STAN-01
 
 
 

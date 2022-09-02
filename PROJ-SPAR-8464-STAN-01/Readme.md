@@ -53,6 +53,7 @@ Contents
 - oompName: LilyPad Light Sensor
 - sources: All source files from https://github.com/sparkfun/LilyPad_Light_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8464
+- oompID: PROJ-SPAR-8464-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT+, 6.499999954, -3.75000012, 60
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHT-, -6.489999974, -3.75000012, 300
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LIGHTS, 0.0, 7.499999985999999, 180
@@ -63,7 +64,6 @@ Contents
 - rawPart: LIGHTS, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180
 - rawPart: R1, 10K, 0402-RES, SparkFun, (-0.1, 0), R90
 - rawPart: U1, TEMT6000, TEMT6000-SEN, SparkFun, (0, 0), R270
-- oompID: PROJ-SPAR-8464-STAN-01
 
 
 

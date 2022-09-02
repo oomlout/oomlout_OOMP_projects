@@ -73,6 +73,7 @@ Contents
 - oompName: 2D Barcode Scanner Breakout
 - sources: All source files from https://github.com/sparkfun/2D_Barcode_Scanner_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18088
+- oompID: PROJ-SPAR-18088-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 26.288999999999998, 12.572999999999999, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 22.098, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 16.256, 180
@@ -131,7 +132,6 @@ Contents
 - rawPart: R11, 1k, 0603, SparkFun-Resistors, (1.1, 0.8), R90
 - rawPart: S2, MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (1.095, 0.495), R270
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-IC-Power, (0.6, 0.755), R180
-- oompID: PROJ-SPAR-18088-STAN-01
 
 
 

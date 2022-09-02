@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit pIRKey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-pIRKey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3364
+- oompID: PROJ-ADAF-3364-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.302999999999999, 2.413, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 23.622, 4.953, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 19.812, 5.334, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: SWC, TPTP15R, TP15R, testpad, (0.85, 0.42), MR0
 - rawPart: SWD, TPTP16R, TP16R, testpad, (0.75, 0.42), MR0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.59, 0.095), R270
-- oompID: PROJ-ADAF-3364-STAN-01
 
 
 

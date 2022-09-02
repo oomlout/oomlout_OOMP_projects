@@ -57,6 +57,7 @@ Contents
 - oompName: APDS-9301 Breakout
 - sources: All source files from https://github.com/sparkfun/APDS-9301_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14350
+- oompID: PROJ-SPAR-14350-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 12.7, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.1429999999999998, 13.081, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 10.16, 2.794, 0
@@ -83,7 +84,6 @@ Contents
 - rawPart: R3, 10k, 0603, SparkFun-Resistors, (0.08, 0.4), R90
 - rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.435, 0.4), R90
 - rawPart: U1, APDS-9301, CHIPLED-6, SparkFun-Sensors, (0.25, 0.4), R0
-- oompID: PROJ-SPAR-14350-STAN-01
 
 
 

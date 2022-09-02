@@ -52,6 +52,7 @@ Contents
 - oompName: RedBot Line Sensor
 - sources: All source files from https://github.com/sparkfun/RedBot_Line_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11769
+- oompID: PROJ-SPAR-11769-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7366, 23.495, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.858, 15.748, 0
 - oompPart: HEAD-I01-X-PI03-01, JP1, 3.8099999999999996, 1.27, M0
@@ -64,7 +65,6 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun-Resistors, (0.2, 0.7), R270
 - rawPart: R2, 10k, 0603-RES, SparkFun-Resistors, (0.1, 0.7), R270
 - rawPart: U1, QRE1113SMD-W, QRE1113-W, SparkFun-Sensors, (0.15, 0.85), R180
-- oompID: PROJ-SPAR-11769-STAN-01
 
 
 

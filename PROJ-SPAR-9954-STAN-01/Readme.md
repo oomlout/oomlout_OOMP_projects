@@ -69,6 +69,7 @@ Contents
 - oompName: WiFly-Shield
 - sources: All source files from https://github.com/sparkfun/WiFly-Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9954
+- oompID: PROJ-SPAR-9954-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 26.669999999999998, 10.16, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 24.13, 13.97, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 40.64, 44.449999999999996, 90
@@ -129,7 +130,6 @@ Contents
 - rawPart: U2, WIFLY_GSX, WIFLY_GSX, SparkFun, (1.05, 1.5), R270
 - rawPart: U3, SC16IS750, QFN-24, SparkFun, (1.25, 1.7), R180
 - rawPart: U4, 3.3V, SOT23-5, SparkFun, (1.1, 0.55), R0
-- oompID: PROJ-SPAR-9954-STAN-01
 
 
 

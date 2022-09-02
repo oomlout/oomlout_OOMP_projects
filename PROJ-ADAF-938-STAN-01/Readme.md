@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit 1.3inch 128x64 Mono OLED PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/938
+- oompID: PROJ-ADAF-938-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 980.0, 1100.0, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 940.0, 810.0, M0
 - oompPart: CAPC-0805-X-UF22D-01, C3, 117.40157, 456.22047, M180
@@ -139,7 +140,6 @@ Contents
 - rawPart: U$26, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (118.11024, 1279.52756), R0
 - rawPart: U1, UG-2864HSWEG01, UG-2864HSWEG01_1.3_WRAPAROUND, microbuilder, (691.02362, 533.14961), R0
 - rawPart: U2, SOT23-5, microbuilder, (940, 955), MR0
-- oompID: PROJ-ADAF-938-STAN-01
 
 
 

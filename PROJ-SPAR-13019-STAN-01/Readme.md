@@ -68,6 +68,7 @@ Contents
 - oompName: BLE Mate2
 - sources: All source files from https://github.com/sparkfun/BLE_Mate2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13019
+- oompID: PROJ-SPAR-13019-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 5.715, 21.59, 180
 - oompPart: CAPC-0603-X-UF22D-01, C2, 9.779, 8.889999999999999, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 5.842, 5.588, 90
@@ -118,7 +119,6 @@ Contents
 - rawPart: REG, JUMPER-PAD-2-NC_BY_PASTE, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK, SparkFun-Passives, (0.525, 0.42), R90
 - rawPart: U1, BC118, SparkFun-RF, (0.3, 1.3), R0
 - rawPart: U2, AP2202-ADJ, SOT23-5, SparkFun-PowerIC, (0.35, 0.25), R270
-- oompID: PROJ-SPAR-13019-STAN-01
 
 
 

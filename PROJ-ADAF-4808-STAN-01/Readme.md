@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit EMC2101 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-EMC2101-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4808
+- oompID: PROJ-ADAF-4808-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 630.0, 460.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 320.0, 225.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 320.0, 455.0, 0
@@ -100,7 +101,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (325, 340), R0
 - rawPart: X1, EMC2101-AZCL, MSOP8_0.65MM, adafruit_sensor, (500, 350), R180
-- oompID: PROJ-ADAF-4808-STAN-01
 
 
 

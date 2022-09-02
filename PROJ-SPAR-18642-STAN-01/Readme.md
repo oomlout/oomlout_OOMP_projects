@@ -71,6 +71,7 @@ Contents
 - oompName: SparkFun Qwiic ToF Imager VL53L5CX
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18642
+- oompID: PROJ-SPAR-18642-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 16.509999999999998, 8.889999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 8.889999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 6.604, 0
@@ -125,7 +126,6 @@ Contents
 - rawPart: R6, 47k, 0603, SparkFun-Resistors, (0.7, 0.5), R90
 - rawPart: R7, 47k, 0603, SparkFun-Resistors, (0.5, 0.65), R180
 - rawPart: U1, VL53L5CX, VL53L5CX, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-18642-STAN-01
 
 
 

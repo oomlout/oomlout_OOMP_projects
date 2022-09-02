@@ -99,6 +99,7 @@ Contents
 - oompName: Adafruit Hallowing M0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Hallowing-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3900
+- oompID: PROJ-ADAF-3900-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 0.508, 3.937, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 1.2065, -11.176, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 1.27, 14.097000000000001, 180
@@ -229,7 +230,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.31, 0.76), R270
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0, 1.01), R180
 - rawPart: X6, CON_JST_PH_2PIN_MTPH2, JSTPH2, microbuilder, (-0.8625, 0.135), R90
-- oompID: PROJ-ADAF-3900-STAN-01
 
 
 

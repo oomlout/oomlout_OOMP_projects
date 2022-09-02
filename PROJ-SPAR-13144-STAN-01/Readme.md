@@ -95,6 +95,7 @@ Contents
 - oompName: Touch Potentiometer
 - sources: All source files from https://github.com/sparkfun/Touch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13144
+- oompID: PROJ-SPAR-13144-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 16.509999999999998, 69.85, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 20.955, 67.945, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 11.43, 57.15, 270
@@ -237,7 +238,6 @@ Contents
 - rawPart: U1, PIC16F1829, SSOP20, SparkFun-DigitalIC, (0.25, 2.25), R180
 - rawPart: U2, AD5262, SSOP16, SparkFun-AnalogIC, (1.475, 2.475), R0
 - rawPart: U3, 5V, SOT23-5, SparkFun-PowerIC, (0.55, 2.625), R90
-- oompID: PROJ-SPAR-13144-STAN-01
 
 
 

@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit CAP1188 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CAP1188-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1602
+- oompID: PROJ-ADAF-1602-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.038000116, 29.650999879999997, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.303999933999998, 27.27000007, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 14.217000013999998, 6.819000078, 90
@@ -123,7 +124,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.6, 1.55), R0
 - rawPart: U1, QFN24_4MM_SMSC, microbuilder, (0.45, 0.675), R315
 - rawPart: U2, MIC5225-3, SOT23-5, microbuilder, (0.35220472, 1.18866142), R180
-- oompID: PROJ-ADAF-1602-STAN-01
 
 
 

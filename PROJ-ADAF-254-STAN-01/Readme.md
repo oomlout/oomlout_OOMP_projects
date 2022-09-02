@@ -56,6 +56,7 @@ Contents
 - oompName: MicroSD breakout board
 - sources: All source files from https://github.com/adafruit/MicroSD-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/254
+- oompID: PROJ-ADAF-254-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, ACT, 7.619999999999999, 21.081999999999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 9.398, 3.175, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 18.287999999999997, 6.476999999999999, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.2, 0.305), R0
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.045, 0.925), R0
 - rawPart: X1, MICROSD, MICROSD, adafruit, (0.62, 0.77), R270
-- oompID: PROJ-ADAF-254-STAN-01
 
 
 

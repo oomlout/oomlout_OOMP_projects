@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit LED Backpacks
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Backpacks (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/878
+- oompID: PROJ-ADAF-878-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 4.064, -10.668, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 1.778, -10.668, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 4.191, 8.254999999999999, 180
@@ -83,7 +84,6 @@ Contents
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.065, -0.245), R0
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, 0.21), R0
 - rawPart: U1, SOP24_300MIL, microbuilder, (0, -0.03), R270
-- oompID: PROJ-ADAF-878-STAN-01
 
 
 

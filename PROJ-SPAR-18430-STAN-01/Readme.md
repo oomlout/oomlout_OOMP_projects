@@ -75,6 +75,7 @@ Contents
 - oompName: SparkFun WiFi Function Board ESP32
 - sources: All source files from https://github.com/sparkfun/SparkFun_WiFi_Function_Board_ESP32 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18430
+- oompID: PROJ-SPAR-18430-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 55.9308, 35.0012, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 15.112999999999998, 28.2575, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C6, 11.6205, 30.733999999999998, 0
@@ -139,7 +140,6 @@ Contents
 - rawPart: U2, ESP-WROOM-3232D-NARROW, ESP-WROOM-32D-NARROW, SparkFun-RF, (1.976, 0.98), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.45, 1.10755906), R270
 - rawPart: U4, CP210X, QFN24, SparkFun-IC-Comms, (1.87970866, 0.29829134), R90
-- oompID: PROJ-SPAR-18430-STAN-01
 
 
 

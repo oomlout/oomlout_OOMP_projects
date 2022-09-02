@@ -90,6 +90,7 @@ Contents
 - oompName: Qwiic GPS-RTK
 - sources: All source files from https://github.com/sparkfun/Qwiic_GPS-RTK (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15005
+- oompID: PROJ-SPAR-15005-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 3.8099999999999996, 8.889999999999999, 305
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 32.766, 18.668999999999997, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 10.16, 11.684, 0
@@ -182,7 +183,6 @@ Contents
 - rawPart: R15, 100k, 0603, SparkFun-Resistors, (0.65, 1.15), R270
 - rawPart: U1, NEO-M8P, NEO-M8P, NEO-M8P, (0.8, 0.65), R0
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (1.22, 0.635), R90
-- oompID: PROJ-SPAR-15005-STAN-01
 
 
 

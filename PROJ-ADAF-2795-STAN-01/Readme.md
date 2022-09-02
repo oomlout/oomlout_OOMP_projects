@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit Feather 32u4 Adalogger PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-32u4-Adalogger-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2795
+- oompID: PROJ-ADAF-2795-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.811, 12.065, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 8.08800008, 12.95899999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C7, 19.066999966, 15.290999897999999, 90
@@ -142,7 +143,6 @@ Contents
 - rawPart: X2, microsd, MICROSD, microbuilder, (1.335, 0.175), R90
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (1.13707111, 0.20707111), R180
-- oompID: PROJ-ADAF-2795-STAN-01
 
 
 

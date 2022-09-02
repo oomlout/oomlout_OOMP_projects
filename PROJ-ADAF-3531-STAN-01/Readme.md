@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3531
+- oompID: PROJ-ADAF-3531-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 57.023, 21.59, 90
 - oompPart: CAPC-0805-X-UF22D-01, C3, 11.43, 21.336, 270
 - oompPart: CAPC-0805-X-UF22D-01, C4, 13.97, 21.336, 270
@@ -97,7 +98,6 @@ Contents
 - rawPart: SW2, EVQQ, EVQ-Q2_SMALLER, microbuilder, (53.848, 9.271), R270
 - rawPart: SW3, NAVSWITCHSKQUABAUE010, SKQUBAE010, microbuilder, (8.128, 13.462), R0
 - rawPart: U1, UG-2864HSWEG01, UG-2864HSWEG01_1.3_WRAPAROUND, microbuilder, (32.512, 7.874), R0
-- oompID: PROJ-ADAF-3531-STAN-01
 
 
 

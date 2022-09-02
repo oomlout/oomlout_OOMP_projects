@@ -52,6 +52,7 @@ Contents
 - oompName: Adafruit Flora TSL2561 Lux Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1246
+- oompID: PROJ-ADAF-1246-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 115.0, 0.0, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -115.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: SJ1, SJ_2, jumper, (0, 35), MR180
 - rawPart: U2, TSL2561, TSL2561_FN, microbuilder, (0, 0), R180
 - rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -230), R180
-- oompID: PROJ-ADAF-1246-STAN-01
 
 
 

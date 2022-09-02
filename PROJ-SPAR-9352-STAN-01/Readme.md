@@ -64,6 +64,7 @@ Contents
 - oompName: GraphicLCD Serial Backpack
 - sources: All source files from https://github.com/sparkfun/GraphicLCD_Serial_Backpack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9352
+- oompID: PROJ-SPAR-9352-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.954, 20.574, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.814, 13.224, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 15.494, 20.574, 90
@@ -108,7 +109,6 @@ Contents
 - rawPart: U1, V_REG_LDOSMD, SOT23-5, SparkFun, (18.034, 25.654), R90
 - rawPart: U2, ATMEGA168, TQFP32-08, SparkFun, (28.194, 15.494), R180
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (35.814, 18.034), R90
-- oompID: PROJ-SPAR-9352-STAN-01
 
 
 

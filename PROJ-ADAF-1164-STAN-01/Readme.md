@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit INA169 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-INA169-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1164
+- oompID: PROJ-ADAF-1164-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.334, 12.118999892, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.931999949999998, 15.95700009, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 5.842, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.72559055), R0
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.8, 0.72559055), R0
 - rawPart: U1, INA169, SOT23-5, microbuilder, (0.45, 0.29), R90
-- oompID: PROJ-ADAF-1164-STAN-01
 
 
 

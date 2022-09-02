@@ -70,6 +70,7 @@ Contents
 - oompName: USB RS-485 Converter
 - sources: All source files from https://github.com/sparkfun/USB_RS-485_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9822
+- oompID: PROJ-SPAR-9822-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 13.97, 5.08, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 12.7, 5.08, 90
 - oompPart: CAPC-0402-X-NF100-V50, C3, 22.86, 16.509999999999998, 0
@@ -116,7 +117,6 @@ Contents
 - rawPart: U1, FT232R, SSOP28DB, SparkFun, (0.65, 0.45), R270
 - rawPart: U2, RS485, SO08, SparkFun, (0.95, 0.45), R0
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.2, 0.45), R0
-- oompID: PROJ-SPAR-9822-STAN-01
 
 
 

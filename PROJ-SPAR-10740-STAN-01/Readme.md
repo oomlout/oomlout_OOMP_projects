@@ -69,6 +69,7 @@ Contents
 - oompName: IR Thermometer Evaluation Board-MLX90614
 - sources: All source files from https://github.com/sparkfun/IR_Thermometer_Evaluation_Board-MLX90614 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10740
+- oompID: PROJ-SPAR-10740-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 24.13, 20.32, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 24.13, 17.779999999999998, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 16.509999999999998, 3.8099999999999996, 0
@@ -111,7 +112,6 @@ Contents
 - rawPart: U1, MLX90614_, TO-39, SparkFun, (0.95, 0.45), R0
 - rawPart: U2, ATMEGA328, TQFP32-08, SparkFun, (0.5, 0.55), R90
 - rawPart: U3, 3.3V_REG, SOT23-5, SparkFun, (0.45, 0.2), R0
-- oompID: PROJ-SPAR-10740-STAN-01
 
 
 

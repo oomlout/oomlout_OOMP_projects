@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit Standalone Capacitive Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1362
+- oompID: PROJ-ADAF-1362-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, -3.937, 2.032, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.604, 16.764, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.0, 0.0, 0
@@ -117,7 +118,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, 0.74), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.335, -0.06), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.365, -0.06), R0
-- oompID: PROJ-ADAF-1362-STAN-01
 
 
 

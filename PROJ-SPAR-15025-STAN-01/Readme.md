@@ -93,6 +93,7 @@ Contents
 - oompName: nRF52840 Breakout MDBT50Q
 - sources: All source files from https://github.com/sparkfun/nRF52840_Breakout_MDBT50Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15025
+- oompID: PROJ-SPAR-15025-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 32.766, 7.492999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 32.766, 9.017, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 31.241999999999997, 15.875, 90
@@ -191,7 +192,6 @@ Contents
 - rawPart: U2, MCP73831, SOT23-5, SparkFun-IC-Power, (0.726, 0.444), R0
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (1.05, 0.55), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (1.31, 0.625), R90
-- oompID: PROJ-SPAR-15025-STAN-01
 
 
 

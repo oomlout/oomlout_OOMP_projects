@@ -60,6 +60,7 @@ Contents
 - oompName: gator color
 - sources: All source files from https://github.com/sparkfun/gator_color (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14890
+- oompID: PROJ-SPAR-14890-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 34.29, 19.685, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 90.16999999999999, 19.685, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 76.19999999999999, 19.685, 0
@@ -132,7 +133,6 @@ Contents
 - rawPart: U$33, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (0.8, 1.3), R180
 - rawPart: U$34, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (1.35, 1.975), R180
 - rawPart: U$38, TAB_GATOR_MINI, TAB_GATOR_MINI, SparkFun-Connectors, (4.15, 2.225), R180
-- oompID: PROJ-SPAR-14890-STAN-01
 
 
 

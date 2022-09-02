@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit PAM8302 Mono Amplifier PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2130
+- oompID: PROJ-ADAF-2130-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.937999999999999, 12.7, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.858, 9.652, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.128, 3.8099999999999996, 90
@@ -98,7 +99,6 @@ Contents
 - rawPart: U1, PAM8302AASCR, MSOP8_0.65MM, microbuilder, (0.425, 0.2), R180
 - rawPart: VR1, 10K, trim, TRIMPOT_BOURNS_3303W, microbuilder, (0.3, 0.5), R270
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.805, 0.295), R90
-- oompID: PROJ-ADAF-2130-STAN-01
 
 
 

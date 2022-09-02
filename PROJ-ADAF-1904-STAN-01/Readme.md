@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit MicroLipo PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MicroLipo-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1904
+- oompID: PROJ-ADAF-1904-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 9.143999999999998, 13.398499999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 11.302999999999999, 13.398499999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, CN2, 19.304, 9.524999999999999, 270
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R0
 - rawPart: U1, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (0.405, 0.39), R90
 - rawPart: X2, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (-0.045, 0.375), R270
-- oompID: PROJ-ADAF-1904-STAN-01
 
 
 

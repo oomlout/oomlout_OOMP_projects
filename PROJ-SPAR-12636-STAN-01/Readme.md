@@ -60,6 +60,7 @@ Contents
 - oompName: LSM9DS0 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM9DS0_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12636
+- oompID: PROJ-SPAR-12636-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 21.59, 5.715, 0
 - oompPart: CAPC-0603-X-NF220-V50, C2, 21.59, 7.619999999999999, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 20.32, 12.065, 180
@@ -94,7 +95,6 @@ Contents
 - rawPart: SJ2, SJ_3, SparkFun-Passives, (0.1, 0.365), MR180
 - rawPart: SJ3, SJ_3, SparkFun-Passives, (0.3, 0.365), MR180
 - rawPart: U1, LSM9DS0, LGA-24, SparkFun-DigitalIC, (0.65, 0.3), R90
-- oompID: PROJ-SPAR-12636-STAN-01
 
 
 

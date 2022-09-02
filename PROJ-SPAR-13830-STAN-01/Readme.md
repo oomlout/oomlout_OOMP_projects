@@ -71,6 +71,7 @@ Contents
 - oompName: USB UART Serial Breakout-CY7C65213
 - sources: All source files from https://github.com/sparkfun/USB_UART_Serial_Breakout-CY7C65213 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13830
+- oompID: PROJ-SPAR-13830-STAN-01
 - oompPart: CAPC-0603-X-UF22D-01, C1, 15.239999999999998, 14.604999999999999, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 34.29, 12.7, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 18.415, 12.7, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: R4, 1K, 0603-RES, SparkFun-Resistors, (1.35, 0.425), R180
 - rawPart: U1, CY7C65213, SSOP28DB, SparkFun-DigitalIC, (1.05, 0.4), R0
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-PowerIC, (0.6, 0.4), R0
-- oompID: PROJ-SPAR-13830-STAN-01
 
 
 

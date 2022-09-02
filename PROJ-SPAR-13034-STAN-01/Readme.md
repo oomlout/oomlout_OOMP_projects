@@ -63,6 +63,7 @@ Contents
 - oompName: Edison I2C Breakout Block
 - sources: All source files from https://github.com/sparkfun/Edison_I2C_Breakout_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13034
+- oompID: PROJ-SPAR-13034-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 24.892, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.668, 26.924, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 19.558, 90
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
 - rawPart: U1, MIC5205, SOT23-5, SparkFun-PowerIC, (0.48, 0.77), R0
 - rawPart: U2, PCA9306, PCA9306DC-1:1, SparkFun-DigitalIC, (0.62, 1.06), R90
-- oompID: PROJ-SPAR-13034-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: Qwiic BME280 CCS811 Combo
 - sources: All source files from https://github.com/sparkfun/Qwiic_BME280_CCS811_Combo (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14348
+- oompID: PROJ-SPAR-14348-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 6.35, 12.7, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 17.653, 12.7, M90
 - oompPart: CAPC-0603-X-NF100-V50, C1, 19.049999999999997, 7.619999999999999, 270
@@ -107,7 +108,6 @@ Contents
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.25, 0.35), R180
 - rawPart: U2, CCS811, LGA10, SparkFun-Sensors, (0.4, 0.5), R90
 - rawPart: U3, BME280, LGA-8-2.5X2.5, SparkFun-Sensors, (0.65, 0.5), R180
-- oompID: PROJ-SPAR-14348-STAN-01
 
 
 

@@ -91,6 +91,7 @@ Contents
 - oompName: Adafruit ESP32 S2 TFT Feather PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5300
+- oompID: PROJ-ADAF-5300-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 38.608, 6.1468, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 26.9113, 5.9055, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 40.7162, 14.477999999999998, 0
@@ -193,7 +194,6 @@ Contents
 - rawPart: U5, AP2112-3.3, SOT23-5, microbuilder, (1.355, 0.535), R90
 - rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (1.575, 0.76), MR0
 - rawPart: X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (1.895, 0.45), MR270
-- oompID: PROJ-ADAF-5300-STAN-01
 
 
 

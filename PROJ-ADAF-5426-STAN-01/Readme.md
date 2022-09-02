@@ -90,6 +90,7 @@ Contents
 - oompName: Adafruit QT Py ESP32 S3 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-ESP32-S3-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5426
+- oompID: PROJ-ADAF-5426-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 1.0795000000000001, 11.976099999999999, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, -6.6674999999999995, 9.0932, M0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 3.429, 1.3335, M0
@@ -182,7 +183,6 @@ Contents
 - rawPart: X2, ESP32-S3QFN54, QFN56_7X7, adafruit_wireless, (-0.021, 0.332), MR180
 - rawPart: X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (-0.0775, 0.675), R180
 - rawPart: Y1, 40MHz, CRYSTAL_2X1.6, microbuilder, (-0.0125, 0.0865), MR270
-- oompID: PROJ-ADAF-5426-STAN-01
 
 
 

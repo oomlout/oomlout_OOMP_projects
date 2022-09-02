@@ -62,6 +62,7 @@ Contents
 - oompName: SparkFun Ambient Sensor VEML6030
 - sources: All source files from https://github.com/sparkfun/SparkFun_Ambient_Sensor_VEML6030 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15436
+- oompID: PROJ-SPAR-15436-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.493999999999998, 10.921999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.4638, 18.313399999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 24.13, 5.08, M0
@@ -98,7 +99,6 @@ Contents
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.102, 0.67), R0
 - rawPart: R5, 10k, 0603, SparkFun-Resistors, (0.542, 0.622), R0
 - rawPart: U1, VEML6030, VEML6030, SparkFun-Sensors, (0.5, 0.5), R270
-- oompID: PROJ-SPAR-15436-STAN-01
 
 
 

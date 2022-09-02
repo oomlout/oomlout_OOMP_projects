@@ -75,6 +75,7 @@ Contents
 - oompName: Mr.Roboto
 - sources: All source files from https://github.com/sparkfun/Mr.Roboto (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11257
+- oompID: PROJ-SPAR-11257-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 25.419999960000002, 52.058000023999995, M0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 31.75, 45.72, M270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 22.87999996, 52.058000023999995, M180
@@ -139,7 +140,6 @@ Contents
 - rawPart: U3, LCD-8x2, LCD-8X2-KIT, SparkFun, (1, 0.51), R0
 - rawPart: U4, TO-92-KIT, SparkFun, (1.865, 1.5), R270
 - rawPart: Y1, 16mhz, RESONATOR-SMD, SparkFun, (0.75, 1.6), MR90
-- oompID: PROJ-SPAR-11257-STAN-01
 
 
 

@@ -57,6 +57,7 @@ Contents
 - oompName: SC16IS750 Breakout
 - sources: All source files from https://github.com/sparkfun/SC16IS750_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9981
+- oompID: PROJ-SPAR-9981-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 5.08, 10.16, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 5.08, 12.7, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 22.86, 12.7, 180
@@ -85,7 +86,6 @@ Contents
 - rawPart: R2, 1k, 0402-RES, SparkFun, (0.65, 0.3), R270
 - rawPart: R3, 1k, 0402-RES, SparkFun, (0.45, 0.6), R90
 - rawPart: U1, 3.3V, SOT23-5, SparkFun, (0.9, 0.35), R90
-- oompID: PROJ-SPAR-9981-STAN-01
 
 
 

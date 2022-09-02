@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit 128x32 I2C OLED Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/931
+- oompID: PROJ-ADAF-931-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 18.541999999999998, 5.08, M180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 18.541999999999998, 7.619999999999999, M180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.43, 10.668, M270
@@ -109,7 +110,6 @@ Contents
 - rawPart: R8, 10K, 0805, microbuilder, (0.23, 0.1), MR270
 - rawPart: R9, 10K, 0805, microbuilder, (0.31, 0.1), MR90
 - rawPart: U1, RT9193, SOT23-5, microbuilder, (0.68, 0.685), MR270
-- oompID: PROJ-ADAF-931-STAN-01
 
 
 

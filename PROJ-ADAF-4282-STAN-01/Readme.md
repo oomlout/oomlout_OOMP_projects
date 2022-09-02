@@ -53,6 +53,7 @@ Contents
 - oompName: Adafruit PiRTC DS3231 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiRTC-DS3231-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4282
+- oompID: PROJ-ADAF-4282-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.1308, 18.389599999999998, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.3716, 18.846799999999998, 180
@@ -73,7 +74,6 @@ Contents
 - rawPart: JP1, 1X02_ROUND, microbuilder, (0.45, 0.735), R180
 - rawPart: RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0
 - rawPart: U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.633, 0.703), R180
-- oompID: PROJ-ADAF-4282-STAN-01
 
 
 

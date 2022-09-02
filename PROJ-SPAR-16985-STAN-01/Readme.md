@@ -102,6 +102,7 @@ Contents
 - oompName: MicroMod Input and Display Carrier
 - sources: All source files from https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16985
+- oompID: PROJ-SPAR-16985-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_EN, 48.641, 5.715, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 36.195, 5.968999999999999, M180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 41.91, 2.794, M270
@@ -222,7 +223,6 @@ Contents
 - rawPart: TP1, PAD.03X.03, SparkFun-Connectors, (0.3, 0.8), MR0
 - rawPart: U2, ATTINY84, SO14, SparkFun-IC-Microcontroller, (0.835, 0.45), R90
 - rawPart: U5, AP7361C-33FGE, UDFN-8, SparkFun-IC-Power, (1.7, 0.31), MR180
-- oompID: PROJ-SPAR-16985-STAN-01
 
 
 

@@ -82,6 +82,7 @@ Contents
 - oompName: Adafruit FT232H Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FT232H-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2264
+- oompID: PROJ-ADAF-2264-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.238999999999999, 5.334, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 23.9649, 17.5641, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 10.287, 12.7, 180
@@ -166,7 +167,6 @@ Contents
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.4, 0.1), R0
 - rawPart: U2, AP2112-3.3, SOT23-5, microbuilder, (1.115, 0.235), R270
 - rawPart: X6, USBC, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.125, 0.45), R270
-- oompID: PROJ-ADAF-2264-STAN-01
 
 
 

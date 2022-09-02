@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit Huzzah ESP8266 Basic Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Huzzah-ESP8266-Basic-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2471
+- oompID: PROJ-ADAF-2471-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 20.066, 8.636000000000001, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 13.334999999999999, 4.699, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.795, 11.811, 270
@@ -120,7 +121,6 @@ Contents
 - rawPart: U$18, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U1, SPX3819, SOT23-5, microbuilder, (0.525, 0.3), R0
 - rawPart: X1, ESP-12, ESP-12, microbuilder, (0.5, 0.99), R0
-- oompID: PROJ-ADAF-2471-STAN-01
 
 
 

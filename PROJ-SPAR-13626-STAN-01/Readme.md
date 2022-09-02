@@ -65,6 +65,7 @@ Contents
 - oompName: Photon Battery Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Battery_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13626
+- oompID: PROJ-SPAR-13626-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 16.509999999999998, 13.97, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 24.13, 8.889999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 19.685, 13.97, 90
@@ -109,7 +110,6 @@ Contents
 - rawPart: TP1, TEST-POINT3X5, PAD.03X.05, SparkFun-Passives, (0.86, 0.76), MR0
 - rawPart: U1, MAX1704X, TDFN-8, SparkFun-PowerIC, (0.945, 0.45), R0
 - rawPart: U2, MCP73831, SOT23-5, SparkFun-PowerIC, (0.65, 0.45), R90
-- oompID: PROJ-SPAR-13626-STAN-01
 
 
 

@@ -50,11 +50,11 @@ Contents
 - oompName: LED Tactile Button Breakout
 - sources: All source files from https://github.com/sparkfun/LED_Tactile_Button_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10467
+- oompID: PROJ-SPAR-10467-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 3.8099999999999996, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 7.619999999999999, 12.7, 270
 - rawPart: JP1, 1X04, SparkFun, (0.15, 0.05), R0
 - rawPart: S1, Switch, TACTILE-PTH-LED-12MM, SparkFun, (0.3, 0.5), R270
-- oompID: PROJ-SPAR-10467-STAN-01
 
 
 

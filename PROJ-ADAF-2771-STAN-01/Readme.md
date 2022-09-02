@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit Feather 32u4 Basic Proto PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2771
+- oompID: PROJ-ADAF-2771-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.811, 12.065, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 8.08800008, 12.95899999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C7, 19.066999966, 15.290999897999999, 90
@@ -133,7 +134,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.42, 0.76), R0
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (1.10457111, 0.21207111), R180
-- oompID: PROJ-ADAF-2771-STAN-01
 
 
 

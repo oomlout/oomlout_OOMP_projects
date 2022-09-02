@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit TMP117 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP117-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4821
+- oompID: PROJ-ADAF-4821-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 500.0, 425.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 285.0, 220.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 895.0, 350.0, 90
@@ -89,7 +90,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 100), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
 - rawPart: X1, TMP117_WSON, WSON-6, adafruit_sensor, (500, 350), R180
-- oompID: PROJ-ADAF-4821-STAN-01
 
 
 

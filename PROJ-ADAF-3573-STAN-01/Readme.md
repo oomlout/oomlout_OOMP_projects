@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit TPL5111 Reset Enable Timer PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3573
+- oompID: PROJ-ADAF-3573-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 8.889999999999999, 15.493999999999998, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.302, 6.604, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 15.239999999999998, 11.302999999999999, 270
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R0
 - rawPart: U1, TPL5111DDC, SOT23-6, microbuilder, (0.4, 0.28), R270
 - rawPart: VR1, 200k, TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.24, 0.2925), R0
-- oompID: PROJ-ADAF-3573-STAN-01
 
 
 

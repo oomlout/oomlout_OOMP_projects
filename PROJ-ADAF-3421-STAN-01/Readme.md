@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit I2S Microphone Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3421
+- oompID: PROJ-ADAF-3421-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 14.224, 5.588, M90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 16.128999999999998, 5.588, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.43, 10.668, M0
@@ -74,7 +75,6 @@ Contents
 - rawPart: R2, 10k, 0603-NO, microbuilder, (0.115, 0.18), MR180
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.14, 0.4), R0
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.59, 0.4), R0
-- oompID: PROJ-ADAF-3421-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit 128x32 SPI OLED breakout board PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/661
+- oompID: PROJ-ADAF-661-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.462, 8.382, M90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 15.748, 8.382, M270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 12.953999999999999, 20.32, M270
@@ -94,7 +95,6 @@ Contents
 - rawPart: U$7, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.13732283, 0.34905512), MR0
 - rawPart: U1, 74HC4050D, SOIC16, microbuilder, (0.28, 0.45), MR270
 - rawPart: U2, SOT23-5, microbuilder, (0.535, 0.655), MR90
-- oompID: PROJ-ADAF-661-STAN-01
 
 
 

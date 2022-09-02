@@ -101,6 +101,7 @@ Contents
 - oompName: SparkFun MicroMod Main Board Double
 - sources: All source files from https://github.com/sparkfun/SparkFun_MicroMod_Main_Board_Double (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18576
+- oompID: PROJ-SPAR-18576-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 2.0827999999999998, 32.345099902, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5V_LED, 2.2097999999999995, 27.933549923999998, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.762999999999998, 12.9286, M90
@@ -223,7 +224,6 @@ Contents
 - rawPart: U2, MCP73831, SOT23-5, SparkFun-IC-Power, (0.436, 2.304), R90
 - rawPart: U5, AP7361C-33, UDFN-8, SparkFun-IC-Power, (0.504, 1.181), R180
 - rawPart: VE, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.379, 1.201), MR270
-- oompID: PROJ-SPAR-18576-STAN-01
 
 
 

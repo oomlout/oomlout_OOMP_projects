@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit USB Isolator PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-Isolator-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2107
+- oompID: PROJ-ADAF-2107-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 15.239999999999998, 27.94, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 13.97, 24.637999999999998, 180
 - oompPart: CAPC-0805-X-NF100-V50, C3, 30.479999999999997, 27.94, 90
@@ -125,7 +126,6 @@ Contents
 - rawPart: U2, ADuM5000, SOIC16WIDE, microbuilder, (0.9, 0.23), R270
 - rawPart: X2, 05241, USB_HOST-PTH, microbuilder, (1.8, 0.6), R90
 - rawPart: X3, 06564, USB-MINIB_LARGER, microbuilder, (0.2, 0.6), R270
-- oompID: PROJ-ADAF-2107-STAN-01
 
 
 

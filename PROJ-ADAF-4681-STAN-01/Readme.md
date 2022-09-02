@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit BH1750 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BH1750-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4681
+- oompID: PROJ-ADAF-4681-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.049, 11.684, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.874, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.128, 12.191999999999998, 0
@@ -107,7 +108,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.32, 0.345), R0
-- oompID: PROJ-ADAF-4681-STAN-01
 
 
 

@@ -207,6 +207,7 @@ Contents
 - oompName: Solderable Breadboard Large
 - sources: All source files from https://github.com/sparkfun/Solderable_Breadboard_Large (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12699
+- oompID: PROJ-SPAR-12699-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JG1, 3.8099999999999996, 11.43, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JG2, 3.8099999999999996, 52.06999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JG3, 191.76999999999998, 8.889999999999999, 90
@@ -525,7 +526,6 @@ Contents
 - rawPart: TIE+2, M01SMDNS, 1X01NS, SparkFun-Connectors, (7.45, 1.45), R0
 - rawPart: TIE-1, M01SMDNS, 1X01NS, SparkFun-Connectors, (0.25, 1.05), R0
 - rawPart: TIE-2, M01SMDNS, 1X01NS, SparkFun-Connectors, (7.45, 1.65), R0
-- oompID: PROJ-SPAR-12699-STAN-01
 
 
 

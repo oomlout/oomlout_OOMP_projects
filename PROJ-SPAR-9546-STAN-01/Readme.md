@@ -71,6 +71,7 @@ Contents
 - oompName: XMega100 Breakout
 - sources: All source files from https://github.com/sparkfun/XMega100_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9546
+- oompID: PROJ-SPAR-9546-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C3, 25.4, 39.37, 90
 - oompPart: CAPC-0402-X-NF100-V50, C4, 26.669999999999998, 16.509999999999998, 270
 - oompPart: CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 21.59, 270
@@ -117,7 +118,6 @@ Contents
 - rawPart: U1, XMEGA-100SMD, TQFP-100-14X14MM, SparkFun, (1.1, 1.1), R0
 - rawPart: U5, BottonInside, 1X13, SparkFun, (1.75, 0.15), R180
 - rawPart: U6, BottomEdge, 1X13, SparkFun, (1.75, 0.05), R180
-- oompID: PROJ-SPAR-9546-STAN-01
 
 
 

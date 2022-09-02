@@ -72,6 +72,7 @@ Contents
 - oompName: GPS Evaluation Board GP-2106
 - sources: All source files from https://github.com/sparkfun/GPS_Evaluation_Board_GP-2106 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10995
+- oompID: PROJ-SPAR-10995-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 13.97, 8.889999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 10.16, 8.889999999999999, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 13.97, 13.97, 90
@@ -126,7 +127,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.5, 0.1), MR180
 - rawPart: U1, GP-2106, GP-2106, SparkFun, (0.2, 0.45), R270
 - rawPart: U2, V_REG_LDOSMD2, SC70, SparkFun, (0.4, 0.45), R90
-- oompID: PROJ-SPAR-10995-STAN-01
 
 
 

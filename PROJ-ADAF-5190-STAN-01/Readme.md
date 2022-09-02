@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit SCD 4x PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SCD-4x-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5190
+- oompID: PROJ-ADAF-5190-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.731, 10.16, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.1590000000000003, 6.35, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.270999999999999, 5.968999999999999, 0
@@ -108,7 +109,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, adafruit_electromech, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, adafruit_power, (0.225, 0.245), R0
 - rawPart: X1, SCD-41, SCD41, adafruit_sensor, (0.5, 0.48), R0
-- oompID: PROJ-ADAF-5190-STAN-01
 
 
 

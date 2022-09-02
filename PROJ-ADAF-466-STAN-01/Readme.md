@@ -53,6 +53,7 @@ Contents
 - oompName: Adafruit VCNL40X0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VCNL40X0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/466
+- oompID: PROJ-ADAF-466-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 16.429999906, 10.490000102, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 5.08, 16.509999999999998, 180
 - oompPart: CAPC-0805-X-NF100-V50, C3, 3.0559999839999996, 5.08, 180
@@ -81,7 +82,6 @@ Contents
 - rawPart: U$8, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.09, 0.08), R0
 - rawPart: U1, VCNL4000-GS08, VCNL4000, microbuilder, (0.45, 0.5), R270
 - rawPart: U2, AP7311-33, SOT23-5, microbuilder, (0.2, 0.51062992), R90
-- oompID: PROJ-ADAF-466-STAN-01
 
 
 

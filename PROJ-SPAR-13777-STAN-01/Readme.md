@@ -89,6 +89,7 @@ Contents
 - oompName: Battery Babysitter
 - sources: All source files from https://github.com/sparkfun/Battery_Babysitter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13777
+- oompID: PROJ-SPAR-13777-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 22.86, 24.13, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 19.049999999999997, 18.415, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 26.669999999999998, 19.431, 270
@@ -189,7 +190,6 @@ Contents
 - rawPart: TP2, PAD.03X.04, SparkFun-Passives, (0.85, 1.0375), MR0
 - rawPart: U1, BQ24075, PVQFN-N16, SparkFun-PowerIC, (0.9, 0.8), R270
 - rawPart: U2, BQ27441-G1, PDSO-N12, SparkFun-PowerIC, (0.6, 0.75), R0
-- oompID: PROJ-SPAR-13777-STAN-01
 
 
 

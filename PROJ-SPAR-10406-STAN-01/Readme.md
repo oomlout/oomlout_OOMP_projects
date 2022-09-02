@@ -70,6 +70,7 @@ Contents
 - oompName: RFID Evaluation Shield
 - sources: All source files from https://github.com/sparkfun/RFID_Evaluation_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10406
+- oompID: PROJ-SPAR-10406-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 30.479999999999997, 40.64, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 57.276999999999994, 27.94, 180
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 59.69, 25.4, 0
@@ -132,7 +133,6 @@ Contents
 - rawPart: SJ4, SJ_3_PASTE2&3, SparkFun, (0.5, 1.55), R90
 - rawPart: U1, DNP_SM130, SM130, SparkFun, (1.6, 1), R270
 - rawPart: U3, ARDUINO_SHIELDNOLABELS, DUEMILANOVE_SHIELD_NOLABELS, SparkFun, (0, 2.1), R270
-- oompID: PROJ-SPAR-10406-STAN-01
 
 
 

@@ -55,6 +55,7 @@ Contents
 - oompName: Copernicus II DIP Module
 - sources: All source files from https://github.com/sparkfun/Copernicus_II_DIP_Module (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11858
+- oompID: PROJ-SPAR-11858-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 26.669999999999998, 18.049999967999998, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 26.669999999999998, 14.239999968, 0
 - oompPart: HEAD-I01-X-PI10-01, JP1, 25.4, 24.399999968, 180
@@ -75,7 +76,6 @@ Contents
 - rawPart: U$2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.86062992), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.2, 0.06062992), R0
 - rawPart: U1, COPERNICUS, COPERNICUS, SparkFun-RF, (0.185, 0.18562992), R90
-- oompID: PROJ-SPAR-11858-STAN-01
 
 
 

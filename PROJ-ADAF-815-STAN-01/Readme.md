@@ -81,6 +81,7 @@ Contents
 - oompName: Adafruit 16 Channel PWM Servo Driver PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/815
+- oompID: PROJ-ADAF-815-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -477.5, 708.12992, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, -740.0, 835.0, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 549.40945, 53.74016, 0
@@ -181,7 +182,6 @@ Contents
 - rawPart: U$49, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 875), R0
 - rawPart: U$50, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1100, 125), R0
 - rawPart: U1, PCA9685, TSSOP28, microbuilder, (0, 510), R270
-- oompID: PROJ-ADAF-815-STAN-01
 
 
 

@@ -90,6 +90,7 @@ Contents
 - oompName: Variable Load
 - sources: All source files from https://github.com/sparkfun/Variable_Load (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14449
+- oompID: PROJ-SPAR-14449-STAN-01
 - oompPart: CAPC-0603-X-NF22D-V50, C1, 13.081, 14.604999999999999, 270
 - oompPart: CAPC-0402-X-NF100-V50, C2, 13.208, 18.415, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 13.208, 19.812, 180
@@ -182,7 +183,6 @@ Contents
 - rawPart: R19, 22, 0402-RES, SparkFun-Resistors, (0.795, 1.34), R90
 - rawPart: U1, CY8C5868LTI-LP039, QFN-68, SparkFun-IC-Microcontroller, (0.8, 0.75), R90
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (0.6, 1.15), R180
-- oompID: PROJ-SPAR-14449-STAN-01
 
 
 

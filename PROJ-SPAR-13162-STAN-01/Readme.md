@@ -80,6 +80,7 @@ Contents
 - oompName: ZX Gesture Sensor SMD
 - sources: All source files from https://github.com/sparkfun/ZX_Gesture_Sensor_SMD (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13162
+- oompID: PROJ-SPAR-13162-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.334999999999999, 5.08, M90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 11.112499999999999, 5.08, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.2075, 5.08, M270
@@ -166,7 +167,6 @@ Contents
 - rawPart: U3, DMC2700UDM, SOT26, SparkFun-DiscreteSemi, (0.425, 0.35), MR90
 - rawPart: U4, DMC2700UDM, SOT26, SparkFun-DiscreteSemi, (1.95, 0.325), MR270
 - rawPart: U5, TSSP57038, TSOP572, SparkFun-Sensors, (1.2, 0.325), R180
-- oompID: PROJ-SPAR-13162-STAN-01
 
 
 

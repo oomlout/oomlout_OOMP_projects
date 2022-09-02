@@ -198,6 +198,7 @@ Contents
 - oompName: Adafruit IS31FL3741 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-IS31FL3741-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5201
+- oompID: PROJ-ADAF-5201-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.787999886, 38.191000072, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 1.9599998899999997, 41.468499994, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 36.440000018, 39.48200003, 0
@@ -520,7 +521,6 @@ Contents
 - rawPart: U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.0984252, 1.41732283), R180
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.43700787, 1.41732283), R180
 - rawPart: X1, IS31FL3741, QFN60_7MM, microbuilder, (0.70521654, 1.40677165), R225
-- oompID: PROJ-ADAF-5201-STAN-01
 
 
 

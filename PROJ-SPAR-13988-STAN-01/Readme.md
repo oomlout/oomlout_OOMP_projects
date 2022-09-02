@@ -50,6 +50,7 @@ Contents
 - oompName: Micro Bit Breakout
 - sources: All source files from https://github.com/sparkfun/Micro_Bit_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13988
+- oompID: PROJ-SPAR-13988-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.858, 21.843999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 61.97599999999999, 7.365999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 61.722, 21.843999999999998, M0
@@ -62,7 +63,6 @@ Contents
 - rawPart: FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.27, 0.675), MR0
 - rawPart: J1, EDGE-80PTH-RA, VEC-127-080-R, local_lib, (1.35, 0.3), R180
 - rawPart: J2, M22PTH, 1X22, local_lib, (0.3, 0.05), R0
-- oompID: PROJ-SPAR-13988-STAN-01
 
 
 

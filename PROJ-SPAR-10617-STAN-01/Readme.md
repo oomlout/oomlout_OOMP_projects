@@ -63,6 +63,7 @@ Contents
 - oompName: Lipo Fuel Gauge
 - sources: All source files from https://github.com/sparkfun/Lipo_Fuel_Gauge (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10617
+- oompID: PROJ-SPAR-10617-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 1.27, 12.7, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 5.08, 20.32, 0
@@ -93,7 +94,6 @@ Contents
 - rawPart: R5, 4.7k, 0402-RES, SparkFun, (0.3, 0.05), R180
 - rawPart: R6, 4.7k, 0402-RES, SparkFun, (0.3, 0.1), R180
 - rawPart: U2, MAX1704X, TDFN-8, SparkFun, (0.2, 0.3), R270
-- oompID: PROJ-SPAR-10617-STAN-01
 
 
 

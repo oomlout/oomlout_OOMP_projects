@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit VL53L0X ToF Distance Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3317
+- oompID: PROJ-ADAF-3317-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.175, 5.842, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.921, 12.065, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 6.604, 13.716, 180
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.6), R0
 - rawPart: U1, VL53L0X, LGA12_ST, microbuilder, (0.4, 0.4), R90
 - rawPart: U2, MIC5225_2.8V, SOT23-5, microbuilder, (0.115, 0.355), R0
-- oompID: PROJ-ADAF-3317-STAN-01
 
 
 

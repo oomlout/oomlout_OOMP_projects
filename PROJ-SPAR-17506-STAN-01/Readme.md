@@ -95,6 +95,7 @@ Contents
 - oompName: SparkFun LoRa Thing Plus expLoRaBLE
 - sources: All source files from https://github.com/sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17506
+- oompID: PROJ-SPAR-17506-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.631159491999998, 23.8887, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 4.9657, 26.2763, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.858, 30.607, 90
@@ -219,7 +220,6 @@ Contents
 - rawPart: U4, CH340E_MSOP10, MSOP10, SparkFun-IC-Comms, (0.67, 1.233), R90
 - rawPart: U6, DPX202700DT-4162A1, RF_4060A1_TDK, DPX202700DT, (0.44648819, 2.20789764), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.73011811, 1.8609685), R270
-- oompID: PROJ-SPAR-17506-STAN-01
 
 
 

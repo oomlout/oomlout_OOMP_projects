@@ -82,6 +82,7 @@ Contents
 - oompName: SAMD21 Mini Breakout
 - sources: All source files from https://github.com/sparkfun/SAMD21_Mini_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13664
+- oompID: PROJ-SPAR-13664-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 4.3942, 18.541999999999998, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 3.175, 12.191999999999998, 270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 8.889999999999999, 7.365999999999999, 270
@@ -156,7 +157,6 @@ Contents
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.835), R180
 - rawPart: U3, 74AHC1G125, SOT23-5, SparkFun-DigitalIC, (0.15, 1), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, samd21-temp, (0.195, 0.29), R180
-- oompID: PROJ-SPAR-13664-STAN-01
 
 
 

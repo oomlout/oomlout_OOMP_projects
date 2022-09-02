@@ -126,6 +126,7 @@ Contents
 - oompName: Blynk Board ESP8266
 - sources: All source files from https://github.com/sparkfun/Blynk_Board_ESP8266 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13794
+- oompID: PROJ-SPAR-13794-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 25.4, 19.049999999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 31.115000000000002, 29.845, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 26.669999999999998, 18.415, 270
@@ -318,7 +319,6 @@ Contents
 - rawPart: U5, W25Q32FVSS, SOIC-8, blynk-thing-temp, (0.85, 0.925), R90
 - rawPart: U6, SI7021, SI7021, SparkFun-Sensors, (0.475, 1.225), R270
 - rawPart: Y1, 26MHz, CRYSTAL-SMD-3.2X2.5, things, (1.15, 0.725), R0
-- oompID: PROJ-SPAR-13794-STAN-01
 
 
 

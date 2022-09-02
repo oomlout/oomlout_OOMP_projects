@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit MCP9808 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MCP9808-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5027
+- oompID: PROJ-ADAF-5027-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 11.43, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 8.001, 5.968999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.733, 8.889999999999999, 90
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- oompID: PROJ-ADAF-5027-STAN-01
 
 
 

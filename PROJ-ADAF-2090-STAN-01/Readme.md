@@ -79,6 +79,7 @@ Contents
 - oompName: Adafruit 2.8 TFT with Capacitive Touch PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2090
+- oompID: PROJ-ADAF-2090-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -18.796, 8.636000000000001, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 19.558, 4.826, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, -5.334, 0.7619999999999999, 270
@@ -163,7 +164,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (1.125, 1.5), R0
 - rawPart: U$23, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.63, -0.3), R0
 - rawPart: X1, microSD, MICROSD, microbuilder, (-0.33, 1.01), R270
-- oompID: PROJ-ADAF-2090-STAN-01
 
 
 

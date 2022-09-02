@@ -67,6 +67,7 @@ Contents
 - oompName: USB LiPolyCharger SingleCell
 - sources: All source files from https://github.com/sparkfun/USB_LiPolyCharger_SingleCell (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12711
+- oompID: PROJ-SPAR-12711-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.906999999999996, 26.669999999999998, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 14.935199999999998, 10.033, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 19.558, 9.779, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: SJ1, SJ_3, SparkFun, (0.36, 1.435), R0
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.55, 0.75), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun-Connectors, (1.15, 0.45), R180
-- oompID: PROJ-SPAR-12711-STAN-01
 
 
 

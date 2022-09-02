@@ -69,6 +69,7 @@ Contents
 - oompName: Tiny-AVR-Programmer
 - sources: All source files from https://github.com/sparkfun/Tiny-AVR-Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11801
+- oompID: PROJ-SPAR-11801-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 3.8099999999999996, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 21.59, 11.43, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 10.16, 3.8099999999999996, 270
@@ -121,7 +122,6 @@ Contents
 - rawPart: TP1, TEST-POINT3, PAD.03X.03, SparkFun-Passives, (0.6, 0.25), MR0
 - rawPart: U1, ATTINY84, SO14, SparkFun-DigitalIC, (0.6, 0.3), R90
 - rawPart: X1, USB-A-H, USB-A-H, SparkFun-Connectors, (0.1, 0.3), R0
-- oompID: PROJ-SPAR-11801-STAN-01
 
 
 

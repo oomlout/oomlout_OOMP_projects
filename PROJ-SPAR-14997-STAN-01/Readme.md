@@ -117,6 +117,7 @@ Contents
 - oompName: LTE Cat M1 Shield
 - sources: All source files from https://github.com/sparkfun/LTE_Cat_M1_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14997
+- oompID: PROJ-SPAR-14997-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 30.479999999999997, 26.669999999999998, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 40.386, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 26.669999999999998, 45.084999999999994, 270
@@ -263,7 +264,6 @@ Contents
 - rawPart: U4, TCA9406DCU, VSSOP-8, ublox, (0.95, 1.7), R90
 - rawPart: U5, AP7361C-33FGE, 8-UDFN, ublox, (0.5, 0.73), R90
 - rawPart: U6, SARA-R410M-2B, SARA-LGA, ublox, (0.9, 1.2), R180
-- oompID: PROJ-SPAR-14997-STAN-01
 
 
 

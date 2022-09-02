@@ -81,6 +81,7 @@ Contents
 - oompName: AD8232 Heart Rate Monitor
 - sources: All source files from https://github.com/sparkfun/AD8232_Heart_Rate_Monitor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12650
+- oompID: PROJ-SPAR-12650-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 26.034999999999997, 9.398, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 20.574, 14.350999999999997, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 22.733, 11.811, 180
@@ -151,7 +152,6 @@ Contents
 - rawPart: R20, DNP, 0603, SparkFun-Resistors, (1.21, 0.71), R90
 - rawPart: SJ4, LED, DISABLE, SJ_2S-TRACE, SparkFun-Passives, (0.3, 0.08), R90
 - rawPart: U1, AD8232, LFCSP_20, AD8232, (0.96, 0.635), R0
-- oompID: PROJ-SPAR-12650-STAN-01
 
 
 

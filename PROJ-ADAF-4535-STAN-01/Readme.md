@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit HTS221 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HTS221-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4535
+- oompID: PROJ-ADAF-4535-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.6746, 5.842, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.746999999999999, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.128, 12.191999999999998, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.31, 0.35), R0
 - rawPart: X1, HTS221, HLGA-6L, adafruit_sensor, (0.5, 0.35), R90
-- oompID: PROJ-ADAF-4535-STAN-01
 
 
 

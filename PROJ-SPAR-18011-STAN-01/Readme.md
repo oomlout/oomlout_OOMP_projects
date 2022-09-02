@@ -59,6 +59,7 @@ Contents
 - oompName: SparkFun Analog MEMS Microphone Breakout ICS-40180
 - sources: All source files from https://github.com/sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18011
+- oompID: PROJ-SPAR-18011-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.3114, 8.915399999999998, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.4742, 6.731, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 7.112, 8.915399999999998, 0
@@ -89,7 +90,6 @@ Contents
 - rawPart: R4, 300k, 0603, SparkFun-Resistors, (0.28, 0.293), R180
 - rawPart: U1, OPA344, SOT23-5, SparkFun-IC-Amplifiers, (0.261, 0.187), R90
 - rawPart: U2, ICS40180, ICS40180, SparkFun-Sensors, (0.1, 0.15), R270
-- oompID: PROJ-SPAR-18011-STAN-01
 
 
 

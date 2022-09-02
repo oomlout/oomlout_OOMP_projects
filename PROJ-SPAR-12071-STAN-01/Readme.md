@@ -78,6 +78,7 @@ Contents
 - oompName: CC3000 WiFi Shield
 - sources: All source files from https://github.com/sparkfun/CC3000_WiFi_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12071
+- oompID: PROJ-SPAR-12071-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AE1, 63.5, 31.75, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 20.32, 22.86, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 25.4, 22.86, 90
@@ -144,7 +145,6 @@ Contents
 - rawPart: U4, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun-Connectors, (0.65, 0.85), R90
 - rawPart: U5, CC3000, QFN-46_CC3000, SparkFun-RF, (1.75, 0.55), R270
 - rawPart: U6, 74AHC1G125, SOT23-5, SparkFun-DigitalIC, (2, 1), R0
-- oompID: PROJ-SPAR-12071-STAN-01
 
 
 

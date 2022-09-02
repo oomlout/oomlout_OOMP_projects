@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit TSC2007 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TSC2007-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5423
+- oompID: PROJ-ADAF-5423-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.968999999999999, 13.462, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.112, 6.35, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 7.746999999999999, 13.5255, 90
@@ -116,7 +117,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, adafruit_power, (0.31, 0.38), R0
-- oompID: PROJ-ADAF-5423-STAN-01
 
 
 

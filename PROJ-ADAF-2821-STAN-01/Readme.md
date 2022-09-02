@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit Feather ESP8266 HUZZAH PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2821
+- oompID: PROJ-ADAF-2821-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 21.462999999999997, 16.1925, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.049, 12.191999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 8.08800008, 12.95899999, 90
@@ -147,7 +148,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X2, ESP-12, ESP-12E, microbuilder, (1.43, 0.45), R270
 - rawPart: X4, 20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
-- oompID: PROJ-ADAF-2821-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: gator environment
 - sources: All source files from https://github.com/sparkfun/gator_environment (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15269
+- oompID: PROJ-SPAR-15269-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 27.94, 10.16, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 10.16, 10.16, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 29.209999999999997, 3.8099999999999996, 270
@@ -123,7 +124,6 @@ Contents
 - rawPart: R14, 10k, 0603, SparkFun-Resistors, (0.7, 0.675), R90
 - rawPart: U2, CCS811, LGA10, SparkFun-Sensors, (0.4, 0.55), R0
 - rawPart: U3, BME280, LGA-8-2.5X2.5, SparkFun-Sensors, (1.1, 0.55), R90
-- oompID: PROJ-SPAR-15269-STAN-01
 
 
 

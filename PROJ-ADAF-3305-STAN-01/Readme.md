@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3305
+- oompID: PROJ-ADAF-3305-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.3800001, 16.200000111999998, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 32.471000081999996, 7.005999957999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 42.463999908, 16.657999957999998, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: U$16, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R90
 - rawPart: X1, USB-MINIB_LARGER, microbuilder, (0.18818898, 0.45275591), R270
 - rawPart: Y1, 12MHz, RESONATOR-SMD, SparkFun, (1.57838583, 0.13826772), R270
-- oompID: PROJ-ADAF-3305-STAN-01
 
 
 

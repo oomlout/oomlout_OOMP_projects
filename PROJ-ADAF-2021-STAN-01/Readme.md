@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit LSM9DS0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM9DS0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2021
+- oompID: PROJ-ADAF-2021-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.842, 11.937999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 5.842, 6.095999999999999, 0
 - oompPart: CAPC-0805-X-NF220-01, C3, 9.143999999999998, 13.589, 270
@@ -128,7 +129,6 @@ Contents
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0
 - rawPart: U1, LSM9DS0TR, LGA24_4X4MM, microbuilder, (0.65, 0.465), R180
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.23, 0.36), R270
-- oompID: PROJ-ADAF-2021-STAN-01
 
 
 

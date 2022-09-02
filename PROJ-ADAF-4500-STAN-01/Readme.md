@@ -99,6 +99,7 @@ Contents
 - oompName: Adafruit CLUE PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CLUE-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4500
+- oompID: PROJ-ADAF-4500-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTNA, 45.70000004, 20.99999991, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BTNB, 6.099999992, 20.99999991, M270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 49.788400042, 24.613599997999998, 270
@@ -217,7 +218,6 @@ Contents
 - rawPart: U4, BMP280, BMP280, adafruit_sensor, (0.61417323, 0.88161417), R0
 - rawPart: X1, 4u20329, 4UCONN_20329_SLIM, microbuilder, (1.02362205, 1.49574803), R180
 - rawPart: X3, JSTPH, JSTPH2, microbuilder, (1.78543307, 1.51574803), R0
-- oompID: PROJ-ADAF-4500-STAN-01
 
 
 

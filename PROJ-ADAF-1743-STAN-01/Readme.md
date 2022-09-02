@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit 3.2 TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-3.2-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1743
+- oompID: PROJ-ADAF-1743-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, -18.796, 8.636000000000001, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.605999999999998, -31.496, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 19.558, 4.826, 0
@@ -154,7 +155,6 @@ Contents
 - rawPart: U$23, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-0.63, -0.31), R0
 - rawPart: U$24, DISP_LCD_6LED_240X320_50PIN, TFT_3.2IN_240X320_50PIN, microbuilder, (0, 0.075), MR0
 - rawPart: X1, MICROSD, microbuilder, (-0.33, 1.185), R270
-- oompID: PROJ-ADAF-1743-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: SparkFun Humidity Sensor SHTC3
 - sources: All source files from https://github.com/sparkfun/SparkFun_Humidity_Sensor_SHTC3 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16467
+- oompID: PROJ-SPAR-16467-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.827, 14.350999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 6.095999999999999, 7.238999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0
@@ -89,7 +90,6 @@ Contents
 - rawPart: R2, 2.2k, 0603, SparkFun-Resistors, (0.505, 0.75), R180
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.24, 0.22), R0
 - rawPart: U1, SHTC3, SHTC3, SparkFun-Sensors, (0.505, 0.48), R0
-- oompID: PROJ-SPAR-16467-STAN-01
 
 
 

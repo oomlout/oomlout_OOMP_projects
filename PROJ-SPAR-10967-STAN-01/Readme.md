@@ -54,6 +54,7 @@ Contents
 - oompName: NCP1402-3.3V
 - sources: All source files from https://github.com/sparkfun/NCP1402-3.3V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10967
+- oompID: PROJ-SPAR-10967-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 6.35, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 12.7, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 10.16, 12.446, 90
@@ -70,7 +71,6 @@ Contents
 - rawPart: JP1, 1X03, SparkFun-Connectors, (0.15, 0.05), R0
 - rawPart: L1, 47uH, CR54, SparkFun, (0.35, 0.25), R180
 - rawPart: U1, NCP1402, SOT23-5, SparkFun, (0.25, 0.465), R180
-- oompID: PROJ-SPAR-10967-STAN-01
 
 
 

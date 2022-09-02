@@ -65,6 +65,7 @@ Contents
 - oompName: On Screen Display Breakout-MAX7456
 - sources: All source files from https://github.com/sparkfun/On_Screen_Display_Breakout-MAX7456 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9168
+- oompID: PROJ-SPAR-9168-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 12.7, 25.4, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 20.32, 21.59, 90
 - oompPart: CAPC-0402-X-NF100-V50, C3, 20.32, 17.779999999999998, 90
@@ -103,7 +104,6 @@ Contents
 - rawPart: V_IN, TEST-POINT3X5, PAD.03X.05, SparkFun, (0.45, 0.35), MR0
 - rawPart: V_OUT, TEST-POINT3X5, PAD.03X.05, SparkFun, (0.45, 1.45), MR0
 - rawPart: Y2, 27MHz, CRYSTAL-SMD-5X3, SparkFun, (0.35, 0.8), R90
-- oompID: PROJ-SPAR-9168-STAN-01
 
 
 

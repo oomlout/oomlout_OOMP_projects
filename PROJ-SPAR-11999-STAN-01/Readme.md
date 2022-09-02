@@ -52,6 +52,7 @@ Contents
 - oompName: RedBot Whisker Bumper
 - sources: All source files from https://github.com/sparkfun/RedBot_Whisker_Bumper (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11999
+- oompID: PROJ-SPAR-11999-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 0.7619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 24.13, 16.509999999999998, 0
 - oompPart: HEAD-I01-X-PI03-01, JP1, 12.7, 16.509999999999998, 180
@@ -64,7 +65,6 @@ Contents
 - rawPart: R1, 10K, 0603-RES, SparkFun-Resistors, (0.15, 0.5), R180
 - rawPart: S1, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S2, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.85, 0.15), R0
-- oompID: PROJ-SPAR-11999-STAN-01
 
 
 

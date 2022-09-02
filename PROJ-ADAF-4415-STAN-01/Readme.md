@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit PA1010D Mini GPS PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4415
+- oompID: PROJ-ADAF-4415-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 12.7, M0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 4.953, 8.889999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 1.1429999999999998, 6.858, 90
@@ -111,7 +112,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.195, 0.255), R270
 - rawPart: X1, GPS_PA1010D, GPS_PA1010D, microbuilder, (0.5, 0.53), R180
-- oompID: PROJ-ADAF-4415-STAN-01
 
 
 

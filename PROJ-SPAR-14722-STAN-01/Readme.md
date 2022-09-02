@@ -63,6 +63,7 @@ Contents
 - oompName: Qwiic Distance VL53L1X
 - sources: All source files from https://github.com/sparkfun/Qwiic_Distance_VL53L1X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14722
+- oompID: PROJ-SPAR-14722-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 8.889999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 17.779999999999998, 12.7, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.095999999999999, 0
@@ -103,7 +104,6 @@ Contents
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.4, 0.65), R180
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.6, 0.65), R0
 - rawPart: U2, VL53L1X, VL53L1X, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-14722-STAN-01
 
 
 

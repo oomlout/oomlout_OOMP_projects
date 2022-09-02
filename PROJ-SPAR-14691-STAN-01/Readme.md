@@ -74,6 +74,7 @@ Contents
 - oompName: Qwiic Transparent OLED HUD
 - sources: All source files from https://github.com/sparkfun/Qwiic_Transparent_OLED_HUD (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14691
+- oompID: PROJ-SPAR-14691-STAN-01
 - oompPart: CAPC-0603-X-UF22D-01, C1, 10.16, 11.43, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 9.524999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 15.239999999999998, 11.43, 0
@@ -134,7 +135,6 @@ Contents
 - rawPart: R6, 47k, 0603, SparkFun-Resistors, (0.3, 0.675), R180
 - rawPart: R7, 5.6k, 0603, SparkFun-Resistors, (0.3, 0.75), R0
 - rawPart: U1, AP3012, SOT23-5, SparkFun-IC-Power, (0.5, 0.675), R180
-- oompID: PROJ-SPAR-14691-STAN-01
 
 
 

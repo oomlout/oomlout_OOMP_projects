@@ -57,6 +57,7 @@ Contents
 - oompName: BigTime
 - sources: All source files from https://github.com/sparkfun/BigTime (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11178
+- oompID: PROJ-SPAR-11178-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.59, 3.8099999999999996, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 33.019999999999996, 39.37, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 31.75, 90
@@ -75,7 +76,6 @@ Contents
 - rawPart: S1, BUTTON, TACTILE-PTH-SIDEEZ, SparkFun-Electromechanical, (1.6, 0.4), R90
 - rawPart: U1, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (0.85, 1.3), R180
 - rawPart: Y1, 32.768kHz, TC26HEZ, SparkFun-FreqCtrl, (0.65, 1.6), R90
-- oompID: PROJ-SPAR-11178-STAN-01
 
 
 

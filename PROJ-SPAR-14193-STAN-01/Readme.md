@@ -61,6 +61,7 @@ Contents
 - oompName: CCS811 Air Quality Breakout
 - sources: All source files from https://github.com/sparkfun/CCS811_Air_Quality_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14193
+- oompID: PROJ-SPAR-14193-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 8.889999999999999, 13.334999999999999, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 4.826, 16.891, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 15.239999999999998, 3.8099999999999996, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: R13, 4.7k, 0603, SparkFun-Resistors, (0.1, 0.45), R180
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.1, 0.35), R180
 - rawPart: U2, CCS811, LGA10, CCS811_Breakout_Temp, (0.35, 0.4), R90
-- oompID: PROJ-SPAR-14193-STAN-01
 
 
 

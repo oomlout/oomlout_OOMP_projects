@@ -69,6 +69,7 @@ Contents
 - oompName: Qwiic Scale
 - sources: All source files from https://github.com/sparkfun/Qwiic_Scale (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15242
+- oompID: PROJ-SPAR-15242-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C8, 16.509999999999998, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C9, 20.32, 22.86, 90
 - oompPart: CAPC-0603-X-NF100-V50, C10, 8.889999999999999, 15.239999999999998, 180
@@ -119,7 +120,6 @@ Contents
 - rawPart: R9, 47, 0603, SparkFun-Resistors, (0.65, 0.66), R0
 - rawPart: R10, 47, 0603, SparkFun-Resistors, (0.5, 0.66), R0
 - rawPart: U1, NAU7802, SO16, SparkFun-IC-Conversion, (0.5, 0.4), R180
-- oompID: PROJ-SPAR-15242-STAN-01
 
 
 

@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit SHT40 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SHT40-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4885
+- oompID: PROJ-ADAF-4885-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.049, 5.588, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.619999999999999, 6.095999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.001, 12.827, 0
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.31, 0.375), R0
 - rawPart: X1, SHT4X_, SHT4X, adafruit_sensor, (0.5, 0.35), R180
-- oompID: PROJ-ADAF-4885-STAN-01
 
 
 

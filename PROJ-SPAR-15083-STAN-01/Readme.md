@@ -76,6 +76,7 @@ Contents
 - oompName: Qwiic Twist
 - sources: All source files from https://github.com/sparkfun/Qwiic_Twist (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15083
+- oompID: PROJ-SPAR-15083-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 4.826, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 19.049999999999997, 18.415, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 23.875999999999998, 20.574, 0
@@ -142,7 +143,6 @@ Contents
 - rawPart: R14, 10, 0603, SparkFun-Resistors, (0.135, 0.285), R270
 - rawPart: SW1, Rotary, Encoder, ENCODER_LED_3_KIT, SparkFun-Switches, (0.6, 0.5), MR270
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (0.625, 0.5), R180
-- oompID: PROJ-SPAR-15083-STAN-01
 
 
 

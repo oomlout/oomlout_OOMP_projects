@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit ATECC608 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ATECC608-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4314
+- oompID: PROJ-ADAF-4314-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.953999999999999, -2.7304999999999997, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 0.7619999999999999, -5.0165, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 16.764, -5.6514999999999995, 90
@@ -90,7 +91,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.66, 0.0275), R0
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.14, -0.4725), R0
 - rawPart: U$15, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.66, -0.4725), R0
-- oompID: PROJ-ADAF-4314-STAN-01
 
 
 

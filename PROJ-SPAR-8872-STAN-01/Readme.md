@@ -65,6 +65,7 @@ Contents
 - oompName: Mic Preamp
 - sources: All source files from https://github.com/sparkfun/Mic_Preamp (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8872
+- oompID: PROJ-SPAR-8872-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 21.59, 2.54, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 15.239999999999998, 2.54, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 25.4, 8.889999999999999, 180
@@ -99,7 +100,6 @@ Contents
 - rawPart: R3, 4.7K, AXIAL-0.3, SparkFun, (0.7, 0.5), R180
 - rawPart: R4, 220K, AXIAL-0.3, SparkFun, (0.7, 0.3), R0
 - rawPart: S1, On/Off, SWITCH-SPDT_LOCK.007S, SparkFun, (0.45, 0.9), R90
-- oompID: PROJ-SPAR-8872-STAN-01
 
 
 

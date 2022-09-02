@@ -95,6 +95,7 @@ Contents
 - oompName: Artemis Thing Plus
 - sources: All source files from https://github.com/sparkfun/Artemis_Thing_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15574
+- oompID: PROJ-SPAR-15574-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 18.541999999999998, 25.907999999999998, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.3975, 26.7335, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.858, 30.607, 90
@@ -207,7 +208,6 @@ Contents
 - rawPart: U3, ARTEMIS_MODULESMD, ARTEMIS_FP, SparkFun-IC-Microcontroller, (0.45, 1.9725), R90
 - rawPart: U4, CH340E_MSOP10, MSOP10, SparkFun-IC-Comms, (0.67, 1.245), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.45, 1.625), R180
-- oompID: PROJ-SPAR-15574-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: Current Sensor Breakout-ACS723-Low Current
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14544
+- oompID: PROJ-SPAR-14544-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 23.622, 1.9049999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 23.622, 9.334499999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 16.891, 12.572999999999999, 90
@@ -107,7 +108,6 @@ Contents
 - rawPart: U2, OPA344, SOT23-5, SparkFun-IC-Amplifiers, (0.93, 0.2575), R90
 - rawPart: VR1, 10k, TRIMPOT-SMD-TC33X, SparkFun-Resistors, (0.76, 0.105), R270
 - rawPart: VR2, 10k, TRIMPOT-SMD-TC33X, SparkFun-Resistors, (0.805, 0.495), R270
-- oompID: PROJ-SPAR-14544-STAN-01
 
 
 

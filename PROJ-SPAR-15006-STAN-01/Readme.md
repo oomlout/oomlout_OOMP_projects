@@ -80,6 +80,7 @@ Contents
 - oompName: ESP32 LoRa 1Ch Gateway
 - sources: All source files from https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15006
+- oompID: PROJ-SPAR-15006-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 3.175, 8.509, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 3.1496, 6.985, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 10.668, 16.509999999999998, 270
@@ -152,7 +153,6 @@ Contents
 - rawPart: U2, ESP-WROOM-32NARROW, ESP-WROOM-32-NARROW, SparkFun-RF, (0.5, 1.24), R90
 - rawPart: U3, CH340C, SO016, SparkFun-IC-Comms, (0.42, 0.4), R0
 - rawPart: U4, RFM95W, RFM95/96/97/98W, SparkFun-RF, (0.5, 1.2), MR0
-- oompID: PROJ-SPAR-15006-STAN-01
 
 
 

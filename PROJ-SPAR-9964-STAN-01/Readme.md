@@ -43,7 +43,7 @@ Contents
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R4, 6.223, 6.35, 90,R4, 1K, 0402-RES, SparkFun, (0.245, 0.25), R90|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 5.08, 90,U1, OPA344, SOT23-5, SparkFun, (0.35, 0.2), R90|
 
 ## Tags
@@ -57,6 +57,7 @@ Contents
 - oompName: Electret Microphone Breakout
 - sources: All source files from https://github.com/sparkfun/Electret_Microphone_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9964
+- oompID: PROJ-SPAR-9964-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 5.206999999999999, 8.889999999999999, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 13.081, 5.334, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 8.889999999999999, 8.889999999999999, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: R4, 1K, 0402-RES, SparkFun, (0.245, 0.25), R90
 - rawPart: R5, 100K, 0402-RES, SparkFun, (0.35, 0.3), R180
 - rawPart: U1, OPA344, SOT23-5, SparkFun, (0.35, 0.2), R90
-- oompID: PROJ-SPAR-9964-STAN-01
 
 
 

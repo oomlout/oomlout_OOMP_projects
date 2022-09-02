@@ -74,6 +74,7 @@ Contents
 - oompName: Voice Recorder Breakout-ISD1932
 - sources: All source files from https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10653
+- oompID: PROJ-SPAR-10653-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 13.97, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 20.32, 25.4, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 16.509999999999998, 36.83, 0
@@ -126,7 +127,6 @@ Contents
 - rawPart: U1, ISD1900ISD1932, SO-28W, SparkFun, (0.5, 1), R270
 - rawPart: U2, MICELECTRET_SMD, MIC_ELECTRET_SMD, SparkFun, (0.85, 1.6), R90
 - rawPart: U3, AUDIO-JACK2SMD, AUDIO-JACK-3.5MM-SMD, SparkFun, (0, 1.8), R0
-- oompID: PROJ-SPAR-10653-STAN-01
 
 
 

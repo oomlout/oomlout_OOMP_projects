@@ -159,6 +159,7 @@ Contents
 - oompName: Adafruit 7x15 CharliePlex LED FeatherWing
 - sources: All source files from https://github.com/adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3134
+- oompID: PROJ-ADAF-3134-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 1.397, 6.858, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1-2, 9.906, 4.064, 225
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1-3, 9.906, 6.604, 225
@@ -387,7 +388,6 @@ Contents
 - rawPart: R5, 10K, RESPACK_4X0603, microbuilder, (0.175, 0.265), R180
 - rawPart: SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.175, 0.35), MR180
 - rawPart: U1, IS31FL3731-SALS2, QFN28_4MM_0.4MM, microbuilder, (0.195, 0.52), R270
-- oompID: PROJ-ADAF-3134-STAN-01
 
 
 

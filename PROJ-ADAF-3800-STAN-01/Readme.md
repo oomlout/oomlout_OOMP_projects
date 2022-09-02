@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit ItsyBitsy M4 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3800
+- oompID: PROJ-ADAF-3800-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 30.479999999999997, 5.9055, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 28.320999999999998, 8.3185, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 12.57799999, 13.374999919999999, 0
@@ -129,7 +130,6 @@ Contents
 - rawPart: U1, GD25x16, USON8, microbuilder, (1.035, 0.2025), R270
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.365, 0.285), R180
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.35), R270
-- oompID: PROJ-ADAF-3800-STAN-01
 
 
 

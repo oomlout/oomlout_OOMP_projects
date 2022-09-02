@@ -53,6 +53,7 @@ Contents
 - oompName: ATX Power Connector Breakout
 - sources: All source files from https://github.com/sparkfun/ATX_Power_Connector_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15035
+- oompID: PROJ-SPAR-15035-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ATX_POWER_CONNECTOR, 17.145, 23.114, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.685, 11.684, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 9.524999999999999, 11.684, 0
@@ -63,7 +64,6 @@ Contents
 - rawPart: J2, SCREWTERMINAL-5MM-2, SparkFun-Connectors, (0.375, 0.46), R0
 - rawPart: J3, 1X04, SparkFun-Connectors, (0.525, 0.145), MR180
 - rawPart: J4, 1X04_SMD_RA_MALE, SparkFun-Connectors, (0.675, 0.06), R0
-- oompID: PROJ-SPAR-15035-STAN-01
 
 
 

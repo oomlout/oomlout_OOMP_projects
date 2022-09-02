@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit VS1053 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VS1053-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1381
+- oompID: PROJ-ADAF-1381-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 18.541999999999998, 51.56199999999999, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 12.7, 51.56199999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 15.620999999999999, 31.5214, 270
@@ -156,7 +157,6 @@ Contents
 - rawPart: U2, AP7312-1833W6-7, SOT23-6, microbuilder, (0.77031496, 1.22515748), R90
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.527, 0.86), R180
 - rawPart: Y1, ABM8G-12.288MHZ-4Y-T3, CRYSTAL_3.2X2.5, microbuilder, (0.50347244, 1.24584252), R0
-- oompID: PROJ-ADAF-1381-STAN-01
 
 
 

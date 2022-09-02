@@ -68,6 +68,7 @@ Contents
 - oompName: Qwiic EEPROM Breakout
 - sources: All source files from https://github.com/sparkfun/Qwiic_EEPROM_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18355
+- oompID: PROJ-SPAR-18355-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 8.509, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 19.049999999999997, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, E0, 7.619999999999999, 8.889999999999999, M0
@@ -116,7 +117,6 @@ Contents
 - rawPart: R7, 100k, 0603, SparkFun-Resistors, (0.71, 0.27), R180
 - rawPart: U1, CAT24C51, SO08, SparkFun-IC-Memory, (0.5, 0.5), R90
 - rawPart: WP, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.06, 0.25), MR0
-- oompID: PROJ-SPAR-18355-STAN-01
 
 
 

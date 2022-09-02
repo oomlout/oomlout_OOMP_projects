@@ -85,6 +85,7 @@ Contents
 - oompName: QwiicBus MidPoint
 - sources: All source files from https://github.com/sparkfun/QwiicBus_MidPoint (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18000
+- oompID: PROJ-SPAR-18000-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BP, 27.94, 12.7, M270
 - oompPart: CAPC-0603-X-NF100-V50, C1, 21.59, 14.097, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 26.67, 14.097, 0
@@ -169,7 +170,6 @@ Contents
 - rawPart: TP1, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (26.67, 3.81), R0
 - rawPart: U1, PCA9615, TSSOP10, SparkFun-IC-Comms, (24.765, 11.43), R0
 - rawPart: U3, LMR33630, VQFN-HR-12, SparkFun-IC-Power, (12.7, 11.938), R0
-- oompID: PROJ-SPAR-18000-STAN-01
 
 
 

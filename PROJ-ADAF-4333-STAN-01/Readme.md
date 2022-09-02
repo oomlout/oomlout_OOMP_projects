@@ -140,6 +140,7 @@ Contents
 - oompName: Adafruit Circuit Playground Bluefruit PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4333
+- oompID: PROJ-ADAF-4333-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -22.6695, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3TAP2, 11.302999999999999, 19.685, 330
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BATT, 0.0, -21.59, 180
@@ -338,7 +339,6 @@ Contents
 - rawPart: VCC2, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.445, -0.775), R210
 - rawPart: X1, 2450AT18B100, ANT_2450AT18B100, adafruit_wireless, (0.04, -0.0855), R180
 - rawPart: Y1, 32MHz, CRYSTAL_2X1.6, microbuilder, (0.37510015, 0.22539998), R0
-- oompID: PROJ-ADAF-4333-STAN-01
 
 
 

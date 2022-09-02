@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit_MCP73833_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_MCP73833_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/259
+- oompID: PROJ-ADAF-259-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 25.431999935999997, 22.875999968, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 15.970000063999999, 22.082000032, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 17.500000052, 30.253999943999997, 180
@@ -115,7 +116,6 @@ Contents
 - rawPart: U$18, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 1.25984252), R0
 - rawPart: U$19, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.11811024, 0.11811024), R0
 - rawPart: U1, MCP73833T-AMI/MF, DFN10_3X3MM, microbuilder, (0.81937008, 0.82125984), R270
-- oompID: PROJ-ADAF-259-STAN-01
 
 
 

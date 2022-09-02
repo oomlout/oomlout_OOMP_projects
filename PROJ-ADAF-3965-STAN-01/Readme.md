@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit MPRLS Pressure Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3965
+- oompID: PROJ-ADAF-3965-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.143999999999998, 12.191999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.2859999999999996, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.54, 10.795, 180
@@ -89,7 +90,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.55), R0
 - rawPart: U$18, MPR_SERIES_I2C_PRESSURE, MPR_SERIES_I2C_PRESSURE, microbuilder, (0.35, 0.35), R270
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.1, 0.325), R270
-- oompID: PROJ-ADAF-3965-STAN-01
 
 
 

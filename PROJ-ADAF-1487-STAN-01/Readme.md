@@ -170,6 +170,7 @@ Contents
 - oompName: Adafruit NeoPixel 8x8 Matrix
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPixel-8x8-Matrix (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1487
+- oompID: PROJ-ADAF-1487-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, -26.669999999999998, 31.75, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, -17.779999999999998, 31.75, 270
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, -8.889999999999999, 31.75, 270
@@ -448,7 +449,6 @@ Contents
 - rawPart: TP12, TESTPOINT_SMT, microbuilder, (-1.05, 1.305), MR270
 - rawPart: TP13, TESTPOINT_SMT, microbuilder, (0.35, -1.305), MR270
 - rawPart: TP14, TESTPOINT_SMT, microbuilder, (1.05, -1.305), MR270
-- oompID: PROJ-ADAF-1487-STAN-01
 
 
 

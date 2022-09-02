@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit Trinket M0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Trinket-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3500
+- oompID: PROJ-ADAF-3500-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BAT, 0.0, 9.017, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.032, -7.175499999999999, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, -3.556, 1.3335, 270
@@ -113,7 +114,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (-0.225, -0.4), R0
 - rawPart: U$9, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.225, -0.4), R0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (-0.0625, -0.29), R270
-- oompID: PROJ-ADAF-3500-STAN-01
 
 
 

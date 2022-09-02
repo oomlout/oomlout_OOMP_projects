@@ -96,6 +96,7 @@ Contents
 - oompName: Adafruit Feather M4 CAN PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-M4-CAN-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4759
+- oompID: PROJ-ADAF-4759-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 19.392899999999997, 5.1308, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 15.875, 17.208499999999997, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C4, 21.843999999999998, 6.731, 180
@@ -210,7 +211,6 @@ Contents
 - rawPart: X2, 32.768, XTAL3215, adafruit2, (0.906, 0.197), R180
 - rawPart: X4, 3.5mm, TERMBLOCK_1X3-3.5MM, microbuilder, (1.855, 0.45), R90
 - rawPart: X6, USB, Type, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.1025, 0.45), R270
-- oompID: PROJ-ADAF-4759-STAN-01
 
 
 

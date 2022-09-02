@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit WICED WiFi Feather PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-WICED-WiFi-Feather-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3056
+- oompID: PROJ-ADAF-3056-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 48.641, 16.814799999999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 29.057599999999997, 15.493999999999998, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.43, 10.921999999999999, 270
@@ -146,7 +147,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X2, 2500AT44M0400, ANT_2500AT44M0400, microbuilder, (1.952, 0.404), R270
 - rawPart: X3, 20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
-- oompID: PROJ-ADAF-3056-STAN-01
 
 
 

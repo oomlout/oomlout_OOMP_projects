@@ -54,6 +54,7 @@ Contents
 - oompName: Triple Axis Accelerometer Breakout-LIS331
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10345
+- oompID: PROJ-SPAR-10345-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270
 - oompPart: HEAD-I01-X-PI08-01, JP1, 19.049999999999997, 1.27, 180
@@ -66,7 +67,6 @@ Contents
 - rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0
 - rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0
 - rawPart: U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90
-- oompID: PROJ-SPAR-10345-STAN-01
 
 
 

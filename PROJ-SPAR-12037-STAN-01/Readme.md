@@ -65,6 +65,7 @@ Contents
 - oompName: Binary Blaster
 - sources: All source files from https://github.com/sparkfun/Binary_Blaster (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12037
+- oompID: PROJ-SPAR-12037-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 5.715, 34.29, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 80.645, 34.29, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 67.30999999999999, 49.529999999999994, 270
@@ -115,7 +116,6 @@ Contents
 - rawPart: U$1, 7-SEGMENT-DISPLAY-1-REDEZ, 7-SEGMENT-1PTH-EZ, SparkFun-Displays, (1.325, 1.35), R0
 - rawPart: U$6, 7-SEGMENT-DISPLAY-1-REDEZ, 7-SEGMENT-1PTH-EZ, SparkFun-Displays, (2.05, 1.35), R0
 - rawPart: U$7, AVR-MEGA8-P-KEYED-14, DIL28-3_KEYED-14, Testing, (1.7, 2.1), R0
-- oompID: PROJ-SPAR-12037-STAN-01
 
 
 

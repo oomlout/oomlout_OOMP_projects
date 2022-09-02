@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit AD8495 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1778
+- oompID: PROJ-ADAF-1778-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 11.937999999999999, 13.97, 270
 - oompPart: CAPC-0805-X-NF10-01, C2, 10.16, 2.794, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 9.017, 8.382, 270
@@ -95,7 +96,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U1, AD8495ARMZ, MSOP8_0.65MM, microbuilder, (0.5, 0.33), R0
 - rawPart: X1, 3.5mm, terminal, TERMBLOCK_1X2-3.5MM, microbuilder, (0.13, 0.33), R270
-- oompID: PROJ-ADAF-1778-STAN-01
 
 
 

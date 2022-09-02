@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit CCS811 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3566
+- oompID: PROJ-ADAF-3566-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.779, 7.365999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.2859999999999996, 6.095999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.2859999999999996, 12.191999999999998, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.6), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09, 0.36), R0
 - rawPart: U3, CCS811, CCS811, microbuilder, (0.4, 0.4), R0
-- oompID: PROJ-ADAF-3566-STAN-01
 
 
 

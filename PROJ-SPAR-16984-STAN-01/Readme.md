@@ -65,6 +65,7 @@ Contents
 - oompName: MicroMod Processor Board-nRF52840
 - sources: All source files from https://github.com/sparkfun/MicroMod_Processor_Board-nRF52840 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16984
+- oompID: PROJ-SPAR-16984-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 8.125000005999999, 13.492999937999997, M270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 20.574, 11.937999999999999, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 20.574, 7.112, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: U1, W25QXX128MBIT-6X5, WSON-8-6X5, SparkFun-MicroMod, (0.47244094, 0.47244094), MR0
 - rawPart: U2, MDBT50Q, MDBT50Q, SparkFun-RF, (0.43307087, 0.48937008), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.81, 0.375), R90
-- oompID: PROJ-SPAR-16984-STAN-01
 
 
 

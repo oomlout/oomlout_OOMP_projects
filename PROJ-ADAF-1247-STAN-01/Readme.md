@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit Flora LSM303 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-LSM303-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1247
+- oompID: PROJ-ADAF-1247-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 125.0, -80.0, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 0.0, 170.0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 0.0, -170.0, 180
@@ -85,7 +86,6 @@ Contents
 - rawPart: SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, -140), R120
 - rawPart: U1, LSM303DLHC, LGA14, microbuilder, (0, 0), R90
 - rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -280), R180
-- oompID: PROJ-ADAF-1247-STAN-01
 
 
 

@@ -57,6 +57,7 @@ Contents
 - oompName: Beefcake Relay Control Kit
 - sources: All source files from https://github.com/sparkfun/Beefcake_Relay_Control_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13815
+- oompID: PROJ-SPAR-13815-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 47.942499999999995, 1.27, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 47.942499999999995, 3.4925, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 7.9375, 20.2438, 270
@@ -77,7 +78,6 @@ Contents
 - rawPart: Q1, 2N3904, TO-92-EZ, SparkFun-DiscreteSemi, (1.9, 0.4125), R270
 - rawPart: R1, 1K, AXIAL-0.3EZ, SparkFun-Resistors, (2.0125, 0.9125), R0
 - rawPart: R2, 1K, AXIAL-0.3EZ, SparkFun-Resistors, (2.0625, 0.4125), R90
-- oompID: PROJ-SPAR-13815-STAN-01
 
 
 

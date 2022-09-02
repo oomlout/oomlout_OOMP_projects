@@ -97,6 +97,7 @@ Contents
 - oompIndex: SM
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd
+- oompID: PROJ-ARDU-UNO-REV3-SM
 - oompPart: CAPE-0603-X-NF100-01, C1, 18.415, 15.367, 270
 - oompPart: CAPE-0603-X-NF100-01, C2, 12.065, 29.845, 180
 - oompPart: CAPC-0603-X-UF1-01, C3, 25.527, 15.367, 90
@@ -239,7 +240,6 @@ Contents
 - rawPart: Y2, CSTCE16M0V53-R0, 16MHZ, RESONATOR, SmartPrj, (41.275, 24.892), R0
 - rawPart: Z1, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 39.37), R180
 - rawPart: Z2, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 33.655), R180
-- oompID: PROJ-ARDU-UNO-REV3-SM
 
 
 

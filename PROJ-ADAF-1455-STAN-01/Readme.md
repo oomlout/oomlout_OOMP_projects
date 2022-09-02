@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit TLC59711 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TLC59711-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1455
+- oompID: PROJ-ADAF-1455-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 20.32, 15.493999999999998, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 20.32, 7.365999999999999, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 20.32, 11.43, 180
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.795), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.995, 0.095), R0
-- oompID: PROJ-ADAF-1455-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompName: Motor Driver-Dual TB6612FNG
 - sources: All source files from https://github.com/sparkfun/Motor_Driver-Dual_TB6612FNG (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14450
+- oompID: PROJ-SPAR-14450-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 11.43, 13.97, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 8.889999999999999, 13.97, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 10.16, 16.509999999999998, 180
@@ -74,7 +75,6 @@ Contents
 - rawPart: JP1, 1X08_OFFSET_REDUCED, Testing, (0.1, 0.05), R90
 - rawPart: JP2, 1X08_OFFSET_REDUCED, Testing, (0.7, 0.75), R270
 - rawPart: U1, TB6612FNG, SSOP24, SparkFun-IC-Special-Function, (0.4, 0.35), R270
-- oompID: PROJ-SPAR-14450-STAN-01
 
 
 

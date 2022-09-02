@@ -73,6 +73,7 @@ Contents
 - oompName: ColorLCDShield
 - sources: All source files from https://github.com/sparkfun/ColorLCDShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9363
+- oompID: PROJ-SPAR-9363-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOG, 41.91, 2.54, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 57.15, 21.59, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 57.15, 17.779999999999998, 0
@@ -135,7 +136,6 @@ Contents
 - rawPart: SJ3, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (2.05, 1.7), R0
 - rawPart: U$1, NOKIA6100_LCD, NOKIA6100_LCD, SparkFun, (1.7, 1.85), R180
 - rawPart: U1, MC34063SMD, SO08, SparkFun, (2, 0.85), R90
-- oompID: PROJ-SPAR-9363-STAN-01
 
 
 

@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit L3GD20 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1032
+- oompID: PROJ-ADAF-1032-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 10.413999999999998, 10.795, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 21.081999999999997, 9.779, 90
 - oompPart: CAPC-0805-X-NF100-V50, C4, 12.191999999999998, 13.716, 270
@@ -108,7 +109,6 @@ Contents
 - rawPart: U$14, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.1, 0.145), R0
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.57, 0.6), R0
 - rawPart: U$16, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.025, 0.265), R0
-- oompID: PROJ-ADAF-1032-STAN-01
 
 
 

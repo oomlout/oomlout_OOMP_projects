@@ -133,6 +133,7 @@ Contents
 - oompName: Lumini 8x8
 - sources: All source files from https://github.com/sparkfun/Lumini_8x8 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15047
+- oompID: PROJ-SPAR-15047-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 20.32, 12.7, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 9.2075, 1.5875, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.382499999999999, 1.5875, 0
@@ -311,7 +312,6 @@ Contents
 - rawPart: J14, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (0.74, 0.96), MR180
 - rawPart: J15, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (1.26, 0.5625), MR270
 - rawPart: J16, LED_PAD, CIRCULARPAD, SparkFun-Connectors, (0.8625, 0.96), MR180
-- oompID: PROJ-SPAR-15047-STAN-01
 
 
 

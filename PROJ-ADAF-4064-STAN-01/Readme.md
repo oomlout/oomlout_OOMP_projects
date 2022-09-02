@@ -114,6 +114,7 @@ Contents
 - oompName: Adafruit Grand Central PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Grand-Central-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4064
+- oompID: PROJ-ADAF-4064-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOGH, 82.55, 2.54, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOGL, 59.69, 2.54, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 29.092478009999997, 23.978565707999998, 270
@@ -260,7 +261,6 @@ Contents
 - rawPart: X3, 20329, 4UCONN_20329_V2, microbuilder, (0.17, 1.5), R270
 - rawPart: X4, 32.768, XTAL3215, adafruit2, (1.595, 0.49), R270
 - rawPart: X5, 2.1mm, DCJACK_2MM_PTH, microbuilder, (-0.13, 0.305), R0
-- oompID: PROJ-ADAF-4064-STAN-01
 
 
 

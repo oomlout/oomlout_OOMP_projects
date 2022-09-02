@@ -70,6 +70,7 @@ Contents
 - oompName: XBee Explorer Regulated
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Regulated (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11373
+- oompID: PROJ-SPAR-11373-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 10.413999999999998, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 11.43, 13.97, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 8.889999999999999, 17.525999999999996, 0
@@ -120,7 +121,6 @@ Contents
 - rawPart: U$16, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 1.05), R0
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun, (0.2, 0.55), R270
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.35, 0.55), R180
-- oompID: PROJ-SPAR-11373-STAN-01
 
 
 

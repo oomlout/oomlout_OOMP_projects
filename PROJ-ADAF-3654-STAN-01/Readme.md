@@ -81,6 +81,7 @@ Contents
 - oompName: Adafruit WINC1500 Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-WINC1500-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3654
+- oompID: PROJ-ADAF-3654-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 25.526999999999997, 5.08, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.112, 49.149, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 18.796, 5.206999999999999, 270
@@ -173,7 +174,6 @@ Contents
 - rawPart: U$1, ATWINC1500_MR210PB, ATWINC1500_MR210PA, microbuilder, (0.56, 0.895), R90
 - rawPart: U2, 74HC4050, SOIC16, microbuilder, (0.91, 1.52), R90
 - rawPart: X1, microSd, MICROSD, microbuilder, (0.67, 1.865), R270
-- oompID: PROJ-ADAF-3654-STAN-01
 
 
 

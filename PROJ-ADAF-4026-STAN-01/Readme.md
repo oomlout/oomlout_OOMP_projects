@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit STEMMA Soil Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Soil-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4026
+- oompID: PROJ-ADAF-4026-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 17.145, 3.6829999999999994, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 10.921999999999999, 4.191, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 13.334999999999999, 1.778, 90
@@ -93,7 +94,6 @@ Contents
 - rawPart: TP4, TPTP15R, TP15R, testpad, (0.625, 0.2), MR0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.55, 0.17), R270
 - rawPart: X1, STEMMA_I2C_RASMT, JSTPH4, microbuilder, (0.14, 0.275), R90
-- oompID: PROJ-ADAF-4026-STAN-01
 
 
 

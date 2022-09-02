@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit 2.8 TFT Shield v2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.8-TFT-Shield-v2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1651
+- oompID: PROJ-ADAF-1651-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 38.354, 41.65599999999999, 180
 - oompPart: CAPC-0805-X-NF100-V50, C2, 38.354, 39.878, 180
 - oompPart: CAPC-0805-X-NF100-V50, C3, 38.608, 22.352, 270
@@ -142,7 +143,6 @@ Contents
 - rawPart: U$19, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.1, 2.02), R0
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.42, 1.4), R270
 - rawPart: U3, 74HC4050, SOIC16, microbuilder, (1.19, 1.11), R270
-- oompID: PROJ-ADAF-1651-STAN-01
 
 
 

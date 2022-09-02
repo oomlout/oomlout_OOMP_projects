@@ -106,6 +106,7 @@ Contents
 - oompName: ESP32 Power Control Shield
 - sources: All source files from https://github.com/sparkfun/ESP32_Power_Control_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14155
+- oompID: PROJ-SPAR-14155-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 7.619999999999999, 50.8, M180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 54.356, 14.731999999999998, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 69.97699999999999, 14.731999999999998, 0
@@ -226,7 +227,6 @@ Contents
 - rawPart: U2, MC33926, 32-PQFN, SparkFun_ESP32_Power_Control_Shield_Temp, (2.97, 0.85), R90
 - rawPart: U3, MC33926, 32-PQFN, SparkFun_ESP32_Power_Control_Shield_Temp, (3.57, 0.85), R90
 - rawPart: U4, R-78E5.0-1.0, DC-DC_CONVERTER_78XX, SparkFun-IC-Power, (1.65, 1.24), MR180
-- oompID: PROJ-SPAR-14155-STAN-01
 
 
 

@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit Bluefruit LE Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2746
+- oompID: PROJ-ADAF-2746-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 18.541999999999998, 5.08, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 18.923, 19.558, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 25.145999999999997, 5.08, 90
@@ -159,7 +160,6 @@ Contents
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.15, 0.57), R270
 - rawPart: SW2, Tactile, EVQ-Q2, microbuilder, (0.24, 0.15), R0
 - rawPart: U1, MBT40, BLE_MODULE_RAYTAC_MDBT40, microbuilder, (0.4, 1.05), R90
-- oompID: PROJ-ADAF-2746-STAN-01
 
 
 

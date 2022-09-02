@@ -69,6 +69,7 @@ Contents
 - oompName: Edison UART Block
 - sources: All source files from https://github.com/sparkfun/Edison_UART_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13040
+- oompID: PROJ-SPAR-13040-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 4.064, 20.32, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 15.620999999999999, 22.224999999999998, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C8, 17.779999999999998, 11.049, 270
@@ -121,7 +122,6 @@ Contents
 - rawPart: U$3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
 - rawPart: U1, SO14, SparkFun-DigitalIC, (0.39, 0.8), R0
 - rawPart: U4, TPS62065, WSON-8-PAD, Testing, (0.46, 0.4), R180
-- oompID: PROJ-SPAR-13040-STAN-01
 
 
 

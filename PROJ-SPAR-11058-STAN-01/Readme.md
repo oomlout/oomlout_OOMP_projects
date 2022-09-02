@@ -69,6 +69,7 @@ Contents
 - oompName: Venus GPS SMA Connector
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_SMA_Connector (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11058
+- oompID: PROJ-SPAR-11058-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 7.619999999999999, 8.889999999999999, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 9.524999999999999, 8.889999999999999, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 9.2075, 13.652499999999998, 270
@@ -121,7 +122,6 @@ Contents
 - rawPart: SJ2, PSE, SJ_3_PASTE2&3, SparkFun, (0.1, 0.475), R270
 - rawPart: SJ3, BAT, SJ_2S, SparkFun, (0.1, 0.19375197), R270
 - rawPart: U1, VENUS638FLPX-L, VENUS638FLPX, mike-temp, (0.7, 0.35), R0
-- oompID: PROJ-SPAR-11058-STAN-01
 
 
 

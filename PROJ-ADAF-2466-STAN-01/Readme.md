@@ -102,6 +102,7 @@ Contents
 - oompName: Adafruit METRO 328 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-METRO-328-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2466
+- oompID: PROJ-ADAF-2466-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 57.15, 2.54, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 16.764, 33.528, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 18.668999999999997, 4.444999999999999, 0
@@ -222,7 +223,6 @@ Contents
 - rawPart: X3, 20329, 4UCONN_20329_V2, microbuilder, (0.17, 1.5), R270
 - rawPart: Y2, CSTCE16M0V53-R0, 16MHZ, RESONATOR, SmartPrj, (2.24, 1.36), R315
 - rawPart: ZU4, ATMEGA328P-AU, TQFP32-08, SmartPrj, (2.12039838, 1.10110901), R225
-- oompID: PROJ-ADAF-2466-STAN-01
 
 
 

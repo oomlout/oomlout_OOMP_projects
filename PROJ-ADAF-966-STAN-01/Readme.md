@@ -50,6 +50,7 @@ Contents
 - oompName: Adafruit Low profile microSD to SD Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/966
+- oompID: PROJ-ADAF-966-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 200.0, 1219.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 843.0, 1068.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 71.0, 678.0, 0
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID1, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (843, 1068), R0
 - rawPart: FID2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, microbuilder, (71, 678), R0
 - rawPart: U$2, SDCARD_PCBCARRIERTDOCU, SDCARD_PCBCARRIER_DOCU, microbuilder, (472.44094, 1120.31496), MR0
-- oompID: PROJ-ADAF-966-STAN-01
 
 
 

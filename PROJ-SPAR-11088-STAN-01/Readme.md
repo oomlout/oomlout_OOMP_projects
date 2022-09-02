@@ -80,6 +80,7 @@ Contents
 - oompName: Run-SPOT-Run
 - sources: All source files from https://github.com/sparkfun/Run-SPOT-Run (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11088
+- oompID: PROJ-SPAR-11088-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 18.541999999999998, 51.815999999999995, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 18.541999999999998, 44.196, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 18.541999999999998, 41.65599999999999, 180
@@ -152,7 +153,6 @@ Contents
 - rawPart: U5, ARDUINO_SHIELD, DUEMILANOVE_VIAS, SparkFun, (1.73, 0.24), R90
 - rawPart: U6, MIC5219-3.0, SOT23-5, SparkFun, (1.98, 1.54), R0
 - rawPart: U7, MIC5219-3.0, SOT23-5, SparkFun, (0.18, 1.19), R180
-- oompID: PROJ-SPAR-11088-STAN-01
 
 
 

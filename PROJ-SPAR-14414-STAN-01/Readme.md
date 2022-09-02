@@ -74,6 +74,7 @@ Contents
 - oompName: SparkFun GPS Breakout XA1110 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14414
+- oompID: PROJ-SPAR-14414-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 26.669999999999998, 3.8099999999999996, 132
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 6.35, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.08, 6.35, 90
@@ -134,7 +135,6 @@ Contents
 - rawPart: R8, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.1), R270
 - rawPart: R11, 470, 0603, SparkFun-Resistors, (1.05, 0.7), R90
 - rawPart: U1, Titan, X1, GPS, TITAN_X1_GPS, SparkFun-GPS, (0.6, 0.5), R0
-- oompID: PROJ-SPAR-14414-STAN-01
 
 
 

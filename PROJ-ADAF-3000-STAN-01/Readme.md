@@ -117,6 +117,7 @@ Contents
 - oompName: Adafruit Circuit Playground PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Circuit-Playground-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3000
+- oompID: PROJ-ADAF-3000-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3VTAP, -22.6695, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3TAP2, 11.302999999999999, 19.685, 330
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BATT, 0.0, -21.59, 180
@@ -271,7 +272,6 @@ Contents
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (-0.145, -0.58), R0
 - rawPart: VCC2, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.445, -0.775), R210
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (-0.255, 0.48), R45
-- oompID: PROJ-ADAF-3000-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit AMG8833 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3538
+- oompID: PROJ-ADAF-3538-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 20.066, 18.796, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.446, 19.049999999999997, 180
 - oompPart: CAPC-0805-X-UF22D-01, C3, 5.334, 19.049999999999997, 180
@@ -119,7 +120,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U1, AMG8833, AMG8833, microbuilder, (0.42, 0.5), R0
 - rawPart: U2, mic5225-3.3, SOT23-5, microbuilder, (0.1, 0.5), R180
-- oompID: PROJ-ADAF-3538-STAN-01
 
 
 

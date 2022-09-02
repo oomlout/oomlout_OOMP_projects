@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Flora Bluefruit LE PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Bluefruit-LE-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2487
+- oompID: PROJ-ADAF-2487-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3V3IN, 11.684, -4.699, 247.5
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -7.112, 4.699, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -4.699, -6.985, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: TX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, -0.455), R202.5
 - rawPart: U1, MBT40, BLE_MODULE_RAYTAC_MDBT40, microbuilder, (0, 0.175), R0
 - rawPart: Y1, 32.768kHz, (535-9166-2-ND), CRYSTAL_CYL_2X6MM_SMT, microbuilder, (-0.28, -0.08), MR270
-- oompID: PROJ-ADAF-2487-STAN-01
 
 
 

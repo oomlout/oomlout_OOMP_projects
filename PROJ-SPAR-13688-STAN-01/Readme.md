@@ -65,6 +65,7 @@ Contents
 - oompName: MyoWare LED Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_LED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13688
+- oompID: PROJ-SPAR-13688-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 43.561, 20.1295, M180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 35.2425, 17.525999999999996, M270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 48.5775, 17.779999999999998, M90
@@ -109,7 +110,6 @@ Contents
 - rawPart: R5, 330, 0603-RES, SparkFun-Resistors, (1.715, 0.565), MR180
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (1.535, 0.6975), MR90
 - rawPart: U2, LM3914V, PLCC20S, Testing, (0.4175, 0.43), MR45
-- oompID: PROJ-SPAR-13688-STAN-01
 
 
 

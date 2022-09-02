@@ -68,6 +68,7 @@ Contents
 - oompName: LilyPad LED 5pcs
 - sources: All source files from https://github.com/sparkfun/LilyPad_LED_5pcs (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14010
+- oompID: PROJ-SPAR-14010-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.59888127, 8.399778221999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 20.97278127, 8.37691873, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 15.33906254, 8.422640507999999, 0
@@ -108,7 +109,6 @@ Contents
 - rawPart: R3, 150, 0603-RES, SparkFun-Resistors, (0.60660002, 0.24249988), R0
 - rawPart: R4, 150, 0603-RES, SparkFun-Resistors, (0.38220005, 0.2425999), R0
 - rawPart: R5, 150, 0603-RES, SparkFun-Resistors, (0.16379995, 0.24339985), R0
-- oompID: PROJ-SPAR-14010-STAN-01
 
 
 

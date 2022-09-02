@@ -78,6 +78,7 @@ Contents
 - oompName: Sound Detector
 - sources: All source files from https://github.com/sparkfun/Sound_Detector (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12642
+- oompID: PROJ-SPAR-12642-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 34.29, 9.524999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 3.8099999999999996, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 12.7, 13.97, 180
@@ -142,7 +143,6 @@ Contents
 - rawPart: R18, 100, 0603-RES, SparkFun-Resistors, (0.65, 0.75), R90
 - rawPart: R19, 100, 0603-RES, SparkFun-Resistors, (0.9, 0.15), R270
 - rawPart: SJ1, Disable, LED, SJ_2S, SparkFun-Passives, (1.2, 0.37), R90
-- oompID: PROJ-SPAR-12642-STAN-01
 
 
 

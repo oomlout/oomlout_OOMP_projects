@@ -62,6 +62,7 @@ Contents
 - oompName: SPI Shortcut
 - sources: All source files from https://github.com/sparkfun/SPI_Shortcut (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9235
+- oompID: PROJ-SPAR-9235-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3.3V, 12.7, 13.97, 180
 - oompPart: CAPC-0402-X-NF100-V50, C1, 19.049999999999997, 2.54, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 12.7, 7.619999999999999, 180
@@ -94,7 +95,6 @@ Contents
 - rawPart: U$5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.05), R0
 - rawPart: U$6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (2, 0.65), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 0.35), R0
-- oompID: PROJ-SPAR-9235-STAN-01
 
 
 

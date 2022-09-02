@@ -187,6 +187,7 @@ Contents
 - oompName: SparkFun Artemis Global Tracker
 - sources: All source files from https://github.com/sparkfun/SparkFun_Artemis_Global_Tracker (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18712
+- oompID: PROJ-SPAR-18712-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, !RESET, 1.27, 20.32, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3EN, 3.8099999999999996, 14.731999999999998, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3SW, 36.83, 40.64, M0
@@ -465,7 +466,6 @@ Contents
 - rawPart: VIN/3, TEST-POINT3X5, PAD.03X.05, SparkFun-Connectors, (1.35, 1.35), MR270
 - rawPart: X1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.895, 1.205), R0
 - rawPart: X2, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (1.805, 1.78), R0
-- oompID: PROJ-SPAR-18712-STAN-01
 
 
 

@@ -76,6 +76,7 @@ Contents
 - oompName: 3.5inch TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/3.5inch-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2050
+- oompID: PROJ-ADAF-2050-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, -20.32, 21.209, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.605999999999998, -30.987999999999996, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 19.558, 7.112, 0
@@ -148,7 +149,6 @@ Contents
 - rawPart: U3, FAN5333BSX, SOT23-5@1, microbuilder, (-0.44, 0.28), R270
 - rawPart: X1, MICROSD, microbuilder, (-0.33, 1.49), R270
 - rawPart: X2, TFT_3.5IN_320X480_50PIN, microbuilder, (0, 0), MR0
-- oompID: PROJ-ADAF-2050-STAN-01
 
 
 

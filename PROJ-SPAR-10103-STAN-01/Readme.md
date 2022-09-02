@@ -53,6 +53,7 @@ Contents
 - oompName: Serial Alphanumeric Display Driver
 - sources: All source files from https://github.com/sparkfun/Serial_Alphanumeric_Display_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10103
+- oompID: PROJ-SPAR-10103-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 15.239999999999998, 45.72, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 6.35, 45.72, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, INPUT, 18.541999999999998, 7.619999999999999, 90
@@ -75,7 +76,6 @@ Contents
 - rawPart: U1, DNP, ALPHANUMERIC, SparkFun, (0.45, 1.25), MR0
 - rawPart: U2, V_REG_LDOSMD, SOT23-5, SparkFun, (0.4, 1.8), R0
 - rawPart: U3, A6282-LP, TSSOP-24, SparkFun, (0.45, 1.5), R90
-- oompID: PROJ-SPAR-10103-STAN-01
 
 
 

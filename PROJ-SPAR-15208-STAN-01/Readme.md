@@ -72,6 +72,7 @@ Contents
 - oompName: Buck-Boost
 - sources: All source files from https://github.com/sparkfun/Buck-Boost (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15208
+- oompID: PROJ-SPAR-15208-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.287, 18.034, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 10.287, 14.858999999999998, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.509, 14.858999999999998, 270
@@ -128,7 +129,6 @@ Contents
 - rawPart: R7, 10k, 0603, SparkFun-Resistors, (0.515, 0.4), R270
 - rawPart: S1, SWITCH_SP3T_SMD, SparkFun-Switches, (0.625, 0.07), R180
 - rawPart: U1, TPS63070, VQFN-15-HR(3X2.5), SparkFun-IC-Power, (0.625, 0.625), R90
-- oompID: PROJ-SPAR-15208-STAN-01
 
 
 

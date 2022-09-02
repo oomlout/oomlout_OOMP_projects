@@ -63,6 +63,7 @@ Contents
 - oompName: GNSS Chip Antenna Evaluation Board
 - sources: All source files from https://github.com/sparkfun/GNSS_Chip_Antenna_Evaluation_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15247
+- oompID: PROJ-SPAR-15247-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 34.29, 32.004, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 14.477999999999998, 2.667, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 27.94, 9.779, 0
@@ -93,7 +94,6 @@ Contents
 - rawPart: Y5, MOLDED, MLOEX_GNSS_MOLDED, SparkFun-GPS, (0.16, 1.3), R270
 - rawPart: Y6, W3062A, W3062A, SparkFun-GPS, (2.3, 1.195), R270
 - rawPart: Y7, W3011, W3011, SparkFun-GPS, (1.6, 1.35), R180
-- oompID: PROJ-SPAR-15247-STAN-01
 
 
 

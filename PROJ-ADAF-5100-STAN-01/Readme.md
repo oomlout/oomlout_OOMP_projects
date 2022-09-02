@@ -130,6 +130,7 @@ Contents
 - oompName: Adafruit MacroPad RP2040 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5100
+- oompID: PROJ-ADAF-5100-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 37.719, 88.51899999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 35.178999999999995, 91.18599999999999, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 33.019999999999996, 78.1685, 90
@@ -312,7 +313,6 @@ Contents
 - rawPart: X1, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (1.175, 3.995), R180
 - rawPart: X2, ZJY130-2864KSWLG22, ZJY130-2864KSWLG22, adafruit_display, (1.64, 3.6775), MR0
 - rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (1.085, 3.045), R180
-- oompID: PROJ-ADAF-5100-STAN-01
 
 
 

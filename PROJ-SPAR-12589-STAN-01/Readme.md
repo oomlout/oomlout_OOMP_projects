@@ -63,6 +63,7 @@ Contents
 - oompName: RedBot Accelerometer
 - sources: All source files from https://github.com/sparkfun/RedBot_Accelerometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12589
+- oompID: PROJ-SPAR-12589-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.065, 9.652, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 12.065, 8.001, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 10.921999999999999, 15.901999945999998, 180
@@ -97,7 +98,6 @@ Contents
 - rawPart: R10, 10k, 0603, SparkFun-Resistors, (0.13, 0.6), R90
 - rawPart: U1, MMA8452Q, QFN-16, SparkFun-Sensors, (0.45, 0.5), R270
 - rawPart: U2, MIC5205-3.3V, SOT23-5, SparkFun-PowerIC, (0.475, 0.2), R0
-- oompID: PROJ-SPAR-12589-STAN-01
 
 
 

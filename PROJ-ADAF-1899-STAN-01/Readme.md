@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit HTU21D Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1899
+- oompID: PROJ-ADAF-1899-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 7.746999999999999, 12.7, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.413, 5.334, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.8099999999999996, 12.191999999999998, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.55, 0.6), R0
 - rawPart: U1, HTU21DF, HTU21DF, microbuilder, (0.295, 0.39), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.095, 0.33), R0
-- oompID: PROJ-ADAF-1899-STAN-01
 
 
 

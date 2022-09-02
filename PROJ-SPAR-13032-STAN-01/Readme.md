@@ -71,6 +71,7 @@ Contents
 - oompName: Breadboard Power Supply Stick 5V-3.3V
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13032
+- oompID: PROJ-SPAR-13032-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 28.194000000000003, 7.619999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 41.91, 13.97, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 41.91, 11.43, 180
@@ -121,7 +122,6 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.35, 0.05), R0
 - rawPart: U$4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (2.09, 0.57), R0
 - rawPart: U1, V_REG_317SMD, SOT223, SparkFun, (1.35, 0.3), R180
-- oompID: PROJ-SPAR-13032-STAN-01
 
 
 

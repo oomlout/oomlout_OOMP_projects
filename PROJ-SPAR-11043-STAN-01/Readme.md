@@ -78,6 +78,7 @@ Contents
 - oompName: fabFM-Kit
 - sources: All source files from https://github.com/sparkfun/fabFM-Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11043
+- oompID: PROJ-SPAR-11043-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 68.58, 17.779999999999998, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 24.13, 20.32, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 24.13, 12.7, 180
@@ -140,7 +141,6 @@ Contents
 - rawPart: U2, Encoder, ENCODER-16MM-QUAD, SparkFun-Electromechanical, (0.47244094, 2.57086614), R90
 - rawPart: U3, POT_PTH_SWITCH, SparkFun-Electromechanical, (2.49606299, 2.5984252), R90
 - rawPart: U5, V_REG_317SINK, TO220-ADJ, SparkFun, (1.5, 0.76062992), R0
-- oompID: PROJ-SPAR-11043-STAN-01
 
 
 

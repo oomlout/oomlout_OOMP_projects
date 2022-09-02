@@ -84,6 +84,7 @@ Contents
 - oompName: Audio Amplifier Kit-STA540
 - sources: All source files from https://github.com/sparkfun/Audio_Amplifier_Kit-STA540 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9612
+- oompID: PROJ-SPAR-9612-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 40.64, 20.32, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 36.83, 38.099999999999994, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 52.06999999999999, 15.239999999999998, 270
@@ -166,7 +167,6 @@ Contents
 - rawPart: U2, STA540, MULTIWATT15_6400BGHEATSINK_2, SparkFun, (2.25, 0.85), R270
 - rawPart: VR1, 10K, ALPS_POT, SparkFun, (1.35, 0.45), R270
 - rawPart: VR2, 10K, ALPS_POT, SparkFun, (0.75, 0.45), R270
-- oompID: PROJ-SPAR-9612-STAN-01
 
 
 

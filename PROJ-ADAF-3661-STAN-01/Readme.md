@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit AP3602A PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AP3602A-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3661
+- oompID: PROJ-ADAF-3661-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.636000000000001, 6.604, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 1.9049999999999998, 6.604, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.8099999999999996, 9.524999999999999, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: JP1, 1X04_ROUND, microbuilder, (0.2, 0.1), R180
 - rawPart: R1, 100K, 0805-NO, microbuilder, (0.305, 0.375), R180
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.5), R0
-- oompID: PROJ-ADAF-3661-STAN-01
 
 
 

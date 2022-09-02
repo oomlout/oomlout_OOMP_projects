@@ -53,6 +53,7 @@ Contents
 - oompName: LilyPad Temperature Sensor
 - sources: All source files from https://github.com/sparkfun/LilyPad_Temperature_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8777
+- oompID: PROJ-SPAR-8777-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, -2.54, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TEMP+, -6.600000008, -3.8000000199999997, 300
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, TEMP-, 0.0, 7.600000039999999, 180
@@ -63,7 +64,6 @@ Contents
 - rawPart: TEMP-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.2992126), R180
 - rawPart: TEMPS, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25984252, -0.1496063), R60
 - rawPart: U1, MCP9700, SOT23-3, SparkFun, (0, 0), R0
-- oompID: PROJ-SPAR-8777-STAN-01
 
 
 

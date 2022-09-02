@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Mini TFT with Joystick Featherwing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3321
+- oompID: PROJ-ADAF-3321-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 20.066, 16.891, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 37.973, 6.858, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 9.779, 19.558, 0
@@ -105,7 +106,6 @@ Contents
 - rawPart: TP1, TESTPOINT_ROUND_2MM, microbuilder, (0.3, 0.5), MR0
 - rawPart: TP2, TESTPOINT_ROUND_2MM, microbuilder, (0.3, 0.6), MR0
 - rawPart: U$2, DISP_LCD_0.9IN_160X80, TFT_0.96IN_160X80, microbuilder, (1.6, 0.45), R90
-- oompID: PROJ-ADAF-3321-STAN-01
 
 
 

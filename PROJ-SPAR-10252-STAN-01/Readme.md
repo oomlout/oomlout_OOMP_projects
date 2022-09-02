@@ -66,6 +66,7 @@ Contents
 - oompName: IMU Fusion Board
 - sources: All source files from https://github.com/sparkfun/IMU_Fusion_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10252
+- oompID: PROJ-SPAR-10252-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 12.7, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 15.239999999999998, 10.16, 0
 - oompPart: CAPC-0603-X-NF22D-V50, C3, 5.08, 15.239999999999998, 180
@@ -102,7 +103,6 @@ Contents
 - rawPart: U1, IMU3000, QFN-24, SparkFun, (0.4, 0.45), R90
 - rawPart: U2, ADXL345, LGA14, SparkFun, (0.4, 0.7), R270
 - rawPart: U3, 3.3V, SOT23-5, SparkFun, (0.4, 0.15), R270
-- oompID: PROJ-SPAR-10252-STAN-01
 
 
 

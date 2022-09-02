@@ -220,6 +220,7 @@ Contents
 - oompName: SparkFun Stepoko
 - sources: All source files from https://github.com/sparkfun/SparkFun_Stepoko (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13155
+- oompID: PROJ-SPAR-13155-STAN-01
 - oompPart: CAPC-0603-X-NF220-V50, C1, 49.50000006, 33.000000039999996, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 140.889999906, 62.799999875999994, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 109.47399999999999, 32.766, 90
@@ -568,7 +569,6 @@ Contents
 - rawPart: Y-B, 3.5mm, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (1.33858268, 0.45275591), R0
 - rawPart: Z-A, 3.5mm, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (2.16535433, 0.45275591), R0
 - rawPart: Z-B, 3.5mm, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (1.88976378, 0.45275591), R0
-- oompID: PROJ-SPAR-13155-STAN-01
 
 
 

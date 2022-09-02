@@ -75,6 +75,7 @@ Contents
 - oompName: Adafruit 2 13in eInk Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2-13in-eInk-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4687
+- oompID: PROJ-ADAF-4687-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 46.5455, 2.8575, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 6.318300037999999, 12.763499999999999, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 9.848900038, 14.5923, 180
@@ -137,7 +138,6 @@ Contents
 - rawPart: RPI2, RASPBERRYPI_BPLUS_SMT_NODIM, PI_BONNET_SMT_NODIM, adafruit_sbc, (2.10575197, -0.0925), MR0
 - rawPart: SW3, TACTILE_3X6MM, microbuilder, (2.00812992, 0.77364173), MR270
 - rawPart: SW4, TACTILE_3X6MM, microbuilder, (2.00812992, 0.22246063), MR90
-- oompID: PROJ-ADAF-4687-STAN-01
 
 
 

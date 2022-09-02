@@ -57,6 +57,7 @@ Contents
 - oompName: MPU-9250 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-9250_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13762
+- oompID: PROJ-SPAR-13762-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 4.7498, 4.826, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.492999999999999, 8.737599999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.0584, 14.477999999999998, 0
@@ -83,7 +84,6 @@ Contents
 - rawPart: SJ1, JUMPER-PAD-2-NC_BY_PASTEFULL-BOX-SILK, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.058, 0.373), R90
 - rawPart: SJ2, JUMPER_PAD-3-1&2_NC_BY_PASTE, PAD-HUMPER-3-1&2_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.079, 0.2), R180
 - rawPart: U1, MPU-9250, QFN24_PAD, Testing, (0.179, 0.35), R0
-- oompID: PROJ-SPAR-13762-STAN-01
 
 
 

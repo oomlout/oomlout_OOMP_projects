@@ -69,6 +69,7 @@ Contents
 - oompName: LSM303 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM303_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10888
+- oompID: PROJ-SPAR-10888-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 15.239999999999998, 7.619999999999999, 270
 - oompPart: CAPC-0402-X-NF100-V50, C2, 16.509999999999998, 3.8099999999999996, 0
 - oompPart: CAPC-0402-X-NF220-01, C3, 15.239999999999998, 13.97, 0
@@ -113,7 +114,6 @@ Contents
 - rawPart: U1, LSM303DLHSMD, LGA28-5X5, SparkFun, (0.4, 0.35), R90
 - rawPart: U2, 1.8V, SC70, SparkFun, (0.2, 0.1), R270
 - rawPart: U3, 3.3V, SOT23-5, SparkFun, (0.5, 0.1), R270
-- oompID: PROJ-SPAR-10888-STAN-01
 
 
 

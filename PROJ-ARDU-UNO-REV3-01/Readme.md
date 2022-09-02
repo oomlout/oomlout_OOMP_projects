@@ -96,6 +96,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-uno-rev3
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-uno-rev3
+- oompID: PROJ-ARDU-UNO-REV3-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 2250.0, 100.0, 0
 - oompPart: CAPE-0603-X-NF100-01, C1, 725.0, 605.0, 270
 - oompPart: CAPE-0603-X-NF100-01, C2, 475.0, 1175.0, 180
@@ -326,7 +327,6 @@ Contents
 - rawPart: Z1, CG0603MLC-05E, CT/CN0603, varistor, (500, 1550), R180
 - rawPart: Z2, CG0603MLC-05E, CT/CN0603, varistor, (500, 1325), R180
 - rawPart: ZU4, ATMEGA328P-PU, DIL28-3, SmartPrj, (1825, 645), R180
-- oompID: PROJ-ARDU-UNO-REV3-01
 
 
 

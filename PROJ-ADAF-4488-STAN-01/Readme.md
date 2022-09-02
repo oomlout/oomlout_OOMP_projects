@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit LIS2MDL PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LIS2MDL-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4488
+- oompID: PROJ-ADAF-4488-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.540999999999999, 7.746999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.670799999999999, 5.6895999999999995, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.001, 12.191999999999998, 0
@@ -107,7 +108,6 @@ Contents
 - rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.317, 0.345), R0
-- oompID: PROJ-ADAF-4488-STAN-01
 
 
 

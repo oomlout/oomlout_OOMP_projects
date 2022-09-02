@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit AP3429A PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AP3429A-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4711
+- oompID: PROJ-ADAF-4711-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 1.9049999999999998, 9.652, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 8.254999999999999, 7.112, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.032, 4.699, 180
@@ -79,7 +80,6 @@ Contents
 - rawPart: R2, 450K, 0603-NO, microbuilder, (0.205, 0.365), R180
 - rawPart: R3, 100K, 0603-NO, microbuilder, (0.325, 0.375), R180
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.5), R0
-- oompID: PROJ-ADAF-4711-STAN-01
 
 
 

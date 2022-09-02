@@ -57,6 +57,7 @@ Contents
 - oompName: ITG-3200 Breakout
 - sources: All source files from https://github.com/sparkfun/ITG-3200_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11977
+- oompID: PROJ-SPAR-11977-STAN-01
 - oompPart: CAPC-0603-X-NF22D-V50, C1, 15.239999999999998, 6.35, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 2.54, 6.35, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 2.54, 8.889999999999999, 180
@@ -83,7 +84,6 @@ Contents
 - rawPart: R3, 10K, 0603-RES, SparkFun-Resistors, (0.1, 0.6), R180
 - rawPart: SJ1, SJ_3_PASTE1&2, SparkFun, (0.3, 0.55), R270
 - rawPart: U1, ITG-32001:1, QFN-24_ITG3200_1:1, SparkFun-DigitalIC, (0.35, 0.35), R270
-- oompID: PROJ-SPAR-11977-STAN-01
 
 
 

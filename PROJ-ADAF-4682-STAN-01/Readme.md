@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit MicroSD SPI or SDIO card breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4682
+- oompID: PROJ-ADAF-4682-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.302, 8.128, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 4.3180000000000005, 16.256, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 17.145, 0
@@ -74,7 +75,6 @@ Contents
 - rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.8), R0
 - rawPart: X1, microSD, MICROSD, microbuilder, (0.775, 0.265), R180
-- oompID: PROJ-ADAF-4682-STAN-01
 
 
 

@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit AW9523 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AW9523-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4886
+- oompID: PROJ-ADAF-4886-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.968999999999999, 5.08, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.112, 7.365999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 35.433, 8.889999999999999, 90
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.4, 0.6), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.4, 0.1), R0
-- oompID: PROJ-ADAF-4886-STAN-01
 
 
 

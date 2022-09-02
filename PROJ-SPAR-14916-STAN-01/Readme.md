@@ -102,6 +102,7 @@ Contents
 - oompName: SAMD21 Pro RF
 - sources: All source files from https://github.com/sparkfun/SAMD21_Pro_RF (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14916
+- oompID: PROJ-SPAR-14916-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 16.383, 22.098, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 34.544000000000004, 21.717, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 29.209999999999997, 21.717, 270
@@ -222,7 +223,6 @@ Contents
 - rawPart: U4, ATSAMD21G, QFN-48_NO_EXPOSED_PAD, SparkFun-IC-Microcontroller, (1.16, 0.605), R270
 - rawPart: U6, 3.3V, SOT23-5, SparkFun-IC-Power, (0.47, 0.67), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (1.255, 0.84), R0
-- oompID: PROJ-SPAR-14916-STAN-01
 
 
 

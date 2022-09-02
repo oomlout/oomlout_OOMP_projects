@@ -57,6 +57,7 @@ Contents
 - oompName: APDS-9960 RGB and Gesture Sensor
 - sources: All source files from https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12787
+- oompID: PROJ-SPAR-12787-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 7.619999999999999, 6.35, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 6.35, 10.795, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 3.8099999999999996, 13.334999999999999, 0
@@ -83,7 +84,6 @@ Contents
 - rawPart: SJ1, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.55, 0.425), R270
 - rawPart: SJ2, SOLDERJUMPERNC, SJ_2S, SparkFun-Retired, (0.05, 0.425), R90
 - rawPart: U1, APDS-9960, APDS-9960, SparkFun-Sensors, (0.3, 0.6), R0
-- oompID: PROJ-SPAR-12787-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit LC709203F PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LC709203F-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4712
+- oompID: PROJ-ADAF-4712-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.382, 9.906, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.796499999999998, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.6034999999999995, 8.889999999999999, 270
@@ -91,7 +92,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: X1, JST, 2, PH, JSTPH2_BATT, microbuilder, (0.67, 0.66), R0
 - rawPart: X2, JST, 2, PH, JSTPH2_BATT, microbuilder, (0.33, 0.66), R0
-- oompID: PROJ-ADAF-4712-STAN-01
 
 
 

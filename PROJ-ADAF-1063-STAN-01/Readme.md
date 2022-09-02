@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit MAX4466 Electret Mic Amplifier PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1063
+- oompID: PROJ-ADAF-1063-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 7.112, 11.43, 180
 - oompPart: CAPC-0805-X-NF10-01, C2, 2.54, 13.97, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.572999999999999, 5.715, 90
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.465, 0.76), R0
 - rawPart: U1, MAX4466EXK+T, SC70-5, microbuilder, (0.3, 0.35), R270
 - rawPart: VR1, TC33X-2-104E, (100K), TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.365, 0.215), R270
-- oompID: PROJ-ADAF-1063-STAN-01
 
 
 

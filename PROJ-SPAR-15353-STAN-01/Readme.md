@@ -64,6 +64,7 @@ Contents
 - oompName: SparkFun TPL5110 Nano Power Timer
 - sources: All source files from https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15353
+- oompID: PROJ-SPAR-15353-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 6.8072, 23.0124, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 4.3942, 24.688799999999997, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 4.3942, 24.688799999999997, 0
@@ -104,7 +105,6 @@ Contents
 - rawPart: S1, MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.829, 0.318), R0
 - rawPart: SW1, DIP-06, DIPSWITCH-06-SMD, SparkFun-Switches, (0.29, 0.5), R270
 - rawPart: U1, TPL5110, SOT23-6, SparkFun-IC-Power, (0.595, 0.278), R0
-- oompID: PROJ-SPAR-15353-STAN-01
 
 
 

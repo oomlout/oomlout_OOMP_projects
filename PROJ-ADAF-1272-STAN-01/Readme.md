@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit GPS Logger Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-GPS-Logger-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1272
+- oompID: PROJ-ADAF-1272-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 10.668, 6.731, 180
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 24.511, 17.041999951999998, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 23.344000047999998, 10.287, 0
@@ -127,7 +128,6 @@ Contents
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.92094488, 0.265), R0
 - rawPart: U3, ARDUINOR3-DIMENSION, ARDUINOR3, adafruit, (0, 0), R0
 - rawPart: U4, 4050, SOIC16, microbuilder, (0.845, 1.535), R270
-- oompID: PROJ-ADAF-1272-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: LilyPad SimpleSnap Protoboard
 - sources: All source files from https://github.com/sparkfun/LilyPad_SimpleSnap_Protoboard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10940
+- oompID: PROJ-SPAR-10940-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP1, -13.97, -19.049999999999997, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 19.049999999999997, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 18.830299906, 8.599499946, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: JP11, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (0.80670472, -0.11598819), R0
 - rawPart: JP12, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.80670472, -0.11598819), R0
 - rawPart: JP13, M01SNAP-MALE_LARGE, SNAP-MALE_LARGE, SparkFun, (-0.74135039, 0.33856299), R0
-- oompID: PROJ-SPAR-10940-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: Papilio VGA Wing
 - sources: All source files from https://github.com/sparkfun/Papilio_VGA_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11569
+- oompID: PROJ-SPAR-11569-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 19.049999999999997, 3.8099999999999996, 180
 - oompPart: HEAD-I01-X-PI08-01, JP2, 19.049999999999997, 1.27, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 29.209999999999997, 90
@@ -85,7 +86,6 @@ Contents
 - rawPart: R6, 270, 0402-RES, SparkFun-Passives, (0.15, 0.4), R270
 - rawPart: R7, 270, 0402-RES, SparkFun-Passives, (0.35, 0.4), R270
 - rawPart: R8, 270, 0402-RES, SparkFun-Passives, (0.5, 0.4), R270
-- oompID: PROJ-SPAR-11569-STAN-01
 
 
 

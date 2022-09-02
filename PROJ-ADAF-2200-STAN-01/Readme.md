@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit LM4040 Voltage Reference PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LM4040-Voltage-Reference-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2200
+- oompID: PROJ-ADAF-2200-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.8099999999999996, 9.143999999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 9.143999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 15.239999999999998, 0
@@ -73,7 +74,6 @@ Contents
 - rawPart: R2, 750, 0805-NO, microbuilder, (0.35, 0.47), R180
 - rawPart: R3, 10K, 0805-NO, microbuilder, (0.15, 0.25), R180
 - rawPart: R4, 10K, 0805-NO, microbuilder, (0.35, 0.25), R180
-- oompID: PROJ-ADAF-2200-STAN-01
 
 
 

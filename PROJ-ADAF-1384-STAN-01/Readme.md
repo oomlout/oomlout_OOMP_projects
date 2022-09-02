@@ -52,6 +52,7 @@ Contents
 - oompName: Adafruit GA1A1S202WP Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1384
+- oompID: PROJ-ADAF-1384-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 2.032, 4.953, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.032, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 8.128, 11.43, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: R1, 68K, _0805MP, microbuilder, (0.315, 0.195), R270
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.4), R0
 - rawPart: U1, GA1A1S202WP, GA1A1S202WP, microbuilder, (0.2, 0.19531496), R270
-- oompID: PROJ-ADAF-1384-STAN-01
 
 
 

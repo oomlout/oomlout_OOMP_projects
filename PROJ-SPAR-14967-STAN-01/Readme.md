@@ -73,6 +73,7 @@ Contents
 - oompName: LuMini 1 Inch
 - sources: All source files from https://github.com/sparkfun/LuMini_1_Inch (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14967
+- oompID: PROJ-SPAR-14967-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C1, 22.733, 14.604999999999999, M130
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 21.59, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 26.085799999999995, 25.3238, 108
@@ -137,7 +138,6 @@ Contents
 - rawPart: J1, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.041, 1.002), MR252
 - rawPart: J2, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.06, 0.8505), MR270
 - rawPart: J4, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.0375, 0.694), MR108
-- oompID: PROJ-SPAR-14967-STAN-01
 
 
 

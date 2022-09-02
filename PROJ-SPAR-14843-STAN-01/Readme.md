@@ -59,6 +59,7 @@ Contents
 - oompName: Qwiic IR Array MLX90640
 - sources: All source files from https://github.com/sparkfun/Qwiic_IR_Array_MLX90640 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14843
+- oompID: PROJ-SPAR-14843-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.6514999999999995, 18.6055, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.6514999999999995, 17.145, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 6.9215, 0
@@ -89,7 +90,6 @@ Contents
 - rawPart: R2, 2.2k, 0603, SparkFun-Resistors, (0.8, 0.3), R90
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.1, 0.325), R0
 - rawPart: U1, 110DEG, MLX90540_MLX90640, SparkFun-IC-Special-Function, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-14843-STAN-01
 
 
 

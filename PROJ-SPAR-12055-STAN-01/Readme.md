@@ -55,6 +55,7 @@ Contents
 - oompName: TSL2561 Luminosity Sensor BOB
 - sources: All source files from https://github.com/sparkfun/TSL2561_Luminosity_Sensor_BOB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12055
+- oompID: PROJ-SPAR-12055-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 13.97, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 14.2875, 18.0975, 0
@@ -77,7 +78,6 @@ Contents
 - rawPart: SJ1, JUMPER-PAD-3-NC_BY_PASTE, PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.5, 0.4375), R270
 - rawPart: SJ2, SJ_3, mike-temp, (0.1, 0.4375), R270
 - rawPart: U1, TSL2561FN, FN-6, SparkFun-DigitalIC, (0.3, 0.4375), R0
-- oompID: PROJ-SPAR-12055-STAN-01
 
 
 

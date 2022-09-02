@@ -87,6 +87,7 @@ Contents
 - oompName: MicroMod ESP32 Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_ESP32_Processor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16781
+- oompID: PROJ-SPAR-16781-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 1.016, 16.5354, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 4.699, 11.423199912, 0
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 4.699, 10.398400082, 180
@@ -173,7 +174,6 @@ Contents
 - rawPart: U4, CP210X, QFN24, SparkFun-IC-Comms, (0.74976378, 0.62756693), MR180
 - rawPart: Y1, 40MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.42354331, 0.6946063), R180
 - rawPart: Y2, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.15161417, 0.28870079), R0
-- oompID: PROJ-SPAR-16781-STAN-01
 
 
 

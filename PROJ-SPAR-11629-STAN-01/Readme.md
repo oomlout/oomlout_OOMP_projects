@@ -68,6 +68,7 @@ Contents
 - oompName: Serial7SegmentDisplay
 - sources: All source files from https://github.com/sparkfun/Serial7SegmentDisplay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11629
+- oompID: PROJ-SPAR-11629-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ATMEGA328P-AU, 7.619999999999999, 11.43, 135
 - oompPart: CAPC-0402-X-NF100-V50, C1, 15.239999999999998, 11.43, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 33.019999999999996, 15.239999999999998, 0
@@ -112,7 +113,6 @@ Contents
 - rawPart: R8, 1k, 0402-RES, SparkFun, (0.6, 0.575), R180
 - rawPart: R9, 1k, 0402-RES, SparkFun, (1, 0.575), R180
 - rawPart: R10, 1k, 0402-RES, SparkFun, (0.6, 0.325), R180
-- oompID: PROJ-SPAR-11629-STAN-01
 
 
 

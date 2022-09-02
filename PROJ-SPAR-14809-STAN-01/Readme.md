@@ -57,6 +57,7 @@ Contents
 - oompName: I2S Audio Breakout
 - sources: All source files from https://github.com/sparkfun/I2S_Audio_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14809
+- oompID: PROJ-SPAR-14809-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.2014, 5.08, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 9.6266, 5.0292, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 19.4818, 0.8128, 0
@@ -83,7 +84,6 @@ Contents
 - rawPart: JP2, SMT-JUMPER_2_NC_TRACE_NO-SILK, SparkFun-Jumpers, (0.38484252, 0.1025), MR0
 - rawPart: R1, 300k, 0603, SparkFun-Resistors, (0.3135, 0.199), R90
 - rawPart: R2, 1M, 0603, SparkFun-Resistors, (0.2555, 0.199), R90
-- oompID: PROJ-SPAR-14809-STAN-01
 
 
 

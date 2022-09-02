@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit Menta PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Menta-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/795
+- oompID: PROJ-ADAF-795-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 21.462999999999997, 43.053, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 35.178999999999995, 4.444999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C3, 21.717, 37.465, 0
@@ -124,7 +125,6 @@ Contents
 - rawPart: S1, RESET, B3F-10XX, switch-omron, (0.34, 0.935), R270
 - rawPart: U$2, ARDUINO-NOHOLE, ARDUINO-NOHOLE, adafruit, (0.46, 0.07), R0
 - rawPart: X1, 16.00MHz, CERM_OSC, digg, (0.885, 0.83), R90
-- oompID: PROJ-ADAF-795-STAN-01
 
 
 

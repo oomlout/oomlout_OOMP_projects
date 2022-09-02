@@ -64,6 +64,7 @@ Contents
 - oompName: LiPower Boost Converter
 - sources: All source files from https://github.com/sparkfun/LiPower_Boost_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10255
+- oompID: PROJ-SPAR-10255-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 12.6238, 6.172199999999999, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 15.9766, 10.769599999999999, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 6.604, 6.172199999999999, 90
@@ -98,7 +99,6 @@ Contents
 - rawPart: R7, 2M, 0603-RES, SparkFun, (0.145, 0.432), R180
 - rawPart: SJ1, SJ_3_PASTE2&3, SparkFun, (0.249, 0.43), R90
 - rawPart: U1, TPS61200, QFN-10_PAD, SparkFun, (0.37, 0.298), R0
-- oompID: PROJ-SPAR-10255-STAN-01
 
 
 

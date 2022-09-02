@@ -50,11 +50,11 @@ Contents
 - oompName: USB microB Plug Breakout
 - sources: All source files from https://github.com/sparkfun/USB_microB_Plug_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10031
+- oompID: PROJ-SPAR-10031-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP1, 16.509999999999998, 12.7, 180
 - oompPart: ERROR, JP2 USB Micro, 0, 0, 0
 - rawPart: JP1, 1X05, SparkFun, (0.65, 0.5), R180
 - rawPart: JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180
-- oompID: PROJ-SPAR-10031-STAN-01
 
 
 

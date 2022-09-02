@@ -64,6 +64,7 @@ Contents
 - oompName: SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15334
+- oompID: PROJ-SPAR-15334-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.652, 12.065, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.9616, 7.0358, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 24.637999999999998, 0.7619999999999999, 0
@@ -104,7 +105,6 @@ Contents
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.904, 0.334), R0
 - rawPart: U1, ADS1015, MSOP10, SparkFun-IC-Conversion, (0.38, 0.375), R270
 - rawPart: VR1, 10k, TRIMPOT-SMD-3MM-CLOSED, SparkFun-Resistors, (0.615, 0.41), R0
-- oompID: PROJ-SPAR-15334-STAN-01
 
 
 

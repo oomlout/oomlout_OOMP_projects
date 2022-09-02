@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit LSM303AGR PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM303AGR-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4413
+- oompID: PROJ-ADAF-4413-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 14.731999999999998, 11.176, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.223, 4.699, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 6.223, 12.7, 90
@@ -102,7 +103,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.325, 0.305), R0
-- oompID: PROJ-ADAF-4413-STAN-01
 
 
 

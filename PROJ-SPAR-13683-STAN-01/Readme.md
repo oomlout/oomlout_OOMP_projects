@@ -52,6 +52,7 @@ Contents
 - oompName: SHT15 Breakout
 - sources: All source files from https://github.com/sparkfun/SHT15_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13683
+- oompID: PROJ-SPAR-13683-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 11.43, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 15.875, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 1.27, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: R1, 10K, 0603-RES, SparkFun-Resistors, (0.175, 0.35), R180
 - rawPart: SJ1, JUMPER, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.29, 0.335), R270
 - rawPart: U1, SHT1XSMD, SHT1X, SparkFun-Sensors, (0.575, 0.35), R0
-- oompID: PROJ-SPAR-13683-STAN-01
 
 
 

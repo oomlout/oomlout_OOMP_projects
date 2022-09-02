@@ -53,6 +53,7 @@ Contents
 - oompName: Bluetooth Module Breakout
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Module_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12579
+- oompID: PROJ-SPAR-12579-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 23.495, 14.477999999999998, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 23.495, 10.287, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 22.86, 17.272000000000002, 0
@@ -67,7 +68,6 @@ Contents
 - rawPart: JP1, 1X10, SparkFun, (0.95, 0.05), R180
 - rawPart: JP2, 1X10, SparkFun, (0.05, 0.85), R0
 - rawPart: U1, BLUETOOTH-RN41, RN41, SparkFun-RF, (0.45, 0.45), R0
-- oompID: PROJ-SPAR-12579-STAN-01
 
 
 

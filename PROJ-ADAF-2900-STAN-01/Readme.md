@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit OLED FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-OLED-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2900
+- oompID: PROJ-ADAF-2900-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.049, 7.112, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 9.143999999999998, 7.112, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 9.143999999999998, 11.176, 90
@@ -111,7 +112,6 @@ Contents
 - rawPart: SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.17, 0.625), R180
 - rawPart: SW3, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.17, 0.275), R0
 - rawPart: SW4, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.17, 0.45), R0
-- oompID: PROJ-ADAF-2900-STAN-01
 
 
 

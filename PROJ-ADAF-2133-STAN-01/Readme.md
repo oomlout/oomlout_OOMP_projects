@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit Audio FX Sound Board PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Audio-FX-Sound-Board-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2133
+- oompID: PROJ-ADAF-2133-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 41.021, 7.238999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 40.513, 17.779999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.906, 10.287, 180
@@ -164,7 +165,6 @@ Contents
 - rawPart: X2, JST_PH_2, JSTPH2, microbuilder, (0.14, 0.45), MR270
 - rawPart: X3, 19621, 4UCONN_18510, microbuilder, (1.85, 0.45), R180
 - rawPart: Y2, 12MHz, RESONATOR-SMD, SparkFun, (0.905, 0.675), R270
-- oompID: PROJ-ADAF-2133-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: LilyPad Tri-Color LED
 - sources: All source files from https://github.com/sparkfun/LilyPad_Tri-Color_LED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13735
+- oompID: PROJ-SPAR-13735-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 11.0109, 10.998199999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 6.35, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 6.35, 3.8099999999999996, M0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$8, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.4335, 0.133), R0
 - rawPart: U$9, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.6895, 0.285), R60
 - rawPart: U$10, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.4335, 0.728), R180
-- oompID: PROJ-SPAR-13735-STAN-01
 
 
 

@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit Bluefruit LE nRF8001 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-nRF8001-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1697
+- oompID: PROJ-ADAF-1697-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.4509999239999996, 13.439599993999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.529400072, 19.123600056, 0
 - oompPart: CAPC-0402-X-NF22D-01, C3, 15.75299999, 19.32899995, 0
@@ -150,7 +151,6 @@ Contents
 - rawPart: U3, 74HC4050D, TSSOP16, microbuilder, (0.83737795, 0.57756693), R270
 - rawPart: Y1, 16MHz, CRYSTAL_2.5X2, microbuilder, (0.09555906, 0.63586614), R270
 - rawPart: Y2, FC-255, 32.7680K-A3, CRYSTAL_4.9X1.8, microbuilder, (0.67515748, 0.29308661), R180
-- oompID: PROJ-ADAF-1697-STAN-01
 
 
 

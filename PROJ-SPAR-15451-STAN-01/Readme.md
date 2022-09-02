@@ -74,6 +74,7 @@ Contents
 - oompName: Qwiic Motor Driver
 - sources: All source files from https://github.com/sparkfun/Qwiic_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15451
+- oompID: PROJ-SPAR-15451-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 17.779999999999998, 18.034, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 15.493999999999998, 17.525999999999996, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 17.779999999999998, 8.254999999999999, 0
@@ -146,7 +147,6 @@ Contents
 - rawPart: TP6, TP_15TH, SparkFun-Connectors, (0.89, 0.465), R0
 - rawPart: U1, DRV8835, WSON-12, SparkFun-IC-Special-Function, (0.5, 0.69), R180
 - rawPart: U2, CY8C4245LQI-483, QFN-40, SparkFun-IC-Microcontroller, (0.441, 0.485), R180
-- oompID: PROJ-SPAR-15451-STAN-01
 
 
 

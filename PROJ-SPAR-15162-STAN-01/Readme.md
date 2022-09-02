@@ -109,6 +109,7 @@ Contents
 - oompName: gator bit
 - sources: All source files from https://github.com/sparkfun/gator_bit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15162
+- oompID: PROJ-SPAR-15162-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 39.222799888, 24.55829988, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 48.290599887999996, 24.49479988, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 57.129799887999994, 24.621799879999998, 0
@@ -275,7 +276,6 @@ Contents
 - rawPart: U2, micro:bit, MICRO:BIT_RA_PTH, Micro_Bit_Parts, (2.25000787, 2), R180
 - rawPart: U3, TXB0104, TSSOP14, SparkFun-IC-Comms, (1.05900787, 1.123), R180
 - rawPart: U4, ADJ, REG, 1.5A, SOT223, SparkFun-IC-Power, (3.56250787, 2.3625), R180
-- oompID: PROJ-SPAR-15162-STAN-01
 
 
 

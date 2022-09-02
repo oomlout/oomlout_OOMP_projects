@@ -63,6 +63,7 @@ Contents
 - oompName: AT42QT1010 Capacitive Touch Breakout
 - sources: All source files from https://github.com/sparkfun/AT42QT1010_Capacitive_Touch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12041
+- oompID: PROJ-SPAR-12041-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 19.049999999999997, 6.35, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 20.32, 13.97, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.476999999999999, 13.081, 270
@@ -101,7 +102,6 @@ Contents
 - rawPart: R2, 2.2k, 0603, SparkFun-Resistors, (0.1, 0.415), R90
 - rawPart: R3, 200, 0603, SparkFun-Resistors, (0.735, 0.43), R270
 - rawPart: U1, AT42QT1010, -, UDFN, UDFN/USON_8_PAD, local_parts, (0.87, 0.46), R180
-- oompID: PROJ-SPAR-12041-STAN-01
 
 
 

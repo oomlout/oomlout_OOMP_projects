@@ -87,6 +87,7 @@ Contents
 - oompName: Adafruit Feather nRF52840 Sense PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-nRF52840-Sense-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4516
+- oompID: PROJ-ADAF-4516-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 24.8285, 17.208499999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 19.0754, 8.7884, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 31.305499999999995, 10.1981, 0
@@ -181,7 +182,6 @@ Contents
 - rawPart: U5, BMP280, BMP280, adafruit_sensor, (0.915, 0.275), R180
 - rawPart: X1, 4u20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
 - rawPart: X2, CON_JST_PH_2PIN_MTPH2, JSTPH2, microbuilder, (0.425, 0.76), R0
-- oompID: PROJ-ADAF-4516-STAN-01
 
 
 

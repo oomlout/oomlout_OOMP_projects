@@ -86,6 +86,7 @@ Contents
 - oompName: Adafruit Feather ESP32 S3 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-ESP32-S3-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5323
+- oompID: PROJ-ADAF-5323-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 15.938499999999998, 13.1318, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 18.6563, 11.937999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 21.539199999999997, 16.002, 0
@@ -174,7 +175,6 @@ Contents
 - rawPart: U5, AP2112/RT9080-3.3, SOT23-5, microbuilder, (1.005, 0.22), R0
 - rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (0.43, 0.7625), R0
 - rawPart: X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (0.105, 0.45), R270
-- oompID: PROJ-ADAF-5323-STAN-01
 
 
 

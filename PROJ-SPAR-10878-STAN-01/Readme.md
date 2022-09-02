@@ -119,6 +119,7 @@ Contents
 - oompName: EL Escudo Dos
 - sources: All source files from https://github.com/sparkfun/EL_Escudo_Dos (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10878
+- oompID: PROJ-SPAR-10878-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 63.5, 24.764999999999997, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHAN_A, 3.8099999999999996, 67.30999999999999, 90
@@ -267,7 +268,6 @@ Contents
 - rawPart: U16, Z0103MN, SOT223, mike-temp, (2.2, 0.65), R180
 - rawPart: U17, LM317, V-REG_DPACK, SparkFun, (2.15, 0.3), R90
 - rawPart: U18, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOLABELS, SparkFun, (0.5, 0.25), R0
-- oompID: PROJ-SPAR-10878-STAN-01
 
 
 

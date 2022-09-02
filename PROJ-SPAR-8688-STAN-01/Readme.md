@@ -51,6 +51,7 @@ Contents
 - oompName: Ambient Light Sensor Breakout-TEMT6000
 - sources: All source files from https://github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8688
+- oompID: PROJ-SPAR-8688-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, E$1, 9.270999999999999, 9.270999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, E$2, 2.921, 1.016, 0
 - oompPart: HEAD-I01-X-PI03-01, JP4, 1.27, 2.54, 90
@@ -61,7 +62,6 @@ Contents
 - rawPart: JP4, 1X03, SparkFun, (0.05, 0.1), R90
 - rawPart: R1, 10K, 0402-RES, SparkFun, (0.28, 0.33), R0
 - rawPart: U1, TEMT6000, TEMT6000-SEN, SparkFun, (0.28, 0.17), R270
-- oompID: PROJ-SPAR-8688-STAN-01
 
 
 

@@ -80,6 +80,7 @@ Contents
 - oompName: Qwiic Transparent Graphical OLED
 - sources: All source files from https://github.com/sparkfun/Qwiic_Transparent_Graphical_OLED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15173
+- oompID: PROJ-SPAR-15173-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 14.985999999999999, 18.287999999999997, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 16.509999999999998, 18.287999999999997, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 16.9926, 7.188199999999999, 270
@@ -154,7 +155,6 @@ Contents
 - rawPart: TP1, 12V, PAD.03X.03, SparkFun-Connectors, (0.255, 0.675), MR0
 - rawPart: U1, AP3012, SOT23-5, SparkFun-IC-Power, (0.48, 0.525), R90
 - rawPart: U2, UG-2856KLBAG01_4WSPI, FPC05024-42201, SparkFun-Displays, (0.5, 0.85), R180
-- oompID: PROJ-SPAR-15173-STAN-01
 
 
 

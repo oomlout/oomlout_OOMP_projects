@@ -119,6 +119,7 @@ Contents
 - oompName: MicroMod GNSS F9P Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_GNSS_F9P_Carrier_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17722
+- oompID: PROJ-SPAR-17722-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3, 2.2225, 25.781, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 44.4754, 26.7208, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 8.509, 46.228, 270
@@ -275,7 +276,6 @@ Contents
 - rawPart: U1, U-BLOX_ZED-F9P, ZED-F9P, SparkFun-GPS, (35.77, 43.477), R0
 - rawPart: U5, AP7361C-33, UDFN-8, SparkFun-IC-Power, (10.414, 10.3339), R0
 - rawPart: VIN, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (2.0955, 29.591), MR90
-- oompID: PROJ-SPAR-17722-STAN-01
 
 
 

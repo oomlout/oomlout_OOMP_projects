@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit PiUART PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiUART-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3589
+- oompID: PROJ-ADAF-3589-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 1.27, 2.1590000000000003, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 1.016, 17.779999999999998, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 12.572999999999999, 5.460999999999999, 270
@@ -108,7 +109,6 @@ Contents
 - rawPart: U$18, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.63, 0.652), R0
 - rawPart: U1, CP2104, QFN24_4MM_SMSC, microbuilder, (0.355, 0.145), R270
 - rawPart: X1, 20329, 4UCONN_20329_V2, microbuilder, (0.275, 0.625), R180
-- oompID: PROJ-ADAF-3589-STAN-01
 
 
 

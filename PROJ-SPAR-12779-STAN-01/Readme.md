@@ -84,6 +84,7 @@ Contents
 - oompName: Easy Driver
 - sources: All source files from https://github.com/sparkfun/Easy_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12779
+- oompID: PROJ-SPAR-12779-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 4.444999999999999, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.43, 4.444999999999999, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 44.449999999999996, 10.033, 90
@@ -166,7 +167,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun03_30_09, (0.575, 0.1), R0
 - rawPart: SJ2, SOLDERJUMPERNO, SJ_2S-NO, SparkFun03_30_09, (0.045, 0.04), R0
 - rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.43, 0.5), R0
-- oompID: PROJ-SPAR-12779-STAN-01
 
 
 

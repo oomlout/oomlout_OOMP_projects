@@ -57,6 +57,7 @@ Contents
 - oompName: MAG3110 Breakout Board
 - sources: All source files from https://github.com/sparkfun/MAG3110_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12670
+- oompID: PROJ-SPAR-12670-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 9.143999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 2.54, 4.953, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 12.7, 9.143999999999998, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: R2, 4.7k, 0603-RES, SparkFun, (0.5, 0.305), R0
 - rawPart: SJ1, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.5, 0.16), R180
 - rawPart: U1, MAG31101:1, DFN-10-W, SparkFun-Sensors, (0.3, 0.31), R0
-- oompID: PROJ-SPAR-12670-STAN-01
 
 
 

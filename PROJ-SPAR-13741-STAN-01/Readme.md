@@ -84,6 +84,7 @@ Contents
 - oompName: RedStick
 - sources: All source files from https://github.com/sparkfun/RedStick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13741
+- oompID: PROJ-SPAR-13741-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 9.36625, 29.289374999999996, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.382499999999999, 31.75, 270
 - oompPart: CAPC-0603-X-NF100-V50, C5, 13.589, 13.716, 0
@@ -160,7 +161,6 @@ Contents
 - rawPart: U2, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (0.35, 0.75), R315
 - rawPart: U3, 5.0v, SOT23-5, SparkFun-PowerIC, (0.312875, 1.407125), R0
 - rawPart: Y1, 16MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (0.2, 1.05), R135
-- oompID: PROJ-SPAR-13741-STAN-01
 
 
 

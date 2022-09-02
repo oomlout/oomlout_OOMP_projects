@@ -68,6 +68,7 @@ Contents
 - oompName: P8X32A Breakout
 - sources: All source files from https://github.com/sparkfun/P8X32A_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11525
+- oompID: PROJ-SPAR-11525-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 43.18, 12.7, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 45.72, 12.7, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 55.88, 12.7, 270
@@ -114,7 +115,6 @@ Contents
 - rawPart: U3, EEPROM-I2CEIAJ, SO08-EIAJ, SparkFun-DigitalIC, (0.45, 0.5), R0
 - rawPart: U4, V_REG_317SMD, SOT223, SparkFun-PowerIC, (2, 0.5), R0
 - rawPart: Y1, HC49U-V, SparkFun-FreqCtrl, (1.55, 0.5), R90
-- oompID: PROJ-SPAR-11525-STAN-01
 
 
 

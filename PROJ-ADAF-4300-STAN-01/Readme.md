@@ -113,6 +113,7 @@ Contents
 - oompName: Adafruit Hallowing M4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Hallowing-M4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4300
+- oompID: PROJ-ADAF-4300-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C12, 1.7949999659999998, 13.830499898, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C16, 2.36449997, 10.60800012, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C17, -0.5714999999999999, 12.7, 180
@@ -269,7 +270,6 @@ Contents
 - rawPart: U9, GD25Q64, SOIC8_208MIL, microbuilder, (-0.1125, -0.425), R270
 - rawPart: X2, microUSB, 4UCONN_20329_V2, microbuilder, (0, 1), R180
 - rawPart: X4, JSTPH, JSTPH2, microbuilder, (0.4175, 0.755), R270
-- oompID: PROJ-ADAF-4300-STAN-01
 
 
 

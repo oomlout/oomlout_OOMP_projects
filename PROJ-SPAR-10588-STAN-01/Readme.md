@@ -50,11 +50,11 @@ Contents
 - oompName: Audio Jack Breakout
 - sources: All source files from https://github.com/sparkfun/Audio_Jack_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10588
+- oompID: PROJ-SPAR-10588-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP1, 19.049999999999997, 12.7, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 7.619999999999999, 0
 - rawPart: JP1, 1X05, SparkFun, (0.75, 0.5), R270
 - rawPart: U1, AUDIO-JACK, AUDIO-JACK, SparkFun, (0.15, 0.3), R0
-- oompID: PROJ-SPAR-10588-STAN-01
 
 
 

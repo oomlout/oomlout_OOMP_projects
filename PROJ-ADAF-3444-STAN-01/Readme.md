@@ -112,6 +112,7 @@ Contents
 - oompName: DotStar 2020 8x8 Matrix PCB
 - sources: All source files from https://github.com/adafruit/DotStar-2020-8x8-Matrix-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3444
+- oompID: PROJ-ADAF-3444-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, CI, 23.368, 24.13, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, CO, 2.032, 1.27, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, DI, 20.827999999999996, 24.13, M0
@@ -266,7 +267,6 @@ Contents
 - rawPart: V1, TPTP20R, TP20R, testpad, (0.62, 0.95), MR0
 - rawPart: V2, TPTP20R, TP20R, testpad, (0.38, 0.05), MR0
 - rawPart: V3, TPTP20R, TP20R, testpad, (0.38, 0.5625), MR0
-- oompID: PROJ-ADAF-3444-STAN-01
 
 
 

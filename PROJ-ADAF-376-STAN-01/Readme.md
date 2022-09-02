@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit_2.8_Inch_TFT_Shield_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/376
+- oompID: PROJ-ADAF-376-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.812, 48.513999999999996, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 22.605999999999998, 48.513999999999996, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 32.004, 22.86, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: U$10, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.61, 1.85), R180
 - rawPart: U$11, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.16, 0.2), R180
 - rawPart: VCC, SJ, jumper, (2.31, 0.85), R270
-- oompID: PROJ-ADAF-376-STAN-01
 
 
 

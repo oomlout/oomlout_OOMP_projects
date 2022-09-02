@@ -70,6 +70,7 @@ Contents
 - oompName: SparkFun u-blox ZOE-M8Q
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_ZOE-M8Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15193
+- oompID: PROJ-SPAR-15193-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 22.605999999999998, 11.811, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 9.118599999999999, 8.3058, 270
@@ -122,7 +123,6 @@ Contents
 - rawPart: R5, 10, 0603, SparkFun-Resistors, (0.7, 0.61), R0
 - rawPart: U1, U-BLOX_ZOE_M8Q-0-10, UBLOX_ZOE_M8-0-10, SparkFun-GPS, (0.5, 0.5), R0
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.552, 0.317), R0
-- oompID: PROJ-SPAR-15193-STAN-01
 
 
 

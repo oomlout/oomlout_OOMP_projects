@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit HMC5883 Mag Compass Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1746
+- oompID: PROJ-ADAF-1746-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.8099999999999996, 7.238999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 13.97, 9.779, 0
 - oompPart: CAPC-0805-X-NF220-01, C4, 3.556, 10.16, 0
@@ -97,7 +98,6 @@ Contents
 - rawPart: U$12, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.305, 0.18), R0
 - rawPart: U1, HMC5883L-T, HMC5883L, microbuilder, (0.35, 0.35), R180
 - rawPart: U2, MIC5225-3.3V, SOT23-5, microbuilder, (0.545, 0.26), R0
-- oompID: PROJ-ADAF-1746-STAN-01
 
 
 

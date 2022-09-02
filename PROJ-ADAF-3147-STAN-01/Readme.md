@@ -93,6 +93,7 @@ Contents
 - oompName: Adafruit FONA SIMCOM 3G Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3147
+- oompID: PROJ-ADAF-3147-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.365999999999999, 28.066999999999997, 270
 - oompPart: CAPE-1210-X-UNMATCHED-01, C2, 38.480999999999995, 46.736, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 11.176, 21.462999999999997, 0
@@ -203,7 +204,6 @@ Contents
 - rawPart: X3, uFL, U.FL, microbuilder, (0.085, 0.685), R0
 - rawPart: X4, 4UCONN_18510, 4UCONN_18510, microbuilder, (0.005, 0.37), R0
 - rawPart: X6, SIM_LOCKAMPHENOL, C707_10M006_512_2, microbuilder, (1.12, 0.975), MR270
-- oompID: PROJ-ADAF-3147-STAN-01
 
 
 

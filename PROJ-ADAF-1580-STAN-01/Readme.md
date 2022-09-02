@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit AR1100 Resistive Touch Controller PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1580
+- oompID: PROJ-ADAF-1580-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.08, 5.206999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 13.97, 3.556, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.001, 6.35, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$7, FPC_4PIN_12969, FPC_CONN_1MM_DUAL_4P, microbuilder, (0.695, 0.365), R90
 - rawPart: X1, USB-MINIB, microbuilder, (-0.045, 0.345), R270
 - rawPart: Y1, 12MHz, RESONATOR-SMD, SparkFun, (0.5725, 0.23), R0
-- oompID: PROJ-ADAF-1580-STAN-01
 
 
 

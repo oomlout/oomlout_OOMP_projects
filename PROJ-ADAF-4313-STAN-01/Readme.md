@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit 1.3 inch 240x240 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4313
+- oompID: PROJ-ADAF-4313-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 28.066999999999997, 24.892, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 21.209, 25.019, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.446, 4.444999999999999, 180
@@ -109,7 +110,6 @@ Contents
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.3, 1.2), R0
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.3, -0.1), R0
 - rawPart: U1, 74HC4050, TSSOP16, microbuilder, (0.95, 0.775), R270
-- oompID: PROJ-ADAF-4313-STAN-01
 
 
 

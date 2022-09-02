@@ -60,6 +60,7 @@ Contents
 - oompName: SOIC8-DIP Adapter
 - sources: All source files from https://github.com/sparkfun/SOIC8-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/494
+- oompID: PROJ-SPAR-494-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 19.558, 270
 - oompPart: HEAD-I01-X-PI04-01, JP2, 8.889999999999999, 19.558, 270
 - oompPart: HEAD-I01-X-PI04-01, JP3, 11.937999999999999, 19.558, 270
@@ -84,7 +85,6 @@ Contents
 - rawPart: U2, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.62, 0.62), R180
 - rawPart: U3, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.2, 0.2), R180
 - rawPart: U4, GENERIC-SOIC8, SO08-UNIVERSAL, SparkFun-AnalogIC, (0.62, 0.2), R180
-- oompID: PROJ-SPAR-494-STAN-01
 
 
 

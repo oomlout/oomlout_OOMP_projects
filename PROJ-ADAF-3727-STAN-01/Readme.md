@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit ItsyBitsy M0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3727
+- oompID: PROJ-ADAF-3727-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.9126, 9.270999999999999, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 27.2415, 6.0325, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 8.57749999, 9.310999919999999, 0
@@ -120,7 +121,6 @@ Contents
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.32, 0.1975), R180
 - rawPart: X1, JSTPH2, microbuilder, (0.14, 0.35), MR270
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.35), R270
-- oompID: PROJ-ADAF-3727-STAN-01
 
 
 

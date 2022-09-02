@@ -71,6 +71,7 @@ Contents
 - oompName: Spectrum Shield
 - sources: All source files from https://github.com/sparkfun/Spectrum_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13116
+- oompID: PROJ-SPAR-13116-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AUDIO_IN, 46.99, 43.18, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 41.9354, 32.3088, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 38.724840508, 40.87368127, 90
@@ -117,7 +118,6 @@ Contents
 - rawPart: U1, ARDUINO_R3_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (0, 2.1), R270
 - rawPart: U2, MSGEQ7SOIC, SOIC8, SparkFun-AnalogIC, (1.4, 1.35), R270
 - rawPart: U3, MSGEQ7SOIC, SOIC8, SparkFun-AnalogIC, (1.4, 0.69), R270
-- oompID: PROJ-SPAR-13116-STAN-01
 
 
 

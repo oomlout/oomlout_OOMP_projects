@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Slider Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5021
+- oompID: PROJ-ADAF-5021-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 27.304999999999996, 1.5239999999999998, M270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180
@@ -93,7 +94,6 @@ Contents
 - rawPart: SWD, TPTP16R, TP16R, testpad, (0.56, -0.14), MR180
 - rawPart: TOUCH, TESTPOINT_ROUND_0.5MM, microbuilder, (0.11, 0.155), R0
 - rawPart: U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.9625, 0.065), MR180
-- oompID: PROJ-ADAF-5021-STAN-01
 
 
 

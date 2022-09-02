@@ -82,6 +82,7 @@ Contents
 - oompName: Adafruit Circuit Playground Tri Color E Ink Gizmo PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4428
+- oompID: PROJ-ADAF-4428-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BUSY, -10.731499999999999, 9.270999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.762999999999998, -4.3180000000000005, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -5.460999999999999, -2.667, 90
@@ -194,7 +195,6 @@ Contents
 - rawPart: U$6, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.475, -0.48), R0
 - rawPart: U5, PAM8302AASCR, MSOP8_0.65MM, microbuilder, (0, -0.68), R180
 - rawPart: VR2, 10K, trim, TRIMPOT_BOURNS_3303W, microbuilder, (0.215, -0.505), R90
-- oompID: PROJ-ADAF-4428-STAN-01
 
 
 

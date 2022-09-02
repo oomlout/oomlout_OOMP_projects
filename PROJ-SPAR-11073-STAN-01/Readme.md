@@ -52,6 +52,7 @@ Contents
 - oompName: GP-2106 Breakout
 - sources: All source files from https://github.com/sparkfun/GP-2106_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11073
+- oompID: PROJ-SPAR-11073-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 10.16, 10.16, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 7.619999999999999, 12.7, 180
 - oompPart: HEAD-I01-X-PI06-01, JP1, 12.7, 13.97, 270
@@ -64,7 +65,6 @@ Contents
 - rawPart: JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.43, 0.5), R0
 - rawPart: JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.028, 0.032), R0
 - rawPart: U1, GP-2106, GP-2106, SparkFun, (0.3, 0.3), R270
-- oompID: PROJ-SPAR-11073-STAN-01
 
 
 

@@ -53,6 +53,7 @@ Contents
 - oompName: Soil Moisture Sensor
 - sources: All source files from https://github.com/sparkfun/Soil_Moisture_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13322
+- oompID: PROJ-SPAR-13322-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 55.88, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.59, 49.529999999999994, 0
 - oompPart: HEAD-I01-X-PI3-01, JP1, 8.889999999999999, 54.60999999999999, 0
@@ -67,7 +68,6 @@ Contents
 - rawPart: Q1, 2N3904, SOT23-3, SparkFun-DiscreteSemi, (0.45, 1.95), R0
 - rawPart: R1, 10k, 0603-RES, SparkFun-Resistors, (0.55, 1.95), R270
 - rawPart: R2, 100, 0603-RES, SparkFun-Resistors, (0.35, 1.95), R90
-- oompID: PROJ-SPAR-13322-STAN-01
 
 
 

@@ -64,6 +64,7 @@ Contents
 - oompName: LTC4150 Coulomb Counter BOB
 - sources: All source files from https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12052
+- oompID: PROJ-SPAR-12052-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.795, 13.97, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 4.444999999999999, 13.97, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.0479999999999996, 21.336, 0
@@ -106,7 +107,6 @@ Contents
 - rawPart: SJ2, SJ_2S-NO, SparkFun-Passives, (0.44375, 0.3875), MR90
 - rawPart: SJ3, SJ_2S-NO, SparkFun-Passives, (0.1125, 0.3875), MR270
 - rawPart: U1, LTC4150, MSOP10, mike-temp, (0.3, 0.55), R180
-- oompID: PROJ-SPAR-12052-STAN-01
 
 
 

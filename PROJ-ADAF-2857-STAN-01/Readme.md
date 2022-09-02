@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit SHT31 Sensor Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2857
+- oompID: PROJ-ADAF-2857-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 7.112, 10.0965, 90
 - oompPart: CAPC-0603-X-NF100-V50, C6, 18.160999999999998, 5.3975, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.796499999999998, 8.889999999999999, 90
@@ -85,7 +86,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U$20, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U2, SHT3X, adafruit_sensor, (0.5025, 0.4075), R0
-- oompID: PROJ-ADAF-2857-STAN-01
 
 
 

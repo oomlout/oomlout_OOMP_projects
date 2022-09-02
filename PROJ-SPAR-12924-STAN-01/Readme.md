@@ -70,6 +70,7 @@ Contents
 - oompName: MicroView USB Programmer
 - sources: All source files from https://github.com/sparkfun/MicroView_USB_Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12924
+- oompID: PROJ-SPAR-12924-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 7.112, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 8.889999999999999, 8.889999999999999, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 8.889999999999999, 13.843, 0
@@ -118,7 +119,6 @@ Contents
 - rawPart: R6, 27, 0603-RES, SparkFun-Resistors, (0.35, 0.415), R0
 - rawPart: R7, 27, 0603-RES, SparkFun-Resistors, (0.35, 0.48), R0
 - rawPart: U1, FT231XS, SSOP20_L, SparkFun-DigitalIC, (0.65, 0.4), R180
-- oompID: PROJ-SPAR-12924-STAN-01
 
 
 

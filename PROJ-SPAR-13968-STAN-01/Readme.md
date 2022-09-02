@@ -69,6 +69,7 @@ Contents
 - oompName: OpenPIR
 - sources: All source files from https://github.com/sparkfun/OpenPIR (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13968
+- oompID: PROJ-SPAR-13968-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 12.7, 25.4, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 8.254999999999999, 18.415, 270
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 17.145, 23.495, 0
@@ -121,7 +122,6 @@ Contents
 - rawPart: TP2, PAD.03X.05, SparkFun-Connectors, (0.675, 1.13), MR0
 - rawPart: U1, NCS36000, SO14, openPIR-temp, (0.325, 0.5), R180
 - rawPart: U2, PIR, PIR, openPIR-temp, (0.55, 0.7), MR180
-- oompID: PROJ-SPAR-13968-STAN-01
 
 
 

@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit_MintyBoost_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_MintyBoost_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/14
+- oompID: PROJ-ADAF-14-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, +, 1.9049999999999998, 1.778, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, -, 31.267400000000002, 1.8541999999999998, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 5.8166, 1.3716, 0
@@ -88,7 +89,6 @@ Contents
 - rawPart: R4, 75K, 0204/5, adafruit, (1.1259252, 0.52273228), R140
 - rawPart: R5, 3.3k, 0204/5, adafruit, (0.735, 0.22), R90
 - rawPart: X1, PN87520, con-berg, (0.653, 0.608), R180
-- oompID: PROJ-ADAF-14-STAN-01
 
 
 

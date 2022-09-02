@@ -54,6 +54,7 @@ Contents
 - oompName: SSOP-DIP Adapter 16-Pin
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_16-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13994
+- oompID: PROJ-SPAR-13994-STAN-01
 - oompPart: HEAD-I01-X-PI081-01, JP1, 1.27, 1.27, 0
 - oompPart: HEAD-I01-X-PI08-01, JP2, 1.27, 8.889999999999999, 0
 - oompPart: HEAD-I01-X-PI081-01, JP3, 1.27, 11.937999999999999, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: JP4, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.77), R0
 - rawPart: U1, SSOP16, SSOP16, generic-ssop16, (0.4, 0.2), R270
 - rawPart: U2, SSOP16, SSOP16, generic-ssop16, (0.4, 0.62), R270
-- oompID: PROJ-SPAR-13994-STAN-01
 
 
 

@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit PowerBoost 1000 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-1000-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2030
+- oompID: PROJ-ADAF-2030-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 3.556, 11.43, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.684, 15.112999999999998, 90
 - oompPart: CAPC-0805-X-UF22D-01, C2, 20.066, 6.731, 90
@@ -135,7 +136,6 @@ Contents
 - rawPart: U1, TPS61030RSAR, PVQFN-16, microbuilder, (0.64055118, 0.31681102), R180
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.065, 0.4625), R90
 - rawPart: X2, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.145, 0.45), R270
-- oompID: PROJ-ADAF-2030-STAN-01
 
 
 

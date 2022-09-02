@@ -89,6 +89,7 @@ Contents
 - oompName: Adafruit Ethernet FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Ethernet-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3201
+- oompID: PROJ-ADAF-3201-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 7.619999999999999, 8.636000000000001, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 7.238999999999999, 14.477999999999998, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 35.559999999999995, 15.875, 180
@@ -185,7 +186,6 @@ Contents
 - rawPart: U$1, W5500, LQFP48, microbuilder, (0.7, 0.45), R180
 - rawPart: X1, RB1-125BAG1A, RJ45_PULSEJACK, microbuilder, (1.92, 0.45), R270
 - rawPart: Y1, 25MHz, CRYSTAL_3.2X2.5, microbuilder, (0.3, 0.45), R90
-- oompID: PROJ-ADAF-3201-STAN-01
 
 
 

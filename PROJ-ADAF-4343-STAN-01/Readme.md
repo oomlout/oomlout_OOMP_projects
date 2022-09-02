@@ -139,6 +139,7 @@ Contents
 - oompName: Adafruit MONSTER M4SK PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4343
+- oompID: PROJ-ADAF-4343-STAN-01
 - oompPart: CAPC-0805-X-UF10-V25, C1, -22.399500032, 7.238999999999999, 180
 - oompPart: CAPC-0805-X-UF10-V25, C2, -22.526500031999998, 1.0795000000000001, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 18.081500031999997, -6.4135, 180
@@ -353,7 +354,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (2.18937008, -0.065), R270
 - rawPart: X2, C2424, 4UCONN_18510, microbuilder, (1.17437008, 0.795), R270
 - rawPart: X3, microUSB, 4UCONN_20329_NARROW, microbuilder, (1.55937008, 0.6325), R180
-- oompID: PROJ-ADAF-4343-STAN-01
 
 
 

@@ -81,6 +81,7 @@ Contents
 - oompName: Adafruit Music Maker FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3357
+- oompID: PROJ-ADAF-3357-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 7.365999999999999, 19.177, 270
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 9.143999999999998, 5.206999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 13.97, 11.684, 180
@@ -155,7 +156,6 @@ Contents
 - rawPart: U2, AP7312-1833W6-7, SOT23-6, microbuilder, (1.105, 0.27), R0
 - rawPart: X1, 4UCONN_18510, microbuilder, (0, 0.45), R0
 - rawPart: Y1, ABM8G-12.288MHZ-4Y-T3, CRYSTAL_3.2X2.5, microbuilder, (1.19, 0.4375), R90
-- oompID: PROJ-ADAF-3357-STAN-01
 
 
 

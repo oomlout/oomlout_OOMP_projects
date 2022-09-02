@@ -98,6 +98,7 @@ Contents
 - oompName: RedBoard Turbo
 - sources: All source files from https://github.com/sparkfun/RedBoard_Turbo (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14812
+- oompID: PROJ-SPAR-14812-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UF22D-01, C1, 11.43, 43.18, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 16.509999999999998, 19.685, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 18.160999999999998, 7.492999999999999, 0
@@ -210,7 +211,6 @@ Contents
 - rawPart: U4, ATSAMD21G-A, TQFP-48, samd21-temp, (1.55, 1.2), R180
 - rawPart: U5, W25Q32FV, SOIC-8, SparkFun-IC-Memory, (1.3, 0.65), R0
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, samd21-temp, (1.825, 1.025), R180
-- oompID: PROJ-SPAR-14812-STAN-01
 
 
 

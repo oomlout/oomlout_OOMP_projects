@@ -57,6 +57,7 @@ Contents
 - oompName: FT245RL Breakout
 - sources: All source files from https://github.com/sparkfun/FT245RL_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/7841
+- oompID: PROJ-SPAR-7841-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 5.08, 11.43, 270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 17.779999999999998, 0
@@ -77,7 +78,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNC2, SJ_2S-NOTRACE, SparkFun, (0.0985, 0.28490157), R0
 - rawPart: U1, FT245RL, SSOP28DB, SparkFun, (0.45, 0.45), R0
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.85, 0.45), R180
-- oompID: PROJ-SPAR-7841-STAN-01
 
 
 

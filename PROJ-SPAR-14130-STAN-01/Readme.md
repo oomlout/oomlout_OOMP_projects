@@ -83,6 +83,7 @@ Contents
 - oompName: Roshamglo
 - sources: All source files from https://github.com/sparkfun/Roshamglo (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14130
+- oompID: PROJ-SPAR-14130-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 5.08, 28.955999999999996, M270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 17.779999999999998, 28.955999999999996, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT3, 30.479999999999997, 28.955999999999996, M270
@@ -157,7 +158,6 @@ Contents
 - rawPart: S3, TACTILE_SWITCH_SMD_4.6X2.8MM, SparkFun-Switches, (1.17, 1.005), R270
 - rawPart: U1, IR-Receiver, TSOP75XXXWTR, Roshamglo, (1.2, 2.2), R0
 - rawPart: U3, AP2112K-3.3V, SOT23-5, SparkFun-PowerIC, (0.24, 1.2275), R180
-- oompID: PROJ-SPAR-14130-STAN-01
 
 
 

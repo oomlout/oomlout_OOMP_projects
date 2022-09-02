@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit CP2104 Friend PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CP2104-Friend-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3309
+- oompID: PROJ-ADAF-3309-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.176, 19.049999999999997, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.176, 21.209, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.715, 17.399, 270
@@ -95,7 +96,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.08, 1.02), R0
 - rawPart: U1, CP2104, QFN24_4MM_SMSC, microbuilder, (0.35, 0.54), R270
 - rawPart: X1, 20329, 4UCONN_20329_V2, microbuilder, (0.35, 0.96), R180
-- oompID: PROJ-ADAF-3309-STAN-01
 
 
 

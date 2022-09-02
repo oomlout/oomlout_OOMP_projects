@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit DRV2605 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV2605-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2305
+- oompID: PROJ-ADAF-2305-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.842, 7.619999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.937999999999999, 7.619999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.256, 2.794, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.55), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.55), R0
 - rawPart: U1, DRV2605LDGS, PSOP10, microbuilder, (0.35, 0.32), R0
-- oompID: PROJ-ADAF-2305-STAN-01
 
 
 

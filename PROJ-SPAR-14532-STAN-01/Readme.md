@@ -66,6 +66,7 @@ Contents
 - oompName: Qwiic Micro OLED
 - sources: All source files from https://github.com/sparkfun/Qwiic_Micro_OLED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14532
+- oompID: PROJ-SPAR-14532-STAN-01
 - oompPart: CAPC-0805-X-UF22D-01, C1, 4.064, 8.254999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 17.145, 8.254999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 19.049999999999997, 8.254999999999999, 90
@@ -110,7 +111,6 @@ Contents
 - rawPart: R3, 10k, 0603, SparkFun-Resistors, (0.525, 0.325), R90
 - rawPart: R13, 4.7k, 0603, SparkFun-Resistors, (0.225, 0.625), R270
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.575, 0.625), R270
-- oompID: PROJ-SPAR-14532-STAN-01
 
 
 

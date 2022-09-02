@@ -56,6 +56,7 @@ Contents
 - oompName: H2OhNo
 - sources: All source files from https://github.com/sparkfun/H2OhNo (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12069
+- oompID: PROJ-SPAR-12069-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 14.731999999999998, 9.652, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C6, 31.75, 19.049999999999997, 270
 - oompPart: ERROR, JP3 Water Sensor, 0, 0, 0
@@ -72,7 +73,6 @@ Contents
 - rawPart: S1, Power, SWITCH-SPDT, SparkFun-Electromechanical, (1.1, 0.45), R0
 - rawPart: SG1, Buzzer, BUZZER-12MM, SparkFun-Electromechanical, (1.45, 0.25), R270
 - rawPart: U2, TINY85-20-DIP, DIP08, SparkFun-DigitalIC, (1.5, 0.7), R0
-- oompID: PROJ-SPAR-12069-STAN-01
 
 
 

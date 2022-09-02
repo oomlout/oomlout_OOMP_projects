@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit LM3671 Buck Converter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2745
+- oompID: PROJ-ADAF-2745-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 9.143999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 8.509, 6.095999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 12.7, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: R1, 100K, 0805-NO, microbuilder, (0.325, 0.39), R180
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.5), R0
 - rawPart: U1, LM3671MF-3.3/NOPB, SOT23-5, microbuilder, (0.215, 0.26), R90
-- oompID: PROJ-ADAF-2745-STAN-01
 
 
 

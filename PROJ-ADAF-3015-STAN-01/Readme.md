@@ -53,6 +53,7 @@ Contents
 - oompName: Adafruit PiGRRL PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiGRRL-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3015
+- oompID: PROJ-ADAF-3015-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.450000054, 22.499999958, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, 14.300000102, 30.350000006, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B3, 22.149999895999997, 22.499999958, 180
@@ -63,7 +64,6 @@ Contents
 - rawPart: B3, B3F-10XX, switch-omron, (0.87204724, 0.88582677), R180
 - rawPart: B4, B3F-10XX, switch-omron, (0.56299213, 0.57677165), R180
 - rawPart: HEADER, 1X06, pinhead, (0.56102362, 1.49106299), R0
-- oompID: PROJ-ADAF-3015-STAN-01
 
 
 

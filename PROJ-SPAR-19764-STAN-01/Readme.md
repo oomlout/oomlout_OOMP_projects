@@ -64,6 +64,7 @@ Contents
 - oompName: SparkFun Qwiic 6DoF ISM330DHCX
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19764
+- oompID: PROJ-SPAR-19764-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 12.51585, 3.8353999999999995, M270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 7.492999999999999, 5.97535, 0
 - oompPart: CAPC-0402-X-NF100-V50, C4, 10.0203, 6.000749999999999, 180
@@ -112,7 +113,6 @@ Contents
 - rawPart: TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.7125, 0.1125), MR0
 - rawPart: TP4, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.7125, 0.0375), MR0
 - rawPart: U1, ISM330DHCX, LGA-14L, ISM330DHCX, (0.373, 0.16), R180
-- oompID: PROJ-SPAR-19764-STAN-01
 
 
 

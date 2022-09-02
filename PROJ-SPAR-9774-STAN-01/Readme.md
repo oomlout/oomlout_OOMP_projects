@@ -64,6 +64,7 @@ Contents
 - oompName: Benchtop Power Board Kit
 - sources: All source files from https://github.com/sparkfun/Benchtop_Power_Board_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9774
+- oompID: PROJ-SPAR-9774-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F1, 49.529999999999994, 26.669999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F2, 19.049999999999997, 26.669999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, F3, 82.55, 26.669999999999998, 270
@@ -96,7 +97,6 @@ Contents
 - rawPart: S7, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.1, 1.5), R225
 - rawPart: S8, BINDING_POST, BINDING_POST, SparkFun-Connectors, (4.85, 1.5), R135
 - rawPart: S9, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.1, 0.15), R270
-- oompID: PROJ-SPAR-9774-STAN-01
 
 
 

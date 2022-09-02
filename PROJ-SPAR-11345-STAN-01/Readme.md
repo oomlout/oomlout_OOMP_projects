@@ -94,6 +94,7 @@ Contents
 - oompName: Geiger Counter
 - sources: All source files from https://github.com/sparkfun/Geiger_Counter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11345
+- oompID: PROJ-SPAR-11345-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 58.419999999999995, 3.8099999999999996, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 33.019999999999996, 13.97, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 21.59, 23.114, 0
@@ -190,7 +191,6 @@ Contents
 - rawPart: U10, FT232RL-BASICSSOP, SSOP28DB, SparkFun, (0.7, 1.15), R90
 - rawPart: U17, AVR_SPI_PRG_6PTH, 2X3, SparkFun, (0.45, 0.1), R0
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 1.15), R0
-- oompID: PROJ-SPAR-11345-STAN-01
 
 
 

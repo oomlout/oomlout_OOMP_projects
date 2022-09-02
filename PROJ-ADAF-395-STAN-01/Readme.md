@@ -49,6 +49,7 @@ Contents
 - oompName: Adafruit TXB0108 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TXB0108-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/395
+- oompID: PROJ-ADAF-395-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 6.731, 23.114, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 9.524999999999999, 23.114, 270
 - oompPart: HEAD-I01-X-PI10-01, JP1, 14.604999999999999, 15.239999999999998, 270
@@ -63,7 +64,6 @@ Contents
 - rawPart: R1, 10K, R0805, adafruit, (0.32, 0.18), R0
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.325, 0.6), R0
 - rawPart: U1, TXB0108PWR, TSSOP20, microbuilder, (0.325, 0.6), R270
-- oompID: PROJ-ADAF-395-STAN-01
 
 
 

@@ -72,6 +72,7 @@ Contents
 - oompName: Adafruit Radio Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Radio-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4074
+- oompID: PROJ-ADAF-4074-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 4.444999999999999, 7.238999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 19.431, 18.287999999999997, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 25.907999999999998, 18.415, 270
@@ -140,7 +141,6 @@ Contents
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.885, 0.725), R270
 - rawPart: U4, RFM69/9x, RFMHCW_SMT, microbuilder, (0.7, 0.33), R180
 - rawPart: X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (0.01, 0.6), R0
-- oompID: PROJ-ADAF-4074-STAN-01
 
 
 

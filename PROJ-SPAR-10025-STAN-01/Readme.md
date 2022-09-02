@@ -137,6 +137,7 @@ Contents
 - oompName: EiBotBoard
 - sources: All source files from https://github.com/sparkfun/EiBotBoard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10025
+- oompID: PROJ-SPAR-10025-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2MM1, 31.75, 53.339999999999996, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2MM2, 45.974, 53.339999999999996, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 33.019999999999996, 35.559999999999995, 270
@@ -335,7 +336,6 @@ Contents
 - rawPart: U$11, PAD, PAD-0.008, Testing, (1.118, 1.639), R0
 - rawPart: USB, GREEN, LED-0603, SparkFun-2-11-09, (1.1, 0.1), R0
 - rawPart: USR, RED, LED-0603, SparkFun-2-11-09, (0.95, 0.1), R0
-- oompID: PROJ-SPAR-10025-STAN-01
 
 
 

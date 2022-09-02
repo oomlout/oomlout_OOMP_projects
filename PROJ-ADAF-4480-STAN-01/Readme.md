@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit LSM6DS33 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM6DS33-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4480
+- oompID: PROJ-ADAF-4480-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, AD0, 395.0, 510.0, M0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 395.0, 330.0, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 257.0, 196.5, 0
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 100), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (302, 320), R0
-- oompID: PROJ-ADAF-4480-STAN-01
 
 
 

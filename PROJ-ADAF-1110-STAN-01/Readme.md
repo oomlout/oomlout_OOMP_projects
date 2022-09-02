@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit 16x2 LCD Pi Plate
 - sources: All source files from https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1110
+- oompID: PROJ-ADAF-1110-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 2.921, 6.731, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 6.731, 6.731, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 10.540999999999999, 6.731, M90
@@ -90,7 +91,6 @@ Contents
 - rawPart: U$1, HD44780LCD_RGBLONGPINS, LCD1602-RGB, adafruit, (1.675, 1.25), R0
 - rawPart: U$4, RASPBERRYPI_BB, RASBERRYPI_SHIELD, microbuilder, (3.345, 0.005), R90
 - rawPart: UP, B3F-10XX, switch-omron, (2.81, 0.395), R0
-- oompID: PROJ-ADAF-1110-STAN-01
 
 
 

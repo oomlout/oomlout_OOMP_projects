@@ -96,7 +96,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R25, 20.574, 11.43, M270,R25, 1k, 0402-TIGHT, SparkFun-Resistors, (0.81, 0.45), MR270|
 |RESE-0402-X-UNMATCHED-01, R26, 24.383999999999997, 8.382, 0,R26, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.96, 0.33), R0|
 |RESE-0402-X-UNMATCHED-01, R27, 15.239999999999998, 7.619999999999999, 180,R27, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.6, 0.3), R180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R28</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R28</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R29, 8.382, 26.288999999999998, 0,R29, 220KOHM-0402T-1/16W-1%, 0402-TIGHT, SparkFun-Resistors, (0.33, 1.035), R0|
 |RESE-0402-X-UNMATCHED-01, R40, 26.669999999999998, 13.97, M0,R40, 2.2k, 0402-TIGHT, SparkFun-Resistors, (1.05, 0.55), MR0|
 |RESE-0402-X-UNMATCHED-01, R41, 24.13, 13.97, M0,R41, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.95, 0.55), MR0|
@@ -129,6 +129,7 @@ Contents
 - oompName: OpenLog Artemis
 - sources: All source files from https://github.com/sparkfun/OpenLog_Artemis (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16832
+- oompID: PROJ-SPAR-16832-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 23.749, 23.875999999999998, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 4.444999999999999, 6.35, M270
 - oompPart: CAPC-0402-X-UF22D-01, C2, 13.97, 11.43, M90
@@ -309,7 +310,6 @@ Contents
 - rawPart: U14, 1.8V/100mA, SC70, SparkFun-IC-Power, (1.05, 0.31), MR270
 - rawPart: VE, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.35, 0.45), R270
 - rawPart: Y3, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.65, 0.6), R180
-- oompID: PROJ-SPAR-16832-STAN-01
 
 
 

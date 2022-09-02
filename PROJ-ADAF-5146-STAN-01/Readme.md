@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit 24LC32 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-24LC32-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5146
+- oompID: PROJ-ADAF-5146-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 0.5714999999999999, 7.874, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.667, 0.4445, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 13.334999999999999, 7.6834999999999996, 0
@@ -108,7 +109,6 @@ Contents
 - rawPart: U1, Generic, I2C, EEPROM, SOIC8_150MIL, microbuilder, (0.305, 0.1725), R180
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.125, 0.1325), R0
 - rawPart: U3, Generic, I2C, EEPROM, USON8, microbuilder, (0.305, 0.1725), R180
-- oompID: PROJ-ADAF-5146-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: Qwiic OpenLog
 - sources: All source files from https://github.com/sparkfun/Qwiic_OpenLog (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15164
+- oompID: PROJ-SPAR-15164-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, ADR, 22.86, 6.35, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 18.541999999999998, 13.97, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.921999999999999, 8.254999999999999, 180
@@ -117,7 +118,6 @@ Contents
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.25, 0.1), R270
 - rawPart: R6, 330, 0603, SparkFun-Resistors, (0.3, 0.85), R180
 - rawPart: U2, ATMEGA328P, TQFP32-08, SparkFun-IC-Microcontroller, (0.5, 0.55), R180
-- oompID: PROJ-SPAR-15164-STAN-01
 
 
 

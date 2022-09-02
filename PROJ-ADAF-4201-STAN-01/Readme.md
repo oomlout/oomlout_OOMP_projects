@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit AirLift Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4201
+- oompID: PROJ-ADAF-4201-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.0479999999999996, 24.764999999999997, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 15.366999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.0479999999999996, 20.955, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: U1, AP2112-3.3, SOT23-5, microbuilder, (0.12, 0.71), R270
 - rawPart: U2, 74AHC4050, TSSOP16, microbuilder, (1.12, 0.675), R0
 - rawPart: X1, ESP32_WROOM32, WROOM32, microbuilder, (0.625, 0.8), R0
-- oompID: PROJ-ADAF-4201-STAN-01
 
 
 

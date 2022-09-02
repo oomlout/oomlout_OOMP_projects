@@ -55,6 +55,7 @@ Contents
 - oompName: MS5803-14BA Breakout
 - sources: All source files from https://github.com/sparkfun/MS5803-14BA_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12909
+- oompID: PROJ-SPAR-12909-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.365999999999999, 6.35, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 15.493999999999998, 0
@@ -79,7 +80,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPERNO, SJ_2S-NO, SparkFun-Passives, (0.74, 0.38), R180
 - rawPart: SJ3, SOLDERJUMPERNO, SJ_2S-NO, SparkFun-Passives, (0.74, 0.22), R180
 - rawPart: U1, MS5803-14BA, MS5803, MS5803, (0.4, 0.45), R270
-- oompID: PROJ-SPAR-12909-STAN-01
 
 
 

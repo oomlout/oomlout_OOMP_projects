@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Proto Screwshield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/196
+- oompID: PROJ-ADAF-196-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 15.239999999999998, -3.556, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.684, 56.896, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 34.29, -3.556, 0
@@ -106,7 +107,6 @@ Contents
 - rawPart: X, 1X01, adafruit, (0.865, 0.1), R0
 - rawPart: Y, 1X01, adafruit, (0.965, 0.1), R0
 - rawPart: Z, 1X01, adafruit, (1.065, 0.1), R0
-- oompID: PROJ-ADAF-196-STAN-01
 
 
 

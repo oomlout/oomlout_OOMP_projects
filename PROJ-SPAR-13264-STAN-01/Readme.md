@@ -56,6 +56,7 @@ Contents
 - oompName: LilyPixel
 - sources: All source files from https://github.com/sparkfun/LilyPixel (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13264
+- oompID: PROJ-SPAR-13264-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, -0.127, 4.191, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 0.0, 0.0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 6.858, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: JP4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.3), R180
 - rawPart: JP5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25, 0.15), SR123
 - rawPart: JP6, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25, -0.15), R303
-- oompID: PROJ-SPAR-13264-STAN-01
 
 
 

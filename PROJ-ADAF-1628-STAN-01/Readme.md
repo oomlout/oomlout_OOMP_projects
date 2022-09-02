@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit Bluefruit EZ Link Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1628
+- oompID: PROJ-ADAF-1628-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 22.605999999999998, 13.843, 180
 - oompPart: CAPC-0805-X-UF22D-01, C2, 28.701999999999995, 36.195, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 28.448, 9.524999999999999, 180
@@ -143,7 +144,6 @@ Contents
 - rawPart: U$6, PINHD-1X10, 1X10-BIG, adafruit, (1.19, 1.855), R0
 - rawPart: U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.555, 1.07), R90
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (1.055, 0.605), R90
-- oompID: PROJ-ADAF-1628-STAN-01
 
 
 

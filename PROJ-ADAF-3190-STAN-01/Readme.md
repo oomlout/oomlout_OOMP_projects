@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit DRV8871 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3190
+- oompID: PROJ-ADAF-3190-STAN-01
 - oompPart: UNMATCHED-0805-X-NF100-01, C1, 8.762999999999998, 12.446, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 14.477999999999998, 11.176, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 21.59, 90
@@ -77,7 +78,6 @@ Contents
 - rawPart: U1, DRV8871, HSOP8, microbuilder, (0.185, 0.43), R0
 - rawPart: X1, DCMOTOR, TERMBLOCK_1X2-3.5MM, microbuilder, (0.23, 0.8), R180
 - rawPart: X2, POWER, TERMBLOCK_1X2-3.5MM, microbuilder, (0.57, 0.8), R180
-- oompID: PROJ-ADAF-3190-STAN-01
 
 
 

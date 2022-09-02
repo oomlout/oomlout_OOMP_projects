@@ -54,6 +54,7 @@ Contents
 - oompName: HIH6130 Breakout
 - sources: All source files from https://github.com/sparkfun/HIH6130_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11295
+- oompID: PROJ-SPAR-11295-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.985, 12.7, 0
 - oompPart: CAPC-0603-X-NF220-V50, C2, 10.795, 12.7, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 14.477999999999998, 0
@@ -70,7 +71,6 @@ Contents
 - rawPart: R1, 2.2k, 0603-RES, SparkFun-Resistors, (0.1, 0.365), R180
 - rawPart: R2, 2.2k, 0603-RES, SparkFun-Resistors, (0.1, 0.3), R180
 - rawPart: U1, HIH6131, SOIC8, SparkFun, (0.35, 0.35), R270
-- oompID: PROJ-SPAR-11295-STAN-01
 
 
 

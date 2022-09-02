@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit ATtiny8x7 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ATtiny8x7-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5233
+- oompID: PROJ-ADAF-5233-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 5.715, 22.2885, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.762999999999998, 25.0825, 270
 - oompPart: CAPC-0603-X-NF100-V50, C5, 5.715, 20.574, 0
@@ -89,7 +90,6 @@ Contents
 - rawPart: R6, 10K, RESPACK_4X0603, microbuilder, (0.25, 0.3), R180
 - rawPart: SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.25, 1.25), MR0
 - rawPart: U1, ap2112, SOT23-5, adafruit_power, (0.225, 0.9825), R90
-- oompID: PROJ-ADAF-5233-STAN-01
 
 
 

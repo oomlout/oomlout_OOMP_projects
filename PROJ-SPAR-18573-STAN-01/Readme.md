@@ -76,6 +76,7 @@ Contents
 - oompName: MicroMod Function LoRa 1W
 - sources: All source files from https://github.com/sparkfun/MicroMod_Function_LoRa_1W (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18573
+- oompID: PROJ-SPAR-18573-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 35.05199999999999, 18.160999999999998, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 35.05199999999999, 24.256999999999998, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 10.16, 6.35, 90
@@ -140,7 +141,6 @@ Contents
 - rawPart: R19, 100k, 0603, SparkFun-Resistors, (1.38, 1.3), R180
 - rawPart: U1, EEPROM, SO08, SparkFun-IC-Memory, (0.85, 0.4), R0
 - rawPart: U4, E19-915M30S, E19-915MS1W, SparkFun-RF, (0.75, 1.35), R180
-- oompID: PROJ-SPAR-18573-STAN-01
 
 
 

@@ -53,6 +53,7 @@ Contents
 - oompName: TXB0104 breakout
 - sources: All source files from https://github.com/sparkfun/TXB0104_breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11771
+- oompID: PROJ-SPAR-11771-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 3.8099999999999996, 15.239999999999998, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 8.889999999999999, 15.239999999999998, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 14.376399999999999, 0
@@ -69,7 +70,6 @@ Contents
 - rawPart: JP2, 1X07, SparkFun-Connectors, (0.45, 0.05), R90
 - rawPart: SJ1, SOLDERJUMPERNC2, SJ_2S-NOTRACE, SparkFun-Passives, (0.25, 0.65), R270
 - rawPart: U1, SO14, SparkFun-DigitalIC, (0.25, 0.35), R270
-- oompID: PROJ-SPAR-11771-STAN-01
 
 
 

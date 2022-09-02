@@ -59,6 +59,7 @@ Contents
 - oompName: CP2102 Breakout
 - sources: All source files from https://github.com/sparkfun/CP2102_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/198
+- oompID: PROJ-SPAR-198-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 16.509999999999998, 6.35, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 19.049999999999997, 20.32, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 22.86, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: R1, 330, 0603-RES, SparkFun-Resistors, (0.8, 0.25), R180
 - rawPart: U1, CP2102, MLP28, SparkFun, (0.75, 0.5), R0
 - rawPart: X1, USBPTH, USB-B-PTH, SparkFun, (0.35, 0.5), R0
-- oompID: PROJ-SPAR-198-STAN-01
 
 
 

@@ -57,6 +57,7 @@ Contents
 - oompName: Qwiic Magnetometer MLX90393
 - sources: All source files from https://github.com/sparkfun/Qwiic_Magnetometer_MLX90393 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14571
+- oompID: PROJ-SPAR-14571-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 8.636000000000001, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 16.509999999999998, 8.636000000000001, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: SJ3, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.675, 0.2), MR180
 - rawPart: SJ4, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.325, 0.2), MR180
 - rawPart: U1, MLX90393_MAGNETOMETER, QFN-16_WITH_AXIES, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-14571-STAN-01
 
 
 

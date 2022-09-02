@@ -64,6 +64,7 @@ Contents
 - oompName: microSD Shield
 - sources: All source files from https://github.com/sparkfun/microSD_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12761
+- oompID: PROJ-SPAR-12761-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 3.8099999999999996, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 3.8099999999999996, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 41.91, 27.304999999999996, 90
@@ -100,7 +101,6 @@ Contents
 - rawPart: U1, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun, (0.75, 0.7), R180
 - rawPart: U2, ARDUINO_R3_SHIELDNOLABELS, UNO_R3_SHIELD_NOLABELS, SparkFun-Boards, (-0.05, 0), R0
 - rawPart: U3, HEX_CONVERTER, SO016, SparkFun, (0.525, 0.425), R90
-- oompID: PROJ-SPAR-12761-STAN-01
 
 
 

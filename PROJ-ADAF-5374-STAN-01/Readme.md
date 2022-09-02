@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit_ADXL375_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_ADXL375_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5374
+- oompID: PROJ-ADAF-5374-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.953999999999999, 11.176, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.365999999999999, 5.5245, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.842, 12.572999999999999, 90
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.1), R0
 - rawPart: U1, ADXL343, LGA14, microbuilder, (0.5, 0.34), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, adafruit_power, (0.305, 0.335), R0
-- oompID: PROJ-ADAF-5374-STAN-01
 
 
 

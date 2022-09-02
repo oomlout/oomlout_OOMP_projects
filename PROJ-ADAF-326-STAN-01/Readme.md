@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit 128x64 Monochrome OLED PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/326
+- oompID: PROJ-ADAF-326-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 1.27, 12.7, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 28.955999999999996, 12.191999999999998, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 26.669999999999998, 12.191999999999998, 90
@@ -89,7 +90,6 @@ Contents
 - rawPart: U$1, UG-2864HSWEG01, 1X30-0.7MM, adafruit, (0.7, 0.325), R180
 - rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.115, 0.93), R0
 - rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.235, 0.245), R0
-- oompID: PROJ-ADAF-326-STAN-01
 
 
 

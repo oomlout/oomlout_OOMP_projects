@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit Feather M0 Bluefruit LE PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2995
+- oompID: PROJ-ADAF-2995-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.779999999999998, 11.811, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 17.779999999999998, 7.112, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.43, 11.176, 270
@@ -164,7 +165,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X2, 32.768, XTAL3215, adafruit2, (0.705, 0.175), R0
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
-- oompID: PROJ-ADAF-2995-STAN-01
 
 
 

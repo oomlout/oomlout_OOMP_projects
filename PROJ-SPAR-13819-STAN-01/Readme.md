@@ -144,6 +144,7 @@ Contents
 - oompName: Arduino ProtoShield Bare PCB
 - sources: All source files from https://github.com/sparkfun/Arduino_ProtoShield_Bare_PCB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13819
+- oompID: PROJ-SPAR-13819-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5V, 30.797499999999996, 1.4605, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 5V_RAIL, 10.16, 13.97, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 28.2575, 1.4605, 180
@@ -344,7 +345,6 @@ Contents
 - rawPart: SJ4, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.55, 2.35), MR0
 - rawPart: SW2, MOMENTARY-SWITCH-SPST-PTH-6.0MM, TACTILE_SWITCH_PTH_6.0MM, SparkFun-Switches, (1.9125, 0.15), R0
 - rawPart: VDD_RAIL, 1X04_NO_SILK, SparkFun-Connectors, (0.6, 0.45), R0
-- oompID: PROJ-SPAR-13819-STAN-01
 
 
 

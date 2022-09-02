@@ -76,6 +76,7 @@ Contents
 - oompName: Electric Imp imp002 Breakout
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_imp002_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12958
+- oompID: PROJ-SPAR-12958-STAN-01
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 22.86, 15.239999999999998, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 26.669999999999998, 17.779999999999998, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 21.59, 19.685, 270
@@ -144,7 +145,6 @@ Contents
 - rawPart: U1, imp002, ELECTRIC_IMP_IMP002, SparkFun-DigitalIC, (0.85, 1.5), R0
 - rawPart: U2, TPS62172, WSON-8-PAD, SparkFun-PowerIC, (1.05, 0.6), R270
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun-Connectors, (1.48, 0.65), R180
-- oompID: PROJ-SPAR-12958-STAN-01
 
 
 

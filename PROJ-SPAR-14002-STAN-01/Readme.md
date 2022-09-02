@@ -71,6 +71,7 @@ Contents
 - oompName: THAT 1206 Breakout
 - sources: All source files from https://github.com/sparkfun/THAT_1206_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14002
+- oompID: PROJ-SPAR-14002-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 25.4, 12.7, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 26.669999999999998, 4.064, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 24.892, 7.112, 180
@@ -127,7 +128,6 @@ Contents
 - rawPart: R1, 100, 0603-RES, SparkFun-Resistors, (0.98, 0.66), R0
 - rawPart: R2, 100, 0603-RES, SparkFun-Resistors, (0.98, 0.09), R0
 - rawPart: R3, 4.7K, 0603-RES, SparkFun-Resistors, (1.05, 0.36), R0
-- oompID: PROJ-SPAR-14002-STAN-01
 
 
 

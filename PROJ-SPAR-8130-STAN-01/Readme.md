@@ -55,6 +55,7 @@ Contents
 - oompName: I2C Expander Breakout-PCF8575
 - sources: All source files from https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8130
+- oompID: PROJ-SPAR-8130-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP1, 25.4, 19.049999999999997, 270
 - oompPart: HEAD-I01-X-PI08-01, JP3, 22.86, 2.54, 180
 - oompPart: HEAD-I01-X-PI08-01, JP4, 5.08, 24.13, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: SJ2, A1, SJ_3, SparkFun, (0.45, 0.35), MR0
 - rawPart: SJ3, A2, SJ_3, SparkFun, (0.7, 0.35), MR0
 - rawPart: U1, PCF8575C, SO-24DW, SparkFun, (0.45, 0.55), R0
-- oompID: PROJ-SPAR-8130-STAN-01
 
 
 

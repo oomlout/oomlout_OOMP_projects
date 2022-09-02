@@ -92,6 +92,7 @@ Contents
 - oompName: LilyPad Protoboard Large
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Large (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9101
+- oompID: PROJ-SPAR-9101-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, -21.479999965999998, 3.089999916, 351.8
 - oompPart: HEAD-I01-X-PI01-01, JP1, 15.239999999999998, -2.54, 0
 - oompPart: HEAD-I01-X-PI01-01, JP2, 15.239999999999998, 2.54, 0
@@ -180,7 +181,6 @@ Contents
 - rawPart: U$47, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 0.85433071), R270
 - rawPart: U$48, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.46220472, -0.71889764), R57.3
 - rawPart: U$51, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.84724409, -0.12204724), R8.2
-- oompID: PROJ-SPAR-9101-STAN-01
 
 
 

@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit BNO08x PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BNO08x-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4754
+- oompID: PROJ-ADAF-4754-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.492999999999999, 13.716, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.0479999999999996, 6.5405, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 6.9215, 9.779, 90
@@ -124,7 +125,6 @@ Contents
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.2375, 0.245), R270
 - rawPart: U3, 74AHC4050, TSSOP16, microbuilder, (0.48, 0.29), R270
 - rawPart: X1, 32.768, XTAL3215, adafruit2, (0.45, 0.6425), R180
-- oompID: PROJ-ADAF-4754-STAN-01
 
 
 

@@ -82,6 +82,7 @@ Contents
 - oompName: Solderable Breadboard Mini
 - sources: All source files from https://github.com/sparkfun/Solderable_Breadboard_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12702
+- oompID: PROJ-SPAR-12702-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP1, 2.54, 2.54, 90
 - oompPart: HEAD-I01-X-PI05-01, JP2, 5.08, 2.54, 90
 - oompPart: HEAD-I01-X-PI05-01, JP3, 7.619999999999999, 2.54, 90
@@ -150,7 +151,6 @@ Contents
 - rawPart: JP32, 1X05_NO_SILK, SparkFun-Connectors, (1.5, 0.8), R90
 - rawPart: JP33, 1X05_NO_SILK, SparkFun-Connectors, (1.6, 0.8), R90
 - rawPart: JP34, 1X05_NO_SILK, SparkFun-Connectors, (1.7, 0.8), R90
-- oompID: PROJ-SPAR-12702-STAN-01
 
 
 

@@ -71,6 +71,7 @@ Contents
 - oompName: XBee Explorer Dongle
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Dongle (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11697
+- oompID: PROJ-SPAR-11697-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 31.75, 12.7, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 31.75, 19.049999999999997, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 10.16, 16.002, 0
@@ -129,7 +130,6 @@ Contents
 - rawPart: U2, XBEE-1B3, XBEE-SMD, SparkFun-RF, (0.45, 0.55), R270
 - rawPart: U3, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (1.25, 0.65), R270
 - rawPart: U4, FTS31XS-U, SSOP20_L, SparkFun-DigitalIC, (0.9, 0.55), R180
-- oompID: PROJ-SPAR-11697-STAN-01
 
 
 

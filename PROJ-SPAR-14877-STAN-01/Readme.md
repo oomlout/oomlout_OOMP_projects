@@ -52,6 +52,7 @@ Contents
 - oompName: Flashlight
 - sources: All source files from https://github.com/sparkfun/Flashlight (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14877
+- oompID: PROJ-SPAR-14877-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 19.049999999999997, 11.43, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 19.049999999999997, 39.37, 0
 - oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 12.7, 30.479999999999997, 90
@@ -60,7 +61,6 @@ Contents
 - rawPart: D1, LED_5MM-KIT-NO-SILK, SparkFun-LED, (0.75, 1.55), R0
 - rawPart: R1, 10, AXIAL-0.3-KIT, SparkFun-Resistors, (0.5, 1.2), R90
 - rawPart: S2, SWITCH_SPDT_PTH_11.6X4.0MM_KIT, SparkFun-Switches, (1.05, 1.2), R0
-- oompID: PROJ-SPAR-14877-STAN-01
 
 
 

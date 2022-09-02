@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit Trinkey QT2040 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Trinkey-QT2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5056
+- oompID: PROJ-ADAF-5056-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.842, -6.858, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 17.7165, 1.651, 0
 - oompPart: CAPC-0603-X-NF100-V50, C7, 4.571999999999999, 1.8414999999999997, 0
@@ -148,7 +149,6 @@ Contents
 - rawPart: U5, 8MB, USON8_4X4, microbuilder, (0.1375, -0.075), R180
 - rawPart: X1, USBA_PCB, adafruit_electromech, (-0.3, 0), R0
 - rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.6525, -0.0675), R180
-- oompID: PROJ-ADAF-5056-STAN-01
 
 
 

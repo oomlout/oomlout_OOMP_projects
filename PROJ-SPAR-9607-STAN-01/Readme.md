@@ -58,6 +58,7 @@ Contents
 - oompName: SM5100B Cellular Shield
 - sources: All source files from https://github.com/sparkfun/SM5100B_Cellular_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9607
+- oompID: PROJ-SPAR-9607-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 41.91, 48.26, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 46.99, 5.08, 270
 - oompPart: HEAD-I01-X-PI2-01, JP2, 1.27, 72.39, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: U2, SPX29302, Q5-DD_SPX29300, SparkFun, (1.45, 2.35), R0
 - rawPart: U3, SM5100B, SM5100B, SparkFun, (1, 0.2), R0
 - rawPart: U4, SIMHOLDER3, SIMHOLDER3, SparkFun, (1, 1.7), R90
-- oompID: PROJ-SPAR-9607-STAN-01
 
 
 

@@ -62,6 +62,7 @@ Contents
 - oompName: LSM9DS1 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM9DS1_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13284
+- oompID: PROJ-SPAR-13284-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 8.889999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 6.35, 7.619999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 6.35, 11.43, 180
@@ -100,7 +101,6 @@ Contents
 - rawPart: SJ2, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.65, 0.25), MR180
 - rawPart: SJ3, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.45, 0.2), MR0
 - rawPart: U1, LSM9DS1, LGA24-8X4, LSM9DS1_temp, (0.45, 0.45), R90
-- oompID: PROJ-SPAR-13284-STAN-01
 
 
 

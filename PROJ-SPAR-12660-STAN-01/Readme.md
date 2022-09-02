@@ -99,6 +99,7 @@ Contents
 - oompName: MP3 Player Shield
 - sources: All source files from https://github.com/sparkfun/MP3_Player_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12660
+- oompID: PROJ-SPAR-12660-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 43.18, 35.559999999999995, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 43.18, 38.099999999999994, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 16.509999999999998, 33.019999999999996, 0
@@ -213,7 +214,6 @@ Contents
 - rawPart: U4, 1.8V, SC70, SparkFun-PowerIC, (1.7, 1.6), R90
 - rawPart: U6, USD-SOCKET, MICRO-SD-SOCKET-PP, SparkFun, (0.3, 0.7), R180
 - rawPart: U7, 74HC4050, LVL, CONVERTER, SO016, SparkFun-DigitalIC, (0.55, 0.95), R0
-- oompID: PROJ-SPAR-12660-STAN-01
 
 
 

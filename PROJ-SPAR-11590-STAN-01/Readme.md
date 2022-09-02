@@ -79,6 +79,7 @@ Contents
 - oompName: LilyTwinkle ProtoSnap
 - sources: All source files from https://github.com/sparkfun/LilyTwinkle_ProtoSnap (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11590
+- oompID: PROJ-SPAR-11590-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$2, 37.317400092, 25.585600086, 300
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$3, 50.311200114, 25.587900056, 60
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1_U$4, 50.308999965999995, 33.090499986, 120
@@ -145,7 +146,6 @@ Contents
 - rawPart: R5, 10k, 0402-RES, SparkFun-Resistors, (1.725, 1.305), R180
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.675, 1.62), R180
 - rawPart: U1, ATTINY85, SO08-EIAJ, SparkFun-DigitalIC, (1.725, 1.155), R270
-- oompID: PROJ-SPAR-11590-STAN-01
 
 
 

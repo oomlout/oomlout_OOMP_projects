@@ -65,6 +65,7 @@ Contents
 - oompName: Electric Imp Breakout
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12886
+- oompID: PROJ-SPAR-12886-STAN-01
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 10.921999999999999, 15.239999999999998, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 14.731999999999998, 16.509999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C4, 16.002, 8.889999999999999, 270
@@ -103,7 +104,6 @@ Contents
 - rawPart: U3, ATSHA204-TSU, SOT23-3, SparkFun-DigitalIC, (0.73, 0.35), R180
 - rawPart: U4, ELECTRIC_IMP, SD_1:1, SparkFun-RF, (0.65, 0.85), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun-Connectors, (1.045, 0.5), R180
-- oompID: PROJ-SPAR-12886-STAN-01
 
 
 

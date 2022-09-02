@@ -71,6 +71,7 @@ Contents
 - oompName: Adafruit NeoPXL8 PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPXL8-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3249
+- oompID: PROJ-ADAF-3249-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.731, 16.128999999999998, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 4.444999999999999, 17.272000000000002, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.476999999999999, 21.717, M180
@@ -129,7 +130,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (1.405, 0.2475), MR0
 - rawPart: SJ4, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (1.395, 0.63), MR180
 - rawPart: SJ5, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (1.1325, 0.625), MR0
-- oompID: PROJ-ADAF-3249-STAN-01
 
 
 

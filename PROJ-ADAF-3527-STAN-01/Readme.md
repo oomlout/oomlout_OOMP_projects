@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit PiOLED 128x32 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3527
+- oompID: PROJ-ADAF-3527-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 1.27, -3.175, M270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.0479999999999996, -3.175, M270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 4.826, -1.27, M270
@@ -84,7 +85,6 @@ Contents
 - rawPart: R3, 390K, 0805-NO, microbuilder, (0.33, -0.125), MR270
 - rawPart: RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0
 - rawPart: U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.633, 0.703), R180
-- oompID: PROJ-ADAF-3527-STAN-01
 
 
 

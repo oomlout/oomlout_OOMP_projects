@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit TPL5110 Power Timer Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3435
+- oompID: PROJ-ADAF-3435-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -0.127, 6.223, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 13.716, 10.921999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.365999999999999, 14.224, 0
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.04, 0.635), R0
 - rawPart: U2, TPL5110, SOT23-6, microbuilder, (0.28, 0.265), R270
 - rawPart: VR1, 200k, TRIMPOT_BOURNS_TC33X-2, microbuilder, (0.11, 0.2675), R0
-- oompID: PROJ-ADAF-3435-STAN-01
 
 
 

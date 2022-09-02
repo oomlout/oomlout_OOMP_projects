@@ -62,6 +62,7 @@ Contents
 - oompName: Serial USB Adapter-Nike iPod
 - sources: All source files from https://github.com/sparkfun/Serial_USB_Adapter-Nike_iPod (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8245
+- oompID: PROJ-SPAR-8245-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 18.415, 3.8099999999999996, 90
 - oompPart: CAPC-0402-X-NF100-V50, C11, 21.59, 12.7, 90
 - oompPart: CAPC-0402-X-NF100-V50, C14, 21.59, 7.619999999999999, 90
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$8, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.791, 0.948), R0
 - rawPart: U1, FT232RL-BASICSSOP, SSOP28DB, SparkFun, (0.6, 0.5), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 0.5), R0
-- oompID: PROJ-SPAR-8245-STAN-01
 
 
 

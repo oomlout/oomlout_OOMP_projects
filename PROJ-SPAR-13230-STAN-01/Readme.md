@@ -66,6 +66,7 @@ Contents
 - oompName: HX711-Load-Cell-Amplifier
 - sources: All source files from https://github.com/sparkfun/HX711-Load-Cell-Amplifier (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13230
+- oompID: PROJ-SPAR-13230-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 4.444999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 8.889999999999999, 8.254999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 20.32, 180
@@ -108,7 +109,6 @@ Contents
 - rawPart: R5, 10K, 0603-RES, SparkFun-Resistors, (0.85, 0.55), R0
 - rawPart: SJ2, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.6, 0.5), MR180
 - rawPart: U1, HX711, SO16, Testing, (0.6, 0.45), R270
-- oompID: PROJ-SPAR-13230-STAN-01
 
 
 

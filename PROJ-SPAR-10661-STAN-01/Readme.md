@@ -83,6 +83,7 @@ Contents
 - oompName: VoiceBox Shield
 - sources: All source files from https://github.com/sparkfun/VoiceBox_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10661
+- oompID: PROJ-SPAR-10661-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 21.59, 20.32, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 20.32, 22.86, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 25.4, 29.209999999999997, 90
@@ -155,7 +156,6 @@ Contents
 - rawPart: S1, Reset, Switch, TACTILE_SWITCH_SMD, SparkFun, (1.95, 0.75), R0
 - rawPart: U1, ARDUINO_SHIELDLABEL, DUEMILANOVE_SHIELD, SparkFun, (0, 0), R0
 - rawPart: U2, SPEAKJETSMD_WIDE, SO-18W, SparkFun, (1.15, 0.35), R0
-- oompID: PROJ-SPAR-10661-STAN-01
 
 
 

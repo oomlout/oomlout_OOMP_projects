@@ -90,6 +90,7 @@ Contents
 - oompName: Qwiic Spectral Sensor AS7265x
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS7265x (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15050
+- oompID: PROJ-SPAR-15050-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BULB1, 7.366028194, 25.145968758, M120
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BULB2, 28.19395936, 25.018978156, M240
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BULB3, 17.779999999999998, 6.985050037999999, M0
@@ -184,7 +185,6 @@ Contents
 - rawPart: U2, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.7, 1.34999815), R270
 - rawPart: U3, AS72652, LGA20, Qwiic_Spectral_Sensor-AS7265x, (0.95979884, 0.60000135), R60
 - rawPart: U4, AS72653, LGA20, Qwiic_Spectral_Sensor-AS7265x, (0.44020153, 0.60000123), R300
-- oompID: PROJ-SPAR-15050-STAN-01
 
 
 

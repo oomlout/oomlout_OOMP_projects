@@ -65,6 +65,7 @@ Contents
 - oompName: Qwiic Atmospheric Sensor Breakout BME280
 - sources: All source files from https://github.com/sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15440
+- oompID: PROJ-SPAR-15440-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 10.8204, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 16.509999999999998, 14.0716, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.921, 5.6133999999999995, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.35), R270
 - rawPart: R5, 1k, 0603, SparkFun-Resistors, (0.115, 0.159), R180
 - rawPart: U1, BME280, LGA-8-2.5X2.5, SparkFun-Sensors, (0.5, 0.5), R90
-- oompID: PROJ-SPAR-15440-STAN-01
 
 
 

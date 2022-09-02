@@ -52,6 +52,7 @@ Contents
 - oompName: MyoWare Power Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_Power_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13684
+- oompID: PROJ-SPAR-13684-STAN-01
 - oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
 - oompPart: ERROR, BAT2 20mm coincell, 0, 0, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -22.86, -7.619999999999999, 0
@@ -64,7 +65,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.3), R0
 - rawPart: JP1, RAW, 1X03_NO_SILK, SparkFun-Connectors, (-0.9675, 0.1), R270
 - rawPart: JP2, PROCESSED, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
-- oompID: PROJ-SPAR-13684-STAN-01
 
 
 

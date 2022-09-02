@@ -55,6 +55,7 @@ Contents
 - oompName: DeadOn RTC
 - sources: All source files from https://github.com/sparkfun/DeadOn_RTC (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10160
+- oompID: PROJ-SPAR-10160-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 13.97, M0
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 17.779999999999998, 11.43, 270
 - oompPart: HEAD-I01-X-PI07-01, JP1, 2.54, 1.27, 0
@@ -69,7 +70,6 @@ Contents
 - rawPart: JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.585, 0.7), R0
 - rawPart: R1, 10k, 0402-RES, SparkFun, (0.7, 0.35), R270
 - rawPart: U1, DS3234, DS3234, SparkFun, (0.4, 0.4), R180
-- oompID: PROJ-SPAR-10160-STAN-01
 
 
 

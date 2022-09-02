@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit FPC SMT Adapter PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-FPC-SMT-Adapter-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1325
+- oompID: PROJ-ADAF-1325-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CON1, 0.0, 25.717499999999998, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 0.0, -2.54, 0
 - oompPart: HEAD-I01-X-PI20-01, JP2, -26.669999999999998, 26.669999999999998, 90
@@ -72,7 +73,6 @@ Contents
 - rawPart: U$2, PINHD-1X40-0.7MM, 1X40-0.7MM, adafruit, (0, 0.6), R0
 - rawPart: U$3, PINHD-1X40-0.8MM, 1X40-0.8MM, adafruit, (0, 0.45), R0
 - rawPart: U$4, PINHD-1X40-1MM, 1X40-1MM, adafruit, (0, 0.25), R0
-- oompID: PROJ-ADAF-1325-STAN-01
 
 
 

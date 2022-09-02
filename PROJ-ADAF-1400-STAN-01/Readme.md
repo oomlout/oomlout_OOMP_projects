@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Push Button Power Switch PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1400
+- oompID: PROJ-ADAF-1400-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.460999999999999, 5.334, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 1.27, 8.889999999999999, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN2, 19.049999999999997, 8.889999999999999, M90
@@ -90,7 +91,6 @@ Contents
 - rawPart: R3, 100K, R0805, rcl, (0.4, 0.6), R90
 - rawPart: R4, 1K, R0805, adafruit, (0.61, 0.25), R180
 - rawPart: S1, B3F-40XX-ROUND, adafruit, (0.4, 0.35), MR90
-- oompID: PROJ-ADAF-1400-STAN-01
 
 
 

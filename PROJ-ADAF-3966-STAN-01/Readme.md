@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit BMP3xx PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP3xx-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3966
+- oompID: PROJ-ADAF-3966-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 6.731, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 8.128, 12.191999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C6, 10.540999999999999, 8.889999999999999, 90
@@ -103,7 +104,6 @@ Contents
 - rawPart: U$40, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U$41, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.32, 0.345), R0
-- oompID: PROJ-ADAF-3966-STAN-01
 
 
 

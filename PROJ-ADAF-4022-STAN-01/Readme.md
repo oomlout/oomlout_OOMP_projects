@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit MLX90393 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MLX90393-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4022
+- oompID: PROJ-ADAF-4022-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 2.54, 11.43, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 3.556, 6.095999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.334, 13.208, 270
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$23, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.8, 0.65), R0
 - rawPart: U1, MLX90393, QFN16_3MM, microbuilder, (0.43, 0.35), R90
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.12, 0.35), R270
-- oompID: PROJ-ADAF-4022-STAN-01
 
 
 

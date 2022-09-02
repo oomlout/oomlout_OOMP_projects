@@ -104,6 +104,7 @@ Contents
 - oompName: LilyPad USB Plus Standalone
 - sources: All source files from https://github.com/sparkfun/LilyPad_USB_Plus_Standalone (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14631
+- oompID: PROJ-SPAR-14631-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C2, 28.320996952, 28.622628048, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 34.956746951999996, 38.846128048, 45
 - oompPart: CAPC-0402-X-NF100-V50, C4, 35.687003047999994, 30.861003047999997, 90
@@ -240,7 +241,6 @@ Contents
 - rawPart: U2, 3.3V, SOT23-5, SparkFun-IC-Power, (1.575, 1.03), R270
 - rawPart: U5, 32U4, QFN-44-PAD_1:1-LESS_PASTE, SparkFun-IC-Microcontroller, (1.2, 1.35), R0
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun-FreqCtrl, (1.215, 1.04000025), R180
-- oompID: PROJ-SPAR-14631-STAN-01
 
 
 

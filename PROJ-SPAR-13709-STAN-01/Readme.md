@@ -67,6 +67,7 @@ Contents
 - oompName: MyoWare Proto Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_Proto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13709
+- oompID: PROJ-SPAR-13709-STAN-01
 - oompPart: HEAD-I01-X-PI03-01, JP1, -21.971, 2.54, 270
 - oompPart: HEAD-I01-X-PI03-01, JP2, -24.511, 2.54, 270
 - oompPart: HEAD-I01-X-PI08-01, JP3, -17.779999999999998, -8.889999999999999, 90
@@ -105,7 +106,6 @@ Contents
 - rawPart: JP17, 1X08_NO_SILK, SparkFun-Connectors, (0.7, -0.35), R90
 - rawPart: JP18, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.8675, 0.1), R270
 - rawPart: JP19, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
-- oompID: PROJ-SPAR-13709-STAN-01
 
 
 

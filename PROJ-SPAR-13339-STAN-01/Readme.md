@@ -59,6 +59,7 @@ Contents
 - oompName: LSM6DS3 Breakout
 - sources: All source files from https://github.com/sparkfun/LSM6DS3_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13339
+- oompID: PROJ-SPAR-13339-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 13.652499999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 11.43, 15.239999999999998, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.0318749999999999, 21.748749999999998, 0
@@ -93,7 +94,6 @@ Contents
 - rawPart: SJ3, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.65, 0.75), MR180
 - rawPart: SJ4, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.55, 0.75), MR0
 - rawPart: U2, LSM6DS3, LGA14L_DOT_INDICATOR, LSM6DS3, (0.45, 0.45), R180
-- oompID: PROJ-SPAR-13339-STAN-01
 
 
 

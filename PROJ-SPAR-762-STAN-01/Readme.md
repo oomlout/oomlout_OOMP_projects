@@ -69,6 +69,7 @@ Contents
 - oompName: USB Bit Whacker-18F2553
 - sources: All source files from https://github.com/sparkfun/USB_Bit_Whacker-18F2553 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/762
+- oompID: PROJ-SPAR-762-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 16.509999999999998, 27.94, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 5.08, 20.32, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 29.209999999999997, 0
@@ -115,7 +116,6 @@ Contents
 - rawPart: S2, PRG, TACTILE_SWITCH_SMD, SparkFun, (0.3, 0.15), R0
 - rawPart: U2, PIC18F2455, SO-28W, SparkFun, (0.45, 0.7), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.5, 1.4), R270
-- oompID: PROJ-SPAR-762-STAN-01
 
 
 

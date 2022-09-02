@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit RGB Matrix Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-Matrix-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3211
+- oompID: PROJ-ADAF-3211-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 33.019999999999996, 21.081999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 15.366999999999999, 14.097000000000001, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 19.304, 10.540999999999999, 270
@@ -101,7 +102,6 @@ Contents
 - rawPart: U3, 74AHCT245, TSSOP20, microbuilder, (1.29, 0.545), R180
 - rawPart: U5, 74AHCT245, TSSOP20, microbuilder, (1.59, 0.545), R180
 - rawPart: X1, 2.1mm, DC, DCJACK_2MM_PTH, microbuilder, (-0.05, 0.49), R0
-- oompID: PROJ-ADAF-3211-STAN-01
 
 
 

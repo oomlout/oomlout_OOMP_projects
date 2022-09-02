@@ -79,6 +79,7 @@ Contents
 - oompName: MicroMod Processor-RP2040
 - sources: All source files from https://github.com/sparkfun/MicroMod_Processor-RP2040 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17720
+- oompID: PROJ-SPAR-17720-STAN-01
 - oompPart: CAPC-0402-X-UF22D-01, C1, 16.000000004, 6.999999969999999, M180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 19.000000099999998, 5.999999937999999, M180
 - oompPart: CAPC-0402-X-UF22D-01, C3, 16.000000004, 13.999999939999999, M180
@@ -149,7 +150,6 @@ Contents
 - rawPart: U2, FSUSB30MUX_MSOP10, MSOP10, SparkFun-IC-Special-Function, (0.7480315, 0.39370079), MR270
 - rawPart: U3, RP2040, QFN-56, RP2040, (0.43307087, 0.47244094), R270
 - rawPart: Y1, 12MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.11811024, 0.47244094), R270
-- oompID: PROJ-SPAR-17720-STAN-01
 
 
 

@@ -121,6 +121,7 @@ Contents
 - oompName: Digital Sandbox
 - sources: All source files from https://github.com/sparkfun/Digital_Sandbox (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12651
+- oompID: PROJ-SPAR-12651-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 25.019, 54.102, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.492999999999999, 65.78599999999999, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 28.988999933999995, 52.450899924, 270
@@ -271,7 +272,6 @@ Contents
 - rawPart: U9, MIC9.7MM, MIC-9.7MM, SparkFun-Sensors, (3.2, 2.54), R90
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun-Connectors, (0.92, 2.815), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun-FreqCtrl, (0.595, 1.69), R270
-- oompID: PROJ-SPAR-12651-STAN-01
 
 
 

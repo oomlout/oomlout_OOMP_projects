@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit_ADXL343_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_ADXL343_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4097
+- oompID: PROJ-ADAF-4097-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.176, 13.081, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.175, 5.968999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.968999999999999, 11.302999999999999, 270
@@ -89,7 +90,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U1, ADXL343, LGA14, microbuilder, (0.5, 0.4), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.125, 0.36), R0
-- oompID: PROJ-ADAF-4097-STAN-01
 
 
 

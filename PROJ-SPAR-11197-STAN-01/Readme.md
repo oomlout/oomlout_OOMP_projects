@@ -93,6 +93,7 @@ Contents
 - oompName: ATmega128RFA1 Dev
 - sources: All source files from https://github.com/sparkfun/ATmega128RFA1_Dev (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11197
+- oompID: PROJ-SPAR-11197-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 52.06999999999999, 19.049999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 45.72, 19.049999999999997, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 38.099999999999994, 10.16, 270
@@ -191,7 +192,6 @@ Contents
 - rawPart: U2, LM1117, SOT223, SparkFun, (0.5, 0.95), R90
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-5X3, SparkFun-FreqCtrl, (1.35, 0.4), R0
 - rawPart: Y2, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (1.575, 1.05), R0
-- oompID: PROJ-SPAR-11197-STAN-01
 
 
 

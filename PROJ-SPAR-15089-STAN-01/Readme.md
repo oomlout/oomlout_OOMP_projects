@@ -58,6 +58,7 @@ Contents
 - oompName: SparkFun UV Sensor
 - sources: All source files from https://github.com/sparkfun/SparkFun_UV_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15089
+- oompID: PROJ-SPAR-15089-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 14.604999999999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.54, 3.8099999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270
@@ -86,7 +87,6 @@ Contents
 - rawPart: R2, 2.2k, 0603, SparkFun-Resistors, (0.6, 0.65), R90
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.1, 0.1), R0
 - rawPart: U1, VEML6075, VEML6075_A3OP, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-15089-STAN-01
 
 
 

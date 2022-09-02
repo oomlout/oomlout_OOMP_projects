@@ -56,6 +56,7 @@ Contents
 - oompName: ISL29125 Breakout
 - sources: All source files from https://github.com/sparkfun/ISL29125_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12829
+- oompID: PROJ-SPAR-12829-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 3.8099999999999996, 8.254999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 3.8099999999999996, 10.16, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 11.43, 15.239999999999998, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: R4, 10K, 0603-RES, SparkFun-Resistors, (0.55, 0.4), R0
 - rawPart: SJ2, SJ_3, SparkFun-Passives, (0.64, 0.25), MR0
 - rawPart: U1, ISL29125, ODFN-LD-6, SparkFun-Sensors, (0.35, 0.35), R0
-- oompID: PROJ-SPAR-12829-STAN-01
 
 
 

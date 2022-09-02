@@ -109,6 +109,7 @@ Contents
 - oompName: OpenScale
 - sources: All source files from https://github.com/sparkfun/OpenScale (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13261
+- oompID: PROJ-SPAR-13261-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 35.559999999999995, 20.955, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 44.830999999999996, 32.638999999999996, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 41.592499999999994, 11.43, 0
@@ -239,7 +240,6 @@ Contents
 - rawPart: U4, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (0.875, 1.35), R180
 - rawPart: U6, FT231XS, SSOP20_L, SparkFun-DigitalIC, (1.4875, 1.2375), R0
 - rawPart: Y2, 16MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (1.155, 1.46), R90
-- oompID: PROJ-SPAR-13261-STAN-01
 
 
 

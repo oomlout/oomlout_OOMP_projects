@@ -67,7 +67,7 @@ Contents
 |RESE-0402-X-O223-01, R5, 19.832321777999997, 13.012415682, 90,R5, 22k, 0402-TIGHT, SparkFun-Resistors, (0.78080007, 0.51229983), R90|
 |RESE-0603-X-UNMATCHED-01, R6, 10.294615682, 24.831037459999997, 180,R6, 2.0k, 0603, SparkFun-Resistors, (0.40529983, 0.9775999), R180|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R8</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R8</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-O333-01, R9, 20.337774919999998, 11.348721778, 180,R9, 33k, 0402-TIGHT, SparkFun-Resistors, (0.8006998, 0.44680007), R180|
 |<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R10</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R11, 14.173200000000001, 8.6868, 270,R11, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.558, 0.342), R270|
@@ -97,6 +97,7 @@ Contents
 - oompName: ESP32-S2 Thing Plus
 - sources: All source files from https://github.com/sparkfun/ESP32-S2_Thing_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17743
+- oompID: PROJ-SPAR-17743-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 8.33373746, 27.92984381, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 13.009878222, 12.415515681999999, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 13.012425079999998, 13.51026254, 180
@@ -213,7 +214,6 @@ Contents
 - rawPart: U5, TC7USB40MU, UQFN10, esp32-s2-wroom, (0.45, 0.35), R0
 - rawPart: USB, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.221, 0.535), MR270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.25879995, 1.19979995), R180
-- oompID: PROJ-SPAR-17743-STAN-01
 
 
 

@@ -66,6 +66,7 @@ Contents
 - oompName: Venus GPS Logger SMA
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_Logger_SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10920
+- oompID: PROJ-SPAR-10920-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.08, 5.08, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 10.16, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 10.8712, 15.646399999999998, 90
@@ -106,7 +107,6 @@ Contents
 - rawPart: U2, 33nH, 0603-RES, SparkFun-Resistors, (1.0385, 0.49160236), R270
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.3, 0.2), R180
 - rawPart: U4, SPI_FLASH-X25XXSMD1, SO08-EIAJ, SparkFun, (0.7, 0.62), R270
-- oompID: PROJ-SPAR-10920-STAN-01
 
 
 

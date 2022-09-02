@@ -81,6 +81,7 @@ Contents
 - oompName: LilyPad Arduino Simple
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_Simple (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10274
+- oompID: PROJ-SPAR-10274-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2/16, 19.770000084, 9.039999953999999, 204.5
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A3/17, 11.739999888, 18.260000056, 237.3
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4/18, 0.0, 21.700000034, 270
@@ -157,7 +158,6 @@ Contents
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun, (0, 0), R0
 - rawPart: U2, MCP73831, SOT23-5, SparkFun, (-0.47244094, -0.27559055), R180
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (-0.27165354, -0.07874016), R270
-- oompID: PROJ-SPAR-10274-STAN-01
 
 
 

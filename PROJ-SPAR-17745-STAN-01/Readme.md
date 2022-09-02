@@ -108,6 +108,7 @@ Contents
 - oompName: SparkFun Thing Plus-RP2040
 - sources: All source files from https://github.com/sparkfun/SparkFun_Thing_Plus-RP2040 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17745
+- oompID: PROJ-SPAR-17745-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 7.365999999999999, 25.654, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 11.976099999999999, 50.038, 270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 11.43, 52.45099999999999, 0
@@ -242,7 +243,6 @@ Contents
 - rawPart: U6, WS2812-2020, WS2812-2020, SparkFun-LED, (0.45, 2.15), R0
 - rawPart: U7, 3.3V, SOT23-5, SparkFun-IC-Power, (0.6, 0.8), R270
 - rawPart: Y2, 12MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.215, 1.75), R270
-- oompID: PROJ-SPAR-17745-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit NeoPixel Jewel 7
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPixel-Jewel-7 (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2226
+- oompID: PROJ-ADAF-2226-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, -4.5999999439999995, 8.100000055999999, 120
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 4.974346922, 8.174346872, 45
 - oompPart: CAPC-0603-X-UNMATCHED-01, C6, -4.719240751999999, -8.093968826, 240
@@ -103,7 +104,6 @@ Contents
 - rawPart: LED7, WS2812B5050, WS2812B-NARROW, microbuilder, (-0.27165354, 0.15748031), R60
 - rawPart: R1, 470, 0603-NO, microbuilder, (-0.16752645, 0.0071234), R90
 - rawPart: VDD, 1X01-CLEANBIG, NeoPixelRing, (0.08043565, -0.16303937), R0
-- oompID: PROJ-ADAF-2226-STAN-01
 
 
 

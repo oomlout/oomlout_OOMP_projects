@@ -76,6 +76,7 @@ Contents
 - oompName: Gainer PSoC Development Board
 - sources: All source files from https://github.com/sparkfun/Gainer_PSoC_Development_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8480
+- oompID: PROJ-SPAR-8480-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 45.72, 270
 - oompPart: CAPC-0402-X-NF100-V50, C2, 19.049999999999997, 39.37, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 49.529999999999994, 270
@@ -140,7 +141,6 @@ Contents
 - rawPart: U1, CY8C29466-24SOIC, SOIC28, cypress-psoc, (0.5, 0.95), R90
 - rawPart: U2, FT232RL, SSOP28DB, SparkFun, (0.5, 1.6), R270
 - rawPart: X2, USBSMD, USB-MINIB, SparkFun, (0.5, 2.05), R270
-- oompID: PROJ-SPAR-8480-STAN-01
 
 
 

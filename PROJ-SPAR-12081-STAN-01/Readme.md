@@ -103,6 +103,7 @@ Contents
 - oompName: USB Weather Board
 - sources: All source files from https://github.com/sparkfun/USB_Weather_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12081
+- oompID: PROJ-SPAR-12081-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 30.479999999999997, 32.385, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 15.239999999999998, 38.099999999999994, 90
 - oompPart: CAPC-0402-X-NF100-V50, C3, 30.479999999999997, 36.195, 0
@@ -231,7 +232,6 @@ Contents
 - rawPart: U5, BMP085, BMP085, SparkFun, (1.8, 1), R270
 - rawPart: U6, TEMT6000, TEMT6000-SEN, SparkFun, (1.725, 1.5), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.6, 1.35), R270
-- oompID: PROJ-SPAR-12081-STAN-01
 
 
 

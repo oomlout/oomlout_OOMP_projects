@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit Adalogger FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Adalogger-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2922
+- oompID: PROJ-ADAF-2922-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 10.033, 12.827, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 6.731, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 24.764999999999997, 6.095999999999999, 180
@@ -105,7 +106,6 @@ Contents
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.805, 0.305), R180
 - rawPart: X4, microsd, MICROSD, microbuilder, (1.33, 0.17), R90
 - rawPart: Y1, 32khz, CRYSTAL_8X3.8, microbuilder, (0.99, 0.62), R0
-- oompID: PROJ-ADAF-2922-STAN-01
 
 
 

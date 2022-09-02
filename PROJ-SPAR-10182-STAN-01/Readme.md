@@ -58,7 +58,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R6, 10.16, 17.779999999999998, 90,R6, 1.5K, 0402-RES, SparkFun, (0.4, 0.7), R90|
 |RESE-0402-X-UNMATCHED-01, R7, 1.27, 20.32, 270,R7, 1K, 0402-RES, SparkFun, (0.05, 0.8), R270|
 |RESE-0402-X-UNMATCHED-01, R8, 2.54, 20.32, 270,R8, 4.7K, 0402-RES, SparkFun, (0.1, 0.8), R270|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R9</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R9</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R10, 46.99, 15.239999999999998, 180,R10, 1K, 0402-RES, SparkFun, (1.85, 0.6), R180|
 |RESE-0402-X-UNMATCHED-01, R11, 46.99, 33.019999999999996, 180,R11, 1K, 0402-RES, SparkFun, (1.85, 1.3), R180|
 |RESE-0402-X-UNMATCHED-01, R12, 46.99, 20.32, 180,R12, 1K, 0402-RES, SparkFun, (1.85, 0.8), R180|
@@ -85,6 +85,7 @@ Contents
 - oompName: Monster Moto Shield
 - sources: All source files from https://github.com/sparkfun/Monster_Moto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10182
+- oompID: PROJ-SPAR-10182-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 7.619999999999999, 17.779999999999998, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 20.32, 17.779999999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C3, 12.7, 8.889999999999999, 0
@@ -169,7 +170,6 @@ Contents
 - rawPart: U1, VNH2SP30, VNH2SP30, SparkFun, (0.7, 1.75), R0
 - rawPart: U2, VNH2SP30, VNH2SP30, SparkFun, (1.4, 1.75), R0
 - rawPart: U3, ARDUINO_SHIELDLABEL, DUEMILANOVE_SHIELD, SparkFun, (2.1, 2.35), R180
-- oompID: PROJ-SPAR-10182-STAN-01
 
 
 

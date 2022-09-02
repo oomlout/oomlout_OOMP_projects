@@ -69,6 +69,7 @@ Contents
 - oompName: Teensy 3 1 XBee Adapter
 - sources: All source files from https://github.com/sparkfun/Teensy_3_1_XBee_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13311
+- oompID: PROJ-SPAR-13311-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 22.86, 2.54, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 83.82, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 6.35, 0
@@ -123,7 +124,6 @@ Contents
 - rawPart: SJ3, D_RX, PAD-JUMPER-2-NC_BY_PASTE_YES_SILK, SparkFun-Passives, (0.25, 1.9375), R0
 - rawPart: SJ4, JUMPER-PAD-3-2OF3_NC_BY_PASTE, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.9, 1.9625), R180
 - rawPart: SJ5, EXT_JPR, PAD-JUMPER-2-NO_YES_SILK, SparkFun-Passives, (0.4, 0.175), R0
-- oompID: PROJ-SPAR-13311-STAN-01
 
 
 

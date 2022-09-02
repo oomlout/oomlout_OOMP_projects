@@ -62,6 +62,7 @@ Contents
 - oompName: MPR121 Capacitive Touch Breakout
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9695
+- oompID: PROJ-SPAR-9695-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.16, 11.43, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.16, 19.049999999999997, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 12.7, 15.239999999999998, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.15, 0.55), MR180
 - rawPart: SJ3, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.15, 0.65), MR180
 - rawPart: SJ4, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun, (0.15, 0.75), MR180
-- oompID: PROJ-SPAR-9695-STAN-01
 
 
 

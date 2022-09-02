@@ -64,6 +64,7 @@ Contents
 - oompName: Edison 9DOF Block
 - sources: All source files from https://github.com/sparkfun/Edison_9DOF_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13033
+- oompID: PROJ-SPAR-13033-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 20.32, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 6.35, 24.13, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 8.889999999999999, 25.4, 0
@@ -138,7 +139,6 @@ Contents
 - rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
 - rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
 - rawPart: U4, MIC52053.3V, SOT23-5, SparkFun-PowerIC, (0.375, 0.85), R0
-- oompID: PROJ-SPAR-13033-STAN-01
 
 
 

@@ -69,6 +69,7 @@ Contents
 - oompName: FTDI SmartBasic
 - sources: All source files from https://github.com/sparkfun/FTDI_SmartBasic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12935
+- oompID: PROJ-SPAR-12935-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 17.399, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 1.27, 17.779999999999998, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 16.509999999999998, 270
@@ -117,7 +118,6 @@ Contents
 - rawPart: U1, FT232RLSSOP, SSOP28DB, SparkFun-DigitalIC, (0.7, 0.4), R180
 - rawPart: U2, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.55), R270
 - rawPart: U3, TS3USB221A, QFN-10-RSE, SparkFun-AnalogIC, (1.025, 0.31), R0
-- oompID: PROJ-SPAR-12935-STAN-01
 
 
 

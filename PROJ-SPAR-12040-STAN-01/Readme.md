@@ -59,6 +59,7 @@ Contents
 - oompName: INA169 Breakout
 - sources: All source files from https://github.com/sparkfun/INA169_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12040
+- oompID: PROJ-SPAR-12040-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 22.86, 17.779999999999998, 90
 - oompPart: HEAD-I01-X-PI01-01, JP1, 10.16, 1.27, 0
 - oompPart: HEAD-I01-X-PI01-01, JP2, 12.7, 1.27, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: R3, AXIAL-0.8, SparkFun-Resistors, (0.5, 0.4), R0
 - rawPart: R4, AXIAL-0.4, SparkFun-Resistors, (0.3, 0.7), R0
 - rawPart: U1, INA169, SOT23-5, SparkFun-AnalogIC, (0.75, 0.7), R270
-- oompID: PROJ-SPAR-12040-STAN-01
 
 
 

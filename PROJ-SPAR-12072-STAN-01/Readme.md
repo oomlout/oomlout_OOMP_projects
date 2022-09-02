@@ -70,6 +70,7 @@ Contents
 - oompName: CC3000 WiFi Breakout
 - sources: All source files from https://github.com/sparkfun/CC3000_WiFi_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12072
+- oompID: PROJ-SPAR-12072-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AE1, 20.32, 43.18, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.97, 8.889999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.86, 17.779999999999998, 90
@@ -120,7 +121,6 @@ Contents
 - rawPart: U1, LM1117, SOT223, SparkFun-PowerIC, (0.7, 0.6), R180
 - rawPart: U3, 74HC4050, SO016, SparkFun-DigitalIC, (0.3, 0.6), R180
 - rawPart: U5, CC3000, QFN-46_CC3000, SparkFun-RF, (0.45, 1.15), R0
-- oompID: PROJ-SPAR-12072-STAN-01
 
 
 

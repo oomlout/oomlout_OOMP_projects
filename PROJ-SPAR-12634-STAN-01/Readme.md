@@ -73,6 +73,7 @@ Contents
 - oompName: Simon Tilts
 - sources: All source files from https://github.com/sparkfun/Simon_Tilts (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12634
+- oompID: PROJ-SPAR-12634-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 11.43, 34.29, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 64.77, 34.29, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 60.959999999999994, 64.77, 180
@@ -147,7 +148,6 @@ Contents
 - rawPart: U$5, TILT_SENSORV5, TILT_SENSOR_V5, Testing, (1.05, 0.5), R315
 - rawPart: U$6, TILT_SENSORV5, TILT_SENSOR_V5, Testing, (1.95, 1), R135
 - rawPart: U$7, AVR-MEGA8-P-KEYED-14, DIL28-3_KEYED-14, Testing, (1.5, 2.025), R0
-- oompID: PROJ-SPAR-12634-STAN-01
 
 
 

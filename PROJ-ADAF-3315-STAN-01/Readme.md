@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit 2.4 TFT FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-2.4-TFT-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3315
+- oompID: PROJ-ADAF-3315-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 51.943, 5.842, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 60.706, 27.686, 0
 - oompPart: CAPC-0805-X-NF100-V50, C4, 37.592, 6.604, 90
@@ -187,7 +188,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (2.45, 1.97), R0
 - rawPart: U2, STMPE811, QFN16_3MM, microbuilder, (1.555, 1.77), R180
 - rawPart: X1, MicroSD, Holder, MICROSD, microbuilder, (1.925, 1.18), R90
-- oompID: PROJ-ADAF-3315-STAN-01
 
 
 

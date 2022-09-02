@@ -77,6 +77,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-nano
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-nano
+- oompID: PROJ-ARDU-NANO-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 7.035, 3.0226, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 7.62, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 19.8628, 6.1214, M180
@@ -141,7 +142,6 @@ Contents
 - rawPart: U$53, DNP, FD-1-1.5, Arduino-utility, (41.5798, 3.8608), MR90
 - rawPart: U$54, DNP, FD-1-1.5, Arduino-utility, (41.8846, 14.605), MR90
 - rawPart: Y1, 16MHz, RESONATOR, Cristalli, (20.8534, 13.2064), R315
-- oompID: PROJ-ARDU-NANO-STAN-01
 
 
 

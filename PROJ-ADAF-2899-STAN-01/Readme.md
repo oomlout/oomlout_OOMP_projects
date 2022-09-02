@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit VEML6070 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VEML6070-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2899
+- oompID: PROJ-ADAF-2899-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.35, 9.652, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.334, 0.7619999999999999, 0
 - oompPart: HEAD-I01-X-PI05-01, JP1, 6.35, 2.54, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R0
 - rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, 0.45), R0
 - rawPart: U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0
-- oompID: PROJ-ADAF-2899-STAN-01
 
 
 

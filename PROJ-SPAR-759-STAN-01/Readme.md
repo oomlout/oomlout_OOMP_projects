@@ -66,6 +66,7 @@ Contents
 - oompName: LED Matrix Serial Interface RedGreen
 - sources: All source files from https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/759
+- oompID: PROJ-SPAR-759-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 10.16, 40.64, 180
 - oompPart: CAPC-0402-X-NF100-V50, C4, 33.019999999999996, 44.449999999999996, 270
 - oompPart: CAPC-0402-X-NF100-V50, C5, 12.7, 8.889999999999999, 0
@@ -106,7 +107,6 @@ Contents
 - rawPart: U2, AVR_SPI_PRG_6PTH, 2X3, SparkFun, (1.55, 0.1), R90
 - rawPart: U3, 16MHz, RESONATOR-SMD, SparkFun, (0.35, 1.15), R270
 - rawPart: ULN1, uln2803, SO18L, SparkFun, (1.4, 1.15), R180
-- oompID: PROJ-SPAR-759-STAN-01
 
 
 

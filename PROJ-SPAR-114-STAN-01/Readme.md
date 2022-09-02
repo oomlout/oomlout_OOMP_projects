@@ -67,6 +67,7 @@ Contents
 - oompName: Breadboard Power Supply 5V 3.3V
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_5V_3.3V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/114
+- oompID: PROJ-SPAR-114-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 19.049999999999997, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 27.94, 15.239999999999998, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 29.209999999999997, 22.86, 270
@@ -105,7 +106,6 @@ Contents
 - rawPart: S1, On/Off, SWITCH-SPST, SparkFun, (0.2, 0.25), R0
 - rawPart: S2, Voltage, SWITCH-SPST, SparkFun, (1.05, 0.25), R0
 - rawPart: U1, LM317, TO220-ADJ, SparkFun, (0.65, 0.9), R0
-- oompID: PROJ-SPAR-114-STAN-01
 
 
 

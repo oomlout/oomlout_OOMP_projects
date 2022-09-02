@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Bluefruit EZ Key PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1535
+- oompID: PROJ-ADAF-1535-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.334, 9.398, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 4.571999999999999, 5.08, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 17.272000000000002, 4.3180000000000005, 0
@@ -102,7 +103,6 @@ Contents
 - rawPart: SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.485, 0.185), R180
 - rawPart: U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.45, 1), R0
 - rawPart: U2, MIC5225, SOT23-5, microbuilder, (0.295, 0.19), R0
-- oompID: PROJ-ADAF-1535-STAN-01
 
 
 

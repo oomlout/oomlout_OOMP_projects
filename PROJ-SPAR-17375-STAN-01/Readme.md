@@ -67,6 +67,7 @@ Contents
 - oompName: Qwiic PIR
 - sources: All source files from https://github.com/sparkfun/Qwiic_PIR (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17375
+- oompID: PROJ-SPAR-17375-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 16.509999999999998, 10.795, M0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 18.4785, 7.619999999999999, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.8099999999999996, 5.715, 0
@@ -115,7 +116,6 @@ Contents
 - rawPart: R11, 10k, 0603, SparkFun-Resistors, (0.85, 0.1), R0
 - rawPart: U1, EKMC4607112k, TO-3, SparkFun-Sensors, (0.5, 0.75), R0
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (0.5, 0.3), R180
-- oompID: PROJ-SPAR-17375-STAN-01
 
 
 

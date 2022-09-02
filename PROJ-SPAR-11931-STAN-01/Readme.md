@@ -56,6 +56,7 @@ Contents
 - oompName: Digital Temperature Sensor Breakout - TMP102
 - sources: All source files from https://github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11931
+- oompID: PROJ-SPAR-11931-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 5.08, 270
 - oompPart: HEAD-I01-X-PI06-01, JP1, 1.27, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 7.619999999999999, 0
@@ -74,7 +75,6 @@ Contents
 - rawPart: R2, 1K, 0603-RES, SparkFun, (0.3, 0.2), R90
 - rawPart: R3, 1K, 0603-RES, SparkFun, (0.4, 0.2), R90
 - rawPart: U1, TMP1021:1, SOT563-2, SparkFun-Sensors, (0.3, 0.35), R180
-- oompID: PROJ-SPAR-11931-STAN-01
 
 
 

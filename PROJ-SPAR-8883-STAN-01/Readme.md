@@ -64,6 +64,7 @@ Contents
 - oompName: Low Current Sensor Breakout-ACS712
 - sources: All source files from https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8883
+- oompID: PROJ-SPAR-8883-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 24.13, 7.619999999999999, 270
 - oompPart: CAPC-0402-X-NF100-V50, C2, 20.32, 11.43, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 21.59, 3.8099999999999996, 180
@@ -100,7 +101,6 @@ Contents
 - rawPart: U$3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.25, 0.05), R0
 - rawPart: U1, ACS712, SO08, SparkFun, (0.4, 0.3), R270
 - rawPart: U2, OPA344, SOT23-5, SparkFun, (0.8, 0.3), R180
-- oompID: PROJ-SPAR-8883-STAN-01
 
 
 

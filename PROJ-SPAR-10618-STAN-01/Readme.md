@@ -75,6 +75,7 @@ Contents
 - oompName: Power Driver Shield Kit
 - sources: All source files from https://github.com/sparkfun/Power_Driver_Shield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10618
+- oompID: PROJ-SPAR-10618-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 41.91, 8.254999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 71.11999999999999, 26.669999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 8.889999999999999, 37.465, 90
@@ -139,7 +140,6 @@ Contents
 - rawPart: R8, 1K, AXIAL-0.3, SparkFun, (2.2, 0.65), R270
 - rawPart: S1, SWITCH-SPDT, SparkFun, (2, 1.05), R270
 - rawPart: U1, Arduino, DUEMILANOVE_SHIELD, SparkFun, (0, 2.1), R270
-- oompID: PROJ-SPAR-10618-STAN-01
 
 
 

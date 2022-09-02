@@ -55,6 +55,7 @@ Contents
 - oompName: SparkFun T5403 Barometric Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12039
+- oompID: PROJ-SPAR-12039-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.97, 7.365999999999999, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 11.43, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 24.13, 2.54, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: R4, 10k, 0603-RES, SparkFun-Resistors, (0.67, 0.31), R90
 - rawPart: SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.25, 0.39), R90
 - rawPart: U1, T5400, T5400, SparkFun-Sensors, (0.55, 0.41), R90
-- oompID: PROJ-SPAR-12039-STAN-01
 
 
 

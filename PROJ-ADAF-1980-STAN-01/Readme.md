@@ -48,6 +48,7 @@ Contents
 - oompName: TSL2561 breakout board PCB
 - sources: All source files from https://github.com/adafruit/TSL2561-breakout-board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1980
+- oompID: PROJ-ADAF-1980-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 3.8099999999999996, 8.889999999999999, 270
 - oompPart: HEAD-I01-X-PI06-01, JP1, 8.889999999999999, 2.54, 0
 - oompPart: RESE-0805-X-O103-01, R1, 15.493999999999998, 8.889999999999999, 90
@@ -66,7 +67,6 @@ Contents
 - rawPart: U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.6, 0.57), R0
 - rawPart: U$6, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.57), R0
 - rawPart: U1, TSL2561, TSL2561_FN, microbuilder, (0.35, 0.35), R270
-- oompID: PROJ-ADAF-1980-STAN-01
 
 
 

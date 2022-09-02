@@ -56,6 +56,7 @@ Contents
 - oompName: USB-C-Breakout
 - sources: All source files from https://github.com/sparkfun/USB-C-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15100
+- oompID: PROJ-SPAR-15100-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 6.35, 10.795, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 11.43, 4.444999999999999, 90
 - oompPart: HEAD-I01-X-PI2-01, JP3, 0.7619999999999999, 20.827999999999996, 180
@@ -72,7 +73,6 @@ Contents
 - rawPart: JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.465, 0.035), MR180
 - rawPart: R1, 5.1k, 0603, SparkFun-Resistors, (0.3, 0.1), R0
 - rawPart: R4, 5.1k, 0603, SparkFun-Resistors, (0.3, 0.75), R180
-- oompID: PROJ-SPAR-15100-STAN-01
 
 
 

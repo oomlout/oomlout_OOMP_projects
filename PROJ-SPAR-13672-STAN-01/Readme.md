@@ -97,6 +97,7 @@ Contents
 - oompName: SAMD21 Dev Breakout
 - sources: All source files from https://github.com/sparkfun/SAMD21_Dev_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13672
+- oompID: PROJ-SPAR-13672-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UF22D-01, C1, 10.16, 43.18, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.239999999999998, 19.685, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0
@@ -203,7 +204,6 @@ Contents
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-PowerIC, (0.7, 0.4), R270
 - rawPart: U4, ATSAMD21G-A, TQFP-48, samd21-temp, (1.5, 1.2), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, samd21-temp, (1.775, 1.025), R180
-- oompID: PROJ-SPAR-13672-STAN-01
 
 
 

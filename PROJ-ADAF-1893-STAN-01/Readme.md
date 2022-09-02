@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit MPL3115A2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPL3115A2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1893
+- oompID: PROJ-ADAF-1893-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 5.62299993, 6.395999907999999, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 2.667, 11.676000016, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.794, 5.588, 0
@@ -95,7 +96,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.6), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.105, 0.34), R0
-- oompID: PROJ-ADAF-1893-STAN-01
 
 
 

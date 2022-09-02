@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit SAMD09 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SAMD09-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3657
+- oompID: PROJ-ADAF-3657-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.492999999999999, 24.892, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.619999999999999, 23.241, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 7.492999999999999, 31.115000000000002, 180
@@ -97,7 +98,6 @@ Contents
 - rawPart: R5, 10k, 0603-NO, microbuilder, (0.225, 0.31), R0
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.25, 0.075), R180
 - rawPart: U1, AP2112K, SOT23-5, microbuilder, (0.29, 1.1), R180
-- oompID: PROJ-ADAF-3657-STAN-01
 
 
 

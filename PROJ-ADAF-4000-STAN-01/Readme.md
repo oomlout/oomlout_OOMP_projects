@@ -109,6 +109,7 @@ Contents
 - oompName: Adafruit Metro M4 Express AirLift PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Metro-M4-Express-AirLift-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4000
+- oompID: PROJ-ADAF-4000-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 57.15, 2.54, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 34.87780934, 23.3426, 225
 - oompPart: CAPC-0805-X-NF100-V50, C2, 36.57599999999999, 16.128999999999998, 180
@@ -241,7 +242,6 @@ Contents
 - rawPart: X4, 32.768, XTAL3215, adafruit2, (1.758, 0.861), R180
 - rawPart: X5, 2.1mm, DCJACK_2MM_PTH, microbuilder, (-0.13, 0.305), R0
 - rawPart: X6, ESP32_WROOM32, WROOM32, microbuilder, (0.497, 0.901), R90
-- oompID: PROJ-ADAF-4000-STAN-01
 
 
 

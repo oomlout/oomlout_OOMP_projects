@@ -62,6 +62,7 @@ Contents
 - oompName: Edison Battery Block
 - sources: All source files from https://github.com/sparkfun/Edison_Battery_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13037
+- oompID: PROJ-SPAR-13037-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 1.016, 35.81399999999999, 180
@@ -98,7 +99,6 @@ Contents
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.3, 1.55), R180
 - rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
 - rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
-- oompID: PROJ-SPAR-13037-STAN-01
 
 
 

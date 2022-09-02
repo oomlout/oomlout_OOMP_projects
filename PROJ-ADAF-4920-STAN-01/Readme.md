@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit TPS62827 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPS62827-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4920
+- oompID: PROJ-ADAF-4920-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 1.1429999999999998, 9.524999999999999, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 5.460999999999999, 8.8265, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 2.921, 9.524999999999999, 90
@@ -90,7 +91,6 @@ Contents
 - rawPart: R3, 100K, 0603-NO, microbuilder, (0.085, 0.4675), R0
 - rawPart: R4, 10k, _0603MP, microbuilder, (0.3425, 0.36), R180
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.3, 0.55), R0
-- oompID: PROJ-ADAF-4920-STAN-01
 
 
 

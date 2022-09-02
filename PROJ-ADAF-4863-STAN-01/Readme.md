@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit CYBERDECK PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CYBERDECK-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4863
+- oompID: PROJ-ADAF-4863-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 54.22899999999999, 35.687, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C34, 10.731499999999999, 32.829499999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 62.230000000000004, 43.561, 90
@@ -92,7 +93,6 @@ Contents
 - rawPart: RPI3, RASPBERRYPI_BPLUS_2X20_THMSMT_TOP, RASPI_2X20_THMSMT_TOP, adafruit_sbc, (1.2825, 2.8869685), R0
 - rawPart: SENSE, JST, PH, 3, JSTPH3, microbuilder, (2.38, 1.365), R270
 - rawPart: SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.435, 1.5125), R0
-- oompID: PROJ-ADAF-4863-STAN-01
 
 
 

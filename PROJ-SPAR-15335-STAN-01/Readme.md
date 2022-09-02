@@ -88,6 +88,7 @@ Contents
 - oompName: SparkFun Qwiic 9DoF IMU Breakout
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15335
+- oompID: PROJ-SPAR-15335-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 18.668999999999997, 12.7, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 15.366999999999999, 12.7, 270
@@ -178,7 +179,6 @@ Contents
 - rawPart: TP1, 1.8V, PAD.03X.03, SparkFun-Connectors, (0.4, 0.8), MR0
 - rawPart: U2, 9DoF, IMU, QFN24-3X3, SparkFun-Sensors, (0.5, 0.5), R180
 - rawPart: U3, 1.8V/100mA, SC70, SparkFun-IC-Power, (0.34, 0.5), R270
-- oompID: PROJ-SPAR-15335-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompName: MyoWare Cable Shield
 - sources: All source files from https://github.com/sparkfun/MyoWare_Cable_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13687
+- oompID: PROJ-SPAR-13687-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 17.000000036, -8.000000002, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, -17.000000036, 8.000000002, M0
 - oompPart: HEAD-I01-X-PI03-01, JP1, -22.0345, 2.54, 270
@@ -70,7 +71,6 @@ Contents
 - rawPart: JP4, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.33, -0.35), R0
 - rawPart: JP5, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
 - rawPart: JP6, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.8675, 0.1), R270
-- oompID: PROJ-SPAR-13687-STAN-01
 
 
 

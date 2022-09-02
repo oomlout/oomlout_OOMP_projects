@@ -69,6 +69,7 @@ Contents
 - oompName: Qwiic Spectral Sensor AS726X
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14347
+- oompID: PROJ-SPAR-14347-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0
@@ -119,7 +120,6 @@ Contents
 - rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.24), R180
 - rawPart: U1, IR, LGA20, SparkFun-Sensors, (0.5, 0.5), R270
 - rawPart: U3, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.5, 0.75), R270
-- oompID: PROJ-SPAR-14347-STAN-01
 
 
 

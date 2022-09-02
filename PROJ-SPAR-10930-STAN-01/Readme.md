@@ -58,6 +58,7 @@ Contents
 - oompName: ClockIt
 - sources: All source files from https://github.com/sparkfun/ClockIt (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10930
+- oompID: PROJ-SPAR-10930-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 3.0479999999999996, 19.049999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 11.43, 19.049999999999997, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 26.669999999999998, 21.59, 90
@@ -88,7 +89,6 @@ Contents
 - rawPart: S4, SWITCH-MOMENTARY-2TACTILE-PTH-KIT, TACTILE-PTH-KIT, Testing, (0.75, 0.15), R0
 - rawPart: SG2, BUZZERKIT, BUZZER-12MM-KIT, SparkFun, (0.75, 0.65), R0
 - rawPart: U1, AVR-MEGA8-PKIT, DIL28-3-KIT, Testing, (0, 1.1), R0
-- oompID: PROJ-SPAR-10930-STAN-01
 
 
 

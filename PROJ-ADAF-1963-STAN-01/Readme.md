@@ -92,6 +92,7 @@ Contents
 - oompName: Adafruit FONA 800 GSM Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FONA-800-GSM-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1963
+- oompID: PROJ-ADAF-1963-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADC, 11.176, 20.32, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.128, 21.081999999999997, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 2.032, 5.206999999999999, 180
@@ -198,7 +199,6 @@ Contents
 - rawPart: X2, MicroB, 4UCONN_20329, microbuilder, (0.17, 0.87), R270
 - rawPart: X4, 4UCONN_18510, microbuilder, (0, 0.44), R0
 - rawPart: X6, SIM_LOCKAMPHENOL, C707_10M006_512_2, microbuilder, (0.885, 0.9), MR270
-- oompID: PROJ-ADAF-1963-STAN-01
 
 
 

@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit NeoKey FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4979
+- oompID: PROJ-ADAF-4979-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 28.066999999999997, 6.35, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.619999999999999, 10.795, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 2.54, 11.43, 270
@@ -100,7 +101,6 @@ Contents
 - rawPart: SW1, MX, KAILH_SOCKET, adafruit_electromech, (1.375, 0.45), MR0
 - rawPart: SW2, MX, KAILH_SOCKET, adafruit_electromech, (0.625, 0.45), MR0
 - rawPart: SW3, SPST_TACTILE_RA, adafruit_electromech, (1.6, 0.8), R180
-- oompID: PROJ-ADAF-4979-STAN-01
 
 
 

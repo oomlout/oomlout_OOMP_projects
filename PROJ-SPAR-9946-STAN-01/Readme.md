@@ -55,6 +55,7 @@ Contents
 - oompName: Energy Harvester Breakout-LTC3588
 - sources: All source files from https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9946
+- oompID: PROJ-SPAR-9946-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 10.16, 10.16, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 3.8099999999999996, 5.08, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C7, 12.7, 2.54, 180
@@ -73,7 +74,6 @@ Contents
 - rawPart: SJ2, D0, SJ_3_PASTE1&2, SparkFun, (0.5, 0.45), R180
 - rawPart: U1, LTC3588, MSOP-10-GNDPAD, SparkFun, (0.4, 0.25), R270
 - rawPart: U2, 10uH, CDRH3D28, SparkFun, (0.25, 0.1), R180
-- oompID: PROJ-SPAR-9946-STAN-01
 
 
 

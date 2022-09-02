@@ -52,6 +52,7 @@ Contents
 - oompName: Adafruit DragonTail for micro bit PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3695
+- oompID: PROJ-ADAF-3695-STAN-01
 - oompPart: HEAD-I01-X-PI11-01, JP1, -3.8099999999999996, -25.4, 270
 - oompPart: HEAD-I01-X-PI11-01, JP2, 3.8099999999999996, -25.4, 270
 - oompPart: HEAD-I01-X-PI02-01, JP4, -22.224999999999998, -13.97, 0
@@ -64,7 +65,6 @@ Contents
 - rawPart: MB1, MICRO:BIT_RA, 2X20_CARDEDGE_RA, microbuilder, (0, 0), R0
 - rawPart: U$9, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.04, -0.425), R0
 - rawPart: U$10, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (-1.04, -0.425), R0
-- oompID: PROJ-ADAF-3695-STAN-01
 
 
 

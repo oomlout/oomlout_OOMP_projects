@@ -113,6 +113,7 @@ Contents
 - oompName: Line Follower Array
 - sources: All source files from https://github.com/sparkfun/Line_Follower_Array (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13582
+- oompID: PROJ-SPAR-13582-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 12.382499999999999, 7.46125, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 12.382499999999999, 9.04875, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 45.72, 17.4625, M180
@@ -255,7 +256,6 @@ Contents
 - rawPart: U106, QRE1113, QRE1113, SparkFun-Sensors, (1.35, 0.95), MR180
 - rawPart: U107, QRE1113, QRE1113, SparkFun-Sensors, (0.85, 0.95), MR180
 - rawPart: U108, QRE1113, QRE1113, SparkFun-Sensors, (0.35, 0.95), MR180
-- oompID: PROJ-SPAR-13582-STAN-01
 
 
 

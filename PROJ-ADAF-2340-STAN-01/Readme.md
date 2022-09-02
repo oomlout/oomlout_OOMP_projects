@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit Capacitive Touch HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Capacitive-Touch-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2340
+- oompID: PROJ-ADAF-2340-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, #26, 38.608, 40.64, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 33.400999999999996, 28.955999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, AL1, 21.462999999999997, 35.940999999999995, 210
@@ -169,7 +170,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.52, 1.495), R90
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (2.43, 1.33), R0
 - rawPart: U2, MPR121, QFN20_3MM_NOTHERMAL, microbuilder, (1.305, 0.8), R270
-- oompID: PROJ-ADAF-2340-STAN-01
 
 
 

@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit PiTFT 2.2 Inch HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2315
+- oompID: PROJ-ADAF-2315-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.638999999999996, 48.641, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 9.143999999999998, 8.509, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 9.143999999999998, 45.211999999999996, 0
@@ -118,7 +119,6 @@ Contents
 - rawPart: SW4, SPST_TACT-EVQQ2, EVQ-Q2, adafruit, (0.55, 0.135), R0
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (0.14, 1.525), R0
 - rawPart: U2, 2.2TFT, TM022HDH26_2.2IN_LCD, microbuilder, (1.31, 1.07), R90
-- oompID: PROJ-ADAF-2315-STAN-01
 
 
 

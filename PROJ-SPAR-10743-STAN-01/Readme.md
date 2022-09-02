@@ -85,6 +85,7 @@ Contents
 - oompName: Mega Pro Mini
 - sources: All source files from https://github.com/sparkfun/Mega_Pro_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10743
+- oompID: PROJ-SPAR-10743-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C2, 35.559999999999995, 30.479999999999997, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 45.72, 31.75, 90
 - oompPart: CAPC-0402-X-NF100-V50, C4, 53.339999999999996, 19.049999999999997, 0
@@ -161,7 +162,6 @@ Contents
 - rawPart: U1, ATMEGA2560AU, TQFP100, SparkFun, (1.65, 0.8), R0
 - rawPart: U2, V_REG_3.3V, SOT23-5, SparkFun, (0.7, 0.75), R180
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (1.565, 0.37), R0
-- oompID: PROJ-SPAR-10743-STAN-01
 
 
 

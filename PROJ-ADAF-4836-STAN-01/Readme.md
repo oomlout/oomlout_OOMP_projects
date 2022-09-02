@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Wii Nunchuck Breakout Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4836
+- oompID: PROJ-ADAF-4836-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -5.6514999999999995, -6.985, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 0.254, -6.731, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 10.16, -3.6829999999999994, 90
@@ -93,7 +94,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, -0.395), R0
 - rawPart: U1, WIICHUCK, adafruit_connector, (0, 0), R270
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (-0.105, -0.26), R270
-- oompID: PROJ-ADAF-4836-STAN-01
 
 
 

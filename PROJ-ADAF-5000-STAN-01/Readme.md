@@ -88,6 +88,7 @@ Contents
 - oompName: Adafruit Feather ESP32 S2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-ESP32-S2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5000
+- oompID: PROJ-ADAF-5000-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 15.938499999999998, 13.1318, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 18.592799999999997, 12.2555, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 20.955, 16.8402, 90
@@ -180,7 +181,6 @@ Contents
 - rawPart: U4, BME280, BME280, adafruit_sensor, (1.065, 0.46), R180
 - rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (0.43, 0.7625), R0
 - rawPart: X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (0.105, 0.45), R270
-- oompID: PROJ-ADAF-5000-STAN-01
 
 
 

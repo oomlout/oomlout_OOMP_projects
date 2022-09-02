@@ -70,6 +70,7 @@ Contents
 - oompName: Bar Graph Breakout Kit
 - sources: All source files from https://github.com/sparkfun/Bar_Graph_Breakout_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10936
+- oompID: PROJ-SPAR-10936-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 10.16, 2.54, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C2, 27.94, 2.54, 0
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 45.72, 2.54, 0
@@ -114,7 +115,6 @@ Contents
 - rawPart: R5, 330, RPACK-SIP-PTH-5, SparkFun, (1.45, 1.7), R90
 - rawPart: R6, 330, RPACK-SIP-PTH-5, SparkFun, (1.95, 1.6), R90
 - rawPart: R7, 330, RPACK-SIP-PTH-5, SparkFun, (2.45, 1.7), R90
-- oompID: PROJ-SPAR-10936-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: Simon-Says
 - sources: All source files from https://github.com/sparkfun/Simon-Says (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10547
+- oompID: PROJ-SPAR-10547-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 5.08, 31.75, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT2, 71.11999999999999, 31.75, 270
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 60.959999999999994, 64.77, M270
@@ -98,7 +99,6 @@ Contents
 - rawPart: S1, Power, SWITCH-SPDT_KIT, SparkFun, (1, 0.1), R270
 - rawPart: S2, SWITCH-SPDT_KIT, SparkFun, (2, 0.1), R270
 - rawPart: SG1, BUZZER, BUZZER-12MM-KIT, SparkFun, (2.55, 1.25), MR90
-- oompID: PROJ-SPAR-10547-STAN-01
 
 
 

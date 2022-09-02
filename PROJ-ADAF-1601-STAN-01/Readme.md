@@ -75,6 +75,7 @@ Contents
 - oompName: Adafruit PiTFT 2.8 inch Display PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1601
+- oompID: PROJ-ADAF-1601-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 34.544000000000004, 45.211999999999996, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 41.148, 44.958, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 27.178, 42.672, 180
@@ -141,7 +142,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (2.05, 0.15), MR0
 - rawPart: U$18, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.03, 2.955), R0
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.62, 1.57), R180
-- oompID: PROJ-ADAF-1601-STAN-01
 
 
 

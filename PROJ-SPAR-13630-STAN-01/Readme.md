@@ -84,6 +84,7 @@ Contents
 - oompName: Photon Weather Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Weather_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13630
+- oompID: PROJ-SPAR-13630-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 31.75, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 39.37, 15.239999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C5, 14.604999999999999, 8.889999999999999, 0
@@ -166,7 +167,6 @@ Contents
 - rawPart: U1, 3.3V, MIC5205, SOT23-5, SparkFun-PowerIC, (1.4, 0.75), R180
 - rawPart: U2, HTU21D, HTU21D, SparkFun-Sensors, (0.325, 0.5), R90
 - rawPart: U3, MPL3115A2LGA8, LGA8, SparkFun-Sensors, (0.6, 0.5), R90
-- oompID: PROJ-SPAR-13630-STAN-01
 
 
 

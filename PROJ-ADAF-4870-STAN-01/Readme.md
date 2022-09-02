@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Neo Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Neo-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4870
+- oompID: PROJ-ADAF-4870-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.968999999999999, -4.0005, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 13.652499999999998, -4.0005, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 12.890499999999998, -0.9524999999999999, 0
@@ -94,7 +95,6 @@ Contents
 - rawPart: SWC, TPTP15R, TP15R, testpad, (0.35, -0.13), MR0
 - rawPart: SWD, TPTP16R, TP16R, testpad, (0.45, -0.13), MR0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.355, -0.1525), R270
-- oompID: PROJ-ADAF-4870-STAN-01
 
 
 

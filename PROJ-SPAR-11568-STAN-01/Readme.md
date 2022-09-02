@@ -60,6 +60,7 @@ Contents
 - oompName: Papilio Audio Wing
 - sources: All source files from https://github.com/sparkfun/Papilio_Audio_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11568
+- oompID: PROJ-SPAR-11568-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AJ1, 0.0, 19.049999999999997, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AJ2, 0.0, 30.479999999999997, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 7.619999999999999, 7.619999999999999, 270
@@ -88,7 +89,6 @@ Contents
 - rawPart: R2, 3.3k, 0402-RES, SparkFun-Passives, (0.35, 0.45), R90
 - rawPart: R3, 3.3k, 0402-RES, SparkFun-Passives, (0.45, 0.45), R90
 - rawPart: R4, 3.3k, 0402-RES, SparkFun-Passives, (0.5, 0.45), R90
-- oompID: PROJ-SPAR-11568-STAN-01
 
 
 

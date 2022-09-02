@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit MCP2221 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MCP2221-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4471
+- oompID: PROJ-ADAF-4471-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.874, 5.715, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 10.16, 9.143999999999998, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C6, 17.145, 5.715, 270
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112-3.3, SOT23-5, microbuilder, (0.43, 0.225), R270
 - rawPart: X6, USBC, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.105, 0.35), R270
-- oompID: PROJ-ADAF-4471-STAN-01
 
 
 

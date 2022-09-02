@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit HUZZAH32 ESP32 Feather PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3405
+- oompID: PROJ-ADAF-3405-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.684, 4.9022, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.415499999999998, 18.541999999999998, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.128999999999998, 18.034, 270
@@ -145,7 +146,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X2, ESP32_WROOM32_SKINNY, WROOM32_SKINNY, microbuilder, (1.51, 0.45), R270
 - rawPart: X4, 20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
-- oompID: PROJ-ADAF-3405-STAN-01
 
 
 

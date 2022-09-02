@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit APDS9960 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3595
+- oompID: PROJ-ADAF-3595-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 6.223, 8.509, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.54, 5.842, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.54, 11.43, 180
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.6), R0
 - rawPart: U1, APDS-9960, APDS-9960, microbuilder, (0.35, 0.35), R0
 - rawPart: U2, SOT23-5, microbuilder, (0.115, 0.345), R270
-- oompID: PROJ-ADAF-3595-STAN-01
 
 
 

@@ -51,6 +51,7 @@ Contents
 - oompName: USB Type A Female Breakout
 - sources: All source files from https://github.com/sparkfun/USB_Type_A_Female_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12700
+- oompID: PROJ-SPAR-12700-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 13.97, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.35, 24.13, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 12.7, 0
@@ -61,7 +62,6 @@ Contents
 - rawPart: JP1, USB+SHIELDUSB-A-S-NOSILK-FEMALE, USB-A-S-NOSILK-FEMALE, SparkFun-Connectors, (0.3, 0.5), R0
 - rawPart: JP2, 1X04, SparkFun-Connectors, (0.75, 0.65), R270
 - rawPart: R1, 0, 0603-RES, SparkFun-Resistors, (0.5, 0.15), R180
-- oompID: PROJ-SPAR-12700-STAN-01
 
 
 

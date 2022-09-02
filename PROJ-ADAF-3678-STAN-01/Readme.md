@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit UDA1334A I2S Stereo DAC PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3678
+- oompID: PROJ-ADAF-3678-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 16.637, 19.685, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 15.620999999999999, 16.891, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 5.08, 20.193, 180
@@ -147,7 +148,6 @@ Contents
 - rawPart: U1, UDA1334ATS, SSOP16_4.4MM, microbuilder, (0.36, 0.52), R270
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.15, 0.325), R90
 - rawPart: X2, 19269, 4UCONN_19269, microbuilder, (1.5, 0.5), R180
-- oompID: PROJ-ADAF-3678-STAN-01
 
 
 

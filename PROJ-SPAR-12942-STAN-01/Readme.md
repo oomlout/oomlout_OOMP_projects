@@ -89,6 +89,7 @@ Contents
 - oompName: Bus Pirate
 - sources: All source files from https://github.com/sparkfun/Bus_Pirate (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12942
+- oompID: PROJ-SPAR-12942-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1368.77953, 854.5, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 1008.77953, 372.51969, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 176.0, 1060.5, 270
@@ -175,7 +176,6 @@ Contents
 - rawPart: U4, MIC5205, 5V0, SOT23-5, SparkFun-PowerIC, (808.77953, 1062.5), R270
 - rawPart: U5, FT232RL-BASICSSOP, SSOP28DB, SparkFun-DigitalIC, (688.77953, 616.65354), R90
 - rawPart: U6, 4066, TSSOP14, 40xx, (1718.77953, 221.65354), R270
-- oompID: PROJ-SPAR-12942-STAN-01
 
 
 

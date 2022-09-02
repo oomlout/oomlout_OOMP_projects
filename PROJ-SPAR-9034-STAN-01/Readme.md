@@ -77,6 +77,7 @@ Contents
 - oompName: Transceiver Breakout-nRF24LU1 RP-SMA
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9034
+- oompID: PROJ-SPAR-9034-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 11.43, 5.08, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 13.97, 5.08, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 24.13, 16.509999999999998, 270
@@ -139,7 +140,6 @@ Contents
 - rawPart: U1, 3.3V, SOT23-5, SparkFun, (0.2, 0.1), R270
 - rawPart: U2, NRF24LU1, QFN-32, SparkFun, (0.85, 0.35), R270
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 0.4), R0
-- oompID: PROJ-SPAR-9034-STAN-01
 
 
 

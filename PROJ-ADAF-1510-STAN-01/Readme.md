@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit CC3000 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1510
+- oompID: PROJ-ADAF-1510-STAN-01
 - oompPart: CAPC-0402-X-PF22D-01, C1, 13.645999885999998, 35.999999882, 0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 10.000000066, 32.500000023999995, 270
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, C3, 9.500000049999999, 32.000000008, 180
@@ -130,7 +131,6 @@ Contents
 - rawPart: U2, SOT223-R, microbuilder, (0.25590551, 0.31496063), R90
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.71, 0.3), R0
 - rawPart: X1, 2500AT44M0400E, ANT_2500AT44M0400, microbuilder, (0.81464567, 1.41732283), R180
-- oompID: PROJ-ADAF-1510-STAN-01
 
 
 

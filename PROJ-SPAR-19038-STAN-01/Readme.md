@@ -101,7 +101,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R25, 12.191999999999998, 30.861, 180,R25, 4.7k, 0402-TIGHT, SparkFun-Resistors, (0.48, 1.215), R180|
 |RESE-0603-X-UNMATCHED-01, R26, 9.652, 8.128, 270,R26, 100, 0603, SparkFun-Resistors, (0.38, 0.32), R270|
 |RESE-0603-X-UNMATCHED-01, R27, 26.669999999999998, 45.72, 90,R27, 4.7k, 0603, SparkFun-Resistors, (1.05, 1.8), R90|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R28</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R28</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0603-X-UNMATCHED-01, R29, 15.692118729999999, 6.040121778, 90,R29, 100?, 0603, SparkFun-Resistors, (0.61779995, 0.23780007), R90|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 31.876999999999995, 43.942, 270,S1, RESET, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (1.255, 1.73), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, SHLD, 3.5000001119999995, 53.499999933999995, M90,SHLD, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.13779528, 2.10629921), MR90|
@@ -127,6 +127,7 @@ Contents
 - oompName: SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110
 - sources: All source files from https://github.com/sparkfun/SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19038
+- oompID: PROJ-SPAR-19038-STAN-01
 - oompPart: CAPC-0603-X-NF220-V50, C1, 21.861778221999998, 45.35678127, 90
 - oompPart: CAPC-0603-X-NF220-V50, C2, 20.403818729999998, 45.35678127, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 7.300999875999999, 13.530000118, 270
@@ -305,7 +306,6 @@ Contents
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.41555118, 0.53267717), R270
 - rawPart: U4, WE-TVS, WE_TVS_1.0X1.2MM, ADIN1110, (0.83870005, 1.6682997), R0
 - rawPart: Y1, 25MHz, CRYSTAL-SMD-2.0X1.6MM-WE, SparkFun-Clocks, (1.04488189, 1.40283465), R90
-- oompID: PROJ-SPAR-19038-STAN-01
 
 
 

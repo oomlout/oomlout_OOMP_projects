@@ -59,6 +59,7 @@ Contents
 - oompName: Serial Enabled LCD Backpack
 - sources: All source files from https://github.com/sparkfun/Serial_Enabled_LCD_Backpack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/258
+- oompID: PROJ-SPAR-258-STAN-01
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, C1, 26.669999999999998, 3.8099999999999996, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 20.32, 6.35, 270
 - oompPart: HEAD-I01-X-PI06-01, JP1, 26.669999999999998, 13.843, 1.1
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.05, 0.45), R90
 - rawPart: U$4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.4, 0.05), R90
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (1.05, 0.3), R90
-- oompID: PROJ-SPAR-258-STAN-01
 
 
 

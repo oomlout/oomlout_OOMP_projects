@@ -68,6 +68,7 @@ Contents
 - oompName: Edison OLED Block
 - sources: All source files from https://github.com/sparkfun/Edison_OLED_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13035
+- oompID: PROJ-SPAR-13035-STAN-01
 - oompPart: CAPC-0805-X-UF22D-01, C1, 13.97, 13.334999999999999, 0
 - oompPart: ERROR, C2 1uF X5R, 0, 0, 0
 - oompPart: ERROR, C3 1uF X5R, 0, 0, 0
@@ -132,7 +133,6 @@ Contents
 - rawPart: SJ6, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.4), MR180
 - rawPart: SJ7, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.6), MR180
 - rawPart: SJ8, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.6, 0.3), MR180
-- oompID: PROJ-SPAR-13035-STAN-01
 
 
 

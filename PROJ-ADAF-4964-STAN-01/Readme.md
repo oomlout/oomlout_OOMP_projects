@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit Rotary Trinkey PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Rotary-Trinkey-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4964
+- oompID: PROJ-ADAF-4964-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 18.034, -2.54, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 25.3365, -5.08, M0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 22.86, 4.1274999999999995, M0
@@ -90,7 +91,6 @@ Contents
 - rawPart: SWD, TPTP16R, TP16R, testpad, (1.0225, 0.17), MR0
 - rawPart: TOUCH, TESTPOINT_PAD_1MM, microbuilder, (1.235, -0.2), R0
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (0.6075, -0.105), MR0
-- oompID: PROJ-ADAF-4964-STAN-01
 
 
 

@@ -47,7 +47,7 @@ Contents
 |RESE-0402-X-UNMATCHED-01, R1, 5.2578, 7.021599876, 0,R1, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.207, 0.27644094), R0|
 |RESE-0402-X-UNMATCHED-01, R2, 3.1496, 6.999200124000001, 180,R2, 2.2k, 0402-TIGHT, SparkFun-Resistors, (0.124, 0.27555906), R180|
 |RESE-0402-X-UNMATCHED-01, R4, 6.838340654, 8.737599999999999, 90,R4, 1k, 0402-TIGHT, SparkFun-Resistors, (0.26922601, 0.344), R90|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R7</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.8099999999999996, 10.16, 180,U2, MMC5983MA_QFN16, LGA-16-3X3MM-4X4PINS, SparkFun-Sensors, (0.15, 0.4), R180|
 
 ## Tags
@@ -61,6 +61,7 @@ Contents
 - oompName: SparkFun Qwiic Magnetometer-MMC5983MA
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19921
+- oompID: PROJ-SPAR-19921-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 1.0287, 10.413999999999998, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C5, 3.556, 12.827, 180
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, D1, 6.838340654, 6.5024, 270
@@ -103,7 +104,6 @@ Contents
 - rawPart: TP3, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.2625, 0.0375), MR90
 - rawPart: TP5, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.0375, 0.0375), MR90
 - rawPart: U2, MMC5983MA_QFN16, LGA-16-3X3MM-4X4PINS, SparkFun-Sensors, (0.15, 0.4), R180
-- oompID: PROJ-SPAR-19921-STAN-01
 
 
 

@@ -128,6 +128,7 @@ Contents
 - oompName: MicroMod Function Ethernet-W5500
 - sources: All source files from https://github.com/sparkfun/MicroMod_Function_Ethernet-W5500 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18708
+- oompID: PROJ-SPAR-18708-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 36.0, 20.0, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 25.0, 36.0, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 36.0, 12.0, 0
@@ -298,7 +299,6 @@ Contents
 - rawPart: U4, 3.3V, SOT23-5, SparkFun-IC-Power, (36, 15), R0
 - rawPart: U5, POE_PSU-DP990X, DP990X, SparkFun-IC-Power, (10, 28), R90
 - rawPart: Y1, 25MHz, CRYSTAL-SMD-2.0X1.6MM, SparkFun-Clocks, (29.9, 24), R180
-- oompID: PROJ-SPAR-18708-STAN-01
 
 
 

@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit NeoPixel Ring
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPixel-Ring (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1463
+- oompID: PROJ-ADAF-1463-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C2, 15.92076875, 74.901309375, 78
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C4, 31.14571875, 69.95443125, 66
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C5, 38.28733125, 66.3156, 60
@@ -150,7 +151,6 @@ Contents
 - rawPart: TP6, TPTP20R, TP20R, testpad, (71.5, 30.1), MR0
 - rawPart: U$1, RING_END_CONN_X3, RING_END_CONN_X3, NeoPixelRing, (0, 75.625), MR180
 - rawPart: U$2, RING_END_CONN_X3, RING_END_CONN_X3, NeoPixelRing, (75.625, 0), MR90
-- oompID: PROJ-ADAF-1463-STAN-01
 
 
 

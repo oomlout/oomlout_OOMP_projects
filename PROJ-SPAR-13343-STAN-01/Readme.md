@@ -51,13 +51,13 @@ Contents
 - oompName: LilyPad Reed Switch
 - sources: All source files from https://github.com/sparkfun/LilyPad_Reed_Switch (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13343
+- oompID: PROJ-SPAR-13343-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, 0.0, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEOFF, 0.0, -12.827, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEON, 0.0, 12.827, 180
 - rawPart: S1, REED, REED_SWITCH_PLASTIC, SparkFun-Electromechanical, (0, 0), R270
 - rawPart: SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.505), R0
 - rawPart: SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.505), R180
-- oompID: PROJ-SPAR-13343-STAN-01
 
 
 

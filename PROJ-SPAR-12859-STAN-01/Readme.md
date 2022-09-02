@@ -93,6 +93,7 @@ Contents
 - oompName: Big Easy Driver
 - sources: All source files from https://github.com/sparkfun/Big_Easy_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12859
+- oompID: PROJ-SPAR-12859-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3/5V, 2.54, 20.32, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, APWR, 5.08, 20.32, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.492999999999999, 28.575, 270
@@ -193,7 +194,6 @@ Contents
 - rawPart: U$3, PAD, PAD-0.008, Testing, (0.516, 0.541), R0
 - rawPart: U$4, PAD, PAD-0.008, Testing, (0.774, 0.639), R0
 - rawPart: U$5, PAD, PAD-0.008, Testing, (0.65, 0.72), R0
-- oompID: PROJ-SPAR-12859-STAN-01
 
 
 

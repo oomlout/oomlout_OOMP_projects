@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Ultimate GPS FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3133
+- oompID: PROJ-ADAF-3133-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 10.033, 12.827, 0
 - oompPart: CAPC-0805-X-NF100-V50, C1, 27.432, 6.35, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 20.193, 10.287, 0
@@ -108,7 +109,6 @@ Contents
 - rawPart: TP1, TESTPOINT_ROUND_1.5MM, microbuilder, (0.835, 0.575), MR0
 - rawPart: U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (1.495, 0.45), R90
 - rawPart: X1, uFL, U.FL, microbuilder, (1.91, 0.63), R180
-- oompID: PROJ-ADAF-3133-STAN-01
 
 
 

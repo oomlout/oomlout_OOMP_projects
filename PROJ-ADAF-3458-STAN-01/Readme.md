@@ -82,6 +82,7 @@ Contents
 - oompName: Adafruit Feather 328P PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-328P-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3458
+- oompID: PROJ-ADAF-3458-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 7.112, 7.734299999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 22.415499999999998, 18.6055, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.128999999999998, 17.906999999999996, 270
@@ -160,7 +161,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X4, 20329, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
 - rawPart: Y2, CSTNE8M00xx, 8MHZ, RESONATOR, SmartPrj, (1.3075, 0.629), R90
-- oompID: PROJ-ADAF-3458-STAN-01
 
 
 

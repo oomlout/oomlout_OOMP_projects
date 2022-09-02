@@ -74,6 +74,7 @@ Contents
 - oompName: Adafruit Verter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Verter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2190
+- oompID: PROJ-ADAF-2190-STAN-01
 - oompPart: ERROR, C1 10uF/16V X5R, 0, 0, 0
 - oompPart: ERROR, C2 10uF/16V X5R, 0, 0, 0
 - oompPart: CAPC-0805-X-NF100-V50, C3, 14.985999999999999, 5.334, 270
@@ -134,7 +135,6 @@ Contents
 - rawPart: U1, TPS63060, PWSON-N10, microbuilder, (0.5, 0.36), R270
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.15, 0.375), R270
 - rawPart: X2, TERMBLOCK_1X2-3.5MM, microbuilder, (1.15, 0.375), R90
-- oompID: PROJ-ADAF-2190-STAN-01
 
 
 

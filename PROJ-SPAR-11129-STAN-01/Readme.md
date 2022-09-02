@@ -81,6 +81,7 @@ Contents
 - oompName: Si4707 Breakout
 - sources: All source files from https://github.com/sparkfun/Si4707_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11129
+- oompID: PROJ-SPAR-11129-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 13.97, 12.7, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 8.889999999999999, 12.7, 0
 - oompPart: CAPC-0402-X-NF390-01, C3, 8.889999999999999, 16.509999999999998, 90
@@ -153,7 +154,6 @@ Contents
 - rawPart: U2, AUDIO-JACK-3.5MM-SMD, SparkFun-Connectors, (0.75, 1.2), R270
 - rawPart: U3, TPA6111, SPARKFUN_SO08, SparkFun-DigitalIC, (0.25, 0.9), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (0.65, 0.4), R270
-- oompID: PROJ-SPAR-11129-STAN-01
 
 
 

@@ -55,6 +55,7 @@ Contents
 - oompName: Tilt-a-Whirl Breakout
 - sources: All source files from https://github.com/sparkfun/Tilt-a-Whirl_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12011
+- oompID: PROJ-SPAR-12011-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 1.27, 90
 - oompPart: HEAD-I01-X-PI2.5-01, JP2, 9.4742, 9.5504, 0
 - oompPart: HEAD-I01-X-PI2.5-01, JP3, 3.2258, 0.635, 0
@@ -69,7 +70,6 @@ Contents
 - rawPart: R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90
 - rawPart: R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180
 - rawPart: U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90
-- oompID: PROJ-SPAR-12011-STAN-01
 
 
 

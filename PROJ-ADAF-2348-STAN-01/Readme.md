@@ -75,6 +75,7 @@ Contents
 - oompName: Adafruit DC Stepper Motor HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2348
+- oompID: PROJ-ADAF-2348-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 36.321999999999996, 18.796, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 36.321999999999996, 21.336, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 36.321999999999996, 23.875999999999998, 0
@@ -157,7 +158,6 @@ Contents
 - rawPart: TP5, TESTPOINT_ROUND_2MM, microbuilder, (1.43, 0.74), MR90
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (1.865, 1.09), R270
 - rawPart: U2, PCA9685, TSSOP28, microbuilder, (1, 0.905), R90
-- oompID: PROJ-ADAF-2348-STAN-01
 
 
 

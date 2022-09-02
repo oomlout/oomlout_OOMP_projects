@@ -59,6 +59,7 @@ Contents
 - oompName: RS232 Shifter
 - sources: All source files from https://github.com/sparkfun/RS232_Shifter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8780
+- oompID: PROJ-SPAR-8780-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 16.509999999999998, 25.4, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 16.509999999999998, 22.86, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 17.779999999999998, 12.7, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: R3, 330, 0603-RES, SparkFun-Resistors, (0.55, 0.5), R90
 - rawPart: R4, 330, 0603-RES, SparkFun-Resistors, (0.55, 1.125), R270
 - rawPart: U2, XN04312, SOT23-6, SparkFun-DiscreteSemi, (0.65, 0.7), R90
-- oompID: PROJ-SPAR-8780-STAN-01
 
 
 

@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit TB6612 Motor Driver Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2448
+- oompID: PROJ-ADAF-2448-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.065, 8.612000047999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 6.35, 8.509, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.950000038, 3.5949999219999995, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.95), R0
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.65, 0.1), R0
 - rawPart: U1, TB6612, SSOP, SSOP24, microbuilder, (0.39, 0.59), R90
-- oompID: PROJ-ADAF-2448-STAN-01
 
 
 

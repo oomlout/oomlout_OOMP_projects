@@ -62,6 +62,7 @@ Contents
 - oompName: FTDI Basic Breakout-5V
 - sources: All source files from https://github.com/sparkfun/FTDI_Basic_Breakout-5V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9716
+- oompID: PROJ-SPAR-9716-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.08, 2.794, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 12.572999999999999, 13.97, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 10.16, 2.794, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: SJ2, SJ_3, SparkFun, (0.6, 0.34), MR270
 - rawPart: U1, FT232RLSSOP, SSOP28DB, SparkFun, (0.3, 0.34), R0
 - rawPart: X2, USB-SMD-NS, USB-MINIB-NOSTOP, SparkFun, (0.72, 0.34), R180
-- oompID: PROJ-SPAR-9716-STAN-01
 
 
 

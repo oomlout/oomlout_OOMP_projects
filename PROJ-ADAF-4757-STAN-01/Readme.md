@@ -109,6 +109,7 @@ Contents
 - oompName: Adafruit Voice Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4757
+- oompID: PROJ-ADAF-4757-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 41.021, 15.0495, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 37.7825, 20.6375, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 36.5125, 15.24, 270
@@ -237,7 +238,6 @@ Contents
 - rawPart: X1, JSTPH, 2P, JSTPH2, microbuilder, (41.91, 3.556), R180
 - rawPart: X2, 3.5mm, 4UCONN_19269, microbuilder, (53.34, 0), R90
 - rawPart: X5, JSTPH, 2P, JSTPH2, microbuilder, (31.75, 3.556), R180
-- oompID: PROJ-ADAF-4757-STAN-01
 
 
 

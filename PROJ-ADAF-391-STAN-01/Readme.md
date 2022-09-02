@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit BMP085 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP085-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/391
+- oompID: PROJ-ADAF-391-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.921, 13.716, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.921, 7.238999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 5.968999999999999, 14.097000000000001, 270
@@ -87,7 +88,6 @@ Contents
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.585, 0.625), R0
 - rawPart: U1, BMP085, BMP085, microbuilder, (0.4, 0.48), R0
 - rawPart: U2, RT9193-33GB, SOT23-5, microbuilder, (0.125, 0.415), R0
-- oompID: PROJ-ADAF-391-STAN-01
 
 
 

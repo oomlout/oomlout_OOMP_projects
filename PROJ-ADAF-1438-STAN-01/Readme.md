@@ -83,6 +83,7 @@ Contents
 - oompName: Adafruit Motor Shield V2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1438
+- oompID: PROJ-ADAF-1438-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 38.099999999999994, 10.921999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 35.559999999999995, 10.921999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 33.019999999999996, 10.921999999999999, 90
@@ -181,7 +182,6 @@ Contents
 - rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (2.57, 1.53), R0
 - rawPart: U$5, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0
 - rawPart: U2, PCA9685, TSSOP28, microbuilder, (1.37, 0.89), R90
-- oompID: PROJ-ADAF-1438-STAN-01
 
 
 

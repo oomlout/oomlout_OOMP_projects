@@ -55,6 +55,7 @@ Contents
 - oompName: 5-Way Tactile Switch Breakout
 - sources: All source files from https://github.com/sparkfun/5-Way_Tactile_Switch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11187
+- oompID: PROJ-SPAR-11187-STAN-01
 - oompPart: HEAD-I01-X-PI07-01, JP1, 3.8099999999999996, 1.27, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 21.59, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP7, 5.08, 19.049999999999997, 0
@@ -73,7 +74,6 @@ Contents
 - rawPart: R4, 10K, 0603-RES, SparkFun, (0.55, 0.2125), R90
 - rawPart: R5, 10K, 0603-RES, SparkFun, (0.65, 0.2125), R90
 - rawPart: S1, 5-WAY-TACTILE-SWITCH, JOYSTICK_MINI, SparkFun-Electromechanical, (0.45, 0.5), SR315
-- oompID: PROJ-SPAR-11187-STAN-01
 
 
 

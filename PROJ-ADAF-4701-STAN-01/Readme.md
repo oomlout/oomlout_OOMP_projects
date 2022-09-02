@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit ST25DV16 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ST25DV16-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4701
+- oompID: PROJ-ADAF-4701-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANT1, 12.7, 20.193, 0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 14.985999999999999, 7.492999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 7.238999999999999, 7.492999999999999, 270
@@ -83,7 +84,6 @@ Contents
 - rawPart: RF1, ST25DVXX_TSSOP, TSSOP8-4.4MM, microbuilder, (0.59, 0.385), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- oompID: PROJ-ADAF-4701-STAN-01
 
 
 

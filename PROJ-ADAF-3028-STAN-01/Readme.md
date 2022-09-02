@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit DS3231 Precision RTC FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3028
+- oompID: PROJ-ADAF-3028-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 9.906, 12.953999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 22.605999999999998, 13.208, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.302, 6.095999999999999, 0
@@ -90,7 +91,6 @@ Contents
 - rawPart: R1, 10K, 0805-NO, microbuilder, (1.59, 0.49), R180
 - rawPart: R2, 10K, 0805-NO, microbuilder, (1.59, 0.58), R180
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.9, 0.45), R90
-- oompID: PROJ-ADAF-3028-STAN-01
 
 
 

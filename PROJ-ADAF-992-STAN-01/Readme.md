@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit MPL115A2 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/992
+- oompID: PROJ-ADAF-992-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.681999908, 11.77600007, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 13.200000016, 8.382, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.400000122, 4.49999989, 0
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.5), R0
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.5), R0
 - rawPart: U1, MPL115A2T1, LGA8, microbuilder, (0.35787402, 0.32), R270
-- oompID: PROJ-ADAF-992-STAN-01
 
 
 

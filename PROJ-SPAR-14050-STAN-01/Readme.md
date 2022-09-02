@@ -68,6 +68,7 @@ Contents
 - oompName: Serial Basic Breakout-CH340G
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340G (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14050
+- oompID: PROJ-SPAR-14050-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 15.875, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 7.619999999999999, 10.540999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 13.334999999999999, 14.985999999999999, 180
@@ -110,7 +111,6 @@ Contents
 - rawPart: U2, CH340G, SO016, SparkFun-DigitalIC, (0.525, 0.34), R270
 - rawPart: U4, 74LVC1G08SE, SOT353, Serial-Basic, (0.17, 0.09), R90
 - rawPart: Y2, 12MHz, CRYSTAL-SMD-3.2X2.5, USB, Basic, (0.3, 0.215), R180
-- oompID: PROJ-SPAR-14050-STAN-01
 
 
 

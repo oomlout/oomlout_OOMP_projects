@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit MPU6050 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPU6050-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3886
+- oompID: PROJ-ADAF-3886-STAN-01
 - oompPart: CAPC-0603-X-NF22D-V50, C1, 16.052799999999998, 6.095999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 9.7282, 5.4737, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 7.340599999999999, 4.9276, 0
@@ -114,7 +115,6 @@ Contents
 - rawPart: U$43, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U1, MPU-6050, QFN24_4MM_SMSC, microbuilder, (0.5, 0.35), R270
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (0.303, 0.31), R0
-- oompID: PROJ-ADAF-3886-STAN-01
 
 
 

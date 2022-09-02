@@ -88,6 +88,7 @@ Contents
 - oompName: ESP32 Environment Sensor Shield
 - sources: All source files from https://github.com/sparkfun/ESP32_Environment_Sensor_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14153
+- oompID: PROJ-SPAR-14153-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 16.509999999999998, 0.0, 0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 50.8, 37.846, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 53.339999999999996, 28.575, 0
@@ -176,7 +177,6 @@ Contents
 - rawPart: U2, CCS811, LGA10-2.7X4.0MM, esp32-environ-monitor-temp, (2, 1), R90
 - rawPart: U3, APDS-9301, CHIPLED-6, SparkFun-Sensors, (1.995, 0.45), R270
 - rawPart: U4, TVS, Diode, SOT-23-6, esp32-environ-monitor-temp, (0.5, 1), R270
-- oompID: PROJ-SPAR-14153-STAN-01
 
 
 

@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit SPW2430 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SPW2430-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2716
+- oompID: PROJ-ADAF-2716-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 10.921999999999999, 5.08, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 7.112, 5.08, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.556, 5.08, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.275, 0.5), R0
 - rawPart: U1, SPW2430HR5H-B, SPW2430HR5H-B, microbuilder, (0.275, 0.32), R180
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.12, 0.32), R270
-- oompID: PROJ-ADAF-2716-STAN-01
 
 
 

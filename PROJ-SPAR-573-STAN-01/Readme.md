@@ -50,6 +50,7 @@ Contents
 - oompName: SIM Card Breakout
 - sources: All source files from https://github.com/sparkfun/SIM_Card_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/573
+- oompID: PROJ-SPAR-573-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.016, 1.27, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.35, 30.479999999999997, 0
 - oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 24.13, 270
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.25, 1.2), R0
 - rawPart: JP1, 1X08, SparkFun, (0.05, 0.95), R270
 - rawPart: U2, SIMHOLDER, SIMHOLDER2, SparkFun, (0.3, 1.2), R270
-- oompID: PROJ-SPAR-573-STAN-01
 
 
 

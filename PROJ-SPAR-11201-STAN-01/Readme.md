@@ -103,6 +103,7 @@ Contents
 - oompName: ProtoSnap-LilyPad Dev Simple
 - sources: All source files from https://github.com/sparkfun/ProtoSnap-LilyPad_Dev_Simple (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11201
+- oompID: PROJ-SPAR-11201-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2/16, 50.250000084, 63.65010002999999, 204.5
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A3/17, 42.22009996399999, 72.87009987799999, 237.3
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4/18, 30.479999999999997, 76.31010011, 270
@@ -223,7 +224,6 @@ Contents
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun, (1.2, 2.15000787), R0
 - rawPart: U4, MCP73831, SOT23-5, SparkFun, (0.72755906, 1.87441339), R180
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.92834646, 2.07126378), R270
-- oompID: PROJ-SPAR-11201-STAN-01
 
 
 

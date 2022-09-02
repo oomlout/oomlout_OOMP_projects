@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit Perma Proto HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2310
+- oompID: PROJ-ADAF-2310-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.766, 47.244, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 8.382, 1.5239999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 58.419999999999995, 49.529999999999994, 0
@@ -72,7 +73,6 @@ Contents
 - rawPart: RPI1, RASPBERRYPI_BPLUS_HATNOSLOTS, PI_HAT_NOSLOTS, microbuilder, (0, 0), R0
 - rawPart: SJ1, WP, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.855, 0.05), R0
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (2.005, 0.19), R270
-- oompID: PROJ-ADAF-2310-STAN-01
 
 
 

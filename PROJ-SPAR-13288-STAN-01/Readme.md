@@ -61,6 +61,7 @@ Contents
 - oompName: Teensy Arduino Shield Adapter
 - sources: All source files from https://github.com/sparkfun/Teensy_Arduino_Shield_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13288
+- oompID: PROJ-SPAR-13288-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 15.239999999999998, 63.5, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 51.434999999999995, 31.115000000000002, 90
 - oompPart: HEAD-I01-X-PI02-01, JP1, 38.73499999999999, 33.019999999999996, 180
@@ -91,7 +92,6 @@ Contents
 - rawPart: SJ1, JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (1.775, 2.6), R180
 - rawPart: SJ2, JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (1.775, 2.6875), R180
 - rawPart: U1, 5V, TO-220-ALT, SparkFun-PowerIC, (1.6625, 1.5875), R0
-- oompID: PROJ-SPAR-13288-STAN-01
 
 
 

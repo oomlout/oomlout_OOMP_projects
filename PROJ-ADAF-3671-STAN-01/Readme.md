@@ -50,6 +50,7 @@ Contents
 - oompName: Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi
 - sources: All source files from https://github.com/adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3671
+- oompID: PROJ-ADAF-3671-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 2.032, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.476999999999999, 14.985999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 5.08, 0
@@ -62,7 +63,6 @@ Contents
 - rawPart: JP2, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.5), R180
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.35), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.35), R0
-- oompID: PROJ-ADAF-3671-STAN-01
 
 
 

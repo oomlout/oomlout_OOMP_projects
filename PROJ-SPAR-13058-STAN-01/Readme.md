@@ -86,6 +86,7 @@ Contents
 - oompName: MiP ProMini-Pack
 - sources: All source files from https://github.com/sparkfun/MiP_ProMini-Pack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13058
+- oompID: PROJ-SPAR-13058-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 845.0, 1580.0, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 650.0, 935.0, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 730.0, 1625.0, 270
@@ -174,7 +175,6 @@ Contents
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun-DigitalIC, (850, 1320), R135
 - rawPart: U2, MIC5205, SOT23-5, SparkFun-PowerIC, (890, 450), R270
 - rawPart: U3, TS3USB221A, QFN-10-RSE, SparkFun-AnalogIC, (960, 770), R0
-- oompID: PROJ-SPAR-13058-STAN-01
 
 
 

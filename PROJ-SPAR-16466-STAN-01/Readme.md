@@ -64,6 +64,7 @@ Contents
 - oompName: SparkFun Environmental Sensor Breakout BME680
 - sources: All source files from https://github.com/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16466
+- oompID: PROJ-SPAR-16466-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 11.43, 16.891, M90
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 12.7, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 16.509999999999998, 12.7, 270
@@ -104,7 +105,6 @@ Contents
 - rawPart: R4, 4.7k, 0603@1, SparkFun-Resistors, (0.35, 0.3), R0
 - rawPart: R5, 4.7k, 0603@1, SparkFun-Resistors, (0.35, 0.65), R0
 - rawPart: U1, BME680, Air, Quality, Sensor, LGA3.0X3.0, SparkFun-Sensors, (0.5, 0.5), R270
-- oompID: PROJ-SPAR-16466-STAN-01
 
 
 

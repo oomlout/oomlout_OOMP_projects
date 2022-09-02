@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit RGB LCD shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/714
+- oompID: PROJ-ADAF-714-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BLUE, 69.723, 48.641, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOWN, 11.43, 3.556, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, GREEN, 68.326, 15.493999999999998, 180
@@ -88,7 +89,6 @@ Contents
 - rawPart: U$1, HD44780LCD_RGBLONGPINS, LCD1602-RGB, adafruit, (1.59, 1.28), R0
 - rawPart: U1, ARDUINOR3-NOIOREF-NOTEXT, ARDUINOR3-NOTEXT-NOIOREF, adafruit, (0, 0), R0
 - rawPart: UP, B3F-10XX, switch-omron, (0.45, 0.4), R0
-- oompID: PROJ-ADAF-714-STAN-01
 
 
 

@@ -119,6 +119,7 @@ Contents
 - oompName: Pi Servo Hat
 - sources: All source files from https://github.com/sparkfun/Pi_Servo_Hat (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15316
+- oompID: PROJ-SPAR-15316-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 12.6238, 22.5552, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 40.259, 20.574, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 61.340999999999994, 10.668, 270
@@ -323,7 +324,6 @@ Contents
 - rawPart: U1, PCA9685, TSSOP-28_4MM, SparkFun-IC-Special-Function, (1.37952756, 0.59212598), R0
 - rawPart: U2, SN74LVC1G32DCKR, SOT353, SparkFun-IC-Logic, (1.262, 0.61), MR270
 - rawPart: U3, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.65), R270
-- oompID: PROJ-SPAR-15316-STAN-01
 
 
 

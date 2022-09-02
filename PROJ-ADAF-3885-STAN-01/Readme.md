@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit STEMMA Speaker PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3885
+- oompID: PROJ-ADAF-3885-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C9, 21.462999999999997, 7.238999999999999, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C13, 23.749, 6.476999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C15, 5.842, 3.429, 90
@@ -93,7 +94,6 @@ Contents
 - rawPart: U$13, CON_MOLEX_2P, 53398-0271, microbuilder, (0.185, 0.325), R0
 - rawPart: U5, PAM8302AASCR, MSOP8_0.65MM, microbuilder, (0.325, 0.135), R0
 - rawPart: VR2, 10K, trim, TRIMPOT_BOURNS_3303W, microbuilder, (0.905, 0.12), R0
-- oompID: PROJ-ADAF-3885-STAN-01
 
 
 

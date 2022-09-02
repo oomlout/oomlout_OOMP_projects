@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit BMP183 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP183-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1900
+- oompID: PROJ-ADAF-1900-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.921, 11.557, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.175, 5.588, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 15.493999999999998, 6.858, 90
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.65, 0.485), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.11, 0.335), R0
 - rawPart: U3, BMP183, BMP18X_EXTENDED, microbuilder, (0.35, 0.4), R270
-- oompID: PROJ-ADAF-1900-STAN-01
 
 
 

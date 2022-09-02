@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit ISM330DHCX LIS3MDL FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4569
+- oompID: PROJ-ADAF-4569-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 27.686, 7.365999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.049, 7.238999999999999, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 23.6601, 14.7701, 90
@@ -116,7 +117,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.35, 0.4), MR180
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.425, 0.8), R0
 - rawPart: U$35, LSM6DSOX, LGA-14L, adafruit_sensor, (1.1, 0.45), R0
-- oompID: PROJ-ADAF-4569-STAN-01
 
 
 

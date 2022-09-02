@@ -73,6 +73,7 @@ Contents
 - oompName: L6470-AutoDriver
 - sources: All source files from https://github.com/sparkfun/L6470-AutoDriver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13752
+- oompID: PROJ-SPAR-13752-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 47.625, 14.477999999999998, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 48.387, 12.318999999999999, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 19.049999999999997, 16.509999999999998, 90
@@ -135,7 +136,6 @@ Contents
 - rawPart: SJ3, JUMPER-PAD-3-2OF3_NC_BY_PASTE, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.75, 1), R90
 - rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (1.15, 0.6), R0
 - rawPart: U1, L6470, HTSSOP28, SparkFun-PowerIC, (1.55, 0.6), R270
-- oompID: PROJ-SPAR-13752-STAN-01
 
 
 

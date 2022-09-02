@@ -190,6 +190,7 @@ Contents
 - oompName: Sparkpunk Sequencer
 - sources: All source files from https://github.com/sparkfun/Sparkpunk_Sequencer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12707
+- oompID: PROJ-SPAR-12707-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 24.13, 20.955, M90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 29.209999999999997, 22.86, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 24.13, 40.64, 0
@@ -484,7 +485,6 @@ Contents
 - rawPart: VR800, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.15, 1.75), R270
 - rawPart: VR900, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.55, 1.75), R270
 - rawPart: VR1000, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.95, 1.75), R270
-- oompID: PROJ-SPAR-12707-STAN-01
 
 
 

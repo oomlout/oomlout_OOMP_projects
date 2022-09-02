@@ -88,6 +88,7 @@ Contents
 - oompName: SAMD51 Thing Plus
 - sources: All source files from https://github.com/sparkfun/SAMD51_Thing_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14713
+- oompID: PROJ-SPAR-14713-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 17.399, 50.673, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 12.318999999999999, 50.673, 90
 - oompPart: CAPC-0402-X-NF100-V50, C3, 16.509999999999998, 35.559999999999995, 270
@@ -180,7 +181,6 @@ Contents
 - rawPart: U3, AP2112K-3.3V, SOT23-5, SparkFun-PowerIC, (0.485, 1.085), R90
 - rawPart: U4, 4Mb, Flash, SO08, SparkFun-IC-Memory, (0.45, 2.17), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.585, 1.97), R180
-- oompID: PROJ-SPAR-14713-STAN-01
 
 
 

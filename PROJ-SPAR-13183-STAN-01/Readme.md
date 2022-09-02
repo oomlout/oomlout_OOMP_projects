@@ -87,6 +87,7 @@ Contents
 - oompName: CryptoShield
 - sources: All source files from https://github.com/sparkfun/CryptoShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13183
+- oompID: PROJ-SPAR-13183-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A4, 24.764999999999997, 7.365999999999999, M0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A5, 24.764999999999997, 5.08, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 49.275999999999996, 46.228, 0
@@ -173,7 +174,6 @@ Contents
 - rawPart: U7, DS3231M, SOIC8, SparkFun-DigitalIC, (1.64, 1.37), R270
 - rawPart: U8, ATSHA204_SOIC8, SOIC8, SparkFun-DigitalIC, (2.13, 1.05), R180
 - rawPart: U9, ATECC108, SOIC8, SparkFun-DigitalIC, (2.13, 1.4), R180
-- oompID: PROJ-SPAR-13183-STAN-01
 
 
 

@@ -80,6 +80,7 @@ Contents
 - oompName: Qwiic Dual Solid State Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Dual_Solid_State_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16810
+- oompID: PROJ-SPAR-16810-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 48.005000001999996, 13.97, 180
 - oompPart: CAPC-0603-X-NF100-V50, C5, 53.085000002, 22.224999999999998, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.86, 22.86, 270
@@ -154,7 +155,6 @@ Contents
 - rawPart: R15, 4.7k, 0603, SparkFun-Resistors, (0.625, 0.45), R270
 - rawPart: R17, 4.7k, 0603, SparkFun-Resistors, (2.08996063, 0.95), R0
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (2.08996063, 0.65), R270
-- oompID: PROJ-SPAR-16810-STAN-01
 
 
 

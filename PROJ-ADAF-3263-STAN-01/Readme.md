@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit MAX31856 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31856-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3263
+- oompID: PROJ-ADAF-3263-STAN-01
 - oompPart: CAPC-UNMATCHED-X-NF10-01, C1, 15.748, 10.413999999999998, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 12.065, 13.208, 180
 - oompPart: CAPC-0805-X-NF10-01, C3, 7.112, 11.302999999999999, 180
@@ -113,7 +114,6 @@ Contents
 - rawPart: U1, mic5225-3.3, SOT23-5, microbuilder, (0.11, 0.375), R0
 - rawPart: U2, MAX31856, TSSOP14, microbuilder, (0.465, 0.325), R180
 - rawPart: X1, 3.5mm, term, TERMBLOCK_1X2-3.5MM, microbuilder, (0.475, 0.7), R180
-- oompID: PROJ-ADAF-3263-STAN-01
 
 
 

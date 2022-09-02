@@ -74,6 +74,7 @@ Contents
 - oompName: RaspiRobot
 - sources: All source files from https://github.com/sparkfun/RaspiRobot (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11561
+- oompID: PROJ-SPAR-11561-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 46.99, 41.275, 90
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 46.99, 15.239999999999998, 90
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C3, 30.479999999999997, 46.99, 180
@@ -126,7 +127,6 @@ Contents
 - rawPart: R6, 470, AXIAL-0.3EZ, SparkFun-Passives, (0.3, 0.25), R180
 - rawPart: R7, 1k, AXIAL-0.3EZ, SparkFun-Passives, (1.5, 0.75), R180
 - rawPart: R8, 1k, AXIAL-0.3EZ, SparkFun-Passives, (1.5, 0.9), R0
-- oompID: PROJ-SPAR-11561-STAN-01
 
 
 

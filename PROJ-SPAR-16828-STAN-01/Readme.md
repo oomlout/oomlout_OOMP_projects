@@ -114,6 +114,7 @@ Contents
 - oompName: ArtemisDevKit
 - sources: All source files from https://github.com/sparkfun/ArtemisDevKit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16828
+- oompID: PROJ-SPAR-16828-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 1425.0, 625.0, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 1370.0, 625.0, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 1315.0, 625.0, 270
@@ -258,7 +259,6 @@ Contents
 - rawPart: U5, 3.3V, SOT23-5, SparkFun-IC-Power, (975, 400), R90
 - rawPart: X1, 16MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (300, 100), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (1600, 625), R0
-- oompID: PROJ-SPAR-16828-STAN-01
 
 
 

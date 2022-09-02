@@ -71,6 +71,7 @@ Contents
 - oompName: Adafruit PowerBoost 500 Basic PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1903
+- oompID: PROJ-ADAF-1903-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 3.556, 10.795, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 10.668, 12.446, 270
 - oompPart: CAPC-0805-X-UF22D-01, C2, 20.574, 4.953, 270
@@ -127,7 +128,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U1, TPS61090RSAR, PVQFN-16, microbuilder, (0.63555118, 0.33181102), R180
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.015, 0.42), R90
-- oompID: PROJ-ADAF-1903-STAN-01
 
 
 

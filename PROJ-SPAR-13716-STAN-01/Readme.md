@@ -59,6 +59,7 @@ Contents
 - oompName: FemtoBuck
 - sources: All source files from https://github.com/sparkfun/FemtoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13716
+- oompID: PROJ-SPAR-13716-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270
 - oompPart: CAPC-UNMATCHED-X-UF22D-01, C2, 3.8099999999999996, 26.924, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270
 - rawPart: SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0
 - rawPart: U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.2, 0.865), R0
-- oompID: PROJ-SPAR-13716-STAN-01
 
 
 

@@ -91,6 +91,7 @@ Contents
 - oompName: Adafruit RA8875 Breakout Board PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1590
+- oompID: PROJ-ADAF-1590-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 14.470000015999998, 28.701999999999995, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 9.644000016, 14.731999999999998, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 13.581000015999997, 10.668, 180
@@ -195,7 +196,6 @@ Contents
 - rawPart: U4, MIC5225-3.3v, SOT23-5, microbuilder, (0.20968504, 0.46), R90
 - rawPart: U5, 74HC4050, SOIC16, microbuilder, (1.69468504, 0.775), R270
 - rawPart: Y1, 20MHz, CRYSTAL_3.2X2.5, microbuilder, (0.52968504, 0.54), R90
-- oompID: PROJ-ADAF-1590-STAN-01
 
 
 

@@ -60,6 +60,7 @@ Contents
 - oompName: Lipo Charger Basic-microUSB
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-microUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10217
+- oompID: PROJ-SPAR-10217-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 6.29158127, 7.508240508, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.375140508, 7.505703047999999, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D11, 9.466581269999999, 8.889999999999999, 270
@@ -84,7 +85,6 @@ Contents
 - rawPart: R3, 330, 0603-RES, SparkFun-Resistors, (0.24780007, 0.3505), R180
 - rawPart: R4, 2.0k, 0603-RES, SparkFun-Resistors, (0.52970017, 0.04950012), R0
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.30370017, 0.181), R90
-- oompID: PROJ-SPAR-10217-STAN-01
 
 
 

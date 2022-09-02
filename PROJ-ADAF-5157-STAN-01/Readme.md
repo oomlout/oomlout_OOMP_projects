@@ -78,6 +78,7 @@ Contents
 - oompName: Adafruit NeoKey Snap Apart PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Snap-Apart-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5157
+- oompID: PROJ-ADAF-5157-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, -8.382, -73.914, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 87.757, -83.566, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$3, -8.255, 2.413, 0
@@ -144,7 +145,6 @@ Contents
 - rawPart: X28, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -76.2), MR0
 - rawPart: X29, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -76.2), MR0
 - rawPart: X30, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -76.2), MR0
-- oompID: PROJ-ADAF-5157-STAN-01
 
 
 

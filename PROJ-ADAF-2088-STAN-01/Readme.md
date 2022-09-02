@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit 1.44 TFT Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2088
+- oompID: PROJ-ADAF-2088-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 24.13, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 28.066999999999997, 27.813, 270
 - oompPart: CAPC-0805-X-NF100-V50, C4, 5.968999999999999, 26.924, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, -0.1), R0
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.65, 1.4), R0
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.65, -0.1), R0
-- oompID: PROJ-ADAF-2088-STAN-01
 
 
 

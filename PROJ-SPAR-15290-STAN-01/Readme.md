@@ -64,6 +64,7 @@ Contents
 - oompName: Qwiic Keypad
 - sources: All source files from https://github.com/sparkfun/Qwiic_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15290
+- oompID: PROJ-SPAR-15290-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C4, 17.779999999999998, 11.43, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 6.095999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 3.8099999999999996, 6.35, 180
@@ -106,7 +107,6 @@ Contents
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.3179001, 0.7), R180
 - rawPart: R6, 1k, 0603, SparkFun-Resistors, (0.85, 0.3), R180
 - rawPart: U1, ATTINY84, SO14, SparkFun-IC-Microcontroller, (0.5, 0.5), R180
-- oompID: PROJ-SPAR-15290-STAN-01
 
 
 

@@ -51,13 +51,13 @@ Contents
 - oompName: XBee Module Breakout Board
 - sources: All source files from https://github.com/sparkfun/XBee_Module_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8276
+- oompID: PROJ-SPAR-8276-STAN-01
 - oompPart: HEAD-I01-X-PI10-01, JP1, 6.604, 24.13, 270
 - oompPart: HEAD-I01-X-PI10-01, JP2, 19.431, 24.13, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.999999908, 0.0, 0
 - rawPart: JP1, 1X10, SparkFun, (0.26, 0.95), R270
 - rawPart: JP2, 1X10, SparkFun, (0.765, 0.95), R270
 - rawPart: U1, XBEE, XBEE-1, SparkFun, (0.51181102, 0), R0
-- oompID: PROJ-SPAR-8276-STAN-01
 
 
 

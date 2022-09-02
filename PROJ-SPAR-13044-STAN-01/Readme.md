@@ -87,6 +87,7 @@ Contents
 - oompName: Edison Pi Block
 - sources: All source files from https://github.com/sparkfun/Edison_Pi_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13044
+- oompID: PROJ-SPAR-13044-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.795, 20.32, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 8.889999999999999, 8.889999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 15.875, 27.94, 180
@@ -181,7 +182,6 @@ Contents
 - rawPart: U5, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (0.625, 1.225), R180
 - rawPart: U6, TXB0108, UFDFN-20, SparkFun-DigitalIC, (0.35, 1.15), R180
 - rawPart: U7, TXB0108, UFDFN-20, SparkFun-DigitalIC, (0.6, 0.225), R90
-- oompID: PROJ-SPAR-13044-STAN-01
 
 
 

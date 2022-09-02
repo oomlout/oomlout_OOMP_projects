@@ -64,6 +64,7 @@ Contents
 - oompName: gator log
 - sources: All source files from https://github.com/sparkfun/gator_log (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15270
+- oompID: PROJ-SPAR-15270-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 31.75, 19.049999999999997, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 21.59, 15.239999999999998, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 19.685, 15.239999999999998, 90
@@ -116,7 +117,6 @@ Contents
 - rawPart: R6, 330, 0603, SparkFun-Resistors, (0.7, 0.4), R270
 - rawPart: U1, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (1.15, 0.5), R0
 - rawPart: U3, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.625, 0.4), R90
-- oompID: PROJ-SPAR-15270-STAN-01
 
 
 

@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit NAU7802 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NAU7802-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4538
+- oompID: PROJ-ADAF-4538-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1.5875, 5.0165, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 1.5875, 8.064499999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 1.778, 1.5875, 90
@@ -111,7 +112,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6975, -0.0625), R0
 - rawPart: X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.1625, 0.5875), R180
 - rawPart: X2, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4375, 0.5875), R180
-- oompID: PROJ-ADAF-4538-STAN-01
 
 
 

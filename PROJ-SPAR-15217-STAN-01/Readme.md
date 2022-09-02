@@ -66,6 +66,7 @@ Contents
 - oompName: LiPo Charger Plus
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15217
+- oompID: PROJ-SPAR-15217-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 11.811, 10.033, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 18.796, 10.033, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 22.86, 12.572999999999999, 0
@@ -110,7 +111,6 @@ Contents
 - rawPart: R8, 5.1k, 0603, SparkFun-Resistors, (0.345, 0.135), R90
 - rawPart: R9, 5.1k, 0603, SparkFun-Resistors, (0.345, 0.395), R270
 - rawPart: U1, MCP73833, DFN-10, SparkFun-IC-Power, (0.62, 0.275), R0
-- oompID: PROJ-SPAR-15217-STAN-01
 
 
 

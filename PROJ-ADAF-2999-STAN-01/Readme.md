@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit ATWINC1500 WiFi Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2999
+- oompID: PROJ-ADAF-2999-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 28.194000000000003, 13.843, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 7.874, 5.842, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 27.686, 6.731, 0
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.2, 1), R0
 - rawPart: U1, 74LVC245, TSSOP20, microbuilder, (0.16, 0.555), R270
 - rawPart: U2, AP2112-3.3, SOT23-5, microbuilder, (1.11, 0.44), R90
-- oompID: PROJ-ADAF-2999-STAN-01
 
 
 

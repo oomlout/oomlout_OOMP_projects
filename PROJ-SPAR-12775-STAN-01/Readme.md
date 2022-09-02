@@ -56,6 +56,7 @@ Contents
 - oompName: RFM69HCW Breakout
 - sources: All source files from https://github.com/sparkfun/RFM69HCW_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12775
+- oompID: PROJ-SPAR-12775-STAN-01
 - oompPart: CAPC-1210-X-UNMATCHED-01, C1, 17.779999999999998, 1.5875, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 11.43, 1.27, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 1.27, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: JP4, 1X05_ROUNDONLY_NOSILK, mike-temp, (1.05, 0.75), R270
 - rawPart: JP5, ANTENNA, 1X03_ROUND_ONLY_NO_SILK, mike-temp, (1.05, 0.25), R270
 - rawPart: U1, RFM69HCW, RFM69HCW-XXXS2, mike-temp, (0.55, 0.45), R0
-- oompID: PROJ-SPAR-12775-STAN-01
 
 
 

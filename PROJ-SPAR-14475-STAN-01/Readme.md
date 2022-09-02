@@ -67,6 +67,7 @@ Contents
 - oompName: Noisy Cricket-1.5W Stereo Amplifier Breakout
 - sources: All source files from https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14475
+- oompID: PROJ-SPAR-14475-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 9.652, 21.336, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.652, 19.812, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 18.923, 3.937, 0
@@ -113,7 +114,6 @@ Contents
 - rawPart: R7, AXIAL-0.3-KIT, SparkFun-Resistors, (0.75, 0.865), R0
 - rawPart: R8, AXIAL-0.3-KIT, SparkFun-Resistors, (0.75, 0.75), R0
 - rawPart: U1, LM4853, TFSOP-10, SparkFun-IC-Amplifiers, (0.48, 0.5), R270
-- oompID: PROJ-SPAR-14475-STAN-01
 
 
 

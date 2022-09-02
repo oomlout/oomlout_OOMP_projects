@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit 0.96 160x80 TFT Display Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3533
+- oompID: PROJ-ADAF-3533-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 26.162, 3.302, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 27.304999999999996, -3.0479999999999996, 180
 - oompPart: CAPC-0805-X-NF100-V50, C3, 19.812, 11.176, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.09, 0.65), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (1.04, 0.01), R0
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (0.79, 0.19), R270
-- oompID: PROJ-ADAF-3533-STAN-01
 
 
 

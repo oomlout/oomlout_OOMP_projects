@@ -141,6 +141,7 @@ Contents
 - oompName: EL Sequencer
 - sources: All source files from https://github.com/sparkfun/EL_Sequencer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11323
+- oompID: PROJ-SPAR-11323-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 20.32, 68.58, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 17.145, 66.35749999999999, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 3.8099999999999996, 41.91, 0
@@ -335,7 +336,6 @@ Contents
 - rawPart: U19, Z0103MN, SOT223, mike-temp, (1.5, 2.5), R90
 - rawPart: U20, Z0103MN, SOT223, mike-temp, (1.5, 2.85), R90
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (0.7125, 0.80698819), R90
-- oompID: PROJ-SPAR-11323-STAN-01
 
 
 

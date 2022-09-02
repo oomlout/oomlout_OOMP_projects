@@ -66,6 +66,7 @@ Contents
 - oompName: Qwiic Flex Glove Controller
 - sources: All source files from https://github.com/sparkfun/Qwiic_Flex_Glove_Controller (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14666
+- oompID: PROJ-SPAR-14666-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 23.241, 6.35, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.1590000000000003, 5.460999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 21.843999999999998, 5.08, 0
@@ -114,7 +115,6 @@ Contents
 - rawPart: TP2, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.3, 0.4), MR0
 - rawPart: U1, ADS1015, MSOP10, SparkFun-IC-Conversion, (0.675, 0.35), R270
 - rawPart: U4, LMV358, SO08, SparkFun-IC-Amplifiers, (0.35, 0.375), R90
-- oompID: PROJ-SPAR-14666-STAN-01
 
 
 

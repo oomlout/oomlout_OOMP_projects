@@ -67,6 +67,7 @@ Contents
 - oompName: Serial Basic Breakout-CH340C
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340C (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15096
+- oompID: PROJ-SPAR-15096-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 12.7, 1.1429999999999998, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.08, 1.778, 90
 - oompPart: CAPC-0603-X-NF100-V50, C5, 5.08, 14.731999999999998, 90
@@ -105,7 +106,6 @@ Contents
 - rawPart: R6, 1k, 0603, SparkFun-Resistors, (0.695, 0.485), R270
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-IC-Power, (0.33, 0.07), R90
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.325), R270
-- oompID: PROJ-SPAR-15096-STAN-01
 
 
 

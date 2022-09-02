@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit LIS3DH Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2809
+- oompID: PROJ-ADAF-2809-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 5.3975, 5.5245, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 12.318999999999999, 7.492999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 12.5095, 10.9855, 270
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.9), R90
 - rawPart: U1, LIS3DHTR, LGA16_3X3MM, microbuilder, (0.35, 0.5), R270
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.37, 0.31), R90
-- oompID: PROJ-ADAF-2809-STAN-01
 
 
 

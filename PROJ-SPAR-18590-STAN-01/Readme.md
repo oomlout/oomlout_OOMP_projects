@@ -149,6 +149,7 @@ Contents
 - oompName: SparkFun RTK Express Plus
 - sources: All source files from https://github.com/sparkfun/SparkFun_RTK_Express_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18590
+- oompID: PROJ-SPAR-18590-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 31.190000104, 15.58600007, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 35.999999882, 37.999999945999996, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 27.999999879999997, 56.000000013999994, 270
@@ -359,7 +360,6 @@ Contents
 - rawPart: U10, MCP73833, DFN-10, SparkFun-IC-Power, (0.66929134, 3.97637795), MR90
 - rawPart: U11, U-BLOX_ZED_F9R, UBLOX_ZED_F9R, SparkFun-GPS, (1.37795276, 1.02362205), R0
 - rawPart: U13, LIS2DH12, LGA-12-LISDH12, SparkFun-Sensors, (0.86614173, 2.08661417), R90
-- oompID: PROJ-SPAR-18590-STAN-01
 
 
 

@@ -93,6 +93,7 @@ Contents
 - oompName: Adafruit Particle Spark Neopixel Ring PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2268
+- oompID: PROJ-ADAF-2268-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.858496983999999, 28.629103016, 67.5
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 18.864324984, 24.584406253999997, 52.5
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 24.584406253999997, 18.864324984, 37.5
@@ -203,7 +204,6 @@ Contents
 - rawPart: U$9, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (-0.89, 0), R0
 - rawPart: U$10, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.89, 0), R0
 - rawPart: X1, JST-2PH, JSTPH2, microbuilder, (-0.15354331, -0.72834646), R270
-- oompID: PROJ-ADAF-2268-STAN-01
 
 
 

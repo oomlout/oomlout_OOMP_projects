@@ -72,6 +72,7 @@ Contents
 - oompName: Pixie 3W Smart LED PCB
 - sources: All source files from https://github.com/adafruit/Pixie-3W-Smart-LED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2741
+- oompID: PROJ-ADAF-2741-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, !MCLR, 770.0, 190.0, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 531.25, 330.0, 90
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 485.0, 175.0, 0
@@ -124,7 +125,6 @@ Contents
 - rawPart: R9, 100, _0603MP, microbuilder, (470, 425), R270
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (609, 279), R0
 - rawPart: U$7, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (820, 466), R0
-- oompID: PROJ-ADAF-2741-STAN-01
 
 
 

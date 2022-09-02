@@ -63,6 +63,7 @@ Contents
 - oompName: Qwiic Environmental Sensor BME688
 - sources: All source files from https://github.com/sparkfun/Qwiic_Environmental_Sensor_BME688 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19096
+- oompID: PROJ-SPAR-19096-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 11.43, 9.398, M180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 12.318999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.16, 15.278999921999999, 90
@@ -101,7 +102,6 @@ Contents
 - rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.26, 0.27), R0
 - rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.35, 0.4), R0
 - rawPart: U1, BME688LGA, LGA_8PIN, BME688, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-19096-STAN-01
 
 
 

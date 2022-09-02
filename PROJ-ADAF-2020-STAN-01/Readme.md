@@ -53,6 +53,7 @@ Contents
 - oompName: Adafruit Flora LSM9DS0 9DOF PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2020
+- oompID: PROJ-ADAF-2020-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 145.0, -65.0, 90
 - oompPart: CAPC-0805-X-NF220-01, C6, 5.0, 150.0, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C7, 145.0, 75.0, 270
@@ -79,7 +80,6 @@ Contents
 - rawPart: SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, -140), R120
 - rawPart: U2, LSM9DS0TR, LGA24_4X4MM, microbuilder, (0, 0), R90
 - rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -275), R180
-- oompID: PROJ-ADAF-2020-STAN-01
 
 
 

@@ -55,6 +55,7 @@ Contents
 - oompName: Fabrickit LED Brick
 - sources: All source files from https://github.com/sparkfun/Fabrickit_LED_Brick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10412
+- oompID: PROJ-SPAR-10412-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.302, 10.16, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 17.018, 10.16, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 10.16, 3.302, 0
@@ -69,7 +70,6 @@ Contents
 - rawPart: LED1, FKIT-LED-1206_NO_CREAM, Testing, (0.36, 0.44), R45
 - rawPart: LED2, LED3MM-NS, SparkFun, (0.36, 0.44), R45
 - rawPart: R1, 0603-RES, SparkFun-Resistors, (0.45, 0.35), R225
-- oompID: PROJ-SPAR-10412-STAN-01
 
 
 

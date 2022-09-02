@@ -60,6 +60,7 @@ Contents
 - oompName: IMU Digital Combo Board
 - sources: All source files from https://github.com/sparkfun/IMU_Digital_Combo_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10121
+- oompID: PROJ-SPAR-10121-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1.27, 9.270999999999999, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 11.43, 10.16, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90
@@ -84,7 +85,6 @@ Contents
 - rawPart: R2, 4.7k, 0603-RES, SparkFun, (0.15, 0.4), R180
 - rawPart: U1, ADXL3451:1, LGA14, Testing, (0.15, 0.25), R90
 - rawPart: U3, ITG-32001:1, QFN-24_ITG3200_1:1, Testing, (0.4, 0.25), R90
-- oompID: PROJ-SPAR-10121-STAN-01
 
 
 

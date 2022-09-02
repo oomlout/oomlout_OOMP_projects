@@ -122,6 +122,7 @@ Contents
 - oompName: RedBoard Artemis ATP
 - sources: All source files from https://github.com/sparkfun/RedBoard_Artemis_ATP (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15442
+- oompID: PROJ-SPAR-15442-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 21.59, 29.209999999999997, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.762999999999998, 35.433, 270
 - oompPart: CAPC-0603-X-NF100-V50, C1, 19.049999999999997, 41.65599999999999, 0
@@ -278,7 +279,6 @@ Contents
 - rawPart: U4, ARTEMIS_MODULESMD, ARTEMIS_FP, SparkFun-IC-Microcontroller, (3.685, 1.15), R0
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 1.65), R270
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (3.19, 0.935), R90
-- oompID: PROJ-SPAR-15442-STAN-01
 
 
 

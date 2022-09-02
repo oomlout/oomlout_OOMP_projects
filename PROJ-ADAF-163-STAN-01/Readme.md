@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit Analog Accelerometers PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Analog-Accelerometers-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/163
+- oompID: PROJ-ADAF-163-STAN-01
 - oompPart: CAPC-0805-X-NF10-01, C1, 4.2164, -1.6256, 90
 - oompPart: CAPC-0805-X-NF10-01, C2, 7.264399999999999, -5.0546, 180
 - oompPart: CAPC-0805-X-NF10-01, C3, 11.8364, -1.7526000000000002, 90
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$18, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.586, -0.279), R0
 - rawPart: U1, ADXL377, LFCSP16_LQ, microbuilder, (0.311, -0.054), R90
 - rawPart: U2, RT9193, SOT23-5, microbuilder, (0.286, -0.299), R270
-- oompID: PROJ-ADAF-163-STAN-01
 
 
 

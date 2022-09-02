@@ -217,6 +217,7 @@ Contents
 - oompName: MicroMod Asset Tracker
 - sources: All source files from https://github.com/sparkfun/MicroMod_Asset_Tracker (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17272
+- oompID: PROJ-SPAR-17272-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 8.889999999999999, 47.751999999999995, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 29.209999999999997, 3.8099999999999996, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.889999999999999, 3.8099999999999996, M90
@@ -609,7 +610,6 @@ Contents
 - rawPart: VE, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (1.445, 0.82), MR180
 - rawPart: VIN/3, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.64875, 0.57625), MR270
 - rawPart: VIN_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.35, 1.8), MR0
-- oompID: PROJ-SPAR-17272-STAN-01
 
 
 

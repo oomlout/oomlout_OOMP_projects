@@ -65,6 +65,7 @@ Contents
 - oompName: Qwiic Human Presence Sensor Breakout AK9753
 - sources: All source files from https://github.com/sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14349
+- oompID: PROJ-SPAR-14349-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 12.7, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 14.477999999999998, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270
@@ -107,7 +108,6 @@ Contents
 - rawPart: R5, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.65), R90
 - rawPart: R6, 330, 0603, SparkFun-Resistors, (0.425, 0.35), R180
 - rawPart: U2, AK9753, SON10, SparkFun-Sensors, (0.5, 0.47), R0
-- oompID: PROJ-SPAR-14349-STAN-01
 
 
 

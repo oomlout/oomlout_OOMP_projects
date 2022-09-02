@@ -130,6 +130,7 @@ Contents
 - oompName: Adafruit NeoPixel Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoPixel-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1430
+- oompID: PROJ-ADAF-1430-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 16.509999999999998, 44.958, 90
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 25.526999999999997, 44.958, 90
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 34.416999999999994, 44.958, 90
@@ -302,7 +303,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.11, 0.185), R0
 - rawPart: SW1, SPST_TACT-EVQQ2, EVQ-Q2, adafruit, (0.215, 0.12), R180
 - rawPart: U1, ARDUINOR3-BPLACE, ARDUINOR3-BPLACE, adafruit, (0, 0), R0
-- oompID: PROJ-ADAF-1430-STAN-01
 
 
 

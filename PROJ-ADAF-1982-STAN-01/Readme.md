@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit MPR121 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPR121-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1982
+- oompID: PROJ-ADAF-1982-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C4, 20.1295, 6.7945, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 6.731, 5.08, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 7.874, 10.413999999999998, 180
@@ -115,7 +116,6 @@ Contents
 - rawPart: U$35, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.2, 0.1), R0
 - rawPart: U1, MPR121, QFN20_3MM_NOTHERMAL, microbuilder, (0.65, 0.37), R90
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.34, 0.31), R270
-- oompID: PROJ-ADAF-1982-STAN-01
 
 
 

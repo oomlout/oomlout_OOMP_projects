@@ -62,6 +62,7 @@ Contents
 - oompName: OpenLog
 - sources: All source files from https://github.com/sparkfun/OpenLog (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13712
+- oompID: PROJ-SPAR-13712-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 12.827, 8.509, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 1.27, 5.08, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 1.27, 11.43, 270
@@ -108,7 +109,6 @@ Contents
 - rawPart: U1, ATMEGA328P_TQFP, TQFP32-08, SparkFun-DigitalIC, (0.28, 0.4), R180
 - rawPart: U2, 3.3V, MIC5205, SOT23-5, SparkFun-PowerIC, (0.50130007, 0.19989998), R270
 - rawPart: U3, microSD, Socket, MICROSD_1:1, SparkFun-Connectors, (0.58, 0.135), MR0
-- oompID: PROJ-SPAR-13712-STAN-01
 
 
 

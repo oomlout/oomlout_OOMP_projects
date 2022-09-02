@@ -52,6 +52,7 @@ Contents
 - oompName: SparkFun Qwiic pHAT Extension
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_pHAT_Extension (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17512
+- oompID: PROJ-SPAR-17512-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 5.544600035999999, 19.498799965999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 61.659799971999995, 59.99899989, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 61.659799971999995, 59.98899991, M0
@@ -68,7 +69,6 @@ Contents
 - rawPart: J2, RASPBERRYPI-40-PIN-GPIO_RIGHT_ANGLE, 2X20_RIGHT_ANGLE, SparkFun-Connectors, (1.27913386, 0.1384252), R0
 - rawPart: J3, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (2.35275591, 0.94283465), R90
 - rawPart: J5, QWIIC_RIGHT_ANGLE, JST04_1MM_RA, SparkFun-Connectors, (0.20207087, 0.94283465), R270
-- oompID: PROJ-SPAR-17512-STAN-01
 
 
 

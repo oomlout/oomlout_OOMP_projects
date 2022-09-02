@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit PiRTC RTC for Raspberry Pi PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3386
+- oompID: PROJ-ADAF-3386-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.5278, 4.6735999999999995, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.3716, 18.846799999999998, 180
@@ -76,7 +77,6 @@ Contents
 - rawPart: R1, 1K, 0805-NO, microbuilder, (0.115, 0.185), MR180
 - rawPart: RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0
 - rawPart: U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.633, 0.703), R180
-- oompID: PROJ-ADAF-3386-STAN-01
 
 
 

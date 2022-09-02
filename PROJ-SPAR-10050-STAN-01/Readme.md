@@ -55,6 +55,7 @@ Contents
 - oompName: WiFly GSX Breakout
 - sources: All source files from https://github.com/sparkfun/WiFly_GSX_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10050
+- oompID: PROJ-SPAR-10050-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 1.27, 42.179999968, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 29.209999999999997, 42.179999968, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 22.86, 10.16, 270
@@ -79,7 +80,6 @@ Contents
 - rawPart: U$2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.05), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.65, 0.05), R0
 - rawPart: U1, RN-131G, RN-131G, SparkFun, (0.6, 1.2), R0
-- oompID: PROJ-SPAR-10050-STAN-01
 
 
 

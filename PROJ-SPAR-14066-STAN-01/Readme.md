@@ -74,6 +74,7 @@ Contents
 - oompName: Simultaneous RFID Tag Reader
 - sources: All source files from https://github.com/sparkfun/Simultaneous_RFID_Tag_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14066
+- oompID: PROJ-SPAR-14066-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 29.209999999999997, 26.669999999999998, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 16.509999999999998, 43.18, 90
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C3, 62.230000000000004, 14.858999999999998, 90
@@ -134,7 +135,6 @@ Contents
 - rawPart: U2, TXB0104, SO14, SparkFun-IC-Comms, (1.1, 1.7), R0
 - rawPart: U3, ESD, Diode, SOT-23-6, UHF_RFID_Nano_Module, (1.375, 1.7), R0
 - rawPart: U4, Nano, NANO_MODULE, ThingMagic_Module, (1.15, 1.05), R270
-- oompID: PROJ-SPAR-14066-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: Adafruit ItsyBitsy 32u4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3677
+- oompID: PROJ-ADAF-3677-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 12.572999999999999, 12.953999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C7, 25.145999999999997, 4.191, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C8, 7.112, 5.968999999999999, 90
@@ -111,7 +112,6 @@ Contents
 - rawPart: X1, JSTPH2, microbuilder, (0.15, 0.35), MR270
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.35), R270
 - rawPart: Y1, 16MHz, RESONATOR-SMD, SparkFun, (0.99146444, 0.48439333), R315
-- oompID: PROJ-ADAF-3677-STAN-01
 
 
 

@@ -51,13 +51,13 @@ Contents
 - oompName: SSOP-DIP Adapter 8-Pin
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_8-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/497
+- oompID: PROJ-SPAR-497-STAN-01
 - oompPart: HEAD-I01-X-PI04-01, JP2, 2.54, 2.54, 90
 - oompPart: HEAD-I01-X-PI04-01, JP3, 15.239999999999998, 2.54, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 8.889999999999999, 6.35, 270
 - rawPart: JP2, 1X04, SparkFun, (0.1, 0.1), R90
 - rawPart: JP3, 1X04, SparkFun, (0.6, 0.1), R90
 - rawPart: U$1, SSOP8, SSOP8, SparkFun, (0.35, 0.25), R270
-- oompID: PROJ-SPAR-497-STAN-01
 
 
 

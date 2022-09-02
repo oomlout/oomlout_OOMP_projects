@@ -59,6 +59,7 @@ Contents
 - oompName: SparkFun Analog MEMS Microphone Breakout SPH8878LR5H-1
 - sources: All source files from https://github.com/sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19389
+- oompID: PROJ-SPAR-19389-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.3114, 8.915399999999998, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.4742, 6.731, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 7.112, 8.915399999999998, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: R4, 300k, 0603, SparkFun-Resistors, (0.28, 0.293), R180
 - rawPart: U1, OPA344, SOT23-5, SparkFun-IC-Amplifiers, (0.261, 0.187), R90
 - rawPart: U3, SPH8878LR5H-1, SPH8878LR5H-1, temp, (0.1, 0.15), R0
-- oompID: PROJ-SPAR-19389-STAN-01
 
 
 

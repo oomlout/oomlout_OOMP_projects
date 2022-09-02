@@ -51,13 +51,13 @@ Contents
 - oompName: Photo Interrupter Breakout
 - sources: All source files from https://github.com/sparkfun/Photo_Interrupter_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9322
+- oompID: PROJ-SPAR-9322-STAN-01
 - oompPart: HEAD-I01-X-PI03-01, JP1, 12.7, 12.7, 180
 - oompPart: RESE-UNMATCHED-X-O221-01, R1, 10.16, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 3.8099999999999996, 0
 - rawPart: JP1, 1X03, SparkFun, (0.5, 0.5), R180
 - rawPart: R1, 220, AXIAL-0.3, SparkFun, (0.4, 0.35), R0
 - rawPart: U1, GP1A57HR, GP1A57HR, SparkFun, (0.4, 0.15), R0
-- oompID: PROJ-SPAR-9322-STAN-01
 
 
 

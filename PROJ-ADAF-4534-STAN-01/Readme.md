@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Bonsai Buckaroo PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bonsai-Buckaroo-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4534
+- oompID: PROJ-ADAF-4534-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 36.093399999999995, 7.454899999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 35.81399999999999, 2.794, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 10.540999999999999, 5.7785, 90
@@ -91,7 +92,6 @@ Contents
 - rawPart: TP2, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.95, 0.13), R180
 - rawPart: TP3, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (1.2, 0.13), R180
 - rawPart: X1, 2060-402/998-404, P-2060-402/998-404, adafruit_connector, (1.71, 0.31), R0
-- oompID: PROJ-ADAF-4534-STAN-01
 
 
 

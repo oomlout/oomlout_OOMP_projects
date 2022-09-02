@@ -125,6 +125,7 @@ Contents
 - oompName: Adafruit 5 HDMI Backpack PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-5-HDMI-Backpack-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2260
+- oompID: PROJ-ADAF-2260-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BACKLITEPWM, 1.6, 73.3, 0
 - oompPart: CAPC-0805-X-NF100-V50, C1, 48.641, 20.821, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 26.3, 39.0, 270
@@ -307,7 +308,6 @@ Contents
 - rawPart: X1, 47151-0001, HDMI_MOLEX_47151-0001_DIMLAYER, microbuilder, (9.25, 51), R270
 - rawPart: X2, MicroUSB, 4UCONN_20329, microbuilder, (3.75, 29.6), R270
 - rawPart: Y1, 12MHz, RESONATOR-SMD, SparkFun, (52.186, 22.408), R90
-- oompID: PROJ-ADAF-2260-STAN-01
 
 
 

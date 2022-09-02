@@ -67,6 +67,7 @@ Contents
 - oompName: Gyro Breakout-LPY503AL
 - sources: All source files from https://github.com/sparkfun/Gyro_Breakout-LPY503AL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11341
+- oompID: PROJ-SPAR-11341-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C3, 7.619999999999999, 11.43, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 7.619999999999999, 13.97, 180
 - oompPart: CAPE-0402-X-UNMATCHED-01, C5, 2.54, 11.43, 180
@@ -105,7 +106,6 @@ Contents
 - rawPart: R9, 0, ohm, 0402-RES, SparkFun, (0.1, 0.3), R0
 - rawPart: R10, 0, ohm, 0402-RES, SparkFun, (0.5, 0.3), R0
 - rawPart: U1, LPY5XXX, ST-GYRO, SparkFun, (0.3, 0.3), R0
-- oompID: PROJ-SPAR-11341-STAN-01
 
 
 

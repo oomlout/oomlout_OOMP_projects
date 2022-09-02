@@ -50,11 +50,11 @@ Contents
 - oompName: Serial DB9 Breakout
 - sources: All source files from https://github.com/sparkfun/Serial_DB9_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8552
+- oompID: PROJ-SPAR-8552-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DB9, 15.239999999999998, 7.619999999999999, 180
 - oompPart: HEAD-I01-X-PI09-01, JP1, 25.4, 15.239999999999998, 180
 - rawPart: DB9, DB9, SparkFun, (0.6, 0.3), R180
 - rawPart: JP1, M09, 1X09, SparkFun, (1, 0.6), R180
-- oompID: PROJ-SPAR-8552-STAN-01
 
 
 

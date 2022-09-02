@@ -78,6 +78,7 @@ Contents
 - oompName: Adafruit_CC3000_Shield_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_CC3000_Shield_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1534
+- oompID: PROJ-ADAF-1534-STAN-01
 - oompPart: CAPC-0402-X-PF22D-01, C1, 157.48031, 675.35433, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 305.27559, 528.50394, 0
 - oompPart: UNMATCHED-0402-X-UNMATCHED-01, C3, 324.96063, 508.8189, 270
@@ -156,7 +157,6 @@ Contents
 - rawPart: U2, LT1117-3v, SOT223-R, microbuilder, (1245.15748, 539.29134), R0
 - rawPart: U3, 74HC4050D, SOIC16, microbuilder, (890.47244, 1406.53543), R270
 - rawPart: X1, 2450AT18B100, ANT_2500AT44M0400, microbuilder, (157.16535, 938.11024), R270
-- oompID: PROJ-ADAF-1534-STAN-01
 
 
 

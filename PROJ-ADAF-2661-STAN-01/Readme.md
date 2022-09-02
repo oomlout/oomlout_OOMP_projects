@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit Bluefruit LE Micro PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-Micro-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2661
+- oompID: PROJ-ADAF-2661-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 37.083999999999996, 18.415, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 11.05399999, 16.549999919999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C7, 31.800999897999997, 18.144000034, 0
@@ -152,7 +153,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.135, 0.45), MR270
 - rawPart: X3, microUSB, 4UCONN_20329, microbuilder, (0.175, 0.45), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (1.12, 0.225), R225
-- oompID: PROJ-ADAF-2661-STAN-01
 
 
 

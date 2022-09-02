@@ -75,6 +75,7 @@ Contents
 - oompName: Adafruit 3.5in TFT Featherwing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-3.5in-TFT-Featherwing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3651
+- oompID: PROJ-ADAF-3651-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -9.779, -0.254, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -18.541999999999998, 1.016, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 23.368, -10.668, 270
@@ -201,7 +202,6 @@ Contents
 - rawPart: U3, FAN5333BSX, SOT23-5@1, microbuilder, (-0.73, -0.11), R0
 - rawPart: X1, MicroSD, MICROSD, microbuilder, (0.24, -0.86), R0
 - rawPart: X2, 3.5, TFT, TFT_3.5IN_320X480_50PIN, microbuilder, (0, 0), MR0
-- oompID: PROJ-ADAF-3651-STAN-01
 
 
 

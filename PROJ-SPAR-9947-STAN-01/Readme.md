@@ -75,6 +75,7 @@ Contents
 - oompName: USB Host Shield
 - sources: All source files from https://github.com/sparkfun/USB_Host_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9947
+- oompID: PROJ-SPAR-9947-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 20.32, 33.019999999999996, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 20.32, 31.75, 180
 - oompPart: CAPC-0402-X-NF100-V50, C3, 38.099999999999994, 33.019999999999996, 270
@@ -139,7 +140,6 @@ Contents
 - rawPart: U3, 3.3V_REG, SOT23-5, SparkFun, (1.4, 1.4), R180
 - rawPart: U4, HEX_CONVERTER, SO016, SparkFun, (0.5, 1.65), R0
 - rawPart: X2, USB_, USB-A-S-SILK-FEMALE, SparkFun, (1.05, 2.05), R270
-- oompID: PROJ-SPAR-9947-STAN-01
 
 
 

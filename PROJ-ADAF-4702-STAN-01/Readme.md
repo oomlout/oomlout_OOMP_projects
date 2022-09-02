@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit RGB Matrix FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4702
+- oompID: PROJ-ADAF-4702-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C6, 7.112, 17.145, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C7, 12.953999999999999, 5.968999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 48.894999999999996, 6.35, 0
@@ -94,7 +95,6 @@ Contents
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.3, 0.835), R0
 - rawPart: X1, DCJACK_2MM_PTH, microbuilder, (-0.125, 0.45), R0
 - rawPart: X2, TERMBLOCK_508_1X2, microbuilder, (1.8, 0.45), R90
-- oompID: PROJ-ADAF-4702-STAN-01
 
 
 

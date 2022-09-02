@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit CP2102N Friend PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-CP2102N-Friend-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5335
+- oompID: PROJ-ADAF-5335-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 6.35, 16.065499999999997, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.8745, 18.3515, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 5.588, 18.415, 270
@@ -110,7 +111,6 @@ Contents
 - rawPart: U$18, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.62, 1.02), R0
 - rawPart: U$19, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.08, 1.02), R0
 - rawPart: X2, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (0.35, 0.985), R180
-- oompID: PROJ-ADAF-5335-STAN-01
 
 
 

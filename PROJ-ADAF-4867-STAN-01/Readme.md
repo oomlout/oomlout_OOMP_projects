@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit SCD 30 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SCD-30-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4867
+- oompID: PROJ-ADAF-4867-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.921999999999999, 4.953, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.365999999999999, 5.715, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 13.843, 5.968999999999999, 270
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.42, 0.295), R270
 - rawPart: X1, SCD30, SCD30, adafruit_sensor, (1.03, 0.495), R270
-- oompID: PROJ-ADAF-4867-STAN-01
 
 
 

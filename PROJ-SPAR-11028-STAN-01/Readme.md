@@ -56,6 +56,7 @@ Contents
 - oompName: MPU-6050 Breakout
 - sources: All source files from https://github.com/sparkfun/MPU-6050_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11028
+- oompID: PROJ-SPAR-11028-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.725399999999999, 4.2418, 270
 - oompPart: CAPC-0603-X-NF22D-V50, C2, 14.401799999999998, 13.9192, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 16.637, 11.7856, 90
@@ -82,7 +83,6 @@ Contents
 - rawPart: SJ2, SJ_2S-TRACE, SparkFun, (0.25, 0.3), MR180
 - rawPart: SJ3, SJ_2S-TRACE, SparkFun, (0.75, 0.3), MR0
 - rawPart: U1, MPU-6050-1, QFN-24-4MM2, Testing, (0.5, 0.4), R0
-- oompID: PROJ-SPAR-11028-STAN-01
 
 
 

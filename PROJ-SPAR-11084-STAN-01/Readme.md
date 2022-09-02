@@ -56,6 +56,7 @@ Contents
 - oompName: MPL3115A2 Breakout
 - sources: All source files from https://github.com/sparkfun/MPL3115A2_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11084
+- oompID: PROJ-SPAR-11084-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 8.889999999999999, 8.889999999999999, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 12.7, 10.16, 90
 - oompPart: CAPC-0402-X-NF100-V50, C3, 7.619999999999999, 8.889999999999999, 270
@@ -76,7 +77,6 @@ Contents
 - rawPart: R1, 1k, 0402-RES, SparkFun, (0.25, 0.35), R270
 - rawPart: R2, 1k, 0402-RES, SparkFun, (0.2, 0.35), R270
 - rawPart: U1, MPL3115A2LGA8, LGA8, SparkFun-Sensors, (0.3, 0.55), R180
-- oompID: PROJ-SPAR-11084-STAN-01
 
 
 

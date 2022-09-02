@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit MCP4725 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MCP4725-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/935
+- oompID: PROJ-ADAF-935-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 7.746999999999999, 7.6834999999999996, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 9.398, 7.429499999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.733, 8.889999999999999, 90
@@ -89,7 +90,6 @@ Contents
 - rawPart: U$27, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.1), R0
 - rawPart: U1, MCP4725A1T-E/CH, SOT23-6, microbuilder, (0.4975, 0.275), R270
 - rawPart: X1, 3.5mm, Terminal, Block, TERMBLOCK_1X2-3.5MM, adafruit_electromech, (0.5, 0.55), R180
-- oompID: PROJ-ADAF-935-STAN-01
 
 
 

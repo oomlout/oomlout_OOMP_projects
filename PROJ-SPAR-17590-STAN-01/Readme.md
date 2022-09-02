@@ -66,6 +66,7 @@ Contents
 - oompName: Qwiic Haptic Driver DA7280
 - sources: All source files from https://github.com/sparkfun/Qwiic_Haptic_Driver_DA7280 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17590
+- oompID: PROJ-SPAR-17590-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 14.445396813999999, 9.618390719999999, 135
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 15.480799874, 10.671599941999999, 135
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.0479999999999996, 18.415, 270
@@ -110,7 +111,6 @@ Contents
 - rawPart: R3, 10k, 0603, SparkFun-Resistors, (0.906, 0.32), R180
 - rawPart: R4, 1k, 0603, SparkFun-Resistors, (0.055, 0.72346457), R270
 - rawPart: U1, HAPTIC_DRIVER_DA7280, QFN_DA7280, TEMP, (0.5, 0.31), R135
-- oompID: PROJ-SPAR-17590-STAN-01
 
 
 

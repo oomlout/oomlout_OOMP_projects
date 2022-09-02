@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit PWM Servo FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2928
+- oompID: PROJ-ADAF-2928-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 38.480999999999995, 16.891, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 22.479, 12.318999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.4460000299999995, 18.129000064, 0
@@ -118,7 +119,6 @@ Contents
 - rawPart: SJ_A5, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.955, 0.64374016), MR270
 - rawPart: SW1, BTN_KMR2_4.6X2.8, microbuilder, (0.48, 0.27), R180
 - rawPart: U1, PCA9685, TSSOP28, microbuilder, (1.345, 0.43), R270
-- oompID: PROJ-ADAF-2928-STAN-01
 
 
 

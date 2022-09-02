@@ -59,6 +59,7 @@ Contents
 - oompName: ProtoScrewShield
 - sources: All source files from https://github.com/sparkfun/ProtoScrewShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9729
+- oompID: PROJ-SPAR-9729-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 43.18, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 20.32, 7.619999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 3.8099999999999996, 7.619999999999999, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: S1, Reset, TACTILE-PTH, SparkFun, (2.55, 1.6), R270
 - rawPart: S2, General, TACTILE-PTH, SparkFun, (2.55, 2), R270
 - rawPart: U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES, SparkFun, (0, 2.65), R270
-- oompID: PROJ-SPAR-9729-STAN-01
 
 
 

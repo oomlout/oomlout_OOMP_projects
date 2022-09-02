@@ -91,6 +91,7 @@ Contents
 - oompName: Adafruit ESP32 Feather V2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ESP32-Feather-V2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5400
+- oompID: PROJ-ADAF-5400-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 15.989299999999998, 4.1274999999999995, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 42.925999999999995, 18.796, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 16.9545, 18.6055, 0
@@ -187,7 +188,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (0.4325, 0.76), R0
 - rawPart: X3, ESP32-PICO-MINI-02MINI, ESP32-PICO-MINI, adafruit_wireless, (1.55, 0.45), R270
 - rawPart: X6, USB, Type, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (0.105, 0.45), R270
-- oompID: PROJ-ADAF-5400-STAN-01
 
 
 

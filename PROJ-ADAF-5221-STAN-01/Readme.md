@@ -50,6 +50,7 @@ Contents
 - oompName: Adafruit ANO Rotary Navigation Encoder Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5221
+- oompID: PROJ-ADAF-5221-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, -16.383, 11.8745, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 16.637, -12.1031, 180
 - oompPart: HEAD-I01-X-PI09-01, JP3, 0.0, -18.415, 180
@@ -66,7 +67,6 @@ Contents
 - rawPart: U$29, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.6), R180
 - rawPart: U$30, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.6, 0.6), R180
 - rawPart: X1, ENCODER_ANO, ENCODER_ANO, adafruit_electromech, (0, 0), MR225
-- oompID: PROJ-ADAF-5221-STAN-01
 
 
 

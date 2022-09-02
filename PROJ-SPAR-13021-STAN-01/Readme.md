@@ -50,6 +50,7 @@ Contents
 - oompName: MagJack Breakout
 - sources: All source files from https://github.com/sparkfun/MagJack_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13021
+- oompID: PROJ-SPAR-13021-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 16.509999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 31.75, 5.08, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 27.94, 180
@@ -58,7 +59,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.25, 0.2), R0
 - rawPart: J1, MAGJACK-NOLABELS, MAGJACK, SparkFun-Connectors, (0.95, 1.1), R180
 - rawPart: JP1, M13LOCK, 1X13_LOCK, SparkFun-Connectors, (0.05, 0.05), R0
-- oompID: PROJ-SPAR-13021-STAN-01
 
 
 

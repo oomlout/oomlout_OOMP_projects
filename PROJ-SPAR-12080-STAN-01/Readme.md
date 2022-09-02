@@ -86,6 +86,7 @@ Contents
 - oompName: VKey Voltage Keypad
 - sources: All source files from https://github.com/sparkfun/VKey_Voltage_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12080
+- oompID: PROJ-SPAR-12080-STAN-01
 - oompPart: CAPC-0603-X-NF10-V50, C1, 36.83, 23.495, M90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 22.86, M270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 54.60999999999999, 2.54, M0
@@ -166,7 +167,6 @@ Contents
 - rawPart: S15, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0
 - rawPart: S16, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 3.05), R0
 - rawPart: U1, LMV358, SO08, SparkFun-AnalogIC, (1.25, 0.9), MR180
-- oompID: PROJ-SPAR-12080-STAN-01
 
 
 

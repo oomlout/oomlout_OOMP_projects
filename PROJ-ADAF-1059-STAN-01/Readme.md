@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit Flora Ultimate GPS
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Ultimate-GPS (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1059
+- oompID: PROJ-ADAF-1059-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3V3IN, 11.684, -4.699, 247.5
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 0.023999952, -10.413999999999998, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 9.042993852, -9.179634422, 225
@@ -84,7 +85,6 @@ Contents
 - rawPart: TX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, -0.455), R202.5
 - rawPart: U$20, U.FL, U.FL, microbuilder, (0.41, 0.28), R180
 - rawPart: U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0, 0), R90
-- oompID: PROJ-ADAF-1059-STAN-01
 
 
 

@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit PMSA003I PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PMSA003I-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4632
+- oompID: PROJ-ADAF-4632-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.998000101999999, 7.352000027999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 8.241000028, 5.511999897999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.765000028, 11.607999898, 0
@@ -120,7 +121,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R270
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.3, 0.1), R270
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.33944882, 0.34200787), R0
-- oompID: PROJ-ADAF-4632-STAN-01
 
 
 

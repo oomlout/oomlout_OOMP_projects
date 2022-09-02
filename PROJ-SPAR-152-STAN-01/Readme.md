@@ -65,6 +65,7 @@ Contents
 - oompName: nRF2401A Transceiver-Chip Antenna
 - sources: All source files from https://github.com/sparkfun/nRF2401A_Transceiver-Chip_Antenna (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/152
+- oompID: PROJ-SPAR-152-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 16.02199996, 5.4090001039999995, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 16.02199996, 8.408999946, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 13.334999999999999, 3.175, 0
@@ -103,7 +104,6 @@ Contents
 - rawPart: R2, 22K, C0402, SparkFun, (0.135, 0.275), R270
 - rawPart: U1, NRF2401A, MLP-24, SparkFun, (0.3, 0.22), R90
 - rawPart: Y1, ANTENNA2SMD5, ANTENNA-CHIP5, SparkFun, (0.17, 0.435), R180
-- oompID: PROJ-SPAR-152-STAN-01
 
 
 

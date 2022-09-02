@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Power Relay FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Power-Relay-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3191
+- oompID: PROJ-ADAF-3191-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.034, 11.176, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 10.413999999999998, 14.224, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 47.370999999999995, 11.43, 90
@@ -105,7 +106,6 @@ Contents
 - rawPart: SJ20, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.79, 0.7), MR270
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.2, 0.45), R270
 - rawPart: U$1, RELAY_G5LE, RELAY_G5LE-1, microbuilder, (1.25, 0.45), R0
-- oompID: PROJ-ADAF-3191-STAN-01
 
 
 

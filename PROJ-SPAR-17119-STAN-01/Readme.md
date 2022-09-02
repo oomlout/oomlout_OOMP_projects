@@ -61,6 +61,7 @@ Contents
 - oompName: Qwiic Shield for Teensy
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Teensy (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17119
+- oompID: PROJ-SPAR-17119-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_ISO, 7.619999999999999, 5.842, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 13.97, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1_BP, 13.5128, 8.178799999999999, M90
@@ -95,7 +96,6 @@ Contents
 - rawPart: R3, 4.7k, 0603, SparkFun-Resistors, (0.536, 0.564), R0
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.536, 0.488), R0
 - rawPart: S1, SMD_5.2MM, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.5, 0.9), R270
-- oompID: PROJ-SPAR-17119-STAN-01
 
 
 

@@ -54,6 +54,7 @@ Contents
 - oompName: ADXL335 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL335_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9269
+- oompID: PROJ-SPAR-9269-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.652, 12.446, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.540999999999999, 2.667, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 5.206999999999999, 9.652, 90
@@ -70,7 +71,6 @@ Contents
 - rawPart: U$1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.23, 0.56), R0
 - rawPart: U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.505, 0.04), R0
 - rawPart: U$4, ADXL335-PATRICK, ADXL335-P, Testing, (0.38, 0.3), R180
-- oompID: PROJ-SPAR-9269-STAN-01
 
 
 

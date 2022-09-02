@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit 1.9in 320x170 Color IPS TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5394
+- oompID: PROJ-ADAF-5394-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 35.05199999999999, 5.588, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 19.049999999999997, 18.796, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 42.799, 4.953, 0
@@ -105,7 +106,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 1.15), MR0
 - rawPart: U1, 74HC4050PWR, TSSOP16, microbuilder, (1.53, 0.415), R90
 - rawPart: X1, EYE_SPI_DISPLAY_FLIP, EYE_SPI_DISPLAY_BOTCONTACT, adafruit_display, (0.53, 0.935), R0
-- oompID: PROJ-ADAF-5394-STAN-01
 
 
 

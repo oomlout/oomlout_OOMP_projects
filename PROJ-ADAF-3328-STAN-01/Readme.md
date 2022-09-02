@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit MAX31865 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX31865-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3328
+- oompID: PROJ-ADAF-3328-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 4.571999999999999, 14.858999999999998, 0
 - oompPart: CAPC-0805-X-NF100-V50, C2, 17.272000000000002, 9.779, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 12.7, 16.256, 180
@@ -116,7 +117,6 @@ Contents
 - rawPart: U3, MIC5225-3.3, SOT23-5, microbuilder, (0.18, 0.365), R0
 - rawPart: X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.64, 0.955), R180
 - rawPart: X2, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.365, 0.955), R180
-- oompID: PROJ-ADAF-3328-STAN-01
 
 
 

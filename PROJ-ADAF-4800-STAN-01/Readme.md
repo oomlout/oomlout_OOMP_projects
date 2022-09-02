@@ -143,6 +143,7 @@ Contents
 - oompName: Adafruit_MagTag_PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit_MagTag_PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4800
+- oompID: PROJ-ADAF-4800-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.4455, 15.6845, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 65.5955, 34.671, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 30.099, 46.608999999999995, 270
@@ -365,7 +366,6 @@ Contents
 - rawPart: U4, AP2112K-3.3, SOT23-5, microbuilder, (0.755, 0.505), R0
 - rawPart: X1, JSTPH, JSTPH2_BATT, microbuilder, (2.7725, 0.46), R90
 - rawPart: X4, USB, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.115, 0.5), R270
-- oompID: PROJ-ADAF-4800-STAN-01
 
 
 

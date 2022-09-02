@@ -85,6 +85,7 @@ Contents
 - oompName: nRF52832 Breakout
 - sources: All source files from https://github.com/sparkfun/nRF52832_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13990
+- oompID: PROJ-SPAR-13990-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 5.715, 6.35, 270
 - oompPart: CAPC-0603-X-UF22D-01, C2, 12.065, 6.35, 270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 6.35, 30.479999999999997, 90
@@ -173,7 +174,6 @@ Contents
 - rawPart: U2, NRF52832, QFN48-6X6MM, nrf52832-breakout-temp, (0.375, 1.4), R90
 - rawPart: Y1, 32MHz, CRYSTAL-SMD-2.0X1.6MM, nrf52832-breakout-temp, (0.175, 1.625), R90
 - rawPart: Y2, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.35, 1.1), R180
-- oompID: PROJ-SPAR-13990-STAN-01
 
 
 

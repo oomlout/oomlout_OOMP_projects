@@ -60,6 +60,7 @@ Contents
 - oompName: MOSFET Power Controller
 - sources: All source files from https://github.com/sparkfun/MOSFET_Power_Controller (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11214
+- oompID: PROJ-SPAR-11214-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH1, 3.8099999999999996, 27.94, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH2, 17.779999999999998, 22.86, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH3, 17.779999999999998, 2.54, 90
@@ -88,7 +89,6 @@ Contents
 - rawPart: Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90
 - rawPart: R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.85), R0
 - rawPart: R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0
-- oompID: PROJ-SPAR-11214-STAN-01
 
 
 

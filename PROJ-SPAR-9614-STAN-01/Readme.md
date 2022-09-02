@@ -50,11 +50,11 @@ Contents
 - oompName: USB microB Breakout Board
 - sources: All source files from https://github.com/sparkfun/USB_microB_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9614
+- oompID: PROJ-SPAR-9614-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP5, 15.239999999999998, 10.16, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 10.16, 1.651, 90
 - rawPart: JP5, 1X05, SparkFun, (0.6, 0.4), R180
 - rawPart: U$4, MICRO_AB_USB, USB-AB-MICRO-SMD_V03, SparkFun-Connectors, (0.4, 0.065), R90
-- oompID: PROJ-SPAR-9614-STAN-01
 
 
 

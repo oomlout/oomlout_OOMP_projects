@@ -54,6 +54,7 @@ Contents
 - oompName: Shift Register Breakout-74HC595
 - sources: All source files from https://github.com/sparkfun/Shift_Register_Breakout-74HC595 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10680
+- oompID: PROJ-SPAR-10680-STAN-01
 - oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 24.13, 270
 - oompPart: HEAD-I01-X-PI07-01, JP2, 6.35, 29.209999999999997, 0
 - oompPart: HEAD-I01-X-PI07-01, JP3, 6.35, 1.27, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: JP6, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.05, 0.05), R0
 - rawPart: JP7, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.79, 1.03), R0
 - rawPart: U1, 74LS595D, SO16, SparkFun, (0.5, 0.6), R270
-- oompID: PROJ-SPAR-10680-STAN-01
 
 
 

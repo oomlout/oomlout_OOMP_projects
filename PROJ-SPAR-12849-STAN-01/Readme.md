@@ -55,6 +55,7 @@ Contents
 - oompName: RN-52
 - sources: All source files from https://github.com/sparkfun/RN-52 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12849
+- oompID: PROJ-SPAR-12849-STAN-01
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 10.16, 24.13, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 25.4, 24.13, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.0584, 29.6926, 0
@@ -73,7 +74,6 @@ Contents
 - rawPart: R1, 330, 0603-RES, SparkFun-Resistors, (0.5, 0.95), R90
 - rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.9, 0.95), R90
 - rawPart: U1, BLUETOOTH-RN-52, RN-52, SparkFun-RF, (0.7, 1.6), R0
-- oompID: PROJ-SPAR-12849-STAN-01
 
 
 

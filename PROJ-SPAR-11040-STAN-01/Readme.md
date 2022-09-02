@@ -78,6 +78,7 @@ Contents
 - oompName: LED RingCoder Breakout
 - sources: All source files from https://github.com/sparkfun/LED_RingCoder_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11040
+- oompID: PROJ-SPAR-11040-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.795, 25.4, 90
 - oompPart: CAPC-0603-X-NF100-V50, C2, 28.575, 7.619999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 16.509999999999998, 90
@@ -142,7 +143,6 @@ Contents
 - rawPart: R19, 300, 0603-RES, SparkFun-Resistors, (1.1, 1.275), R90
 - rawPart: R20, 10k, 0603-RES, SparkFun-Resistors, (0.5, 0.3), R270
 - rawPart: U1, ENCODER_RGB, ENCODER_LED_RGB, SparkFun, (0.8, 0.65), MR180
-- oompID: PROJ-SPAR-11040-STAN-01
 
 
 

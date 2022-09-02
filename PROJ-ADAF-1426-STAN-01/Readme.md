@@ -66,6 +66,7 @@ Contents
 - oompName: NeoPixel Sticks
 - sources: All source files from https://github.com/adafruit/NeoPixel-Sticks (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1426
+- oompID: PROJ-ADAF-1426-STAN-01
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C1, 8.382, 8.382, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C2, 16.891, 8.382, 180
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, C3, 22.224999999999998, 8.382, 180
@@ -110,7 +111,6 @@ Contents
 - rawPart: LED8, WS28115050, WS28115050, microbuilder, (1.875, 0.15), R0
 - rawPart: U$2, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.5, 0.32), R0
 - rawPart: U$3, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.5, 0.32), R0
-- oompID: PROJ-ADAF-1426-STAN-01
 
 
 

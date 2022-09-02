@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit I2C QT Rotary Encoder PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4991
+- oompID: PROJ-ADAF-4991-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.874, 13.589, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 12.827, 6.223, 180
 - oompPart: CAPC-0603-X-NF100-V50, C4, 16.509999999999998, 8.382, 0
@@ -123,7 +124,6 @@ Contents
 - rawPart: U$29, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.1, 0.1), R0
 - rawPart: U$30, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, adafruit_electromech, (0.9, 0.1), R0
 - rawPart: U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.1, 0.275), R180
-- oompID: PROJ-ADAF-4991-STAN-01
 
 
 

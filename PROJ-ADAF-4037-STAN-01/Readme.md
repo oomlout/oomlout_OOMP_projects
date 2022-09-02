@@ -78,6 +78,7 @@ Contents
 - oompName: Adafruit I2S Audio Bonnet for Raspberry Pi PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4037
+- oompID: PROJ-ADAF-4037-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 25.273, 4.953, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 24.765, 13.97, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 29.083, 18.288, 0
@@ -144,7 +145,6 @@ Contents
 - rawPart: U1, UDA1334ATS, SSOP16_4.4MM, microbuilder, (25.654, 10.033), R90
 - rawPart: U2, AP2112-3.3K, SOT23-5, microbuilder, (3.175, 15.621), R180
 - rawPart: X2, 19269, 4UCONN_19269, microbuilder, (11.684, 0), R90
-- oompID: PROJ-ADAF-4037-STAN-01
 
 
 

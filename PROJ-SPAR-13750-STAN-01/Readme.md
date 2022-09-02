@@ -86,6 +86,7 @@ Contents
 - oompName: GPS Shield
 - sources: All source files from https://github.com/sparkfun/GPS_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13750
+- oompID: PROJ-SPAR-13750-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.906, 6.223, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 24.13, 11.43, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 19.049999999999997, 11.43, 270
@@ -184,7 +185,6 @@ Contents
 - rawPart: U1, APK2112-3.3V, SOT23-5, SparkFun-PowerIC, (0.85, 0.45), R0
 - rawPart: U2, GP3906-TLP, GP3906-TLP, gps-shield-temp, (0.425, 0.85), R0
 - rawPart: U3, TXB0108, UFDFN-20, SparkFun-DigitalIC, (0.925, 1.55), R270
-- oompID: PROJ-SPAR-13750-STAN-01
 
 
 

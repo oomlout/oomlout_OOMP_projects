@@ -62,6 +62,7 @@ Contents
 - oompName: MiniMoto
 - sources: All source files from https://github.com/sparkfun/MiniMoto (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11890
+- oompID: PROJ-SPAR-11890-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 13.97, 12.7, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 24.637999999999998, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 24.637999999999998, 0.7619999999999999, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: R4, 10K, 0603-RES, SparkFun-Resistors, (0.4, 0.3), R90
 - rawPart: R5, 10K, 0603-RES, SparkFun-Resistors, (0.9, 0.65), R0
 - rawPart: U1, DRV8830, MSOP-10-GNDPAD, SparkFun-PowerIC, (0.65, 0.45), R180
-- oompID: PROJ-SPAR-11890-STAN-01
 
 
 

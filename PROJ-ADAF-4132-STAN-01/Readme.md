@@ -74,6 +74,7 @@ Contents
 - oompName: Adafruit GPIO Expander Bonnet PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4132
+- oompID: PROJ-ADAF-4132-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, ADDR0, 16.907999966, 17.190999908, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, ADDR1, 14.551000107999998, 17.190999908, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, ADDR2, 11.151000049999999, 17.190999908, 90
@@ -138,7 +139,6 @@ Contents
 - rawPart: RPI2, PIBONNET_STEMMA_2STEMMA_SMTTHM, PI_BONNET_2STEMMA_SMT, microbuilder, (0, 0), R0
 - rawPart: U1, SOT23-5, microbuilder, (0.1, 0.385), R0
 - rawPart: VIO_SELECT, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.51834646, 0.43287402), R270
-- oompID: PROJ-ADAF-4132-STAN-01
 
 
 

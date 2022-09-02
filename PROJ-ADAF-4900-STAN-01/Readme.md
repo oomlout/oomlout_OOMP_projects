@@ -83,6 +83,7 @@ Contents
 - oompName: Adafruit QT Py RP2040 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-RP2040-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4900
+- oompID: PROJ-ADAF-4900-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 13.2842, 11.9507, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 13.6144, 12.204699999999999, M180
 - oompPart: CAPC-0402-X-NF100-V50, C7, 6.095999999999999, 1.8795999999999997, M180
@@ -163,7 +164,6 @@ Contents
 - rawPart: U5, 8MB, QSPI, Flash, USON8_4X4, microbuilder, (0.3375, 0.6275), MR270
 - rawPart: X2, USB, Type, C, USB_C_CUSB31-CFM2AX-01-X, microbuilder, (0.35, 0.7055), R180
 - rawPart: Y1, 12MHZ, CRYSTAL_2.5X2, microbuilder, (0.4135, 0.0635), MR0
-- oompID: PROJ-ADAF-4900-STAN-01
 
 
 

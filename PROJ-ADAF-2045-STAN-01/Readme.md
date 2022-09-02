@@ -65,6 +65,7 @@ Contents
 - oompName: Adafruit Si5351A Clock Generator Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2045
+- oompID: PROJ-ADAF-2045-STAN-01
 - oompPart: CAPC-0805-X-NF470-01, C1, 12.7, 11.937999999999999, 90
 - oompPart: CAPC-0805-X-NF470-01, C2, 19.558, 13.716, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 27.686, 12.191999999999998, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: X2, SMA_EDGELAUNCH, microbuilder, (0.6, 0.83), R270
 - rawPart: X3, SMA_EDGELAUNCH, microbuilder, (1, 0.83), R270
 - rawPart: Y1, 25MHz, CRYSTAL_3.2X2.5, microbuilder, (0.6, 0.29), R180
-- oompID: PROJ-ADAF-2045-STAN-01
 
 
 

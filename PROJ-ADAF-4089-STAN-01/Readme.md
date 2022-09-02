@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit ADT7410 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ADT7410-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4089
+- oompID: PROJ-ADAF-4089-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 8.889999999999999, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.2859999999999996, 8.889999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 4.826, 11.684, 0
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$3, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.55), R0
 - rawPart: U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.8, 0.55), R0
 - rawPart: U1, ADT7410, SOIC8_150MIL, microbuilder, (0.45, 0.35), R0
-- oompID: PROJ-ADAF-4089-STAN-01
 
 
 

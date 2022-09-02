@@ -101,6 +101,7 @@ Contents
 - oompName: RedBoard Artemis Nano
 - sources: All source files from https://github.com/sparkfun/RedBoard_Artemis_Nano (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15443
+- oompID: PROJ-SPAR-15443-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 31.75, 5.08, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 29.209999999999997, 10.16, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C6, 26.669999999999998, 7.492999999999999, 180
@@ -227,7 +228,6 @@ Contents
 - rawPart: U3, 3.3V, SOT23-5, SparkFun-IC-Power, (0.7, 0.4), R180
 - rawPart: U6, CH340E_MSOP10, MSOP10, SparkFun-IC-Comms, (1.57, 0.55), R270
 - rawPart: Y2, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.3, 0.45), R0
-- oompID: PROJ-SPAR-15443-STAN-01
 
 
 

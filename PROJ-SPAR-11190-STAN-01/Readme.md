@@ -90,6 +90,7 @@ Contents
 - oompName: LilyPad Arduino USB
 - sources: All source files from https://github.com/sparkfun/LilyPad_Arduino_USB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11190
+- oompID: PROJ-SPAR-11190-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, +, 0.0, -21.999993846, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, -, -11.000000098, -18.999996797999998, 60
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A2, -11.000000098, 18.999996797999998, 300
@@ -174,7 +175,6 @@ Contents
 - rawPart: U3, ATMEGA32U41:1-LESS_PASTE, QFN-44-NOPAD_1:1-LESS_PASTE, Testing, (0, 0.14999988), R270
 - rawPart: U5, USB-AB-MICRO-SMD_V03, SparkFun-Connectors, (0, 0.9), R270
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun-FreqCtrl, (-0.29999975, 0.1), R90
-- oompID: PROJ-SPAR-11190-STAN-01
 
 
 

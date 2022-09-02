@@ -76,6 +76,7 @@ Contents
 - oompName: Electric Imp Shield
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12887
+- oompID: PROJ-SPAR-12887-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 24.13, 27.94, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 16.509999999999998, 3.8099999999999996, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 24.13, 25.4, 180
@@ -146,7 +147,6 @@ Contents
 - rawPart: U2, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES_NOLABELS, SparkFun-Boards, (0, 2.1), R270
 - rawPart: U3, MIC5219-3.3, SOT23-5, SparkFun-PowerIC, (0.5, 0.15), R0
 - rawPart: U4, ATSHA204-TSU, SOT23-3, SparkFun-DigitalIC, (0.95, 0.9), R90
-- oompID: PROJ-SPAR-12887-STAN-01
 
 
 

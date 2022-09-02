@@ -56,6 +56,7 @@ Contents
 - oompName: Window Comparator
 - sources: All source files from https://github.com/sparkfun/Window_Comparator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10101
+- oompID: PROJ-SPAR-10101-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 2.54, 15.239999999999998, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.35, 12.7, 0
 - oompPart: HEAD-I01-X-PI06-01, JP2, 1.27, 1.27, 0
@@ -82,7 +83,6 @@ Contents
 - rawPart: R6, 20K, 0603-RES, SparkFun, (0.4, 0.4), R90
 - rawPart: R7, 2K, 0603-RES, SparkFun, (0.55, 0.3), R270
 - rawPart: STAT, LED-0603, SparkFun, (0.31496063, 0.86614173), R0
-- oompID: PROJ-SPAR-10101-STAN-01
 
 
 

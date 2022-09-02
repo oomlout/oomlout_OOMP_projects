@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit 1.12in 128x128 OLED PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.12in-128x128-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5297
+- oompID: PROJ-ADAF-5297-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.557, 26.924, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.6829999999999994, 26.796999999999997, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 9.524999999999999, 26.669999999999998, 90
@@ -153,7 +154,6 @@ Contents
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.255, 1.045), R180
 - rawPart: U3, FAN5331SX, SOT23-5@1, microbuilder, (0.695, 0.655), R0
 - rawPart: X2, OLED_1.12_128X128_MONO, OLED_1.12IN_128X128MONO, adafruit_display, (0.6, 0.6), MR0
-- oompID: PROJ-ADAF-5297-STAN-01
 
 
 

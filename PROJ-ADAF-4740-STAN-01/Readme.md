@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit MIDI FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MIDI-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4740
+- oompID: PROJ-ADAF-4740-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 33.400999999999996, 12.065, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 49.529999999999994, 11.43, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D3, 1.27, 11.43, 180
@@ -97,7 +98,6 @@ Contents
 - rawPart: R6, 2.2K, 0603-NO, microbuilder, (0.05, 0.57), R270
 - rawPart: X1, 3.5mm, STX3100, microbuilder, (1.42, 0.675), MR270
 - rawPart: X2, 3.5mm, STX3100, microbuilder, (0.58, 0.675), MR270
-- oompID: PROJ-ADAF-4740-STAN-01
 
 
 

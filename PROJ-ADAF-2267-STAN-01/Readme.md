@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit Bluefruit LE USB Friend and Sniffer PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2267
+- oompID: PROJ-ADAF-2267-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 3.302, 17.018, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 15.493999999999998, 35.306, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 15.493999999999998, 7.365999999999999, 0
@@ -118,7 +119,6 @@ Contents
 - rawPart: X1, USB, A, USB_A-THM, microbuilder, (0.35, 0.1), R180
 - rawPart: X2, 20317, 2X05_1.27MM_BOX_POSTS, microbuilder, (0.35, 1.66), R0
 - rawPart: Y1, DNC, CRYSTAL_CYL_2X6MM_SMT, microbuilder, (0.13, 0.83), MR90
-- oompID: PROJ-ADAF-2267-STAN-01
 
 
 

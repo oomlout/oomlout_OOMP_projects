@@ -84,6 +84,7 @@ Contents
 - oompName: Adafruit DPI Kippah PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DPI-Kippah-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2453
+- oompID: PROJ-ADAF-2453-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 8.001, 36.957, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 14.985999999999999, 45.592999999999996, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 47.879, 43.18, 270
@@ -194,7 +195,6 @@ Contents
 - rawPart: U3, FAN5333BSX, SOT23-5@1, microbuilder, (0.37, 1.335), R180
 - rawPart: X1, MicroUSB, 4UCONN_20329, microbuilder, (2.075, 2.055), R180
 - rawPart: Y1, 12MHz, RESONATOR-SMD, SparkFun, (1.88, 1.855), R270
-- oompID: PROJ-ADAF-2453-STAN-01
 
 
 

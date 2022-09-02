@@ -61,6 +61,7 @@ Contents
 - oompName: gator UV
 - sources: All source files from https://github.com/sparkfun/gator_UV (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15273
+- oompID: PROJ-SPAR-15273-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C4, 17.145, 10.16, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 19.049999999999997, 6.985, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 8.889999999999999, 7.112, 180
@@ -111,7 +112,6 @@ Contents
 - rawPart: R5, 10k, 0603, SparkFun-Resistors, (0.975, 0.55), R90
 - rawPart: R6, 300k, 0603, SparkFun-Resistors, (0.75, 0.6), R180
 - rawPart: U1, VEML6070, VEML6070, SparkFun-Sensors, (0.75, 0.5), R180
-- oompID: PROJ-SPAR-15273-STAN-01
 
 
 

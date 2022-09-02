@@ -86,6 +86,7 @@ Contents
 - oompName: Adafruit Feather M4 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3857
+- oompID: PROJ-ADAF-3857-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 19.2024, 5.0673, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 15.748, 17.272000000000002, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C4, 21.5265, 6.35, 180
@@ -178,7 +179,6 @@ Contents
 - rawPart: X1, JSTPH, JSTPH2, microbuilder, (0.425, 0.76), R0
 - rawPart: X2, 32.768, XTAL3215, adafruit2, (0.8585, 0.177), R180
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
-- oompID: PROJ-ADAF-3857-STAN-01
 
 
 

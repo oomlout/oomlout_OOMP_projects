@@ -54,12 +54,12 @@ Contents
 |UNMATCHED-0603-X-UNMATCHED-01, D5, 19.68000001, 20.810000035999998, 0,D5, BLUE, LED-0603, SparkFun-LED, (0.77480315, 0.81929134), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.000000098, 0.0, 0,J1, MICROMOD-2222, M.2-CARD-E-22, SparkFun-MicroMod, (0.43307087, 0), R0|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 18.400000029999998, 14.529999895999998, M180,Q1, SOT23-3, SparkFun-DiscreteSemi, (0.72440945, 0.57204724), MR180|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R2, 19.999999877999997, 13.489999944, 180,R2, 22, 0402-TIGHT, SparkFun-Resistors, (0.78740157, 0.53110236), R180|
 |RESE-0402-X-UNMATCHED-01, R3, 19.999999877999997, 14.409999881999997, 180,R3, 22, 0402-TIGHT, SparkFun-Resistors, (0.78740157, 0.56732283), R180|
 |RESE-0402-X-UNMATCHED-01, R4, 3.13000009, 7.549999886, 270,R4, 5.1k, 0402-TIGHT, SparkFun-Resistors, (0.12322835, 0.29724409), R270|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R11</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 100k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R5</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
+|<table><tr><td>![RESE-0402-X-O104-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O104-01/image_140.jpg)</td><td> R11</td><td>[RESE-0402-X-O104-01<br>SMD (0402) 110k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td><td>[R42104](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O104-01/)</td></tr></table>|
 |RESE-0402-X-UNMATCHED-01, R12, 19.68000001, 18.250000076, 180,R12, 1k, 0402-TIGHT, SparkFun-Resistors, (0.77480315, 0.71850394), R180|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.079999938, 12.07999997, 270,U1, STM32F405RGT6, TQFP64, STM32_Temp, (0.43622047, 0.47559055), R270|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 10.19999992, 12.999999908, M180,U3, W25QXX128MBIT-6X5, WSON-8-6X5, SparkFun-MicroMod, (0.4015748, 0.51181102), MR180|
@@ -77,6 +77,7 @@ Contents
 - oompName: MicroMod STM32 Processor
 - sources: All source files from https://github.com/sparkfun/MicroMod_STM32_Processor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17713
+- oompID: PROJ-SPAR-17713-STAN-01
 - oompPart: CAPE-0402-X-UNMATCHED-01, C1, 2.000000064, 15.220000039999999, 180
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 1.140000006, 7.5700001, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 1.990000084, 16.230000051999998, 180
@@ -143,7 +144,6 @@ Contents
 - rawPart: U3, W25QXX128MBIT-6X5, WSON-8-6X5, SparkFun-MicroMod, (0.4015748, 0.51181102), MR180
 - rawPart: Y1, 12MHz, CRYSTAL-SMD-5X3.2-4PAD, SparkFun-Clocks, (0.07952756, 0.45905512), R270
 - rawPart: Y2, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.08464567, 0.71141732), R0
-- oompID: PROJ-SPAR-17713-STAN-01
 
 
 

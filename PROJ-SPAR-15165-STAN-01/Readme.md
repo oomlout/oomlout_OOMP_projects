@@ -92,6 +92,7 @@ Contents
 - oompName: Qwiic MP3 Trigger
 - sources: All source files from https://github.com/sparkfun/Qwiic_MP3_Trigger (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15165
+- oompID: PROJ-SPAR-15165-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.97, 11.43, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 17.779999999999998, 20.32, 270
 - oompPart: CAPC-0603-X-NF220-V50, C3, 18.796, 36.068, 180
@@ -190,7 +191,6 @@ Contents
 - rawPart: U2, WT2003S, SO16, WT2003S, (0.5, 0.4), MR0
 - rawPart: U3, AP2112-3.3V, SOT23-5, SparkFun-PowerIC, (0.8, 0.4), MR90
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (0.5, 0.8), R180
-- oompID: PROJ-SPAR-15165-STAN-01
 
 
 

@@ -78,6 +78,7 @@ Contents
 - oompName: SparkFun LilyPad Simblee
 - sources: All source files from https://github.com/sparkfun/SparkFun_LilyPad_Simblee (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13633
+- oompID: PROJ-SPAR-13633-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A4/18, 5.968999999999999, 18.415, 252
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A5/19, -15.620999999999999, 11.302999999999999, 324
 - oompPart: CAPC-0603-X-NF100-V50, C1, -17.272000000000002, -5.08, 180
@@ -142,7 +143,6 @@ Contents
 - rawPart: U1, ADP160, SOT23-5, SparkFun-PowerIC, (-0.3, -0.1), R180
 - rawPart: U2, MCP73831, SOT23-5, SparkFun-PowerIC, (0.1, 0), R180
 - rawPart: U3, RFD77101, RFD77101, RFDigital, (-0.85, -0.13), R90
-- oompID: PROJ-SPAR-13633-STAN-01
 
 
 

@@ -62,6 +62,7 @@ Contents
 - oompName: Photon IMU Shield
 - sources: All source files from https://github.com/sparkfun/Photon_IMU_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13629
+- oompID: PROJ-SPAR-13629-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 23.114, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 12.7, 19.304, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 12.7, 20.574, 180
@@ -106,7 +107,6 @@ Contents
 - rawPart: SJ7, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.855, 0.425), MR180
 - rawPart: SJ8, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.855, 0.3), MR180
 - rawPart: U1, LSM9DS1, LGA24-8X4, LSM9DS1_temp, (0.7, 0.9), R90
-- oompID: PROJ-SPAR-13629-STAN-01
 
 
 

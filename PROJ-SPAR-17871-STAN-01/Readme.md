@@ -65,6 +65,7 @@ Contents
 - oompName: Qwiic KX13X
 - sources: All source files from https://github.com/sparkfun/Qwiic_KX13X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17871
+- oompID: PROJ-SPAR-17871-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 10.033, 9.398, M180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.7, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 10.413999999999998, 180
@@ -107,7 +108,6 @@ Contents
 - rawPart: R7, 4.7k, 0603, SparkFun-Resistors, (0.7, 0.7), R90
 - rawPart: TRIG, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.7, 0.65), MR180
 - rawPart: U1, KX134, KX13X, SparkFun-Sensors, (0.5, 0.5), R90
-- oompID: PROJ-SPAR-17871-STAN-01
 
 
 

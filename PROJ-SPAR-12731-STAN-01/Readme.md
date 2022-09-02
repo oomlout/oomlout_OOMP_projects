@@ -64,6 +64,7 @@ Contents
 - oompName: FT232RL USB Breakout
 - sources: All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12731
+- oompID: PROJ-SPAR-12731-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 2.54, 4.444999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 13.97, 17.779999999999998, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C5, 25.4, 17.145, 180
@@ -96,7 +97,6 @@ Contents
 - rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.1, 0.725), R270
 - rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.875, 0.45), R90
 - rawPart: U1, FT232R, SSOP28DB, SparkFun, (0.525, 0.45), R0
-- oompID: PROJ-SPAR-12731-STAN-01
 
 
 

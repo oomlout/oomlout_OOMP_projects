@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit INA260 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-INA260-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4226
+- oompID: PROJ-ADAF-4226-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.7607, 6.6548, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 20.32, 5.4864, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.2192, 17.4498, 0
@@ -90,7 +91,6 @@ Contents
 - rawPart: U$7, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.8, 0.8), R0
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0
 - rawPart: X1, 5.08mm, Term, TERMBLOCK_508_1X2, microbuilder, (0.45, 0.75), R0
-- oompID: PROJ-ADAF-4226-STAN-01
 
 
 

@@ -102,6 +102,7 @@ Contents
 - oompName: Adafruit Metro M4 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Metro-M4-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3382
+- oompID: PROJ-ADAF-3382-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 57.15, 2.54, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 26.775209339999996, 25.273, 225
 - oompPart: CAPC-0805-X-NF100-V50, C2, 22.987, 13.843, 180
@@ -220,7 +221,6 @@ Contents
 - rawPart: X3, 20329, 4UCONN_20329_V2, microbuilder, (0.17, 1.5), R270
 - rawPart: X4, 32.768, XTAL3215, adafruit2, (1.525, 0.7), R90
 - rawPart: X5, 2.1mm, DCJACK_2MM_PTH, microbuilder, (-0.13, 0.305), R0
-- oompID: PROJ-ADAF-3382-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit DS3231 Precision RTC Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5188
+- oompID: PROJ-ADAF-5188-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 12.7, 10.795, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 20.066, 5.08, 0
 - oompPart: CAPC-0603-X-NF100-V50, C5, 1.27, 3.6829999999999994, 90
@@ -95,7 +96,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.1525, 0.21), MR90
 - rawPart: U$9, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, adafruit_electromech, (0.1, 0.6), R0
 - rawPart: U$17, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, adafruit_electromech, (0.9, 0.6), R0
-- oompID: PROJ-ADAF-5188-STAN-01
 
 
 

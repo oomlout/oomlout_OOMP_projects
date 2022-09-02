@@ -110,6 +110,7 @@ Contents
 - oompName: RP2040 mikroBUS Dev Board
 - sources: All source files from https://github.com/sparkfun/RP2040_mikroBUS_Dev_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18721
+- oompID: PROJ-SPAR-18721-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 11.176, 25.654, 0
 - oompPart: CAPC-0402-X-NF100-V50, C2, 15.786100000000001, 50.038, 270
 - oompPart: CAPC-0402-X-NF100-V50, C3, 15.239999999999998, 52.45099999999999, 0
@@ -248,7 +249,6 @@ Contents
 - rawPart: U5, RP2040, QFN-56, SparkFun-IC-Microcontroller, (0.625, 1.705), R270
 - rawPart: U7, 3.3V, SOT23-5, SparkFun-IC-Power, (0.75, 0.8), R270
 - rawPart: Y2, 12MHz, CRYSTAL-SMD-2X2.5MM, SparkFun-Clocks, (0.365, 1.75), R270
-- oompID: PROJ-SPAR-18721-STAN-01
 
 
 

@@ -84,6 +84,7 @@ Contents
 - oompName: LilyPad E-Sewing Kit
 - sources: All source files from https://github.com/sparkfun/LilyPad_E-Sewing_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14546
+- oompID: PROJ-SPAR-14546-STAN-01
 - oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-, 7.03833746, 24.196040508, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-2, 24.640537459999997, 24.18841873, 0
@@ -164,7 +165,6 @@ Contents
 - rawPart: S3, S3, AYZ0202, SparkFun-Electromechanical, (1.4500999, 1.42760002), R90
 - rawPart: SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (1.4500999, 1.22260002), R0
 - rawPart: SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (1.4500999, 1.62839998), R180
-- oompID: PROJ-SPAR-14546-STAN-01
 
 
 

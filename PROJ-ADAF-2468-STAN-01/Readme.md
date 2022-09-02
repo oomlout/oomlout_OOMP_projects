@@ -100,6 +100,7 @@ Contents
 - oompName: Adafruit FONA 800 Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2468
+- oompID: PROJ-ADAF-2468-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 22.605999999999998, 16.509999999999998, 90
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.556, 39.37, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 1.5239999999999998, 39.37, 270
@@ -230,7 +231,6 @@ Contents
 - rawPart: X1, uFL, SMA_EDGELAUNCH_UFL, microbuilder, (0.01, 1), R0
 - rawPart: X4, 4UCONN_18510, 4UCONN_18510, microbuilder, (0.005, 1.825), R0
 - rawPart: X6, SIM_LOCKAMPHENOL, C707_10M006_512_2, microbuilder, (2.095, 0.895), R90
-- oompID: PROJ-ADAF-2468-STAN-01
 
 
 

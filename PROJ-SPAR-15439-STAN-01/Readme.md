@@ -58,6 +58,7 @@ Contents
 - oompName: PCA9306 Level Translator Breakout
 - sources: All source files from https://github.com/sparkfun/PCA9306_Level_Translator_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15439
+- oompID: PROJ-SPAR-15439-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 12.6238, 9.398, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.1429999999999998, 11.811, M90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 13.589, 0.7619999999999999, 90
@@ -86,7 +87,6 @@ Contents
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.38, 0.37), R90
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.31, 0.37062992), R90
 - rawPart: U1, PCA9306, VSSOP_8PIN, SparkFun-IC-Comms, (0.4, 0.25), R0
-- oompID: PROJ-SPAR-15439-STAN-01
 
 
 

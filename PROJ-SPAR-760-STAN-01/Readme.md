@@ -92,6 +92,7 @@ Contents
 - oompName: LED Matrix Serial Interface RGB
 - sources: All source files from https://github.com/sparkfun/LED_Matrix_Serial_Interface_RGB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/760
+- oompID: PROJ-SPAR-760-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 21.59, 29.209999999999997, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 19.049999999999997, 12.7, 180
 - oompPart: CAPC-0603-X-NF100-V50, C5, 31.75, 35.559999999999995, 180
@@ -184,7 +185,6 @@ Contents
 - rawPart: U2, AVR_SPI_PRG_6PTH, 2X3, SparkFun, (1.85, 0.2), R180
 - rawPart: U3, 16, MHz, RESONATOR-SMD, SparkFun, (1.4, 0.85), R0
 - rawPart: ULN2803, SO18L, SparkFun, (1.25, 0.65), R180
-- oompID: PROJ-SPAR-760-STAN-01
 
 
 

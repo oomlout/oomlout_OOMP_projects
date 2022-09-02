@@ -67,6 +67,7 @@ Contents
 - oompName: Qwiic Button
 - sources: All source files from https://github.com/sparkfun/Qwiic_Button (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15932
+- oompID: PROJ-SPAR-15932-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 22.86, 17.779999999999998, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.8099999999999996, 5.715, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, INT, 21.59, 8.889999999999999, M180
@@ -115,7 +116,6 @@ Contents
 - rawPart: R11, 10k, 0603, SparkFun-Resistors, (0.8, 0.225), R0
 - rawPart: S1, Button, TACTILE_SWITCH_LED_PTH_12MM, SparkFun-Switches, (0.5, 0.7), R270
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (0.5, 0.25), R180
-- oompID: PROJ-SPAR-15932-STAN-01
 
 
 

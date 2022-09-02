@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit VL6180X ToF Distance Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3316
+- oompID: PROJ-ADAF-3316-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 14.224, 13.334999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.921, 11.684, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.175, 5.715, 0
@@ -101,7 +102,6 @@ Contents
 - rawPart: U$12, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
 - rawPart: U1, VL6180X, VL6180, microbuilder, (0.4, 0.4), R0
 - rawPart: U2, MIC5225_2.8V, SOT23-5, microbuilder, (0.115, 0.345), R0
-- oompID: PROJ-ADAF-3316-STAN-01
 
 
 

@@ -59,6 +59,7 @@ Contents
 - oompName: LilyPad Simple Power
 - sources: All source files from https://github.com/sparkfun/LilyPad_Simple_Power (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11893
+- oompID: PROJ-SPAR-11893-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 0.3175, -7.9375, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: R4, 2.0k, 0603-RES, SparkFun-Resistors, (-0.04, -0.225), R180
 - rawPart: S1, DPDT, AYZ0202, SparkFun-Electromechanical, (0.1625, -0.1), R270
 - rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (-0.0625, -0.1), R180
-- oompID: PROJ-SPAR-11893-STAN-01
 
 
 

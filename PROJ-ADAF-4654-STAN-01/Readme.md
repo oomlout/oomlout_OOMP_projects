@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit TPS61023 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPS61023-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4654
+- oompID: PROJ-ADAF-4654-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 8.254999999999999, 6.604, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 3.175, 4.699, 0
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 8.254999999999999, 4.724399999999999, 180
@@ -79,7 +80,6 @@ Contents
 - rawPart: R2, 732K, 0603-NO, microbuilder, (0.38, 0.354), R90
 - rawPart: R3, 100K, 0603-NO, microbuilder, (0.38, 0.475), R90
 - rawPart: U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
-- oompID: PROJ-ADAF-4654-STAN-01
 
 
 

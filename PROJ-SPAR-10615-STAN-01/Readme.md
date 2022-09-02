@@ -98,6 +98,7 @@ Contents
 - oompName: PWM Shield
 - sources: All source files from https://github.com/sparkfun/PWM_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10615
+- oompID: PROJ-SPAR-10615-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 40.64, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 6.35, 22.86, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 35.559999999999995, 33.019999999999996, 180
@@ -202,7 +203,6 @@ Contents
 - rawPart: U1, ARDUINO_SHIELDNOLABELS, DUEMILANOVE_SHIELD_NOLABELS, SparkFun, (0, 2.1), R270
 - rawPart: U2, V_REG_LD1085D2, D2PACK/A, SparkFun, (0.3, 1.25), R90
 - rawPart: U3, TLC5940-RHB, QFN-32, SparkFun, (1.4, 1.1), R270
-- oompID: PROJ-SPAR-10615-STAN-01
 
 
 

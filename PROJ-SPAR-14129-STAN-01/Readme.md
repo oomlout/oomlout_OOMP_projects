@@ -105,6 +105,7 @@ Contents
 - oompName: Ardumoto-Motor Driver Shield
 - sources: All source files from https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14129
+- oompID: PROJ-SPAR-14129-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 32.385, 10.668, 180
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 9.143999999999998, 90
 - oompPart: CAPC-0603-X-NF100-V50, C8, 27.178, 40.132, 90
@@ -223,7 +224,6 @@ Contents
 - rawPart: U2, L298, POWERSO20_L298_PAD, SparkFun-IC-Special-Function, (1.15, 1.05), R90
 - rawPart: U5, 74HC1G04, SOT353, SparkFun-IC-Logic, (1.275, 0.5), R270
 - rawPart: U6, 74HC1G04, SOT353, SparkFun-IC-Logic, (1.15, 1.58), R180
-- oompID: PROJ-SPAR-14129-STAN-01
 
 
 

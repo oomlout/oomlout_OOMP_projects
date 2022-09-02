@@ -74,6 +74,7 @@ Contents
 - oompName: Adafruit Stereo Speaker Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3346
+- oompID: PROJ-ADAF-3346-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 44.830999999999996, 16.509999999999998, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 43.053, 16.509999999999998, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 24.13, 11.049, 270
@@ -132,7 +133,6 @@ Contents
 - rawPart: X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.775, 0.15), R0
 - rawPart: X2, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (1.72, 0.15), R0
 - rawPart: X3, 4, JST-PH, JSTPH4, microbuilder, (1.25, 0.145), R180
-- oompID: PROJ-ADAF-3346-STAN-01
 
 
 

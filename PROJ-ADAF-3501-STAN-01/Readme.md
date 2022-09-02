@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit Gemma M0 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Gemma-M0-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3501
+- oompID: PROJ-ADAF-3501-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3, -8.001, -8.001, 135
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B0, -11.302999999999999, 0.0, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 0.0, 270
@@ -120,7 +121,6 @@ Contents
 - rawPart: U1, AP2112K-3.3, SOT23-5, microbuilder, (-0.015, -0.0775), R270
 - rawPart: VBAT, SEWTAP-ALLIGATOR, SEWALLI, microbuilder, (0.315, -0.315), R225
 - rawPart: X2, MicroUSB, 4UCONN_20329_V2, microbuilder, (0, 0.36), R180
-- oompID: PROJ-ADAF-3501-STAN-01
 
 
 

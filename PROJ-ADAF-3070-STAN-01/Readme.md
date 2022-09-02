@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit RFM LoRa Radio Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3070
+- oompID: PROJ-ADAF-3070-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.032, 13.208, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 15.493999999999998, 26.924, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.413, 5.588, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: U2, 74HC4050D, TSSOP16, microbuilder, (0.13, 0.73), R180
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (0.1, 0.355), R0
 - rawPart: X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (0.85, 1.145), R270
-- oompID: PROJ-ADAF-3070-STAN-01
 
 
 

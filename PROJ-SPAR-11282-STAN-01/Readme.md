@@ -54,6 +54,7 @@ Contents
 - oompName: BMP085 Breakout
 - sources: All source files from https://github.com/sparkfun/BMP085_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11282
+- oompID: PROJ-SPAR-11282-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 2.54, 9.2075, 90
 - oompPart: CAPC-0402-X-NF100-V50, C2, 1.27, 9.2075, 90
 - oompPart: HEAD-I01-X-PI06-01, JP1, 1.27, 13.97, 0
@@ -72,7 +73,6 @@ Contents
 - rawPart: R2, 4.7k, 0402-RES, SparkFun, (0.5, 0.3625), R270
 - rawPart: SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.525, 0.2625), R0
 - rawPart: U1, BMP085, BMP085, SparkFun, (0.3, 0.3), R0
-- oompID: PROJ-SPAR-11282-STAN-01
 
 
 

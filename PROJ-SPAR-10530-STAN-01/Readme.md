@@ -57,6 +57,7 @@ Contents
 - oompName: Triple Axis Magnetometer-HMC5883L
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Magnetometer-HMC5883L (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10530
+- oompID: PROJ-SPAR-10530-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 11.43, 6.35, 0
 - oompPart: CAPC-0402-X-NF220-01, C2, 7.619999999999999, 12.7, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 10.16, 13.081, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: R1, DNP, 0402-RES, SparkFun, (0.15, 0.35), R90
 - rawPart: R2, DNP, 0402-RES, SparkFun, (0.2, 0.35), R90
 - rawPart: U1, HMC5883LSMD, 16LPCC, SparkFun, (0.35, 0.35), R90
-- oompID: PROJ-SPAR-10530-STAN-01
 
 
 

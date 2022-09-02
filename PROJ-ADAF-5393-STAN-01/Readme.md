@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.47in-320x172-Round-Rectangle-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5393
+- oompID: PROJ-ADAF-5393-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 33.019999999999996, 6.35, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.874, 22.605999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C3, 19.177, 20.193, 90
@@ -114,7 +115,6 @@ Contents
 - rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), MR270
 - rawPart: U1, 74HC4050PWR, TSSOP16, microbuilder, (0.655, 0.58), R180
 - rawPart: X1, EYE_SPI_DISPLAY_FLIP, EYE_SPI_DISPLAY_BOTCONTACT, adafruit_display, (0.135, 0.6), R90
-- oompID: PROJ-ADAF-5393-STAN-01
 
 
 

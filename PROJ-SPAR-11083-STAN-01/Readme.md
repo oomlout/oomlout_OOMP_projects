@@ -68,6 +68,7 @@ Contents
 - oompName: FM Tuner Basic Breakout-Si4703
 - sources: All source files from https://github.com/sparkfun/FM_Tuner_Basic_Breakout-Si4703 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11083
+- oompID: PROJ-SPAR-11083-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 11.43, 11.43, 270
 - oompPart: CAPE-0402-X-UNMATCHED-01, C2, 11.43, 6.35, 90
 - oompPart: CAPE-0402-X-UNMATCHED-01, C3, 13.97, 11.43, 90
@@ -112,7 +113,6 @@ Contents
 - rawPart: R12, 330, 0402-RES, SparkFun, (0.2, 0.25), R180
 - rawPart: U1, SI4703, SPARKFUN_SI470X, FM-Meter-Driver-v11, (0.35, 0.35), R0
 - rawPart: Y1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun, (0.65, 0.35), R270
-- oompID: PROJ-SPAR-11083-STAN-01
 
 
 

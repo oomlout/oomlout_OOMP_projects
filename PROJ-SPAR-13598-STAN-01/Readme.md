@@ -58,6 +58,7 @@ Contents
 - oompName: Photon Proto Shield
 - sources: All source files from https://github.com/sparkfun/Photon_Proto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13598
+- oompID: PROJ-SPAR-13598-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 10.16, 0.0, 0
 - oompPart: HEAD-I01-X-PI04-01, JP2, 16.509999999999998, 34.29, 0
 - oompPart: HEAD-I01-X-PI03-01, JP3, 21.59, 30.479999999999997, 0
@@ -78,7 +79,6 @@ Contents
 - rawPart: JP8, 1X09_NO_SILK, SparkFun-Connectors, (0.85, 0.25), R90
 - rawPart: JP9, 1X09_NO_SILK, SparkFun-Connectors, (0.95, 0.25), R90
 - rawPart: JP10, 1X09_NO_SILK, SparkFun-Connectors, (1.05, 0.25), R90
-- oompID: PROJ-SPAR-13598-STAN-01
 
 
 

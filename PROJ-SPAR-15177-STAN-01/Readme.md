@@ -61,6 +61,7 @@ Contents
 - oompName: Qwiic Proximity Sensor
 - sources: All source files from https://github.com/sparkfun/Qwiic_Proximity_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15177
+- oompID: PROJ-SPAR-15177-STAN-01
 - oompPart: CAPC-0603-X-UF22D-01, C1, 17.779999999999998, 12.7, 270
 - oompPart: CAPC-0603-X-NF100-V50, C4, 12.7, 10.16, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.095999999999999, 0
@@ -97,7 +98,6 @@ Contents
 - rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.4, 0.65), R180
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.6, 0.65), R0
 - rawPart: U2, VCNL4040, SPARKX_VCNL4040, SparkFun-Sensors, (0.5, 0.5), R270
-- oompID: PROJ-SPAR-15177-STAN-01
 
 
 

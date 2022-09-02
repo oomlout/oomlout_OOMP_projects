@@ -94,6 +94,7 @@ Contents
 - oompIndex: 01
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-leonardo-with-headers
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-leonardo-with-headers
+- oompID: PROJ-ARDU-LEO-STAN-01
 - oompPart: CAPE-0603-X-NF100-01, C1, 39.235, 10.425, 180
 - oompPart: CAPE-0603-X-NF100-01, C2, 53.34, 26.67, 90
 - oompPart: CAPE-0603-X-PF22-01, C3, 51.435, 26.67, 90
@@ -204,7 +205,6 @@ Contents
 - rawPart: Y1, 16MHz, KX-7, CRYSTAL-3.2-2.5, SmartPrj, (48.895, 28.575), R270
 - rawPart: Z1, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 34.29), R0
 - rawPart: Z2, CG0603MLC-05E, CT/CN0603, varistor, (12.7, 40.64), R0
-- oompID: PROJ-ARDU-LEO-STAN-01
 
 
 

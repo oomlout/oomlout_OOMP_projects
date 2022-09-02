@@ -68,6 +68,7 @@ Contents
 - oompName: SparkFun AS3935 Lightning Detector
 - sources: All source files from https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15441
+- oompID: PROJ-SPAR-15441-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADD0, 6.9596, 7.1374, M0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADD1, 4.3434, 7.1374, M180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 17.906999999999996, 0
@@ -116,7 +117,6 @@ Contents
 - rawPart: R7, 10k, 0603, SparkFun-Resistors, (0.734, 0.54), R270
 - rawPart: R8, 10k, 0603, SparkFun-Resistors, (0.26, 0.48), R0
 - rawPart: U1, AS3935, 16LD_MLPQ, SparkFun-Sensors, (0.52, 0.55), R180
-- oompID: PROJ-SPAR-15441-STAN-01
 
 
 

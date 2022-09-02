@@ -71,6 +71,7 @@ Contents
 - oompName: SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19895
+- oompID: PROJ-SPAR-19895-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 6DOF_ADDR, 19.84375, 8.001, M90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.493999999999998, 15.112999999999998, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 12.446, 13.97, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: SDX, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.648, 0.874), MR180
 - rawPart: U1, ISM330DHCX, LGA-14L, ISM330DHCX, (0.5, 0.39), R180
 - rawPart: U2, MMC5983MA_QFN16, LGA-16-3X3MM-4X4PINS, SparkFun-Sensors, (0.5, 0.665), R0
-- oompID: PROJ-SPAR-19895-STAN-01
 
 
 

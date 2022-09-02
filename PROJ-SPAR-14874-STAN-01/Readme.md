@@ -80,6 +80,7 @@ Contents
 - oompName: TSH82 Configurable Op Amp Board
 - sources: All source files from https://github.com/sparkfun/TSH82_Configurable_Op_Amp_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14874
+- oompID: PROJ-SPAR-14874-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 151.0, 580.0, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 161.0, 680.0, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 151.0, 375.0, 180
@@ -152,7 +153,6 @@ Contents
 - rawPart: R9, 47k, 0603, SparkFun-Resistors, (769, 696), R270
 - rawPart: R10, 47k, 0603, SparkFun-Resistors, (775, 496), R270
 - rawPart: U1, TSH82, SO08, SparkFun-IC-Amplifiers, (580, 676), R270
-- oompID: PROJ-SPAR-14874-STAN-01
 
 
 

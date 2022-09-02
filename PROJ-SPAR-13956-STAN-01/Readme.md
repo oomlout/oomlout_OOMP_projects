@@ -93,6 +93,7 @@ Contents
 - oompName: Weather Shield
 - sources: All source files from https://github.com/sparkfun/Weather_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13956
+- oompID: PROJ-SPAR-13956-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 10.413999999999998, 19.049999999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.874, 19.049999999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C5, 19.049999999999997, 26.669999999999998, 180
@@ -189,7 +190,6 @@ Contents
 - rawPart: U4, MPL3115A2LGA8, LGA8, SparkFun-Sensors, (1.05, 1.2), R90
 - rawPart: U5, SI7021, SI7021, SparkFun-Sensors, (0.75, 1.2), R90
 - rawPart: U6, 3.3V/150mA, SOT23-5, SparkFun-PowerIC, (0.75, 0.75), R90
-- oompID: PROJ-SPAR-13956-STAN-01
 
 
 

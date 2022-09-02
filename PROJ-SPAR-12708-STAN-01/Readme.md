@@ -55,6 +55,7 @@ Contents
 - oompName: RTC-Module
 - sources: All source files from https://github.com/sparkfun/RTC-Module (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12708
+- oompID: PROJ-SPAR-12708-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 8.889999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, E$1, 0.8636, 2.667, 0
@@ -75,7 +76,6 @@ Contents
 - rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.15, 0.29), R0
 - rawPart: SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.65, 0.25), R90
 - rawPart: U1, DS1307, SO08-TIGHT, SparkFun-FreqCtrl, (0.3, 0.5), R180
-- oompID: PROJ-SPAR-12708-STAN-01
 
 
 

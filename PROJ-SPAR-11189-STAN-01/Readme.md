@@ -55,6 +55,7 @@ Contents
 - oompName: MAX3232 Breakout
 - sources: All source files from https://github.com/sparkfun/MAX3232_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11189
+- oompID: PROJ-SPAR-11189-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.018, 12.7, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 13.334999999999999, 12.7, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 20.45461873, 9.387840507999998, 90
@@ -73,7 +74,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.8, 0.5), R0
 - rawPart: JP2, M10, 1X10, SparkFun-Connectors, (0.95, 0.05), R180
 - rawPart: U1, MAX3232, SO016, SparkFun-DigitalIC, (0.5, 0.3), R180
-- oompID: PROJ-SPAR-11189-STAN-01
 
 
 

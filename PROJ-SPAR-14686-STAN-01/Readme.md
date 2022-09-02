@@ -74,6 +74,7 @@ Contents
 - oompName: Qwiic IMU BNO080
 - sources: All source files from https://github.com/sparkfun/Qwiic_IMU_BNO080 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14686
+- oompID: PROJ-SPAR-14686-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.318999999999999, 7.619999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 10.16, 16.509999999999998, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 17.779999999999998, 16.509999999999998, 270
@@ -142,7 +143,6 @@ Contents
 - rawPart: SJ4, SJ_2S-NO, SparkFun, (0.25, 0.35), MR180
 - rawPart: U2, BNO080, LGA-28, SparkFun-IC-Special-Function, (0.6, 0.5), R90
 - rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.6, 0.65), R180
-- oompID: PROJ-SPAR-14686-STAN-01
 
 
 

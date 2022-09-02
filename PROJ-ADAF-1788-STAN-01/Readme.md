@@ -121,6 +121,7 @@ Contents
 - oompName: Adafruit Music Maker MP3 Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1788
+- oompID: PROJ-ADAF-1788-STAN-01
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 20.811000034, 29.89999989, 0
 - oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 20.811000034, 24.299999913999997, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 10.625000086, 16.567999884, 180
@@ -297,7 +298,6 @@ Contents
 - rawPart: U5, 74HC4050D, SOIC16, microbuilder, (0.85, 1.55), R90
 - rawPart: X1, 19621, 4UCONN_19269, microbuilder, (0.025, 1.03), R0
 - rawPart: Y1, ABM8G-12.288MHZ-4Y-T3, CRYSTAL_3.2X2.5, microbuilder, (1.88582677, 1.04330709), R90
-- oompID: PROJ-ADAF-1788-STAN-01
 
 
 

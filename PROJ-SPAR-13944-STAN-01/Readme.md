@@ -57,6 +57,7 @@ Contents
 - oompName: 9DOF Sensor Stick
 - sources: All source files from https://github.com/sparkfun/9DOF_Sensor_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13944
+- oompID: PROJ-SPAR-13944-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 5.08, 4.064, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 5.08, 6.095999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 5.08, 2.032, 180
@@ -85,7 +86,6 @@ Contents
 - rawPart: R1, 4.7K, 0603-RES, SparkFun-Resistors, (0.54, 0.155), R90
 - rawPart: R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.49, 0.155), R90
 - rawPart: U1, LSM9DS1, LGA24-8X4, SparkFun-Sensors, (0.37, 0.2), R90
-- oompID: PROJ-SPAR-13944-STAN-01
 
 
 

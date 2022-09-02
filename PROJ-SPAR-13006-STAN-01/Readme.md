@@ -100,6 +100,7 @@ Contents
 - oompName: Decade Resistance Box
 - sources: All source files from https://github.com/sparkfun/Decade_Resistance_Box (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13006
+- oompID: PROJ-SPAR-13006-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 41.275, 8.889999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 60.324999999999996, 8.889999999999999, 0
 - oompPart: RESE-UNMATCHED-X-O104-01, R1, 29.209999999999997, 44.449999999999996, 270
@@ -204,7 +205,6 @@ Contents
 - rawPart: SW3, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (3.3, 2.4), R270
 - rawPart: SW4, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (0.85, 1.05), R270
 - rawPart: SW5, SWITCH_ROTARY_1X10KIT, ROTARY_SWITCH_1X10_KIT, Testing, (3.15, 1.05), R270
-- oompID: PROJ-SPAR-13006-STAN-01
 
 
 

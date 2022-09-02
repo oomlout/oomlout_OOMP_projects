@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit MMA8451 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MMA8451-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2019
+- oompID: PROJ-ADAF-2019-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 8.889999999999999, 12.7, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.556, 4.571999999999999, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 3.302, 11.937999999999999, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.6), R0
 - rawPart: U1, MMA8451, MMA845X_QFN_16MM, microbuilder, (0.39, 0.37), R0
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.13, 0.325), R0
-- oompID: PROJ-ADAF-2019-STAN-01
 
 
 

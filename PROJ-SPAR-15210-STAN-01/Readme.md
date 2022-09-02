@@ -71,6 +71,7 @@ Contents
 - oompName: SparkFun u-blox SAM-M8Q
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_SAM-M8Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15210
+- oompID: PROJ-SPAR-15210-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 4.571999999999999, 31.496, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 6.35, 38.099999999999994, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 2.54, 15.239999999999998, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: R8, 2.2k, 0603, SparkFun-Resistors, (1.3, 0.33), R270
 - rawPart: R9, 2.2k, 0603, SparkFun-Resistors, (1.5, 0.335), R270
 - rawPart: U1, UBLOX_SAM_M8Q-0-10, SAM-M8Q, SparkFun-GPS, (0.8, 0.8), R0
-- oompID: PROJ-SPAR-15210-STAN-01
 
 
 

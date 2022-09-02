@@ -73,6 +73,7 @@ Contents
 - oompName: Mega Pro
 - sources: All source files from https://github.com/sparkfun/Mega_Pro (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11007
+- oompID: PROJ-SPAR-11007-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 24.13, 8.889999999999999, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 19.049999999999997, 12.7, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 17.779999999999998, 0
@@ -135,7 +136,6 @@ Contents
 - rawPart: U2, ATMEGA2560AU, TQFP100, SparkFun, (1.4, 1.05), R0
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.8, 0.7), R270
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (1.3, 0.5), R0
-- oompID: PROJ-SPAR-11007-STAN-01
 
 
 

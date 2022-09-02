@@ -80,6 +80,7 @@ Contents
 - oompName: Adafruit PowerBoost 500 Charger PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1944
+- oompID: PROJ-ADAF-1944-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, B1, 11.937999999999999, 3.556, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 18.287999999999997, 13.081, 270
 - oompPart: CAPC-0805-X-UF22D-01, C2, 28.194000000000003, 4.953, 270
@@ -154,7 +155,6 @@ Contents
 - rawPart: U2, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (0.575, 0.585), R90
 - rawPart: X1, TERMBLOCK_1X2-3.5MM, microbuilder, (1.315, 0.42), R90
 - rawPart: X2, microUSB, 4UCONN_20329, microbuilder, (0.17, 0.425), R270
-- oompID: PROJ-ADAF-1944-STAN-01
 
 
 

@@ -80,6 +80,7 @@ Contents
 - oompName: Qduino Mini SFE
 - sources: All source files from https://github.com/sparkfun/Qduino_Mini_SFE (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13614
+- oompID: PROJ-SPAR-13614-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.875, 16.1925, 135
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 9.524999999999999, 33.3375, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 10.16, 10.7188, 0
@@ -150,7 +151,6 @@ Contents
 - rawPart: U3, MAX17048, DFN-8, SparkFun-DigitalIC, (0.175, 0.25), R0
 - rawPart: U4, AP2112K-3.3TRG-1, SOT23-5, SparkFun-PowerIC, (0.575, 0.4), R270
 - rawPart: Y1, 8MHZ, RESONATOR-SMD, SparkFun-FreqCtrl, (0.2, 0.5625), R270
-- oompID: PROJ-SPAR-13614-STAN-01
 
 
 

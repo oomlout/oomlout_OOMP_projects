@@ -53,6 +53,7 @@ Contents
 - oompName: ML8511 Breakout
 - sources: All source files from https://github.com/sparkfun/ML8511_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12705
+- oompID: PROJ-SPAR-12705-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 3.8099999999999996, 7.619999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 11.43, 7.619999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 12.7, 9.652, 0
@@ -67,7 +68,6 @@ Contents
 - rawPart: JP2, 1X04, SparkFun-Connectors, (0.45, 0.05), R180
 - rawPart: R1, 10K, 0603-RES, SparkFun-Resistors, (0.3, 0.55), R0
 - rawPart: U1, ML8511-UV-SENSOR, ML8511, ML8511, (0.3, 0.4), R270
-- oompID: PROJ-SPAR-12705-STAN-01
 
 
 

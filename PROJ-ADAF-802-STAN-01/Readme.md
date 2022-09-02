@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit 1.8 TFT Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.8-TFT-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/802
+- oompID: PROJ-ADAF-802-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ANALOGS, 57.15, 6.35, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BACKLITE, 43.687999999999995, 45.466, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, BTN1, 8.001, 18.415, 0
@@ -127,7 +128,6 @@ Contents
 - rawPart: U$2, ARDUINOUNO, ARDUINO, adafruit, (0, 0), R0
 - rawPart: U$3, MICROSD, MICROSD, adafruit, (0.63, 1.6), R270
 - rawPart: U$4, EVQQ2, EVQ-Q2, adafruit, (0.91, 0.18), R180
-- oompID: PROJ-ADAF-802-STAN-01
 
 
 

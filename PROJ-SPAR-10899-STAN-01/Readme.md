@@ -57,6 +57,7 @@ Contents
 - oompName: LilyTiny LilyTwinkle
 - sources: All source files from https://github.com/sparkfun/LilyTiny_LilyTwinkle (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10899
+- oompID: PROJ-SPAR-10899-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 1.778, 3.8099999999999996, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 7.619999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, -7.619999999999999, 0
@@ -81,7 +82,6 @@ Contents
 - rawPart: U$6, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.295), R180
 - rawPart: U$7, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.00013386, -0.29535433), R0
 - rawPart: U1, ATTINY85, SO08-EIAJ, SparkFun, (0, 0), R270
-- oompID: PROJ-SPAR-10899-STAN-01
 
 
 

@@ -69,6 +69,7 @@ Contents
 - oompName: Adafruit 9 DOF and 10 DOF PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/512
+- oompID: PROJ-ADAF-512-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -4.162000057999999, 6.443000068, 270
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, -5.962000013999999, 6.443000068, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, -8.96200011, 5.443000036, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: U1, L3GD20, L3G4200D_LGA16L, microbuilder, (-0.29377953, 0.03712598), R0
 - rawPart: U2, LSM303DLHC, LGA14, microbuilder, (0.37051181, -0.02192913), R0
 - rawPart: U4, MIC5225-3.3, SOT23-5, microbuilder, (-0.36464567, -0.18728346), R180
-- oompID: PROJ-ADAF-512-STAN-01
 
 
 

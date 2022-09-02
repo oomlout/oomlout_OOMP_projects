@@ -66,6 +66,7 @@ Contents
 - oompName: RooTooth
 - sources: All source files from https://github.com/sparkfun/RooTooth (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12581
+- oompID: PROJ-SPAR-12581-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.392399999999999, 11.176, 0
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 27.94, 4.191, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 27.94, 1.778, 180
@@ -106,7 +107,6 @@ Contents
 - rawPart: U1, V_REG_317SMD, SOT223, SparkFun, (0.70811811, 0.13231102), R270
 - rawPart: U2, BLUETOOTH-RN41, RN41, SparkFun-RF, (1.08, 0.535), R180
 - rawPart: U3, V_REG_LDOSMD, SOT23-5, SparkFun, (0.61, 0.575), R0
-- oompID: PROJ-SPAR-12581-STAN-01
 
 
 

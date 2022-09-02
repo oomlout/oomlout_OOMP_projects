@@ -60,6 +60,7 @@ Contents
 - oompName: Logic Level Converter
 - sources: All source files from https://github.com/sparkfun/Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12009
+- oompID: PROJ-SPAR-12009-STAN-01
 - oompPart: HEAD-I01-X-PI06-01, JP1, 13.97, 1.27, M0
 - oompPart: HEAD-I01-X-PI06-01, JP2, 1.27, 11.43, M180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 4.826, 0
@@ -88,7 +89,6 @@ Contents
 - rawPart: R7, 10K, 0603-RES, SparkFun, (0.5, 0.35), R0
 - rawPart: R8, 10K, 0603-RES, SparkFun, (0.35, 0.315), R90
 - rawPart: R9, 20K, 0603-RES, SparkFun, (0.35, 0.185), R90
-- oompID: PROJ-SPAR-12009-STAN-01
 
 
 

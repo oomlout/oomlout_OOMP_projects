@@ -52,6 +52,7 @@ Contents
 - oompName: Barometric Pressure Sensor Breakout-MPL115A1
 - sources: All source files from https://github.com/sparkfun/Barometric_Pressure_Sensor_Breakout-MPL115A1 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9721
+- oompID: PROJ-SPAR-9721-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 13.97, 8.889999999999999, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 12.7, 8.889999999999999, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 11.176, 0
@@ -64,7 +65,6 @@ Contents
 - rawPart: FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.6, 0.25), R0
 - rawPart: JP1, 1X07, SparkFun, (0.05, 0.05), R0
 - rawPart: U1, MPL115A, LGA8, SparkFun, (0.35, 0.35), R270
-- oompID: PROJ-SPAR-9721-STAN-01
 
 
 

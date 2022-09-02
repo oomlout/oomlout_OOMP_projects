@@ -105,6 +105,7 @@ Contents
 - oompName: Logomatic
 - sources: All source files from https://github.com/sparkfun/Logomatic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12772
+- oompID: PROJ-SPAR-12772-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 41.275, 7.619999999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 55.24499999999999, 6.35, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 52.705, 15.239999999999998, 180
@@ -223,7 +224,6 @@ Contents
 - rawPart: U2, 3.3V, SOT23-5, SparkFun, (0.5, 0.55), R180
 - rawPart: U4, LPC213X, SQFP-S-10X10-64, SparkFun, (1.1, 0.9), R0
 - rawPart: X1, USB_MICROB_PLUGCONN-11752, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (2.35, 0.445), R180
-- oompID: PROJ-SPAR-12772-STAN-01
 
 
 

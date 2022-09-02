@@ -54,6 +54,7 @@ Contents
 - oompName: ADXL337 Breakout
 - sources: All source files from https://github.com/sparkfun/ADXL337_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12786
+- oompID: PROJ-SPAR-12786-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 6.35, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.08, 8.889999999999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 5.08, 12.7, 270
@@ -70,7 +71,6 @@ Contents
 - rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.15), R0
 - rawPart: JP1, 1X06, SparkFun-Connectors, (0.1, 0.05), R0
 - rawPart: U1, ADXL337, LFCSP_LQ-16, SparkFun-Sensors, (0.35, 0.4), R0
-- oompID: PROJ-SPAR-12786-STAN-01
 
 
 

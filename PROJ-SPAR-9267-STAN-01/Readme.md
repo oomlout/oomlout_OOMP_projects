@@ -55,6 +55,7 @@ Contents
 - oompName: LilyPad Accelerometer-ADXL335
 - sources: All source files from https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9267
+- oompID: PROJ-SPAR-9267-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 0.0, -4.49999989, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, -3.9000000739999994, -2.2500000719999997, 300
 - oompPart: CAPC-0402-X-NF100-V50, C3, -3.9000000739999994, 2.2500000719999997, 240
@@ -79,7 +80,6 @@ Contents
 - rawPart: J5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25551181, 0.1476378), R120
 - rawPart: R1, 0, 0402-RES, SparkFun, (0.15354331, -0.08858268), R240
 - rawPart: U1, ADXL335, LFCSP-16, SparkFun, (0, 0), R270
-- oompID: PROJ-SPAR-9267-STAN-01
 
 
 

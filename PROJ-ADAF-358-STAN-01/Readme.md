@@ -55,6 +55,7 @@ Contents
 - oompName: Adafruit_1.8_Inch_TFT_Breakout_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/358
+- oompID: PROJ-ADAF-358-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -19.558, -11.684, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, -11.811, -10.795, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 20.827999999999996, -8.382, 180
@@ -85,7 +86,6 @@ Contents
 - rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.8, -0.58), R0
 - rawPart: U$4, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-0.87, 0.6), R0
 - rawPart: U$5, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.82, 0.6), R0
-- oompID: PROJ-ADAF-358-STAN-01
 
 
 

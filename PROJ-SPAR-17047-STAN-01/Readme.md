@@ -74,6 +74,7 @@ Contents
 - oompName: Qwiic GPIO
 - sources: All source files from https://github.com/sparkfun/Qwiic_GPIO (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17047
+- oompID: PROJ-SPAR-17047-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR0, 39.37, 16.509999999999998, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 39.37, 19.049999999999997, M180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 39.37, 21.59, M180
@@ -130,7 +131,6 @@ Contents
 - rawPart: R6, 10k, 0603, SparkFun-Resistors, (2.15, 0.425), R270
 - rawPart: R7, 1k, 0603, SparkFun-Resistors, (0.25, 0.925), R0
 - rawPart: U3, TCA9534, 16SOIC, SparkFun-IC-Conversion, (1.2, 0.75), R180
-- oompID: PROJ-SPAR-17047-STAN-01
 
 
 

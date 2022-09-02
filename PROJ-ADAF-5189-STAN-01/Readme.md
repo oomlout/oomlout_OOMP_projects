@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit PCF8523 RTC Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5189
+- oompID: PROJ-ADAF-5189-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 11.302999999999999, 18.541999999999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.032, 7.746999999999999, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.032, 5.842, 180
@@ -87,7 +88,6 @@ Contents
 - rawPart: SJ2, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.1, 0.42), MR270
 - rawPart: U$1, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.9), R90
 - rawPart: U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.75, 0.1), R90
-- oompID: PROJ-ADAF-5189-STAN-01
 
 
 

@@ -66,6 +66,7 @@ Contents
 - oompName: RFM22 Shield-434MHz
 - sources: All source files from https://github.com/sparkfun/RFM22_Shield-434MHz (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11018
+- oompID: PROJ-SPAR-11018-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 33.019999999999996, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 41.91, 35.559999999999995, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 20.32, 30.479999999999997, 90
@@ -114,7 +115,6 @@ Contents
 - rawPart: U2, RFM22, RFM22-XXX-S2, SparkFun, (1.05, 1.8), R270
 - rawPart: U3, 74HC4050, LVL, CONVERTER, SO016, SparkFun, (1.05, 1.2), R0
 - rawPart: U4, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES, SparkFun, (0, 0), R0
-- oompID: PROJ-SPAR-11018-STAN-01
 
 
 

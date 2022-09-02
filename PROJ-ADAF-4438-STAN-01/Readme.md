@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit LSM6DSOX PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-LSM6DSOX-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4438
+- oompID: PROJ-ADAF-4438-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 427.5, 221.5, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 197.5, 192.5, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 493.0, 224.5, 270
@@ -100,7 +101,6 @@ Contents
 - rawPart: U$2, LSM6DSOX, LGA-14L, microbuilder, (500, 350), R0
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 600), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (320, 282.5), R270
-- oompID: PROJ-ADAF-4438-STAN-01
 
 
 

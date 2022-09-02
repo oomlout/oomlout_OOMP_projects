@@ -86,6 +86,7 @@ Contents
 - oompName: Qwiic Quad Solid State Relay
 - sources: All source files from https://github.com/sparkfun/Qwiic_Quad_Solid_State_Relay (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16833
+- oompID: PROJ-SPAR-16833-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR, 29.209999999999997, 5.08, 180
 - oompPart: CAPC-0603-X-NF100-V50, C5, 34.29, 13.334999999999999, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 152.39999999999998, 21.59, 270
@@ -172,7 +173,6 @@ Contents
 - rawPart: R15, 4.7k, 0603, SparkFun-Resistors, (0.625, 0.45), R270
 - rawPart: R17, 4.7k, 0603, SparkFun-Resistors, (1.35, 0.6), R0
 - rawPart: U4, ATTINY84-ARDUINO, SO14, SparkFun-IC-Microcontroller, (1.35, 0.3), R270
-- oompID: PROJ-SPAR-16833-STAN-01
 
 
 

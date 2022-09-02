@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit MAX9814 AGC Microphone PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1713
+- oompID: PROJ-ADAF-1713-STAN-01
 - oompPart: CAPC-0805-X-UF22D-01, C1, 7.492999999999999, 10.540999999999999, 90
 - oompPart: CAPC-0805-X-NF100-V50, C2, 10.921999999999999, 10.540999999999999, 90
 - oompPart: CAPC-0805-X-UF22D-01, C5, 7.492999999999999, 5.968999999999999, 270
@@ -95,7 +96,6 @@ Contents
 - rawPart: U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.61, 0.49), R0
 - rawPart: U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.92, 0.475), R0
 - rawPart: U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.92, 0.08), R0
-- oompID: PROJ-ADAF-1713-STAN-01
 
 
 

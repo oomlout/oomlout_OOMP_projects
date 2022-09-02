@@ -125,6 +125,7 @@ Contents
 - oompName: MP3 Trigger
 - sources: All source files from https://github.com/sparkfun/MP3_Trigger (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13720
+- oompID: PROJ-SPAR-13720-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 24.764999999999997, 45.084999999999994, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 26.669999999999998, 19.049999999999997, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 24.13, 19.049999999999997, 90
@@ -285,7 +286,6 @@ Contents
 - rawPart: U7, VS1063, LQFP-48, SparkFun-DigitalIC, (1.6, 0.8), R180
 - rawPart: U9, M18_, 1X18, SparkFun, (0.05, 2.1), R270
 - rawPart: U10, M18_, 1X18, SparkFun, (0.15, 2.1), R270
-- oompID: PROJ-SPAR-13720-STAN-01
 
 
 

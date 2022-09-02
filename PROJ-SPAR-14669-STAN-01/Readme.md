@@ -108,6 +108,7 @@ Contents
 - oompName: BlackBoard
 - sources: All source files from https://github.com/sparkfun/BlackBoard (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14669
+- oompID: PROJ-SPAR-14669-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.762999999999998, 32.892999999999994, 270
 - oompPart: CAPC-0603-X-NF100-V50, C1, 35.559999999999995, 17.779999999999998, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 23.169999888, 270
@@ -242,7 +243,6 @@ Contents
 - rawPart: U4, ATMEGA328P_TQFP, TQFP32-08, SparkFun-IC-Microcontroller, (1.65, 0.8), R180
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 1.55), R270
 - rawPart: Y1, 16MHz, RESONATOR-SMD-3.2X1.3, SparkFun-Clocks, (1.95, 0.88), R90
-- oompID: PROJ-SPAR-14669-STAN-01
 
 
 

@@ -83,6 +83,7 @@ Contents
 - oompName: CAN-Bus Shield
 - sources: All source files from https://github.com/sparkfun/CAN-Bus_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13262
+- oompID: PROJ-SPAR-13262-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 26.669999999999998, 29.845, 270
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 24.764999999999997, 33.019999999999996, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 22.86, 33.019999999999996, 90
@@ -169,7 +170,6 @@ Contents
 - rawPart: U6, HEX_CONVERTER, SO016, SparkFun-DigitalIC, (1.3, 0.95), R270
 - rawPart: U7, JOYSTICK_MINI, SparkFun-Electromechanical, (1.77, 0.53), R315
 - rawPart: X1, DB9, Plug, DB9_MALE, SparkFun-Connectors, (1.05, 2), R0
-- oompID: PROJ-SPAR-13262-STAN-01
 
 
 

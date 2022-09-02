@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit TPA2016 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TPA2016-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1712
+- oompID: PROJ-ADAF-1712-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.054000084, 24.214000086, 270
 - oompPart: CAPC-0805-X-NF100-V50, C2, 11.324999956, 18.62400009, 90
 - oompPart: CAPC-0805-X-NF100-V50, C3, 12.98399994, 23.365000006, 180
@@ -112,7 +113,6 @@ Contents
 - rawPart: R3, 100K, 0805-NO, microbuilder, (0.275, 0.81), R90
 - rawPart: U$20, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.75, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.75, 1), R0
-- oompID: PROJ-ADAF-1712-STAN-01
 
 
 

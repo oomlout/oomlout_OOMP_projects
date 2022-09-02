@@ -80,6 +80,7 @@ Contents
 - oompName: Arduino Pro 328
 - sources: All source files from https://github.com/sparkfun/Arduino_Pro_328 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10914
+- oompID: PROJ-SPAR-10914-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 34.29, 35.559999999999995, 90
 - oompPart: CAPC-0402-X-NF100-V50, C1, 10.16, 43.18, 180
 - oompPart: CAPC-0402-X-NF100-V50, C2, 13.97, 34.29, 270
@@ -146,7 +147,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPERNC3, SJ_2S-NOTRACE, SparkFun, (0.45, 1.35), R90
 - rawPart: U1, ATMEGA328, TQFP32-08, SparkFun, (1.45, 0.65), R270
 - rawPart: U2, 3.3V, SOT23-5, SparkFun, (1, 0.5), R270
-- oompID: PROJ-SPAR-10914-STAN-01
 
 
 

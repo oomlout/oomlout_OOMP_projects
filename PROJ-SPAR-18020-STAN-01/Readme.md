@@ -67,6 +67,7 @@ Contents
 - oompName: SparkFun Qwiic 6DoF LSM6DSO
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18020
+- oompID: PROJ-SPAR-18020-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 17.43075, 12.7, M90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 9.6647, 14.985999999999999, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 13.1572, 16.852899999999998, 90
@@ -113,7 +114,6 @@ Contents
 - rawPart: SCX, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.55, 0.864), MR0
 - rawPart: SDX, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.649, 0.863), MR180
 - rawPart: U1, LSM6DS0, LGA14L, SparkFun-Sensors, (0.5, 0.5), R180
-- oompID: PROJ-SPAR-18020-STAN-01
 
 
 

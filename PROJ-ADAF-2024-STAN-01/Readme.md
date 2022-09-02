@@ -84,6 +84,7 @@ Contents
 - oompName: Adafruit MPR121 Capacitive Touch Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2024
+- oompID: PROJ-ADAF-2024-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADDR, 6.35, 50.8, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, AL1, 55.88, 11.43, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, AL2, 38.099999999999994, 11.43, 90
@@ -186,7 +187,6 @@ Contents
 - rawPart: U$41, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0
 - rawPart: U2, MPR121, QFN20_3MM_NOTHERMAL, microbuilder, (0.285, 1.065), R315
 - rawPart: U4, MIC5225-3.3, SOT23-5, microbuilder, (0.11, 0.615), R0
-- oompID: PROJ-ADAF-2024-STAN-01
 
 
 

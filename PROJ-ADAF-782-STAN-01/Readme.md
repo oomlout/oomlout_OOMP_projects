@@ -71,6 +71,7 @@ Contents
 - oompName: Adafruit USB Serial RGB Character Backpack PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/782
+- oompID: PROJ-ADAF-782-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.316999973999998, 21.4130001, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 16.322000122000002, 7.901999944, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 26.617000105999995, 7.931999884, 0
@@ -123,7 +124,6 @@ Contents
 - rawPart: U$1, PINHD-1X10, 1X10-BIG, adafruit, (1.57, 1), R180
 - rawPart: USB, MALE, 1X05, pinhead, (0.51232283, 0.72807087), R270
 - rawPart: X3, 16MHz, NX5032, adafruit, (0.84492126, 0.32590551), R0
-- oompID: PROJ-ADAF-782-STAN-01
 
 
 

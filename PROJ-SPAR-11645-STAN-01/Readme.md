@@ -90,6 +90,7 @@ Contents
 - oompName: OpenSegment
 - sources: All source files from https://github.com/sparkfun/OpenSegment (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11645
+- oompID: PROJ-SPAR-11645-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 5.08, 0
 - oompPart: CAPC-0402-X-NF100-V50, C3, 3.8099999999999996, 13.97, 180
 - oompPart: CAPC-0402-X-NF100-V50, C4, -6.35, 0.0, 270
@@ -178,7 +179,6 @@ Contents
 - rawPart: U1, MIC5219, SOT23-5, SparkFun, (-0.5, 0), R180
 - rawPart: U2, ATMEGA328, TQFP32-08, SparkFun-DigitalIC, (0, 0), R45
 - rawPart: U3, 7-SEGMENT-4DIGIT-COUNTERPTH, 7-SEGMENT-4DIGIT-COUNTER, SparkFun-Displays, (0, 0), MR0
-- oompID: PROJ-SPAR-11645-STAN-01
 
 
 

@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit Sharp Memory Display PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1393
+- oompID: PROJ-ADAF-1393-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 20.094999941999998, 23.749, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 9.143999999999998, 32.032999942000004, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 17.681999942, 23.749, 270
@@ -104,7 +105,6 @@ Contents
 - rawPart: U$28, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (1.45543307, 0.11811024), R0
 - rawPart: U1, 74HC4050D, SOIC16, microbuilder, (0.78614173, 0.51), R0
 - rawPart: U2, MCP1824T-3302E/OT, SOT23-5, microbuilder, (0.4226378, 0.93106299), R0
-- oompID: PROJ-ADAF-1393-STAN-01
 
 
 

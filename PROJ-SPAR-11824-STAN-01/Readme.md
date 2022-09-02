@@ -55,6 +55,7 @@ Contents
 - oompName: BMP180 Breakout
 - sources: All source files from https://github.com/sparkfun/BMP180_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11824
+- oompID: PROJ-SPAR-11824-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 7.619999999999999, 11.112499999999999, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 3.8099999999999996, 5.08, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 2.54, 8.254999999999999, 0
@@ -77,7 +78,6 @@ Contents
 - rawPart: SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.5, 0.325), R0
 - rawPart: SJ2, SJ_2S, mike-temp, (0.05, 0.18125), R0
 - rawPart: U1, BMP180, BMP180, SparkFun-Sensors, (0.3, 0.3), R0
-- oompID: PROJ-SPAR-11824-STAN-01
 
 
 

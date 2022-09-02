@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit DVI Breakout Board PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-DVI-Breakout-Board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4984
+- oompID: PROJ-ADAF-4984-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 24.764999999999997, 17.779999999999998, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 8.762999999999998, 270
@@ -80,7 +81,6 @@ Contents
 - rawPart: U$33, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.1, 0.65), R180
 - rawPart: U2, 24LC02BT-I/OT, SOT23-5, microbuilder, (0.995, 0.415), R180
 - rawPart: X1, 47151-0001, HDMI_MOLEX_47151-0001, adafruit_electromech, (0.6, 0.41), R180
-- oompID: PROJ-ADAF-4984-STAN-01
 
 
 

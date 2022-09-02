@@ -123,6 +123,7 @@ Contents
 - oompName: MicroMod Weather Carrier Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_Weather_Carrier_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16794
+- oompID: PROJ-SPAR-16794-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT1, 8.889999999999999, 24.13, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 3.8099999999999996, 20.32, 0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.16, 15.493999999999998, 0
@@ -283,7 +284,6 @@ Contents
 - rawPart: U2, VEML6075, VEML6075_A3OP, SparkFun-Sensors, (1.15, 1.8), R0
 - rawPart: U3, AS3935, 16LD_MLPQ, SparkFun-Sensors, (1.7, 1.85), R270
 - rawPart: U5, AP7361C-33FGEUDFN-8, UDFN-8, SparkFun-IC-Power, (0.4, 0.4), R0
-- oompID: PROJ-SPAR-16794-STAN-01
 
 
 

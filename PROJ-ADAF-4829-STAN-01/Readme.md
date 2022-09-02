@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit SGP40 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-SGP40-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4829
+- oompID: PROJ-ADAF-4829-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 7.874, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 8.128, 12.191999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C6, 12.446, 11.557, 0
@@ -99,7 +100,6 @@ Contents
 - rawPart: U$32, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U1, AP2112-3.3K, SOT23-5, microbuilder, (0.32, 0.355), R0
 - rawPart: X1, SGP40, SGP30, microbuilder, (0.5, 0.35), R0
-- oompID: PROJ-ADAF-4829-STAN-01
 
 
 

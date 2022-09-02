@@ -88,6 +88,7 @@ Contents
 - oompName: Adafruit PiTFT Plus 3.2 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PiTFT-Plus-3.2-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2616
+- oompID: PROJ-ADAF-2616-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 50.165, 42.545, 0
 - oompPart: CAPC-0805-X-NF100-V50, C4, 41.65599999999999, 46.736, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 15.366999999999999, 43.18, 180
@@ -186,7 +187,6 @@ Contents
 - rawPart: U1, CAT24C32, SOIC8_150MIL, microbuilder, (0.84, 2.21), R90
 - rawPart: U2, STMPE610, QFN16_3MM, microbuilder, (1.535, 1.625), R180
 - rawPart: WPJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.785, 1.775), R180
-- oompID: PROJ-ADAF-2616-STAN-01
 
 
 

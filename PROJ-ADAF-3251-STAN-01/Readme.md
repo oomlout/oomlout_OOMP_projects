@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Si7021 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si7021-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3251
+- oompID: PROJ-ADAF-3251-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C4, 7.874, 5.715, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 8.128, 12.191999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C6, 11.811, 5.715, 180
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, Si7021-A20, DFN6_3X3_SI, microbuilder, (0.5, 0.35), R270
 - rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (0.32, 0.345), R0
-- oompID: PROJ-ADAF-3251-STAN-01
 
 
 

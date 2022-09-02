@@ -74,6 +74,7 @@ Contents
 - oompName: SparkFun Qwiic Micro SAMD21E
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_Micro_SAMD21E (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15423
+- oompID: PROJ-SPAR-15423-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.493999999999998, 6.5786, 90
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 16.9926, 6.172199999999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 11.2014, 8.6868, 90
@@ -140,7 +141,6 @@ Contents
 - rawPart: U1, 3.3V, SOT23-5, SparkFun-IC-Power, (0.757, 0.251), R0
 - rawPart: U2, W25Q32FV, SOIC-8, SparkFun-IC-Memory, (0.38, 0.477), MR270
 - rawPart: U3, ATSAMD21E18A-U, QFN-32_SAMD, SparkFun-IC-Microcontroller, (0.3, 0.45), R90
-- oompID: PROJ-SPAR-15423-STAN-01
 
 
 

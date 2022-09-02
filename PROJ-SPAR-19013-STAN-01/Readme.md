@@ -67,6 +67,7 @@ Contents
 - oompName: SparkFun Qwiic ToF Imager VL53L5CX-Mini
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19013
+- oompID: PROJ-SPAR-19013-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 10.16, 6.35, 180
 - oompPart: CAPC-0402-X-NF100-V50, C4, 12.7, 6.35, 0
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 7.365999999999999, 8.889999999999999, 270
@@ -113,7 +114,6 @@ Contents
 - rawPart: R6, 47k, 0402-TIGHT, SparkFun-Resistors, (0.34, 0.3), R270
 - rawPart: R7, 47k, 0402-TIGHT, SparkFun-Resistors, (0.4, 0.45), R180
 - rawPart: U1, VL53L5CX, VL53L5CX, SparkFun-Sensors, (0.5, 0.35), MR0
-- oompID: PROJ-SPAR-19013-STAN-01
 
 
 

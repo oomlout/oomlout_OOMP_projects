@@ -68,6 +68,7 @@ Contents
 - oompName: RFID USB Reader
 - sources: All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9963
+- oompID: PROJ-SPAR-9963-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180
 - oompPart: CAPC-0603-X-UF22D-01, C1, 34.29, 1.27, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270
@@ -108,7 +109,6 @@ Contents
 - rawPart: SG1, BUZZER-SMD, BUZZER-CCV, SparkFun-Electromechanical, (0.5, 0.25), R270
 - rawPart: U1, ID-12/20SMD, ID-12_SMD, SparkFun-RF, (1.25, 0.6), R0
 - rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.8), R270
-- oompID: PROJ-SPAR-9963-STAN-01
 
 
 

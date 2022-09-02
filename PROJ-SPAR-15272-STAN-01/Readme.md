@@ -52,6 +52,7 @@ Contents
 - oompName: gator soil
 - sources: All source files from https://github.com/sparkfun/gator_soil (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15272
+- oompID: PROJ-SPAR-15272-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.572999999999999, 52.06999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 21.59, 56.13399999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 45.72, 0
@@ -74,7 +75,6 @@ Contents
 - rawPart: Q1, 2N3904, SOT23-3@1, SparkFun-DiscreteSemi, (0.45, 1.95), R0
 - rawPart: R1, 10k, 0603, SparkFun-Resistors, (0.55, 1.95), R90
 - rawPart: R2, 100, 0603, SparkFun-Resistors, (0.35, 1.95), R90
-- oompID: PROJ-SPAR-15272-STAN-01
 
 
 

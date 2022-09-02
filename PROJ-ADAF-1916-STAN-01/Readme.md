@@ -66,6 +66,7 @@ Contents
 - oompName: Adafruit Cupcade Adapter PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Cupcade-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1916
+- oompID: PROJ-ADAF-1916-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AUDIO, 6.476999999999999, 21.59, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_A, 11.43, 15.875, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUTTON_B, 19.049999999999997, 15.875, 270
@@ -112,7 +113,6 @@ Contents
 - rawPart: SPEAKER, 8Ohm, 1X02_OVAL, microbuilder, (0.17, 0.275), R0
 - rawPart: U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 1.5), R0
-- oompID: PROJ-ADAF-1916-STAN-01
 
 
 

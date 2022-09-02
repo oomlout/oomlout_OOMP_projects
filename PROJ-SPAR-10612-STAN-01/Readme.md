@@ -59,6 +59,7 @@ Contents
 - oompName: Tri-Axis Gyro Breakout-L3G4200D
 - sources: All source files from https://github.com/sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10612
+- oompID: PROJ-SPAR-10612-STAN-01
 - oompPart: CAPC-0402-X-NF100-V50, C1, 6.35, 7.619999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 10.16, 12.7, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 5.08, 10.16, 90
@@ -85,7 +86,6 @@ Contents
 - rawPart: SJ1, I2C-Add, SJ_3, SparkFun, (0.25, 0.35), MR0
 - rawPart: SJ2, I2C-Mode, SJ_2S-NO, SparkFun, (0.55, 0.35), MR0
 - rawPart: U1, L3G4200D, LGA16-4X4, SparkFun, (0.4, 0.35), R90
-- oompID: PROJ-SPAR-10612-STAN-01
 
 
 

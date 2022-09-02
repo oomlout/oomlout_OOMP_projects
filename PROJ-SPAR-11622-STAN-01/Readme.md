@@ -104,6 +104,7 @@ Contents
 - oompName: RedBot with Optical Encoder
 - sources: All source files from https://github.com/sparkfun/RedBot_with_Optical_Encoder (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11622
+- oompID: PROJ-SPAR-11622-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 40.259, 29.590999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C3, 53.721000000000004, 27.178, 0
 - oompPart: CAPC-0603-X-NF100-V50, C4, 41.91, 16.509999999999998, 90
@@ -220,7 +221,6 @@ Contents
 - rawPart: U5, FT232RLSSOP, SSOP28DB, SparkFun-DigitalIC, (2.65, 0.6), R270
 - rawPart: U6, 7408SE, SOT353, SparkFun-DigitalIC, (2.15, 0.55), R90
 - rawPart: Y1, 16MHz, RESONATOR-SMD, SparkFun-FreqCtrl, (1.58, 1.05), R270
-- oompID: PROJ-SPAR-11622-STAN-01
 
 
 

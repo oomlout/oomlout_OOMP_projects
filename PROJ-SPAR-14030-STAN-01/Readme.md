@@ -61,6 +61,7 @@ Contents
 - oompName: Mini GPS Shield
 - sources: All source files from https://github.com/sparkfun/Mini_GPS_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14030
+- oompID: PROJ-SPAR-14030-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 4.953, 22.733, 180
 - oompPart: CAPC-0603-X-UF22D-01, C6, 5.08, 16.509999999999998, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 4.191, 31.369, 0
@@ -91,7 +92,6 @@ Contents
 - rawPart: U1, GP735, GP735, GPS_Pro_Mini_temp, (0.45, 1.35), R0
 - rawPart: U2, TXB0108, UFDFN-20, SparkFun-DigitalIC, (0.395, 0.755), R270
 - rawPart: U3, AP2112K-3.3V, SOT23-5, SparkFun-PowerIC, (0.195, 0.765), R180
-- oompID: PROJ-SPAR-14030-STAN-01
 
 
 

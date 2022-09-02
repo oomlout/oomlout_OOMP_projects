@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit ISO1540 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-ISO1540-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4903
+- oompID: PROJ-ADAF-4903-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 17.525999999999996, 8.889999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.874, 8.889999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 2.54, 8.889999999999999, 270
@@ -93,7 +94,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: X1, ISO154X, SOIC8_150MIL, adafruit_power, (0.5, 0.35), R270
-- oompID: PROJ-ADAF-4903-STAN-01
 
 
 

@@ -99,6 +99,7 @@ Contents
 - oompName: Adafruit Metro M0 Express PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Metro-M0-Express-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3505
+- oompID: PROJ-ADAF-3505-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, AD, 57.15, 2.54, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 42.4942, 30.7594, 180
 - oompPart: CAPC-0805-X-NF100-V50, C2, 22.987, 13.843, 180
@@ -213,7 +214,6 @@ Contents
 - rawPart: X3, 20329, 4UCONN_20329_V2, microbuilder, (0.17, 1.5), R270
 - rawPart: X5, 2.1mm, DCJACK_2MM_PTH, microbuilder, (-0.13, 0.32), R0
 - rawPart: Y1, 32.768KHz, CRYSTAL_8X3.8, microbuilder, (1.681, 0.753), R270
-- oompID: PROJ-ADAF-3505-STAN-01
 
 
 

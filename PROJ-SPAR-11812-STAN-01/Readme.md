@@ -73,6 +73,7 @@ Contents
 - oompName: XBee Explorer USB
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_USB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11812
+- oompID: PROJ-SPAR-11812-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 26.669999999999998, 12.7, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C3, 11.43, 10.668, 0
 - oompPart: CAPE-0603-X-UNMATCHED-01, C4, 11.43, 16.002, 0
@@ -131,7 +132,6 @@ Contents
 - rawPart: U3, MIC5219, 3.3V, SOT23-5, SparkFun, (1.05, 0.7), R270
 - rawPart: U4, FT231XS, SSOP20_L, SparkFun-DigitalIC, (0.75, 0.55), R180
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 0.55), R0
-- oompID: PROJ-SPAR-11812-STAN-01
 
 
 

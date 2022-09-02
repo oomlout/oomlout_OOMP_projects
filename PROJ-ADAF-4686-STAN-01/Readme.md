@@ -54,6 +54,7 @@ Contents
 - oompName: Adafruit TMP235 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP235-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4686
+- oompID: PROJ-ADAF-4686-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.176, 7.9375, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 4.444999999999999, 15.620999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.032, 1.9049999999999998, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
 - rawPart: X1, TMP235_DCKR, SC70-5, adafruit_sensor, (0.9, 0.35), R90
 - rawPart: X4, JST, PH, 3, JSTPH3, microbuilder, (0.1825, 0.35), R90
-- oompID: PROJ-ADAF-4686-STAN-01
 
 
 

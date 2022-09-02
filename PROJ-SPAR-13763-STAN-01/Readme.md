@@ -53,6 +53,7 @@ Contents
 - oompName: Si7021 Breakout
 - sources: All source files from https://github.com/sparkfun/Si7021_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13763
+- oompID: PROJ-SPAR-13763-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C2, 7.619999999999999, 7.619999999999999, 90
 - oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 11.43, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 10.16, 1.27, 90
@@ -69,7 +70,6 @@ Contents
 - rawPart: R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.2, 0.15), R90
 - rawPart: SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.2, 0.3), R90
 - rawPart: U1, SI7021, SI7021, SparkFun-Sensors, (0.4, 0.3), R90
-- oompID: PROJ-SPAR-13763-STAN-01
 
 
 

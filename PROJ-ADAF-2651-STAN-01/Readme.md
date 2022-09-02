@@ -61,6 +61,7 @@ Contents
 - oompName: Adafruit BMP280 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2651
+- oompID: PROJ-ADAF-2651-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.2859999999999996, 5.842, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.413, 12.065, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.716, 11.43, 180
@@ -95,7 +96,6 @@ Contents
 - rawPart: U$15, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.665, 0.235), R0
 - rawPart: U1, BME280, BME280, microbuilder, (0.35, 0.49), R270
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.095, 0.355), R0
-- oompID: PROJ-ADAF-2651-STAN-01
 
 
 

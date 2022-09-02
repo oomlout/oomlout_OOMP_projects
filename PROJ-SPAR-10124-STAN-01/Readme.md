@@ -60,6 +60,7 @@ Contents
 - oompName: RS-485 Breakout
 - sources: All source files from https://github.com/sparkfun/RS-485_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10124
+- oompID: PROJ-SPAR-10124-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C3, 4.953, 19.431, 90
 - oompPart: HEAD-I01-X-PI04-01, JP1, 7.619999999999999, 1.27, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 17.779999999999998, 10.540999999999999, 90
@@ -84,7 +85,6 @@ Contents
 - rawPart: R3, 330, 0603-RES, SparkFun-Resistors, (0.3, 0.3), R0
 - rawPart: R4, 220, 0603-RES, SparkFun-Resistors, (0.29, 0.75), R180
 - rawPart: U2, RS485SOIC, SO08, SparkFun, (0.3, 0.55), R0
-- oompID: PROJ-SPAR-10124-STAN-01
 
 
 

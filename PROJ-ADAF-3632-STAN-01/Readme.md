@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit Joy Featherwing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3632
+- oompID: PROJ-ADAF-3632-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 29.337, 18.415, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOWN, 39.878, 5.842, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.6829999999999994, 16.764, 0
@@ -116,7 +117,6 @@ Contents
 - rawPart: TP1, TESTPOINT_ROUND_2MM, microbuilder, (0.77, 0.33), MR0
 - rawPart: TP2, TESTPOINT_ROUND_2MM, microbuilder, (0.66, 0.33), MR0
 - rawPart: UP, 6mm, EVQ-Q2_SMALLER, microbuilder, (1.57, 0.67), R180
-- oompID: PROJ-ADAF-3632-STAN-01
 
 
 

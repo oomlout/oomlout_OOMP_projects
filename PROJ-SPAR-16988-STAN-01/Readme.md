@@ -75,6 +75,7 @@ Contents
 - oompName: QwiicBus EndPoint
 - sources: All source files from https://github.com/sparkfun/QwiicBus_EndPoint (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16988
+- oompID: PROJ-SPAR-16988-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 0-1, 19.049999999999997, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.875, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 22.224999999999998, 17.145, 0
@@ -137,7 +138,6 @@ Contents
 - rawPart: R11, 1k, 0603, SparkFun-Resistors, (0.28, 0.125), R0
 - rawPart: U1, PCA9615, TSSOP10, SparkFun-IC-Comms, (0.75, 0.5), R0
 - rawPart: VCC1, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (1.125, 0.475), MR180
-- oompID: PROJ-SPAR-16988-STAN-01
 
 
 

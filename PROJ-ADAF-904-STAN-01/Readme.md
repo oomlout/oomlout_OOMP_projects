@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit INA219 Current Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/904
+- oompID: PROJ-ADAF-904-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 38.480999999999995, 7.492999999999999, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 36.068, 7.492999999999999, 90
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.783, 16.383, 0
@@ -86,7 +87,6 @@ Contents
 - rawPart: R6, 10K, RESPACK_4X0603, microbuilder, (1.47, 0.615), R270
 - rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.45, 0.78), R0
 - rawPart: U1, INA219BIDCNT, SOT23-8, microbuilder, (1.485, 0.45), R90
-- oompID: PROJ-ADAF-904-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: Qwiic Alphanumeric Display Breakout
 - sources: All source files from https://github.com/sparkfun/Qwiic_Alphanumeric_Display_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16919
+- oompID: PROJ-SPAR-16919-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A0, 35.81399999999999, 20.447, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, A1, 35.81399999999999, 17.906999999999996, 0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 27.432, 10.795, 270
@@ -113,7 +114,6 @@ Contents
 - rawPart: R5, 4.7k, 0402-TIGHT, SparkFun-Resistors, (0.4, 0.315), R180
 - rawPart: U1, Alphanumeric, Display, SILSMART_DISPLAY, SparkFun-Displays, (0.8, 0.55), MR0
 - rawPart: U2, XC9140, SOT23-5, SparkFun-IC-Power, (0.225, 0.395), R90
-- oompID: PROJ-SPAR-16919-STAN-01
 
 
 

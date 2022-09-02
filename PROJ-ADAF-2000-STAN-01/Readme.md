@@ -73,6 +73,7 @@ Contents
 - oompName: Adafruit Pro Trinket PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Pro-Trinket-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2000
+- oompID: PROJ-ADAF-2000-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, -2.1590000000000003, 28.955999999999996, 270
 - oompPart: ERROR, BAT JST 2-PH, 0, 0, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, -3.429, 21.462999999999997, 270
@@ -127,7 +128,6 @@ Contents
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.22, 0.895), R0
 - rawPart: U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, 0.2), R0
 - rawPart: Y1, 16MHz, RESONATOR-SMD, SparkFun, (0.18, 0.615), R90
-- oompID: PROJ-ADAF-2000-STAN-01
 
 
 

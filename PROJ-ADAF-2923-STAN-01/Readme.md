@@ -63,6 +63,7 @@ Contents
 - oompName: Adafruit Relay FeatherWing PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2923
+- oompID: PROJ-ADAF-2923-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 23.622, 8.889999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 25.4, 9.398, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 20.827999999999996, 9.906, 270
@@ -99,7 +100,6 @@ Contents
 - rawPart: SW1, kmr2, BTN_KMR2_4.6X2.8, microbuilder, (0.41, 0.36), R180
 - rawPart: X1, RELAY_NONLATCHING-EE2NUH, RELAY_EE2_NOLATCH, microbuilder, (1.34, 0.44), R0
 - rawPart: X2, TERMBLOCK_1X3-3.5MM, microbuilder, (1.85, 0.45), R90
-- oompID: PROJ-ADAF-2923-STAN-01
 
 
 

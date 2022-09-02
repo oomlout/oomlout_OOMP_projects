@@ -66,6 +66,7 @@ Contents
 - oompName: TIMESQUARE DIY Watch Kit
 - sources: All source files from https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1106
+- oompID: PROJ-ADAF-1106-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 0.0, -11.937999999999999, 180
 - oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, -16.764, 7.619999999999999, 90
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FTDI, 0.0, 20.827999999999996, 180
@@ -102,7 +103,6 @@ Contents
 - rawPart: R8, 47, 0204/7, adafruit, (0.44, 0.18), R270
 - rawPart: R10, 10K, 0204/7, adafruit, (-0.8, 0.41), R90
 - rawPart: SET, B3F-31XX-SKINNIER, adafruit, (-0.695, 0), R270
-- oompID: PROJ-ADAF-1106-STAN-01
 
 
 

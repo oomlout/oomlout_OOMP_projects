@@ -70,6 +70,7 @@ Contents
 - oompName: Adafruit_USB_Boarduino_PCB
 - sources: All source files from https://github.com/adafruit/Adafruit_USB_Boarduino_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/91
+- oompID: PROJ-ADAF-91-STAN-01
 - oompPart: CAPC-0805-X-NF100-V50, C1, 27.432, 15.620999999999999, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UF100-01, C2, 23.241, 13.081, 270
 - oompPart: CAPC-0805-X-NF100-V50, C3, 23.241, 8.128, 270
@@ -130,7 +131,6 @@ Contents
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.81, 0.595), R0
 - rawPart: USB, USB-MINIB, adafruit, (0.195, 0.405), R270
 - rawPart: X1, NX5032, adafruit, (1.835, 0.64), R180
-- oompID: PROJ-ADAF-91-STAN-01
 
 
 

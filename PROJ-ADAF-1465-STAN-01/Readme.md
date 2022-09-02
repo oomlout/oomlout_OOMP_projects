@@ -51,6 +51,7 @@ Contents
 - oompName: Adafruit ISP SWD and JTAG Breakout PCBs
 - sources: All source files from https://github.com/adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1465
+- oompID: PROJ-ADAF-1465-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 1.27, 270
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 10.16, 11.43, 270
 - oompPart: HEAD-I01-X-PI05-01, JP1, 16.509999999999998, 6.35, 270
@@ -61,7 +62,6 @@ Contents
 - rawPart: JP1, 1X05_ROUND_FULL_76, microbuilder, (0.65, 0.25), R270
 - rawPart: JP2, 1X05_ROUND_FULL_76, microbuilder, (0.05, 0.25), R270
 - rawPart: X1, 20317, 2X05_1.27MM_BOX_POSTS, microbuilder, (0.35, 0.25), R270
-- oompID: PROJ-ADAF-1465-STAN-01
 
 
 

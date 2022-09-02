@@ -60,6 +60,7 @@ Contents
 - oompName: Qwiic Accelerometer MMA8452Q
 - sources: All source files from https://github.com/sparkfun/Qwiic_Accelerometer_MMA8452Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14587
+- oompID: PROJ-SPAR-14587-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 12.7, 270
 - oompPart: CAPC-0603-X-NF100-V50, C4, 18.034, 12.7, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C5, 16.509999999999998, 12.7, 270
@@ -94,7 +95,6 @@ Contents
 - rawPart: R5, 4.7k, 0603, SparkFun-Resistors, (0.35, 0.65), R90
 - rawPart: SJ1, SJ_2S-NO, SparkFun, (0.5, 0.275), MR0
 - rawPart: U2, MMA8452Q, QFN-16, SparkFun-Sensors, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-14587-STAN-01
 
 
 

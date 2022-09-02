@@ -116,6 +116,7 @@ Contents
 - oompName: Papa Soundie Audio Player
 - sources: All source files from https://github.com/sparkfun/Papa_Soundie_Audio_Player (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14554
+- oompID: PROJ-SPAR-14554-STAN-01
 - oompPart: CAPE-0603-X-UNMATCHED-01, C1, 30.797499999999996, 32.22625, 180
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 31.591249999999995, 40.79875, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 22.44725, 54.32424999999999, 270
@@ -260,7 +261,6 @@ Contents
 - rawPart: U4, 4MB, Flash, SO08, SparkFun-IC-Memory, (1.18625, 1.10875), R270
 - rawPart: Y1, 12MHz, CRYSTAL-SMD-5X3, SparkFun-FreqCtrl, (1.25625, 1.4875), R180
 - rawPart: Y2, 8MHz, RESONATOR-SMD-3.2X1.3, SparkFun-Clocks, (0.66, 1.825), R90
-- oompID: PROJ-SPAR-14554-STAN-01
 
 
 

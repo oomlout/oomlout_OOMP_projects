@@ -79,6 +79,7 @@ Contents
 - oompName: WiFi Shield-DA16200
 - sources: All source files from https://github.com/sparkfun/WiFi_Shield-DA16200 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18567
+- oompID: PROJ-SPAR-18567-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 30.479999999999997, 26.669999999999998, 270
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, C1, 48.00599999999999, 36.83, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 34.036, 30.099, 180
@@ -151,7 +152,6 @@ Contents
 - rawPart: S3, TACTILE_SWITCH_SMD_5.2MM, SparkFun-Switches, (0.55, 1.661), R90
 - rawPart: TP1, PAD.03X.03, SparkFun-Connectors, (1.1875, 1.5125), MR0
 - rawPart: U1, DA16200MOD, XCVR_DA16200MOD-AAC4WA32, DA16200MOD, (1.9, 1.05), R270
-- oompID: PROJ-SPAR-18567-STAN-01
 
 
 

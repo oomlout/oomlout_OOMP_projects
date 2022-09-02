@@ -87,6 +87,7 @@ Contents
 - oompName: gator microphone
 - sources: All source files from https://github.com/sparkfun/gator_microphone (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15289
+- oompID: PROJ-SPAR-15289-STAN-01
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 19.049999999999997, 10.16, 180
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 8.889999999999999, 24.13, 270
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 19.049999999999997, 24.13, 0
@@ -191,7 +192,6 @@ Contents
 - rawPart: TP1, TEST-POINT3, PAD.03X.03, SparkFun-Connectors, (0.615, 1), MR0
 - rawPart: U1, ADS1015, MSOP10, SparkFun-IC-Conversion, (0.75, 1.05), R270
 - rawPart: U2, LMV324, SO14, SparkFun-IC-Amplifiers, (0.75, 0.75), R270
-- oompID: PROJ-SPAR-15289-STAN-01
 
 
 

@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Charger BFF PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Charger-BFF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5397
+- oompID: PROJ-ADAF-5397-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.334, 11.7475, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C20, 10.0965, 9.270999999999999, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 13.779499999999999, 18.034, 180
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$8, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.0825, 0.7775), R0
 - rawPart: U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (0.27, 0.36), R90
 - rawPart: X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (0.35, 0.675), R0
-- oompID: PROJ-ADAF-5397-STAN-01
 
 
 

@@ -71,6 +71,7 @@ Contents
 - oompName: SparkFun Differential I2C Breakout PCA9615 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Differential_I2C_Breakout_PCA9615_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14589
+- oompID: PROJ-SPAR-14589-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 15.875, 15.239999999999998, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 22.224999999999998, 17.145, 0
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 15.875, 17.145, 180
@@ -125,7 +126,6 @@ Contents
 - rawPart: R7, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.4), R0
 - rawPart: R8, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.6), R0
 - rawPart: U1, PCA9615, TSSOP10, SparkFun-IC-Comms, (0.75, 0.5), R0
-- oompID: PROJ-SPAR-14589-STAN-01
 
 
 

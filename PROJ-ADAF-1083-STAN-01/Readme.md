@@ -58,6 +58,7 @@ Contents
 - oompName: ADS1X15 Breakout Board PCBs
 - sources: All source files from https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1083
+- oompID: PROJ-ADAF-1083-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 21.59, 12.191999999999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 3.8099999999999996, 7.112, 0
 - oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 2.794, 10.16, 90
@@ -86,7 +87,6 @@ Contents
 - rawPart: U$13, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1, 0.57), R180
 - rawPart: U$14, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.57), R180
 - rawPart: U1, ADS1115IDGST, MSOP10, microbuilder, (0.85, 0.37), R270
-- oompID: PROJ-ADAF-1083-STAN-01
 
 
 

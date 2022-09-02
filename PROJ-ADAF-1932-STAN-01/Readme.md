@@ -82,6 +82,7 @@ Contents
 - oompName: Adafruit RGB Matrix HAT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-Matrix-HAT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1932
+- oompID: PROJ-ADAF-1932-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 57.531, 15.748, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 33.019999999999996, 46.99, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 7.112, 34.925, 270
@@ -158,7 +159,6 @@ Contents
 - rawPart: U4, DS1307, SOIC8_150MIL, microbuilder, (0.205, 1.59), R90
 - rawPart: U5, 74AHCT245, TSSOP20, microbuilder, (1.805, 1.265), R180
 - rawPart: Y1, 32.768kHz, CRYSTAL_8X3.8, microbuilder, (0.53, 1.445), R0
-- oompID: PROJ-ADAF-1932-STAN-01
 
 
 

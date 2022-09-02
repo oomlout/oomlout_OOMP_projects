@@ -74,6 +74,7 @@ Contents
 - oompName: MicroMod Environmental Sensor Function Board
 - sources: All source files from https://github.com/sparkfun/MicroMod_Environmental_Sensor_Function_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18632
+- oompID: PROJ-SPAR-18632-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 0X2A, 28.320999999999998, 27.686, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 0X2B, 28.320999999999998, 30.225999999999996, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 0X2C, 28.320999999999998, 32.638999999999996, 0
@@ -134,7 +135,6 @@ Contents
 - rawPart: U3, SHTC3, SHTC3, SparkFun-Sensors, (1.295, 0.75), R180
 - rawPart: U4, 3.3V, SOT23-5, SparkFun-IC-Power, (0.51, 1.15), R270
 - rawPart: U5, STC31, STC31, SparkFun-Sensors, (1.68, 0.75), R270
-- oompID: PROJ-SPAR-18632-STAN-01
 
 
 

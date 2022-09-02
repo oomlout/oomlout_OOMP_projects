@@ -112,6 +112,7 @@ Contents
 - oompName: RedBoard Plus
 - sources: All source files from https://github.com/sparkfun/RedBoard_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18158
+- oompID: PROJ-SPAR-18158-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BYP, 8.762999999999998, 35.433, 270
 - oompPart: CAPC-0603-X-NF100-V50, C1, 33.400999999999996, 21.462999999999997, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 35.559999999999995, 25.836999888, 270
@@ -258,7 +259,6 @@ Contents
 - rawPart: U4, ATMEGA328P_TQFP, TQFP32-08, SparkFun-IC-Microcontroller, (1.65, 0.9), R180
 - rawPart: Y1, 16MHz, RESONATOR-SMD-3.2X1.3, SparkFun-Clocks, (1.95, 0.98), R90
 - rawPart: Y2, 12MHz, CRYSTAL-SMD-3.2X2.5MM, SparkFun-Clocks, (0.77, 1.71), R90
-- oompID: PROJ-SPAR-18158-STAN-01
 
 
 

@@ -83,6 +83,7 @@ Contents
 - oompName: Adafruit QT Py ESP32 Pico PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5395
+- oompID: PROJ-ADAF-5395-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 11.8618, 12.738099999999998, 180
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 8.4328, 1.8414999999999997, M270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 14.0462, 2.0446999999999997, M0
@@ -161,7 +162,6 @@ Contents
 - rawPart: X1, 2.4GHz, ANT_2450AT18B100, adafruit_wireless, (0.1825, 0.0535), R180
 - rawPart: X2, ESP-32-PICO-V3-02, QFN48_7X7, adafruit_wireless, (0.4225, 0.2675), MR180
 - rawPart: X6, USB, TYPE, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_electromech, (0.35, 0.705), R180
-- oompID: PROJ-ADAF-5395-STAN-01
 
 
 

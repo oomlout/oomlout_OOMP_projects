@@ -89,6 +89,7 @@ Contents
 - oompName: ESP8266 WiFi Shield
 - sources: All source files from https://github.com/sparkfun/ESP8266_WiFi_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13287
+- oompID: PROJ-SPAR-13287-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 43.18, 29.845, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 30.479999999999997, 11.43, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 32.385, 30.479999999999997, 180
@@ -197,7 +198,6 @@ Contents
 - rawPart: U2, ESP8266, QFN32, esp8266-development-board, (1.5, 1.1), R180
 - rawPart: U3, AT25SF041-SOIC8, SO08, esp8266-development-board, (1, 1.15), R270
 - rawPart: Y1, 26MHz, CRYSTAL-SMD-3.2X2.5, things, (1.4, 0.85), R0
-- oompID: PROJ-SPAR-13287-STAN-01
 
 
 

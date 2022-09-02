@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit RGB Matrix Shield PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2601
+- oompID: PROJ-ADAF-2601-STAN-01
 - oompPart: HEAD-I01-X-PI08-01, JP1, 54.60999999999999, 46.99, 0
 - oompPart: HEAD-I01-X-PI08-01, JP2, 38.099999999999994, 36.83, 0
 - oompPart: HEAD-I01-X-PI08-01, JP3, 38.099999999999994, 16.509999999999998, 180
@@ -104,7 +105,6 @@ Contents
 - rawPart: SJ13, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.35, 0.53), R270
 - rawPart: SJ14, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.25, 0.53), R270
 - rawPart: U$41, ARDUINO_R3_ICSP_NODIM, ARDUINOR3_ICSP_NODIM, adafruit, (0, 0), R0
-- oompID: PROJ-ADAF-2601-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic
 - sources: All source files from https://github.com/sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18521
+- oompID: PROJ-SPAR-18521-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 11.2776, 8.6868, 180
 - oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 2.3114, 7.9756, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 0.7111999999999999, 0.7111999999999999, 0
@@ -113,7 +114,6 @@ Contents
 - rawPart: R5, 2.2k, 0603, SparkFun-Resistors, (0.891, 0.309), R0
 - rawPart: R6, 10k, 0603, SparkFun-Resistors, (0.875, 0.757), R180
 - rawPart: U2, AS6212, WLCSP, as6212, (0.5, 0.5), R0
-- oompID: PROJ-SPAR-18521-STAN-01
 
 
 

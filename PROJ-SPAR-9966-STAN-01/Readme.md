@@ -45,11 +45,11 @@ Contents
 - oompName: USB miniB Breakout
 - sources: All source files from https://github.com/sparkfun/USB_miniB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9966
+- oompID: PROJ-SPAR-9966-STAN-01
 - oompPart: HEAD-I01-X-PI05-01, JP1, 16.509999999999998, 17.779999999999998, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 5.08, 12.7, 0
 - rawPart: JP1, 1X05, SparkFun, (0.65, 0.7), R270
 - rawPart: U$1, USB-MINIB-5PIN, USB-MINIB, SparkFun, (0.2, 0.5), R0
-- oompID: PROJ-SPAR-9966-STAN-01
 
 
 

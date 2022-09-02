@@ -64,6 +64,7 @@ Contents
 - oompName: Adafruit Mini PiTFT 240x135 TFT PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4393
+- oompID: PROJ-ADAF-4393-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 26.801, 12.94, M180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.123, 10.273, M0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C10, 5.084, 8.495, M0
@@ -106,7 +107,6 @@ Contents
 - rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (22.864, 18.274), MR0
 - rawPart: SW1, EVQ-Q2_SMALLER, microbuilder, (-2.6, 17.7), R90
 - rawPart: SW2, EVQ-Q2_SMALLER, microbuilder, (-2.6, 7.7), R90
-- oompID: PROJ-ADAF-4393-STAN-01
 
 
 

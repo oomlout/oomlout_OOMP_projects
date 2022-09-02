@@ -94,6 +94,7 @@ Contents
 - oompName: IOIO-OTG
 - sources: All source files from https://github.com/sparkfun/IOIO-OTG (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11343
+- oompID: PROJ-SPAR-11343-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 26.768515677999996, 6.630671778, 315
 - oompPart: CAPC-0603-X-NF100-V50, C2, 30.810200000000002, 20.726399999999998, 45
 - oompPart: CAPC-0603-X-NF100-V50, C3, 29.921199999999995, 9.7536, 315
@@ -196,7 +197,6 @@ Contents
 - rawPart: U1, PIC24FJ256GB206, PIC24FXXX_TQFP64, SparkFun-DigitalIC, (0.91, 0.6), R315
 - rawPart: U2, TPS62133RGTT, QFN16-3X3MM_1:1_V03, SparkFun-PowerIC, (2.085, 0.86420005), R0
 - rawPart: U3, MIC5216, MSOP8, SparkFun-PowerIC, (1.655, 0.905), R180
-- oompID: PROJ-SPAR-11343-STAN-01
 
 
 

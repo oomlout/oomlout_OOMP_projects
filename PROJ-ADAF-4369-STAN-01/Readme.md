@@ -57,6 +57,7 @@ Contents
 - oompName: Adafruit PCT2075 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-PCT2075-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4369
+- oompID: PROJ-ADAF-4369-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 690.0, 345.0, 270
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 285.0, 230.0, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 900.0, 350.0, 90
@@ -93,7 +94,6 @@ Contents
 - rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 600), R0
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (100, 100), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (900, 100), R0
-- oompID: PROJ-ADAF-4369-STAN-01
 
 
 

@@ -76,6 +76,7 @@ Contents
 - oompName: Adafruit NeoKey 1x4 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-1x4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4980
+- oompID: PROJ-ADAF-4980-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 63.8175, 8.8265, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 60.959999999999994, 8.128, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 54.546499999999995, 8.382, 270
@@ -158,7 +159,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (2.25, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.75, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (2.2575, 0.3425), R0
-- oompID: PROJ-ADAF-4980-STAN-01
 
 
 

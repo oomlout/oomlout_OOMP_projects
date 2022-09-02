@@ -84,6 +84,7 @@ Contents
 - oompName: Edison PWM Block
 - sources: All source files from https://github.com/sparkfun/Edison_PWM_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13042
+- oompID: PROJ-SPAR-13042-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.795, 14.604999999999999, 180
 - oompPart: CAPC-0603-X-NF100-V50, C2, 17.145, 29.209999999999997, 90
 - oompPart: CAPC-0603-X-NF100-V50, C3, 8.889999999999999, 11.43, 180
@@ -178,7 +179,6 @@ Contents
 - rawPart: U2, PCA9306, PCA9306DC-1:1, SparkFun-DigitalIC, (0.55, 0.55), R0
 - rawPart: U3, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
 - rawPart: U4, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
-- oompID: PROJ-SPAR-13042-STAN-01
 
 
 

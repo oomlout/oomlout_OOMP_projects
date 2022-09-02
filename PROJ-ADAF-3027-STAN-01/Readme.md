@@ -92,6 +92,7 @@ Contents
 - oompName: Adafruit Feather 32u4 FONA PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3027
+- oompID: PROJ-ADAF-3027-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 37.274499999999996, 9.017, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 53.593999999999994, 21.59, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.811, 12.065, 0
@@ -200,7 +201,6 @@ Contents
 - rawPart: X6, 1x2, 87758-0216, con-molex, (1.44, 0.595), R270
 - rawPart: X7, ANT_2450AT18B100, ANT_2450AT18B100, microbuilder, (2.275, 0.44), R0
 - rawPart: Y1, 8MHz, RESONATOR-SMD, SparkFun, (1.11707111, 0.20707111), R180
-- oompID: PROJ-ADAF-3027-STAN-01
 
 
 

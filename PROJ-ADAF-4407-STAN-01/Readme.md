@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit MLX90640 PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-MLX90640-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4407
+- oompID: PROJ-ADAF-4407-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 12.763499999999999, 8.953499999999998, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 17.779999999999998, 5.588, 180
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 17.399, 11.937999999999999, 0
@@ -96,7 +97,6 @@ Contents
 - rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
 - rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
 - rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.695, 0.34), R0
-- oompID: PROJ-ADAF-4407-STAN-01
 
 
 

@@ -141,6 +141,7 @@ Contents
 - oompName: UDB5
 - sources: All source files from https://github.com/sparkfun/UDB5 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11703
+- oompID: PROJ-SPAR-11703-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 12.318999999999999, 8.889999999999999, 270
 - oompPart: CAPC-0402-X-NF22D-01, C2, 31.75, 24.13, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 19.049999999999997, 19.049999999999997, 90
@@ -343,7 +344,6 @@ Contents
 - rawPart: U9, EM406, EM406, SparkFun, (0.85, 0.3), R270
 - rawPart: U10, MPU-6000QFN-24, QFN-24-TESTING, SparkFun-Sensors, (1.1, 1.05), R270
 - rawPart: Y1, RESONATORSMD, RESONATOR-SMD, SparkFun, (1.655, 0.325), R0
-- oompID: PROJ-SPAR-11703-STAN-01
 
 
 

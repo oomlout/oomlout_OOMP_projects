@@ -57,6 +57,7 @@ Contents
 - oompName: DC-DC Converter Breakout
 - sources: All source files from https://github.com/sparkfun/DC-DC_Converter_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9370
+- oompID: PROJ-SPAR-9370-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 19.049999999999997, 270
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 4.064, 8.889999999999999, 270
 - oompPart: CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 25.4, 180
@@ -79,7 +80,6 @@ Contents
 - rawPart: R1, 22K, 0603-RES, SparkFun, (0.95, 0.3), R270
 - rawPart: R2, 100K, 0603-RES, SparkFun, (0.95, 0.8), R90
 - rawPart: U1, DC-DC_CONVERTER, DC-DC_CONVERTER, SparkFun, (0.55, 0.55), R90
-- oompID: PROJ-SPAR-9370-STAN-01
 
 
 

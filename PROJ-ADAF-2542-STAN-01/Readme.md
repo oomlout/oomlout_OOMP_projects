@@ -89,6 +89,7 @@ Contents
 - oompName: Adafruit FONA 808 Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-FONA-808-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2542
+- oompID: PROJ-ADAF-2542-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADC1, 32.512, 9.906, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 8.128, 19.049999999999997, 0
 - oompPart: CAPC-0805-X-UNMATCHED-01, C5, 11.541000032, 39.51199997, 0
@@ -189,7 +190,6 @@ Contents
 - rawPart: X3, uFL, U.FL, microbuilder, (1.51, 0.43), R90
 - rawPart: X4, 4UCONN_18510, 4UCONN_18510, microbuilder, (0.005, 0.37), R0
 - rawPart: X6, SIM_LOCKAMPHENOL, C707_10M006_512_2, microbuilder, (1.12, 0.975), MR270
-- oompID: PROJ-ADAF-2542-STAN-01
 
 
 

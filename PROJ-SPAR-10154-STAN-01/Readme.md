@@ -54,6 +54,7 @@ Contents
 - oompName: RF Transceiver Breakout-RFM22B
 - sources: All source files from https://github.com/sparkfun/RF_Transceiver_Breakout-RFM22B (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10154
+- oompID: PROJ-SPAR-10154-STAN-01
 - oompPart: HEAD-I01-X-PI02-01, JP0, 11.43, 26.669999999999998, 180
 - oompPart: HEAD-I01-X-PI01-01, JP2, 16.509999999999998, 26.669999999999998, 0
 - oompPart: HEAD-I01-X-PI03-01, JP3, 1.27, 26.669999999999998, 0
@@ -66,7 +67,6 @@ Contents
 - rawPart: JP4, SPI, 1X05, SparkFun, (0.45, 0.05), R180
 - rawPart: JP5, RX/TX-ANT, 1X02, SparkFun, (0.65, 0.05), R180
 - rawPart: RFM22-XXX-S2, RFM22, RFM22-XXX-S2, SparkFun, (0.35, 0.55), R270
-- oompID: PROJ-SPAR-10154-STAN-01
 
 
 

@@ -67,6 +67,7 @@ Contents
 - oompName: Single Supply Logic Level Converter
 - sources: All source files from https://github.com/sparkfun/Single_Supply_Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14765
+- oompID: PROJ-SPAR-14765-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 9.2075, 15.239999999999998, 0
 - oompPart: CAPC-0603-X-NF100-V50, C2, 16.17345, 15.214599999999999, 180
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 17.62125, 20.955, 270
@@ -123,7 +124,6 @@ Contents
 - rawPart: U1, TXB0104, TSSOP14, SparkFun-IC-Comms, (0.5, 0.45), R270
 - rawPart: U2, TPS61200, QFN-10_PAD, SparkFun-IC-Power, (0.5, 0.8), R180
 - rawPart: U3, MIC5205(ADJ), SOT23-5, SparkFun-IC-Power, (0.45, 0.225), R180
-- oompID: PROJ-SPAR-14765-STAN-01
 
 
 

@@ -185,6 +185,7 @@ Contents
 - oompName: SparkFun LTE GNSS Breakout SARA-R510M8S
 - sources: All source files from https://github.com/sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18031
+- oompID: PROJ-SPAR-18031-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 3V3_LED, 8.254999999999999, 38.227, M0
 - oompPart: CAPC-0603-X-NF100-V50, C1, 10.16, 12.446, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 10.16, 20.32, 180
@@ -489,7 +490,6 @@ Contents
 - rawPart: U7, PCA9306, VSSOP_8PIN, SparkFun-IC-Comms, (2.15, 1.25), R270
 - rawPart: U8, 74HC1G04, SOT353, SparkFun-IC-Logic, (2.04, 0.875), R180
 - rawPart: VIN_LED, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.325, 1.425), MR0
-- oompID: PROJ-SPAR-18031-STAN-01
 
 
 

@@ -86,6 +86,7 @@ Contents
 - oompName: Pioneer IoT Kit Shield
 - sources: All source files from https://github.com/sparkfun/Pioneer_IoT_Kit_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14531
+- oompID: PROJ-SPAR-14531-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 41.91, 49.784, 270
 - oompPart: CAPC-0603-X-NF100-V50, C2, 23.749, 39.116, 90
 - oompPart: CAPC-0603-X-NF100-V50, C4, 17.525999999999996, 10.033, 180
@@ -168,7 +169,6 @@ Contents
 - rawPart: U3, 74HC4050, SO16, SparkFun-IC-Comms, (1.075, 1.275), R270
 - rawPart: U4, PCA9306, PCA9306DC, SparkFun-IC-Comms, (0.7, 0.5), R90
 - rawPart: U5, TPS62065, WSON-8-PAD, SparkFun-IC-Power, (1.11, 0.71), R0
-- oompID: PROJ-SPAR-14531-STAN-01
 
 
 

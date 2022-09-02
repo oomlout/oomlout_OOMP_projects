@@ -59,6 +59,7 @@ Contents
 - oompName: Adafruit Joy Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Joy-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3464
+- oompID: PROJ-ADAF-3464-STAN-01
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1, 26.479499999999998, 26.479499999999998, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2, 36.0045, 26.416, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 53.339999999999996, 24.13, 0
@@ -85,7 +86,6 @@ Contents
 - rawPart: SW5, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.37, 0.65), R180
 - rawPart: SW8, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.0425, 0.59), R180
 - rawPart: U1, ADS1015, MSOP10, microbuilder, (1.23, 0.845), R270
-- oompID: PROJ-ADAF-3464-STAN-01
 
 
 

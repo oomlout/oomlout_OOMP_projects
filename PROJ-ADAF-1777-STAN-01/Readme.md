@@ -60,6 +60,7 @@ Contents
 - oompName: Adafruit Si1145 Light Sensor PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1777
+- oompID: PROJ-ADAF-1777-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.095999999999999, 11.176, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C2, 2.032, 7.112, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 14.477999999999998, 16.256, 0
@@ -92,7 +93,6 @@ Contents
 - rawPart: U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.6), R0
 - rawPart: U1, SI1145, SI114X, microbuilder, (0.39, 0.33), R180
 - rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.21, 0.29), R270
-- oompID: PROJ-ADAF-1777-STAN-01
 
 
 

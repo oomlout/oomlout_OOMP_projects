@@ -75,6 +75,7 @@ Contents
 - oompName: 32U4 Breakout Board
 - sources: All source files from https://github.com/sparkfun/32U4_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11117
+- oompID: PROJ-SPAR-11117-STAN-01
 - oompPart: CAPC-0603-X-NF100-V50, C1, 18.796, 19.939, 180
 - oompPart: CAPC-0603-X-UNMATCHED-01, C2, 25.4, 4.571999999999999, 90
 - oompPart: CAPC-0603-X-UNMATCHED-01, C3, 17.272000000000002, 4.571999999999999, 270
@@ -129,7 +130,6 @@ Contents
 - rawPart: U2, 3.3V_REG_LDOSMD, SOT23-5, SparkFun, (0.45, 0.25), R180
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 0.5), R0
 - rawPart: Y1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (0.84, 0.18), R0
-- oompID: PROJ-SPAR-11117-STAN-01
 
 
 

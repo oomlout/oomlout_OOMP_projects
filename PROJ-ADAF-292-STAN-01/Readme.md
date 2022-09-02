@@ -58,6 +58,7 @@ Contents
 - oompName: Adafruit I2C SPI LCD Backpack PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/292
+- oompID: PROJ-ADAF-292-STAN-01
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A0, 17.272000000000002, 3.0479999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A1, 13.208, 3.0479999999999996, 180
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, A2, 9.143999999999998, 3.0479999999999996, 0
@@ -100,7 +101,6 @@ Contents
 - rawPart: SPI, SJ, jumper, (1.135, 0.21), R180
 - rawPart: U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.06, 0.82), R0
 - rawPart: U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.815, 0.23), R0
-- oompID: PROJ-ADAF-292-STAN-01
 
 
 

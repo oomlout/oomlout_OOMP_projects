@@ -68,6 +68,7 @@ Contents
 - oompName: Adafruit 1.3in Color TFT Bonnet PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4506
+- oompID: PROJ-ADAF-4506-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 16.128999999999998, 2.921, M90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C10, 52.197, 14.985999999999999, 180
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 11.302999999999999, 2.54, M0
@@ -112,7 +113,6 @@ Contents
 - rawPart: SW1, EVQQ, 6MMX6MM_TACTILE_SMT, microbuilder, (2.405, 0.62), R270
 - rawPart: SW2, EVQQ, 6MM_SMT, microbuilder, (2.12, 0.365), R270
 - rawPart: SW3, NAVSWITCHSKQUABAUE010, SKQUBAE010, microbuilder, (0.32, 0.53), R0
-- oompID: PROJ-ADAF-4506-STAN-01
 
 
 

@@ -64,6 +64,7 @@ Contents
 - oompName: TeensyView
 - sources: All source files from https://github.com/sparkfun/TeensyView (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14048
+- oompID: PROJ-SPAR-14048-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 24.447499999999998, 7.619999999999999, M0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 24.447499999999998, 9.2075, M0
 - oompPart: CAPC-0402-X-UNMATCHED-01, C3, 24.13, 3.8099999999999996, M0
@@ -102,7 +103,6 @@ Contents
 - rawPart: R1, 390k, 0603, SparkFun-Resistors, (0.7, 0.475), MR0
 - rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.8, 0.15), MR180
 - rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Connectors, (1.2, 0.55), MR0
-- oompID: PROJ-SPAR-14048-STAN-01
 
 
 

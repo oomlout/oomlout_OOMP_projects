@@ -91,6 +91,7 @@ Contents
 - oompName: Adafruit PN532 RFID NFC Breakout
 - sources: All source files from https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/364
+- oompID: PROJ-ADAF-364-STAN-01
 - oompPart: CAPE-0805-X-UNMATCHED-01, C1, 15.30700012, 27.809000007999998, 270
 - oompPart: CAPE-0805-X-UNMATCHED-01, C2, 15.30700012, 22.609999992, 270
 - oompPart: CAPE-0805-X-UNMATCHED-01, C3, 19.239999874, 27.809000007999998, 90
@@ -205,7 +206,6 @@ Contents
 - rawPart: U1, PN532, HVQFN40-6X6, microbuilder, (1.40905512, 0.96929134), R0
 - rawPart: U2, ADP121(3.3V), SOT23-5, microbuilder, (2.01771654, 1.47637795), R180
 - rawPart: Y1, 27.12MHz, CRYSTAL_3.2X2.5, microbuilder, (1.3784252, 0.6), R0
-- oompID: PROJ-ADAF-364-STAN-01
 
 
 

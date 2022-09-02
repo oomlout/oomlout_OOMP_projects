@@ -75,6 +75,7 @@ Contents
 - oompName: Polar Heart Rate Monitor Interface
 - sources: All source files from https://github.com/sparkfun/Polar_Heart_Rate_Monitor_Interface (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8661
+- oompID: PROJ-SPAR-8661-STAN-01
 - oompPart: CAPC-0402-X-UNMATCHED-01, C1, 17.018, 20.955, 270
 - oompPart: CAPC-0402-X-UNMATCHED-01, C2, 13.462, 20.955, 270
 - oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C7, 20.32, 25.4, 90
@@ -151,7 +152,6 @@ Contents
 - rawPart: U3, FT232RL-BASICSSOP, SSOP28DB, SparkFun, (0.7, 1.4), R90
 - rawPart: U10, PIC-ICSPPTH, MOLEX-1X6, SparkFun, (1.05, 1.45), R270
 - rawPart: X1, USBSMD, USB-MINIB, SparkFun, (0.2, 1.4), R0
-- oompID: PROJ-SPAR-8661-STAN-01
 
 
 

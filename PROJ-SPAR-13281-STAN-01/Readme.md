@@ -55,6 +55,7 @@ Contents
 - oompName: Load Sensor Combinator
 - sources: All source files from https://github.com/sparkfun/Load_Sensor_Combinator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13281
+- oompID: PROJ-SPAR-13281-STAN-01
 - oompPart: HEAD-I01-X-PI03-01, JP1, 21.59, 13.97, 270
 - oompPart: HEAD-I01-X-PI03-01, JP2, 16.509999999999998, 13.97, 270
 - oompPart: HEAD-I01-X-PI03-01, JP3, 11.43, 13.97, 270
@@ -69,7 +70,6 @@ Contents
 - rawPart: JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180
 - rawPart: JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180
 - rawPart: JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270
-- oompID: PROJ-SPAR-13281-STAN-01
 
 
 

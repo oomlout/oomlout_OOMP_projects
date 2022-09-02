@@ -77,6 +77,7 @@ Contents
 - oompName: Adafruit Feather M0 Adalogger PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Feather-M0-Adalogger-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2796
+- oompID: PROJ-ADAF-2796-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 17.779999999999998, 11.811, 90
 - oompPart: CAPE-0603-X-UNMATCHED-01, C2, 17.653, 7.492999999999999, 90
 - oompPart: CAPC-0805-X-UNMATCHED-01, C3, 11.43, 11.176, 270
@@ -149,7 +150,6 @@ Contents
 - rawPart: X2, 32.768, XTAL3215, adafruit2, (0.695, 0.19), R0
 - rawPart: X3, microUSB, 4UCONN_20329_V2, microbuilder, (0.175, 0.45), R270
 - rawPart: X4, microsd, MICROSD, microbuilder, (1.335, 0.175), R90
-- oompID: PROJ-ADAF-2796-STAN-01
 
 
 

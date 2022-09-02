@@ -62,6 +62,7 @@ Contents
 - oompName: Adafruit Radio FeatherWing PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3229
+- oompID: PROJ-ADAF-3229-STAN-01
 - oompPart: CAPC-0805-X-UNMATCHED-01, C1, 47.879, 12.446, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.128, 7.365999999999999, 0
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 41.65599999999999, 18.034, 0
@@ -98,7 +99,6 @@ Contents
 - rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.8), R0
 - rawPart: U4, RFM69/9x, RFMHCW_SMT, microbuilder, (1.465, 0.45), R0
 - rawPart: X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (1.995, 0.175), R180
-- oompID: PROJ-ADAF-3229-STAN-01
 
 
 

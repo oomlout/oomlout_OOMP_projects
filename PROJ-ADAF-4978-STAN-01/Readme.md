@@ -56,6 +56,7 @@ Contents
 - oompName: Adafruit NeoKey Breakout PCB
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4978
+- oompID: PROJ-ADAF-4978-STAN-01
 - oompPart: CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0
 - oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90
 - oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 17.779999999999998, 4.571999999999999, 0
@@ -76,7 +77,6 @@ Contents
 - rawPart: JP4, 1X02_ROUND, microbuilder, (0.05, 0.325), MR90
 - rawPart: LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.375, 0.19), MR180
 - rawPart: SW1, KAILH_SOCKET, adafruit_electromech, (0.375, 0.375), MR0
-- oompID: PROJ-ADAF-4978-STAN-01
 
 
 
