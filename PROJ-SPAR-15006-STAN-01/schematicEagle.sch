@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -22883,7 +22883,7 @@ U.FL  connector</text>
 <attribute name="VALUE" x="35.56" y="170.434" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="SUPPLY11" gate="G$1" x="132.08" y="165.1" smashed="yes">
-<attribute name="VALUE" x="132.08" y="167.894" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="132.08" y="167.894" size="1.778" layer="96" font="fixed" align="bottom-center"/>
 </instance>
 <instance part="SUPPLY8" gate="G$1" x="93.98" y="167.64" smashed="yes">
 <attribute name="VALUE" x="93.98" y="170.434" size="1.778" layer="96" align="bottom-center"/>

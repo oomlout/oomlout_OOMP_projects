@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -5155,7 +5155,7 @@ Righ-Angle SMT</description>
 <attribute name="VALUE" x="139.7" y="160.02" size="1.016" layer="96" font="vector" ratio="15" rot="R90" align="center"/>
 </instance>
 <instance part="P+4" gate="VCC" x="139.7" y="167.64" smashed="yes">
-<attribute name="VALUE" x="137.16" y="165.1" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="137.16" y="165.1" size="1.778" layer="96" font="fixed" rot="R90"/>
 </instance>
 <instance part="P+9" gate="VCC" x="139.7" y="152.4" smashed="yes" rot="R180">
 <attribute name="VALUE" x="142.24" y="154.94" size="1.778" layer="96" rot="R270"/>
