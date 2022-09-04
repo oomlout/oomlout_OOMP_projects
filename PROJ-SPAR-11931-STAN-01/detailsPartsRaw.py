@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-11931-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","CAP0603-CAP","0603-CAP","Capacitor","",')
+newPart.addTag('rawParts','"JP1","","M06SIP","1X06","Header 6","",')
+newPart.addTag('rawParts','"JP2","JUMPER-32-3","JUMPER-32-3","SJ_3_PASTE2&3","","",')
+newPart.addTag('rawParts','"JP3","LOGO-SFESK","LOGO-SFESK","SFE-LOGO-FLAME","Spark Fun Electronics PCB Logo","",')
+newPart.addTag('rawParts','"JP4","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"JP5","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"JP6","STAND-OFFTIGHT","STAND-OFFTIGHT","STAND-OFF-TIGHT","Stand Off","",')
+newPart.addTag('rawParts','"JP7","STAND-OFFTIGHT","STAND-OFFTIGHT","STAND-OFF-TIGHT","Stand Off","",')
+newPart.addTag('rawParts','"R1","1K","RESISTOR0603-RES","0603-RES","Resistor","",')
+newPart.addTag('rawParts','"R2","1K","RESISTOR0603-RES","0603-RES","Resistor","",')
+newPart.addTag('rawParts','"R3","1K","RESISTOR0603-RES","0603-RES","Resistor","",')
+newPart.addTag('rawParts','"U$2","CREATIVE_COMMONS","CREATIVE_COMMONS","CREATIVE_COMMONS","","",')
+newPart.addTag('rawParts','"U1","TMP1021:1","TMP1021:1","SOT563-2","I2C degC temp sensor","",')

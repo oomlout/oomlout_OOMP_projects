@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1059-STAN-01")
+
+newPart.addTag('rawParts','"3V3IN","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"C2","10uF","CAP_CERAMIC0805","0805","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FB1","Ferrite","FERRITE0805","0805","Ferrite Bead","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"GND","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"GND1","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"LED1","FIX","LED0805","CHIPLED_0805","LED","",')
+newPart.addTag('rawParts','"R1","1K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"RX","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"TP1","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"TP4","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"TX","SEWTAP-2.0IN","SEWTAP-2.0IN","SEWINGTAP_2.0","","",')
+newPart.addTag('rawParts','"U$20","U.FL","U.FL","U.FL","U.FL Antenna Connector","",')
+newPart.addTag('rawParts','"U1","FGPMMOPA6H","GPS_FGPMMOPA6H","FGPMMOPA6H","GPS Module - MTK MT3339 Chipset, -165dBm sensitivity, 22 channels, 10Hz, auto-select external antenna options","",')

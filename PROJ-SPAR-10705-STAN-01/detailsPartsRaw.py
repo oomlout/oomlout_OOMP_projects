@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-10705-STAN-01")
+
+newPart.addTag('rawParts','"FRAME2","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","",')
+newPart.addTag('rawParts','"JP1","LOGO-SFENEW","LOGO-SFENEW","SFE-NEW-WEBLOGO","Spark Fun Electronics PCB Logo","",')
+newPart.addTag('rawParts','"JP2","MYDAQ","MYDAQ","3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING","","",')
+newPart.addTag('rawParts','"JP3","M20_LOCKINGFEMALE_LOCK.009","M20_LOCKINGLOCK","1X20_LOCK","This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the "standard" footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!","",')
+newPart.addTag('rawParts','"JP4","M20","M20","1X20","This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the "standard" footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!","",')
+newPart.addTag('rawParts','"JP5","M30","M30","1X30","","",')
+newPart.addTag('rawParts','"JP6","M30","M30","1X30","","",')
+newPart.addTag('rawParts','"JP7","M30","M30","1X30","","",')
+newPart.addTag('rawParts','"JP8","M30","M30","1X30","","",')
+newPart.addTag('rawParts','"LOGO1","OSHW-LOGOL","OSHW-LOGOL","OSHW-LOGO-L","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","",')
+newPart.addTag('rawParts','"LOGO2","LOGO-SFESK","LOGO-SFESK","SFE-LOGO-FLAME","Spark Fun Electronics PCB Logo","",')
+newPart.addTag('rawParts','"U$3","REVISION","REVISION","REVISION","","",')
+newPart.addTag('rawParts','"U1","BREADBOARDCLEAR","BREADBOARDCLEAR","BREADBOARD_CLEAR","Breadboard Mini Self Adhesive","",')

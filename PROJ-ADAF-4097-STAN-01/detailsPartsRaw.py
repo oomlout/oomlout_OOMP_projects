@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-4097-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","CAP_CERAMIC0603_NO","0603-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C2","10UF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C3","10UF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"D1","1N4148","DIODESOD-323","SOD-323","Diode","",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X970MIL","1X09_ROUND_70","PIN HEADER","",')
+newPart.addTag('rawParts','"Q3","2N7002D","MOSFET-N_DUAL","SOT363","Dual N-Channel MOSFET","",')
+newPart.addTag('rawParts','"R5","10K","RESISTOR_0603_NOOUT","0603-NO","Resistors","",')
+newPart.addTag('rawParts','"R6","10K","RESISTOR_0603_NOOUT","0603-NO","Resistors","",')
+newPart.addTag('rawParts','"R8","10K","RESISTOR_4PACK","RESPACK_4X0603","Resistor Packs (4 resistors)","",')
+newPart.addTag('rawParts','"U$1","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"U$3","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"U$4","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$6","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U1","ADXL343","ACCEL_ADXL343","LGA14","ADXL343 - Digital Accelerometer 2/4/8/16g","",')
+newPart.addTag('rawParts','"U2","AP2112K-3.3","VREG_SOT23-5","SOT23-5","SOT23-5 Fixed Voltage Regulators","",')

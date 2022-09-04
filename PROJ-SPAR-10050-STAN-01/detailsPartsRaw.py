@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-10050-STAN-01")
+
+newPart.addTag('rawParts','"J1","M17","M17","1X17","","",')
+newPart.addTag('rawParts','"J2","M17","M17","1X17","","",')
+newPart.addTag('rawParts','"JP1","","JUMPER-2SMD-NO","SJ_2S-NO","Jumper","",')
+newPart.addTag('rawParts','"JP2","","JUMPER-2SMD-NO","SJ_2S-NO","Jumper","",')
+newPart.addTag('rawParts','"JP3","JUMPER-31-2","JUMPER-31-2","SJ_3_PASTE1&2","","",')
+newPart.addTag('rawParts','"LED1","GREEN","LED0603","LED-0603","LEDs","",')
+newPart.addTag('rawParts','"LED2","RED","LED0603","LED-0603","LEDs","",')
+newPart.addTag('rawParts','"R1","220","RESISTOR0402-RES","0402-RES","Resistor","",')
+newPart.addTag('rawParts','"R2","220","RESISTOR0402-RES","0402-RES","Resistor","",')
+newPart.addTag('rawParts','"U$1","LOGO-SFENEW","LOGO-SFENEW","SFE-NEW-WEBLOGO","Spark Fun Electronics PCB Logo","",')
+newPart.addTag('rawParts','"U$2","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"U$3","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"U$4","CREATIVE_COMMONS","CREATIVE_COMMONS","CREATIVE_COMMONS","","",')
+newPart.addTag('rawParts','"U1","RN-131G","RN-131G","RN-131G","Roving Netowrks WiFLy GSX Module","",')

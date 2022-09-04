@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-2020-STAN-01")
+
+newPart.addTag('rawParts','"C2","10\xc3\x82\xc2\xb5F","CAP_CERAMIC0805_10MGAP","0805_10MGAP","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C6","0.22uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C7","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"GND","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR_4PACK_US","RESPACK_4X0603","Resistor Packs (4 resistors)","",')
+newPart.addTag('rawParts','"SCL1","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SCL2","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SDA1","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SDA2","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"U2","LSM9DS0TR","LSM9DS0","LGA24_4X4MM","LSM9DS0 3-Axis Accelerometer/Gyroscope/Magnetometer","",')
+newPart.addTag('rawParts','"VCC","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')

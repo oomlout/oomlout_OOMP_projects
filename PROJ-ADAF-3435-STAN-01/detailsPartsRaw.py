@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-3435-STAN-01")
+
+newPart.addTag('rawParts','"C1","1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"D1","GREEN","LED0805_NOOUTLINE","CHIPLED_0805_NOOUTLINE","LED","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X570MIL","1X05_ROUND_70","PIN HEADER","",')
+newPart.addTag('rawParts','"Q1","DMG3415","MOSFET-PWIDE","SOT23-WIDE","P-Channel Mosfet","",')
+newPart.addTag('rawParts','"R1","1K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"R2","1M","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"SJ1","","SOLDERJUMPERCLOSED","SOLDERJUMPER_CLOSEDWIRE","SMD Solder JUMPER","",')
+newPart.addTag('rawParts','"SJ2","","SOLDERJUMPERCLOSED","SOLDERJUMPER_CLOSEDWIRE","SMD Solder JUMPER","",')
+newPart.addTag('rawParts','"SW1","EVQQ","SWITCH_TACT_SMT_EVQQ2_SMALL","EVQ-Q2_SMALLER","SMT Tact Switches","",')
+newPart.addTag('rawParts','"U$7","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U$8","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U2","TPL5110","TPL5111","SOT23-6","TPL5111 Timer Based Power Gate","",')
+newPart.addTag('rawParts','"VR1","200k","TRIMPOTTC33X-2","TRIMPOT_BOURNS_TC33X-2","3-Pin SMT Trimpots","",')

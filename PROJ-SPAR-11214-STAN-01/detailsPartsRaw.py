@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-11214-STAN-01")
+
+newPart.addTag('rawParts','"BH1","TRIG+","BUTTONHOLELARGE","BUTTONHOLE","","1","","",')
+newPart.addTag('rawParts','"BH2","TRIG-","BUTTONHOLELARGE","BUTTONHOLE","","1","","",')
+newPart.addTag('rawParts','"BH3","OUT+","BUTTONHOLELARGE","BUTTONHOLE","","1","","",')
+newPart.addTag('rawParts','"BH4","OUT-","BUTTONHOLELARGE","BUTTONHOLE","","1","","",')
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","","",')
+newPart.addTag('rawParts','"JP1","JST-SMT","M02-JST-2MM-SMT","JST-2-SMD","Header 2","","CONN-08352","",')
+newPart.addTag('rawParts','"JP2","","M02PTH","1X02","Header 2","","","",')
+newPart.addTag('rawParts','"JP3","JST-PTH","M02-JST-2-PTH-NO_SILK","JST-2-PTH-NS","Header 2","1","","",')
+newPart.addTag('rawParts','"JP4","JST-PTH","M02-JST-2-PTH-NO_SILK","JST-2-PTH-NS","Header 2","1","","",')
+newPart.addTag('rawParts','"JP5","","M02PTH","1X02","Header 2","","","",')
+newPart.addTag('rawParts','"JP6","FIDUCIALUFIDUCIAL","FIDUCIALUFIDUCIAL","MICRO-FIDUCIAL","Fiducial Alignment Points","","","",')
+newPart.addTag('rawParts','"JP7","FIDUCIALUFIDUCIAL","FIDUCIALUFIDUCIAL","MICRO-FIDUCIAL","Fiducial Alignment Points","","","",')
+newPart.addTag('rawParts','"Q1","FDS6630A","MOSFET-NCHANNELFDS6630A","SO08","Common NMOSFET Parts","","IC-08089","",')
+newPart.addTag('rawParts','"R1","10k","RESISTOR0402-RES","0402-RES","Resistor","","RES-00824","",')
+newPart.addTag('rawParts','"R2","1M","1M-1%","0402-RES","1M-ohm SMT","","RES-07868","1M",')

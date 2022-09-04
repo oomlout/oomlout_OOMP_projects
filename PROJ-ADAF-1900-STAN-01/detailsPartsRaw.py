@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1900-STAN-01")
+
+newPart.addTag('rawParts','"C1","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C2","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"D1","1N4148","DIODESOD-323","SOD-323","Diode","",')
+newPart.addTag('rawParts','"D2","1n4148","DIODESOD-323","SOD-323","Diode","",')
+newPart.addTag('rawParts','"D3","1n4148","DIODESOD-323","SOD-323","Diode","",')
+newPart.addTag('rawParts','"JP2","","HEADER-1X770MIL","1X07_ROUND_70","PIN HEADER","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"R4","10K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"U$5","FIDUCIAL","FIDUCIAL","FIDUCIAL_1MM","For use by pick and place machines to calibrate the vision/machine, 1mm","",')
+newPart.addTag('rawParts','"U$7","MOUNTINGHOLE2.0","MOUNTINGHOLE2.0","MOUNTINGHOLE_2.0_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$8","MOUNTINGHOLE2.0","MOUNTINGHOLE2.0","MOUNTINGHOLE_2.0_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$15","FIDUCIAL","FIDUCIAL","FIDUCIAL_1MM","For use by pick and place machines to calibrate the vision/machine, 1mm","",')
+newPart.addTag('rawParts','"U2","MIC5225-3.3","VREG_SOT23-5","SOT23-5","SOT23-5 Fixed Voltage Regulators","",')
+newPart.addTag('rawParts','"U3","BMP183","BMP183","BMP18X_EXTENDED","","",')

@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-3527-STAN-01")
+
+newPart.addTag('rawParts','"C2","1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C3","1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C4","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C5","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C6","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID3","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID4","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"IC5","APX803","AXP083-SAG","SOT23","","",')
+newPart.addTag('rawParts','"LCD1","OLED 128x32","DISP_OLED_UG-2832HSWEG02","UG-2832HSWEG02_WRAPUNDER","128x32 I2C 0.91" Monochrome OLED Display","",')
+newPart.addTag('rawParts','"R2","10K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"R3","390K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"RPI1","RASPBERRYPI_2X3","RASPBERRYPI_2X3","RASPBERRYPI_2X3_THMSMT","","",')
+newPart.addTag('rawParts','"U$4","MOUNTINGHOLE3.0THIN","MOUNTINGHOLE3.0THIN","MOUNTINGHOLE_3.0_PLATEDTHIN","Mounting Hole","EXCLUDE",')

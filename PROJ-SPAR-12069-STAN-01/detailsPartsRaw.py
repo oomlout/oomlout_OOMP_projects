@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-12069-STAN-01")
+
+newPart.addTag('rawParts','"BAT1","","BATTERY20PTH","BATTCOM_20MM_PTH","Battery Holders","","",')
+newPart.addTag('rawParts','"C6","0.1uF","CAPPTH2","CAP-PTH-SMALL2","Capacitor","","",')
+newPart.addTag('rawParts','"FRAME2","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"JP3","Water Sensor","M02PTH","1X02","Standard 2-pin 0.1" header. Use with","","",')
+newPart.addTag('rawParts','"JP4","ISP","M06SIP","1X06","Header 6","","",')
+newPart.addTag('rawParts','"LED1","","LED5MM","LED5MM","LEDs","","",')
+newPart.addTag('rawParts','"S1","Power","SWITCH-SPDTPTH","SWITCH-SPDT","SPDT Switch","","",')
+newPart.addTag('rawParts','"SG1","Buzzer","BUZZERPTH","BUZZER-12MM","Buzzer 12mm","","",')
+newPart.addTag('rawParts','"STANDOFF1","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"STANDOFF3","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"STANDOFF4","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"U$1","LOGO-SFESK","LOGO-SFESK","SFE-LOGO-FLAME","Spark Fun Electronics PCB Logo","","",')
+newPart.addTag('rawParts','"U$4","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","","",')
+newPart.addTag('rawParts','"U$5","LOGO-SFENW2","LOGO-SFENW2","SFE-NEW-WEB","Spark Fun Electronics PCB Logo","","",')
+newPart.addTag('rawParts','"U2","TINY85-20-DIP","ATTINY45TINY85-20-DIP","DIP08","Atmel 8-pin 2/4/8kB flash uC","IC-09445","TINY85-20-DIP",')

@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-13683-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","0.1UF-25V(+80/-20%)(0603)","0603-CAP","CAP-00810","CAP-00810","0.1uF",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"JP1","","M04PTH","1X04","Header 4","","",')
+newPart.addTag('rawParts','"LOGO1","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo","","",')
+newPart.addTag('rawParts','"LOGO2","SFE_LOGO_NAME.1_INCH","SFE_LOGO_NAME.1_INCH","SFE_LOGO_NAME_.1","SFE Logo, name only","","",')
+newPart.addTag('rawParts','"LOGO4","SFE_LOGO_FLAME.1_INCH","SFE_LOGO_FLAME.1_INCH","SFE_LOGO_FLAME_.1","SFE Logo, flame only","","",')
+newPart.addTag('rawParts','"LOGO5","SFE_LOGO_NAME_FLAME.1_INCH","SFE_LOGO_NAME_FLAME.1_INCH","SFE_LOGO_NAME_FLAME_.1","SFE Logo, name and flame","","",')
+newPart.addTag('rawParts','"R1","10K","10KOHM-1/10W-1%(0603)0603","0603-RES","RES-00824","RES-00824","10K",')
+newPart.addTag('rawParts','"SJ1","JUMPER","JUMPER-PAD-2-NC_BY_TRACE","PAD-JUMPER-2-NC_BY_TRACE_YES_SILK","","","",')
+newPart.addTag('rawParts','"STANDOFF1","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"STANDOFF2","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"U1","SHT1XSMD","SHT1XSMD","SHT1X","SHT1x Humdity Sensor","IC-08303","",')

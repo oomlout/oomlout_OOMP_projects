@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-2305-STAN-01")
+
+newPart.addTag('rawParts','"C1","1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C2","1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X576MIL_FULL","1X05_ROUND_FULL_76","PIN HEADER","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"R2","10K","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"TP1","","TESTPOINTPAD2MM","TESTPOINT_PAD_2MM","Test Point","",')
+newPart.addTag('rawParts','"TP2","","TESTPOINTPAD2MM","TESTPOINT_PAD_2MM","Test Point","",')
+newPart.addTag('rawParts','"U$2","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$3","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U1","DRV2605LDGS","DRV2605_SOP","PSOP10","DRV2605 - Haptic Driver for ERM/LRA Motors","",')

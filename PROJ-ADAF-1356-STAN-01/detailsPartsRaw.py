@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1356-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1\xc3\x82\xc2\xb5F","CAP_CERAMIC_0805","_0805","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"LED1","45-21/LK2C-B38452C4CB2/2T","LEDEV45-21","EVERLIGHT_45-21","LED","",')
+newPart.addTag('rawParts','"Q3","BSS138","MOSFET-NWIDE","SOT23-WIDE","N-Channel Mosfet","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR_0805","_0805","Resistors","",')
+newPart.addTag('rawParts','"R2","10K","RESISTOR_0805","_0805","Resistors","",')
+newPart.addTag('rawParts','"R6","10K","RESISTOR_0805","_0805","Resistors","",')
+newPart.addTag('rawParts','"TP1","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"TP2","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"TP3","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"TP4","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"TP5","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"TP6","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"U1","TCS34725","LIGHT_TCS3472","TCS3472_FN6","TCS3472 RGB + Clear Color Sensor","",')

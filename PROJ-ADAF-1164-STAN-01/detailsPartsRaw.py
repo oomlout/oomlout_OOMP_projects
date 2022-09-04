@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1164-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1\xc3\x82\xc2\xb5F","CAP_CERAMIC0805","0805","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"J1","","TERMBLOCK_1X2","TERMBLOCK_1X2-3.5MM","3.5mm Terminal block","",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X570MIL","1X05_ROUND_70","PIN HEADER","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR_DUAL","0805-THM","Flip Flop resistor","",')
+newPart.addTag('rawParts','"RSHUNT","0.1/1% (PT2512FK-070R1L)","RESISTOR2512","2512","Resistors","",')
+newPart.addTag('rawParts','"U$7","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U$8","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U$9","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U$10","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U1","INA169","INA169","SOT23-5","INA169 - High-Side Measurement Current Shunt Monitor","",')

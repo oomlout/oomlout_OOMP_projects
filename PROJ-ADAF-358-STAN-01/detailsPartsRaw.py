@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-358-STAN-01")
+
+newPart.addTag('rawParts','"C1","10uF","C-USC0805K","C0805K","CAPACITOR, American symbol","",')
+newPart.addTag('rawParts','"C2","10uF","C-USC0805K","C0805K","CAPACITOR, American symbol","",')
+newPart.addTag('rawParts','"C3","0.1uF","C-USC0805K","C0805K","CAPACITOR, American symbol","",')
+newPart.addTag('rawParts','"C4","0.1uF","C-USC0805K","C0805K","CAPACITOR, American symbol","",')
+newPart.addTag('rawParts','"IC1","4050D","4050D","SO16","Hex non-inverting BUFFER","",')
+newPart.addTag('rawParts','"IC2","LP298XS","LP298XS","SOT23-5L","","",')
+newPart.addTag('rawParts','"Q1","2N2222","MMBT2222ALT1-NPN-SOT23-BEC","SOT23-BEC","NPN Transistror","",')
+newPart.addTag('rawParts','"Q2","MICROSD","MICROSD","MICROSD","Micro-SD / Transflash card holder with SPI pinout","",')
+newPart.addTag('rawParts','"R1","22 ohm","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R2","1K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"U$1","JD-T1800","JD-T1800","JD-T1800","","",')
+newPart.addTag('rawParts','"U$2","PINHD-1X10","PINHD-1X10","1X10-BIG","Pin header 1x10 0.1" spacing","",')
+newPart.addTag('rawParts','"U$3","FIDUCIAL","FIDUCIAL","FIDUCIAL_1MM","For use by pick and place machines to calibrate the vision/machine, 1mm","",')
+newPart.addTag('rawParts','"U$4","FIDUCIAL","FIDUCIAL","FIDUCIAL_1MM","For use by pick and place machines to calibrate the vision/machine, 1mm","",')
+newPart.addTag('rawParts','"U$5","FIDUCIAL","FIDUCIAL","FIDUCIAL_1MM","For use by pick and place machines to calibrate the vision/machine, 1mm","",')

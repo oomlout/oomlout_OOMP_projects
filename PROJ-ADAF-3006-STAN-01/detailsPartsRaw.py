@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-3006-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C2","10uF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C4","220pF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"C5","220pF","CAP_CERAMIC0805-NOOUTLINE","0805-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FB1","Ferrite","FERRITE-0805NO","0805-NO","Ferrite Bead","",')
+newPart.addTag('rawParts','"FB2","Ferrite","FERRITE-0805NO","0805-NO","Ferrite Bead","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X7THICKER","1X07_ROUND_76","PIN HEADER","",')
+newPart.addTag('rawParts','"R1","1M","RESISTOR0805_NOOUTLINE","0805-NO","Resistors","",')
+newPart.addTag('rawParts','"U$9","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$10","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U1","MAX98357A","AUDIOAMP_MAX98357","QFN16_3MM","MAX98357 - 3.2W I2S Mono Audio Amp","",')
+newPart.addTag('rawParts','"X1","","TERMBLOCK_1X2","TERMBLOCK_1X2-3.5MM","3.5mm Terminal block","",')

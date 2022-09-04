@@ -1,0 +1,5 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-3203-STAN-01")
+
+newPart.addTag('rawParts','"CONN1","HEADER-1X25","HEADER-1X25","1X25_ROUND_70MIL","","",')
+newPart.addTag('rawParts','"RPI1","RASPBERRYPI_BPLUS_BONNETNODIM","RASPBERRYPI_BPLUS_BONNETNODIM","PI_BONNET_NODIM","","",')

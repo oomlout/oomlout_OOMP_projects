@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-11591-STAN-01")
+
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","",')
+newPart.addTag('rawParts','"J1","","M03X2POGO_PINS","2X3_POGO","2x3 .1" header.","HW-11044",')
+newPart.addTag('rawParts','"J2","AVR_SPI_PRG_6NS","AVR_SPI_PRG_6NS","2X3-NS","AVR ISP 6 Pin","",')
+newPart.addTag('rawParts','"J3","","M03X2POGO_PINS","2X3_POGO","2x3 .1" header.","HW-11044",')
+newPart.addTag('rawParts','"J4","","JST_2MM_MALE","JST-2-SMD","Mates to single-cell LiPo batteries.","CONN-08352",')
+newPart.addTag('rawParts','"JP1","","M06POLAR","MOLEX-1X6","Header 6","",')
+newPart.addTag('rawParts','"JP2","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","",')
+newPart.addTag('rawParts','"JP3","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","",')
+newPart.addTag('rawParts','"JP4","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","",')
+newPart.addTag('rawParts','"JP5","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","",')
+newPart.addTag('rawParts','"JP6","LOGO-SFENW2","LOGO-SFENW2","SFE-NEW-WEB","Spark Fun Electronics PCB Logo","",')
+newPart.addTag('rawParts','"U$1","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","",')

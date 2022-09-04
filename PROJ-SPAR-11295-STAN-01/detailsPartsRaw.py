@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-11295-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","0.1UF-25V(+80/-20%)(0603)","0603-CAP","CAP-00810","CAP-00810","0.1uF",')
+newPart.addTag('rawParts','"C2","0.22uF","0.22UF-25V-10%(0603)","0603-CAP","CAP-07822","CAP-07822","0.22uF",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"JP1","","M06SIP","1X06","Header 6","","",')
+newPart.addTag('rawParts','"JP3","STAND-OFFTIGHT","STAND-OFFTIGHT","STAND-OFF-TIGHT","Stand Off","","",')
+newPart.addTag('rawParts','"JP4","STAND-OFFTIGHT","STAND-OFFTIGHT","STAND-OFF-TIGHT","Stand Off","","",')
+newPart.addTag('rawParts','"R1","2.2k","2.2KOHM1/10W1%(0603)","0603-RES","RES-08272","RES-08272","2.2k",')
+newPart.addTag('rawParts','"R2","2.2k","2.2KOHM1/10W1%(0603)","0603-RES","RES-08272","RES-08272","2.2k",')
+newPart.addTag('rawParts','"U$2","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","","",')
+newPart.addTag('rawParts','"U1","HIH6131","HIH6131","SOIC8","","","",')

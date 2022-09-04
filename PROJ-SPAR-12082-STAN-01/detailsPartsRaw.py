@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-12082-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","0.1UF-25V(+80/-20%)(0603)","0603-CAP","Ceramic","CAP-00810","0.1uF",')
+newPart.addTag('rawParts','"C2","10uF","10UF-16V-10%(TANT)","EIA3216","CAP-00811","CAP-00811","10uF",')
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"JP1","LOGO-SFENEW","LOGO-SFENEW","SFE-NEW-WEBLOGO","Spark Fun Electronics PCB Logo","","",')
+newPart.addTag('rawParts','"JP2","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"JP3","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"JP6","","M08","1X08","Header 8","","",')
+newPart.addTag('rawParts','"JP7","","M07","1X07","Header 7","","",')
+newPart.addTag('rawParts','"JP8","","M02PTH","1X02","Header 2","","",')
+newPart.addTag('rawParts','"JP9","","M02PTH","1X02","Header 2","","",')
+newPart.addTag('rawParts','"LOGO1","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","","",')
+newPart.addTag('rawParts','"U1","AD5330","AD5330","TSSOP20","","","",')

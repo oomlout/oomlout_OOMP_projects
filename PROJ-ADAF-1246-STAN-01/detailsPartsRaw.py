@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1246-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","C-USC0805K","C0805K","CAPACITOR, American symbol","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"GND","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"R2","10K","RESISTOR_0805","_0805","Resistors","",')
+newPart.addTag('rawParts','"R3","10K","RESISTOR_0805","_0805","Resistors","",')
+newPart.addTag('rawParts','"SCL1","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SCL2","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SDA1","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SDA2","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')
+newPart.addTag('rawParts','"SJ1","","SJ2W","SJ_2","SMD solder JUMPER","",')
+newPart.addTag('rawParts','"U2","TSL2561","TSL2561","TSL2561_FN","TSL2561 Light-To-Digital Sensor","",')
+newPart.addTag('rawParts','"VCC","SEWTAP0.5IN","SEWTAP0.5IN","SEWINGTAP_0.5","","",')

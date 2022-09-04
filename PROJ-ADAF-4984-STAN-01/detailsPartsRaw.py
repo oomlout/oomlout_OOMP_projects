@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-4984-STAN-01")
+
+newPart.addTag('rawParts','"C1","1uF","CAP_CERAMIC0603_NO","0603-NO","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL_1MM","FIDUCIAL_1MM","FIDUCIAL_1MM","Fiducial Alignment Points","EXCLUDE",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X3ROUND","1X03_ROUND","PIN HEADER","",')
+newPart.addTag('rawParts','"JP3","","HEADER-1X11","1X11_ROUND","","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR_4PACK","RESPACK_4X0603","Resistor Packs (4 resistors)","",')
+newPart.addTag('rawParts','"R2","220","RESISTOR_4PACK","RESPACK_4X0603","Resistor Packs (4 resistors)","",')
+newPart.addTag('rawParts','"R5","220","RESISTOR_4PACK","RESPACK_4X0603","Resistor Packs (4 resistors)","",')
+newPart.addTag('rawParts','"U$32","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U$33","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","EXCLUDE",')
+newPart.addTag('rawParts','"U2","24LC02BT-I/OT","EEPROM_I2C_MCP24AA32","SOT23-5","Microchip 32K (4K x 8) 1.8V I2C EEPROM","",')
+newPart.addTag('rawParts','"X1","47151-0001","HDMI_MOLEX_47151","HDMI_MOLEX_47151-0001","The default footprint uses layer 46 (Milling) for the tabs, the DIMLAYER footprint uses layer 20 (Dimensions).  Both will probably require special instructions to the board house","",')

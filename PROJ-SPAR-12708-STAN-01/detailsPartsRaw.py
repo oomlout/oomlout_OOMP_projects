@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-12708-STAN-01")
+
+newPart.addTag('rawParts','"BAT1","","BATTERY12PTH","BATTCON_12MM_PTH","Battery Holders","","",')
+newPart.addTag('rawParts','"C1","0.1uF","0.1UF-25V(+80/-20%)(0603)","0603-CAP","CAP-00810","CAP-00810","0.1uF",')
+newPart.addTag('rawParts','"FRAME2","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"JP1","","M05PTH","1X05","Header 5","","",')
+newPart.addTag('rawParts','"LOGO1","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","","",')
+newPart.addTag('rawParts','"Q1","32.768kHz","CRYSTAL32-SMD","CRYSTAL-32KHZ-SMD","Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534","","",')
+newPart.addTag('rawParts','"R1","4.7k","4.7KOHM1/10W1%(0603)","0603","RES-07857","RES-07857","",')
+newPart.addTag('rawParts','"R2","4.7k","4.7KOHM1/10W1%(0603)","0603","RES-07857","RES-07857","",')
+newPart.addTag('rawParts','"SJ2","","SOLDERJUMPER_2WAYPASTE1&2&3","SJ_3_PASTE1&2&3","Solder Jumper","","",')
+newPart.addTag('rawParts','"U$2","LOGO-SFESK","LOGO-SFESK","SFE-LOGO-FLAME","Spark Fun Electronics PCB Logo","","",')
+newPart.addTag('rawParts','"U$6","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","","",')
+newPart.addTag('rawParts','"U$7","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","","",')
+newPart.addTag('rawParts','"U1","DS1307","DS1307SO8-TIGHT","SO08-TIGHT","I2C real-time clock with battery backup.","","",')

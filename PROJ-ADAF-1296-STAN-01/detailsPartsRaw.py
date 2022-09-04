@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-1296-STAN-01")
+
+newPart.addTag('rawParts','"C1","10uF","CAP_CERAMIC0805","0805","Ceramic Capacitors","",')
+newPart.addTag('rawParts','"FID1","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"FID2","FIDUCIAL""","FIDUCIAL""","FIDUCIAL_1MM","Fiducial Alignment Points","",')
+newPart.addTag('rawParts','"JP1","","HEADER-1X7THICKER","1X07_ROUND_76","PIN HEADER","",')
+newPart.addTag('rawParts','"R1","10K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"R2","10K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"R3","10K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"R4","10K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"R5","10K","RESISTOR0805","0805","Resistors","",')
+newPart.addTag('rawParts','"U$6","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U$7","MOUNTINGHOLE2.5","MOUNTINGHOLE2.5","MOUNTINGHOLE_2.5_PLATED","Mounting Hole","",')
+newPart.addTag('rawParts','"U1","TMP006AIYZFR","TMP006","WCSP-8","TMP006 Infrared Thermopile Sensor","",')

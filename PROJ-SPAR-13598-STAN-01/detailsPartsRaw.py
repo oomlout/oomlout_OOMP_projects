@@ -1,0 +1,16 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-13598-STAN-01")
+
+newPart.addTag('rawParts','"FRAME1","","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","Ben Leduc-Mills","","v10",')
+newPart.addTag('rawParts','"JP1","SPARK_PHOTONTEMPLATE_WIDE","SPARK_PHOTONTEMPLATE_WIDE","SPARK_PHOTON_TEMPLATE_WIDE","","","","",')
+newPart.addTag('rawParts','"JP2","","M04PTH","1X04","Header 4","","","",')
+newPart.addTag('rawParts','"JP3","","M03PTH","1X03","Header 3","","","",')
+newPart.addTag('rawParts','"JP4","","M03PTH","1X03","Header 3","","","",')
+newPart.addTag('rawParts','"JP5","","M10NO_SILK_PTH_FEMALE","1X10_NO_SILK","Header 10","","CONN-11563","",')
+newPart.addTag('rawParts','"JP6","","M10NO_SILK_PTH_FEMALE","1X10_NO_SILK","Header 10","","CONN-11563","",')
+newPart.addTag('rawParts','"JP7","","M09NO_SILK","1X09_NO_SILK","Header 9","","","",')
+newPart.addTag('rawParts','"JP8","","M09NO_SILK","1X09_NO_SILK","Header 9","","","",')
+newPart.addTag('rawParts','"JP9","","M09NO_SILK","1X09_NO_SILK","Header 9","","","",')
+newPart.addTag('rawParts','"JP10","","M09NO_SILK","1X09_NO_SILK","Header 9","","","",')
+newPart.addTag('rawParts','"LOGO1","SFE_LOGO_NAME_FLAME.1_INCH","SFE_LOGO_NAME_FLAME.1_INCH","SFE_LOGO_NAME_FLAME_.1","SFE Logo, name and flame","","","",')
+newPart.addTag('rawParts','"LOGO2","OSHW-LOGOS","OSHW-LOGOS","OSHW-LOGO-S","Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW","","","",')

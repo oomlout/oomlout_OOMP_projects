@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-ADAF-757-STAN-01")
+
+newPart.addTag('rawParts','"JP3","","PINHD-1X6CB","1X06-CLEANBIG","PIN HEADER","",')
+newPart.addTag('rawParts','"JP4","","PINHD-1X6CB","1X06-CLEANBIG","PIN HEADER","",')
+newPart.addTag('rawParts','"Q1","BSS138","MOSFET-NREFLOW","SOT23","N-Channel Mosfet","",')
+newPart.addTag('rawParts','"Q2","BSS138","MOSFET-NREFLOW","SOT23","N-Channel Mosfet","",')
+newPart.addTag('rawParts','"Q3","BSS138","MOSFET-NREFLOW","SOT23","N-Channel Mosfet","",')
+newPart.addTag('rawParts','"Q4","BSS138","MOSFET-NREFLOW","SOT23","N-Channel Mosfet","",')
+newPart.addTag('rawParts','"R1","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R2","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R3","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R4","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R5","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R6","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R7","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')
+newPart.addTag('rawParts','"R8","10K","R-US_R0805","R0805","RESISTOR, American symbol","",')

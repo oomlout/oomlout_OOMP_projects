@@ -1,0 +1,17 @@
+import OOMP
+newPart = OOMP.getPartByID("PROJ-SPAR-13906-STAN-01")
+
+newPart.addTag('rawParts','"C1","0.1uF","0.1UF-0603-25V-(+80/-20%)","0603","0.1\xc3\x82\xc2\xb5F ceramic capacitors","CAP-00810","0.1uF",')
+newPart.addTag('rawParts','"FD1","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FD2","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","","",')
+newPart.addTag('rawParts','"FRAME1","FRAME-LETTER","FRAME-LETTER","CREATIVE_COMMONS","Schematic Frame","","",')
+newPart.addTag('rawParts','"H1","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"H2","STAND-OFF","STAND-OFF","STAND-OFF","#4 Stand Off","","",')
+newPart.addTag('rawParts','"J1","","M11PTH","1X11","Header 11","","",')
+newPart.addTag('rawParts','"J2","","M08","1X08_ROUND","Header 8","CONN-08437","",')
+newPart.addTag('rawParts','"JP1","VEE-GND","JUMPER-PAD-2-NC_BY_PASTENO-SILK","PAD-JUMPER-2-NC_BY_PASTE_NO_SILK","","","",')
+newPart.addTag('rawParts','"LOGO1","SFE_LOGO_FLAME.1_INCH","SFE_LOGO_FLAME.1_INCH","SFE_LOGO_FLAME_.1","SFE Logo, flame only","","",')
+newPart.addTag('rawParts','"LOGO2","OSHW-LOGOMINI","OSHW-LOGOMINI","OSHW-LOGO-MINI","Open Source Hardware Logo","","",')
+newPart.addTag('rawParts','"LOGO3","SFE_LOGO_NAME.1_INCH","SFE_LOGO_NAME.1_INCH","SFE_LOGO_NAME_.1","SFE Logo, name only","","",')
+newPart.addTag('rawParts','"R1","10k","10KOHM-0603-1/10W-1%","0603","10k\xc3\x8e\xc2\xa9 resistor","RES-00824","10k",')
+newPart.addTag('rawParts','"U1","","74HC4051BQ","DHVQFN-16-2.5X3.5MM","NXP 74HC4051 8-Channel Analog Multiplexer/Demultiplexer","IC-13334","",')
