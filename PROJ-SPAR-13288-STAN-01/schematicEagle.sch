@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -22605,7 +22605,7 @@ shields at 3.3V</text>
 </segment>
 <segment>
 <wire x1="132.08" y1="167.64" x2="129.54" y2="167.64" width="0.1524" layer="91"/>
-<label x="129.54" y="167.64" size="1.27" layer="95" rot="R180" xref="yes"/>
+<label x="129.54" y="167.64" size="1.27" layer="95" font="fixed" rot="R180" xref="yes"/>
 <pinref part="BAT1" gate="G$1" pin="+"/>
 <wire x1="132.08" y1="165.1" x2="132.08" y2="167.64" width="0.1524" layer="91"/>
 </segment>
