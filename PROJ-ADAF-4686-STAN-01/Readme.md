@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-4686-STAN-01>Adafruit TMP235 PCB](#proj-adaf-4686-stan-01adafruit-tmp235-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 11.176, 7.9375, 270,C1, 1uF, 0805-NO, microbuilder, (0.44, 0.3125), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 4.444999999999999, 15.620999999999999, 90,D2, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.175, 0.615), R90|
-|ERROR, JP1 0.1 Header, 0, 0, 0,JP1, 0.1, Header, 1X03_OVAL, microbuilder, (0.105, 0.35), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 7.874, 15.620999999999999, 0,R3, 1K, 0603-NO, microbuilder, (0.31, 0.615), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 22.86, 8.889999999999999, 90,X1, TMP235_DCKR, SC70-5, adafruit_sensor, (0.9, 0.35), R90|
-|ERROR, X4 JST PH, 0, 0, 0,X4, JST, PH, 3, JSTPH3, microbuilder, (0.1825, 0.35), R90|
 
 ## Tags
 
@@ -55,28 +42,24 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP235-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4686
 - oompID: PROJ-ADAF-4686-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 11.176, 7.9375, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 4.444999999999999, 15.620999999999999, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.032, 1.9049999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 20.002499999999998, 13.5255, 0
-- oompPart: ERROR, JP1 0.1 Header, 0, 0, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 7.874, 15.620999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 8.6995, 12.827, M270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 22.86, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$8, 22.86, 15.239999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 22.86, 8.889999999999999, 90
-- oompPart: ERROR, X4 JST PH, 0, 0, 0
-- rawPart: C1, 1uF, 0805-NO, microbuilder, (0.44, 0.3125), R270
-- rawPart: D2, GREEN, CHIPLED_0805_NOOUTLINE, microbuilder, (0.175, 0.615), R90
-- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.08, 0.075), R0
-- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7875, 0.5325), R0
-- rawPart: JP1, 0.1, Header, 1X03_OVAL, microbuilder, (0.105, 0.35), R270
-- rawPart: R3, 1K, 0603-NO, microbuilder, (0.31, 0.615), R0
-- rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.3425, 0.505), MR270
-- rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- rawPart: U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
-- rawPart: X1, TMP235_DCKR, SC70-5, adafruit_sensor, (0.9, 0.35), R90
-- rawPart: X4, JST, PH, 3, JSTPH3, microbuilder, (0.1825, 0.35), R90
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: D2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
+- rawParts: FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP1,0.1 Header,HEADER-1X3,1X03_OVAL,PIN HEADER,,
+- rawParts: R3,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,
+- rawParts: U$1,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$8,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: X1,TMP235_DCKR,TMP235_DCKR,SC70-5,,,
+- rawParts: X4,JST PH 3,CON_JST_PH_3PIN,JSTPH3,,,
 
 
 

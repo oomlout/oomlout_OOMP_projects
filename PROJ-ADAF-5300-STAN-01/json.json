@@ -41,412 +41,388 @@
             "value": "PROJ-ADAF-5300-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, 38.608, 6.1468, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C2, 26.9113, 5.9055, 90"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C3, 40.7162, 14.477999999999998, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C4, 41.7322, 4.6228, 0"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C5, 25.019, 18.2245, 0"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C6, 37.602800079999994, 11.81599999, 90"
+            "name": "oompParts",
+            "value": "C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C7, 23.0505, 5.9055, 90"
+            "name": "oompParts",
+            "value": "C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C8, 25.01670003, 5.91469988, 90"
+            "name": "oompParts",
+            "value": "C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C9, 32.13099999999999, 8.382, 90"
+            "name": "oompParts",
+            "value": "C9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C10, 35.05199999999999, 5.206999999999999, 180"
+            "name": "oompParts",
+            "value": "C10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C11, 26.542999999999996, 16.065499999999997, 180"
+            "name": "oompParts",
+            "value": "C11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C12, 26.669999999999998, 13.589, 90"
+            "name": "oompParts",
+            "value": "C12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CHG, 49.022, 5.460999999999999, M270"
+            "name": "oompParts",
+            "value": "CHG,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 39.878, 11.557, M180"
+            "name": "oompParts",
+            "value": "CONN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 49.275999999999996, 17.399, M90"
+            "name": "oompParts",
+            "value": "D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 39.700199999999995, 9.0932, 0"
+            "name": "oompParts",
+            "value": "D4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DISP1, 4.3180000000000005, 11.43, M90"
+            "name": "oompParts",
+            "value": "DISP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 16.509999999999998, 0"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 29.590999999999998, 17.653, 0"
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI16-01, JP1, 25.4, 1.27, M180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI12-01, JP3, 20.32, 21.59, M0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 45.592999999999996, 17.525999999999996, M90"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 22.542499999999997, 14.350999999999997, 270"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 40.3352, 11.6332, 180"
+            "name": "oompParts",
+            "value": "Q3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 38.608, 4.5085, 180"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 45.135799999999996, 5.4102, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R3, 29.590999999999998, 13.843, 270"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R4, 43.1038, 17.145, 90"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R5, 47.370999999999995, 9.8806, 270"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O104-01, R7, 35.05199999999999, 11.1633, 0"
+            "name": "oompParts",
+            "value": "R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R8, 47.370999999999995, 13.017499999999998, 90"
+            "name": "oompParts",
+            "value": "R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R10, 45.466, 17.525999999999996, 0"
+            "name": "oompParts",
+            "value": "R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R11, 24.9555, 13.398499999999999, 90"
+            "name": "oompParts",
+            "value": "R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O104-01, R12, 42.7228, 11.7348, 270"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R17, 21.9075, 18.2245, 0"
+            "name": "oompParts",
+            "value": "R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 37.083999999999996, 6.223, M90"
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 41.783, 6.223, M90"
+            "name": "oompParts",
+            "value": "SW2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 35.05199999999999, 3.6702999999999997, 180"
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$31, 48.26, 20.32, M270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$32, 48.26, 2.54, M270"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$34, 45.466, 21.843999999999998, M270"
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$35, 6.455199942, 4.045599986, M270"
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$55, 49.784, 5.334, 0"
+            "name": "oompParts",
+            "value": "U5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$56, 4.571999999999999, 22.098, 0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 11.43, 90"
+            "name": "oompParts",
+            "value": "X3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 35.0012, 8.382, 180"
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 40.004999999999995, 17.3228, 270"
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 29.590999999999998, 17.653, 0"
+            "name": "rawParts",
+            "value": "C3,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 34.416999999999994, 13.589, 90"
+            "name": "rawParts",
+            "value": "C4,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, X1, 40.004999999999995, 19.304, M0"
+            "name": "rawParts",
+            "value": "C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, X3 USB C, 0, 0, 0"
+            "name": "rawParts",
+            "value": "C6,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, 0805-NO, microbuilder, (1.52, 0.242), R0"
+            "name": "rawParts",
+            "value": "C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uF, 0805-NO, microbuilder, (1.0595, 0.2325), R90"
+            "name": "rawParts",
+            "value": "C8,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,C,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10uF, 0805-NO, microbuilder, (1.603, 0.57), R0"
+            "name": "rawParts",
+            "value": "C9,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 1uF, 0603-NO, microbuilder, (1.643, 0.182), R0"
+            "name": "rawParts",
+            "value": "C10,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 1uF, 0603-NO, microbuilder, (0.985, 0.7175), R0"
+            "name": "rawParts",
+            "value": "C11,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C6, 10uF, 0805-NO, microbuilder, (1.4804252, 0.46519685), R90"
+            "name": "rawParts",
+            "value": "C12,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C7, 10uF, 0805-NO, microbuilder, (0.9075, 0.2325), R90"
+            "name": "rawParts",
+            "value": "CHG,ORANGE,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C8, 10uF, 0805-NO, microbuilder, (0.98490945, 0.2328622), R90"
+            "name": "rawParts",
+            "value": "CONN1,STEMMA_I2C_QTRA,STEMMA_I2C_QTRA,JST_SH4_RA,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C9, 10uF, 0805-NO, microbuilder, (1.265, 0.33), R90"
+            "name": "rawParts",
+            "value": "D3,RED,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C10, 1uF, 0603-NO, microbuilder, (1.38, 0.205), R180"
+            "name": "rawParts",
+            "value": "D4,MBR540,DIODE-SCHOTTKYSOD-123,SOD-123,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C11, 1uF, 0603-NO, microbuilder, (1.045, 0.6325), R180"
+            "name": "rawParts",
+            "value": "DISP1,DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER,DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER,TFT_1.14IN_240X135_WRAPUNDER,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C12, 10uF, 0805-NO, microbuilder, (1.05, 0.535), R90"
+            "name": "rawParts",
+            "value": "IC1,LC709203F/MH,LC709203F/MH,WLCSP9,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "CHG, ORANGE, CHIPLED_0603_NOOUTLINE, microbuilder, (1.93, 0.215), MR270"
+            "name": "rawParts",
+            "value": "IC2,BME680,BME680,BME680,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "CONN1, STEMMA_I2C_QTRA, JST_SH4_RA, microbuilder, (1.57, 0.455), MR180"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X16_MIN,1X16_ROUND_MIN,PIN HEADER,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D3, RED, CHIPLED_0603_NOOUTLINE, microbuilder, (1.94, 0.685), MR90"
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X12_MIN,1X12_ROUND_MIN,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D4, MBR540, SOD-123, microbuilder, (1.563, 0.358), R0"
+            "name": "rawParts",
+            "value": "LED1,WS2812B_SK6805_1515,WS2812B_SK6805_1515,SK6805_1515,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "DISP1, DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER, TFT_1.14IN_240X135_WRAPUNDER, adafruit_display, (0.17, 0.45), MR90"
+            "name": "rawParts",
+            "value": "Q1,BSS138,MOSFET-NREFLOW,SOT23-R,N-Channel Mosfet,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, LC709203F/MH, WLCSP9, adafruit_sensor, (1.35, 0.65), R0"
+            "name": "rawParts",
+            "value": "Q3,DMG3415U,MOSFET-P,SOT23-R,P-Channel Mosfet,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC2, BME680, BME680, adafruit_sensor, (1.165, 0.695), R0"
+            "name": "rawParts",
+            "value": "R1,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X16_ROUND_MIN, microbuilder, (1, 0.05), MR180"
+            "name": "rawParts",
+            "value": "R2,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X12_ROUND_MIN, microbuilder, (0.8, 0.85), MR0"
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, WS2812B_SK6805_1515, SK6805_1515, microbuilder, (1.795, 0.69), MR90"
+            "name": "rawParts",
+            "value": "R4,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, BSS138, SOT23-R, microbuilder, (0.8875, 0.565), R270"
+            "name": "rawParts",
+            "value": "R5,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q3, DMG3415U, SOT23-R, microbuilder, (1.588, 0.458), R180"
+            "name": "rawParts",
+            "value": "R7,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 5.1K, 0603-NO, microbuilder, (1.52, 0.1775), R180"
+            "name": "rawParts",
+            "value": "R8,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 5.1K, 0603-NO, microbuilder, (1.777, 0.213), R180"
+            "name": "rawParts",
+            "value": "R10,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 10K, RESPACK_4X0603, microbuilder, (1.165, 0.545), R270"
+            "name": "rawParts",
+            "value": "R11,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 5.1K, 0603-NO, microbuilder, (1.697, 0.675), R90"
+            "name": "rawParts",
+            "value": "R12,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 5.1K, 0603-NO, microbuilder, (1.865, 0.389), R270"
+            "name": "rawParts",
+            "value": "R17,1Meg,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R7, 100K, 0603-NO, microbuilder, (1.38, 0.4395), R0"
+            "name": "rawParts",
+            "value": "SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R8, 5.1K, 0603-NO, microbuilder, (1.865, 0.5125), R90"
+            "name": "rawParts",
+            "value": "SW2,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R10, 5.1K, 0603-NO, microbuilder, (1.79, 0.69), R0"
+            "name": "rawParts",
+            "value": "TP1,,TESTPOINTROUND1.5MMNO,TESTPOINT_ROUND_1.5MM_NO,Test Point,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R11, 22, 0603-NO, microbuilder, (0.9825, 0.5275), R90"
+            "name": "rawParts",
+            "value": "U$31,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 100K, 0603-NO, microbuilder, (1.682, 0.462), R270"
+            "name": "rawParts",
+            "value": "U$32,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "R17, 1Meg, 0603-NO, microbuilder, (0.8625, 0.7175), R0"
+            "name": "rawParts",
+            "value": "U$34,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.46, 0.245), MR90"
+            "name": "rawParts",
+            "value": "U$35,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.645, 0.245), MR90"
+            "name": "rawParts",
+            "value": "U$55,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "TP1, TESTPOINT_ROUND_1.5MM_NO, microbuilder, (1.38, 0.1445), R180"
+            "name": "rawParts",
+            "value": "U$56,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$31, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.8), MR270"
+            "name": "rawParts",
+            "value": "U1,ESP32-S2-MODULE_MINI,ESP32-S2-MODULE_MINI,QFN60_ESP32-S2-MINI-1_EXP,WiFi 802.11b/g/n Transceiver Module 2.4GHz Antenna Not Included Surface Mount Check prices,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$32, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.9, 0.1), MR270"
+            "name": "rawParts",
+            "value": "U2,AP2112-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$34, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.79, 0.86), MR270"
+            "name": "rawParts",
+            "value": "U3,MCP73831T-2ACI/OT,MCP73831/2,SOT23-5,MCP73831/2 LIPO Charger,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$35, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25414173, 0.15927559), MR270"
+            "name": "rawParts",
+            "value": "U4,BME280,BME280,BME280,BME280 - Environmental Sensor (I2C + SPI),,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$55, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.96, 0.21), R0"
+            "name": "rawParts",
+            "value": "U5,AP2112-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$56, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.18, 0.87), R0"
+            "name": "rawParts",
+            "value": "X1,JSTPH,CON_JST_PH_2PIN_MT_BATT,JSTPH2_BATT,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, ESP32-S2-MODULE_MINI, QFN60_ESP32-S2-MINI-1_EXP, adafruit_wireless, (0.4, 0.45), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "U2, AP2112-3.3, SOT23-5, microbuilder, (1.378, 0.33), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U3, MCP73831T-2ACI/OT, SOT23-5, microbuilder, (1.575, 0.682), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "U4, BME280, BME280, adafruit_sensor, (1.165, 0.695), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U5, AP2112-3.3, SOT23-5, microbuilder, (1.355, 0.535), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, JSTPH, JSTPH2_BATT, adafruit_electromech, (1.575, 0.76), MR0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X3, USB, C, USB_C_CUSB31-CFM2AX-01-X, adafruit_connector, (1.895, 0.45), MR270"
+            "name": "rawParts",
+            "value": "X3,USB C,USB_C,USB_C_CUSB31-CFM2AX-01-X,USB Type-C USB 2.0 Connector,,,"
         },
         {
             "name": "oompID",

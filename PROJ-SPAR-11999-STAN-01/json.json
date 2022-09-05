@@ -41,52 +41,84 @@
             "value": "PROJ-SPAR-11999-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.7619999999999999, 0.7619999999999999, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 24.13, 16.509999999999998, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 12.7, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O103-01, R1, 3.8099999999999996, 12.7, 180"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 3.8099999999999996, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 21.59, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.03, 0.03), R0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.95, 0.65), R0"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X03_SMD_RA_MALE, SparkFun-Connectors, (0.5, 0.65), R180"
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10K, 0603-RES, SparkFun-Resistors, (0.15, 0.5), R180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.15, 0.15), R0"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S2, STANDOFF_ELECTRICAL, STANDOFF-ELECTRICAL, SparkFun-Electromechanical, (0.85, 0.15), R0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M03SMD_RA_MALE,1X03_SMD_RA_MALE,Header 3,CONN-10925,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,STANDOFF_ELECTRICAL,STANDOFF_ELECTRICAL,STANDOFF-ELECTRICAL,A standoff intended to be an electrically connected point.,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,STANDOFF_ELECTRICAL,STANDOFF_ELECTRICAL,STANDOFF-ELECTRICAL,A standoff intended to be an electrically connected point.,,,"
         },
         {
             "name": "oompID",

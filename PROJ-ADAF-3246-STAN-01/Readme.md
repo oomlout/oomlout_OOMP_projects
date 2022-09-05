@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-3246-STAN-01>Adafruit Mini Analog Thumbstick Breakout PCB](#proj-adaf-3246-stan-01adafruit-mini-analog-thumbstick-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,20 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOY1, 12.7, 12.953999999999999, 0,JOY1, JOYSTICK_ANALOG_XY, JOYSTICK_ANALOG_MINITHM, microbuilder, (0.5, 0.51), R0|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
 
 ## Tags
 
@@ -52,20 +42,16 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3246
 - oompID: PROJ-ADAF-3246-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOY1, 12.7, 12.953999999999999, 0
-- oompPart: HEAD-I01-X-PI04-01, JP1, 12.7, 1.9049999999999998, 0
-- oompPart: HEAD-I01-X-PI04-01, JP2, 12.7, 24.764999999999997, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 22.86, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 2.54, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 22.86, 24.13, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$6, 2.54, 24.13, 0
-- rawPart: JOY1, JOYSTICK_ANALOG_XY, JOYSTICK_ANALOG_MINITHM, microbuilder, (0.5, 0.51), R0
-- rawPart: JP1, 1X04_ROUND_76, microbuilder, (0.5, 0.075), R0
-- rawPart: JP2, 1X04_ROUND_76, microbuilder, (0.5, 0.975), R0
-- rawPart: U$1, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.9, 0.1), R0
-- rawPart: U$4, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.1), R0
-- rawPart: U$5, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.9, 0.95), R0
-- rawPart: U$6, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (0.1, 0.95), R0
+- oompParts: JOY1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JOY1,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_MINITHM,,,
+- rawParts: JP1,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,
+- rawParts: JP2,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,
+- rawParts: U$1,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$4,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$5,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$6,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,
 
 
 

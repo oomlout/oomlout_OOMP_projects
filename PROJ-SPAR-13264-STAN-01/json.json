@@ -41,84 +41,116 @@
             "value": "PROJ-SPAR-13264-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C2, -0.127, 4.191, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 6.858, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, -6.858, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -6.35, 3.8099999999999996, 235"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, -3.8099999999999996, 56"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 0.0, -7.619999999999999, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.0, 7.619999999999999, 180"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 6.35, 3.8099999999999996, S123"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, -6.35, -3.8099999999999996, 303"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (-0.005, 0.165), R0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "D1, WS2812B, WS2812B, SparkFun-LED, (0, 0), R0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (-0.15, 0.27), R0"
+            "name": "oompParts",
+            "value": "U$8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.15, -0.27), R0"
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25, 0.15), R235"
+            "name": "rawParts",
+            "value": "D1,WS2812B,WS2812B,WS2812B,WS2812B - Intelligent control LED integrated light source,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25, -0.15), R56"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, -0.3), R0"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.3), R180"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25, 0.15), SR123"
+            "name": "rawParts",
+            "value": "JP1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25, -0.15), R303"
+            "name": "rawParts",
+            "value": "JP2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$8,LOGO-LPL,LOGO-LPL,LOGO-L,,,,"
         },
         {
             "name": "oompID",

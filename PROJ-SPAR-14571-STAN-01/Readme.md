@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-14571-STAN-01>Qwiic Magnetometer MLX90393](#proj-spar-14571-stan-01qwiic-magnetometer-mlx90393)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,26 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 5.08, 90,J1, 1X06_NO_SILK, SparkFun-Connectors, (0.95, 0.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 1.27, 5.08, 90,J2, 1X06_NO_SILK, SparkFun-Connectors, (0.05, 0.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 12.7, 5.08, 0,J3, 1X04_1MM_RA, SparkFun-Connectors, (0.5, 0.2), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 12.7, 20.32, 180,J4, 1X04_1MM_RA, SparkFun-Connectors, (0.5, 0.8), R180|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0,U1, MLX90393_MAGNETOMETER, QFN-16_WITH_AXIES, SparkFun-Sensors, (0.5, 0.5), R0|
 
 ## Tags
 
@@ -58,40 +42,50 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Magnetometer_MLX90393 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14571
 - oompID: PROJ-SPAR-14571-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 8.889999999999999, 8.636000000000001, 0
-- oompPart: CAPC-0603-X-NF100-V50, C4, 16.509999999999998, 8.636000000000001, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 1.27, 1.27, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 24.13, 20.32, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 24.13, 20.32, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 24.13, 5.08, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 1.27, 5.08, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 12.7, 5.08, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 12.7, 20.32, 180
-- oompPart: RESE-0603-X-O103-01, R1, 16.509999999999998, 16.509999999999998, 180
-- oompPart: RESE-0603-X-O103-01, R2, 8.889999999999999, 16.509999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 12.7, 22.86, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 12.7, 20.32, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 17.145, 5.08, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 8.254999999999999, 5.08, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0
-- rawPart: C1, 0.1uF, 0603, SparkFun-Capacitors, (0.35, 0.34), R0
-- rawPart: C4, 0.1uF, 0603, SparkFun-Capacitors, (0.65, 0.34), R180
-- rawPart: FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.05, 0.05), R0
-- rawPart: FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.05, 0.05), MR0
-- rawPart: FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.95, 0.8), R0
-- rawPart: FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.95, 0.8), MR0
-- rawPart: J1, 1X06_NO_SILK, SparkFun-Connectors, (0.95, 0.2), R90
-- rawPart: J2, 1X06_NO_SILK, SparkFun-Connectors, (0.05, 0.2), R90
-- rawPart: J3, 1X04_1MM_RA, SparkFun-Connectors, (0.5, 0.2), R0
-- rawPart: J4, 1X04_1MM_RA, SparkFun-Connectors, (0.5, 0.8), R180
-- rawPart: R1, 10k, 0603, SparkFun-Resistors, (0.65, 0.65), R180
-- rawPart: R2, 10k, 0603, SparkFun-Resistors, (0.35, 0.65), R0
-- rawPart: SJ1, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.5, 0.9), MR180
-- rawPart: SJ2, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, TestAperatures, (0.5, 0.8), MR180
-- rawPart: SJ3, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.675, 0.2), MR180
-- rawPart: SJ4, SMT-JUMPER_3_1-NC_TRACE_SILK, SparkFun-Jumpers, (0.325, 0.2), MR180
-- rawPart: U1, MLX90393_MAGNETOMETER, QFN-16_WITH_AXIES, SparkFun-Sensors, (0.5, 0.5), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,
+- rawParts: C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
+- rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
+- rawParts: FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: J1,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Header 6,CONN-08437,,
+- rawParts: J2,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Header 6,CONN-08437,,
+- rawParts: J3,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,
+- rawParts: J4,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,
+- rawParts: LOGO3,REVISION,REVISION,REVISION,Revision By Text,,,
+- rawParts: R1,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,
+- rawParts: R2,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,
+- rawParts: SJ1,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,
+- rawParts: SJ2,,JUMPER-PAD-3-NC_BY_TRACE,PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,
+- rawParts: SJ3,,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,
+- rawParts: SJ4,,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: U1,MLX90393_MAGNETOMETER,MLX90393_MAGNETOMETER,QFN-16_WITH_AXIES,,SEN-13886,,
 
 
 

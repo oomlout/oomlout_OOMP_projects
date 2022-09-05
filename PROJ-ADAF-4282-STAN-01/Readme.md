@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-4282-STAN-01>Adafruit PiRTC DS3231 PCB](#proj-adaf-4282-stan-01adafruit-pirtc-ds3231-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,22 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90,B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90|
-|CAPC-0805-X-UNMATCHED-01, C1, 5.1308, 18.389599999999998, M180,C1, 10uF, 0805-NO, microbuilder, (0.202, 0.724), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 6.731, 10.795, M180,IC2, DS3231/SO, SO16W, adafruit, (0.265, 0.425), MR180|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0,RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0|
 
 ## Tags
 
@@ -54,26 +42,21 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-PiRTC-DS3231-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4282
 - oompID: PROJ-ADAF-4282-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.6802, 10.8204, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 5.1308, 18.389599999999998, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.3716, 18.846799999999998, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 18.694399999999998, 15.265399999999998, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 11.6332, 2.6923999999999997, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.2192, 20.2184, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 6.731, 10.795, M180
-- oompPart: HEAD-I01-X-PI02-01, JP1, 11.43, 18.668999999999997, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 16.0782, 10.4394, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 16.0782, 17.856199999999998, 180
-- rawPart: B1, CR1220, CR1220, microbuilder, (0.263, 0.426), R90
-- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.202, 0.724), MR180
-- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.054, 0.742), R180
-- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.736, 0.601), R180
-- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.458, 0.106), MR0
-- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.048, 0.796), MR0
-- rawPart: IC2, DS3231/SO, SO16W, adafruit, (0.265, 0.425), MR180
-- rawPart: JP1, 1X02_ROUND, microbuilder, (0.45, 0.735), R180
-- rawPart: RPI1, RASPBERRYPI_2X3, RASPBERRYPI_2X3_THMSMT, microbuilder, (0.633, 0.411), R0
-- rawPart: U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (0.633, 0.703), R180
+- oompParts: B1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: RPI1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: B1,CR1220,BATTERYCR1220_SMT,CR1220,CR1220 SMT - Digikey: 3001K-ND,,
+- rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: IC2,DS3231/SO,DS3231/SO,SO16W,,,
+- rawParts: JP1,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,
+- rawParts: RPI1,RASPBERRYPI_2X3,RASPBERRYPI_2X3,RASPBERRYPI_2X3_THMSMT,,,
+- rawParts: U$4,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,
 
 
 

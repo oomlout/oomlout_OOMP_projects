@@ -41,68 +41,44 @@
             "value": "PROJ-ADAF-5221-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, -16.383, 11.8745, 180"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 16.637, -12.1031, 180"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI09-01, JP3, 0.0, -18.415, 180"
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$25, 15.239999999999998, -15.239999999999998, 180"
+            "name": "rawParts",
+            "value": "FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$27, -15.239999999999998, -15.239999999999998, 180"
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$29, 15.239999999999998, 15.239999999999998, 180"
+            "name": "rawParts",
+            "value": "U$25,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$30, -15.239999999999998, 15.239999999999998, 180"
+            "name": "rawParts",
+            "value": "U$27,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 0.0, 0.0, M225"
+            "name": "rawParts",
+            "value": "U$29,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (-0.645, 0.4675), R180"
+            "name": "rawParts",
+            "value": "U$30,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.655, -0.4765), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP3, 1X09_ROUND_70, microbuilder, (0, -0.725), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$25, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, -0.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$27, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.6, -0.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$29, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.6, 0.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$30, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (-0.6, 0.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, ENCODER_ANO, ENCODER_ANO, adafruit_electromech, (0, 0), MR225"
+            "name": "rawParts",
+            "value": "X1,ENCODER_ANO,ENCODER_ANO,ENCODER_ANO,,,"
         },
         {
             "name": "oompID",

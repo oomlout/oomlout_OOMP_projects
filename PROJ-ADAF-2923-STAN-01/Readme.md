@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-2923-STAN-01>Adafruit Relay FeatherWing PCBs](#proj-adaf-2923-stan-01adafruit-relay-featherwing-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,32 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 23.622, 8.889999999999999, 90,C1, 10uF, 0805-NO, microbuilder, (0.93, 0.35), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 25.4, 9.398, 90,D1, 1N4148, SOD-323, microbuilder, (1, 0.37), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 20.827999999999996, 9.906, 270,D2, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.82, 0.39), R270|
-|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP2, 16.509999999999998, 10.16, 270,JP2, 1X01_ROUND, microbuilder, (0.65, 0.4), R270|
-|HEAD-I01-X-PI01-01, JP3, 16.509999999999998, 19.049999999999997, 0,JP3, 1X01_ROUND, microbuilder, (0.65, 0.75), R0|
-|HEAD-I01-X-PI11-01, JP4, 31.75, 19.049999999999997, 0,JP4, 1X11_ROUND, microbuilder, (1.25, 0.75), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, MICROSHIELD, MICROSHIELD, microbuilder, (0, 0), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 24.13, 13.97, 270,Q1, MMBT2222, SOT23-R, microbuilder, (0.95, 0.55), R270|
-|RESE-0805-X-UNMATCHED-01, R1, 19.304, 13.97, 90,R1, 1K, 0805-NO, microbuilder, (0.76, 0.55), R90|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-0805-X-UNMATCHED-01, R3, 20.827999999999996, 8.128, 0,R3, 1K, 0805-NO, microbuilder, (0.82, 0.32), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 10.413999999999998, 9.143999999999998, 180,SW1, kmr2, BTN_KMR2_4.6X2.8, microbuilder, (0.41, 0.36), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 34.036, 11.176, 0,X1, RELAY_NONLATCHING-EE2NUH, RELAY_EE2_NOLATCH, microbuilder, (1.34, 0.44), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 46.99, 11.43, 90,X2, TERMBLOCK_1X3-3.5MM, microbuilder, (1.85, 0.45), R90|
 
 ## Tags
 
@@ -64,42 +42,40 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2923
 - oompID: PROJ-ADAF-2923-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 23.622, 8.889999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 25.4, 9.398, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 20.827999999999996, 9.906, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.778, 6.095999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 46.482, 4.826, 0
-- oompPart: HEAD-I01-X-PI16-01, JP1, 25.4, 3.8099999999999996, 180
-- oompPart: HEAD-I01-X-PI01-01, JP2, 16.509999999999998, 10.16, 270
-- oompPart: HEAD-I01-X-PI01-01, JP3, 16.509999999999998, 19.049999999999997, 0
-- oompPart: HEAD-I01-X-PI11-01, JP4, 31.75, 19.049999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 24.13, 13.97, 270
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 19.304, 13.97, 90
-- oompPart: RESE-0805-X-O103-01, R2, 21.336, 13.97, 90
-- oompPart: RESE-0805-X-UNMATCHED-01, R3, 20.827999999999996, 8.128, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 23.622, 13.97, M270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 10.413999999999998, 9.143999999999998, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 34.036, 11.176, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 46.99, 11.43, 90
-- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.93, 0.35), R90
-- rawPart: D1, 1N4148, SOD-323, microbuilder, (1, 0.37), R90
-- rawPart: D2, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.82, 0.39), R270
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.07, 0.24), R0
-- rawPart: FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (1.83, 0.19), R0
-- rawPart: JP1, 1X16_ROUND, microbuilder, (1, 0.15), R180
-- rawPart: JP2, 1X01_ROUND, microbuilder, (0.65, 0.4), R270
-- rawPart: JP3, 1X01_ROUND, microbuilder, (0.65, 0.75), R0
-- rawPart: JP4, 1X11_ROUND, microbuilder, (1.25, 0.75), R0
-- rawPart: MS1, MICROSHIELD, MICROSHIELD, microbuilder, (0, 0), R0
-- rawPart: Q1, MMBT2222, SOT23-R, microbuilder, (0.95, 0.55), R270
-- rawPart: R1, 1K, 0805-NO, microbuilder, (0.76, 0.55), R90
-- rawPart: R2, 10K, 0805-NO, microbuilder, (0.84, 0.55), R90
-- rawPart: R3, 1K, 0805-NO, microbuilder, (0.82, 0.32), R0
-- rawPart: SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.93, 0.55), MR270
-- rawPart: SW1, kmr2, BTN_KMR2_4.6X2.8, microbuilder, (0.41, 0.36), R180
-- rawPart: X1, RELAY_NONLATCHING-EE2NUH, RELAY_EE2_NOLATCH, microbuilder, (1.34, 0.44), R0
-- rawPart: X2, TERMBLOCK_1X3-3.5MM, microbuilder, (1.85, 0.45), R90
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MS1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: D1,1N4148,DIODESOD-323,SOD-323,Diode,,
+- rawParts: D2,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP1,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,
+- rawParts: JP2,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,
+- rawParts: JP3,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,
+- rawParts: JP4,,HEADER-1X11,1X11_ROUND,,,
+- rawParts: MS1,MICROSHIELD,MICROSHIELD,MICROSHIELD,,,
+- rawParts: Q1,MMBT2222,TRANSISTOR_NPN,SOT23-R,NPN Transistor,,
+- rawParts: R1,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R3,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,
+- rawParts: SW1,kmr2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,
+- rawParts: X1,RELAY_NONLATCHING-EE2NUH,RELAY_NONLATCHING-EE2NUH,RELAY_EE2_NOLATCH,,,
+- rawParts: X2,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,
 
 
 

@@ -41,100 +41,108 @@
             "value": "PROJ-SPAR-10050-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 1.27, 42.179999968, 270"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 29.209999999999997, 42.179999968, 270"
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 22.86, 10.16, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 22.86, 3.8099999999999996, 270"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 7.619999999999999, 7.619999999999999, 90"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED1, 15.239999999999998, 10.16, 90"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED2, 15.239999999999998, 5.08, 90"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-O221-01, R1, 15.239999999999998, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-O221-01, R2, 15.239999999999998, 6.35, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 5.08, 1.27, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 16.509999999999998, 1.27, 0"
+            "name": "oompParts",
+            "value": "U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 15.239999999999998, 30.479999999999997, 0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "J1, M17, 1X17, SparkFun, (0.05, 1.66062992), R270"
+            "name": "rawParts",
+            "value": "J1,M17,M17,1X17,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J2, M17, 1X17, SparkFun, (1.15, 1.66062992), R270"
+            "name": "rawParts",
+            "value": "J2,M17,M17,1X17,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, SJ_2S-NO, SparkFun, (0.9, 0.4), R270"
+            "name": "rawParts",
+            "value": "JP1,,JUMPER-2SMD-NO,SJ_2S-NO,Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, SJ_2S-NO, SparkFun, (0.9, 0.15), R270"
+            "name": "rawParts",
+            "value": "JP2,,JUMPER-2SMD-NO,SJ_2S-NO,Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, JUMPER-31-2, SJ_3_PASTE1&2, SparkFun, (0.3, 0.3), R90"
+            "name": "rawParts",
+            "value": "JP3,JUMPER-31-2,JUMPER-31-2,SJ_3_PASTE1&2,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, GREEN, LED-0603, SparkFun, (0.6, 0.4), R90"
+            "name": "rawParts",
+            "value": "LED1,GREEN,LED0603,LED-0603,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, RED, LED-0603, SparkFun, (0.6, 0.2), R90"
+            "name": "rawParts",
+            "value": "LED2,RED,LED0603,LED-0603,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 220, 0402-RES, SparkFun, (0.6, 0.35), R0"
+            "name": "rawParts",
+            "value": "R1,220,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 220, 0402-RES, SparkFun, (0.6, 0.25), R0"
+            "name": "rawParts",
+            "value": "R2,220,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.05), R0"
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.65, 0.05), R0"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, RN-131G, RN-131G, SparkFun, (0.6, 1.2), R0"
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,RN-131G,RN-131G,RN-131G,Roving Netowrks WiFLy GSX Module,,"
         },
         {
             "name": "oompID",

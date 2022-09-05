@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-2884-STAN-01>Adafruit FeatherWing Proto Doubler Tripler and Quad](#proj-adaf-2884-stan-01adafruit-featherwing-proto-doubler-tripler-and-quad)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,26 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS2, 0.0, 24.13, 0,MS2, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0.95), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS3, 0.0, 48.26, 0,MS3, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 1.9), R0|
 
 ## Tags
 
@@ -58,24 +42,24 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2884
 - oompID: PROJ-ADAF-2884-STAN-01
-- oompPart: HEAD-I01-X-PI12-01, JP1, 30.479999999999997, 19.049999999999997, 0
-- oompPart: HEAD-I01-X-PI16-01, JP2, 25.4, 27.94, 180
-- oompPart: HEAD-I01-X-PI16-01, JP3, 25.4, 3.8099999999999996, 180
-- oompPart: HEAD-I01-X-PI12-01, JP4, 30.479999999999997, 43.18, 0
-- oompPart: HEAD-I01-X-PI12-01, JP5, 30.479999999999997, 67.30999999999999, 0
-- oompPart: HEAD-I01-X-PI16-01, JP6, 25.4, 52.06999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS2, 0.0, 24.13, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS3, 0.0, 48.26, 0
-- rawPart: JP1, 1X12_ROUND_76MIL, microbuilder, (1.2, 0.75), R0
-- rawPart: JP2, 1X16_ROUND_76MIL, microbuilder, (1, 1.1), R180
-- rawPart: JP3, 1X16_ROUND_76MIL, microbuilder, (1, 0.15), R180
-- rawPart: JP4, 1X12_ROUND_76MIL, microbuilder, (1.2, 1.7), R0
-- rawPart: JP5, 1X12_ROUND_76MIL, microbuilder, (1.2, 2.65), R0
-- rawPart: JP6, 1X16_ROUND_76MIL, microbuilder, (1, 2.05), R180
-- rawPart: MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0), R0
-- rawPart: MS2, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 0.95), R0
-- rawPart: MS3, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (0, 1.9), R0
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MS1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MS2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MS3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,
+- rawParts: JP2,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,
+- rawParts: JP3,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,
+- rawParts: JP4,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,
+- rawParts: JP5,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,
+- rawParts: JP6,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,
+- rawParts: MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,
+- rawParts: MS2,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,
+- rawParts: MS3,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,
 
 
 

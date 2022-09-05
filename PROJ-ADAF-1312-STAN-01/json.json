@@ -41,60 +41,60 @@
             "value": "PROJ-ADAF-1312-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, 2.921, 3.937, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, -5.08, 0.0, 90"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP2, 5.08, 0.0, 270"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, -2.921, 3.937, 180"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 2.921, -3.937, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R3, -2.921, -3.937, 180"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, C0603K, adafruit, (0.115, 0.155), R0"
+            "name": "rawParts",
+            "value": "C1,1uF,C-USC0603K,C0603K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X03-CLEANBIG, adafruit, (-0.2, 0), R90"
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X03-CLEANBIG, adafruit, (0.2, 0), R270"
+            "name": "rawParts",
+            "value": "JP2,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, WS28115050, WS28115050, microbuilder, (0, 0), R0"
+            "name": "rawParts",
+            "value": "LED1,WS28115050,WS28115050,WS28115050,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 1.0K, R0603, adafruit, (-0.115, 0.155), R180"
+            "name": "rawParts",
+            "value": "R1,1.0K,R-US_R0603,R0603,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 22, R0603, adafruit, (0.115, -0.155), R0"
+            "name": "rawParts",
+            "value": "R2,22,R-US_R0603,R0603,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 22, R0603, adafruit, (-0.115, -0.155), R180"
+            "name": "rawParts",
+            "value": "R3,22,R-US_R0603,R0603,RESISTOR, American symbol,,"
         },
         {
             "name": "oompID",

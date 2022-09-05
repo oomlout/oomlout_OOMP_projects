@@ -41,164 +41,148 @@
             "value": "PROJ-ADAF-2926-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI12-01, JP1, 5.08, 7.619999999999999, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI16-01, JP3, 0.0, -7.619999999999999, 180"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, -25.4, -11.43, 0"
+            "name": "oompParts",
+            "value": "MS1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 29.717999999999996, 0.0, 90"
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, -29.209999999999997, 10.16, 0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, -29.209999999999997, -10.16, 0"
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 29.209999999999997, -10.16, 0"
+            "name": "oompParts",
+            "value": "X3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 29.209999999999997, 10.16, 0"
+            "name": "oompParts",
+            "value": "X4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, -24.665999944, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 24.3340001, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, -24.439999888, 17.83999988, 180"
+            "name": "oompParts",
+            "value": "X7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X4, 24.559999901999998, 17.83999988, 180"
+            "name": "oompParts",
+            "value": "X8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X5, -15.915999917999999, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X6, -5.41600009, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X7, 5.083999992, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X8, 15.584000073999999, -17.695999913999998, 0"
+            "name": "oompParts",
+            "value": "X12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X9, -15.690000115999998, 17.83999988, 180"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X10, -5.190000034, 17.83999988, 180"
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X11, 5.310000048, 17.83999988, 180"
+            "name": "rawParts",
+            "value": "MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X12, 15.809999876000001, 17.83999988, 180"
+            "name": "rawParts",
+            "value": "S2,OS102011MA1Q,OS102011MA1Q,OS102011MA1Q,OS10201MA1Q through-hole right angle switch,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X12_ROUND_76MIL, microbuilder, (0.2, 0.3), R0"
+            "name": "rawParts",
+            "value": "U$2,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X16_ROUND_76MIL, microbuilder, (0, -0.3), R180"
+            "name": "rawParts",
+            "value": "U$3,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "MS1, FEATHERWING_NODIM, FEATHERWING_DIM, microbuilder, (-1, -0.45), R0"
+            "name": "rawParts",
+            "value": "U$4,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "S2, OS102011MA1Q, OS102011MA1Q, adafruit, (1.17, 0), R90"
+            "name": "rawParts",
+            "value": "U$5,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (-1.15, 0.4), R0"
+            "name": "rawParts",
+            "value": "X1,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$3, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (-1.15, -0.4), R0"
+            "name": "rawParts",
+            "value": "X2,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$4, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (1.15, -0.4), R0"
+            "name": "rawParts",
+            "value": "X3,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$5, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (1.15, 0.4), R0"
+            "name": "rawParts",
+            "value": "X4,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X1, TERMBLOCK_1X2-3.5MM, microbuilder, (-0.97110236, -0.69669291), R0"
+            "name": "rawParts",
+            "value": "X5,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.9580315, -0.69669291), R0"
+            "name": "rawParts",
+            "value": "X6,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X3, TERMBLOCK_1X2-3.5MM, microbuilder, (-0.96220472, 0.7023622), R180"
+            "name": "rawParts",
+            "value": "X7,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X4, TERMBLOCK_1X2-3.5MM, microbuilder, (0.96692913, 0.7023622), R180"
+            "name": "rawParts",
+            "value": "X8,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X5, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.62661417, -0.69669291), R0"
+            "name": "rawParts",
+            "value": "X9,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X6, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.21322835, -0.69669291), R0"
+            "name": "rawParts",
+            "value": "X10,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X7, TERMBLOCK_1X3-3.5MM, microbuilder, (0.20015748, -0.69669291), R0"
+            "name": "rawParts",
+            "value": "X11,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "X8, TERMBLOCK_1X3-3.5MM, microbuilder, (0.61354331, -0.69669291), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X9, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.61771654, 0.7023622), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X10, TERMBLOCK_1X3-3.5MM, microbuilder, (-0.20433071, 0.7023622), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X11, TERMBLOCK_1X3-3.5MM, microbuilder, (0.20905512, 0.7023622), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X12, TERMBLOCK_1X3-3.5MM, microbuilder, (0.62244094, 0.7023622), R180"
+            "name": "rawParts",
+            "value": "X12,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,"
         },
         {
             "name": "oompID",

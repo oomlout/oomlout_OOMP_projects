@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12708-STAN-01>RTC-Module](#proj-spar-12708-stan-01rtc-module)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0,BAT1, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.375, 0.45), MR0|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.7, 15.239999999999998, 180,Q1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (0.5, 0.6), R180|
-|RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 7.365999999999999, 0,R1, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.29), R0|
-|RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 7.365999999999999, 0,R2, 4.7k, 0603, SparkFun-Resistors, (0.15, 0.29), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 12.7, 180,U1, DS1307, SO08-TIGHT, SparkFun-FreqCtrl, (0.3, 0.5), R180|
 
 ## Tags
 
@@ -56,26 +42,32 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RTC-Module (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12708
 - oompID: PROJ-SPAR-12708-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0
-- oompPart: CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 8.889999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, E$1, 0.8636, 2.667, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, E$2, 17.8816, 14.173200000000001, 0
-- oompPart: HEAD-I01-X-PI05-01, JP1, 12.7, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.7, 15.239999999999998, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 7.365999999999999, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 7.365999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 16.509999999999998, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 12.7, 180
-- rawPart: BAT1, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.375, 0.45), MR0
-- rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.35), R0
-- rawPart: E$1, FIDUCIAL-1X2, SparkFun, (0.034, 0.105), R0
-- rawPart: E$2, FIDUCIAL-1X2, SparkFun, (0.704, 0.558), R0
-- rawPart: JP1, 1X05, SparkFun, (0.5, 0.05), R180
-- rawPart: Q1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (0.5, 0.6), R180
-- rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.29), R0
-- rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.15, 0.29), R0
-- rawPart: SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.65, 0.25), R90
-- rawPart: U1, DS1307, SO08-TIGHT, SparkFun-FreqCtrl, (0.3, 0.5), R180
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,,BATTERY12PTH,BATTCON_12MM_PTH,Battery Holders,,,
+- rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,,M05PTH,1X05,Header 5,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: Q1,32.768kHz,CRYSTAL32-SMD,CRYSTAL-32KHZ-SMD,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,,,
+- rawParts: R1,4.7k,4.7KOHM1/10W1%(0603),0603,RES-07857,RES-07857,,
+- rawParts: R2,4.7k,4.7KOHM1/10W1%(0603),0603,RES-07857,RES-07857,,
+- rawParts: SJ2,,SOLDERJUMPER_2WAYPASTE1&2&3,SJ_3_PASTE1&2&3,Solder Jumper,,,
+- rawParts: U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,
+- rawParts: U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U1,DS1307,DS1307SO8-TIGHT,SO08-TIGHT,I2C real-time clock with battery backup.,,,
 
 
 

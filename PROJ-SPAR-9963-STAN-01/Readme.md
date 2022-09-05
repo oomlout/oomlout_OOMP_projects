@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-9963-STAN-01>RFID USB Reader](#proj-spar-9963-stan-01rfid-usb-reader)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,37 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180,BUZZ, buzz, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.5, 0.25), MR180|
-|CAPC-0603-X-UF22D-01, C1, 34.29, 1.27, 180,C1, 2.2uF, 0603, SparkFun-Capacitors, (1.35, 0.05), R180|
-|CAPC-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270,C4, 10nF, 0603, SparkFun-Capacitors, (0.39, 1.085), R270|
-|CAPE-0603-X-UNMATCHED-01, C5, 12.7, 28.575, 180,C5, 470nF, 0603, SparkFun-Capacitors, (0.5, 1.125), R180|
-|CAPC-0603-X-UNMATCHED-01, C6, 12.7, 26.669999999999998, 0,C6, 10uF, 0603-POLAR, SparkFun-Capacitors, (0.5, 1.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 49.529999999999994, 7.619999999999999, 90,J1, 1X07, SparkFun-Connectors, (1.95, 0.3), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J10, 7.619999999999999, 15.239999999999998, 270,J10, USB-C-16P, SparkFun-Connectors, (0.3, 0.6), R270|
-|HEAD-I01-X-PI2-01, JP1, 39.37, 26.669999999999998, M0,JP1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.55, 1.05), MR0|
-|HEAD-I01-X-PI2-01, JP2, 5.08, 5.08, 0,JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.2), R0|
-|HEAD-I01-X-PI2-01, JP3, 39.37, 26.669999999999998, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.55, 1.05), R0|
-|HEAD-I01-X-PI2-01, JP5, 5.08, 5.08, M0,JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.2), MR0|
-|UNMATCHED-0603-X-UNMATCHED-01, LED1, 2.54, 6.985, 0,LED1, BLUE, LED-0603, SparkFun-LED, (0.1, 0.275), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.239999999999998, 13.334999999999999, 90,Q1, 600mA/40V, SOT23-3, SparkFun-DiscreteSemi, (0.6, 0.525), R90|
-|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 10.795, 90,R2, 180, 0603, SparkFun-Resistors, (0.7, 0.425), R90|
-|RESE-0603-X-UNMATCHED-01, R3, 2.54, 8.889999999999999, 0,R3, 5.1k, 0603, SparkFun-Resistors, (0.1, 0.35), R0|
-|RESE-0603-X-UNMATCHED-01, R10, 2.54, 21.59, 0,R10, 5.1k, 0603, SparkFun-Resistors, (0.1, 0.85), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 12.7, 6.35, 270,SG1, BUZZER-SMD, BUZZER-CCV, SparkFun-Electromechanical, (0.5, 0.25), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.75, 15.239999999999998, 0,U1, ID-12/20SMD, ID-12_SMD, SparkFun-RF, (1.25, 0.6), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 12.7, 20.32, 270,U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.8), R270|
 
 ## Tags
 
@@ -69,46 +42,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9963
 - oompID: PROJ-SPAR-9963-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BUZZ, 12.7, 6.35, M180
-- oompPart: CAPC-0603-X-UF22D-01, C1, 34.29, 1.27, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 9.906, 27.558999999999997, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 12.7, 28.575, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 12.7, 26.669999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 49.529999999999994, 7.619999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J10, 7.619999999999999, 15.239999999999998, 270
-- oompPart: HEAD-I01-X-PI2-01, JP1, 39.37, 26.669999999999998, M0
-- oompPart: HEAD-I01-X-PI2-01, JP2, 5.08, 5.08, 0
-- oompPart: HEAD-I01-X-PI2-01, JP3, 39.37, 26.669999999999998, 0
-- oompPart: HEAD-I01-X-PI2-01, JP5, 5.08, 5.08, M0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED1, 2.54, 6.985, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.239999999999998, 13.334999999999999, 90
-- oompPart: RESE-0603-X-O331-01, R1, 5.08, 7.9375, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 17.779999999999998, 10.795, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 2.54, 8.889999999999999, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R10, 2.54, 21.59, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 12.7, 6.35, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.75, 15.239999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U5, 12.7, 20.32, 270
-- rawPart: BUZZ, buzz, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.5, 0.25), MR180
-- rawPart: C1, 2.2uF, 0603, SparkFun-Capacitors, (1.35, 0.05), R180
-- rawPart: C4, 10nF, 0603, SparkFun-Capacitors, (0.39, 1.085), R270
-- rawPart: C5, 470nF, 0603, SparkFun-Capacitors, (0.5, 1.125), R180
-- rawPart: C6, 10uF, 0603-POLAR, SparkFun-Capacitors, (0.5, 1.05), R0
-- rawPart: J1, 1X07, SparkFun-Connectors, (1.95, 0.3), R90
-- rawPart: J10, USB-C-16P, SparkFun-Connectors, (0.3, 0.6), R270
-- rawPart: JP1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.55, 1.05), MR0
-- rawPart: JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.2), R0
-- rawPart: JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.55, 1.05), R0
-- rawPart: JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.2), MR0
-- rawPart: LED1, BLUE, LED-0603, SparkFun-LED, (0.1, 0.275), R0
-- rawPart: Q1, 600mA/40V, SOT23-3, SparkFun-DiscreteSemi, (0.6, 0.525), R90
-- rawPart: R1, 330, 0603, SparkFun-Resistors, (0.2, 0.3125), R270
-- rawPart: R2, 180, 0603, SparkFun-Resistors, (0.7, 0.425), R90
-- rawPart: R3, 5.1k, 0603, SparkFun-Resistors, (0.1, 0.35), R0
-- rawPart: R10, 5.1k, 0603, SparkFun-Resistors, (0.1, 0.85), R0
-- rawPart: SG1, BUZZER-SMD, BUZZER-CCV, SparkFun-Electromechanical, (0.5, 0.25), R270
-- rawPart: U1, ID-12/20SMD, ID-12_SMD, SparkFun-RF, (1.25, 0.6), R0
-- rawPart: U5, CH340C, SO016, SparkFun-IC-Comms, (0.5, 0.8), R270
 
 
 

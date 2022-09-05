@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-10111-STAN-01>Tri-Color Breakout](#proj-spar-10111-stan-01tri-color-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,30 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -6.985, 270,LED1, Red, LED10MM, SparkFun, (0, -0.275), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, -5.968999999999999, 3.429, 150,LED2, Green, LED10MM, SparkFun, (-0.235, 0.135), R150|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 5.968999999999999, 3.429, 30,LED3, Blue, LED10MM, SparkFun, (0.235, 0.135), R30|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -8.762999999999998, -5.08, 120,Q1, 2N3904, TO-92, SparkFun, (-0.345, -0.2), R120|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 0.0, 10.16, 0,Q2, 2N3904, TO-92, SparkFun, (0, 0.4), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.889999999999999, -5.08, 240,Q3, 2N3904, TO-92, SparkFun, (0.35, -0.2), R240|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 0.0, -13.97, 180,R1, 36, AXIAL-0.4, SparkFun, (0, -0.55), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R2, -11.937999999999999, 6.985, 60,R2, 22, AXIAL-0.4, SparkFun, (-0.47, 0.275), R60|
-|RESE-UNMATCHED-X-UNMATCHED-01, R3, 11.937999999999999, 6.985, 300,R3, 22, AXIAL-0.4, SparkFun, (0.47, 0.275), R300|
-|RESE-UNMATCHED-X-O331-01, R4, -12.065, -6.985, 120,R4, 330, AXIAL-0.3, SparkFun, (-0.475, -0.275), R120|
-|RESE-UNMATCHED-X-O331-01, R5, 0.0, 13.97, 0,R5, 330, AXIAL-0.3, SparkFun, (0, 0.55), R0|
-|RESE-UNMATCHED-X-O331-01, R6, 12.191999999999998, -6.985, 240,R6, 330, AXIAL-0.3, SparkFun, (0.48, -0.275), R240|
 
 ## Tags
 
@@ -62,32 +42,48 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Tri-Color_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10111
 - oompID: PROJ-SPAR-10111-STAN-01
-- oompPart: HEAD-I01-X-PI05-01, JP6, -5.08, 20.32, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -6.985, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, -5.968999999999999, 3.429, 150
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 5.968999999999999, 3.429, 30
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -8.762999999999998, -5.08, 120
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 0.0, 10.16, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.889999999999999, -5.08, 240
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 0.0, -13.97, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, -11.937999999999999, 6.985, 60
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R3, 11.937999999999999, 6.985, 300
-- oompPart: RESE-UNMATCHED-X-O331-01, R4, -12.065, -6.985, 120
-- oompPart: RESE-UNMATCHED-X-O331-01, R5, 0.0, 13.97, 0
-- oompPart: RESE-UNMATCHED-X-O331-01, R6, 12.191999999999998, -6.985, 240
-- rawPart: JP6, 1X05, SparkFun, (-0.2, 0.8), R0
-- rawPart: LED1, Red, LED10MM, SparkFun, (0, -0.275), R270
-- rawPart: LED2, Green, LED10MM, SparkFun, (-0.235, 0.135), R150
-- rawPart: LED3, Blue, LED10MM, SparkFun, (0.235, 0.135), R30
-- rawPart: Q1, 2N3904, TO-92, SparkFun, (-0.345, -0.2), R120
-- rawPart: Q2, 2N3904, TO-92, SparkFun, (0, 0.4), R0
-- rawPart: Q3, 2N3904, TO-92, SparkFun, (0.35, -0.2), R240
-- rawPart: R1, 36, AXIAL-0.4, SparkFun, (0, -0.55), R180
-- rawPart: R2, 22, AXIAL-0.4, SparkFun, (-0.47, 0.275), R60
-- rawPart: R3, 22, AXIAL-0.4, SparkFun, (0.47, 0.275), R300
-- rawPart: R4, 330, AXIAL-0.3, SparkFun, (-0.475, -0.275), R120
-- rawPart: R5, 330, AXIAL-0.3, SparkFun, (0, 0.55), R0
-- rawPart: R6, 330, AXIAL-0.3, SparkFun, (0.48, -0.275), R240
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP6,,M05PTH,1X05,Header 5,,
+- rawParts: JP7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: LED1,Red,LED10MM,LED10MM,LEDs,,
+- rawParts: LED2,Green,LED10MM,LED10MM,LEDs,,
+- rawParts: LED3,Blue,LED10MM,LED10MM,LEDs,,
+- rawParts: Q1,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,
+- rawParts: Q2,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,
+- rawParts: Q3,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,
+- rawParts: R1,36,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,
+- rawParts: R2,22,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,
+- rawParts: R3,22,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,
+- rawParts: R4,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,
+- rawParts: R5,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,
+- rawParts: R6,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,
+- rawParts: U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U$6,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
 
 
 

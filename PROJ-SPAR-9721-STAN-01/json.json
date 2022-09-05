@@ -41,54 +41,6 @@
             "value": "PROJ-SPAR-9721-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, 13.97, 8.889999999999999, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 12.7, 8.889999999999999, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 11.176, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 15.239999999999998, 6.35, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI07-01, JP1, 1.27, 1.27, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 8.889999999999999, 270"
-        },
-        {
-            "name": "rawPart",
-            "value": "C1, 1uF, 0603-CAP, SparkFun, (0.55, 0.35), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "C2, 1uF, 0603-CAP, SparkFun, (0.5, 0.35), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.15, 0.44), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.6, 0.25), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, 1X07, SparkFun, (0.05, 0.05), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, MPL115A, LGA8, SparkFun, (0.35, 0.35), R270"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-9721-STAN-01"
         },

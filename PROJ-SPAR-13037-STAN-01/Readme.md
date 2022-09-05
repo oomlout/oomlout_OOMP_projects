@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13037-STAN-01>Edison Battery Block](#proj-spar-13037-stan-01edison-battery-block)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,31 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180,C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.48), R180|
-|CAPC-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270,C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.21, 1.55), R270|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 1.016, 35.81399999999999, 180,D1, RED, LED-0603, SparkFun-LED, (0.04, 1.41), R180|
-|UNMATCHED-0603-X-UNMATCHED-01, D2, 1.016, 8.382, 180,D2, BLUE, LED-0603, SparkFun-LED, (0.04, 0.33), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 42.291, 270,JP1, USB_MICROB_PLUG, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.6, 1.665), R270|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R1, 9.906, 38.862, 270,R1, 2.0k, 0603-RES, SparkFun-Resistors, (0.39, 1.53), R270|
-|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R3, 1.016, 5.08, 270,R3, 1k, 0603-RES, SparkFun-Resistors, (0.04, 0.2), R270|
-|ERROR, SJ1 LED DISABLE, 0, 0, 0,SJ1, LED, DISABLE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.195, 0.625), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 1.9049999999999998, 21.843999999999998, 270,SW1, SWITCH_SPDT, KPS-1290, SparkFun-Electromechanical, (0.075, 0.86), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 39.37, 180,U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.3, 1.55), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 3.8099999999999996, M0,U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 24.639999996, 16.1798, M90,U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90|
 
 ## Tags
 
@@ -63,42 +42,46 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_Battery_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13037
 - oompID: PROJ-SPAR-13037-STAN-01
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 15.239999999999998, 37.592, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 5.334, 39.37, 270
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 1.016, 35.81399999999999, 180
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 1.016, 8.382, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 3.8099999999999996, 5.08, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 25.4, 43.18, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 3.8099999999999996, 5.08, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 25.4, 43.18, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 15.239999999999998, 42.291, 270
-- oompPart: HEAD-I01-X-PI02-01, JP3, 5.968999999999999, 42.799, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 9.906, 38.862, 270
-- oompPart: RESE-0603-X-O331-01, R2, 1.016, 39.116, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 1.016, 5.08, 270
-- oompPart: ERROR, SJ1 LED DISABLE, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 1.9049999999999998, 21.843999999999998, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 39.37, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 3.8099999999999996, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 24.639999996, 16.1798, M90
-- rawPart: C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.6, 1.48), R180
-- rawPart: C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (0.21, 1.55), R270
-- rawPart: D1, RED, LED-0603, SparkFun-LED, (0.04, 1.41), R180
-- rawPart: D2, BLUE, LED-0603, SparkFun-LED, (0.04, 0.33), R180
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.15, 0.2), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), R0
-- rawPart: FID3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.15, 0.2), MR0
-- rawPart: FID4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), MR0
-- rawPart: JP1, USB_MICROB_PLUG, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.6, 1.665), R270
-- rawPart: JP3, M02PTH, 1X02, SparkFun-Connectors, (0.235, 1.685), R0
-- rawPart: R1, 2.0k, 0603-RES, SparkFun-Resistors, (0.39, 1.53), R270
-- rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.04, 1.54), R90
-- rawPart: R3, 1k, 0603-RES, SparkFun-Resistors, (0.04, 0.2), R270
-- rawPart: SJ1, LED, DISABLE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.195, 0.625), R90
-- rawPart: SW1, SWITCH_SPDT, KPS-1290, SparkFun-Electromechanical, (0.075, 0.86), R270
-- rawPart: U1, MCP73831, SOT23-5, SparkFun-PowerIC, (0.3, 1.55), R180
-- rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
-- rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,
+- rawParts: C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,
+- rawParts: D2,BLUE,LED-BLUE0603,LED-0603,Blue LEDs for production use,DIO-08575,BLUE,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,USB_MICROB_PLUG,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,CONN-11752,,
+- rawParts: JP3,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,
+- rawParts: R1,2.0k,2.0KOHM1/10W5%(0603),0603-RES,RES-08296,RES-08296,2.0k,
+- rawParts: R2,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,
+- rawParts: R3,1k,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,
+- rawParts: SJ1,LED DISABLE,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SW1,SWITCH_SPDT,SWITCH_SPDT,KPS-1290,SWCH-10651,SWCH-10651,,
+- rawParts: U1,MCP73831,MCP73831,SOT23-5,Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller,IC-09995,,
+- rawParts: U2,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,
+- rawParts: U3,EDISON_CONNECTOR_FULLHEADER,EDISON_CONNECTOR_FULLHEADER,DF40C-70DP-0.4(51),,,,
 
 
 

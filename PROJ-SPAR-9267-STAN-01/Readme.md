@@ -7,7 +7,6 @@ Contents
 
 * [PROJ-SPAR-9267-STAN-01>LilyPad Accelerometer-ADXL335](#proj-spar-9267-stan-01lilypad-accelerometer-adxl335)
 	* [Images](#images)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,25 +23,7 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0402-X-NF100-V50, C1, 0.0, -4.49999989, 180,C1, 0.1uF, 0402-CAP, SparkFun, (0, -0.17716535), R180|
-|CAPC-0402-X-NF100-V50, C2, -3.9000000739999994, -2.2500000719999997, 300,C2, 0.1uF, 0402-CAP, SparkFun, (-0.15354331, -0.08858268), R300|
-|CAPC-0402-X-NF100-V50, C3, -3.9000000739999994, 2.2500000719999997, 240,C3, 0.1uF, 0402-CAP, SparkFun, (-0.15354331, 0.08858268), R240|
-|CAPC-0402-X-NF100-V50, C4, 0.0, 4.49999989, 0,C4, 0.1uF, 0402-CAP, SparkFun, (0, 0.17716535), R0|
-|CAPC-0402-X-NF100-V50, C5, 3.9000000739999994, 2.2500000719999997, 300,C5, 0.1uF, 0402-CAP, SparkFun, (0.15354331, 0.08858268), R300|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, -7.499999985999999, 0,J1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, -0.29527559), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, -6.499999954, 3.75000012, 240,J2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25590551, 0.1476378), R240|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 0.0, 7.499999985999999, 180,J3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 6.489999974, -3.75000012, 60,J4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25551181, -0.1476378), R60|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 6.489999974, 3.75000012, 120,J5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25551181, 0.1476378), R120|
-|RESE-0402-X-UNMATCHED-01, R1, 3.9000000739999994, -2.2500000719999997, 240,R1, 0, 0402-RES, SparkFun, (0.15354331, -0.08858268), R240|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270,U1, ADXL335, LFCSP-16, SparkFun, (0, 0), R270|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Tags
 
@@ -56,30 +37,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9267
 - oompID: PROJ-SPAR-9267-STAN-01
-- oompPart: CAPC-0402-X-NF100-V50, C1, 0.0, -4.49999989, 180
-- oompPart: CAPC-0402-X-NF100-V50, C2, -3.9000000739999994, -2.2500000719999997, 300
-- oompPart: CAPC-0402-X-NF100-V50, C3, -3.9000000739999994, 2.2500000719999997, 240
-- oompPart: CAPC-0402-X-NF100-V50, C4, 0.0, 4.49999989, 0
-- oompPart: CAPC-0402-X-NF100-V50, C5, 3.9000000739999994, 2.2500000719999997, 300
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 0.0, -7.499999985999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, -6.499999954, 3.75000012, 240
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 0.0, 7.499999985999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 6.489999974, -3.75000012, 60
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 6.489999974, 3.75000012, 120
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 3.9000000739999994, -2.2500000719999997, 240
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270
-- rawPart: C1, 0.1uF, 0402-CAP, SparkFun, (0, -0.17716535), R180
-- rawPart: C2, 0.1uF, 0402-CAP, SparkFun, (-0.15354331, -0.08858268), R300
-- rawPart: C3, 0.1uF, 0402-CAP, SparkFun, (-0.15354331, 0.08858268), R240
-- rawPart: C4, 0.1uF, 0402-CAP, SparkFun, (0, 0.17716535), R0
-- rawPart: C5, 0.1uF, 0402-CAP, SparkFun, (0.15354331, 0.08858268), R300
-- rawPart: J1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, -0.29527559), R0
-- rawPart: J2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25590551, 0.1476378), R240
-- rawPart: J3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.29527559), R180
-- rawPart: J4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25551181, -0.1476378), R60
-- rawPart: J5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25551181, 0.1476378), R120
-- rawPart: R1, 0, 0402-RES, SparkFun, (0.15354331, -0.08858268), R240
-- rawPart: U1, ADXL335, LFCSP-16, SparkFun, (0, 0), R270
 
 
 

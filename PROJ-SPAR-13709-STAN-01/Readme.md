@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13709-STAN-01>MyoWare Proto Shield](#proj-spar-13709-stan-01myoware-proto-shield)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,36 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP8</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP9</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP10</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP11</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP12</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP13</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP14</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP15</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP16</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP17</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP18</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP19</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 
 ## Tags
 
@@ -68,44 +42,54 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MyoWare_Proto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13709
 - oompID: PROJ-SPAR-13709-STAN-01
-- oompPart: HEAD-I01-X-PI03-01, JP1, -21.971, 2.54, 270
-- oompPart: HEAD-I01-X-PI03-01, JP2, -24.511, 2.54, 270
-- oompPart: HEAD-I01-X-PI08-01, JP3, -17.779999999999998, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP4, -15.239999999999998, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP5, -12.7, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP6, -10.16, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP7, -7.619999999999999, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP8, -5.08, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP9, -2.54, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP10, 0.0, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP11, 2.54, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP12, 5.08, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP13, 7.619999999999999, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP14, 10.16, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP15, 12.7, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP16, 15.239999999999998, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI08-01, JP17, 17.779999999999998, -8.889999999999999, 90
-- oompPart: HEAD-I01-X-PI03-01, JP18, 22.0345, 2.54, 270
-- oompPart: HEAD-I01-X-PI03-01, JP19, 24.5745, 2.54, 270
-- rawPart: JP1, Raw, 1X03_NO_SILK, SparkFun-Connectors, (-0.865, 0.1), R270
-- rawPart: JP2, Raw, 1X03_NO_SILK, SparkFun-Connectors, (-0.965, 0.1), R270
-- rawPart: JP3, 1X08_NO_SILK, SparkFun-Connectors, (-0.7, -0.35), R90
-- rawPart: JP4, 1X08_NO_SILK, SparkFun-Connectors, (-0.6, -0.35), R90
-- rawPart: JP5, 1X08_NO_SILK, SparkFun-Connectors, (-0.5, -0.35), R90
-- rawPart: JP6, 1X08_NO_SILK, SparkFun-Connectors, (-0.4, -0.35), R90
-- rawPart: JP7, 1X08_NO_SILK, SparkFun-Connectors, (-0.3, -0.35), R90
-- rawPart: JP8, 1X08_NO_SILK, SparkFun-Connectors, (-0.2, -0.35), R90
-- rawPart: JP9, 1X08_NO_SILK, SparkFun-Connectors, (-0.1, -0.35), R90
-- rawPart: JP10, 1X08_NO_SILK, SparkFun-Connectors, (0, -0.35), R90
-- rawPart: JP11, 1X08_NO_SILK, SparkFun-Connectors, (0.1, -0.35), R90
-- rawPart: JP12, 1X08_NO_SILK, SparkFun-Connectors, (0.2, -0.35), R90
-- rawPart: JP13, 1X08_NO_SILK, SparkFun-Connectors, (0.3, -0.35), R90
-- rawPart: JP14, 1X08_NO_SILK, SparkFun-Connectors, (0.4, -0.35), R90
-- rawPart: JP15, 1X08_NO_SILK, SparkFun-Connectors, (0.5, -0.35), R90
-- rawPart: JP16, 1X08_NO_SILK, SparkFun-Connectors, (0.6, -0.35), R90
-- rawPart: JP17, 1X08_NO_SILK, SparkFun-Connectors, (0.7, -0.35), R90
-- rawPart: JP18, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.8675, 0.1), R270
-- rawPart: JP19, Power, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,Raw,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,
+- rawParts: JP2,Raw,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,
+- rawParts: JP3,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP4,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP5,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP6,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP7,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP8,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP9,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP10,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP11,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP12,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP13,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP14,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP15,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP16,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP17,,M08NO_SILK,1X08_NO_SILK,Header 8,,
+- rawParts: JP18,Power,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,
+- rawParts: JP19,Power,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,
+- rawParts: JP20,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: JP21,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,
 
 
 

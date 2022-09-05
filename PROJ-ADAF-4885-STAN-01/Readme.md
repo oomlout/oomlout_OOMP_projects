@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-4885-STAN-01>Adafruit SHT40 PCB](#proj-adaf-4885-stan-01adafruit-sht40-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,29 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 7.619999999999999, 6.095999999999999, 0,C2, 10uF, 0805-NO, microbuilder, (0.3, 0.24), R0|
-|CAPC-0805-X-UNMATCHED-01, C3, 8.001, 12.827, 0,C3, 10uF, 0805-NO, microbuilder, (0.315, 0.505), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.733, 8.889999999999999, 90,CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.895, 0.35), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.667, 8.889999999999999, 270,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.105, 0.35), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.556, 12.572999999999999, 90,D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 17.0815, 6.095999999999999, 90,Q2, BSS138, SOT363, microbuilder, (0.6725, 0.24), R90|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-O103-01, R3, 17.525999999999996, 11.43, 180,R3, 10K, RESPACK_4X0603, microbuilder, (0.69, 0.45), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 7.874, 9.524999999999999, 0,U2, AP2112K-3.3, SOT23-5, microbuilder, (0.31, 0.375), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 12.7, 8.889999999999999, 180,X1, SHT4X_, SHT4X, adafruit_sensor, (0.5, 0.35), R180|
 
 ## Tags
 
@@ -61,42 +42,36 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-SHT40-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4885
 - oompID: PROJ-ADAF-4885-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 11.049, 5.588, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 7.619999999999999, 6.095999999999999, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 8.001, 12.827, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN3, 22.733, 8.889999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 2.667, 8.889999999999999, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 3.556, 12.572999999999999, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 5.08, 4.571999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 19.558, 16.509999999999998, 0
-- oompPart: HEAD-I01-X-PI05-01, JP2, 12.7, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 17.0815, 6.095999999999999, 90
-- oompPart: RESE-0603-X-O103-01, R1, 5.588, 12.446, 270
-- oompPart: RESE-UNMATCHED-X-O103-01, R3, 17.525999999999996, 11.43, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 2.54, 15.239999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$17, 22.86, 15.239999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$19, 2.54, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$21, 22.86, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 7.874, 9.524999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 12.7, 8.889999999999999, 180
-- rawPart: C1, 0.1uF, 0603-NO, microbuilder, (0.435, 0.22), R0
-- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.3, 0.24), R0
-- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.315, 0.505), R0
-- rawPart: CONN3, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.895, 0.35), R90
-- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.105, 0.35), R270
-- rawPart: D1, GREEN, CHIPLED_0603_NOOUTLINE, microbuilder, (0.14, 0.495), R90
-- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.2, 0.18), R0
-- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.77, 0.65), R0
-- rawPart: JP2, 1X05_ROUND_70, microbuilder, (0.5, 0.1), R0
-- rawPart: Q2, BSS138, SOT363, microbuilder, (0.6725, 0.24), R90
-- rawPart: R1, 10K, 0603-NO, microbuilder, (0.22, 0.49), R270
-- rawPart: R3, 10K, RESPACK_4X0603, microbuilder, (0.69, 0.45), R180
-- rawPart: U$1, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.6), R0
-- rawPart: U$17, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.6), R0
-- rawPart: U$19, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.1), R0
-- rawPart: U$21, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.1), R0
-- rawPart: U2, AP2112K-3.3, SOT23-5, microbuilder, (0.31, 0.375), R0
-- rawPart: X1, SHT4X_, SHT4X, adafruit_sensor, (0.5, 0.35), R180
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CONN3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CONN4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
+- rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: CONN3,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,
+- rawParts: CONN4,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,
+- rawParts: D1,GREEN,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,
+- rawParts: FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP2,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,
+- rawParts: Q2,BSS138,MOSFET-N_DUAL,SOT363,Dual N-Channel MOSFET,,
+- rawParts: R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R3,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,
+- rawParts: U$1,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$19,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$21,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U2,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,
+- rawParts: X1,SHT4X_,SHT4X_,SHT4X,,,
 
 
 

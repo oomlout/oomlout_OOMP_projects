@@ -41,140 +41,124 @@
             "value": "PROJ-ADAF-1727-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, 2.9679999059999997, 5.999999937999999, 180"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C2, 2.874000094, 12.638000124, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C3, 10.459999908, 10.475999876, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, FB1, 8.399999964, 12.257000124, 0"
+            "name": "oompParts",
+            "value": "FB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, FB2, 12.081999966, 12.257000124, 180"
+            "name": "oompParts",
+            "value": "FB2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 13.430000064, 9.951999908, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.2829999739999998, 14.635999938, 0"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP1, 10.16, 2.54, 180"
+            "name": "oompParts",
+            "value": "SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 17.779999999999998, 12.953999999999999, M0"
+            "name": "oompParts",
+            "value": "SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 17.779999999999998, 10.413999999999998, M0"
+            "name": "oompParts",
+            "value": "SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 17.779999999999998, 7.874, M0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 17.779999999999998, 5.334, M0"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$8, 17.779999999999998, 17.779999999999998, 0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 2.54, 17.779999999999998, 0"
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.205999908, 7.730000034, 270"
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.366000094, 9.033999966, 0"
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 10.16, 16.637, 180"
+            "name": "rawParts",
+            "value": "FB1,Ferrite,FERRITE0805,0805,Ferrite Bead,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, 0805-NO, microbuilder, (0.11685039, 0.23622047), R180"
+            "name": "rawParts",
+            "value": "FB2,Ferrite,FERRITE0805,0805,Ferrite Bead,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uF, 0805-NO, microbuilder, (0.11314961, 0.49755906), R0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 0.1uF, 0805-NO, microbuilder, (0.41181102, 0.41244094), R0"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FB1, Ferrite, 0805, microbuilder, (0.33070866, 0.48255906), R0"
+            "name": "rawParts",
+            "value": "JP1,Breakout,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "FB2, Ferrite, 0805, microbuilder, (0.47566929, 0.48255906), R180"
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.52874016, 0.39181102), R0"
+            "name": "rawParts",
+            "value": "SJ2,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.05051181, 0.57622047), R0"
+            "name": "rawParts",
+            "value": "SJ3,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, Breakout, 1X08_ROUND_70, microbuilder, (0.4, 0.1), R180"
+            "name": "rawParts",
+            "value": "SJ4,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.51), MR0"
+            "name": "rawParts",
+            "value": "U$8,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.41), MR0"
+            "name": "rawParts",
+            "value": "U$9,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ3, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.31), MR0"
+            "name": "rawParts",
+            "value": "U1,MAX31850,MAX3185X,TDFN10_3X4MM,MAX31850/MAX31851 One-Wire Thermocouple to Digital Converter,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ4, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.7, 0.21), MR0"
+            "name": "rawParts",
+            "value": "U2,MIC5225-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$8, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.7, 0.7), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$9, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.7), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, MAX31850, TDFN10_3X4MM, microbuilder, (0.40181102, 0.30433071), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "U2, MIC5225-3.3, SOT23-5, microbuilder, (0.09314961, 0.35566929), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, 3.5mm, TERMBLOCK_1X2-3.5MM, microbuilder, (0.4, 0.655), R180"
+            "name": "rawParts",
+            "value": "X1,3.5mm,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
             "name": "oompID",

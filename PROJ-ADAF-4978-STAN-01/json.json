@@ -41,84 +41,76 @@
             "value": "PROJ-ADAF-4978-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 17.779999999999998, 4.571999999999999, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.778, 18.796, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP1, 9.524999999999999, 18.415, M0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP2, 17.779999999999998, 8.254999999999999, M90"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP3, 9.524999999999999, 0.635, M0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP4, 1.27, 8.254999999999999, M90"
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 9.524999999999999, 4.826, M180"
+            "name": "rawParts",
+            "value": "C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.524999999999999, 9.524999999999999, M0"
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODESOD-323,SOD-323,Diode,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, 0603-NO, microbuilder, (0.58, 0.22), R0"
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1N4148, SOD-323, microbuilder, (0.255, 0.335), R90"
+            "name": "rawParts",
+            "value": "FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7, 0.18), R0"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.07, 0.74), R0"
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X05_ROUND_70, microbuilder, (0.375, 0.725), MR0"
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X02_ROUND, microbuilder, (0.7, 0.325), MR90"
+            "name": "rawParts",
+            "value": "JP4,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X05_ROUND_70, microbuilder, (0.375, 0.025), MR0"
+            "name": "rawParts",
+            "value": "LED1,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X02_ROUND, microbuilder, (0.05, 0.325), MR90"
-        },
-        {
-            "name": "rawPart",
-            "value": "LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.375, 0.19), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "SW1, KAILH_SOCKET, adafruit_electromech, (0.375, 0.375), MR0"
+            "name": "rawParts",
+            "value": "SW1,,SWITCH_PUSHBUTTON_KAILH_SOCKET,KAILH_SOCKET,Buttons,,"
         },
         {
             "name": "oompID",

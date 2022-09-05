@@ -41,60 +41,108 @@
             "value": "PROJ-SPAR-10705-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP2 MYDAQ 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING, 0, 0, 0"
+            "name": "oompParts",
+            "value": "FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP3 M20_LOCKINGFEMALE_LOCK.009 1X20_LOCK, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP4 M20 1X20, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP5 M30 1X30, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP6 M30 1X30, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP7 M30 1X30, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP8 M30 1X30, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, MYDAQ, 3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING, Local, Lirary, (0.05, 1.7), R0"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, M20_LOCKINGFEMALE_LOCK.009, 1X20_LOCK, Local, Library, (0.7, 2.65), R270"
+            "name": "oompParts",
+            "value": "JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, M20, 1X20, Local, Lirary, (0.8, 2.65), R270"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, M30, 1X30, Local, Library, (1, 0.25), R90"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, M30, 1X30, Local, Library, (1.1, 0.25), R90"
+            "name": "oompParts",
+            "value": "U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, M30, 1X30, Local, Library, (2.9, 0.25), R90"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP8, M30, 1X30, Local, Library, (3, 0.25), R90"
+            "name": "rawParts",
+            "value": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,MYDAQ,MYDAQ,3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,M20_LOCKINGFEMALE_LOCK.009,M20_LOCKINGLOCK,1X20_LOCK,This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the standard footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,M20,M20,1X20,This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the standard footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,M30,M30,1X30,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,M30,M30,1X30,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,M30,M30,1X30,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,M30,M30,1X30,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOL,OSHW-LOGOL,OSHW-LOGO-L,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,REVISION,REVISION,REVISION,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,BREADBOARDCLEAR,BREADBOARDCLEAR,BREADBOARD_CLEAR,Breadboard Mini Self Adhesive,,"
         },
         {
             "name": "oompID",

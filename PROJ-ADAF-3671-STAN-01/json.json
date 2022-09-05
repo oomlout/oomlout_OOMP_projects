@@ -41,52 +41,36 @@
             "value": "PROJ-ADAF-3671-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 19.049999999999997, 2.032, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.476999999999999, 14.985999999999999, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 5.08, 0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 12.7, 12.7, 180"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 2.54, 8.889999999999999, 0"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X15_FPC1MM_PI,FPC_15PIN_1.0MM,1x15 Header,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 22.86, 8.889999999999999, 0"
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X15_FPC1MM_PI,FPC_15PIN_1.0MM,1x15 Header,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.75, 0.08), R0"
+            "name": "rawParts",
+            "value": "U$2,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.255, 0.59), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.2), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP2, FPC_15PIN_1.0MM, microbuilder, (0.5, 0.5), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$2, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.35), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.9, 0.35), R0"
+            "name": "rawParts",
+            "value": "U$3,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
             "name": "oompID",

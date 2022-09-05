@@ -41,260 +41,268 @@
             "value": "PROJ-SPAR-14967-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, C1, 22.733, 14.604999999999999, M130"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 26.669999999999998, 21.59, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 26.085799999999995, 25.3238, 108"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 24.3586, 28.676599999999997, 126"
+            "name": "oompParts",
+            "value": "D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 21.691599999999998, 31.3436, 144"
+            "name": "oompParts",
+            "value": "D4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D5, 18.3388, 33.0708, 162"
+            "name": "oompParts",
+            "value": "D5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 14.604999999999999, 33.654999999999994, 180"
+            "name": "oompParts",
+            "value": "D6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D7, 10.8712, 33.0708, 198"
+            "name": "oompParts",
+            "value": "D7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D8, 7.518399999999999, 31.3436, 216"
+            "name": "oompParts",
+            "value": "D8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D9, 4.8514, 28.676599999999997, 234"
+            "name": "oompParts",
+            "value": "D9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D10, 3.1241999999999996, 25.3238, 252"
+            "name": "oompParts",
+            "value": "D10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D11, 2.54, 21.59, 270"
+            "name": "oompParts",
+            "value": "D11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D12, 3.1241999999999996, 17.856199999999998, 288"
+            "name": "oompParts",
+            "value": "D12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D13, 4.8514, 14.503399999999997, 306"
+            "name": "oompParts",
+            "value": "D13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D14, 7.518399999999999, 11.8364, 324"
+            "name": "oompParts",
+            "value": "D14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D15, 10.8712, 10.1092, 342"
+            "name": "oompParts",
+            "value": "D15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D16, 14.604999999999999, 9.524999999999999, 0"
+            "name": "oompParts",
+            "value": "D16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D17, 18.3388, 10.1092, 18"
+            "name": "oompParts",
+            "value": "D17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D18, 21.691599999999998, 11.8364, 36"
+            "name": "oompParts",
+            "value": "D18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D19, 24.3586, 14.503399999999997, 54"
+            "name": "oompParts",
+            "value": "D19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D20, 26.085799999999995, 17.856199999999998, 72"
+            "name": "oompParts",
+            "value": "D20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 11.557, 5.968999999999999, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 11.557, 5.968999999999999, M0"
+            "name": "oompParts",
+            "value": "H1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 17.653, 37.211, 0"
+            "name": "oompParts",
+            "value": "H2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 17.653, 37.211, M0"
+            "name": "oompParts",
+            "value": "H3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, H1, 14.604999999999999, 39.37, 0"
+            "name": "oompParts",
+            "value": "H4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, H2, 8.254999999999999, 21.59, 0"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, H3, 20.955, 21.59, 0"
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, H4, 14.5923, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, J1, 26.441399999999998, 25.450799999999997, M252"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, J2, 26.924, 21.6027, M270"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, J4, 26.3525, 17.627599999999997, M108"
+            "name": "rawParts",
+            "value": "C1,DNP,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-08280,4.7uF,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, DNP, 0603, SparkFun-Capacitors, (0.895, 0.575), MR130"
+            "name": "rawParts",
+            "value": "D1,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, APA102-2020, APA102-2020, SparkFun-LED, (1.05, 0.85), R90"
+            "name": "rawParts",
+            "value": "D2,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, APA102-2020, APA102-2020, SparkFun-LED, (1.027, 0.997), R108"
+            "name": "rawParts",
+            "value": "D3,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D3, APA102-2020, APA102-2020, SparkFun-LED, (0.959, 1.129), R126"
+            "name": "rawParts",
+            "value": "D4,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D4, APA102-2020, APA102-2020, SparkFun-LED, (0.854, 1.234), R144"
+            "name": "rawParts",
+            "value": "D5,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D5, APA102-2020, APA102-2020, SparkFun-LED, (0.722, 1.302), R162"
+            "name": "rawParts",
+            "value": "D6,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D6, APA102-2020, APA102-2020, SparkFun-LED, (0.575, 1.325), R180"
+            "name": "rawParts",
+            "value": "D7,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D7, APA102-2020, APA102-2020, SparkFun-LED, (0.428, 1.302), R198"
+            "name": "rawParts",
+            "value": "D8,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D8, APA102-2020, APA102-2020, SparkFun-LED, (0.296, 1.234), R216"
+            "name": "rawParts",
+            "value": "D9,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D9, APA102-2020, APA102-2020, SparkFun-LED, (0.191, 1.129), R234"
+            "name": "rawParts",
+            "value": "D10,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D10, APA102-2020, APA102-2020, SparkFun-LED, (0.123, 0.997), R252"
+            "name": "rawParts",
+            "value": "D11,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D11, APA102-2020, APA102-2020, SparkFun-LED, (0.1, 0.85), R270"
+            "name": "rawParts",
+            "value": "D12,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D12, APA102-2020, APA102-2020, SparkFun-LED, (0.123, 0.703), R288"
+            "name": "rawParts",
+            "value": "D13,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D13, APA102-2020, APA102-2020, SparkFun-LED, (0.191, 0.571), R306"
+            "name": "rawParts",
+            "value": "D14,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D14, APA102-2020, APA102-2020, SparkFun-LED, (0.296, 0.466), R324"
+            "name": "rawParts",
+            "value": "D15,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D15, APA102-2020, APA102-2020, SparkFun-LED, (0.428, 0.398), R342"
+            "name": "rawParts",
+            "value": "D16,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D16, APA102-2020, APA102-2020, SparkFun-LED, (0.575, 0.375), R0"
+            "name": "rawParts",
+            "value": "D17,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D17, APA102-2020, APA102-2020, SparkFun-LED, (0.722, 0.398), R18"
+            "name": "rawParts",
+            "value": "D18,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D18, APA102-2020, APA102-2020, SparkFun-LED, (0.854, 0.466), R36"
+            "name": "rawParts",
+            "value": "D19,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D19, APA102-2020, APA102-2020, SparkFun-LED, (0.959, 0.571), R54"
+            "name": "rawParts",
+            "value": "D20,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,DIO-13883,,"
         },
         {
-            "name": "rawPart",
-            "value": "D20, APA102-2020, APA102-2020, SparkFun-LED, (1.027, 0.703), R72"
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.455, 0.235), R0"
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.455, 0.235), MR0"
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.695, 1.465), R0"
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.695, 1.465), MR0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,"
         },
         {
-            "name": "rawPart",
-            "value": "H1, STANDOFF_ELECTRICAL-NOTHERMALS, STANDOFF-ELECTRICAL-NOTHERMALS, SparkFun-Hardware, (0.575, 1.55), R0"
+            "name": "rawParts",
+            "value": "H1,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "H2, STANDOFF_ELECTRICAL-NOTHERMALS, STANDOFF-ELECTRICAL-NOTHERMALS, SparkFun-Hardware, (0.325, 0.85), R0"
+            "name": "rawParts",
+            "value": "H2,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "H3, STANDOFF_ELECTRICAL-NOTHERMALS, STANDOFF-ELECTRICAL-NOTHERMALS, SparkFun-Hardware, (0.825, 0.85), R0"
+            "name": "rawParts",
+            "value": "H3,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "H4, STANDOFF_ELECTRICAL-NOTHERMALS, STANDOFF-ELECTRICAL-NOTHERMALS, SparkFun-Hardware, (0.5745, 0.15), R0"
+            "name": "rawParts",
+            "value": "H4,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J1, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.041, 1.002), MR252"
+            "name": "rawParts",
+            "value": "J1,SOLDER_PAD_2,SOLDER_PAD_2,SOLDER_PAD_2,Solder Pad for LuMini Rings,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J2, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.06, 0.8505), MR270"
+            "name": "rawParts",
+            "value": "J2,SOLDER_PAD_2,SOLDER_PAD_2,SOLDER_PAD_2,Solder Pad for LuMini Rings,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J4, SOLDER_PAD_2, SOLDER_PAD_2, SparkFun-Connectors, (1.0375, 0.694), MR108"
+            "name": "rawParts",
+            "value": "J4,SOLDER_PAD_2,SOLDER_PAD_2,SOLDER_PAD_2,Solder Pad for LuMini Rings,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,"
         },
         {
             "name": "oompID",

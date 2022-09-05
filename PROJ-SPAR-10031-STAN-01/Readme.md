@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-10031-STAN-01>USB microB Plug Breakout](#proj-spar-10031-stan-01usb-microb-plug-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,19 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|ERROR, JP2 USB Micro, 0, 0, 0,JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180|
 
 ## Tags
 
@@ -51,10 +42,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_microB_Plug_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10031
 - oompID: PROJ-SPAR-10031-STAN-01
-- oompPart: HEAD-I01-X-PI05-01, JP1, 16.509999999999998, 12.7, 180
-- oompPart: ERROR, JP2 USB Micro, 0, 0, 0
-- rawPart: JP1, 1X05, SparkFun, (0.65, 0.5), R180
-- rawPart: JP2, USB, Micro, B, Plug, MICRO-B-SMT, SparkFun-Connectors, (0.45, 0.25), R180
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M05PTH,1X05,Header 5,,
+- rawParts: JP2,USB Micro B Plug,USB_MICROB_PLUG-SMT,MICRO-B-SMT,USB Micro-B connectors,CONN-09900,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
 
 
 

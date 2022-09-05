@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13041-STAN-01>Edison Micro SD Block](#proj-spar-13041-stan-01edison-micro-sd-block)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.59, 27.94, 0,U1, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun-Connectors, (0.85, 1.1), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 3.8099999999999996, M0,U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 24.639999996, 16.1798, M90,U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 10.16, 23.114, 0,U4, TXB0108, UFDFN-20, Testing, (0.4, 0.91), R0|
 
 ## Tags
 
@@ -55,26 +42,30 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_Micro_SD_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13041
 - oompID: PROJ-SPAR-13041-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 13.462, 23.114, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 6.858, 23.114, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 5.08, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 25.4, 43.18, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.27, 5.08, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 25.4, 43.18, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.59, 27.94, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 3.8099999999999996, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 24.639999996, 16.1798, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 10.16, 23.114, 0
-- rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.53, 0.91), R90
-- rawPart: C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.27, 0.91), R270
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), R0
-- rawPart: FID3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), MR0
-- rawPart: FID4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), MR0
-- rawPart: U1, USD-SOCKETNEW, MICRO-SD-SOCKET-PP, SparkFun-Connectors, (0.85, 1.1), R0
-- rawPart: U2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
-- rawPart: U3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
-- rawPart: U4, TXB0108, UFDFN-20, Testing, (0.4, 0.91), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,
+- rawParts: U1,USD-SOCKETNEW,USD-SOCKETNEW,MICRO-SD-SOCKET-PP,microSD Socket,,,
+- rawParts: U2,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,
+- rawParts: U3,EDISON_CONNECTOR_FULLHEADER,EDISON_CONNECTOR_FULLHEADER,DF40C-70DP-0.4(51),,,,
+- rawParts: U4,TXB0108,TXB0108,UFDFN-20,,,,
 
 
 

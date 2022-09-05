@@ -41,132 +41,124 @@
             "value": "PROJ-ADAF-4534-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 36.093399999999995, 7.454899999999999, 270"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 35.81399999999999, 2.794, 180"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D6, 10.540999999999999, 5.7785, 90"
+            "name": "oompParts",
+            "value": "D6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.889999999999999, 23.622, 0"
+            "name": "oompParts",
+            "value": "MB2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 42.672, 15.493999999999998, 0"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MB2, 25.7429, 13.208, 0"
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.5189, 9.8298, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 33.528, 9.232899999999999, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O103-01, R1, 33.553399999999996, 11.937999999999999, 180"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 37.592, 2.54, 270"
+            "name": "oompParts",
+            "value": "SP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O103-01, R12, 13.9954, 9.8679, 90"
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SP1, 5.6007, 7.670799999999999, 0"
+            "name": "oompParts",
+            "value": "TP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 17.779999999999998, 3.302, 180"
+            "name": "oompParts",
+            "value": "TP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP2, 24.13, 3.302, 180"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TP3, 30.479999999999997, 3.302, 180"
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODESOD-323,SOD-323,Diode,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 43.434, 7.874, 0"
+            "name": "rawParts",
+            "value": "D2,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1N4148, SOD-323, microbuilder, (1.421, 0.2935), R270"
+            "name": "rawParts",
+            "value": "D6,1N4148,DIODESOD-323,SOD-323,Diode,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, red, CHIPLED_0805_NOOUTLINE, microbuilder, (1.41, 0.11), R180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "D6, 1N4148, SOD-323, microbuilder, (0.415, 0.2275), R90"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.35, 0.93), R0"
+            "name": "rawParts",
+            "value": "MB2,MICROBIT_5PIN,MICROBIT_5PIN,MICROBIT_5SMTNUT,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.68, 0.61), R0"
+            "name": "rawParts",
+            "value": "Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,"
         },
         {
-            "name": "rawPart",
-            "value": "MB2, MICROBIT_5PIN, MICROBIT_5SMTNUT, adafruit_connector, (1.0135, 0.52), R0"
+            "name": "rawParts",
+            "value": "Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, BSS138, SOT23-WIDE, microbuilder, (0.4535, 0.387), R90"
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q2, BSS138, SOT23-WIDE, microbuilder, (1.32, 0.3635), R180"
+            "name": "rawParts",
+            "value": "R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10K, 0603-NO, microbuilder, (1.321, 0.47), R180"
+            "name": "rawParts",
+            "value": "R12,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 1K, 0603-NO, microbuilder, (1.48, 0.1), R270"
+            "name": "rawParts",
+            "value": "SP1,SPEAKER_7.5MM,SPEAKER_7.5MM,BUZZER_SMT_7.5MM,SPEAKER Source: BuerklinAdded PS12 (for part # PS1240 piezo) http://www.ladyada.net/library/pcb/eaglelibrary.html,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 10K, 0603-NO, microbuilder, (0.551, 0.3885), R90"
+            "name": "rawParts",
+            "value": "TP1,SEWTAPPCB_ALLIGATOR,SEWTAPPCB_ALLIGATOR,PCB_ALLI,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SP1, SPEAKER_7.5MM, BUZZER_SMT_7.5MM, microbuilder, (0.2205, 0.302), R0"
+            "name": "rawParts",
+            "value": "TP2,SEWTAPPCB_ALLIGATOR,SEWTAPPCB_ALLIGATOR,PCB_ALLI,,,"
         },
         {
-            "name": "rawPart",
-            "value": "TP1, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.7, 0.13), R180"
+            "name": "rawParts",
+            "value": "TP3,SEWTAPPCB_ALLIGATOR,SEWTAPPCB_ALLIGATOR,PCB_ALLI,,,"
         },
         {
-            "name": "rawPart",
-            "value": "TP2, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (0.95, 0.13), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "TP3, SEWTAPPCB_ALLIGATOR, PCB_ALLI, microbuilder, (1.2, 0.13), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, 2060-402/998-404, P-2060-402/998-404, adafruit_connector, (1.71, 0.31), R0"
+            "name": "rawParts",
+            "value": "X1,2060-402/998-404,2060-402/998-404,P-2060-402/998-404,Serie 2060,  SMD-Leiterplattenklemme mit Bet\u00c3\u0083\u00c2\u00a4tigungsdr\u00c3\u0083\u00c2\u00bcckern im Gurt 2-polig / Series 2060,  SMD terminal block with push-buttons in tape-and-reel packing 2-polePolzahl / Pole No.: 2 Rasterma\u00c3\u0083\u00c5\u00b8 / Pitch: 4  mmBemessungsspannung / Rated Voltage: 160 VNennstrom / Nominal Current: 9 ALeiterquerschnitt / Conductor Size: 0.2 - 0.75 mm2Anschlusstechnik / Connection Technology: CAGE CLAMP\u00c3\u0082\u00c2\u00ae S Leitereinf\u00c3\u0083\u00c2\u00bchrung (zur Platine) / Conductor entry angle (to PCB): 0 \u00c3\u0082\u00c2\u00b0Farbe / Color: lichtgrau / light gray Stand: 01.01.2014. Die jeweils aktuellen Daten zu diesem Artikel finden Sie in unserem Produktkatalog, den Sie unter www.wago.com einsehen k\u00c3\u0083\u00c2\u00b6nnen.  As of: 01/01/2014. Please find the newest data for this article in our product catalogue, which can be viewed under www.wago.com.,,"
         },
         {
             "name": "oompID",

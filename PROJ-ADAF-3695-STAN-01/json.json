@@ -41,52 +41,44 @@
             "value": "PROJ-ADAF-3695-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI11-01, JP1, -3.8099999999999996, -25.4, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI11-01, JP2, 3.8099999999999996, -25.4, 270"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP4, -22.224999999999998, -13.97, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MB1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "MB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$9, 26.416, -10.795, 0"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X1176MIL,1X11_ROUND_76,,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$10, -26.416, -10.795, 0"
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X1176MIL,1X11_ROUND_76,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X11_ROUND_76, microbuilder, (-0.15, -1), R270"
+            "name": "rawParts",
+            "value": "JP4,,HEADER-1X2,1X02_OVAL,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X11_ROUND_76, microbuilder, (0.15, -1), R270"
+            "name": "rawParts",
+            "value": "MB1,MICRO:BIT_RA,MICRO:BIT_RA,2X20_CARDEDGE_RA,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X02_OVAL, microbuilder, (-0.875, -0.55), R0"
+            "name": "rawParts",
+            "value": "U$9,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "MB1, MICRO:BIT_RA, 2X20_CARDEDGE_RA, microbuilder, (0, 0), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$9, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (1.04, -0.425), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$10, MOUNTINGHOLE2.0, MOUNTINGHOLE_2.0_PLATED, microbuilder, (-1.04, -0.425), R0"
+            "name": "rawParts",
+            "value": "U$10,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
             "name": "oompID",

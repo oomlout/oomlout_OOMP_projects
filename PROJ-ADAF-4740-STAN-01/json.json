@@ -41,140 +41,132 @@
             "value": "PROJ-ADAF-4740-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 33.400999999999996, 12.065, 180"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, D2, 49.529999999999994, 11.43, 0"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, D3, 1.27, 11.43, 180"
+            "name": "oompParts",
+            "value": "D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.5239999999999998, 5.588, 0"
+            "name": "oompParts",
+            "value": "MIDIIN,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 49.529999999999994, 17.525999999999996, 0"
+            "name": "oompParts",
+            "value": "MIDIOUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MIDIIN, 36.068, 17.145, M180"
+            "name": "oompParts",
+            "value": "MS1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MIDIOUT, 14.731999999999998, 17.145, M180"
+            "name": "oompParts",
+            "value": "OK2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 50.8, 0.0, M0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, OK2, 25.4, 14.350999999999997, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 15.748, 11.937999999999999, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O221-01, R2, 38.73499999999999, 12.065, 0"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R3, 18.923, 11.937999999999999, 0"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R4, 6.095999999999999, 4.444999999999999, 180"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R5, 49.529999999999994, 8.382, 90"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R6, 1.27, 14.477999999999998, 270"
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 36.068, 17.145, M270"
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODESOD-323,SOD-323,Diode,,,,,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 14.731999999999998, 17.145, M270"
+            "name": "rawParts",
+            "value": "D2,BLUE,LED0603,CHIPLED_0603,LED,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1N4148, SOD-323, microbuilder, (1.315, 0.475), R180"
+            "name": "rawParts",
+            "value": "D3,BLUE,LED0603,CHIPLED_0603,LED,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, BLUE, CHIPLED_0603, microbuilder, (1.95, 0.45), R0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D3, BLUE, CHIPLED_0603, microbuilder, (0.05, 0.45), R180"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.06, 0.22), R0"
+            "name": "rawParts",
+            "value": "MIDIIN,DIN_5,DIN_5,CP-2350,,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.95, 0.69), R0"
+            "name": "rawParts",
+            "value": "MIDIOUT,DIN_5,DIN_5,CP-2350,,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "MIDIIN, DIN_5, CP-2350, microbuilder, (1.42, 0.675), MR180"
+            "name": "rawParts",
+            "value": "MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_NODIM,,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "MIDIOUT, DIN_5, CP-2350, microbuilder, (0.58, 0.675), MR180"
+            "name": "rawParts",
+            "value": "OK2,H11L1MS,H11L1MS,DIL6-SMD,6-Pin DIP Optocoupler,,,,unknown,unknown,0,"
         },
         {
-            "name": "rawPart",
-            "value": "MS1, FEATHERWING_NODIM, FEATHERWING_NODIM, microbuilder, (2, 0), MR0"
+            "name": "rawParts",
+            "value": "R1,33,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "OK2, H11L1MS, DIL6-SMD, optocoupler, (1, 0.565), R180"
+            "name": "rawParts",
+            "value": "R2,220,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 33, 0603-NO, microbuilder, (0.62, 0.47), R0"
+            "name": "rawParts",
+            "value": "R3,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 220, 0603-NO, microbuilder, (1.525, 0.475), R0"
+            "name": "rawParts",
+            "value": "R4,10,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 470, 0603-NO, microbuilder, (0.745, 0.47), R0"
+            "name": "rawParts",
+            "value": "R5,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 10, 0603-NO, microbuilder, (0.24, 0.175), R180"
+            "name": "rawParts",
+            "value": "R6,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 2.2K, 0603-NO, microbuilder, (1.95, 0.33), R90"
+            "name": "rawParts",
+            "value": "X1,3.5mm,AUDIO_STEREOJACK,STX3100,MIC/HEADPHONE JACK,,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 2.2K, 0603-NO, microbuilder, (0.05, 0.57), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, 3.5mm, STX3100, microbuilder, (1.42, 0.675), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "X2, 3.5mm, STX3100, microbuilder, (0.58, 0.675), MR270"
+            "name": "rawParts",
+            "value": "X2,3.5mm,AUDIO_STEREOJACK,STX3100,MIC/HEADPHONE JACK,,,,,,,"
         },
         {
             "name": "oompID",

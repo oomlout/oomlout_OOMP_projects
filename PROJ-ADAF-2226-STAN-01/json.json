@@ -41,156 +41,148 @@
             "value": "PROJ-ADAF-2226-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, -4.5999999439999995, 8.100000055999999, 120"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 4.974346922, 8.174346872, 45"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C6, -4.719240751999999, -8.093968826, 240"
+            "name": "oompParts",
+            "value": "C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C10, 4.693993659999999, -8.031603189999998, 300"
+            "name": "oompParts",
+            "value": "C10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DIN, -2.0407249, -3.9628406899999997, 0"
+            "name": "oompParts",
+            "value": "DIN,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOUT, -2.303393666, 4.004212464, 0"
+            "name": "oompParts",
+            "value": "DOUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 0.009999979999999999, 7.945000112, 0"
+            "name": "oompParts",
+            "value": "GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 0.03499993, -8.264999979999999, 0"
+            "name": "oompParts",
+            "value": "GND_2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND, 4.207137382, -0.10765942399999999, 0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GND_2, 2.2999999719999997, 4.199999982, 0"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 0.0, 8.000000002, 0"
+            "name": "oompParts",
+            "value": "LED4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 6.8999999160000005, 3.9999998740000002, 300"
+            "name": "oompParts",
+            "value": "LED5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 6.8999999160000005, -3.9999998740000002, 240"
+            "name": "oompParts",
+            "value": "LED6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED5, 0.0, -8.20000011, 180"
+            "name": "oompParts",
+            "value": "LED7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED6, -6.8999999160000005, -3.9999998740000002, 120"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED7, -6.8999999160000005, 3.9999998740000002, 60"
+            "name": "oompParts",
+            "value": "VDD,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, -4.255171829999999, 0.18093436, 90"
+            "name": "rawParts",
+            "value": "C1,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VDD, 2.04306551, -4.141199997999999, 0"
+            "name": "rawParts",
+            "value": "C2,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, C0603, rcl, (-0.18110236, 0.31889764), R120"
+            "name": "rawParts",
+            "value": "C6,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 1uF, C0603, rcl, (0.19584043, 0.32182468), R45"
+            "name": "rawParts",
+            "value": "C10,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C6, 1uF, C0603, rcl, (-0.18579688, -0.31866019), R240"
+            "name": "rawParts",
+            "value": "DIN,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "C10, 1uF, C0603, rcl, (0.1848029, -0.31620485), R300"
+            "name": "rawParts",
+            "value": "DOUT,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "DIN, 1X01-CLEANBIG, NeoPixelRing, (-0.0803435, -0.15601735), R0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "DOUT, 1X01-CLEANBIG, NeoPixelRing, (-0.09068479, 0.15764616), R0"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.0003937, 0.31279528), R0"
+            "name": "rawParts",
+            "value": "GND,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.00137795, -0.3253937), R0"
+            "name": "rawParts",
+            "value": "GND_2,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "GND, 1X01-CLEANBIG, NeoPixelRing, (0.16563533, -0.00423856), R0"
+            "name": "rawParts",
+            "value": "LED1,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "GND_2, 1X01-CLEANBIG, NeoPixelRing, (0.09055118, 0.16535433), R0"
+            "name": "rawParts",
+            "value": "LED2,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, WS2812B5050, WS2812B-NARROW, microbuilder, (0, 0), R0"
+            "name": "rawParts",
+            "value": "LED3,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, WS2812B5050, WS2812B-NARROW, microbuilder, (0, 0.31496063), R0"
+            "name": "rawParts",
+            "value": "LED4,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED3, WS2812B5050, WS2812B-NARROW, microbuilder, (0.27165354, 0.15748031), R300"
+            "name": "rawParts",
+            "value": "LED5,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED4, WS2812B5050, WS2812B-NARROW, microbuilder, (0.27165354, -0.15748031), R240"
+            "name": "rawParts",
+            "value": "LED6,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED5, WS2812B5050, WS2812B-NARROW, microbuilder, (0, -0.32283465), R180"
+            "name": "rawParts",
+            "value": "LED7,WS2812B5050,WS2812B5050,WS2812B,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED6, WS2812B5050, WS2812B-NARROW, microbuilder, (-0.27165354, -0.15748031), R120"
+            "name": "rawParts",
+            "value": "R1,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED7, WS2812B5050, WS2812B-NARROW, microbuilder, (-0.27165354, 0.15748031), R60"
-        },
-        {
-            "name": "rawPart",
-            "value": "R1, 470, 0603-NO, microbuilder, (-0.16752645, 0.0071234), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "VDD, 1X01-CLEANBIG, NeoPixelRing, (0.08043565, -0.16303937), R0"
+            "name": "rawParts",
+            "value": "VDD,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,"
         },
         {
             "name": "oompID",

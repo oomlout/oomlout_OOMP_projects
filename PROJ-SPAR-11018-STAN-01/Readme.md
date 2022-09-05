@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11018-STAN-01>RFM22 Shield-434MHz](#proj-spar-11018-stan-01rfm22-shield-434mhz)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,35 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 33.019999999999996, 180,C1, 10uF, EIA3216, SparkFun, (1.65, 1.3), R180|
-|CAPC-0402-X-NF100-V50, C2, 41.91, 35.559999999999995, 0,C2, 0.1uF, 0402-CAP, SparkFun, (1.65, 1.4), R0|
-|CAPC-0402-X-NF100-V50, C3, 20.32, 30.479999999999997, 90,C3, 0.1uF, 0402-CAP, SparkFun, (0.8, 1.2), R90|
-|CAPE-0402-X-UNMATCHED-01, C4, 41.91, 40.64, 0,C4, 470pF, 0402-CAP, SparkFun, (1.65, 1.6), R0|
-|HEAD-I01-X-PI01-01, JP1, 15.239999999999998, 27.94, 0,JP1, 1X01, SparkFun, (0.6, 1.1), R0|
-|HEAD-I01-X-PI01-01, JP2, 34.29, 57.15, 0,JP2, Antenna, 1X01, SparkFun, (1.35, 2.25), R0|
-|HEAD-I01-X-PI01-01, JP3, 34.29, 31.75, 0,JP3, 1X01, SparkFun, (1.35, 1.25), R0|
-|HEAD-I01-X-PI01-01, JP4, 15.239999999999998, 46.99, 0,JP4, 1X01, SparkFun, (0.6, 1.85), R0|
-|HEAD-I01-X-PI01-01, JP5, 36.83, 41.91, 0,JP5, 1X01, SparkFun, (1.45, 1.65), R0|
-|HEAD-I01-X-PI01-01, JP6, 15.239999999999998, 49.529999999999994, 0,JP6, 1X01, SparkFun, (0.6, 1.95), R0|
-|UNMATCHED-0603-X-UNMATCHED-01, LED1, 41.91, 43.18, 270,LED1, Red, LED-0603, SparkFun, (1.65, 1.7), R270|
-|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
-|RESE-0402-X-O331-01, R2, 41.91, 41.91, 180,R2, 330, 0402-RES, SparkFun, (1.65, 1.65), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 49.529999999999994, 19.049999999999997, 270,S2, Reset, TACTILE_SWITCH_SMD, SparkFun, (1.95, 0.75), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 41.91, 38.099999999999994, 90,U1, MIC5202-3.3V, SOT23-5, SparkFun, (1.65, 1.5), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 26.669999999999998, 45.72, 270,U2, RFM22, RFM22-XXX-S2, SparkFun, (1.05, 1.8), R270|
-|ERROR, U3 74HC4050 LVL, 0, 0, 0,U3, 74HC4050, LVL, CONVERTER, SO016, SparkFun, (1.05, 1.2), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 0.0, 0.0, 0,U4, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES, SparkFun, (0, 0), R0|
 
 ## Tags
 
@@ -67,54 +42,60 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFM22_Shield-434MHz (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11018
 - oompID: PROJ-SPAR-11018-STAN-01
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.91, 33.019999999999996, 180
-- oompPart: CAPC-0402-X-NF100-V50, C2, 41.91, 35.559999999999995, 0
-- oompPart: CAPC-0402-X-NF100-V50, C3, 20.32, 30.479999999999997, 90
-- oompPart: CAPE-0402-X-UNMATCHED-01, C4, 41.91, 40.64, 0
-- oompPart: HEAD-I01-X-PI01-01, JP1, 15.239999999999998, 27.94, 0
-- oompPart: HEAD-I01-X-PI01-01, JP2, 34.29, 57.15, 0
-- oompPart: HEAD-I01-X-PI01-01, JP3, 34.29, 31.75, 0
-- oompPart: HEAD-I01-X-PI01-01, JP4, 15.239999999999998, 46.99, 0
-- oompPart: HEAD-I01-X-PI01-01, JP5, 36.83, 41.91, 0
-- oompPart: HEAD-I01-X-PI01-01, JP6, 15.239999999999998, 49.529999999999994, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP7, 50.8, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP8, 7.619999999999999, 55.88, 0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, LED1, 41.91, 43.18, 270
-- oompPart: RESE-0402-X-O103-01, R1, 36.83, 34.29, 180
-- oompPart: RESE-0402-X-O331-01, R2, 41.91, 41.91, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 49.529999999999994, 19.049999999999997, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 12.7, 27.94, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 34.29, 34.29, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 12.7, 46.99, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 12.7, 49.529999999999994, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 41.91, 38.099999999999994, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 26.669999999999998, 45.72, 270
-- oompPart: ERROR, U3 74HC4050 LVL, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 0.0, 0.0, 0
-- rawPart: C1, 10uF, EIA3216, SparkFun, (1.65, 1.3), R180
-- rawPart: C2, 0.1uF, 0402-CAP, SparkFun, (1.65, 1.4), R0
-- rawPart: C3, 0.1uF, 0402-CAP, SparkFun, (0.8, 1.2), R90
-- rawPart: C4, 470pF, 0402-CAP, SparkFun, (1.65, 1.6), R0
-- rawPart: JP1, 1X01, SparkFun, (0.6, 1.1), R0
-- rawPart: JP2, Antenna, 1X01, SparkFun, (1.35, 2.25), R0
-- rawPart: JP3, 1X01, SparkFun, (1.35, 1.25), R0
-- rawPart: JP4, 1X01, SparkFun, (0.6, 1.85), R0
-- rawPart: JP5, 1X01, SparkFun, (1.45, 1.65), R0
-- rawPart: JP6, 1X01, SparkFun, (0.6, 1.95), R0
-- rawPart: JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (2, 0.1), R0
-- rawPart: JP8, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.3, 2.2), R0
-- rawPart: LED1, Red, LED-0603, SparkFun, (1.65, 1.7), R270
-- rawPart: R1, 10K, 0402-RES, SparkFun, (1.45, 1.35), R180
-- rawPart: R2, 330, 0402-RES, SparkFun, (1.65, 1.65), R180
-- rawPart: S2, Reset, TACTILE_SWITCH_SMD, SparkFun, (1.95, 0.75), R270
-- rawPart: SJ1, NC, SJ_2S-TRACE, SparkFun, (0.5, 1.1), R0
-- rawPart: SJ2, NO, SJ_2S-NO, SparkFun, (1.35, 1.35), R90
-- rawPart: SJ3, NC, SJ_2S-TRACE, SparkFun, (0.5, 1.85), R0
-- rawPart: SJ4, NC, SJ_2S-TRACE, SparkFun, (0.5, 1.95), R0
-- rawPart: U1, MIC5202-3.3V, SOT23-5, SparkFun, (1.65, 1.5), R90
-- rawPart: U2, RFM22, RFM22-XXX-S2, SparkFun, (1.05, 1.8), R270
-- rawPart: U3, 74HC4050, LVL, CONVERTER, SO016, SparkFun, (1.05, 1.2), R0
-- rawPart: U4, ARDUINO_SHIELD, DUEMILANOVE_SHIELD_NOHOLES, SparkFun, (0, 0), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,470pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,,M01PTH,1X01,Header 1,,
+- rawParts: JP2,Antenna,M01PTH,1X01,Header 1,,
+- rawParts: JP3,,M01PTH,1X01,Header 1,,
+- rawParts: JP4,,M01PTH,1X01,Header 1,,
+- rawParts: JP5,,M01PTH,1X01,Header 1,,
+- rawParts: JP6,,M01PTH,1X01,Header 1,,
+- rawParts: JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: LED1,Red,LED0603,LED-0603,LEDs,,
+- rawParts: R1,10K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,330,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: S2,Reset,SWITCH-MOMENTARY-2SMD,TACTILE_SWITCH_SMD,,,
+- rawParts: SJ1,NC,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ2,NO,SOLDERJUMPERNO,SJ_2S-NO,Solder Jumper,,
+- rawParts: SJ3,NC,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ4,NC,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U$3,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U$7,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$8,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,MIC5202-3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,
+- rawParts: U2,RFM22,RFM22SMD,RFM22-XXX-S2,Description: The RFM22 is a low-power, low cost radio that is capable of operating in the 434MHz and 900MHz open bands. Its frequency is software defined and there are some very good libraries written for it.,,
+- rawParts: U3,74HC4050 LVL CONVERTER,HEX_CONVERTER,SO016,,,
+- rawParts: U4,ARDUINO_SHIELD,ARDUINO_SHIELDNOHOLES,DUEMILANOVE_SHIELD_NOHOLES,,,
 
 
 

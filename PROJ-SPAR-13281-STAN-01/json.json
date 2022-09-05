@@ -41,60 +41,116 @@
             "value": "PROJ-SPAR-13281-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 21.59, 13.97, 270"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP2, 16.509999999999998, 13.97, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP3, 11.43, 13.97, 270"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP4, 6.35, 13.97, 270"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP5, 19.049999999999997, 1.27, 180"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 13.97, 27.94, 180"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP7, 26.669999999999998, 22.86, 270"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, UL, 1X03, SparkFun-Connectors, (0.85, 0.55), R270"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, UR, 1X03, SparkFun-Connectors, (0.65, 0.55), R270"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, LL, 1X03, SparkFun-Connectors, (0.45, 0.55), R270"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, LR, 1X03, SparkFun-Connectors, (0.25, 0.55), R270"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, 1X05, SparkFun-Connectors, (0.75, 0.05), R180"
+            "name": "oompParts",
+            "value": "STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, RJ45, RJ45-8, SparkFun-Connectors, (0.55, 1.1), R180"
+            "name": "oompParts",
+            "value": "STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, 1X03, SparkFun-Connectors, (1.05, 0.9), R270"
+            "name": "oompParts",
+            "value": "U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,,,v02,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,UL,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,UR,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LL,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,LR,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M05PTH,1X05,Header 5,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,RJ45,RJ45-8PTH,RJ45-8,RJ45 Jack,,CONN-08506,RJ45,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,"
         },
         {
             "name": "oompID",

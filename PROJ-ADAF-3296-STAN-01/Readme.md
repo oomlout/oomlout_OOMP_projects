@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-3296-STAN-01>DS1307 breakout board](#proj-adaf-3296-stan-01ds1307-breakout-board)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.971, 6.095999999999999, 180,BAT, CR1220, CR1220-THM, adafruit, (0.865, 0.24), R180|
-|CAPC-UNMATCHED-X-NF100-V50, C1, 3.556, 8.636000000000001, 180,C1, 0.1uF, C025-025X050, adafruit, (0.14, 0.34), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 11.811, 18.287999999999997, 90,IC3, DS1307, DIL08, adafruit, (0.465, 0.72), R90|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 18.415, 15.748, 270,Q1, 32.768, TC38H, crystal, (0.725, 0.62), R270|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 11.43, 6.604, 270,R1, 2.2k, 0207/10, adafruit, (0.45, 0.26), R270|
-|RESE-UNMATCHED-X-UNMATCHED-01, R2, 8.382, 6.604, 90,R2, 2.2K, 0207/10, adafruit, (0.33, 0.26), R90|
 
 ## Tags
 
@@ -56,20 +42,20 @@ Contents
 - sources: All source files from https://github.com/adafruit/DS1307-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3296
 - oompID: PROJ-ADAF-3296-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.971, 6.095999999999999, 180
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C1, 3.556, 8.636000000000001, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 11.811, 18.287999999999997, 90
-- oompPart: HEAD-I01-X-PI05-01, JP2, 2.032, 17.145, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 18.415, 15.748, 270
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 11.43, 6.604, 270
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, 8.382, 6.604, 90
-- rawPart: BAT, CR1220, CR1220-THM, adafruit, (0.865, 0.24), R180
-- rawPart: C1, 0.1uF, C025-025X050, adafruit, (0.14, 0.34), R180
-- rawPart: IC3, DS1307, DIL08, adafruit, (0.465, 0.72), R90
-- rawPart: JP2, 1X05, pinhead, (0.08, 0.675), R90
-- rawPart: Q1, 32.768, TC38H, crystal, (0.725, 0.62), R270
-- rawPart: R1, 2.2k, 0207/10, adafruit, (0.45, 0.26), R270
-- rawPart: R2, 2.2K, 0207/10, adafruit, (0.33, 0.26), R90
+- oompParts: BAT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT,CR1220,CR1220THM,CR1220-THM,CR1216/CR1220/CR1225 12mm 3V lithium coin cell,,
+- rawParts: C1,0.1uF,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,
+- rawParts: IC3,DS1307,DS1307,DIL08,DS1307,,
+- rawParts: JP2,,PINHD-1X5,1X05,PIN HEADER,,
+- rawParts: Q1,32.768,CRYTALTC38H,TC38H,CRYSTAL,,
+- rawParts: R1,2.2k,R-US_0207/10,0207/10,RESISTOR, American symbol,,
+- rawParts: R2,2.2K,R-US_0207/10,0207/10,RESISTOR, American symbol,,
 
 
 

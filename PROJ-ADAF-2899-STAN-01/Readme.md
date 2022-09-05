@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-2899-STAN-01>Adafruit VEML6070 PCB](#proj-adaf-2899-stan-01adafruit-veml6070-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 6.35, 9.652, 180,C1, 10uF, 0805-NO, microbuilder, (0.25, 0.38), R180|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-0805-X-O274-01, R3, 11.176, 7.112, 270,R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 6.858, 0,U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0|
 
 ## Tags
 
@@ -56,26 +42,23 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-VEML6070-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2899
 - oompID: PROJ-ADAF-2899-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.35, 9.652, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 5.334, 0.7619999999999999, 0
-- oompPart: HEAD-I01-X-PI05-01, JP1, 6.35, 2.54, 0
-- oompPart: RESE-0805-X-O103-01, R1, 9.143999999999998, 7.112, 90
-- oompPart: RESE-0805-X-O103-01, R2, 3.0479999999999996, 6.604, 270
-- oompPart: RESE-0805-X-O274-01, R3, 11.176, 7.112, 270
-- oompPart: RESE-0805-X-O103-01, R4, 1.27, 7.365999999999999, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 2.54, 11.43, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 10.16, 11.43, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 6.35, 6.858, 0
-- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.25, 0.38), R180
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.21, 0.03), R0
-- rawPart: JP1, 1X05_ROUND_70, microbuilder, (0.25, 0.1), R0
-- rawPart: R1, 10K, 0805-NO, microbuilder, (0.36, 0.28), R90
-- rawPart: R2, 10K, 0805-NO, microbuilder, (0.12, 0.26), R270
-- rawPart: R3, 270K, 0805-NO, microbuilder, (0.44, 0.28), R270
-- rawPart: R4, 10K, 0805-NO, microbuilder, (0.05, 0.29), R270
-- rawPart: U$10, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.45), R0
-- rawPart: U$11, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.4, 0.45), R0
-- rawPart: U1, VEML6070, VEML6070, microbuilder, (0.25, 0.27), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,
+- rawParts: R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R3,270K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R4,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: U$10,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U$11,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,
+- rawParts: U1,VEML6070,UV_VEML6070,VEML6070,VEML6070 - UV Light Sensor,,
 
 
 

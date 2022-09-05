@@ -41,28 +41,60 @@
             "value": "PROJ-SPAR-13343-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, 0.0, 270"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEOFF, 0.0, -12.827, 0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEON, 0.0, 12.827, 180"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "S1, REED, REED_SWITCH_PLASTIC, SparkFun-Electromechanical, (0, 0), R270"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.505), R0"
+            "name": "oompParts",
+            "value": "SLIDEOFF,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.505), R180"
+            "name": "oompParts",
+            "value": "SLIDEON,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,v01,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS-COPPER,OSHW-LOGOS-COPPER,OSHW-LOGO-S_COPPER,Open Source Hardware Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,REED,SWITCH-MOMENTARY-2PTH_REED2,REED_SWITCH_PLASTIC,Various NO switches- pushbuttons, reed, etc,,SWCH-10467,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SLIDEOFF,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,Sew Taps for LilyPad Boards.,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SLIDEON,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,Sew Taps for LilyPad Boards.,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,,"
         },
         {
             "name": "oompID",

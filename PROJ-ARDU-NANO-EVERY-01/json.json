@@ -37,428 +37,436 @@
             "value": "PROJ-ARDU-NANO-EVERY-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.8675, 6.475, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-NF100-01, C2, 11.27, 12.5, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UF22-01, C3, 14.1625, 13.0, 180"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UF22-01, C4, 41.625, 8.89, 90"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C5, 7.2375, 3.505, 90"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UF1-01, C6, 22.01, 5.3375, 270"
+            "name": "oompParts",
+            "value": "C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-NF100-01, C7, 6.2625, 3.505, 90"
+            "name": "oompParts",
+            "value": "C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-NF100-01, C8, 37.8675, 8.89, 180"
+            "name": "oompParts",
+            "value": "C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-UNMATCHED-01, C9, 26.1325, 4.355, 0"
+            "name": "oompParts",
+            "value": "C9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-NF100-01, C10, 26.1325, 5.4025, 0"
+            "name": "oompParts",
+            "value": "C10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-UNMATCHED-X-NF100-01, C11, 18.6, 13.1, 90"
+            "name": "oompParts",
+            "value": "C11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, D+, 1.778, 11.811, 0"
+            "name": "oompParts",
+            "value": "D+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, D-, 1.778, 14.351, 0"
+            "name": "oompParts",
+            "value": "D-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 7.23, 9.2, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.9, 12.95, 180"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 41.65, 13.0, 90"
+            "name": "oompParts",
+            "value": "D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL1, 1.9, 3.1, 180"
+            "name": "oompParts",
+            "value": "DL1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL2, 1.9, 14.7, 180"
+            "name": "oompParts",
+            "value": "DL2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL3, 25.6, 8.45, 270"
+            "name": "oompParts",
+            "value": "DL3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL4, 24.05, 8.45, 270"
+            "name": "oompParts",
+            "value": "DL4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 7.94, 12.99, 0"
+            "name": "oompParts",
+            "value": "FD1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 33.9, 8.83, 0"
+            "name": "oompParts",
+            "value": "FD2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 15.65, 5.2, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 1.28, 8.89, 270"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, J2, 40.5384, 8.89, 90"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI15-01, JP2, 21.59, 1.27, 0"
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI15-01, JP3, 21.59, 16.51, 180"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, PB1, 11.09, 8.89, 90"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 38.4, 5.78, 45"
+            "name": "oompParts",
+            "value": "PB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 38.4, 12.0, 135"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 6.7675, 4.975, 180"
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R2, 5.4, 14.7, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R3, 4.8, 3.0875, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R4, 16.45, 14.5125, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R5, 19.6, 13.1, 90"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R6, 11.1375, 4.225, 270"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R7, 36.51464375, 12.793934375, 225"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R8, 12.275, 4.225, 90"
+            "name": "oompParts",
+            "value": "R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O393-01, R9, 13.85, 10.9, 270"
+            "name": "oompParts",
+            "value": "R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R10, 15.6, 10.6, 0"
+            "name": "oompParts",
+            "value": "R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R11, 41.75, 3.85, 270"
+            "name": "oompParts",
+            "value": "R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R12, 24.3, 5.15, 270"
+            "name": "oompParts",
+            "value": "R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R13, 23.3, 5.15, 270"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R14, 39.46464375, 7.64393125, 135"
+            "name": "oompParts",
+            "value": "R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R15, 40.90858125, 6.25, 315"
+            "name": "oompParts",
+            "value": "R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R16, 37.835353125, 3.81464375, 315"
+            "name": "oompParts",
+            "value": "R15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R17, 36.40355625, 5.25355625, 135"
+            "name": "oompParts",
+            "value": "R16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R18, 38.023225, 14.2474875, 45"
+            "name": "oompParts",
+            "value": "R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R19, 39.464646875, 10.164646875, 225"
+            "name": "oompParts",
+            "value": "R18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R20, 38.8857875, 11.3857875, 225"
+            "name": "oompParts",
+            "value": "R19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.725, 8.89, 135"
+            "name": "oompParts",
+            "value": "R20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 19.7625, 4.85, 90"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 20.55, 9.2, 0"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 4n7, 0805-R2013X50N, Arduino-rcl, (6.8675, 6.475), R0"
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 100n, 0402-1005X55N, Arduino-rcl, (11.27, 12.5), R0"
+            "name": "rawParts",
+            "value": "C1,4n7,C4.7NF-0805,0805-R2013X50N,SMD Capacitor,0689,http://www.kemet.com/Lists/ProductCatalog/Attachments/40/KEM_C1010_X7R_HV_SMD.pdf,www.kemet.com/docfinder?Partnumber=C0805C472KDRACTU,399-6738-1-ND,Kemet,C0805C472KDRACTU,-,,4n7,1KV,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 22u, 0805-R2013X50N, Arduino-rcl, (14.1625, 13), R180"
+            "name": "rawParts",
+            "value": "C2,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 22u, 0805-R2013X50N, Arduino-rcl, (41.625, 8.89), R90"
+            "name": "rawParts",
+            "value": "C3,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 4u7, 0402-1005X55N, Arduino-rcl, (7.2375, 3.505), R90"
+            "name": "rawParts",
+            "value": "C4,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,"
         },
         {
-            "name": "rawPart",
-            "value": "C6, 1u, 0402-1005X55N, Arduino-rcl, (22.01, 5.3375), R270"
+            "name": "rawParts",
+            "value": "C5,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,"
         },
         {
-            "name": "rawPart",
-            "value": "C7, 100n, 0402-1005X55N, Arduino-rcl, (6.2625, 3.505), R90"
+            "name": "rawParts",
+            "value": "C6,1u,C-1UF-0402,0402-1005X55N,SMD Capacitor,0133,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R61E105KA12D/490-10017-1-ND/5026367,490-10017-1-ND,Murata,GRM155R61E105KA12D ,-,,1u,,"
         },
         {
-            "name": "rawPart",
-            "value": "C8, 100n, 0402-1005X55N, Arduino-rcl, (37.8675, 8.89), R180"
+            "name": "rawParts",
+            "value": "C7,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,"
         },
         {
-            "name": "rawPart",
-            "value": "C9, 4u7, 0402-1005X55N, Arduino-rcl, (26.1325, 4.355), R0"
+            "name": "rawParts",
+            "value": "C8,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,"
         },
         {
-            "name": "rawPart",
-            "value": "C10, 100n, 0402-1005X55N, Arduino-rcl, (26.1325, 5.4025), R0"
+            "name": "rawParts",
+            "value": "C9,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,"
         },
         {
-            "name": "rawPart",
-            "value": "C11, 100n, 0402-1005X55N, Arduino-rcl, (18.6, 13.1), R90"
+            "name": "rawParts",
+            "value": "C10,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,"
         },
         {
-            "name": "rawPart",
-            "value": "D+, DNP, TP-1.00MM, Arduino-utility, (1.778, 11.811), R0"
+            "name": "rawParts",
+            "value": "C11,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,"
         },
         {
-            "name": "rawPart",
-            "value": "D-, DNP, TP-1.00MM, Arduino-utility, (1.778, 14.351), R0"
+            "name": "rawParts",
+            "value": "D+,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, PRTR5V, SOT190P230X110-4N, Arduino-diodes, (7.23, 9.2), R90"
+            "name": "rawParts",
+            "value": "D-,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, PMEG6020, SODFL3517X110N, Arduino-diodes, (7.9, 12.95), R180"
+            "name": "rawParts",
+            "value": "D1,PRTR5V,PRTR5V0U2X,215,SOT190P230X110-4N,USB ESD protection,2209,http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/PRTR5V0U2X,215/568-4140-1-ND/1589981,568-4140-1-ND,NXP,PRTR5V0U2X,215,,,PRTR5V,,"
         },
         {
-            "name": "rawPart",
-            "value": "D3, DNP, SODFL3517X110N, Arduino-diodes, (41.65, 13), R90"
+            "name": "rawParts",
+            "value": "D2,PMEG6020,PMEG6020AELRX,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,2208,http://www.nxp.com/documents/data_sheet/PMEG6020AELR.pdf,http://www.digikey.com/products/en?keywords=%20568-12710-1-ND, 568-12710-1-ND,NXP,PMEG6020AELRX,,,PMEG6020,,"
         },
         {
-            "name": "rawPart",
-            "value": "DL1, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (1.9, 3.1), R180"
+            "name": "rawParts",
+            "value": "D3,DNP,PMEG6020AELRX-DNP,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "DL2, GREEN, LEDC1608X80N-AK, Arduino-diodes, (1.9, 14.7), R180"
+            "name": "rawParts",
+            "value": "DL1,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,"
         },
         {
-            "name": "rawPart",
-            "value": "DL3, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (25.6, 8.45), R270"
+            "name": "rawParts",
+            "value": "DL2,GREEN,LED-GREEN-0603,LEDC1608X80N-AK,LED,2204,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMG-C190/516-1425-1-ND/637749,516-1425-1-ND,Avago ,HSMG-C190 ,,,GREEN,,"
         },
         {
-            "name": "rawPart",
-            "value": "DL4, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (24.05, 8.45), R270"
+            "name": "rawParts",
+            "value": "DL3,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD1, DNP, FD-1-1.5, Arduino-utility, (7.94, 12.99), R0"
+            "name": "rawParts",
+            "value": "DL4,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD2, DNP, FD-1-1.5, Arduino-utility, (33.9, 8.83), R0"
+            "name": "rawParts",
+            "value": "FD1,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, MPM3610, MPM3610, Arduino-ICs, (15.65, 5.2), R0"
+            "name": "rawParts",
+            "value": "FD2,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "J1, -, ZX62-AB-5PA, Arduino-connectors, (1.28, 8.89), R270"
+            "name": "rawParts",
+            "value": "FRAME1,DNP,A3-FRAME,FRAME,,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "J2, DNP, 2X03-TP, Arduino-connectors, (40.5384, 8.89), R90"
+            "name": "rawParts",
+            "value": "IC1,MPM3610,MPM3610,MPM3610,MPM3610 Step Down Regulator,2093,https://www.monolithicpower.com/pub/media/document/MPM3610_r1.01.pdf,https://www.digikey.com/product-detail/en/monolithic-power-systems-inc/MPM3610AGQV-P/1589-1249-1-ND/5298336,1589-1249-1-ND,MPS,MPM3610AGQV-P,,NO,MPM3610,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, -, 1X15-CASTELL, Arduino-connectors, (21.59, 1.27), R0"
+            "name": "rawParts",
+            "value": "J1,-,USB-MICRO,ZX62-AB-5PA,USB - micro AB USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle, Horizontal,2219,https://www.hirose.com/product/en/download_file/key_name/ZX/category/Catalog/doc_file_id/31704/?file_category_id=4&item_id=13&is_series=1,http://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-AB-5PA(31)/H125279CT-ND/5994741,H125279CT-ND ,Hirose,ZX62-AB-5PA(31) ,,,-,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, -, 1X15-CASTELL, Arduino-connectors, (21.59, 16.51), R180"
+            "name": "rawParts",
+            "value": "J2,DNP,PINHD-2X03-SMTP,2X03-TP,PIN HEADER,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "PB1, PTS820, C&K_PTS820_NO_HOLES, Arduino-pushbuttons, (11.09, 8.89), R90"
+            "name": "rawParts",
+            "value": "JP2,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, BSS138PS, SOT363, Arduino-transistors, (38.4, 5.78), R45"
+            "name": "rawParts",
+            "value": "JP3,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q2, BSS138PS, SOT363, Arduino-transistors, (38.4, 12), R135"
+            "name": "rawParts",
+            "value": "PB1,PTS820,TACTILE1PTS820-NH,C&K_PTS820_NO_HOLES,Tactile Switch SPST-NO Top Actuated Surface Mount,0173,http://www.ckswitches.com/media/1474/pts820.pdf,https://www.digikey.com/product-detail/en/c-k/PTS820-J15M-SMTR-LFS/CKN10506CT-ND/4176681,PTS820 J25K SMTR LFS-ND,C&K,PTS820 J25K SMTR LFS,,,PTS820,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 1M, 0402-1005X55N, Arduino-rcl, (6.7675, 4.975), R180"
+            "name": "rawParts",
+            "value": "Q1,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 330R, 0402-1005X55N, Arduino-rcl, (5.4, 14.7), R0"
+            "name": "rawParts",
+            "value": "Q2,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 330R, 0402-1005X55N, Arduino-rcl, (4.8, 3.0875), R0"
+            "name": "rawParts",
+            "value": "R1,1M,R-1M-0402,0402-1005X55N,SMD Resistor,0139,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402JR-07330RL/311-330JRCT-ND/729412 ,311-330JRCT-ND,Yageo,RC0402JR-07330RL,NO,,1M,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 100k, 0402-1005X55N, Arduino-rcl, (16.45, 14.5125), R0"
+            "name": "rawParts",
+            "value": "R2,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 4k7, 0402-1005X55N, Arduino-rcl, (19.6, 13.1), R90"
+            "name": "rawParts",
+            "value": "R3,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 100k, 0402-1005X55N, Arduino-rcl, (11.1375, 4.225), R270"
+            "name": "rawParts",
+            "value": "R4,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,"
         },
         {
-            "name": "rawPart",
-            "value": "R7, 0R, 0402-1005X55N, Arduino-rcl, (36.51464375, 12.793934375), R225"
+            "name": "rawParts",
+            "value": "R5,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R8, 19k1, 0402-1005X55N, Arduino-rcl, (12.275, 4.225), R90"
+            "name": "rawParts",
+            "value": "R6,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,"
         },
         {
-            "name": "rawPart",
-            "value": "R9, 39k, 0402-1005X55N, Arduino-rcl, (13.85, 10.9), R270"
+            "name": "rawParts",
+            "value": "R7,0R,R-0R-0402,0402-1005X55N,SMD Resistor,0039,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-070RL/311-0.0LRCT-ND/2827888,311-0.0LRCT-ND,Yageo,RC0402FR-070RL,NO,,0R,,"
         },
         {
-            "name": "rawPart",
-            "value": "R10, 100k, 0402-1005X55N, Arduino-rcl, (15.6, 10.6), R0"
+            "name": "rawParts",
+            "value": "R8,19k1,R-19K1-0402,0402-1005X55N,SMD Resistor,A5369,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf,https://www.digikey.it/product-detail/it/yageo/RC0402FR-0719K1L/311-19.1KLRTR-ND/726552,311-19.1KLRTR-ND,Yageo,RC0402FR-0719K1L,NO,,19k1,,"
         },
         {
-            "name": "rawPart",
-            "value": "R11, 4k7, 0402-1005X55N, Arduino-rcl, (41.75, 3.85), R270"
+            "name": "rawParts",
+            "value": "R9,39k,R-39K-0402,0402-1005X55N,SMD Resistor,A5479,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,https://www.digikey.com/product-detail/en/yageo/RC0402JR-0739KL/311-39KJRCT-ND/729420,311-39KJRCT-ND ,Yageo,RC0402JR-0739KL,NO,,39k,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 330R, 0402-1005X55N, Arduino-rcl, (24.3, 5.15), R270"
+            "name": "rawParts",
+            "value": "R10,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,"
         },
         {
-            "name": "rawPart",
-            "value": "R13, 330R, 0402-1005X55N, Arduino-rcl, (23.3, 5.15), R270"
+            "name": "rawParts",
+            "value": "R11,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R14, 4k7, 0402-1005X55N, Arduino-rcl, (39.46464375, 7.64393125), R135"
+            "name": "rawParts",
+            "value": "R12,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,"
         },
         {
-            "name": "rawPart",
-            "value": "R15, 4k7, 0402-1005X55N, Arduino-rcl, (40.90858125, 6.25), R315"
+            "name": "rawParts",
+            "value": "R13,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,"
         },
         {
-            "name": "rawPart",
-            "value": "R16, 4k7, 0402-1005X55N, Arduino-rcl, (37.835353125, 3.81464375), R315"
+            "name": "rawParts",
+            "value": "R14,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R17, 4k7, 0402-1005X55N, Arduino-rcl, (36.40355625, 5.25355625), R135"
+            "name": "rawParts",
+            "value": "R15,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R18, 4k7, 0402-1005X55N, Arduino-rcl, (38.023225, 14.2474875), R45"
+            "name": "rawParts",
+            "value": "R16,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R19, 4k7, 0402-1005X55N, Arduino-rcl, (39.464646875, 10.164646875), R225"
+            "name": "rawParts",
+            "value": "R17,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R20, DNP, 0402-1005X55N, Arduino-rcl, (38.8857875, 11.3857875), R225"
+            "name": "rawParts",
+            "value": "R18,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, ATMEGA4809, TQFP48, Arduino-ucs&SoCs, (31.725, 8.89), R135"
+            "name": "rawParts",
+            "value": "R19,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,"
         },
         {
-            "name": "rawPart",
-            "value": "U2, AP2112K-3.3, SOT25, Arduino-ICs, (19.7625, 4.85), R90"
+            "name": "rawParts",
+            "value": "R20,DNP,R-DNP-0402,0402-1005X55N,SMD Resistor,DNP,DNP,DNP,DNP,DNP,DNP,NO,,DNP,,"
         },
         {
-            "name": "rawPart",
-            "value": "U3, ATSAMD11D14A, HVQFN24, Arduino-ucs&SoCs, (20.55, 9.2), R0"
+            "name": "rawParts",
+            "value": "U1,ATMEGA4809,ATMEGA4809,TQFP48,ATMEGA4809,ATMEGA4809,http://ww1.microchip.com/downloads/en/DeviceDoc/40002016A.pdf,https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA4809-AFR/ATMEGA4809-AFRCT-ND/8540756,ATMEGA4809-AFRCT-ND,Microchip,ATMEGA4809-AFR,,,ATMEGA4809,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,AP2112K-3.3,AP2112K-3.3,SOT25,IC REG LINEAR 3.3V 600mA SOT25,2199,https://www.diodes.com/assets/Datasheets/AP2112.pdf,https://www.digikey.com/product-detail/en/diodes-incorporated/AP2112K-3.3TRG1/AP2112K-3.3TRG1DITR-ND/4470746,AP2112K-3.3TRG1DITR-ND,Diodes Inc,AP2112K-3.3TRG1,NO,,AP2112K-3.3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,ATSAMD11D14A,ATSAMD11D14,HVQFN24,IC MCU 32BIT 16KB FLASH 24QFN,ATSAM-D11-D14A-MUT,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf,https://www.digikey.com/product-detail/it/microchip-technology/ATSAMD11D14A-MUT/ATSAMD11D14A-MUTCT-ND/5226480,ATSAMD11D14A-MUTCT-ND,Microchip,ATSAMD11D14A-MUT,,,ATSAMD11D14A,,"
         },
         {
             "name": "oompID",

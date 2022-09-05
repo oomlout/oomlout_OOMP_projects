@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1552-STAN-01>Adafruit TPA2012 or TS2012 Breakout PCB](#proj-adaf-1552-stan-01adafruit-tpa2012-or-ts2012-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,36 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 6.8999999160000005, 24.299999913999997, 90,C1, 10uF, _0805MP, microbuilder, (0.27165354, 0.95669291), R90|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C5, 5.899999884, 12.599999945999999, 0,C5, 1uF, _0805MP, microbuilder, (0.23228346, 0.49606299), R0|
-|CAPC-0805-X-UNMATCHED-01, C6, 5.899999884, 10.19999992, 0,C6, 1uF, _0805MP, microbuilder, (0.23228346, 0.4015748), R0|
-|CAPC-0805-X-UNMATCHED-01, C7, 5.899999884, 17.900000014, 0,C7, 1uF, _0805MP, microbuilder, (0.23228346, 0.70472441), R0|
-|CAPC-0805-X-UNMATCHED-01, C8, 5.899999884, 15.399999933999998, 0,C8, 1uF, _0805MP, microbuilder, (0.23228346, 0.60629921), R0|
-|UNMATCHED-0805-X-UNMATCHED-01, FB1, 13.999999939999999, 21.999999942, 0,FB1, ferrite, _0805MP, microbuilder, (0.5511811, 0.86614173), R0|
-|UNMATCHED-0805-X-UNMATCHED-01, FB2, 10.000000066, 24.000000005999997, 0,FB2, ferrite, _0805MP, microbuilder, (0.39370079, 0.94488189), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.000000099999998, 9.799999957999999, 90,J1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.7480315, 0.38582677), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 19.000000099999998, 18.000000068, 90,J2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.7480315, 0.70866142), R90|
-|<table><tr><td>![HEAD-I01-X-PI10-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI10-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI10-01<br>2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td><td>[H10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)</td></tr></table>|
-|RESE-0805-X-O104-01, R1, 12.999999908, 6.499999954, 180,R1, 100K, _0805MP, microbuilder, (0.51181102, 0.25590551), R180|
-|RESE-0805-X-O104-01, R2, 9.000000034, 6.499999954, 0,R2, 100K, _0805MP, microbuilder, (0.35433071, 0.25590551), R0|
-|RESE-0805-X-O104-01, R3, 13.700000031999998, 10.599999881999999, 0,R3, 100K, _0805MP, microbuilder, (0.53937008, 0.41732283), R0|
-|RESE-0805-X-O104-01, R4, 14.499999956, 13.400000123999998, 270,R4, 100K, _0805MP, microbuilder, (0.57086614, 0.52755906), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 11.500000113999999, 3.000000096, 270,SW1, DIPSWITCH_2PIN, microbuilder, (0.45275591, 0.11811024), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.500000082, 13.999999939999999, 0,U1, TS2012, WQFN20, microbuilder, (0.41338583, 0.5511811), R0|
 
 ## Tags
 
@@ -68,52 +42,48 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1552
 - oompID: PROJ-ADAF-1552-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 6.8999999160000005, 24.299999913999997, 90
-- oompPart: CAPC-0805-X-NF100-V50, C2, 14.499999956, 17.100000089999998, 90
-- oompPart: CAPC-0805-X-NF100-V50, C3, 13.999999939999999, 24.000000005999997, 180
-- oompPart: CAPC-0805-X-NF100-V50, C4, 10.000000066, 21.999999942, 180
-- oompPart: CAPC-0805-X-UNMATCHED-01, C5, 5.899999884, 12.599999945999999, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C6, 5.899999884, 10.19999992, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C7, 5.899999884, 17.900000014, 0
-- oompPart: CAPC-0805-X-UNMATCHED-01, C8, 5.899999884, 15.399999933999998, 0
-- oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 13.999999939999999, 21.999999942, 0
-- oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB2, 10.000000066, 24.000000005999997, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 16.699999874, 25.100000092, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 4.999999905999999, 5.999999937999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 19.000000099999998, 9.799999957999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 19.000000099999998, 18.000000068, 90
-- oompPart: HEAD-I01-X-PI10-01, JP1, 1.500000048, 13.999999939999999, 270
-- oompPart: RESE-0805-X-O104-01, R1, 12.999999908, 6.499999954, 180
-- oompPart: RESE-0805-X-O104-01, R2, 9.000000034, 6.499999954, 0
-- oompPart: RESE-0805-X-O104-01, R3, 13.700000031999998, 10.599999881999999, 0
-- oompPart: RESE-0805-X-O104-01, R4, 14.499999956, 13.400000123999998, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 11.500000113999999, 3.000000096, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$20, 20.499999894, 2.50000008, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$21, 20.499999894, 25.500000053999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.500000082, 13.999999939999999, 0
-- rawPart: C1, 10uF, _0805MP, microbuilder, (0.27165354, 0.95669291), R90
-- rawPart: C2, 0.1uF, _0805MP, microbuilder, (0.57086614, 0.67322835), R90
-- rawPart: C3, 0.1uF, _0805MP, microbuilder, (0.5511811, 0.94488189), R180
-- rawPart: C4, 0.1uF, _0805MP, microbuilder, (0.39370079, 0.86614173), R180
-- rawPart: C5, 1uF, _0805MP, microbuilder, (0.23228346, 0.49606299), R0
-- rawPart: C6, 1uF, _0805MP, microbuilder, (0.23228346, 0.4015748), R0
-- rawPart: C7, 1uF, _0805MP, microbuilder, (0.23228346, 0.70472441), R0
-- rawPart: C8, 1uF, _0805MP, microbuilder, (0.23228346, 0.60629921), R0
-- rawPart: FB1, ferrite, _0805MP, microbuilder, (0.5511811, 0.86614173), R0
-- rawPart: FB2, ferrite, _0805MP, microbuilder, (0.39370079, 0.94488189), R0
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.65748031, 0.98818898), R0
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.19685039, 0.23622047), R0
-- rawPart: J1, TERMBLOCK_1X2-3.5MM, microbuilder, (0.7480315, 0.38582677), R90
-- rawPart: J2, TERMBLOCK_1X2-3.5MM, microbuilder, (0.7480315, 0.70866142), R90
-- rawPart: JP1, 1X10_ROUND70, microbuilder, (0.05905512, 0.5511811), R270
-- rawPart: R1, 100K, _0805MP, microbuilder, (0.51181102, 0.25590551), R180
-- rawPart: R2, 100K, _0805MP, microbuilder, (0.35433071, 0.25590551), R0
-- rawPart: R3, 100K, _0805MP, microbuilder, (0.53937008, 0.41732283), R0
-- rawPart: R4, 100K, _0805MP, microbuilder, (0.57086614, 0.52755906), R270
-- rawPart: SW1, DIPSWITCH_2PIN, microbuilder, (0.45275591, 0.11811024), R270
-- rawPart: U$20, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.80708661, 0.0984252), R0
-- rawPart: U$21, MOUNTINGHOLE2.5_THICK, MOUNTINGHOLE_2.5_PLATED_THICK, microbuilder, (0.80708661, 1.00393701), R0
-- rawPart: U1, TS2012, WQFN20, microbuilder, (0.41338583, 0.5511811), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FB2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C2,0.1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C3,0.1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C4,0.1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C5,1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C6,1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C7,1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: C8,1ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
+- rawParts: FB1,ferrite,FERRITE_0805MP,_0805MP,Ferrite Bead,,
+- rawParts: FB2,ferrite,FERRITE_0805MP,_0805MP,Ferrite Bead,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: J1,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,
+- rawParts: J2,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,
+- rawParts: JP1,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,
+- rawParts: R1,100K,RESISTOR_0805MP,_0805MP,Resistors,,
+- rawParts: R2,100K,RESISTOR_0805MP,_0805MP,Resistors,,
+- rawParts: R3,100K,RESISTOR_0805MP,_0805MP,Resistors,,
+- rawParts: R4,100K,RESISTOR_0805MP,_0805MP,Resistors,,
+- rawParts: SW1,,DIPSWITCH_2PIN,DIPSWITCH_2PIN,DIP Switch - 2 Pin - [4UConnector: 19493],,
+- rawParts: U$20,MOUNTINGHOLE2.5_THICK,MOUNTINGHOLE2.5_THICK,MOUNTINGHOLE_2.5_PLATED_THICK,Mounting Hole,EXCLUDE,
+- rawParts: U$21,MOUNTINGHOLE2.5_THICK,MOUNTINGHOLE2.5_THICK,MOUNTINGHOLE_2.5_PLATED_THICK,Mounting Hole,EXCLUDE,
+- rawParts: U1,TS2012,AUDIOAMP_TPA2012D2,WQFN20,TPA2012D2 2.1W/CH Stereo Class-D Audio Amp,,
 
 
 

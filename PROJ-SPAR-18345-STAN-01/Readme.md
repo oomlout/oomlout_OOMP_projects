@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-18345-STAN-01>Qwiic Air Quality Sensor SGP40](#proj-spar-18345-stan-01qwiic-air-quality-sensor-sgp40)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,30 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.36, 0.42), R270|
-|CAPC-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270,C4, 1.0uF, 0603, SparkFun-Capacitors, (0.64, 0.42), R270|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.35, 180,D1, RED, LED-0603, SparkFun-LED, (0.125, 0.25), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0,I2C, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.5, 0.7), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 1.27, M180,J1, DNP, 1X04_NO_SILK, SparkFun-Connectors, (0.35, 0.05), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270,J2, QWIIC_RA, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 20.32, 12.7, 90,J4, QWIIC_RA, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 6.604, 6.35, M0,PWR, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.26, 0.25), MR0|
-|RESE-0603-X-UNMATCHED-01, R1, 9.143999999999998, 15.748, 90,R1, 4.7k, 0603, SparkFun-Resistors, (0.36, 0.62), R90|
-|RESE-0603-X-UNMATCHED-01, R2, 16.256, 15.748, 90,R2, 4.7k, 0603, SparkFun-Resistors, (0.64, 0.62), R90|
-|RESE-0603-X-UNMATCHED-01, R3, 6.604, 6.35, 0,R3, 1k, 0603, SparkFun-Resistors, (0.26, 0.25), R0|
-|RESE-0603-X-UNMATCHED-01, R4, 8.254999999999999, 13.208, 0,R4, 4.7, 0603, SparkFun-Resistors, (0.325, 0.52), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0,U1, SGP40, SGP40, SparkFun-Sensors, (0.5, 0.5), R0|
 
 ## Tags
 
@@ -62,40 +42,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18345
 - oompID: PROJ-SPAR-18345-STAN-01
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 9.143999999999998, 10.668, 270
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 16.256, 10.668, 270
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 3.175, 6.35, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 12.7, 17.779999999999998, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 1.27, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 5.08, 12.7, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 20.32, 12.7, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 0.7619999999999999, 24.637999999999998, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 24.511, 0.889, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 24.511, 0.889, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 0.7619999999999999, 24.637999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, PWR, 6.604, 6.35, M0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 9.143999999999998, 15.748, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 16.256, 15.748, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 6.604, 6.35, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 8.254999999999999, 13.208, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0
-- rawPart: C1, 1.0uF, 0603, SparkFun-Capacitors, (0.36, 0.42), R270
-- rawPart: C4, 1.0uF, 0603, SparkFun-Capacitors, (0.64, 0.42), R270
-- rawPart: D1, RED, LED-0603, SparkFun-LED, (0.125, 0.25), R180
-- rawPart: I2C, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.5, 0.7), MR0
-- rawPart: J1, DNP, 1X04_NO_SILK, SparkFun-Connectors, (0.35, 0.05), MR180
-- rawPart: J2, QWIIC_RA, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270
-- rawPart: J4, QWIIC_RA, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90
-- rawPart: JP1, FIDUCIAL0.2MM, FIDUCIAL-0.2MM, SparkFun-Aesthetics, (0.03, 0.97), MR0
-- rawPart: JP2, FIDUCIAL0.2MM, FIDUCIAL-0.2MM, SparkFun-Aesthetics, (0.965, 0.035), R0
-- rawPart: JP5, FIDUCIAL0.2MM, FIDUCIAL-0.2MM, SparkFun-Aesthetics, (0.965, 0.035), MR0
-- rawPart: JP6, FIDUCIAL0.2MM, FIDUCIAL-0.2MM, SparkFun-Aesthetics, (0.03, 0.97), R0
-- rawPart: PWR, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.26, 0.25), MR0
-- rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.36, 0.62), R90
-- rawPart: R2, 4.7k, 0603, SparkFun-Resistors, (0.64, 0.62), R90
-- rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.26, 0.25), R0
-- rawPart: R4, 4.7, 0603, SparkFun-Resistors, (0.325, 0.52), R0
-- rawPart: U1, SGP40, SGP40, SparkFun-Sensors, (0.5, 0.5), R0
 
 
 

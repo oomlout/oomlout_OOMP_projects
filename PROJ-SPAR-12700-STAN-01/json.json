@@ -41,44 +41,100 @@
             "value": "PROJ-SPAR-12700-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 13.97, 1.27, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 6.35, 24.13, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 7.619999999999999, 12.7, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI04-01, JP2, 19.049999999999997, 16.509999999999998, 270"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 12.7, 3.8099999999999996, 180"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.55, 0.05), R0"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.25, 0.95), R0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, USB+SHIELDUSB-A-S-NOSILK-FEMALE, USB-A-S-NOSILK-FEMALE, SparkFun-Connectors, (0.3, 0.5), R0"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X04, SparkFun-Connectors, (0.75, 0.65), R270"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 0, 0603-RES, SparkFun-Resistors, (0.5, 0.15), R180"
+            "name": "oompParts",
+            "value": "STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,USB+SHIELDUSB-A-S-NOSILK-FEMALE,USB+SHIELDUSB-A-S-NOSILK-FEMALE,USB-A-S-NOSILK-FEMALE,USB+Shield,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,0,RESISTOR0603,0603-RES,Resistor,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
         },
         {
             "name": "oompID",

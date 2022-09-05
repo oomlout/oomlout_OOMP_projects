@@ -41,196 +41,212 @@
             "value": "PROJ-SPAR-11736-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 20.32, 3.8099999999999996, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C2, 17.779999999999998, 3.6829999999999994, 270"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-0402-X-UNMATCHED-01, C3, 6.35, 5.715, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPE-0402-X-UNMATCHED-01, C4, 6.35, 9.524999999999999, 0"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C5, 17.779999999999998, 11.3538, 270"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP1, 22.86, 1.27, 90"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 0.7619999999999999, 14.477999999999998, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP4, 22.098, 2.54, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI07-01, JP10, 17.779999999999998, 13.97, 180"
+            "name": "oompParts",
+            "value": "JP10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI07-01, JP11, 17.779999999999998, 1.27, 180"
+            "name": "oompParts",
+            "value": "JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED1, 5.08, 3.175, 270"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, LED2, 5.08, 12.065, 270"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 20.32, 11.43, 270"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R1, 6.35, 8.254999999999999, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R2, 6.35, 6.985, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R3, 6.35, 10.795, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R4, 6.35, 4.444999999999999, 0"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-O103-01, R5, 20.2184, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-O103-01, R6, 20.32, 13.97, 180"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 13.843, 7.619999999999999, M270"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 6.35, 10.16, M0"
+            "name": "oompParts",
+            "value": "SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 6.35, 5.08, M0"
+            "name": "oompParts",
+            "value": "SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 13.97, 7.619999999999999, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 1.27, 7.619999999999999, 270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, EIA3216, SparkFun-Passives, (0.8, 0.15), R90"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0402-CAP, SparkFun-Capacitors, (0.7, 0.145), R270"
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 47pF, 0402-CAP, SparkFun-Capacitors, (0.25, 0.225), R0"
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 47pF, 0402-CAP, SparkFun-Capacitors, (0.25, 0.375), R0"
+            "name": "rawParts",
+            "value": "C3,47pF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 0.1uF, 0402-CAP, SparkFun-Capacitors, (0.7, 0.447), R270"
+            "name": "rawParts",
+            "value": "C4,47pF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X06_NS, SparkFun-Connectors, (0.9, 0.05), R90"
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.03, 0.57), R0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.87, 0.1), R0"
+            "name": "rawParts",
+            "value": "JP1,,M06SIP-NS,1X06_NS,Header 6,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP10, 1X07_NS, SparkFun-Connectors, (0.7, 0.55), R180"
+            "name": "rawParts",
+            "value": "JP2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP11, 1X07_NS, SparkFun-Connectors, (0.7, 0.05), R180"
+            "name": "rawParts",
+            "value": "JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, RED, LED-0603, SparkFun-LED, (0.2, 0.125), R270"
+            "name": "rawParts",
+            "value": "JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, YELLOW, LED-0603, SparkFun-LED, (0.2, 0.475), R270"
+            "name": "rawParts",
+            "value": "JP10,,M07NS,1X07_NS,Header 7,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, 2N7002PW, SOT323, SparkFun-DiscreteSemi, (0.8, 0.45), R270"
+            "name": "rawParts",
+            "value": "JP11,,M07NS,1X07_NS,Header 7,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 27, 0402-RES, SparkFun-Resistors, (0.25, 0.325), R0"
+            "name": "rawParts",
+            "value": "LED1,RED,LED0603,LED-0603,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 27, 0402-RES, SparkFun-Resistors, (0.25, 0.275), R180"
+            "name": "rawParts",
+            "value": "LED2,YELLOW,LED0603,LED-0603,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 1k, 0402-RES, SparkFun-Passives, (0.25, 0.425), R0"
+            "name": "rawParts",
+            "value": "Q1,2N7002PW,MOSFET-NCHANNELSOT323,SOT323,Generic NMOS footprint,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 1k, 0402-RES, SparkFun-Passives, (0.25, 0.175), R0"
+            "name": "rawParts",
+            "value": "R1,27,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 10k, 0402-RES, SparkFun-Passives, (0.796, 0.35), R0"
+            "name": "rawParts",
+            "value": "R2,27,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 10k, 0402-RES, SparkFun-Passives, (0.8, 0.55), R180"
+            "name": "rawParts",
+            "value": "R3,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, SJ_3, SparkFun-Passives, (0.545, 0.3), MR270"
+            "name": "rawParts",
+            "value": "R4,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, TXLED, SJ_2S-TRACE, SparkFun-Passives, (0.25, 0.4), MR0"
+            "name": "rawParts",
+            "value": "R5,10k,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ3, RXLED, SJ_2S-TRACE, SparkFun-Passives, (0.25, 0.2), MR0"
+            "name": "rawParts",
+            "value": "R6,10k,RESISTOR0402-RES,0402-RES,Resistor,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, FT231XS, SSOP20_L, SparkFun-DigitalIC, (0.55, 0.3), R0"
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,"
         },
         {
-            "name": "rawPart",
-            "value": "X1, USB-MICROB, USB-MICROB, SparkFun-Connectors, (0.05, 0.3), R270"
+            "name": "rawParts",
+            "value": "SJ2,TXLED,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,RXLED,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,FT231XS,FT231XS,SSOP20_L,FTDI FT231X Full Speed USB to Full-handshake UART,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USB-MICROB,USB-MICROB,USB-MICROB,USB Connectors,CONN-09505,"
         },
         {
             "name": "oompID",

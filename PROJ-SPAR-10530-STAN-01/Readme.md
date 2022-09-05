@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-10530-STAN-01>Triple Axis Magnetometer-HMC5883L](#proj-spar-10530-stan-01triple-axis-magnetometer-hmc5883l)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,26 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0402-X-UNMATCHED-01, C1, 11.43, 6.35, 0,C1, .1uF, 0402-CAP, SparkFun, (0.45, 0.25), R0|
-|CAPC-0402-X-NF220-01, C2, 7.619999999999999, 12.7, 270,C2, .22uF, 0402-CAP, SparkFun, (0.3, 0.5), R270|
-|CAPC-0402-X-UNMATCHED-01, C3, 10.16, 13.081, 0,C3, 4.7uF, 0402-CAP, SparkFun, (0.4, 0.515), R0|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|HEAD-I01-X-PI2.5-01, JP5, 1.27, 1.27, 0,JP5, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.05, 0.05), R0|
-|HEAD-I01-X-PI2.5-01, JP6, 12.953999999999999, 16.764, 0,JP6, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.51, 0.66), R0|
-|RESE-0402-X-UNMATCHED-01, R1, 3.8099999999999996, 8.889999999999999, 90,R1, DNP, 0402-RES, SparkFun, (0.15, 0.35), R90|
-|RESE-0402-X-UNMATCHED-01, R2, 5.08, 8.889999999999999, 90,R2, DNP, 0402-RES, SparkFun, (0.2, 0.35), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 8.889999999999999, 90,U1, HMC5883LSMD, 16LPCC, SparkFun, (0.35, 0.35), R90|
 
 ## Tags
 
@@ -58,24 +42,32 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Magnetometer-HMC5883L (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10530
 - oompID: PROJ-SPAR-10530-STAN-01
-- oompPart: CAPC-0402-X-UNMATCHED-01, C1, 11.43, 6.35, 0
-- oompPart: CAPC-0402-X-NF220-01, C2, 7.619999999999999, 12.7, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C3, 10.16, 13.081, 0
-- oompPart: HEAD-I01-X-PI04-01, JP1, 12.7, 1.27, 180
-- oompPart: HEAD-I01-X-PI2.5-01, JP5, 1.27, 1.27, 0
-- oompPart: HEAD-I01-X-PI2.5-01, JP6, 12.953999999999999, 16.764, 0
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 3.8099999999999996, 8.889999999999999, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R2, 5.08, 8.889999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.889999999999999, 8.889999999999999, 90
-- rawPart: C1, .1uF, 0402-CAP, SparkFun, (0.45, 0.25), R0
-- rawPart: C2, .22uF, 0402-CAP, SparkFun, (0.3, 0.5), R270
-- rawPart: C3, 4.7uF, 0402-CAP, SparkFun, (0.4, 0.515), R0
-- rawPart: JP1, 1X04, SparkFun, (0.5, 0.05), R180
-- rawPart: JP5, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.05, 0.05), R0
-- rawPart: JP6, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.51, 0.66), R0
-- rawPart: R1, DNP, 0402-RES, SparkFun, (0.15, 0.35), R90
-- rawPart: R2, DNP, 0402-RES, SparkFun, (0.2, 0.35), R90
-- rawPart: U1, HMC5883LSMD, 16LPCC, SparkFun, (0.35, 0.35), R90
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,.22uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP5,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,
+- rawParts: JP6,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,
+- rawParts: R1,DNP,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,DNP,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U$2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U1,HMC5883LSMD,HMC5883LSMD,16LPCC,3 Axis Digital Compass IC,,
 
 
 

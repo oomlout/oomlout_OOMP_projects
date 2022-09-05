@@ -41,76 +41,100 @@
             "value": "PROJ-SPAR-11282-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C1, 2.54, 9.2075, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C2, 1.27, 9.2075, 90"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP1, 1.27, 13.97, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 0.635, 11.049, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, JP4, 14.604999999999999, 0.635, 0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R1, 13.97, 9.2075, 270"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R2, 12.7, 9.2075, 270"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 13.334999999999999, 6.6674999999999995, 0"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 7.619999999999999, 0"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, 0402-CAP, SparkFun, (0.1, 0.3625), R90"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.05, 0.3625), R90"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X06, SparkFun, (0.05, 0.55), R0"
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.025, 0.435), R0"
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.575, 0.025), R0"
+            "name": "rawParts",
+            "value": "JP1,,M06SIP,1X06,Header 6,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 4.7k, 0402-RES, SparkFun, (0.55, 0.3625), R270"
+            "name": "rawParts",
+            "value": "JP2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 4.7k, 0402-RES, SparkFun, (0.5, 0.3625), R270"
+            "name": "rawParts",
+            "value": "JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, SJ_3_PASTE1&2&3, mike-temp, (0.525, 0.2625), R0"
+            "name": "rawParts",
+            "value": "JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, BMP085, BMP085, SparkFun, (0.3, 0.3), R0"
+            "name": "rawParts",
+            "value": "LOGO1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER_2WAYPASTE1&2&3,SJ_3_PASTE1&2&3,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,BMP085,BMP085,BMP085,BMP085 Pressure Sensor Great little MEMS pressure sensor. SKU: COM-09603,,"
         },
         {
             "name": "oompID",

@@ -41,84 +41,108 @@
             "value": "PROJ-SPAR-12708-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 9.524999999999999, 11.43, M0"
+            "name": "oompParts",
+            "value": "BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C1, 16.509999999999998, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, E$1, 0.8636, 2.667, 0"
+            "name": "oompParts",
+            "value": "FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, E$2, 17.8816, 14.173200000000001, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP1, 12.7, 1.27, 180"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 12.7, 15.239999999999998, 180"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 7.365999999999999, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 7.365999999999999, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 16.509999999999998, 6.35, 90"
+            "name": "oompParts",
+            "value": "SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 12.7, 180"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "BAT1, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.375, 0.45), MR0"
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.35), R0"
+            "name": "oompParts",
+            "value": "U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "E$1, FIDUCIAL-1X2, SparkFun, (0.034, 0.105), R0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "E$2, FIDUCIAL-1X2, SparkFun, (0.704, 0.558), R0"
+            "name": "rawParts",
+            "value": "BAT1,,BATTERY12PTH,BATTCON_12MM_PTH,Battery Holders,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X05, SparkFun, (0.5, 0.05), R180"
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, 32.768kHz, CRYSTAL-32KHZ-SMD, SparkFun-FreqCtrl, (0.5, 0.6), R180"
+            "name": "rawParts",
+            "value": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.29), R0"
+            "name": "rawParts",
+            "value": "JP1,,M05PTH,1X05,Header 5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 4.7k, 0603, SparkFun-Resistors, (0.15, 0.29), R0"
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, SJ_3_PASTE1&2&3, SparkFun-Passives, (0.65, 0.25), R90"
+            "name": "rawParts",
+            "value": "Q1,32.768kHz,CRYSTAL32-SMD,CRYSTAL-32KHZ-SMD,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, DS1307, SO08-TIGHT, SparkFun-FreqCtrl, (0.3, 0.5), R180"
+            "name": "rawParts",
+            "value": "R1,4.7k,4.7KOHM1/10W1%(0603),0603,RES-07857,RES-07857,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,4.7KOHM1/10W1%(0603),0603,RES-07857,RES-07857,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,,SOLDERJUMPER_2WAYPASTE1&2&3,SJ_3_PASTE1&2&3,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,DS1307,DS1307SO8-TIGHT,SO08-TIGHT,I2C real-time clock with battery backup.,,,"
         },
         {
             "name": "oompID",

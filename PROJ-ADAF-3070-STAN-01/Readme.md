@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-3070-STAN-01>Adafruit RFM LoRa Radio Breakout PCB](#proj-adaf-3070-stan-01adafruit-rfm-lora-radio-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,30 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 2.032, 13.208, 270,C1, 10uF, 0805-NO, microbuilder, (0.08, 0.52), R270|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C3, 2.413, 5.588, 0,C3, 10uF, 0805-NO, microbuilder, (0.095, 0.22), R0|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP2, 21.59, 24.511, 0,JP2, 1X01_ROUND, microbuilder, (0.85, 0.965), R0|
-|<table><tr><td>![HEAD-I01-X-PI09-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI09-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI09-01<br>2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td><td>[H09](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)</td></tr></table>|
-|RESE-0805-X-O104-01, R1, 5.334, 6.604, 270,R1, 100K, 0805-NO, microbuilder, (0.21, 0.26), R270|
-|RESE-0805-X-O104-01, R2, 5.334, 10.033, 270,R2, 100K, 0805-NO, microbuilder, (0.21, 0.395), R270|
-|RESE-0805-X-O104-01, R3, 4.699, 12.572999999999999, 180,R3, 100K, 0805-NO, microbuilder, (0.185, 0.495), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 14.731999999999998, 14.731999999999998, 90,U1, RFM69HCW, RFMHCW_SMT, microbuilder, (0.58, 0.58), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.302, 18.541999999999998, 180,U2, 74HC4050D, TSSOP16, microbuilder, (0.13, 0.73), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 2.54, 9.017, 0,U3, AP2112K-3.3, SOT23-5, microbuilder, (0.1, 0.355), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 21.59, 29.083, 270,X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (0.85, 1.145), R270|
 
 ## Tags
 
@@ -62,36 +42,34 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3070
 - oompID: PROJ-ADAF-3070-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 2.032, 13.208, 270
-- oompPart: CAPC-0805-X-NF100-V50, C2, 15.493999999999998, 26.924, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C3, 2.413, 5.588, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 21.209, 9.143999999999998, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 7.746999999999999, 15.748, 90
-- oompPart: HEAD-I01-X-PI05-01, JP1, 7.619999999999999, 27.94, 0
-- oompPart: HEAD-I01-X-PI01-01, JP2, 21.59, 24.511, 0
-- oompPart: HEAD-I01-X-PI09-01, JP3, 12.7, 2.54, 0
-- oompPart: RESE-0805-X-O104-01, R1, 5.334, 6.604, 270
-- oompPart: RESE-0805-X-O104-01, R2, 5.334, 10.033, 270
-- oompPart: RESE-0805-X-O104-01, R3, 4.699, 12.572999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 14.731999999999998, 14.731999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 3.302, 18.541999999999998, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 2.54, 9.017, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 21.59, 29.083, 270
-- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.08, 0.52), R270
-- rawPart: C2, 0.1uF, 0805-NO, microbuilder, (0.61, 1.06), R90
-- rawPart: C3, 10uF, 0805-NO, microbuilder, (0.095, 0.22), R0
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.835, 0.36), R90
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.305, 0.62), R90
-- rawPart: JP1, 1X05_ROUND_70, microbuilder, (0.3, 1.1), R0
-- rawPart: JP2, 1X01_ROUND, microbuilder, (0.85, 0.965), R0
-- rawPart: JP3, 1X09_ROUND_70, microbuilder, (0.5, 0.1), R0
-- rawPart: R1, 100K, 0805-NO, microbuilder, (0.21, 0.26), R270
-- rawPart: R2, 100K, 0805-NO, microbuilder, (0.21, 0.395), R270
-- rawPart: R3, 100K, 0805-NO, microbuilder, (0.185, 0.495), R180
-- rawPart: U1, RFM69HCW, RFMHCW_SMT, microbuilder, (0.58, 0.58), R90
-- rawPart: U2, 74HC4050D, TSSOP16, microbuilder, (0.13, 0.73), R180
-- rawPart: U3, AP2112K-3.3, SOT23-5, microbuilder, (0.1, 0.355), R0
-- rawPart: X1, uFL/SMA, SMA_EDGELAUNCH_UFL, microbuilder, (0.85, 1.145), R270
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,
+- rawParts: JP2,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,
+- rawParts: JP3,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,
+- rawParts: R1,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R2,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R3,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: U1,RFM69HCW,RFM69HCW_SMT,RFMHCW_SMT,RFM69HCW - ISM Band RF Transceiver,,
+- rawParts: U2,74HC4050D,74HC4050DTSSOP,TSSOP16,6-channel level shifter,,
+- rawParts: U3,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,
+- rawParts: X1,uFL/SMA,SMACONNECTOR_EDGE_UFL,SMA_EDGELAUNCH_UFL,SMA Connector,,
 
 
 

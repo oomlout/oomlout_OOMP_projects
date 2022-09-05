@@ -41,76 +41,92 @@
             "value": "PROJ-SPAR-12082-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C1, 10.16, 19.049999999999997, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C2, 10.16, 21.59, 180"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP2, 2.54, 21.59, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP3, 13.97, 2.54, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP6, 19.049999999999997, 19.049999999999997, 270"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI07-01, JP7, 1.27, 16.509999999999998, 270"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP8, 19.049999999999997, 24.13, 90"
+            "name": "oompParts",
+            "value": "JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP9, 1.27, 26.669999999999998, 270"
+            "name": "oompParts",
+            "value": "JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 13.97, 0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.4, 0.75), R0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uF, EIA3216, SparkFun-Capacitors, (0.4, 0.85), R180"
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.1, 0.85), R0"
+            "name": "rawParts",
+            "value": "C2,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.55, 0.1), R0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, 1X08, SparkFun, (0.75, 0.75), R270"
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, 1X07, SparkFun, (0.05, 0.65), R270"
+            "name": "rawParts",
+            "value": "JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP8, 1X02, SparkFun, (0.75, 0.95), R90"
+            "name": "rawParts",
+            "value": "JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP9, 1X02, SparkFun, (0.05, 1.05), R270"
+            "name": "rawParts",
+            "value": "JP6,,M08,1X08,Header 8,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, AD5330, TSSOP20, SparkFun, (0.4, 0.55), R0"
+            "name": "rawParts",
+            "value": "JP7,,M07,1X07,Header 7,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,,M02PTH,1X02,Header 2,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,,M02PTH,1X02,Header 2,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,AD5330,AD5330,TSSOP20,,,,"
         },
         {
             "name": "oompID",

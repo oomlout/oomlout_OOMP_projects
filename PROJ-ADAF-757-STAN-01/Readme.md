@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-757-STAN-01>4 Channel Level Shifter PCB](#proj-adaf-757-stan-014-channel-level-shifter-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,31 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.398, 14.477999999999998, 270,Q1, BSS138, SOT23, adafruit, (0.37, 0.57), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.095999999999999, 11.937999999999999, 270,Q2, BSS138, SOT23, adafruit, (0.24, 0.47), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 9.652, 7.112, 270,Q3, BSS138, SOT23, adafruit, (0.38, 0.28), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q4, 5.842, 4.064, 270,Q4, BSS138, SOT23, adafruit, (0.23, 0.16), R270|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
 
 ## Tags
 
@@ -63,34 +42,34 @@ Contents
 - sources: All source files from https://github.com/adafruit/4-Channel-Level-Shifter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/757
 - oompID: PROJ-ADAF-757-STAN-01
-- oompPart: HEAD-I01-X-PI06-01, JP3, 2.54, 10.16, 90
-- oompPart: HEAD-I01-X-PI06-01, JP4, 12.7, 10.16, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 9.398, 14.477999999999998, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 6.095999999999999, 11.937999999999999, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 9.652, 7.112, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q4, 5.842, 4.064, 270
-- oompPart: RESE-0805-X-O103-01, R1, 5.588, 17.018, 180
-- oompPart: RESE-0805-X-O103-01, R2, 9.906, 11.937999999999999, 0
-- oompPart: RESE-0805-X-O103-01, R3, 9.398, 17.018, 180
-- oompPart: RESE-0805-X-O103-01, R4, 5.588, 14.985999999999999, 180
-- oompPart: RESE-0805-X-O103-01, R5, 5.588, 9.143999999999998, 180
-- oompPart: RESE-0805-X-O103-01, R6, 9.906, 9.906, 180
-- oompPart: RESE-0805-X-O103-01, R7, 9.652, 4.064, 180
-- oompPart: RESE-0805-X-O103-01, R8, 5.588, 6.858, 180
-- rawPart: JP3, 1X06-CLEANBIG, adafruit, (0.1, 0.4), R90
-- rawPart: JP4, 1X06-CLEANBIG, adafruit, (0.5, 0.4), R90
-- rawPart: Q1, BSS138, SOT23, adafruit, (0.37, 0.57), R270
-- rawPart: Q2, BSS138, SOT23, adafruit, (0.24, 0.47), R270
-- rawPart: Q3, BSS138, SOT23, adafruit, (0.38, 0.28), R270
-- rawPart: Q4, BSS138, SOT23, adafruit, (0.23, 0.16), R270
-- rawPart: R1, 10K, R0805, adafruit, (0.22, 0.67), R180
-- rawPart: R2, 10K, R0805, adafruit, (0.39, 0.47), R0
-- rawPart: R3, 10K, R0805, adafruit, (0.37, 0.67), R180
-- rawPart: R4, 10K, R0805, adafruit, (0.22, 0.59), R180
-- rawPart: R5, 10K, R0805, adafruit, (0.22, 0.36), R180
-- rawPart: R6, 10K, R0805, adafruit, (0.39, 0.39), R180
-- rawPart: R7, 10K, R0805, adafruit, (0.38, 0.16), R180
-- rawPart: R8, 10K, R0805, adafruit, (0.22, 0.27), R180
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP3,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,
+- rawParts: JP4,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,
+- rawParts: Q1,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,
+- rawParts: Q2,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,
+- rawParts: Q3,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,
+- rawParts: Q4,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,
+- rawParts: R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R4,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R5,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R6,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R7,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
+- rawParts: R8,10K,R-US_R0805,R0805,RESISTOR, American symbol,,
 
 
 

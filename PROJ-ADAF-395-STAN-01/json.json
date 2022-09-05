@@ -41,60 +41,56 @@
             "value": "PROJ-ADAF-395-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C1, 6.731, 23.114, 270"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C2, 9.524999999999999, 23.114, 270"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI10-01, JP1, 14.604999999999999, 15.239999999999998, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI10-01, JP2, 1.9049999999999998, 15.239999999999998, 90"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R1, 8.128, 4.571999999999999, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$6, 8.254999999999999, 15.239999999999998, 0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 8.254999999999999, 15.239999999999998, 270"
+            "name": "rawParts",
+            "value": "C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, C0805, adafruit, (0.265, 0.91), R270"
+            "name": "rawParts",
+            "value": "C2,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, C0805, adafruit, (0.375, 0.91), R270"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X10_ROUND_76, microbuilder, (0.575, 0.6), R270"
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X10_ROUND_76, microbuilder, (0.075, 0.6), R90"
+            "name": "rawParts",
+            "value": "R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10K, R0805, adafruit, (0.32, 0.18), R0"
+            "name": "rawParts",
+            "value": "U$6,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$6, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.325, 0.6), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, TXB0108PWR, TSSOP20, microbuilder, (0.325, 0.6), R270"
+            "name": "rawParts",
+            "value": "U1,TXB0108PWR,TXB0108PWR,TSSOP20,8-Bit Bi-Directional Level Shifter,,"
         },
         {
             "name": "oompID",

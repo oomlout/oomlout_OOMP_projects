@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12959-STAN-01>MOSFET Power Control Kit](#proj-spar-12959-stan-01mosfet-power-control-kit)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,25 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.622, 6.858, 270,JP1, SCREWTERMINAL-3.5MM-2, SparkFun, (0.93, 0.27), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -2.54, 5.08, 90,JP2, JST-3-PTH, SparkFun, (-0.1, 0.2), R90|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.0, 1.5239999999999998, 90,JP4, SCREWTERMINAL-3.5MM-3, SparkFun, (0, 0.06), R90|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 5.08, 270,JP8, JST-2-PTH, SparkFun, (0.85, 0.2), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.43, 5.08, 270,Q1, RFP30N6LE, TO220V, SparkFun, (0.45, 0.2), R270|
-|RESE-UNMATCHED-X-O103-01, R1, 15.239999999999998, 5.08, 90,R1, 10K, AXIAL-0.3, SparkFun, (0.6, 0.2), R90|
 
 ## Tags
 
@@ -57,22 +42,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MOSFET_Power_Control_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12959
 - oompID: PROJ-SPAR-12959-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 23.622, 6.858, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, -2.54, 5.08, 90
-- oompPart: HEAD-I01-X-PI02-01, JP3, 19.049999999999997, 6.35, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 0.0, 1.5239999999999998, 90
-- oompPart: HEAD-I01-X-PI03-01, JP5, 5.08, 2.54, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP8, 21.59, 5.08, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.43, 5.08, 270
-- oompPart: RESE-UNMATCHED-X-O103-01, R1, 15.239999999999998, 5.08, 90
-- rawPart: JP1, SCREWTERMINAL-3.5MM-2, SparkFun, (0.93, 0.27), R270
-- rawPart: JP2, JST-3-PTH, SparkFun, (-0.1, 0.2), R90
-- rawPart: JP3, 1X02, SparkFun-Connectors, (0.75, 0.25), R270
-- rawPart: JP4, SCREWTERMINAL-3.5MM-3, SparkFun, (0, 0.06), R90
-- rawPart: JP5, 1X03, SparkFun, (0.2, 0.1), R90
-- rawPart: JP8, JST-2-PTH, SparkFun, (0.85, 0.2), R270
-- rawPart: Q1, RFP30N6LE, TO220V, SparkFun, (0.45, 0.2), R270
-- rawPart: R1, 10K, AXIAL-0.3, SparkFun, (0.6, 0.2), R90
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M023.5MM,SCREWTERMINAL-3.5MM-2,Header 2,,
+- rawParts: JP2,,M03JST-PTH,JST-3-PTH,Header 3,,
+- rawParts: JP3,,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,
+- rawParts: JP4,,M03SCREW,SCREWTERMINAL-3.5MM-3,Header 3,,
+- rawParts: JP5,,M03PTH,1X03,Header 3,,
+- rawParts: JP8,,M02JST-PTH-2,JST-2-PTH,Header 2,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: Q1,RFP30N6LE,MOSFET-NCHANNELPTH2,TO220V,,,
+- rawParts: R1,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,
 
 
 

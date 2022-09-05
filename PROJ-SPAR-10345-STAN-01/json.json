@@ -41,52 +41,68 @@
             "value": "PROJ-SPAR-10345-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 6.35, 6.35, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-NF100-V50, C2, 3.8099999999999996, 6.858, 270"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP1, 19.049999999999997, 1.27, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP5, 0.889, 7.874, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP6, 19.431, 5.715, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 6.35, 90"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, EIA3216, SparkFun, (0.25, 0.25), R90"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0402-CAP, SparkFun, (0.15, 0.27), R270"
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X08, SparkFun, (0.75, 0.05), R180"
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.035, 0.31), R0"
+            "name": "rawParts",
+            "value": "JP1,,M08,1X08,Header 8,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.765, 0.225), R0"
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, LIS331, LGA16-3MM, SparkFun, (0.4, 0.25), R90"
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,OSHW-LOGO-SMALL,OSHW-LOGO-SMALL,OSHW-LOGO-SMALL,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LIS331,LIS331,LGA16-3MM,LIS331HH 3-axis accelerometer,,"
         },
         {
             "name": "oompID",

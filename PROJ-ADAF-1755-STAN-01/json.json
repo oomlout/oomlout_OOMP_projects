@@ -41,20 +41,20 @@
             "value": "PROJ-ADAF-1755-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -0.7619999999999999, 0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 0.0, 1.016, 180"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, 1206, adafruit, (0, -0.03), R0"
+            "name": "rawParts",
+            "value": "LED1,,LEDSMT1206,1206,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, R0603, adafruit, (0, 0.04), R180"
+            "name": "rawParts",
+            "value": "R1,,R-US_R0603,R0603,RESISTOR, American symbol,,"
         },
         {
             "name": "oompID",

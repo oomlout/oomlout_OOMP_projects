@@ -7,7 +7,6 @@ Contents
 
 * [PROJ-SPAR-716-STAN-01>RJ45 Breakout](#proj-spar-716-stan-01rj45-breakout)
 	* [Images](#images)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,15 +23,7 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 2.54, 0,U1, RJ45, RJ45-8, SparkFun, (0.4, 0.1), R0|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Tags
 
@@ -46,10 +37,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RJ45_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/716
 - oompID: PROJ-SPAR-716-STAN-01
-- oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 15.239999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 2.54, 0
-- rawPart: JP1, 1X08, SparkFun, (0.05, 0.6), R0
-- rawPart: U1, RJ45, RJ45-8, SparkFun, (0.4, 0.1), R0
 
 
 

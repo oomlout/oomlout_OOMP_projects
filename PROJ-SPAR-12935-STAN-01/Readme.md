@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12935-STAN-01>FTDI SmartBasic](#proj-spar-12935-stan-01ftdi-smartbasic)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,38 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 17.399, 270,C1, 10uF, EIA3216, SparkFun-Capacitors, (0.15, 0.685), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 16.509999999999998, 270,C3, 10uF, EIA3216, SparkFun-Capacitors, (0.45, 0.65), R270|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C5</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C6</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CLIENT, 34.29, 16.509999999999998, 270,CLIENT, FTDI_BASIC, SparkFun-Connectors, (1.35, 0.65), R270|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 24.764999999999997, 14.604999999999999, 180,D1, GREEN, LED-0603, SparkFun-LED, (0.975, 0.575), R180|
-|UNMATCHED-0603-X-UNMATCHED-01, D2, 26.796999999999997, 14.604999999999999, 180,D2, RED, LED-0603, SparkFun-LED, (1.055, 0.575), R180|
-|UNMATCHED-0603-X-UNMATCHED-01, D4, 27.94, 4.699, 90,D4, GREEN, LED-0603, SparkFun-LED, (1.1, 0.185), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, HOST, 13.97, 1.27, 0,HOST, FTDI_DEVICE_SIDE, SparkFun-Connectors, (0.55, 0.05), R0|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|ERROR, JP4 USB Micro, 0, 0, 0,JP4, USB, Micro, B, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.085, 0.4), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 22.86, 18.541999999999998, 180,R1, 1K, 0603-RES, SparkFun-Resistors, (0.9, 0.73), R180|
-|RESE-0603-X-UNMATCHED-01, R2, 22.86, 16.764, 180,R2, 1K, 0603-RES, SparkFun-Resistors, (0.9, 0.66), R180|
-|RESE-0603-X-UNMATCHED-01, R3, 28.955999999999996, 12.065, 270,R3, 1K, 0603-RES, SparkFun-Resistors, (1.14, 0.475), R270|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R5, 25.654, 2.54, 90,R5, 1K, 0603-RES, SparkFun-Resistors, (1.01, 0.1), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 17.779999999999998, 10.16, 180,U1, FT232RLSSOP, SSOP28DB, SparkFun-DigitalIC, (0.7, 0.4), R180|
-|ERROR, U2 MIC5219 3.3V, 0, 0, 0,U2, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.55), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 26.034999999999997, 7.874, 0,U3, TS3USB221A, QFN-10-RSE, SparkFun-AnalogIC, (1.025, 0.31), R0|
 
 ## Tags
 
@@ -70,54 +42,62 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FTDI_SmartBasic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12935
 - oompID: PROJ-SPAR-12935-STAN-01
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 3.8099999999999996, 17.399, 270
-- oompPart: CAPC-0603-X-NF100-V50, C2, 1.27, 17.779999999999998, 90
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 11.43, 16.509999999999998, 270
-- oompPart: CAPC-0603-X-NF100-V50, C4, 16.891, 4.699, 0
-- oompPart: CAPC-0603-X-NF100-V50, C5, 13.97, 17.779999999999998, 90
-- oompPart: CAPC-0603-X-NF100-V50, C6, 25.907999999999998, 10.287, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CLIENT, 34.29, 16.509999999999998, 270
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 24.764999999999997, 14.604999999999999, 180
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 26.796999999999997, 14.604999999999999, 180
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D4, 27.94, 4.699, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 6.35, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 27.94, 19.049999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, HOST, 13.97, 1.27, 0
-- oompPart: HEAD-I01-X-PI02-01, JP2, 30.479999999999997, 1.27, 180
-- oompPart: ERROR, JP4 USB Micro, 0, 0, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 22.86, 18.541999999999998, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 22.86, 16.764, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 28.955999999999996, 12.065, 270
-- oompPart: RESE-0603-X-O103-01, R4, 30.353, 12.065, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 25.654, 2.54, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 7.619999999999999, 17.779999999999998, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 17.779999999999998, 10.16, 180
-- oompPart: ERROR, U2 MIC5219 3.3V, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 26.034999999999997, 7.874, 0
-- rawPart: C1, 10uF, EIA3216, SparkFun-Capacitors, (0.15, 0.685), R270
-- rawPart: C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.05, 0.7), R90
-- rawPart: C3, 10uF, EIA3216, SparkFun-Capacitors, (0.45, 0.65), R270
-- rawPart: C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.665, 0.185), R0
-- rawPart: C5, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.55, 0.7), R90
-- rawPart: C6, 0.1uF, 0603-CAP, SparkFun-Capacitors, (1.02, 0.405), R0
-- rawPart: CLIENT, FTDI_BASIC, SparkFun-Connectors, (1.35, 0.65), R270
-- rawPart: D1, GREEN, LED-0603, SparkFun-LED, (0.975, 0.575), R180
-- rawPart: D2, RED, LED-0603, SparkFun-LED, (1.055, 0.575), R180
-- rawPart: D4, GREEN, LED-0603, SparkFun-LED, (1.1, 0.185), R90
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.3, 0.25), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.1, 0.75), R0
-- rawPart: HOST, FTDI_DEVICE_SIDE, SparkFun-Connectors, (0.55, 0.05), R0
-- rawPart: JP2, M02PTH, 1X02, SparkFun-Connectors, (1.2, 0.05), R180
-- rawPart: JP4, USB, Micro, B, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.085, 0.4), R0
-- rawPart: R1, 1K, 0603-RES, SparkFun-Resistors, (0.9, 0.73), R180
-- rawPart: R2, 1K, 0603-RES, SparkFun-Resistors, (0.9, 0.66), R180
-- rawPart: R3, 1K, 0603-RES, SparkFun-Resistors, (1.14, 0.475), R270
-- rawPart: R4, 10K, 0603-RES, SparkFun-Resistors, (1.195, 0.475), R90
-- rawPart: R5, 1K, 0603-RES, SparkFun-Resistors, (1.01, 0.1), R90
-- rawPart: SJ1, JUMPER-PAD-3-2OF3_NC_BY_PASTE, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.3, 0.7), R270
-- rawPart: U1, FT232RLSSOP, SSOP28DB, SparkFun-DigitalIC, (0.7, 0.4), R180
-- rawPart: U2, MIC5219, 3.3V, SOT23-5, SparkFun-PowerIC, (0.3, 0.55), R270
-- rawPart: U3, TS3USB221A, QFN-10-RSE, SparkFun-AnalogIC, (1.025, 0.31), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CLIENT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: HOST,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,
+- rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C3,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,
+- rawParts: C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C5,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C6,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: CLIENT,,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic header with labels,,,
+- rawParts: D1,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,
+- rawParts: D2,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,
+- rawParts: D4,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: HOST,,FTDI_DEVICE,FTDI_DEVICE_SIDE,Connector which mates to FTDI basic or FTDI cable.,,,
+- rawParts: JP2,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: JP4,USB Micro B,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,CONN-11752,,
+- rawParts: LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,
+- rawParts: LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: R1,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,
+- rawParts: R2,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,
+- rawParts: R3,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,
+- rawParts: R4,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R5,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,
+- rawParts: SJ1,JUMPER-PAD-3-2OF3_NC_BY_PASTE,JUMPER-PAD-3-2OF3_NC_BY_PASTE,PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX,,,,
+- rawParts: U$1,SMART_BASIC_LOGO,SMART_BASIC_LOGO,SMART_BASIC_LOGO,,,,
+- rawParts: U1,FT232RLSSOP,FT232RLSSOP,SSOP28DB,USB UART,IC-00870,,
+- rawParts: U2,MIC5219 3.3V,V_REG_MIC52193.3V,SOT23-5,V_REG MIC5219,VREG-09872,MIC5219 3.3V,
+- rawParts: U3,TS3USB221A,TS3USB221A,QFN-10-RSE,DPDT Analog Mux,IC-12115,TS3USB221A,
 
 
 

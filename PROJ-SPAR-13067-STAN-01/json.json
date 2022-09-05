@@ -41,20 +41,44 @@
             "value": "PROJ-SPAR-13067-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI04-01, JP1, -12.7, 25.4, 90"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, -17.272000000000002, 27.432, M90"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X04, SparkFun-Connectors, (-0.5, 1), R90"
+            "name": "oompParts",
+            "value": "JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP11, 1X04-1.5MM_JST, SparkFun-Connectors, (-0.68, 1.08), MR90"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,,M04JST,1X04-1.5MM_JST,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
         },
         {
             "name": "oompID",

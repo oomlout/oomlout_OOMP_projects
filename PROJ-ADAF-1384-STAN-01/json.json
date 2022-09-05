@@ -41,60 +41,52 @@
             "value": "PROJ-ADAF-1384-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C1, 2.032, 4.953, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 2.032, 11.43, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 8.128, 11.43, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 5.08, 1.2779999839999998, 0"
+            "name": "oompParts",
+            "value": "U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O683-01, R1, 8.001, 4.953, 270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 5.08, 10.16, 0"
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 4.960999984, 270"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, _0805MP, microbuilder, (0.08, 0.195), R90"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.08, 0.45), R0"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.32, 0.45), R0"
+            "name": "rawParts",
+            "value": "R1,68K,RESISTOR_0805MP,_0805MP,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X03_ROUND, microbuilder, (0.2, 0.05031496), R0"
+            "name": "rawParts",
+            "value": "U$3,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 68K, _0805MP, microbuilder, (0.315, 0.195), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.2, 0.4), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, GA1A1S202WP, GA1A1S202WP, microbuilder, (0.2, 0.19531496), R270"
+            "name": "rawParts",
+            "value": "U1,GA1A1S202WP,GA1A1S202WP,GA1A1S202WP,GA1A1S202WP - Analog Light Sensor,,"
         },
         {
             "name": "oompID",

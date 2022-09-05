@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12040-STAN-01>INA169 Breakout](#proj-spar-12040-stan-01ina169-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,28 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP1, 10.16, 1.27, 0,JP1, M01PTH, 1X01, SparkFun-Connectors, (0.4, 0.05), R0|
-|HEAD-I01-X-PI01-01, JP2, 12.7, 1.27, 0,JP2, M01PTH, 1X01, SparkFun-Connectors, (0.5, 0.05), R0|
-|HEAD-I01-X-PI01-01, JP5, 17.779999999999998, 1.27, 0,JP5, M01PTH, 1X01, SparkFun-Connectors, (0.7, 0.05), R0|
-|HEAD-I01-X-PI01-01, JP6, 7.619999999999999, 1.27, 90,JP6, M01PTH, 1X01, SparkFun-Connectors, (0.3, 0.05), R90|
-|HEAD-I01-X-PI01-01, JP7, 15.239999999999998, 1.27, 180,JP7, M01PTH, 1X01, SparkFun-Connectors, (0.6, 0.05), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 12.7, 13.97, 0,R1, 10, 1206, SparkFun-Resistors, (0.5, 0.55), R0|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-UNMATCHED-01, R3, 12.7, 10.16, 0,R3, AXIAL-0.8, SparkFun-Resistors, (0.5, 0.4), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R4, 7.619999999999999, 17.779999999999998, 0,R4, AXIAL-0.4, SparkFun-Resistors, (0.3, 0.7), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 19.049999999999997, 17.779999999999998, 270,U1, INA169, SOT23-5, SparkFun-AnalogIC, (0.75, 0.7), R270|
 
 ## Tags
 
@@ -60,28 +42,44 @@ Contents
 - sources: All source files from https://github.com/sparkfun/INA169_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12040
 - oompID: PROJ-SPAR-12040-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 22.86, 17.779999999999998, 90
-- oompPart: HEAD-I01-X-PI01-01, JP1, 10.16, 1.27, 0
-- oompPart: HEAD-I01-X-PI01-01, JP2, 12.7, 1.27, 0
-- oompPart: HEAD-I01-X-PI01-01, JP5, 17.779999999999998, 1.27, 0
-- oompPart: HEAD-I01-X-PI01-01, JP6, 7.619999999999999, 1.27, 90
-- oompPart: HEAD-I01-X-PI01-01, JP7, 15.239999999999998, 1.27, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 12.7, 13.97, 0
-- oompPart: RESE-0603-X-O103-01, R2, 7.619999999999999, 20.32, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R3, 12.7, 10.16, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 7.619999999999999, 17.779999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 19.049999999999997, 17.779999999999998, 270
-- rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Passives, (0.9, 0.7), R90
-- rawPart: JP1, M01PTH, 1X01, SparkFun-Connectors, (0.4, 0.05), R0
-- rawPart: JP2, M01PTH, 1X01, SparkFun-Connectors, (0.5, 0.05), R0
-- rawPart: JP5, M01PTH, 1X01, SparkFun-Connectors, (0.7, 0.05), R0
-- rawPart: JP6, M01PTH, 1X01, SparkFun-Connectors, (0.3, 0.05), R90
-- rawPart: JP7, M01PTH, 1X01, SparkFun-Connectors, (0.6, 0.05), R180
-- rawPart: R1, 10, 1206, SparkFun-Resistors, (0.5, 0.55), R0
-- rawPart: R2, 10k, 0603-RES, SparkFun-Resistors, (0.3, 0.8), R0
-- rawPart: R3, AXIAL-0.8, SparkFun-Resistors, (0.5, 0.4), R0
-- rawPart: R4, AXIAL-0.4, SparkFun-Resistors, (0.3, 0.7), R0
-- rawPart: U1, INA169, SOT23-5, SparkFun-AnalogIC, (0.75, 0.7), R270
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,
+- rawParts: JP1,M01PTH,M01PTH,1X01,Header 1,,,,
+- rawParts: JP2,M01PTH,M01PTH,1X01,Header 1,,,,
+- rawParts: JP5,M01PTH,M01PTH,1X01,Header 1,,,,
+- rawParts: JP6,M01PTH,M01PTH,1X01,Header 1,,,,
+- rawParts: JP7,M01PTH,M01PTH,1X01,Header 1,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,
+- rawParts: LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,,
+- rawParts: R1,10,RESISTOR1206,1206,Resistor,,1206,1%,
+- rawParts: R2,10k,RESISTOR0603,0603-RES,Resistor,,,1%,
+- rawParts: R3,,RESISTORPTH-2W,AXIAL-0.8,Resistor,DNP,,,
+- rawParts: R4,,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,DNP,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,
+- rawParts: STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,
+- rawParts: STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,
+- rawParts: U1,INA169,INA169,SOT23-5,,,,,
 
 
 

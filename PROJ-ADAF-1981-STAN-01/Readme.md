@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1981-STAN-01>Adafruit Flora Si1145 Light Sensor PCB](#proj-adaf-1981-stan-01adafruit-flora-si1145-light-sensor-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,21 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C2, 115.0, 15.0, 90,C2, 10uF, 0805-NO, microbuilder, (115, 15), R90|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 180,U1, SI1145, SI114X, microbuilder, (0, 0), R180|
 
 ## Tags
 
@@ -53,30 +42,28 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1981
 - oompID: PROJ-ADAF-1981-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 115.0, 15.0, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -130.0, -5.0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 225.0, 0
-- oompPart: RESE-0805-X-O103-01, R2, 0.0, -115.0, 0
-- oompPart: RESE-0805-X-O103-01, R3, 0.0, 115.0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SCL1, 195.0, 115.0, 300
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SCL2, -195.0, 115.0, 60
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SDA1, 195.0, -115.0, 240
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SDA2, -195.0, -115.0, 120
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -230.0, 180
-- rawPart: C2, 10uF, 0805-NO, microbuilder, (115, 15), R90
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-130, -5), R0
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (115, -185), R0
-- rawPart: GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 225), R0
-- rawPart: R2, 10K, 0805-NO, microbuilder, (0, -115), R0
-- rawPart: R3, 10K, 0805-NO, microbuilder, (0, 115), R0
-- rawPart: SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, 115), R300
-- rawPart: SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, 115), R60
-- rawPart: SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, -115), R240
-- rawPart: SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, -115), R120
-- rawPart: U1, SI1145, SI114X, microbuilder, (0, 0), R180
-- rawPart: VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -230), R180
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SCL1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SCL2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SDA1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SDA2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: VCC,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
+- rawParts: R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
+- rawParts: SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
+- rawParts: SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
+- rawParts: SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
+- rawParts: U1,SI1145,SI114X,SI114X,Si1145/1146/1147 Proximity/UV/Ambient Light Sensor,,
+- rawParts: VCC,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
 
 
 

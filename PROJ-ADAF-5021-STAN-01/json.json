@@ -41,140 +41,132 @@
             "value": "PROJ-ADAF-5021-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C3, 27.304999999999996, 1.5239999999999998, M270"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C4, 18.3515, 4.699, M180"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C5, 20.066, -3.6194999999999995, M180"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C8, 24.637999999999998, -1.7145, M180"
+            "name": "oompParts",
+            "value": "C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, CN1 USB A, 0, 0, 0"
+            "name": "oompParts",
+            "value": "CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.636000000000001, 3.302, M180"
+            "name": "oompParts",
+            "value": "IC3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 39.9923, -4.826, M180"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 18.0975, 0.6985, M180"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 11.557, 0.0, 270"
+            "name": "oompParts",
+            "value": "POT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 34.544000000000004, 0.0, 90"
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, POT1, 23.114, 0.0, 0"
+            "name": "oompParts",
+            "value": "RST,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 30.4165, 0.0, M270"
+            "name": "oompParts",
+            "value": "SWC,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, RST, 22.733, -3.556, M180"
+            "name": "oompParts",
+            "value": "SWD,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SWC, 16.509999999999998, -3.556, M180"
+            "name": "oompParts",
+            "value": "TOUCH,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SWD, 14.224, -3.556, M180"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, TOUCH, 2.794, 3.937, 0"
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 24.447499999999998, 1.651, M180"
+            "name": "rawParts",
+            "value": "C4,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10uF, 0805-NO, microbuilder, (1.075, 0.06), MR270"
+            "name": "rawParts",
+            "value": "C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 1uF, 0603-NO, microbuilder, (0.7225, 0.185), MR180"
+            "name": "rawParts",
+            "value": "C8,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 1uF, 0603-NO, microbuilder, (0.79, -0.1425), MR180"
+            "name": "rawParts",
+            "value": "CN1,USB A,USB_TYPEAPCB,USBA_PCB,USB - Type A Connectors,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C8, 10uF, 0805-NO, microbuilder, (0.97, -0.0675), MR180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "CN1, USB, A, USBA_PCB, adafruit_electromech, (1.915, 0), R180"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.34, 0.13), MR180"
+            "name": "rawParts",
+            "value": "IC3,ATSAMD21E,ATSAMD21E,QFN32_5MM,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.5745, -0.19), MR180"
+            "name": "rawParts",
+            "value": "LED1,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC3, ATSAMD21E, QFN32_5MM, adafruit_micro, (0.7125, 0.0275), MR180"
+            "name": "rawParts",
+            "value": "LED2,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.455, 0), R270"
+            "name": "rawParts",
+            "value": "POT1,SLIDE_POT_35MM,SLIDE_POT_35MM,SLIDE_POT_35MM,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (1.36, 0), R90"
+            "name": "rawParts",
+            "value": "Q2,reset,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "POT1, SLIDE_POT_35MM, SLIDE_POT_35MM, adafruit_electromech, (0.91, 0), R0"
+            "name": "rawParts",
+            "value": "RST,TPTP16R,TPTP16R,TP16R,Test pad,,0,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q2, reset, BTN_KMR2_4.6X2.8, adafruit_electromech, (1.1975, 0), MR270"
+            "name": "rawParts",
+            "value": "SWC,TPTP15R,TPTP15R,TP15R,Test pad,,0,,"
         },
         {
-            "name": "rawPart",
-            "value": "RST, TPTP16R, TP16R, testpad, (0.895, -0.14), MR180"
+            "name": "rawParts",
+            "value": "SWD,TPTP16R,TPTP16R,TP16R,Test pad,,0,,"
         },
         {
-            "name": "rawPart",
-            "value": "SWC, TPTP15R, TP15R, testpad, (0.65, -0.14), MR180"
+            "name": "rawParts",
+            "value": "TOUCH,,TESTPOINTROUND0.5MM,TESTPOINT_ROUND_0.5MM,Test Point,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SWD, TPTP16R, TP16R, testpad, (0.56, -0.14), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "TOUCH, TESTPOINT_ROUND_0.5MM, microbuilder, (0.11, 0.155), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, AP2112K-3.3, SOT23-5, adafruit_power, (0.9625, 0.065), MR180"
+            "name": "rawParts",
+            "value": "U1,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,,,"
         },
         {
             "name": "oompID",

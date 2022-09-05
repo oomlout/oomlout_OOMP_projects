@@ -41,62 +41,6 @@
             "value": "PROJ-SPAR-9760-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 78.74, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 15.239999999999998, 66.03999999999999, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 40.64, 66.03999999999999, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S4, 27.94, 53.339999999999996, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S6, 49.529999999999994, 19.049999999999997, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 1.27, 0.0, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 13.97, 0"
-        },
-        {
-            "name": "rawPart",
-            "value": "S1, TACTILE-PTH-12MM, SparkFun, (1.1, 3.1), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "S2, TACTILE-PTH-12MM, SparkFun, (0.6, 2.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "S3, TACTILE-PTH-12MM, SparkFun, (1.6, 2.6), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "S4, TACTILE-PTH-12MM, SparkFun, (1.1, 2.1), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "S6, Reset, TACTILE-PTH, SparkFun, (1.95, 0.75), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, ARDUINO_SHIELD, DUEMILANOVE_SHIELD, SparkFun, (0.05, 0), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U2, JOYSTICK, JOYSTICK, SparkFun, (1.1, 0.55), R0"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-9760-STAN-01"
         },

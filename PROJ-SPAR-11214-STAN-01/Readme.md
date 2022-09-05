@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11214-STAN-01>MOSFET Power Controller](#proj-spar-11214-stan-01mosfet-power-controller)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,29 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH1, 3.8099999999999996, 27.94, 270,BH1, TRIG+, BUTTONHOLE, LilyPad-Wearables, (0.15, 1.1), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH2, 17.779999999999998, 22.86, 90,BH2, TRIG-, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.9), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH3, 17.779999999999998, 2.54, 90,BH3, OUT+, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.1), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH4, 3.8099999999999996, 7.619999999999999, 270,BH4, OUT-, BUTTONHOLE, LilyPad-Wearables, (0.15, 0.3), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 15.239999999999998, 270,JP1, JST-SMT, JST-2-SMD, SparkFun-Connectors, (0.7, 0.6), R270|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.795, 24.511, 0,JP3, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.965), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.795, 5.968999999999999, 180,JP4, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.235), R180|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 15.239999999999998, 90,Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90|
-|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
-|RESE-0402-X-UNMATCHED-01, R2, 11.43, 21.59, 0,R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0|
 
 ## Tags
 
@@ -61,34 +42,34 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MOSFET_Power_Controller (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11214
 - oompID: PROJ-SPAR-11214-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH1, 3.8099999999999996, 27.94, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH2, 17.779999999999998, 22.86, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH3, 17.779999999999998, 2.54, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BH4, 3.8099999999999996, 7.619999999999999, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 17.779999999999998, 15.239999999999998, 270
-- oompPart: HEAD-I01-X-PI02-01, JP2, 9.398, 2.54, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 10.795, 24.511, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 10.795, 5.968999999999999, 180
-- oompPart: HEAD-I01-X-PI02-01, JP5, 12.065, 27.94, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 20.574, 1.016, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP7, 1.016, 29.463999999999995, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 6.35, 15.239999999999998, 90
-- oompPart: RESE-0402-X-O103-01, R1, 7.619999999999999, 21.59, 0
-- oompPart: RESE-0402-X-UNMATCHED-01, R2, 11.43, 21.59, 0
-- rawPart: BH1, TRIG+, BUTTONHOLE, LilyPad-Wearables, (0.15, 1.1), R270
-- rawPart: BH2, TRIG-, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.9), R90
-- rawPart: BH3, OUT+, BUTTONHOLE, LilyPad-Wearables, (0.7, 0.1), R90
-- rawPart: BH4, OUT-, BUTTONHOLE, LilyPad-Wearables, (0.15, 0.3), R270
-- rawPart: JP1, JST-SMT, JST-2-SMD, SparkFun-Connectors, (0.7, 0.6), R270
-- rawPart: JP2, 1X02, SparkFun-Connectors, (0.37, 0.1), R0
-- rawPart: JP3, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.965), R0
-- rawPart: JP4, JST-PTH, JST-2-PTH-NS, SparkFun-Connectors, (0.425, 0.235), R180
-- rawPart: JP5, 1X02, SparkFun-Connectors, (0.475, 1.1), R180
-- rawPart: JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.81, 0.04), R0
-- rawPart: JP7, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.04, 1.16), R0
-- rawPart: Q1, FDS6630A, SO08, SparkFun-DiscreteSemi, (0.25, 0.6), R90
-- rawPart: R1, 10k, 0402-RES, SparkFun-Passives, (0.3, 0.85), R0
-- rawPart: R2, 1M, 0402-RES, SparkFun-Resistors, (0.45, 0.85), R0
+- oompParts: BH1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BH2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BH3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BH4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BH1,TRIG+,BUTTONHOLELARGE,BUTTONHOLE,,1,,,
+- rawParts: BH2,TRIG-,BUTTONHOLELARGE,BUTTONHOLE,,1,,,
+- rawParts: BH3,OUT+,BUTTONHOLELARGE,BUTTONHOLE,,1,,,
+- rawParts: BH4,OUT-,BUTTONHOLELARGE,BUTTONHOLE,,1,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,
+- rawParts: JP1,JST-SMT,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,CONN-08352,,
+- rawParts: JP2,,M02PTH,1X02,Header 2,,,,
+- rawParts: JP3,JST-PTH,M02-JST-2-PTH-NO_SILK,JST-2-PTH-NS,Header 2,1,,,
+- rawParts: JP4,JST-PTH,M02-JST-2-PTH-NO_SILK,JST-2-PTH-NS,Header 2,1,,,
+- rawParts: JP5,,M02PTH,1X02,Header 2,,,,
+- rawParts: JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,
+- rawParts: JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,
+- rawParts: Q1,FDS6630A,MOSFET-NCHANNELFDS6630A,SO08,Common NMOSFET Parts,,IC-08089,,
+- rawParts: R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,RES-00824,,
+- rawParts: R2,1M,1M-1%,0402-RES,1M-ohm SMT,,RES-07868,1M,
 
 
 

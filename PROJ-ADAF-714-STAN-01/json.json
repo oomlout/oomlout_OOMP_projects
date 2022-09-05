@@ -41,124 +41,124 @@
             "value": "PROJ-ADAF-714-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BLUE, 69.723, 48.641, 0"
+            "name": "oompParts",
+            "value": "BLUE,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, DOWN, 11.43, 3.556, 0"
+            "name": "oompParts",
+            "value": "DOWN,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GREEN, 68.326, 15.493999999999998, 180"
+            "name": "oompParts",
+            "value": "GREEN,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 52.06999999999999, 8.889999999999999, 180"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LEFT, 3.8099999999999996, 6.985, 270"
+            "name": "oompParts",
+            "value": "LEFT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 41.65599999999999, 15.493999999999998, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 28.701999999999995, 15.493999999999998, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RED, 55.117999999999995, 15.493999999999998, 0"
+            "name": "oompParts",
+            "value": "RED,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET, 75.438, 3.302, 0"
+            "name": "oompParts",
+            "value": "RESET,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RIGHT, 19.049999999999997, 6.985, 90"
+            "name": "oompParts",
+            "value": "RIGHT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SELECT, 27.94, 10.16, 0"
+            "name": "oompParts",
+            "value": "SELECT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, TM1, 75.438, 10.413999999999998, 0"
+            "name": "oompParts",
+            "value": "TM1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 40.386, 32.512, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, UP, 11.43, 10.16, 0"
+            "name": "oompParts",
+            "value": "UP,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "BLUE, 220, 0207/10, adafruit, (2.745, 1.915), R0"
+            "name": "rawParts",
+            "value": "BLUE,220,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "DOWN, B3F-10XX, switch-omron, (0.45, 0.14), R0"
+            "name": "rawParts",
+            "value": "DOWN,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "GREEN, 330, 0207/10, adafruit, (2.69, 0.61), R180"
+            "name": "rawParts",
+            "value": "GREEN,330,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, MCP23017SP2, DIL28-3-ROUND, adafruit, (2.05, 0.35), R180"
+            "name": "rawParts",
+            "value": "IC1,MCP23017SP2,MCP23017SP2,DIL28-3-ROUND,http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf,,"
         },
         {
-            "name": "rawPart",
-            "value": "LEFT, B3F-10XX, switch-omron, (0.15, 0.275), R270"
+            "name": "rawParts",
+            "value": "LEFT,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 4.7K, 0207/10, adafruit, (1.64, 0.61), R0"
+            "name": "rawParts",
+            "value": "R1,4.7K,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 4.7K, 0207/10, adafruit, (1.13, 0.61), R180"
+            "name": "rawParts",
+            "value": "R2,4.7K,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "RED, 220, 0207/10, adafruit, (2.17, 0.61), R0"
+            "name": "rawParts",
+            "value": "RED,220,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "RESET, B3F-10XX, switch-omron, (2.97, 0.13), R0"
+            "name": "rawParts",
+            "value": "RESET,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "RIGHT, B3F-10XX, switch-omron, (0.75, 0.275), R90"
+            "name": "rawParts",
+            "value": "RIGHT,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "SELECT, B3F-10XX, switch-omron, (1.1, 0.4), R0"
+            "name": "rawParts",
+            "value": "SELECT,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "TM1, 10K, 6MM, adafruit, (2.97, 0.41), R0"
+            "name": "rawParts",
+            "value": "TM1,10K,TRIM,6MM,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, HD44780LCD_RGBLONGPINS, LCD1602-RGB, adafruit, (1.59, 1.28), R0"
+            "name": "rawParts",
+            "value": "U$1,HD44780LCD_RGBLONGPINS,HD44780LCD_RGBLONGPINS,LCD1602-RGB,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, ARDUINOR3-NOIOREF-NOTEXT, ARDUINOR3-NOTEXT-NOIOREF, adafruit, (0, 0), R0"
+            "name": "rawParts",
+            "value": "U1,ARDUINOR3-NOIOREF-NOTEXT,ARDUINOR3-NOIOREF-NOTEXT,ARDUINOR3-NOTEXT-NOIOREF,,,"
         },
         {
-            "name": "rawPart",
-            "value": "UP, B3F-10XX, switch-omron, (0.45, 0.4), R0"
+            "name": "rawParts",
+            "value": "UP,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
             "name": "oompID",

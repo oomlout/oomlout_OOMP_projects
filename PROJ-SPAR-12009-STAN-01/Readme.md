@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12009-STAN-01>Logic Level Converter](#proj-spar-12009-stan-01logic-level-converter)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,29 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 2.54, 6.35, 0,Q1, BSS138, SOT23-3, SparkFun, (0.1, 0.25), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 6.35, 0,Q2, BSS138, SOT23-3, SparkFun, (0.5, 0.25), R0|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O203-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O203-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O203-01<br>SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td><td>[R6203](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O203-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O203-01/image_140.jpg)</td><td> R9</td><td>[RESE-0603-X-O203-01<br>SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td><td>[R6203](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td></tr></table>|
 
 ## Tags
 
@@ -61,34 +42,40 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12009
 - oompID: PROJ-SPAR-12009-STAN-01
-- oompPart: HEAD-I01-X-PI06-01, JP1, 13.97, 1.27, M0
-- oompPart: HEAD-I01-X-PI06-01, JP2, 1.27, 11.43, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 12.7, 4.826, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP4, 0.635, 7.112, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 2.54, 6.35, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 12.7, 6.35, 0
-- oompPart: RESE-0603-X-O103-01, R1, 6.35, 8.001, 90
-- oompPart: RESE-0603-X-O103-01, R3, 2.54, 3.8099999999999996, 0
-- oompPart: RESE-0603-X-O103-01, R4, 2.54, 8.889999999999999, 180
-- oompPart: RESE-0603-X-O203-01, R5, 6.35, 4.699, 90
-- oompPart: RESE-0603-X-O103-01, R6, 12.7, 3.8099999999999996, 0
-- oompPart: RESE-0603-X-O103-01, R7, 12.7, 8.889999999999999, 0
-- oompPart: RESE-0603-X-O103-01, R8, 8.889999999999999, 8.001, 90
-- oompPart: RESE-0603-X-O203-01, R9, 8.889999999999999, 4.699, 90
-- rawPart: JP1, 1X06, SparkFun, (0.55, 0.05), MR0
-- rawPart: JP2, 1X06, SparkFun, (0.05, 0.45), MR180
-- rawPart: JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.5, 0.19), R0
-- rawPart: JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.025, 0.28), R0
-- rawPart: Q1, BSS138, SOT23-3, SparkFun, (0.1, 0.25), R0
-- rawPart: Q2, BSS138, SOT23-3, SparkFun, (0.5, 0.25), R0
-- rawPart: R1, 10K, 0603-RES, SparkFun, (0.25, 0.315), R90
-- rawPart: R3, 10K, 0603-RES, SparkFun, (0.1, 0.15), R0
-- rawPart: R4, 10K, 0603-RES, SparkFun, (0.1, 0.35), R180
-- rawPart: R5, 20K, 0603-RES, SparkFun, (0.25, 0.185), R90
-- rawPart: R6, 10K, 0603-RES, SparkFun, (0.5, 0.15), R0
-- rawPart: R7, 10K, 0603-RES, SparkFun, (0.5, 0.35), R0
-- rawPart: R8, 10K, 0603-RES, SparkFun, (0.35, 0.315), R90
-- rawPart: R9, 20K, 0603-RES, SparkFun, (0.35, 0.185), R90
+- oompParts: CC_TEXT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: CC_TEXT1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,Creative Commons License summary,,
+- rawParts: JP1,,M06SIP,1X06,Header 6,,
+- rawParts: JP2,,M06SIP,1X06,Header 6,,
+- rawParts: JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,
+- rawParts: Q1,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,
+- rawParts: Q2,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,
+- rawParts: R1,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R4,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R5,20K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R6,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R7,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R8,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R9,20K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
 
 
 

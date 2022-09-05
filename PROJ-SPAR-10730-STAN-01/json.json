@@ -41,44 +41,68 @@
             "value": "PROJ-SPAR-10730-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, BAT1 20mm coincell, 0, 0, 0"
+            "name": "oompParts",
+            "value": "BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 8.762999999999998, -8.762999999999998, 47"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, -8.762999999999998, -8.762999999999998, 313"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 8.762999999999998, 8.762999999999998, 133"
+            "name": "oompParts",
+            "value": "U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, -8.762999999999998, 8.762999999999998, 227"
+            "name": "oompParts",
+            "value": "U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "BAT1, 20mm, coincell, BATTCON_20MM_4LEGS_OVERPASTE, SparkFun-Electromechanical, (0, 0), R90"
+            "name": "oompParts",
+            "value": "U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, -0.345), R47"
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, -0.345), R313"
+            "name": "oompParts",
+            "value": "U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.345, 0.345), R133"
+            "name": "rawParts",
+            "value": "BAT1,20mm coincell,BATTERY20MM_4LEGS_OVERPASTE,BATTCON_20MM_4LEGS_OVERPASTE,Battery Holders,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.345, 0.345), R227"
+            "name": "rawParts",
+            "value": "U$1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
         },
         {
             "name": "oompID",

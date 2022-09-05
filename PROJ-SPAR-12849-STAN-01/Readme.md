@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12849-STAN-01>RN-52](#proj-spar-12849-stan-01rn-52)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 10.16, 24.13, 180,D1, GREEN, LED-0603, SparkFun-LED, (0.4, 0.95), R180|
-|UNMATCHED-0603-X-UNMATCHED-01, D2, 25.4, 24.13, 180,D2, RED, LED-0603, SparkFun-LED, (1, 0.95), R180|
-|<table><tr><td>![HEAD-I01-X-PI20-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI20-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI20-01<br>2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td><td>[H20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI20-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI20-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI20-01<br>2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td><td>[H20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 17.779999999999998, 40.64, 0,U1, BLUETOOTH-RN-52, RN-52, SparkFun-RF, (0.7, 1.6), R0|
 
 ## Tags
 
@@ -56,24 +42,34 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RN-52 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12849
 - oompID: PROJ-SPAR-12849-STAN-01
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 10.16, 24.13, 180
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 25.4, 24.13, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.0584, 29.6926, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 27.94, 1.27, 0
-- oompPart: HEAD-I01-X-PI20-01, JP1, 1.27, 1.27, 90
-- oompPart: HEAD-I01-X-PI20-01, JP2, 34.29, 49.529999999999994, 270
-- oompPart: RESE-0603-X-O331-01, R1, 12.7, 24.13, 90
-- oompPart: RESE-0603-X-O331-01, R2, 22.86, 24.13, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 17.779999999999998, 40.64, 0
-- rawPart: D1, GREEN, LED-0603, SparkFun-LED, (0.4, 0.95), R180
-- rawPart: D2, RED, LED-0603, SparkFun-LED, (1, 0.95), R180
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.396, 1.169), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.1, 0.05), R0
-- rawPart: JP1, M20, 1X20, SparkFun-Connectors, (0.05, 0.05), R90
-- rawPart: JP2, M20, 1X20, SparkFun-Connectors, (1.35, 1.95), R270
-- rawPart: R1, 330, 0603-RES, SparkFun-Resistors, (0.5, 0.95), R90
-- rawPart: R2, 330, 0603-RES, SparkFun-Resistors, (0.9, 0.95), R90
-- rawPart: U1, BLUETOOTH-RN-52, RN-52, SparkFun-RF, (0.7, 1.6), R0
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: D1,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,
+- rawParts: D2,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,M20,M20,1X20,1x20 .1 header,,,
+- rawParts: JP2,M20,M20,1X20,1x20 .1 header,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,
+- rawParts: LOGO4,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,,
+- rawParts: R1,330,RESISTOR0603-RES,0603-RES,Resistor,,,
+- rawParts: R2,330,RESISTOR0603-RES,0603-RES,Resistor,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: U1,BLUETOOTH-RN-52,BLUETOOTH-RN-52,RN-52,,,,
 
 
 

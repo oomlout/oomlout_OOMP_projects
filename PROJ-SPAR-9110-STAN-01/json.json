@@ -41,22 +41,6 @@
             "value": "PROJ-SPAR-9110-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP1, 17.779999999999998, 1.27, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 17.779999999999998, 0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, 1X05, SparkFun, (0.7, 0.05), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, JOYSTICKPTH, JOYSTICK, SparkFun, (0.5, 0.7), R0"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-9110-STAN-01"
         },

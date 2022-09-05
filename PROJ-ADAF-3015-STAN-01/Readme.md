@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-3015-STAN-01>Adafruit PiGRRL PCB](#proj-adaf-3015-stan-01adafruit-pigrrl-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,22 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.450000054, 22.499999958, 180,B1, B3F-10XX, switch-omron, (0.25393701, 0.88582677), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, 14.300000102, 30.350000006, 180,B2, B3F-10XX, switch-omron, (0.56299213, 1.19488189), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B3, 22.149999895999997, 22.499999958, 180,B3, B3F-10XX, switch-omron, (0.87204724, 0.88582677), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B4, 14.300000102, 14.649999909999998, 180,B4, B3F-10XX, switch-omron, (0.56299213, 0.57677165), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, HEADER, 14.249999947999997, 37.872999946, 0,HEADER, 1X06, pinhead, (0.56102362, 1.49106299), R0|
 
 ## Tags
 
@@ -54,16 +42,16 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-PiGRRL-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3015
 - oompID: PROJ-ADAF-3015-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 6.450000054, 22.499999958, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B2, 14.300000102, 30.350000006, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B3, 22.149999895999997, 22.499999958, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B4, 14.300000102, 14.649999909999998, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, HEADER, 14.249999947999997, 37.872999946, 0
-- rawPart: B1, B3F-10XX, switch-omron, (0.25393701, 0.88582677), R180
-- rawPart: B2, B3F-10XX, switch-omron, (0.56299213, 1.19488189), R180
-- rawPart: B3, B3F-10XX, switch-omron, (0.87204724, 0.88582677), R180
-- rawPart: B4, B3F-10XX, switch-omron, (0.56299213, 0.57677165), R180
-- rawPart: HEADER, 1X06, pinhead, (0.56102362, 1.49106299), R0
+- oompParts: B1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: B2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: B3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: B4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: HEADER,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: B1,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,
+- rawParts: B2,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,
+- rawParts: B3,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,
+- rawParts: B4,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,
+- rawParts: HEADER,,PINHD-1X6,1X06,PIN HEADER,,,,,
 
 
 

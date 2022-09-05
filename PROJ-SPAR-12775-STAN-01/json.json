@@ -41,84 +41,100 @@
             "value": "PROJ-SPAR-12775-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-1210-X-UNMATCHED-01, C1, 17.779999999999998, 1.5875, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C2, 11.43, 1.27, 180"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 1.27, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 25.4, 15.239999999999998, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP1, 1.27, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP2, 1.27, 19.049999999999997, 270"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP3, 1.27, 6.35, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP4, 26.669999999999998, 19.049999999999997, 270"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP5, 26.669999999999998, 6.35, 270"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 13.97, 11.43, 0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, 1210, SparkFun-Capacitors, (0.7, 0.0625), R0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.05), R180"
+            "name": "rawParts",
+            "value": "C1,10uF,10UF50V20%(1210),1210,CAP-09824,CAP-09824,10uF,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.3, 0.05), R0"
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 0.6), R0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X02_NO_SILK, mike-temp, (0.05, 0.05), R90"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X05_ROUNDONLY_NOSILK, mike-temp, (0.05, 0.75), R270"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X01NS, mike-temp, (0.05, 0.25), R0"
+            "name": "rawParts",
+            "value": "JP1,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X05_ROUNDONLY_NOSILK, mike-temp, (1.05, 0.75), R270"
+            "name": "rawParts",
+            "value": "JP2,,M05_ROUNDONLY_NOSILK,1X05_ROUNDONLY_NOSILK,Header 5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, ANTENNA, 1X03_ROUND_ONLY_NO_SILK, mike-temp, (1.05, 0.25), R270"
+            "name": "rawParts",
+            "value": "JP3,,M01SMDNS,1X01NS,Header 1,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, RFM69HCW, RFM69HCW-XXXS2, mike-temp, (0.55, 0.45), R0"
+            "name": "rawParts",
+            "value": "JP4,,M05_ROUNDONLY_NOSILK,1X05_ROUNDONLY_NOSILK,Header 5,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,ANTENNA,M03_ROUND_ONLY_NO_SILK,1X03_ROUND_ONLY_NO_SILK,Header 3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,RFM69HCW,RFM69HCW,RFM69HCW-XXXS2,,,,"
         },
         {
             "name": "oompID",

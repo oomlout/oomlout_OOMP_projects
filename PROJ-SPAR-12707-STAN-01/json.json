@@ -41,1180 +41,1260 @@
             "value": "PROJ-SPAR-12707-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 24.13, 20.955, M90"
+            "name": "oompParts",
+            "value": "BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 29.209999999999997, 22.86, 180"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C2, 24.13, 40.64, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C3, 57.15, 33.654999999999994, 90"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C4, 24.13, 48.26, 0"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C5, 41.91, 26.669999999999998, 180"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C6, 67.30999999999999, 34.29, 0"
+            "name": "oompParts",
+            "value": "C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C7, 31.75, 46.99, 180"
+            "name": "oompParts",
+            "value": "C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C8, 41.91, 51.434999999999995, 90"
+            "name": "oompParts",
+            "value": "C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C9, 38.099999999999994, 82.55, M0"
+            "name": "oompParts",
+            "value": "C9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C10, 50.8, 12.7, 270"
+            "name": "oompParts",
+            "value": "C10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C11, 29.209999999999997, 12.7, 0"
+            "name": "oompParts",
+            "value": "C11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 58.419999999999995, 12.7, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 55.88, 12.7, 270"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 21.59, 77.46999999999998, 180"
+            "name": "oompParts",
+            "value": "D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D100, 81.28, 13.97, 270"
+            "name": "oompParts",
+            "value": "D100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D101, 88.89999999999999, 13.97, 90"
+            "name": "oompParts",
+            "value": "D101,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D200, 91.44, 13.97, 270"
+            "name": "oompParts",
+            "value": "D200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D201, 99.05999999999999, 13.97, 90"
+            "name": "oompParts",
+            "value": "D201,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D300, 101.6, 13.97, 270"
+            "name": "oompParts",
+            "value": "D300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D301, 109.21999999999998, 13.97, 90"
+            "name": "oompParts",
+            "value": "D301,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D400, 111.76, 13.97, 270"
+            "name": "oompParts",
+            "value": "D400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D401, 119.38, 13.97, 90"
+            "name": "oompParts",
+            "value": "D401,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D500, 121.91999999999999, 13.97, 270"
+            "name": "oompParts",
+            "value": "D500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D501, 129.54, 13.97, 90"
+            "name": "oompParts",
+            "value": "D501,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D600, 132.07999999999998, 13.97, 270"
+            "name": "oompParts",
+            "value": "D600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D601, 139.7, 13.97, 90"
+            "name": "oompParts",
+            "value": "D601,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D700, 142.23999999999998, 13.97, 270"
+            "name": "oompParts",
+            "value": "D700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D701, 149.86, 13.97, 90"
+            "name": "oompParts",
+            "value": "D701,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D800, 152.39999999999998, 13.97, 270"
+            "name": "oompParts",
+            "value": "D800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D801, 160.01999999999998, 13.97, 90"
+            "name": "oompParts",
+            "value": "D801,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D900, 162.56, 13.97, 270"
+            "name": "oompParts",
+            "value": "D900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D901, 170.18, 13.97, 90"
+            "name": "oompParts",
+            "value": "D901,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1000, 172.72, 13.97, 270"
+            "name": "oompParts",
+            "value": "D1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1001, 180.33999999999997, 13.97, 90"
+            "name": "oompParts",
+            "value": "D1001,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 34.29, 38.099999999999994, 270"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 33.019999999999996, 67.30999999999999, 90"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC3, 62.230000000000004, 58.419999999999995, 90"
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC4, 63.5, 80.00999999999999, 270"
+            "name": "oompParts",
+            "value": "IC3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC5, 41.91, 13.97, 270"
+            "name": "oompParts",
+            "value": "IC4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC6, 69.85, 21.59, 90"
+            "name": "oompParts",
+            "value": "IC5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP1, 6.35, 74.93, 0"
+            "name": "oompParts",
+            "value": "IC6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP2, 6.35, 80.00999999999999, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP3, 38.099999999999994, 46.99, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP4, 6.35, 77.46999999999998, 90"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP5, 45.72, 59.69, 90"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP6, 6.35, 72.39, 0"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP7, 6.35, 69.85, 0"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP100, 81.28, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP200, 91.44, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP300, 101.6, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP400, 111.76, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP500, 121.91999999999999, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP600, 132.07999999999998, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP700, 142.23999999999998, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP800, 152.39999999999998, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP900, 162.56, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP1000, 172.72, 1.27, 90"
+            "name": "oompParts",
+            "value": "JP900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 43.18, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "JP1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED100, 85.09, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED200, 95.25, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED300, 105.41, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED400, 115.57, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED500, 125.73, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED600, 135.89, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED700, 146.04999999999998, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED800, 156.21, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED900, 166.36999999999998, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1000, 176.53, 71.11999999999999, 0"
+            "name": "oompParts",
+            "value": "LED900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q100, 85.09, 78.74, 0"
+            "name": "oompParts",
+            "value": "LED1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q200, 95.25, 78.74, 0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q300, 105.41, 78.74, 0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q400, 115.57, 78.74, 0"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q500, 125.73, 78.74, 0"
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q600, 135.89, 78.74, 0"
+            "name": "oompParts",
+            "value": "Q100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q700, 146.04999999999998, 78.74, 0"
+            "name": "oompParts",
+            "value": "Q200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q800, 156.21, 78.74, 0"
+            "name": "oompParts",
+            "value": "Q300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q900, 166.36999999999998, 78.74, 0"
+            "name": "oompParts",
+            "value": "Q400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1000, 176.53, 78.74, 0"
+            "name": "oompParts",
+            "value": "Q500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 22.86, 36.195, 180"
+            "name": "oompParts",
+            "value": "Q600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R2, 29.209999999999997, 20.32, 0"
+            "name": "oompParts",
+            "value": "Q700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R3, 60.959999999999994, 12.7, 90"
+            "name": "oompParts",
+            "value": "Q800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R4, 29.209999999999997, 17.779999999999998, 180"
+            "name": "oompParts",
+            "value": "Q900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O473-01, R5, 22.86, 64.77, 90"
+            "name": "oompParts",
+            "value": "Q1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R6, 29.209999999999997, 7.619999999999999, 180"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R7, 31.75, 50.8, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R9, 72.39, 58.419999999999995, 270"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R10, 6.35, 60.959999999999994, 90"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R12, 69.85, 58.419999999999995, 90"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O473-01, R13, 76.19999999999999, 80.00999999999999, 90"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R14, 29.209999999999997, 10.16, 0"
+            "name": "oompParts",
+            "value": "R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R15, 3.8099999999999996, 60.959999999999994, 90"
+            "name": "oompParts",
+            "value": "R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R16, 25.4, 64.77, 270"
+            "name": "oompParts",
+            "value": "R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O223-01, R17, 20.32, 64.77, 90"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O223-01, R18, 73.66, 80.00999999999999, 90"
+            "name": "oompParts",
+            "value": "R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R19, 22.86, 33.654999999999994, 180"
+            "name": "oompParts",
+            "value": "R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O473-01, R20, 52.06999999999999, 60.959999999999994, 270"
+            "name": "oompParts",
+            "value": "R15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R21, 71.11999999999999, 80.00999999999999, 90"
+            "name": "oompParts",
+            "value": "R16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R22, 74.93, 58.419999999999995, 90"
+            "name": "oompParts",
+            "value": "R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R23, 55.88, 80.00999999999999, 270"
+            "name": "oompParts",
+            "value": "R18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R24, 49.529999999999994, 60.959999999999994, 270"
+            "name": "oompParts",
+            "value": "R19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R25, 49.529999999999994, 80.00999999999999, 270"
+            "name": "oompParts",
+            "value": "R20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R26, 8.889999999999999, 60.959999999999994, 90"
+            "name": "oompParts",
+            "value": "R21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R27, 40.64, 67.30999999999999, 90"
+            "name": "oompParts",
+            "value": "R22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O104-01, R28, 43.18, 67.30999999999999, 270"
+            "name": "oompParts",
+            "value": "R23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O333-01, R29, 54.60999999999999, 60.959999999999994, 90"
+            "name": "oompParts",
+            "value": "R24,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O223-01, R30, 78.74, 80.00999999999999, 270"
+            "name": "oompParts",
+            "value": "R25,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R100, 88.89999999999999, 72.39, 90"
+            "name": "oompParts",
+            "value": "R26,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R200, 99.05999999999999, 72.39, 90"
+            "name": "oompParts",
+            "value": "R27,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R300, 109.21999999999998, 72.39, 90"
+            "name": "oompParts",
+            "value": "R28,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R400, 119.38, 72.39, 90"
+            "name": "oompParts",
+            "value": "R29,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R500, 129.54, 72.39, 90"
+            "name": "oompParts",
+            "value": "R30,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R600, 139.7, 72.39, 90"
+            "name": "oompParts",
+            "value": "R100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R700, 149.86, 72.39, 90"
+            "name": "oompParts",
+            "value": "R200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R800, 160.01999999999998, 72.39, 90"
+            "name": "oompParts",
+            "value": "R300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R900, 170.18, 72.39, 90"
+            "name": "oompParts",
+            "value": "R400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1000, 180.33999999999997, 72.39, 90"
+            "name": "oompParts",
+            "value": "R500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RV1, 13.97, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "R600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RV2, 64.77, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "R700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 22.86, 85.09, 270"
+            "name": "oompParts",
+            "value": "R800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, S3 Play Button, 0, 0, 0"
+            "name": "oompParts",
+            "value": "R900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S5, 16.509999999999998, 64.77, 0"
+            "name": "oompParts",
+            "value": "R1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S100, 85.09, 13.97, 180"
+            "name": "oompParts",
+            "value": "RV1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S200, 95.25, 13.97, 180"
+            "name": "oompParts",
+            "value": "RV2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S300, 105.41, 13.97, 180"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S400, 115.57, 13.97, 180"
+            "name": "oompParts",
+            "value": "S3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S500, 125.73, 13.97, 180"
+            "name": "oompParts",
+            "value": "S5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S600, 135.89, 13.97, 180"
+            "name": "oompParts",
+            "value": "S100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S700, 146.04999999999998, 13.97, 180"
+            "name": "oompParts",
+            "value": "S200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S800, 156.21, 13.97, 180"
+            "name": "oompParts",
+            "value": "S300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S900, 166.36999999999998, 13.97, 180"
+            "name": "oompParts",
+            "value": "S400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1000, 176.53, 13.97, 180"
+            "name": "oompParts",
+            "value": "S500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 2.54, 27.94, 180"
+            "name": "oompParts",
+            "value": "S600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 2.54, 30.479999999999997, 180"
+            "name": "oompParts",
+            "value": "S700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 2.54, 33.019999999999996, 180"
+            "name": "oompParts",
+            "value": "S800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 2.54, 25.4, 180"
+            "name": "oompParts",
+            "value": "S900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ5, 41.91, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "S1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR100, 85.09, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR200, 95.25, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR300, 105.41, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR400, 115.57, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR500, 125.73, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "SJ5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR600, 135.89, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR700, 146.04999999999998, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR800, 156.21, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR900, 166.36999999999998, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "STANDOFF5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VR1000, 176.53, 44.449999999999996, 270"
+            "name": "oompParts",
+            "value": "STANDOFF6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "BAT1, 9V, BC9VPC_KIT, SparkFun-Connectors, (0.95, 0.825), MR90"
+            "name": "oompParts",
+            "value": "VR100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.15, 0.9), R180"
+            "name": "oompParts",
+            "value": "VR200,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uf, CPOL-RADIAL-10UF-25V-KIT, SparkFun-Capacitors, (0.95, 1.6), R0"
+            "name": "oompParts",
+            "value": "VR300,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10uf, CPOL-RADIAL-10UF-25V-KIT, SparkFun-Capacitors, (2.25, 1.325), R90"
+            "name": "oompParts",
+            "value": "VR400,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 10uf, CPOL-RADIAL-10UF-25V-KIT, SparkFun-Capacitors, (0.95, 1.9), R0"
+            "name": "oompParts",
+            "value": "VR500,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C5, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.65, 1.05), R180"
+            "name": "oompParts",
+            "value": "VR600,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C6, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2.65, 1.35), R0"
+            "name": "oompParts",
+            "value": "VR700,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C7, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.25, 1.85), R180"
+            "name": "oompParts",
+            "value": "VR800,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C8, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.65, 2.025), R90"
+            "name": "oompParts",
+            "value": "VR900,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C9, 1000uf/25V, CPOL-RADIAL-1000UF-25V-KIT, SparkFun-Capacitors, (1.5, 3.25), MR0"
+            "name": "oompParts",
+            "value": "VR1000,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C10, 1nf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (2, 0.5), R270"
+            "name": "rawParts",
+            "value": "BAT1,9V,BC9VPCKIT_SOLDERMASK,BC9VPC_KIT,9V board-mount battery cradle,,,BATT-10855,,"
         },
         {
-            "name": "rawPart",
-            "value": "C11, .1uf, CAP-PTH-SMALL-KIT, SparkFun-Capacitors, (1.15, 0.5), R0"
+            "name": "rawParts",
+            "value": "C1,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1n4148, DIODE-1N4148-KIT, SparkFun-DiscreteSemi, (2.3, 0.5), R90"
+            "name": "rawParts",
+            "value": "C2,10uf,10UF-25V-20%(PTH)KIT,CPOL-RADIAL-10UF-25V-KIT,CAP-08440,,,CAP-08440,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, 1n4148, DIODE-1N4148-KIT, SparkFun-DiscreteSemi, (2.2, 0.5), R270"
+            "name": "rawParts",
+            "value": "C3,10uf,10UF-25V-20%(PTH)KIT,CPOL-RADIAL-10UF-25V-KIT,CAP-08440,,,CAP-08440,,"
         },
         {
-            "name": "rawPart",
-            "value": "D3, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (0.85, 3.05), R180"
+            "name": "rawParts",
+            "value": "C4,10uf,10UF-25V-20%(PTH)KIT,CPOL-RADIAL-10UF-25V-KIT,CAP-08440,,,CAP-08440,,"
         },
         {
-            "name": "rawPart",
-            "value": "D100, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (3.2, 0.55), R270"
+            "name": "rawParts",
+            "value": "C5,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D101, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (3.5, 0.55), R90"
+            "name": "rawParts",
+            "value": "C6,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D200, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (3.6, 0.55), R270"
+            "name": "rawParts",
+            "value": "C7,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D201, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (3.9, 0.55), R90"
+            "name": "rawParts",
+            "value": "C8,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D300, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (4, 0.55), R270"
+            "name": "rawParts",
+            "value": "C9,1000uf/25V,1000UF-25V(PTH)KIT,CPOL-RADIAL-1000UF-25V-KIT,CAP-08070,,,CAP-09538,1000uf/25V,"
         },
         {
-            "name": "rawPart",
-            "value": "D301, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (4.3, 0.55), R90"
+            "name": "rawParts",
+            "value": "C10,1nf,CAPKIT,CAP-PTH-SMALL-KIT,Capacitor,,,CAP-09182,,"
         },
         {
-            "name": "rawPart",
-            "value": "D400, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (4.4, 0.55), R270"
+            "name": "rawParts",
+            "value": "C11,.1uf,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,,,CAP-08370,,"
         },
         {
-            "name": "rawPart",
-            "value": "D401, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (4.7, 0.55), R90"
+            "name": "rawParts",
+            "value": "D1,1n4148,DIODEKIT,DIODE-1N4148-KIT,Diode,,,DIO-08378,,"
         },
         {
-            "name": "rawPart",
-            "value": "D500, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (4.8, 0.55), R270"
+            "name": "rawParts",
+            "value": "D2,1n4148,DIODEKIT,DIODE-1N4148-KIT,Diode,,,DIO-08378,,"
         },
         {
-            "name": "rawPart",
-            "value": "D501, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (5.1, 0.55), R90"
+            "name": "rawParts",
+            "value": "D3,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D600, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (5.2, 0.55), R270"
+            "name": "rawParts",
+            "value": "D100,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D601, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (5.5, 0.55), R90"
+            "name": "rawParts",
+            "value": "D101,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D700, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (5.6, 0.55), R270"
+            "name": "rawParts",
+            "value": "D200,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D701, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (5.9, 0.55), R90"
+            "name": "rawParts",
+            "value": "D201,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D800, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (6, 0.55), R270"
+            "name": "rawParts",
+            "value": "D300,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D801, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (6.3, 0.55), R90"
+            "name": "rawParts",
+            "value": "D301,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D900, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (6.4, 0.55), R270"
+            "name": "rawParts",
+            "value": "D400,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D901, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (6.7, 0.55), R90"
+            "name": "rawParts",
+            "value": "D401,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1000, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (6.8, 0.55), R270"
+            "name": "rawParts",
+            "value": "D500,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1001, 1N5819, DIODE-1N4001-KIT, SparkFun-DiscreteSemi, (7.1, 0.55), R90"
+            "name": "rawParts",
+            "value": "D501,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, 7555, DIP08-KIT, SparkFun-AnalogIC, (1.35, 1.5), R270"
+            "name": "rawParts",
+            "value": "D600,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC2, LM358, DIP08-KIT, SparkFun-AnalogIC, (1.3, 2.65), R90"
+            "name": "rawParts",
+            "value": "D601,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC3, LM358, DIP08-KIT, SparkFun-AnalogIC, (2.45, 2.3), R90"
+            "name": "rawParts",
+            "value": "D700,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC4, LM358, DIP08-KIT, SparkFun-AnalogIC, (2.5, 3.15), R270"
+            "name": "rawParts",
+            "value": "D701,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC5, CD4013B, DIL14-KIT, SparkFun-DigitalIC, (1.65, 0.55), R270"
+            "name": "rawParts",
+            "value": "D800,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC6, CD4017, DIL16-KIT, SparkFun-DigitalIC, (2.75, 0.85), R90"
+            "name": "rawParts",
+            "value": "D801,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, GATE, 1X01NS, SparkFun-Connectors, (0.25, 2.95), R0"
+            "name": "rawParts",
+            "value": "D900,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, CV1, 1X01NS, SparkFun-Connectors, (0.25, 3.15), R0"
+            "name": "rawParts",
+            "value": "D901,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, TEMPO_CV, 1X01NS, SparkFun-Connectors, (1.5, 1.85), R0"
+            "name": "rawParts",
+            "value": "D1000,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, CV2, 1X01NS, SparkFun-Connectors, (0.25, 3.05), R90"
+            "name": "rawParts",
+            "value": "D1001,1N5819,DIODE,DIODE-1N4001-KIT,Diode,,,DIO-11895,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, CV, 1X01NS, SparkFun-Connectors, (1.8, 2.35), R90"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, VCC, 1X01NS, SparkFun-Connectors, (0.25, 2.85), R0"
+            "name": "rawParts",
+            "value": "IC1,7555,NE555KIT,DIP08-KIT,General purpose bipolar Timer,digikey,ICM7555IPAZ-ND,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, GND, 1X01NS, SparkFun-Connectors, (0.25, 2.75), R0"
+            "name": "rawParts",
+            "value": "IC2,LM358,LM358KIT,DIP08-KIT,Jellybean op-amp,,,IC-09172,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP100, STEP1, 1X01NS, SparkFun-Connectors, (3.2, 0.15), R0"
+            "name": "rawParts",
+            "value": "IC3,LM358,LM358KIT,DIP08-KIT,Jellybean op-amp,,,IC-09172,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP200, STEP2, 1X02_NO_SILK, SparkFun-Connectors, (3.6, 0.05), R90"
+            "name": "rawParts",
+            "value": "IC4,LM358,LM358KIT,DIP08-KIT,Jellybean op-amp,,,IC-09172,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP300, STEP3, 1X02_NO_SILK, SparkFun-Connectors, (4, 0.05), R90"
+            "name": "rawParts",
+            "value": "IC5,CD4013B,CD4013,DIL14-KIT,Dual D-type Flip-Flop,,,IC-11930,CD4013B,"
         },
         {
-            "name": "rawPart",
-            "value": "JP400, STEP4, 1X02_NO_SILK, SparkFun-Connectors, (4.4, 0.05), R90"
+            "name": "rawParts",
+            "value": "IC6,CD4017,CD4017KIT,DIL16-KIT,,Digikey,296-2037-5-ND,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP500, STEP5, 1X02_NO_SILK, SparkFun-Connectors, (4.8, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP1,GATE,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP600, STEP6, 1X02_NO_SILK, SparkFun-Connectors, (5.2, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP2,CV1,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP700, STEP7, 1X02_NO_SILK, SparkFun-Connectors, (5.6, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP3,TEMPO_CV,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP800, STEP8, 1X02_NO_SILK, SparkFun-Connectors, (6, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP4,CV2,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP900, STEP9, 1X02_NO_SILK, SparkFun-Connectors, (6.4, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP5,CV,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1000, STEP10, 1X02_NO_SILK, SparkFun-Connectors, (6.8, 0.05), R90"
+            "name": "rawParts",
+            "value": "JP6,VCC,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, RED, LED5MM-KIT, SparkFun-LED, (1.7, 1.75), R270"
+            "name": "rawParts",
+            "value": "JP7,GND,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED100, RED, LED5MM-KIT, SparkFun-LED, (3.35, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP100,STEP1,M01SMDNS,1X01NS,Header 1,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED200, RED, LED5MM-KIT, SparkFun-LED, (3.75, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP200,STEP2,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED300, RED, LED5MM-KIT, SparkFun-LED, (4.15, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP300,STEP3,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED400, RED, LED5MM-KIT, SparkFun-LED, (4.55, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP400,STEP4,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED500, RED, LED5MM-KIT, SparkFun-LED, (4.95, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP500,STEP5,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED600, RED, LED5MM-KIT, SparkFun-LED, (5.35, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP600,STEP6,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED700, RED, LED5MM-KIT, SparkFun-LED, (5.75, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP700,STEP7,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED800, RED, LED5MM-KIT, SparkFun-LED, (6.15, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP800,STEP8,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED900, RED, LED5MM-KIT, SparkFun-LED, (6.55, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP900,STEP9,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1000, RED, LED5MM-KIT, SparkFun-LED, (6.95, 2.8), R0"
+            "name": "rawParts",
+            "value": "JP1000,STEP10,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q100, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (3.35, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED1,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q200, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (3.75, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED100,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q300, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (4.15, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED200,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q400, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (4.55, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED300,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q500, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (4.95, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED400,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q600, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (5.35, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED500,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q700, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (5.75, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED600,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q800, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (6.15, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED700,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q900, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (6.55, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED800,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1000, 2N3904, TO-92-AMMO, SparkFun-DiscreteSemi, (6.95, 3.1), R0"
+            "name": "rawParts",
+            "value": "LED900,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 470, AXIAL-0.3EZ, SparkFun-Resistors, (0.9, 1.425), R180"
+            "name": "rawParts",
+            "value": "LED1000,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,,DIO-09529,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (1.15, 0.8), R0"
+            "name": "rawParts",
+            "value": "LOGO1,SPARKPUNK_LOGO.2_INCH_TALL,SPARKPUNK_LOGO.2_INCH_TALL,SPARKPUNK_LOGO_.2,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (2.4, 0.5), R90"
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (1.15, 0.7), R180"
+            "name": "rawParts",
+            "value": "LOGO3,SPARKPUNK_LOGO.1INCH_TALL,SPARKPUNK_LOGO.1INCH_TALL,SPARKPUNK_LOGO_.1,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 47k, AXIAL-0.3EZ, SparkFun-Resistors, (0.9, 2.55), R90"
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_NAME_FLAME.4_INCH,SFE_LOGO_NAME_FLAME.4_INCH,SFE_LOGO_NAME_FLAME_.4,SFE Logo, name and flame,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (1.15, 0.3), R180"
+            "name": "rawParts",
+            "value": "Q100,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R7, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (1.25, 2), R0"
+            "name": "rawParts",
+            "value": "Q200,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R9, 1k, AXIAL-0.3EZ, SparkFun-Resistors, (2.85, 2.3), R270"
+            "name": "rawParts",
+            "value": "Q300,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R10, 1k, AXIAL-0.3EZ, SparkFun-Resistors, (0.25, 2.4), R90"
+            "name": "rawParts",
+            "value": "Q400,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (2.75, 2.3), R90"
+            "name": "rawParts",
+            "value": "Q500,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R13, 47k, AXIAL-0.3EZ, SparkFun-Resistors, (3, 3.15), R90"
+            "name": "rawParts",
+            "value": "Q600,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R14, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (1.15, 0.4), R0"
+            "name": "rawParts",
+            "value": "Q700,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R15, 47, AXIAL-0.3EZ, SparkFun-Resistors, (0.15, 2.4), R90"
+            "name": "rawParts",
+            "value": "Q800,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R16, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (1, 2.55), R270"
+            "name": "rawParts",
+            "value": "Q900,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R17, 22k, AXIAL-0.3EZ, SparkFun-Resistors, (0.8, 2.55), R90"
+            "name": "rawParts",
+            "value": "Q1000,2N3904,TRANSISTOR_NPNTO-92-AMMO,TO-92-AMMO,Generic NPN BJT,,,TRANS-08447,,"
         },
         {
-            "name": "rawPart",
-            "value": "R18, 22k, AXIAL-0.3EZ, SparkFun-Resistors, (2.9, 3.15), R90"
+            "name": "rawParts",
+            "value": "R1,470,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10693,,"
         },
         {
-            "name": "rawPart",
-            "value": "R19, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (0.9, 1.325), R180"
+            "name": "rawParts",
+            "value": "R2,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "R20, 47k, AXIAL-0.3EZ, SparkFun-Resistors, (2.05, 2.4), R270"
+            "name": "rawParts",
+            "value": "R3,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "R21, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (2.8, 3.15), R90"
+            "name": "rawParts",
+            "value": "R4,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R22, 1k, AXIAL-0.3EZ, SparkFun-Resistors, (2.95, 2.3), R90"
+            "name": "rawParts",
+            "value": "R5,47k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10687,,"
         },
         {
-            "name": "rawPart",
-            "value": "R23, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (2.2, 3.15), R270"
+            "name": "rawParts",
+            "value": "R6,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "R24, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (1.95, 2.4), R270"
+            "name": "rawParts",
+            "value": "R7,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R25, 10k, AXIAL-0.3EZ, SparkFun-Resistors, (1.95, 3.15), R270"
+            "name": "rawParts",
+            "value": "R9,1k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-08380,,"
         },
         {
-            "name": "rawPart",
-            "value": "R26, 1k, AXIAL-0.3EZ, SparkFun-Resistors, (0.35, 2.4), R90"
+            "name": "rawParts",
+            "value": "R10,1k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-08380,,"
         },
         {
-            "name": "rawPart",
-            "value": "R27, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (1.6, 2.65), R90"
+            "name": "rawParts",
+            "value": "R12,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R28, 100k, AXIAL-0.3EZ, SparkFun-Resistors, (1.7, 2.65), R270"
+            "name": "rawParts",
+            "value": "R13,47k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10687,,"
         },
         {
-            "name": "rawPart",
-            "value": "R29, 33k, AXIAL-0.3EZ, SparkFun-Resistors, (2.15, 2.4), R90"
+            "name": "rawParts",
+            "value": "R14,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "R30, 22k, AXIAL-0.3EZ, SparkFun-Resistors, (3.1, 3.15), R270"
+            "name": "rawParts",
+            "value": "R15,47,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10697,,"
         },
         {
-            "name": "rawPart",
-            "value": "R100, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (3.5, 2.85), R90"
+            "name": "rawParts",
+            "value": "R16,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "R200, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (3.9, 2.85), R90"
+            "name": "rawParts",
+            "value": "R17,22k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10688,,"
         },
         {
-            "name": "rawPart",
-            "value": "R300, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (4.3, 2.85), R90"
+            "name": "rawParts",
+            "value": "R18,22k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10688,,"
         },
         {
-            "name": "rawPart",
-            "value": "R400, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (4.7, 2.85), R90"
+            "name": "rawParts",
+            "value": "R19,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "R500, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (5.1, 2.85), R90"
+            "name": "rawParts",
+            "value": "R20,47k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10687,,"
         },
         {
-            "name": "rawPart",
-            "value": "R600, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (5.5, 2.85), R90"
+            "name": "rawParts",
+            "value": "R21,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R700, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (5.9, 2.85), R90"
+            "name": "rawParts",
+            "value": "R22,1k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-08380,,"
         },
         {
-            "name": "rawPart",
-            "value": "R800, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (6.3, 2.85), R90"
+            "name": "rawParts",
+            "value": "R23,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R900, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (6.7, 2.85), R90"
+            "name": "rawParts",
+            "value": "R24,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1000, 2.2k, AXIAL-0.3EZ, SparkFun-Resistors, (7.1, 2.85), R90"
+            "name": "rawParts",
+            "value": "R25,10k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-09435,,"
         },
         {
-            "name": "rawPart",
-            "value": "RV1, 10k, ALPS_POT_KIT, SparkFun-Electromechanical, (0.55, 1.75), R270"
+            "name": "rawParts",
+            "value": "R26,1k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-08380,,"
         },
         {
-            "name": "rawPart",
-            "value": "RV2, 10k, ALPS_POT_KIT, SparkFun-Electromechanical, (2.55, 1.75), R270"
+            "name": "rawParts",
+            "value": "R27,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (0.9, 3.35), R270"
+            "name": "rawParts",
+            "value": "R28,100k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10686,,"
         },
         {
-            "name": "rawPart",
-            "value": "S3, Play, Button, TACTILE-PTH-LED-12MM-EZ, SparkFun-Electromechanical, (0.55, 0.55), R0"
+            "name": "rawParts",
+            "value": "R29,33k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10687,,"
         },
         {
-            "name": "rawPart",
-            "value": "S5, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (0.65, 2.55), R0"
+            "name": "rawParts",
+            "value": "R30,22k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10688,,"
         },
         {
-            "name": "rawPart",
-            "value": "S100, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (3.35, 0.55), R180"
+            "name": "rawParts",
+            "value": "R100,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S200, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (3.75, 0.55), R180"
+            "name": "rawParts",
+            "value": "R200,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S300, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.15, 0.55), R180"
+            "name": "rawParts",
+            "value": "R300,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S400, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.55, 0.55), R180"
+            "name": "rawParts",
+            "value": "R400,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S500, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (4.95, 0.55), R180"
+            "name": "rawParts",
+            "value": "R500,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S600, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (5.35, 0.55), R180"
+            "name": "rawParts",
+            "value": "R600,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S700, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (5.75, 0.55), R180"
+            "name": "rawParts",
+            "value": "R700,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S800, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (6.15, 0.55), R180"
+            "name": "rawParts",
+            "value": "R800,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S900, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (6.55, 0.55), R180"
+            "name": "rawParts",
+            "value": "R900,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1000, SPDT, SWITCH-SPDT_KIT, SparkFun-Electromechanical, (6.95, 0.55), R180"
+            "name": "rawParts",
+            "value": "R1000,2.2k,RESISTOREZ,AXIAL-0.3EZ,Resistor,,,RES-10691,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, RUN-N.C., SJ_2S-TRACE-PTH, SparkFun-Passives, (0.1, 1.1), R180"
+            "name": "rawParts",
+            "value": "RV1,10k,POTALPS-KIT,ALPS_POT_KIT,,,,RES-09177,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, STOP-N.C., SJ_2S-TRACE-PTH, SparkFun-Passives, (0.1, 1.2), R180"
+            "name": "rawParts",
+            "value": "RV2,10k,POTALPS-KIT,ALPS_POT_KIT,,,,RES-09177,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ3, CLK-N.C., SJ_2S-TRACE-PTH, SparkFun-Passives, (0.1, 1.3), R180"
+            "name": "rawParts",
+            "value": "S1,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ4, BTN-N.C., SJ_2S-TRACE-PTH, SparkFun-Passives, (0.1, 1), R180"
+            "name": "rawParts",
+            "value": "S3,Play Button,SWITCH-MOMENTARY-LEDEZ,TACTILE-PTH-LED-12MM-EZ,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,,SWCH-11758,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ5, ONE-SHOT-N.O., SJ_2S-PTH, SparkFun-Passives, (1.65, 0.15), R0"
+            "name": "rawParts",
+            "value": "S5,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR100, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (3.35, 1.75), R270"
+            "name": "rawParts",
+            "value": "S100,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR200, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (3.75, 1.75), R270"
+            "name": "rawParts",
+            "value": "S200,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR300, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (4.15, 1.75), R270"
+            "name": "rawParts",
+            "value": "S300,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR400, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (4.55, 1.75), R270"
+            "name": "rawParts",
+            "value": "S400,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR500, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (4.95, 1.75), R270"
+            "name": "rawParts",
+            "value": "S500,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR600, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (5.35, 1.75), R270"
+            "name": "rawParts",
+            "value": "S600,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR700, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (5.75, 1.75), R270"
+            "name": "rawParts",
+            "value": "S700,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR800, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.15, 1.75), R270"
+            "name": "rawParts",
+            "value": "S800,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR900, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.55, 1.75), R270"
+            "name": "rawParts",
+            "value": "S900,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
         },
         {
-            "name": "rawPart",
-            "value": "VR1000, 10K, SLIDER-MEDIUM-KIT, SparkFun-Electromechanical, (6.95, 1.75), R270"
+            "name": "rawParts",
+            "value": "S1000,SPDT,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,,,SWCH-08261,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,RUN-N.C.,SOLDERJUMPERTRACE-PTH,SJ_2S-TRACE-PTH,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,STOP-N.C.,SOLDERJUMPERTRACE-PTH,SJ_2S-TRACE-PTH,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,CLK-N.C.,SOLDERJUMPERTRACE-PTH,SJ_2S-TRACE-PTH,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ4,BTN-N.C.,SOLDERJUMPERTRACE-PTH,SJ_2S-TRACE-PTH,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ5,ONE-SHOT-N.O.,SOLDERJUMPERPTH,SJ_2S-PTH,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF5,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF6,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR100,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR200,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR300,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR400,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR500,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR600,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR700,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR800,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR900,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR1000,10K,SLIDER30MM-KIT,SLIDER-MEDIUM-KIT,Slide-type potentiometers.,,,RES-11931,,"
         },
         {
             "name": "oompID",

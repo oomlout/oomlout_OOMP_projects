@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1588-STAN-01>Adafruit Bluefruit Classic PCBs](#proj-adaf-1588-stan-01adafruit-bluefruit-classic-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,38 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90,C1, 10uF, 0805-NO, microbuilder, (0.75, 0.53), R90|
-|CAPC-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90,C4, 10uF, 0805-NO, microbuilder, (0.62, 0.33), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.065, 6.731, 0,D2, MBR120, SOD-123, microbuilder, (0.475, 0.265), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 7.874, 8.382, 0,IC1, 74LVC2G34DBVR, SOT23-6, microbuilder, (0.31, 0.33), R0|
-|HEAD-I01-X-PI01-01, JP1, 19.049999999999997, 1.27, 0,JP1, 1X01-CLEANBIG, adafruit, (0.75, 0.05), R0|
-|HEAD-I01-X-PI01-01, JP2, 1.27, 1.27, 0,JP2, 1X01-CLEANBIG, adafruit, (0.05, 0.05), R0|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.413999999999998, 16.764, 180,JP5, 2X03_ROUND_70MIL, microbuilder, (0.41, 0.66), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 18.923, 34.29, 0,LED1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 1.35), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 18.923, 21.59, 180,LED3, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 0.85), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 1.5239999999999998, 21.59, 180,LED4, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.06, 0.85), R180|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|RESE-0805-X-UNMATCHED-01, R2, 18.923, 30.607, 270,R2, 470, 0805-NO, microbuilder, (0.745, 1.205), R270|
-|RESE-0805-X-UNMATCHED-01, R5, 1.397, 11.684, 270,R5, 2.2K, 0805-NO, microbuilder, (0.055, 0.46), R270|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R8</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O221-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O221-01/image_140.jpg)</td><td> R10</td><td>[RESE-0805-X-O221-01<br>SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td><td>[R85221](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 3.429, 8.254999999999999, 0,SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.135, 0.325), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 26.416, 0,U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 18.415, 9.143999999999998, 0,U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, VBAT, 10.16, 26.416, M0,VBAT, JST-2PH, JST-PH-2-SMT-RA, adafruit, (0.4, 1.04), MR0|
 
 ## Tags
 
@@ -70,56 +42,53 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1588
 - oompID: PROJ-ADAF-1588-STAN-01
-- oompPart: CAPC-0805-X-UNMATCHED-01, C1, 19.049999999999997, 13.462, 90
-- oompPart: CAPC-0805-X-UNMATCHED-01, C4, 15.748, 8.382, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 12.065, 6.731, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 10.413999999999998, 22.352, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.842, 27.178, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 13.208, 31.241999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 7.874, 8.382, 0
-- oompPart: HEAD-I01-X-PI01-01, JP1, 19.049999999999997, 1.27, 0
-- oompPart: HEAD-I01-X-PI01-01, JP2, 1.27, 1.27, 0
-- oompPart: HEAD-I01-X-PI06-01, JP4, 10.16, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 10.413999999999998, 16.764, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 18.923, 34.29, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 18.923, 21.59, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 1.5239999999999998, 21.59, 180
-- oompPart: RESE-0805-X-O103-01, R1, 1.397, 16.637, 90
-- oompPart: RESE-0805-X-UNMATCHED-01, R2, 18.923, 30.607, 270
-- oompPart: RESE-0805-X-UNMATCHED-01, R5, 1.397, 11.684, 270
-- oompPart: RESE-0805-X-O103-01, R6, 11.43, 9.524999999999999, 270
-- oompPart: RESE-0805-X-O221-01, R8, 18.923, 25.145999999999997, 90
-- oompPart: RESE-0805-X-O221-01, R10, 1.5239999999999998, 25.654, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 16.002, 17.653, M270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 3.429, 8.254999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 26.416, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 18.415, 9.143999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, VBAT, 10.16, 26.416, M0
-- rawPart: C1, 10uF, 0805-NO, microbuilder, (0.75, 0.53), R90
-- rawPart: C4, 10uF, 0805-NO, microbuilder, (0.62, 0.33), R90
-- rawPart: D2, MBR120, SOD-123, microbuilder, (0.475, 0.265), R0
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.41, 0.88), R0
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.23, 1.07), R0
-- rawPart: FID3, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.52, 1.23), R0
-- rawPart: IC1, 74LVC2G34DBVR, SOT23-6, microbuilder, (0.31, 0.33), R0
-- rawPart: JP1, 1X01-CLEANBIG, adafruit, (0.75, 0.05), R0
-- rawPart: JP2, 1X01-CLEANBIG, adafruit, (0.05, 0.05), R0
-- rawPart: JP4, 1X06-BIG, adafruit, (0.4, 0.05), R0
-- rawPart: JP5, 2X03_ROUND_70MIL, microbuilder, (0.41, 0.66), R180
-- rawPart: LED1, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 1.35), R0
-- rawPart: LED3, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.745, 0.85), R180
-- rawPart: LED4, Blue, CHIPLED_0805_NOOUTLINE, microbuilder, (0.06, 0.85), R180
-- rawPart: R1, 10K, 0805-NO, microbuilder, (0.055, 0.655), R90
-- rawPart: R2, 470, 0805-NO, microbuilder, (0.745, 1.205), R270
-- rawPart: R5, 2.2K, 0805-NO, microbuilder, (0.055, 0.46), R270
-- rawPart: R6, 10K, _0805MP, microbuilder, (0.45, 0.375), R270
-- rawPart: R8, 220, 0805-NO, microbuilder, (0.745, 0.99), R90
-- rawPart: R10, 220, 0805-NO, microbuilder, (0.06, 1.01), R90
-- rawPart: SJ1, SOLDERJUMPER_2WAY_OPEN_NOPASTE, microbuilder, (0.63, 0.695), MR270
-- rawPart: SW1, SPST_TACT-KMR2, KMR2, adafruit, (0.135, 0.325), R0
-- rawPart: U1, BlueFruit, BLUETOOTH_MODULE, microbuilder, (0.4, 1.04), R0
-- rawPart: U2, MIC5225-3.3, SOT23-5, microbuilder, (0.725, 0.36), R0
-- rawPart: VBAT, JST-2PH, JST-PH-2-SMT-RA, adafruit, (0.4, 1.04), MR0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: VBAT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: D2,MBR120,DIODESOD-123,SOD-123,Diode,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: IC1,74LVC2G34DBVR,74LVC2G34DBVR,SOT23-6,,,
+- rawParts: JP1,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,
+- rawParts: JP2,,PINHD-1X1CB,1X01-CLEANBIG,Pin header 1x1 for 0.1 spacing,,
+- rawParts: JP4,,PINHD-1X6B,1X06-BIG,PIN HEADER,,
+- rawParts: JP5,,HEADER-2X3,2X03_ROUND_70MIL,PIN HEADER,,
+- rawParts: LED1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
+- rawParts: LED3,Blue,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
+- rawParts: LED4,Blue,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
+- rawParts: R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R2,470,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R5,2.2K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R6,10K,RESISTOR_0805MP,_0805MP,Resistors,,
+- rawParts: R8,220,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: R10,220,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: SJ1,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,
+- rawParts: SW1,SPST_TACT-KMR2,SPST_TACT-KMR2,KMR2,SMT 6mm switch, EVQQ2 series,,
+- rawParts: U1,BlueFruit,BLUETOOTH_MODULE,BLUETOOTH_MODULE,BLUETOOTH MODULE,,
+- rawParts: U2,MIC5225-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,
+- rawParts: VBAT,JST-2PH,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,
 
 
 

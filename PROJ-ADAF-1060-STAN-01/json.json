@@ -41,84 +41,84 @@
             "value": "PROJ-ADAF-1060-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, -2.794, -3.556, M0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, DATA_INPUT, 0.0, -5.206999999999999, 180"
+            "name": "oompParts",
+            "value": "DATA_INPUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, DATA_OUTPUT, 0.0, 5.206999999999999, 0"
+            "name": "oompParts",
+            "value": "DATA_OUTPUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, GND, -5.206999999999999, 0.0, 90"
+            "name": "oompParts",
+            "value": "GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 0.0, 0.0, M90"
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 0.0, 0.0, 180"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R1, 2.794, -3.556, M180"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R2, 2.794, 3.556, M0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R3, -2.794, 3.556, M0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, VDD, 5.206999999999999, 0.0, 270"
+            "name": "oompParts",
+            "value": "VDD,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, C0805K, adafruit, (-0.11, -0.14), MR0"
+            "name": "rawParts",
+            "value": "C1,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "DATA_INPUT, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -0.205), R180"
+            "name": "rawParts",
+            "value": "DATA_INPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "DATA_OUTPUT, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 0.205), R0"
+            "name": "rawParts",
+            "value": "DATA_OUTPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-0.205, 0), R90"
+            "name": "rawParts",
+            "value": "GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC2, WS2811-SOP8, SO08-SKINNYPADS, adafruit, (0, 0), MR90"
+            "name": "rawParts",
+            "value": "IC2,WS2811-SOP8,WS2811-SOP8,SO08-SKINNYPADS,,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, RGBLED5050, RGBLED5050, adafruit, (0, 0), R180"
+            "name": "rawParts",
+            "value": "LED2,RGBLED5050,RGBLED5050,RGBLED5050,For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 1.0K, R0805, adafruit, (0.11, -0.14), MR180"
+            "name": "rawParts",
+            "value": "R1,1.0K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 22, R0805, adafruit, (0.11, 0.14), MR0"
+            "name": "rawParts",
+            "value": "R2,22,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 22, R0805, adafruit, (-0.11, 0.14), MR0"
+            "name": "rawParts",
+            "value": "R3,22,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "VDD, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0.205, 0), R270"
+            "name": "rawParts",
+            "value": "VDD,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
             "name": "oompID",

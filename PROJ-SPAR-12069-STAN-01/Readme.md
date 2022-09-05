@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12069-STAN-01>H2OhNo](#proj-spar-12069-stan-01h2ohno)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,25 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 14.731999999999998, 9.652, 90,BAT1, BATTCOM_20MM_PTH, SparkFun-Electromechanical, (0.58, 0.38), R90|
-|CAPC-UNMATCHED-X-NF100-V50, C6, 31.75, 19.049999999999997, 270,C6, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.25, 0.75), R270|
-|ERROR, JP3 Water Sensor, 0, 0, 0,JP3, Water, Sensor, 1X02, SparkFun-Connectors, (1.85, 0.65), R270|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 45.72, 7.619999999999999, 90,LED1, LED5MM, SparkFun-LED, (1.8, 0.3), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 11.43, 0,S1, Power, SWITCH-SPDT, SparkFun-Electromechanical, (1.1, 0.45), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 36.83, 6.35, 270,SG1, Buzzer, BUZZER-12MM, SparkFun-Electromechanical, (1.45, 0.25), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 38.099999999999994, 17.779999999999998, 0,U2, TINY85-20-DIP, DIP08, SparkFun-DigitalIC, (1.5, 0.7), R0|
 
 ## Tags
 
@@ -57,22 +42,36 @@ Contents
 - sources: All source files from https://github.com/sparkfun/H2OhNo (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12069
 - oompID: PROJ-SPAR-12069-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 14.731999999999998, 9.652, 90
-- oompPart: CAPC-UNMATCHED-X-NF100-V50, C6, 31.75, 19.049999999999997, 270
-- oompPart: ERROR, JP3 Water Sensor, 0, 0, 0
-- oompPart: HEAD-I01-X-PI06-01, JP4, 17.779999999999998, 17.779999999999998, M270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 45.72, 7.619999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 27.94, 11.43, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 36.83, 6.35, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 38.099999999999994, 17.779999999999998, 0
-- rawPart: BAT1, BATTCOM_20MM_PTH, SparkFun-Electromechanical, (0.58, 0.38), R90
-- rawPart: C6, 0.1uF, CAP-PTH-SMALL2, SparkFun, (1.25, 0.75), R270
-- rawPart: JP3, Water, Sensor, 1X02, SparkFun-Connectors, (1.85, 0.65), R270
-- rawPart: JP4, ISP, 1X06, SparkFun-Connectors, (0.7, 0.7), MR270
-- rawPart: LED1, LED5MM, SparkFun-LED, (1.8, 0.3), R90
-- rawPart: S1, Power, SWITCH-SPDT, SparkFun-Electromechanical, (1.1, 0.45), R0
-- rawPart: SG1, Buzzer, BUZZER-12MM, SparkFun-Electromechanical, (1.45, 0.25), R270
-- rawPart: U2, TINY85-20-DIP, DIP08, SparkFun-DigitalIC, (1.5, 0.7), R0
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SG1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,,BATTERY20PTH,BATTCOM_20MM_PTH,Battery Holders,,,
+- rawParts: C6,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP3,Water Sensor,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: JP4,ISP,M06SIP,1X06,Header 6,,,
+- rawParts: LED1,,LED5MM,LED5MM,LEDs,,,
+- rawParts: S1,Power,SWITCH-SPDTPTH,SWITCH-SPDT,SPDT Switch,,,
+- rawParts: SG1,Buzzer,BUZZERPTH,BUZZER-12MM,Buzzer 12mm,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,
+- rawParts: U$4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: U$5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,,
+- rawParts: U2,TINY85-20-DIP,ATTINY45TINY85-20-DIP,DIP08,Atmel 8-pin 2/4/8kB flash uC,IC-09445,TINY85-20-DIP,
 
 
 

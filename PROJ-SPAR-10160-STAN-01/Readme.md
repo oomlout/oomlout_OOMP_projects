@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-10160-STAN-01>DeadOn RTC](#proj-spar-10160-stan-01deadon-rtc)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 13.97, M0,BAT1, 3V, BATTCON_12MM_CURVED, SparkFun, (0.4, 0.55), MR0|
-|CAPE-0402-X-UNMATCHED-01, C1, 17.779999999999998, 11.43, 270,C1, 22pF, 0402-CAP, SparkFun, (0.7, 0.45), R270|
-|<table><tr><td>![HEAD-I01-X-PI07-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI07-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI07-01<br>2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td><td>[H07](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)</td></tr></table>|
-|HEAD-I01-X-PI2-01, JP3, 3.0479999999999996, 3.8099999999999996, 0,JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.12, 0.15), R0|
-|HEAD-I01-X-PI2-01, JP4, 14.858999999999998, 17.779999999999998, 0,JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.585, 0.7), R0|
-|<table><tr><td>![RESE-0402-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0402-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0402-X-O103-01<br>SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td><td>[R42103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 10.16, 180,U1, DS3234, DS3234, SparkFun, (0.4, 0.4), R180|
 
 ## Tags
 
@@ -56,20 +42,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/DeadOn_RTC (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10160
 - oompID: PROJ-SPAR-10160-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 10.16, 13.97, M0
-- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 17.779999999999998, 11.43, 270
-- oompPart: HEAD-I01-X-PI07-01, JP1, 2.54, 1.27, 0
-- oompPart: HEAD-I01-X-PI2-01, JP3, 3.0479999999999996, 3.8099999999999996, 0
-- oompPart: HEAD-I01-X-PI2-01, JP4, 14.858999999999998, 17.779999999999998, 0
-- oompPart: RESE-0402-X-O103-01, R1, 17.779999999999998, 8.889999999999999, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 10.16, 180
-- rawPart: BAT1, 3V, BATTCON_12MM_CURVED, SparkFun, (0.4, 0.55), MR0
-- rawPart: C1, 22pF, 0402-CAP, SparkFun, (0.7, 0.45), R270
-- rawPart: JP1, 1X07, SparkFun, (0.1, 0.05), R0
-- rawPart: JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.12, 0.15), R0
-- rawPart: JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.585, 0.7), R0
-- rawPart: R1, 10k, 0402-RES, SparkFun, (0.7, 0.35), R270
-- rawPart: U1, DS3234, DS3234, SparkFun, (0.4, 0.4), R180
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,3V,BATTERY,BATTCON_12MM_CURVED,Battery Holders,,
+- rawParts: C1,22pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,,M07,1X07,Header 7,,
+- rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U1,DS3234,DS3234,DS3234,DS3234 Real Time Clock,,
 
 
 

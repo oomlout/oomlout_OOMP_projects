@@ -41,36 +41,68 @@
             "value": "PROJ-SPAR-11722-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 5.08, 1.27, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP2, 12.7, 26.669999999999998, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 7.619999999999999, 15.875, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 12.7, M0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X03, SparkFun-Connectors, (0.2, 0.05), R0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X05, SparkFun-Connectors, (0.5, 1.05), R180"
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "SW1, ENCODER_LED_3_KIT, SparkFun-Electromechanical, (0.3, 0.625), R0"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U1, ENCODER_2LEDKIT, ENCODER_LED_2_KIT, SparkFun-Electromechanical, (0.3, 0.5), MR0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW1,,ENCODER_RGB_CAKIT,ENCODER_LED_3_KIT,Illuminated Rotary Encoder w/ RGB LED and select switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ENCODER_2LEDKIT,ENCODER_2LEDKIT,ENCODER_LED_2_KIT,Illuminated Rotary Encoder w/ 2 LEDs,,"
         },
         {
             "name": "oompID",

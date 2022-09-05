@@ -41,20 +41,28 @@
             "value": "PROJ-SPAR-10588-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP1, 19.049999999999997, 12.7, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 7.619999999999999, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X05, SparkFun, (0.75, 0.5), R270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U1, AUDIO-JACK, AUDIO-JACK, SparkFun, (0.15, 0.3), R0"
+            "name": "rawParts",
+            "value": "JP1,,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,AUDIO-JACK,AUDIO-JACK2PTH,AUDIO-JACK,,,"
         },
         {
             "name": "oompID",

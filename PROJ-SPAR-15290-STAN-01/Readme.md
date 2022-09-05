@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-15290-STAN-01>Qwiic Keypad](#proj-spar-15290-stan-01qwiic-keypad)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,33 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 6.095999999999999, 180,D1, RED, LED-0603, SparkFun-LED, (0.85, 0.24), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 3.8099999999999996, 6.35, 180,I2C, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.15, 0.25), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 24.13, 180,J1, 1X01_NO_SILK, SparkFun-Connectors, (0.35, 0.95), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 20.32, 12.7, 90,J2, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 19.049999999999997, 24.13, 180,J3, PTH, 1X04_NO_SILK, SparkFun-Connectors, (0.75, 0.95), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 5.08, 12.7, 270,J4, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 6.35, 24.13, 180,J5, 1X01_NO_SILK, SparkFun-Connectors, (0.25, 0.95), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 20.32, 1.27, 180,J8, 1X07_LOCK_NO_SILK, SparkFun-Connectors, (0.8, 0.05), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 2.54, 17.779999999999998, 0,JP4, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.1, 0.7), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 12.7, 17.779999999999998, 0,R1, 4.7k, 0603, SparkFun-Resistors, (0.5, 0.7), R0|
-|RESE-0603-X-UNMATCHED-01, R2, 1.27, 6.35, 270,R2, 2.2k, 0603, SparkFun-Resistors, (0.05, 0.25), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 6.35, 6.35, 270,R3, 2.2k, 0603, SparkFun-Resistors, (0.25, 0.25), R270|
-|RESE-0603-X-UNMATCHED-01, R4, 8.07466254, 17.779999999999998, 180,R4, 4.7k, 0603, SparkFun-Resistors, (0.3179001, 0.7), R180|
-|RESE-0603-X-UNMATCHED-01, R6, 21.59, 7.619999999999999, 180,R6, 1k, 0603, SparkFun-Resistors, (0.85, 0.3), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 180,U1, ATTINY84, SO14, SparkFun-IC-Microcontroller, (0.5, 0.5), R180|
 
 ## Tags
 
@@ -65,48 +42,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15290
 - oompID: PROJ-SPAR-15290-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C4, 17.779999999999998, 11.43, 270
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 21.59, 6.095999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, I2C, 3.8099999999999996, 6.35, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 8.889999999999999, 24.13, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 20.32, 12.7, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 19.049999999999997, 24.13, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 5.08, 12.7, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 6.35, 24.13, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, J6, 12.7, 6.35, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 20.32, 1.27, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 0.889, 24.511, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 0.889, 24.511, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 24.637999999999998, 0.7619999999999999, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 2.54, 17.779999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP6, 24.637999999999998, 0.7619999999999999, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 12.7, 17.779999999999998, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 1.27, 6.35, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 6.35, 6.35, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 8.07466254, 17.779999999999998, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 21.59, 7.619999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 180
-- rawPart: C4, 0.1uF, 0603, SparkFun-Capacitors, (0.7, 0.45), R270
-- rawPart: D1, RED, LED-0603, SparkFun-LED, (0.85, 0.24), R180
-- rawPart: I2C, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.15, 0.25), R180
-- rawPart: J1, 1X01_NO_SILK, SparkFun-Connectors, (0.35, 0.95), R180
-- rawPart: J2, JST04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90
-- rawPart: J3, PTH, 1X04_NO_SILK, SparkFun-Connectors, (0.75, 0.95), R180
-- rawPart: J4, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270
-- rawPart: J5, 1X01_NO_SILK, SparkFun-Connectors, (0.25, 0.95), R180
-- rawPart: J6, AVR_SPI_PROG_3X2TESTPOINTS, 2X3_TEST_POINTS, SparkFun-Connectors, (0.5, 0.25), R180
-- rawPart: J8, 1X07_LOCK_NO_SILK, SparkFun-Connectors, (0.8, 0.05), R180
-- rawPart: JP1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.035, 0.965), MR180
-- rawPart: JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.035, 0.965), R180
-- rawPart: JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.97, 0.03), MR180
-- rawPart: JP4, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.1, 0.7), R0
-- rawPart: JP6, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.97, 0.03), R180
-- rawPart: R1, 4.7k, 0603, SparkFun-Resistors, (0.5, 0.7), R0
-- rawPart: R2, 2.2k, 0603, SparkFun-Resistors, (0.05, 0.25), R270
-- rawPart: R3, 2.2k, 0603, SparkFun-Resistors, (0.25, 0.25), R270
-- rawPart: R4, 4.7k, 0603, SparkFun-Resistors, (0.3179001, 0.7), R180
-- rawPart: R6, 1k, 0603, SparkFun-Resistors, (0.85, 0.3), R180
-- rawPart: U1, ATTINY84, SO14, SparkFun-IC-Microcontroller, (0.5, 0.5), R180
 
 
 

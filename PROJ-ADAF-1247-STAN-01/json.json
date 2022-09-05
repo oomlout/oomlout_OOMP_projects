@@ -41,124 +41,116 @@
             "value": "PROJ-ADAF-1247-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C2, 125.0, -80.0, 270"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C3, 0.0, 170.0, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C4, 0.0, -170.0, 180"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF220-01, C5, 125.0, 80.0, 90"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -125.0, 230.0, 0"
+            "name": "oompParts",
+            "value": "GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 145.0, -225.0, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 280.0, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R2, -125.0, -90.0, 270"
+            "name": "oompParts",
+            "value": "SCL1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R3, -125.0, 75.0, 90"
+            "name": "oompParts",
+            "value": "SCL2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SCL1, 240.0, 140.0, 300"
+            "name": "oompParts",
+            "value": "SDA1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SCL2, -240.0, 140.0, 60"
+            "name": "oompParts",
+            "value": "SDA2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SDA1, 240.0, -140.0, 240"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SDA2, -240.0, -140.0, 120"
+            "name": "oompParts",
+            "value": "VCC,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 90"
+            "name": "rawParts",
+            "value": "C2,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -280.0, 180"
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uF, _0805, microbuilder, (125, -80), R270"
+            "name": "rawParts",
+            "value": "C4,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 0.1uF, _0805, microbuilder, (0, 170), R0"
+            "name": "rawParts",
+            "value": "C5,0.22\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 10uF, _0805, microbuilder, (0, -170), R180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 0.22uF, _0805, microbuilder, (125, 80), R90"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-125, 230), R0"
+            "name": "rawParts",
+            "value": "GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (145, -225), R0"
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR_0805,_0805,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 280), R0"
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR_0805,_0805,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 10K, _0805, microbuilder, (-125, -90), R270"
+            "name": "rawParts",
+            "value": "SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 10K, _0805, microbuilder, (-125, 75), R90"
+            "name": "rawParts",
+            "value": "SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, 140), R300"
+            "name": "rawParts",
+            "value": "SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, 140), R60"
+            "name": "rawParts",
+            "value": "SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (240, -140), R240"
+            "name": "rawParts",
+            "value": "U1,LSM303DLHC,LSM303DLHC,LGA14,LSM303DLHC 3-Axis I2C Accelerometer and 3-Axis Magnetometer,,"
         },
         {
-            "name": "rawPart",
-            "value": "SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-240, -140), R120"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, LSM303DLHC, LGA14, microbuilder, (0, 0), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -280), R180"
+            "name": "rawParts",
+            "value": "VCC,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
             "name": "oompID",

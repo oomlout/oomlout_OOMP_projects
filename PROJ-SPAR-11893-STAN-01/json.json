@@ -41,108 +41,172 @@
             "value": "PROJ-SPAR-11893-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, -4.444999999999999, -5.715, 270"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, -1.651, 2.2224999999999997, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, D1, 0.3175, -7.9375, 0"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -5.08, 6.35, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.08, -11.43, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, -9.8425, -2.54, 90"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 0.0, 8.254999999999999, 270"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, -0.044449999999999996, -13.3604, 90"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 12.382499999999999, -2.54, 180"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O331-01, R3, -0.9524999999999999, -7.9375, 270"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R4, -1.016, -5.715, 180"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 4.1274999999999995, -2.54, 270"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, -1.5875, -2.54, 180"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.175, -0.225), R270"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 4.7uF, 0603-CAP, SparkFun-Capacitors, (-0.065, 0.0875), R0"
+            "name": "oompParts",
+            "value": "STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "D1, Yellow, LED-0603, SparkFun-LED, (0.0125, -0.3125), R0"
+            "name": "oompParts",
+            "value": "STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (-0.2, 0.25), R0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.2, -0.45), R0"
+            "name": "oompParts",
+            "value": "U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, M02-JST-2MM-SMT, JST-2-SMD, SparkFun-Connectors, (-0.3875, -0.1), R90"
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (0, 0.325), R270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, SEWTAP9, PETAL-LONG-1-2SIDE, LilyPad-Wearables, (-0.00175, -0.526), R90"
+            "name": "rawParts",
+            "value": "C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,CAP-08280,4.7uF,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, USB_MICROB_PLUGCONN-11752, USB-B-MICRO-SMD_V03, SparkFun-Connectors, (0.4875, -0.1), R180"
+            "name": "rawParts",
+            "value": "C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,CAP-08280,4.7uF,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 330, 0603-RES, SparkFun-Resistors, (-0.0375, -0.3125), R270"
+            "name": "rawParts",
+            "value": "D1,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LEDs,,DIO-09003,Yellow,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 2.0k, 0603-RES, SparkFun-Resistors, (-0.04, -0.225), R180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1, DPDT, AYZ0202, SparkFun-Electromechanical, (0.1625, -0.1), R270"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, MCP73831, SOT23-5, SparkFun-PowerIC, (-0.0625, -0.1), R180"
+            "name": "rawParts",
+            "value": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Nathan Seidle,,,v21,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,M02-JST-2MM-SMT,M02-JST-2MM-SMT,JST-2-SMD,Standard 2-pin 0.1 header. Use with,,CONN-08352,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,Sew Taps for LilyPad Boards.,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,Sew Taps for LilyPad Boards.,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,USB_MICROB_PLUGCONN-11752,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,,CONN-11752,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,330,330OHM1/10W1%(0603),0603-RES,RES-00818,,RES-00818,330,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2.0k,2.0KOHM1/10W5%(0603),0603-RES,RES-08296,,RES-08296,2.0k,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,DPDT,SWITCH-DPDTAYZ0202,AYZ0202,DPDT Version of the COM-00597,,SWCH-08179,DPDT,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF3,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF4,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,REVISION,REVISION,REVISION,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MCP73831,MCP73831,SOT23-5,Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller,,IC-09995,,,"
         },
         {
             "name": "oompID",

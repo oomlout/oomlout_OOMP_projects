@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-691-STAN-01>Transceiver Breakout-nRF24L01](#proj-spar-691-stan-01transceiver-breakout-nrf24l01)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,39 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPE-0402-X-UNMATCHED-01, C1, 18.160999999999998, 4.953, 270,C1, 22pF, 0402-CAP, SparkFun, (0.715, 0.195), R270|
-|CAPE-0402-X-UNMATCHED-01, C2, 18.160999999999998, 8.001, 90,C2, 22pF, 0402-CAP, SparkFun, (0.715, 0.315), R90|
-|CAPE-0402-X-UNMATCHED-01, C3, 5.715, 4.826, 270,C3, 33nF, 0402-CAP, SparkFun, (0.225, 0.19), R270|
-|CAPC-0402-X-NF22D-01, C4, 14.224199897999998, 10.668100076, 0,C4, 2.2nF, 0402-CAP, SparkFun, (0.56000787, 0.42000394), R0|
-|CAPC-0402-X-UNMATCHED-01, C5, 14.224, 11.937400052, 0,C5, 4.7pF, 0402-CAP, SparkFun, (0.56, 0.46997638), R0|
-|CAPC-0402-X-UNMATCHED-01, C6, 8.382, 13.97, 0,C6, 1.0pF, 0402-CAP, SparkFun, (0.33, 0.55), R0|
-|CAPC-0402-X-UNMATCHED-01, C7, 10.159400052, 13.460400054, 90,C7, 1.5pF, 0402-CAP, SparkFun, (0.39997638, 0.52993701), R90|
-|CAPC-0402-X-UNMATCHED-01, C8, 4.444999999999999, 7.619999999999999, 270,C8, 10nF, 0402-CAP, SparkFun, (0.175, 0.3), R270|
-|CAPC-0402-X-UNMATCHED-01, C9, 4.444999999999999, 4.826, 90,C9, 1nF, 0402-CAP, SparkFun, (0.175, 0.19), R90|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C10, 3.429, 10.16, 180,C10, 10uF, EIA3216, SparkFun, (0.135, 0.4), R180|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|UNMATCHED-0402-X-UNMATCHED-01, L1, 10.160299974, 11.251499976, 90,L1, 3.9nH, C0402, SparkFun, (0.40001181, 0.44297244), R90|
-|UNMATCHED-0402-X-UNMATCHED-01, L2, 11.937999999999999, 10.668, 180,L2, 2.7nH, C0402, SparkFun, (0.47, 0.42), R180|
-|UNMATCHED-0402-X-UNMATCHED-01, L3, 10.287, 9.5504, 180,L3, 8.2nH, C0402, SparkFun, (0.405, 0.376), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.748, 6.476999999999999, 90,Q1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (0.62, 0.255), R90|
-|RESE-0402-X-UNMATCHED-01, R1, 13.081, 7.238999999999999, 90,R1, 1M, 0402-RES, SparkFun, (0.515, 0.285), R90|
-|RESE-0402-X-O223-01, R2, 5.715, 7.619999999999999, 270,R2, 22K, 0402-RES, SparkFun, (0.225, 0.3), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 9.398, 8.6614, 0,U$1, PAD, PAD-0.008, Testing, (0.37, 0.341), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 12.2174, 6.35, 0,U$4, PAD, PAD-0.008, Testing, (0.481, 0.25), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 9.905299975999998, 6.350599947999999, 90,U1, NRF24L01ALT1, QFN20_ALT1, Testing, (0.38997244, 0.25002362), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.2859999999999996, 4.699, 180,U2, 3.3V, SOT23-5, SparkFun, (0.09, 0.185), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 10.160299974, 18.795899923999997, 90,Y1, ANTENNA2SMD5, ANTENNA-CHIP5, SparkFun, (0.40001181, 0.73999606), R90|
 
 ## Tags
 
@@ -71,56 +42,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24L01 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/691
 - oompID: PROJ-SPAR-691-STAN-01
-- oompPart: CAPE-0402-X-UNMATCHED-01, C1, 18.160999999999998, 4.953, 270
-- oompPart: CAPE-0402-X-UNMATCHED-01, C2, 18.160999999999998, 8.001, 90
-- oompPart: CAPE-0402-X-UNMATCHED-01, C3, 5.715, 4.826, 270
-- oompPart: CAPC-0402-X-NF22D-01, C4, 14.224199897999998, 10.668100076, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C5, 14.224, 11.937400052, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C6, 8.382, 13.97, 0
-- oompPart: CAPC-0402-X-UNMATCHED-01, C7, 10.159400052, 13.460400054, 90
-- oompPart: CAPC-0402-X-UNMATCHED-01, C8, 4.444999999999999, 7.619999999999999, 270
-- oompPart: CAPC-0402-X-UNMATCHED-01, C9, 4.444999999999999, 4.826, 90
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C10, 3.429, 10.16, 180
-- oompPart: HEAD-I01-X-PI08-01, JP1, 1.27, 1.27, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 2.54, 13.208, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 19.304, 3.302, 0
-- oompPart: UNMATCHED-0402-X-UNMATCHED-01, L1, 10.160299974, 11.251499976, 90
-- oompPart: UNMATCHED-0402-X-UNMATCHED-01, L2, 11.937999999999999, 10.668, 180
-- oompPart: UNMATCHED-0402-X-UNMATCHED-01, L3, 10.287, 9.5504, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 15.748, 6.476999999999999, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 13.081, 7.238999999999999, 90
-- oompPart: RESE-0402-X-O223-01, R2, 5.715, 7.619999999999999, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 12.953999999999999, 5.08, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 9.398, 8.6614, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 12.2174, 6.35, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 9.905299975999998, 6.350599947999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 2.2859999999999996, 4.699, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 10.160299974, 18.795899923999997, 90
-- rawPart: C1, 22pF, 0402-CAP, SparkFun, (0.715, 0.195), R270
-- rawPart: C2, 22pF, 0402-CAP, SparkFun, (0.715, 0.315), R90
-- rawPart: C3, 33nF, 0402-CAP, SparkFun, (0.225, 0.19), R270
-- rawPart: C4, 2.2nF, 0402-CAP, SparkFun, (0.56000787, 0.42000394), R0
-- rawPart: C5, 4.7pF, 0402-CAP, SparkFun, (0.56, 0.46997638), R0
-- rawPart: C6, 1.0pF, 0402-CAP, SparkFun, (0.33, 0.55), R0
-- rawPart: C7, 1.5pF, 0402-CAP, SparkFun, (0.39997638, 0.52993701), R90
-- rawPart: C8, 10nF, 0402-CAP, SparkFun, (0.175, 0.3), R270
-- rawPart: C9, 1nF, 0402-CAP, SparkFun, (0.175, 0.19), R90
-- rawPart: C10, 10uF, EIA3216, SparkFun, (0.135, 0.4), R180
-- rawPart: JP1, 1X08, SparkFun, (0.05, 0.05), R0
-- rawPart: JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.1, 0.52), R0
-- rawPart: JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.76, 0.13), R0
-- rawPart: L1, 3.9nH, C0402, SparkFun, (0.40001181, 0.44297244), R90
-- rawPart: L2, 2.7nH, C0402, SparkFun, (0.47, 0.42), R180
-- rawPart: L3, 8.2nH, C0402, SparkFun, (0.405, 0.376), R180
-- rawPart: Q1, 16MHz, CRYSTAL-SMD-5X3, SparkFun, (0.62, 0.255), R90
-- rawPart: R1, 1M, 0402-RES, SparkFun, (0.515, 0.285), R90
-- rawPart: R2, 22K, 0402-RES, SparkFun, (0.225, 0.3), R270
-- rawPart: TP1, PAD.03X.05, SparkFun, (0.51, 0.2), MR0
-- rawPart: U$1, PAD, PAD-0.008, Testing, (0.37, 0.341), R0
-- rawPart: U$4, PAD, PAD-0.008, Testing, (0.481, 0.25), R0
-- rawPart: U1, NRF24L01ALT1, QFN20_ALT1, Testing, (0.38997244, 0.25002362), R90
-- rawPart: U2, 3.3V, SOT23-5, SparkFun, (0.09, 0.185), R180
-- rawPart: Y1, ANTENNA2SMD5, ANTENNA-CHIP5, SparkFun, (0.40001181, 0.73999606), R90
 
 
 

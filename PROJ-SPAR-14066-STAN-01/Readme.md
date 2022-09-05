@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-14066-STAN-01>Simultaneous RFID Tag Reader](#proj-spar-14066-stan-01simultaneous-rfid-tag-reader)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,43 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 29.209999999999997, 26.669999999999998, 270,B1, ARDUINO_UNO_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (1.15, 1.05), R270|
-|CAPC-0805-X-UNMATCHED-01, C2, 16.509999999999998, 43.18, 90,C2, 10uF, 0805, SparkFun-Capacitors, (0.65, 1.7), R90|
-|UNMATCHED-0603-X-UNMATCHED-01, C3, 62.230000000000004, 14.858999999999998, 90,C3, DNP, 0603, SparkFun-Capacitors, (2.45, 0.585), R90|
-|UNMATCHED-0603-X-UNMATCHED-01, C4, 51.943, 19.685, 180,C4, DNP, 0603, SparkFun-Capacitors, (2.045, 0.775), R180|
-|CAPC-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90,C7, 0.0, 0603, SparkFun-Capacitors, (2.08, 0.68), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C9</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C12</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 16.509999999999998, 8.889999999999999, 90,D1, RED, LED-0603, SparkFun-LED, (0.65, 0.35), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.97, 43.18, 270,D2, B340A, SMA-DIODE, SparkFun-DiscreteSemi, (0.55, 1.7), R270|
-|ERROR, E1 Trace Antenna, 0, 0, 0,E1, Trace, Antenna, 915MHZ_ANTENNA_TRIMBLE, ThingMagic_Module, (2.34, 0.545), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 1.27, 24.13, 90,J2, FTDI, 1X06, SparkFun-Connectors, (0.05, 0.95), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 7.619999999999999, 43.18, 90,J3, JST, JST-2-PTH, SparkFun-Connectors, (0.3, 1.7), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 52.832, 22.796499999999998, 270,J4, U.FL, U.FL, SparkFun-Connectors, (2.08, 0.8975), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 1.27, 21.59, 270,J5, Extra, 1X03, SparkFun-Connectors, (0.05, 0.85), R270|
-|ERROR, J6 Screw Terminal, 0, 0, 0,J6, Screw, Terminal, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.145, 1.77), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 1.27, 8.889999999999999, 90,J7, GPIOs, 1X03, SparkFun-Connectors, (0.05, 0.35), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.6829999999999994, 29.209999999999997, M0,JP1, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.145, 1.15), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 54.60999999999999, 13.843, 0,JP2, SJ1, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (2.15, 0.545), R0|
-|UNMATCHED-0603-X-UNMATCHED-01, L1, 57.276999999999994, 13.843, 0,L1, 3.9nH, 0603, ThingMagic_Module, (2.255, 0.545), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 16.509999999999998, 10.16, 180,R1, 1k, 0603, SparkFun-Resistors, (0.65, 0.4), R180|
-|RESE-0603-X-UNMATCHED-01, R3, 22.86, 11.684, 180,R3, 1k, 0603, SparkFun-Resistors, (0.9, 0.46), R180|
-|ERROR, S1 Serial Select, 0, 0, 0,S1, Serial, Select, SWITCH_DPDT_SMD_AYZ0202, SparkFun-Switches, (1.65, 1.7), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 53.339999999999996, 43.18, 0,SG1, Buzzer, BUZZER-CCV, ThingMagic_Module, (2.1, 1.7), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 43.18, 0,U2, TXB0104, SO14, SparkFun-IC-Comms, (1.1, 1.7), R0|
-|ERROR, U3 ESD Diode, 0, 0, 0,U3, ESD, Diode, SOT-23-6, UHF_RFID_Nano_Module, (1.375, 1.7), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 29.209999999999997, 26.669999999999998, 270,U4, Nano, NANO_MODULE, ThingMagic_Module, (1.15, 1.05), R270|
 
 ## Tags
 
@@ -75,66 +42,84 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Simultaneous_RFID_Tag_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14066
 - oompID: PROJ-SPAR-14066-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 29.209999999999997, 26.669999999999998, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 16.509999999999998, 43.18, 90
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, C3, 62.230000000000004, 14.858999999999998, 90
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, C4, 51.943, 19.685, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C7, 52.832, 17.272000000000002, 90
-- oompPart: CAPC-0603-X-NF100-V50, C9, 21.59, 43.18, 90
-- oompPart: CAPC-0603-X-NF100-V50, C12, 19.049999999999997, 43.18, 90
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 16.509999999999998, 8.889999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 13.97, 43.18, 270
-- oompPart: ERROR, E1 Trace Antenna, 0, 0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 7.619999999999999, 48.26, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 55.88, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 1.27, 24.13, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 7.619999999999999, 43.18, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 52.832, 22.796499999999998, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 1.27, 21.59, 270
-- oompPart: ERROR, J6 Screw Terminal, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 1.27, 8.889999999999999, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.6829999999999994, 29.209999999999997, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 54.60999999999999, 13.843, 0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, L1, 57.276999999999994, 13.843, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 16.509999999999998, 10.16, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 22.86, 11.684, 180
-- oompPart: ERROR, S1 Serial Select, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SG1, 53.339999999999996, 43.18, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 52.832, 14.350999999999997, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 22.86, 41.91, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 27.94, 43.18, 0
-- oompPart: ERROR, U3 ESD Diode, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U4, 29.209999999999997, 26.669999999999998, 270
-- rawPart: B1, ARDUINO_UNO_SHIELD, UNO_R3_SHIELD, SparkFun-Boards, (1.15, 1.05), R270
-- rawPart: C2, 10uF, 0805, SparkFun-Capacitors, (0.65, 1.7), R90
-- rawPart: C3, DNP, 0603, SparkFun-Capacitors, (2.45, 0.585), R90
-- rawPart: C4, DNP, 0603, SparkFun-Capacitors, (2.045, 0.775), R180
-- rawPart: C7, 0.0, 0603, SparkFun-Capacitors, (2.08, 0.68), R90
-- rawPart: C9, 0.1uF, 0603, SparkFun-Capacitors, (0.85, 1.7), R90
-- rawPart: C12, 0.1uF, 0603, SparkFun-Capacitors, (0.75, 1.7), R90
-- rawPart: D1, RED, LED-0603, SparkFun-LED, (0.65, 0.35), R90
-- rawPart: D2, B340A, SMA-DIODE, SparkFun-DiscreteSemi, (0.55, 1.7), R270
-- rawPart: E1, Trace, Antenna, 915MHZ_ANTENNA_TRIMBLE, ThingMagic_Module, (2.34, 0.545), R90
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.3, 1.9), R270
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (2.2, 0.25), R90
-- rawPart: J2, FTDI, 1X06, SparkFun-Connectors, (0.05, 0.95), R90
-- rawPart: J3, JST, JST-2-PTH, SparkFun-Connectors, (0.3, 1.7), R90
-- rawPart: J4, U.FL, U.FL, SparkFun-Connectors, (2.08, 0.8975), R270
-- rawPart: J5, Extra, 1X03, SparkFun-Connectors, (0.05, 0.85), R270
-- rawPart: J6, Screw, Terminal, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.145, 1.77), R270
-- rawPart: J7, GPIOs, 1X03, SparkFun-Connectors, (0.05, 0.35), R90
-- rawPart: JP1, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.145, 1.15), MR0
-- rawPart: JP2, SJ1, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (2.15, 0.545), R0
-- rawPart: L1, 3.9nH, 0603, ThingMagic_Module, (2.255, 0.545), R0
-- rawPart: R1, 1k, 0603, SparkFun-Resistors, (0.65, 0.4), R180
-- rawPart: R3, 1k, 0603, SparkFun-Resistors, (0.9, 0.46), R180
-- rawPart: S1, Serial, Select, SWITCH_DPDT_SMD_AYZ0202, SparkFun-Switches, (1.65, 1.7), R180
-- rawPart: SG1, Buzzer, BUZZER-CCV, ThingMagic_Module, (2.1, 1.7), R0
-- rawPart: SJ2, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (2.08, 0.565), R90
-- rawPart: TP1, PAD.03X.03, SparkFun-Connectors, (0.9, 1.65), MR0
-- rawPart: U2, TXB0104, SO14, SparkFun-IC-Comms, (1.1, 1.7), R0
-- rawPart: U3, ESD, Diode, SOT-23-6, UHF_RFID_Nano_Module, (1.375, 1.7), R0
-- rawPart: U4, Nano, NANO_MODULE, ThingMagic_Module, (1.15, 1.05), R270
+- oompParts: B1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: E1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: L1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SG1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: B1,ARDUINO_UNO_SHIELD,ARDUINO_UNO_R3_SHIELDBASIC,UNO_R3_SHIELD,Arduino R3 Shield Footprint,,,,,
+- rawParts: C2,10uF,10UF-0805-10V-10%,0805,10.0ÃÂµF ceramic capacitors,CAP-11330,,,10uF,
+- rawParts: C3,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,
+- rawParts: C4,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,
+- rawParts: C7,0.0,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,
+- rawParts: C9,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,,0.1uF,
+- rawParts: C12,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,,0.1uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,,,RED,
+- rawParts: D2,B340A,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diodes in SFEs production catalog,DIO-09886,,,B340A,
+- rawParts: E1,Trace Antenna,ANTENNA_GROUNDED1,915MHZ_ANTENNA_TRIMBLE,,,,,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame,,,,,
+- rawParts: J2,FTDI,CONN_06SILK_FEMALE_PTH,1X06,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08437,,,,
+- rawParts: J3,JST,CONN_02JST-PTH-2,JST-2-PTH,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09863,,PRT-09914,,
+- rawParts: J4,U.FL,U.FL,U.FL,SMD antenna connector- WRL-09144,CONN-09193,,,U.FL,
+- rawParts: J5,Extra,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: J6,Screw Terminal,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,,,
+- rawParts: J7,GPIOs,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: JP1,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
+- rawParts: JP2,SJ1,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,,
+- rawParts: L1,3.9nH,3.9NH_-+0.3NH_300MA(0603)0603,0603,,NDUC-08761,,,3.9nH,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: R1,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,,1k,
+- rawParts: R3,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,,1k,
+- rawParts: S1,Serial Select,SWITCH-DPDT-SMD-AYZ0202,SWITCH_DPDT_SMD_AYZ0202,Double-Pole, Double-Throw (DPDT) Switch,SWCH-08179,COM-00597,,,
+- rawParts: SG1,Buzzer,BUZZERSMD2,BUZZER-CCV,Buzzer 12mm,COMP-08568,,,Buzzer,
+- rawParts: SJ2,,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF7,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF8,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: TP1,,TEST-POINT3,PAD.03X.03,Bare copper test points for troubleshooting or ICT,,,,,
+- rawParts: U2,TXB0104,TXB0104PWRSOIC14,SO14,4-Bit Bi-Directional Level Shifter,IC-11329,,,TXB0104,
+- rawParts: U3,ESD Diode,TVS_DIODE_ARRAYSMD,SOT-23-6,,IC-13538,,,ESD Diode,
+- rawParts: U4,Nano,UHF_RFID_NANO_MODULE,NANO_MODULE,UHF 860 and 920MHz RFID Module from ThingMagic,IC-13540,,,Nano,
 
 
 

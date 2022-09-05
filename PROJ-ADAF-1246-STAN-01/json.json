@@ -41,108 +41,100 @@
             "value": "PROJ-ADAF-1246-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C1, 115.0, 0.0, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -115.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 115.0, -185.0, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, GND, 0.0, 225.0, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R2, 0.0, -115.0, 0"
+            "name": "oompParts",
+            "value": "SCL1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R3, 0.0, 115.0, 0"
+            "name": "oompParts",
+            "value": "SCL2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SCL1, 195.0, 115.0, 300"
+            "name": "oompParts",
+            "value": "SDA1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SCL2, -195.0, 115.0, 60"
+            "name": "oompParts",
+            "value": "SDA2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SDA1, 195.0, -115.0, 240"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SDA2, -195.0, -115.0, 120"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 0.0, 35.0, M180"
+            "name": "oompParts",
+            "value": "VCC,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 0.0, 0.0, 180"
+            "name": "rawParts",
+            "value": "C1,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, VCC, 0.0, -230.0, 180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, C0805K, adafruit, (115, 0), R90"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-115, 0), R0"
+            "name": "rawParts",
+            "value": "GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (115, -185), R0"
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR_0805,_0805,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "GND, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, 225), R0"
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR_0805,_0805,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 10K, _0805, microbuilder, (0, -115), R0"
+            "name": "rawParts",
+            "value": "SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 10K, _0805, microbuilder, (0, 115), R0"
+            "name": "rawParts",
+            "value": "SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SCL1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, 115), R300"
+            "name": "rawParts",
+            "value": "SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SCL2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, 115), R60"
+            "name": "rawParts",
+            "value": "SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
-            "name": "rawPart",
-            "value": "SDA1, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (195, -115), R240"
+            "name": "rawParts",
+            "value": "SJ1,,SJ2W,SJ_2,SMD solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "SDA2, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (-195, -115), R120"
+            "name": "rawParts",
+            "value": "U2,TSL2561,TSL2561,TSL2561_FN,TSL2561 Light-To-Digital Sensor,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, SJ_2, jumper, (0, 35), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U2, TSL2561, TSL2561_FN, microbuilder, (0, 0), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "VCC, SEWTAP0.5IN, SEWINGTAP_0.5, adafruit, (0, -230), R180"
+            "name": "rawParts",
+            "value": "VCC,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,"
         },
         {
             "name": "oompID",

@@ -41,188 +41,144 @@
             "value": "PROJ-ADAF-3191-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.034, 11.176, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 10.413999999999998, 14.224, 0"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 47.370999999999995, 11.43, 90"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP2, 10.413999999999998, 4.826, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS2, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "MS2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 14.224, 11.937999999999999, 0"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R1, 13.208, 5.842, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R2, 14.224, 9.143999999999998, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R3, 10.413999999999998, 9.906, 270"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 13.462, 15.239999999999998, 180"
+            "name": "oompParts",
+            "value": "SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 16.509999999999998, 4.064, M270"
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 19.049999999999997, 4.064, M270"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 21.59, 4.064, M270"
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODESOD-323,SOD-323,Diode,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ7, 28.194000000000003, 4.064, M270"
+            "name": "rawParts",
+            "value": "D2,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ8, 30.479999999999997, 4.064, M270"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X3_508TERM,TERMBLOCK_1X3_5.08MM,PIN HEADER,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ9, 32.766, 4.064, M270"
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ16, 32.766, 17.779999999999998, M270"
+            "name": "rawParts",
+            "value": "MS2,FEATHERWING,FEATHERWING,FEATHERWING,,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ17, 30.479999999999997, 17.779999999999998, M270"
+            "name": "rawParts",
+            "value": "Q1,MMBT2222,TRANSISTOR_NPN,SOT23-R,NPN Transistor,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ18, 22.605999999999998, 17.779999999999998, M270"
+            "name": "rawParts",
+            "value": "R1,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ19, 28.194000000000003, 17.779999999999998, M270"
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ20, 20.066, 17.779999999999998, M270"
+            "name": "rawParts",
+            "value": "R3,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 5.08, 11.43, 270"
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 31.75, 11.43, 0"
+            "name": "rawParts",
+            "value": "SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1N4148, SOD-323, microbuilder, (0.71, 0.44), R90"
+            "name": "rawParts",
+            "value": "SJ3,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, RED, CHIPLED_0805_NOOUTLINE, microbuilder, (0.41, 0.56), R0"
+            "name": "rawParts",
+            "value": "SJ4,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, TERMBLOCK_1X3_5.08MM, microbuilder, (1.865, 0.45), R90"
+            "name": "rawParts",
+            "value": "SJ7,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X01_ROUND, microbuilder, (0.41, 0.19), R0"
+            "name": "rawParts",
+            "value": "SJ8,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "MS2, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0"
+            "name": "rawParts",
+            "value": "SJ9,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, MMBT2222, SOT23-R, microbuilder, (0.56, 0.47), R0"
+            "name": "rawParts",
+            "value": "SJ16,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 1K, 0805-NO, microbuilder, (0.52, 0.23), R90"
+            "name": "rawParts",
+            "value": "SJ17,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 10K, 0805-NO, microbuilder, (0.56, 0.36), R180"
+            "name": "rawParts",
+            "value": "SJ18,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 1K, 0805-NO, microbuilder, (0.41, 0.39), R270"
+            "name": "rawParts",
+            "value": "SJ19,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ1, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (0.53, 0.6), R180"
+            "name": "rawParts",
+            "value": "SJ20,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.65, 0.16), MR270"
+            "name": "rawParts",
+            "value": "SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.75, 0.16), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ4, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.85, 0.16), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ7, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.11, 0.16), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ8, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.2, 0.16), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ9, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.29, 0.16), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ16, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.29, 0.7), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ17, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.2, 0.7), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ18, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.89, 0.7), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ19, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.11, 0.7), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ20, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.79, 0.7), MR270"
-        },
-        {
-            "name": "rawPart",
-            "value": "SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.2, 0.45), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$1, RELAY_G5LE, RELAY_G5LE-1, microbuilder, (1.25, 0.45), R0"
+            "name": "rawParts",
+            "value": "U$1,RELAY_G5LE,RELAY_G5LE,RELAY_G5LE-1,,,"
         },
         {
             "name": "oompID",

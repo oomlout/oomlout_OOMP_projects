@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13034-STAN-01>Edison I2C Breakout Block](#proj-spar-13034-stan-01edison-i2c-breakout-block)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,32 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 19.558, 90,C3, 10uF, 1206, SparkFun-Capacitors, (0.6, 0.77), R90|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C4, 9.143999999999998, 19.558, 270,C4, 10uF, 1206, SparkFun-Capacitors, (0.36, 0.77), R270|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O204-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O204-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O204-01<br>SMD (0603) 200k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O204-01/)</td><td>[R6204](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O204-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R4, 17.779999999999998, 23.875999999999998, 270,R4, DNP, 0603-RES, SparkFun-Resistors, (0.7, 0.94), R270|
-|RESE-0603-X-UNMATCHED-01, R5, 19.304, 23.875999999999998, 270,R5, DNP, 0603-RES, SparkFun-Resistors, (0.76, 0.94), R270|
-|ERROR, SJ1 Power Select, 0, 0, 0,SJ1, Power, Select, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.48, 0.91), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 27.94, 3.8099999999999996, M0,U$2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 24.639999996, 16.1798, M90,U$3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.191999999999998, 19.558, 0,U1, MIC5205, SOT23-5, SparkFun-PowerIC, (0.48, 0.77), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 15.748, 26.924, 90,U2, PCA9306, PCA9306DC-1:1, SparkFun-DigitalIC, (0.62, 1.06), R90|
 
 ## Tags
 
@@ -64,44 +42,52 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_I2C_Breakout_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13034
 - oompID: PROJ-SPAR-13034-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 15.239999999999998, 24.892, 180
-- oompPart: CAPC-0603-X-NF100-V50, C2, 10.668, 26.924, 270
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C3, 15.239999999999998, 19.558, 90
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C4, 9.143999999999998, 19.558, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 25.4, 43.18, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 25.4, 43.18, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.27, 5.08, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.27, 5.08, 0
-- oompPart: HEAD-I01-X-PI04-01, JP2, 15.239999999999998, 40.132, 180
-- oompPart: RESE-0603-X-O103-01, R1, 13.97, 29.209999999999997, 180
-- oompPart: RESE-0603-X-O103-01, R2, 17.525999999999996, 29.209999999999997, 0
-- oompPart: RESE-0603-X-O204-01, R3, 12.953999999999999, 26.924, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 17.779999999999998, 23.875999999999998, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 19.304, 23.875999999999998, 270
-- oompPart: ERROR, SJ1 Power Select, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 27.94, 3.8099999999999996, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 24.639999996, 16.1798, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.191999999999998, 19.558, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 15.748, 26.924, 90
-- rawPart: C1, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.6, 0.98), R180
-- rawPart: C2, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.42, 1.06), R270
-- rawPart: C3, 10uF, 1206, SparkFun-Capacitors, (0.6, 0.77), R90
-- rawPart: C4, 10uF, 1206, SparkFun-Capacitors, (0.36, 0.77), R270
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), MR0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), R0
-- rawPart: FID3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), MR0
-- rawPart: FID4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), R0
-- rawPart: JP2, 1X04_SMD_RA_FEMALE, SparkFun-Connectors, (0.6, 1.58), R180
-- rawPart: R1, 10K, 0603-RES, SparkFun-Resistors, (0.55, 1.15), R180
-- rawPart: R2, 10K, 0603-RES, SparkFun-Resistors, (0.69, 1.15), R0
-- rawPart: R3, 200k, 0603-RES, SparkFun-Resistors, (0.51, 1.06), R90
-- rawPart: R4, DNP, 0603-RES, SparkFun-Resistors, (0.7, 0.94), R270
-- rawPart: R5, DNP, 0603-RES, SparkFun-Resistors, (0.76, 0.94), R270
-- rawPart: SJ1, Power, Select, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.48, 0.91), R180
-- rawPart: U$2, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
-- rawPart: U$3, EDISON_CONNECTOR_FULLHEADER, DF40C-70DP-0.4(51), Edison, (0.97007874, 0.637), MR90
-- rawPart: U1, MIC5205, SOT23-5, SparkFun-PowerIC, (0.48, 0.77), R0
-- rawPart: U2, PCA9306, PCA9306DC-1:1, SparkFun-DigitalIC, (0.62, 1.06), R90
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C3,10uF,10UF-6.3V-20%(1206),1206,CAP-10057,CAP-10057,10uF,
+- rawParts: C4,10uF,10UF-6.3V-20%(1206),1206,CAP-10057,CAP-10057,10uF,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP2,,M04SMD_RA_FEMALE,1X04_SMD_RA_FEMALE,Header 4,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,
+- rawParts: LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R2,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R3,200k,200KOHM1/10W1%(0603)200K,0603-RES,RES-09385,RES-09385,200k,
+- rawParts: R4,DNP,2.2KOHM1/10W1%(0603),0603-RES,RES-08272,RES-08272,2.2k,
+- rawParts: R5,DNP,2.2KOHM1/10W1%(0603),0603-RES,RES-08272,RES-08272,2.2k,
+- rawParts: SJ1,Power Select,JUMPER-PAD-3-2OF3_NC_BY_TRACE,PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,
+- rawParts: U$2,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,
+- rawParts: U$3,EDISON_CONNECTOR_FULLHEADER,EDISON_CONNECTOR_FULLHEADER,DF40C-70DP-0.4(51),,,,
+- rawParts: U1,MIC5205,MIC52053.3V,SOT23-5,MIC5205 150mA vreg,VREG-00822,,
+- rawParts: U2,PCA9306,PCA9306PCA9306DC-1:1,PCA9306DC-1:1,Bidirectional I2C level shifter.,IC-10023,PCA9306,
 
 
 

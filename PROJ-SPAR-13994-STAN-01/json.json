@@ -41,52 +41,92 @@
             "value": "PROJ-SPAR-13994-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI081-01, JP1, 1.27, 1.27, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP2, 1.27, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI081-01, JP3, 1.27, 11.937999999999999, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP4, 1.27, 19.558, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 5.08, 270"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 10.16, 15.748, 270"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.05), R0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.35), R0"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.47), R0"
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.77), R0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U1, SSOP16, SSOP16, generic-ssop16, (0.4, 0.2), R270"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "U2, SSOP16, SSOP16, generic-ssop16, (0.4, 0.62), R270"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,SSOP16,SSOP16,SSOP16,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,SSOP16,SSOP16,SSOP16,,,"
         },
         {
             "name": "oompID",

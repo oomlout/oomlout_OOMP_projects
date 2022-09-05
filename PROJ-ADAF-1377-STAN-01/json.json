@@ -41,36 +41,36 @@
             "value": "PROJ-ADAF-1377-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI4-01, JP1, -3.8099999999999996, 0.0, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI4-01, JP2, 3.8099999999999996, 0.0, 90"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, HEADER1X4, boogie, (-0.15, 0), R270"
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, HEADER1X4, boogie, (0.15, 0), R90"
+            "name": "rawParts",
+            "value": "JP2,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, SO-8, SO-08NMW, boogie, (0, 0), R0"
+            "name": "rawParts",
+            "value": "U$1,SO-8,SO-8,SO-08NMW,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180"
+            "name": "rawParts",
+            "value": "U$2,TSSOP-8,TSSOP-8,TSSOP-8NM,,,"
         },
         {
             "name": "oompID",

@@ -41,36 +41,108 @@
             "value": "PROJ-SPAR-14877-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BT2, 19.049999999999997, 11.43, 90"
+            "name": "oompParts",
+            "value": "BT2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 19.049999999999997, 39.37, 0"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 12.7, 30.479999999999997, 90"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 26.669999999999998, 30.479999999999997, 0"
+            "name": "oompParts",
+            "value": "H1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "BT2, BATTCOM_20MM_PTH_KIT, SparkFun-Batteries, (0.75, 0.45), R90"
+            "name": "oompParts",
+            "value": "H2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "D1, LED_5MM-KIT-NO-SILK, SparkFun-LED, (0.75, 1.55), R0"
+            "name": "oompParts",
+            "value": "H3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10, AXIAL-0.3-KIT, SparkFun-Resistors, (0.5, 1.2), R90"
+            "name": "oompParts",
+            "value": "H4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "S2, SWITCH_SPDT_PTH_11.6X4.0MM_KIT, SparkFun-Switches, (1.05, 1.2), R0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+        },
+        {
+            "name": "rawParts",
+            "value": "BT2,,BATTERY-20MM_PTH_KIT,BATTCOM_20MM_PTH_KIT,Battery - Single Cell,9031,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,,LED-5MM-KIT-NO-SILK,LED_5MM-KIT-NO-SILK,LED (Generic),9903,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME_.2,SparkFun Font Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10,RESISTORAXIAL-0.3-KIT,AXIAL-0.3-KIT,Generic Resistor Package,8371,, ,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,,SWITCH-SPDT-PTH-11.6X4.0MM-KIT,SWITCH_SPDT_PTH_11.6X4.0MM_KIT,Single Pole, Double Throw (SPDT) Switch,SWCH-08261,COM-00102,,"
         },
         {
             "name": "oompID",

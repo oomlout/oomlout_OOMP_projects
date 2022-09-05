@@ -41,100 +41,140 @@
             "value": "PROJ-SPAR-10121-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C1, 1.27, 9.270999999999999, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C2, 11.43, 10.16, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C3, 14.097000000000001, 4.191, 90"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C4, 14.097000000000001, 9.652, 90"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF22D-V50, C5, 7.619999999999999, 10.16, 0"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP1, 1.27, 1.27, M180"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP4, 10.16, 15.239999999999998, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP6, 5.08, 2.921, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 12.318999999999999, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 3.8099999999999996, 10.16, 180"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 6.35, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 10.16, 6.35, 90"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, 0603-CAP, SparkFun, (0.05, 0.365), R90"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, 0603-CAP, SparkFun, (0.45, 0.4), R0"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10nF, 0603-CAP, SparkFun, (0.555, 0.165), R90"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 0.1uF, 0603-CAP, SparkFun, (0.555, 0.38), R90"
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 2.2nF, 0603-CAP, SparkFun, (0.3, 0.4), R0"
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X06, SparkFun, (0.05, 0.05), MR180"
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.4, 0.6), R0"
+            "name": "rawParts",
+            "value": "C3,10nF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.2, 0.115), R0"
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 4.7K, 0603-RES, SparkFun, (0.3, 0.485), R0"
+            "name": "rawParts",
+            "value": "C5,2.2nF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 4.7k, 0603-RES, SparkFun, (0.15, 0.4), R180"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, ADXL3451:1, LGA14, Testing, (0.15, 0.25), R90"
+            "name": "rawParts",
+            "value": "JP1,,M06SIP,1X06,Header 6,,"
         },
         {
-            "name": "rawPart",
-            "value": "U3, ITG-32001:1, QFN-24_ITG3200_1:1, Testing, (0.4, 0.25), R90"
+            "name": "rawParts",
+            "value": "JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,4.7K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,REVISION,REVISION,REVISION,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADXL3451:1,ADXL3451:1,LGA14,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,ITG-32001:1,ITG-32001:1,QFN-24_ITG3200_1:1,ITG-3200 3-axis gyro, digital output, qfn24 package,,"
         },
         {
             "name": "oompID",

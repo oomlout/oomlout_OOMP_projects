@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13343-STAN-01>LilyPad Reed Switch](#proj-spar-13343-stan-01lilypad-reed-switch)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,20 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, 0.0, 270,S1, REED, REED_SWITCH_PLASTIC, SparkFun-Electromechanical, (0, 0), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEOFF, 0.0, -12.827, 0,SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.505), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEON, 0.0, 12.827, 180,SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.505), R180|
 
 ## Tags
 
@@ -52,12 +42,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Reed_Switch (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13343
 - oompID: PROJ-SPAR-13343-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 0.0, 0.0, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEOFF, 0.0, -12.827, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SLIDEON, 0.0, 12.827, 180
-- rawPart: S1, REED, REED_SWITCH_PLASTIC, SparkFun-Electromechanical, (0, 0), R270
-- rawPart: SLIDEOFF, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, -0.505), R0
-- rawPart: SLIDEON, SEWTAP8, PETAL-MEDIUM-2SIDE, LilyPad-Wearables, (0, 0.505), R180
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SLIDEOFF,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SLIDEON,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,v01,
+- rawParts: LOGO1,OSHW-LOGOS-COPPER,OSHW-LOGOS-COPPER,OSHW-LOGO-S_COPPER,Open Source Hardware Logo,,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,,,
+- rawParts: S1,REED,SWITCH-MOMENTARY-2PTH_REED2,REED_SWITCH_PLASTIC,Various NO switches- pushbuttons, reed, etc,,SWCH-10467,,
+- rawParts: SLIDEOFF,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: SLIDEON,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,,
 
 
 

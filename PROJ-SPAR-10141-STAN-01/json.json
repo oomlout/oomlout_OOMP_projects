@@ -41,28 +41,36 @@
             "value": "PROJ-SPAR-10141-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP1, 7.619999999999999, 10.16, M0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP2, 13.97, 1.27, 180"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 7.619999999999999, 6.35, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, M01PTH, 1X01, SparkFun, (0.3, 0.4), MR0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X06, SparkFun, (0.55, 0.05), R180"
+            "name": "rawParts",
+            "value": "JP1,M01PTH,M01PTH,1X01,Header 1,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, LS20126, LS20126, SparkFun, (0.3, 0.25), R0"
+            "name": "rawParts",
+            "value": "JP2,,M06SIP,1X06,Header 6,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LS20126,LS20126,LS20126,LS20126 20-Channel GPS Module,,"
         },
         {
             "name": "oompID",

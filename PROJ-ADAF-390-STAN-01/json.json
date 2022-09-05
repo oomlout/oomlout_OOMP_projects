@@ -41,244 +41,236 @@
             "value": "PROJ-ADAF-390-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT, 9.524999999999999, 3.8099999999999996, 180"
+            "name": "oompParts",
+            "value": "BATT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, 31.241999999999997, 12.7, 90"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C2, 9.524999999999999, 11.684, 0"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, C3, 16.509999999999998, 17.429999937999998, 270"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C4, 39.37, 18.415, 270"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, CHRG/LBO, 18.415, 6.985, 180"
+            "name": "oompParts",
+            "value": "CHRG/LBO,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 33.841999879999996, 38.253999946, 180"
+            "name": "oompParts",
+            "value": "CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN4, 22.224999999999998, 33.654999999999994, 180"
+            "name": "oompParts",
+            "value": "CN4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 29.845, 24.892, 0"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, D2 0 ohm, 0, 0, 0"
+            "name": "oompParts",
+            "value": "D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, DONE, 26.034999999999997, 6.985, 180"
+            "name": "oompParts",
+            "value": "DONE,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.224999999999998, 19.049999999999997, 0"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP1, 13.208, 35.05199999999999, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP2, 22.224999999999998, 2.54, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP3, 27.304999999999996, 2.54, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP4, 17.145, 2.54, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LOAD, 34.925, 3.8099999999999996, 180"
+            "name": "oompParts",
+            "value": "LOAD,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, PWR, 7.5089999679999995, 36.129999876, 270"
+            "name": "oompParts",
+            "value": "PWR,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O274-01, R2, 21.779999873999998, 13.160000096000001, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O104-01, R3, 26.495000096000002, 13.160000096000001, 180"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R5, 11.43, 20.32, 270"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R8, 20.955, 6.985, 270"
+            "name": "oompParts",
+            "value": "R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R9, 23.495, 6.985, 270"
+            "name": "oompParts",
+            "value": "R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R10, 7.5089999679999995, 30.668999875999997, 0"
+            "name": "oompParts",
+            "value": "R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R11, 3.8099999999999996, 20.32, 270"
+            "name": "oompParts",
+            "value": "R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O104-01, R12, 28.701999999999995, 18.748000096, 90"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, RT2, 13.97, 20.32, 270"
+            "name": "oompParts",
+            "value": "RT2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0805-X-UNMATCHED-01, THERM, 6.35, 20.32, 270"
+            "name": "oompParts",
+            "value": "THERM,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 3.556, 31.75, 0"
+            "name": "rawParts",
+            "value": "BATT,,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 42.925999999999995, 6.095999999999999, 0"
+            "name": "rawParts",
+            "value": "C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "BATT, JST-PH-2-SMT-RA, adafruit, (0.375, 0.15), R180"
+            "name": "rawParts",
+            "value": "C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, C0805K, adafruit, (1.23, 0.5), R90"
+            "name": "rawParts",
+            "value": "C3,10uF/10V,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 10uF, C0805K, adafruit, (0.375, 0.46), R0"
+            "name": "rawParts",
+            "value": "C4,4700uF/10V,CPOL-USE5-13,E5-13,POLARIZED CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10uF/10V, C0805K, adafruit, (0.65, 0.68622047), R270"
+            "name": "rawParts",
+            "value": "CHRG/LBO,ORANGE,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 4700uF/10V, E5-13, adafruit, (1.55, 0.725), R270"
+            "name": "rawParts",
+            "value": "CN1,DCIN,DCBARREL1.3MM,DCJACK_1.3MM_PTH,DC Barrel Jack,,"
         },
         {
-            "name": "rawPart",
-            "value": "CHRG/LBO, ORANGE, CHIP-LED0805, adafruit, (0.725, 0.275), R180"
+            "name": "rawParts",
+            "value": "CN4,,USBMINIB,USB-MINIB,USB Connectors,,"
         },
         {
-            "name": "rawPart",
-            "value": "CN1, DCIN, DCJACK_1.3MM_PTH, microbuilder, (1.3323622, 1.50606299), R180"
+            "name": "rawParts",
+            "value": "D1,MBR120VLSFT1G,DIODESOD-123,SOD-123,Diode,,"
         },
         {
-            "name": "rawPart",
-            "value": "CN4, USB-MINIB, adafruit, (0.875, 1.325), R180"
+            "name": "rawParts",
+            "value": "D2,0 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, MBR120VLSFT1G, SOD-123, microbuilder, (1.175, 0.98), R0"
+            "name": "rawParts",
+            "value": "DONE,GREEN,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "D2, 0, ohm, R0805, adafruit, (0.1, -0.55), R0"
+            "name": "rawParts",
+            "value": "IC1,MCP73871,MCP73871,QFN20_4MM,,,"
         },
         {
-            "name": "rawPart",
-            "value": "DONE, GREEN, CHIP-LED0805, adafruit, (1.025, 0.275), R180"
+            "name": "rawParts",
+            "value": "JP1,DCIN,HEADER-1X2,1X02_OVAL,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, MCP73871, QFN20_4MM, adafruit, (0.875, 0.75), R0"
+            "name": "rawParts",
+            "value": "JP2,STATUS,HEADER-1X2,1X02_OVAL,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, DCIN, 1X02_OVAL, microbuilder, (0.52, 1.38), R180"
+            "name": "rawParts",
+            "value": "JP3,LOAD,HEADER-1X2,1X02_OVAL,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, STATUS, 1X02_OVAL, microbuilder, (0.875, 0.1), R0"
+            "name": "rawParts",
+            "value": "JP4,BATT,HEADER-1X2,1X02_OVAL,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, LOAD, 1X02_OVAL, microbuilder, (1.075, 0.1), R0"
+            "name": "rawParts",
+            "value": "LOAD,,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, BATT, 1X02_OVAL, microbuilder, (0.675, 0.1), R0"
+            "name": "rawParts",
+            "value": "PWR,RED,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "LOAD, JST-PH-2-SMT-RA, adafruit, (1.375, 0.15), R180"
+            "name": "rawParts",
+            "value": "R2,270K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "PWR, RED, CHIP-LED0805, adafruit, (0.29562992, 1.42244094), R270"
+            "name": "rawParts",
+            "value": "R3,100K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 270K, R0805, adafruit, (0.85748031, 0.51811024), R0"
+            "name": "rawParts",
+            "value": "R5,1K,R-US_M0805,M0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 100K, R0805, adafruit, (1.04311024, 0.51811024), R180"
+            "name": "rawParts",
+            "value": "R8,1K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 1K, M0805, adafruit, (0.45, 0.8), R270"
+            "name": "rawParts",
+            "value": "R9,1K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R8, 1K, R0805, adafruit, (0.825, 0.275), R270"
+            "name": "rawParts",
+            "value": "R10,1K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R9, 1K, R0805, adafruit, (0.925, 0.275), R270"
+            "name": "rawParts",
+            "value": "R11,2K,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R10, 1K, R0805, adafruit, (0.29562992, 1.20744094), R0"
+            "name": "rawParts",
+            "value": "R12,100K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R11, 2K, 0805-THM, adafruit, (0.15, 0.8), R270"
+            "name": "rawParts",
+            "value": "RT2,150K,R-US_M0805,M0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 100K, R0805, adafruit, (1.13, 0.73811024), R90"
+            "name": "rawParts",
+            "value": "THERM,10K,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "RT2, 150K, M0805, adafruit, (0.55, 0.8), R270"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "THERM, 10K, 0805-THM, adafruit, (0.25, 0.8), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.14, 1.25), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.69, 0.24), R0"
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
             "name": "oompID",

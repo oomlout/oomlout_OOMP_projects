@@ -41,100 +41,84 @@
             "value": "PROJ-ADAF-4984-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, 23.875999999999998, 6.858, 270"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 24.764999999999997, 17.779999999999998, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 8.762999999999998, 270"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 27.94, 10.16, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI11-01, JP3, 15.239999999999998, 2.54, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O103-01, R1, 20.193, 6.858, 180"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O221-01, R2, 11.176, 6.858, 180"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O221-01, R5, 15.620999999999999, 6.858, 180"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$32, 2.54, 16.509999999999998, 180"
+            "name": "rawParts",
+            "value": "C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$33, 27.94, 16.509999999999998, 180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 25.273, 10.540999999999999, 180"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 15.239999999999998, 10.413999999999998, 180"
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, 0603-NO, microbuilder, (0.94, 0.27), R270"
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X11,1X11_ROUND,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.975, 0.7), R270"
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.05, 0.345), R270"
+            "name": "rawParts",
+            "value": "R2,220,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X03_ROUND, microbuilder, (1.1, 0.4), R90"
+            "name": "rawParts",
+            "value": "R5,220,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X11_ROUND, microbuilder, (0.6, 0.1), R180"
+            "name": "rawParts",
+            "value": "U$32,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10K, RESPACK_4X0603, microbuilder, (0.795, 0.27), R180"
+            "name": "rawParts",
+            "value": "U$33,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 220, RESPACK_4X0603, microbuilder, (0.44, 0.27), R180"
+            "name": "rawParts",
+            "value": "U2,24LC02BT-I/OT,EEPROM_I2C_MCP24AA32,SOT23-5,Microchip 32K (4K x 8) 1.8V I2C EEPROM,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 220, RESPACK_4X0603, microbuilder, (0.615, 0.27), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$32, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.1, 0.65), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$33, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.1, 0.65), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U2, 24LC02BT-I/OT, SOT23-5, microbuilder, (0.995, 0.415), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, 47151-0001, HDMI_MOLEX_47151-0001, adafruit_electromech, (0.6, 0.41), R180"
+            "name": "rawParts",
+            "value": "X1,47151-0001,HDMI_MOLEX_47151,HDMI_MOLEX_47151-0001,The default footprint uses layer 46 (Milling) for the tabs, the DIMLAYER footprint uses layer 20 (Dimensions).  Both will probably require special instructions to the board house,,"
         },
         {
             "name": "oompID",

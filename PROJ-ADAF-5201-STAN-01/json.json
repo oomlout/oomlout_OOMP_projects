@@ -41,1292 +41,1252 @@
             "value": "PROJ-ADAF-5201-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, 6.787999886, 38.191000072, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 1.9599998899999997, 41.468499994, 180"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C3, 36.440000018, 39.48200003, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C4, 32.278999958, 38.335000038, 0"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C5, 2.107000104, 39.503999986, 180"
+            "name": "oompParts",
+            "value": "C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C6, 37.040000088, 41.432500066, 0"
+            "name": "oompParts",
+            "value": "C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN1, 32.250000015999994, 43.000000105999995, 180"
+            "name": "oompParts",
+            "value": "CONN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN2, 6.749999962, 43.000000105999995, 180"
+            "name": "oompParts",
+            "value": "CONN2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.7009999, 43.985999912, 0"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 33.80429993, -4.215100027999999, 0"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 37.899999892, 32.399999969999996, 0"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI07-01, JP5, 19.500000116, 43.500000121999996, 0"
+            "name": "oompParts",
+            "value": "LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 1.500000048, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 4.49999989, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 7.499999985999999, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED4, 10.500000082, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED5, 13.499999924, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED6, 16.500000019999998, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED7, 19.500000116, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED8, 22.499999958, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED9, 25.500000053999997, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED10, 28.499999895999995, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED11, 31.499999991999996, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED12, 34.500000088, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED13, 37.49999993, 25.699999907999995, 90"
+            "name": "oompParts",
+            "value": "LED16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED14, 1.500000048, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED15, 4.49999989, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED16, 7.499999985999999, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED17, 10.500000082, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED18, 13.499999924, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED19, 16.500000019999998, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED20, 19.500000116, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED21, 22.499999958, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED24,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED22, 25.500000053999997, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED25,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED23, 28.499999895999995, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED26,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED24, 31.499999991999996, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED27,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED25, 34.500000088, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED28,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED26, 37.49999993, 22.700000065999998, 90"
+            "name": "oompParts",
+            "value": "LED29,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED27, 1.500000048, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED30,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED28, 4.49999989, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED31,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED29, 7.499999985999999, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED32,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED30, 10.500000082, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED33,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED31, 13.499999924, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED34,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED32, 16.500000019999998, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED35,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED33, 19.500000116, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED36,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED34, 22.499999958, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED37,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED35, 25.500000053999997, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED38,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED36, 28.499999895999995, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED39,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED37, 31.499999991999996, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED40,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED38, 34.500000088, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED41,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED39, 37.49999993, 19.69999997, 90"
+            "name": "oompParts",
+            "value": "LED42,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED40, 1.500000048, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED43,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED41, 4.49999989, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED44,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED42, 7.499999985999999, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED45,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED43, 10.500000082, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED46,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED44, 13.499999924, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED47,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED45, 16.500000019999998, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED48,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED46, 19.500000116, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED49,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED47, 22.499999958, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED50,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED48, 25.500000053999997, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED51,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED49, 28.499999895999995, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED52,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED50, 31.499999991999996, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED53,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED51, 34.500000088, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED54,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED52, 37.49999993, 16.699999874, 90"
+            "name": "oompParts",
+            "value": "LED55,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED53, 1.500000048, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED56,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED54, 4.49999989, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED57,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED55, 7.499999985999999, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED58,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED56, 10.500000082, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED59,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED57, 13.499999924, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED60,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED58, 16.500000019999998, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED61,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED59, 19.500000116, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED62,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED60, 22.499999958, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED63,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED61, 25.500000053999997, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED64,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED62, 28.499999895999995, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED65,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED63, 31.499999991999996, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED66,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED64, 34.500000088, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED67,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED65, 37.49999993, 13.700000031999998, 90"
+            "name": "oompParts",
+            "value": "LED68,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED66, 1.500000048, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED69,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED67, 4.49999989, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED70,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED68, 7.499999985999999, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED71,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED69, 10.500000082, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED72,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED70, 13.499999924, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED73,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED71, 16.500000019999998, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED74,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED72, 19.500000116, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED75,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED73, 22.499999958, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED76,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED74, 25.500000053999997, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED77,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED75, 28.499999895999995, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED78,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED76, 31.499999991999996, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED79,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED77, 34.500000088, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED80,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED78, 37.49999993, 10.699999936, 90"
+            "name": "oompParts",
+            "value": "LED81,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED79, 1.500000048, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED82,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED80, 4.49999989, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED83,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED81, 7.499999985999999, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED84,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED82, 10.500000082, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED85,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED83, 13.499999924, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED86,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED84, 16.500000019999998, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED87,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED85, 19.500000116, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED88,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED86, 22.499999958, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED89,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED87, 25.500000053999997, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED90,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED88, 28.499999895999995, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED91,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED89, 31.499999991999996, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED92,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED90, 34.500000088, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED93,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED91, 37.49999993, 7.700000094, 90"
+            "name": "oompParts",
+            "value": "LED94,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED92, 1.500000048, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED95,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED93, 4.49999989, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED96,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED94, 7.499999985999999, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED97,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED95, 10.500000082, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED98,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED96, 13.499999924, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED99,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED97, 16.500000019999998, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED100,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED98, 19.500000116, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED101,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED99, 22.499999958, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED102,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED100, 25.500000053999997, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED103,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED101, 28.499999895999995, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED104,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED102, 31.499999991999996, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED105,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED103, 34.500000088, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED106,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED104, 37.49999993, 4.699999998, 90"
+            "name": "oompParts",
+            "value": "LED107,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED105, 1.500000048, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED108,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED106, 4.49999989, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED109,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED107, 7.499999985999999, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED110,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED108, 10.500000082, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED111,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED109, 13.499999924, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED112,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED110, 16.500000019999998, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED113,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED111, 19.500000116, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED114,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED112, 22.499999958, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED115,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED113, 25.500000053999997, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED116,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED114, 28.499999895999995, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "LED117,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED115, 31.499999991999996, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED116, 34.500000088, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED117, 37.49999993, 1.699999902, 90"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 20.067999995999998, 41.39349989, 180"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.2069999360000003, 28.79900006, 180"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R3, 8.342499951999999, 28.67200006, 180"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R4, 14.819499952000001, 28.67200006, 180"
+            "name": "oompParts",
+            "value": "R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R5, 21.804499951999997, 28.54500006, 180"
+            "name": "oompParts",
+            "value": "R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R6, 28.217999951999996, 28.79900006, 180"
+            "name": "oompParts",
+            "value": "R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R7, 27.004000094, 38.684000102, 270"
+            "name": "oompParts",
+            "value": "R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R8, 34.758499951999994, 28.989500059999997, 180"
+            "name": "oompParts",
+            "value": "R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R9, 37.806499952, 28.926000059999996, 270"
+            "name": "oompParts",
+            "value": "R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R10, 5.587000001999999, 33.178999936, 225"
+            "name": "oompParts",
+            "value": "R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R11, 5.802499952, 28.67200006, 270"
+            "name": "oompParts",
+            "value": "R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R12, 9.301478222, 32.37305311, 225"
+            "name": "oompParts",
+            "value": "R15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R13, 10.945999952, 29.053000060000002, 270"
+            "name": "oompParts",
+            "value": "R16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R14, 12.215999952, 29.43400006, 270"
+            "name": "oompParts",
+            "value": "R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R15, 17.359499952, 28.67200006, 270"
+            "name": "oompParts",
+            "value": "R18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R16, 24.344499952, 28.79900006, 270"
+            "name": "oompParts",
+            "value": "R19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R17, 18.78829999, 28.666499943999995, 270"
+            "name": "oompParts",
+            "value": "R20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R18, 25.677999952, 30.005500059999996, 270"
+            "name": "oompParts",
+            "value": "R21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R19, 30.821499951999996, 28.79900006, 270"
+            "name": "oompParts",
+            "value": "R22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R20, 32.154999952, 29.942000059999998, 270"
+            "name": "oompParts",
+            "value": "R23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R21, 31.60219994, 33.424999952, 0"
+            "name": "oompParts",
+            "value": "SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R22, 30.186499952, 36.54600006, 0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R23, 30.763999939999994, 34.948999952, 0"
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 29.40900011, 36.06999999599999, M180"
+            "name": "rawParts",
+            "value": "C2,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 29.40900011, 40.133999996, M180"
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 29.40900011, 38.101999995999996, M180"
+            "name": "rawParts",
+            "value": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 29.436000055999997, 34.019000034, M180"
+            "name": "rawParts",
+            "value": "C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, 2.50000008, -2.50000008, 0"
+            "name": "rawParts",
+            "value": "C6,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$4, 36.499999898, -2.50000008, 0"
+            "name": "rawParts",
+            "value": "CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 2.50000008, 35.999999882, 180"
+            "name": "rawParts",
+            "value": "CONN2,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$6, 36.499999898, 35.999999882, 180"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 17.912500116, 35.73199991, 225"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, 0805-NO, microbuilder, (0.26724409, 1.50358268), R0"
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 1uF, 0603-NO, microbuilder, (0.07716535, 1.63261811), R180"
+            "name": "rawParts",
+            "value": "JP5,,HEADER-1X7THICKER,1X07_ROUND_76,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 10uF, 0805-NO, microbuilder, (1.43464567, 1.55440945), R0"
+            "name": "rawParts",
+            "value": "LED1,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 10uF, 0805-NO, microbuilder, (1.27082677, 1.50925197), R0"
+            "name": "rawParts",
+            "value": "LED2,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "C5, 10uF, 0805-NO, microbuilder, (0.08295276, 1.55527559), R180"
+            "name": "rawParts",
+            "value": "LED3,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "C6, 1uF, 0603-NO, microbuilder, (1.45826772, 1.63120079), R0"
+            "name": "rawParts",
+            "value": "LED4,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "CONN1, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.26968504, 1.69291339), R180"
+            "name": "rawParts",
+            "value": "LED5,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "CONN2, STEMMA_I2C_QT, JST_SH4, microbuilder, (0.26574803, 1.69291339), R180"
+            "name": "rawParts",
+            "value": "LED6,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.0669685, 1.73173228), R0"
+            "name": "rawParts",
+            "value": "LED7,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.33087795, -0.16594882), R0"
+            "name": "rawParts",
+            "value": "LED8,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.49212598, 1.27559055), R0"
+            "name": "rawParts",
+            "value": "LED9,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, 1X07_ROUND_76, microbuilder, (0.76771654, 1.71259843), R0"
+            "name": "rawParts",
+            "value": "LED10,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED11,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED12,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED3, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED13,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED4, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED14,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED5, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED15,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED6, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED16,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED7, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED17,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED8, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED18,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED9, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED19,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED10, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED20,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED11, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED21,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED12, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED22,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED13, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 1.01181102), R90"
+            "name": "rawParts",
+            "value": "LED23,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED14, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED24,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED15, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED25,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED16, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED26,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED17, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED27,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED18, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED28,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED19, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED29,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED20, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED30,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED21, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED31,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED22, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED32,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED23, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED33,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED24, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED34,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED25, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED35,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED26, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.89370079), R90"
+            "name": "rawParts",
+            "value": "LED36,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED27, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED37,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED28, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED38,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED29, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED39,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED30, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED40,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED31, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED41,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED32, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED42,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED33, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED43,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED34, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED44,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED35, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED45,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED36, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED46,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED37, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED47,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED38, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED48,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED39, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.77559055), R90"
+            "name": "rawParts",
+            "value": "LED49,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED40, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED50,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED41, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED51,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED42, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED52,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED43, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED53,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED44, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED54,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED45, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED55,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED46, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED56,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED47, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED57,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED48, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED58,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED49, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED59,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED50, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED60,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED51, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED61,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED52, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.65748031), R90"
+            "name": "rawParts",
+            "value": "LED62,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED53, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED63,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED54, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED64,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED55, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED65,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED56, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED66,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED57, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED67,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED58, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED68,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED59, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED69,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED60, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED70,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED61, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED71,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED62, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED72,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED63, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED73,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED64, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED74,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED65, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.53937008), R90"
+            "name": "rawParts",
+            "value": "LED75,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED66, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED76,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED67, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED77,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED68, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED78,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED69, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED79,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED70, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED80,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED71, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED81,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED72, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED82,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED73, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED83,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED74, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED84,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED75, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED85,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED76, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED86,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED77, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED87,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED78, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.42125984), R90"
+            "name": "rawParts",
+            "value": "LED88,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED79, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED89,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED80, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED90,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED81, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED91,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED82, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED92,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED83, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED93,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED84, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED94,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED85, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED95,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED86, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED96,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED87, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED97,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED88, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED98,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED89, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED99,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED90, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED100,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED91, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.30314961), R90"
+            "name": "rawParts",
+            "value": "LED101,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED92, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED102,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED93, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED103,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED94, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED104,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED95, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED105,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED96, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED106,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED97, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED107,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED98, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED108,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED99, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED109,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED100, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED110,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED101, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED111,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED102, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED112,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED103, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED113,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED104, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.18503937), R90"
+            "name": "rawParts",
+            "value": "LED114,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED105, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.05905512, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "LED115,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED106, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.17716535, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "LED116,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED107, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.29527559, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "LED117,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED108, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.41338583, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R1,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED109, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.53149606, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R2,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED110, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.6496063, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R3,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED111, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.76771654, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R4,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED112, RGBLED_CA_2121, RGBLED_2121, microbuilder, (0.88582677, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R5,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED113, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.00393701, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R6,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED114, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.12204724, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R7,4.7K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED115, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.24015748, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R8,22,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
         },
         {
-            "name": "rawPart",
-            "value": "LED116, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.35826772, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R9,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED117, RGBLED_CA_2121, RGBLED_2121, microbuilder, (1.47637795, 0.06692913), R90"
+            "name": "rawParts",
+            "value": "R10,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 2.2K, 0603-NO, microbuilder, (0.79007874, 1.62966535), R180"
+            "name": "rawParts",
+            "value": "R11,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 22, RESPACK_4X0603, microbuilder, (0.12625984, 1.1338189), R180"
+            "name": "rawParts",
+            "value": "R12,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 22, RESPACK_4X0603, microbuilder, (0.32844488, 1.1288189), R180"
+            "name": "rawParts",
+            "value": "R13,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 22, RESPACK_4X0603, microbuilder, (0.58344488, 1.1288189), R180"
+            "name": "rawParts",
+            "value": "R14,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 22, RESPACK_4X0603, microbuilder, (0.85844488, 1.1238189), R180"
+            "name": "rawParts",
+            "value": "R15,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 22, RESPACK_4X0603, microbuilder, (1.11094488, 1.1338189), R180"
+            "name": "rawParts",
+            "value": "R16,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R7, 4.7K, RESPACK_4X0603, microbuilder, (1.06314961, 1.52299213), R270"
+            "name": "rawParts",
+            "value": "R17,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R8, 22, RESPACK_4X0603, microbuilder, (1.36844488, 1.1413189), R180"
+            "name": "rawParts",
+            "value": "R18,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R9, 22, 0603-NO, microbuilder, (1.48844488, 1.1388189), R270"
+            "name": "rawParts",
+            "value": "R19,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R10, 51, 0603-NO, microbuilder, (0.21996063, 1.30625984), R225"
+            "name": "rawParts",
+            "value": "R20,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R11, 51, 0603-NO, microbuilder, (0.22844488, 1.1288189), R270"
+            "name": "rawParts",
+            "value": "R21,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R12, 51, 0603-NO, microbuilder, (0.36619993, 1.27452965), R225"
+            "name": "rawParts",
+            "value": "R22,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R13, 51, 0603-NO, microbuilder, (0.43094488, 1.1438189), R270"
+            "name": "rawParts",
+            "value": "R23,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
         },
         {
-            "name": "rawPart",
-            "value": "R14, 51, 0603-NO, microbuilder, (0.48094488, 1.1588189), R270"
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R15, 51, 0603-NO, microbuilder, (0.68344488, 1.1288189), R270"
+            "name": "rawParts",
+            "value": "SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R16, 51, 0603-NO, microbuilder, (0.95844488, 1.1338189), R270"
+            "name": "rawParts",
+            "value": "SJ3,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R17, 51, 0603-NO, microbuilder, (0.73969685, 1.12860236), R270"
+            "name": "rawParts",
+            "value": "SJ4,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "R18, 51, 0603-NO, microbuilder, (1.01094488, 1.1813189), R270"
+            "name": "rawParts",
+            "value": "U$3,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R19, 51, 0603-NO, microbuilder, (1.21344488, 1.1338189), R270"
+            "name": "rawParts",
+            "value": "U$4,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R20, 51, 0603-NO, microbuilder, (1.26594488, 1.1788189), R270"
+            "name": "rawParts",
+            "value": "U$5,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R21, 51, 0603-NO, microbuilder, (1.2441811, 1.31594488), R0"
+            "name": "rawParts",
+            "value": "U$6,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "R22, 51, 0603-NO, microbuilder, (1.18844488, 1.4388189), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "R23, 22, 0603-NO, microbuilder, (1.2111811, 1.37594488), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.42007874), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.58007874), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ3, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.15783465, 1.50007874), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "SJ4, SOLDERJUMPER_CLOSEDWIRE, microbuilder, (1.15889764, 1.33933071), MR180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$3, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.0984252, -0.0984252), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$4, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.43700787, -0.0984252), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$5, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (0.0984252, 1.41732283), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$6, MOUNTINGHOLE2.5, MOUNTINGHOLE_2.5_PLATED, microbuilder, (1.43700787, 1.41732283), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "X1, IS31FL3741, QFN60_7MM, microbuilder, (0.70521654, 1.40677165), R225"
+            "name": "rawParts",
+            "value": "X1,IS31FL3741,IS31FL3741,QFN60_7MM,,,"
         },
         {
             "name": "oompID",

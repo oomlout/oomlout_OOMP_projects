@@ -41,468 +41,468 @@
             "value": "PROJ-ADAF-2077-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C1, 63.672699934, 43.571100056, 0"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C2, 66.664899944, 7.411699933999999, 90"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GNDSTRIP1, 56.39810005599999, 27.894300065999996, 180"
+            "name": "oompParts",
+            "value": "GNDSTRIP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, GNDSTRIP2, 58.938100055999996, 10.114300066, 180"
+            "name": "oompParts",
+            "value": "GNDSTRIP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 6.360100055999999, 37.800300066, 0"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP1, 36.83, 6.35, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP4, 54.60999999999999, 46.99, 180"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP9, 57.15, 6.35, 0"
+            "name": "oompParts",
+            "value": "JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 2.621300066, 50.027899944, 270"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 14.869100056, 3.129300066, 270"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, M1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "M1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 9.443699934, 51.318100056, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 11.567100056, 4.145300066, 90"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET, 5.140099955999999, 3.70150009, 180"
+            "name": "oompParts",
+            "value": "RESET,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 21.600100056, 3.891300066, 0"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 30.225999999999996, 46.99, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 3.058100056, 27.894300065999996, 0"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 66.548, 11.43, 90"
+            "name": "oompParts",
+            "value": "U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 14.996100055999998, 6.812300066000001, 0"
+            "name": "oompParts",
+            "value": "U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$5, 48.778100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$6, 5.598100056, 27.894300065999996, 0"
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$7, 10.170100055999999, 48.976300066, 0"
+            "name": "oompParts",
+            "value": "U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$8, 5.598100056, 30.434300066, 0"
+            "name": "oompParts",
+            "value": "U$8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$9, 8.138100055999999, 27.894300065999996, 0"
+            "name": "oompParts",
+            "value": "U$9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$10, 46.23810005599999, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$11, 46.23810005599999, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$12, 48.778100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$13, 51.191100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$14, 51.318100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$15, 43.825100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$16, 26.045100056, 4.018300066, 0"
+            "name": "oompParts",
+            "value": "U$16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$17, 28.458100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$18, 30.998100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$19, 8.138100055999999, 30.434300066, 0"
+            "name": "oompParts",
+            "value": "U$19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$20, 33.538100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$21, 38.618100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$22, 36.078100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$23, 38.618100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$24, 61.467999999999996, 30.479999999999997, 90"
+            "name": "oompParts",
+            "value": "U$24,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$25, 10.678100056, 27.894300065999996, 0"
+            "name": "oompParts",
+            "value": "U$25,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$26, 28.458100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$26,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$27, 10.678100056, 30.434300066, 0"
+            "name": "oompParts",
+            "value": "U$27,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$28, 41.158100055999995, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$28,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$29, 30.998100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$29,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$30, 36.078100056, 32.974300066, 90"
+            "name": "oompParts",
+            "value": "U$30,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$31, 33.538100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$31,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$32, 43.698100056, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$32,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$33, 41.158100055999995, 20.274300066, 90"
+            "name": "oompParts",
+            "value": "U$33,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$34, 13.218100055999999, 35.514300066, 90"
+            "name": "oompParts",
+            "value": "U$34,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$35, 15.758100055999998, 35.514300066, 90"
+            "name": "oompParts",
+            "value": "U$35,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$37, 13.218100055999999, 38.054300065999996, 90"
+            "name": "oompParts",
+            "value": "U$37,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$38, 15.758100055999998, 38.054300065999996, 90"
+            "name": "oompParts",
+            "value": "U$38,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$39, 13.218100055999999, 40.594300065999995, 90"
+            "name": "oompParts",
+            "value": "U$39,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$40, 15.758100055999998, 40.594300065999995, 90"
+            "name": "oompParts",
+            "value": "U$40,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$41, 15.758100055999998, 43.134300065999994, 90"
+            "name": "oompParts",
+            "value": "U$41,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$43, 61.467999999999996, 12.7, 90"
+            "name": "oompParts",
+            "value": "U$43,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCCSTRIP1, 58.938100055999996, 43.134300065999994, 180"
+            "name": "oompParts",
+            "value": "VCCSTRIP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, VCCSTRIP2, 56.39810005599999, 25.354300065999997, 180"
+            "name": "oompParts",
+            "value": "VCCSTRIP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, C025-025X050, rcl-ez, (2.50679921, 1.71539764), R0"
+            "name": "rawParts",
+            "value": "C1,,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, C025-025X050, rcl-ez, (2.62460236, 0.29179921), R90"
+            "name": "rawParts",
+            "value": "C2,,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "GNDSTRIP1, 12-STRIP, 12-STRIP, Atmex, (2.22039764, 1.09820079), R180"
+            "name": "rawParts",
+            "value": "GNDSTRIP1,12-STRIP,12-STRIP,12-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "GNDSTRIP2, 12-STRIP, 12-STRIP, Atmex, (2.32039764, 0.39820079), R180"
+            "name": "rawParts",
+            "value": "GNDSTRIP2,12-STRIP,12-STRIP,12-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, SMD-14, SO-14NMW, carduino, (0.25039764, 1.48820079), R0"
+            "name": "rawParts",
+            "value": "IC1,SMD-14,SMD-14,SO-14NMW,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X08-BIG, carduino, (1.45, 0.25), R180"
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X08-BIG, carduino, (2.15, 1.85), R180"
+            "name": "rawParts",
+            "value": "JP4,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP9, 1X06-BIG, carduino, (2.25, 0.25), R0"
+            "name": "rawParts",
+            "value": "JP9,,PINHD-1X6B,1X06-BIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, LED3MM, adafruit, (0.10320079, 1.96960236), R270"
+            "name": "rawParts",
+            "value": "LED1,,LED3MM,LED3MM,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, LED3MM, adafruit, (0.58539764, 0.12320079), R270"
+            "name": "rawParts",
+            "value": "LED2,,LED3MM,LED3MM,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "M1, ARDUINO_R3_ICSP, ARDUINOR3_ICSP, adafruit, (0, 0), R0"
+            "name": "rawParts",
+            "value": "M1,ARDUINO_R3_ICSP,ARDUINO_R3_ICSP,ARDUINOR3_ICSP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 0207/5V, rcl-ez, (0.37179921, 2.02039764), R0"
+            "name": "rawParts",
+            "value": "R1,,R-US_0207/5V,0207/5V,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 0207/5V, rcl-ez, (0.45539764, 0.16320079), R90"
+            "name": "rawParts",
+            "value": "R2,,R-US_0207/5V,0207/5V,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "RESET, Reset, B3F-10XX, switch-omron, (0.20236614, 0.14572835), R180"
+            "name": "rawParts",
+            "value": "RESET,Reset,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1, Reset, B3F-10XX, switch-omron, (0.85039764, 0.15320079), R0"
+            "name": "rawParts",
+            "value": "S1,Reset,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, PINHD-1X10, 1X10-BIG, adafruit, (1.19, 1.85), R0"
+            "name": "rawParts",
+            "value": "U$1,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, PERFHOLE, PERFHOLE, Atmex, (0.12039764, 1.09820079), R0"
+            "name": "rawParts",
+            "value": "U$2,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$3, 5-STRIP, 5-STRIP, protoshield, (2.62, 0.45), R90"
+            "name": "rawParts",
+            "value": "U$3,5-STRIP,5-STRIP,5-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$4, PERFHOLE, PERFHOLE, Atmex, (0.59039764, 0.26820079), R0"
+            "name": "rawParts",
+            "value": "U$4,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$5, 3-STRIP, 3-STRIP, Atmex, (1.92039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$5,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$6, PERFHOLE, PERFHOLE, Atmex, (0.22039764, 1.09820079), R0"
+            "name": "rawParts",
+            "value": "U$6,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$7, PERFHOLE, PERFHOLE, Atmex, (0.40039764, 1.92820079), R0"
+            "name": "rawParts",
+            "value": "U$7,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$8, PERFHOLE, PERFHOLE, Atmex, (0.22039764, 1.19820079), R0"
+            "name": "rawParts",
+            "value": "U$8,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$9, PERFHOLE, PERFHOLE, Atmex, (0.32039764, 1.09820079), R0"
+            "name": "rawParts",
+            "value": "U$9,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$10, 3-STRIP, 3-STRIP, Atmex, (1.82039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$10,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$11, 3-STRIP, 3-STRIP, Atmex, (1.82039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$11,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$12, 3-STRIP, 3-STRIP, Atmex, (1.92039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$12,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$13, 3-STRIP, 3-STRIP, Atmex, (2.01539764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$13,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$14, 3-STRIP, 3-STRIP, Atmex, (2.02039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$14,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$15, 3-STRIP, 3-STRIP, Atmex, (1.72539764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$15,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$16, PERFHOLE, PERFHOLE, Atmex, (1.02539764, 0.15820079), R0"
+            "name": "rawParts",
+            "value": "U$16,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$17, 3-STRIP, 3-STRIP, Atmex, (1.12039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$17,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$18, 3-STRIP, 3-STRIP, Atmex, (1.22039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$18,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$19, PERFHOLE, PERFHOLE, Atmex, (0.32039764, 1.19820079), R0"
+            "name": "rawParts",
+            "value": "U$19,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$20, 3-STRIP, 3-STRIP, Atmex, (1.32039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$20,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$21, 3-STRIP, 3-STRIP, Atmex, (1.52039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$21,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$22, 3-STRIP, 3-STRIP, Atmex, (1.42039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$22,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$23, 3-STRIP, 3-STRIP, Atmex, (1.52039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$23,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$24, 5-STRIP, 5-STRIP, Atmex, (2.42, 1.2), R90"
+            "name": "rawParts",
+            "value": "U$24,5-STRIP,5-STRIP,5-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$25, PERFHOLE, PERFHOLE, Atmex, (0.42039764, 1.09820079), R0"
+            "name": "rawParts",
+            "value": "U$25,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$26, 3-STRIP, 3-STRIP, Atmex, (1.12039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$26,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$27, PERFHOLE, PERFHOLE, Atmex, (0.42039764, 1.19820079), R0"
+            "name": "rawParts",
+            "value": "U$27,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$28, 3-STRIP, 3-STRIP, Atmex, (1.62039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$28,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$29, 3-STRIP, 3-STRIP, Atmex, (1.22039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$29,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$30, 3-STRIP, 3-STRIP, Atmex, (1.42039764, 1.29820079), R90"
+            "name": "rawParts",
+            "value": "U$30,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$31, 3-STRIP, 3-STRIP, Atmex, (1.32039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$31,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$32, 3-STRIP, 3-STRIP, Atmex, (1.72039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$32,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$33, 3-STRIP, 3-STRIP, Atmex, (1.62039764, 0.79820079), R90"
+            "name": "rawParts",
+            "value": "U$33,3-STRIP,3-STRIP,3-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$34, PERFHOLE, PERFHOLE, Atmex, (0.52039764, 1.39820079), R90"
+            "name": "rawParts",
+            "value": "U$34,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$35, PERFHOLE, PERFHOLE, Atmex, (0.62039764, 1.39820079), R90"
+            "name": "rawParts",
+            "value": "U$35,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$37, PERFHOLE, PERFHOLE, Atmex, (0.52039764, 1.49820079), R90"
+            "name": "rawParts",
+            "value": "U$37,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$38, PERFHOLE, PERFHOLE, Atmex, (0.62039764, 1.49820079), R90"
+            "name": "rawParts",
+            "value": "U$38,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$39, PERFHOLE, PERFHOLE, Atmex, (0.52039764, 1.59820079), R90"
+            "name": "rawParts",
+            "value": "U$39,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$40, PERFHOLE, PERFHOLE, Atmex, (0.62039764, 1.59820079), R90"
+            "name": "rawParts",
+            "value": "U$40,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$41, PERFHOLE, PERFHOLE, Atmex, (0.62039764, 1.69820079), R90"
+            "name": "rawParts",
+            "value": "U$41,PERFHOLE,PERFHOLE,PERFHOLE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$43, 5-STRIP, 5-STRIP, Atmex, (2.42, 0.5), R90"
+            "name": "rawParts",
+            "value": "U$43,5-STRIP,5-STRIP,5-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "VCCSTRIP1, 12-STRIP, 12-STRIP, Atmex, (2.32039764, 1.69820079), R180"
+            "name": "rawParts",
+            "value": "VCCSTRIP1,12-STRIP,12-STRIP,12-STRIP,,,"
         },
         {
-            "name": "rawPart",
-            "value": "VCCSTRIP2, 12-STRIP, 12-STRIP, Atmex, (2.22039764, 0.99820079), R180"
+            "name": "rawParts",
+            "value": "VCCSTRIP2,12-STRIP,12-STRIP,12-STRIP,,,"
         },
         {
             "name": "oompID",

@@ -24,7 +24,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
 
 ## Interactive BOM
 

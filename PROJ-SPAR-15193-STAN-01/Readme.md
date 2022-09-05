@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-15193-STAN-01>SparkFun u-blox ZOE-M8Q](#proj-spar-15193-stan-01sparkfun-u-blox-zoe-m8q)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,39 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 22.605999999999998, 11.811, 180,B1, ML414H_IV01E_BATTERY, ML414H_IV01E, SparkFun-Batteries, (0.89, 0.465), R180|
-|CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90,C1, 4.7uF, 0603, SparkFun-Capacitors, (0.35, 0.5), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPE-0603-X-UNMATCHED-01, C3, 15.011399999999998, 17.018, 90,C3, 47pF, 0603, SparkFun-Capacitors, (0.591, 0.67), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.592799999999997, 12.6746, 270,D1, 0.5A/40V/420mV, SOD-323, SparkFun-DiscreteSemi, (0.732, 0.499), R270|
-|UNMATCHED-0603-X-UNMATCHED-01, D2, 2.032, 18.541999999999998, 0,D2, RED, LED-0603, SparkFun-LED, (0.08, 0.73), R0|
-|UNMATCHED-0402-X-UNMATCHED-01, FB1, 12.9032, 16.205199999999998, 0,FB1, FERRITE_BEAD-120_OHM-0402, 0402, SparkFun-Coils, (0.508, 0.638), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 12.7, 270,J1, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 2.54, 1.27, 0,J3, 1X08_NO_SILK, SparkFun-Connectors, (0.1, 0.05), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 12.2174, 18.923, 270,J4, U.FL, U.FL, SparkFun-Connectors, (0.481, 0.745), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 7.619999999999999, 24.13, 0,J5, 1X04_NO_SILK, SparkFun-Connectors, (0.3, 0.95), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.1102, 12.7508, M180,JP1, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.713, 0.502), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 18.034, 18.287999999999997, M0,JP2, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.71, 0.72), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 2.032, 18.541999999999998, M180,JP4, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.08, 0.73), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, L2, 6.985, 7.874, 270,L2, 2.2uH, 0806, SparkFun-Coils, (0.275, 0.31), R270|
-|RESE-0603-X-UNMATCHED-01, R1, 16.9926, 12.7, 90,R1, 3.3k, 0603, SparkFun-Resistors, (0.669, 0.5), R90|
-|RESE-0603-X-UNMATCHED-01, R2, 2.032, 17.272000000000002, 0,R2, 1k, 0603, SparkFun-Resistors, (0.08, 0.68), R0|
-|RESE-0603-X-UNMATCHED-01, R3, 20.9804, 18.440399999999997, 270,R3, 2.2k, 0603, SparkFun-Resistors, (0.826, 0.726), R270|
-|RESE-0603-X-UNMATCHED-01, R4, 19.431, 18.440399999999997, 270,R4, 2.2k, 0603, SparkFun-Resistors, (0.765, 0.726), R270|
-|RESE-0603-X-UNMATCHED-01, R5, 17.779999999999998, 15.493999999999998, 0,R5, 10, 0603, SparkFun-Resistors, (0.7, 0.61), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0,U1, U-BLOX_ZOE_M8Q-0-10, UBLOX_ZOE_M8-0-10, SparkFun-GPS, (0.5, 0.5), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 14.020800000000001, 8.0518, 0,Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.552, 0.317), R0|
 
 ## Tags
 
@@ -71,58 +42,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_u-blox_ZOE-M8Q (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15193
 - oompID: PROJ-SPAR-15193-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, B1, 22.605999999999998, 11.811, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 8.889999999999999, 12.7, 90
-- oompPart: CAPC-0603-X-NF100-V50, C2, 9.118599999999999, 8.3058, 270
-- oompPart: CAPE-0603-X-UNMATCHED-01, C3, 15.011399999999998, 17.018, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 18.592799999999997, 12.6746, 270
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D2, 2.032, 18.541999999999998, 0
-- oompPart: UNMATCHED-0402-X-UNMATCHED-01, FB1, 12.9032, 16.205199999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 0.6604, 24.764999999999997, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 24.5872, 0.8636, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 0.6604, 24.764999999999997, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 24.5872, 0.8636, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 5.08, 12.7, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 2.54, 1.27, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 12.2174, 18.923, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 7.619999999999999, 24.13, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 18.1102, 12.7508, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 18.034, 18.287999999999997, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 2.032, 18.541999999999998, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L2, 6.985, 7.874, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 16.9926, 12.7, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 2.032, 17.272000000000002, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 20.9804, 18.440399999999997, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 19.431, 18.440399999999997, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 17.779999999999998, 15.493999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 14.020800000000001, 8.0518, 0
-- rawPart: B1, ML414H_IV01E_BATTERY, ML414H_IV01E, SparkFun-Batteries, (0.89, 0.465), R180
-- rawPart: C1, 4.7uF, 0603, SparkFun-Capacitors, (0.35, 0.5), R90
-- rawPart: C2, 0.1uF, 0603, SparkFun-Capacitors, (0.359, 0.327), R270
-- rawPart: C3, 47pF, 0603, SparkFun-Capacitors, (0.591, 0.67), R90
-- rawPart: D1, 0.5A/40V/420mV, SOD-323, SparkFun-DiscreteSemi, (0.732, 0.499), R270
-- rawPart: D2, RED, LED-0603, SparkFun-LED, (0.08, 0.73), R0
-- rawPart: FB1, FERRITE_BEAD-120_OHM-0402, 0402, SparkFun-Coils, (0.508, 0.638), R0
-- rawPart: FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.026, 0.975), R0
-- rawPart: FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.968, 0.034), MR0
-- rawPart: FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.026, 0.975), MR0
-- rawPart: FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.968, 0.034), R0
-- rawPart: J1, JST04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270
-- rawPart: J3, 1X08_NO_SILK, SparkFun-Connectors, (0.1, 0.05), R0
-- rawPart: J4, U.FL, U.FL, SparkFun-Connectors, (0.481, 0.745), R270
-- rawPart: J5, 1X04_NO_SILK, SparkFun-Connectors, (0.3, 0.95), R0
-- rawPart: JP1, JUMPER-SMT_2_NO_SILK, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.713, 0.502), MR180
-- rawPart: JP2, JUMPER-SMT_3_2-NC_TRACE_SILK, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.71, 0.72), MR0
-- rawPart: JP4, JUMPER-SMT_2_NC_TRACE_SILK, SMT-JUMPER_2_NC_TRACE_SILK, SparkFun-Jumpers, (0.08, 0.73), MR180
-- rawPart: L2, 2.2uH, 0806, SparkFun-Coils, (0.275, 0.31), R270
-- rawPart: R1, 3.3k, 0603, SparkFun-Resistors, (0.669, 0.5), R90
-- rawPart: R2, 1k, 0603, SparkFun-Resistors, (0.08, 0.68), R0
-- rawPart: R3, 2.2k, 0603, SparkFun-Resistors, (0.826, 0.726), R270
-- rawPart: R4, 2.2k, 0603, SparkFun-Resistors, (0.765, 0.726), R270
-- rawPart: R5, 10, 0603, SparkFun-Resistors, (0.7, 0.61), R0
-- rawPart: U1, U-BLOX_ZOE_M8Q-0-10, UBLOX_ZOE_M8-0-10, SparkFun-GPS, (0.5, 0.5), R0
-- rawPart: Y1, 32.768kHz, CRYSTAL-SMD-3.2X1.5MM, SparkFun-Clocks, (0.552, 0.317), R0
 
 
 

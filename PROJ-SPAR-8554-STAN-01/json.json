@@ -41,54 +41,6 @@
             "value": "PROJ-SPAR-8554-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C1, 6.35, 2.54, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "CAPE-0603-X-UNMATCHED-01, C2, 8.889999999999999, 2.54, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI03-01, JP1, 11.43, 2.54, M90"
-        },
-        {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 6.35, 7.619999999999999, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 8.889999999999999, 7.619999999999999, 90"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 3.8099999999999996, 5.08, 270"
-        },
-        {
-            "name": "rawPart",
-            "value": "C1, 1uF, 0603-CAP, SparkFun, (0.25, 0.1), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "C2, 47nF, 0603-CAP, SparkFun, (0.35, 0.1), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, 1X03, SparkFun, (0.45, 0.1), MR90"
-        },
-        {
-            "name": "rawPart",
-            "value": "R1, 100, 0603-RES, SparkFun, (0.25, 0.3), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "R2, 2.2k, 0603-RES, SparkFun, (0.35, 0.3), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, IRRECEIVERSMD, TSOP8523, SparkFun, (0.15, 0.2), R270"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-8554-STAN-01"
         },

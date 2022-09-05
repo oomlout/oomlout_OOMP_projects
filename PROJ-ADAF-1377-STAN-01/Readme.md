@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1377-STAN-01>Adafruit SMT Breakout PCBs](#proj-adaf-1377-stan-01adafruit-smt-breakout-pcbs)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,21 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI4-01, JP1, -3.8099999999999996, 0.0, 270,JP1, HEADER1X4, boogie, (-0.15, 0), R270|
-|HEAD-I01-X-PI4-01, JP2, 3.8099999999999996, 0.0, 90,JP2, HEADER1X4, boogie, (0.15, 0), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0,U$1, SO-8, SO-08NMW, boogie, (0, 0), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180,U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180|
 
 ## Tags
 
@@ -53,14 +42,14 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1377
 - oompID: PROJ-ADAF-1377-STAN-01
-- oompPart: HEAD-I01-X-PI4-01, JP1, -3.8099999999999996, 0.0, 270
-- oompPart: HEAD-I01-X-PI4-01, JP2, 3.8099999999999996, 0.0, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 0.0, M180
-- rawPart: JP1, HEADER1X4, boogie, (-0.15, 0), R270
-- rawPart: JP2, HEADER1X4, boogie, (0.15, 0), R90
-- rawPart: U$1, SO-8, SO-08NMW, boogie, (0, 0), R0
-- rawPart: U$2, TSSOP-8, TSSOP-8NM, boogie, (0, 0), MR180
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP1,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,
+- rawParts: JP2,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,
+- rawParts: U$1,SO-8,SO-8,SO-08NMW,,,
+- rawParts: U$2,TSSOP-8,TSSOP-8,TSSOP-8NM,,,
 
 
 

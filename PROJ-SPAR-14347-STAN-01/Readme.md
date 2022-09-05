@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-14347-STAN-01>Qwiic Spectral Sensor AS726X](#proj-spar-14347-stan-01qwiic-spectral-sensor-as726x)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,38 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90,C1, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.75), R90|
-|CAPC-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0,C2, 1.0uF, 0603, SparkFun-Capacitors, (0.7, 0.24), R0|
-|CAPC-0603-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0,C3, 10uF, 0603, SparkFun-Capacitors, (0.7, 0.3), R0|
-|UNMATCHED-0603-X-UNMATCHED-01, D1, 18.668999999999997, 12.7, 90,D1, BLUE, LED-0603, SparkFun-LED, (0.735, 0.5), R90|
-|ERROR, D2 White, 60mA, 0, 0, 0,D2, White,, 60mA, SUPER_BRIGHT_SMD_LED_3014, SparkFun-LED, (0.665, 0.5), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 22.224999999999998, 17.399, M0,D4, Incandescent, LED_5MM_NOSILK, SparkX, (0.875, 0.685), MR0|
-|ERROR, J1 Qwiic Right, 0, 0, 0,J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270|
-|ERROR, J2 Serial Interface, 0, 0, 0,J2, Serial, Interface, FTDI_BASIC, SparkFun-Connectors, (0.75, 0.95), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 8.889999999999999, 1.27, 180,J3, 1X02_NO_SILK, SparkFun-Connectors, (0.35, 0.05), R180|
-|ERROR, J4 Qwiic Right, 0, 0, 0,J4, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90|
-|ERROR, J5 Flash Programming, 0, 0, 0,J5, Flash, Programming, 2X3_TEST_POINTS, SparkFun-Connectors, (0.5, 0.75), MR270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 19.049999999999997, 1.27, 180,J8, 1X04_NO_SILK, SparkFun-Connectors, (0.75, 0.05), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 6.35, 90,JP1, SMT-JUMPER_3_2-NC_PASTE_SILK, SparkFun-Jumpers, (0.15, 0.25), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 11.43, M90,JP2, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.3, 0.45), MR90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.891, 9.5885, 270,JP4, SMT-JUMPER_2_NC_PASTE_NO-SILK, SparkFun-Jumpers, (0.665, 0.3775), R270|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R13, 7.619999999999999, 7.619999999999999, 180,R13, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.3), R180|
-|RESE-0603-X-UNMATCHED-01, R14, 7.619999999999999, 6.095999999999999, 180,R14, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.24), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 270,U1, IR, LGA20, SparkFun-Sensors, (0.5, 0.5), R270|
-|ERROR, U3 4MB Flash, 0, 0, 0,U3, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.5, 0.75), R270|
 
 ## Tags
 
@@ -70,56 +42,64 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14347
 - oompID: PROJ-SPAR-14347-STAN-01
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 19.049999999999997, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 17.779999999999998, 6.095999999999999, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C3, 17.779999999999998, 7.619999999999999, 0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, D1, 18.668999999999997, 12.7, 90
-- oompPart: ERROR, D2 White, 60mA, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D4, 22.224999999999998, 17.399, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 1.27, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 24.13, 20.32, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 1.27, 1.27, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 24.13, 20.32, M0
-- oompPart: ERROR, J1 Qwiic Right, 0, 0, 0
-- oompPart: ERROR, J2 Serial Interface, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 8.889999999999999, 1.27, 180
-- oompPart: ERROR, J4 Qwiic Right, 0, 0, 0
-- oompPart: ERROR, J5 Flash Programming, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 19.049999999999997, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 3.8099999999999996, 6.35, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 7.619999999999999, 11.43, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 16.891, 9.5885, 270
-- oompPart: RESE-0603-X-O103-01, R3, 7.619999999999999, 15.239999999999998, 90
-- oompPart: RESE-0603-X-O103-01, R4, 17.779999999999998, 19.049999999999997, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R13, 7.619999999999999, 7.619999999999999, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R14, 7.619999999999999, 6.095999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 12.7, 12.7, 270
-- oompPart: ERROR, U3 4MB Flash, 0, 0, 0
-- rawPart: C1, 1.0uF, 0603, SparkFun-Capacitors, (0.3, 0.75), R90
-- rawPart: C2, 1.0uF, 0603, SparkFun-Capacitors, (0.7, 0.24), R0
-- rawPart: C3, 10uF, 0603, SparkFun-Capacitors, (0.7, 0.3), R0
-- rawPart: D1, BLUE, LED-0603, SparkFun-LED, (0.735, 0.5), R90
-- rawPart: D2, White,, 60mA, SUPER_BRIGHT_SMD_LED_3014, SparkFun-LED, (0.665, 0.5), R90
-- rawPart: D4, Incandescent, LED_5MM_NOSILK, SparkX, (0.875, 0.685), MR0
-- rawPart: FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.05), R0
-- rawPart: FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.8), R0
-- rawPart: FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.05), MR0
-- rawPart: FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.8), MR0
-- rawPart: J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270
-- rawPart: J2, Serial, Interface, FTDI_BASIC, SparkFun-Connectors, (0.75, 0.95), R180
-- rawPart: J3, 1X02_NO_SILK, SparkFun-Connectors, (0.35, 0.05), R180
-- rawPart: J4, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90
-- rawPart: J5, Flash, Programming, 2X3_TEST_POINTS, SparkFun-Connectors, (0.5, 0.75), MR270
-- rawPart: J8, 1X04_NO_SILK, SparkFun-Connectors, (0.75, 0.05), R180
-- rawPart: JP1, SMT-JUMPER_3_2-NC_PASTE_SILK, SparkFun-Jumpers, (0.15, 0.25), R90
-- rawPart: JP2, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.3, 0.45), MR90
-- rawPart: JP4, SMT-JUMPER_2_NC_PASTE_NO-SILK, SparkFun-Jumpers, (0.665, 0.3775), R270
-- rawPart: R3, 10k, 0603, SparkFun-Resistors, (0.3, 0.6), R90
-- rawPart: R4, 10k, 0603, SparkFun-Resistors, (0.7, 0.75), R90
-- rawPart: R13, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.3), R180
-- rawPart: R14, 4.7k, 0603, SparkFun-Resistors, (0.3, 0.24), R180
-- rawPart: U1, IR, LGA20, SparkFun-Sensors, (0.5, 0.5), R270
-- rawPart: U3, 4MB, Flash, SO08, SparkFun-IC-Memory, (0.5, 0.75), R270
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: H2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: H4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,
+- rawParts: C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,
+- rawParts: C3,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,10uF,
+- rawParts: D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,BLUE,
+- rawParts: D2,White, 60mA,LED-WHITE3014,SUPER_BRIGHT_SMD_LED_3014,White SMD LED,DIO-13728,White, 60mA,
+- rawParts: D4,Incandescent,LEDNS,LED_5MM_NOSILK,,,,
+- rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,
+- rawParts: H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: J1,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,
+- rawParts: J2,Serial Interface,6_PIN_SERIAL_CABLEPTH,FTDI_BASIC,6-pin header connection for use with the FTDI BASIC pinout - CABLE SIDE.,,,
+- rawParts: J3,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,
+- rawParts: J4,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,
+- rawParts: J5,Flash Programming,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,
+- rawParts: J8,,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,
+- rawParts: JP1,,JUMPER-SMT_3_2-NC_PASTE_SILK,SMT-JUMPER_3_2-NC_PASTE_SILK,Normally closed solder jumper (2 of 2 connections),,,
+- rawParts: JP2,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,
+- rawParts: JP4,,JUMPER-SMT_2_NC_PASTE_NO-SILK,SMT-JUMPER_2_NC_PASTE_NO-SILK,Normally closed solder jumper,,,
+- rawParts: LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SparkFun Flame Logo,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SparkFun Flame Logo,,,
+- rawParts: LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,
+- rawParts: R3,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,
+- rawParts: R4,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,
+- rawParts: R13,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,RES-07857,4.7k,
+- rawParts: R14,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,RES-07857,4.7k,
+- rawParts: U1,IR,AS726XIR,LGA20,,IC-13731,IR,
+- rawParts: U3,4MB Flash,AT25SF041,SO08,AT25SF041 4Mb Serial Flash Memory,IC-12455,4MB Flash,
 
 
 

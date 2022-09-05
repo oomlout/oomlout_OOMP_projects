@@ -41,54 +41,6 @@
             "value": "PROJ-SPAR-9102-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, -6.604, 3.8099999999999996, 240"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 6.604, 3.8099999999999996, 120"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$5, 0.0, -7.619999999999999, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$8, -6.600000008, -3.8000000199999997, 300"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$9, 6.600000008, -3.8000000199999997, 60"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$10, 0.0, 7.600000039999999, 180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.26, 0.15), R240"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.26, 0.15), R120"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, -0.3), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$8, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25984252, -0.1496063), R300"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$9, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25984252, -0.1496063), R60"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$10, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.2992126), R180"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-9102-STAN-01"
         },

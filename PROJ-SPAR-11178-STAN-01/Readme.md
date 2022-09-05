@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11178-STAN-01>BigTime](#proj-spar-11178-stan-01bigtime)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,26 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.59, 3.8099999999999996, 180,BAT, BATTERY_20MM_PTH_COMPACT, SparkFun-Electromechanical, (0.85, 0.15), R180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 33.019999999999996, 39.37, 0,C1, 100nF, CAP-PTH-SMALLEZ, SparkFun-Passives, (1.3, 1.55), R0|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 31.75, 90,C2, 100nF, CAP-PTH-SMALLEZ, SparkFun-Passives, (0.1, 1.25), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 35.559999999999995, 41.91, M0,JP1, FTDI_BASICPTH, FTDI_BASIC, SparkFun, (1.4, 1.65), MR0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 21.59, 21.59, 0,LED1, 7-SEGMENT-4DIGIT-YOUNGSUNKIT, 7-SEGMENT-4DIGIT-YOUNGSUN-KIT, Testing, (0.85, 0.85), R0|
-|RESE-UNMATCHED-X-O104-01, R1, 40.64, 33.019999999999996, 270,R1, 100k, AXIAL-0.3-KIT, SparkFun-Passives, (1.6, 1.3), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 40.64, 10.16, 90,S1, BUTTON, TACTILE-PTH-SIDEEZ, SparkFun-Electromechanical, (1.6, 0.4), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.59, 33.019999999999996, 180,U1, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (0.85, 1.3), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 16.509999999999998, 40.64, 90,Y1, 32.768kHz, TC26HEZ, SparkFun-FreqCtrl, (0.65, 1.6), R90|
 
 ## Tags
 
@@ -58,24 +42,32 @@ Contents
 - sources: All source files from https://github.com/sparkfun/BigTime (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11178
 - oompID: PROJ-SPAR-11178-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT, 21.59, 3.8099999999999996, 180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 33.019999999999996, 39.37, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C2, 2.54, 31.75, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 35.559999999999995, 41.91, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 21.59, 21.59, 0
-- oompPart: RESE-UNMATCHED-X-O104-01, R1, 40.64, 33.019999999999996, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 40.64, 10.16, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 21.59, 33.019999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y1, 16.509999999999998, 40.64, 90
-- rawPart: BAT, BATTERY_20MM_PTH_COMPACT, SparkFun-Electromechanical, (0.85, 0.15), R180
-- rawPart: C1, 100nF, CAP-PTH-SMALLEZ, SparkFun-Passives, (1.3, 1.55), R0
-- rawPart: C2, 100nF, CAP-PTH-SMALLEZ, SparkFun-Passives, (0.1, 1.25), R90
-- rawPart: JP1, FTDI_BASICPTH, FTDI_BASIC, SparkFun, (1.4, 1.65), MR0
-- rawPart: LED1, 7-SEGMENT-4DIGIT-YOUNGSUNKIT, 7-SEGMENT-4DIGIT-YOUNGSUN-KIT, Testing, (0.85, 0.85), R0
-- rawPart: R1, 100k, AXIAL-0.3-KIT, SparkFun-Passives, (1.6, 1.3), R270
-- rawPart: S1, BUTTON, TACTILE-PTH-SIDEEZ, SparkFun-Electromechanical, (1.6, 0.4), R90
-- rawPart: U1, ATMEGA328P_PDIP_EZ, DIL28-EZ, SparkFun-DigitalIC, (0.85, 1.3), R180
-- rawPart: Y1, 32.768kHz, TC26HEZ, SparkFun-FreqCtrl, (0.65, 1.6), R90
+- oompParts: BAT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Y1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT,,BATTERYFOB,BATTERY_20MM_PTH_COMPACT,Battery Holders,,
+- rawParts: C1,100nF,CAPEZ,CAP-PTH-SMALLEZ,Capacitor,,
+- rawParts: C2,100nF,CAPEZ,CAP-PTH-SMALLEZ,Capacitor,,
+- rawParts: JP1,FTDI_BASICPTH,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic: 3.3V and 5V,,
+- rawParts: LED1,7-SEGMENT-4DIGIT-YOUNGSUNKIT,7-SEGMENT-4DIGIT-YOUNGSUNKIT,7-SEGMENT-4DIGIT-YOUNGSUN-KIT,This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.,,
+- rawParts: R1,100k,RESISTORKIT,AXIAL-0.3-KIT,Resistor,,
+- rawParts: S1,BUTTON,SWITCH-MOMENTARY-2SIDE_EZ,TACTILE-PTH-SIDEEZ,Various NO switches- pushbuttons, reed, etc,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U$4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U$5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,ATMEGA328P_PDIP_EZ,ATMEGA328P_PDIP_EZ,DIL28-EZ,uC used in the Arduino,,
+- rawParts: Y1,32.768kHz,CRYSTALTC26H_EZ,TC26HEZ,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,,
 
 
 

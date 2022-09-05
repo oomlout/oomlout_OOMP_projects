@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13279-STAN-01>Large Digit Driver](#proj-spar-13279-stan-01large-digit-driver)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,40 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI01-01, JP1, 43.18, 0.0, 180,JP1, 1X01_LONGPAD, SparkFun-Connectors, (1.7, 0), R180|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP3, 20.827999999999996, 22.86, 0,JP3, Anchor, 1X01_LONGPAD, SparkFun-Connectors, (0.82, 0.9), R0|
-|HEAD-I01-X-PI01-01, JP4, 38.608, 0.0, 180,JP4, 1X01_LONGPAD, SparkFun-Connectors, (1.52, 0), R180|
-|HEAD-I01-X-PI01-01, JP5, 34.036, 0.0, 180,JP5, 1X01_LONGPAD, SparkFun-Connectors, (1.34, 0), R180|
-|HEAD-I01-X-PI01-01, JP6, 29.463999999999995, 0.0, 180,JP6, 1X01_LONGPAD, SparkFun-Connectors, (1.16, 0), R180|
-|HEAD-I01-X-PI01-01, JP7, 16.256, 0.0, 180,JP7, 1X01_LONGPAD, SparkFun-Connectors, (0.64, 0), R180|
-|HEAD-I01-X-PI01-01, JP8, 11.684, 0.0, 180,JP8, 1X01_LONGPAD, SparkFun-Connectors, (0.46, 0), R180|
-|HEAD-I01-X-PI01-01, JP9, 7.112, 0.0, 180,JP9, 1X01_LONGPAD, SparkFun-Connectors, (0.28, 0), R180|
-|HEAD-I01-X-PI01-01, JP10, 2.54, 0.0, 180,JP10, 1X01_LONGPAD, SparkFun-Connectors, (0.1, 0), R180|
-|HEAD-I01-X-PI01-01, JP11, 24.764999999999997, 0.0, 180,JP11, 1X01_LONGPAD, SparkFun-Connectors, (0.975, 0), R180|
-|HEAD-I01-X-PI01-01, JP12, 20.827999999999996, 0.0, 180,JP12, 1X01_LONGPAD, SparkFun-Connectors, (0.82, 0), R180|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP13</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP14, 24.764999999999997, 22.86, 0,JP14, Anchor, 1X01_LONGPAD, SparkFun-Connectors, (0.975, 0.9), R0|
-|RESE-0603-X-UNMATCHED-01, R1, 43.18, 3.8099999999999996, 270,R1, 15, 0603-RES, SparkFun-Resistors, (1.7, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R2, 38.608, 3.8099999999999996, 270,R2, 15, 0603-RES, SparkFun-Resistors, (1.52, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R3, 34.036, 3.8099999999999996, 270,R3, 15, 0603-RES, SparkFun-Resistors, (1.34, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R4, 29.463999999999995, 3.8099999999999996, 270,R4, 15, 0603-RES, SparkFun-Resistors, (1.16, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R5, 16.256, 3.8099999999999996, 270,R5, 15, 0603-RES, SparkFun-Resistors, (0.64, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R6, 11.684, 3.8099999999999996, 270,R6, 15, 0603-RES, SparkFun-Resistors, (0.46, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R7, 7.112, 3.8099999999999996, 270,R7, 15, 0603-RES, SparkFun-Resistors, (0.28, 0.15), R270|
-|RESE-0603-X-UNMATCHED-01, R8, 2.54, 3.8099999999999996, 270,R8, 15, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 22.86, 15.239999999999998, 180,U1, TPIC6C596, SO016, SparkFun-DigitalIC, (0.9, 0.6), R180|
 
 ## Tags
 
@@ -72,56 +42,60 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Large_Digit_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13279
 - oompID: PROJ-SPAR-13279-STAN-01
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 18.541999999999998, 21.843999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 44.449999999999996, 3.8099999999999996, 0
-- oompPart: HEAD-I01-X-PI01-01, JP1, 43.18, 0.0, 180
-- oompPart: HEAD-I01-X-PI06-01, JP2, 7.619999999999999, 15.239999999999998, 270
-- oompPart: HEAD-I01-X-PI01-01, JP3, 20.827999999999996, 22.86, 0
-- oompPart: HEAD-I01-X-PI01-01, JP4, 38.608, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP5, 34.036, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP6, 29.463999999999995, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP7, 16.256, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP8, 11.684, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP9, 7.112, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP10, 2.54, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP11, 24.764999999999997, 0.0, 180
-- oompPart: HEAD-I01-X-PI01-01, JP12, 20.827999999999996, 0.0, 180
-- oompPart: HEAD-I01-X-PI06-01, JP13, 38.099999999999994, 15.239999999999998, 90
-- oompPart: HEAD-I01-X-PI01-01, JP14, 24.764999999999997, 22.86, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 43.18, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 38.608, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 34.036, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R4, 29.463999999999995, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 16.256, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 11.684, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R7, 7.112, 3.8099999999999996, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R8, 2.54, 3.8099999999999996, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 22.86, 15.239999999999998, 180
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.73, 0.86), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.75, 0.15), R0
-- rawPart: JP1, 1X01_LONGPAD, SparkFun-Connectors, (1.7, 0), R180
-- rawPart: JP2, 1X06-SMD, SparkFun-Connectors, (0.3, 0.6), R270
-- rawPart: JP3, Anchor, 1X01_LONGPAD, SparkFun-Connectors, (0.82, 0.9), R0
-- rawPart: JP4, 1X01_LONGPAD, SparkFun-Connectors, (1.52, 0), R180
-- rawPart: JP5, 1X01_LONGPAD, SparkFun-Connectors, (1.34, 0), R180
-- rawPart: JP6, 1X01_LONGPAD, SparkFun-Connectors, (1.16, 0), R180
-- rawPart: JP7, 1X01_LONGPAD, SparkFun-Connectors, (0.64, 0), R180
-- rawPart: JP8, 1X01_LONGPAD, SparkFun-Connectors, (0.46, 0), R180
-- rawPart: JP9, 1X01_LONGPAD, SparkFun-Connectors, (0.28, 0), R180
-- rawPart: JP10, 1X01_LONGPAD, SparkFun-Connectors, (0.1, 0), R180
-- rawPart: JP11, 1X01_LONGPAD, SparkFun-Connectors, (0.975, 0), R180
-- rawPart: JP12, 1X01_LONGPAD, SparkFun-Connectors, (0.82, 0), R180
-- rawPart: JP13, 1X06-SMD, SparkFun-Connectors, (1.5, 0.6), R90
-- rawPart: JP14, Anchor, 1X01_LONGPAD, SparkFun-Connectors, (0.975, 0.9), R0
-- rawPart: R1, 15, 0603-RES, SparkFun-Resistors, (1.7, 0.15), R270
-- rawPart: R2, 15, 0603-RES, SparkFun-Resistors, (1.52, 0.15), R270
-- rawPart: R3, 15, 0603-RES, SparkFun-Resistors, (1.34, 0.15), R270
-- rawPart: R4, 15, 0603-RES, SparkFun-Resistors, (1.16, 0.15), R270
-- rawPart: R5, 15, 0603-RES, SparkFun-Resistors, (0.64, 0.15), R270
-- rawPart: R6, 15, 0603-RES, SparkFun-Resistors, (0.46, 0.15), R270
-- rawPart: R7, 15, 0603-RES, SparkFun-Resistors, (0.28, 0.15), R270
-- rawPart: R8, 15, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R270
-- rawPart: U1, TPIC6C596, SO016, SparkFun-DigitalIC, (0.9, 0.6), R180
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,,,v10,
+- rawParts: JP1,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP2,,M06SMD,1X06-SMD,Header 6,,CONN-08971,RA 6Pin SMD,,
+- rawParts: JP3,Anchor,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP4,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP5,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP6,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP7,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP8,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP9,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP10,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP11,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP12,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: JP13,,M06SMD,1X06-SMD,Header 6,,CONN-08971,RA 6Pin SMD,,
+- rawParts: JP14,Anchor,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: R1,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R2,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R3,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R4,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R5,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R6,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R7,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: R8,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,
+- rawParts: U1,TPIC6C596,TPIC6C596SOIC,SO016,SMD version of the popular sink driver. This version can sink up to 100mA per channel,,IC-12522,TPIC6C596,,
 
 
 

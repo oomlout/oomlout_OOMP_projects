@@ -41,92 +41,108 @@
             "value": "PROJ-SPAR-10401-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-UNMATCHED-01, C3, 10.16, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0402-X-UNMATCHED-01, C4, 12.7, 8.889999999999999, 180"
+            "name": "oompParts",
+            "value": "C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-0603-X-UNMATCHED-01, D11, 12.7, 11.43, 270"
+            "name": "oompParts",
+            "value": "D11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP3, 4.826, 1.27, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2-01, JP4, 30.987999999999996, 11.684, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP7 LiPo Battery, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02-01, JP8, 20.32, 7.619999999999999, M270"
+            "name": "oompParts",
+            "value": "JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-O331-01, R3, 10.16, 11.43, 180"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0402-X-UNMATCHED-01, R4, 11.43, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 11.43, 6.35, 90"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, X1 Micro USB, 0, 0, 0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C3, 4.7uF, 0402-CAP, SparkFun, (0.4, 0.35), R0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C4, 4.7uF, 0402-CAP, SparkFun, (0.5, 0.35), R180"
+            "name": "rawParts",
+            "value": "C3,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "D11, RED, LED-0603, SparkFun, (0.5, 0.45), R270"
+            "name": "rawParts",
+            "value": "C4,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (0.19, 0.05), R0"
+            "name": "rawParts",
+            "value": "D11,RED,LED0603,LED-0603,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun, (1.22, 0.46), R0"
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, LiPo, Battery, JST-2-SMD, SparkFun, (1.15, 0.25), R270"
+            "name": "rawParts",
+            "value": "JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP8, 1X02, SparkFun, (0.8, 0.3), MR270"
+            "name": "rawParts",
+            "value": "JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 330, 0402-RES, SparkFun, (0.4, 0.45), R180"
+            "name": "rawParts",
+            "value": "JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 2K, 0402-RES, SparkFun, (0.45, 0.15), R0"
+            "name": "rawParts",
+            "value": "JP7,LiPo Battery,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, MCP73831, SOT23-5, SparkFun, (0.45, 0.25), R90"
+            "name": "rawParts",
+            "value": "JP8,,M02PTH,1X02,Header 2,,"
         },
         {
-            "name": "rawPart",
-            "value": "X1, Micro, USB, USB-MINIB, SparkFun, (0.2, 0.25), R0"
+            "name": "rawParts",
+            "value": "R3,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MCP73831,MCP73831,SOT23-5,Microchips MCP73831,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,Micro USB,USBSMD,USB-MINIB,USB Connectors,,"
         },
         {
             "name": "oompID",

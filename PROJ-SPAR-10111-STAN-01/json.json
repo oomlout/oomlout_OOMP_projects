@@ -41,108 +41,172 @@
             "value": "PROJ-SPAR-10111-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI05-01, JP6, -5.08, 20.32, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, -6.985, 270"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, -5.968999999999999, 3.429, 150"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED3, 5.968999999999999, 3.429, 30"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, -8.762999999999998, -5.08, 120"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 0.0, 10.16, 0"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q3, 8.889999999999999, -5.08, 240"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 0.0, -13.97, 180"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, -11.937999999999999, 6.985, 60"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R3, 11.937999999999999, 6.985, 300"
+            "name": "oompParts",
+            "value": "LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R4, -12.065, -6.985, 120"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R5, 0.0, 13.97, 0"
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-O331-01, R6, 12.191999999999998, -6.985, 240"
+            "name": "oompParts",
+            "value": "Q3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, 1X05, SparkFun, (-0.2, 0.8), R0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, Red, LED10MM, SparkFun, (0, -0.275), R270"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, Green, LED10MM, SparkFun, (-0.235, 0.135), R150"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "LED3, Blue, LED10MM, SparkFun, (0.235, 0.135), R30"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, 2N3904, TO-92, SparkFun, (-0.345, -0.2), R120"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "Q2, 2N3904, TO-92, SparkFun, (0, 0.4), R0"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "Q3, 2N3904, TO-92, SparkFun, (0.35, -0.2), R240"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 36, AXIAL-0.4, SparkFun, (0, -0.55), R180"
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 22, AXIAL-0.4, SparkFun, (-0.47, 0.275), R60"
+            "name": "rawParts",
+            "value": "JP1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 22, AXIAL-0.4, SparkFun, (0.47, 0.275), R300"
+            "name": "rawParts",
+            "value": "JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 330, AXIAL-0.3, SparkFun, (-0.475, -0.275), R120"
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 330, AXIAL-0.3, SparkFun, (0, 0.55), R0"
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 330, AXIAL-0.3, SparkFun, (0.48, -0.275), R240"
+            "name": "rawParts",
+            "value": "JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Red,LED10MM,LED10MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,Green,LED10MM,LED10MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,Blue,LED10MM,LED10MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,2N3904,TRANSISTOR_NPNTO92,TO-92,Transistor NPN,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,36,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,22,RESISTORPTH-1/4W,AXIAL-0.4,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
         },
         {
             "name": "oompID",

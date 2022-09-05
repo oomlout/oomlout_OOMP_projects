@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-4978-STAN-01>Adafruit NeoKey Breakout PCB](#proj-adaf-4978-stan-01adafruit-neokey-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,25 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0,C1, 1uF, 0603-NO, microbuilder, (0.58, 0.22), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90,D1, 1N4148, SOD-323, microbuilder, (0.255, 0.335), R90|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 9.524999999999999, 4.826, M180,LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.375, 0.19), MR180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.524999999999999, 9.524999999999999, M0,SW1, KAILH_SOCKET, adafruit_electromech, (0.375, 0.375), MR0|
 
 ## Tags
 
@@ -57,26 +42,24 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4978
 - oompID: PROJ-ADAF-4978-STAN-01
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 14.731999999999998, 5.588, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 6.476999999999999, 8.509, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 17.779999999999998, 4.571999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 1.778, 18.796, 0
-- oompPart: HEAD-I01-X-PI05-01, JP1, 9.524999999999999, 18.415, M0
-- oompPart: HEAD-I01-X-PI02-01, JP2, 17.779999999999998, 8.254999999999999, M90
-- oompPart: HEAD-I01-X-PI05-01, JP3, 9.524999999999999, 0.635, M0
-- oompPart: HEAD-I01-X-PI02-01, JP4, 1.27, 8.254999999999999, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 9.524999999999999, 4.826, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 9.524999999999999, 9.524999999999999, M0
-- rawPart: C1, 1uF, 0603-NO, microbuilder, (0.58, 0.22), R0
-- rawPart: D1, 1N4148, SOD-323, microbuilder, (0.255, 0.335), R90
-- rawPart: FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.7, 0.18), R0
-- rawPart: FID4, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.07, 0.74), R0
-- rawPart: JP1, 1X05_ROUND_70, microbuilder, (0.375, 0.725), MR0
-- rawPart: JP2, 1X02_ROUND, microbuilder, (0.7, 0.325), MR90
-- rawPart: JP3, 1X05_ROUND_70, microbuilder, (0.375, 0.025), MR0
-- rawPart: JP4, 1X02_ROUND, microbuilder, (0.05, 0.325), MR90
-- rawPart: LED1, WS2812B_SK6812E, NEO3535_REVERSE, microbuilder, (0.375, 0.19), MR180
-- rawPart: SW1, KAILH_SOCKET, adafruit_electromech, (0.375, 0.375), MR0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
+- rawParts: D1,1N4148,DIODESOD-323,SOD-323,Diode,,
+- rawParts: FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,
+- rawParts: JP2,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,
+- rawParts: JP3,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,
+- rawParts: JP4,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,
+- rawParts: LED1,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,
+- rawParts: SW1,,SWITCH_PUSHBUTTON_KAILH_SOCKET,KAILH_SOCKET,Buttons,,
 
 
 

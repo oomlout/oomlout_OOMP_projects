@@ -41,108 +41,100 @@
             "value": "PROJ-ADAF-878-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A0, 4.064, -10.668, 90"
+            "name": "oompParts",
+            "value": "A0,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A1, 1.778, -10.668, 90"
+            "name": "oompParts",
+            "value": "A1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-UNMATCHED-01, C1, 4.191, 8.254999999999999, 180"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 0.254, 12.065, 0"
+            "name": "oompParts",
+            "value": "CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, -4.444999999999999, -10.795, 270"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 0.0, 0.0, M270"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R1, -3.937, 8.254999999999999, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R2, 0.127, 8.254999999999999, 180"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R3, -0.508, -10.668, 90"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R4, -2.54, -10.668, 90"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 1.651, -6.223, 0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 5.334, 0"
+            "name": "rawParts",
+            "value": "A0,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, -0.7619999999999999, 270"
+            "name": "rawParts",
+            "value": "A1,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "A0, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.16, -0.42), R90"
+            "name": "rawParts",
+            "value": "C1,10uF,C-USC0805,C0805,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "A1, SOLDERJUMPER_REFLOW_NOPASTE, microbuilder, (0.07, -0.42), R90"
+            "name": "rawParts",
+            "value": "CN1,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, C0805, rcl, (0.165, 0.325), R180"
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODESOD-323F,SOD-323F,Diode,,"
         },
         {
-            "name": "rawPart",
-            "value": "CN1, 1X4-CLEANBIG, 1X04-CLEANBIG, adafruit, (0.01, 0.475), R0"
+            "name": "rawParts",
+            "value": "LED1,BL-M07C881UR,DISP_SEGMENT_8X8_ROWCATHODE,SEGMENT_BL-M07C881UR,8x8 LED Segment Displays: Row = Cathode,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, 1N4148, SOD-323F, adafruit, (-0.175, -0.425), R270"
+            "name": "rawParts",
+            "value": "R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, BL-M07C881UR, SEGMENT_BL-M07C881UR, microbuilder, (0, 0), MR270"
+            "name": "rawParts",
+            "value": "R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10K, R0805, adafruit, (-0.155, 0.325), R0"
+            "name": "rawParts",
+            "value": "R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 10K, R0805, adafruit, (0.005, 0.325), R180"
+            "name": "rawParts",
+            "value": "R4,10K,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 10K, R0805, adafruit, (-0.02, -0.42), R90"
+            "name": "rawParts",
+            "value": "U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 10K, R0805, adafruit, (-0.1, -0.42), R90"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.065, -0.245), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, 0.21), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, SOP24_300MIL, microbuilder, (0, -0.03), R270"
+            "name": "rawParts",
+            "value": "U1,,HT16K33_SOP24,SOP24_300MIL,,,"
         },
         {
             "name": "oompID",

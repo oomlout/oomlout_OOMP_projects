@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13684-STAN-01>MyoWare Power Shield](#proj-spar-13684-stan-01myoware-power-shield)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,21 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|ERROR, BAT1 20mm coincell, 0, 0, 0,BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.45, 0.12), R180|
-|ERROR, BAT2 20mm coincell, 0, 0, 0,BAT2, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (-0.45, -0.12), R0|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
 
 ## Tags
 
@@ -53,18 +42,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MyoWare_Power_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13684
 - oompID: PROJ-SPAR-13684-STAN-01
-- oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
-- oompPart: ERROR, BAT2 20mm coincell, 0, 0, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -22.86, -7.619999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 22.86, 7.619999999999999, 0
-- oompPart: HEAD-I01-X-PI03-01, JP1, -24.5745, 2.54, 270
-- oompPart: HEAD-I01-X-PI03-01, JP2, 24.5745, 2.54, 270
-- rawPart: BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.45, 0.12), R180
-- rawPart: BAT2, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (-0.45, -0.12), R0
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (-0.9, -0.3), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.9, 0.3), R0
-- rawPart: JP1, RAW, 1X03_NO_SILK, SparkFun-Connectors, (-0.9675, 0.1), R270
-- rawPart: JP2, PROCESSED, 1X03_NO_SILK, SparkFun-Connectors, (0.9675, 0.1), R270
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BAT2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,20mm coincell,
+- rawParts: BAT2,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,20mm coincell,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,RAW,M03ALT_ORDER,1X03_NO_SILK,Header 3,,,
+- rawParts: JP2,PROCESSED,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,
+- rawParts: LOGO2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo,,,
 
 
 

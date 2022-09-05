@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1875-STAN-01>Adafruit TXB0104 Level Shifter Breakout PCB](#proj-adaf-1875-stan-01adafruit-txb0104-level-shifter-breakout-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0805-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0805-X-NF100-V50/image_140.jpg)</td><td> C2</td><td>[CAPC-0805-X-NF100-V50<br>SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td><td>[C85N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0805-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0805-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0805-X-O103-01<br>SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td><td>[R85103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 6.35, 7.365999999999999, 180,U2, TSSOP14, microbuilder, (0.25, 0.29), R180|
 
 ## Tags
 
@@ -55,20 +42,19 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TXB0104-Level-Shifter-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1875
 - oompID: PROJ-ADAF-1875-STAN-01
-- oompPart: CAPC-0805-X-NF100-V50, C1, 5.08, 13.081, 270
-- oompPart: CAPC-0805-X-NF100-V50, C2, 7.619999999999999, 13.081, 270
-- oompPart: HEAD-I01-X-PI06-01, JP3, 11.43, 8.889999999999999, 270
-- oompPart: HEAD-I01-X-PI06-01, JP4, 1.27, 8.889999999999999, 90
-- oompPart: RESE-0805-X-O103-01, R1, 5.842, 2.413, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$5, 6.35, 16.509999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 6.35, 7.365999999999999, 180
-- rawPart: C1, 0.1uF, 0805-NO, microbuilder, (0.2, 0.515), R270
-- rawPart: C2, 0.1uF, 0805-NO, microbuilder, (0.3, 0.515), R270
-- rawPart: JP3, 1X06-CLEANBIG, adafruit, (0.45, 0.35), R270
-- rawPart: JP4, 1X06-CLEANBIG, adafruit, (0.05, 0.35), R90
-- rawPart: R1, 10K, 0805-NO, microbuilder, (0.23, 0.095), R0
-- rawPart: U$5, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.25, 0.65), R0
-- rawPart: U2, TSSOP14, microbuilder, (0.25, 0.29), R180
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: JP3,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,
+- rawParts: JP4,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,
+- rawParts: R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,
+- rawParts: U$5,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: U2,,TXB0104PWR,TSSOP14,4-Bit Bi-Directional Level Shifter,,
 
 
 

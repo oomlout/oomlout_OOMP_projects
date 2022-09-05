@@ -41,30 +41,6 @@
             "value": "PROJ-SPAR-499-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI10-01, JP1, 1.27, 1.27, 90"
-        },
-        {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI10-01, JP2, 19.049999999999997, 1.27, 90"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 10.16, 12.7, 0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, M10, 1X10, SparkFun, (0.05, 0.05), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP2, M10, 1X10, SparkFun, (0.75, 0.05), R90"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$1, SSOP20, SSOP20-LONG, SparkFun, (0.4, 0.5), R0"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-499-STAN-01"
         },

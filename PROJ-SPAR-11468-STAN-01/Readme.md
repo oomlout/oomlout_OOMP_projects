@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11468-STAN-01>SD Sniffer](#proj-spar-11468-stan-01sd-sniffer)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,20 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI11-01, JP4, 40.64, 27.94, 270,JP4, M11PTH, 1X11, SparkFun-Connectors, (1.6, 1.1), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 44.449999999999996, 16.509999999999998, 0,U1, SD_CARD_SOCKET, SD_1:1, SparkFun-Connectors, (1.75, 0.65), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 17.779999999999998, 16.509999999999998, M270,U2, SD_MMC_CARDSD_PCB, SD-MMC-CARD, SparkFun-Boards, (0.7, 0.65), MR270|
 
 ## Tags
 
@@ -52,18 +42,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SD_Sniffer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11468
 - oompID: PROJ-SPAR-11468-STAN-01
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 72.136, 32.257999999999996, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP3, 38.099999999999994, 0.0, 0
-- oompPart: HEAD-I01-X-PI11-01, JP4, 40.64, 27.94, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 43.053, 8.762999999999998, M90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 44.449999999999996, 16.509999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 17.779999999999998, 16.509999999999998, M270
-- rawPart: JP2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (2.84, 1.27), R0
-- rawPart: JP3, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (1.5, 0), R0
-- rawPart: JP4, M11PTH, 1X11, SparkFun-Connectors, (1.6, 1.1), R270
-- rawPart: SJ1, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun-Passives, (1.695, 0.345), MR90
-- rawPart: U1, SD_CARD_SOCKET, SD_1:1, SparkFun-Connectors, (1.75, 0.65), R0
-- rawPart: U2, SD_MMC_CARDSD_PCB, SD-MMC-CARD, SparkFun-Boards, (0.7, 0.65), MR270
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP4,M11PTH,M11PTH,1X11,Header 11,,
+- rawParts: LOGO,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: SJ1,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: U$2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U$4,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,
+- rawParts: U1,SD_CARD_SOCKET,SD_CARD_SOCKET,SD_1:1,SD Memory Card Connector, push-push normal type, CD enable, WP enable,,
+- rawParts: U2,SD_MMC_CARDSD_PCB,SD_MMC_CARDSD_PCB,SD-MMC-CARD,Mechanical size of an SD/MMC card- NOT a socket!,,
 
 
 

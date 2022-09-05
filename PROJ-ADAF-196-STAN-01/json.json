@@ -41,172 +41,172 @@
             "value": "PROJ-ADAF-196-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CN1, 15.239999999999998, -3.556, 0"
+            "name": "oompParts",
+            "value": "CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 11.684, 56.896, 180"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 34.29, -3.556, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP2, 57.15, 6.35, 180"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP3, 54.60999999999999, 46.99, 0"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI08-01, JP4, 32.766, 46.99, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP5, 59.69, 56.896, 180"
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP6, 30.479999999999997, 56.896, 180"
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP7, 59.69, -3.556, 0"
+            "name": "oompParts",
+            "value": "JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI06-01, JP8, 39.37, 6.35, 180"
+            "name": "oompParts",
+            "value": "JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI01-01, JP9, 68.707, 45.72, 0"
+            "name": "oompParts",
+            "value": "JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "LEDS-UNMATCHED-G-UNMATCHED-01, LED, 70.231, 50.038, 0"
+            "name": "oompParts",
+            "value": "LED,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, POWER, 69.97699999999999, 2.54, 0"
+            "name": "oompParts",
+            "value": "POWER,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R1, 72.517, 31.75, 90"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-UNMATCHED-X-UNMATCHED-01, R2, 72.517, 19.304, 270"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RESET, 15.875, 11.176, 90"
+            "name": "oompParts",
+            "value": "RESET,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 0.0, 0.0, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, W, 19.431, 2.54, 0"
+            "name": "oompParts",
+            "value": "W,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X, 21.971, 2.54, 0"
+            "name": "oompParts",
+            "value": "X,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Y, 24.511, 2.54, 0"
+            "name": "oompParts",
+            "value": "Y,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Z, 27.051, 2.54, 0"
+            "name": "oompParts",
+            "value": "Z,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "CN1, 1X4-3.5MM, 1X04-3.5MM, adafruit, (0.6, -0.14), R0"
+            "name": "rawParts",
+            "value": "CN1,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "J1, 1X2-3.5MM, 1X2-3.5MM, adafruit, (0.46, 2.24), R180"
+            "name": "rawParts",
+            "value": "J1,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X06-3.5MM, adafruit, (1.35, -0.14), R0"
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X6-3.5MM,1X06-3.5MM,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, 1X06-CLEANBIG, adafruit, (2.25, 0.25), R180"
+            "name": "rawParts",
+            "value": "JP2,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1X08-CLEANBIG, adafruit, (2.15, 1.85), R0"
+            "name": "rawParts",
+            "value": "JP3,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1X08-CLEANBIG, adafruit, (1.29, 1.85), R0"
+            "name": "rawParts",
+            "value": "JP4,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP5, 1X08-3.5MM, adafruit, (2.35, 2.24), R180"
+            "name": "rawParts",
+            "value": "JP5,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP6, 1X08-3.5MM, adafruit, (1.2, 2.24), R180"
+            "name": "rawParts",
+            "value": "JP6,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP7, 1X08-3.5MM, adafruit, (2.35, -0.14), R0"
+            "name": "rawParts",
+            "value": "JP7,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP8, 1X06-CLEANBIG, adafruit, (1.55, 0.25), R180"
+            "name": "rawParts",
+            "value": "JP8,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP9, 1X01, adafruit, (2.705, 1.8), R0"
+            "name": "rawParts",
+            "value": "JP9,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED, LED3MM, adafruit, (2.765, 1.97), R0"
+            "name": "rawParts",
+            "value": "LED,,LED3MM,LED3MM,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "POWER, LED3MM, adafruit, (2.755, 0.1), R0"
+            "name": "rawParts",
+            "value": "POWER,,LED3MM,LED3MM,LED,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 0207/10, adafruit, (2.855, 1.25), R90"
+            "name": "rawParts",
+            "value": "R1,,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 0207/10, adafruit, (2.855, 0.76), R270"
+            "name": "rawParts",
+            "value": "R2,,R-US_0207/10,0207/10,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "RESET, B3F-10XX, switch-omron, (0.625, 0.44), R90"
+            "name": "rawParts",
+            "value": "RESET,,10-XX,B3F-10XX,OMRON SWITCH,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, ARDUINO-BPLACE, ARDUINO-BPLACE, adafruit, (0, 0), R0"
+            "name": "rawParts",
+            "value": "U$1,ARDUINO-BPLACE,ARDUINO-BPLACE,ARDUINO-BPLACE,Arduino Diecimila/Duemilanove,,"
         },
         {
-            "name": "rawPart",
-            "value": "W, 1X01, adafruit, (0.765, 0.1), R0"
+            "name": "rawParts",
+            "value": "W,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "X, 1X01, adafruit, (0.865, 0.1), R0"
+            "name": "rawParts",
+            "value": "X,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "Y, 1X01, adafruit, (0.965, 0.1), R0"
+            "name": "rawParts",
+            "value": "Y,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,"
         },
         {
-            "name": "rawPart",
-            "value": "Z, 1X01, adafruit, (1.065, 0.1), R0"
+            "name": "rawParts",
+            "value": "Z,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,"
         },
         {
             "name": "oompID",

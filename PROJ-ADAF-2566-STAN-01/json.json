@@ -41,20 +41,16 @@
             "value": "PROJ-ADAF-2566-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, CN2, 0.0, 0.0, 180"
+            "name": "oompParts",
+            "value": "CN2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, -2.2859999999999996, 0"
+            "name": "rawParts",
+            "value": "CN2,,JST_3PIN,JSTPH3,,,"
         },
         {
-            "name": "rawPart",
-            "value": "CN2, JSTPH3, adafruit, (0, 0), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0, -0.09), R0"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
             "name": "oompID",

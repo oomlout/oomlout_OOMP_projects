@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13339-STAN-01>LSM6DS3 Breakout](#proj-spar-13339-stan-01lsm6ds3-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,28 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C3</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP2, 8.889999999999999, 3.8099999999999996, 0,JP2, 3.3V, 1X01_NO_SILK, SparkFun-Connectors, (0.35, 0.15), R0|
-|<table><tr><td>![HEAD-I01-X-PI05-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI05-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI05-01<br>2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td><td>[H05](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)</td></tr></table>|
-|HEAD-I01-X-PI01-01, JP11, 6.35, 3.8099999999999996, 0,JP11, GND, 1X01_NO_SILK, SparkFun-Connectors, (0.25, 0.15), R0|
-|UNMATCHED-0603-X-UNMATCHED-01, L1, 7.619999999999999, 15.239999999999998, 180,L1, RES-07859, 0603, SparkFun-Passives, (0.3, 0.6), R180|
-|RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 9.04875, 180,R1, 4.7K, 0603-RES, SparkFun-Resistors, (0.3, 0.35625), R180|
-|RESE-0603-X-UNMATCHED-01, R2, 7.619999999999999, 7.46125, 180,R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.3, 0.29375), R180|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 11.43, 11.43, 180,U2, LSM6DS3, LGA14L_DOT_INDICATOR, LSM6DS3, (0.45, 0.45), R180|
 
 ## Tags
 
@@ -60,40 +42,54 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LSM6DS3_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13339
 - oompID: PROJ-SPAR-13339-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C3, 7.619999999999999, 13.652499999999998, 0
-- oompPart: CAPC-0603-X-NF100-V50, C4, 11.43, 15.239999999999998, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.0318749999999999, 21.748749999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.59, 2.54, 0
-- oompPart: HEAD-I01-X-PI06-01, JP1, 19.049999999999997, 1.27, 180
-- oompPart: HEAD-I01-X-PI01-01, JP2, 8.889999999999999, 3.8099999999999996, 0
-- oompPart: HEAD-I01-X-PI05-01, JP3, 6.35, 21.59, 0
-- oompPart: HEAD-I01-X-PI01-01, JP11, 6.35, 3.8099999999999996, 0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, L1, 7.619999999999999, 15.239999999999998, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R1, 7.619999999999999, 9.04875, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R2, 7.619999999999999, 7.46125, 180
-- oompPart: RESE-0603-X-O103-01, R3, 15.239999999999998, 15.239999999999998, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 17.62125, 11.43, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 3.3337499999999998, 11.43, M270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 16.509999999999998, 19.049999999999997, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 13.97, 19.049999999999997, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 11.43, 11.43, 180
-- rawPart: C3, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.5375), R0
-- rawPart: C4, 0.1uF, 0603-CAP, SparkFun-Capacitors, (0.45, 0.6), R180
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.040625, 0.85625), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.85, 0.1), R0
-- rawPart: JP1, IO, 1X06_NO_SILK_YES_STOP, SparkFun-Connectors, (0.75, 0.05), R180
-- rawPart: JP2, 3.3V, 1X01_NO_SILK, SparkFun-Connectors, (0.35, 0.15), R0
-- rawPart: JP3, IO, 1X05, SparkFun-Connectors, (0.25, 0.85), R0
-- rawPart: JP11, GND, 1X01_NO_SILK, SparkFun-Connectors, (0.25, 0.15), R0
-- rawPart: L1, RES-07859, 0603, SparkFun-Passives, (0.3, 0.6), R180
-- rawPart: R1, 4.7K, 0603-RES, SparkFun-Resistors, (0.3, 0.35625), R180
-- rawPart: R2, 4.7K, 0603-RES, SparkFun-Resistors, (0.3, 0.29375), R180
-- rawPart: R3, 10K, 0603-RES, SparkFun-Resistors, (0.6, 0.6), R180
-- rawPart: SJ1, PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.69375, 0.45), R90
-- rawPart: SJ2, S_MODE, PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.13125, 0.45), MR270
-- rawPart: SJ3, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.65, 0.75), MR180
-- rawPart: SJ4, JUMPER-PAD-2-NC_BY_TRACE, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.55, 0.75), MR0
-- rawPart: U2, LSM6DS3, LGA14L_DOT_INDICATOR, LSM6DS3, (0.45, 0.45), R180
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: L1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C3,0.1uF,0.1UF-100V-10%(0603),0603-CAP,CAP-08390,,CAP-08390,0.1uF,,
+- rawParts: C4,0.1uF,0.1UF-100V-10%(0603),0603-CAP,CAP-08390,,CAP-08390,0.1uF,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Marshall Taylor,,,v10,
+- rawParts: JP1,IO,M06NO_SILK_YES_STOP,1X06_NO_SILK_YES_STOP,Header 6,,,,,
+- rawParts: JP2,3.3V,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,
+- rawParts: JP3,IO,M05PTH,1X05,Header 5,,,,,
+- rawParts: JP11,GND,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,
+- rawParts: L1,RES-07859,INDUCTOR30OHM,1.8A,0603,Inductors,,RES-07859,,,
+- rawParts: LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: R1,4.7K,4.7KOHM-1/10W-1%(0603),0603-RES,RES-07857,,RES-07857,4.7K,,
+- rawParts: R2,4.7K,4.7KOHM-1/10W-1%(0603),0603-RES,RES-07857,,RES-07857,4.7K,,
+- rawParts: R3,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,
+- rawParts: SJ1,,JUMPER-PAD-3-2OF3_NC_BY_PASTE,PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX,,,,,,
+- rawParts: SJ2,S_MODE,JUMPER-PAD-3-NC_BY_TRACE,PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,,,
+- rawParts: SJ3,JUMPER-PAD-2-NC_BY_TRACE,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,,,
+- rawParts: SJ4,JUMPER-PAD-2-NC_BY_TRACE,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: U2,LSM6DS3,LSM6DS3DOT_INDICATION,LGA14L_DOT_INDICATOR,,,IC-12969,,,
 
 
 

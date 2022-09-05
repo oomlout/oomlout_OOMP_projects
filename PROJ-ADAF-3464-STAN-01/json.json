@@ -41,108 +41,100 @@
             "value": "PROJ-ADAF-3464-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 1, 26.479499999999998, 26.479499999999998, 180"
+            "name": "oompParts",
+            "value": "1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, 2, 36.0045, 26.416, 180"
+            "name": "oompParts",
+            "value": "2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 53.339999999999996, 24.13, 0"
+            "name": "oompParts",
+            "value": "JOY1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 8.5725, 10.16, 0"
+            "name": "oompParts",
+            "value": "RPI1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JOY1, 11.43, 14.985999999999999, 90"
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, RPI1, 64.9605, 29.971999999999998, 180"
+            "name": "oompParts",
+            "value": "SW2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 36.0045, 14.985999999999999, 180"
+            "name": "oompParts",
+            "value": "SW3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW2, 46.482, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "SW4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW3, 53.339999999999996, 24.13, 0"
+            "name": "oompParts",
+            "value": "SW5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW4, 53.339999999999996, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "SW8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW5, 60.198, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW8, 26.479499999999998, 14.985999999999999, 180"
+            "name": "rawParts",
+            "value": "1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.241999999999997, 21.462999999999997, 270"
+            "name": "rawParts",
+            "value": "2,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.0425, 1.0425), R180"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "2, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (1.4175, 1.04), R180"
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (2.1, 0.95), R0"
+            "name": "rawParts",
+            "value": "JOY1,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_MINITHM,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID3, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.3375, 0.4), R0"
+            "name": "rawParts",
+            "value": "RPI1,RASPBERRYPI_BPLUS_BONNETSMT,RASPBERRYPI_BPLUS_BONNETSMT,PI_BONNET_SMT,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JOY1, JOYSTICK_ANALOG_XY, JOYSTICK_ANALOG_MINITHM, microbuilder, (0.45, 0.59), R90"
+            "name": "rawParts",
+            "value": "SW1,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "RPI1, RASPBERRYPI_BPLUS_BONNETSMT, PI_BONNET_SMT, microbuilder, (2.5575, 1.18), R180"
+            "name": "rawParts",
+            "value": "SW2,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW1, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.4175, 0.59), R180"
+            "name": "rawParts",
+            "value": "SW3,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW2, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.83, 0.65), R180"
+            "name": "rawParts",
+            "value": "SW4,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW3, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.1, 0.95), R0"
+            "name": "rawParts",
+            "value": "SW5,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW4, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.1, 0.35), R0"
+            "name": "rawParts",
+            "value": "SW8,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
         },
         {
-            "name": "rawPart",
-            "value": "SW5, EVQQ, EVQ-Q2_SMALLER, microbuilder, (2.37, 0.65), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "SW8, EVQQ, EVQ-Q2_SMALLER, microbuilder, (1.0425, 0.59), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U1, ADS1015, MSOP10, microbuilder, (1.23, 0.845), R270"
+            "name": "rawParts",
+            "value": "U1,ADS1015,ADC_ADS1015,MSOP10,ADS1015 - 12-bit 4-Channel I2C ADC with Internal PGA,,"
         },
         {
             "name": "oompID",

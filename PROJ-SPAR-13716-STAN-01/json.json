@@ -41,108 +41,124 @@
             "value": "PROJ-SPAR-13716-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 8.889999999999999, 22.224999999999998, 270"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UF22D-01, C2, 3.8099999999999996, 26.924, 180"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CH1, 3.302, 9.270999999999999, 0"
+            "name": "oompParts",
+            "value": "CH1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 1.9049999999999998, 22.86, 90"
+            "name": "oompParts",
+            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 8.254999999999999, 37.465, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 4.3180000000000005, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI04-01, JP1, 1.27, 31.75, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI02@1-01, JP2, 6.35, 6.35, 180"
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 5.08, 16.509999999999998, 0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R1, 8.889999999999999, 26.034999999999997, 90"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R2, 7.365999999999999, 26.034999999999997, 270"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, SJ2 NO Jumper, 0, 0, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 5.08, 21.971, 0"
+            "name": "oompParts",
+            "value": "SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 1uF, 1206-CAP, SparkFun-Capacitors, (0.35, 0.875), R270"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 2.2uF, 1206-CAP, SparkFun-Capacitors, (0.15, 1.06), R180"
+            "name": "rawParts",
+            "value": "C1,1uF,1.0UF50V10%(1206),1206-CAP,CAP-09822,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "CH1, SCREWTERMINAL-3.5MM-2_LOCK, SparkFun-Connectors, (0.13, 0.365), R0"
+            "name": "rawParts",
+            "value": "C2,2.2uF,2.2UF50V10%(1206),1206-CAP,CAP-10009,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "D1, MBRA140, SMA-DIODE, SparkFun-DiscreteSemi, (0.075, 0.9), R90"
+            "name": "rawParts",
+            "value": "CH1,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,CONN-08399,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.325, 1.475), R0"
+            "name": "rawParts",
+            "value": "D1,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,,,DIO-08053,,MBRA140,"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.1, 0.17), R0"
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X04, SparkFun-Connectors, (0.05, 1.25), R0"
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, M02PTH, 1X02@1, SparkFun-Connectors, (0.25, 0.25), R180"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "L1, 33uH/+/-20%/1.4A, SRN6045, SparkFun-Coils, (0.2, 0.65), R0"
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 0.3R, 0805, SparkFun-Resistors, (0.35, 1.025), R90"
+            "name": "rawParts",
+            "value": "JP2,M02PTH,M02PTH,1X02@1,Standard 2-pin 0.1 header. Use with,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 0.3R, 0805, SparkFun-Resistors, (0.29, 1.025), R270"
+            "name": "rawParts",
+            "value": "L1,33\u00c3\u0082\u00c2\u00b5H/\u00c3\u0082\u00c2\u00b120%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,,,NDUC-11627,,33\u00c3\u0082\u00c2\u00b5H/\u00c3\u0082\u00c2\u00b120%/1.4A,"
         },
         {
-            "name": "rawPart",
-            "value": "SJ2, NO, Jumper, SMT-JUMPER_2_NO_NO-SILK, SparkFun-Jumpers, (0.33, 1.11), R0"
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, AL8860, SOT23-5, SparkFun-IC-Special-Function, (0.2, 0.865), R0"
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,0.3R,0.3OHM-1/8W-1%(0805),0805,RES-11622,,,RES-11622,,0.3,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,0.3R,0.3OHM-1/8W-1%(0805),0805,RES-11622,,,RES-11622,,0.3,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,NO Jumper,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,AL8860,AL8860,SOT23-5,,,IC-16593,,,,"
         },
         {
             "name": "oompID",

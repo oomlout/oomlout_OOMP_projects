@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13994-STAN-01>SSOP-DIP Adapter 16-Pin](#proj-spar-13994-stan-01ssop-dip-adapter-16-pin)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI081-01, JP1, 1.27, 1.27, 0,JP1, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.05), R0|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|HEAD-I01-X-PI081-01, JP3, 1.27, 11.937999999999999, 0,JP3, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.47), R0|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 5.08, 270,U1, SSOP16, SSOP16, generic-ssop16, (0.4, 0.2), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 10.16, 15.748, 270,U2, SSOP16, SSOP16, generic-ssop16, (0.4, 0.62), R270|
 
 ## Tags
 
@@ -55,18 +42,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_16-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13994
 - oompID: PROJ-SPAR-13994-STAN-01
-- oompPart: HEAD-I01-X-PI081-01, JP1, 1.27, 1.27, 0
-- oompPart: HEAD-I01-X-PI08-01, JP2, 1.27, 8.889999999999999, 0
-- oompPart: HEAD-I01-X-PI081-01, JP3, 1.27, 11.937999999999999, 0
-- oompPart: HEAD-I01-X-PI08-01, JP4, 1.27, 19.558, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 10.16, 5.08, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 10.16, 15.748, 270
-- rawPart: JP1, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.05), R0
-- rawPart: JP2, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.35), R0
-- rawPart: JP3, 1X08_PIN1_NO_SILK, SparkFun-Connectors, (0.05, 0.47), R0
-- rawPart: JP4, 1X08_NO_SILK, SparkFun-Connectors, (0.05, 0.77), R0
-- rawPart: U1, SSOP16, SSOP16, generic-ssop16, (0.4, 0.2), R270
-- rawPart: U2, SSOP16, SSOP16, generic-ssop16, (0.4, 0.62), R270
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,
+- rawParts: JP2,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,
+- rawParts: JP3,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,
+- rawParts: JP4,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,
+- rawParts: LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,
+- rawParts: LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,
+- rawParts: U1,SSOP16,SSOP16,SSOP16,,,
+- rawParts: U2,SSOP16,SSOP16,SSOP16,,,
 
 
 

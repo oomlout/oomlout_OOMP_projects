@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11569-STAN-01>Papilio VGA Wing](#proj-spar-11569-stan-01papilio-vga-wing)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,28 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 29.209999999999997, 90,JP3, DB15, DB15, SparkFun-Connectors, (0.1, 1.15), R90|
-|RESE-0402-X-UNMATCHED-01, R1, 17.779999999999998, 13.97, 90,R1, 82.5, 0402-RES, SparkFun-Passives, (0.7, 0.55), R90|
-|RESE-0402-X-UNMATCHED-01, R2, 19.049999999999997, 13.97, 90,R2, 82.5, 0402-RES, SparkFun-Passives, (0.75, 0.55), R90|
-|RESE-0402-X-UNMATCHED-01, R3, 2.54, 10.16, 270,R3, 270, 0402-RES, SparkFun-Passives, (0.1, 0.4), R270|
-|RESE-0402-X-UNMATCHED-01, R4, 7.619999999999999, 10.16, 270,R4, 270, 0402-RES, SparkFun-Passives, (0.3, 0.4), R270|
-|RESE-0402-X-UNMATCHED-01, R5, 13.97, 10.16, 270,R5, 270, 0402-RES, SparkFun-Passives, (0.55, 0.4), R270|
-|RESE-0402-X-UNMATCHED-01, R6, 3.8099999999999996, 10.16, 270,R6, 270, 0402-RES, SparkFun-Passives, (0.15, 0.4), R270|
-|RESE-0402-X-UNMATCHED-01, R7, 8.889999999999999, 10.16, 270,R7, 270, 0402-RES, SparkFun-Passives, (0.35, 0.4), R270|
-|RESE-0402-X-UNMATCHED-01, R8, 12.7, 10.16, 270,R8, 270, 0402-RES, SparkFun-Passives, (0.5, 0.4), R270|
 
 ## Tags
 
@@ -60,32 +42,38 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Papilio_VGA_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11569
 - oompID: PROJ-SPAR-11569-STAN-01
-- oompPart: HEAD-I01-X-PI04-01, JP1, 19.049999999999997, 3.8099999999999996, 180
-- oompPart: HEAD-I01-X-PI08-01, JP2, 19.049999999999997, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 2.54, 29.209999999999997, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP4, 3.0479999999999996, 3.556, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP5, 17.779999999999998, 44.449999999999996, 0
-- oompPart: RESE-0402-X-UNMATCHED-01, R1, 17.779999999999998, 13.97, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R2, 19.049999999999997, 13.97, 90
-- oompPart: RESE-0402-X-UNMATCHED-01, R3, 2.54, 10.16, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R4, 7.619999999999999, 10.16, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R5, 13.97, 10.16, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R6, 3.8099999999999996, 10.16, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R7, 8.889999999999999, 10.16, 270
-- oompPart: RESE-0402-X-UNMATCHED-01, R8, 12.7, 10.16, 270
-- rawPart: JP1, 1X04, SparkFun-Connectors, (0.75, 0.15), R180
-- rawPart: JP2, 1X08, SparkFun-Connectors, (0.75, 0.05), R180
-- rawPart: JP3, DB15, DB15, SparkFun-Connectors, (0.1, 1.15), R90
-- rawPart: JP4, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.12, 0.14), R0
-- rawPart: JP5, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun, (0.7, 1.75), R0
-- rawPart: R1, 82.5, 0402-RES, SparkFun-Passives, (0.7, 0.55), R90
-- rawPart: R2, 82.5, 0402-RES, SparkFun-Passives, (0.75, 0.55), R90
-- rawPart: R3, 270, 0402-RES, SparkFun-Passives, (0.1, 0.4), R270
-- rawPart: R4, 270, 0402-RES, SparkFun-Passives, (0.3, 0.4), R270
-- rawPart: R5, 270, 0402-RES, SparkFun-Passives, (0.55, 0.4), R270
-- rawPart: R6, 270, 0402-RES, SparkFun-Passives, (0.15, 0.4), R270
-- rawPart: R7, 270, 0402-RES, SparkFun-Passives, (0.35, 0.4), R270
-- rawPart: R8, 270, 0402-RES, SparkFun-Passives, (0.5, 0.4), R270
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,
+- rawParts: JP2,,M081X08,1X08,Header 8,,
+- rawParts: JP3,DB15,DB15,DB15,DB15 / VGA right angle through-hole female connector.,,
+- rawParts: JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP6,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: JP7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: R1,82.5,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,82.5,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R4,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R5,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R6,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R7,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R8,270,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
 
 
 

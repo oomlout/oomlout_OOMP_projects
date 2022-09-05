@@ -41,22 +41,6 @@
             "value": "PROJ-SPAR-747-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI11-01, JP1, 27.94, 1.27, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$1, 25.4, 11.43, 180"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, M11PTH, 1X11, SparkFun, (1.1, 0.05), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$1, LMD1820X, TO-220-11LEAD, SparkFun, (1, 0.45), R180"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-747-STAN-01"
         },

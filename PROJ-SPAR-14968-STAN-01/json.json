@@ -41,132 +41,148 @@
             "value": "PROJ-SPAR-14968-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 99.05999999999999, 45.72, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 99.05999999999999, 45.72, M0"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 3.8099999999999996, 1.27, M0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 3.8099999999999996, 1.27, 0"
+            "name": "oompParts",
+            "value": "LOGO9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 13.97, 27.304999999999996, 0"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S2, 86.36, 27.304999999999996, 270"
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 62.230000000000004, 27.304999999999996, 270"
+            "name": "oompParts",
+            "value": "S3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S4, 38.099999999999994, 27.304999999999996, 0"
+            "name": "oompParts",
+            "value": "S4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$10, 38.099999999999994, 38.099999999999994, 180"
+            "name": "oompParts",
+            "value": "U$10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$11, 13.97, 38.099999999999994, 180"
+            "name": "oompParts",
+            "value": "U$11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$12, 86.36, 13.843, 0"
+            "name": "oompParts",
+            "value": "U$12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$14, 62.230000000000004, 19.049999999999997, 0"
+            "name": "oompParts",
+            "value": "U$14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$15, 62.230000000000004, 35.559999999999995, 180"
+            "name": "oompParts",
+            "value": "U$15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$16, 86.36, 40.64, 180"
+            "name": "oompParts",
+            "value": "U$16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$17, 13.97, 16.509999999999998, 0"
+            "name": "oompParts",
+            "value": "U$17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$19, 38.099999999999994, 16.509999999999998, 0"
+            "name": "oompParts",
+            "value": "U$19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FD1, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (3.9, 1.8), R0"
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD2, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (3.9, 1.8), MR0"
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD3, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.15, 0.05), MR0"
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD4, FIDUCIALUFIDUCIAL, FIDUCIAL-MICRO, SparkFun-Aesthetics, (0.15, 0.05), R0"
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S1, MOMENTARY-SWITCH-SPST-SMD-12MM, TACTILE_SWITCH_SMD_12MM, SparkFun-Switches, (0.55, 1.075), R0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S2, REED_SWITCH-PTH-INSULATED, REED_SWITCH_PLASTIC, SparkFun-Switches, (3.4, 1.075), R270"
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S3, SWITCH_DPDT_SMD_AYZ0202, SparkFun-Switches, (2.45, 1.075), R270"
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "S4, MOMENTARY-SWITCH-SPST-SMD-12MM, TACTILE_SWITCH_SMD_12MM, SparkFun-Switches, (1.5, 1.075), R0"
+            "name": "rawParts",
+            "value": "LOGO9,REVISION,REVISION,REVISION,Revision By Text,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$10, GATOR, GATOR, SparkFun-Connectors, (1.5, 1.5), R180"
+            "name": "rawParts",
+            "value": "S1,MOMENTARY-SWITCH-SPST-SMD-12MM,MOMENTARY-SWITCH-SPST-SMD-12MM,TACTILE_SWITCH_SMD_12MM,Momentary Switch (Pushbutton) - SPST,SWCH-11967,,COM-12993,"
         },
         {
-            "name": "rawPart",
-            "value": "U$11, GATOR, GATOR, SparkFun-Connectors, (0.55, 1.5), R180"
+            "name": "rawParts",
+            "value": "S2,REED_SWITCH-PTH-INSULATED,REED_SWITCH-PTH-INSULATED,REED_SWITCH_PLASTIC,Reed Switch,SWCH-10467,,COM-10601,"
         },
         {
-            "name": "rawPart",
-            "value": "U$12, GATOR, GATOR, SparkFun-Connectors, (3.4, 0.545), R0"
+            "name": "rawParts",
+            "value": "S3,,SWITCH-SPDT-SMD-AYZ0202,SWITCH_DPDT_SMD_AYZ0202,Single Pole, Double Throw (SPDT) Switch,SWCH-08179,COM-00597,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$14, GATOR, GATOR, SparkFun-Connectors, (2.45, 0.75), R0"
+            "name": "rawParts",
+            "value": "S4,MOMENTARY-SWITCH-SPST-SMD-12MM,MOMENTARY-SWITCH-SPST-SMD-12MM,TACTILE_SWITCH_SMD_12MM,Momentary Switch (Pushbutton) - SPST,SWCH-11967,,COM-12993,"
         },
         {
-            "name": "rawPart",
-            "value": "U$15, GATOR, GATOR, SparkFun-Connectors, (2.45, 1.4), R180"
+            "name": "rawParts",
+            "value": "U$10,GATOR,GATOR,GATOR,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$16, GATOR, GATOR, SparkFun-Connectors, (3.4, 1.6), R180"
+            "name": "rawParts",
+            "value": "U$11,GATOR,GATOR,GATOR,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$17, GATOR, GATOR, SparkFun-Connectors, (0.55, 0.65), R0"
+            "name": "rawParts",
+            "value": "U$12,GATOR,GATOR,GATOR,,,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$19, GATOR, GATOR, SparkFun-Connectors, (1.5, 0.65), R0"
+            "name": "rawParts",
+            "value": "U$14,GATOR,GATOR,GATOR,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$15,GATOR,GATOR,GATOR,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$16,GATOR,GATOR,GATOR,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$17,GATOR,GATOR,GATOR,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$19,GATOR,GATOR,GATOR,,,,,"
         },
         {
             "name": "oompID",

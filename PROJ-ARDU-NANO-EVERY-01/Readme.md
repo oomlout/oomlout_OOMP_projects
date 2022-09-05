@@ -8,7 +8,6 @@ Contents
 * [PROJ-ARDU-NANO-EVERY-01>](#proj-ardu-nano-every-01)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,67 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.8675, 6.475, 0,C1, 4n7, 0805-R2013X50N, Arduino-rcl, (6.8675, 6.475), R0|
-|CAPE-UNMATCHED-X-NF100-01, C2, 11.27, 12.5, 0,C2, 100n, 0402-1005X55N, Arduino-rcl, (11.27, 12.5), R0|
-|CAPE-UNMATCHED-X-UF22-01, C3, 14.1625, 13.0, 180,C3, 22u, 0805-R2013X50N, Arduino-rcl, (14.1625, 13), R180|
-|CAPE-UNMATCHED-X-UF22-01, C4, 41.625, 8.89, 90,C4, 22u, 0805-R2013X50N, Arduino-rcl, (41.625, 8.89), R90|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C5, 7.2375, 3.505, 90,C5, 4u7, 0402-1005X55N, Arduino-rcl, (7.2375, 3.505), R90|
-|CAPC-UNMATCHED-X-UF1-01, C6, 22.01, 5.3375, 270,C6, 1u, 0402-1005X55N, Arduino-rcl, (22.01, 5.3375), R270|
-|CAPE-UNMATCHED-X-NF100-01, C7, 6.2625, 3.505, 90,C7, 100n, 0402-1005X55N, Arduino-rcl, (6.2625, 3.505), R90|
-|CAPE-UNMATCHED-X-NF100-01, C8, 37.8675, 8.89, 180,C8, 100n, 0402-1005X55N, Arduino-rcl, (37.8675, 8.89), R180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C9, 26.1325, 4.355, 0,C9, 4u7, 0402-1005X55N, Arduino-rcl, (26.1325, 4.355), R0|
-|CAPE-UNMATCHED-X-NF100-01, C10, 26.1325, 5.4025, 0,C10, 100n, 0402-1005X55N, Arduino-rcl, (26.1325, 5.4025), R0|
-|CAPE-UNMATCHED-X-NF100-01, C11, 18.6, 13.1, 90,C11, 100n, 0402-1005X55N, Arduino-rcl, (18.6, 13.1), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 7.23, 9.2, 90,D1, PRTR5V, SOT190P230X110-4N, Arduino-diodes, (7.23, 9.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.9, 12.95, 180,D2, PMEG6020, SODFL3517X110N, Arduino-diodes, (7.9, 12.95), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 41.65, 13.0, 90,D3, DNP, SODFL3517X110N, Arduino-diodes, (41.65, 13), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL1, 1.9, 3.1, 180,DL1, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (1.9, 3.1), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL2, 1.9, 14.7, 180,DL2, GREEN, LEDC1608X80N-AK, Arduino-diodes, (1.9, 14.7), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL3, 25.6, 8.45, 270,DL3, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (25.6, 8.45), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL4, 24.05, 8.45, 270,DL4, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (24.05, 8.45), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 7.94, 12.99, 0,FD1, DNP, FD-1-1.5, Arduino-utility, (7.94, 12.99), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 33.9, 8.83, 0,FD2, DNP, FD-1-1.5, Arduino-utility, (33.9, 8.83), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 15.65, 5.2, 0,IC1, MPM3610, MPM3610, Arduino-ICs, (15.65, 5.2), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 1.28, 8.89, 270,J1, -, ZX62-AB-5PA, Arduino-connectors, (1.28, 8.89), R270|
-|HEAD-I01-X-PI15-01, JP2, 21.59, 1.27, 0,JP2, -, 1X15-CASTELL, Arduino-connectors, (21.59, 1.27), R0|
-|HEAD-I01-X-PI15-01, JP3, 21.59, 16.51, 180,JP3, -, 1X15-CASTELL, Arduino-connectors, (21.59, 16.51), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, PB1, 11.09, 8.89, 90,PB1, PTS820, C&K_PTS820_NO_HOLES, Arduino-pushbuttons, (11.09, 8.89), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 38.4, 5.78, 45,Q1, BSS138PS, SOT363, Arduino-transistors, (38.4, 5.78), R45|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 38.4, 12.0, 135,Q2, BSS138PS, SOT363, Arduino-transistors, (38.4, 12), R135|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 6.7675, 4.975, 180,R1, 1M, 0402-1005X55N, Arduino-rcl, (6.7675, 4.975), R180|
-|RESE-UNMATCHED-X-O331-01, R2, 5.4, 14.7, 0,R2, 330R, 0402-1005X55N, Arduino-rcl, (5.4, 14.7), R0|
-|RESE-UNMATCHED-X-O331-01, R3, 4.8, 3.0875, 0,R3, 330R, 0402-1005X55N, Arduino-rcl, (4.8, 3.0875), R0|
-|RESE-UNMATCHED-X-O104-01, R4, 16.45, 14.5125, 0,R4, 100k, 0402-1005X55N, Arduino-rcl, (16.45, 14.5125), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R5, 19.6, 13.1, 90,R5, 4k7, 0402-1005X55N, Arduino-rcl, (19.6, 13.1), R90|
-|RESE-UNMATCHED-X-O104-01, R6, 11.1375, 4.225, 270,R6, 100k, 0402-1005X55N, Arduino-rcl, (11.1375, 4.225), R270|
-|RESE-UNMATCHED-X-UNMATCHED-01, R7, 36.51464375, 12.793934375, 225,R7, 0R, 0402-1005X55N, Arduino-rcl, (36.51464375, 12.793934375), R225|
-|RESE-UNMATCHED-X-UNMATCHED-01, R8, 12.275, 4.225, 90,R8, 19k1, 0402-1005X55N, Arduino-rcl, (12.275, 4.225), R90|
-|RESE-UNMATCHED-X-O393-01, R9, 13.85, 10.9, 270,R9, 39k, 0402-1005X55N, Arduino-rcl, (13.85, 10.9), R270|
-|RESE-UNMATCHED-X-O104-01, R10, 15.6, 10.6, 0,R10, 100k, 0402-1005X55N, Arduino-rcl, (15.6, 10.6), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R11, 41.75, 3.85, 270,R11, 4k7, 0402-1005X55N, Arduino-rcl, (41.75, 3.85), R270|
-|RESE-UNMATCHED-X-O331-01, R12, 24.3, 5.15, 270,R12, 330R, 0402-1005X55N, Arduino-rcl, (24.3, 5.15), R270|
-|RESE-UNMATCHED-X-O331-01, R13, 23.3, 5.15, 270,R13, 330R, 0402-1005X55N, Arduino-rcl, (23.3, 5.15), R270|
-|RESE-UNMATCHED-X-UNMATCHED-01, R14, 39.46464375, 7.64393125, 135,R14, 4k7, 0402-1005X55N, Arduino-rcl, (39.46464375, 7.64393125), R135|
-|RESE-UNMATCHED-X-UNMATCHED-01, R15, 40.90858125, 6.25, 315,R15, 4k7, 0402-1005X55N, Arduino-rcl, (40.90858125, 6.25), R315|
-|RESE-UNMATCHED-X-UNMATCHED-01, R16, 37.835353125, 3.81464375, 315,R16, 4k7, 0402-1005X55N, Arduino-rcl, (37.835353125, 3.81464375), R315|
-|RESE-UNMATCHED-X-UNMATCHED-01, R17, 36.40355625, 5.25355625, 135,R17, 4k7, 0402-1005X55N, Arduino-rcl, (36.40355625, 5.25355625), R135|
-|RESE-UNMATCHED-X-UNMATCHED-01, R18, 38.023225, 14.2474875, 45,R18, 4k7, 0402-1005X55N, Arduino-rcl, (38.023225, 14.2474875), R45|
-|RESE-UNMATCHED-X-UNMATCHED-01, R19, 39.464646875, 10.164646875, 225,R19, 4k7, 0402-1005X55N, Arduino-rcl, (39.464646875, 10.164646875), R225|
-|RESE-UNMATCHED-X-UNMATCHED-01, R20, 38.8857875, 11.3857875, 225,R20, DNP, 0402-1005X55N, Arduino-rcl, (38.8857875, 11.3857875), R225|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.725, 8.89, 135,U1, ATMEGA4809, TQFP48, Arduino-ucs&SoCs, (31.725, 8.89), R135|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 19.7625, 4.85, 90,U2, AP2112K-3.3, SOT25, Arduino-ICs, (19.7625, 4.85), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 20.55, 9.2, 0,U3, ATSAMD11D14A, HVQFN24, Arduino-ucs&SoCs, (20.55, 9.2), R0|
 
 ## Tags
 
@@ -98,112 +41,114 @@ Contents
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
 - oompID: PROJ-ARDU-NANO-EVERY-01
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C1, 6.8675, 6.475, 0
-- oompPart: CAPE-UNMATCHED-X-NF100-01, C2, 11.27, 12.5, 0
-- oompPart: CAPE-UNMATCHED-X-UF22-01, C3, 14.1625, 13.0, 180
-- oompPart: CAPE-UNMATCHED-X-UF22-01, C4, 41.625, 8.89, 90
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C5, 7.2375, 3.505, 90
-- oompPart: CAPC-UNMATCHED-X-UF1-01, C6, 22.01, 5.3375, 270
-- oompPart: CAPE-UNMATCHED-X-NF100-01, C7, 6.2625, 3.505, 90
-- oompPart: CAPE-UNMATCHED-X-NF100-01, C8, 37.8675, 8.89, 180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C9, 26.1325, 4.355, 0
-- oompPart: CAPE-UNMATCHED-X-NF100-01, C10, 26.1325, 5.4025, 0
-- oompPart: CAPE-UNMATCHED-X-NF100-01, C11, 18.6, 13.1, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, D+, 1.778, 11.811, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, D-, 1.778, 14.351, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 7.23, 9.2, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 7.9, 12.95, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D3, 41.65, 13.0, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL1, 1.9, 3.1, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL2, 1.9, 14.7, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL3, 25.6, 8.45, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, DL4, 24.05, 8.45, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD1, 7.94, 12.99, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, FD2, 33.9, 8.83, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 15.65, 5.2, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 1.28, 8.89, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, J2, 40.5384, 8.89, 90
-- oompPart: HEAD-I01-X-PI15-01, JP2, 21.59, 1.27, 0
-- oompPart: HEAD-I01-X-PI15-01, JP3, 21.59, 16.51, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, PB1, 11.09, 8.89, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 38.4, 5.78, 45
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q2, 38.4, 12.0, 135
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 6.7675, 4.975, 180
-- oompPart: RESE-UNMATCHED-X-O331-01, R2, 5.4, 14.7, 0
-- oompPart: RESE-UNMATCHED-X-O331-01, R3, 4.8, 3.0875, 0
-- oompPart: RESE-UNMATCHED-X-O104-01, R4, 16.45, 14.5125, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R5, 19.6, 13.1, 90
-- oompPart: RESE-UNMATCHED-X-O104-01, R6, 11.1375, 4.225, 270
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R7, 36.51464375, 12.793934375, 225
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R8, 12.275, 4.225, 90
-- oompPart: RESE-UNMATCHED-X-O393-01, R9, 13.85, 10.9, 270
-- oompPart: RESE-UNMATCHED-X-O104-01, R10, 15.6, 10.6, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R11, 41.75, 3.85, 270
-- oompPart: RESE-UNMATCHED-X-O331-01, R12, 24.3, 5.15, 270
-- oompPart: RESE-UNMATCHED-X-O331-01, R13, 23.3, 5.15, 270
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R14, 39.46464375, 7.64393125, 135
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R15, 40.90858125, 6.25, 315
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R16, 37.835353125, 3.81464375, 315
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R17, 36.40355625, 5.25355625, 135
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R18, 38.023225, 14.2474875, 45
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R19, 39.464646875, 10.164646875, 225
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R20, 38.8857875, 11.3857875, 225
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 31.725, 8.89, 135
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 19.7625, 4.85, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 20.55, 9.2, 0
-- rawPart: C1, 4n7, 0805-R2013X50N, Arduino-rcl, (6.8675, 6.475), R0
-- rawPart: C2, 100n, 0402-1005X55N, Arduino-rcl, (11.27, 12.5), R0
-- rawPart: C3, 22u, 0805-R2013X50N, Arduino-rcl, (14.1625, 13), R180
-- rawPart: C4, 22u, 0805-R2013X50N, Arduino-rcl, (41.625, 8.89), R90
-- rawPart: C5, 4u7, 0402-1005X55N, Arduino-rcl, (7.2375, 3.505), R90
-- rawPart: C6, 1u, 0402-1005X55N, Arduino-rcl, (22.01, 5.3375), R270
-- rawPart: C7, 100n, 0402-1005X55N, Arduino-rcl, (6.2625, 3.505), R90
-- rawPart: C8, 100n, 0402-1005X55N, Arduino-rcl, (37.8675, 8.89), R180
-- rawPart: C9, 4u7, 0402-1005X55N, Arduino-rcl, (26.1325, 4.355), R0
-- rawPart: C10, 100n, 0402-1005X55N, Arduino-rcl, (26.1325, 5.4025), R0
-- rawPart: C11, 100n, 0402-1005X55N, Arduino-rcl, (18.6, 13.1), R90
-- rawPart: D+, DNP, TP-1.00MM, Arduino-utility, (1.778, 11.811), R0
-- rawPart: D-, DNP, TP-1.00MM, Arduino-utility, (1.778, 14.351), R0
-- rawPart: D1, PRTR5V, SOT190P230X110-4N, Arduino-diodes, (7.23, 9.2), R90
-- rawPart: D2, PMEG6020, SODFL3517X110N, Arduino-diodes, (7.9, 12.95), R180
-- rawPart: D3, DNP, SODFL3517X110N, Arduino-diodes, (41.65, 13), R90
-- rawPart: DL1, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (1.9, 3.1), R180
-- rawPart: DL2, GREEN, LEDC1608X80N-AK, Arduino-diodes, (1.9, 14.7), R180
-- rawPart: DL3, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (25.6, 8.45), R270
-- rawPart: DL4, YELLOW, LEDC1608X80N-AK, Arduino-diodes, (24.05, 8.45), R270
-- rawPart: FD1, DNP, FD-1-1.5, Arduino-utility, (7.94, 12.99), R0
-- rawPart: FD2, DNP, FD-1-1.5, Arduino-utility, (33.9, 8.83), R0
-- rawPart: IC1, MPM3610, MPM3610, Arduino-ICs, (15.65, 5.2), R0
-- rawPart: J1, -, ZX62-AB-5PA, Arduino-connectors, (1.28, 8.89), R270
-- rawPart: J2, DNP, 2X03-TP, Arduino-connectors, (40.5384, 8.89), R90
-- rawPart: JP2, -, 1X15-CASTELL, Arduino-connectors, (21.59, 1.27), R0
-- rawPart: JP3, -, 1X15-CASTELL, Arduino-connectors, (21.59, 16.51), R180
-- rawPart: PB1, PTS820, C&K_PTS820_NO_HOLES, Arduino-pushbuttons, (11.09, 8.89), R90
-- rawPart: Q1, BSS138PS, SOT363, Arduino-transistors, (38.4, 5.78), R45
-- rawPart: Q2, BSS138PS, SOT363, Arduino-transistors, (38.4, 12), R135
-- rawPart: R1, 1M, 0402-1005X55N, Arduino-rcl, (6.7675, 4.975), R180
-- rawPart: R2, 330R, 0402-1005X55N, Arduino-rcl, (5.4, 14.7), R0
-- rawPart: R3, 330R, 0402-1005X55N, Arduino-rcl, (4.8, 3.0875), R0
-- rawPart: R4, 100k, 0402-1005X55N, Arduino-rcl, (16.45, 14.5125), R0
-- rawPart: R5, 4k7, 0402-1005X55N, Arduino-rcl, (19.6, 13.1), R90
-- rawPart: R6, 100k, 0402-1005X55N, Arduino-rcl, (11.1375, 4.225), R270
-- rawPart: R7, 0R, 0402-1005X55N, Arduino-rcl, (36.51464375, 12.793934375), R225
-- rawPart: R8, 19k1, 0402-1005X55N, Arduino-rcl, (12.275, 4.225), R90
-- rawPart: R9, 39k, 0402-1005X55N, Arduino-rcl, (13.85, 10.9), R270
-- rawPart: R10, 100k, 0402-1005X55N, Arduino-rcl, (15.6, 10.6), R0
-- rawPart: R11, 4k7, 0402-1005X55N, Arduino-rcl, (41.75, 3.85), R270
-- rawPart: R12, 330R, 0402-1005X55N, Arduino-rcl, (24.3, 5.15), R270
-- rawPart: R13, 330R, 0402-1005X55N, Arduino-rcl, (23.3, 5.15), R270
-- rawPart: R14, 4k7, 0402-1005X55N, Arduino-rcl, (39.46464375, 7.64393125), R135
-- rawPart: R15, 4k7, 0402-1005X55N, Arduino-rcl, (40.90858125, 6.25), R315
-- rawPart: R16, 4k7, 0402-1005X55N, Arduino-rcl, (37.835353125, 3.81464375), R315
-- rawPart: R17, 4k7, 0402-1005X55N, Arduino-rcl, (36.40355625, 5.25355625), R135
-- rawPart: R18, 4k7, 0402-1005X55N, Arduino-rcl, (38.023225, 14.2474875), R45
-- rawPart: R19, 4k7, 0402-1005X55N, Arduino-rcl, (39.464646875, 10.164646875), R225
-- rawPart: R20, DNP, 0402-1005X55N, Arduino-rcl, (38.8857875, 11.3857875), R225
-- rawPart: U1, ATMEGA4809, TQFP48, Arduino-ucs&SoCs, (31.725, 8.89), R135
-- rawPart: U2, AP2112K-3.3, SOT25, Arduino-ICs, (19.7625, 4.85), R90
-- rawPart: U3, ATSAMD11D14A, HVQFN24, Arduino-ucs&SoCs, (20.55, 9.2), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: DL1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: DL2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: DL3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: DL4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FD1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FD2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: PB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: Q2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,4n7,C4.7NF-0805,0805-R2013X50N,SMD Capacitor,0689,http://www.kemet.com/Lists/ProductCatalog/Attachments/40/KEM_C1010_X7R_HV_SMD.pdf,www.kemet.com/docfinder?Partnumber=C0805C472KDRACTU,399-6738-1-ND,Kemet,C0805C472KDRACTU,-,,4n7,1KV,
+- rawParts: C2,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,
+- rawParts: C3,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,
+- rawParts: C4,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,
+- rawParts: C5,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,
+- rawParts: C6,1u,C-1UF-0402,0402-1005X55N,SMD Capacitor,0133,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R61E105KA12D/490-10017-1-ND/5026367,490-10017-1-ND,Murata,GRM155R61E105KA12D ,-,,1u,,
+- rawParts: C7,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,
+- rawParts: C8,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,
+- rawParts: C9,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,
+- rawParts: C10,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,
+- rawParts: C11,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,
+- rawParts: D+,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,
+- rawParts: D-,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,
+- rawParts: D1,PRTR5V,PRTR5V0U2X,215,SOT190P230X110-4N,USB ESD protection,2209,http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/PRTR5V0U2X,215/568-4140-1-ND/1589981,568-4140-1-ND,NXP,PRTR5V0U2X,215,,,PRTR5V,,
+- rawParts: D2,PMEG6020,PMEG6020AELRX,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,2208,http://www.nxp.com/documents/data_sheet/PMEG6020AELR.pdf,http://www.digikey.com/products/en?keywords=%20568-12710-1-ND, 568-12710-1-ND,NXP,PMEG6020AELRX,,,PMEG6020,,
+- rawParts: D3,DNP,PMEG6020AELRX-DNP,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,
+- rawParts: DL1,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,
+- rawParts: DL2,GREEN,LED-GREEN-0603,LEDC1608X80N-AK,LED,2204,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMG-C190/516-1425-1-ND/637749,516-1425-1-ND,Avago ,HSMG-C190 ,,,GREEN,,
+- rawParts: DL3,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,
+- rawParts: DL4,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,
+- rawParts: FD1,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,
+- rawParts: FD2,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,
+- rawParts: FRAME1,DNP,A3-FRAME,FRAME,,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,
+- rawParts: IC1,MPM3610,MPM3610,MPM3610,MPM3610 Step Down Regulator,2093,https://www.monolithicpower.com/pub/media/document/MPM3610_r1.01.pdf,https://www.digikey.com/product-detail/en/monolithic-power-systems-inc/MPM3610AGQV-P/1589-1249-1-ND/5298336,1589-1249-1-ND,MPS,MPM3610AGQV-P,,NO,MPM3610,,
+- rawParts: J1,-,USB-MICRO,ZX62-AB-5PA,USB - micro AB USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle, Horizontal,2219,https://www.hirose.com/product/en/download_file/key_name/ZX/category/Catalog/doc_file_id/31704/?file_category_id=4&item_id=13&is_series=1,http://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-AB-5PA(31)/H125279CT-ND/5994741,H125279CT-ND ,Hirose,ZX62-AB-5PA(31) ,,,-,,
+- rawParts: J2,DNP,PINHD-2X03-SMTP,2X03-TP,PIN HEADER,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,
+- rawParts: JP2,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,
+- rawParts: JP3,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,
+- rawParts: PB1,PTS820,TACTILE1PTS820-NH,C&K_PTS820_NO_HOLES,Tactile Switch SPST-NO Top Actuated Surface Mount,0173,http://www.ckswitches.com/media/1474/pts820.pdf,https://www.digikey.com/product-detail/en/c-k/PTS820-J15M-SMTR-LFS/CKN10506CT-ND/4176681,PTS820 J25K SMTR LFS-ND,C&K,PTS820 J25K SMTR LFS,,,PTS820,,
+- rawParts: Q1,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,
+- rawParts: Q2,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,
+- rawParts: R1,1M,R-1M-0402,0402-1005X55N,SMD Resistor,0139,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402JR-07330RL/311-330JRCT-ND/729412 ,311-330JRCT-ND,Yageo,RC0402JR-07330RL,NO,,1M,,
+- rawParts: R2,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,
+- rawParts: R3,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,
+- rawParts: R4,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,
+- rawParts: R5,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R6,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,
+- rawParts: R7,0R,R-0R-0402,0402-1005X55N,SMD Resistor,0039,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-070RL/311-0.0LRCT-ND/2827888,311-0.0LRCT-ND,Yageo,RC0402FR-070RL,NO,,0R,,
+- rawParts: R8,19k1,R-19K1-0402,0402-1005X55N,SMD Resistor,A5369,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf,https://www.digikey.it/product-detail/it/yageo/RC0402FR-0719K1L/311-19.1KLRTR-ND/726552,311-19.1KLRTR-ND,Yageo,RC0402FR-0719K1L,NO,,19k1,,
+- rawParts: R9,39k,R-39K-0402,0402-1005X55N,SMD Resistor,A5479,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,https://www.digikey.com/product-detail/en/yageo/RC0402JR-0739KL/311-39KJRCT-ND/729420,311-39KJRCT-ND ,Yageo,RC0402JR-0739KL,NO,,39k,,
+- rawParts: R10,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,
+- rawParts: R11,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R12,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,
+- rawParts: R13,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,
+- rawParts: R14,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R15,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R16,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R17,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R18,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R19,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,
+- rawParts: R20,DNP,R-DNP-0402,0402-1005X55N,SMD Resistor,DNP,DNP,DNP,DNP,DNP,DNP,NO,,DNP,,
+- rawParts: U1,ATMEGA4809,ATMEGA4809,TQFP48,ATMEGA4809,ATMEGA4809,http://ww1.microchip.com/downloads/en/DeviceDoc/40002016A.pdf,https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA4809-AFR/ATMEGA4809-AFRCT-ND/8540756,ATMEGA4809-AFRCT-ND,Microchip,ATMEGA4809-AFR,,,ATMEGA4809,,
+- rawParts: U2,AP2112K-3.3,AP2112K-3.3,SOT25,IC REG LINEAR 3.3V 600mA SOT25,2199,https://www.diodes.com/assets/Datasheets/AP2112.pdf,https://www.digikey.com/product-detail/en/diodes-incorporated/AP2112K-3.3TRG1/AP2112K-3.3TRG1DITR-ND/4470746,AP2112K-3.3TRG1DITR-ND,Diodes Inc,AP2112K-3.3TRG1,NO,,AP2112K-3.3,,
+- rawParts: U3,ATSAMD11D14A,ATSAMD11D14,HVQFN24,IC MCU 32BIT 16KB FLASH 24QFN,ATSAM-D11-D14A-MUT,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf,https://www.digikey.com/product-detail/it/microchip-technology/ATSAMD11D14A-MUT/ATSAMD11D14A-MUTCT-ND/5226480,ATSAMD11D14A-MUTCT-ND,Microchip,ATSAMD11D14A-MUT,,,ATSAMD11D14A,,
 
 
 

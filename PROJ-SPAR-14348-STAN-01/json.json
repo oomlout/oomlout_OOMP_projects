@@ -41,172 +41,204 @@
             "value": "PROJ-SPAR-14348-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR1, 6.35, 12.7, M270"
+            "name": "oompParts",
+            "value": "ADR1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, ADR2, 17.653, 12.7, M90"
+            "name": "oompParts",
+            "value": "ADR2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-NF100-V50, C1, 19.049999999999997, 7.619999999999999, 270"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0603-X-UNMATCHED-01, C2, 10.16, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 1.27, 19.685, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 24.13, 1.27, 0"
+            "name": "oompParts",
+            "value": "H2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD3, 24.13, 1.27, M0"
+            "name": "oompParts",
+            "value": "H4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FD4, 1.27, 19.685, M0"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, J1 Qwiic Right, 0, 0, 0"
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, J2 CCS811 Options, 0, 0, 0"
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, J3 Qwiic Right, 0, 0, 0"
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 20.32, 1.27, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 2.54, 12.7, M90"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 10.16, 6.985, 0"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O104-01, R3, 16.509999999999998, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O104-01, R4, 16.509999999999998, 7.619999999999999, 90"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O104-01, R6, 10.16, 8.889999999999999, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R13, 6.35, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R14, 6.35, 8.889999999999999, 180"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 10.16, 12.7, 90"
+            "name": "oompParts",
+            "value": "R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, U3, 16.509999999999998, 12.7, 180"
+            "name": "oompParts",
+            "value": "R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "ADR1, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.25, 0.5), MR270"
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "ADR2, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.695, 0.5), MR90"
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 0.1uF, 0603, SparkFun-Capacitors, (0.75, 0.3), R270"
+            "name": "rawParts",
+            "value": "ADR1,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 1.0uF, 0603, SparkFun-Capacitors, (0.4, 0.65), R180"
+            "name": "rawParts",
+            "value": "ADR2,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.775), R0"
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00810,0.1uF,"
         },
         {
-            "name": "rawPart",
-            "value": "FD2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.05), R0"
+            "name": "rawParts",
+            "value": "C2,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00868,1.0uF,"
         },
         {
-            "name": "rawPart",
-            "value": "FD3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.95, 0.05), MR0"
+            "name": "rawParts",
+            "value": "FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "FD4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.775), MR0"
+            "name": "rawParts",
+            "value": "FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J1, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.2, 0.5), R270"
+            "name": "rawParts",
+            "value": "FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J2, CCS811, Options, 1X03_NO_SILK, SparkFun-Connectors, (0.4, 0.05), R180"
+            "name": "rawParts",
+            "value": "FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J3, Qwiic, Right, Angle, 1X04_1MM_RA, SparkFun-Connectors, (0.8, 0.5), R90"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,"
         },
         {
-            "name": "rawPart",
-            "value": "J4, PTH, 1X04_NO_SILK, SparkX, (0.8, 0.05), R180"
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, SMT-JUMPER_3_2-NC_TRACE_SILK, SparkFun-Jumpers, (0.1, 0.5), MR90"
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 4.7k, 0603, SparkFun-Resistors, (0.4, 0.275), R0"
+            "name": "rawParts",
+            "value": "J1,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13729,Qwiic Right Angle,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 100k, 0603, SparkFun-Resistors, (0.65, 0.65), R180"
+            "name": "rawParts",
+            "value": "J2,CCS811 Options,CONN_031X03_NO_SILK,1X03_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 100k, 0603, SparkFun-Resistors, (0.65, 0.3), R90"
+            "name": "rawParts",
+            "value": "J3,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13729,Qwiic Right Angle,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 100k, 0603, SparkFun-Resistors, (0.4, 0.35), R0"
+            "name": "rawParts",
+            "value": "J4,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R13, 4.7k, 0603, SparkFun-Resistors, (0.25, 0.65), R180"
+            "name": "rawParts",
+            "value": "JP1,,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,"
         },
         {
-            "name": "rawPart",
-            "value": "R14, 4.7k, 0603, SparkFun-Resistors, (0.25, 0.35), R180"
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U2, CCS811, LGA10, SparkFun-Sensors, (0.4, 0.5), R90"
+            "name": "rawParts",
+            "value": "LOGO2,REVISION,REVISION,REVISION,Revision By Text,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U3, BME280, LGA-8-2.5X2.5, SparkFun-Sensors, (0.65, 0.5), R180"
+            "name": "rawParts",
+            "value": "LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,RES-07857,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,RES-07828,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,RES-07828,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,RES-07828,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,RES-07857,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,RES-07857,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,CCS811,CCS811PRODUCTION,LGA10,AMS CCS811 &ndash, I2C Digital Gas Sensor,IC-13607,CCS811,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,BME280,BME280,LGA-8-2.5X2.5,Bosch BME280 &ndash, Combined Humidity and Pressure Sensor,IC-13090,BME280,"
         },
         {
             "name": "oompID",

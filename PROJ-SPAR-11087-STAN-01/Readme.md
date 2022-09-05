@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11087-STAN-01>Uh-Oh Battery Indicator](#proj-spar-11087-stan-01uh-oh-battery-indicator)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,25 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 5.08, 90,JP1, Battery, JST-2-PTH, SparkFun, (0.25, 0.2), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 15.239999999999998, 90,JP2, System, JST-2-PTH, SparkFun, (0.25, 0.6), R90|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 31.75, 10.16, 270,LED1, Green, LED10MM-2, SparkFun, (1.25, 0.4), R270|
-|RESE-UNMATCHED-X-O331-01, R1, 25.4, 10.16, 90,R1, 330, AXIAL-0.3, SparkFun, (1, 0.4), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, RADJ, 19.049999999999997, 7.619999999999999, 0,RADJ, 10K, 3386U, SparkFun, (0.75, 0.3), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 19.049999999999997, 16.509999999999998, 0,U1, TL431, TO-92, SparkFun, (0.75, 0.65), R0|
 
 ## Tags
 
@@ -57,26 +42,38 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Uh-Oh_Battery_Indicator (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11087
 - oompID: PROJ-SPAR-11087-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP1, 6.35, 5.08, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 6.35, 15.239999999999998, 90
-- oompPart: HEAD-I01-X-PI02-01, JP3, 3.8099999999999996, 13.97, 90
-- oompPart: HEAD-I01-X-PI02-01, JP4, 3.8099999999999996, 6.35, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 31.75, 10.16, 270
-- oompPart: RESE-UNMATCHED-X-O331-01, R1, 25.4, 10.16, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, RADJ, 19.049999999999997, 7.619999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 15.239999999999998, 17.779999999999998, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP2, 22.86, 17.779999999999998, M0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 19.049999999999997, 16.509999999999998, 0
-- rawPart: JP1, Battery, JST-2-PTH, SparkFun, (0.25, 0.2), R90
-- rawPart: JP2, System, JST-2-PTH, SparkFun, (0.25, 0.6), R90
-- rawPart: JP3, 1X02, SparkFun, (0.15, 0.55), R90
-- rawPart: JP4, 1X02, SparkFun, (0.15, 0.25), R270
-- rawPart: LED1, Green, LED10MM-2, SparkFun, (1.25, 0.4), R270
-- rawPart: R1, 330, AXIAL-0.3, SparkFun, (1, 0.4), R90
-- rawPart: RADJ, 10K, 3386U, SparkFun, (0.75, 0.3), R0
-- rawPart: TP1, TP1, 1X01, SparkFun, (0.6, 0.7), MR0
-- rawPart: TP2, TP2, 1X01, SparkFun, (0.9, 0.7), MR0
-- rawPart: U1, TL431, TO-92, SparkFun, (0.75, 0.65), R0
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP31,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP41,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP51,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP61,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: RADJ,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP1,Battery,M02JST-PTH-2,JST-2-PTH,Header 2,,
+- rawParts: JP2,System,M02JST-PTH-2,JST-2-PTH,Header 2,,
+- rawParts: JP3,,M02PTH,1X02,Header 2,,
+- rawParts: JP4,,M02PTH,1X02,Header 2,,
+- rawParts: JP31,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP41,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP51,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: JP61,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: LED1,Green,LED10MM2,LED10MM-2,LEDs,,
+- rawParts: R1,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,
+- rawParts: RADJ,10K,TRIMPOT-PTH-KNOB,3386U,,,
+- rawParts: TP1,TP1,M01PTH,1X01,Header 1,,
+- rawParts: TP2,TP2,M01PTH,1X01,Header 1,,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U$2,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U1,TL431,TL431PTH,TO-92,,,
 
 
 

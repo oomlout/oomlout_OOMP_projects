@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12779-STAN-01>Easy Driver](#proj-spar-12779-stan-01easy-driver)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,53 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 4.444999999999999, 180,C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.175), R180|
-|CAPC-0603-X-UNMATCHED-01, C2, 11.43, 4.444999999999999, 0,C2, 1uf, 0603-CAP, SparkFun-Capacitors, (0.45, 0.175), R0|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 44.449999999999996, 10.033, 90,C3, 47uF, PANASONIC_D, rcl, (1.75, 0.395), R90|
-|CAPE-0603-X-UNMATCHED-01, C4, 17.653, 5.715, 90,C4, 680pF, 0603-CAP, SparkFun-Capacitors, (0.695, 0.225), R90|
-|CAPE-0603-X-UNMATCHED-01, C5, 17.653, 14.604999999999999, 270,C5, 680pF, 0603-CAP, SparkFun-Capacitors, (0.695, 0.575), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 26.669999999999998, 10.16, 0,IC1, A3967SLB, SO24W, Allegro, (1.05, 0.4), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 3.8099999999999996, 11.43, 0,IC2, V_REG_317SMD, SOT223, SparkFun03_30_09, (0.15, 0.45), R0|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP5</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-0603-X-UNMATCHED-01, PWR_LED, 2.54, 17.779999999999998, 180,PWR_LED, YELLOW, LED-0603, SparkFun-LED, (0.1, 0.7), R180|
-|RESE-0805-X-UNMATCHED-01, R1, 35.687, 7.746999999999999, 90,R1, .75, 0805, SparkFun-Resistors, (1.405, 0.305), R90|
-|RESE-0805-X-UNMATCHED-01, R2, 35.687, 12.572999999999999, 270,R2, .75, 0805, SparkFun-Resistors, (1.405, 0.495), R270|
-|<table><tr><td>![RESE-0603-X-O203-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O203-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O203-01<br>SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td><td>[R6203](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O203-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O203-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O203-01<br>SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td><td>[R6203](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R5, 5.08, 17.779999999999998, 270,R5, 2.49K, 0603-RES, SparkFun-Resistors, (0.2, 0.7), R270|
-|RESE-0603-X-UNMATCHED-01, R6, 2.54, 3.8099999999999996, 180,R6, 390, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R180|
-|<table><tr><td>![RESE-0603-X-O331-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O331-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O331-01<br>SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td><td>[R6331](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R8, 2.54, 5.08, 0,R8, 240, 0603-RES, SparkFun-Resistors, (0.1, 0.2), R0|
-|RESE-0603-X-UNMATCHED-01, R9, 3.8099999999999996, 17.779999999999998, 270,R9, 1K, 0603-RES, SparkFun-Resistors, (0.15, 0.7), R270|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R10</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R11</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R12</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R13</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R14</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R15</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-O103-01, R16, 10.413999999999998, 8.636000000000001, 0,R16, 10K, TRIMPOT-3MM-2, SparkFun-Electromechanical, (0.41, 0.34), R0|
-|RESE-0603-X-UNMATCHED-01, R17, 13.589, 14.604999999999999, 90,R17, 6.8K, 0603-RES, SparkFun-Resistors, (0.535, 0.575), R90|
-|RESE-0603-X-UNMATCHED-01, R18, 42.672, 5.08, 0,R18, 1K, 0603-RES, SparkFun-Resistors, (1.68, 0.2), R0|
-|RESE-0603-X-UNMATCHED-01, R19, 36.957, 1.27, 0,R19, 1K, 0603-RES, SparkFun-Resistors, (1.455, 0.05), R0|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R20</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R21</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
 
 ## Tags
 
@@ -85,88 +42,96 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Easy_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12779
 - oompID: PROJ-SPAR-12779-STAN-01
-- oompPart: CAPC-0603-X-UNMATCHED-01, C1, 7.619999999999999, 4.444999999999999, 180
-- oompPart: CAPC-0603-X-UNMATCHED-01, C2, 11.43, 4.444999999999999, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 44.449999999999996, 10.033, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C4, 17.653, 5.715, 90
-- oompPart: CAPE-0603-X-UNMATCHED-01, C5, 17.653, 14.604999999999999, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 46.99, 13.97, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 5.08, 3.8099999999999996, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 26.669999999999998, 10.16, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 3.8099999999999996, 11.43, 0
-- oompPart: HEAD-I01-X-PI02-01, JP1, 43.18, 17.779999999999998, 0
-- oompPart: HEAD-I01-X-PI03-01, JP2, 40.64, 2.54, 0
-- oompPart: HEAD-I01-X-PI04-01, JP3, 7.619999999999999, 17.779999999999998, 0
-- oompPart: HEAD-I01-X-PI02-01, JP4, 10.16, 2.54, 180
-- oompPart: HEAD-I01-X-PI02-01, JP5, 22.86, 2.54, 180
-- oompPart: HEAD-I01-X-PI02-01, JP6, 33.019999999999996, 17.779999999999998, 0
-- oompPart: HEAD-I01-X-PI02-01, JP7, 20.32, 17.779999999999998, 0
-- oompPart: UNMATCHED-0603-X-UNMATCHED-01, PWR_LED, 2.54, 17.779999999999998, 180
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 35.687, 7.746999999999999, 90
-- oompPart: RESE-0805-X-UNMATCHED-01, R2, 35.687, 12.572999999999999, 270
-- oompPart: RESE-0603-X-O203-01, R3, 15.620999999999999, 5.715, 270
-- oompPart: RESE-0603-X-O203-01, R4, 15.620999999999999, 14.604999999999999, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R5, 5.08, 17.779999999999998, 270
-- oompPart: RESE-0603-X-UNMATCHED-01, R6, 2.54, 3.8099999999999996, 180
-- oompPart: RESE-0603-X-O331-01, R7, 2.54, 2.54, 180
-- oompPart: RESE-0603-X-UNMATCHED-01, R8, 2.54, 5.08, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R9, 3.8099999999999996, 17.779999999999998, 270
-- oompPart: RESE-0603-X-O103-01, R10, 38.862, 17.906999999999996, 0
-- oompPart: RESE-0603-X-O103-01, R11, 17.779999999999998, 2.54, 270
-- oompPart: RESE-0603-X-O103-01, R12, 17.779999999999998, 17.779999999999998, 90
-- oompPart: RESE-0603-X-O103-01, R13, 30.479999999999997, 17.779999999999998, 270
-- oompPart: RESE-0603-X-O103-01, R14, 24.892, 2.54, 270
-- oompPart: RESE-0603-X-O103-01, R15, 24.764999999999997, 17.779999999999998, 90
-- oompPart: RESE-UNMATCHED-X-O103-01, R16, 10.413999999999998, 8.636000000000001, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R17, 13.589, 14.604999999999999, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R18, 42.672, 5.08, 0
-- oompPart: RESE-0603-X-UNMATCHED-01, R19, 36.957, 1.27, 0
-- oompPart: RESE-0603-X-O103-01, R20, 46.228, 5.08, 180
-- oompPart: RESE-0603-X-O103-01, R21, 38.099999999999994, 3.556, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 14.604999999999999, 2.54, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 1.1429999999999998, 1.016, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, 10.921999999999999, 12.7, 0
-- rawPart: C1, .1uF, 0603-CAP, SparkFun-Capacitors, (0.3, 0.175), R180
-- rawPart: C2, 1uf, 0603-CAP, SparkFun-Capacitors, (0.45, 0.175), R0
-- rawPart: C3, 47uF, PANASONIC_D, rcl, (1.75, 0.395), R90
-- rawPart: C4, 680pF, 0603-CAP, SparkFun-Capacitors, (0.695, 0.225), R90
-- rawPart: C5, 680pF, 0603-CAP, SparkFun-Capacitors, (0.695, 0.575), R270
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.85, 0.55), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.2, 0.15), R0
-- rawPart: IC1, A3967SLB, SO24W, Allegro, (1.05, 0.4), R0
-- rawPart: IC2, V_REG_317SMD, SOT223, SparkFun03_30_09, (0.15, 0.45), R0
-- rawPart: JP1, 1X02_NO_SILK, SparkFun, (1.7, 0.7), R0
-- rawPart: JP2, 1X03_NO_SILK, SparkFun, (1.6, 0.1), R0
-- rawPart: JP3, 1X04_NO_SILK, SparkFun, (0.3, 0.7), R0
-- rawPart: JP4, 1X02_NO_SILK, SparkFun, (0.4, 0.1), R180
-- rawPart: JP5, 1X02_NO_SILK, SparkFun, (0.9, 0.1), R180
-- rawPart: JP6, 1X02_NO_SILK, SparkFun, (1.3, 0.7), R0
-- rawPart: JP7, 1X02_NO_SILK, SparkFun, (0.8, 0.7), R0
-- rawPart: PWR_LED, YELLOW, LED-0603, SparkFun-LED, (0.1, 0.7), R180
-- rawPart: R1, .75, 0805, SparkFun-Resistors, (1.405, 0.305), R90
-- rawPart: R2, .75, 0805, SparkFun-Resistors, (1.405, 0.495), R270
-- rawPart: R3, 20K, 0603-RES, SparkFun-Resistors, (0.615, 0.225), R270
-- rawPart: R4, 20K, 0603-RES, SparkFun-Resistors, (0.615, 0.575), R90
-- rawPart: R5, 2.49K, 0603-RES, SparkFun-Resistors, (0.2, 0.7), R270
-- rawPart: R6, 390, 0603-RES, SparkFun-Resistors, (0.1, 0.15), R180
-- rawPart: R7, 330, 0603-RES, SparkFun-Resistors, (0.1, 0.1), R180
-- rawPart: R8, 240, 0603-RES, SparkFun-Resistors, (0.1, 0.2), R0
-- rawPart: R9, 1K, 0603-RES, SparkFun-Resistors, (0.15, 0.7), R270
-- rawPart: R10, 10K, 0603-RES, SparkFun-Resistors, (1.53, 0.705), R0
-- rawPart: R11, 10K, 0603-RES, SparkFun-Resistors, (0.7, 0.1), R270
-- rawPart: R12, 10K, 0603-RES, SparkFun-Resistors, (0.7, 0.7), R90
-- rawPart: R13, 10K, 0603-RES, SparkFun-Resistors, (1.2, 0.7), R270
-- rawPart: R14, 10K, 0603-RES, SparkFun-Resistors, (0.98, 0.1), R270
-- rawPart: R15, 10K, 0603-RES, SparkFun-Resistors, (0.975, 0.7), R90
-- rawPart: R16, 10K, TRIMPOT-3MM-2, SparkFun-Electromechanical, (0.41, 0.34), R0
-- rawPart: R17, 6.8K, 0603-RES, SparkFun-Resistors, (0.535, 0.575), R90
-- rawPart: R18, 1K, 0603-RES, SparkFun-Resistors, (1.68, 0.2), R0
-- rawPart: R19, 1K, 0603-RES, SparkFun-Resistors, (1.455, 0.05), R0
-- rawPart: R20, 10K, 0603-RES, SparkFun-Resistors, (1.82, 0.2), R180
-- rawPart: R21, 10K, 0603-RES, SparkFun-Resistors, (1.5, 0.14), R270
-- rawPart: SJ1, SOLDERJUMPERTRACE, SJ_2S-TRACE, SparkFun03_30_09, (0.575, 0.1), R0
-- rawPart: SJ2, SOLDERJUMPERNO, SJ_2S-NO, SparkFun03_30_09, (0.045, 0.04), R0
-- rawPart: TP1, TEST-POINTTP_15TH_THRU, TP_15TH, SparkFun-Passives, (0.43, 0.5), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: PWR_LED,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C2,1uf,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C3,47uF,CPOL-USD,PANASONIC_D,POLARIZED CAPACITOR, American symbol,,
+- rawParts: C4,680pF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C5,680pF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: IC1,A3967SLB,A3967SLB,SO24W,ANALOG DEVICES,,
+- rawParts: IC2,V_REG_317SMD,V_REG_317SMD,SOT223,Voltage Regulator,,
+- rawParts: JP1,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,
+- rawParts: JP2,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,
+- rawParts: JP3,,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,
+- rawParts: JP4,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,
+- rawParts: JP5,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,
+- rawParts: JP6,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,
+- rawParts: JP7,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,
+- rawParts: JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: PWR_LED,YELLOW,LED-YELLOW0603,LED-0603,Yellow SMD LEDs,DIO-09003,
+- rawParts: R1,.75,RESISTOR0805-RES,0805,Resistor,,
+- rawParts: R2,.75,RESISTOR0805-RES,0805,Resistor,,
+- rawParts: R3,20K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R4,20K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R5,2.49K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R6,390,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R7,330,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R8,240,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R9,1K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R10,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R11,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R12,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R13,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R14,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R15,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R16,10K,TRIMPOT3MM-2,TRIMPOT-3MM-2,Various small potentiometers for set-and-forget applications,,
+- rawParts: R17,6.8K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R18,1K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R19,1K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R20,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: R21,10K,RESISTOR0603,0603-RES,Resistor,,
+- rawParts: SJ1,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ2,SOLDERJUMPERNO,SOLDERJUMPERNO,SJ_2S-NO,Solder Jumper,,
+- rawParts: TP1,TEST-POINTTP_15TH_THRU,TEST-POINTTP_15TH_THRU,TP_15TH,Bare copper test points for troubleshooting or ICT,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 
 
 

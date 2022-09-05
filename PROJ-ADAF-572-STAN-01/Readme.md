@@ -7,7 +7,6 @@ Contents
 
 * [PROJ-ADAF-572-STAN-01>Adafruit BeagleBone ProtoBoard PCB](#proj-adaf-572-stan-01adafruit-beaglebone-protoboard-pcb)
 	* [Images](#images)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -24,43 +23,7 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI23-01, JP1, 46.99, 45.084999999999994, 180,JP1, 1X23_ROUND_70MIL, microbuilder, (1.85, 1.775), R180|
-|HEAD-I01-X-PI23-01, JP2, 46.99, 47.625, 0,JP2, 1X23_ROUND_70MIL, microbuilder, (1.85, 1.875), R0|
-|HEAD-I01-X-PI23-01, JP3, 46.99, 6.985, 180,JP3, 1X23_ROUND_70MIL, microbuilder, (1.85, 0.275), R180|
-|HEAD-I01-X-PI23-01, JP4, 46.99, 9.524999999999999, 0,JP4, 1X23_ROUND_70MIL, microbuilder, (1.85, 0.375), R0|
-|HEAD-I01-X-PI11-01, JP5, 57.15, 27.304999999999996, 90,JP5, 1X11_ROUND_76, microbuilder, (2.25, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP6, 59.69, 27.304999999999996, 90,JP6, 1X11_ROUND_76, microbuilder, (2.35, 1.075), R90|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP8</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP9</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP10</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|HEAD-I01-X-PI11-01, JP11, 24.13, 27.304999999999996, 90,JP11, 1X11_ROUND_76, microbuilder, (0.95, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP12, 26.669999999999998, 27.304999999999996, 90,JP12, 1X11_ROUND_76, microbuilder, (1.05, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP13, 29.209999999999997, 27.304999999999996, 90,JP13, 1X11_ROUND_76, microbuilder, (1.15, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP14, 31.75, 27.304999999999996, 90,JP14, 1X11_ROUND_76, microbuilder, (1.25, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP15, 34.29, 27.304999999999996, 90,JP15, 1X11_ROUND_76, microbuilder, (1.35, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP16, 36.83, 27.304999999999996, 90,JP16, 1X11_ROUND_76, microbuilder, (1.45, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP17, 39.37, 27.304999999999996, 90,JP17, 1X11_ROUND_76, microbuilder, (1.55, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP18, 41.91, 27.304999999999996, 90,JP18, 1X11_ROUND_76, microbuilder, (1.65, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP19, 44.449999999999996, 27.304999999999996, 90,JP19, 1X11_ROUND_76, microbuilder, (1.75, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP20, 46.99, 27.304999999999996, 90,JP20, 1X11_ROUND_76, microbuilder, (1.85, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP21, 49.529999999999994, 27.304999999999996, 90,JP21, 1X11_ROUND_76, microbuilder, (1.95, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP22, 52.06999999999999, 27.304999999999996, 90,JP22, 1X11_ROUND_76, microbuilder, (2.05, 1.075), R90|
-|HEAD-I01-X-PI11-01, JP23, 54.60999999999999, 27.304999999999996, 90,JP23, 1X11_ROUND_76, microbuilder, (2.15, 1.075), R90|
-|<table><tr><td>![HEAD-I01-X-PI08-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI08-01/image_140.jpg)</td><td> JP24</td><td>[HEAD-I01-X-PI08-01<br>2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td><td>[H08](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI06-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI06-01/image_140.jpg)</td><td> JP26</td><td>[HEAD-I01-X-PI06-01<br>2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td><td>[H06](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP34</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP35</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 54.60999999999999, 270,U$2, BEAGLEBONE_OUTLINE, BEAGLEBONE_SHIELD, microbuilder, (0, 2.15), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 75.184, 21.59, 0,U1, BREAKOUT_SOIC8, microbuilder, (2.96, 0.85), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 70.485, 20.955, 180,U2, BREAKOUT_SOT23-6, microbuilder, (2.775, 0.825), R180|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Tags
 
@@ -74,70 +37,70 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/572
 - oompID: PROJ-ADAF-572-STAN-01
-- oompPart: HEAD-I01-X-PI23-01, JP1, 46.99, 45.084999999999994, 180
-- oompPart: HEAD-I01-X-PI23-01, JP2, 46.99, 47.625, 0
-- oompPart: HEAD-I01-X-PI23-01, JP3, 46.99, 6.985, 180
-- oompPart: HEAD-I01-X-PI23-01, JP4, 46.99, 9.524999999999999, 0
-- oompPart: HEAD-I01-X-PI11-01, JP5, 57.15, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP6, 59.69, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI08-01, JP7, 71.11999999999999, 34.925, 0
-- oompPart: HEAD-I01-X-PI08-01, JP8, 71.11999999999999, 32.385, 0
-- oompPart: HEAD-I01-X-PI04-01, JP9, 80.00999999999999, 20.955, 270
-- oompPart: HEAD-I01-X-PI04-01, JP10, 82.55, 20.955, 90
-- oompPart: HEAD-I01-X-PI11-01, JP11, 24.13, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP12, 26.669999999999998, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP13, 29.209999999999997, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP14, 31.75, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP15, 34.29, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP16, 36.83, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP17, 39.37, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP18, 41.91, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP19, 44.449999999999996, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP20, 46.99, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP21, 49.529999999999994, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP22, 52.06999999999999, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI11-01, JP23, 54.60999999999999, 27.304999999999996, 90
-- oompPart: HEAD-I01-X-PI08-01, JP24, 71.11999999999999, 37.465, 0
-- oompPart: HEAD-I01-X-PI06-01, JP26, 62.230000000000004, 20.955, 90
-- oompPart: HEAD-I01-X-PI03-01, JP34, 67.30999999999999, 24.764999999999997, 90
-- oompPart: HEAD-I01-X-PI03-01, JP35, 67.30999999999999, 17.145, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, 0.0, 54.60999999999999, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$22, 80.04999992, 48.29999992, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, U$23, 80.04999992, 6.32000006, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 75.184, 21.59, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U2, 70.485, 20.955, 180
-- rawPart: JP1, 1X23_ROUND_70MIL, microbuilder, (1.85, 1.775), R180
-- rawPart: JP2, 1X23_ROUND_70MIL, microbuilder, (1.85, 1.875), R0
-- rawPart: JP3, 1X23_ROUND_70MIL, microbuilder, (1.85, 0.275), R180
-- rawPart: JP4, 1X23_ROUND_70MIL, microbuilder, (1.85, 0.375), R0
-- rawPart: JP5, 1X11_ROUND_76, microbuilder, (2.25, 1.075), R90
-- rawPart: JP6, 1X11_ROUND_76, microbuilder, (2.35, 1.075), R90
-- rawPart: JP7, V_3.3V, 1X08_ROUND_70, microbuilder, (2.8, 1.375), R0
-- rawPart: JP8, V_GND, 1X08_ROUND_70, microbuilder, (2.8, 1.275), R0
-- rawPart: JP9, 1X04_ROUND_76, microbuilder, (3.15, 0.825), R270
-- rawPart: JP10, 1X04_ROUND_76, microbuilder, (3.25, 0.825), R90
-- rawPart: JP11, 1X11_ROUND_76, microbuilder, (0.95, 1.075), R90
-- rawPart: JP12, 1X11_ROUND_76, microbuilder, (1.05, 1.075), R90
-- rawPart: JP13, 1X11_ROUND_76, microbuilder, (1.15, 1.075), R90
-- rawPart: JP14, 1X11_ROUND_76, microbuilder, (1.25, 1.075), R90
-- rawPart: JP15, 1X11_ROUND_76, microbuilder, (1.35, 1.075), R90
-- rawPart: JP16, 1X11_ROUND_76, microbuilder, (1.45, 1.075), R90
-- rawPart: JP17, 1X11_ROUND_76, microbuilder, (1.55, 1.075), R90
-- rawPart: JP18, 1X11_ROUND_76, microbuilder, (1.65, 1.075), R90
-- rawPart: JP19, 1X11_ROUND_76, microbuilder, (1.75, 1.075), R90
-- rawPart: JP20, 1X11_ROUND_76, microbuilder, (1.85, 1.075), R90
-- rawPart: JP21, 1X11_ROUND_76, microbuilder, (1.95, 1.075), R90
-- rawPart: JP22, 1X11_ROUND_76, microbuilder, (2.05, 1.075), R90
-- rawPart: JP23, 1X11_ROUND_76, microbuilder, (2.15, 1.075), R90
-- rawPart: JP24, V_5V, 1X08_ROUND_70, microbuilder, (2.8, 1.475), R0
-- rawPart: JP26, 1X06_ROUND_76, microbuilder, (2.45, 0.825), R90
-- rawPart: JP34, 1X03_ROUND_76, microbuilder, (2.65, 0.975), R90
-- rawPart: JP35, 1X03_ROUND_76, microbuilder, (2.65, 0.675), R90
-- rawPart: U$2, BEAGLEBONE_OUTLINE, BEAGLEBONE_SHIELD, microbuilder, (0, 2.15), R270
-- rawPart: U$22, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (3.1515748, 1.9015748), R0
-- rawPart: U$23, MOUNTINGHOLE3.0THIN, MOUNTINGHOLE_3.0_PLATEDTHIN, microbuilder, (3.1515748, 0.2488189), R0
-- rawPart: U1, BREAKOUT_SOIC8, microbuilder, (2.96, 0.85), R0
-- rawPart: U2, BREAKOUT_SOT23-6, microbuilder, (2.775, 0.825), R180
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP24,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP26,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP34,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP35,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: JP1,,HEADER-1X23,1X23_ROUND_70MIL,,,
+- rawParts: JP2,,HEADER-1X23,1X23_ROUND_70MIL,,,
+- rawParts: JP3,,HEADER-1X23,1X23_ROUND_70MIL,,,
+- rawParts: JP4,,HEADER-1X23,1X23_ROUND_70MIL,,,
+- rawParts: JP5,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP6,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP7,V_3.3V,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,
+- rawParts: JP8,V_GND,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,
+- rawParts: JP9,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,
+- rawParts: JP10,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,
+- rawParts: JP11,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP12,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP13,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP14,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP15,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP16,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP17,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP18,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP19,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP20,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP21,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP22,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP23,,HEADER-1X1176MIL,1X11_ROUND_76,,,
+- rawParts: JP24,V_5V,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,
+- rawParts: JP26,,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,
+- rawParts: JP34,,HEADER-1X376MIL,1X03_ROUND_76,PIN HEADER,,
+- rawParts: JP35,,HEADER-1X376MIL,1X03_ROUND_76,PIN HEADER,,
+- rawParts: U$2,BEAGLEBONE_OUTLINE,BEAGLEBONE_OUTLINE,BEAGLEBONE_SHIELD,,,
+- rawParts: U$22,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,,
+- rawParts: U$23,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,,
+- rawParts: U1,,BREAKOUT_SOIC8,BREAKOUT_SOIC8,SOIC8 IC Breakout,,
+- rawParts: U2,,BREAKOUT_SOT23-6,BREAKOUT_SOT23-6,IC Breakout SOT23-6,,
 
 
 

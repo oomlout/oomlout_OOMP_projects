@@ -41,62 +41,6 @@
             "value": "PROJ-SPAR-13322-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 1.27, 55.88, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 21.59, 49.529999999999994, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI3-01, JP1, 8.889999999999999, 54.60999999999999, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 14.909799999999999, 57.37859999999999, 180"
-        },
-        {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 11.43, 49.529999999999994, 0"
-        },
-        {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O103-01, R1, 13.97, 49.529999999999994, 270"
-        },
-        {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R2, 8.889999999999999, 49.529999999999994, 90"
-        },
-        {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 2.2), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.85, 1.95), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP1, DNP, MOLEX-1X3, SparkFun-Connectors, (0.35, 2.15), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "JP2, SCREWTERMINAL-3.5MM-3_LOCK.007S, SparkFun-Connectors, (0.587, 2.259), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "Q1, 2N3904, SOT23-3, SparkFun-DiscreteSemi, (0.45, 1.95), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "R1, 10k, 0603-RES, SparkFun-Resistors, (0.55, 1.95), R270"
-        },
-        {
-            "name": "rawPart",
-            "value": "R2, 100, 0603-RES, SparkFun-Resistors, (0.35, 1.95), R90"
-        },
-        {
             "name": "oompID",
             "value": "PROJ-SPAR-13322-STAN-01"
         },

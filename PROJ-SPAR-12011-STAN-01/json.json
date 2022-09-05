@@ -41,60 +41,84 @@
             "value": "PROJ-SPAR-12011-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI04-01, JP1, 1.27, 1.27, 90"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2.5-01, JP2, 9.4742, 9.5504, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI2.5-01, JP3, 3.2258, 0.635, 0"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O223-01, R1, 3.8099999999999996, 5.715, 270"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-O223-01, R2, 3.8099999999999996, 2.54, 90"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X04, SparkFun, (0.05, 0.05), R90"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0"
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.225), R270"
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90"
+            "name": "rawParts",
+            "value": "JP2,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180"
+            "name": "rawParts",
+            "value": "JP3,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90"
+            "name": "rawParts",
+            "value": "JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,22k,22KOHM1/10W1%(0603),0603-RES,RES-07853,RES-07853,22K,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22k,22KOHM1/10W1%(0603),0603-RES,RES-07853,RES-07853,22K,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,240,240OHM1/10W1%(0603),0603-RES,RES-07849,RES-07849,240,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,REVISION,REVISION,REVISION,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,RPI-1031,RPI-1031,RPI-1031,,,,"
         },
         {
             "name": "oompID",

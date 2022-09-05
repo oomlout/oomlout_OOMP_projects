@@ -41,172 +41,164 @@
             "value": "PROJ-ADAF-292-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A0, 17.272000000000002, 3.0479999999999996, 180"
+            "name": "oompParts",
+            "value": "A0,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A1, 13.208, 3.0479999999999996, 180"
+            "name": "oompParts",
+            "value": "A1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, A2, 9.143999999999998, 3.0479999999999996, 0"
+            "name": "oompParts",
+            "value": "A2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-UNMATCHED-X-UNMATCHED-01, C1, 41.401999999999994, 16.509999999999998, 180"
+            "name": "oompParts",
+            "value": "C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "CAPC-0805-X-NF100-V50, C2, 20.447, 3.937, 90"
+            "name": "oompParts",
+            "value": "C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONTRAST, 36.83, 15.112999999999998, 0"
+            "name": "oompParts",
+            "value": "CONTRAST,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 11.937999999999999, 11.176, 0"
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC2, 27.051, 11.684, 180"
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 40.894, 3.8099999999999996, 0"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI16-01, JP1, 23.114, 19.7358, 180"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, Q1, 3.556, 16.637, 270"
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R1, 3.302, 7.112, 0"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R2, 3.302, 9.398, 0"
+            "name": "oompParts",
+            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R3, 3.302, 11.557, 0"
+            "name": "oompParts",
+            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R4, 3.302, 4.953, 180"
+            "name": "oompParts",
+            "value": "R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-UNMATCHED-01, R5, 3.302, 2.794, 180"
+            "name": "oompParts",
+            "value": "R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R6, 20.447, 8.001, 90"
+            "name": "oompParts",
+            "value": "R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0805-X-O103-01, R7, 3.302, 13.716, 180"
+            "name": "oompParts",
+            "value": "R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, SPI, 28.828999999999997, 5.334, 180"
+            "name": "oompParts",
+            "value": "SPI,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, 1.5239999999999998, 20.827999999999996, 0"
+            "name": "rawParts",
+            "value": "A0,,SJ,SJ,SMD solder JUMPER,,"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 46.101, 5.842, 0"
+            "name": "rawParts",
+            "value": "A1,,SJ,SJ,SMD solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "A0, SJ, jumper, (0.68, 0.12), R180"
+            "name": "rawParts",
+            "value": "A2,,SJ,SJ,SMD solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "A1, SJ, jumper, (0.52, 0.12), R180"
+            "name": "rawParts",
+            "value": "C1,10uF,CPOL-USA/3216-18R,A/3216-18R,POLARIZED CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "A2, SJ, jumper, (0.36, 0.12), R0"
+            "name": "rawParts",
+            "value": "C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "C1, 10uF, A/3216-18R, adafruit, (1.63, 0.65), R180"
+            "name": "rawParts",
+            "value": "CONTRAST,10K,TRIMPOTTC33X,TC33X,SMT trimmer potentiometer part number TC33X,,"
         },
         {
-            "name": "rawPart",
-            "value": "C2, 0.1uF, C0805K, adafruit, (0.805, 0.155), R90"
+            "name": "rawParts",
+            "value": "IC1,MCP2300X/SO,MCP2300X/SO,SO18W,MCP23008,,"
         },
         {
-            "name": "rawPart",
-            "value": "CONTRAST, 10K, TC33X, adafruit, (1.45, 0.595), R0"
+            "name": "rawParts",
+            "value": "IC2,74LS595D,74LS595D,SO16,8-bit SHIFT REGISTER, output latch,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC1, MCP2300X/SO, SO18W, adafruit, (0.47, 0.44), R0"
+            "name": "rawParts",
+            "value": "J1,1X5,1X5,3.5MM-5P,,,"
         },
         {
-            "name": "rawPart",
-            "value": "IC2, 74LS595D, SO16, 74xx-us, (1.065, 0.46), R180"
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X16,1X16,PIN HEADER,,"
         },
         {
-            "name": "rawPart",
-            "value": "J1, 1X5, 3.5MM-5P, adafruit, (1.61, 0.15), R0"
+            "name": "rawParts",
+            "value": "Q1,,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X16, pinhead, (0.91, 0.777), R180"
+            "name": "rawParts",
+            "value": "R1,10k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "Q1, SOT23-BEC, transistor, (0.14, 0.655), R270"
+            "name": "rawParts",
+            "value": "R2,10k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 10k, R0805, adafruit, (0.13, 0.28), R0"
+            "name": "rawParts",
+            "value": "R3,10k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R2, 10k, R0805, adafruit, (0.13, 0.37), R0"
+            "name": "rawParts",
+            "value": "R4,4.7k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R3, 10k, R0805, adafruit, (0.13, 0.455), R0"
+            "name": "rawParts",
+            "value": "R5,4.7k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R4, 4.7k, R0805, adafruit, (0.13, 0.195), R180"
+            "name": "rawParts",
+            "value": "R6,10k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R5, 4.7k, R0805, adafruit, (0.13, 0.11), R180"
+            "name": "rawParts",
+            "value": "R7,10k,R-US_R0805,R0805,RESISTOR, American symbol,,"
         },
         {
-            "name": "rawPart",
-            "value": "R6, 10k, R0805, adafruit, (0.805, 0.315), R90"
+            "name": "rawParts",
+            "value": "SPI,,SJ,SJ,SMD solder JUMPER,,"
         },
         {
-            "name": "rawPart",
-            "value": "R7, 10k, R0805, adafruit, (0.13, 0.54), R180"
+            "name": "rawParts",
+            "value": "U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "SPI, SJ, jumper, (1.135, 0.21), R180"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (0.06, 0.82), R0"
-        },
-        {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (1.815, 0.23), R0"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
             "name": "oompID",

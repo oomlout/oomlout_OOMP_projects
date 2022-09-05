@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12011-STAN-01>Tilt-a-Whirl Breakout](#proj-spar-12011-stan-01tilt-a-whirl-breakout)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,24 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|HEAD-I01-X-PI2.5-01, JP2, 9.4742, 9.5504, 0,JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0|
-|HEAD-I01-X-PI2.5-01, JP3, 3.2258, 0.635, 0,JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0|
-|<table><tr><td>![RESE-0603-X-O223-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O223-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O223-01<br>SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td><td>[R6223](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O223-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O223-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O223-01<br>SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td><td>[R6223](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)</td></tr></table>|
-|RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180,R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180|
-|ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0,U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90|
 
 ## Tags
 
@@ -56,20 +42,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Tilt-a-Whirl_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12011
 - oompID: PROJ-SPAR-12011-STAN-01
-- oompPart: HEAD-I01-X-PI04-01, JP1, 1.27, 1.27, 90
-- oompPart: HEAD-I01-X-PI2.5-01, JP2, 9.4742, 9.5504, 0
-- oompPart: HEAD-I01-X-PI2.5-01, JP3, 3.2258, 0.635, 0
-- oompPart: RESE-0603-X-O223-01, R1, 3.8099999999999996, 5.715, 270
-- oompPart: RESE-0603-X-O223-01, R2, 3.8099999999999996, 2.54, 90
-- oompPart: RESE-0603-X-UNMATCHED-01, R3, 7.619999999999999, 1.27, 180
-- oompPart: ERROR, U1 RPI-1031 RPI-1031, 0, 0, 0
-- rawPart: JP1, 1X04, SparkFun, (0.05, 0.05), R90
-- rawPart: JP2, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.373, 0.376), R0
-- rawPart: JP3, FIDUCIAL1X2.5, FIDUCIAL-1X2.5, abes, (0.127, 0.025), R0
-- rawPart: R1, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.225), R270
-- rawPart: R2, 22k, 0603-RES, SparkFun-Resistors, (0.15, 0.1), R90
-- rawPart: R3, 240, 0603-RES, SparkFun-Resistors, (0.3, 0.05), R180
-- rawPart: U1, RPI-1031, RPI-1031, Local, Lirary, (0.3, 0.175), R90
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,,
+- rawParts: JP2,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,
+- rawParts: JP3,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,
+- rawParts: JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,
+- rawParts: R1,22k,22KOHM1/10W1%(0603),0603-RES,RES-07853,RES-07853,22K,
+- rawParts: R2,22k,22KOHM1/10W1%(0603),0603-RES,RES-07853,RES-07853,22K,
+- rawParts: R3,240,240OHM1/10W1%(0603),0603-RES,RES-07849,RES-07849,240,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: U$2,REVISION,REVISION,REVISION,,,,
+- rawParts: U1,RPI-1031,RPI-1031,RPI-1031,,,,
 
 
 

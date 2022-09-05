@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-10899-STAN-01>LilyTiny LilyTwinkle](#proj-spar-10899-stan-01lilytiny-lilytwinkle)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,26 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, -6.497599908, -3.7513999140000003, 300,U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25581102, -0.14769291), R300|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 6.496200113999999, -3.7490999439999997, 60,U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25575591, -0.14760236), R60|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 6.493999966, 3.753499986, 120,U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25566929, 0.14777559), R120|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$5, -6.497500086, 3.7514999899999997, 240,U$5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25580709, 0.14769685), R240|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$6, 0.0, 7.492999999999999, 180,U$6, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.295), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$7, -0.0034000439999999996, -7.501999981999999, 0,U$7, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.00013386, -0.29535433), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270,U1, ATTINY85, SO08-EIAJ, SparkFun, (0, 0), R270|
 
 ## Tags
 
@@ -58,30 +42,38 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyTiny_LilyTwinkle (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10899
 - oompID: PROJ-SPAR-10899-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 1.778, 3.8099999999999996, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, -3.8099999999999996, 7.619999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 3.8099999999999996, -7.619999999999999, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, J1, 0.0, 0.0, M270
-- oompPart: RESE-0603-X-O103-01, R1, -1.778, 3.8099999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$2, -6.497599908, -3.7513999140000003, 300
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$3, 6.496200113999999, -3.7490999439999997, 60
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$4, 6.493999966, 3.753499986, 120
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$5, -6.497500086, 3.7514999899999997, 240
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$6, 0.0, 7.492999999999999, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$7, -0.0034000439999999996, -7.501999981999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 270
-- rawPart: C1, 0.1uF, 0603-CAP, SparkFun, (0.07, 0.15), R0
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (-0.15, 0.3), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.15, -0.3), R0
-- rawPart: J1, 2X3_TEST_POINTS, SparkFun-Connectors, (0, 0), MR270
-- rawPart: R1, 10k, 0603-RES, SparkFun, (-0.07, 0.15), R180
-- rawPart: U$2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25581102, -0.14769291), R300
-- rawPart: U$3, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25575591, -0.14760236), R60
-- rawPart: U$4, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.25566929, 0.14777559), R120
-- rawPart: U$5, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.25580709, 0.14769685), R240
-- rawPart: U$6, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0, 0.295), R180
-- rawPart: U$7, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (-0.00013386, -0.29535433), R0
-- rawPart: U1, ATTINY85, SO08-EIAJ, SparkFun, (0, 0), R270
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: J1,,AVR_SPI_PRG_6TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: R1,10k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: U$1,REVISION,REVISION,REVISION,,,
+- rawParts: U$2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$5,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$6,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$7,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$8,LOGO-LPL,LOGO-LPL,LOGO-L,,,
+- rawParts: U1,ATTINY85,ATTINY45,SO08-EIAJ,Atmel ATTiny45,,
 
 
 

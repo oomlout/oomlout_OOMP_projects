@@ -41,20 +41,28 @@
             "value": "PROJ-SPAR-10467-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI04-01, JP1, 3.8099999999999996, 1.27, 0"
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 7.619999999999999, 12.7, 270"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, 1X04, SparkFun, (0.15, 0.05), R0"
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "S1, Switch, TACTILE-PTH-LED-12MM, SparkFun, (0.3, 0.5), R270"
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,SWITCH-MOMENTARY-LEDPTH,SWITCH-MOMENTARY-LEDPTH,TACTILE-PTH-LED-12MM,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,"
         },
         {
             "name": "oompID",

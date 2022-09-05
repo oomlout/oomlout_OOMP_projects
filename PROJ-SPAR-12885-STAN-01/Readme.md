@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-12885-STAN-01>SunnyBuddy](#proj-spar-12885-stan-01sunnybuddy)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,44 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-1210-X-UNMATCHED-01, C1, 17.779999999999998, 19.049999999999997, 0,C1, 10uF, 1210, SparkFun-Capacitors, (0.7, 0.75), R0|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C2, 22.86, 21.843999999999998, 180,C2, 10uF, 1206, SparkFun-Capacitors, (0.9, 0.86), R180|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C3, 22.86, 29.209999999999997, 0,C3, 47uF, EIA3528, SparkFun-Capacitors, (0.9, 1.15), R0|
-|CAPE-UNMATCHED-X-UNMATCHED-01, C4, 22.86, 25.4, 0,C4, 47uF, EIA3528, SparkFun-Capacitors, (0.9, 1), R0|
-|CAPC-0603-X-UNMATCHED-01, C5, 26.669999999999998, 16.509999999999998, 0,C5, 1.0uF, 0603-CAP, SparkFun-Capacitors, (1.05, 0.65), R0|
-|CAPC-0603-X-UNMATCHED-01, C6, 16.509999999999998, 10.16, 90,C6, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.4), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.86, 19.049999999999997, 270,D1, ZLLS500, SOT23, SparkFun-DiscreteSemi, (0.9, 0.75), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 26.669999999999998, 13.97, 90,D2, ZLLS500, SOT23, SparkFun-DiscreteSemi, (1.05, 0.55), R90|
-|ERROR, J1 5.5x2.1mm Barrel, 0, 0, 0,J1, 5.5x2.1mm, Barrel, POWER_JACK_SMD, SparkFun-Connectors, (0.2, 0.55), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 0.0, 35.559999999999995, 270,J2, POWER_JACKPTH, POWER_JACK_PTH, SparkFun-Connectors, (0, 1.4), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 43.18, 11.43, 270,J3, JST-2-SMD, SparkFun-Connectors, (1.7, 0.45), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 19.049999999999997, 1.27, 180,J4, 1X04, SparkFun-Connectors, (0.75, 0.05), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 44.449999999999996, 26.669999999999998, 90,J5, M02PTH, 1X02, SparkFun-Connectors, (1.75, 1.05), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J6, 42.545, 18.923, 90,J6, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (1.675, 0.745), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 3.8099999999999996, 36.83, 270,J7, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.15, 1.45), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 3.8099999999999996, 27.94, 270,J8, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.15, 1.1), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 36.83, 26.669999999999998, 0,JP3, JUMPER-PTH-2-NC, PTH-JUMPER-NC_BOTTOM_NO_SILK, SparkFun-Passives, (1.45, 1.05), R0|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 30.479999999999997, 19.049999999999997, 90,L1, 68uH, CR75, SparkFun-Passives, (1.2, 0.75), R90|
-|RESE-0805-X-UNMATCHED-01, R1, 27.304999999999996, 27.178, 180,R1, 0.22, 0805, SparkFun-Resistors, (1.075, 1.07), R180|
-|<table><tr><td>![RESE-0603-X-O473-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O473-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O473-01<br>SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td><td>[R6473](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O224-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O224-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O224-01<br>SMD (0603) 220k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O224-01/)</td><td>[R6224](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O224-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O224-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O224-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O224-01<br>SMD (0603) 220k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O224-01/)</td><td>[R6224](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O224-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-O103-01, R7, 7.619999999999999, 3.8099999999999996, 0,R7, 10k, TRIMPOT-3MM, SparkFun-Electromechanical, (0.3, 0.15), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.32, 13.97, 0,U1, LT3652, MSOP-12_GND, SparkFun-PowerIC, (0.8, 0.55), R0|
 
 ## Tags
 
@@ -76,68 +42,84 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SunnyBuddy (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12885
 - oompID: PROJ-SPAR-12885-STAN-01
-- oompPart: CAPC-1210-X-UNMATCHED-01, C1, 17.779999999999998, 19.049999999999997, 0
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C2, 22.86, 21.843999999999998, 180
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C3, 22.86, 29.209999999999997, 0
-- oompPart: CAPE-UNMATCHED-X-UNMATCHED-01, C4, 22.86, 25.4, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 26.669999999999998, 16.509999999999998, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 16.509999999999998, 10.16, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D1, 22.86, 19.049999999999997, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, D2, 26.669999999999998, 13.97, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 6.35, 44.449999999999996, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 40.64, 2.54, 0
-- oompPart: ERROR, J1 5.5x2.1mm Barrel, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 0.0, 35.559999999999995, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 43.18, 11.43, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 19.049999999999997, 1.27, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J5, 44.449999999999996, 26.669999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J6, 42.545, 18.923, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J7, 3.8099999999999996, 36.83, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J8, 3.8099999999999996, 27.94, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP1, 12.7, 25.4, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, JP2, 15.239999999999998, 30.479999999999997, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 36.83, 26.669999999999998, 0
-- oompPart: HEAD-I01-X-PI02-01, JP4, 27.304999999999996, 30.479999999999997, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, L1, 30.479999999999997, 19.049999999999997, 90
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 27.304999999999996, 27.178, 180
-- oompPart: RESE-0603-X-O473-01, R2, 26.669999999999998, 10.16, 0
-- oompPart: RESE-0603-X-O224-01, R3, 23.495, 8.382, 0
-- oompPart: RESE-0603-X-O103-01, R4, 31.75, 10.16, 180
-- oompPart: RESE-0603-X-O103-01, R5, 31.75, 8.001, 180
-- oompPart: RESE-0603-X-O224-01, R6, 23.495, 10.16, 0
-- oompPart: RESE-UNMATCHED-X-O103-01, R7, 7.619999999999999, 3.8099999999999996, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 20.32, 13.97, 0
-- rawPart: C1, 10uF, 1210, SparkFun-Capacitors, (0.7, 0.75), R0
-- rawPart: C2, 10uF, 1206, SparkFun-Capacitors, (0.9, 0.86), R180
-- rawPart: C3, 47uF, EIA3528, SparkFun-Capacitors, (0.9, 1.15), R0
-- rawPart: C4, 47uF, EIA3528, SparkFun-Capacitors, (0.9, 1), R0
-- rawPart: C5, 1.0uF, 0603-CAP, SparkFun-Capacitors, (1.05, 0.65), R0
-- rawPart: C6, 1.0uF, 0603-CAP, SparkFun-Capacitors, (0.65, 0.4), R90
-- rawPart: D1, ZLLS500, SOT23, SparkFun-DiscreteSemi, (0.9, 0.75), R270
-- rawPart: D2, ZLLS500, SOT23, SparkFun-DiscreteSemi, (1.05, 0.55), R90
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.25, 1.75), R0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1.6, 0.1), R0
-- rawPart: J1, 5.5x2.1mm, Barrel, POWER_JACK_SMD, SparkFun-Connectors, (0.2, 0.55), R0
-- rawPart: J2, POWER_JACKPTH, POWER_JACK_PTH, SparkFun-Connectors, (0, 1.4), R270
-- rawPart: J3, JST-2-SMD, SparkFun-Connectors, (1.7, 0.45), R270
-- rawPart: J4, 1X04, SparkFun-Connectors, (0.75, 0.05), R180
-- rawPart: J5, M02PTH, 1X02, SparkFun-Connectors, (1.75, 1.05), R90
-- rawPart: J6, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (1.675, 0.745), R90
-- rawPart: J7, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.15, 1.45), R270
-- rawPart: J8, M023.5MM, SCREWTERMINAL-3.5MM-2, SparkFun-Connectors, (0.15, 1.1), R270
-- rawPart: JP1, SJ_2S, SparkFun-Passives, (0.5, 1), R0
-- rawPart: JP2, SJ_2S-NO, SparkFun-Passives, (0.6, 1.2), R270
-- rawPart: JP3, JUMPER-PTH-2-NC, PTH-JUMPER-NC_BOTTOM_NO_SILK, SparkFun-Passives, (1.45, 1.05), R0
-- rawPart: JP4, R_SEN, 1X02, SparkFun-Connectors, (1.075, 1.2), R0
-- rawPart: L1, 68uH, CR75, SparkFun-Passives, (1.2, 0.75), R90
-- rawPart: R1, 0.22, 0805, SparkFun-Resistors, (1.075, 1.07), R180
-- rawPart: R2, 47k, 0603-RES, SparkFun-Resistors, (1.05, 0.4), R0
-- rawPart: R3, 220k, 0603-RES, SparkFun-Resistors, (0.925, 0.33), R0
-- rawPart: R4, 10K, 0603-RES, SparkFun-Resistors, (1.25, 0.4), R180
-- rawPart: R5, 10K, 0603-RES, SparkFun-Resistors, (1.25, 0.315), R180
-- rawPart: R6, 220k, 0603-RES, SparkFun-Resistors, (0.925, 0.4), R0
-- rawPart: R7, 10k, TRIMPOT-3MM, SparkFun-Electromechanical, (0.3, 0.15), R0
-- rawPart: U1, LT3652, MSOP-12_GND, SparkFun-PowerIC, (0.8, 0.55), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: D2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: L1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,10uF,10UF50V20%(1210),1210,CAP-09824,CAP-09824,10uF,
+- rawParts: C2,10uF,10UF-6.3V-20%(1206),1206,Ceramic,CAP-10057,10uF,
+- rawParts: C3,47uF,47UF-TANT,EIA3528,47uF Tantalum SMT,CAP-08310,47uF,
+- rawParts: C4,47uF,47UF-TANT,EIA3528,47uF Tantalum SMT,CAP-08310,47uF,
+- rawParts: C5,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,
+- rawParts: C6,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,
+- rawParts: D1,ZLLS500,ZLLS500ZLLS500,SOT23,700mA 40V SOT-23 Schottky,DIO-08411,ZLLS500,
+- rawParts: D2,ZLLS500,ZLLS500ZLLS500,SOT23,700mA 40V SOT-23 Schottky,DIO-08411,ZLLS500,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: J1,5.5x2.1mm Barrel,POWER_JACKSMD,POWER_JACK_SMD,Power Jack,CONN-08106,5.5x2.1mm Barrel,
+- rawParts: J2,POWER_JACKPTH,POWER_JACKPTH,POWER_JACK_PTH,Power Jack,,,
+- rawParts: J3,,JST_2MM_MALE,JST-2-SMD,Mates to single-cell LiPo batteries.,CONN-08352,,
+- rawParts: J4,,M04PTH,1X04,Header 4,,,
+- rawParts: J5,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: J6,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: J7,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: J8,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: JP1,,JUMPER-2SMD-NC,SJ_2S,Jumper,,,
+- rawParts: JP2,,JUMPER-2SMD-NO,SJ_2S-NO,Jumper,,,
+- rawParts: JP3,JUMPER-PTH-2-NC,JUMPER-PTH-2-NC,PTH-JUMPER-NC_BOTTOM_NO_SILK,,,,
+- rawParts: JP4,R_SEN,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: L1,68uH,INDUCTOR68UH-1A,CR75,Inductors,NDUC-09739,68uH,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SFE Logo, name and flame,,,
+- rawParts: LOGO2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO4,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME_.3,SFE Logo, name and flame,,,
+- rawParts: R1,0.22,0.22OHM1/4W1%(0805),0805,RES-09883,RES-09883,0.22,
+- rawParts: R2,47k,47KOHM1/10W1%(0603),0603-RES,RES-07871,RES-07871,47K,
+- rawParts: R3,220k,220KOHM1/10W1%(0603),0603-RES,RES-08969,RES-08969,220k,
+- rawParts: R4,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R5,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R6,220k,220KOHM1/10W1%(0603),0603-RES,RES-08969,RES-08969,220k,
+- rawParts: R7,10k,TRIMPOTRES-09285,TRIMPOT-3MM,Various small potentiometers for set-and-forget applications,RES-09285,10k,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: U1,LT3652,LT3652,MSOP-12_GND,LT3652 MPPT Solar Charge Controller,,LT3652,
 
 
 

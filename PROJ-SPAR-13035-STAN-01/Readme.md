@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13035-STAN-01>Edison OLED Block](#proj-spar-13035-stan-01edison-oled-block)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,37 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UF22D-01, C1, 13.97, 13.334999999999999, 0,C1, 2.2uF, 0805, SparkFun-Passives, (0.55, 0.525), R0|
-|ERROR, C2 1uF X5R, 0, 0, 0,C2, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.175), R0|
-|ERROR, C3 1uF X5R, 0, 0, 0,C3, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.25), R0|
-|CAPC-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180,C4, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 13.97, 15.875, 0,C5, 4.7uF/16V, 1206, SparkFun-Passives, (0.55, 0.625), R0|
-|CAPC-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180,C6, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1.075), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 27.94, 3.8099999999999996, M0,J1, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, OLED1, 8.889999999999999, 30.987999999999996, 270,OLED1, OLED0.66, OLED-0.66-64X48, SparkFun-Displays, (0.35, 1.22), R270|
-|RESE-0603-X-O394-01, R1, 13.97, 18.415, 180,R1, 390k, 0603-RES, SparkFun-Passives, (0.55, 0.725), R180|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R6</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R8</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|ERROR, S1 Button A, 0, 0, 0,S1, Button, A, TACTILE_SWITCH_TALL, SparkFun-Electromechanical, (0.75, 0.25), R180|
-|ERROR, S2 Button B, 0, 0, 0,S2, Button, B, TACTILE_SWITCH_TALL, SparkFun-Electromechanical, (0.3, 0.25), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 13.97, 38.099999999999994, 225,S3, JOYSTICK_MINI, SparkFun-Electromechanical, (0.55, 1.5), R225|
 
 ## Tags
 
@@ -69,70 +42,72 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_OLED_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13035
 - oompID: PROJ-SPAR-13035-STAN-01
-- oompPart: CAPC-0805-X-UF22D-01, C1, 13.97, 13.334999999999999, 0
-- oompPart: ERROR, C2 1uF X5R, 0, 0, 0
-- oompPart: ERROR, C3 1uF X5R, 0, 0, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C4, 13.97, 25.4, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5, 13.97, 15.875, 0
-- oompPart: CAPC-0603-X-UNMATCHED-01, C6, 13.97, 27.304999999999996, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 25.4, 43.18, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 1.27, 5.08, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID3, 1.27, 5.08, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID4, 25.4, 43.18, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 27.94, 3.8099999999999996, M0
-- oompPart: HEAD-I01-X-PI02-01, JP1, 1.9049999999999998, 19.685, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, OLED1, 8.889999999999999, 30.987999999999996, 270
-- oompPart: RESE-0603-X-O394-01, R1, 13.97, 18.415, 180
-- oompPart: RESE-0603-X-O103-01, R2, 20.32, 35.559999999999995, 0
-- oompPart: RESE-0603-X-O103-01, R3, 20.32, 30.479999999999997, 0
-- oompPart: RESE-0603-X-O103-01, R4, 20.32, 43.18, 0
-- oompPart: RESE-0603-X-O103-01, R5, 20.32, 33.019999999999996, 0
-- oompPart: RESE-0603-X-O103-01, R6, 20.32, 40.64, 0
-- oompPart: RESE-0603-X-O103-01, R7, 19.049999999999997, 11.43, 180
-- oompPart: RESE-0603-X-O103-01, R8, 8.889999999999999, 11.43, 0
-- oompPart: ERROR, S1 Button A, 0, 0, 0
-- oompPart: ERROR, S2 Button B, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S3, 13.97, 38.099999999999994, 225
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 15.239999999999998, 10.16, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 17.779999999999998, 24.764999999999997, M90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ3, 17.779999999999998, 38.099999999999994, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ4, 17.779999999999998, 33.019999999999996, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ5, 17.779999999999998, 43.18, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ6, 17.779999999999998, 35.559999999999995, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ7, 17.779999999999998, 40.64, M180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ8, 15.239999999999998, 7.619999999999999, M180
-- rawPart: C1, 2.2uF, 0805, SparkFun-Passives, (0.55, 0.525), R0
-- rawPart: C2, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.175), R0
-- rawPart: C3, 1uF, X5R, 0805, SparkFun-Passives, (0.55, 1.25), R0
-- rawPart: C4, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1), R180
-- rawPart: C5, 4.7uF/16V, 1206, SparkFun-Passives, (0.55, 0.625), R0
-- rawPart: C6, 1uF, 0603-CAP, SparkFun-Passives, (0.55, 1.075), R180
-- rawPart: FID1, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), MR0
-- rawPart: FID2, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), R0
-- rawPart: FID3, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (0.05, 0.2), MR0
-- rawPart: FID4, FIDUCIAL1X2, FIDUCIAL-1X2, SparkFun-Aesthetics, (1, 1.7), R0
-- rawPart: J1, EDISON_CONNECTOR_FULLMOUNTING_HOLES, EDISON_DAUGHTER, Edison, (1.1, 0.15), MR0
-- rawPart: JP1, M02PTH, 1X02, SparkFun-Connectors, (0.075, 0.775), R90
-- rawPart: OLED1, OLED0.66, OLED-0.66-64X48, SparkFun-Displays, (0.35, 1.22), R270
-- rawPart: R1, 390k, 0603-RES, SparkFun-Passives, (0.55, 0.725), R180
-- rawPart: R2, 10K, 0603-RES, SparkFun-Resistors, (0.8, 1.4), R0
-- rawPart: R3, 10K, 0603-RES, SparkFun-Resistors, (0.8, 1.2), R0
-- rawPart: R4, 10K, 0603-RES, SparkFun-Resistors, (0.8, 1.7), R0
-- rawPart: R5, 10K, 0603-RES, SparkFun-Resistors, (0.8, 1.3), R0
-- rawPart: R6, 10K, 0603-RES, SparkFun-Resistors, (0.8, 1.6), R0
-- rawPart: R7, 10K, 0603-RES, SparkFun-Resistors, (0.75, 0.45), R180
-- rawPart: R8, 10K, 0603-RES, SparkFun-Resistors, (0.35, 0.45), R0
-- rawPart: S1, Button, A, TACTILE_SWITCH_TALL, SparkFun-Electromechanical, (0.75, 0.25), R180
-- rawPart: S2, Button, B, TACTILE_SWITCH_TALL, SparkFun-Electromechanical, (0.3, 0.25), R180
-- rawPart: S3, JOYSTICK_MINI, SparkFun-Electromechanical, (0.55, 1.5), R225
-- rawPart: SJ1, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.6, 0.4), MR180
-- rawPart: SJ2, CS_SEL, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (0.7, 0.975), MR90
-- rawPart: SJ3, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.5), MR180
-- rawPart: SJ4, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.3), MR180
-- rawPart: SJ5, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.7), MR180
-- rawPart: SJ6, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.4), MR180
-- rawPart: SJ7, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.7, 1.6), MR180
-- rawPart: SJ8, PAD-JUMPER-2-NC_BY_TRACE_YES_SILK, SparkFun-Passives, (0.6, 0.3), MR180
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: OLED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,2.2uF,CAP0805,0805,Capacitor,,,
+- rawParts: C2,1uF X5R,CAP0805,0805,Capacitor,,,
+- rawParts: C3,1uF X5R,CAP0805,0805,Capacitor,,,
+- rawParts: C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,,
+- rawParts: C5,4.7uF/16V,CAP1206,1206,Capacitor,,,
+- rawParts: C6,1uF,CAP0603-CAP,0603-CAP,Capacitor,,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: J1,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,
+- rawParts: JP1,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: OLED1,OLED0.66,OLED0.66,OLED-0.66-64X48,,,,
+- rawParts: R1,390k,RESISTOR0603-RES,0603-RES,Resistor,,,
+- rawParts: R2,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R3,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R4,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R5,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R6,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R7,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: R8,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,
+- rawParts: S1,Button A,SWITCH-MOMENTARY-2SMD-4,TACTILE_SWITCH_TALL,Various NO switches- pushbuttons, reed, etc,SWCH-11966,,
+- rawParts: S2,Button B,SWITCH-MOMENTARY-2SMD-4,TACTILE_SWITCH_TALL,Various NO switches- pushbuttons, reed, etc,SWCH-11966,,
+- rawParts: S3,,JOYSTICK_MINI,JOYSTICK_MINI,Small 5-way tactile joystick, COM-10063,,,
+- rawParts: SJ1,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ2,CS_SEL,JUMPER-PAD-3-2OF3_NC_BY_TRACE,PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,
+- rawParts: SJ3,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ4,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ5,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ6,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ7,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
+- rawParts: SJ8,,JUMPER-PAD-2-NC_BY_TRACE,PAD-JUMPER-2-NC_BY_TRACE_YES_SILK,,,,
 
 
 

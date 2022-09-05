@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-1059-STAN-01>Adafruit Flora Ultimate GPS](#proj-adaf-1059-stan-01adafruit-flora-ultimate-gps)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01, C2, 0.023999952, -10.413999999999998, 180,C2, 10uF, 0805, microbuilder, (0.00094488, -0.41), R180|
-|UNMATCHED-0805-X-UNMATCHED-01, FB1, 9.042993852, -9.179634422, 225,FB1, Ferrite, 0805, microbuilder, (0.35602338, -0.36140293), R225|
-|UNMATCHED-0805-X-UNMATCHED-01, LED1, 11.580999951999999, 2.413, 180,LED1, FIX, CHIPLED_0805, microbuilder, (0.45594488, 0.095), R180|
-|RESE-0805-X-UNMATCHED-01, R1, 9.548999951999999, 2.413, 270,R1, 1K, 0805, microbuilder, (0.37594488, 0.095), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$20, 10.413999999999998, 7.112, 180,U$20, U.FL, U.FL, microbuilder, (0.41, 0.28), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 90,U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0, 0), R90|
 
 ## Tags
 
@@ -55,36 +42,34 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Ultimate-GPS (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1059
 - oompID: PROJ-ADAF-1059-STAN-01
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, 3V3IN, 11.684, -4.699, 247.5
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 0.023999952, -10.413999999999998, 180
-- oompPart: UNMATCHED-0805-X-UNMATCHED-01, FB1, 9.042993852, -9.179634422, 225
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 4.953, 3.8099999999999996, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, -5.819000046, -3.76500009, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, GND, -11.684, -4.699, 112.5
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, GND1, -4.826, 11.557, 22.5
-- oompPart: UNMATCHED-0805-X-UNMATCHED-01, LED1, 11.580999951999999, 2.413, 180
-- oompPart: RESE-0805-X-UNMATCHED-01, R1, 9.548999951999999, 2.413, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, RX, -4.826, -11.557, 157.5
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP1, -11.684, 4.699, 67.5
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TP4, 4.826, 11.557, 337.5
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, TX, 4.826, -11.557, 202.5
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$20, 10.413999999999998, 7.112, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 0.0, 0.0, 90
-- rawPart: 3V3IN, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.46, -0.185), R247.5
-- rawPart: C2, 10uF, 0805, microbuilder, (0.00094488, -0.41), R180
-- rawPart: FB1, Ferrite, 0805, microbuilder, (0.35602338, -0.36140293), R225
-- rawPart: FID1, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (0.195, 0.15), R0
-- rawPart: FID2, FIDUCIAL, FIDUCIAL_1MM, microbuilder, (-0.22909449, -0.14822835), R0
-- rawPart: GND, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.46, -0.185), R112.5
-- rawPart: GND1, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.19, 0.455), R22.5
-- rawPart: LED1, FIX, CHIPLED_0805, microbuilder, (0.45594488, 0.095), R180
-- rawPart: R1, 1K, 0805, microbuilder, (0.37594488, 0.095), R270
-- rawPart: RX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.19, -0.455), R157.5
-- rawPart: TP1, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (-0.46, 0.185), R67.5
-- rawPart: TP4, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, 0.455), R337.5
-- rawPart: TX, SEWTAP-2.0IN, SEWINGTAP_2.0, adafruit, (0.19, -0.455), R202.5
-- rawPart: U$20, U.FL, U.FL, microbuilder, (0.41, 0.28), R180
-- rawPart: U1, FGPMMOPA6H, FGPMMOPA6H, microbuilder, (0, 0), R90
+- oompParts: 3V3IN,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: GND1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: RX,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: TX,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: 3V3IN,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: C2,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,
+- rawParts: FB1,Ferrite,FERRITE0805,0805,Ferrite Bead,,
+- rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,
+- rawParts: GND,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: GND1,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: LED1,FIX,LED0805,CHIPLED_0805,LED,,
+- rawParts: R1,1K,RESISTOR0805,0805,Resistors,,
+- rawParts: RX,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: TP1,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: TP4,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: TX,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,
+- rawParts: U$20,U.FL,U.FL,U.FL,U.FL Antenna Connector,,
+- rawParts: U1,FGPMMOPA6H,GPS_FGPMMOPA6H,FGPMMOPA6H,GPS Module - MTK MT3339 Chipset, -165dBm sensitivity, 22 channels, 10Hz, auto-select external antenna options,,
 
 
 

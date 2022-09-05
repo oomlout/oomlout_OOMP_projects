@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13288-STAN-01>Teensy Arduino Shield Adapter](#proj-spar-13288-stan-01teensy-arduino-shield-adapter)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,30 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 15.239999999999998, 63.5, 0,BAT1, CoinCell, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.6, 2.5), R0|
-|CAPC-UNMATCHED-X-UNMATCHED-01, C1, 51.434999999999995, 31.115000000000002, 90,C1, 10uF, CPOL-RADIAL-10UF-25V, SparkFun-Capacitors, (2.025, 1.225), R90|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 47.244, 13.334999999999999, 0,JP2, POWER_JACKPTH_LOCK, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (1.86, 0.525), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 39.37, 22.86, 180,JP3, JST2, JST-2-PTH, SparkFun-Connectors, (1.55, 0.9), R180|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 22.86, 73.66, 270,JP4, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.9, 2.9), R270|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP6</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI02-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI02-01/image_140.jpg)</td><td> JP7</td><td>[HEAD-I01-X-PI02-01<br>2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td><td>[H02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP8</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 25.4, 71.11999999999999, 0,JP9, AVR_SPI_PRG_6PTH, 2X3, SparkFun-Connectors, (1, 2.8), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 2.54, 16.509999999999998, 0,JP10, ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES, UNO_R3_SHIELD_HOLES, Testing, (0.1, 0.65), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 14.604999999999999, 16.509999999999998, 0,JP11, TEENSY-3.1SILK, TEENSY-3.1, Testing, (0.575, 0.65), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 42.2275, 40.3225, 0,U1, 5V, TO-220-ALT, SparkFun-PowerIC, (1.6625, 1.5875), R0|
 
 ## Tags
 
@@ -62,36 +42,42 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Teensy_Arduino_Shield_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13288
 - oompID: PROJ-SPAR-13288-STAN-01
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BAT1, 15.239999999999998, 63.5, 0
-- oompPart: CAPC-UNMATCHED-X-UNMATCHED-01, C1, 51.434999999999995, 31.115000000000002, 90
-- oompPart: HEAD-I01-X-PI02-01, JP1, 38.73499999999999, 33.019999999999996, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 47.244, 13.334999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP3, 39.37, 22.86, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP4, 22.86, 73.66, 270
-- oompPart: HEAD-I01-X-PI02-01, JP6, 38.73499999999999, 30.479999999999997, 180
-- oompPart: HEAD-I01-X-PI02-01, JP7, 38.73499999999999, 27.94, 180
-- oompPart: HEAD-I01-X-PI04-01, JP8, 35.559999999999995, 74.93, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP9, 25.4, 71.11999999999999, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP10, 2.54, 16.509999999999998, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP11, 14.604999999999999, 16.509999999999998, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 45.084999999999994, 66.03999999999999, 180
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 45.084999999999994, 68.2625, 180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U1, 42.2275, 40.3225, 0
-- rawPart: BAT1, CoinCell, BATTCON_12MM_PTH, SparkFun-Electromechanical, (0.6, 2.5), R0
-- rawPart: C1, 10uF, CPOL-RADIAL-10UF-25V, SparkFun-Capacitors, (2.025, 1.225), R90
-- rawPart: JP1, 1X02, SparkFun-Connectors, (1.525, 1.3), R180
-- rawPart: JP2, POWER_JACKPTH_LOCK, POWER_JACK_PTH_LOCK, SparkFun-Connectors, (1.86, 0.525), R0
-- rawPart: JP3, JST2, JST-2-PTH, SparkFun-Connectors, (1.55, 0.9), R180
-- rawPart: JP4, SMT-JUMPER_2_NO_SILK, SparkFun-Jumpers, (0.9, 2.9), R270
-- rawPart: JP6, 1X02, SparkFun-Connectors, (1.525, 1.2), R180
-- rawPart: JP7, 1X02, SparkFun-Connectors, (1.525, 1.1), R180
-- rawPart: JP8, 1X04, SparkFun-Connectors, (1.4, 2.95), R0
-- rawPart: JP9, AVR_SPI_PRG_6PTH, 2X3, SparkFun-Connectors, (1, 2.8), R0
-- rawPart: JP10, ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES, UNO_R3_SHIELD_HOLES, Testing, (0.1, 0.65), R0
-- rawPart: JP11, TEENSY-3.1SILK, TEENSY-3.1, Testing, (0.575, 0.65), R0
-- rawPart: SJ1, JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (1.775, 2.6), R180
-- rawPart: SJ2, JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL, PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX, SparkFun-Passives, (1.775, 2.6875), R180
-- rawPart: U1, 5V, TO-220-ALT, SparkFun-PowerIC, (1.6625, 1.5875), R0
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SJ2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,CoinCell,BATTERY12PTH,BATTCON_12MM_PTH,Battery Holders,,BATT-08315,,,,
+- rawParts: C1,10uF,10UF-25V-20%(PTH),CPOL-RADIAL-10UF-25V,CAP-08440,,CAP-08440,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,
+- rawParts: JP1,,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,,,,
+- rawParts: JP2,POWER_JACKPTH_LOCK,POWER_JACKPTH_LOCK,POWER_JACK_PTH_LOCK,Power Jack,,CONN-08197,,PRT-00119,,
+- rawParts: JP3,JST2,M02JST-PTH-2,JST-2-PTH,Standard 2-pin 0.1 header. Use with,,CONN-09863,,,PRT-09914,
+- rawParts: JP4,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,
+- rawParts: JP6,,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,,,,
+- rawParts: JP7,,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,,,,
+- rawParts: JP8,,M04PTH,1X04,Header 4,,,,,,
+- rawParts: JP9,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,,,,,
+- rawParts: JP10,ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES,ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES,UNO_R3_SHIELD_HOLES,Shield form compatible with the Arduino Uno R3.,,,,,,
+- rawParts: JP11,TEENSY-3.1SILK,TEENSY-3.1SILK,TEENSY-3.1,,,,,DEV-12646,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,,
+- rawParts: LOGO2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo,,,,,,
+- rawParts: SJ1,JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL,JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL,PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,,,,
+- rawParts: SJ2,JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL,JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL,PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX,,,,,,,
+- rawParts: U1,5V,V_REG_78XX-TO-220,TO-220-ALT,Voltage Regulator,,VREG-08450,,COM-00107,,
 
 
 

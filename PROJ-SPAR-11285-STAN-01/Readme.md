@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-11285-STAN-01>LilyPad Coin Cell Battery Holder-Switched](#proj-spar-11285-stan-01lilypad-coin-cell-battery-holder-switched)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,23 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|ERROR, BAT1 20mm coincell, 0, 0, 0,BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.63, 0.445), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-, 7.543799999999999, 2.413, 0,BATB-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.297, 0.095), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-2, 25.1714, 2.413, 0,BATB-2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.991, 0.095), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+, 5.588, 23.241, 245,BATT+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.22, 0.915), R245|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+2, 26.593799999999998, 23.241, 115,BATT+2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (1.047, 0.915), R115|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 16.002, 26.034999999999997, 180,S1, AYZ0202, SparkFun-Electromechanical, (0.63, 1.025), R180|
 
 ## Tags
 
@@ -55,22 +42,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-Switched (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11285
 - oompID: PROJ-SPAR-11285-STAN-01
-- oompPart: ERROR, BAT1 20mm coincell, 0, 0, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-, 7.543799999999999, 2.413, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATB-2, 25.1714, 2.413, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+, 5.588, 23.241, 245
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, BATT+2, 26.593799999999998, 23.241, 115
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD1, 29.784040507999997, 17.31518127, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FD2, 4.752340508, 5.12571873, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, S1, 16.002, 26.034999999999997, 180
-- rawPart: BAT1, 20mm, coincell, BATTCON_20MM_4LEGS, SparkFun-Electromechanical, (0.63, 0.445), R0
-- rawPart: BATB-, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.297, 0.095), R0
-- rawPart: BATB-2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.991, 0.095), R0
-- rawPart: BATT+, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (0.22, 0.915), R245
-- rawPart: BATT+2, SEWTAP6, PETAL-SMALL-2SIDE, LilyPad-Wearables, (1.047, 0.915), R115
-- rawPart: FD1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (1.17260002, 0.68170005), R0
-- rawPart: FD2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.18710002, 0.20179995), R0
-- rawPart: S1, AYZ0202, SparkFun-Electromechanical, (0.63, 1.025), R180
+- oompParts: BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BATB-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BATB-2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BATT+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: BATT+2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: BAT1,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,,20mm coincell,
+- rawParts: BATB-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: BATB-2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: BATT+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: BATT+2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,
+- rawParts: LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,
+- rawParts: S1,,SWITCH-SPDTSMD,AYZ0202,SPDT Switch,SWCH-08179,COM-00597,,
+- rawParts: U$1,REVISION,REVISION,REVISION,,,,,
 
 
 

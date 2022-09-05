@@ -41,60 +41,68 @@
             "value": "PROJ-SPAR-10412-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J1, 3.302, 10.16, 270"
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J2, 17.018, 10.16, 90"
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J3, 10.16, 3.302, 0"
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, J4, 10.16, 17.018, 180"
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED1, 9.143999999999998, 11.176, 45"
+            "name": "oompParts",
+            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, LED2, 9.143999999999998, 11.176, 45"
+            "name": "oompParts",
+            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "RESE-0603-X-UNMATCHED-01, R1, 11.43, 8.889999999999999, 225"
+            "name": "oompParts",
+            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "J1, FKIT-RIBBON_CONNECTOR-2MM_L_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_L, SparkFun, (0.13, 0.4), R270"
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "J2, FKIT-RIBBON_CONNECTOR-2MM_L_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_L, SparkFun, (0.67, 0.4), R90"
+            "name": "rawParts",
+            "value": "J1,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_L,fabrick.it Conductive Ribbon Connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "J3, FKIT-RIBBON_CONNECTOR-2MM_R_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_R, SparkFun, (0.4, 0.13), R0"
+            "name": "rawParts",
+            "value": "J2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_L,fabrick.it Conductive Ribbon Connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "J4, FKIT-RIBBON_CONNECTOR-2MM_R_REV2, FKIT-RIBBON_CONNECTOR_03_2MM_R, SparkFun, (0.4, 0.67), R180"
+            "name": "rawParts",
+            "value": "J3,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_R,fabrick.it Conductive Ribbon Connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED1, FKIT-LED-1206_NO_CREAM, Testing, (0.36, 0.44), R45"
+            "name": "rawParts",
+            "value": "J4,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_R,fabrick.it Conductive Ribbon Connector,,"
         },
         {
-            "name": "rawPart",
-            "value": "LED2, LED3MM-NS, SparkFun, (0.36, 0.44), R45"
+            "name": "rawParts",
+            "value": "LED1,,LED,FKIT-LED-1206_NO_CREAM,LEDs,,"
         },
         {
-            "name": "rawPart",
-            "value": "R1, 0603-RES, SparkFun-Resistors, (0.45, 0.35), R225"
+            "name": "rawParts",
+            "value": "LED2,,LED-3MM-NO_SILK,LED3MM-NS,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,,RESISTOR0603,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
         },
         {
             "name": "oompID",

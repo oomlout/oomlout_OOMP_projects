@@ -8,7 +8,6 @@ Contents
 * [PROJ-ADAF-4569-STAN-01>Adafruit ISM330DHCX LIS3MDL FeatherWing PCB](#proj-adaf-4569-stan-01adafruit-ism330dhcx-lis3mdl-featherwing-pcb)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,37 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C1</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0805-X-UNMATCHED-01, C2, 11.049, 7.238999999999999, 90,C2, 10uF, 0805-NO, microbuilder, (0.435, 0.285), R90|
-|<table><tr><td>![CAPC-0603-X-NF100-V50](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/CAPC-0603-X-NF100-V50/image_140.jpg)</td><td> C4</td><td>[CAPC-0603-X-NF100-V50<br>SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td><td>[C6N100](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)</td></tr></table>|
-|CAPC-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90,C5, 1uF, 0603-NO, microbuilder, (0.8675, 0.58), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 48.26, 11.43, 90,CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.9, 0.45), R90|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.86, 11.43, 180,IC1, LIS3MDL, LGA12_2X2MM, adafruit_sensor, (0.9, 0.45), R180|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI12-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI12-01/image_140.jpg)</td><td> JP2</td><td>[HEAD-I01-X-PI12-01<br>2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td><td>[H12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI16-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI16-01/image_140.jpg)</td><td> JP3</td><td>[HEAD-I01-X-PI16-01<br>2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td><td>[H16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)</td></tr></table>|
-|<table><tr><td>![HEAD-I01-X-PI04-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI04-01/image_140.jpg)</td><td> JP4</td><td>[HEAD-I01-X-PI04-01<br>2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td><td>[H04](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MAG_HDR, 19.049999999999997, 11.43, 270,MAG_HDR, 1X04_ROUND, microbuilder, (0.75, 0.45), R270|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0,MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R1</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R2</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R3</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R4</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R5</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|<table><tr><td>![RESE-0603-X-O103-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/RESE-0603-X-O103-01/image_140.jpg)</td><td> R7</td><td>[RESE-0603-X-O103-01<br>SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td><td>[R6103](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)</td></tr></table>|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 10.795, 20.32, 0,SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.425, 0.8), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$35, 27.94, 11.43, 0,U$35, LSM6DSOX, LGA-14L, adafruit_sensor, (1.1, 0.45), R0|
 
 ## Tags
 
@@ -69,54 +42,50 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4569
 - oompID: PROJ-ADAF-4569-STAN-01
-- oompPart: CAPC-0603-X-NF100-V50, C1, 27.686, 7.365999999999999, 270
-- oompPart: CAPC-0805-X-UNMATCHED-01, C2, 11.049, 7.238999999999999, 90
-- oompPart: CAPC-0603-X-NF100-V50, C4, 23.6601, 14.7701, 90
-- oompPart: CAPC-0603-X-UNMATCHED-01, C5, 22.0345, 14.731999999999998, 90
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, CONN4, 48.26, 11.43, 90
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 9.779, 10.287, 0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 49.911, 18.034, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, IC1, 22.86, 11.43, 180
-- oompPart: HEAD-I01-X-PI04-01, JP1, 31.75, 11.43, 270
-- oompPart: HEAD-I01-X-PI12-01, JP2, 30.479999999999997, 19.049999999999997, 0
-- oompPart: HEAD-I01-X-PI16-01, JP3, 25.4, 3.8099999999999996, 180
-- oompPart: HEAD-I01-X-PI04-01, JP4, 36.83, 11.43, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MAG_HDR, 19.049999999999997, 11.43, 270
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, MS1, 0.0, 0.0, 0
-- oompPart: RESE-0603-X-O103-01, R1, 43.18, 16.256, 270
-- oompPart: RESE-0603-X-O103-01, R2, 13.716, 8.128, 180
-- oompPart: RESE-0603-X-O103-01, R3, 13.716, 10.033, 0
-- oompPart: RESE-0603-X-O103-01, R4, 22.352, 7.619999999999999, 0
-- oompPart: RESE-0603-X-O103-01, R5, 29.463999999999995, 7.365999999999999, 90
-- oompPart: RESE-0603-X-O103-01, R7, 46.355, 16.256, 270
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ1, 16.128999999999998, 10.16, M0
-- oompPart: SKIP-UNMATCHED-X-UNMATCHED-01, SJ2, 34.29, 10.16, M180
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 10.795, 20.32, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, U$35, 27.94, 11.43, 0
-- rawPart: C1, 0.1uF, 0603-NO, microbuilder, (1.09, 0.29), R270
-- rawPart: C2, 10uF, 0805-NO, microbuilder, (0.435, 0.285), R90
-- rawPart: C4, 0.1uF, 0603-NO, microbuilder, (0.9315, 0.5815), R90
-- rawPart: C5, 1uF, 0603-NO, microbuilder, (0.8675, 0.58), R90
-- rawPart: CONN4, STEMMA_I2C_QT, JST_SH4, microbuilder, (1.9, 0.45), R90
-- rawPart: FID1, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (0.385, 0.405), R0
-- rawPart: FID2, FIDUCIAL_1MM, FIDUCIAL_1MM, microbuilder, (1.965, 0.71), R0
-- rawPart: IC1, LIS3MDL, LGA12_2X2MM, adafruit_sensor, (0.9, 0.45), R180
-- rawPart: JP1, 1X04_ROUND, microbuilder, (1.25, 0.45), R270
-- rawPart: JP2, 1X12_ROUND, microbuilder, (1.2, 0.75), R0
-- rawPart: JP3, 1X16_ROUND, microbuilder, (1, 0.15), R180
-- rawPart: JP4, 1X04_ROUND, microbuilder, (1.45, 0.45), R270
-- rawPart: MAG_HDR, 1X04_ROUND, microbuilder, (0.75, 0.45), R270
-- rawPart: MS1, FEATHERWING, FEATHERWING, microbuilder, (0, 0), R0
-- rawPart: R1, 10K, 0603-NO, microbuilder, (1.7, 0.64), R270
-- rawPart: R2, 10K, 0603-NO, microbuilder, (0.54, 0.32), R180
-- rawPart: R3, 10K, 0603-NO, microbuilder, (0.54, 0.395), R0
-- rawPart: R4, 10K, 0603-NO, microbuilder, (0.88, 0.3), R0
-- rawPart: R5, 10K, 0603-NO, microbuilder, (1.16, 0.29), R90
-- rawPart: R7, 10K, 0603-NO, microbuilder, (1.825, 0.64), R270
-- rawPart: SJ1, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (0.635, 0.4), MR0
-- rawPart: SJ2, SOLDERJUMPER_ARROW_NOPASTE, microbuilder, (1.35, 0.4), MR180
-- rawPart: SW1, KMR2, BTN_KMR2_4.6X2.8, microbuilder, (0.425, 0.8), R0
-- rawPart: U$35, LSM6DSOX, LGA-14L, adafruit_sensor, (1.1, 0.45), R0
+- oompParts: C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: C5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CONN4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: IC1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MAG_HDR,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: MS1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: U$35,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
+- rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
+- rawParts: C4,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
+- rawParts: C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
+- rawParts: CONN4,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,
+- rawParts: FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
+- rawParts: IC1,LIS3MDL,LIS3MDL,LGA12_2X2MM,Digital output magnetic sensor. ultra-low-power, high-performance 3-axis magnetometer,,
+- rawParts: JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,
+- rawParts: JP2,,HEADER-1X12,1X12_ROUND,,,
+- rawParts: JP3,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,
+- rawParts: JP4,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,
+- rawParts: MAG_HDR,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,
+- rawParts: MS1,FEATHERWING,FEATHERWING,FEATHERWING,,,
+- rawParts: R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R2,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R4,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R5,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: R7,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,
+- rawParts: SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,
+- rawParts: SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,
+- rawParts: SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,
+- rawParts: U$35,LSM6DSOX,LSM6DSOX,LGA-14L,,,
 
 
 

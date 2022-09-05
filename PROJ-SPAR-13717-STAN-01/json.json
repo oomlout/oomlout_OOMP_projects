@@ -41,68 +41,132 @@
             "value": "PROJ-SPAR-13717-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C3V, 6.35, 59.181999999999995, 180"
+            "name": "oompParts",
+            "value": "C3V,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, C5V, 6.35, 50.038, 180"
+            "name": "oompParts",
+            "value": "C5V,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID1, 74.93, 64.77, 0"
+            "name": "oompParts",
+            "value": "FRAME2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, FID2, 2.54, 45.72, 0"
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "ERROR, JP1 FTDI Device, 0, 0, 0"
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, JP2, 40.64, 58.92799999999999, 270"
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI17-01, JP3, 36.83, 1.5239999999999998, M90"
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "HEAD-I01-X-PI17-01, JP4, 44.449999999999996, 1.5239999999999998, M90"
+            "name": "oompParts",
+            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C3V, 47uf, PANASONIC_D, SparkFun-Capacitors, (0.25, 2.33), R180"
+            "name": "oompParts",
+            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "C5V, 47uf, PANASONIC_D, SparkFun-Capacitors, (0.25, 1.97), R180"
+            "name": "oompParts",
+            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID1, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (2.95, 2.55), R0"
+            "name": "oompParts",
+            "value": "LOGO4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "FID2, FIDUCIALUFIDUCIAL, MICRO-FIDUCIAL, SparkFun-Aesthetics, (0.1, 1.8), R0"
+            "name": "oompParts",
+            "value": "LOGO5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP1, FTDI, Device, FTDI_DEVICE_RA_SMT, SparkFun-Connectors, (3.17, 2.17874016), R90"
+            "name": "oompParts",
+            "value": "STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP2, RASPBERRYPI-40-PIN-GPIO-SMT, 2X20-SHROUDED-SMT, SparkFun-Boards, (1.6, 2.32), R270"
+            "name": "oompParts",
+            "value": "STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP3, 1x17, 1X17_NO_SILK_KIT, SparkFun-Connectors, (1.45, 0.06), MR90"
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "rawPart",
-            "value": "JP4, 1x17, 1X17_NO_SILK_KIT, SparkFun-Connectors, (1.75, 0.06), MR90"
+            "name": "rawParts",
+            "value": "C3V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FTDI Device,FTDI_DEVICERA_SMT,FTDI_DEVICE_RA_SMT,Connector which mates to FTDI basic or FTDI cable.,CONN-08971,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,RASPBERRYPI-40-PIN-GPIO-SMT,RASPBERRYPI-40-PIN-GPIO-SMT,2X20-SHROUDED-SMT,Second Generation Raspberry Pi GPIO Header,CONN-13143,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,1x17,M17KIT,1X17_NO_SILK_KIT,1x17 .1 header,CONN-12294,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,1x17,M17KIT,1X17_NO_SILK_KIT,1x17 .1 header,CONN-12294,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME_.2,SFE Logo, name only,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SFE Logo, name and flame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,BREADBOARD_PATTERN,BREADBOARD_PATTERN,BREADBOARD_SPACING,Reference markings that correspond to solderless breadboard row spacing.,,"
         },
         {
             "name": "oompID",

@@ -8,7 +8,6 @@ Contents
 * [PROJ-SPAR-13099-STAN-01>Rotary Switch Potentiometer](#proj-spar-13099-stan-01rotary-switch-potentiometer)
 	* [Images](#images)
 	* [Interactive BOM](#interactive-bom)
-	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
@@ -25,28 +24,11 @@ Contents
 
 |eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
 | :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_600.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_600.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_600.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_600.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
 
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
-
-## OOMP Parts
-  
-
-|OOMP Parts|
-| :---: |
-|<table><tr><td>![HEAD-I01-X-PI03-01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/HEAD-I01-X-PI03-01/image_140.jpg)</td><td> JP1</td><td>[HEAD-I01-X-PI03-01<br>2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td><td>[H03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)</td></tr></table>|
-|RESE-UNMATCHED-X-UNMATCHED-01, R1, 3.175, 2.54, 0,R1, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.1), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.175, 5.08, 0,R2, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.2), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R3, 5.715, 7.619999999999999, 180,R3, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.3), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R4, 5.715, 10.16, 180,R4, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.4), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R5, 5.715, 12.7, 180,R5, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.5), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R6, 5.715, 15.239999999999998, 180,R6, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.6), R180|
-|RESE-UNMATCHED-X-UNMATCHED-01, R7, 3.175, 17.779999999999998, 0,R7, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.7), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R8, 3.175, 20.32, 0,R8, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.8), R0|
-|RESE-UNMATCHED-X-UNMATCHED-01, R9, 3.175, 22.86, 0,R9, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.9), R0|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 26.669999999999998, 12.7, 270,SW1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (1.05, 0.5), R270|
 
 ## Tags
 
@@ -60,28 +42,42 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Rotary_Switch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13099
 - oompID: PROJ-SPAR-13099-STAN-01
-- oompPart: HEAD-I01-X-PI03-01, JP1, 45.72, 10.16, 90
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R1, 3.175, 2.54, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R2, 3.175, 5.08, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R3, 5.715, 7.619999999999999, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R4, 5.715, 10.16, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R5, 5.715, 12.7, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R6, 5.715, 15.239999999999998, 180
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R7, 3.175, 17.779999999999998, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R8, 3.175, 20.32, 0
-- oompPart: RESE-UNMATCHED-X-UNMATCHED-01, R9, 3.175, 22.86, 0
-- oompPart: UNMATCHED-UNMATCHED-X-UNMATCHED-01, SW1, 26.669999999999998, 12.7, 270
-- rawPart: JP1, 1X03_NO_SILK, SparkFun-Connectors, (1.8, 0.4), R90
-- rawPart: R1, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.1), R0
-- rawPart: R2, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.2), R0
-- rawPart: R3, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.3), R180
-- rawPart: R4, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.4), R180
-- rawPart: R5, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.5), R180
-- rawPart: R6, AXIAL-0.1EZ, SparkFun-Resistors, (0.225, 0.6), R180
-- rawPart: R7, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.7), R0
-- rawPart: R8, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.8), R0
-- rawPart: R9, AXIAL-0.1EZ, SparkFun-Resistors, (0.125, 0.9), R0
-- rawPart: SW1, 1x10, ROTARY_SWITCH_1X10_KIT, SparkFun-Electromechanical, (1.05, 0.5), R270
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: R9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: STANDOFF6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: SW1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,
+- rawParts: LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: LOGO3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,
+- rawParts: R1,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R2,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R3,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R4,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R5,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R6,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R7,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R8,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: R9,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF5,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: STANDOFF6,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,
+- rawParts: SW1,1x10,SWITCH_ROTARY_1X10KIT,ROTARY_SWITCH_1X10_KIT,SWCH-12120,SWCH-12120,1x10,
 
 
 

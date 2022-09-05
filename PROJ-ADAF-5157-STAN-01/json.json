@@ -41,268 +41,256 @@
             "value": "PROJ-ADAF-5157-STAN-01"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$1, -8.382, -73.914, 0"
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$2, 87.757, -83.566, 0"
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "SKIP-UNMATCHED-X-UNMATCHED-01, U$3, -8.255, 2.413, 0"
+            "name": "oompParts",
+            "value": "X3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X1, 0.0, 0.0, M0"
+            "name": "oompParts",
+            "value": "X4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X2, 19.05, 0.0, M0"
+            "name": "oompParts",
+            "value": "X5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X3, 38.1, 0.0, M0"
+            "name": "oompParts",
+            "value": "X6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X4, 57.15, 0.0, M0"
+            "name": "oompParts",
+            "value": "X7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X5, 76.2, 0.0, M0"
+            "name": "oompParts",
+            "value": "X8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X6, 95.25, 0.0, M0"
+            "name": "oompParts",
+            "value": "X9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X7, 0.0, -19.05, M0"
+            "name": "oompParts",
+            "value": "X10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X8, 19.05, -19.05, M0"
+            "name": "oompParts",
+            "value": "X11,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X9, 38.1, -19.05, M0"
+            "name": "oompParts",
+            "value": "X12,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X10, 57.15, -19.05, M0"
+            "name": "oompParts",
+            "value": "X13,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X11, 76.2, -19.05, M0"
+            "name": "oompParts",
+            "value": "X14,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X12, 95.25, -19.05, M0"
+            "name": "oompParts",
+            "value": "X15,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X13, 0.0, -38.1, M0"
+            "name": "oompParts",
+            "value": "X16,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X14, 19.05, -38.1, M0"
+            "name": "oompParts",
+            "value": "X17,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X15, 38.1, -38.1, M0"
+            "name": "oompParts",
+            "value": "X18,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X16, 57.15, -38.1, M0"
+            "name": "oompParts",
+            "value": "X19,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X17, 76.2, -38.1, M0"
+            "name": "oompParts",
+            "value": "X20,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X18, 95.25, -38.1, M0"
+            "name": "oompParts",
+            "value": "X21,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X19, 0.0, -57.15, M0"
+            "name": "oompParts",
+            "value": "X22,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X20, 19.05, -57.15, M0"
+            "name": "oompParts",
+            "value": "X23,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X21, 38.1, -57.15, M0"
+            "name": "oompParts",
+            "value": "X24,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X22, 57.15, -57.15, M0"
+            "name": "oompParts",
+            "value": "X25,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X23, 76.2, -57.15, M0"
+            "name": "oompParts",
+            "value": "X26,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X24, 95.25, -57.15, M0"
+            "name": "oompParts",
+            "value": "X27,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X25, 0.0, -76.2, M0"
+            "name": "oompParts",
+            "value": "X28,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X26, 19.05, -76.2, M0"
+            "name": "oompParts",
+            "value": "X29,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X27, 38.1, -76.2, M0"
+            "name": "oompParts",
+            "value": "X30,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X28, 57.15, -76.2, M0"
+            "name": "rawParts",
+            "value": "U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X29, 76.2, -76.2, M0"
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "oompPart",
-            "value": "UNMATCHED-UNMATCHED-X-UNMATCHED-01, X30, 95.25, -76.2, M0"
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$1, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-8.382, -73.914), R0"
+            "name": "rawParts",
+            "value": "X1,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$2, FIDUCIAL, FIDUCIAL_1MM, adafruit, (87.757, -83.566), R0"
+            "name": "rawParts",
+            "value": "X2,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "U$3, FIDUCIAL, FIDUCIAL_1MM, adafruit, (-8.255, 2.413), R0"
+            "name": "rawParts",
+            "value": "X3,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X1, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, 0), MR0"
+            "name": "rawParts",
+            "value": "X4,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X2, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, 0), MR0"
+            "name": "rawParts",
+            "value": "X5,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X3, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, 0), MR0"
+            "name": "rawParts",
+            "value": "X6,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X4, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, 0), MR0"
+            "name": "rawParts",
+            "value": "X7,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X5, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, 0), MR0"
+            "name": "rawParts",
+            "value": "X8,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X6, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, 0), MR0"
+            "name": "rawParts",
+            "value": "X9,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X7, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (0, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X10,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X8, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (19.05, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X11,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X9, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (38.1, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X12,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X10, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (57.15, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X13,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X11, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (76.2, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X14,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X12, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (95.25, -19.05), MR0"
+            "name": "rawParts",
+            "value": "X15,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X13, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X16,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X14, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X17,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X15, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X18,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X16, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X19,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X17, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X20,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X18, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -38.1), MR0"
+            "name": "rawParts",
+            "value": "X21,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X19, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (0, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X22,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X20, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (19.05, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X23,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X21, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (38.1, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X24,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REVERSE,KAILH_SOCKET_TILE_REV,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X22, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (57.15, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X25,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X23, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (76.2, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X26,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X24, KAILH_SOCKET_TILE_REVERSE, KAILH_SOCKET_TILE_REV, adafruit_electromech, (95.25, -57.15), MR0"
+            "name": "rawParts",
+            "value": "X27,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X25, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (0, -76.2), MR0"
+            "name": "rawParts",
+            "value": "X28,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X26, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (19.05, -76.2), MR0"
+            "name": "rawParts",
+            "value": "X29,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
-            "name": "rawPart",
-            "value": "X27, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (38.1, -76.2), MR0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X28, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (57.15, -76.2), MR0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X29, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (76.2, -76.2), MR0"
-        },
-        {
-            "name": "rawPart",
-            "value": "X30, KAILH_SOCKET_TILE, KAILH_SOCKET_TILE, adafruit_electromech, (95.25, -76.2), MR0"
+            "name": "rawParts",
+            "value": "X30,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,KAILH_SOCKET_TILE,,,"
         },
         {
             "name": "oompID",
