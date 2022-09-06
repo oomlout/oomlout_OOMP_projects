@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -26951,7 +26951,7 @@ to the GNSS antenna</text>
 <attribute name="VALUE" x="220.98" y="248.92" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="SUPPLY9" gate="G$1" x="218.44" y="266.7" smashed="yes">
-<attribute name="VALUE" x="218.44" y="269.494" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="218.44" y="269.494" size="1.778" layer="96" font="fixed" align="bottom-center"/>
 </instance>
 <instance part="RX_LED" gate="G$1" x="228.6" y="259.08" smashed="yes" rot="R90">
 <attribute name="NAME" x="226.314" y="254" size="1.778" layer="95" font="vector" rot="R90"/>

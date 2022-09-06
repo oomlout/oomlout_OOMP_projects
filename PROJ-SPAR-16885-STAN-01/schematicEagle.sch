@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -29462,7 +29462,7 @@ and USB-C at the same time.</text>
 <attribute name="VALUE" x="220.98" y="223.266" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="SUPPLY26" gate="G$1" x="220.98" y="266.7" smashed="yes">
-<attribute name="VALUE" x="220.98" y="269.494" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="220.98" y="269.494" size="1.778" layer="96" font="fixed" align="bottom-center"/>
 </instance>
 <instance part="D7" gate="G$1" x="220.98" y="261.62" smashed="yes" rot="R270">
 <attribute name="NAME" x="217.17" y="263.144" size="1.778" layer="95" font="vector"/>
