@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -26664,7 +26664,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="101.6" y="152.4" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="D7" gate="G$1" x="127" y="162.56" smashed="yes">
-<attribute name="NAME" x="127" y="168.148" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="NAME" x="127" y="168.148" size="1.778" layer="95" font="fixed" align="bottom-center"/>
 <attribute name="VALUE" x="127" y="152.4" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="S3" gate="G$1" x="48.26" y="106.68" smashed="yes">
