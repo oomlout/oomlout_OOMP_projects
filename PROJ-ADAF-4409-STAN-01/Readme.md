@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-4409-STAN-01>Adafruit STEMMA Non Latching Mini Relay PCB](#proj-adaf-4409-stan-01adafruit-stemma-non-latching-mini-relay-pcb)
+* [PRA4409 > Adafruit](#pra4409--adafruit)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-4409-STAN-01>Adafruit STEMMA Non Latching Mini Relay PCB
+# PRA4409 > Adafruit
 
 - ID: PROJ-ADAF-4409-STAN-01
 - Hex ID: PRA4409
-- Name: Adafruit STEMMA Non Latching Mini Relay PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

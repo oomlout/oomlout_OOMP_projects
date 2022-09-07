@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-11512-STAN-01>SN74HC165-Shift-In-Breakout](#proj-spar-11512-stan-01sn74hc165-shift-in-breakout)
+* [PRS11512 > Sparkfun](#prs11512--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-11512-STAN-01>SN74HC165-Shift-In-Breakout
+# PRS11512 > Sparkfun
 
 - ID: PROJ-SPAR-11512-STAN-01
 - Hex ID: PRS11512
-- Name: SN74HC165-Shift-In-Breakout
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

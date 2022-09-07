@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-12081-STAN-01>USB Weather Board](#proj-spar-12081-stan-01usb-weather-board)
+* [PRS12081 > Sparkfun](#prs12081--sparkfun)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-12081-STAN-01>USB Weather Board
+# PRS12081 > Sparkfun
 
 - ID: PROJ-SPAR-12081-STAN-01
 - Hex ID: PRS12081
-- Name: USB Weather Board
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

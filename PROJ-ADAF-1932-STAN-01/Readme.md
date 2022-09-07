@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-1932-STAN-01>Adafruit RGB Matrix HAT PCB](#proj-adaf-1932-stan-01adafruit-rgb-matrix-hat-pcb)
+* [PRA1932 > Adafruit](#pra1932--adafruit)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-1932-STAN-01>Adafruit RGB Matrix HAT PCB
+# PRA1932 > Adafruit
 
 - ID: PROJ-ADAF-1932-STAN-01
 - Hex ID: PRA1932
-- Name: Adafruit RGB Matrix HAT PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

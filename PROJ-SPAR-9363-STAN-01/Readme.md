@@ -5,17 +5,16 @@
 Contents
 ========
 
-* [PROJ-SPAR-9363-STAN-01>ColorLCDShield](#proj-spar-9363-stan-01colorlcdshield)
+* [PRS9363 > Sparkfun](#prs9363--sparkfun)
 	* [Images](#images)
 	* [Tags](#tags)
-  
-![][im]
-# PROJ-SPAR-9363-STAN-01>ColorLCDShield
+
+# PRS9363 > Sparkfun
 
 - ID: PROJ-SPAR-9363-STAN-01
 - Hex ID: PRS9363
-- Name: ColorLCDShield
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
@@ -23,7 +22,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
+|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 
@@ -37,7 +36,3 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ColorLCDShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9363
 - oompID: PROJ-SPAR-9363-STAN-01
-
-
-
-[im]: eagleImage_450.png

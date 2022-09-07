@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-284-STAN-01>Adafruit_FTDI Friend PCB](#proj-adaf-284-stan-01adafruit_ftdi-friend-pcb)
+* [PRA284 > Adafruit](#pra284--adafruit)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-284-STAN-01>Adafruit_FTDI Friend PCB
+# PRA284 > Adafruit
 
 - ID: PROJ-ADAF-284-STAN-01
 - Hex ID: PRA284
-- Name: Adafruit_FTDI Friend PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

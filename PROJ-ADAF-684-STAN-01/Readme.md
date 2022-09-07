@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-684-STAN-01>Adafruit 96x64 RGB OLED Breakout PCB](#proj-adaf-684-stan-01adafruit-96x64-rgb-oled-breakout-pcb)
+* [PRA684 > Adafruit](#pra684--adafruit)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-684-STAN-01>Adafruit 96x64 RGB OLED Breakout PCB
+# PRA684 > Adafruit
 
 - ID: PROJ-ADAF-684-STAN-01
 - Hex ID: PRA684
-- Name: Adafruit 96x64 RGB OLED Breakout PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

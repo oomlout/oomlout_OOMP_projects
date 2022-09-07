@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-13268-STAN-01>Snappable P-Board](#proj-spar-13268-stan-01snappable-p-board)
+* [PRS13268 > Sparkfun](#prs13268--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-13268-STAN-01>Snappable P-Board
+# PRS13268 > Sparkfun
 
 - ID: PROJ-SPAR-13268-STAN-01
 - Hex ID: PRS13268
-- Name: Snappable P-Board
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|
 | :---: | :---: | :---: |
-|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|
 
 ## Tags
 

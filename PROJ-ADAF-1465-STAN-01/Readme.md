@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-1465-STAN-01>Adafruit ISP SWD and JTAG Breakout PCBs](#proj-adaf-1465-stan-01adafruit-isp-swd-and-jtag-breakout-pcbs)
+* [PRA1465 > Adafruit](#pra1465--adafruit)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-1465-STAN-01>Adafruit ISP SWD and JTAG Breakout PCBs
+# PRA1465 > Adafruit
 
 - ID: PROJ-ADAF-1465-STAN-01
 - Hex ID: PRA1465
-- Name: Adafruit ISP SWD and JTAG Breakout PCBs
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

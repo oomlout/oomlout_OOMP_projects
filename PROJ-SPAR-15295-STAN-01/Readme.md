@@ -5,18 +5,16 @@
 Contents
 ========
 
-* [PROJ-SPAR-15295-STAN-01>SparkFun PCB Ruler](#proj-spar-15295-stan-01sparkfun-pcb-ruler)
+* [PRS15295 > Sparkfun](#prs15295--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
-  
-![][im]
-# PROJ-SPAR-15295-STAN-01>SparkFun PCB Ruler
+
+# PRS15295 > Sparkfun
 
 - ID: PROJ-SPAR-15295-STAN-01
 - Hex ID: PRS15295
-- Name: SparkFun PCB Ruler
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
@@ -24,11 +22,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 
@@ -42,7 +36,3 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_PCB_Ruler (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15295
 - oompID: PROJ-SPAR-15295-STAN-01
-
-
-
-[im]: eagleImage_450.png

@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-14544-STAN-01>Current Sensor Breakout-ACS723-Low Current](#proj-spar-14544-stan-01current-sensor-breakout-acs723-low-current)
+* [PRS14544 > Sparkfun](#prs14544--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-14544-STAN-01>Current Sensor Breakout-ACS723-Low Current
+# PRS14544 > Sparkfun
 
 - ID: PROJ-SPAR-14544-STAN-01
 - Hex ID: PRS14544
-- Name: Current Sensor Breakout-ACS723-Low Current
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

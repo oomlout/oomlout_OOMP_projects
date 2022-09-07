@@ -5,30 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-16794-STAN-01>MicroMod Weather Carrier Board](#proj-spar-16794-stan-01micromod-weather-carrier-board)
+* [PRS16794 > Sparkfun](#prs16794--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-16794-STAN-01>MicroMod Weather Carrier Board
+# PRS16794 > Sparkfun
 
 - ID: PROJ-SPAR-16794-STAN-01
 - Hex ID: PRS16794
-- Name: MicroMod Weather Carrier Board
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|kicadPcb3d|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-16836-STAN-01>SparkFun ProDriver TC78H670FTG](#proj-spar-16836-stan-01sparkfun-prodriver-tc78h670ftg)
+* [PRS16836 > Sparkfun](#prs16836--sparkfun)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-16836-STAN-01>SparkFun ProDriver TC78H670FTG
+# PRS16836 > Sparkfun
 
 - ID: PROJ-SPAR-16836-STAN-01
 - Hex ID: PRS16836
-- Name: SparkFun ProDriver TC78H670FTG
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

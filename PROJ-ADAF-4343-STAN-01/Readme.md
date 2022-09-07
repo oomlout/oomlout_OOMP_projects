@@ -5,18 +5,16 @@
 Contents
 ========
 
-* [PROJ-ADAF-4343-STAN-01>Adafruit MONSTER M4SK PCB](#proj-adaf-4343-stan-01adafruit-monster-m4sk-pcb)
+* [PRA4343 > Adafruit](#pra4343--adafruit)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
-  
-![][im]
-# PROJ-ADAF-4343-STAN-01>Adafruit MONSTER M4SK PCB
+
+# PRA4343 > Adafruit
 
 - ID: PROJ-ADAF-4343-STAN-01
 - Hex ID: PRA4343
-- Name: Adafruit MONSTER M4SK PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
@@ -24,11 +22,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 
@@ -42,7 +36,3 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4343
 - oompID: PROJ-ADAF-4343-STAN-01
-
-
-
-[im]: eagleImage_450.png

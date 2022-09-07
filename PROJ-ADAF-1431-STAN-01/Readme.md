@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [PROJ-ADAF-1431-STAN-01>Adafruit 1.5inch Color OLED PCB](#proj-adaf-1431-stan-01adafruit-15inch-color-oled-pcb)
+* [PRA1431 > Adafruit](#pra1431--adafruit)
 	* [Tags](#tags)
 
-# PROJ-ADAF-1431-STAN-01>Adafruit 1.5inch Color OLED PCB
+# PRA1431 > Adafruit
 
 - ID: PROJ-ADAF-1431-STAN-01
 - Hex ID: PRA1431
-- Name: Adafruit 1.5inch Color OLED PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Tags
 

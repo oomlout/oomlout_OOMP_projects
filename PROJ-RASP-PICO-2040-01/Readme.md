@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [PROJ-RASP-PICO-2040-01>](#proj-rasp-pico-2040-01)
+* [R24 > Raspberry Pi Foundation 2040 Pico](#r24--raspberry-pi-foundation-2040-pico)
 	* [Tags](#tags)
 
-# PROJ-RASP-PICO-2040-01>
+# R24 > Raspberry Pi Foundation 2040 Pico
 
 - ID: PROJ-RASP-PICO-2040-01
 - Hex ID: R24
-- Name: 
-- Description: 
+- Name: Raspberry Pi Foundation 2040 Pico
+- Description: Raspberry Pi Foundation 2040 Pico
 
 ## Tags
 

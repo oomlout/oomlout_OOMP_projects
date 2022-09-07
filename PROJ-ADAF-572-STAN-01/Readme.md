@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-ADAF-572-STAN-01>Adafruit BeagleBone ProtoBoard PCB](#proj-adaf-572-stan-01adafruit-beaglebone-protoboard-pcb)
+* [PRA572 > Adafruit](#pra572--adafruit)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-ADAF-572-STAN-01>Adafruit BeagleBone ProtoBoard PCB
+# PRA572 > Adafruit
 
 - ID: PROJ-ADAF-572-STAN-01
 - Hex ID: PRA572
-- Name: Adafruit BeagleBone ProtoBoard PCB
-- Description: 
+- Name: Adafruit
+- Description: Adafruit
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

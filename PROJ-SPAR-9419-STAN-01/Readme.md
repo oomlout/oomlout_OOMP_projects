@@ -5,18 +5,16 @@
 Contents
 ========
 
-* [PROJ-SPAR-9419-STAN-01>MicroSD Sniffer](#proj-spar-9419-stan-01microsd-sniffer)
+* [PRS9419 > Sparkfun](#prs9419--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
-  
-![][im]
-# PROJ-SPAR-9419-STAN-01>MicroSD Sniffer
+
+# PRS9419 > Sparkfun
 
 - ID: PROJ-SPAR-9419-STAN-01
 - Hex ID: PRS9419
-- Name: MicroSD Sniffer
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
@@ -24,11 +22,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 
@@ -42,7 +36,3 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroSD_Sniffer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9419
 - oompID: PROJ-SPAR-9419-STAN-01
-
-
-
-[im]: eagleImage_450.png

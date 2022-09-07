@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [PROJ-ARDC-HQBS-LG32-01>](#proj-ardc-hqbs-lg32-01)
+* [HQLG > Compatible Arduino (LGT8F328P) HQB Special](#hqlg--compatible-arduino-lgt8f328p-hqb-special)
 	* [Tags](#tags)
 
-# PROJ-ARDC-HQBS-LG32-01>
+# HQLG > Compatible Arduino (LGT8F328P) HQB Special
 
 - ID: PROJ-ARDC-HQBS-LG32-01
 - Hex ID: HQLG
-- Name: 
-- Description: 
+- Name: Compatible Arduino (LGT8F328P) HQB Special
+- Description: Compatible Arduino (LGT8F328P) HQB Special
 
 ## Tags
 

@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-10701-STAN-01>Color Light Sensor Evaluation Board](#proj-spar-10701-stan-01color-light-sensor-evaluation-board)
+* [PRS10701 > Sparkfun](#prs10701--sparkfun)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-10701-STAN-01>Color Light Sensor Evaluation Board
+# PRS10701 > Sparkfun
 
 - ID: PROJ-SPAR-10701-STAN-01
 - Hex ID: PRS10701
-- Name: Color Light Sensor Evaluation Board
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

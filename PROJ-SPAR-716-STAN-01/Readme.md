@@ -5,25 +5,25 @@
 Contents
 ========
 
-* [PROJ-SPAR-716-STAN-01>RJ45 Breakout](#proj-spar-716-stan-01rj45-breakout)
+* [PRS716 > Sparkfun](#prs716--sparkfun)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PROJ-SPAR-716-STAN-01>RJ45 Breakout
+# PRS716 > Sparkfun
 
 - ID: PROJ-SPAR-716-STAN-01
 - Hex ID: PRS716
-- Name: RJ45 Breakout
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
   
 
-|eagleImage|kicadPcb3dFront|kicadPcb3dBack|kicadPcb3d|
-| :---: | :---: | :---: | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront_.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack_.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d_.png)|
+|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

@@ -5,18 +5,16 @@
 Contents
 ========
 
-* [PROJ-SPAR-9350-STAN-01>LilyPad Slide Switch](#proj-spar-9350-stan-01lilypad-slide-switch)
+* [PRS9350 > Sparkfun](#prs9350--sparkfun)
 	* [Images](#images)
-	* [Interactive BOM](#interactive-bom)
 	* [Tags](#tags)
-  
-![][im]
-# PROJ-SPAR-9350-STAN-01>LilyPad Slide Switch
+
+# PRS9350 > Sparkfun
 
 - ID: PROJ-SPAR-9350-STAN-01
 - Hex ID: PRS9350
-- Name: LilyPad Slide Switch
-- Description: 
+- Name: Sparkfun
+- Description: Sparkfun
 
 ## Images
   
@@ -24,11 +22,7 @@ Contents
 
 |eagleImage|
 | :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage_.png)|
-
-## Interactive BOM
-
-- Interactive BOM page: [ibom.html](kicad/bom/ibom.html)
+|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 
@@ -42,7 +36,3 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Slide_Switch (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9350
 - oompID: PROJ-SPAR-9350-STAN-01
-
-
-
-[im]: eagleImage_450.png
