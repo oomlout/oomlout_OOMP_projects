@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA992 > Adafruit](#pra992--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,31 @@ Contents
 - Hex ID: PRA992
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-992-STAN-01](http://oom.lt/PROJ-ADAF-992-STAN-01)
+- Long Link: [http://oom.lt/PRA992](http://oom.lt/PRA992)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-992-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C1,1ÃÂµF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
+|C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C2,1ÃÂµF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
+|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
+|R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,HEADER-1X670MIL,1X06_ROUND_70,PIN HEADER,,|
+|R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,10K,RESISTOR0805,0805,Resistors,,|
+|R4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R2,10K,RESISTOR0805,0805,Resistors,,|
+|U$8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R3,10K,RESISTOR0805,0805,Resistors,,|
+|U$9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R4,10K,RESISTOR0805,0805,Resistors,,|
+|U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$8,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
 
 ## Images
   
@@ -63,3 +91,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

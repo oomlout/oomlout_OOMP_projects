@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRS10160 > Sparkfun](#prs10160--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,28 @@ Contents
 - Hex ID: PRS10160
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-10160-STAN-01](http://oom.lt/PROJ-SPAR-10160-STAN-01)
+- Long Link: [http://oom.lt/PRS10160](http://oom.lt/PRS10160)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10160-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,BAT1,3V,BATTERY,BATTCON_12MM_CURVED,Battery Holders,,|
+|C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C1,22pF,CAP0402-CAP,0402-CAP,Capacitor,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,M07,1X07,Header 7,,|
+|JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
+|U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
 
 ## Images
   
@@ -57,3 +82,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

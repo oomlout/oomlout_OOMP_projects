@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRS10730 > Sparkfun](#prs10730--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,29 @@ Contents
 - Hex ID: PRS10730
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-10730-STAN-01](http://oom.lt/PROJ-SPAR-10730-STAN-01)
+- Long Link: [http://oom.lt/PRS10730](http://oom.lt/PRS10730)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10730-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,BAT1,20mm coincell,BATTERY20MM_4LEGS_OVERPASTE,BATTCON_20MM_4LEGS_OVERPASTE,Battery Holders,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
+|U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
+|U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
+|U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
+|U$5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$5,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,|
+|U$6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$6,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,|
+|U$7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$7,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
 
 ## Images
   
@@ -57,3 +83,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRA395 > Adafruit](#pra395--adafruit)
+	* [Schematic](#schematic)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +18,23 @@ Contents
 - Hex ID: PRA395
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-395-STAN-01](http://oom.lt/PROJ-ADAF-395-STAN-01)
+- Long Link: [http://oom.lt/PRA395](http://oom.lt/PRA395)
+
+## Schematic
+  
+![][schem]
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
+|C2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C2,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,|
+|JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP2,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,|
+|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$6,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
 
 ## Images
   
@@ -54,3 +73,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

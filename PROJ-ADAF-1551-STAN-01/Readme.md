@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA1551 > Adafruit](#pra1551--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,23 @@ Contents
 - Hex ID: PRA1551
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-1551-STAN-01](http://oom.lt/PROJ-ADAF-1551-STAN-01)
+- Long Link: [http://oom.lt/PRA1551](http://oom.lt/PRA1551)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1551-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,CN1,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
+|U1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
 
 ## Images
   
@@ -47,3 +67,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

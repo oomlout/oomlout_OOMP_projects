@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRA1431 > Adafruit](#pra1431--adafruit)
+	* [Schematic](#schematic)
 	* [Tags](#tags)
 
 # PRA1431 > Adafruit
@@ -14,7 +15,12 @@ Contents
 - Hex ID: PRA1431
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-1431-STAN-01](http://oom.lt/PROJ-ADAF-1431-STAN-01)
+- Long Link: [http://oom.lt/PRA1431](http://oom.lt/PRA1431)
 
+## Schematic
+  
+![][schem]
 ## Tags
 
 - hexID: PRA1431
@@ -27,3 +33,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1431
 - oompID: PROJ-ADAF-1431-STAN-01
+
+
+
+[schem]: eagleSchemImage.png

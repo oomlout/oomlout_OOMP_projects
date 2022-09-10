@@ -19,6 +19,8 @@ Contents
 - Hex ID: PRA1032
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-1032-STAN-01](http://oom.lt/PROJ-ADAF-1032-STAN-01)
+- Long Link: [http://oom.lt/PRA1032](http://oom.lt/PRA1032)
 
 ## Schematic
   

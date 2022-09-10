@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRS9607 > Sparkfun](#prs9607--sparkfun)
+	* [Schematic](#schematic)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,7 +17,12 @@ Contents
 - Hex ID: PRS9607
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-9607-STAN-01](http://oom.lt/PROJ-SPAR-9607-STAN-01)
+- Long Link: [http://oom.lt/PRS9607](http://oom.lt/PRS9607)
 
+## Schematic
+  
+![][schem]
 ## Images
   
   
@@ -41,3 +47,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

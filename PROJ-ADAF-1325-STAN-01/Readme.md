@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA1325 > Adafruit](#pra1325--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,29 @@ Contents
 - Hex ID: PRA1325
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-1325-STAN-01](http://oom.lt/PROJ-ADAF-1325-STAN-01)
+- Long Link: [http://oom.lt/PRA1325](http://oom.lt/PRA1325)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1325-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CON1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,CON1,PINHD-1X40-0.5MM,PINHD-1X40-0.5MM,1X40-0.5MM,Pinouts for OLED/LCD displays with flex ribbons,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,PINHD-2X20-BIG,2X20-BIG,PIN HEADER,,|
+|JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP2,,PINHD-1X20-BIG,1X20-BIG,PIN HEADER,,|
+|JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP3,,PINHD-1X20-BIG,1X20-BIG,PIN HEADER,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$1,PINHD-1X40-0.6MM,PINHD-1X40-0.6MM,1X40-0.6MM,Pinouts for OLED/LCD displays with flex ribbons,,|
+|U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$2,PINHD-1X40-0.7MM,PINHD-1X40-0.7MM,1X40-0.7MM,Pinouts for OLED/LCD displays with flex ribbons,,|
+|U$3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$3,PINHD-1X40-0.8MM,PINHD-1X40-0.8MM,1X40-0.8MM,Pinouts for OLED/LCD displays with flex ribbons,,|
+|U$4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$4,PINHD-1X40-1MM,PINHD-1X40-1MM,1X40-1MM,Pinouts for OLED/LCD displays with flex ribbons,,|
 
 ## Images
   
@@ -57,3 +83,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

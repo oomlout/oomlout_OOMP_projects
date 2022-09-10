@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRS544 > Sparkfun](#prs544--sparkfun)
+	* [Schematic](#schematic)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,7 +17,12 @@ Contents
 - Hex ID: PRS544
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-544-STAN-01](http://oom.lt/PROJ-SPAR-544-STAN-01)
+- Long Link: [http://oom.lt/PRS544](http://oom.lt/PRS544)
 
+## Schematic
+  
+![][schem]
 ## Images
   
   
@@ -41,3 +47,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

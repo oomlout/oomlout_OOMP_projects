@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRA723 > Adafruit](#pra723--adafruit)
+	* [Schematic](#schematic)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +18,21 @@ Contents
 - Hex ID: PRA723
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-723-STAN-01](http://oom.lt/PROJ-ADAF-723-STAN-01)
+- Long Link: [http://oom.lt/PRA723](http://oom.lt/PRA723)
+
+## Schematic
+  
+![][schem]
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|H1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,H1,MOUNT-HOLE3.0,MOUNT-HOLE3.0,3,0,MOUNTING HOLE with drill center marker,,|
+|H2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,H2,MOUNT-HOLE3.0,MOUNT-HOLE3.0,3,0,MOUNTING HOLE with drill center marker,,|
+|H3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,H3,MOUNT-HOLE3.0,MOUNT-HOLE3.0,3,0,MOUNTING HOLE with drill center marker,,|
+|H4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,H4,MOUNT-HOLE3.0,MOUNT-HOLE3.0,3,0,MOUNTING HOLE with drill center marker,,|
 
 ## Images
   
@@ -49,3 +66,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

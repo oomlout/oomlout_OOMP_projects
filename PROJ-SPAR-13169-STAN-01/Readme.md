@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRS13169 > Sparkfun](#prs13169--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,23 @@ Contents
 - Hex ID: PRS13169
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-13169-STAN-01](http://oom.lt/PROJ-SPAR-13169-STAN-01)
+- Long Link: [http://oom.lt/PRS13169](http://oom.lt/PRS13169)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13169-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$1,BLACKBERRY_TRACKBALLER,BLACKBERRY_TRACKBALLER,BLACKBERRY_TRACKBALLER,,PCB-12486,|
 
 ## Images
   
@@ -45,3 +65,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

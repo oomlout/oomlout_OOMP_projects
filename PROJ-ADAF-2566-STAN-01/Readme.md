@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRA2566 > Adafruit](#pra2566--adafruit)
+	* [Schematic](#schematic)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +18,18 @@ Contents
 - Hex ID: PRA2566
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-2566-STAN-01](http://oom.lt/PROJ-ADAF-2566-STAN-01)
+- Long Link: [http://oom.lt/PRA2566](http://oom.lt/PRA2566)
+
+## Schematic
+  
+![][schem]
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|CN2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,CN2,,JST_3PIN,JSTPH3,,,|
 
 ## Images
   
@@ -44,3 +58,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

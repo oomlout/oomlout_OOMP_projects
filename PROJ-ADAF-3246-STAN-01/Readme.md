@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA3246 > Adafruit](#pra3246--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,24 @@ Contents
 - Hex ID: PRA3246
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-3246-STAN-01](http://oom.lt/PROJ-ADAF-3246-STAN-01)
+- Long Link: [http://oom.lt/PRA3246](http://oom.lt/PRA3246)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3246-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|JOY1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JOY1,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_MINITHM,,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
+|JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP2,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
 
 ## Images
   
@@ -51,3 +72,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

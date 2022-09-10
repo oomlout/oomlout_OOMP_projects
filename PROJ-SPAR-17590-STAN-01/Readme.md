@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRS17590 > Sparkfun](#prs17590--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +18,15 @@ Contents
 - Hex ID: PRS17590
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-17590-STAN-01](http://oom.lt/PROJ-SPAR-17590-STAN-01)
+- Long Link: [http://oom.lt/PRS17590](http://oom.lt/PRS17590)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17590-STAN-01/kicad/bom/ibom.html)
 
 ## Images
   
@@ -41,3 +52,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

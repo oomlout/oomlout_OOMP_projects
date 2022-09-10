@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA1060 > Adafruit](#pra1060--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,31 @@ Contents
 - Hex ID: PRA1060
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-1060-STAN-01](http://oom.lt/PROJ-ADAF-1060-STAN-01)
+- Long Link: [http://oom.lt/PRA1060](http://oom.lt/PRA1060)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1060-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|C1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,C1,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
+|DATA_INPUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,DATA_INPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|DATA_OUTPUT,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,DATA_OUTPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|GND,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|IC2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,IC2,WS2811-SOP8,WS2811-SOP8,SO08-SKINNYPADS,,,|
+|LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,LED2,RGBLED5050,RGBLED5050,RGBLED5050,For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!,,|
+|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,1.0K,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R2,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R3,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|VDD,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,VDD,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
 
 ## Images
   
@@ -61,3 +89,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

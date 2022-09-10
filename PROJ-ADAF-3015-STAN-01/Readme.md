@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRA3015 > Adafruit](#pra3015--adafruit)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,26 @@ Contents
 - Hex ID: PRA3015
 - Name: Adafruit
 - Description: Adafruit
+- Long Link: [http://oom.lt/PROJ-ADAF-3015-STAN-01](http://oom.lt/PROJ-ADAF-3015-STAN-01)
+- Long Link: [http://oom.lt/PRA3015](http://oom.lt/PRA3015)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3015-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|B1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,B1,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,|
+|B2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,B2,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,|
+|B3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,B3,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,|
+|B4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,B4,,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,|
+|HEADER,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,HEADER,,PINHD-1X6,1X06,PIN HEADER,,,,,|
 
 ## Images
   
@@ -51,3 +74,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

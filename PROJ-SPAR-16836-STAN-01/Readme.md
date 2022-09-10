@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRS16836 > Sparkfun](#prs16836--sparkfun)
+	* [Schematic](#schematic)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,7 +17,12 @@ Contents
 - Hex ID: PRS16836
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-16836-STAN-01](http://oom.lt/PROJ-SPAR-16836-STAN-01)
+- Long Link: [http://oom.lt/PRS16836](http://oom.lt/PRS16836)
 
+## Schematic
+  
+![][schem]
 ## Images
   
   
@@ -41,3 +47,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

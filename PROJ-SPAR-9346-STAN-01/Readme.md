@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRS9346 > Sparkfun](#prs9346--sparkfun)
+	* [Schematic](#schematic)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,7 +17,12 @@ Contents
 - Hex ID: PRS9346
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-9346-STAN-01](http://oom.lt/PROJ-SPAR-9346-STAN-01)
+- Long Link: [http://oom.lt/PRS9346](http://oom.lt/PRS9346)
 
+## Schematic
+  
+![][schem]
 ## Images
   
   
@@ -41,3 +47,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

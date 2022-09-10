@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRS8872 > Sparkfun](#prs8872--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +18,15 @@ Contents
 - Hex ID: PRS8872
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-8872-STAN-01](http://oom.lt/PROJ-SPAR-8872-STAN-01)
+- Long Link: [http://oom.lt/PRS8872](http://oom.lt/PRS8872)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8872-STAN-01/kicad/bom/ibom.html)
 
 ## Images
   
@@ -41,3 +52,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

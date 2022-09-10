@@ -6,6 +6,7 @@ Contents
 ========
 
 * [PRS9266 > Sparkfun](#prs9266--sparkfun)
+	* [Schematic](#schematic)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,7 +17,12 @@ Contents
 - Hex ID: PRS9266
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-9266-STAN-01](http://oom.lt/PROJ-SPAR-9266-STAN-01)
+- Long Link: [http://oom.lt/PRS9266](http://oom.lt/PRS9266)
 
+## Schematic
+  
+![][schem]
 ## Images
   
   
@@ -41,3 +47,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

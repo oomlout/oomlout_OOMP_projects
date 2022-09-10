@@ -6,6 +6,8 @@ Contents
 ========
 
 * [PRS9419 > Sparkfun](#prs9419--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
 
@@ -15,6 +17,15 @@ Contents
 - Hex ID: PRS9419
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-9419-STAN-01](http://oom.lt/PROJ-SPAR-9419-STAN-01)
+- Long Link: [http://oom.lt/PRS9419](http://oom.lt/PRS9419)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9419-STAN-01/kicad/bom/ibom.html)
 
 ## Images
   
@@ -36,3 +47,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroSD_Sniffer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9419
 - oompID: PROJ-SPAR-9419-STAN-01
+
+
+
+[schem]: eagleSchemImage.png

@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRS10412 > Sparkfun](#prs10412--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,29 @@ Contents
 - Hex ID: PRS10412
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-10412-STAN-01](http://oom.lt/PROJ-SPAR-10412-STAN-01)
+- Long Link: [http://oom.lt/PRS10412](http://oom.lt/PRS10412)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10412-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|J1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,J1,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_L,fabrick.it Conductive Ribbon Connector,,|
+|J2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,J2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR-2MM_L_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_L,fabrick.it Conductive Ribbon Connector,,|
+|J3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,J3,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_R,fabrick.it Conductive Ribbon Connector,,|
+|J4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,J4,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR-2MM_R_REV2,FKIT-RIBBON_CONNECTOR_03_2MM_R,fabrick.it Conductive Ribbon Connector,,|
+|LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,LED1,,LED,FKIT-LED-1206_NO_CREAM,LEDs,,|
+|LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,LED2,,LED-3MM-NO_SILK,LED3MM-NS,LEDs,,|
+|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,,RESISTOR0603,0603-RES,Resistor,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,|
 
 ## Images
   
@@ -57,3 +83,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png

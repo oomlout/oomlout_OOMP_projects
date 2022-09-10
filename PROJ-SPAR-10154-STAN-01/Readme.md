@@ -6,6 +6,9 @@ Contents
 ========
 
 * [PRS10154 > Sparkfun](#prs10154--sparkfun)
+	* [Schematic](#schematic)
+	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -16,6 +19,29 @@ Contents
 - Hex ID: PRS10154
 - Name: Sparkfun
 - Description: Sparkfun
+- Long Link: [http://oom.lt/PROJ-SPAR-10154-STAN-01](http://oom.lt/PROJ-SPAR-10154-STAN-01)
+- Long Link: [http://oom.lt/PRS10154](http://oom.lt/PRS10154)
+
+## Schematic
+  
+![][schem]
+## Interactive BOM
+
+- Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10154-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP Parts|
+| :---: |
+|JP0,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP0,POWER,M02PTH,1X02,Header 2,,|
+|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
+|JP2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP2,ANT,M01PTH,1X01,Header 1,,|
+|JP3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP3,GPIO,M03PTH,1X03,Header 3,,|
+|JP4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP4,SPI,M05PTH,1X05,Header 5,,|
+|JP5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP5,RX/TX-ANT,M02PTH,1X02,Header 2,,|
+|RFM22-XXX-S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,RFM22-XXX-S2,RFM22,RFM22,RFM22-XXX-S2,*Hope RFs RFM22*,,|
+|U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,|
 
 ## Images
   
@@ -57,3 +83,4 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
+[schem]: eagleSchemImage.png
