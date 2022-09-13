@@ -19,11 +19,11 @@ Contents
 - Name: Adafruit
 - Description: Adafruit
 - Long Link: [http://oom.lt/PROJ-ADAF-802-STAN-01](http://oom.lt/PROJ-ADAF-802-STAN-01)
-- Long Link: [http://oom.lt/PRA802](http://oom.lt/PRA802)
+- Short Link: [http://oom.lt/PRA802](http://oom.lt/PRA802)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## OOMP Parts
   
 
@@ -137,4 +137,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

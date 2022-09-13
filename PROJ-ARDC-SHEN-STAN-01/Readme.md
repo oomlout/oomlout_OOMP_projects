@@ -17,7 +17,7 @@ Contents
 - Name: Compatible Arduino Shennie
 - Description: Compatible Arduino Shennie
 - Long Link: [http://oom.lt/PROJ-ARDC-SHEN-STAN-01](http://oom.lt/PROJ-ARDC-SHEN-STAN-01)
-- Long Link: [http://oom.lt/SHEN](http://oom.lt/SHEN)
+- Short Link: [http://oom.lt/SHEN](http://oom.lt/SHEN)
 
 ## Images
   

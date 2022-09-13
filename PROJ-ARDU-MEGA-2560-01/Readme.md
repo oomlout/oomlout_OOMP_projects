@@ -20,11 +20,11 @@ Contents
 - Name: Arduino 2560 Mega
 - Description: Arduino 2560 Mega
 - Long Link: [http://oom.lt/PROJ-ARDU-MEGA-2560-01](http://oom.lt/PROJ-ARDU-MEGA-2560-01)
-- Long Link: [http://oom.lt/PRAR2560](http://oom.lt/PRAR2560)
+- Short Link: [http://oom.lt/PRAR2560](http://oom.lt/PRAR2560)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ARDU-MEGA-2560-01/kicad/bom/ibom.html)
@@ -248,4 +248,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

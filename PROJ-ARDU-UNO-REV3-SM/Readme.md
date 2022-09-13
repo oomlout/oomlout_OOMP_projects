@@ -20,11 +20,11 @@ Contents
 - Name: Arduino Rev3 Uno (SMD)
 - Description: Arduino Rev3 Uno (SMD)
 - Long Link: [http://oom.lt/PROJ-ARDU-UNO-REV3-SM](http://oom.lt/PROJ-ARDU-UNO-REV3-SM)
-- Long Link: [http://oom.lt/PRARREV3](http://oom.lt/PRARREV3)
+- Short Link: [http://oom.lt/PRARREV3](http://oom.lt/PRARREV3)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ARDU-UNO-REV3-SM/kicad/bom/ibom.html)
@@ -274,4 +274,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

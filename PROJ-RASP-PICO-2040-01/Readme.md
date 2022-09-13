@@ -15,7 +15,7 @@ Contents
 - Name: Raspberry Pi Foundation 2040 Pico
 - Description: Raspberry Pi Foundation 2040 Pico
 - Long Link: [http://oom.lt/PROJ-RASP-PICO-2040-01](http://oom.lt/PROJ-RASP-PICO-2040-01)
-- Long Link: [http://oom.lt/R24](http://oom.lt/R24)
+- Short Link: [http://oom.lt/R24](http://oom.lt/R24)
 
 ## Tags
 

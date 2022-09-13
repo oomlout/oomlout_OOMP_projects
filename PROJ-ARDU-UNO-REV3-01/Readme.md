@@ -20,11 +20,11 @@ Contents
 - Name: Arduino Rev3 Uno
 - Description: Arduino Rev3 Uno
 - Long Link: [http://oom.lt/PROJ-ARDU-UNO-REV3-01](http://oom.lt/PROJ-ARDU-UNO-REV3-01)
-- Long Link: [http://oom.lt/PRARREV3](http://oom.lt/PRARREV3)
+- Short Link: [http://oom.lt/PRARREV3](http://oom.lt/PRARREV3)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ARDU-UNO-REV3-01/kicad/bom/ibom.html)
@@ -400,4 +400,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

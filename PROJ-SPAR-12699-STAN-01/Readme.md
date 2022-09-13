@@ -20,11 +20,11 @@ Contents
 - Name: Sparkfun
 - Description: Sparkfun
 - Long Link: [http://oom.lt/PROJ-SPAR-12699-STAN-01](http://oom.lt/PROJ-SPAR-12699-STAN-01)
-- Long Link: [http://oom.lt/PRS12699](http://oom.lt/PRS12699)
+- Short Link: [http://oom.lt/PRS12699](http://oom.lt/PRS12699)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12699-STAN-01/kicad/bom/ibom.html)
@@ -548,4 +548,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

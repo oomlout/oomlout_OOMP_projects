@@ -15,7 +15,7 @@ Contents
 - Name: Compatible Arduino (LGT8F328P) HQB Special
 - Description: Compatible Arduino (LGT8F328P) HQB Special
 - Long Link: [http://oom.lt/PROJ-ARDC-HQBS-LG32-01](http://oom.lt/PROJ-ARDC-HQBS-LG32-01)
-- Long Link: [http://oom.lt/HQLG](http://oom.lt/HQLG)
+- Short Link: [http://oom.lt/HQLG](http://oom.lt/HQLG)
 
 ## Tags
 

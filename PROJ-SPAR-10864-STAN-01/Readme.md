@@ -19,11 +19,11 @@ Contents
 - Name: Sparkfun
 - Description: Sparkfun
 - Long Link: [http://oom.lt/PROJ-SPAR-10864-STAN-01](http://oom.lt/PROJ-SPAR-10864-STAN-01)
-- Long Link: [http://oom.lt/PRS10864](http://oom.lt/PRS10864)
+- Short Link: [http://oom.lt/PRS10864](http://oom.lt/PRS10864)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## OOMP Parts
   
 
@@ -233,4 +233,3 @@ Contents
 
 
 [im]: kicadPcb3d_450.png
-[schem]: eagleSchemImage.png

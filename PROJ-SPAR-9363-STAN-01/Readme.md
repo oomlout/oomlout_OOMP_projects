@@ -17,11 +17,11 @@ Contents
 - Name: Sparkfun
 - Description: Sparkfun
 - Long Link: [http://oom.lt/PROJ-SPAR-9363-STAN-01](http://oom.lt/PROJ-SPAR-9363-STAN-01)
-- Long Link: [http://oom.lt/PRS9363](http://oom.lt/PRS9363)
+- Short Link: [http://oom.lt/PRS9363](http://oom.lt/PRS9363)
 
 ## Schematic
   
-![][schem]
+[![schem](eagleSchemImage.png)](eagleSchemImage.png)
 ## Images
   
   
@@ -42,7 +42,3 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ColorLCDShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9363
 - oompID: PROJ-SPAR-9363-STAN-01
-
-
-
-[schem]: eagleSchemImage.png
