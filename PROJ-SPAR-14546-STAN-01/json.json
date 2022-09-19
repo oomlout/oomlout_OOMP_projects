@@ -42,171 +42,155 @@
         },
         {
             "name": "oompParts",
-            "value": "BAT1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BATB-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BATB-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BATB-2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BATB-2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BATT+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BATT+,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BATT+2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BATT+2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BUTTON-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BUTTON-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "BUTTONS,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "BUTTONS,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED+1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED+1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED+2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED+2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED+3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED+3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED-1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED-1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED-2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED-2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED-3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED-3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED1,LEDS-1206-G-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED2,LEDS-1206-G-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "LED3,LEDS-1206-G-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB+,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LOGO2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LOGO3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB5,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB6,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "MB10,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "MB7,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "R1,RESE-0603-X-O151-01"
         },
         {
             "name": "oompParts",
-            "value": "MB8,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "R2,RESE-0603-X-O151-01"
         },
         {
             "name": "oompParts",
-            "value": "MB9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "R3,RESE-0603-X-O151-01"
         },
         {
             "name": "oompParts",
-            "value": "MB10,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "R3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "SLIDEOFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "SLIDEON,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "S2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "S3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "SLIDEOFF,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "SLIDEON,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$9,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "rawParts",

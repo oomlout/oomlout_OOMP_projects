@@ -42,51 +42,39 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LOGO1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "R1,RESE-0603-X-O31-01"
         },
         {
             "name": "oompParts",
-            "value": "M1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE+,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "VIBE+,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "VIBE-,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "VIBE1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE3,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE4,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED"
+            "value": "VIBE4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "rawParts",

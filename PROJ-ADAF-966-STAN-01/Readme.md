@@ -34,8 +34,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,CN1,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,|
-|U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
+|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,|
+|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
 
 ## Images
   
@@ -57,8 +57,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/966
 - oompID: PROJ-ADAF-966-STAN-01
-- oompParts: CN1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
-- oompParts: U$2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: CN1,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,
 - rawParts: FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,
 - rawParts: FID2,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,

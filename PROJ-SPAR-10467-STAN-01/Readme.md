@@ -34,9 +34,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,M04PTH,1X04,Header 4,,|
-|S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,S1,SWITCH-MOMENTARY-LEDPTH,SWITCH-MOMENTARY-LEDPTH,TACTILE-PTH-LED-12MM,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,|
+|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M04PTH,1X04,Header 4,,|
 
 ## Images
   
@@ -58,9 +57,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LED_Tactile_Button_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10467
 - oompID: PROJ-SPAR-10467-STAN-01
-- oompParts: FRAME1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
-- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
-- oompParts: S1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,HEAD-I01-X-PI04-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
 - rawParts: JP1,,M04PTH,1X04,Header 4,,
 - rawParts: S1,SWITCH-MOMENTARY-LEDPTH,SWITCH-MOMENTARY-LEDPTH,TACTILE-PTH-LED-12MM,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,

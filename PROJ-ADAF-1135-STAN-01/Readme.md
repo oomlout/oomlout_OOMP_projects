@@ -34,7 +34,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,JP1,,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,|
+|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,|
 
 ## Images
   
@@ -56,7 +56,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1135
 - oompID: PROJ-ADAF-1135-STAN-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,
 
 

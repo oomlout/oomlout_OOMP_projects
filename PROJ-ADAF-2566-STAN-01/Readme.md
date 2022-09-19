@@ -29,7 +29,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CN2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,CN2,,JST_3PIN,JSTPH3,,,|
+|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,,JST_3PIN,JSTPH3,,,|
 
 ## Images
   
@@ -51,7 +51,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2566
 - oompID: PROJ-ADAF-2566-STAN-01
-- oompParts: CN2,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: CN2,,JST_3PIN,JSTPH3,,,
 - rawParts: U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,
 

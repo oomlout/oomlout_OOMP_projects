@@ -34,8 +34,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,LED1,,LEDSMT1206,1206,LED,,|
-|R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED,R1,,R-US_R0603,R0603,RESISTOR, American symbol,,|
+|LED1,LEDS-1206-G-STAN-01,LED1,,LEDSMT1206,1206,LED,,|
+|R1,RESE-0603-X-UNMATCHED-01,R1,,R-US_R0603,R0603,RESISTOR, American symbol,,|
 
 ## Images
   
@@ -57,8 +57,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-LED-Sequin-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1755
 - oompID: PROJ-ADAF-1755-STAN-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
-- oompParts: R1,UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED-UNMATCHED
+- oompParts: LED1,LEDS-1206-G-STAN-01
+- oompParts: R1,RESE-0603-X-UNMATCHED-01
 - rawParts: LED1,,LEDSMT1206,1206,LED,,
 - rawParts: R1,,R-US_R0603,R0603,RESISTOR, American symbol,,
 
