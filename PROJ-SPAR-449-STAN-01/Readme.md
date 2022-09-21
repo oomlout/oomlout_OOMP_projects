@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS449 > Sparkfun](#prs449--sparkfun)
+* [PRS449 > RS232 Shifter SMD](#prs449--rs232-shifter-smd)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS449 > Sparkfun
+# PRS449 > RS232 Shifter SMD
 
 - ID: PROJ-SPAR-449-STAN-01
 - Hex ID: PRS449
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-449-STAN-01/kicad/bom/ibom.html)

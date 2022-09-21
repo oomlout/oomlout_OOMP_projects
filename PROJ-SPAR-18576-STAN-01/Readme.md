@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18576 > Sparkfun](#prs18576--sparkfun)
+* [PRS18576 > SparkFun MicroMod Main Board Double](#prs18576--sparkfun-micromod-main-board-double)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18576 > Sparkfun
+# PRS18576 > SparkFun MicroMod Main Board Double
 
 - ID: PROJ-SPAR-18576-STAN-01
 - Hex ID: PRS18576
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18576-STAN-01/kicad/bom/ibom.html)

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS14765 > Sparkfun](#prs14765--sparkfun)
+* [PRS14765 > Single Supply Logic Level Converter](#prs14765--single-supply-logic-level-converter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14765 > Sparkfun
+# PRS14765 > Single Supply Logic Level Converter
 
 - ID: PROJ-SPAR-14765-STAN-01
 - Hex ID: PRS14765
@@ -24,35 +25,38 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,|
-|C3,CAPC-0805-X-UF22-01,C3,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,22uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,470pF,470PF-0603-50V-5%,0603,470pF ceramic capacitors,CAP-07884,470pF,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|C6,CAPC-0603-X-UF10-01,C6,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,10uF,|
-|C7,CAPX-UNMATCHED-X-UF10-01,C7,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,RED,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|JP7,HEAD-I01-X-PI02-01,J1,,CONN_04,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,CONN_04,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|R1,RESE-UNMATCHED-X-UNMATCHED-01,J3,,CONN_01,1X01,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|R2,RESE-0603-X-O223-01,J4,,CONN_01,1X01,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|R3,RESE-0603-X-O133-01,JP3,455-1750-1-ND,CONN_04,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|R4,RESE-0603-X-O102-01,JP7,VIN,M02PTH,1X02,Header 2,,,|
-|R5,RESE-0603-X-UNMATCHED-01,L1,2.2ÃÂµH/ÃÂ±20%/1.5A,INDUCTOR-VLF4012AT-2.2UH,INDUCTOR_2.2UH,Inductors,NDUC-09513,2.2ÃÂµH/ÃÂ±20%/1.5A,|
-|R6,RESE-0603-X-O2003-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1, ,RESISTORAXIAL-0.3,AXIAL-0.3,Generic Resistor Package, , ,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R2,22k,22KOHM-0603-1/10W-1%,0603,22kÃÂ© resistor,RES-07853,22k,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UF22-01|
+|C4 C4,CAPC-0603-X-PF470-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|C6 C6,CAPC-0603-X-UF10-01|
+|C7 C7,CAPX-UNMATCHED-X-UF10-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R2 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|R3 R3,RESE-0603-X-O133-01|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|R6 R6,RESE-0603-X-O2003-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,11 +78,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Single_Supply_Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14765
 - oompID: PROJ-SPAR-14765-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UF22-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-PF470-01
+- oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: C6,CAPC-0603-X-UF10-01
 - oompParts: C7,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D1,LEDS-0603-G-STAN-01

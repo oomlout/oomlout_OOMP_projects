@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1362 > Adafruit](#pra1362--adafruit)
+* [PRA1362 > Adafruit Standalone Capacitive Sensor PCB](#pra1362--adafruit-standalone-capacitive-sensor-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1362 > Adafruit
+# PRA1362 > Adafruit Standalone Capacitive Sensor PCB
 
 - ID: PROJ-ADAF-1362-STAN-01
 - Hex ID: PRA1362
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1362-STAN-01/kicad/bom/ibom.html)
@@ -34,29 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP1,HEAD-I01-X-PI06-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP3,HEAD-I01-X-PI06-01,IC1,AT42QT1070-SSU,AT42QT1070-SSU,SO14,QTouch 5-channel standalone sensor IC,,|
-|LED1,LEDS-0805-G-STAN-01,JP1,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,|
-|LED2,LEDS-0805-G-STAN-01,JP3,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,|
-|LED3,LEDS-0805-G-STAN-01,LED1,,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|LED4,LEDS-0805-G-STAN-01,LED2,,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|LED5,LEDS-0805-G-STAN-01,LED3,,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|R1,RESE-0805-X-O103-01,LED4,,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|R2,RESE-0805-X-O103-01,LED5,,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|R3,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R4,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R5,RESE-0805-X-O103-01,R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R6,RESE-0805-X-O471-01,R4,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R7,RESE-0805-X-O471-01,R5,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R8,RESE-0805-X-O471-01,R6,470,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R9,RESE-0805-X-O471-01,R7,470,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R10,RESE-0805-X-O471-01,R8,470,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,470,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R10,470,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED3 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED5 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R6 R6,RESE-0805-X-O471-01|
+|R7 R7,RESE-0805-X-O471-01|
+|R8 R8,RESE-0805-X-O471-01|
+|R9 R9,RESE-0805-X-O471-01|
+|R10 R10,RESE-0805-X-O471-01|
 
 ## Images
   
@@ -78,7 +78,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1362
 - oompID: PROJ-ADAF-1362-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP3,HEAD-I01-X-PI06-01
@@ -97,10 +97,6 @@ Contents
 - oompParts: R8,RESE-0805-X-O471-01
 - oompParts: R9,RESE-0805-X-O471-01
 - oompParts: R10,RESE-0805-X-O471-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,
 - rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,

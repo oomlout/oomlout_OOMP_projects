@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13717 > Sparkfun](#prs13717--sparkfun)
+* [PRS13717 > Pi Wedge 40-Pin PreAssembled](#prs13717--pi-wedge-40-pin-preassembled)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13717 > Sparkfun
+# PRS13717 > Pi Wedge 40-Pin PreAssembled
 
 - ID: PROJ-SPAR-13717-STAN-01
 - Hex ID: PRS13717
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13717-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3V,UNMATCHED-UNMATCHED-X-UF47-01,C3V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,|
-|C5V,UNMATCHED-UNMATCHED-X-UF47-01,C5V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|JP3,HEAD-I01-X-PI17-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP4,HEAD-I01-X-PI17-01,JP1,FTDI Device,FTDI_DEVICERA_SMT,FTDI_DEVICE_RA_SMT,Connector which mates to FTDI basic or FTDI cable.,CONN-08971,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,RASPBERRYPI-40-PIN-GPIO-SMT,RASPBERRYPI-40-PIN-GPIO-SMT,2X20-SHROUDED-SMT,Second Generation Raspberry Pi GPIO Header,CONN-13143,|
+|C3V C3V,CAPX-UNMATCHED-X-UF47-01|
+|C5V C5V,CAPX-UNMATCHED-X-UF47-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,HEAD-I01-X-PI17-01|
+|JP4 JP4,HEAD-I01-X-PI17-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -62,8 +66,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Pi_Wedge_40-Pin_PreAssembled (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13717
 - oompID: PROJ-SPAR-13717-STAN-01
-- oompParts: C3V,UNMATCHED-UNMATCHED-X-UF47-01
-- oompParts: C5V,UNMATCHED-UNMATCHED-X-UF47-01
+- oompParts: C3V,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C5V,CAPX-UNMATCHED-X-UF47-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI17-01

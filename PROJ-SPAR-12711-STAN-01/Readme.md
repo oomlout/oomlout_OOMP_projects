@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12711 > Sparkfun](#prs12711--sparkfun)
+* [PRS12711 > USB LiPolyCharger SingleCell](#prs12711--usb-lipolycharger-singlecell)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12711 > Sparkfun
+# PRS12711 > USB LiPolyCharger SingleCell
 
 - ID: PROJ-SPAR-12711-STAN-01
 - Hex ID: PRS12711
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12711-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBRA140,MBRA140,SMA-DIODE,40V, 1A Schottky rectifier,DIO-08053,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,MBRA140,MBRA140,SMA-DIODE,40V, 1A Schottky rectifier,DIO-08053,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,POWER_JACKSMD,POWER_JACKSMD,POWER_JACK_SMD,Power Jack,CONN-08106,5.5x2.1mm Barrel,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,JST_2MM_MALE,JST-2-SMD,Mates to single-cell LiPo batteries.,CONN-08352,,|
-|JP1,HEAD-I01-X-PI02-01,J3,,JST_2MM_MALE,JST-2-SMD,Mates to single-cell LiPo batteries.,CONN-08352,,|
-|JP2,HEAD-I01-X-PI02-01,JP1,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|LED2,LEDS-0603-G-STAN-01,JP2,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|PROG,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R-PROG1,UNMATCHED-0603-X-UNMATCHED-01,JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R-PROG2,UNMATCHED-0603-X-UNMATCHED-01,JP9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R1,RESE-0603-X-O331-01,JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,JP11,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP12,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-UF47D-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|PROG PROG,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R-PROG1 R-PROG1,UNMATCHED-0603-X-UNMATCHED-01|
+|[R-PROG2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R1 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,8 +75,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_LiPolyCharger_SingleCell (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12711
 - oompID: PROJ-SPAR-12711-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF47D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -83,7 +87,7 @@ Contents
 - oompParts: LED2,LEDS-0603-G-STAN-01
 - oompParts: PROG,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R-PROG1,UNMATCHED-0603-X-UNMATCHED-01
-- oompParts: R-PROG2,UNMATCHED-0603-X-UNMATCHED-01
+- oompParts: R-PROG2,RESE-0603-X-O103-01
 - oompParts: R1,RESE-0603-X-O331-01
 - oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

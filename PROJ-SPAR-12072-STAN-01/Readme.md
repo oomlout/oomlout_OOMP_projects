@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS12072 > Sparkfun](#prs12072--sparkfun)
+* [PRS12072 > CC3000 WiFi Breakout](#prs12072--cc3000-wifi-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12072 > Sparkfun
+# PRS12072 > CC3000 WiFi Breakout
 
 - ID: PROJ-SPAR-12072-STAN-01
 - Hex ID: PRS12072
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12072-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3589 > Adafruit](#pra3589--adafruit)
+* [PRA3589 > Adafruit PiUART PCB](#pra3589--adafruit-piuart-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3589 > Adafruit
+# PRA3589 > Adafruit PiUART PCB
 
 - ID: PROJ-ADAF-3589-STAN-01
 - Hex ID: PRA3589
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3589-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,,,,,|
-|D2,LEDS-0603-G-STAN-01,D2,YELLOW,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,,,,,|
-|D3,LEDS-0603-G-STAN-01,D3,GREEN,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,,,,,|
-|ON/OFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|R1,RESE-0603-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|R2,RESE-0603-X-UNMATCHED-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|R3,RESE-0603-X-O103-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|R7,RESE-0603-X-O103-01,ON/OFF,EG1390,DPDT-EG1390,EG1390,,,,,,,|
-|T2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|ON/OFF ON/OFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|T2 T2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$9 U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,13 +78,13 @@ Contents
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: D3,LEDS-0603-G-STAN-01
 - oompParts: ON/OFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O222-01
+- oompParts: R2,RESE-0603-X-O222-01
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R7,RESE-0603-X-O103-01
 - oompParts: T2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

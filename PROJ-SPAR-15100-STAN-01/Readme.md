@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15100 > Sparkfun](#prs15100--sparkfun)
+* [PRS15100 > USB-C-Breakout](#prs15100--usb-c-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15100 > Sparkfun
+# PRS15100 > USB-C-Breakout
 
 - ID: PROJ-SPAR-15100-STAN-01
 - Hex ID: PRS15100
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15100-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12761 > Sparkfun](#prs12761--sparkfun)
+* [PRS12761 > microSD Shield](#prs12761--microsd-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12761 > Sparkfun
+# PRS12761 > microSD Shield
 
 - ID: PROJ-SPAR-12761-STAN-01
 - Hex ID: PRS12761
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12761-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V-5%(0603),0603-CAP,CAP-08604,CAP-08604,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V-5%(0603),0603-CAP,CAP-08604,CAP-08604,0.1uF,|
-|C3,CAPC-0603-X-UF10-01,C3,10uF,10UF-6.3V-20%(0603),0603-CAP,CAP-11015,CAP-11015,10uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI08-01,J1,AVR_SPI_PRG_6NS,AVR_SPI_PRG_6NS,2X3-NS,AVR ISP 6 Pin,,,|
-|JP5,HEAD-I01-X-PI10-01,JP1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|JP6,HEAD-I01-X-PI06-01,JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP7,HEAD-I01-X-PI08-01,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|LED1,LEDS-0603-G-STAN-01,JP4,,M08,1X08,Header 8,,,|
-|R1,RESE-0603-X-O102-01,JP5,M10,M10,1X10,Header 10,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,,M06SIP,1X06,Header 6,,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,,M081X08,1X08,Header 8,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,Red,LED0603,LED-0603,LEDs,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,SFE_LOGO_FLAME.6_INCH,SFE_LOGO_FLAME.6_INCH,SFE_LOGO_FLAME_.6,SFE Logo, flame only,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF10-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP5 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP6 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP7 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,8 +73,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/microSD_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12761
 - oompID: PROJ-SPAR-12761-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-0603-X-UF10-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP4,HEAD-I01-X-PI08-01
@@ -81,7 +84,6 @@ Contents
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: R1,RESE-0603-X-O102-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -45,26 +45,6 @@
             "value": "BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
-            "name": "oompParts",
-            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
             "name": "rawParts",
             "value": "BAT1,20mm coincell,BATTERY20MM_4LEGS_OVERPASTE,BATTCON_20MM_4LEGS_OVERPASTE,Battery Holders,,"
         },

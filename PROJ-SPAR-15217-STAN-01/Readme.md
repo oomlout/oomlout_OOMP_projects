@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15217 > Sparkfun](#prs15217--sparkfun)
+* [PRS15217 > LiPo Charger Plus](#prs15217--lipo-charger-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15217 > Sparkfun
+# PRS15217 > LiPo Charger Plus
 
 - ID: PROJ-SPAR-15217-STAN-01
 - Hex ID: PRS15217
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15217-STAN-01/kicad/bom/ibom.html)

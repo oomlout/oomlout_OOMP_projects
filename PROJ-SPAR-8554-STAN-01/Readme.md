@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8554 > Sparkfun](#prs8554--sparkfun)
+* [PRS8554 > IR Receiver Breakout](#prs8554--ir-receiver-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8554 > Sparkfun
+# PRS8554 > IR Receiver Breakout
 
 - ID: PROJ-SPAR-8554-STAN-01
 - Hex ID: PRS8554
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8554-STAN-01/kicad/bom/ibom.html)

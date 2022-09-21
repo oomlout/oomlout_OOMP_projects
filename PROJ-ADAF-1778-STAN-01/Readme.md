@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1778 > Adafruit](#pra1778--adafruit)
+* [PRA1778 > Adafruit AD8495 Breakout PCB](#pra1778--adafruit-ad8495-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1778 > Adafruit
+# PRA1778 > Adafruit AD8495 Breakout PCB
 
 - ID: PROJ-ADAF-1778-STAN-01
 - Hex ID: PRA1778
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1778-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,0.1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,DIOD-SO23-X-UNMATCHED-01,D1,TLVH431,SHUNT-VREF,SOT23-R,Shunt Voltage Reference,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,ferrite,FERRITE0805,0805,Ferrite Bead,,|
-|JP1,HEAD-I01-X-PI04-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O101-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O101-01,JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|R3,RESE-0805-X-O105-01,R1,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R4,RESE-0805-X-O102-01,R2,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1M,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|C2 C2,CAPC-0805-X-UNMATCHED-01|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UNMATCHED-01|
+|D1 D1,DIOD-SO23-X-UNMATCHED-01|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[R1 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R2 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|R3 R3,RESE-0805-X-O105-01|
+|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,12 +72,12 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1778
 - oompID: PROJ-ADAF-1778-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UNMATCHED-01
 - oompParts: D1,DIOD-SO23-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0805-X-O101-01
 - oompParts: R2,RESE-0805-X-O101-01

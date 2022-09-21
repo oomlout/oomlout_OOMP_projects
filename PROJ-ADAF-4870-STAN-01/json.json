@@ -66,19 +66,19 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED2,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED3,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED4,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",

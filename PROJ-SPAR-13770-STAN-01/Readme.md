@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13770 > Sparkfun](#prs13770--sparkfun)
+* [PRS13770 > Edison ADC Block](#prs13770--edison-adc-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13770 > Sparkfun
+# PRS13770 > Edison ADC Block
 
 - ID: PROJ-SPAR-13770-STAN-01
 - Hex ID: PRS13770
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13770-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,10UF10V10%(0805),0805-CAP,CAP-11330,CAP-11330,,|
-|JP1,HEAD-I01-X-PI08-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-UNMATCHED-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O103-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R3,RESE-0603-X-O2003-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP1,,M08LOCK,1X08_LOCK,Header 8,,,|
-|R5,RESE-0603-X-UNMATCHED-01,JP2,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,|
-|R6,RESE-0603-X-UNMATCHED-01,JP3,EDISON_CONNECTOR_FULLHEADER,EDISON_CONNECTOR_FULLHEADER,DF40C-70DP-0.4(51),,,,|
-|R7,RESE-0603-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,HEAD-I01-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-0603-X-O2003-01|
+|R4 R4,RESE-0603-X-UNMATCHED-01|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|[R6 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|R7 R7,RESE-0603-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -73,10 +77,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_ADC_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13770
 - oompID: PROJ-SPAR-13770-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -86,7 +90,7 @@ Contents
 - oompParts: R3,RESE-0603-X-O2003-01
 - oompParts: R4,RESE-0603-X-UNMATCHED-01
 - oompParts: R5,RESE-0603-X-UNMATCHED-01
-- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R6,RESE-0603-X-O222-01
 - oompParts: R7,RESE-0603-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

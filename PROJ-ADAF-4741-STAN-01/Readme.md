@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4741 > Adafruit](#pra4741--adafruit)
+* [PRA4741 > Adafruit Grayscale 1.5 inch 128x128 OLED PCB](#pra4741--adafruit-grayscale-15-inch-128x128-oled-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4741 > Adafruit
+# PRA4741 > Adafruit Grayscale 1.5 inch 128x128 OLED PCB
 
 - ID: PROJ-ADAF-4741-STAN-01
 - Hex ID: PRA4741
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4741-STAN-01/kicad/bom/ibom.html)
@@ -34,35 +38,35 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UF10-V10,C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C8,CAPC-0603-X-NF100-V50,C8,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C14,CAPC-0805-X-UF10-V10,C14,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C15,CAPC-0805-X-UF10-V10,C15,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C16,CAPC-0805-X-UF10-V10,C16,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C17,CAPC-0603-X-UF1-01,C17,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|CONN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN4,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|D1,LEDS-0603-G-STAN-01,D1,GREEN,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,MBR120,DIODESOD-123,SOD-123,Diode,,|
-|D3,DIOD-S323-X-K4148-01,D3,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|D4,DIOD-S323-X-K4148-01,D4,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|D5,DIOD-S323-X-K4148-01,D5,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|IC5,UNMATCHED-SO23-X-UNMATCHED-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI08-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC5,APX803,AXP083-SAG,SOT23,,,|
-|Q2,MOSN-SO363-X-KBSS138-01,JP2,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|R1,RESE-0603-X-O103-01,L1,10uH,INDUCTOR,INDUCTOR_1007,Inductors,,|
-|R2,RESE-UNMATCHED-X-O103-01,Q2,BSS138,MOSFET-N_DUAL,SOT363,Dual N-Channel MOSFET,,|
-|R3,RESE-UNMATCHED-X-O103-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R6,RESE-0603-X-O1003-01,R2,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|R7,RESE-0603-X-O103-01,R3,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|R9,RESE-0603-X-O3903-01,R6,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U2,VREG-SO235-X-KAP2112K-V33D,R7,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R9,390K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C8 C8,CAPC-0603-X-UF1D-01|
+|[C14 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C15 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C16 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C17 C17,CAPC-0603-X-UF1-01|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[CONN4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[D3 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D4 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D5 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[Q2 MOSN-SO363-X-KBSS138-01 SMD (SOT-363) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO363-X-KBSS138-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R2 R2,RESA-06038-X-O103X4-01|
+|R3 R3,RESA-06038-X-O103X4-01|
+|R6 R6,RESE-0603-X-O1003-01|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R9 R9,RESE-0603-X-O3903-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -84,19 +88,19 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4741
 - oompID: PROJ-ADAF-4741-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF10-V10
-- oompParts: C8,CAPC-0603-X-NF100-V50
+- oompParts: C8,CAPC-0603-X-UF1D-01
 - oompParts: C14,CAPC-0805-X-UF10-V10
 - oompParts: C15,CAPC-0805-X-UF10-V10
 - oompParts: C16,CAPC-0805-X-UF10-V10
 - oompParts: C17,CAPC-0603-X-UF1-01
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: CONN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-I01-X-PI04-01
+- oompParts: CONN4,HEAD-I01-X-PI04-01
 - oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D2,DIOD-S123-X-KMBR120-01
 - oompParts: D3,DIOD-S323-X-K4148-01
 - oompParts: D4,DIOD-S323-X-K4148-01
 - oompParts: D5,DIOD-S323-X-K4148-01
@@ -105,8 +109,8 @@ Contents
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q2,MOSN-SO363-X-KBSS138-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: R2,RESE-UNMATCHED-X-O103-01
-- oompParts: R3,RESE-UNMATCHED-X-O103-01
+- oompParts: R2,RESA-06038-X-O103X4-01
+- oompParts: R3,RESA-06038-X-O103X4-01
 - oompParts: R6,RESE-0603-X-O1003-01
 - oompParts: R7,RESE-0603-X-O103-01
 - oompParts: R9,RESE-0603-X-O3903-01

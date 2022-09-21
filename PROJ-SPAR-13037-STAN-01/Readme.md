@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13037 > Sparkfun](#prs13037--sparkfun)
+* [PRS13037 > Edison Battery Block](#prs13037--edison-battery-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13037 > Sparkfun
+# PRS13037 > Edison Battery Block
 
 - ID: PROJ-SPAR-13037-STAN-01
 - Hex ID: PRS13037
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13037-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|D2,LEDS-0603-G-STAN-01,D2,BLUE,LED-BLUE0603,LED-0603,Blue LEDs for production use,DIO-08575,BLUE,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-UNMATCHED-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O331-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O102-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,JP1,USB_MICROB_PLUG,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,CONN-11752,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|U3,HEAD-I01-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-UF47D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
+|[R2 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,HEAD-I01-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,8 +72,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_Battery_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13037
 - oompID: PROJ-SPAR-13037-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF47D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

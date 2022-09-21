@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15486 > Sparkfun](#prs15486--sparkfun)
+* [PRS15486 > gator rtc](#prs15486--gator-rtc)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15486 > Sparkfun
+# PRS15486 > gator rtc
 
 - ID: PROJ-SPAR-15486-STAN-01
 - Hex ID: PRS15486
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15486-STAN-01/kicad/bom/ibom.html)

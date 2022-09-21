@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1601 > Adafruit](#pra1601--adafruit)
+* [PRA1601 > Adafruit PiTFT 2.8 inch Display PCB](#pra1601--adafruit-pitft-28-inch-display-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1601 > Adafruit
+# PRA1601 > Adafruit PiTFT 2.8 inch Display PCB
 
 - ID: PROJ-ADAF-1601-STAN-01
 - Hex ID: PRA1601
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1601-STAN-01/kicad/bom/ibom.html)
@@ -34,33 +38,33 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C4,CAPC-0805-X-NF100-V50,C4,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|IC4,VREG-SO235-X-KMIC5225-V33D,IC4,MIC5225-3.3,LP298XS,SOT23-5L,,,|
-|IC5,UNMATCHED-SO23-X-UNMATCHED-01,IC5,AXP803,AXP083-SAG,SOT23,,,|
-|JP1,HEAD-I01-X-UNMATCHED-01,JP1,,HEADER-2X13,2X13,,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,Q1,MMBT2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|R1,RESE-0805-X-O101-01,R1,100,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O101-01,R2,100,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-O101-01,R3,100,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R4,RESE-0805-X-O101-01,R4,100,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R5,RESE-0805-X-O102-01,R5,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R6,RESE-0805-X-O103-01,R6,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R7,RESE-0805-X-O103-01,R7,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R8,RESE-0805-X-O103-01,R8,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R9,RESE-0805-X-O102-01,R9,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R10,RESE-0805-X-O21-01,R10,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R11,RESE-0805-X-O21-01,R11,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,,SWITCH_PUSHBUTTONEVQ-PE,TACT_PANA-EVQ,Buttons,,|
-|SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW2,,SWITCH_PUSHBUTTONEVQ-PE,TACT_PANA-EVQ,Buttons,,|
-|SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW3,,SWITCH_PUSHBUTTONEVQ-PE,TACT_PANA-EVQ,Buttons,,|
-|SW4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW4,,SWITCH_PUSHBUTTONEVQ-PE,TACT_PANA-EVQ,Buttons,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,DISP_LCD_1.28IN_240X320_50PIN,DISP_LCD_1.28IN_240X320_50PIN,TFT_2.83IN_240X320_50PIN,,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,RASPBERRYPI_B_MODELB_V2,RASPBERRYPI_B_MODELB_V2,RASPBERRYPIV2_SHIELD,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$10,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[IC4 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
+|JP1 JP1,HEAD-I01-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R2 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R3 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R4 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R10 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[R11 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW4 SW4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -83,9 +87,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1601
 - oompID: PROJ-ADAF-1601-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-NF100-V50
-- oompParts: C3,CAPC-0805-X-NF100-V50
-- oompParts: C4,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: IC4,VREG-SO235-X-KMIC5225-V33D
 - oompParts: IC5,UNMATCHED-SO23-X-UNMATCHED-01
@@ -100,8 +104,8 @@ Contents
 - oompParts: R7,RESE-0805-X-O103-01
 - oompParts: R8,RESE-0805-X-O103-01
 - oompParts: R9,RESE-0805-X-O102-01
-- oompParts: R10,RESE-0805-X-O21-01
-- oompParts: R11,RESE-0805-X-O21-01
+- oompParts: R10,RESE-0805-X-O220-01
+- oompParts: R11,RESE-0805-X-O220-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

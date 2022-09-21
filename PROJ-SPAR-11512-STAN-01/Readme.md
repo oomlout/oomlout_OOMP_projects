@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11512 > Sparkfun](#prs11512--sparkfun)
+* [PRS11512 > SN74HC165-Shift-In-Breakout](#prs11512--sn74hc165-shift-in-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11512 > Sparkfun
+# PRS11512 > SN74HC165-Shift-In-Breakout
 
 - ID: PROJ-SPAR-11512-STAN-01
 - Hex ID: PRS11512
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11512-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI08-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI06-01,JP1,,M081X08,1X08,Header 8,,|
-|JP3,HEAD-I01-X-PI06-01,JP2,,M06SIP,1X06,Header 6,,|
-|R1,RESE-0402-X-O103-01,JP3,,M06SIP,1X06,Header 6,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|C1 C1,CAPC-0402-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

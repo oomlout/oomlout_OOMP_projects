@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13033 > Sparkfun](#prs13033--sparkfun)
+* [PRS13033 > Edison 9DOF Block](#prs13033--edison-9dof-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13033 > Sparkfun
+# PRS13033 > Edison 9DOF Block
 
 - ID: PROJ-SPAR-13033-STAN-01
 - Hex ID: PRS13033
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13033-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP0805,0805,Capacitor,CAP-11330,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C5,CAPC-0603-X-NF220-01,C5,0.22uF,0.22UF-25V-10%(0603),0603-CAP,CAP-07822,CAP-07822,0.22uF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|R1,RESE-0603-X-O103-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O103-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R4,RESE-0603-X-O103-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R5,RESE-0603-X-O103-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R6,RESE-0603-X-O103-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U3,HEAD-I01-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|U4,UNMATCHED-SO235-X-UNMATCHED-01,R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0603-X-UF1-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPC-0603-X-NF220-01|
+|C6 C6,CAPC-0603-X-UF47D-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,HEAD-I01-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,12 +75,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_9DOF_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13033
 - oompID: PROJ-SPAR-13033-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UF1-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: C5,CAPC-0603-X-NF220-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-UF47D-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R3,RESE-0603-X-O103-01

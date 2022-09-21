@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13034 > Sparkfun](#prs13034--sparkfun)
+* [PRS13034 > Edison I2C Breakout Block](#prs13034--edison-i2c-breakout-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13034 > Sparkfun
+# PRS13034 > Edison I2C Breakout Block
 
 - ID: PROJ-SPAR-13034-STAN-01
 - Hex ID: PRS13034
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13034-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C3,CAPC-1206-X-UF10-01,C3,10uF,10UF-6.3V-20%(1206),1206,CAP-10057,CAP-10057,10uF,|
-|C4,CAPC-1206-X-UF10-01,C4,10uF,10UF-6.3V-20%(1206),1206,CAP-10057,CAP-10057,10uF,|
-|JP2,HEAD-I01-X-PI04-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O103-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O2003-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R4,RESE-0603-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R5,RESE-0603-X-UNMATCHED-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,M04SMD_RA_FEMALE,1X04_SMD_RA_FEMALE,Header 4,,,|
-|U$3,HEAD-I01-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-1206-X-UF10-01|
+|C4 C4,CAPC-1206-X-UF10-01|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-0603-X-O2003-01|
+|R4 R4,RESE-0603-X-UNMATCHED-01|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$3 U$3,HEAD-I01-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,8 +73,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_I2C_Breakout_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13034
 - oompID: PROJ-SPAR-13034-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-1206-X-UF10-01
 - oompParts: C4,CAPC-1206-X-UF10-01
 - oompParts: JP2,HEAD-I01-X-PI04-01

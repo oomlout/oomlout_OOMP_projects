@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9946 > Sparkfun](#prs9946--sparkfun)
+* [PRS9946 > Energy Harvester Breakout-LTC3588](#prs9946--energy-harvester-breakout-ltc3588)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9946 > Sparkfun
+# PRS9946 > Energy Harvester Breakout-LTC3588
 
 - ID: PROJ-SPAR-9946-STAN-01
 - Hex ID: PRS9946
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9946-STAN-01/kicad/bom/ibom.html)

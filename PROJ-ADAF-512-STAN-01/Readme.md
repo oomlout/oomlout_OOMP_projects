@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA512 > Adafruit](#pra512--adafruit)
+* [PRA512 > Adafruit 9 DOF and 10 DOF PCBs](#pra512--adafruit-9-dof-and-10-dof-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA512 > Adafruit
+# PRA512 > Adafruit 9 DOF and 10 DOF PCBs
 
 - ID: PROJ-ADAF-512-STAN-01
 - Hex ID: PRA512
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-512-STAN-01/kicad/bom/ibom.html)
@@ -34,27 +38,27 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,10nF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,470nF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,4.7uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UNMATCHED-01,C7,0.22ÃÂµF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UF10-V10,C8,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C9,CAPC-0805-X-UF10-V10,C9,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI10-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSN-SO23-X-KBSS138-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q2,MOSN-SO23-X-KBSS138-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O103-01,JP1,,HEADER-1X10ROUND,1X10_ROUND,PIN HEADER,,|
-|R2,RESE-0805-X-O103-01,Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R3,RESE-0805-X-O103-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R4,RESE-0805-X-O103-01,R1,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R5,RESE-0805-X-O103-01,R2,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R6,RESE-0805-X-O103-01,R3,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R7,RESE-0805-X-O103-01,R4,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|U4,VREG-SO235-X-KMIC5225-V33D,R7,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
+|C1 C1,CAPC-0805-X-NF10-01|
+|C2 C2,CAPC-0805-X-NF470-01|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C6 C6,CAPC-0805-X-UF47D-01|
+|C7 C7,CAPC-0805-X-NF220-01|
+|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C9 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U4 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -76,12 +80,12 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/512
 - oompID: PROJ-ADAF-512-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-NF10-01
+- oompParts: C2,CAPC-0805-X-NF470-01
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
-- oompParts: C7,CAPC-0805-X-UNMATCHED-01
+- oompParts: C6,CAPC-0805-X-UF47D-01
+- oompParts: C7,CAPC-0805-X-NF220-01
 - oompParts: C8,CAPC-0805-X-UF10-V10
 - oompParts: C9,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI10-01

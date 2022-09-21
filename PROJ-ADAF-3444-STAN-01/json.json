@@ -42,299 +42,259 @@
         },
         {
             "name": "oompParts",
-            "value": "CI,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "CO,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED2,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "DI,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED3,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "DO,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED4,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "G1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED5,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "G2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED6,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "G3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED7,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED8,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED9,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED10,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED11,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED12,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED13,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED14,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED15,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED16,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED10,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED17,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED11,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED18,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED12,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED19,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED13,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED20,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED14,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED21,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED15,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED22,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED16,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED23,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED17,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED24,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED18,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED25,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED19,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED26,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED20,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED27,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED21,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED28,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED22,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED29,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED23,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED30,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED24,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED31,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED25,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED32,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED26,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED33,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED27,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED34,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED28,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED35,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED29,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED36,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED30,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED37,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED31,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED38,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED32,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED39,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED33,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED40,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED34,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED41,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED35,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED42,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED36,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED43,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED37,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED44,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED38,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED45,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED39,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED46,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED40,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED47,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED41,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED48,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED42,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED49,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED43,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED50,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED44,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED51,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED45,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED52,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED46,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED53,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED47,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED54,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED48,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED55,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED49,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED56,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED50,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED57,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED51,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED58,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED52,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED59,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED53,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED60,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED54,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED61,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED55,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED62,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED56,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED63,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "LED57,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED58,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED59,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED60,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED61,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED62,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED63,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LED64,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "V1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "V2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "V3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED64,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "rawParts",

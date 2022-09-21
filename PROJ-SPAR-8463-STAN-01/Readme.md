@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8463 > Sparkfun](#prs8463--sparkfun)
+* [PRS8463 > LilyPad Buzzer](#prs8463--lilypad-buzzer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8463 > Sparkfun
+# PRS8463 > LilyPad Buzzer
 
 - ID: PROJ-SPAR-8463-STAN-01
 - Hex ID: PRS8463
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8463-STAN-01/kicad/bom/ibom.html)

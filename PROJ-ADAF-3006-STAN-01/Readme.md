@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3006 > Adafruit](#pra3006--adafruit)
+* [PRA3006 > Adafruit MAX98357 I2S Amp Breakout](#pra3006--adafruit-max98357-i2s-amp-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3006 > Adafruit
+# PRA3006 > Adafruit MAX98357 I2S Amp Breakout
 
 - ID: PROJ-ADAF-3006-STAN-01
 - Hex ID: PRA3006
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3006-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,220pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,220pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,Ferrite,FERRITE-0805NO,0805-NO,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,Ferrite,FERRITE-0805NO,0805-NO,Ferrite Bead,,|
-|JP1,HEAD-I01-X-PI07-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O105-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X7THICKER,1X07_ROUND_76,PIN HEADER,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1M,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C4 C4,CAPC-0805-X-PF220-01|
+|C5 C5,CAPC-0805-X-PF220-01|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|R1 R1,RESE-0805-X-O105-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,12 +69,12 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3006
 - oompID: PROJ-ADAF-3006-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C4,CAPC-0805-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: C4,CAPC-0805-X-PF220-01
+- oompParts: C5,CAPC-0805-X-PF220-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI07-01
 - oompParts: R1,RESE-0805-X-O105-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

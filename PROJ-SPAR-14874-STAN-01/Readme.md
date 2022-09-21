@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14874 > Sparkfun](#prs14874--sparkfun)
+* [PRS14874 > TSH82 Configurable Op Amp Board](#prs14874--tsh82-configurable-op-amp-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14874 > Sparkfun
+# PRS14874 > TSH82 Configurable Op Amp Board
 
 - ID: PROJ-SPAR-14874-STAN-01
 - Hex ID: PRS14874
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14874-STAN-01/kicad/bom/ibom.html)
@@ -34,36 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C4,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,1.0pF,|
-|C7,CAPC-0603-X-UNMATCHED-01,C5,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,1.0pF,|
-|C8,CAPC-0603-X-UNMATCHED-01,C6,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C9,CAPC-0603-X-UNMATCHED-01,C7,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C10,CAPC-0603-X-NF100-V50,C8,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,C9,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,C10,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,,CONN_09NO_SILK,1X09_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|JP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R1,RESE-0603-X-UNMATCHED-01,JP2,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP3,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R3,RESE-0603-X-O103-01,JP4,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R4,RESE-0603-X-O103-01,JP5,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R5,RESE-0603-X-O103-01,JP6,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R6,RESE-0603-X-O103-01,JP7,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R7,RESE-0603-X-O473-01,JP8,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R8,RESE-0603-X-O473-01,JP9,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R9,RESE-0603-X-O473-01,JP10,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R10,RESE-0603-X-O473-01,LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SparkFun Flame Logo,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|C6 C6,CAPC-0603-X-UF1-01|
+|C7 C7,CAPC-0603-X-UF1-01|
+|C8 C8,CAPC-0603-X-UF1-01|
+|C9 C9,CAPC-0603-X-UF1-01|
+|C10 C10,CAPC-0603-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|[R8 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|[R9 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|[R10 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,26 +80,16 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14874
 - oompID: PROJ-SPAR-14874-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
-- oompParts: C7,CAPC-0603-X-UNMATCHED-01
-- oompParts: C8,CAPC-0603-X-UNMATCHED-01
-- oompParts: C9,CAPC-0603-X-UNMATCHED-01
-- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-UF1-01
+- oompParts: C7,CAPC-0603-X-UF1-01
+- oompParts: C8,CAPC-0603-X-UF1-01
+- oompParts: C9,CAPC-0603-X-UF1-01
+- oompParts: C10,CAPC-0603-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O222-01
+- oompParts: R2,RESE-0603-X-O222-01
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O103-01

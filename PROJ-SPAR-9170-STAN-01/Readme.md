@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9170 > Sparkfun](#prs9170--sparkfun)
+* [PRS9170 > Touch Screen Connector Breakout-Nintendo DS](#prs9170--touch-screen-connector-breakout-nintendo-ds)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9170 > Sparkfun
+# PRS9170 > Touch Screen Connector Breakout-Nintendo DS
 
 - ID: PROJ-SPAR-9170-STAN-01
 - Hex ID: PRS9170
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9170-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13683 > Sparkfun](#prs13683--sparkfun)
+* [PRS13683 > SHT15 Breakout](#prs13683--sht15-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13683 > Sparkfun
+# PRS13683 > SHT15 Breakout
 
 - ID: PROJ-SPAR-13683-STAN-01
 - Hex ID: PRS13683
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13683-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI04-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O103-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -59,7 +63,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SHT15_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13683
 - oompID: PROJ-SPAR-13683-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

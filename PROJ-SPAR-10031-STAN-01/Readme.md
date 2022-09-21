@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10031 > Sparkfun](#prs10031--sparkfun)
+* [PRS10031 > USB microB Plug Breakout](#prs10031--usb-microb-plug-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10031 > Sparkfun
+# PRS10031 > USB microB Plug Breakout
 
 - ID: PROJ-SPAR-10031-STAN-01
 - Hex ID: PRS10031
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10031-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI05-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M05PTH,1X05,Header 5,,|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

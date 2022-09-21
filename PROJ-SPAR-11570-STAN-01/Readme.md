@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11570 > Sparkfun](#prs11570--sparkfun)
+* [PRS11570 > TRRS 3.5mm Jack Breakout](#prs11570--trrs-35mm-jack-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11570 > Sparkfun
+# PRS11570 > TRRS 3.5mm Jack Breakout
 
 - ID: PROJ-SPAR-11570-STAN-01
 - Hex ID: PRS11570
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11570-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M04PTH,1X04,Header 4,,|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

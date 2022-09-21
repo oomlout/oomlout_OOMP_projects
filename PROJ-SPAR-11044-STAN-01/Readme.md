@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11044 > Sparkfun](#prs11044--sparkfun)
+* [PRS11044 > Mono Audio Amp Breakout-TPA2005D1](#prs11044--mono-audio-amp-breakout-tpa2005d1)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11044 > Sparkfun
+# PRS11044 > Mono Audio Amp Breakout-TPA2005D1
 
 - ID: PROJ-SPAR-11044-STAN-01
 - Hex ID: PRS11044
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11044-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-1206-X-UF1-01,C1,1uF,CAP1206,1206,Capacitor,,|
-|C2,CAPC-1206-X-UF10-01,C2,10uF,CAP1206,1206,Capacitor,,|
-|C3,CAPC-1206-X-UF1-01,C3,1uF,CAP1206,1206,Capacitor,,|
-|C4,CAPC-1206-X-UF1-01,C4,1uF,CAP1206,1206,Capacitor,,|
-|JP1,HEAD-I01-X-PI03-01,JP1,POWER,M03PTH,1X03,Header 3,,|
-|JP2,HEAD-I01-X-PI02-01,JP2,IN,M02PTH,1X02,Header 2,,|
-|JP3,HEAD-I01-X-PI02-01,JP3,OUT,M02PTH,1X02,Header 2,,|
-|JP4,HEAD-I01-X-PI03-01,JP4,VOLUME,M03PTH,1X03,Header 3,,|
-|LED1,LEDS-0603-G-STAN-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O1503-01,LED1,,LED0603,LED-0603,LEDs,,|
-|R2,RESE-0603-X-O1503-01,LOGO1,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|R3,RESE-0603-X-O103-01,LOGO2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R4,RESE-0603-X-O331-01,Q1,MMBT2222A,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,|
-|R5,RESE-0603-X-O103-01,R1,150K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1A,DNP,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,150K,RESISTOR0603-RES,0603-RES,Resistor,,|
+|C1 C1,CAPC-1206-X-UF1-01|
+|C2 C2,CAPC-1206-X-UF10-01|
+|C3 C3,CAPC-1206-X-UF1-01|
+|C4 C4,CAPC-1206-X-UF1-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1503-01|
+|R2 R2,RESE-0603-X-O1503-01|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -87,7 +90,6 @@ Contents
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R4,RESE-0603-X-O331-01
 - oompParts: R5,RESE-0603-X-O103-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP1206,1206,Capacitor,,
 - rawParts: C2,10uF,CAP1206,1206,Capacitor,,

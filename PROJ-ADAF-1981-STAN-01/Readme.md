@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1981 > Adafruit](#pra1981--adafruit)
+* [PRA1981 > Adafruit Flora Si1145 Light Sensor PCB](#pra1981--adafruit-flora-si1145-light-sensor-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1981 > Adafruit
+# PRA1981 > Adafruit Flora Si1145 Light Sensor PCB
 
 - ID: PROJ-ADAF-1981-STAN-01
 - Hex ID: PRA1981
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1981-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O103-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R3,RESE-0805-X-O103-01,GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,15 +64,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1981
 - oompID: PROJ-ADAF-1981-STAN-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01
-- oompParts: SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
 - rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

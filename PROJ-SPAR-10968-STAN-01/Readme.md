@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10968 > Sparkfun](#prs10968--sparkfun)
+* [PRS10968 > NCP1402-5V Breakout](#prs10968--ncp1402-5v-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10968 > Sparkfun
+# PRS10968 > NCP1402-5V Breakout
 
 - ID: PROJ-SPAR-10968-STAN-01
 - Hex ID: PRS10968
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10968-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C2,CAPX-UNMATCHED-X-UF68-01,C2,68uF,CAP_POL3528,EIA3528,Capacitor Polarized,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBRA140,DIODESMA,SMA-DIODE,Diode,,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPX-UNMATCHED-X-UF68-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   

@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-NF100-V50"
+            "value": "C3,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -71,14 +71,6 @@
         {
             "name": "oompParts",
             "value": "R2,RESE-0805-X-O103-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

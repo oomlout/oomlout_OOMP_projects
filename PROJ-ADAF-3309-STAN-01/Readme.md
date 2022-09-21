@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3309 > Adafruit](#pra3309--adafruit)
+* [PRA3309 > Adafruit CP2104 Friend PCB](#pra3309--adafruit-cp2104-friend-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3309 > Adafruit
+# PRA3309 > Adafruit CP2104 Friend PCB
 
 - ID: PROJ-ADAF-3309-STAN-01
 - Hex ID: PRA3309
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3309-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-NF100-V50,C4,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,LEDS-0805-G-STAN-01,D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|D2,LEDS-0805-G-STAN-01,D2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI08-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP4,HEAD-I01-X-PI08-01,JP1,FTDI,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,|
-|R1,RESE-0805-X-O102-01,JP2,Modem,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|R2,RESE-0805-X-O102-01,JP4,Control,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R2 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,7 +75,7 @@ Contents
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
-- oompParts: C4,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: D1,LEDS-0805-G-STAN-01
 - oompParts: D2,LEDS-0805-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI06-01

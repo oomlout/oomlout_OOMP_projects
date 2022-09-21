@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12636 > Sparkfun](#prs12636--sparkfun)
+* [PRS12636 > LSM9DS0 Breakout](#prs12636--lsm9ds0-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12636 > Sparkfun
+# PRS12636 > LSM9DS0 Breakout
 
 - ID: PROJ-SPAR-12636-STAN-01
 - Hex ID: PRS12636
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12636-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|C2,CAPC-0603-X-NF220-01,C2,0.22uF,0.22UF-25V-10%(0603),0603-CAP,CAP-07822,CAP-07822,0.22uF,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|JP1,HEAD-I01-X-PI13-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O103-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R3,RESE-0603-X-O103-01,JP1,M13,M13,1X13,13-pin single row .1 header,,,|
-|R4,RESE-0603-X-O103-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0603-X-O103-01,LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,|
-|R6,RESE-0603-X-O103-01,LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10k,10K-1%RES-00824,0603-RES,10k-ohm SMT,RES-00824,10k,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-NF220-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|JP1 JP1,HEAD-I01-X-PI13-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,10 +71,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LSM9DS0_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12636
 - oompID: PROJ-SPAR-12636-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
 - oompParts: C2,CAPC-0603-X-NF220-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-UF1-01
 - oompParts: JP1,HEAD-I01-X-PI13-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01

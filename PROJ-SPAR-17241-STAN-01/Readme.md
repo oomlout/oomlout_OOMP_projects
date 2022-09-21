@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17241 > Sparkfun](#prs17241--sparkfun)
+* [PRS17241 > SparkFun Qwiic ADXL313](#prs17241--sparkfun-qwiic-adxl313)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17241 > Sparkfun
+# PRS17241 > SparkFun Qwiic ADXL313
 
 - ID: PROJ-SPAR-17241-STAN-01
 - Hex ID: PRS17241
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17241-STAN-01/kicad/bom/ibom.html)

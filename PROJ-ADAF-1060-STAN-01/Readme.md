@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1060 > Adafruit](#pra1060--adafruit)
+* [PRA1060 > Adafruit Flora Smart NeoPixel](#pra1060--adafruit-flora-smart-neopixel)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1060 > Adafruit
+# PRA1060 > Adafruit Flora Smart NeoPixel
 
 - ID: PROJ-ADAF-1060-STAN-01
 - Hex ID: PRA1060
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1060-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|DATA_INPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,DATA_INPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|DATA_OUTPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,DATA_OUTPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01,GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC2,WS2811-SOP8,WS2811-SOP8,SO08-SKINNYPADS,,,|
-|LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,RGBLED5050,RGBLED5050,RGBLED5050,For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!,,|
-|R1,RESE-0805-X-UNMATCHED-01,R1,1.0K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O21-01,R2,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-O21-01,R3,22,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|VDD,UNMATCHED-UNMATCHED-X-UNMATCHED-01,VDD,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-K2811-01|
+|LED2 LED2,LEDS-5050-RGB-STAN-01|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R2 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[R3 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
 
 ## Images
   
@@ -66,15 +66,11 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1060
 - oompID: PROJ-ADAF-1060-STAN-01
 - oompParts: C1,CAPC-0805-X-UF1-01
-- oompParts: DATA_INPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: DATA_OUTPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0805-X-UNMATCHED-01
-- oompParts: R2,RESE-0805-X-O21-01
-- oompParts: R3,RESE-0805-X-O21-01
-- oompParts: VDD,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: IC2,UNMATCHED-UNMATCHED-X-K2811-01
+- oompParts: LED2,LEDS-5050-RGB-STAN-01
+- oompParts: R1,RESE-0805-X-O102-01
+- oompParts: R2,RESE-0805-X-O220-01
+- oompParts: R3,RESE-0805-X-O220-01
 - rawParts: C1,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: DATA_INPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,
 - rawParts: DATA_OUTPUT,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10124 > Sparkfun](#prs10124--sparkfun)
+* [PRS10124 > RS-485 Breakout](#prs10124--rs-485-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10124 > Sparkfun
+# PRS10124 > RS-485 Breakout
 
 - ID: PROJ-SPAR-10124-STAN-01
 - Hex ID: PRS10124
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10124-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP2,TERS-35D-L-PI03-01,JP1,,M04PTH,1X04,Header 4,,,|
-|JP3,HEAD-I01-X-PI03-01,JP2,,M03SCREW,SCREWTERMINAL-3.5MM-3,Header 3,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M03PTH,1X03,Header 3,,,|
-|JP9,HEAD-I01-X-PI05-01,JP4,RJ45-8PTH,RJ45-8PTH,RJ45-8,RJ45 Jack,,,|
-|LED3,LEDS-0603-G-STAN-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O331-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R4,RESE-0603-X-O221-01,JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 TERS-35D-L-PI03-01 3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP9 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R4 RESE-0603-X-O221-01 SMD (0603) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,7 +69,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RS-485_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10124
 - oompID: PROJ-SPAR-10124-STAN-01
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,TERS-35D-L-PI03-01
 - oompParts: JP3,HEAD-I01-X-PI03-01

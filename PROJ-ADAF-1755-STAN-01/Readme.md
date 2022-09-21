@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1755 > Adafruit](#pra1755--adafruit)
+* [PRA1755 > Adafruit LED Sequin PCB](#pra1755--adafruit-led-sequin-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1755 > Adafruit
+# PRA1755 > Adafruit LED Sequin PCB
 
 - ID: PROJ-ADAF-1755-STAN-01
 - Hex ID: PRA1755
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1755-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|LED1,LEDS-1206-G-STAN-01,LED1,,LEDSMT1206,1206,LED,,|
-|R1,RESE-0603-X-UNMATCHED-01,R1,,R-US_R0603,R0603,RESISTOR, American symbol,,|
+|LED1 LED1,LEDS-1206-G-STAN-01|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
 
 ## Images
   

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13601 > Sparkfun](#prs13601--sparkfun)
+* [PRS13601 > SX1509 IO-Expander](#prs13601--sx1509-io-expander)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13601 > Sparkfun
+# PRS13601 > SX1509 IO-Expander
 
 - ID: PROJ-SPAR-13601-STAN-01
 - Hex ID: PRS13601
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13601-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,v01,|
-|JP1,HEAD-I01-X-PI06-01,JP1,,M06SILK_FEMALE_PTH,1X06,Header 6,,CONN-08437,,,|
-|JP2,HEAD-I01-X-PI06-01,JP2,,M06SILK_FEMALE_PTH,1X06,Header 6,,CONN-08437,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M10X2ROUND_NOSILK,2X10_ROUND_NOSILK,This was SPECIALLY designed to be used with our Graphic LCD Backpack.  Be sure you want to use this!  It is not only staggered on each line of header holes, but IT IS ALSO offset of the center point of the top and bottom lines by 5 mil.  This causes the headers to lock into place on the standard footprint on the LCD screen.  The extra squares on the tdocu layer are there simply to reference other pins (if you were to actually populate a longer header than ten long - this is what we do with the backpacks).,,,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,,M10X2ROUND_NOSILK,2X10_ROUND_NOSILK,This was SPECIALLY designed to be used with our Graphic LCD Backpack.  Be sure you want to use this!  It is not only staggered on each line of header holes, but IT IS ALSO offset of the center point of the top and bottom lines by 5 mil.  This causes the headers to lock into place on the standard footprint on the LCD screen.  The extra squares on the tdocu layer are there simply to reference other pins (if you were to actually populate a longer header than ten long - this is what we do with the backpacks).,,,,,|
-|R1,RESE-0603-X-O103-01,JP9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|R2,RESE-0603-X-O103-01,JP10,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|R3,RESE-0603-X-O103-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|R4,RESE-0603-X-O103-01,LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,,,|
-|R5,RESE-0603-X-O103-01,LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
-|R6,RESE-0603-X-O103-01,R1,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,9 +74,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SX1509_IO-Expander (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13601
 - oompID: PROJ-SPAR-13601-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP2,HEAD-I01-X-PI06-01

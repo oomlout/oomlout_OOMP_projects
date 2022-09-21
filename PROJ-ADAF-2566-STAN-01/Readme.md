@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA2566 > Adafruit](#pra2566--adafruit)
+* [PRA2566 > Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB](#pra2566--adafruit-flora-sewable-3-pin-jst-wiring-adapter-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2566 > Adafruit
+# PRA2566 > Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB
 
 - ID: PROJ-ADAF-2566-STAN-01
 - Hex ID: PRA2566
@@ -24,12 +25,15 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,,JST_3PIN,JSTPH3,,,|
+|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

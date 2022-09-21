@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11189 > Sparkfun](#prs11189--sparkfun)
+* [PRS11189 > MAX3232 Breakout](#prs11189--max3232-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11189 > Sparkfun
+# PRS11189 > MAX3232 Breakout
 
 - ID: PROJ-SPAR-11189-STAN-01
 - Hex ID: PRS11189
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11189-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,918,0.1uF,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,918,0.1uF,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,918,0.1uF,,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,918,0.1uF,,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,918,0.1uF,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,|
-|JP2,HEAD-I01-X-PI10-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,1,,,,v01,|
+|C1 C1,CAPC-0603-X-UNMATCHED-01|
+|C2 C2,CAPC-0603-X-UNMATCHED-01|
+|C3 C3,CAPC-0603-X-UNMATCHED-01|
+|C4 C4,CAPC-0603-X-UNMATCHED-01|
+|C5 C5,CAPC-0603-X-UNMATCHED-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

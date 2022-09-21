@@ -42,10 +42,6 @@
         },
         {
             "name": "oompParts",
-            "value": "!MCLR,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "C1,CAPC-0805-X-UF22-01"
         },
         {
@@ -62,19 +58,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-UNMATCHED-RGB-STAN-01"
         },
         {
             "name": "oompParts",
             "value": "OUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "PGC,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "PGD,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -130,7 +118,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R8,RESE-0603-X-O31-01"
+            "value": "R8,RESE-0603-X-O330-01"
         },
         {
             "name": "oompParts",

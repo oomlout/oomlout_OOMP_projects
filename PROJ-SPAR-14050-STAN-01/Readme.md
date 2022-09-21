@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14050 > Sparkfun](#prs14050--sparkfun)
+* [PRS14050 > Serial Basic Breakout-CH340G](#prs14050--serial-basic-breakout-ch340g)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14050 > Sparkfun
+# PRS14050 > Serial Basic Breakout-CH340G
 
 - ID: PROJ-SPAR-14050-STAN-01
 - Hex ID: PRS14050
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14050-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,10pF,10PF-50V-5%(0603),0603-CAP,CAP-11812,CAP-11812,10pF,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,10pF,10PF-50V-5%(0603),0603-CAP,CAP-11812,CAP-11812,10pF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,|
-|D1,LEDS-0603-G-STAN-01,D1,GREEN,LED-GREEN0603,LED-0603,Green SMD LED,DIO-00821,GREEN,|
-|D2,LEDS-0603-G-STAN-01,D2,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,DIO-09003,Yellow,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,microB,USB-MICROB,USB-B-MICRO-SMD_V03,,CONN-11752,,|
-|R2,RESE-0603-X-O102-01,J2,,M06SMD-FEMALE-V2,1X06-SMD-FEMALE-V2,Header 6,CONN-09668,,|
-|R3,RESE-0603-X-O331-01,JP1,,JUMPER-PAD-3-2OF3_NC_BY_PASTE,PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX,,,,|
-|U1,VREG-SO235-X-KAP2112K-V33D,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-PF10-01|
+|C5 C5,CAPC-0603-X-PF10-01|
+|C6 C6,CAPC-0603-X-NF10-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|U1 U1,VREG-SO235-X-KAP2112K-V33D|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y2 Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,12 +75,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340G (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14050
 - oompID: PROJ-SPAR-14050-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-PF10-01
+- oompParts: C5,CAPC-0603-X-PF10-01
+- oompParts: C6,CAPC-0603-X-NF10-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15270 > Sparkfun](#prs15270--sparkfun)
+* [PRS15270 > gator log](#prs15270--gator-log)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15270 > Sparkfun
+# PRS15270 > gator log
 
 - ID: PROJ-SPAR-15270-STAN-01
 - Hex ID: PRS15270
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15270-STAN-01/kicad/bom/ibom.html)

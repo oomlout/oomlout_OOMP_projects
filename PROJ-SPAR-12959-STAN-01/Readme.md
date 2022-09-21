@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12959 > Sparkfun](#prs12959--sparkfun)
+* [PRS12959 > MOSFET Power Control Kit](#prs12959--mosfet-power-control-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12959 > Sparkfun
+# PRS12959 > MOSFET Power Control Kit
 
 - ID: PROJ-SPAR-12959-STAN-01
 - Hex ID: PRS12959
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12959-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,TERS-35D-L-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M023.5MM,SCREWTERMINAL-3.5MM-2,Header 2,,|
-|JP3,HEAD-I01-X-PI02-01,JP2,,M03JST-PTH,JST-3-PTH,Header 3,,|
-|JP4,TERS-35D-L-PI03-01,JP3,,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,|
-|JP5,HEAD-I01-X-PI03-01,JP4,,M03SCREW,SCREWTERMINAL-3.5MM-3,Header 3,,|
-|JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,,M03PTH,1X03,Header 3,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP8,,M02JST-PTH-2,JST-2-PTH,Header 2,,|
-|R1,RESE-UNMATCHED-X-O103-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
+|[JP1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 TERS-35D-L-PI03-01 3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|[JP5 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|JP8 JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-O103-01|
 
 ## Images
   

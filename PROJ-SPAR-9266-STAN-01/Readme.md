@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9266 > Sparkfun](#prs9266--sparkfun)
+* [PRS9266 > LilyPad Arduino 328 Main Board](#prs9266--lilypad-arduino-328-main-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9266 > Sparkfun
+# PRS9266 > LilyPad Arduino 328 Main Board
 
 - ID: PROJ-SPAR-9266-STAN-01
 - Hex ID: PRS9266
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

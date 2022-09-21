@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4090 > Adafruit](#pra4090--adafruit)
+* [PRA4090 > Adafruit USB C Downstream Breakout](#pra4090--adafruit-usb-c-downstream-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4090 > Adafruit
+# PRA4090 > Adafruit USB C Downstream Breakout
 
 - ID: PROJ-ADAF-4090-STAN-01
 - Hex ID: PRA4090
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4090-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI08-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0603-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0603-X-UNMATCHED-01,JP1,,HEADER-1X876MIL,1X08_ROUND_76,PIN HEADER,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -60,8 +64,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/4090
 - oompID: PROJ-ADAF-4090-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O472-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
 - rawParts: FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13743 > Sparkfun](#prs13743--sparkfun)
+* [PRS13743 > Shifting microSD](#prs13743--shifting-microsd)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13743 > Sparkfun
+# PRS13743 > Shifting microSD
 
 - ID: PROJ-SPAR-13743-STAN-01
 - Hex ID: PRS13743
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13743-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI07-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O1003-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O1003-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O1003-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R4,RESE-0603-X-O1003-01,JP1,,M07,1X07,Header 7,,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,USD_CONNECTOR,USD_CONNECTOR,MICRO-SD-SOCKET-PP,microSD Socket,CONN-07820,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,|
-|U2,VREG-SO235-X-KAP2112K-V33D,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O1003-01|
+|R3 R3,RESE-0603-X-O1003-01|
+|R4 R4,RESE-0603-X-O1003-01|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
 
 ## Images
   
@@ -68,10 +72,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Shifting_microSD (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13743
 - oompID: PROJ-SPAR-13743-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI07-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O1003-01

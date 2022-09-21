@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11341 > Sparkfun](#prs11341--sparkfun)
+* [PRS11341 > Gyro Breakout-LPY503AL](#prs11341--gyro-breakout-lpy503al)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11341 > Sparkfun
+# PRS11341 > Gyro Breakout-LPY503AL
 
 - ID: PROJ-SPAR-11341-STAN-01
 - Hex ID: PRS11341
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11341-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0402-X-NF100-01,C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPX-UNMATCHED-X-UF10-01,C4,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C5,CAPC-0402-X-UNMATCHED-01,C5,470nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C6,CAPC-0402-X-UNMATCHED-01,C6,10nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C7,CAPC-0402-X-NF100-01,C7,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C8,CAPC-0402-X-NF100-01,C8,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI05-01,JP1,,M05PTH,1X05,Header 5,,|
-|JP2,HEAD-I01-X-PI05-01,JP2,,M05PTH,1X05,Header 5,,|
-|R1,RESE-0402-X-O103-01,R1,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R2,RESE-0402-X-O103-01,R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R3,RESE-0402-X-O103-01,R3,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R4,RESE-0402-X-O103-01,R4,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R5,RESE-0402-X-UNMATCHED-01,R5,DNP,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R6,RESE-0402-X-O333-01,R6,33K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-O333-01,R7,33K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-UNMATCHED-01,R8,DNP,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R9,RESE-0402-X-UNMATCHED-01,R9,0 ohm,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R10,RESE-0402-X-UNMATCHED-01,R10,0 ohm,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|C3 C3,CAPC-0402-X-UF1D-01|
+|C4 C4,CAPX-UNMATCHED-X-UF10-01|
+|C5 C5,CAPC-0402-X-NF470-01|
+|C6 C6,CAPC-0402-X-NF10-01|
+|C7 C7,CAPC-0402-X-UF1D-01|
+|C8 C8,CAPC-0402-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R4 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R5 R5,RESE-0402-X-UNMATCHED-01|
+|R6 R6,RESE-0402-X-O333-01|
+|R7 R7,RESE-0402-X-O333-01|
+|R8 R8,RESE-0402-X-UNMATCHED-01|
+|R9 R9,RESE-0402-X-UNMATCHED-01|
+|R10 R10,RESE-0402-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,12 +78,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Gyro_Breakout-LPY503AL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11341
 - oompID: PROJ-SPAR-11341-STAN-01
-- oompParts: C3,CAPC-0402-X-NF100-01
+- oompParts: C3,CAPC-0402-X-UF1D-01
 - oompParts: C4,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C5,CAPC-0402-X-UNMATCHED-01
-- oompParts: C6,CAPC-0402-X-UNMATCHED-01
-- oompParts: C7,CAPC-0402-X-NF100-01
-- oompParts: C8,CAPC-0402-X-NF100-01
+- oompParts: C5,CAPC-0402-X-NF470-01
+- oompParts: C6,CAPC-0402-X-NF10-01
+- oompParts: C7,CAPC-0402-X-UF1D-01
+- oompParts: C8,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0402-X-O103-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10730 > Sparkfun](#prs10730--sparkfun)
+* [PRS10730 > LilyPad Coin Cell Battery Holder-20mm](#prs10730--lilypad-coin-cell-battery-holder-20mm)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10730 > Sparkfun
+# PRS10730 > LilyPad Coin Cell Battery Holder-20mm
 
 - ID: PROJ-SPAR-10730-STAN-01
 - Hex ID: PRS10730
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10730-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,20mm coincell,BATTERY20MM_4LEGS_OVERPASTE,BATTCON_20MM_4LEGS_OVERPASTE,Battery Holders,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$5,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -62,11 +61,6 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10730
 - oompID: PROJ-SPAR-10730-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BAT1,20mm coincell,BATTERY20MM_4LEGS_OVERPASTE,BATTCON_20MM_4LEGS_OVERPASTE,Battery Holders,,
 - rawParts: U$1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
 - rawParts: U$2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,

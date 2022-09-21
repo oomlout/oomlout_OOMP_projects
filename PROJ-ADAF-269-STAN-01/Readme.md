@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA269 > Adafruit](#pra269--adafruit)
+* [PRA269 > Adafruit MAX31855 breakout board](#pra269--adafruit-max31855-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA269 > Adafruit
+# PRA269 > Adafruit MAX31855 breakout board
 
 - ID: PROJ-ADAF-269-STAN-01
 - Hex ID: PRA269
@@ -24,23 +25,24 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|D1,DIOD-S323-X-UNMATCHED-01,D1,1n4148,DIODESOD-323F,SOD-323F,Diode,,|
-|D2,DIOD-S323-X-K4148-01,D2,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,MAX31855,MAX6675,SO08,,,|
-|IC2,VREG-SO235-X-KLP298XS-V33D,IC2,LP298XS,LP298XS,SOT23-5L,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,|
-|JP1,HEAD-I01-X-PI06-01,JP1,Breakout,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
 
 ## Images
   
@@ -64,7 +66,7 @@ Contents
 - oompID: PROJ-ADAF-269-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: D1,DIOD-S323-X-UNMATCHED-01
+- oompParts: D1,DIOD-S323-X-K4148-01
 - oompParts: D2,DIOD-S323-X-K4148-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,VREG-SO235-X-KLP298XS-V33D
@@ -72,8 +74,6 @@ Contents
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: D1,1n4148,DIODESOD-323F,SOD-323F,Diode,,

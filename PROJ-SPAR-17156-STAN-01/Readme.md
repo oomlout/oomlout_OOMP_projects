@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17156 > Sparkfun](#prs17156--sparkfun)
+* [PRS17156 > Qwiic Shield for Teensy Extended](#prs17156--qwiic-shield-for-teensy-extended)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17156 > Sparkfun
+# PRS17156 > Qwiic Shield for Teensy Extended
 
 - ID: PROJ-SPAR-17156-STAN-01
 - Hex ID: PRS17156
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17156-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13777 > Sparkfun](#prs13777--sparkfun)
+* [PRS13777 > Battery Babysitter](#prs13777--battery-babysitter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13777 > Sparkfun
+# PRS13777 > Battery Babysitter
 
 - ID: PROJ-SPAR-13777-STAN-01
 - Hex ID: PRS13777
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13777-STAN-01/kicad/bom/ibom.html)
@@ -34,49 +38,49 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-1206-X-UNMATCHED-01,C1,1.0uF,1.0UF50V10%(1206),1206-CAP,CAP-09822,,,CAP-09822,,,1.0uF,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,10UF10V10%(0805),0805-CAP,CAP-11330,,,CAP-11330,,,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,10UF10V10%(0805),0805-CAP,CAP-11330,,,CAP-11330,,,,|
-|C4,CAPC-0603-X-NF470-01,C4,0.47uF,CAP0603-CAP,0603-CAP,Capacitor,,,CAP-13216,,,,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,,,CAP-00868,,,1.0uF,|
-|D1,LEDS-0603-G-STAN-01,D1,BLUE,LED-BLUE0603,LED-0603,Blue LEDs for production use,,,DIO-08575,,,BLUE,|
-|D2,LEDS-0603-G-STAN-01,D2,RED,LED-RED0603,LED-0603,Assorted Red LEDs,,,DIO-00819,,,RED,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,|
-|JP3,TERS-35D-L-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,,,,|
-|JP4,HEAD-I01-X-PI02-01,JP1,USB-AB-MICRO-SMD_V03,USB-ABCONN-11794,USB-AB-MICRO-SMD_V03,This is a USB AB connector that is compatible with USB OTG. i.e. this connector can serve as a host or device,,,CONN-11794,,,,|
-|JP5,HEAD-I01-X-PI02-01,JP2,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M023.5MM-NO_SILK,SCREWTERMINAL-3.5MM-2-NS,Standard 2-pin 0.1 header. Use with,,,CONN-08399,,,,|
-|JP7,TERS-35D-L-PI02-01,JP4,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|JP8,HEAD-I01-X-PI02-01,JP5,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,,JST_2MM_MALE,JST-2-SMD,Mates to single-cell LiPo batteries.,-,+,CONN-11443,-,+,,|
-|JP10,HEAD-I01-X-PI04-01,JP7,,M023.5MM-NO_SILK,SCREWTERMINAL-3.5MM-2-NS,Standard 2-pin 0.1 header. Use with,,,CONN-08399,,,,|
-|JP11,HEAD-I01-X-PI02-01,JP8,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|JP12,HEAD-I01-X-PI01-01,JP9,,M02-JST-2-PTH-NO_SILK,JST-2-PTH-NS,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|JP13,HEAD-I01-X-PI01-01,JP10,,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun has standardized on a pinout for all I2C based sensor breakouts.,,,,,,,|
-|R1,RESE-UNMATCHED-X-UNMATCHED-01,JP11,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,,,|
-|R2,RESE-0603-X-O103-01,JP12,,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,,,|
-|R3,RESE-UNMATCHED-X-UNMATCHED-01,JP13,,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,,,|
-|R4,RESE-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,,,,,|
-|R5,RESE-0603-X-O591-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,,,|
-|R6,RESE-UNMATCHED-X-UNMATCHED-01,LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,,,|
-|R7,RESE-0603-X-UNMATCHED-01,R1,TS,RESISTORPTH-1/6W,1/6W-RES,Resistor,,,,,,,|
-|R8,RESE-0603-X-O1003-01,R2,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,,RES-00824,,,10K,|
-|R9,RESE-0603-X-O181-01,R3,TMR,RESISTORPTH-1/6W,1/6W-RES,Resistor,,,,,,,|
-|R10,RESE-0603-X-O102-01,R4,ISET,RESISTORPTH-1/6W,1/6W-RES,Resistor,,,,,,,|
-|R11,RESE-1206-X-UNMATCHED-01,R5,590,RESISTOR0603-RES,0603-RES,Resistor,,,RES-13217,,,,|
-|R12,RESE-0603-X-O1003-01,R6,ILIM,RESISTORPTH-1/6W,1/6W-RES,Resistor,,,,,,,|
-|R13,RESE-0603-X-O472-01,R7,1.1k,RESISTOR0603-RES,0603-RES,Resistor,,,RES-10447,,,,|
-|R14,RESE-0603-X-O472-01,R8,100k,100KOHM-1/10W-1%(0603),0603-RES,RES-07828,,,RES-07828,,,100k,|
-|R15,RESE-0603-X-O103-01,R9,180,180OHM1/10W1%(0603),0603-RES,RES-08788,,,RES-08788,,,180,|
-|R16,RESE-0603-X-O103-01,R10,1K,1KOHM-1/10W-1%(0603),0603-RES,RES-07856,,,RES-07856,,,1K,|
-|R17,RESE-0603-X-O103-01,R11,0.01,RESISTOR1206,1206,Resistor,,,RES-13218,,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R12,100k,100KOHM-1/10W-1%(0603),0603-RES,RES-07828,,,RES-07828,,,100k,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R13,4.7K,4.7KOHM-1/10W-1%(0603),0603-RES,RES-07857,,,RES-07857,,,4.7K,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R14,4.7K,4.7KOHM-1/10W-1%(0603),0603-RES,RES-07857,,,RES-07857,,,4.7K,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R15,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,,RES-00824,,,10K,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,,RES-00824,,,10K,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R17,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,,RES-00824,,,10K,|
+|C1 C1,CAPC-1206-X-UF1-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C4 C4,CAPC-0603-X-NF470-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP7 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP10 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP11 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP12 JP12,HEAD-I01-X-PI01-01|
+|JP13 JP13,HEAD-I01-X-PI01-01|
+|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-UNMATCHED-X-UNMATCHED-01|
+|R4 R4,RESE-UNMATCHED-X-UNMATCHED-01|
+|R5 R5,RESE-0603-X-O591-01|
+|R6 R6,RESE-UNMATCHED-X-UNMATCHED-01|
+|R7 R7,RESE-0603-X-UNMATCHED-01|
+|R8 R8,RESE-0603-X-O1003-01|
+|R9 R9,RESE-0603-X-O181-01|
+|[R10 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R11 R11,RESE-1206-X-UNMATCHED-01|
+|R12 R12,RESE-0603-X-O1003-01|
+|[R13 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R14 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R15 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R16 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R17 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -98,11 +102,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Battery_Babysitter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13777
 - oompID: PROJ-SPAR-13777-STAN-01
-- oompParts: C1,CAPC-1206-X-UNMATCHED-01
+- oompParts: C1,CAPC-1206-X-UF1-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0603-X-NF470-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C5,CAPC-0603-X-UF1-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

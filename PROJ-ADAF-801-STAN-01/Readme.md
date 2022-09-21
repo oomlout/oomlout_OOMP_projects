@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA801 > Adafruit](#pra801--adafruit)
+* [PRA801 > Adafruit Prototyping Pi Plate PCB](#pra801--adafruit-prototyping-pi-plate-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA801 > Adafruit
+# PRA801 > Adafruit Prototyping Pi Plate PCB
 
 - ID: PROJ-ADAF-801-STAN-01
 - Hex ID: PRA801
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-801-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,|
-|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,|
-|CN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN3,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,|
-|CN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN4,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,1X5,1X5,1X05-3.5MM,,,|
-|JP1,HEAD-UNMATCHED-X-PI08-01,JP1,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI08-01,JP2,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI06-01,JP3,,PINHD-1X6B,1X06-BIG,PIN HEADER,,|
-|JP4,HEAD-I01-X-PI08-01,JP4,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|JP5,HEAD-I01-X-PI08-01,JP5,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|JP6,HEAD-I01-X-PI08-01,JP6,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,RASPBERRYPI_BB,RASPBERRYPI_BB,RASBERRYPI_SHIELD,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,SMD-16SOIC,SMD-16SOIC,SO-16NMW,,,|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN3 CN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN4 CN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,HEAD-UNMATCHED-X-PI08-01|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP5 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP6 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

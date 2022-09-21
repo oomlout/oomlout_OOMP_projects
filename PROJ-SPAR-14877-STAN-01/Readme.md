@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14877 > Sparkfun](#prs14877--sparkfun)
+* [PRS14877 > Flashlight](#prs14877--flashlight)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14877 > Sparkfun
+# PRS14877 > Flashlight
 
 - ID: PROJ-SPAR-14877-STAN-01
 - Hex ID: PRS14877
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14877-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BT2,,BATTERY-20MM_PTH_KIT,BATTCOM_20MM_PTH_KIT,Battery - Single Cell,9031,,,|
-|D1,LEDS-UNMATCHED-G-STAN-01,D1,,LED-5MM-KIT-NO-SILK,LED_5MM-KIT-NO-SILK,LED (Generic),9903,,,|
-|R1,RESE-UNMATCHED-X-O11-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
+|BT2 BT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|D1 D1,LEDS-UNMATCHED-G-STAN-01|
+|R1 R1,RESE-UNMATCHED-X-O100-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,7 +65,7 @@ Contents
 - oompID: PROJ-SPAR-14877-STAN-01
 - oompParts: BT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: D1,LEDS-UNMATCHED-G-STAN-01
-- oompParts: R1,RESE-UNMATCHED-X-O11-01
+- oompParts: R1,RESE-UNMATCHED-X-O100-01
 - oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BT2,,BATTERY-20MM_PTH_KIT,BATTCOM_20MM_PTH_KIT,Battery - Single Cell,9031,,,
 - rawParts: D1,,LED-5MM-KIT-NO-SILK,LED_5MM-KIT-NO-SILK,LED (Generic),9903,,,

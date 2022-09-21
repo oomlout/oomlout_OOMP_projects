@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10588 > Sparkfun](#prs10588--sparkfun)
+* [PRS10588 > Audio Jack Breakout](#prs10588--audio-jack-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10588 > Sparkfun
+# PRS10588 > Audio Jack Breakout
 
 - ID: PROJ-SPAR-10588-STAN-01
 - Hex ID: PRS10588
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10588-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI05-01,JP1,,M05PTH,1X05,Header 5,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

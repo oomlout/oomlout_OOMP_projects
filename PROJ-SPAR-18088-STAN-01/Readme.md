@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18088 > Sparkfun](#prs18088--sparkfun)
+* [PRS18088 > 2D Barcode Scanner Breakout](#prs18088--2d-barcode-scanner-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18088 > Sparkfun
+# PRS18088 > 2D Barcode Scanner Breakout
 
 - ID: PROJ-SPAR-18088-STAN-01
 - Hex ID: PRS18088
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18088-STAN-01/kicad/bom/ibom.html)

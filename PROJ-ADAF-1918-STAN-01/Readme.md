@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1918 > Adafruit](#pra1918--adafruit)
+* [PRA1918 > Adafruit GUVA Analog UV Sensor Breakout PCB](#pra1918--adafruit-guva-analog-uv-sensor-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1918 > Adafruit
+# PRA1918 > Adafruit GUVA Analog UV Sensor Breakout PCB
 
 - ID: PROJ-ADAF-1918-STAN-01
 - Hex ID: PRA1918
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1918-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|JP2,HEAD-I01-X-PI03-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O105-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-UNMATCHED-01,JP2,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,|
-|R3,RESE-0805-X-O102-01,R1,1M,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R2,3.3K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|R1 R1,RESE-0805-X-O105-01|
+|R2 R2,RESE-0805-X-UNMATCHED-01|
+|[R3 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,8 +67,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1918
 - oompID: PROJ-ADAF-1918-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
-- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
 - oompParts: R1,RESE-0805-X-O105-01
 - oompParts: R2,RESE-0805-X-UNMATCHED-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11629 > Sparkfun](#prs11629--sparkfun)
+* [PRS11629 > Serial7SegmentDisplay](#prs11629--serial7segmentdisplay)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11629 > Sparkfun
+# PRS11629 > Serial7SegmentDisplay
 
 - ID: PROJ-SPAR-11629-STAN-01
 - Hex ID: PRS11629
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11629-STAN-01/kicad/bom/ibom.html)
@@ -34,27 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ATMEGA328P-AU,UNMATCHED-UNMATCHED-X-UNMATCHED-01,ATMEGA328P-AU,ATMEGA328P-AU,ATMEGA168,TQFP32-08,,,|
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-NF100-01,C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-NF100-01,C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP2,HEAD-I01-X-PI02-01,JP1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP6,HEAD-I01-X-PI02-01,JP2,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|JP7,HEAD-I01-X-PI02-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP8,HEAD-I01-X-PI02-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP11,HEAD-I01-X-PI05-01,JP5,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP12,HEAD-I01-X-PI10-01,JP6,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|R1,RESE-0402-X-O103-01,JP8,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|R2,RESE-0402-X-O102-01,JP9,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R3,RESE-0402-X-O102-01,JP10,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R4,RESE-0402-X-O102-01,JP11,,M05PTH-NS,1X05_NO_SILK,Header 5,,|
-|R6,RESE-0402-X-O102-01,JP12,M10SIP_NS,M10SIP_NS,1X10_NO_SILK,Header 10,,|
-|R7,RESE-0402-X-O102-01,LED1,7-SEGMENT-4DIGIT-YOUNGSUN,7-SEGMENT-4DIGIT-YOUNGSUN,7-SEGMENT-4DIGIT-YOUNGSUN,This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.,,|
-|R8,RESE-0402-X-O102-01,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R9,RESE-0402-X-O102-01,R2,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R10,RESE-0402-X-O102-01,R3,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|ATMEGA328P-AU ATMEGA328P-AU,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-UF1D-01|
+|C4 C4,CAPC-0402-X-UF1D-01|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP11 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP12 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R3 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R4 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R6 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R7 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R8 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R9 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R10 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
 
 ## Images
   
@@ -77,16 +80,16 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11629
 - oompID: PROJ-SPAR-11629-STAN-01
 - oompParts: ATMEGA328P-AU,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C3,CAPC-0402-X-NF100-01
-- oompParts: C4,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-UF1D-01
+- oompParts: C4,CAPC-0402-X-UF1D-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
 - oompParts: JP6,HEAD-I01-X-PI02-01
 - oompParts: JP7,HEAD-I01-X-PI02-01
 - oompParts: JP8,HEAD-I01-X-PI02-01
 - oompParts: JP11,HEAD-I01-X-PI05-01
 - oompParts: JP12,HEAD-I01-X-PI10-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-0402-X-O102-01
 - oompParts: R3,RESE-0402-X-O102-01
@@ -96,7 +99,6 @@ Contents
 - oompParts: R8,RESE-0402-X-O102-01
 - oompParts: R9,RESE-0402-X-O102-01
 - oompParts: R10,RESE-0402-X-O102-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: ATMEGA328P-AU,ATMEGA328P-AU,ATMEGA168,TQFP32-08,,,
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

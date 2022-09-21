@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3190 > Adafruit](#pra3190--adafruit)
+* [PRA3190 > Adafruit DRV8871 Breakout PCB](#pra3190--adafruit-drv8871-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3190 > Adafruit
+# PRA3190 > Adafruit DRV8871 Breakout PCB
 
 - ID: PROJ-ADAF-3190-STAN-01
 - Hex ID: PRA3190
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3190-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,0.1uF/50V,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPX-UNMATCHED-X-UNMATCHED-01,C2,22uF/63V,CAP_ELECTROLYTICPANASONIC_D,PANASONIC_D,Electrolytic Capacitors,,|
-|JP2,HEAD-I01-X-PI04-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O303-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,30K,FLIPFLOP-RES,0805-THM,Flip Flop resistor,,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$9,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
+|C1 C1,CAPC-0805-X-UNMATCHED-01|
+|C2 C2,CAPX-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[R1 RESE-0805-X-O303-01 SMD (0805) 30k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O303-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

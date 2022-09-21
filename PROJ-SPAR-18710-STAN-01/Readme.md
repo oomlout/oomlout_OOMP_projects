@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18710 > Sparkfun](#prs18710--sparkfun)
+* [PRS18710 > MicroMod mikroBUS Carrier Board](#prs18710--micromod-mikrobus-carrier-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18710 > Sparkfun
+# PRS18710 > MicroMod mikroBUS Carrier Board
 
 - ID: PROJ-SPAR-18710-STAN-01
 - Hex ID: PRS18710
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18710-STAN-01/kicad/bom/ibom.html)

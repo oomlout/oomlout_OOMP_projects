@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1754 > Adafruit](#pra1754--adafruit)
+* [PRA1754 > Adafruit Pi Cobber PCBs](#pra1754--adafruit-pi-cobber-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1754 > Adafruit
+# PRA1754 > Adafruit Pi Cobber PCBs
 
 - ID: PROJ-ADAF-1754-STAN-01
 - Hex ID: PRA1754
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1754-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,PI,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,|
-|JP2,HEAD-I01-X-PI13-01,JP2,Right,HEADER-1X13,1X13_ROUND_70,,,|
-|JP3,HEAD-I01-X-PI13-01,JP3,Left,HEADER-1X13,1X13_ROUND_70,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$4,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$5,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,HEAD-I01-X-PI13-01|
+|JP3 JP3,HEAD-I01-X-PI13-01|
 
 ## Images
   
@@ -65,10 +65,6 @@ Contents
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI13-01
 - oompParts: JP3,HEAD-I01-X-PI13-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,PI,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,
 - rawParts: JP2,Right,HEADER-1X13,1X13_ROUND_70,,,
 - rawParts: JP3,Left,HEADER-1X13,1X13_ROUND_70,,,

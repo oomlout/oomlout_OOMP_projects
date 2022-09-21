@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS747 > Sparkfun](#prs747--sparkfun)
+* [PRS747 > LMD1820x Breakout](#prs747--lmd1820x-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS747 > Sparkfun
+# PRS747 > LMD1820x Breakout
 
 - ID: PROJ-SPAR-747-STAN-01
 - Hex ID: PRS747
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-747-STAN-01/kicad/bom/ibom.html)

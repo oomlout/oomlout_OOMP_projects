@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1713 > Adafruit](#pra1713--adafruit)
+* [PRA1713 > Adafruit MAX9814 AGC Microphone PCB](#pra1713--adafruit-max9814-agc-microphone-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1713 > Adafruit
+# PRA1713 > Adafruit MAX9814 AGC Microphone PCB
 
 - ID: PROJ-ADAF-1713-STAN-01
 - Hex ID: PRA1713
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1713-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C8,CAPC-0805-X-NF470-01,C8,0.47uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C9,CAPC-0805-X-NF100-V50,C9,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,FERRITE,FERRITE0805,0805,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,FERRITE,FERRITE0805,0805,Ferrite Bead,,|
-|J2,HEAD-I01-X-PI05-01,J2,,HEADER-1X576MIL,1X05_ROUND_76,PIN HEADER,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q1,CMA-4544PF-W,ELECTRET,9.7ELECTRET,Electret microphone,,|
-|R1,RESE-0805-X-O1503-01,R1,150k,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O1003-01,R2,100k,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-UNMATCHED-01,R3,2.2K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,MAX9814TDFN14,MAX9814TDFN14,TDFN14_3X3MM,,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|C1 C1,CAPC-0805-X-UF22D-01|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|C5 C5,CAPC-0805-X-UF22D-01|
+|C8 C8,CAPC-0805-X-NF470-01|
+|C9 C9,CAPC-0805-X-UF1D-01|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|[J2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0805-X-O1503-01|
+|R2 R2,RESE-0805-X-O1003-01|
+|[R3 RESE-0805-X-O222-01 SMD (0805) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O222-01/)|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,21 +72,19 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1713
 - oompID: PROJ-ADAF-1713-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-NF100-V50
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF22D-01
+- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C5,CAPC-0805-X-UF22D-01
 - oompParts: C8,CAPC-0805-X-NF470-01
-- oompParts: C9,CAPC-0805-X-NF100-V50
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: C9,CAPC-0805-X-UF1D-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: J2,HEAD-I01-X-PI05-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O1503-01
 - oompParts: R2,RESE-0805-X-O1003-01
-- oompParts: R3,RESE-0805-X-UNMATCHED-01
+- oompParts: R3,RESE-0805-X-O222-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: C5,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,

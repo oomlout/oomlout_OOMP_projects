@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS19096 > Sparkfun](#prs19096--sparkfun)
+* [PRS19096 > Qwiic Environmental Sensor BME688](#prs19096--qwiic-environmental-sensor-bme688)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS19096 > Sparkfun
+# PRS19096 > Qwiic Environmental Sensor BME688
 
 - ID: PROJ-SPAR-19096-STAN-01
 - Hex ID: PRS19096
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-19096-STAN-01/kicad/bom/ibom.html)

@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9267 > Sparkfun](#prs9267--sparkfun)
+* [PRS9267 > LilyPad Accelerometer-ADXL335](#prs9267--lilypad-accelerometer-adxl335)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9267 > Sparkfun
+# PRS9267 > LilyPad Accelerometer-ADXL335
 
 - ID: PROJ-SPAR-9267-STAN-01
 - Hex ID: PRS9267
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

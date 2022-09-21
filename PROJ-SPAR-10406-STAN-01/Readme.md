@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS10406 > Sparkfun](#prs10406--sparkfun)
+* [PRS10406 > RFID Evaluation Shield](#prs10406--rfid-evaluation-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10406 > Sparkfun
+# PRS10406 > RFID Evaluation Shield
 
 - ID: PROJ-SPAR-10406-STAN-01
 - Hex ID: PRS10406
@@ -24,35 +25,38 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,22pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,27pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,27pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C5,CAPC-0402-X-UNMATCHED-01,C5,18pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C6,CAPC-0402-X-UNMATCHED-01,C6,18pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C7,CAPC-0402-X-UNMATCHED-01,C7,22pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C8,CAPC-0402-X-NF100-01,C8,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI06-01,JP1,XBee Regulated,M06SIP,1X06,Header 6,,|
-|JP6,HEAD-I01-X-PI05-01,JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|LED1,LEDS-0603-G-STAN-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|LED2,LEDS-0603-G-STAN-01,JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|LED3,LEDS-0603-G-STAN-01,JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R1,RESE-0402-X-O103-01,JP6,,M05PTH,1X05,Header 5,,|
-|R3,RESE-0402-X-O331-01,JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R4,RESE-0402-X-O331-01,JP8,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R5,RESE-0402-X-UNMATCHED-01,JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R6,RESE-0402-X-UNMATCHED-01,JP11,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R7,RESE-0402-X-O331-01,JP12,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R8,RESE-0402-X-UNMATCHED-01,JP13,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R9,RESE-0402-X-UNMATCHED-01,LED1,yellow,LED0603,LED-0603,LEDs,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,green,LED0603,LED-0603,LEDs,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED3,red,LED0603,LED-0603,LEDs,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-PF22-01|
+|C3 C3,CAPC-0402-X-PF27-01|
+|C4 C4,CAPC-0402-X-PF27-01|
+|C5 C5,CAPC-0402-X-PF18-01|
+|C6 C6,CAPC-0402-X-PF18-01|
+|C7 C7,CAPC-0402-X-PF22-01|
+|C8 C8,CAPC-0402-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP6 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R3 R3,RESE-0402-X-O331-01|
+|R4 R4,RESE-0402-X-O331-01|
+|[R5 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R6 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|R7 R7,RESE-0402-X-O331-01|
+|R8 R8,RESE-0402-X-UNMATCHED-01|
+|R9 R9,RESE-0402-X-UNMATCHED-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,14 +78,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFID_Evaluation_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10406
 - oompID: PROJ-SPAR-10406-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0402-X-UNMATCHED-01
-- oompParts: C6,CAPC-0402-X-UNMATCHED-01
-- oompParts: C7,CAPC-0402-X-UNMATCHED-01
-- oompParts: C8,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-PF22-01
+- oompParts: C3,CAPC-0402-X-PF27-01
+- oompParts: C4,CAPC-0402-X-PF27-01
+- oompParts: C5,CAPC-0402-X-PF18-01
+- oompParts: C6,CAPC-0402-X-PF18-01
+- oompParts: C7,CAPC-0402-X-PF22-01
+- oompParts: C8,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP6,HEAD-I01-X-PI05-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
@@ -90,8 +94,8 @@ Contents
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R3,RESE-0402-X-O331-01
 - oompParts: R4,RESE-0402-X-O331-01
-- oompParts: R5,RESE-0402-X-UNMATCHED-01
-- oompParts: R6,RESE-0402-X-UNMATCHED-01
+- oompParts: R5,RESE-0402-X-O472-01
+- oompParts: R6,RESE-0402-X-O472-01
 - oompParts: R7,RESE-0402-X-O331-01
 - oompParts: R8,RESE-0402-X-UNMATCHED-01
 - oompParts: R9,RESE-0402-X-UNMATCHED-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10141 > Sparkfun](#prs10141--sparkfun)
+* [PRS10141 > LS20126 GPS Breakout](#prs10141--ls20126-gps-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10141 > Sparkfun
+# PRS10141 > LS20126 GPS Breakout
 
 - ID: PROJ-SPAR-10141-STAN-01
 - Hex ID: PRS10141
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10141-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI01-01,JP1,M01PTH,M01PTH,1X01,Header 1,,|
-|JP2,HEAD-I01-X-PI06-01,JP2,,M06SIP,1X06,Header 6,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U1,LS20126,LS20126,LS20126,LS20126 20-Channel GPS Module,,|
+|JP1 JP1,HEAD-I01-X-PI01-01|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,7 +64,6 @@ Contents
 - oompID: PROJ-SPAR-10141-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,M01PTH,M01PTH,1X01,Header 1,,
 - rawParts: JP2,,M06SIP,1X06,Header 6,,

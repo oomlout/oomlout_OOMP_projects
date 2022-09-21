@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11214 > Sparkfun](#prs11214--sparkfun)
+* [PRS11214 > MOSFET Power Controller](#prs11214--mosfet-power-controller)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11214 > Sparkfun
+# PRS11214 > MOSFET Power Controller
 
 - ID: PROJ-SPAR-11214-STAN-01
 - Hex ID: PRS11214
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11214-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BH1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BH1,TRIG+,BUTTONHOLELARGE,BUTTONHOLE,,1,,,|
-|BH2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BH2,TRIG-,BUTTONHOLELARGE,BUTTONHOLE,,1,,,|
-|BH3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BH3,OUT+,BUTTONHOLELARGE,BUTTONHOLE,,1,,,|
-|BH4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BH4,OUT-,BUTTONHOLELARGE,BUTTONHOLE,,1,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,|
-|JP2,HEAD-I01-X-PI02-01,JP1,JST-SMT,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,CONN-08352,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,M02PTH,1X02,Header 2,,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,JST-PTH,M02-JST-2-PTH-NO_SILK,JST-2-PTH-NS,Header 2,1,,,|
-|JP5,HEAD-I01-X-PI02-01,JP4,JST-PTH,M02-JST-2-PTH-NO_SILK,JST-2-PTH-NS,Header 2,1,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,,M02PTH,1X02,Header 2,,,,|
-|R1,RESE-0402-X-O103-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,|
-|R2,RESE-0402-X-O105-01,JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,|
+|BH1 BH1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|BH2 BH2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|BH3 BH3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|BH4 BH4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O105-01 SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
 
 ## Images
   

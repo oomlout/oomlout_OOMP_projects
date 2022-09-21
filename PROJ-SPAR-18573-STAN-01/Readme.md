@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18573 > Sparkfun](#prs18573--sparkfun)
+* [PRS18573 > MicroMod Function LoRa 1W](#prs18573--micromod-function-lora-1w)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18573 > Sparkfun
+# PRS18573 > MicroMod Function LoRa 1W
 
 - ID: PROJ-SPAR-18573-STAN-01
 - Hex ID: PRS18573
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18573-STAN-01/kicad/bom/ibom.html)

@@ -65,10 +65,6 @@
             "value": "RFM22-XXX-S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
-            "name": "oompParts",
-            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
             "name": "rawParts",
             "value": "JP0,POWER,M02PTH,1X02,Header 2,,"
         },

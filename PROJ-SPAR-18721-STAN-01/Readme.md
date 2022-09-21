@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18721 > Sparkfun](#prs18721--sparkfun)
+* [PRS18721 > RP2040 mikroBUS Dev Board](#prs18721--rp2040-mikrobus-dev-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18721 > Sparkfun
+# PRS18721 > RP2040 mikroBUS Dev Board
 
 - ID: PROJ-SPAR-18721-STAN-01
 - Hex ID: PRS18721
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18721-STAN-01/kicad/bom/ibom.html)

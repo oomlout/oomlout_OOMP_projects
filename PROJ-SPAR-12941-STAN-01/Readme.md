@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12941 > Sparkfun](#prs12941--sparkfun)
+* [PRS12941 > SD-MMC Breakout](#prs12941--sd-mmc-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12941 > Sparkfun
+# PRS12941 > SD-MMC Breakout
 
 - ID: PROJ-SPAR-12941-STAN-01
 - Hex ID: PRS12941
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12941-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP5,HEAD-I01-X-PI10-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
+|[JP5 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

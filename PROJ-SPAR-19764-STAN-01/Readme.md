@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS19764 > Sparkfun](#prs19764--sparkfun)
+* [PRS19764 > SparkFun Qwiic 6DoF ISM330DHCX](#prs19764--sparkfun-qwiic-6dof-ism330dhcx)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS19764 > Sparkfun
+# PRS19764 > SparkFun Qwiic 6DoF ISM330DHCX
 
 - ID: PROJ-SPAR-19764-STAN-01
 - Hex ID: PRS19764
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-19764-STAN-01/kicad/bom/ibom.html)

@@ -42,22 +42,6 @@
         },
         {
             "name": "oompParts",
-            "value": "3V3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B0,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "BOOT,LEDS-0805-G-STAN-01"
         },
         {
@@ -74,15 +58,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D2,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D2,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "D3,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "D3,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -123,10 +103,6 @@
         {
             "name": "oompParts",
             "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VBAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13343 > Sparkfun](#prs13343--sparkfun)
+* [PRS13343 > LilyPad Reed Switch](#prs13343--lilypad-reed-switch)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13343 > Sparkfun
+# PRS13343 > LilyPad Reed Switch
 
 - ID: PROJ-SPAR-13343-STAN-01
 - Hex ID: PRS13343
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13343-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,v01,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOS-COPPER,OSHW-LOGOS-COPPER,OSHW-LOGO-S_COPPER,Open Source Hardware Logo,,,,|
-|SLIDEOFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,,,|
-|SLIDEON,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S1,REED,SWITCH-MOMENTARY-2PTH_REED2,REED_SWITCH_PLASTIC,Various NO switches- pushbuttons, reed, etc,,SWCH-10467,,|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,8 +63,6 @@ Contents
 - oompID: PROJ-SPAR-13343-STAN-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SLIDEOFF,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SLIDEON,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,v01,
 - rawParts: LOGO1,OSHW-LOGOS-COPPER,OSHW-LOGOS-COPPER,OSHW-LOGO-S_COPPER,Open Source Hardware Logo,,,,
 - rawParts: LOGO2,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,,,

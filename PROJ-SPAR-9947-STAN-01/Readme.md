@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9947 > Sparkfun](#prs9947--sparkfun)
+* [PRS9947 > USB Host Shield](#prs9947--usb-host-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9947 > Sparkfun
+# PRS9947 > USB Host Shield
 
 - ID: PROJ-SPAR-9947-STAN-01
 - Hex ID: PRS9947
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

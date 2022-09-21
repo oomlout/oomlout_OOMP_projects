@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA395 > Adafruit](#pra395--adafruit)
+* [PRA395 > Adafruit TXB0108 PCB](#pra395--adafruit-txb0108-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA395 > Adafruit
+# PRA395 > Adafruit TXB0108 PCB
 
 - ID: PROJ-ADAF-395-STAN-01
 - Hex ID: PRA395
@@ -24,17 +25,20 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|JP1,HEAD-I01-X-PI10-01,JP1,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI10-01,JP2,,HEADER-1X10THICKER,1X10_ROUND_76,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$6,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -56,8 +60,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TXB0108-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/395
 - oompID: PROJ-ADAF-395-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
-- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI10-01
 - oompParts: R1,RESE-0805-X-O103-01

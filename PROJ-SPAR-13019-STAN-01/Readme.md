@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13019 > Sparkfun](#prs13019--sparkfun)
+* [PRS13019 > BLE Mate2](#prs13019--ble-mate2)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13019 > Sparkfun
+# PRS13019 > BLE Mate2
 
 - ID: PROJ-SPAR-13019-STAN-01
 - Hex ID: PRS13019
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13019-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,2.2uF,2.2UF-10V-20%(0603),0603-CAP,CAP-07888,CAP-07888,2.2uF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI09-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI09-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI06-01,INP,JUMPER-PAD-3-2OF3_NC_BY_PASTE,JUMPER-PAD-3-2OF3_NC_BY_PASTE,PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX,,,,|
-|LED0,LEDS-0603-G-STAN-01,JP1,FTDI_BASICPTH,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic header with labels,,,|
-|LED1,LEDS-0603-G-STAN-01,JP2,M09,M09,1X09,Header 9,,,|
-|Q1,UNMATCHED-SO23-X-KBSS138-01,JP3,M09,M09,1X09,Header 9,,,|
-|R1,RESE-0603-X-O102-01,JP4,,M06SIP,1X06,Header 6,,,|
-|R2,RESE-0603-X-O1003-01,LED0,BLUE,LED-BLUE0603,LED-0603,Blue LEDs for production use,DIO-08575,BLUE,|
-|R3,RESE-0603-X-O103-01,LED1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|R4,RESE-0603-X-O103-01,LEDS,JUMPER-PAD-3-NC_BY_PASTE,JUMPER-PAD-3-NC_BY_PASTE,PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX,,,,|
-|R5,RESE-0603-X-O102-01,LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,|
-|R6,RESE-0603-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R7,RESE-0603-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|R8,RESE-0603-X-O102-01,LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q1,BSS138,MOSFET-NCHANNELBSS138,SOT23,Common NMOSFET Parts,TRANS-00830,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R1,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,|
+|C1 C1,CAPC-0603-X-NF10-01|
+|C2 C2,CAPC-0603-X-UF22D-01|
+|C3 C3,CAPC-0603-X-UF1-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED0 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-KBSS138-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R2 R2,RESE-0603-X-O1003-01|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R6 R6,RESE-0603-X-UNMATCHED-01|
+|R7 R7,RESE-0603-X-UNMATCHED-01|
+|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,9 +79,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/BLE_Mate2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13019
 - oompID: PROJ-SPAR-13019-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-NF10-01
+- oompParts: C2,CAPC-0603-X-UF22D-01
+- oompParts: C3,CAPC-0603-X-UF1-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI09-01
 - oompParts: JP3,HEAD-I01-X-PI09-01

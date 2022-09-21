@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1296 > Adafruit](#pra1296--adafruit)
+* [PRA1296 > Adafruit TMP006 and TMP007 PCB](#pra1296--adafruit-tmp006-and-tmp007-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1296 > Adafruit
+# PRA1296 > Adafruit TMP006 and TMP007 PCB
 
 - ID: PROJ-ADAF-1296-STAN-01
 - Hex ID: PRA1296
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1296-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI07-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R1,RESE-0805-X-O103-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R2,RESE-0805-X-O103-01,JP1,,HEADER-1X7THICKER,1X07_ROUND_76,PIN HEADER,,|
-|R3,RESE-0805-X-O103-01,R1,10K,RESISTOR0805,0805,Resistors,,|
-|R4,RESE-0805-X-O103-01,R2,10K,RESISTOR0805,0805,Resistors,,|
-|R5,RESE-0805-X-O103-01,R3,10K,RESISTOR0805,0805,Resistors,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,10K,RESISTOR0805,0805,Resistors,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,RESISTOR0805,0805,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$6,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -72,8 +74,6 @@ Contents
 - oompParts: R3,RESE-0805-X-O103-01
 - oompParts: R4,RESE-0805-X-O103-01
 - oompParts: R5,RESE-0805-X-O103-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,

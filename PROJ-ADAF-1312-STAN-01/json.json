@@ -54,19 +54,19 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-0603-X-UNMATCHED-01"
+            "value": "R1,RESE-0603-X-O102-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,RESE-0603-X-O21-01"
+            "value": "R2,RESE-0603-X-O220-01"
         },
         {
             "name": "oompParts",
-            "value": "R3,RESE-0603-X-O21-01"
+            "value": "R3,RESE-0603-X-O220-01"
         },
         {
             "name": "rawParts",

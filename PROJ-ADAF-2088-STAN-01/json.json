@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0805-X-NF100-V50"
+            "value": "C4,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "IC2,VREG-SO235-X-KLP298XS-V33D"
+            "value": "IC2,VREG-SO235-X-KMIC5225-V33D"
         },
         {
             "name": "oompParts",

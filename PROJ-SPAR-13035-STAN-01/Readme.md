@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13035 > Sparkfun](#prs13035--sparkfun)
+* [PRS13035 > Edison OLED Block](#prs13035--edison-oled-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13035 > Sparkfun
+# PRS13035 > Edison OLED Block
 
 - ID: PROJ-SPAR-13035-STAN-01
 - Hex ID: PRS13035
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13035-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,2.2uF,CAP0805,0805,Capacitor,,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,1uF X5R,CAP0805,0805,Capacitor,,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,1uF X5R,CAP0805,0805,Capacitor,,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C5,CAPC-1206-X-UNMATCHED-01,C5,4.7uF/16V,CAP1206,1206,Capacitor,,,|
-|C6,CAPC-0603-X-UF1-01,C6,1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP1,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O3903-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R3,RESE-0603-X-O103-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R4,RESE-0603-X-O103-01,J1,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_CONNECTOR_FULLMOUNTING_HOLES,EDISON_DAUGHTER,,,,|
-|R5,RESE-0603-X-O103-01,JP1,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|R6,RESE-0603-X-O103-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R7,RESE-0603-X-O103-01,OLED1,OLED0.66,OLED0.66,OLED-0.66-64X48,,,,|
-|R8,RESE-0603-X-O103-01,R1,390k,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
+|C1 C1,CAPC-0805-X-UF22D-01|
+|C2 C2,CAPC-0805-X-UNMATCHED-01|
+|C3 C3,CAPC-0805-X-UNMATCHED-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-1206-X-UNMATCHED-01|
+|C6 C6,CAPC-0603-X-UF1-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|OLED1 OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O3903-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S3 S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,7 +79,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_OLED_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13035
 - oompID: PROJ-SPAR-13035-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF22D-01
 - oompParts: C2,CAPC-0805-X-UNMATCHED-01
 - oompParts: C3,CAPC-0805-X-UNMATCHED-01
 - oompParts: C4,CAPC-0603-X-UF1-01

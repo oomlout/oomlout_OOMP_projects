@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9760 > Sparkfun](#prs9760--sparkfun)
+* [PRS9760 > Joystick Shield Kit](#prs9760--joystick-shield-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9760 > Sparkfun
+# PRS9760 > Joystick Shield Kit
 
 - ID: PROJ-SPAR-9760-STAN-01
 - Hex ID: PRS9760
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9760-STAN-01/kicad/bom/ibom.html)

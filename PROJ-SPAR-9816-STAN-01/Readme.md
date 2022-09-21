@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9816 > Sparkfun](#prs9816--sparkfun)
+* [PRS9816 > OpAmp Breakout-LMV358](#prs9816--opamp-breakout-lmv358)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9816 > Sparkfun
+# PRS9816 > OpAmp Breakout-LMV358
 
 - ID: PROJ-SPAR-9816-STAN-01
 - Hex ID: PRS9816
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9816-STAN-01/kicad/bom/ibom.html)

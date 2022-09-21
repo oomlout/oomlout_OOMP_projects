@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11568 > Sparkfun](#prs11568--sparkfun)
+* [PRS11568 > Papilio Audio Wing](#prs11568--papilio-audio-wing)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11568 > Sparkfun
+# PRS11568 > Papilio Audio Wing
 
 - ID: PROJ-SPAR-11568-STAN-01
 - Hex ID: PRS11568
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11568-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|AJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,AJ1,AUDIO-JACK2SMD,AUDIO-JACK2SMD,AUDIO-JACK-3.5MM-SMD,Stereo audio jack with bypass switches.,,|
-|AJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,AJ2,AUDIO-JACK2SMD,AUDIO-JACK2SMD,AUDIO-JACK-3.5MM-SMD,Stereo audio jack with bypass switches.,,|
-|C1,CAPC-0402-X-UNMATCHED-01,C1,4.7nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,4.7nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,4.7nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,4.7nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI04-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI08-01,JP1,,M04PTH,1X04,Header 4,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP2,,M081X08,1X08,Header 8,,|
-|R2,RESE-0402-X-UNMATCHED-01,JP4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R3,RESE-0402-X-UNMATCHED-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R4,RESE-0402-X-UNMATCHED-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
+|AJ1 AJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|AJ2 AJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0402-X-PF47D-01|
+|C2 C2,CAPC-0402-X-PF47D-01|
+|C3 C3,CAPC-0402-X-PF47D-01|
+|C4 C4,CAPC-0402-X-PF47D-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|R1 R1,RESE-0402-X-UNMATCHED-01|
+|R2 R2,RESE-0402-X-UNMATCHED-01|
+|R3 R3,RESE-0402-X-UNMATCHED-01|
+|R4 R4,RESE-0402-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,10 +73,10 @@ Contents
 - oompID: PROJ-SPAR-11568-STAN-01
 - oompParts: AJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: AJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-PF47D-01
+- oompParts: C2,CAPC-0402-X-PF47D-01
+- oompParts: C3,CAPC-0402-X-PF47D-01
+- oompParts: C4,CAPC-0402-X-PF47D-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,HEAD-I01-X-PI08-01
 - oompParts: R1,RESE-0402-X-UNMATCHED-01

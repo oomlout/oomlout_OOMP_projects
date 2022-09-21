@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16344 > Sparkfun](#prs16344--sparkfun)
+* [PRS16344 > SparkFun GPS Dead Reckoning ZED-F9R](#prs16344--sparkfun-gps-dead-reckoning-zed-f9r)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16344 > Sparkfun
+# PRS16344 > SparkFun GPS Dead Reckoning ZED-F9R
 
 - ID: PROJ-SPAR-16344-STAN-01
 - Hex ID: PRS16344
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16344-STAN-01/kicad/bom/ibom.html)

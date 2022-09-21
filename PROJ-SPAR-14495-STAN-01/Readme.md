@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14495 > Sparkfun](#prs14495--sparkfun)
+* [PRS14495 > Qwiic Adapter](#prs14495--qwiic-adapter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14495 > Sparkfun
+# PRS14495 > Qwiic Adapter
 
 - ID: PROJ-SPAR-14495-STAN-01
 - Hex ID: PRS14495
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14495-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -62,7 +65,6 @@ Contents
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
 - rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,
 - rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3527 > Adafruit](#pra3527--adafruit)
+* [PRA3527 > Adafruit PiOLED 128x32 PCB](#pra3527--adafruit-pioled-128x32-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3527 > Adafruit
+# PRA3527 > Adafruit PiOLED 128x32 PCB
 
 - ID: PROJ-ADAF-3527-STAN-01
 - Hex ID: PRA3527
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3527-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0805-X-UF1-01,C2,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF1-01,C3,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UF10-V10,C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC5,UNMATCHED-SO23-X-UNMATCHED-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LCD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O103-01,IC5,APX803,AXP083-SAG,SOT23,,,|
-|R3,RESE-0805-X-O3903-01,LCD1,OLED 128x32,DISP_OLED_UG-2832HSWEG02,UG-2832HSWEG02_WRAPUNDER,128x32 I2C 0.91 Monochrome OLED Display,,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|C2 C2,CAPC-0805-X-UF1-01|
+|C3 C3,CAPC-0805-X-UF1-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
+|LCD1 LCD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R3 R3,RESE-0805-X-O3903-01|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

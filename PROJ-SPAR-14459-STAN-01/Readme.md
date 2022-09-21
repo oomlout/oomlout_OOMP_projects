@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14459 > Sparkfun](#prs14459--sparkfun)
+* [PRS14459 > Qwiic Hat for Raspberry Pi](#prs14459--qwiic-hat-for-raspberry-pi)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14459 > Sparkfun
+# PRS14459 > Qwiic Hat for Raspberry Pi
 
 - ID: PROJ-SPAR-14459-STAN-01
 - Hex ID: PRS14459
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14459-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,|
-|J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08437,,|
-|LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|U2,VREG-SO235-X-KAP2112K-V33D,J6,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J7,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF1-01|
+|J1 J1,HEAD-UNMATCHED-X-PI04-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J6 J6,HEAD-UNMATCHED-X-PI04-01|
+|J7 J7,HEAD-UNMATCHED-X-PI04-01|
+|J8 J8,HEAD-UNMATCHED-X-PI04-01|
+|J12 J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,18 +72,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Hat_for_Raspberry_Pi (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14459
 - oompID: PROJ-SPAR-14459-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPC-0603-X-UF1-01
+- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J6,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J7,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J8,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,

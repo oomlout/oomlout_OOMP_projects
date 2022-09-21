@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2020 > Adafruit](#pra2020--adafruit)
+* [PRA2020 > Adafruit Flora LSM9DS0 9DOF PCB](#pra2020--adafruit-flora-lsm9ds0-9dof-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2020 > Adafruit
+# PRA2020 > Adafruit Flora LSM9DS0 9DOF PCB
 
 - ID: PROJ-ADAF-2020-STAN-01
 - Hex ID: PRA2020
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2020-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-UNMATCHED-X-UNMATCHED-01,C2,10ÃÂµF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-NF220-01,C6,0.22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UF10-V10,C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R1,RESE-UNMATCHED-X-O103-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10K,RESISTOR_4PACK_US,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
+|C2 C2,CAPC-UNMATCHED-X-UF10-01|
+|C6 C6,CAPC-0805-X-NF220-01|
+|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|R1 R1,RESA-06038-X-O103X4-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,17 +64,11 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2020
 - oompID: PROJ-ADAF-2020-STAN-01
-- oompParts: C2,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C2,CAPC-UNMATCHED-X-UF10-01
 - oompParts: C6,CAPC-0805-X-NF220-01
 - oompParts: C7,CAPC-0805-X-UF10-V10
-- oompParts: GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-UNMATCHED-X-O103-01
-- oompParts: SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESA-06038-X-O103X4-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,10ÃÂµF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,
 - rawParts: C6,0.22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA390 > Adafruit](#pra390--adafruit)
+* [PRA390 > USB DC Solar Lithium Ion Polymer charger](#pra390--usb-dc-solar-lithium-ion-polymer-charger)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA390 > Adafruit
+# PRA390 > USB DC Solar Lithium Ion Polymer charger
 
 - ID: PROJ-ADAF-390-STAN-01
 - Hex ID: PRA390
@@ -24,39 +25,42 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|BATT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BATT,,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,|
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,10uF/10V,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C4,CAPX-UNMATCHED-X-UNMATCHED-01,C4,4700uF/10V,CPOL-USE5-13,E5-13,POLARIZED CAPACITOR, American symbol,,|
-|CHRG/LBO,LEDS-0805-G-STAN-01,CHRG/LBO,ORANGE,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,DCIN,DCBARREL1.3MM,DCJACK_1.3MM_PTH,DC Barrel Jack,,|
-|CN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN4,,USBMINIB,USB-MINIB,USB Connectors,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBR120VLSFT1G,DIODESOD-123,SOD-123,Diode,,|
-|D2,DIOD-0805-X-UNMATCHED-01,D2,0 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|DONE,LEDS-0805-G-STAN-01,DONE,GREEN,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,MCP73871,MCP73871,QFN20_4MM,,,|
-|JP1,HEAD-I01-X-PI02-01,JP1,DCIN,HEADER-1X2,1X02_OVAL,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI02-01,JP2,STATUS,HEADER-1X2,1X02_OVAL,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI02-01,JP3,LOAD,HEADER-1X2,1X02_OVAL,PIN HEADER,,|
-|JP4,HEAD-I01-X-PI02-01,JP4,BATT,HEADER-1X2,1X02_OVAL,PIN HEADER,,|
-|LOAD,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOAD,,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,|
-|PWR,LEDS-0805-G-STAN-01,PWR,RED,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|R2,RESE-0805-X-O2703-01,R2,270K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-O1003-01,R3,100K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R5,RESE-0805-X-O102-01,R5,1K,R-US_M0805,M0805,RESISTOR, American symbol,,|
-|R8,RESE-0805-X-O102-01,R8,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R9,RESE-0805-X-O102-01,R9,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R10,RESE-0805-X-O102-01,R10,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R11,RESE-0805-X-O202-01,R11,2K,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,|
-|R12,RESE-0805-X-O1003-01,R12,100K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|RT2,UNMATCHED-0805-X-UNMATCHED-01,RT2,150K,R-US_M0805,M0805,RESISTOR, American symbol,,|
-|THERM,UNMATCHED-0805-X-UNMATCHED-01,THERM,10K,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,|
+|BATT BATT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UNMATCHED-01|
+|C4 C4,CAPX-UNMATCHED-X-UNMATCHED-01|
+|[CHRG/LBO LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN4 CN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|D2 D2,DIOD-0805-X-UNMATCHED-01|
+|[DONE LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LOAD LOAD,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[PWR LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|R2 R2,RESE-0805-X-O2703-01|
+|R3 R3,RESE-0805-X-O1003-01|
+|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R8 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R10 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R11 RESE-0805-X-O202-01 SMD (0805) 2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O202-01/)|
+|R12 R12,RESE-0805-X-O1003-01|
+|RT2 RT2,UNMATCHED-0805-X-UNMATCHED-01|
+|THERM THERM,UNMATCHED-0805-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,7 +90,7 @@ Contents
 - oompParts: CHRG/LBO,LEDS-0805-G-STAN-01
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: CN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,DIOD-S123-X-KMBR120-01
 - oompParts: D2,DIOD-0805-X-UNMATCHED-01
 - oompParts: DONE,LEDS-0805-G-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

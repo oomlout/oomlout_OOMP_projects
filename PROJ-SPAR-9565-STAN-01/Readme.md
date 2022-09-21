@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9565 > Sparkfun](#prs9565--sparkfun)
+* [PRS9565 > Through-Hole Christmas Kit](#prs9565--through-hole-christmas-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9565 > Sparkfun
+# PRS9565 > Through-Hole Christmas Kit
 
 - ID: PROJ-SPAR-9565-STAN-01
 - Hex ID: PRS9565
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

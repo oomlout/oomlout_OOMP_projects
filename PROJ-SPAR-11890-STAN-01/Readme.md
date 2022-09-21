@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11890 > Sparkfun](#prs11890--sparkfun)
+* [PRS11890 > MiniMoto](#prs11890--minimoto)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11890 > Sparkfun
+# PRS11890 > MiniMoto
 
 - ID: PROJ-SPAR-11890-STAN-01
 - Hex ID: PRS11890
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11890-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|J2,TERS-35D-L-PI02-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|J4,TERS-35D-L-PI02-01,J1,M02PTH3,M02PTH3,1X02_LONGPADS,Standard 2-pin 0.1 header. Use with,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,|
-|J6,TERS-35D-L-PI02-01,J3,M02PTH3,M02PTH3,1X02_LONGPADS,Standard 2-pin 0.1 header. Use with,,,|
-|J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,M02PTH3,M02PTH3,1X02_LONGPADS,Standard 2-pin 0.1 header. Use with,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J6,M023.5MM,M023.5MM,SCREWTERMINAL-3.5MM-2,Standard 2-pin 0.1 header. Use with,,,|
-|R1,RESE-0603-X-O102-01,J7,M04X2,M04X2,2X4,.1 header, two rows of four.,,,|
-|R2,RESE-0603-X-O102-01,JP1,JUMPER-31-2,JUMPER-31-2,SJ_3_PASTE1&2,,,,|
-|R3,RESE-0805-X-UNMATCHED-01,JP2,JUMPER-31-2,JUMPER-31-2,SJ_3_PASTE1&2,,,,|
-|R4,RESE-0603-X-O103-01,LOGO1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
-|R5,RESE-0603-X-O103-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J2 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J4 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J6 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|J7 J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R3 R3,RESE-0805-X-UNMATCHED-01|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,7 +75,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MiniMoto (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11890
 - oompID: PROJ-SPAR-11890-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,TERS-35D-L-PI02-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

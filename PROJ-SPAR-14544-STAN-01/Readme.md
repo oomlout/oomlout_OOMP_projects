@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14544 > Sparkfun](#prs14544--sparkfun)
+* [PRS14544 > Current Sensor Breakout-ACS723-Low Current](#prs14544--current-sensor-breakout-acs723-low-current)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14544 > Sparkfun
+# PRS14544 > Current Sensor Breakout-ACS723-Low Current
 
 - ID: PROJ-SPAR-14544-STAN-01
 - Hex ID: PRS14544
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14544-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,100pF,100PF-0603-50V-5%,0603,100pF/0.1nF ceramic capacitors,,CAP-07883,100pF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,0.1uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,0.1uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,0.1uF,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,1nF,1.0NF/1000PF-0603-50V-10%,0603,1nF/1,000pF ceramic capacitors,,CAP-07886,1nF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|JP3,HEAD-I01-X-PI03-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|R1,RESE-0603-X-O223-01,H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,|
-|R2,RESE-0603-X-O102-01,J1,,CONN_01SMTSO-256-ET-0.165DIA,SMTSO-256-ET-0.165DIA,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,HW-08694,,|
-|R5,RESE-0603-X-UNMATCHED-01,J2,,CONN_01SMTSO-256-ET-0.165DIA,SMTSO-256-ET-0.165DIA,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,HW-08694,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,JP1,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,|
-|VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M03PTH,1X03,Header 3,,,,|
-|VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,|
+|C1 C1,CAPC-0603-X-PF100-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPC-0603-X-NF1-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[R1 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|VR1 VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|VR2 VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -72,19 +75,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14544
 - oompID: PROJ-SPAR-14544-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-PF100-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-NF1-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI03-01
 - oompParts: R1,RESE-0603-X-O223-01
 - oompParts: R2,RESE-0603-X-O102-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
+- oompParts: R5,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

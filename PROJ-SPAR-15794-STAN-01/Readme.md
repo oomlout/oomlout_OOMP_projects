@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15794 > Sparkfun](#prs15794--sparkfun)
+* [PRS15794 > Qwiic Pi SHIM](#prs15794--qwiic-pi-shim)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15794 > Sparkfun
+# PRS15794 > Qwiic Pi SHIM
 
 - ID: PROJ-SPAR-15794-STAN-01
 - Hex ID: PRS15794
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15794-STAN-01/kicad/bom/ibom.html)

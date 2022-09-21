@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4570 > Adafruit](#pra4570--adafruit)
+* [PRA4570 > Adafruit DS1841 PCB](#pra4570--adafruit-ds1841-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4570 > Adafruit
+# PRA4570 > Adafruit DS1841 PCB
 
 - ID: PROJ-ADAF-4570-STAN-01
 - Hex ID: PRA4570
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4570-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|CONN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN2,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|D1,LEDS-0603-G-STAN-01,D1,GREEN,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI04-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI06-01,IC1,DS1841,DS1841,DFN10_3X3MM,,,|
-|R1,RESE-0603-X-O103-01,JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|R5,RESE-UNMATCHED-X-O103-01,JP2,,HEADER-1X6ROUND,1X06_ROUND,PIN HEADER,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[CONN2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R5 R5,RESA-06038-X-O103X4-01|
 
 ## Images
   
@@ -65,16 +69,16 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-DS1841-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4570
 - oompID: PROJ-ADAF-4570-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: CONN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-I01-X-PI04-01
+- oompParts: CONN2,HEAD-I01-X-PI04-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: R5,RESE-UNMATCHED-X-O103-01
+- oompParts: R5,RESA-06038-X-O103X4-01
 - rawParts: C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
 - rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,

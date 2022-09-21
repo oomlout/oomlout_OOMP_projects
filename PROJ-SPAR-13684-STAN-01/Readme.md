@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13684 > Sparkfun](#prs13684--sparkfun)
+* [PRS13684 > MyoWare Power Shield](#prs13684--myoware-power-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13684 > Sparkfun
+# PRS13684 > MyoWare Power Shield
 
 - ID: PROJ-SPAR-13684-STAN-01
 - Hex ID: PRS13684
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13684-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,20mm coincell,|
-|BAT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT2,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,20mm coincell,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI03-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|BAT2 BAT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 
 ## Images
   

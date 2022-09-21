@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12786 > Sparkfun](#prs12786--sparkfun)
+* [PRS12786 > ADXL337 Breakout](#prs12786--adxl337-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12786 > Sparkfun
+# PRS12786 > ADXL337 Breakout
 
 - ID: PROJ-SPAR-12786-STAN-01
 - Hex ID: PRS12786
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12786-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0603-X-NF10-01|
+|C2 C2,CAPC-0603-X-NF10-01|
+|C3 C3,CAPC-0603-X-NF10-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,10 +65,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ADXL337_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12786
 - oompID: PROJ-SPAR-12786-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-NF10-01
+- oompParts: C2,CAPC-0603-X-NF10-01
+- oompParts: C3,CAPC-0603-X-NF10-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,CAP-00867,10nF,

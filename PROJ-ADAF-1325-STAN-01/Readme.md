@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1325 > Adafruit](#pra1325--adafruit)
+* [PRA1325 > Adafruit FPC SMT Adapter PCBs](#pra1325--adafruit-fpc-smt-adapter-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1325 > Adafruit
+# PRA1325 > Adafruit FPC SMT Adapter PCBs
 
 - ID: PROJ-ADAF-1325-STAN-01
 - Hex ID: PRA1325
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1325-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CON1,PINHD-1X40-0.5MM,PINHD-1X40-0.5MM,1X40-0.5MM,Pinouts for OLED/LCD displays with flex ribbons,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,PINHD-2X20-BIG,2X20-BIG,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI20-01,JP2,,PINHD-1X20-BIG,1X20-BIG,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI20-01,JP3,,PINHD-1X20-BIG,1X20-BIG,PIN HEADER,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,PINHD-1X40-0.6MM,PINHD-1X40-0.6MM,1X40-0.6MM,Pinouts for OLED/LCD displays with flex ribbons,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,PINHD-1X40-0.7MM,PINHD-1X40-0.7MM,1X40-0.7MM,Pinouts for OLED/LCD displays with flex ribbons,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,PINHD-1X40-0.8MM,PINHD-1X40-0.8MM,1X40-0.8MM,Pinouts for OLED/LCD displays with flex ribbons,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$4,PINHD-1X40-1MM,PINHD-1X40-1MM,1X40-1MM,Pinouts for OLED/LCD displays with flex ribbons,,|
+|CON1 CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|[JP3 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$4 U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

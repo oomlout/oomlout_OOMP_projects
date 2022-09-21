@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14843 > Sparkfun](#prs14843--sparkfun)
+* [PRS14843 > Qwiic IR Array MLX90640](#prs14843--qwiic-ir-array-mlx90640)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14843 > Sparkfun
+# PRS14843 > Qwiic IR Array MLX90640
 
 - ID: PROJ-SPAR-14843-STAN-01
 - Hex ID: PRS14843
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14843-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,,CAP-00868,,1.0uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,,|
-|LOGO4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,I2C,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,SMT-JUMPER_3_2-NC_TRACE_NO-SILK,Normally closed trace jumper (2 of 2 connections),,,,,|
-|R1,RESE-0603-X-UNMATCHED-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,|
-|R3,RESE-0603-X-O102-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,16 +70,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_IR_Array_MLX90640 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14843
 - oompID: PROJ-SPAR-14843-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O222-01
+- oompParts: R2,RESE-0603-X-O222-01
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13688 > Sparkfun](#prs13688--sparkfun)
+* [PRS13688 > MyoWare LED Shield](#prs13688--myoware-led-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13688 > Sparkfun
+# PRS13688 > MyoWare LED Shield
 
 - ID: PROJ-SPAR-13688-STAN-01
 - Hex ID: PRS13688
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13688-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|D2,LEDS-0603-G-STAN-01,D2,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|D3,DIOD-UNMATCHED-X-UNMATCHED-01,D3,SMA-B500,SMA-B500,LED_BAR_SMD,,DIO-13127,,|
-|D4,DIOD-UNMATCHED-X-UNMATCHED-01,D4,SMA-B500,SMA-B500,LED_BAR_SMD,,DIO-13127,,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI03-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI02-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP1,Power,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,|
-|R3,RESE-0603-X-O331-01,JP2,Signal,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,|
-|R4,RESE-0603-X-O103-01,JP3,LiPo,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|R5,RESE-0603-X-O331-01,JP4,,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,CONN-11752,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-UF47D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|D3 D3,LEDS-UNMATCHED-G-STAN-01|
+|D4 D4,LEDS-UNMATCHED-G-STAN-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
+|R2 R2,RESE-0603-X-UNMATCHED-01|
+|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -72,12 +76,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MyoWare_LED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13688
 - oompID: PROJ-SPAR-13688-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF47D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
-- oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: D4,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D3,LEDS-UNMATCHED-G-STAN-01
+- oompParts: D4,LEDS-UNMATCHED-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
 - oompParts: JP3,HEAD-I01-X-PI02-01

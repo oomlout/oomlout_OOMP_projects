@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2045 > Adafruit](#pra2045--adafruit)
+* [PRA2045 > Adafruit Si5351A Clock Generator Breakout PCB](#pra2045--adafruit-si5351a-clock-generator-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2045 > Adafruit
+# PRA2045 > Adafruit Si5351A Clock Generator Breakout PCB
 
 - ID: PROJ-ADAF-2045-STAN-01
 - Hex ID: PRA2045
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2045-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF470-01,C1,0.47uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-NF470-01,C2,0.47uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI07-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSN-SO23-X-KBSS138-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q2,MOSN-SO23-X-KBSS138-01,JP1,,HEADER-1X7THICKER,1X07_ROUND_76,PIN HEADER,,|
-|R5,RESE-0805-X-O103-01,Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R6,RESE-0805-X-O103-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R7,RESE-0805-X-O103-01,R5,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R8,RESE-0805-X-O103-01,R6,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R8,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$10,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$11,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
-|X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U1,Si5351A-B-GT,SI5351A,MSOP10,Si5351A 8kHz-160MHz I2C Clock Generator,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U2,RT9193,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,|
+|C1 C1,CAPC-0805-X-NF470-01|
+|C2 C2,CAPC-0805-X-NF470-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,8 +78,8 @@ Contents
 - oompID: PROJ-ADAF-2045-STAN-01
 - oompParts: C1,CAPC-0805-X-NF470-01
 - oompParts: C2,CAPC-0805-X-NF470-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0805-X-UF10-V10
+- oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI07-01
 - oompParts: Q1,MOSN-SO23-X-KBSS138-01
 - oompParts: Q2,MOSN-SO23-X-KBSS138-01

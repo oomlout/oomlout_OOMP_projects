@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1384 > Adafruit](#pra1384--adafruit)
+* [PRA1384 > Adafruit GA1A1S202WP Breakout PCB](#pra1384--adafruit-ga1a1s202wp-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1384 > Adafruit
+# PRA1384 > Adafruit GA1A1S202WP Breakout PCB
 
 - ID: PROJ-ADAF-1384-STAN-01
 - Hex ID: PRA1384
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1384-STAN-01/kicad/bom/ibom.html)
@@ -34,11 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O683-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,68K,RESISTOR_0805MP,_0805MP,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|R1 R1,RESE-0805-X-O683-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -60,10 +63,9 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1384
 - oompID: PROJ-ADAF-1384-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: R1,RESE-0805-X-O683-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

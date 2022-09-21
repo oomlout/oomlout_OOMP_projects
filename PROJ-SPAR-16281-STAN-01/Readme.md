@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16281 > Sparkfun](#prs16281--sparkfun)
+* [PRS16281 > SparkFun Real Time Clock Module RV-8803](#prs16281--sparkfun-real-time-clock-module-rv-8803)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16281 > Sparkfun
+# PRS16281 > SparkFun Real Time Clock Module RV-8803
 
 - ID: PROJ-SPAR-16281-STAN-01
 - Hex ID: PRS16281
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16281-STAN-01/kicad/bom/ibom.html)

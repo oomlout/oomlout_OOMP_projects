@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15290 > Sparkfun](#prs15290--sparkfun)
+* [PRS15290 > Qwiic Keypad](#prs15290--qwiic-keypad)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15290 > Sparkfun
+# PRS15290 > Qwiic Keypad
 
 - ID: PROJ-SPAR-15290-STAN-01
 - Hex ID: PRS15290
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15290-STAN-01/kicad/bom/ibom.html)

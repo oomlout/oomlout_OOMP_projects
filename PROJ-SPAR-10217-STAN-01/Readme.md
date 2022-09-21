@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10217 > Sparkfun](#prs10217--sparkfun)
+* [PRS10217 > Lipo Charger Basic-microUSB](#prs10217--lipo-charger-basic-microusb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10217 > Sparkfun
+# PRS10217 > Lipo Charger Basic-microUSB
 
 - ID: PROJ-SPAR-10217-STAN-01
 - Hex ID: PRS10217
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10217-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0603-X-UNMATCHED-01,C3,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,CAP-08280,4.7uF,|
-|D11,LEDS-0603-G-STAN-01,D11,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP8,HEAD-I01-X-PI02-01,JP1,JST,JST_2MM_MALE,JST-2-SMD,Mates to single-cell LiPo batteries.,CONN-08352,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R1,RESE-UNMATCHED-X-UNMATCHED-01,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O331-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP8,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,JP9,Micro USB,USB-ABCONN-11794,USB-AB-MICRO-SMD_V03,This is a USB AB connector that is compatible with USB OTG. i.e. this connector can serve as a host or device,CONN-11794,,|
+|C3 C3,CAPC-0603-X-UF47D-01|
+|C4 C4,CAPC-0603-X-UF47D-01|
+|[D11 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|R4 R4,RESE-0603-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,8 +69,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-microUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10217
 - oompID: PROJ-SPAR-10217-STAN-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C3,CAPC-0603-X-UF47D-01
+- oompParts: C4,CAPC-0603-X-UF47D-01
 - oompParts: D11,LEDS-0603-G-STAN-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP8,HEAD-I01-X-PI02-01

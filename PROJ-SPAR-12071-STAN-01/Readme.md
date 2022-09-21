@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12071 > Sparkfun](#prs12071--sparkfun)
+* [PRS12071 > CC3000 WiFi Shield](#prs12071--cc3000-wifi-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12071 > Sparkfun
+# PRS12071 > CC3000 WiFi Shield
 
 - ID: PROJ-SPAR-12071-STAN-01
 - Hex ID: PRS12071
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12071-STAN-01/kicad/bom/ibom.html)
@@ -34,34 +38,34 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|AE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,AE1,ANTENNA22500AT44M0400,ANTENNA22500AT44M0400,ANTENNA-CHIP_2500AT44M0400,Chip antenna,,,,,|
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP0805,0805,Capacitor,,,,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP0805,0805,Capacitor,,,,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,,,|
-|C4,CAPC-0805-X-UF1-01,C4,1uF,CAP0805,0805,Capacitor,,,,,|
-|C5,CAPC-0805-X-UF1-01,C5,1uF,CAP0805,0805,Capacitor,,,,,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,10pF,CAP0603-CAP,0603-CAP,Capacitor,C0G,,5%,,|
-|C7,CAPC-0603-X-UNMATCHED-01,C7,2.2pF,CAP0603-CAP,0603-CAP,Capacitor,C0G,,10%,,|
-|D1,LEDS-0603-G-STAN-01,C8,DNP,CAP0603-CAP,0603-CAP,Capacitor,,,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,D1,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,,DIO-00821,,GREEN,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,HEAD-I01-X-PI08-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP3,HEAD-I01-X-PI10-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,U.FL,U.FL,U.FL,SMD antenna connector- WRL-09144,,,,,|
-|JP5,HEAD-I01-X-PI04-01,JP1,Debug,M03PTH,1X03,Header 3,,,,,|
-|L2,UNMATCHED-0603-X-UNMATCHED-01,JP2,,M08NO_SILK,1X08_NO_SILK,Header 8,,,,,|
-|R1,RESE-0603-X-O241-01,JP3,M10NO_SILK,M10NO_SILK,1X10_NO_SILK,Header 10,,,,,|
-|R2,RESE-0603-X-O391-01,JP4,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,,,,|
-|R3,RESE-0603-X-O391-01,JP5,,M04PTH,1X04,Header 4,,,,,|
-|R4,RESE-0603-X-O103-01,L1,DNP,INDUCTOR0603,0603,Inductors,,,,,|
-|R5,RESE-0603-X-O103-01,L2,2.2nH,INDUCTOR0603,0603,Inductors,,,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,240,RESISTOR0603,0603-RES,Resistor,,,,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,390,RESISTOR0603,0603-RES,Resistor,,,,,|
-|U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,390,RESISTOR0603-RES,0603-RES,Resistor,,,,,|
-|U6,UNMATCHED-SO235-X-UNMATCHED-01,R4,10k,RESISTOR0603-RES,0603-RES,Resistor,,,,,|
+|AE1 AE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UF1-01|
+|C5 C5,CAPC-0805-X-UF1-01|
+|C6 C6,CAPC-0603-X-PF10-01|
+|C7 C7,CAPC-0603-X-PF22D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP5 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|L2 L2,UNMATCHED-0603-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|[R2 RESE-0603-X-O391-01 SMD (0603) 390 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|
+|[R3 RESE-0603-X-O391-01 SMD (0603) 390 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U6 U6,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,11 +90,11 @@ Contents
 - oompParts: AE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UF1-01
 - oompParts: C5,CAPC-0805-X-UF1-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
-- oompParts: C7,CAPC-0603-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-PF10-01
+- oompParts: C7,CAPC-0603-X-PF22D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI03-01

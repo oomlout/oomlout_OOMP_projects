@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3695 > Adafruit](#pra3695--adafruit)
+* [PRA3695 > Adafruit DragonTail for micro bit PCB](#pra3695--adafruit-dragontail-for-micro-bit-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3695 > Adafruit
+# PRA3695 > Adafruit DragonTail for micro bit PCB
 
 - ID: PROJ-ADAF-3695-STAN-01
 - Hex ID: PRA3695
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3695-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI11-01,JP1,,HEADER-1X1176MIL,1X11_ROUND_76,,,|
-|JP2,HEAD-I01-X-PI11-01,JP2,,HEADER-1X1176MIL,1X11_ROUND_76,,,|
-|JP4,HEAD-I01-X-PI02-01,JP4,,HEADER-1X2,1X02_OVAL,PIN HEADER,,|
-|MB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MB1,MICRO:BIT_RA,MICRO:BIT_RA,2X20_CARDEDGE_RA,,,|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|JP2 JP2,HEAD-I01-X-PI11-01|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|MB1 MB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

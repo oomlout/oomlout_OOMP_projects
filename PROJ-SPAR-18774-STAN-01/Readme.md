@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18774 > Sparkfun](#prs18774--sparkfun)
+* [PRS18774 > SparkFun GNSS Timing-ZED-F9T](#prs18774--sparkfun-gnss-timing-zed-f9t)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18774 > Sparkfun
+# PRS18774 > SparkFun GNSS Timing-ZED-F9T
 
 - ID: PROJ-SPAR-18774-STAN-01
 - Hex ID: PRS18774
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18774-STAN-01/kicad/bom/ibom.html)

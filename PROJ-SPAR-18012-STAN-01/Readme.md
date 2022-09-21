@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18012 > Sparkfun](#prs18012--sparkfun)
+* [PRS18012 > Qwiic MultiPort](#prs18012--qwiic-multiport)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18012 > Sparkfun
+# PRS18012 > Qwiic MultiPort
 
 - ID: PROJ-SPAR-18012-STAN-01
 - Hex ID: PRS18012
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18012-STAN-01/kicad/bom/ibom.html)

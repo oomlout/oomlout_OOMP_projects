@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3435 > Adafruit](#pra3435--adafruit)
+* [PRA3435 > Adafruit TPL5110 Power Timer Breakout PCB](#pra3435--adafruit-tpl5110-power-timer-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3435 > Adafruit
+# PRA3435 > Adafruit TPL5110 Power Timer Breakout PCB
 
 - ID: PROJ-ADAF-3435-STAN-01
 - Hex ID: PRA3435
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3435-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,LEDS-0805-G-STAN-01,D1,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|JP1,HEAD-I01-X-PI05-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSP-SO23-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O102-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|R2,RESE-0805-X-O105-01,Q1,DMG3415,MOSFET-PWIDE,SOT23-WIDE,P-Channel Mosfet,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1M,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
-|U2,UNMATCHED-SO23-X-UNMATCHED-01,SJ2,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
-|VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,EVQQ,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|Q1 Q1,MOSP-SO23-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|R2 R2,RESE-0805-X-O105-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO23-X-UNMATCHED-01|
+|VR1 VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -73,8 +75,6 @@ Contents
 - oompParts: R1,RESE-0805-X-O102-01
 - oompParts: R2,RESE-0805-X-O105-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

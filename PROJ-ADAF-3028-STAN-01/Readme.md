@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3028 > Adafruit](#pra3028--adafruit)
+* [PRA3028 > Adafruit DS3231 Precision RTC FeatherWing PCB](#pra3028--adafruit-ds3231-precision-rtc-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3028 > Adafruit
+# PRA3028 > Adafruit DS3231 Precision RTC FeatherWing PCB
 
 - ID: PROJ-ADAF-3028-STAN-01
 - Hex ID: PRA3028
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3028-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,CR1220,BATTERYCR1220_2,CR1220-2,CR1220 SMT - Digikey: 3001K-ND,,|
-|C1,CAPC-0805-X-UF1-01,C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI16-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI03-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI01-01,IC1,DS3231/SO,DS3231/SO,SO16W,,,|
-|JP4,HEAD-I01-X-PI11-01,JP1,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|JP5,HEAD-I01-X-PI01-01,JP2,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,JP4,,HEADER-1X11,1X11_ROUND,,,|
-|R2,RESE-0805-X-O103-01,JP5,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MS1,MICROSHIELD_NODIM,MICROSHIELD_NODIM,MICROSHIELD_DIM,,,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0805-X-UF1-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|JP3 JP3,HEAD-I01-X-PI01-01|
+|JP4 JP4,HEAD-I01-X-PI11-01|
+|JP5 JP5,HEAD-I01-X-PI01-01|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

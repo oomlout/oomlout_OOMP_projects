@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15165 > Sparkfun](#prs15165--sparkfun)
+* [PRS15165 > Qwiic MP3 Trigger](#prs15165--qwiic-mp3-trigger)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15165 > Sparkfun
+# PRS15165 > Qwiic MP3 Trigger
 
 - ID: PROJ-SPAR-15165-STAN-01
 - Hex ID: PRS15165
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15165-STAN-01/kicad/bom/ibom.html)

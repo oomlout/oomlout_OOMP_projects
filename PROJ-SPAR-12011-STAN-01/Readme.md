@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12011 > Sparkfun](#prs12011--sparkfun)
+* [PRS12011 > Tilt-a-Whirl Breakout](#prs12011--tilt-a-whirl-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12011 > Sparkfun
+# PRS12011 > Tilt-a-Whirl Breakout
 
 - ID: PROJ-SPAR-12011-STAN-01
 - Hex ID: PRS12011
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12011-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R1,RESE-0603-X-O223-01,JP1,,M04PTH,1X04,Header 4,,,|
-|R2,RESE-0603-X-O223-01,JP2,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O241-01,JP3,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,22k,22KOHM1/10W1%(0603),0603-RES,RES-07853,RES-07853,22K,|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[R1 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[R2 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[R3 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,7 +68,6 @@ Contents
 - oompParts: R1,RESE-0603-X-O223-01
 - oompParts: R2,RESE-0603-X-O223-01
 - oompParts: R3,RESE-0603-X-O241-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
 - rawParts: JP1,,M04PTH,1X04,Header 4,,,

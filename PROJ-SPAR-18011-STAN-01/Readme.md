@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18011 > Sparkfun](#prs18011--sparkfun)
+* [PRS18011 > SparkFun Analog MEMS Microphone Breakout ICS-40180](#prs18011--sparkfun-analog-mems-microphone-breakout-ics-40180)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18011 > Sparkfun
+# PRS18011 > SparkFun Analog MEMS Microphone Breakout ICS-40180
 
 - ID: PROJ-SPAR-18011-STAN-01
 - Hex ID: PRS18011
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18011-STAN-01/kicad/bom/ibom.html)

@@ -50,31 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-0603-X-O31-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE+,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "VIBE4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "R1,RESE-0603-X-O330-01"
         },
         {
             "name": "rawParts",

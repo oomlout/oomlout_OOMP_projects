@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14686 > Sparkfun](#prs14686--sparkfun)
+* [PRS14686 > Qwiic IMU BNO080](#prs14686--qwiic-imu-bno080)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14686 > Sparkfun
+# PRS14686 > Qwiic IMU BNO080
 
 - ID: PROJ-SPAR-14686-STAN-01
 - Hex ID: PRS14686
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14686-STAN-01/kicad/bom/ibom.html)
@@ -34,34 +38,33 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,22pF,22PF-0603-50V-5%,0603,22pF ceramic capacitors,CAP-07876,22pF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,22pF,22PF-0603-50V-5%,0603,22pF ceramic capacitors,CAP-07876,22pF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,RED,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08437,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,SMD,I2C_STANDARDJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,SMD,I2C_STANDARDJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,,,|
-|J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J6,SPI,CONN_08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08438,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J7,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J8,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|R1,RESE-0603-X-O103-01,JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O102-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O103-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R6,RESE-0603-X-O103-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R7,RESE-0603-X-O103-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R8,RESE-0603-X-O103-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R9,RESE-0603-X-UNMATCHED-01,LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,|
-|R10,RESE-0603-X-UNMATCHED-01,LOGO2,REVISION,REVISION,REVISION,Revision By Text,,,|
-|R12,RESE-0603-X-UNMATCHED-01,LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,|
-|R13,RESE-0603-X-UNMATCHED-01,LOGO5,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,|
-|SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,1k,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,10k,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-PF22-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPC-0603-X-PF22-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J7 J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R10 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R12 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R13 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|SJ1 SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -83,11 +86,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_IMU_BNO080 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14686
 - oompID: PROJ-SPAR-14686-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-PF22-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-PF22-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -97,17 +100,16 @@ Contents
 - oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R6,RESE-0603-X-O103-01
 - oompParts: R7,RESE-0603-X-O103-01
 - oompParts: R8,RESE-0603-X-O103-01
-- oompParts: R9,RESE-0603-X-UNMATCHED-01
-- oompParts: R10,RESE-0603-X-UNMATCHED-01
-- oompParts: R12,RESE-0603-X-UNMATCHED-01
-- oompParts: R13,RESE-0603-X-UNMATCHED-01
+- oompParts: R9,RESE-0603-X-O472-01
+- oompParts: R10,RESE-0603-X-O472-01
+- oompParts: R12,RESE-0603-X-O222-01
+- oompParts: R13,RESE-0603-X-O222-01
 - oompParts: SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

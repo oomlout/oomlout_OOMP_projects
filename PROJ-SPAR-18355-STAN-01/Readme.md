@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18355 > Sparkfun](#prs18355--sparkfun)
+* [PRS18355 > Qwiic EEPROM Breakout](#prs18355--qwiic-eeprom-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18355 > Sparkfun
+# PRS18355 > Qwiic EEPROM Breakout
 
 - ID: PROJ-SPAR-18355-STAN-01
 - Hex ID: PRS18355
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18355-STAN-01/kicad/bom/ibom.html)

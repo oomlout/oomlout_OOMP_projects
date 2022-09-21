@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11187 > Sparkfun](#prs11187--sparkfun)
+* [PRS11187 > 5-Way Tactile Switch Breakout](#prs11187--5-way-tactile-switch-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11187 > Sparkfun
+# PRS11187 > 5-Way Tactile Switch Breakout
 
 - ID: PROJ-SPAR-11187-STAN-01
 - Hex ID: PRS11187
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11187-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI07-01,JP1,,M07,1X07,Header 7,,|
-|R1,RESE-0603-X-O103-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0603-X-O103-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R3,RESE-0603-X-O103-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R4,RESE-0603-X-O103-01,JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R5,RESE-0603-X-O103-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP9,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,7 +73,6 @@ Contents
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O103-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M07,1X07,Header 7,,
 - rawParts: JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
 - rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,

@@ -5,12 +5,13 @@
 Contents
 ========
 
-* [PRS9363 > Sparkfun](#prs9363--sparkfun)
+* [PRS9363 > ColorLCDShield](#prs9363--colorlcdshield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# PRS9363 > Sparkfun
+# PRS9363 > ColorLCDShield
 
 - ID: PROJ-SPAR-9363-STAN-01
 - Hex ID: PRS9363
@@ -22,6 +23,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

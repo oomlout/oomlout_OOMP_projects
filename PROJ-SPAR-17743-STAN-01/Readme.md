@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17743 > Sparkfun](#prs17743--sparkfun)
+* [PRS17743 > ESP32-S2 Thing Plus](#prs17743--esp32-s2-thing-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17743 > Sparkfun
+# PRS17743 > ESP32-S2 Thing Plus
 
 - ID: PROJ-SPAR-17743-STAN-01
 - Hex ID: PRS17743
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17743-STAN-01/kicad/bom/ibom.html)

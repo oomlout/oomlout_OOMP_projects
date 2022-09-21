@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA3654 > Adafruit](#pra3654--adafruit)
+* [PRA3654 > Adafruit WINC1500 Shield PCB](#pra3654--adafruit-winc1500-shield-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3654 > Adafruit
+# PRA3654 > Adafruit WINC1500 Shield PCB
 
 - ID: PROJ-ADAF-3654-STAN-01
 - Hex ID: PRA3654
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3654-STAN-01/kicad/bom/ibom.html)

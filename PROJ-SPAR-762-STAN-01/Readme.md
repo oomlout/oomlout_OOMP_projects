@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS762 > Sparkfun](#prs762--sparkfun)
+* [PRS762 > USB Bit Whacker-18F2553](#prs762--usb-bit-whacker-18f2553)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS762 > Sparkfun
+# PRS762 > USB Bit Whacker-18F2553
 
 - ID: PROJ-SPAR-762-STAN-01
 - Hex ID: PRS762
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-762-STAN-01/kicad/bom/ibom.html)

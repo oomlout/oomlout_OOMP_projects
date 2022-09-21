@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS13926 > Sparkfun](#prs13926--sparkfun)
+* [PRS13926 > MMA8452 Accelerometer](#prs13926--mma8452-accelerometer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13926 > Sparkfun
+# PRS13926 > MMA8452 Accelerometer
 
 - ID: PROJ-SPAR-13926-STAN-01
 - Hex ID: PRS13926
@@ -24,20 +25,22 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP5,HEAD-I01-X-PI06-01,JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R1,RESE-0402-X-O103-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O103-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R3,RESE-0402-X-O103-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,,M06SIP,1X06,Header 6,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-UF47D-01|
+|[JP5 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -59,14 +62,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MMA8452_Accelerometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13926
 - oompID: PROJ-SPAR-13926-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-NF100-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-UF47D-01
 - oompParts: JP5,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-0402-X-O103-01
 - oompParts: R3,RESE-0402-X-O103-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13036 > Sparkfun](#prs13036--sparkfun)
+* [PRS13036 > Edison Arduino Block](#prs13036--edison-arduino-block)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13036 > Sparkfun
+# PRS13036 > Edison Arduino Block
 
 - ID: PROJ-SPAR-13036-STAN-01
 - Hex ID: PRS13036
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13036-STAN-01/kicad/bom/ibom.html)
@@ -34,31 +38,31 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C10,CAPC-0603-X-NF100-V50,C10,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C13,CAPX-UNMATCHED-X-UF10-01,C13,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|C19,CAPX-UNMATCHED-X-UF10-01,C19,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|D3,LEDS-UNMATCHED-G-STAN-01,D3,Green,LED,0603-LED-ALT1,LEDs,,,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI12-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI12-01,FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP4,HEAD-I01-X-PI02-01,FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP5,HEAD-I01-X-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R2,RESE-0603-X-O103-01,JP1,FTDI Basic,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,,|
-|R6,RESE-0603-X-O331-01,JP2,M12NO_SILK,M12NO_SILK,1X12_NO_SILK,Header 12,,,|
-|R11,RESE-0603-X-O103-01,JP3,M12NO_SILK,M12NO_SILK,1X12_NO_SILK,Header 12,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,JP5,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,Red,LED,0603-LED-ALT1,LEDs,,,|
-|U3,HEAD-I01-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,330,RESISTOR0603-RES,0603-RES,Resistor,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|C10 C10,CAPC-0603-X-UF1D-01|
+|C13 C13,CAPX-UNMATCHED-X-UF10-01|
+|C19 C19,CAPX-UNMATCHED-X-UF10-01|
+|D3 D3,LEDS-UNMATCHED-G-STAN-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP3 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R11 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,HEAD-I01-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,12 +84,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Edison_Arduino_Block (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13036
 - oompID: PROJ-SPAR-13036-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPC-0603-X-NF100-V50
-- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0603-X-UF1D-01
 - oompParts: C13,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C19,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D3,LEDS-UNMATCHED-G-STAN-01

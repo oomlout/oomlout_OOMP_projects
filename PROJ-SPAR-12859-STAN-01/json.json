@@ -209,22 +209,6 @@
             "value": "R20,RESE-0603-X-O203-01"
         },
         {
-            "name": "oompParts",
-            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
             "name": "rawParts",
             "value": "3/5V,SOLDERJUMPERNO,SOLDERJUMPERNO,SJ_2S-NO,Solder Jumper,,,,"
         },

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1246 > Adafruit](#pra1246--adafruit)
+* [PRA1246 > Adafruit Flora TSL2561 Lux Sensor PCB](#pra1246--adafruit-flora-tsl2561-lux-sensor-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1246 > Adafruit
+# PRA1246 > Adafruit Flora TSL2561 Lux Sensor PCB
 
 - ID: PROJ-ADAF-1246-STAN-01
 - Hex ID: PRA1246
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1246-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O103-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R3,RESE-0805-X-O103-01,GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR_0805,_0805,Resistors,,|
-|SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,RESISTOR_0805,_0805,Resistors,,|
-|SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,|
-|VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SJ2W,SJ_2,SMD solder JUMPER,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|SJ1 SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,17 +64,11 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1246
 - oompID: PROJ-ADAF-1246-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
-- oompParts: GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01
-- oompParts: SCL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SCL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SDA2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
 - rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

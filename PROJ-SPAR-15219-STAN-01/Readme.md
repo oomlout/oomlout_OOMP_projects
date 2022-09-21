@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15219 > Sparkfun](#prs15219--sparkfun)
+* [PRS15219 > SparkFun Pulse Oximeter Heart Rate Sensor](#prs15219--sparkfun-pulse-oximeter-heart-rate-sensor)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15219 > Sparkfun
+# PRS15219 > SparkFun Pulse Oximeter Heart Rate Sensor
 
 - ID: PROJ-SPAR-15219-STAN-01
 - Hex ID: PRS15219
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15219-STAN-01/kicad/bom/ibom.html)

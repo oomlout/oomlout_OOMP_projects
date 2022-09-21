@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15435 > Sparkfun](#prs15435--sparkfun)
+* [PRS15435 > XBee3 Thing Plus](#prs15435--xbee3-thing-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15435 > Sparkfun
+# PRS15435 > XBee3 Thing Plus
 
 - ID: PROJ-SPAR-15435-STAN-01
 - Hex ID: PRS15435
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15435-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2922 > Adafruit](#pra2922--adafruit)
+* [PRA2922 > Adafruit Adalogger FeatherWing PCB](#pra2922--adafruit-adalogger-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2922 > Adafruit
+# PRA2922 > Adafruit Adalogger FeatherWing PCB
 
 - ID: PROJ-ADAF-2922-STAN-01
 - Hex ID: PRA2922
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2922-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,cr1220,BATTERYCR1220_2,CR1220-2,CR1220 SMT - Digikey: 3001K-ND,,|
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|INT1,HEAD-I01-X-PI01-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI11-01,IC1,PCF8523T,RTC_PCF8523T,SOIC8_150MIL,,,|
-|JP2,HEAD-I01-X-PI16-01,INT1,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI01-01,JP1,,HEADER-1X11,1X11_ROUND,,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|R1,RESE-0603-X-O103-01,JP3,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|R2,RESE-0603-X-O103-01,MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_NODIM,,,|
-|R3,RESE-0603-X-O1003-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R4,RESE-0603-X-O102-01,R2,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SDCS,HEAD-I01-X-PI01-01,R3,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SDCS,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|INT1 INT1,HEAD-I01-X-PI01-01|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|[JP2 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|JP3 JP3,HEAD-I01-X-PI01-01|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-0603-X-O1003-01|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|SDCS SDCS,HEAD-I01-X-PI01-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X4 X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

@@ -50,35 +50,35 @@
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0603-X-UNMATCHED-01"
+            "value": "C2,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0603-X-UNMATCHED-01"
+            "value": "C3,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0603-X-UNMATCHED-01"
+            "value": "C4,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0603-X-UNMATCHED-01"
+            "value": "C5,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+            "value": "C6,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UNMATCHED-01"
+            "value": "C7,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0603-X-UNMATCHED-01"
+            "value": "C8,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0603-X-UNMATCHED-01"
+            "value": "C9,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
@@ -86,11 +86,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0603-X-UNMATCHED-01"
+            "value": "C11,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C12,CAPC-0603-X-UNMATCHED-01"
+            "value": "C12,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
@@ -106,7 +106,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C16,CAPC-0603-X-UNMATCHED-01"
+            "value": "C16,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
@@ -186,11 +186,11 @@
         },
         {
             "name": "oompParts",
-            "value": "PC1,UNMATCHED-UNMATCHED-X-UF47-01"
+            "value": "PC1,CAPX-UNMATCHED-X-UF47-01"
         },
         {
             "name": "oompParts",
-            "value": "PC2,UNMATCHED-UNMATCHED-X-UF47-01"
+            "value": "PC2,CAPX-UNMATCHED-X-UF47-01"
         },
         {
             "name": "oompParts",

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15663 > Sparkfun](#prs15663--sparkfun)
+* [PRS15663 > ESP32 Thing Plus](#prs15663--esp32-thing-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15663 > Sparkfun
+# PRS15663 > ESP32 Thing Plus
 
 - ID: PROJ-SPAR-15663-STAN-01
 - Hex ID: PRS15663
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15663-STAN-01/kicad/bom/ibom.html)

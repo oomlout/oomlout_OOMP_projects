@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14349 > Sparkfun](#prs14349--sparkfun)
+* [PRS14349 > Qwiic Human Presence Sensor Breakout AK9753](#prs14349--qwiic-human-presence-sensor-breakout-ak9753)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14349 > Sparkfun
+# PRS14349 > Qwiic Human Presence Sensor Breakout AK9753
 
 - ID: PROJ-SPAR-14349-STAN-01
 - Hex ID: PRS14349
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14349-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|LOGO3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R1,RESE-0603-X-O103-01,JP5,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
-|R2,RESE-0603-X-O103-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O103-01,JP7,,JUMPER-SMT_3_2-NC_PASTE_SILK,SMT-JUMPER_3_2-NC_PASTE_SILK,Normally closed solder jumper (2 of 2 connections),,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP8,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,|
-|R5,RESE-0603-X-UNMATCHED-01,JP9,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R6,RESE-0603-X-O331-01,JP10,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP8 JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R6 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -73,8 +76,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14349
 - oompID: PROJ-SPAR-14349-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C4,CAPC-0603-X-UF1-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -83,12 +86,11 @@ Contents
 - oompParts: JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R3,RESE-0603-X-O103-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: R5,RESE-0603-X-O472-01
 - oompParts: R6,RESE-0603-X-O331-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,

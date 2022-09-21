@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1135 > Adafruit](#pra1135--adafruit)
+* [PRA1135 > Adafruit Perma Proto Pi PCBs](#pra1135--adafruit-perma-proto-pi-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1135 > Adafruit
+# PRA1135 > Adafruit Perma Proto Pi PCBs
 
 - ID: PROJ-ADAF-1135-STAN-01
 - Hex ID: PRA1135
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1135-STAN-01/kicad/bom/ibom.html)
@@ -34,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

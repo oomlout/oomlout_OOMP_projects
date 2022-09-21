@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1580 > Adafruit](#pra1580--adafruit)
+* [PRA1580 > Adafruit AR1100 Resistive Touch Controller PCB](#pra1580--adafruit-ar1100-resistive-touch-controller-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1580 > Adafruit
+# PRA1580 > Adafruit AR1100 Resistive Touch Controller PCB
 
 - ID: PROJ-ADAF-1580-STAN-01
 - Hex ID: PRA1580
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1580-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|D2,DIOD-S323-X-K4148-01,D2,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|D3,DIOD-S323-X-K4148-01,D3,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED1,LEDS-0805-G-STAN-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O471-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O203-01,IC1,AR1100_SSOP,AR1100_SSOP,TSSOP20-5.3MMBODY,,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,470,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,20K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D3 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|R1 R1,RESE-0805-X-O471-01|
+|[R2 RESE-0805-X-O203-01 SMD (0805) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|
+|U$7 U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,7 +73,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1580
 - oompID: PROJ-ADAF-1580-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

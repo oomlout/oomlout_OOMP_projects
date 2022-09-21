@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14607 > Sparkfun](#prs14607--sparkfun)
+* [PRS14607 > Qwiic GRIDEye](#prs14607--qwiic-grideye)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14607 > Sparkfun
+# PRS14607 > Qwiic GRIDEye
 
 - ID: PROJ-SPAR-14607-STAN-01
 - Hex ID: PRS14607
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14607-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,2.2uF,2.2UF-0603-10V-20%,0603,2.2ÃÂµF ceramic capacitors,CAP-07888,2.2uF,|
-|C3,CAPC-0603-X-UF10-01,C3,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,10uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,SMD,I2C_STANDARDJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,SMD,I2C_STANDARDJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,,,|
-|LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O21-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R5,RESE-0603-X-UNMATCHED-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF22D-01|
+|C3 C3,CAPC-0603-X-UF10-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O200-01 SMD (0603) 20 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O200-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,20 +73,19 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_GRIDEye (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14607
 - oompID: PROJ-SPAR-14607-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF22D-01
 - oompParts: C3,CAPC-0603-X-UF10-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-O21-01
+- oompParts: R1,RESE-0603-X-O200-01
 - oompParts: R2,RESE-0603-X-O103-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: R5,RESE-0603-X-O472-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,
 - rawParts: C2,2.2uF,2.2UF-0603-10V-20%,0603,2.2ÃÂµF ceramic capacitors,CAP-07888,2.2uF,

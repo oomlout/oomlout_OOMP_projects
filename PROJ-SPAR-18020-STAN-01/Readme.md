@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18020 > Sparkfun](#prs18020--sparkfun)
+* [PRS18020 > SparkFun Qwiic 6DoF LSM6DSO](#prs18020--sparkfun-qwiic-6dof-lsm6dso)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18020 > Sparkfun
+# PRS18020 > SparkFun Qwiic 6DoF LSM6DSO
 
 - ID: PROJ-SPAR-18020-STAN-01
 - Hex ID: PRS18020
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18020-STAN-01/kicad/bom/ibom.html)

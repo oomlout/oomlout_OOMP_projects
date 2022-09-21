@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11569 > Sparkfun](#prs11569--sparkfun)
+* [PRS11569 > Papilio VGA Wing](#prs11569--papilio-vga-wing)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11569 > Sparkfun
+# PRS11569 > Papilio VGA Wing
 
 - ID: PROJ-SPAR-11569-STAN-01
 - Hex ID: PRS11569
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11569-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI08-01,JP1,,M04PTH,1X04,Header 4,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,M081X08,1X08,Header 8,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP3,DB15,DB15,DB15,DB15 / VGA right angle through-hole female connector.,,|
-|R2,RESE-0402-X-UNMATCHED-01,JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R3,RESE-0402-X-O271-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R4,RESE-0402-X-O271-01,JP6,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R5,RESE-0402-X-O271-01,JP7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R6,RESE-0402-X-O271-01,R1,82.5,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-O271-01,R2,82.5,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-O271-01,R3,270,RESISTOR0402-RES,0402-RES,Resistor,,|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0402-X-UNMATCHED-01|
+|R2 R2,RESE-0402-X-UNMATCHED-01|
+|R3 R3,RESE-0402-X-O271-01|
+|R4 R4,RESE-0402-X-O271-01|
+|R5 R5,RESE-0402-X-O271-01|
+|R6 R6,RESE-0402-X-O271-01|
+|R7 R7,RESE-0402-X-O271-01|
+|R8 R8,RESE-0402-X-O271-01|
 
 ## Images
   

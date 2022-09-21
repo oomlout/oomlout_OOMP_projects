@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14450 > Sparkfun](#prs14450--sparkfun)
+* [PRS14450 > Motor Driver-Dual TB6612FNG](#prs14450--motor-driver-dual-tb6612fng)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14450 > Sparkfun
+# PRS14450 > Motor Driver-Dual TB6612FNG
 
 - ID: PROJ-SPAR-14450-STAN-01
 - Hex ID: PRS14450
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14450-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,10UF-POLAR-EIA3528-20V-10%(TANT),EIA3528,10.0ÃÂµF polarized capacitors,CAP-08063,10uF,|
-|JP1,HEAD-I01-X-PI08-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI08-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,8 +65,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Motor_Driver-Dual_TB6612FNG (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14450
 - oompID: PROJ-SPAR-14450-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP2,HEAD-I01-X-PI08-01

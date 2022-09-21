@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13626 > Sparkfun](#prs13626--sparkfun)
+* [PRS13626 > Photon Battery Shield](#prs13626--photon-battery-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13626 > Sparkfun
+# PRS13626 > Photon Battery Shield
 
 - ID: PROJ-SPAR-13626-STAN-01
 - Hex ID: PRS13626
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13626-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,CAP-08280,,4.7uF,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,,CAP-00868,,1.0uF,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,CAP-08280,,4.7uF,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,,DIO-08053,,MBRA140,,|
-|D2,LEDS-0603-G-STAN-01,D2,RED,LED-RED0603,LED-0603,Assorted Red LEDs,,DIO-00819,,RED,,|
-|D3,DIOD-UNMATCHED-X-UNMATCHED-01,D3,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,,DIO-08053,,MBRA140,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,,v01,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,5.5x2.1mm Barrel,POWER_JACKSMD,POWER_JACK_SMD,Power Jack,,CONN-08106,PRT-12748,5.5x2.1mm Barrel,,|
-|R1,RESE-0603-X-O102-01,JP2,,M02-JST-2MM-SMT,JST-2-SMD,Standard 2-pin 0.1 header. Use with,,CONN-11443,,,,|
-|R2,RESE-0603-X-O331-01,JP3,SPARK_PHOTONTEMPLATE_WIDE,SPARK_PHOTONTEMPLATE_WIDE,SPARK_PHOTON_TEMPLATE_WIDE,,,,,,,|
-|R3,RESE-0603-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,,|
-|R4,RESE-0603-X-O102-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,,|
-|R5,RESE-0603-X-O103-01,R1,1K,1KOHM-1/10W-1%(0603),0603-RES,RES-07856,,RES-07856,,1K,,|
-|R6,RESE-0603-X-O103-01,R2,330,330OHM1/10W1%(0603),0603-RES,RES-00818,,RES-00818,,330,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,2.0k,2.0KOHM1/10W5%(0603),0603-RES,RES-08296,,RES-08296,,2.0k,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1K,1KOHM-1/10W-1%(0603),0603-RES,RES-07856,,RES-07856,,1K,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R5,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,,10K,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF47D-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|D3 D3,DIOD-UNMATCHED-X-UNMATCHED-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|R3 R3,RESE-0603-X-UNMATCHED-01|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,9 +77,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photon_Battery_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13626
 - oompID: PROJ-SPAR-13626-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPC-0603-X-UF47D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01
@@ -90,7 +93,6 @@ Contents
 - oompParts: R4,RESE-0603-X-O102-01
 - oompParts: R5,RESE-0603-X-O103-01
 - oompParts: R6,RESE-0603-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,CAP-08280,,4.7uF,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11087 > Sparkfun](#prs11087--sparkfun)
+* [PRS11087 > Uh-Oh Battery Indicator](#prs11087--uh-oh-battery-indicator)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11087 > Sparkfun
+# PRS11087 > Uh-Oh Battery Indicator
 
 - ID: PROJ-SPAR-11087-STAN-01
 - Hex ID: PRS11087
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11087-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,Battery,M02JST-PTH-2,JST-2-PTH,Header 2,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,System,M02JST-PTH-2,JST-2-PTH,Header 2,,|
-|JP3,HEAD-I01-X-PI02-01,JP3,,M02PTH,1X02,Header 2,,|
-|JP4,HEAD-I01-X-PI02-01,JP4,,M02PTH,1X02,Header 2,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,JP31,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R1,RESE-UNMATCHED-X-O331-01,JP41,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|RADJ,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP51,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP61,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,Green,LED10MM2,LED10MM-2,LEDs,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,330,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RADJ,10K,TRIMPOT-PTH-KNOB,3386U,,,|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|R1 R1,RESE-UNMATCHED-X-O331-01|
+|RADJ RADJ,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,7 +78,6 @@ Contents
 - oompParts: RADJ,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,Battery,M02JST-PTH-2,JST-2-PTH,Header 2,,
 - rawParts: JP2,System,M02JST-PTH-2,JST-2-PTH,Header 2,,

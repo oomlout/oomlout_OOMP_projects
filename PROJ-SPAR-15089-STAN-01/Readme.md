@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15089 > Sparkfun](#prs15089--sparkfun)
+* [PRS15089 > SparkFun UV Sensor](#prs15089--sparkfun-uv-sensor)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15089 > Sparkfun
+# PRS15089 > SparkFun UV Sensor
 
 - ID: PROJ-SPAR-15089-STAN-01
 - Hex ID: PRS15089
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15089-STAN-01/kicad/bom/ibom.html)

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA1980 > Adafruit](#pra1980--adafruit)
+* [PRA1980 > TSL2561 breakout board PCB](#pra1980--tsl2561-breakout-board-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1980 > Adafruit
+# PRA1980 > TSL2561 breakout board PCB
 
 - ID: PROJ-ADAF-1980-STAN-01
 - Hex ID: PRA1980
@@ -24,18 +25,19 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|JP1,HEAD-I01-X-PI06-01,JP1,,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$4,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$5,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -57,12 +59,10 @@ Contents
 - sources: All source files from https://github.com/adafruit/TSL2561-breakout-board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1980
 - oompID: PROJ-ADAF-1980-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,
 - rawParts: JP1,,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,

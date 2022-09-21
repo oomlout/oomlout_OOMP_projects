@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2090 > Adafruit](#pra2090--adafruit)
+* [PRA2090 > Adafruit 2.8 TFT with Capacitive Touch PCB](#pra2090--adafruit-28-tft-with-capacitive-touch-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2090 > Adafruit
+# PRA2090 > Adafruit 2.8 TFT with Capacitive Touch PCB
 
 - ID: PROJ-ADAF-2090-STAN-01
 - Hex ID: PRA2090
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2090-STAN-01/kicad/bom/ibom.html)
@@ -34,37 +38,37 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,VREG-SO235-X-KMIC5225-V33D,IC1,MIC5225-3.3,LP298XS,SOT23-5L,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC2,74LVC245,74ACT245DW,SO20W,Octal BUS TRANSCEIVER, 3-state,,|
-|IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC3,74LVC245,74ACT245DW,SO20W,Octal BUS TRANSCEIVER, 3-state,,|
-|IC4,UNMATCHED-SO23-X-UNMATCHED-01,IC4,APX803-SAG,AXP083-SAG,SOT23,,,|
-|JP1,HEAD-I01-X-PI20-01,JP1,,HEADER-1X20ROUND,1X20_ROUND,,,|
-|JP2,HEAD-I01-X-PI20-01,JP2,,HEADER-1X20ROUND,1X20_ROUND,,,|
-|Q2,MOSN-SO23-X-KBSS138-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|Q3,MOSN-SO23-X-KBSS138-01,Q3,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|Q4,MOSN-SO23-X-KBSS138-01,Q4,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R1,RESE-0805-X-O11-01,R1,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R2,RESE-0805-X-O11-01,R2,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R3,RESE-0805-X-O11-01,R3,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R4,RESE-0805-X-O11-01,R4,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R5,RESE-0805-X-UNMATCHED-01,R5,2.2K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R6,RESE-0805-X-O103-01,R6,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R7,RESE-0805-X-O102-01,R7,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R8,RESE-0805-X-O103-01,R8,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R9,RESE-0805-X-O103-01,R9,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R10,RESE-0805-X-O103-01,R10,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R11,RESE-0805-X-O103-01,R11,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R12,RESE-0805-X-O103-01,R12,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R13,RESE-0805-X-O103-01,R13,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R14,RESE-0805-X-O103-01,R14,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R15,RESE-0805-X-O103-01,R15,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R16,RESE-0805-X-O103-01,R16,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[IC1 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC4 IC4,UNMATCHED-SO23-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|[JP2 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q3 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q4 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|R1 R1,RESE-0805-X-O100-01|
+|R2 R2,RESE-0805-X-O100-01|
+|R3 R3,RESE-0805-X-O100-01|
+|R4 R4,RESE-0805-X-O100-01|
+|[R5 RESE-0805-X-O222-01 SMD (0805) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O222-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R9 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R10 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R11 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R12 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R13 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R14 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R15 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R16 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U$10 U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -99,11 +103,11 @@ Contents
 - oompParts: Q2,MOSN-SO23-X-KBSS138-01
 - oompParts: Q3,MOSN-SO23-X-KBSS138-01
 - oompParts: Q4,MOSN-SO23-X-KBSS138-01
-- oompParts: R1,RESE-0805-X-O11-01
-- oompParts: R2,RESE-0805-X-O11-01
-- oompParts: R3,RESE-0805-X-O11-01
-- oompParts: R4,RESE-0805-X-O11-01
-- oompParts: R5,RESE-0805-X-UNMATCHED-01
+- oompParts: R1,RESE-0805-X-O100-01
+- oompParts: R2,RESE-0805-X-O100-01
+- oompParts: R3,RESE-0805-X-O100-01
+- oompParts: R4,RESE-0805-X-O100-01
+- oompParts: R5,RESE-0805-X-O222-01
 - oompParts: R6,RESE-0805-X-O103-01
 - oompParts: R7,RESE-0805-X-O102-01
 - oompParts: R8,RESE-0805-X-O103-01

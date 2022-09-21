@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9110 > Sparkfun](#prs9110--sparkfun)
+* [PRS9110 > Thumb Joystick Breakout](#prs9110--thumb-joystick-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9110 > Sparkfun
+# PRS9110 > Thumb Joystick Breakout
 
 - ID: PROJ-SPAR-9110-STAN-01
 - Hex ID: PRS9110
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

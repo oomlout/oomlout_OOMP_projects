@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3386 > Adafruit](#pra3386--adafruit)
+* [PRA3386 > Adafruit PiRTC RTC for Raspberry Pi PCB](#pra3386--adafruit-pirtc-rtc-for-raspberry-pi-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3386 > Adafruit
+# PRA3386 > Adafruit PiRTC RTC for Raspberry Pi PCB
 
 - ID: PROJ-ADAF-3386-STAN-01
 - Hex ID: PRA3386
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3386-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,CR1220,BATTERYCR1220_SMT,CR1220,CR1220 SMT - Digikey: 3001K-ND,,|
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O102-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

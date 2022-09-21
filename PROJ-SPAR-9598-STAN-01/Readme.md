@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9598 > Sparkfun](#prs9598--sparkfun)
+* [PRS9598 > MIDI Breakout](#prs9598--midi-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9598 > Sparkfun
+# PRS9598 > MIDI Breakout
 
 - ID: PROJ-SPAR-9598-STAN-01
 - Hex ID: PRS9598
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

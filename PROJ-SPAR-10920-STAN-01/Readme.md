@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10920 > Sparkfun](#prs10920--sparkfun)
+* [PRS10920 > Venus GPS Logger SMA](#prs10920--venus-gps-logger-sma)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10920 > Sparkfun
+# PRS10920 > Venus GPS Logger SMA
 
 - ID: PROJ-SPAR-10920-STAN-01
 - Hex ID: PRS10920
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10920-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|C3,CAPC-0603-X-UF1-01,C3,1uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,22pF,22PF-50V-5%(0603),0603-CAP,CAP-07876,CAP-07876,22pF,|
-|J$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP1,HEAD-I01-X-PI04-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP3,HEAD-I01-X-PI05-01,J$1,SMA_EDGE,SMA_EDGE,SMA-EDGE,SMA Antenna Connector,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,UART,M04PTH,1X04,Header 4,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,Battery,M02-JST-2MM-SMT,S2B-PH,Header 2,,,|
-|LED3,LEDS-0603-G-STAN-01,JP3,General,M05PTH,1X05,Header 5,,,|
-|R1,RESE-0603-X-O333-01,JP4,Low Power Mode,JUMPER-2SMD-NC,SJ_2S,Jumper,,,|
-|R2,RESE-0603-X-O103-01,JP5,VBAT Select,JUMPER-2SMD-NC,SJ_2S,Jumper,,,|
-|R6,RESE-0603-X-O331-01,LED3,Green,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,33k,33KOHM1/10W1%(0603),0603-RES,RES-08416,,,|
-|U2,UNMATCHED-0603-X-UNMATCHED-01,R2,10k,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R6,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPC-0603-X-UF1-01|
+|C4 C4,CAPC-0603-X-PF22-01|
+|J$1 J$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0603-X-O333-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-0603-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -73,10 +77,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_Logger_SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10920
 - oompID: PROJ-SPAR-10920-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C3,CAPC-0603-X-UF1-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-PF22-01
 - oompParts: J$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

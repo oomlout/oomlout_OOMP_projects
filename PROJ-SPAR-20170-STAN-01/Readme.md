@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS20170 > Sparkfun](#prs20170--sparkfun)
+* [PRS20170 > SparkFun Qwiic Pressure Sensor BMP581](#prs20170--sparkfun-qwiic-pressure-sensor-bmp581)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS20170 > Sparkfun
+# PRS20170 > SparkFun Qwiic Pressure Sensor BMP581
 
 - ID: PROJ-SPAR-20170-STAN-01
 - Hex ID: PRS20170
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-20170-STAN-01/kicad/bom/ibom.html)

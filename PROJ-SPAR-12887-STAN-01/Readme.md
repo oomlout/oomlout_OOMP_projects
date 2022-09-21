@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12887 > Sparkfun](#prs12887--sparkfun)
+* [PRS12887 > Electric Imp Shield](#prs12887--electric-imp-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12887 > Sparkfun
+# PRS12887 > Electric Imp Shield
 
 - ID: PROJ-SPAR-12887-STAN-01
 - Hex ID: PRS12887
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12887-STAN-01/kicad/bom/ibom.html)
@@ -34,35 +38,34 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C5,CAPX-UNMATCHED-X-UF10-01,C5,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,|
-|JP1,HEAD-I01-X-PI02-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI08-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI08-01,JP1,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,,|
-|JP5,HEAD-I01-X-PI06-01,JP2,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,,|
-|JP6,HEAD-I01-X-PI10-01,JP3,,M08SIP_NS,1X08_NO_SILK,Header 8,,,|
-|JP7,HEAD-I01-X-PI09-01,JP4,,M08SIP_NS,1X08_NO_SILK,Header 8,,,|
-|LED1,LEDS-0603-G-STAN-01,JP5,,M06SIP_NS,1X06_NO_SILK,Header 6,,,|
-|LED2,LEDS-0603-G-STAN-01,JP6,M10SIP_NS,M10SIP_NS,1X10_NO_SILK,Header 10,,,|
-|LED3,LEDS-0603-G-STAN-01,JP7,M09NO_SILK,M09NO_SILK,1X09_NO_SILK,Header 9,,,|
-|Q2,UNMATCHED-SO23-X-KBSS138-01,JP10,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,,|
-|Q3,UNMATCHED-SO23-X-KBSS138-01,LED1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|R1,RESE-0603-X-O1003-01,LED2,YELLOW,LED-YELLOW0603,LED-0603,Yellow SMD LEDs,DIO-09003,,|
-|R2,RESE-0603-X-O103-01,LED3,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|R3,RESE-0603-X-O103-01,Q2,BSS138,MOSFET-NCHANNELSMD,SOT23-3,Generic NMOS footprint,,,|
-|R6,RESE-0603-X-O103-01,Q3,BSS138,MOSFET-NCHANNELSMD,SOT23-3,Generic NMOS footprint,,,|
-|R7,RESE-0603-X-O331-01,R1,100k,100KOHM1/10W1%(0603),0603-RES,RES-07828,RES-07828,100k,|
-|R8,RESE-0603-X-O331-01,R2,10k,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R9,RESE-0603-X-O331-01,R3,10k,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R10,RESE-0603-X-O103-01,R6,10k,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R10,10k,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U4,UNMATCHED-SO23-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPX-UNMATCHED-X-UF10-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP5 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP6 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP7 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q2 Q2,UNMATCHED-SO23-X-KBSS138-01|
+|Q3 Q3,UNMATCHED-SO23-X-KBSS138-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R8 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R9 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-SO23-X-UNMATCHED-01|
 
 ## Images
   
@@ -84,9 +87,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Electric_Imp_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12887
 - oompID: PROJ-SPAR-12887-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: C5,CAPX-UNMATCHED-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
@@ -108,7 +111,6 @@ Contents
 - oompParts: R8,RESE-0603-X-O331-01
 - oompParts: R9,RESE-0603-X-O331-01
 - oompParts: R10,RESE-0603-X-O103-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01

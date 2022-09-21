@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18031 > Sparkfun](#prs18031--sparkfun)
+* [PRS18031 > SparkFun LTE GNSS Breakout SARA-R510M8S](#prs18031--sparkfun-lte-gnss-breakout-sara-r510m8s)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18031 > Sparkfun
+# PRS18031 > SparkFun LTE GNSS Breakout SARA-R510M8S
 
 - ID: PROJ-SPAR-18031-STAN-01
 - Hex ID: PRS18031
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18031-STAN-01/kicad/bom/ibom.html)

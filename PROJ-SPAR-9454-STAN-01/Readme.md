@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9454 > Sparkfun](#prs9454--sparkfun)
+* [PRS9454 > QRE1113 Line Sensor Breakout-Digital](#prs9454--qre1113-line-sensor-breakout-digital)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9454 > Sparkfun
+# PRS9454 > QRE1113 Line Sensor Breakout-Digital
 
 - ID: PROJ-SPAR-9454-STAN-01
 - Hex ID: PRS9454
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9454-STAN-01/kicad/bom/ibom.html)

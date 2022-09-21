@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8776 > Sparkfun](#prs8776--sparkfun)
+* [PRS8776 > LilyPad Button Board](#prs8776--lilypad-button-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8776 > Sparkfun
+# PRS8776 > LilyPad Button Board
 
 - ID: PROJ-SPAR-8776-STAN-01
 - Hex ID: PRS8776
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8776-STAN-01/kicad/bom/ibom.html)

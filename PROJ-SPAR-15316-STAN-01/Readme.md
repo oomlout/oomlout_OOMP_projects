@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15316 > Sparkfun](#prs15316--sparkfun)
+* [PRS15316 > Pi Servo Hat](#prs15316--pi-servo-hat)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15316 > Sparkfun
+# PRS15316 > Pi Servo Hat
 
 - ID: PROJ-SPAR-15316-STAN-01
 - Hex ID: PRS15316
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15316-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1628 > Adafruit](#pra1628--adafruit)
+* [PRA1628 > Adafruit Bluefruit EZ Link Shield PCB](#pra1628--adafruit-bluefruit-ez-link-shield-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1628 > Adafruit
+# PRA1628 > Adafruit Bluefruit EZ Link Shield PCB
 
 - ID: PROJ-ADAF-1628-STAN-01
 - Hex ID: PRA1628
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1628-STAN-01/kicad/bom/ibom.html)
@@ -34,35 +38,35 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,2.2uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-SO23-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|IC2,UNMATCHED-SO235-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI05-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI08-01,IC1,74LVC2G34DBVR,74LVC2G34DBVR,SOT23-6,,,|
-|JP4,HEAD-I01-X-PI08-01,IC2,74AHC1G07DBV,74AHC1G07DBV,SOT23-5,Single Buffer/Driver With Open-Drain Output,,|
-|JP5,HEAD-I01-X-UNMATCHED-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|JP6,HEAD-I01-X-PI06-01,JP3,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|LED1,LEDS-0805-G-STAN-01,JP4,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|LED3,LEDS-0805-G-STAN-01,JP5,,HEADER-2X3,2X03_ROUND_70MIL,PIN HEADER,,|
-|LED4,LEDS-0805-G-STAN-01,JP6,,PINHD-1X6B,1X06-BIG,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,LED1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R2,RESE-0805-X-O102-01,LED3,Blue,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R3,RESE-0805-X-O103-01,LED4,Blue,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R4,RESE-0805-X-O103-01,R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R5,RESE-0805-X-UNMATCHED-01,R2,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R6,RESE-0805-X-O103-01,R3,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R7,RESE-0805-X-UNMATCHED-01,R4,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R8,RESE-0805-X-O221-01,R5,2.2K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R10,RESE-0805-X-O221-01,R6,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,47 ohm,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,220,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R10,220,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,SPST_TACT-KMR2,SPST_TACT-KMR2,KMR2,SMT 6mm switch, EVQQ2 series,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW2,,DPDT-EG1390,EG1390,,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,SW3,SPST_TACT-EVQQ2,SPST_TACT-EVQQ2,EVQ-Q2,SMT 6mm switch, EVQQ2 series,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-UF22D-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC1 IC1,UNMATCHED-SO23-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-SO235-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|JP5 JP5,HEAD-I01-X-UNMATCHED-01|
+|[JP6 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED3 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O222-01 SMD (0805) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O222-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R7 R7,RESE-0805-X-UNMATCHED-01|
+|[R8 RESE-0805-X-O221-01 SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)|
+|[R10 RESE-0805-X-O221-01 SMD (0805) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O221-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$5 U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$6 U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -85,7 +89,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1628
 - oompID: PROJ-ADAF-1628-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C2,CAPC-0805-X-UF22D-01
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: IC1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-SO235-X-UNMATCHED-01
@@ -101,7 +105,7 @@ Contents
 - oompParts: R2,RESE-0805-X-O102-01
 - oompParts: R3,RESE-0805-X-O103-01
 - oompParts: R4,RESE-0805-X-O103-01
-- oompParts: R5,RESE-0805-X-UNMATCHED-01
+- oompParts: R5,RESE-0805-X-O222-01
 - oompParts: R6,RESE-0805-X-O103-01
 - oompParts: R7,RESE-0805-X-UNMATCHED-01
 - oompParts: R8,RESE-0805-X-O221-01

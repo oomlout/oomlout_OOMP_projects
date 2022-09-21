@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9346 > Sparkfun](#prs9346--sparkfun)
+* [PRS9346 > MegaShield Kit](#prs9346--megashield-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9346 > Sparkfun
+# PRS9346 > MegaShield Kit
 
 - ID: PROJ-SPAR-9346-STAN-01
 - Hex ID: PRS9346
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

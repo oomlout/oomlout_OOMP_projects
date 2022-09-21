@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18442 > Sparkfun](#prs18442--sparkfun)
+* [PRS18442 > SparkFun RTK Express](#prs18442--sparkfun-rtk-express)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18442 > Sparkfun
+# PRS18442 > SparkFun RTK Express
 
 - ID: PROJ-SPAR-18442-STAN-01
 - Hex ID: PRS18442
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18442-STAN-01/kicad/bom/ibom.html)

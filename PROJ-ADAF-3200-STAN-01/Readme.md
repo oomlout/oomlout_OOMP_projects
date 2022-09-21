@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3200 > Adafruit](#pra3200--adafruit)
+* [PRA3200 > Adafruit Teensy 3.x Feather Adapter PCB](#pra3200--adafruit-teensy-3x-feather-adapter-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3200 > Adafruit
+# PRA3200 > Adafruit Teensy 3.x Feather Adapter PCB
 
 - ID: PROJ-ADAF-3200-STAN-01
 - Hex ID: PRA3200
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3200-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0805-X-UNMATCHED-01,C3,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0603-X-UF1-01,C7,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UNMATCHED-01,C8,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CHG,LEDS-0805-G-STAN-01,CHG,ORANGE,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|D4,DIOD-UNMATCHED-X-UNMATCHED-01,D4,MBR120,DIODE-SCHOTTKYSOD-123,SOD-123,,,|
-|JP1,HEAD-I01-X-PI16-01,JP1,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI12-01,JP3,,HEADER-1X12,1X12_ROUND,,,|
-|R2,RESE-0603-X-O102-01,R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-O1003-01,R3,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R6,RESE-0603-X-O1003-01,R6,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R8,RESE-0603-X-UNMATCHED-01,R8,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,U$1,TEENSY_3.1_ALL_PINS,TEENSY_3.1_ALL_PINS,TEENSY3-ALL_PINS,Footprint for Teensy 3.1 or 3.2 board using all through-holes, i.e. the entire perimeter plus the 4 through-holes inboard (A10,A11,AREF, VUSB),,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$31,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C7 C7,CAPC-0603-X-UF1-01|
+|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CHG LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[D4 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[JP1 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[JP3 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R3 R3,RESE-0603-X-O1003-01|
+|R6 R6,RESE-0603-X-O1003-01|
+|[R8 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,18 +74,18 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3200
 - oompID: PROJ-ADAF-3200-STAN-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0805-X-UF10-V10
+- oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-UF1-01
-- oompParts: C8,CAPC-0805-X-UNMATCHED-01
+- oompParts: C8,CAPC-0805-X-UF10-V10
 - oompParts: CHG,LEDS-0805-G-STAN-01
-- oompParts: D4,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D4,DIOD-S123-X-KMBR120-01
 - oompParts: JP1,HEAD-I01-X-PI16-01
 - oompParts: JP3,HEAD-I01-X-PI12-01
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R3,RESE-0603-X-O1003-01
 - oompParts: R6,RESE-0603-X-O1003-01
-- oompParts: R8,RESE-0603-X-UNMATCHED-01
+- oompParts: R8,RESE-0603-X-O222-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

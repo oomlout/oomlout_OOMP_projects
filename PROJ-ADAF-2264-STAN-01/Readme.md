@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2264 > Adafruit](#pra2264--adafruit)
+* [PRA2264 > Adafruit FT232H Breakout PCB](#pra2264--adafruit-ft232h-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2264 > Adafruit
+# PRA2264 > Adafruit FT232H Breakout PCB
 
 - ID: PROJ-ADAF-2264-STAN-01
 - Hex ID: PRA2264
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2264-STAN-01/kicad/bom/ibom.html)
@@ -34,42 +38,42 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,,,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,,,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,,,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,,,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,,,,|
-|C6,CAPC-0603-X-NF100-V50,C6,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,,,,|
-|C7,CAPC-0603-X-NF100-V50,C7,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,,,,|
-|C8,CAPC-0603-X-NF100-V50,C8,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,,,,|
-|C9,CAPC-0603-X-NF100-V50,C9,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,,,,|
-|C10,CAPC-0805-X-UNMATCHED-01,C10,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,,A,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,,,,,,,,|
-|D+,UNMATCHED-UNMATCHED-X-UNMATCHED-01,D+,TPTP17R,TPTP17R,TP17R,Test pad,,,,,,0,,,|
-|D-,UNMATCHED-UNMATCHED-X-UNMATCHED-01,D-,TPTP17R,TPTP17R,TP17R,Test pad,,,,,,0,,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,Ferrite,FERRITE_0805,_0805,Ferrite Bead,,,,,,,,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,Ferrite,FERRITE_0805,_0805,Ferrite Bead,,,,,,,,,|
-|IC1,UNMATCHED-SO23-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,,,|
-|JP1,HEAD-I01-X-PI11-01,IC1,93LC56B,93LC76A,SOT23-6,8K Microwire Compatible Serial EEPROM,,MICROCHIP,93LC76AT-I/OT,1556170,61H6824,,,,|
-|JP2,HEAD-I01-X-PI11-01,IC2,FT232HQ,FT232HQ,QFN48_8MM,,,,,,,,,,|
-|LED1,LEDS-0805-G-STAN-01,JP1,,HEADER-1X11,1X11_ROUND,,,,,,,,,,|
-|LED2,LEDS-0805-G-STAN-01,JP2,,HEADER-1X11,1X11_ROUND,,,,,,,,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,green,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,,,,,,,,|
-|R1,RESE-0603-X-O123-01,LED2,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,,,,,,,,|
-|R2,RESE-0603-X-UNMATCHED-01,Q1,12MHz,RESONATORSMD,RESONATOR-SMD,Resonator,,,,,,,,,|
-|R3,RESE-0603-X-O102-01,R1,12K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R4,RESE-0603-X-O102-01,R2,12K 1%,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R5,RESE-0603-X-UNMATCHED-01,R3,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R6,RESE-0603-X-UNMATCHED-01,R4,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R7,RESE-0603-X-O123-01,R5,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R8,RESE-0603-X-UNMATCHED-01,R6,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R9,RESE-0603-X-UNMATCHED-01,R7,12K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R10,RESE-0603-X-O123-01,R8,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|R11,RESE-0603-X-O123-01,R9,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R10,12K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R11,12K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,,,|
-|X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,,SWITCH_DPDTEG1390,EG1390,Switch - DPDT,,,,,,,,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C6 C6,CAPC-0603-X-UF1D-01|
+|C7 C7,CAPC-0603-X-UF1D-01|
+|C8 C8,CAPC-0603-X-UF1D-01|
+|C9 C9,CAPC-0603-X-UF1D-01|
+|[C10 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|D+ D+,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|D- D-,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|IC1 IC1,UNMATCHED-SO23-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|JP2 JP2,HEAD-I01-X-PI11-01|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O123-01 SMD (0603) 12k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)|
+|R2 R2,RESE-0603-X-UNMATCHED-01|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R5 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R6 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R7 RESE-0603-X-O123-01 SMD (0603) 12k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)|
+|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R9 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R10 RESE-0603-X-O123-01 SMD (0603) 12k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)|
+|[R11 RESE-0603-X-O123-01 SMD (0603) 12k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O123-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|X6 X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -92,20 +96,20 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2264
 - oompID: PROJ-ADAF-2264-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPC-0603-X-NF100-V50
-- oompParts: C8,CAPC-0603-X-NF100-V50
-- oompParts: C9,CAPC-0603-X-NF100-V50
-- oompParts: C10,CAPC-0805-X-UNMATCHED-01
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C7,CAPC-0603-X-UF1D-01
+- oompParts: C8,CAPC-0603-X-UF1D-01
+- oompParts: C9,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0805-X-UF10-V10
+- oompParts: CONN1,HEAD-I01-X-PI04-01
 - oompParts: D+,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: D-,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI11-01
@@ -117,11 +121,11 @@ Contents
 - oompParts: R2,RESE-0603-X-UNMATCHED-01
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: R4,RESE-0603-X-O102-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
-- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R5,RESE-0603-X-O222-01
+- oompParts: R6,RESE-0603-X-O472-01
 - oompParts: R7,RESE-0603-X-O123-01
-- oompParts: R8,RESE-0603-X-UNMATCHED-01
-- oompParts: R9,RESE-0603-X-UNMATCHED-01
+- oompParts: R8,RESE-0603-X-O472-01
+- oompParts: R9,RESE-0603-X-O472-01
 - oompParts: R10,RESE-0603-X-O123-01
 - oompParts: R11,RESE-0603-X-O123-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

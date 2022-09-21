@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12708 > Sparkfun](#prs12708--sparkfun)
+* [PRS12708 > RTC-Module](#prs12708--rtc-module)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12708 > Sparkfun
+# PRS12708 > RTC-Module
 
 - ID: PROJ-SPAR-12708-STAN-01
 - Hex ID: PRS12708
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12708-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,,BATTERY12PTH,BATTCON_12MM_PTH,Battery Holders,,,|
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI05-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M05PTH,1X05,Header 5,,,|
-|R1,RESE-0603-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R2,RESE-0603-X-UNMATCHED-01,Q1,32.768kHz,CRYSTAL32-SMD,CRYSTAL-32KHZ-SMD,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,4.7k,4.7KOHM1/10W1%(0603),0603,RES-07857,RES-07857,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,11 +67,11 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12708
 - oompID: PROJ-SPAR-12708-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O472-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BAT1,,BATTERY12PTH,BATTCON_12MM_PTH,Battery Holders,,,
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,

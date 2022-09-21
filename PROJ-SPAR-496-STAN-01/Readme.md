@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS496 > Sparkfun](#prs496--sparkfun)
+* [PRS496 > SOIC28-DIP Adapter](#prs496--soic28-dip-adapter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS496 > Sparkfun
+# PRS496 > SOIC28-DIP Adapter
 
 - ID: PROJ-SPAR-496-STAN-01
 - Hex ID: PRS496
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-496-STAN-01/kicad/bom/ibom.html)

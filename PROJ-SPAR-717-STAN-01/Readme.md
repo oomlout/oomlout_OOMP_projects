@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS717 > Sparkfun](#prs717--sparkfun)
+* [PRS717 > SOT23 DIP Adapter](#prs717--sot23-dip-adapter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS717 > Sparkfun
+# PRS717 > SOT23 DIP Adapter
 
 - ID: PROJ-SPAR-717-STAN-01
 - Hex ID: PRS717
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-717-STAN-01/kicad/bom/ibom.html)

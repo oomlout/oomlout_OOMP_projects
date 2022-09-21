@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS199 > Sparkfun](#prs199--sparkfun)
+* [PRS199 > USB Serial GPIO Breakout-CP2103](#prs199--usb-serial-gpio-breakout-cp2103)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS199 > Sparkfun
+# PRS199 > USB Serial GPIO Breakout-CP2103
 
 - ID: PROJ-SPAR-199-STAN-01
 - Hex ID: PRS199
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-199-STAN-01/kicad/bom/ibom.html)

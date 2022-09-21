@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4686 > Adafruit](#pra4686--adafruit)
+* [PRA4686 > Adafruit TMP235 PCB](#pra4686--adafruit-tmp235-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4686 > Adafruit
+# PRA4686 > Adafruit TMP235 PCB
 
 - ID: PROJ-ADAF-4686-STAN-01
 - Hex ID: PRA4686
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4686-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D2,LEDS-0805-G-STAN-01,D2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|JP1,HEAD-I01-X-PI03-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R3,RESE-0603-X-O102-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,0.1 Header,HEADER-1X3,1X03_OVAL,PIN HEADER,,|
-|X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X4 X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

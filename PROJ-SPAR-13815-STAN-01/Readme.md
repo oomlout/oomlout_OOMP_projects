@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13815 > Sparkfun](#prs13815--sparkfun)
+* [PRS13815 > Beefcake Relay Control Kit](#prs13815--beefcake-relay-control-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13815 > Sparkfun
+# PRS13815 > Beefcake Relay Control Kit
 
 - ID: PROJ-SPAR-13815-STAN-01
 - Hex ID: PRS13815
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13815-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D1,DIOD-UNMATCHED-X-K4148-01,D1,1N4148,DIODEKIT,DIODE-1N4148-KIT,Diode,DIO-08378,,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,Zener,DIODE-ZENER,DIODE-1N4148-KIT,Zener Diode,DIO-13313,,Zener,|
-|J1,TERS-UNMATCHED-X-UNMATCHED-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,|
-|J2,TERS-35D-L-PI03-01,J1,,M03-SCREW-5MM,SCREWTERMINAL-5MM-3,Header 3,CONN-10134,PRT-08433,,|
-|K1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,M03SCREW,SCREWTERMINAL-3.5MM-3,Header 3,CONN-08288,,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,JP1,JUMPER-PAD-2-NOYES_SILK,JUMPER-PAD-2-NOYES_SILK,PAD-JUMPER-2-NO_YES_SILK,,,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,K1,JQX-15F,RELAYPTH5,RELAY-T90,SPDT relay (COM-00101),COMP-10736,,JQX-15F,|
-|R1,RESE-UNMATCHED-X-O102-01,LED1,,LED5MM-KIT,LED5MM-KIT,LEDs,DIO-09529,,,|
-|R2,RESE-UNMATCHED-X-O102-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,|
+|D1 D1,DIOD-UNMATCHED-X-K4148-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,TERS-UNMATCHED-X-UNMATCHED-01|
+|[J2 TERS-35D-L-PI03-01 3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|K1 K1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-O102-01|
+|R2 R2,RESE-UNMATCHED-X-O102-01|
 
 ## Images
   

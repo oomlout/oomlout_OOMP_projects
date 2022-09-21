@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15805 > Sparkfun](#prs15805--sparkfun)
+* [PRS15805 > SparkFun High Precision Temperature Sensor TMP117 Qwiic](#prs15805--sparkfun-high-precision-temperature-sensor-tmp117-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15805 > Sparkfun
+# PRS15805 > SparkFun High Precision Temperature Sensor TMP117 Qwiic
 
 - ID: PROJ-SPAR-15805-STAN-01
 - Hex ID: PRS15805
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15805-STAN-01/kicad/bom/ibom.html)

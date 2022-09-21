@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4226 > Adafruit](#pra4226--adafruit)
+* [PRA4226 > Adafruit INA260 PCB](#pra4226--adafruit-ina260-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4226 > Adafruit
+# PRA4226 > Adafruit INA260 PCB
 
 - ID: PROJ-ADAF-4226-STAN-01
 - Hex ID: PRA4226
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4226-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,MICROBUILDER_FIDUCIAL,MICROBUILDER_FIDUCIAL,MICROBUILDER_FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP2,HEAD-I01-X-PI08-01,FID4,MICROBUILDER_FIDUCIAL,MICROBUILDER_FIDUCIAL,MICROBUILDER_FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O103-01,IC1,INA260,INA260,TSSOP16,,,|
-|R2,RESE-0603-X-O103-01,JP2,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|R3,RESE-0603-X-O103-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R4,RESE-0603-X-O103-01,R2,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

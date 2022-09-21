@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1312 > Adafruit](#pra1312--adafruit)
+* [PRA1312 > Adafruit_Breadboard_NeoPixel_PCB](#pra1312--adafruit_breadboard_neopixel_pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1312 > Adafruit
+# PRA1312 > Adafruit_Breadboard_NeoPixel_PCB
 
 - ID: PROJ-ADAF-1312-STAN-01
 - Hex ID: PRA1312
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1312-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,C-USC0603K,C0603K,CAPACITOR, American symbol,,|
-|JP1,HEAD-I01-X-PI03-01,JP1,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI03-01,JP2,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,WS28115050,WS28115050,WS28115050,,,|
-|R1,RESE-0603-X-UNMATCHED-01,R1,1.0K,R-US_R0603,R0603,RESISTOR, American symbol,,|
-|R2,RESE-0603-X-O21-01,R2,22,R-US_R0603,R0603,RESISTOR, American symbol,,|
-|R3,RESE-0603-X-O21-01,R3,22,R-US_R0603,R0603,RESISTOR, American symbol,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|LED1 LED1,LEDS-5050-RGB-K2811-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R3 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
 
 ## Images
   
@@ -65,10 +69,10 @@ Contents
 - oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-O21-01
-- oompParts: R3,RESE-0603-X-O21-01
+- oompParts: LED1,LEDS-5050-RGB-K2811-01
+- oompParts: R1,RESE-0603-X-O102-01
+- oompParts: R2,RESE-0603-X-O220-01
+- oompParts: R3,RESE-0603-X-O220-01
 - rawParts: C1,1uF,C-USC0603K,C0603K,CAPACITOR, American symbol,,
 - rawParts: JP1,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,
 - rawParts: JP2,,PINHD-1X3CB,1X03-CLEANBIG,PIN HEADER,,

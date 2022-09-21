@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12579 > Sparkfun](#prs12579--sparkfun)
+* [PRS12579 > Bluetooth Module Breakout](#prs12579--bluetooth-module-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12579 > Sparkfun
+# PRS12579 > Bluetooth Module Breakout
 
 - ID: PROJ-SPAR-12579-STAN-01
 - Hex ID: PRS12579
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12579-STAN-01/kicad/bom/ibom.html)
@@ -34,11 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|JP1,HEAD-I01-X-PI10-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|JP2,HEAD-I01-X-PI10-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -60,7 +64,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Bluetooth_Module_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12579
 - oompID: PROJ-SPAR-12579-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI10-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10495 > Sparkfun](#prs10495--sparkfun)
+* [PRS10495 > Coin Cell Battery Holder Breakout-24.5mm](#prs10495--coin-cell-battery-holder-breakout-245mm)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10495 > Sparkfun
+# PRS10495 > Coin Cell Battery Holder Breakout-24.5mm
 
 - ID: PROJ-SPAR-10495-STAN-01
 - Hex ID: PRS10495
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10495-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,,BATTERY245PTH,BATTCON_245MM_PTH,Battery Holders,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,M02PTH,1X02,Header 2,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -60,7 +63,6 @@ Contents
 - oompID: PROJ-SPAR-10495-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BAT1,,BATTERY245PTH,BATTCON_245MM_PTH,Battery Holders,,
 - rawParts: J3,,M02PTH,1X02,Header 2,,
 - rawParts: JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

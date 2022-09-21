@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11999 > Sparkfun](#prs11999--sparkfun)
+* [PRS11999 > RedBot Whisker Bumper](#prs11999--redbot-whisker-bumper)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11999 > Sparkfun
+# PRS11999 > RedBot Whisker Bumper
 
 - ID: PROJ-SPAR-11999-STAN-01
 - Hex ID: PRS11999
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11999-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O103-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M03SMD_RA_MALE,1X03_SMD_RA_MALE,Header 3,CONN-10925,,|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
@@ -61,8 +63,6 @@ Contents
 - oompID: PROJ-SPAR-11999-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,
 - rawParts: FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,

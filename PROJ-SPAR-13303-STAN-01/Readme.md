@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS13303 > Sparkfun](#prs13303--sparkfun)
+* [PRS13303 > LSM303C 6 DOF IMU Breakout](#prs13303--lsm303c-6-dof-imu-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13303 > Sparkfun
+# PRS13303 > LSM303C 6 DOF IMU Breakout
 
 - ID: PROJ-SPAR-13303-STAN-01
 - Hex ID: PRS13303
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13303-STAN-01/kicad/bom/ibom.html)

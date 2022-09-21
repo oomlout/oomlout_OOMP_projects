@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16781 > Sparkfun](#prs16781--sparkfun)
+* [PRS16781 > MicroMod ESP32 Processor](#prs16781--micromod-esp32-processor)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16781 > Sparkfun
+# PRS16781 > MicroMod ESP32 Processor
 
 - ID: PROJ-SPAR-16781-STAN-01
 - Hex ID: PRS16781
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16781-STAN-01/kicad/bom/ibom.html)

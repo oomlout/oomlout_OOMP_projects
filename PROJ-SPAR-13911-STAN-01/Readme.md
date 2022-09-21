@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13911 > Sparkfun](#prs13911--sparkfun)
+* [PRS13911 > Serial Controlled Motor Driver](#prs13911--serial-controlled-motor-driver)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13911 > Sparkfun
+# PRS13911 > Serial Controlled Motor Driver
 
 - ID: PROJ-SPAR-13911-STAN-01
 - Hex ID: PRS13911
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13911-STAN-01/kicad/bom/ibom.html)
@@ -34,31 +38,31 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C5,CAPC-0402-X-NF100-01,C5,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C6,CAPC-0402-X-NF100-01,C6,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C7,CAPC-0402-X-NF100-01,C7,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C8,CAPC-0402-X-UNMATCHED-01,C8,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C9,CAPC-0402-X-UNMATCHED-01,C9,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C10,CAPX-UNMATCHED-X-UF10-01,C10,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|C11,CAPC-0402-X-NF100-01,C11,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,|
-|C12,CAPX-UNMATCHED-X-UF10-01,C12,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,RED,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O01-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O01-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R3,RESE-0603-X-UNMATCHED-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,|
-|R4,RESE-0603-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,|
-|R5,RESE-0603-X-UNMATCHED-01,H3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,|
-|R6,RESE-0603-X-O471-01,H4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,|
-|R7,RESE-0603-X-UNMATCHED-01,J1,DNP,CONN_021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|R8,RESE-0603-X-UNMATCHED-01,J2,DNP,M05PTH,1X05,Header 5,,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,DNP,CONN_021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,DNP,M05PTH,1X05,Header 5,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,DNP,M02PTH,1X02@1,Standard 2-pin 0.1 header. Use with,,,|
+|C1 C1,CAPC-0402-X-UF1-01|
+|C2 C2,CAPC-0402-X-UF1-01|
+|C3 C3,CAPC-0402-X-UF1-01|
+|C4 C4,CAPC-0402-X-UF1-01|
+|C5 C5,CAPC-0402-X-UF1D-01|
+|C6 C6,CAPC-0402-X-UF1D-01|
+|C7 C7,CAPC-0402-X-UF1D-01|
+|C8 C8,CAPC-0402-X-UF1-01|
+|C9 C9,CAPC-0402-X-UF1-01|
+|C10 C10,CAPX-UNMATCHED-X-UF10-01|
+|C11 C11,CAPC-0402-X-UF1D-01|
+|C12 C12,CAPX-UNMATCHED-X-UF10-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O10-01|
+|R2 R2,RESE-0603-X-O10-01|
+|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R6 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|[R7 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,28 +84,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Controlled_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13911
 - oompID: PROJ-SPAR-13911-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0402-X-NF100-01
-- oompParts: C6,CAPC-0402-X-NF100-01
-- oompParts: C7,CAPC-0402-X-NF100-01
-- oompParts: C8,CAPC-0402-X-UNMATCHED-01
-- oompParts: C9,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF1-01
+- oompParts: C2,CAPC-0402-X-UF1-01
+- oompParts: C3,CAPC-0402-X-UF1-01
+- oompParts: C4,CAPC-0402-X-UF1-01
+- oompParts: C5,CAPC-0402-X-UF1D-01
+- oompParts: C6,CAPC-0402-X-UF1D-01
+- oompParts: C7,CAPC-0402-X-UF1D-01
+- oompParts: C8,CAPC-0402-X-UF1-01
+- oompParts: C9,CAPC-0402-X-UF1-01
 - oompParts: C10,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C11,CAPC-0402-X-NF100-01
+- oompParts: C11,CAPC-0402-X-UF1D-01
 - oompParts: C12,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-O01-01
-- oompParts: R2,RESE-0603-X-O01-01
-- oompParts: R3,RESE-0603-X-UNMATCHED-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O10-01
+- oompParts: R2,RESE-0603-X-O10-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: R5,RESE-0603-X-O472-01
 - oompParts: R6,RESE-0603-X-O471-01
-- oompParts: R7,RESE-0603-X-UNMATCHED-01
-- oompParts: R8,RESE-0603-X-UNMATCHED-01
+- oompParts: R7,RESE-0603-X-O472-01
+- oompParts: R8,RESE-0603-X-O472-01
 - oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

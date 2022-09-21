@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12700 > Sparkfun](#prs12700--sparkfun)
+* [PRS12700 > USB Type A Female Breakout](#prs12700--usb-type-a-female-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12700 > Sparkfun
+# PRS12700 > USB Type A Female Breakout
 
 - ID: PROJ-SPAR-12700-STAN-01
 - Hex ID: PRS12700
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12700-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP2,HEAD-I01-X-PI04-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
 
 ## Images
   

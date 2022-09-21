@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [PRS13268 > Sparkfun](#prs13268--sparkfun)
+* [PRS13268 > Snappable P-Board](#prs13268--snappable-p-board)
 	* [Schematic](#schematic)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13268 > Sparkfun
+# PRS13268 > Snappable P-Board
 
 - ID: PROJ-SPAR-13268-STAN-01
 - Hex ID: PRS13268

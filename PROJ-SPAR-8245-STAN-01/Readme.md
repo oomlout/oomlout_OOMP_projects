@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8245 > Sparkfun](#prs8245--sparkfun)
+* [PRS8245 > Serial USB Adapter-Nike iPod](#prs8245--serial-usb-adapter-nike-ipod)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8245 > Sparkfun
+# PRS8245 > Serial USB Adapter-Nike iPod
 
 - ID: PROJ-SPAR-8245-STAN-01
 - Hex ID: PRS8245
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8245-STAN-01/kicad/bom/ibom.html)

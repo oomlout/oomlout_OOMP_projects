@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14722 > Sparkfun](#prs14722--sparkfun)
+* [PRS14722 > Qwiic Distance VL53L1X](#prs14722--qwiic-distance-vl53l1x)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14722 > Sparkfun
+# PRS14722 > Qwiic Distance VL53L1X
 
 - ID: PROJ-SPAR-14722-STAN-01
 - Hex ID: PRS14722
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14722-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,4.7uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,RED,|
-|I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,I2C,,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,|
-|LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|R1,RESE-0603-X-O103-01,JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O103-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O102-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R5,RESE-0603-X-UNMATCHED-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|I2C I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R5 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,8 +74,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Distance_VL53L1X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14722
 - oompID: PROJ-SPAR-14722-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -80,12 +83,11 @@ Contents
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R3,RESE-0603-X-O102-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O222-01
+- oompParts: R5,RESE-0603-X-O222-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,4.7uF,
 - rawParts: C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,0.1uF,

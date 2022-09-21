@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12009 > Sparkfun](#prs12009--sparkfun)
+* [PRS12009 > Logic Level Converter](#prs12009--logic-level-converter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12009 > Sparkfun
+# PRS12009 > Logic Level Converter
 
 - ID: PROJ-SPAR-12009-STAN-01
 - Hex ID: PRS12009
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12009-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CC_TEXT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CC_TEXT1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,Creative Commons License summary,,|
-|JP1,HEAD-I01-X-PI06-01,JP1,,M06SIP,1X06,Header 6,,|
-|JP2,HEAD-I01-X-PI06-01,JP2,,M06SIP,1X06,Header 6,,|
-|Q1,UNMATCHED-SO23-X-KBSS138-01,JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|Q2,UNMATCHED-SO23-X-KBSS138-01,JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O103-01,JP5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|R3,RESE-0603-X-O103-01,Q1,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|R4,RESE-0603-X-O103-01,Q2,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|R5,RESE-0603-X-O203-01,R1,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R6,RESE-0603-X-O103-01,R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R7,RESE-0603-X-O103-01,R4,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R8,RESE-0603-X-O103-01,R5,20K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R9,RESE-0603-X-O203-01,R6,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-KBSS138-01|
+|Q2 Q2,UNMATCHED-SO23-X-KBSS138-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
 
 ## Images
   
@@ -68,7 +71,6 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12009
 - oompID: PROJ-SPAR-12009-STAN-01
-- oompParts: CC_TEXT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: Q1,UNMATCHED-SO23-X-KBSS138-01

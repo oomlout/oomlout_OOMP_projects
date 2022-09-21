@@ -42,31 +42,31 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0805-X-UNMATCHED-01"
+            "value": "C1,CAPC-0805-X-UF22D-01"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0805-X-UNMATCHED-01"
+            "value": "C2,CAPC-0805-X-UF1-01"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-UNMATCHED-01"
+            "value": "C3,CAPC-0805-X-UF1-01"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0603-X-UNMATCHED-01"
+            "value": "C4,CAPC-0603-X-UF1-01"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-1206-X-UNMATCHED-01"
+            "value": "C5,CAPC-1206-X-UF47D-01"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+            "value": "C6,CAPC-0603-X-UF1-01"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UNMATCHED-01"
+            "value": "C7,CAPC-0603-X-UF1-01"
         },
         {
             "name": "oompParts",
@@ -90,10 +90,6 @@
         },
         {
             "name": "oompParts",
-            "value": "LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
@@ -110,11 +106,11 @@
         },
         {
             "name": "oompParts",
-            "value": "R13,RESE-0603-X-UNMATCHED-01"
+            "value": "R13,RESE-0603-X-O472-01"
         },
         {
             "name": "oompParts",
-            "value": "R14,RESE-0603-X-UNMATCHED-01"
+            "value": "R14,RESE-0603-X-O472-01"
         },
         {
             "name": "rawParts",

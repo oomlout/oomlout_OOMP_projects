@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA163 > Adafruit](#pra163--adafruit)
+* [PRA163 > Adafruit Analog Accelerometers PCBs](#pra163--adafruit-analog-accelerometers-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA163 > Adafruit
+# PRA163 > Adafruit Analog Accelerometers PCBs
 
 - ID: PROJ-ADAF-163-STAN-01
 - Hex ID: PRA163
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-163-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,0.01uF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,0.01uF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,0.01uF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,10ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,10ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|JP2,HEAD-I01-X-PI07-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|U$17,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,HEADER-1X770MIL,1X07_ROUND_70,PIN HEADER,,|
-|U$18,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$3,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
+|C1 C1,CAPC-0805-X-UNMATCHED-01|
+|C2 C2,CAPC-0805-X-UNMATCHED-01|
+|C3 C3,CAPC-0805-X-UNMATCHED-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP2 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,13 +70,9 @@ Contents
 - oompParts: C1,CAPC-0805-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-UNMATCHED-01
 - oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
+- oompParts: C4,CAPC-0805-X-UF10-V10
+- oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: JP2,HEAD-I01-X-PI07-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$17,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$18,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,0.01uF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,

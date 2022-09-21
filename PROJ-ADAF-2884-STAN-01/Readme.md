@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2884 > Adafruit](#pra2884--adafruit)
+* [PRA2884 > Adafruit FeatherWing Proto Doubler Tripler and Quad](#pra2884--adafruit-featherwing-proto-doubler-tripler-and-quad)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2884 > Adafruit
+# PRA2884 > Adafruit FeatherWing Proto Doubler Tripler and Quad
 
 - ID: PROJ-ADAF-2884-STAN-01
 - Hex ID: PRA2884
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2884-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI12-01,JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,|
-|JP2,HEAD-I01-X-PI16-01,JP2,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI16-01,JP3,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,|
-|JP4,HEAD-I01-X-PI12-01,JP4,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,|
-|JP5,HEAD-I01-X-PI12-01,JP5,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,|
-|JP6,HEAD-I01-X-PI16-01,JP6,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,|
-|MS2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MS2,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,|
-|MS3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MS3,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,|
+|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP2 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[JP3 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[JP4 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP5 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP6 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|MS2 MS2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|MS3 MS3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

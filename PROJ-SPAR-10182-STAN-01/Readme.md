@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS10182 > Sparkfun](#prs10182--sparkfun)
+* [PRS10182 > Monster Moto Shield](#prs10182--monster-moto-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10182 > Sparkfun
+# PRS10182 > Monster Moto Shield
 
 - ID: PROJ-SPAR-10182-STAN-01
 - Hex ID: PRS10182
@@ -24,50 +25,52 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,33nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPX-UNMATCHED-X-UF560-01,C2,560uF,CAP_POLG,PANASONIC_G,Capacitor Polarized,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C3,DNP,CAP_POLPTH4,CPOL-RADIAL-1000UF-25V,Capacitor Polarized,,|
-|C5,CAPX-UNMATCHED-X-UF560-01,C4,33nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|D1,DIOD-S323-X-UNMATCHED-01,C5,560uF,CAP_POLG,PANASONIC_G,Capacitor Polarized,,|
-|JP1,HEAD-I01-X-PI02-01,C6,DNP,CAP_POLPTH4,CPOL-RADIAL-1000UF-25V,Capacitor Polarized,,|
-|JP2,HEAD-I01-X-PI02-01,D1,BZT52,DIODE-ZENER-BZT52,SOD-323,Zener Diode,,|
-|JP3,HEAD-I01-X-PI02-01,JP1,M1,M02PTH4,1X02_XTRA_BIG,Header 2,,|
-|LED1,LEDS-0603-G-STAN-01,JP2,M2,M02PTH4,1X02_XTRA_BIG,Header 2,,|
-|LED2,LEDS-0603-G-STAN-01,JP3,VCC,M02PTH4,1X02_XTRA_BIG,Header 2,,|
-|LED3,LEDS-0603-G-STAN-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|LED4,LEDS-0603-G-STAN-01,JP5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|LED5,LEDS-0603-G-STAN-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,RED,LED0603,LED-0603,LEDs,,|
-|Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,GREEN,LED0603,LED-0603,LEDs,,|
-|R1,RESE-0402-X-O102-01,LED3,GREEN,LED0603,LED-0603,LEDs,,|
-|R2,RESE-0402-X-O102-01,LED4,GREEN,LED0603,LED-0603,LEDs,,|
-|R3,RESE-0402-X-O102-01,LED5,GREEN,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0402-X-O102-01,Q1,FDD8580,MOSFET-NCHANNELFDD8580,DPAK,,,|
-|R5,RESE-0402-X-O103-01,Q2,FDD8580,MOSFET-NCHANNELFDD8580,DPAK,,,|
-|R6,RESE-0402-X-UNMATCHED-01,R1,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-O102-01,R2,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-O472-01,R3,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R9,RESE-0402-X-O1003-01,R4,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R10,RESE-0402-X-O102-01,R5,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R11,RESE-0402-X-O102-01,R6,1.5K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R12,RESE-0402-X-O102-01,R7,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R13,RESE-0402-X-O102-01,R8,4.7K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R14,RESE-0402-X-O103-01,R9,100K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R15,RESE-0402-X-UNMATCHED-01,R10,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R16,RESE-0402-X-O102-01,R11,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R17,RESE-0402-X-O472-01,R12,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R18,RESE-0402-X-O331-01,R13,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R19,RESE-0402-X-O331-01,R14,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R20,RESE-0402-X-O331-01,R15,1.5K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,1K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R17,4.7K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R18,330,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R19,330,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-NF33-01|
+|C2 C2,CAPX-UNMATCHED-X-UF560-01|
+|C4 C4,CAPC-0402-X-NF33-01|
+|C5 C5,CAPX-UNMATCHED-X-UF560-01|
+|D1 D1,DIOD-S323-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED5 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R2 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R3 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R4 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R5 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R6 R6,RESE-0402-X-UNMATCHED-01|
+|[R7 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R8 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|R9 R9,RESE-0402-X-O1003-01|
+|[R10 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R11 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R12 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R13 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R14 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R15 R15,RESE-0402-X-UNMATCHED-01|
+|[R16 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R17 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|R18 R18,RESE-0402-X-O331-01|
+|R19 R19,RESE-0402-X-O331-01|
+|R20 R20,RESE-0402-X-O331-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -89,9 +92,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Monster_Moto_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10182
 - oompID: PROJ-SPAR-10182-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-NF33-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF560-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-NF33-01
 - oompParts: C5,CAPX-UNMATCHED-X-UF560-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
@@ -124,7 +127,6 @@ Contents
 - oompParts: R18,RESE-0402-X-O331-01
 - oompParts: R19,RESE-0402-X-O331-01
 - oompParts: R20,RESE-0402-X-O331-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

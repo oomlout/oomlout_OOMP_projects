@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9825 > Sparkfun](#prs9825--sparkfun)
+* [PRS9825 > Pocket AVR Programmer](#prs9825--pocket-avr-programmer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9825 > Sparkfun
+# PRS9825 > Pocket AVR Programmer
 
 - ID: PROJ-SPAR-9825-STAN-01
 - Hex ID: PRS9825
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9825-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11525 > Sparkfun](#prs11525--sparkfun)
+* [PRS11525 > P8X32A Breakout](#prs11525--p8x32a-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11525 > Sparkfun
+# PRS11525 > P8X32A Breakout
 
 - ID: PROJ-SPAR-11525-STAN-01
 - Hex ID: PRS11525
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11525-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C4,CAPC-0402-X-NF100-01,C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI20-01,JP1,PropPlug,M04PTH,1X04,Header 4,,|
-|JP3,HEAD-I01-X-PI20-01,JP2,M20,M20,1X20,1x20 .1 header,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,M20,M20,1X20,1x20 .1 header,,|
-|LED1,LEDS-0603-G-STAN-01,JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|LED2,LEDS-0603-G-STAN-01,JP5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R1,RESE-0402-X-O331-01,JP7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R2,RESE-0402-X-O331-01,JP9,FTDI_BASICPTH,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic header with labels,,|
-|R3,RESE-0402-X-O103-01,JP10,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|R4,RESE-0402-X-O241-01,JP11,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|R5,RESE-0402-X-O391-01,JP12,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|R6,RESE-0402-X-O103-01,JP13,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP14,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP15,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,red,LED0603,LED-0603,LEDs,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,yellow,LED0603,LED-0603,LEDs,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|C4 C4,CAPC-0402-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|[JP3 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0402-X-O331-01|
+|R2 R2,RESE-0402-X-O331-01|
+|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R4 R4,RESE-0402-X-O241-01|
+|R5 R5,RESE-0402-X-O391-01|
+|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,10 +79,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/P8X32A_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11525
 - oompID: PROJ-SPAR-11525-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C4,CAPC-0402-X-NF100-01
+- oompParts: C4,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,HEAD-I01-X-PI20-01
 - oompParts: JP3,HEAD-I01-X-PI20-01

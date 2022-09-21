@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13264 > Sparkfun](#prs13264--sparkfun)
+* [PRS13264 > LilyPixel](#prs13264--lilypixel)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13264 > Sparkfun
+# PRS13264 > LilyPixel
 
 - ID: PROJ-SPAR-13264-STAN-01
 - Hex ID: PRS13264
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13264-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,WS2812B,WS2812B,WS2812B,WS2812B - Intelligent control LED integrated light source,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|D1 D1,DIOD-UNMATCHED-X-K2812-01|
 
 ## Images
   
@@ -63,14 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPixel (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13264
 - oompID: PROJ-SPAR-13264-STAN-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: D1,DIOD-UNMATCHED-X-K2812-01
 - rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: D1,WS2812B,WS2812B,WS2812B,WS2812B - Intelligent control LED integrated light source,,,
 - rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,

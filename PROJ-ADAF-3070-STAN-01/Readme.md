@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3070 > Adafruit](#pra3070--adafruit)
+* [PRA3070 > Adafruit RFM LoRa Radio Breakout PCB](#pra3070--adafruit-rfm-lora-radio-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3070 > Adafruit
+# PRA3070 > Adafruit RFM LoRa Radio Breakout PCB
 
 - ID: PROJ-ADAF-3070-STAN-01
 - Hex ID: PRA3070
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3070-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI05-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI01-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI09-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|R1,RESE-0805-X-O1003-01,JP2,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|R2,RESE-0805-X-O1003-01,JP3,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|R3,RESE-0805-X-O1003-01,R1,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U3,VREG-SO235-X-KAP2112K-V33D,U1,RFM69HCW,RFM69HCW_SMT,RFMHCW_SMT,RFM69HCW - ISM Band RF Transceiver,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U2,74HC4050D,74HC4050DTSSOP,TSSOP16,6-channel level shifter,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|R1 R1,RESE-0805-X-O1003-01|
+|R2 R2,RESE-0805-X-O1003-01|
+|R3 R3,RESE-0805-X-O1003-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,VREG-SO235-X-KAP2112K-V33D|
+|X1 X1,CAPX-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,7 +73,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/3070
 - oompID: PROJ-ADAF-3070-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI01-01
@@ -80,7 +84,7 @@ Contents
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,VREG-SO235-X-KAP2112K-V33D
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,CAPX-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

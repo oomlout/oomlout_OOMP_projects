@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10252 > Sparkfun](#prs10252--sparkfun)
+* [PRS10252 > IMU Fusion Board](#prs10252--imu-fusion-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10252 > Sparkfun
+# PRS10252 > IMU Fusion Board
 
 - ID: PROJ-SPAR-10252-STAN-01
 - Hex ID: PRS10252
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10252-STAN-01/kicad/bom/ibom.html)
@@ -34,23 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,2.2nF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,10nF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C6,CAPC-0603-X-NF100-V50,C6,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C7,CAPC-0603-X-UNMATCHED-01,C7,470pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C8,CAPX-UNMATCHED-X-UF10-01,C8,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C9,CAPX-UNMATCHED-X-UF10-01,C9,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C10,CAPC-0603-X-NF100-V50,C10,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP8,HEAD-I01-X-PI07-01,JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R1,RESE-0603-X-UNMATCHED-01,JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-PF22D-01|
+|C4 C4,CAPC-0603-X-NF10-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF1D-01|
+|C7 C7,CAPC-0603-X-PF470-01|
+|C8 C8,CAPX-UNMATCHED-X-UF10-01|
+|C9 C9,CAPX-UNMATCHED-X-UF10-01|
+|C10 C10,CAPC-0603-X-UF1D-01|
+|[JP8 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -72,20 +75,19 @@ Contents
 - sources: All source files from https://github.com/sparkfun/IMU_Fusion_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10252
 - oompID: PROJ-SPAR-10252-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-PF22D-01
+- oompParts: C4,CAPC-0603-X-NF10-01
 - oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPC-0603-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C7,CAPC-0603-X-PF470-01
 - oompParts: C8,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C9,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C10,CAPC-0603-X-UF1D-01
 - oompParts: JP8,HEAD-I01-X-PI07-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O472-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01

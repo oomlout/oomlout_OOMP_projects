@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15441 > Sparkfun](#prs15441--sparkfun)
+* [PRS15441 > SparkFun AS3935 Lightning Detector](#prs15441--sparkfun-as3935-lightning-detector)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15441 > Sparkfun
+# PRS15441 > SparkFun AS3935 Lightning Detector
 
 - ID: PROJ-SPAR-15441-STAN-01
 - Hex ID: PRS15441
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15441-STAN-01/kicad/bom/ibom.html)

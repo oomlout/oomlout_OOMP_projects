@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS494 > Sparkfun](#prs494--sparkfun)
+* [PRS494 > SOIC8-DIP Adapter](#prs494--soic8-dip-adapter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS494 > Sparkfun
+# PRS494 > SOIC8-DIP Adapter
 
 - ID: PROJ-SPAR-494-STAN-01
 - Hex ID: PRS494
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-494-STAN-01/kicad/bom/ibom.html)

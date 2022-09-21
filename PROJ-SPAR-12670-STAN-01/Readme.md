@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12670 > Sparkfun](#prs12670--sparkfun)
+* [PRS12670 > MAG3110 Breakout Board](#prs12670--mag3110-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12670 > Sparkfun
+# PRS12670 > MAG3110 Breakout Board
 
 - ID: PROJ-SPAR-12670-STAN-01
 - Hex ID: PRS12670
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12670-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI05-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R2,RESE-0603-X-UNMATCHED-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,breakout,M05PTH,1X05,Header 5,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -64,14 +68,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MAG3110_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12670
 - oompID: PROJ-SPAR-12670-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: C4,CAPC-0603-X-UF1-01
-- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O472-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,

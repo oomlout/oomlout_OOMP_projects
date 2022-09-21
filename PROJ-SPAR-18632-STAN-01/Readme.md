@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18632 > Sparkfun](#prs18632--sparkfun)
+* [PRS18632 > MicroMod Environmental Sensor Function Board](#prs18632--micromod-environmental-sensor-function-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18632 > Sparkfun
+# PRS18632 > MicroMod Environmental Sensor Function Board
 
 - ID: PROJ-SPAR-18632-STAN-01
 - Hex ID: PRS18632
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18632-STAN-01/kicad/bom/ibom.html)

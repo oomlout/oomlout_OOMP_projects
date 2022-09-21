@@ -42,35 +42,35 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0805-X-UNMATCHED-01"
+            "value": "C1,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0805-X-UNMATCHED-01"
+            "value": "C2,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-UNMATCHED-01"
+            "value": "C3,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0805-X-UNMATCHED-01"
+            "value": "C4,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0805-X-UNMATCHED-01"
+            "value": "C5,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0805-X-UNMATCHED-01"
+            "value": "C6,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0805-X-UNMATCHED-01"
+            "value": "C7,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0805-X-UNMATCHED-01"
+            "value": "C8,CAPC-0805-X-NF100-V50"
         },
         {
             "name": "oompParts",
@@ -82,43 +82,35 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED2,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED3,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED4,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED5,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED6,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED7,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "oompParts",
-            "value": "LED8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED8,LEDS-5050-RGB-K2811-01"
         },
         {
             "name": "rawParts",

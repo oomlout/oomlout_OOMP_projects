@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10680 > Sparkfun](#prs10680--sparkfun)
+* [PRS10680 > Shift Register Breakout-74HC595](#prs10680--shift-register-breakout-74hc595)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10680 > Sparkfun
+# PRS10680 > Shift Register Breakout-74HC595
 
 - ID: PROJ-SPAR-10680-STAN-01
 - Hex ID: PRS10680
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10680-STAN-01/kicad/bom/ibom.html)
@@ -34,11 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI08-01,JP1,,M08,1X08,Header 8,,|
-|JP2,HEAD-I01-X-PI07-01,JP2,,M07,1X07,Header 7,,|
-|JP3,HEAD-I01-X-PI07-01,JP3,,M07,1X07,Header 7,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP2 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[JP3 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,7 +66,6 @@ Contents
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP2,HEAD-I01-X-PI07-01
 - oompParts: JP3,HEAD-I01-X-PI07-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M08,1X08,Header 8,,
 - rawParts: JP2,,M07,1X07,Header 7,,

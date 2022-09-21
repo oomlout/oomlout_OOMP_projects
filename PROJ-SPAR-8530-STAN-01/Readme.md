@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8530 > Sparkfun](#prs8530--sparkfun)
+* [PRS8530 > Speed Trap](#prs8530--speed-trap)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8530 > Sparkfun
+# PRS8530 > Speed Trap
 
 - ID: PROJ-SPAR-8530-STAN-01
 - Hex ID: PRS8530
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8530-STAN-01/kicad/bom/ibom.html)

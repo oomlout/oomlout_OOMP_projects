@@ -46,11 +46,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPX-UNMATCHED-X-UNMATCHED-01"
+            "value": "C1,CAPX-UNMATCHED-X-NF100-01"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPX-UNMATCHED-X-UNMATCHED-01"
+            "value": "C2,CAPX-UNMATCHED-X-NF100-01"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-UNMATCHED-G-STAN-01"
         },
         {
             "name": "oompParts",
@@ -67,10 +67,6 @@
         {
             "name": "oompParts",
             "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

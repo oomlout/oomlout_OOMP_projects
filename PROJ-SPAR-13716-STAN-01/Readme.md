@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13716 > Sparkfun](#prs13716--sparkfun)
+* [PRS13716 > FemtoBuck](#prs13716--femtobuck)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13716 > Sparkfun
+# PRS13716 > FemtoBuck
 
 - ID: PROJ-SPAR-13716-STAN-01
 - Hex ID: PRS13716
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13716-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-1206-X-UF1-01,C1,1uF,1.0UF50V10%(1206),1206-CAP,CAP-09822,,,,,,|
-|C2,CAPC-1206-X-UNMATCHED-01,C2,2.2uF,2.2UF50V10%(1206),1206-CAP,CAP-10009,,,,,,|
-|CH1,TERS-35D-L-PI02-01,CH1,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,CONN-08399,,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,,,DIO-08053,,MBRA140,|
-|JP1,HEAD-I01-X-PI04-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,|
-|R1,RESE-0805-X-UNMATCHED-01,JP1,,M04PTH,1X04,Header 4,,,,,,|
-|R2,RESE-0805-X-UNMATCHED-01,JP2,M02PTH,M02PTH,1X02@1,Standard 2-pin 0.1 header. Use with,,,,,,|
-|SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L1,33ÃÂµH/ÃÂ±20%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,,,NDUC-11627,,33ÃÂµH/ÃÂ±20%/1.4A,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,|
+|C1 C1,CAPC-1206-X-UF1-01|
+|C2 C2,CAPC-1206-X-UF22D-01|
+|[CH1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0805-X-UNMATCHED-01|
+|R2 R2,RESE-0805-X-UNMATCHED-01|
+|SJ2 SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,7 +71,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13716
 - oompID: PROJ-SPAR-13716-STAN-01
 - oompParts: C1,CAPC-1206-X-UF1-01
-- oompParts: C2,CAPC-1206-X-UNMATCHED-01
+- oompParts: C2,CAPC-1206-X-UF22D-01
 - oompParts: CH1,TERS-35D-L-PI02-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01

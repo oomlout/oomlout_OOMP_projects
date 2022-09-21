@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4022 > Adafruit](#pra4022--adafruit)
+* [PRA4022 > Adafruit MLX90393 PCB](#pra4022--adafruit-mlx90393-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4022 > Adafruit
+# PRA4022 > Adafruit MLX90393 PCB
 
 - ID: PROJ-ADAF-4022-STAN-01
 - Hex ID: PRA4022
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4022-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-UNMATCHED-X-UF10-01,C1,10uf,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,|
-|C2,CAPC-UNMATCHED-X-UF10-01,C2,10uF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|JP2,HEAD-I01-X-PI04-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI08-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSN-SO363-X-KBSS138-01,JP2,H3,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|R1,RESE-UNMATCHED-X-O103-01,JP3,H8,HEADER-1X8ROUND,1X08_ROUND,PIN HEADER,,|
-|R2,RESE-UNMATCHED-X-O103-01,Q1,BSS138,MOSFET-N_DUAL,SOT363,Dual N-Channel MOSFET,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10K,RESISTOR_4PACK_NO,RESPACK_4X0603_NO,Resistor Packs (4 resistors),,|
-|U2,VREG-SO235-X-KAP2112K-V33D,R2,10K,RESISTOR_4PACK_NO,RESPACK_4X0603_NO,Resistor Packs (4 resistors),,|
+|C1 C1,CAPC-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-UNMATCHED-X-UF10-01|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[Q1 MOSN-SO363-X-KBSS138-01 SMD (SOT-363) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO363-X-KBSS138-01/)|
+|R1 R1,RESA-06038-X-O103X4-01|
+|R2 R2,RESA-06038-X-O103X4-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
 
 ## Images
   
@@ -71,8 +75,8 @@ Contents
 - oompParts: JP2,HEAD-I01-X-PI04-01
 - oompParts: JP3,HEAD-I01-X-PI08-01
 - oompParts: Q1,MOSN-SO363-X-KBSS138-01
-- oompParts: R1,RESE-UNMATCHED-X-O103-01
-- oompParts: R2,RESE-UNMATCHED-X-O103-01
+- oompParts: R1,RESA-06038-X-O103X4-01
+- oompParts: R2,RESA-06038-X-O103X4-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D
 - rawParts: C1,10uf,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,

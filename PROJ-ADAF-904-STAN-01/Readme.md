@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA904 > Adafruit](#pra904--adafruit)
+* [PRA904 > Adafruit INA219 Current Sensor PCB](#pra904--adafruit-ina219-current-sensor-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA904 > Adafruit
+# PRA904 > Adafruit INA219 Current Sensor PCB
 
 - ID: PROJ-ADAF-904-STAN-01
 - Hex ID: PRA904
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-904-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-UNMATCHED-X-UF1-01,A0,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,A1,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|JP1,HEAD-I01-X-PI12-01,C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO@1,Ceramic Capacitors,,|
-|JP2,HEAD-I01-X-PI02-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI16-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,3.5mm,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,|
-|R5,RESE-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,|
-|R6,RESE-UNMATCHED-X-O103-01,JP2,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,|
-|U1,UNMATCHED-SO23-X-UNMATCHED-01,MS1,FEATHERWING,FEATHERWING,FEATHERWING,,,|
+|C1 C1,CAPC-UNMATCHED-X-UF1-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R5 R5,RESE-UNMATCHED-X-UNMATCHED-01|
+|R6 R6,RESA-06038-X-O103X4-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO23-X-UNMATCHED-01|
 
 ## Images
   
@@ -72,7 +76,7 @@ Contents
 - oompParts: JP3,HEAD-I01-X-PI16-01
 - oompParts: MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R5,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: R6,RESE-UNMATCHED-X-O103-01
+- oompParts: R6,RESA-06038-X-O103X4-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-SO23-X-UNMATCHED-01
 - rawParts: A0,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,

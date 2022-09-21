@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11117 > Sparkfun](#prs11117--sparkfun)
+* [PRS11117 > 32U4 Breakout Board](#prs11117--32u4-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11117 > Sparkfun
+# PRS11117 > 32U4 Breakout Board
 
 - ID: PROJ-SPAR-11117-STAN-01
 - Hex ID: PRS11117
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11117-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,18pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,18pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C6,CAPC-0603-X-NF100-V50,C6,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C7,CAPC-0603-X-NF100-V50,C7,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C8,CAPX-UNMATCHED-X-UF10-01,C8,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C9,CAPC-0603-X-NF100-V50,C9,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,PTCSMD,PTCSMD,PTC-1206,Resettable Fuse PTC,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,AVR_SPI_PRG,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,|
-|JP1,HEAD-I01-X-PI12-01,JP1,M12PTH,M12PTH,1X12,Header 12,,|
-|JP2,HEAD-I01-X-PI12-01,JP2,M12PTH,M12PTH,1X12,Header 12,,|
-|JP3,HEAD-I01-X-PI06-01,JP3,,M06SIP,1X06,Header 6,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O103-01,JP7,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R2,RESE-0603-X-O21-01,JP8,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R3,RESE-0603-X-O21-01,LED1,Power,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0603-X-O102-01,R1,10k,RESISTOR0603-RES,0603-RES,Resistor,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,22,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,22,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R4,1k,RESISTOR0603-RES,0603-RES,Resistor,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S1,SWITCH-SMD,SWITCH-MOMENTARY-2SMD,TACTILE_SWITCH_SMD,,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,Power Select,SOLDERJUMPER_2WAYPASTE2&3,SJ_3_PASTE2&3,Solder Jumper,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-PF18-01|
+|C3 C3,CAPC-0603-X-PF18-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF1D-01|
+|C7 C7,CAPC-0603-X-UF1D-01|
+|C8 C8,CAPX-UNMATCHED-X-UF10-01|
+|C9 C9,CAPC-0603-X-UF1D-01|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP2 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R3 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -79,15 +83,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/32U4_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11117
 - oompID: PROJ-SPAR-11117-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-PF18-01
+- oompParts: C3,CAPC-0603-X-PF18-01
 - oompParts: C4,CAPC-0603-X-UF1-01
 - oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C7,CAPC-0603-X-UF1D-01
 - oompParts: C8,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C9,CAPC-0603-X-NF100-V50
+- oompParts: C9,CAPC-0603-X-UF1D-01
 - oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI12-01
@@ -95,8 +99,8 @@ Contents
 - oompParts: JP3,HEAD-I01-X-PI06-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: R2,RESE-0603-X-O21-01
-- oompParts: R3,RESE-0603-X-O21-01
+- oompParts: R2,RESE-0603-X-O220-01
+- oompParts: R3,RESE-0603-X-O220-01
 - oompParts: R4,RESE-0603-X-O102-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA931 > Adafruit](#pra931--adafruit)
+* [PRA931 > Adafruit 128x32 I2C OLED Breakout PCB](#pra931--adafruit-128x32-i2c-oled-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA931 > Adafruit
+# PRA931 > Adafruit 128x32 I2C OLED Breakout PCB
 
 - ID: PROJ-ADAF-931-STAN-01
 - Hex ID: PRA931
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-931-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF1-01,C2,1uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF1-01,C3,1uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF1-01,C4,1uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UF10-V10,C6,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UF10-V10,C7,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|LCD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|Q1,MOSN-SO23-X-KBSS138-01,JP1,,HEADER-1X670MIL,1X06_ROUND_70,PIN HEADER,,|
-|Q2,MOSN-SO23-X-KBSS138-01,LCD1,,DISP_OLED_UG-2832HSWEG02,UG-2832HSWEG02_WRAPUNDER,128x32 I2C 0.91 Monochrome OLED Display,,|
-|R3,RESE-0805-X-O3903-01,Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R4,RESE-0805-X-O103-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R5,RESE-0805-X-O103-01,R3,390K,RESISTOR0805,0805,Resistors,,|
-|R7,RESE-0805-X-O103-01,R4,10K,RESISTOR0805,0805,Resistors,,|
-|R8,RESE-0805-X-O103-01,R5,10K,RESISTOR0805,0805,Resistors,,|
-|R9,RESE-0805-X-O103-01,R7,10K,RESISTOR0805,0805,Resistors,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R8,10K,RESISTOR0805,0805,Resistors,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|C3 C3,CAPC-0805-X-UF1-01|
+|C4 C4,CAPC-0805-X-UF1-01|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LCD1 LCD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|R3 R3,RESE-0805-X-O3903-01|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R9 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10901 > Sparkfun](#prs10901--sparkfun)
+* [PRS10901 > Infrared Proximity Breakout-VCNL4000](#prs10901--infrared-proximity-breakout-vcnl4000)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10901 > Sparkfun
+# PRS10901 > Infrared Proximity Breakout-VCNL4000
 
 - ID: PROJ-SPAR-10901-STAN-01
 - Hex ID: PRS10901
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10901-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|JP1,HEAD-I01-X-PI05-01,JP1,,M05PTH,1X05,Header 5,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -61,11 +64,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Infrared_Proximity_Breakout-VCNL4000 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10901
 - oompID: PROJ-SPAR-10901-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14480 > Sparkfun](#prs14480--sparkfun)
+* [PRS14480 > Triple Axis Accelerometer Breakout-H3LIS331DL](#prs14480--triple-axis-accelerometer-breakout-h3lis331dl)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14480 > Sparkfun
+# PRS14480 > Triple Axis Accelerometer Breakout-H3LIS331DL
 
 - ID: PROJ-SPAR-14480-STAN-01
 - Hex ID: PRS14480
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14480-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,CAP-08604,0.1uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,,CONN_04,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,I2C_STANDARD,1X04,SparkFun I2C Standard Pinout Header,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,JUMPER-SMT_3_2-NC_PASTE_NO-SILK,JUMPER-SMT_3_2-NC_PASTE_NO-SILK,SMT-JUMPER_3_2-NC_PASTE_NO-SILK,Normally closed solder jumper (2 of 2 connections),,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,JUMPER-SMT_2_NO_NO-SILK,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,|
-|R1,RESE-0603-X-O103-01,JP3,JUMPER-SMT_2_NC_PASTE_NO-SILK,JUMPER-SMT_2_NC_PASTE_NO-SILK,SMT-JUMPER_2_NC_PASTE_NO-SILK,Normally closed solder jumper,,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-UNMATCHED-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R4,RESE-0603-X-O103-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,15 +69,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14480
 - oompID: PROJ-SPAR-14480-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
-- oompParts: R3,RESE-0603-X-UNMATCHED-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,10UF-POLAR-EIA3216-16V-10%(TANT),EIA3216,10.0ÃÂµF polarized capacitors,CAP-00811,10uF,

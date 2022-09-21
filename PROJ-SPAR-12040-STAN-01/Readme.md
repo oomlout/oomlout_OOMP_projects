@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12040 > Sparkfun](#prs12040--sparkfun)
+* [PRS12040 > INA169 Breakout](#prs12040--ina169-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12040 > Sparkfun
+# PRS12040 > INA169 Breakout
 
 - ID: PROJ-SPAR-12040-STAN-01
 - Hex ID: PRS12040
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12040-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,,|
-|JP1,HEAD-I01-X-PI01-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,|
-|JP2,HEAD-I01-X-PI01-01,JP1,M01PTH,M01PTH,1X01,Header 1,,,,|
-|JP5,HEAD-I01-X-PI01-01,JP2,M01PTH,M01PTH,1X01,Header 1,,,,|
-|JP6,HEAD-I01-X-PI01-01,JP5,M01PTH,M01PTH,1X01,Header 1,,,,|
-|JP7,HEAD-I01-X-PI01-01,JP6,M01PTH,M01PTH,1X01,Header 1,,,,|
-|R1,RESE-1206-X-O11-01,JP7,M01PTH,M01PTH,1X01,Header 1,,,,|
-|R2,RESE-0603-X-O103-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,|
-|R3,RESE-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,|
-|R4,RESE-UNMATCHED-X-UNMATCHED-01,LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R1,10,RESISTOR1206,1206,Resistor,,1206,1%,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|JP1 JP1,HEAD-I01-X-PI01-01|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|JP5 JP5,HEAD-I01-X-PI01-01|
+|JP6 JP6,HEAD-I01-X-PI01-01|
+|JP7 JP7,HEAD-I01-X-PI01-01|
+|R1 R1,RESE-1206-X-O100-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-UNMATCHED-X-UNMATCHED-01|
+|R4 R4,RESE-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,13 +70,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/INA169_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12040
 - oompID: PROJ-SPAR-12040-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
 - oompParts: JP2,HEAD-I01-X-PI01-01
 - oompParts: JP5,HEAD-I01-X-PI01-01
 - oompParts: JP6,HEAD-I01-X-PI01-01
 - oompParts: JP7,HEAD-I01-X-PI01-01
-- oompParts: R1,RESE-1206-X-O11-01
+- oompParts: R1,RESE-1206-X-O100-01
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R3,RESE-UNMATCHED-X-UNMATCHED-01
 - oompParts: R4,RESE-UNMATCHED-X-UNMATCHED-01

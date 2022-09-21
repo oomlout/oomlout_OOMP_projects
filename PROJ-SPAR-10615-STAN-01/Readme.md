@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10615 > Sparkfun](#prs10615--sparkfun)
+* [PRS10615 > PWM Shield](#prs10615--pwm-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10615 > Sparkfun
+# PRS10615 > PWM Shield
 
 - ID: PROJ-SPAR-10615-STAN-01
 - Hex ID: PRS10615
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10615-STAN-01/kicad/bom/ibom.html)
@@ -34,55 +38,54 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL3528,EIA3528,Capacitor Polarized,,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C3,CAPC-0402-X-NF100-01,C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J9,OUT,M03PTH,1X03,Header 3,,|
-|JP0,HEAD-I01-X-PI03-01,JP0,OUT,M03PTH,1X03,Header 3,,|
-|JP1,HEAD-I01-X-PI03-01,JP1,OUT,M03PTH,1X03,Header 3,,|
-|JP2,HEAD-I01-X-PI03-01,JP2,OUT,M03PTH,1X03,Header 3,,|
-|JP3,HEAD-I01-X-PI03-01,JP3,OUT,M03PTH,1X03,Header 3,,|
-|JP4,HEAD-I01-X-PI03-01,JP4,OUT,M03PTH,1X03,Header 3,,|
-|JP5,HEAD-I01-X-PI03-01,JP5,OUT,M03PTH,1X03,Header 3,,|
-|JP6,HEAD-I01-X-PI03-01,JP6,OUT,M03PTH,1X03,Header 3,,|
-|JP7,HEAD-I01-X-PI03-01,JP7,OUT,M03PTH,1X03,Header 3,,|
-|JP8,HEAD-I01-X-PI03-01,JP8,OUT,M03PTH,1X03,Header 3,,|
-|JP9,HEAD-I01-X-PI07-01,JP9,,M07,1X07,Header 7,,|
-|JP10,HEAD-I01-X-PI03-01,JP10,OUT,M03PTH,1X03,Header 3,,|
-|JP11,HEAD-I01-X-PI03-01,JP11,OUT,M03PTH,1X03,Header 3,,|
-|JP12,HEAD-I01-X-PI03-01,JP12,OUT,M03PTH,1X03,Header 3,,|
-|JP13,HEAD-I01-X-PI03-01,JP13,OUT,M03PTH,1X03,Header 3,,|
-|JP14,HEAD-I01-X-PI03-01,JP14,OUT,M03PTH,1X03,Header 3,,|
-|JP15,HEAD-I01-X-PI03-01,JP15,OUT,M03PTH,1X03,Header 3,,|
-|JP19,TERS-35D-L-PI02-01,JP16,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|JP20,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP17,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|JP21,HEAD-I01-X-PI02-01,JP18,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|R1,RESE-0402-X-O103-01,JP19,SCREW,M023.5MM-NO_SILK,SCREWTERMINAL-3.5MM-2-NS,Header 2,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,JP20,JST,M02JST-PTH-2,JST-2-PTH,Header 2,,|
-|R3,RESE-0402-X-UNMATCHED-01,JP21,PTH,M02PTH,1X02,Header 2,,|
-|R4,RESE-0402-X-O241-01,JP22,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R5,RESE-0402-X-O711-01,JP23,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R6,RESE-0402-X-UNMATCHED-01,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-UNMATCHED-01,R2,R2,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,|
-|R8,RESE-0402-X-UNMATCHED-01,R3,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R9,RESE-0402-X-UNMATCHED-01,R4,240,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R10,RESE-0402-X-UNMATCHED-01,R5,715,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R11,RESE-0402-X-UNMATCHED-01,R6,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R12,RESE-0402-X-UNMATCHED-01,R7,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R13,RESE-0402-X-UNMATCHED-01,R8,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R14,RESE-0402-X-UNMATCHED-01,R9,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R15,RESE-0402-X-UNMATCHED-01,R10,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R16,RESE-0402-X-UNMATCHED-01,R11,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R17,RESE-0402-X-UNMATCHED-01,R12,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R18,RESE-0402-X-UNMATCHED-01,R13,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R19,RESE-0402-X-UNMATCHED-01,R14,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R20,RESE-0402-X-UNMATCHED-01,R15,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R21,RESE-0402-X-UNMATCHED-01,R16,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R17,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R18,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R19,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R20,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R21,2.2k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPC-0402-X-UF1D-01|
+|J9 J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP0 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP5 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP6 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP7 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP8 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP9 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[JP10 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP11 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP12 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP13 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP14 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP15 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP19 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|JP20 JP20,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP21 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R3 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|R4 R4,RESE-0402-X-O241-01|
+|R5 R5,RESE-0402-X-O711-01|
+|[R6 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R7 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R8 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R9 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R10 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R11 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R12 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R13 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R14 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R15 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R16 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R17 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R18 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R19 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R20 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[R21 RESE-0402-X-O222-01 SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -106,7 +109,7 @@ Contents
 - oompID: PROJ-SPAR-10615-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C3,CAPC-0402-X-NF100-01
+- oompParts: C3,CAPC-0402-X-UF1D-01
 - oompParts: J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP0,HEAD-I01-X-PI03-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
@@ -129,27 +132,26 @@ Contents
 - oompParts: JP21,HEAD-I01-X-PI02-01
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: R3,RESE-0402-X-UNMATCHED-01
+- oompParts: R3,RESE-0402-X-O222-01
 - oompParts: R4,RESE-0402-X-O241-01
 - oompParts: R5,RESE-0402-X-O711-01
-- oompParts: R6,RESE-0402-X-UNMATCHED-01
-- oompParts: R7,RESE-0402-X-UNMATCHED-01
-- oompParts: R8,RESE-0402-X-UNMATCHED-01
-- oompParts: R9,RESE-0402-X-UNMATCHED-01
-- oompParts: R10,RESE-0402-X-UNMATCHED-01
-- oompParts: R11,RESE-0402-X-UNMATCHED-01
-- oompParts: R12,RESE-0402-X-UNMATCHED-01
-- oompParts: R13,RESE-0402-X-UNMATCHED-01
-- oompParts: R14,RESE-0402-X-UNMATCHED-01
-- oompParts: R15,RESE-0402-X-UNMATCHED-01
-- oompParts: R16,RESE-0402-X-UNMATCHED-01
-- oompParts: R17,RESE-0402-X-UNMATCHED-01
-- oompParts: R18,RESE-0402-X-UNMATCHED-01
-- oompParts: R19,RESE-0402-X-UNMATCHED-01
-- oompParts: R20,RESE-0402-X-UNMATCHED-01
-- oompParts: R21,RESE-0402-X-UNMATCHED-01
+- oompParts: R6,RESE-0402-X-O222-01
+- oompParts: R7,RESE-0402-X-O222-01
+- oompParts: R8,RESE-0402-X-O222-01
+- oompParts: R9,RESE-0402-X-O222-01
+- oompParts: R10,RESE-0402-X-O222-01
+- oompParts: R11,RESE-0402-X-O222-01
+- oompParts: R12,RESE-0402-X-O222-01
+- oompParts: R13,RESE-0402-X-O222-01
+- oompParts: R14,RESE-0402-X-O222-01
+- oompParts: R15,RESE-0402-X-O222-01
+- oompParts: R16,RESE-0402-X-O222-01
+- oompParts: R17,RESE-0402-X-O222-01
+- oompParts: R18,RESE-0402-X-O222-01
+- oompParts: R19,RESE-0402-X-O222-01
+- oompParts: R20,RESE-0402-X-O222-01
+- oompParts: R21,RESE-0402-X-O222-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

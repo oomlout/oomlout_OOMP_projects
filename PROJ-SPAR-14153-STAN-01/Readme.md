@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14153 > Sparkfun](#prs14153--sparkfun)
+* [PRS14153 > ESP32 Environment Sensor Shield](#prs14153--esp32-environment-sensor-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14153 > Sparkfun
+# PRS14153 > ESP32 Environment Sensor Shield
 
 - ID: PROJ-SPAR-14153-STAN-01
 - Hex ID: PRS14153
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14153-STAN-01/kicad/bom/ibom.html)
@@ -34,46 +38,46 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,ESP32_THING_WO_ANT_KEEPOUT,ESP32_THING_WO_ANT_KEEPOUT,ESP32_THING_NO_ANT,SparkFun ESP32 Thing Board,,,,|
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,0.1uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,0.1uF,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|C6,CAPC-0603-X-NF100-V50,C6,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,0.1uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|J7,TERS-35D-L-PI03-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|J10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,WEATHER_METER-WIND,WEATHER_METER-WIND,RJ11-6,RJ11 Jack - 6 pin,CONN-08590,PRT-00132,,|
-|J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,WEATHER_METER-RAIN,WEATHER_METER-RAIN,RJ11-6,Weather Meter - Rain Gauge Symbol,CONN-08590,SEN-08942,,|
-|J13,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J7,,CONN_03SCREW-NS,SCREWTERMINAL-3.5MM-3-NS,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J8,,I2C_STANDARD,1X04,SparkFun I2C Standard Pinout Header,,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J9,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R1,RESE-0603-X-O1003-01,J10,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R2,RESE-0603-X-O103-01,J11,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R3,RESE-0603-X-O102-01,J12,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R4,RESE-0603-X-O1003-01,J13,,CONN_20NOSILK,1X20_NOSILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R6,RESE-0603-X-O1003-01,JP1,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,|
-|R7,RESE-0603-X-O1003-01,JP2,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,|
-|R8,RESE-0603-X-O103-01,JP3,,JUMPER-SMT_3_NO_SILK,SMT-JUMPER_3_NO_SILK,Normally open jumper,,,,|
-|R9,RESE-0603-X-O102-01,JP4,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,|
-|R10,RESE-0603-X-O103-01,JP5,,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,|
-|R12,RESE-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,|
-|R13,RESE-0603-X-UNMATCHED-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,|
-|R14,RESE-0603-X-UNMATCHED-01,LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,100k,100KOHM-0603-1/10W-1%,0603,100kÃÂ© resistor,RES-07828,,100k,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,1k,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF1-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J7 TERS-35D-L-PI03-01 3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J9 J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J10 J10,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J11 J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J12 J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J13 J13,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R4 R4,RESE-0603-X-O1003-01|
+|R6 R6,RESE-0603-X-O1003-01|
+|R7 R7,RESE-0603-X-O1003-01|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R12 R12,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R13 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R14 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -96,12 +100,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14153
 - oompID: PROJ-SPAR-14153-STAN-01
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPC-0603-X-UF1-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-UF1-01
+- oompParts: C6,CAPC-0603-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -129,8 +133,8 @@ Contents
 - oompParts: R9,RESE-0603-X-O102-01
 - oompParts: R10,RESE-0603-X-O103-01
 - oompParts: R12,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: R13,RESE-0603-X-UNMATCHED-01
-- oompParts: R14,RESE-0603-X-UNMATCHED-01
+- oompParts: R13,RESE-0603-X-O472-01
+- oompParts: R14,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

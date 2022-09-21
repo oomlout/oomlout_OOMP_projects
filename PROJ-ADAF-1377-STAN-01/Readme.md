@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1377 > Adafruit](#pra1377--adafruit)
+* [PRA1377 > Adafruit SMT Breakout PCBs](#pra1377--adafruit-smt-breakout-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1377 > Adafruit
+# PRA1377 > Adafruit SMT Breakout PCBs
 
 - ID: PROJ-ADAF-1377-STAN-01
 - Hex ID: PRA1377
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1377-STAN-01/kicad/bom/ibom.html)
@@ -34,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-UNMATCHED-01,JP1,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,|
-|JP2,HEAD-I01-X-UNMATCHED-01,JP2,,PINHD-1X4THIN,HEADER1X4,PIN HEADER,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,SO-8,SO-8,SO-08NMW,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,TSSOP-8,TSSOP-8,TSSOP-8NM,,,|
+|JP1 JP1,HEAD-I01-X-UNMATCHED-01|
+|JP2 JP2,HEAD-I01-X-UNMATCHED-01|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

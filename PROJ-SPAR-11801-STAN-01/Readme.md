@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11801 > Sparkfun](#prs11801--sparkfun)
+* [PRS11801 > Tiny-AVR-Programmer](#prs11801--tiny-avr-programmer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11801 > Sparkfun
+# PRS11801 > Tiny-AVR-Programmer
 
 - ID: PROJ-SPAR-11801-STAN-01
 - Hex ID: PRS11801
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11801-STAN-01/kicad/bom/ibom.html)
@@ -34,28 +38,27 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,18pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UF10-01,C3,10uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,18pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|D1,DIOD-S323-X-UNMATCHED-01,D1,3.3V,DIODE-ZENER-BZT52,SOD-323,Zener Diode,,|
-|D2,DIOD-S323-X-UNMATCHED-01,D2,3.3V,DIODE-ZENER-BZT52,SOD-323,Zener Diode,,|
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI04-01,JP1,,M04PTH,1X04,Header 4,,|
-|JP3,HEAD-I01-X-PI04-01,JP2,,M04PTH,1X04,Header 4,,|
-|JP4,HEAD-I01-X-PI04-01,JP3,,M04SMD_STRAIGHT_COMBO,1X04_SMD_STRAIGHT_COMBO,Header 4,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,,M04SMD_STRAIGHT_COMBO,1X04_SMD_STRAIGHT_COMBO,Header 4,,|
-|JP12,HEAD-I01-X-PI06-01,JP5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R1,RESE-0402-X-O61-01,JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O61-01,JP9,,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,|
-|R3,RESE-0402-X-UNMATCHED-01,JP11,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R4,RESE-0402-X-O103-01,JP12,,M06SIP,1X06,Header 6,,|
-|R5,RESE-0402-X-O331-01,LED1,Yellow,LED0603,LED-0603,LEDs,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,68,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-PF18-01|
+|C3 C3,CAPC-0402-X-UF10-01|
+|C4 C4,CAPC-0402-X-PF18-01|
+|D1 D1,DIOD-S323-X-UNMATCHED-01|
+|D2 D2,DIOD-S323-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP12 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0402-X-O680-01|
+|R2 R2,RESE-0402-X-O680-01|
+|R3 R3,RESE-0402-X-UNMATCHED-01|
+|[R4 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R5 R5,RESE-0402-X-O331-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -77,10 +80,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Tiny-AVR-Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11801
 - oompID: PROJ-SPAR-11801-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-PF18-01
 - oompParts: C3,CAPC-0402-X-UF10-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-PF18-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
@@ -91,12 +94,11 @@ Contents
 - oompParts: JP12,HEAD-I01-X-PI06-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0402-X-O61-01
-- oompParts: R2,RESE-0402-X-O61-01
+- oompParts: R1,RESE-0402-X-O680-01
+- oompParts: R2,RESE-0402-X-O680-01
 - oompParts: R3,RESE-0402-X-UNMATCHED-01
 - oompParts: R4,RESE-0402-X-O103-01
 - oompParts: R5,RESE-0402-X-O331-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2310 > Adafruit](#pra2310--adafruit)
+* [PRA2310 > Adafruit Perma Proto HAT PCB](#pra2310--adafruit-perma-proto-hat-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2310 > Adafruit
+# PRA2310 > Adafruit Perma Proto HAT PCB
 
 - ID: PROJ-ADAF-2310-STAN-01
 - Hex ID: PRA2310
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2310-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CONN1,HEAD-I01-X-PI25-01,CONN1,HEADER-1X25,HEADER-1X25,1X25_ROUND_70MIL,,,|
-|R1,RESE-0805-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-UNMATCHED-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R3,RESE-0805-X-UNMATCHED-01,R1,3.9K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,3.9K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,3.9K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|CONN1 CONN1,HEAD-I01-X-PI25-01|
+|R1 R1,RESE-0805-X-O392-01|
+|R2 R2,RESE-0805-X-O392-01|
+|R3 R3,RESE-0805-X-O392-01|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -62,9 +66,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2310
 - oompID: PROJ-ADAF-2310-STAN-01
 - oompParts: CONN1,HEAD-I01-X-PI25-01
-- oompParts: R1,RESE-0805-X-UNMATCHED-01
-- oompParts: R2,RESE-0805-X-UNMATCHED-01
-- oompParts: R3,RESE-0805-X-UNMATCHED-01
+- oompParts: R1,RESE-0805-X-O392-01
+- oompParts: R2,RESE-0805-X-O392-01
+- oompParts: R3,RESE-0805-X-O392-01
 - oompParts: RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: CONN1,HEADER-1X25,HEADER-1X25,1X25_ROUND_70MIL,,,

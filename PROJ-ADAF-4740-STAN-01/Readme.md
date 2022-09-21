@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4740 > Adafruit](#pra4740--adafruit)
+* [PRA4740 > Adafruit MIDI FeatherWing PCB](#pra4740--adafruit-midi-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4740 > Adafruit
+# PRA4740 > Adafruit MIDI FeatherWing PCB
 
 - ID: PROJ-ADAF-4740-STAN-01
 - Hex ID: PRA4740
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4740-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,,,,,,|
-|D2,LEDS-0603-G-STAN-01,D2,BLUE,LED0603,CHIPLED_0603,LED,,,,,,,|
-|D3,LEDS-0603-G-STAN-01,D3,BLUE,LED0603,CHIPLED_0603,LED,,,,,,,|
-|MIDIIN,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,|
-|MIDIOUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MIDIIN,DIN_5,DIN_5,CP-2350,,,,,,,,|
-|OK2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MIDIOUT,DIN_5,DIN_5,CP-2350,,,,,,,,|
-|R1,RESE-0603-X-O31-01,MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_NODIM,,,,,,,,|
-|R2,RESE-0603-X-O221-01,OK2,H11L1MS,H11L1MS,DIL6-SMD,6-Pin DIP Optocoupler,,,,unknown,unknown,0,|
-|R3,RESE-0603-X-O471-01,R1,33,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
-|R4,RESE-0603-X-O11-01,R2,220,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
-|R5,RESE-0603-X-UNMATCHED-01,R3,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
-|R6,RESE-0603-X-UNMATCHED-01,R4,10,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,,|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|MIDIIN MIDIIN,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|MIDIOUT MIDIOUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|OK2 OK2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O330-01 SMD (0603) 33 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
+|[R2 RESE-0603-X-O221-01 SMD (0603) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)|
+|[R3 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|[R4 RESE-0603-X-O100-01 SMD (0603) 10 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|
+|[R5 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R6 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -77,12 +81,12 @@ Contents
 - oompParts: MIDIOUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: OK2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-O31-01
+- oompParts: R1,RESE-0603-X-O330-01
 - oompParts: R2,RESE-0603-X-O221-01
 - oompParts: R3,RESE-0603-X-O471-01
-- oompParts: R4,RESE-0603-X-O11-01
-- oompParts: R5,RESE-0603-X-UNMATCHED-01
-- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O100-01
+- oompParts: R5,RESE-0603-X-O222-01
+- oompParts: R6,RESE-0603-X-O222-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: D1,1N4148,DIODESOD-323,SOD-323,Diode,,,,,,,

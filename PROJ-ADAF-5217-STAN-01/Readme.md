@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA5217 > Adafruit](#pra5217--adafruit)
+* [PRA5217 > Adafruit EyeLights LED Glasses and Driver PCB](#pra5217--adafruit-eyelights-led-glasses-and-driver-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA5217 > Adafruit
+# PRA5217 > Adafruit EyeLights LED Glasses and Driver PCB
 
 - ID: PROJ-ADAF-5217-STAN-01
 - Hex ID: PRA5217
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-5217-STAN-01/kicad/bom/ibom.html)
@@ -34,173 +38,173 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0603-X-UF1-01,C2,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0603-X-UF1-01,C6,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|CONN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN2,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED3,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED4,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED5,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED6,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED11,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED7,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED12,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED8,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED13,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED9,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED14,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED10,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED15,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED11,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED16,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED12,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED17,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED13,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED18,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED14,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED19,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED15,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED20,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED16,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED21,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED17,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED22,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED18,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED23,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED19,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED24,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED20,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED25,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED21,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED26,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED22,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED27,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED23,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED28,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED24,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED29,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED25,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED30,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED26,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED31,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED27,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED32,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED28,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED33,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED29,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED34,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED30,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED35,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED31,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED36,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED32,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED37,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED33,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED38,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED34,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED39,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED35,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED40,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED36,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED41,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED37,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED42,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED38,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED43,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED39,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED44,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED40,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED45,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED41,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED46,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED42,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED47,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED43,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED48,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED44,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED49,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED45,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED50,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED46,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED51,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED47,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED52,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED48,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED53,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED49,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED54,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED50,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED55,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED51,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED56,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED52,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED57,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED53,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED58,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED54,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED59,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED55,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED60,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED56,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED61,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED57,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED62,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED58,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED63,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED59,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED64,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED60,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED66,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED61,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED67,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED62,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED68,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED63,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED69,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED64,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED70,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED66,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED71,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED67,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED72,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED68,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED73,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED69,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED74,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED70,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED75,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED71,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED76,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED72,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED77,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED73,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED78,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED74,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED79,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED75,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED80,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED76,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED81,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED77,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED82,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED78,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED83,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED79,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED84,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED80,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED85,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED81,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED86,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED82,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED87,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED83,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED88,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED84,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED89,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED85,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED90,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED86,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED91,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED87,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED92,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED88,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED93,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED89,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED94,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED90,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED95,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED91,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED96,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED92,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED97,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED93,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED98,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED94,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED99,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED95,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED100,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED96,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED101,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED97,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED102,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED98,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED103,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED99,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED104,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED100,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED105,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED101,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED106,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED102,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED107,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED103,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED108,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED104,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED109,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED105,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED110,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED106,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED111,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED107,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED112,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED108,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED113,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED109,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED114,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED110,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED115,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED111,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED116,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED112,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|LED117,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED113,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|R1,RESE-0603-X-UNMATCHED-01,LED114,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|R2,RESE-0603-X-O51-01,LED115,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|R3,RESE-0603-X-O51-01,LED116,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|R4,RESE-0603-X-O21-01,LED117,RGBLED_CA_2121,RGBLED_CA_2121,RGBLED_2121,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,|
-|R5,RESE-0603-X-O51-01,R1,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R6,RESE-0603-X-O51-01,R2,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R7,RESE-0603-X-UNMATCHED-01,R3,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R8,RESE-0603-X-O21-01,R4,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R9,RESE-0603-X-O51-01,R5,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R10,RESE-0603-X-O21-01,R6,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R11,RESE-0603-X-O51-01,R7,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R12,RESE-0603-X-O51-01,R8,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R13,RESE-0603-X-O21-01,R9,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R14,RESE-0603-X-O51-01,R10,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R15,RESE-0603-X-O51-01,R11,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R16,RESE-0603-X-O21-01,R12,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R17,RESE-0603-X-O51-01,R13,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R18,RESE-0603-X-O51-01,R14,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R19,RESE-0603-X-O21-01,R15,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R20,RESE-0603-X-O51-01,R16,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R21,RESE-0603-X-O51-01,R17,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R22,RESE-0603-X-O21-01,R18,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R23,RESE-0603-X-O51-01,R19,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R24,RESE-0603-X-O51-01,R20,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R25,RESE-0603-X-O21-01,R21,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R26,RESE-0603-X-O51-01,R22,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R27,RESE-0603-X-O21-01,R23,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R28,RESE-0603-X-O51-01,R24,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R29,RESE-0603-X-O51-01,R25,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R30,RESE-0603-X-O21-01,R26,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R31,RESE-0603-X-O51-01,R27,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R32,RESE-0603-X-O51-01,R28,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R33,RESE-0603-X-O21-01,R29,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R34,RESE-0603-X-O51-01,R30,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R35,RESE-0603-X-O51-01,R31,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R36,RESE-0603-X-O21-01,R32,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R37,RESE-0603-X-O51-01,R33,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R38,RESE-0603-X-O51-01,R34,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R39,RESE-0603-X-O21-01,R35,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R40,RESE-0603-X-O51-01,R36,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R41,RESE-0603-X-O51-01,R37,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R42,RESE-0603-X-UNMATCHED-01,R38,51,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R39,22,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0603-X-UF1-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C6 C6,CAPC-0603-X-UF1-01|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[CONN2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[LED1 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED2 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED3 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED4 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED5 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED6 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED7 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED8 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED9 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED10 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED11 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED12 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED13 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED14 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED15 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED16 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED17 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED18 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED19 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED20 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED21 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED22 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED23 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED24 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED25 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED26 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED27 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED28 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED29 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED30 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED31 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED32 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED33 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED34 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED35 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED36 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED37 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED38 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED39 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED40 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED41 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED42 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED43 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED44 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED45 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED46 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED47 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED48 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED49 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED50 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED51 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED52 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED53 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED54 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED55 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED56 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED57 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED58 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED59 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED60 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED61 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED62 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED63 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED64 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED66 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED67 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED68 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED69 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED70 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED71 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED72 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED73 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED74 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED75 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED76 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED77 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED78 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED79 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED80 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED81 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED82 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED83 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED84 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED85 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED86 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED87 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED88 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED89 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED90 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED91 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED92 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED93 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED94 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED95 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED96 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED97 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED98 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED99 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED100 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED101 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED102 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED103 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED104 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED105 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED106 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED107 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED108 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED109 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED110 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED111 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED112 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED113 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED114 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED115 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED116 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[LED117 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R2 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R3 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R4 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R5 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R6 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R7 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R8 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R9 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R10 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R11 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R12 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R13 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R14 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R15 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R16 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R17 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R18 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R19 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R20 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R21 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R22 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R23 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R24 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R25 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R26 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R27 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R28 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R29 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R30 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R31 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R32 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R33 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R34 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R35 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R36 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R37 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R38 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R39 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[R40 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R41 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|[R42 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -228,166 +232,166 @@ Contents
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0603-X-UF1-01
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: CONN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED11,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED12,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED13,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED14,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED15,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED16,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED17,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED18,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED21,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED22,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED23,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED24,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED25,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED26,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED27,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED28,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED29,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED30,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED31,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED32,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED33,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED34,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED35,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED36,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED37,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED38,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED39,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED40,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED41,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED42,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED43,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED44,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED45,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED46,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED47,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED48,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED49,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED50,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED51,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED52,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED53,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED54,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED55,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED56,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED57,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED58,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED59,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED60,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED61,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED62,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED63,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED64,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED66,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED67,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED68,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED69,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED70,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED71,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED72,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED73,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED74,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED75,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED76,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED77,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED78,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED79,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED80,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED81,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED82,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED83,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED84,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED85,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED86,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED87,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED88,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED89,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED90,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED91,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED92,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED93,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED94,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED95,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED96,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED97,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED98,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED99,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED100,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED101,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED102,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED103,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED104,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED105,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED106,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED107,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED108,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED109,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED110,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED111,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED112,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED113,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED114,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED115,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED116,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED117,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-O51-01
-- oompParts: R3,RESE-0603-X-O51-01
-- oompParts: R4,RESE-0603-X-O21-01
-- oompParts: R5,RESE-0603-X-O51-01
-- oompParts: R6,RESE-0603-X-O51-01
-- oompParts: R7,RESE-0603-X-UNMATCHED-01
-- oompParts: R8,RESE-0603-X-O21-01
-- oompParts: R9,RESE-0603-X-O51-01
-- oompParts: R10,RESE-0603-X-O21-01
-- oompParts: R11,RESE-0603-X-O51-01
-- oompParts: R12,RESE-0603-X-O51-01
-- oompParts: R13,RESE-0603-X-O21-01
-- oompParts: R14,RESE-0603-X-O51-01
-- oompParts: R15,RESE-0603-X-O51-01
-- oompParts: R16,RESE-0603-X-O21-01
-- oompParts: R17,RESE-0603-X-O51-01
-- oompParts: R18,RESE-0603-X-O51-01
-- oompParts: R19,RESE-0603-X-O21-01
-- oompParts: R20,RESE-0603-X-O51-01
-- oompParts: R21,RESE-0603-X-O51-01
-- oompParts: R22,RESE-0603-X-O21-01
-- oompParts: R23,RESE-0603-X-O51-01
-- oompParts: R24,RESE-0603-X-O51-01
-- oompParts: R25,RESE-0603-X-O21-01
-- oompParts: R26,RESE-0603-X-O51-01
-- oompParts: R27,RESE-0603-X-O21-01
-- oompParts: R28,RESE-0603-X-O51-01
-- oompParts: R29,RESE-0603-X-O51-01
-- oompParts: R30,RESE-0603-X-O21-01
-- oompParts: R31,RESE-0603-X-O51-01
-- oompParts: R32,RESE-0603-X-O51-01
-- oompParts: R33,RESE-0603-X-O21-01
-- oompParts: R34,RESE-0603-X-O51-01
-- oompParts: R35,RESE-0603-X-O51-01
-- oompParts: R36,RESE-0603-X-O21-01
-- oompParts: R37,RESE-0603-X-O51-01
-- oompParts: R38,RESE-0603-X-O51-01
-- oompParts: R39,RESE-0603-X-O21-01
-- oompParts: R40,RESE-0603-X-O51-01
-- oompParts: R41,RESE-0603-X-O51-01
-- oompParts: R42,RESE-0603-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-I01-X-PI04-01
+- oompParts: CONN2,HEAD-I01-X-PI04-01
+- oompParts: LED1,LEDS-2121-RGB-STAN-CA
+- oompParts: LED2,LEDS-2121-RGB-STAN-CA
+- oompParts: LED3,LEDS-2121-RGB-STAN-CA
+- oompParts: LED4,LEDS-2121-RGB-STAN-CA
+- oompParts: LED5,LEDS-2121-RGB-STAN-CA
+- oompParts: LED6,LEDS-2121-RGB-STAN-CA
+- oompParts: LED7,LEDS-2121-RGB-STAN-CA
+- oompParts: LED8,LEDS-2121-RGB-STAN-CA
+- oompParts: LED9,LEDS-2121-RGB-STAN-CA
+- oompParts: LED10,LEDS-2121-RGB-STAN-CA
+- oompParts: LED11,LEDS-2121-RGB-STAN-CA
+- oompParts: LED12,LEDS-2121-RGB-STAN-CA
+- oompParts: LED13,LEDS-2121-RGB-STAN-CA
+- oompParts: LED14,LEDS-2121-RGB-STAN-CA
+- oompParts: LED15,LEDS-2121-RGB-STAN-CA
+- oompParts: LED16,LEDS-2121-RGB-STAN-CA
+- oompParts: LED17,LEDS-2121-RGB-STAN-CA
+- oompParts: LED18,LEDS-2121-RGB-STAN-CA
+- oompParts: LED19,LEDS-2121-RGB-STAN-CA
+- oompParts: LED20,LEDS-2121-RGB-STAN-CA
+- oompParts: LED21,LEDS-2121-RGB-STAN-CA
+- oompParts: LED22,LEDS-2121-RGB-STAN-CA
+- oompParts: LED23,LEDS-2121-RGB-STAN-CA
+- oompParts: LED24,LEDS-2121-RGB-STAN-CA
+- oompParts: LED25,LEDS-2121-RGB-STAN-CA
+- oompParts: LED26,LEDS-2121-RGB-STAN-CA
+- oompParts: LED27,LEDS-2121-RGB-STAN-CA
+- oompParts: LED28,LEDS-2121-RGB-STAN-CA
+- oompParts: LED29,LEDS-2121-RGB-STAN-CA
+- oompParts: LED30,LEDS-2121-RGB-STAN-CA
+- oompParts: LED31,LEDS-2121-RGB-STAN-CA
+- oompParts: LED32,LEDS-2121-RGB-STAN-CA
+- oompParts: LED33,LEDS-2121-RGB-STAN-CA
+- oompParts: LED34,LEDS-2121-RGB-STAN-CA
+- oompParts: LED35,LEDS-2121-RGB-STAN-CA
+- oompParts: LED36,LEDS-2121-RGB-STAN-CA
+- oompParts: LED37,LEDS-2121-RGB-STAN-CA
+- oompParts: LED38,LEDS-2121-RGB-STAN-CA
+- oompParts: LED39,LEDS-2121-RGB-STAN-CA
+- oompParts: LED40,LEDS-2121-RGB-STAN-CA
+- oompParts: LED41,LEDS-2121-RGB-STAN-CA
+- oompParts: LED42,LEDS-2121-RGB-STAN-CA
+- oompParts: LED43,LEDS-2121-RGB-STAN-CA
+- oompParts: LED44,LEDS-2121-RGB-STAN-CA
+- oompParts: LED45,LEDS-2121-RGB-STAN-CA
+- oompParts: LED46,LEDS-2121-RGB-STAN-CA
+- oompParts: LED47,LEDS-2121-RGB-STAN-CA
+- oompParts: LED48,LEDS-2121-RGB-STAN-CA
+- oompParts: LED49,LEDS-2121-RGB-STAN-CA
+- oompParts: LED50,LEDS-2121-RGB-STAN-CA
+- oompParts: LED51,LEDS-2121-RGB-STAN-CA
+- oompParts: LED52,LEDS-2121-RGB-STAN-CA
+- oompParts: LED53,LEDS-2121-RGB-STAN-CA
+- oompParts: LED54,LEDS-2121-RGB-STAN-CA
+- oompParts: LED55,LEDS-2121-RGB-STAN-CA
+- oompParts: LED56,LEDS-2121-RGB-STAN-CA
+- oompParts: LED57,LEDS-2121-RGB-STAN-CA
+- oompParts: LED58,LEDS-2121-RGB-STAN-CA
+- oompParts: LED59,LEDS-2121-RGB-STAN-CA
+- oompParts: LED60,LEDS-2121-RGB-STAN-CA
+- oompParts: LED61,LEDS-2121-RGB-STAN-CA
+- oompParts: LED62,LEDS-2121-RGB-STAN-CA
+- oompParts: LED63,LEDS-2121-RGB-STAN-CA
+- oompParts: LED64,LEDS-2121-RGB-STAN-CA
+- oompParts: LED66,LEDS-2121-RGB-STAN-CA
+- oompParts: LED67,LEDS-2121-RGB-STAN-CA
+- oompParts: LED68,LEDS-2121-RGB-STAN-CA
+- oompParts: LED69,LEDS-2121-RGB-STAN-CA
+- oompParts: LED70,LEDS-2121-RGB-STAN-CA
+- oompParts: LED71,LEDS-2121-RGB-STAN-CA
+- oompParts: LED72,LEDS-2121-RGB-STAN-CA
+- oompParts: LED73,LEDS-2121-RGB-STAN-CA
+- oompParts: LED74,LEDS-2121-RGB-STAN-CA
+- oompParts: LED75,LEDS-2121-RGB-STAN-CA
+- oompParts: LED76,LEDS-2121-RGB-STAN-CA
+- oompParts: LED77,LEDS-2121-RGB-STAN-CA
+- oompParts: LED78,LEDS-2121-RGB-STAN-CA
+- oompParts: LED79,LEDS-2121-RGB-STAN-CA
+- oompParts: LED80,LEDS-2121-RGB-STAN-CA
+- oompParts: LED81,LEDS-2121-RGB-STAN-CA
+- oompParts: LED82,LEDS-2121-RGB-STAN-CA
+- oompParts: LED83,LEDS-2121-RGB-STAN-CA
+- oompParts: LED84,LEDS-2121-RGB-STAN-CA
+- oompParts: LED85,LEDS-2121-RGB-STAN-CA
+- oompParts: LED86,LEDS-2121-RGB-STAN-CA
+- oompParts: LED87,LEDS-2121-RGB-STAN-CA
+- oompParts: LED88,LEDS-2121-RGB-STAN-CA
+- oompParts: LED89,LEDS-2121-RGB-STAN-CA
+- oompParts: LED90,LEDS-2121-RGB-STAN-CA
+- oompParts: LED91,LEDS-2121-RGB-STAN-CA
+- oompParts: LED92,LEDS-2121-RGB-STAN-CA
+- oompParts: LED93,LEDS-2121-RGB-STAN-CA
+- oompParts: LED94,LEDS-2121-RGB-STAN-CA
+- oompParts: LED95,LEDS-2121-RGB-STAN-CA
+- oompParts: LED96,LEDS-2121-RGB-STAN-CA
+- oompParts: LED97,LEDS-2121-RGB-STAN-CA
+- oompParts: LED98,LEDS-2121-RGB-STAN-CA
+- oompParts: LED99,LEDS-2121-RGB-STAN-CA
+- oompParts: LED100,LEDS-2121-RGB-STAN-CA
+- oompParts: LED101,LEDS-2121-RGB-STAN-CA
+- oompParts: LED102,LEDS-2121-RGB-STAN-CA
+- oompParts: LED103,LEDS-2121-RGB-STAN-CA
+- oompParts: LED104,LEDS-2121-RGB-STAN-CA
+- oompParts: LED105,LEDS-2121-RGB-STAN-CA
+- oompParts: LED106,LEDS-2121-RGB-STAN-CA
+- oompParts: LED107,LEDS-2121-RGB-STAN-CA
+- oompParts: LED108,LEDS-2121-RGB-STAN-CA
+- oompParts: LED109,LEDS-2121-RGB-STAN-CA
+- oompParts: LED110,LEDS-2121-RGB-STAN-CA
+- oompParts: LED111,LEDS-2121-RGB-STAN-CA
+- oompParts: LED112,LEDS-2121-RGB-STAN-CA
+- oompParts: LED113,LEDS-2121-RGB-STAN-CA
+- oompParts: LED114,LEDS-2121-RGB-STAN-CA
+- oompParts: LED115,LEDS-2121-RGB-STAN-CA
+- oompParts: LED116,LEDS-2121-RGB-STAN-CA
+- oompParts: LED117,LEDS-2121-RGB-STAN-CA
+- oompParts: R1,RESE-0603-X-O222-01
+- oompParts: R2,RESE-0603-X-O510-01
+- oompParts: R3,RESE-0603-X-O510-01
+- oompParts: R4,RESE-0603-X-O220-01
+- oompParts: R5,RESE-0603-X-O510-01
+- oompParts: R6,RESE-0603-X-O510-01
+- oompParts: R7,RESE-0603-X-O222-01
+- oompParts: R8,RESE-0603-X-O220-01
+- oompParts: R9,RESE-0603-X-O510-01
+- oompParts: R10,RESE-0603-X-O220-01
+- oompParts: R11,RESE-0603-X-O510-01
+- oompParts: R12,RESE-0603-X-O510-01
+- oompParts: R13,RESE-0603-X-O220-01
+- oompParts: R14,RESE-0603-X-O510-01
+- oompParts: R15,RESE-0603-X-O510-01
+- oompParts: R16,RESE-0603-X-O220-01
+- oompParts: R17,RESE-0603-X-O510-01
+- oompParts: R18,RESE-0603-X-O510-01
+- oompParts: R19,RESE-0603-X-O220-01
+- oompParts: R20,RESE-0603-X-O510-01
+- oompParts: R21,RESE-0603-X-O510-01
+- oompParts: R22,RESE-0603-X-O220-01
+- oompParts: R23,RESE-0603-X-O510-01
+- oompParts: R24,RESE-0603-X-O510-01
+- oompParts: R25,RESE-0603-X-O220-01
+- oompParts: R26,RESE-0603-X-O510-01
+- oompParts: R27,RESE-0603-X-O220-01
+- oompParts: R28,RESE-0603-X-O510-01
+- oompParts: R29,RESE-0603-X-O510-01
+- oompParts: R30,RESE-0603-X-O220-01
+- oompParts: R31,RESE-0603-X-O510-01
+- oompParts: R32,RESE-0603-X-O510-01
+- oompParts: R33,RESE-0603-X-O220-01
+- oompParts: R34,RESE-0603-X-O510-01
+- oompParts: R35,RESE-0603-X-O510-01
+- oompParts: R36,RESE-0603-X-O220-01
+- oompParts: R37,RESE-0603-X-O510-01
+- oompParts: R38,RESE-0603-X-O510-01
+- oompParts: R39,RESE-0603-X-O220-01
+- oompParts: R40,RESE-0603-X-O510-01
+- oompParts: R41,RESE-0603-X-O510-01
+- oompParts: R42,RESE-0603-X-O222-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,

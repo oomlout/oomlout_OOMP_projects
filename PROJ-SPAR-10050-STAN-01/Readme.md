@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10050 > Sparkfun](#prs10050--sparkfun)
+* [PRS10050 > WiFly GSX Breakout](#prs10050--wifly-gsx-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10050 > Sparkfun
+# PRS10050 > WiFly GSX Breakout
 
 - ID: PROJ-SPAR-10050-STAN-01
 - Hex ID: PRS10050
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10050-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,M17,M17,1X17,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,M17,M17,1X17,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,JUMPER-2SMD-NO,SJ_2S-NO,Jumper,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,JUMPER-2SMD-NO,SJ_2S-NO,Jumper,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,JUMPER-31-2,JUMPER-31-2,SJ_3_PASTE1&2,,,|
-|LED1,LEDS-0603-G-STAN-01,LED1,GREEN,LED0603,LED-0603,LEDs,,|
-|LED2,LEDS-0603-G-STAN-01,LED2,RED,LED0603,LED-0603,LEDs,,|
-|R1,RESE-0402-X-O221-01,R1,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R2,RESE-0402-X-O221-01,R2,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0402-X-O221-01|
+|R2 R2,RESE-0402-X-O221-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,7 +78,6 @@ Contents
 - oompParts: LED2,LEDS-0603-G-STAN-01
 - oompParts: R1,RESE-0402-X-O221-01
 - oompParts: R2,RESE-0402-X-O221-01
-- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: J1,M17,M17,1X17,,,
 - rawParts: J2,M17,M17,1X17,,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10530 > Sparkfun](#prs10530--sparkfun)
+* [PRS10530 > Triple Axis Magnetometer-HMC5883L](#prs10530--triple-axis-magnetometer-hmc5883l)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10530 > Sparkfun
+# PRS10530 > Triple Axis Magnetometer-HMC5883L
 
 - ID: PROJ-SPAR-10530-STAN-01
 - Hex ID: PRS10530
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10530-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,.22uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI04-01,JP1,,M04PTH,1X04,Header 4,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R2,RESE-0402-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
+|C1 C1,CAPC-0402-X-UNMATCHED-01|
+|C2 C2,CAPC-0402-X-UNMATCHED-01|
+|C3 C3,CAPC-0402-X-UF47D-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|R1 R1,RESE-0402-X-UNMATCHED-01|
+|R2 R2,RESE-0402-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,11 +68,10 @@ Contents
 - oompID: PROJ-SPAR-10530-STAN-01
 - oompParts: C1,CAPC-0402-X-UNMATCHED-01
 - oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C3,CAPC-0402-X-UF47D-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0402-X-UNMATCHED-01
 - oompParts: R2,RESE-0402-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,.22uF,CAP0402-CAP,0402-CAP,Capacitor,,

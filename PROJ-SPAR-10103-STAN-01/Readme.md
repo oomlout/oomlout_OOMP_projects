@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS10103 > Sparkfun](#prs10103--sparkfun)
+* [PRS10103 > Serial Alphanumeric Display Driver](#prs10103--serial-alphanumeric-display-driver)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10103 > Sparkfun
+# PRS10103 > Serial Alphanumeric Display Driver
 
 - ID: PROJ-SPAR-10103-STAN-01
 - Hex ID: PRS10103
@@ -24,20 +25,22 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|INPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,INPUT,,M06SMD-FEMALE-V2,1X06-SMD-FEMALE-V2,Header 6,,|
-|OUTPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|INPUT INPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|OUTPUT OUTPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -60,12 +63,11 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10103
 - oompID: PROJ-SPAR-10103-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0402-X-NF100-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: INPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: OUTPUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0402-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O472-01
 - oompParts: R2,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

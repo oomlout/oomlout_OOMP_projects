@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15164 > Sparkfun](#prs15164--sparkfun)
+* [PRS15164 > Qwiic OpenLog](#prs15164--qwiic-openlog)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15164 > Sparkfun
+# PRS15164 > Qwiic OpenLog
 
 - ID: PROJ-SPAR-15164-STAN-01
 - Hex ID: PRS15164
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15164-STAN-01/kicad/bom/ibom.html)

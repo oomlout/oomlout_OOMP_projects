@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3800 > Adafruit](#pra3800--adafruit)
+* [PRA3800 > Adafruit ItsyBitsy M4 Express PCB](#pra3800--adafruit-itsybitsy-m4-express-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3800 > Adafruit
+# PRA3800 > Adafruit ItsyBitsy M4 Express PCB
 
 - ID: PROJ-ADAF-3800-STAN-01
 - Hex ID: PRA3800
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3800-STAN-01/kicad/bom/ibom.html)
@@ -34,31 +38,31 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,CAP_CERAMIC_0603MP,_0603MP,Ceramic Capacitors,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0603-X-UF1-01,C7,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UNMATCHED-01,C8,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C9,CAPC-0805-X-UF10-V10,C9,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C14,CAPC-0603-X-UF1-01,C14,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBR120,DIODE_SOD-123FL,SOD-123FL,Diode,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,MBR120,DIODE_SOD-123FL,SOD-123FL,Diode,,|
-|IC1,UNMATCHED-SO235-X-UNMATCHED-01,IC1,74HCT1G125DBV,74AHC1G125DBV,SOT23-5,Single Bus Buffer Gate with 3-State Output,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC2,ATSAMD51G_TQFN48,ATSAMD51G_TQFN48,TQFN48_7MM,,,|
-|JP1,HEAD-I01-X-PI05-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI14-01,JP2,,HEADER-1X14,1X14_ROUND70,,,|
-|JP4,HEAD-I01-X-PI14-01,JP4,,HEADER-1X14,1X14_ROUND70,,,|
-|L,LEDS-0603-G-STAN-01,L,RED,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,|
-|L2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L2,AP102-2020,APA1022020,APA102_2020,APA102/DotStar Pixels,,|
-|R1,RESE-0603-X-O1003-01,R1,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R2,RESE-0603-X-O1003-01,R2,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-UNMATCHED-01,R3,2.2K,RESISTOR_0603MP,_0603MP,Resistors,,|
-|R4,RESE-0603-X-O103-01,R4,10K,RESISTOR_0603MP,_0603MP,Resistors,,|
-|R7,RESE-0603-X-UNMATCHED-01,R7,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,SPST_TACT-KMR2,SPST_TACT-KMR2,KMR2,SMT 6mm switch, EVQQ2 series,,|
-|U2,VREG-SO235-X-KAP2112K-V33D,U$34,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$35,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C7 C7,CAPC-0603-X-UF1-01|
+|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C9 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C14 C14,CAPC-0603-X-UF1-01|
+|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[D2 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|IC1 IC1,UNMATCHED-SO235-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP2 HEAD-I01-X-PI14-01 2.54 mm 14 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
+|[JP4 HEAD-I01-X-PI14-01 2.54 mm 14 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
+|[L LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|L2 L2,UNMATCHED-2020-X-K102-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O1003-01|
+|[R3 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
+|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -82,25 +86,25 @@ Contents
 - oompID: PROJ-ADAF-3800-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
+- oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-UF1-01
-- oompParts: C8,CAPC-0805-X-UNMATCHED-01
+- oompParts: C8,CAPC-0805-X-UF10-V10
 - oompParts: C9,CAPC-0805-X-UF10-V10
 - oompParts: C14,CAPC-0603-X-UF1-01
-- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,DIOD-S123-X-KMBR120-01
+- oompParts: D2,DIOD-S123-X-KMBR120-01
 - oompParts: IC1,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI14-01
 - oompParts: JP4,HEAD-I01-X-PI14-01
 - oompParts: L,LEDS-0603-G-STAN-01
-- oompParts: L2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: L2,UNMATCHED-2020-X-K102-01
 - oompParts: R1,RESE-0603-X-O1003-01
 - oompParts: R2,RESE-0603-X-O1003-01
-- oompParts: R3,RESE-0603-X-UNMATCHED-01
+- oompParts: R3,RESE-0603-X-O222-01
 - oompParts: R4,RESE-0603-X-O103-01
-- oompParts: R7,RESE-0603-X-UNMATCHED-01
+- oompParts: R7,RESE-0603-X-O222-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11468 > Sparkfun](#prs11468--sparkfun)
+* [PRS11468 > SD Sniffer](#prs11468--sd-sniffer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11468 > Sparkfun
+# PRS11468 > SD Sniffer
 
 - ID: PROJ-SPAR-11468-STAN-01
 - Hex ID: PRS11468
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11468-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP4,HEAD-I01-X-PI11-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
+|JP4 JP4,HEAD-I01-X-PI11-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1164 > Adafruit](#pra1164--adafruit)
+* [PRA1164 > Adafruit INA169 Breakout PCB](#pra1164--adafruit-ina169-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1164 > Adafruit
+# PRA1164 > Adafruit INA169 Breakout PCB
 
 - ID: PROJ-ADAF-1164-STAN-01
 - Hex ID: PRA1164
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1164-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,0.1ÃÂµF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI05-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O103-01,J1,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,|
-|RSHUNT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10K,RESISTOR_DUAL,0805-THM,Flip Flop resistor,,|
-|U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RSHUNT,0.1/1% (PT2512FK-070R1L),RESISTOR2512,2512,Resistors,,|
-|U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$7,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$8,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,U$9,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|RSHUNT RSHUNT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,15 +65,11 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-INA169-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1164
 - oompID: PROJ-ADAF-1164-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: RSHUNT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,0.1ÃÂµF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

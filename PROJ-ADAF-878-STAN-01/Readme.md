@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA878 > Adafruit](#pra878--adafruit)
+* [PRA878 > Adafruit LED Backpacks](#pra878--adafruit-led-backpacks)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA878 > Adafruit
+# PRA878 > Adafruit LED Backpacks
 
 - ID: PROJ-ADAF-878-STAN-01
 - Hex ID: PRA878
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-878-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,A0,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,A1,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|D1,DIOD-S323-X-K4148-01,C1,10uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|R1,RESE-0805-X-O103-01,D1,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|R2,RESE-0805-X-O103-01,LED1,BL-M07C881UR,DISP_SEGMENT_8X8_ROWCATHODE,SEGMENT_BL-M07C881UR,8x8 LED Segment Displays: Row = Cathode,,|
-|R3,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R4,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,7 +71,7 @@ Contents
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: D1,DIOD-S323-X-K4148-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01

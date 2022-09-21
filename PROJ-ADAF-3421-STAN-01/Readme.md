@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3421 > Adafruit](#pra3421--adafruit)
+* [PRA3421 > Adafruit I2S Microphone Breakout PCB](#pra3421--adafruit-i2s-microphone-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3421 > Adafruit
+# PRA3421 > Adafruit I2S Microphone Breakout PCB
 
 - ID: PROJ-ADAF-3421-STAN-01
 - Hex ID: PRA3421
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3421-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0805-X-UNMATCHED-01,C2,220pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF1-01,C4,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI06-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0603-X-O61-01,IC1,MIC_I2S_SPH0645,MIC_I2S_SPH0645,SPH0645LM4H,,,|
-|R2,RESE-0603-X-O103-01,JP2,,HEADER-1X6ROUND,1X06_ROUND,PIN HEADER,,|
+|C2 C2,CAPC-0805-X-PF220-01|
+|C4 C4,CAPC-0805-X-UF1-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0603-X-O680-01 SMD (0603) 68 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O680-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
@@ -61,11 +65,11 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3421
 - oompID: PROJ-ADAF-3421-STAN-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C2,CAPC-0805-X-PF220-01
 - oompParts: C4,CAPC-0805-X-UF1-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
-- oompParts: R1,RESE-0603-X-O61-01
+- oompParts: R1,RESE-0603-X-O680-01
 - oompParts: R2,RESE-0603-X-O103-01
 - rawParts: C2,220pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C4,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

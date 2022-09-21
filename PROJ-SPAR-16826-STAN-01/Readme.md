@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16826 > Sparkfun](#prs16826--sparkfun)
+* [PRS16826 > SparkFun Pulsed Radar Breakout A111](#prs16826--sparkfun-pulsed-radar-breakout-a111)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16826 > Sparkfun
+# PRS16826 > SparkFun Pulsed Radar Breakout A111
 
 - ID: PROJ-SPAR-16826-STAN-01
 - Hex ID: PRS16826
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16826-STAN-01/kicad/bom/ibom.html)

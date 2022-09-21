@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12858 > Sparkfun](#prs12858--sparkfun)
+* [PRS12858 > Vernier Interface Shield](#prs12858--vernier-interface-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12858 > Sparkfun
+# PRS12858 > Vernier Interface Shield
 
 - ID: PROJ-SPAR-12858-STAN-01
 - Hex ID: PRS12858
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12858-STAN-01/kicad/bom/ibom.html)
@@ -34,46 +38,45 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|JP1,HEAD-I01-X-PI10-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI08-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI08-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI06-01,JP1,Male,M10SMD_MALE,1X10_SMD_MALE,Header 10,CONN-11291,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,Male,M08SMD-MALE,1X08_SMD_MALE,Header 8,CONN-11292,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,Male,M08SMD-MALE,1X08_SMD_MALE,Header 8,CONN-11292,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,Male,M06SMD_MALE,1X06_SMD_MALE,Header 6,CONN-11293,,|
-|JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,BTA,M06VERNIER-ANALOG,BTA,Header 6,,,|
-|JP9,HEAD-I01-X-PI03-01,JP6,BTA,M06VERNIER-ANALOG,BTA,Header 6,,,|
-|JP10,HEAD-I01-X-PI03-01,JP7,BTD,M06VERNIER-DIGITAL,BTD,Header 6,,,|
-|JP11,HEAD-I01-X-PI02-01,JP8,BTD,M06VERNIER-DIGITAL,BTD,Header 6,,,|
-|JP12,HEAD-I01-X-PI06-01,JP9,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,JP10,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,|
-|R1,RESE-0603-X-O103-01,JP11,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|R2,RESE-0603-X-O203-01,JP12,Male,M06SIP,1X06,Header 6,,,|
-|R3,RESE-0603-X-O203-01,LED1,,LED5MM,LED5MM,LEDs,,,|
-|R4,RESE-0603-X-O203-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0603-X-O103-01,LOGO_1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
-|R6,RESE-0603-X-O103-01,R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R7,RESE-0603-X-O103-01,R2,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R8,RESE-0603-X-O203-01,R3,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R9,RESE-0603-X-O203-01,R4,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R10,RESE-0603-X-O203-01,R5,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R11,RESE-0603-X-O103-01,R6,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R12,RESE-0603-X-O103-01,R7,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R13,RESE-0603-X-O103-01,R8,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R14,RESE-0603-X-O153-01,R9,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R15,RESE-0603-X-O103-01,R10,20k,20KOHM1/10W1%(0603),0603-RES,RES-09383,RES-09383,20k,|
-|R16,RESE-0603-X-O153-01,R11,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R17,RESE-0603-X-O103-01,R12,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R18,RESE-0603-X-O103-01,R13,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R19,RESE-0603-X-O331-01,R14,15K,15KOHM1/10W1%(0603)0603,0603-RES,RES-07854,RES-07854,15K,|
-|R20,RESE-0603-X-O103-01,R15,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,15K,15KOHM1/10W1%(0603)0603,0603-RES,RES-07854,RES-07854,15K,|
-|S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R17,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R18,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R19,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R20,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP8 JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP9 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP10 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP11 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP12 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R3 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R4 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R9 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R10 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R11 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R12 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R13 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R14 RESE-0603-X-O153-01 SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)|
+|[R15 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R16 RESE-0603-X-O153-01 SMD (0603) 16k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O153-01/)|
+|[R17 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R18 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R19 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R20 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S3 S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S4 S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -95,8 +98,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Vernier_Interface_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12858
 - oompID: PROJ-SPAR-12858-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI08-01
 - oompParts: JP3,HEAD-I01-X-PI08-01
@@ -132,7 +135,6 @@ Contents
 - oompParts: R20,RESE-0603-X-O103-01
 - oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,

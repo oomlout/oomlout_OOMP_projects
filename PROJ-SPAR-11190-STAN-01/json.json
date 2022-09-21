@@ -42,31 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "+,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "-,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "A2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "A3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "A4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "A5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "C1,CAPC-0603-X-UNMATCHED-01"
+            "value": "C1,CAPC-0603-X-PF470-01"
         },
         {
             "name": "oompParts",
@@ -86,39 +62,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+            "value": "C6,CAPC-0603-X-UF47D-01"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-1206-X-UNMATCHED-01"
+            "value": "C7,CAPC-1206-X-UF47D-01"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-1206-X-UNMATCHED-01"
+            "value": "C8,CAPC-1206-X-UF47D-01"
         },
         {
             "name": "oompParts",
             "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "D5,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "D6,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "D9,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "D10,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "D11,DIOD-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -154,11 +110,11 @@
         },
         {
             "name": "oompParts",
-            "value": "R4,RESE-0603-X-O21-01"
+            "value": "R4,RESE-0603-X-O220-01"
         },
         {
             "name": "oompParts",
-            "value": "R5,RESE-0603-X-O21-01"
+            "value": "R5,RESE-0603-X-O220-01"
         },
         {
             "name": "oompParts",

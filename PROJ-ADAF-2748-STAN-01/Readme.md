@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2748 > Adafruit](#pra2748--adafruit)
+* [PRA2748 > Adafruit ALS PT19 Sensor Breakout PCB](#pra2748--adafruit-als-pt19-sensor-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2748 > Adafruit
+# PRA2748 > Adafruit ALS PT19 Sensor Breakout PCB
 
 - ID: PROJ-ADAF-2748-STAN-01
 - Hex ID: PRA2748
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2748-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP2,HEAD-I01-X-PI03-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0603-X-O103-01,JP2,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18345 > Sparkfun](#prs18345--sparkfun)
+* [PRS18345 > Qwiic Air Quality Sensor SGP40](#prs18345--qwiic-air-quality-sensor-sgp40)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18345 > Sparkfun
+# PRS18345 > Qwiic Air Quality Sensor SGP40
 
 - ID: PROJ-SPAR-18345-STAN-01
 - Hex ID: PRS18345
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18345-STAN-01/kicad/bom/ibom.html)

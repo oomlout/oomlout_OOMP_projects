@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11040 > Sparkfun](#prs11040--sparkfun)
+* [PRS11040 > LED RingCoder Breakout](#prs11040--led-ringcoder-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11040 > Sparkfun
+# PRS11040 > LED RingCoder Breakout
 
 - ID: PROJ-SPAR-11040-STAN-01
 - Hex ID: PRS11040
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11040-STAN-01/kicad/bom/ibom.html)
@@ -34,37 +38,36 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,74LS595D,74LS595D,SO16,8-bit SHIFT REGISTER, output latch,,,|
-|JP1,HEAD-I01-X-PI06-01,IC2,74LS595D,74LS595D,SO16,8-bit SHIFT REGISTER, output latch,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,M06SIP,1X06,Header 6,,,|
-|JP9,HEAD-I01-X-PI07-01,JP2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,,|
-|JP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R1,RESE-0603-X-O301-01,JP5,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O301-01,JP6,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,|
-|R3,RESE-0603-X-O301-01,JP7,,JUMPER-2SMD-NC,SJ_2S,Jumper,,,|
-|R4,RESE-0603-X-O301-01,JP8,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,,|
-|R5,RESE-0603-X-O301-01,JP9,,M07,1X07,Header 7,,,|
-|R6,RESE-0603-X-O301-01,JP10,,JUMPER-2SMD-NC,SJ_2S,Jumper,,,|
-|R7,RESE-0603-X-O301-01,LED1,RED,LED_RING,LED_RING,16 LED Ring,,,|
-|R8,RESE-0603-X-O301-01,R1,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R9,RESE-0603-X-O301-01,R2,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R10,RESE-0603-X-O301-01,R3,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R11,RESE-0603-X-O301-01,R4,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R12,RESE-0603-X-O301-01,R5,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R13,RESE-0603-X-O301-01,R6,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R14,RESE-0603-X-O301-01,R7,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R15,RESE-0603-X-O301-01,R8,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R16,RESE-0603-X-O301-01,R9,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R17,RESE-0603-X-O181-01,R10,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R18,RESE-0603-X-O181-01,R11,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R19,RESE-0603-X-O301-01,R12,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|R20,RESE-0603-X-O103-01,R13,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R14,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R15,300,300OHM-1/10W-1%(0603),0603-RES,RES-10328,RES_10328,300,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP9 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|JP10 JP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|[R1 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R2 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R3 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R4 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R5 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R6 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R7 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R8 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R9 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R10 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R11 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R12 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R13 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R14 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R15 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R16 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|R17 R17,RESE-0603-X-O181-01|
+|R18 R18,RESE-0603-X-O181-01|
+|[R19 RESE-0603-X-O301-01 SMD (0603) 300 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O301-01/)|
+|[R20 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,8 +89,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LED_RingCoder_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11040
 - oompID: PROJ-SPAR-11040-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
@@ -115,7 +118,6 @@ Contents
 - oompParts: R18,RESE-0603-X-O181-01
 - oompParts: R19,RESE-0603-X-O301-01
 - oompParts: R20,RESE-0603-X-O103-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,

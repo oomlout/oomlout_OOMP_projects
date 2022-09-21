@@ -62,11 +62,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D2,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D2,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "D3,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D3,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -102,7 +102,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
@@ -114,15 +114,15 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-0603-X-UNMATCHED-01"
+            "value": "R1,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,RESE-0603-X-UNMATCHED-01"
+            "value": "R2,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",
-            "value": "R3,RESE-0603-X-UNMATCHED-01"
+            "value": "R3,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",

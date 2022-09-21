@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15801 > Sparkfun](#prs15801--sparkfun)
+* [PRS15801 > Power Delivery Board-USB-C](#prs15801--power-delivery-board-usb-c)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15801 > Sparkfun
+# PRS15801 > Power Delivery Board-USB-C
 
 - ID: PROJ-SPAR-15801-STAN-01
 - Hex ID: PRS15801
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15801-STAN-01/kicad/bom/ibom.html)

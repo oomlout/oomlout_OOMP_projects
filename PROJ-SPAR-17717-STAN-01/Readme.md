@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17717 > Sparkfun](#prs17717--sparkfun)
+* [PRS17717 > SparkFun Pro Micro-RP2040](#prs17717--sparkfun-pro-micro-rp2040)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17717 > Sparkfun
+# PRS17717 > SparkFun Pro Micro-RP2040
 
 - ID: PROJ-SPAR-17717-STAN-01
 - Hex ID: PRS17717
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17717-STAN-01/kicad/bom/ibom.html)

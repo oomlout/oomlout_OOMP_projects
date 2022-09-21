@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS10101 > Sparkfun](#prs10101--sparkfun)
+* [PRS10101 > Window Comparator](#prs10101--window-comparator)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10101 > Sparkfun
+# PRS10101 > Window Comparator
 
 - ID: PROJ-SPAR-10101-STAN-01
 - Hex ID: PRS10101
@@ -24,24 +25,27 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,LMV358,OPAMP-DUALU,SO08,Operational Amplifier,,|
-|JP2,HEAD-I01-X-PI06-01,JP2,,M06SIP,1X06,Header 6,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,Q1,mmbt2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,|
-|Q2,UNMATCHED-SO23-X-UNMATCHED-01,Q2,mmbt2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,|
-|R1,RESE-UNMATCHED-X-O103-01,R1,10K,TRIMPOTSMD,TRIMPOT-3MM,,,|
-|R2,RESE-UNMATCHED-X-O103-01,R2,10K,TRIMPOTSMD,TRIMPOT-3MM,,,|
-|R3,RESE-0603-X-O103-01,R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R4,RESE-0603-X-O331-01,R4,330,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R5,RESE-0603-X-O103-01,R5,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R6,RESE-0603-X-O203-01,R6,20K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R7,RESE-0603-X-O202-01,R7,2K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|STAT,LEDS-0603-G-STAN-01,STAT,,LED0603,LED-0603,LEDs,,|
+|C1 C1,CAPC-0603-X-UNMATCHED-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-O103-01|
+|R2 R2,RESE-UNMATCHED-X-O103-01|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R7 RESE-0603-X-O202-01 SMD (0603) 2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O202-01/)|
+|[STAT LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
 
 ## Images
   

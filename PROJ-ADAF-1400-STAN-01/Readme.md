@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1400 > Adafruit](#pra1400--adafruit)
+* [PRA1400 > Adafruit Push Button Power Switch PCB](#pra1400--adafruit-push-button-power-switch-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1400 > Adafruit
+# PRA1400 > Adafruit Push Button Power Switch PCB
 
 - ID: PROJ-ADAF-1400-STAN-01
 - Hex ID: PRA1400
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1400-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,1X4-CLEANBIG,1X4-CLEANBIG,1X04-CLEANBIG,4-pin connector,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED,LEDS-0805-G-STAN-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q2,MOSP-SO23-X-UNMATCHED-01,IC1,4093DT,4093DT,MC14093B-TSSOP14,Quad 2-input NAND schmitt trigger,,|
-|R1,RESE-0805-X-O102-01,LED,RED,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|R2,RESE-0805-X-O1003-01,Q1,2N2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|R3,RESE-0805-X-O1003-01,Q2,POWER PFET,MOSFET-PWIDE,SOT23-WIDE,P-Channel Mosfet,,|
-|R4,RESE-0805-X-O102-01,R1,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,100K,R-US_R0805,R0805,RESISTOR, American symbol,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,MOSP-SO23-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|R2 R2,RESE-0805-X-O1003-01|
+|R3 R3,RESE-0805-X-O1003-01|
+|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,7 +71,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1400
 - oompID: PROJ-ADAF-1400-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

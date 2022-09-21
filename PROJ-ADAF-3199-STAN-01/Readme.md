@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3199 > Adafruit](#pra3199--adafruit)
+* [PRA3199 > Adafruit MiCS 5524 Gas Sensor Breakout PCB](#pra3199--adafruit-mics-5524-gas-sensor-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3199 > Adafruit
+# PRA3199 > Adafruit MiCS 5524 Gas Sensor Breakout PCB
 
 - ID: PROJ-ADAF-3199-STAN-01
 - Hex ID: PRA3199
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3199-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP2,HEAD-I01-X-PI04-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSP-SO23-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-UNMATCHED-01,JP2,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
-|R2,RESE-0805-X-O103-01,Q1,DMG3415U,MOSFET-PWIDE,SOT23-WIDE,P-Channel Mosfet,,|
-|R3,RESE-0805-X-O103-01,R1,82ÃÂ© 1%,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|Q1 Q1,MOSP-SO23-X-UNMATCHED-01|
+|R1 R1,RESE-0805-X-UNMATCHED-01|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

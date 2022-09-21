@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA254 > Adafruit](#pra254--adafruit)
+* [PRA254 > MicroSD breakout board](#pra254--microsd-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA254 > Adafruit
+# PRA254 > MicroSD breakout board
 
 - ID: PROJ-ADAF-254-STAN-01
 - Hex ID: PRA254
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-254-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ACT,LEDS-0805-G-STAN-01,ACT,RED,LEDCHIP-LED0805,CHIP-LED0805,LED,,|
-|C1,CAPX-UNMATCHED-X-UNMATCHED-01,C1,10uF/10V,CPOL-USA/3216-18R,A/3216-18R,POLARIZED CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,4050D,4050D,SO16,Hex non-inverting BUFFER,,|
-|IC2,VREG-SO235-X-KLP298XS-V33D,IC2,LP298XS,LP298XS,SOT23-5L,,,|
-|JP1,HEAD-I01-X-PI08-01,JP1,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|R1,RESE-0805-X-O102-01,R1,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|[ACT LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|C1 C1,CAPX-UNMATCHED-X-UNMATCHED-01|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,7 +69,7 @@ Contents
 - oompID: PROJ-ADAF-254-STAN-01
 - oompParts: ACT,LEDS-0805-G-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,VREG-SO235-X-KLP298XS-V33D
 - oompParts: JP1,HEAD-I01-X-PI08-01

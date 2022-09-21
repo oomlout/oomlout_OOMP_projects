@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9873 > Sparkfun](#prs9873--sparkfun)
+* [PRS9873 > FTDI Basic Breakout-3.3V](#prs9873--ftdi-basic-breakout-33v)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9873 > Sparkfun
+# PRS9873 > FTDI Basic Breakout-3.3V
 
 - ID: PROJ-SPAR-9873-STAN-01
 - Hex ID: PRS9873
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9873-STAN-01/kicad/bom/ibom.html)

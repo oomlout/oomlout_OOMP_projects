@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12582 > Sparkfun](#prs12582--sparkfun)
+* [PRS12582 > BlueSMiRF](#prs12582--bluesmirf)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12582 > Sparkfun
+# PRS12582 > BlueSMiRF
 
 - ID: PROJ-SPAR-12582-STAN-01
 - Hex ID: PRS12582
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12582-STAN-01/kicad/bom/ibom.html)
@@ -34,28 +38,27 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C3,CAPX-UNMATCHED-X-UF10-01,C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|D1,LEDS-0603-G-STAN-01,D1,Red,LED0603,LED-0603,LEDs,,|
-|D2,LEDS-0603-G-STAN-01,D2,Green,LED0603,LED-0603,LEDs,,|
-|JP1,HEAD-I01-X-PI06-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI01-01,JP1,,M06SIP,1X06,Header 6,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,JP2,M01SMDNS,M01SMDNS,1X01NS,Header 1,,|
-|Q2,UNMATCHED-SO23-X-UNMATCHED-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O331-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
-|R2,RESE-0603-X-O103-01,Q1,MOSFET-NCHANNELSMD,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|R3,RESE-0603-X-O103-01,Q2,MOSFET-NCHANNELSMD,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|R4,RESE-0603-X-O103-01,R1,330,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R5,RESE-0603-X-O103-01,R2,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R6,RESE-0603-X-O331-01,R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R7,RESE-0603-X-O103-01,R4,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R8,RESE-0603-X-O103-01,R5,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R9,RESE-0603-X-O103-01,R6,330,RESISTOR0603-RES,0603-RES,Resistor,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,SJ1,SOLDERJUMPERNO,SOLDERJUMPERNO,SJ_2S-NO,Solder Jumper,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPX-UNMATCHED-X-UF10-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -96,7 +99,6 @@ Contents
 - oompParts: R8,RESE-0603-X-O103-01
 - oompParts: R9,RESE-0603-X-O103-01
 - oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

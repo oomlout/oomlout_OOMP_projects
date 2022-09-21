@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10705 > Sparkfun](#prs10705--sparkfun)
+* [PRS10705 > MyDAQ Protoboard Kit](#prs10705--mydaq-protoboard-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10705 > Sparkfun
+# PRS10705 > MyDAQ Protoboard Kit
 
 - ID: PROJ-SPAR-10705-STAN-01
 - Hex ID: PRS10705
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10705-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP3,HEAD-I01-X-PI20-01,JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|JP4,HEAD-I01-X-PI20-01,JP2,MYDAQ,MYDAQ,3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING,,,|
-|JP5,HEAD-I01-X-PI30-01,JP3,M20_LOCKINGFEMALE_LOCK.009,M20_LOCKINGLOCK,1X20_LOCK,This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the standard footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!,,|
-|JP6,HEAD-I01-X-PI30-01,JP4,M20,M20,1X20,This is just like the LOCK variant in that the holes are staggared by 5 mil, but except for the last two holes.  They are not altered from the standard footprint layout.  This is used for a special purpose on the layout of our Graphic LCD Backpack.  Make sure you want to use this device before selecting it for you project!,,|
-|JP7,HEAD-I01-X-PI30-01,JP5,M30,M30,1X30,,,|
-|JP8,HEAD-I01-X-PI30-01,JP6,M30,M30,1X30,,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,M30,M30,1X30,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP8,M30,M30,1X30,,,|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|[JP4 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|JP5 JP5,HEAD-I01-X-PI30-01|
+|JP6 JP6,HEAD-I01-X-PI30-01|
+|JP7 JP7,HEAD-I01-X-PI30-01|
+|JP8 JP8,HEAD-I01-X-PI30-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,7 +74,6 @@ Contents
 - oompParts: JP6,HEAD-I01-X-PI30-01
 - oompParts: JP7,HEAD-I01-X-PI30-01
 - oompParts: JP8,HEAD-I01-X-PI30-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
 - rawParts: JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

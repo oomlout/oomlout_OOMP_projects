@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2267 > Adafruit](#pra2267--adafruit)
+* [PRA2267 > Adafruit Bluefruit LE USB Friend and Sniffer PCB](#pra2267--adafruit-bluefruit-le-usb-friend-and-sniffer-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2267 > Adafruit
+# PRA2267 > Adafruit Bluefruit LE USB Friend and Sniffer PCB
 
 - ID: PROJ-ADAF-2267-STAN-01
 - Hex ID: PRA2267
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2267-STAN-01/kicad/bom/ibom.html)
@@ -34,28 +38,28 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF1-01,C2,1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,|
-|LED1,LEDS-0805-G-STAN-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED2,LEDS-0805-G-STAN-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED3,LEDS-0805-G-STAN-01,LED1,YELLOW,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|LED4,LEDS-0805-G-STAN-01,LED2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R1,RESE-0805-X-O102-01,LED3,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R2,RESE-0805-X-O102-01,LED4,BLUE,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R3,RESE-0805-X-O102-01,R1,1K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R4,RESE-0805-X-UNMATCHED-01,R2,1K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R5,RESE-0805-X-O103-01,R3,1K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R6,RESE-0805-X-O103-01,R4,0,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R7,RESE-0805-X-O102-01,R5,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,1K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW2,KMR2,DPDT-EG1390,EG1390,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U1,nrf51822_32KB,BLE_MODULE_RAYTAC_MDBT40,BLE_MODULE_RAYTAC_MDBT40,nRF51822 Bluetooth Low Energy Module,,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U2,FT231XQ-x ,FT231X,QFN20_4MM,FT231X USB To Full Handshake UART IC,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,X1,USB A,USB_TYPEA_CLIENTTHM,USB_A-THM,USB - Type A Connectors,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED3 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R2 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R3 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|R4 R4,RESE-0805-X-UNMATCHED-01|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

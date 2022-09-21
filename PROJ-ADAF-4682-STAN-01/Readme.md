@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4682 > Adafruit](#pra4682--adafruit)
+* [PRA4682 > Adafruit MicroSD SPI or SDIO card breakout PCB](#pra4682--adafruit-microsd-spi-or-sdio-card-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4682 > Adafruit
+# PRA4682 > Adafruit MicroSD SPI or SDIO card breakout PCB
 
 - ID: PROJ-ADAF-4682-STAN-01
 - Hex ID: PRA4682
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4682-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI09-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-UNMATCHED-X-O473-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-UNMATCHED-X-O473-01,JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,47K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|R1 R1,RESA-06038-X-O473X4-01|
+|R2 R2,RESA-06038-X-O473X4-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -62,10 +66,10 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/4682
 - oompID: PROJ-ADAF-4682-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI09-01
-- oompParts: R1,RESE-UNMATCHED-X-O473-01
-- oompParts: R2,RESE-UNMATCHED-X-O473-01
+- oompParts: R1,RESA-06038-X-O473X4-01
+- oompParts: R2,RESA-06038-X-O473X4-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,

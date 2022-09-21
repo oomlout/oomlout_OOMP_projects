@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3364 > Adafruit](#pra3364--adafruit)
+* [PRA3364 > Adafruit pIRKey PCB](#pra3364--adafruit-pirkey-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3364 > Adafruit
+# PRA3364 > Adafruit pIRKey PCB
 
 - ID: PROJ-ADAF-3364-STAN-01
 - Hex ID: PRA3364
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3364-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,|
-|C8,CAPC-0805-X-UF10-V10,C8,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,,USB_TYPEAPCB,USBA_PCB,USB - Type A Connectors,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,|
-|IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,|
-|LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC2,TSOP75XYY,TSOP75XYY,TSOP75XYY,Vishay TSOP75XYY, where X is 2 (normal), or 4 (high noise environments, and YY is the demodulation frequency (36, 38, 40 KHz).,,,|
-|Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC3,ATSAMD21E,ATSAMD21E,QFN32_5MM,,,,|
-|R4,RESE-0603-X-UNMATCHED-01,LED2,AP102-2020,APA1022020,APA102_2020,APA102/DotStar Pixels,,,|
-|RST,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q2,reset,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,,|
-|SWC,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,|
-|SWD,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RST,TPTP16R,TPTP16R,TP16R,Test pad,,,|
-|U1,VREG-SO235-X-KAP2112K-V33D,SWC,TPTP15R,TPTP15R,TP15R,Test pad,,,|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED2 LEDS-2020-RGB-K102-01 SMD (2020) Smart Controller (APA102) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2020-RGB-K102-01/)|
+|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R4 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|RST RST,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SWC SWC,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SWD SWD,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,VREG-SO235-X-KAP2112K-V33D|
 
 ## Images
   
@@ -76,9 +80,9 @@ Contents
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED2,LEDS-2020-RGB-K102-01
 - oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O222-01
 - oompParts: RST,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SWC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SWD,UNMATCHED-UNMATCHED-X-UNMATCHED-01

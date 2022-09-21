@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS19895 > Sparkfun](#prs19895--sparkfun)
+* [PRS19895 > SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA](#prs19895--sparkfun-qwiic-9dof-ism330dhcx-mmc5983ma)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS19895 > Sparkfun
+# PRS19895 > SparkFun Qwiic 9DoF-ISM330DHCX-MMC5983MA
 
 - ID: PROJ-SPAR-19895-STAN-01
 - Hex ID: PRS19895
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-19895-STAN-01/kicad/bom/ibom.html)

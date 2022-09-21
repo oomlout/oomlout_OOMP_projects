@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3678 > Adafruit](#pra3678--adafruit)
+* [PRA3678 > Adafruit UDA1334A I2S Stereo DAC PCB](#pra3678--adafruit-uda1334a-i2s-stereo-dac-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3678 > Adafruit
+# PRA3678 > Adafruit UDA1334A I2S Stereo DAC PCB
 
 - ID: PROJ-ADAF-3678-STAN-01
 - Hex ID: PRA3678
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3678-STAN-01/kicad/bom/ibom.html)
@@ -34,35 +38,35 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPX-UNMATCHED-X-UF47-01,C6,47uF,CAP_ELECTROLYTICPANASONIC_C,PANASONIC_C,Electrolytic Capacitors,,|
-|C7,CAPC-0805-X-UNMATCHED-01,C7,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UNMATCHED-01,C8,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C9,CAPC-0805-X-NF100-V50,C9,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C10,CAPX-UNMATCHED-X-UF47-01,C10,47uF,CAP_ELECTROLYTICPANASONIC_C,PANASONIC_C,Electrolytic Capacitors,,|
-|C11,CAPC-0805-X-UF10-V10,C11,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C12,CAPC-0805-X-UF10-V10,C12,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,Ferrite,FERRITE0805,0805,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,Ferrite,FERRITE0805,0805,Ferrite Bead,,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI09-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0603-X-O103-01,JP1,,HEADER-1X670MIL,1X06_ROUND_70,PIN HEADER,,|
-|R2,RESE-0603-X-O103-01,JP3,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|R3,RESE-0805-X-O2203-01,R1,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R4,RESE-0805-X-O101-01,R2,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R5,RESE-0805-X-O2203-01,R3,220k,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R6,RESE-0805-X-O101-01,R4,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R7,RESE-0603-X-O103-01,R5,220k,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R8,RESE-0603-X-O103-01,R6,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R9,RESE-0603-X-O103-01,R7,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R10,RESE-0603-X-O103-01,R8,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,R10,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$11,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C6 C6,CAPX-UNMATCHED-X-UF47-01|
+|C7 C7,CAPC-0805-X-UNMATCHED-01|
+|C8 C8,CAPC-0805-X-UNMATCHED-01|
+|C9 C9,CAPC-0805-X-UF1D-01|
+|C10 C10,CAPX-UNMATCHED-X-UF47-01|
+|[C11 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C12 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-0805-X-O2203-01|
+|[R4 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|R5 R5,RESE-0805-X-O2203-01|
+|[R6 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -84,20 +88,20 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3678
 - oompID: PROJ-ADAF-3678-STAN-01
-- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C1,CAPC-0805-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPX-UNMATCHED-X-UF47-01
 - oompParts: C7,CAPC-0805-X-UNMATCHED-01
 - oompParts: C8,CAPC-0805-X-UNMATCHED-01
-- oompParts: C9,CAPC-0805-X-NF100-V50
+- oompParts: C9,CAPC-0805-X-UF1D-01
 - oompParts: C10,CAPX-UNMATCHED-X-UF47-01
 - oompParts: C11,CAPC-0805-X-UF10-V10
 - oompParts: C12,CAPC-0805-X-UF10-V10
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP3,HEAD-I01-X-PI09-01
 - oompParts: R1,RESE-0603-X-O103-01

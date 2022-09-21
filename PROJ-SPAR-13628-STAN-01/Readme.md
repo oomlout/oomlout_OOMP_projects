@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13628 > Sparkfun](#prs13628--sparkfun)
+* [PRS13628 > Photon OLED Shield](#prs13628--photon-oled-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13628 > Sparkfun
+# PRS13628 > Photon OLED Shield
 
 - ID: PROJ-SPAR-13628-STAN-01
 - Hex ID: PRS13628
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13628-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,2.2uF,2.2UF-25V-+80/-20(0805),0805-CAP,CAP-11624,,CAP-11624,2.2uF,,|
-|C2,CAPC-0805-X-UF1-01,C2,1uF,1UF-25V-10%(0805),0805-CAP,CAP-08064,,,,,|
-|C3,CAPC-0805-X-UF1-01,C3,1uF,1UF-25V-10%(0805),0805-CAP,CAP-08064,,,,,|
-|C4,CAPC-0603-X-UF1-01,C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,CAP-00868,,,|
-|C5,CAPC-UNMATCHED-X-UNMATCHED-01,C5,4.7uF,4.7UF-16V-20%,+80%-(1206),1206-CAP,CAP-10300,,CAP-10300,4.7uF,,|
-|C6,CAPC-0603-X-UF1-01,C6,1uF,CAP0603-CAP,0603-CAP,Capacitor,,CAP-00868,,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,v01,|
-|R1,RESE-0603-X-O3903-01,JP3,SPARK_PHOTONTEMPLATE_WIDE,SPARK_PHOTONTEMPLATE_WIDE,SPARK_PHOTON_TEMPLATE_WIDE,,,,,,|
-|R2,RESE-0603-X-O103-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|R5,RESE-0603-X-O103-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|R7,RESE-0603-X-O103-01,LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,OLED1,OLED0.66,OLED0.66,OLED-0.66-64X48,,,LCD-12019,,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,390k,RESISTOR0603-RES,0603-RES,Resistor,,RES-12024,,,|
+|C1 C1,CAPC-0805-X-UF22D-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|C3 C3,CAPC-0805-X-UF1-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-UNMATCHED-X-UF47D-01|
+|C6 C6,CAPC-0603-X-UF1-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|OLED1 OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O3903-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
@@ -70,11 +72,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photon_OLED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13628
 - oompID: PROJ-SPAR-13628-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF22D-01
 - oompParts: C2,CAPC-0805-X-UF1-01
 - oompParts: C3,CAPC-0805-X-UF1-01
 - oompParts: C4,CAPC-0603-X-UF1-01
-- oompParts: C5,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C5,CAPC-UNMATCHED-X-UF47D-01
 - oompParts: C6,CAPC-0603-X-UF1-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -83,8 +85,6 @@ Contents
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O103-01
 - oompParts: R7,RESE-0603-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,2.2uF,2.2UF-25V-+80/-20(0805),0805-CAP,CAP-11624,,CAP-11624,2.2uF,,
 - rawParts: C2,1uF,1UF-25V-10%(0805),0805-CAP,CAP-08064,,,,,
 - rawParts: C3,1uF,1UF-25V-10%(0805),0805-CAP,CAP-08064,,,,,

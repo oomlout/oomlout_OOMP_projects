@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14380 > Sparkfun](#prs14380--sparkfun)
+* [PRS14380 > Adjustable Lipo Charger](#prs14380--adjustable-lipo-charger)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14380 > Sparkfun
+# PRS14380 > Adjustable Lipo Charger
 
 - ID: PROJ-SPAR-14380-STAN-01
 - Hex ID: PRS14380
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14380-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BT1,,BATTERY-24.5MM_SMD,BATTCON_24.5MM_SMD,Battery - Single Cell,PRT-13755,,,|
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,,4.7uF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,,4.7uF,|
-|D1,LEDS-0603-G-STAN-01,D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,,BLUE,|
-|D2,LEDS-0603-G-STAN-01,D2,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,,RED,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,|
-|R1,RESE-0603-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|R2,RESE-0603-X-UNMATCHED-01,J1,,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,CONN-11443,PRT-08612,,|
-|R3,RESE-0603-X-UNMATCHED-01,J2,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R4,RESE-0603-X-O103-01,J3,,USB_MICRO-B_HALF_PTH,USB-MICROB-PTH,USB Type Micro-B Connector,CONN-13711,,AMP FCI 10103594-0001LF,|
-|R5,RESE-0603-X-O103-01,J4,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R6,RESE-0603-X-O103-01,LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,|
-|R7,RESE-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,|
-|R8,RESE-0603-X-O331-01,R1,2.0k,2.0KOHM-0603-1/10W-5%,0603,2kÃÂ© resistor,RES-08296,,2.0k,|
-|R9,RESE-0603-X-O471-01,R2,2.49k,2.49KOHM-0603-1/10W-1%,0603,2.49kÃÂ© resistor,RES-09568,,2.49k,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,3.3k,3.3KOHM-0603-1/10W-1%,0603,3.3kÃÂ© resistor,RES-07851,,3.3k,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R4,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
+|BT1 BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C3 C3,CAPC-0603-X-UF47D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
+|R2 R2,RESE-0603-X-UNMATCHED-01|
+|R3 R3,RESE-0603-X-UNMATCHED-01|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R8 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R9 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -76,8 +80,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14380
 - oompID: PROJ-SPAR-14380-STAN-01
 - oompParts: BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C3,CAPC-0603-X-UF47D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

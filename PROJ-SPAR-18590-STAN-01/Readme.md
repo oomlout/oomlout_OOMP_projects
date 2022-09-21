@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18590 > Sparkfun](#prs18590--sparkfun)
+* [PRS18590 > SparkFun RTK Express Plus](#prs18590--sparkfun-rtk-express-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18590 > Sparkfun
+# PRS18590 > SparkFun RTK Express Plus
 
 - ID: PROJ-SPAR-18590-STAN-01
 - Hex ID: PRS18590
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18590-STAN-01/kicad/bom/ibom.html)

@@ -54,7 +54,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0603-X-NF100-V50"
+            "value": "C4,CAPC-0603-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -70,11 +70,11 @@
         },
         {
             "name": "oompParts",
-            "value": "CONN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "CONN3,HEAD-I01-X-PI04-01"
         },
         {
             "name": "oompParts",
-            "value": "CONN4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "CONN4,HEAD-I01-X-PI04-01"
         },
         {
             "name": "oompParts",
@@ -98,19 +98,19 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED2,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED3,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED4,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
@@ -126,7 +126,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R3,RESE-UNMATCHED-X-O103-01"
+            "value": "R3,RESA-06038-X-O103X4-01"
         },
         {
             "name": "oompParts",

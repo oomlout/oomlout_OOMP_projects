@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14411 > Sparkfun](#prs14411--sparkfun)
+* [PRS14411 > LiPo Charger Booster 5V 1A](#prs14411--lipo-charger-booster-5v-1a)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14411 > Sparkfun
+# PRS14411 > LiPo Charger Booster 5V 1A
 
 - ID: PROJ-SPAR-14411-STAN-01
 - Hex ID: PRS14411
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14411-STAN-01/kicad/bom/ibom.html)
@@ -34,34 +38,33 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF22-01,C1,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,,22uF,|
-|C2,CAPC-0805-X-UF22-01,C2,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,,22uF,|
-|C3,CAPC-0805-X-UF22-01,C3,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,,22uF,|
-|C9,CAPC-0603-X-UNMATCHED-01,C9,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,,4.7uF,|
-|C10,CAPC-0603-X-UNMATCHED-01,C10,4.7uF,4.7UF0603,0603,4.7ÃÂµF ceramic capacitors,CAP-08280,,4.7uF,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,3A/40V/500mV,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diode,DIO-09886,,3A/40V/500mV,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,3A/40V/500mV,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diode,DIO-09886,,3A/40V/500mV,|
-|D3,LEDS-0603-G-STAN-01,D3,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,,RED,|
-|D4,LEDS-0603-G-STAN-01,D4,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,,BLUE,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,AMP FCI 10103594-0001LF,USB_MICRO-B_HALF_PTH,USB-MICROB-PTH,USB Type Micro-B Connector,CONN-13711,,AMP FCI 10103594-0001LF,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,PTH,CONN_02,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,PTH,CONN_02,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,JST,CONN_02-JST-2MM-SMT,JST-2-SMD,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-11443,,,|
-|J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_02,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J6,,CONN_01,1X01,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J7,PTH,CONN_02,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R1,RESE-0603-X-O1003-01,JP1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|R2,RESE-0603-X-O7503-01,JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|R3,RESE-0603-X-UNMATCHED-01,JP3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,|
-|R4,RESE-0603-X-O7503-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|R6,RESE-0603-X-UNMATCHED-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|R9,RESE-0603-X-O102-01,JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|RPROG,UNMATCHED-0603-X-UNMATCHED-01,JP16,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L1,2.2UH3A,INDUCTOR-IFSC1515AHER2R2M01,INDUCTOR_4X4MM,Inductors,NDUC-13770,,2.2UH3A,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R1,100k,100KOHM-0603-1/10W-1%,0603,100kÃÂ© resistor,RES-07828,,100k,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,750K,750KOHM-0603-1/10W-1%,0603,750ÃÂ© resistor,RES-13768,,750K,|
+|C1 C1,CAPC-0805-X-UF22-01|
+|C2 C2,CAPC-0805-X-UF22-01|
+|C3 C3,CAPC-0805-X-UF22-01|
+|C9 C9,CAPC-0603-X-UF47D-01|
+|C10 C10,CAPC-0603-X-UF47D-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J7 J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O7503-01|
+|R3 R3,RESE-0603-X-UNMATCHED-01|
+|R4 R4,RESE-0603-X-O7503-01|
+|[R6 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R9 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RPROG RPROG,UNMATCHED-0603-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,8 +89,8 @@ Contents
 - oompParts: C1,CAPC-0805-X-UF22-01
 - oompParts: C2,CAPC-0805-X-UF22-01
 - oompParts: C3,CAPC-0805-X-UF22-01
-- oompParts: C9,CAPC-0603-X-UNMATCHED-01
-- oompParts: C10,CAPC-0603-X-UNMATCHED-01
+- oompParts: C9,CAPC-0603-X-UF47D-01
+- oompParts: C10,CAPC-0603-X-UF47D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,LEDS-0603-G-STAN-01
@@ -104,11 +107,10 @@ Contents
 - oompParts: R2,RESE-0603-X-O7503-01
 - oompParts: R3,RESE-0603-X-UNMATCHED-01
 - oompParts: R4,RESE-0603-X-O7503-01
-- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R6,RESE-0603-X-O472-01
 - oompParts: R9,RESE-0603-X-O102-01
 - oompParts: RPROG,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,,22uF,

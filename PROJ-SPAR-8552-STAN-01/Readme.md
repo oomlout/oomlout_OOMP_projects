@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8552 > Sparkfun](#prs8552--sparkfun)
+* [PRS8552 > Serial DB9 Breakout](#prs8552--serial-db9-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8552 > Sparkfun
+# PRS8552 > Serial DB9 Breakout
 
 - ID: PROJ-SPAR-8552-STAN-01
 - Hex ID: PRS8552
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8552-STAN-01/kicad/bom/ibom.html)

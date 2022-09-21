@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11447 > Sparkfun](#prs11447--sparkfun)
+* [PRS11447 > Wake on shake](#prs11447--wake-on-shake)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11447 > Sparkfun
+# PRS11447 > Wake on shake
 
 - ID: PROJ-SPAR-11447-STAN-01
 - Hex ID: PRS11447
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11447-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-UF1-01,C2,1uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,,,CAP-00868,1.0uF,|
-|C3,CAPC-0603-X-UF1-01,C3,1uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,,,CAP-00868,1.0uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,,CAP-00810,0.1uF,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,RB751,RB751,SOD-523,40V 120mA SOD-523 Schottky,,,DIO-11018,RB751,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,RB751,DIODE-SCHOTTKY,SOD-523,Commonly MBRA140.,,,DIO-11018,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,,|
-|JP3,HEAD-I01-X-PI03-01,J1,PROG_HDR,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,,,,|
-|JP5,HEAD-I01-X-PI02-01,JP1,FTDI_DEVICE,FTDI_DEVICE,FTDI_DEVICE_SIDE,Connector which mates to FTDI basic or FTDI cable.,,,,,|
-|JP7,HEAD-I01-X-PI05-01,JP2,M02-JST-2MM-SMT,M02-JST-2MM-SMT,JST-2-SMD,Standard 2-pin 0.1 header. Use with,,,CONN-08352,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M03PTH,1X03,Header 3,,,,,|
-|R1,RESE-0603-X-O105-01,JP4,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,,,,|
-|R2,RESE-0603-X-O105-01,JP5,M02PTH,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,,,|
-|R3,RESE-0603-X-O103-01,JP6,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,,,|
-|R4,RESE-0603-X-O103-01,JP7,,M05PTH,1X05,Header 5,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q1,,IRF7509,MSOP8,30V Dual PMOS/NMOS MSOP-8,,,TRANS-07913,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1M,1MOHM1/10W1%(0603),0603-RES,RES-07868,,,RES-07868,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R2,1M,1MOHM1/10W1%(0603),0603-RES,RES-07868,,,RES-07868,,|
+|C1 C1,CAPC-0603-X-UNMATCHED-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF1-01|
+|C4 C4,CAPC-0603-X-UNMATCHED-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[R2 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   

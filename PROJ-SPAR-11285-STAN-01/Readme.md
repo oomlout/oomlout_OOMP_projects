@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11285 > Sparkfun](#prs11285--sparkfun)
+* [PRS11285 > LilyPad Coin Cell Battery Holder-Switched](#prs11285--lilypad-coin-cell-battery-holder-switched)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11285 > Sparkfun
+# PRS11285 > LilyPad Coin Cell Battery Holder-Switched
 
 - ID: PROJ-SPAR-11285-STAN-01
 - Hex ID: PRS11285
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11285-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,,20mm coincell,|
-|BATB-,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BATB-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,|
-|BATB-2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BATB-2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,|
-|BATT+,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BATT+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,|
-|BATT+2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BATT+2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,12 +62,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11285
 - oompID: PROJ-SPAR-11285-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: BATB-,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: BATB-2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: BATT+,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: BATT+2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BAT1,20mm coincell,BATTERY20MM_4LEGS,BATTCON_20MM_4LEGS,Battery Holders,BATT-10373,,20mm coincell,
 - rawParts: BATB-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,
 - rawParts: BATB-2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,Sew Taps for LilyPad Boards.,,,,

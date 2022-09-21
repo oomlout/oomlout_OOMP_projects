@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14475 > Sparkfun](#prs14475--sparkfun)
+* [PRS14475 > Noisy Cricket-1.5W Stereo Amplifier Breakout](#prs14475--noisy-cricket-15w-stereo-amplifier-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14475 > Sparkfun
+# PRS14475 > Noisy Cricket-1.5W Stereo Amplifier Breakout
 
 - ID: PROJ-SPAR-14475-STAN-01
 - Hex ID: PRS14475
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14475-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,CAP-13930,1.0uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,CAP-13930,1.0uF,|
-|C3,CAPX-UNMATCHED-X-UF100-01,C3,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100ÃÂµF polarized capacitors,CAP-12547,100uF,|
-|C4,CAPX-UNMATCHED-X-UF100-01,C4,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100ÃÂµF polarized capacitors,CAP-12547,100uF,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,CAP-13930,1.0uF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,CAP-13930,1.0uF,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|POT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|R2,RESE-0603-X-UNMATCHED-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R3,RESE-0603-X-O102-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|R4,RESE-0603-X-O102-01,J1,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-11563,,|
-|R5,RESE-0603-X-O1003-01,JP1,,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,|
-|R6,RESE-0603-X-O1003-01,JP2,,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,|
-|R7,RESE-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,|
-|R8,RESE-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,POT1,20k,POTENTIOMETER_DUAL_W/SWITCH,POT-DUAL-SWITCH-PTH,,RES-13814,20k,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPX-UNMATCHED-X-UF100-01|
+|C4 C4,CAPX-UNMATCHED-X-UF100-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF1-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|POT1 POT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R5 R5,RESE-0603-X-O1003-01|
+|R6 R6,RESE-0603-X-O1003-01|
+|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
+|R8 R8,RESE-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -74,18 +78,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14475
 - oompID: PROJ-SPAR-14475-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF100-01
 - oompParts: C4,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C5,CAPC-0603-X-UF1-01
+- oompParts: C6,CAPC-0603-X-UF1-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: POT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-UNMATCHED-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O222-01
+- oompParts: R2,RESE-0603-X-O222-01
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: R4,RESE-0603-X-O102-01
 - oompParts: R5,RESE-0603-X-O1003-01

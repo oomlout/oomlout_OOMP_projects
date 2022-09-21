@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8688 > Sparkfun](#prs8688--sparkfun)
+* [PRS8688 > Ambient Light Sensor Breakout-TEMT6000](#prs8688--ambient-light-sensor-breakout-temt6000)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8688 > Sparkfun
+# PRS8688 > Ambient Light Sensor Breakout-TEMT6000
 
 - ID: PROJ-SPAR-8688-STAN-01
 - Hex ID: PRS8688
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8688-STAN-01/kicad/bom/ibom.html)

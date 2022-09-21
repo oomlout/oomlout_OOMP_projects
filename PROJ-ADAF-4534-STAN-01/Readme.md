@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4534 > Adafruit](#pra4534--adafruit)
+* [PRA4534 > Adafruit Bonsai Buckaroo PCB](#pra4534--adafruit-bonsai-buckaroo-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4534 > Adafruit
+# PRA4534 > Adafruit Bonsai Buckaroo PCB
 
 - ID: PROJ-ADAF-4534-STAN-01
 - Hex ID: PRA4534
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4534-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|D2,LEDS-0805-G-STAN-01,D2,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|D6,DIOD-S323-X-K4148-01,D6,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|MB2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSN-SO23-X-KBSS138-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q2,MOSN-SO23-X-KBSS138-01,MB2,MICROBIT_5PIN,MICROBIT_5PIN,MICROBIT_5SMTNUT,,,|
-|R1,RESE-0603-X-O103-01,Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R2,RESE-0603-X-O102-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,|
-|R12,RESE-0603-X-O103-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R12,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SP1,SPEAKER_7.5MM,SPEAKER_7.5MM,BUZZER_SMT_7.5MM,SPEAKER Source: BuerklinAdded PS12 (for part # PS1240 piezo) http://www.ladyada.net/library/pcb/eaglelibrary.html,,|
-|TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,TP1,SEWTAPPCB_ALLIGATOR,SEWTAPPCB_ALLIGATOR,PCB_ALLI,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,TP2,SEWTAPPCB_ALLIGATOR,SEWTAPPCB_ALLIGATOR,PCB_ALLI,,,|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[D6 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|MB2 MB2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R12 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|SP1 SP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -79,9 +80,6 @@ Contents
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R12,RESE-0603-X-O103-01
 - oompParts: SP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: D1,1N4148,DIODESOD-323,SOD-323,Diode,,
 - rawParts: D2,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS19921 > Sparkfun](#prs19921--sparkfun)
+* [PRS19921 > SparkFun Qwiic Magnetometer-MMC5983MA](#prs19921--sparkfun-qwiic-magnetometer-mmc5983ma)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS19921 > Sparkfun
+# PRS19921 > SparkFun Qwiic Magnetometer-MMC5983MA
 
 - ID: PROJ-SPAR-19921-STAN-01
 - Hex ID: PRS19921
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-19921-STAN-01/kicad/bom/ibom.html)

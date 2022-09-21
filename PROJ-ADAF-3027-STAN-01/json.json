@@ -46,11 +46,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0805-X-UNMATCHED-01"
+            "value": "C2,CAPC-0805-X-PF33-01"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-UNMATCHED-01"
+            "value": "C3,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -58,11 +58,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0805-X-UNMATCHED-01"
+            "value": "C5,CAPC-0805-X-PF10-01"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0805-X-UNMATCHED-01"
+            "value": "C6,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -70,7 +70,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0805-X-UNMATCHED-01"
+            "value": "C8,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -98,11 +98,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D4,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D4,DIOD-S123-X-KMBR120-01"
         },
         {
             "name": "oompParts",
-            "value": "D5,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D5,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -150,11 +150,11 @@
         },
         {
             "name": "oompParts",
-            "value": "R4,RESE-0603-X-O21-01"
+            "value": "R4,RESE-0603-X-O220-01"
         },
         {
             "name": "oompParts",
-            "value": "R5,RESE-0603-X-O21-01"
+            "value": "R5,RESE-0603-X-O220-01"
         },
         {
             "name": "oompParts",
@@ -162,11 +162,11 @@
         },
         {
             "name": "oompParts",
-            "value": "R7,RESE-0603-X-UNMATCHED-01"
+            "value": "R7,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",
-            "value": "R8,RESE-0603-X-UNMATCHED-01"
+            "value": "R8,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",
@@ -206,7 +206,7 @@
         },
         {
             "name": "oompParts",
-            "value": "X4,UNMATCHED-UNMATCHED-X-NF100-01"
+            "value": "X4,CAPX-UNMATCHED-X-NF100-01"
         },
         {
             "name": "oompParts",

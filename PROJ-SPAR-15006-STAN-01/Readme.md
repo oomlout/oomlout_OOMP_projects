@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS15006 > Sparkfun](#prs15006--sparkfun)
+* [PRS15006 > ESP32 LoRa 1Ch Gateway](#prs15006--esp32-lora-1ch-gateway)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15006 > Sparkfun
+# PRS15006 > ESP32 LoRa 1Ch Gateway
 
 - ID: PROJ-SPAR-15006-STAN-01
 - Hex ID: PRS15006
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15006-STAN-01/kicad/bom/ibom.html)
@@ -34,39 +38,38 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,0.1uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,0.1uF,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|C5,CAPC-0603-X-UF10-01,C5,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,,10uF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7ÃÂµF ceramic capacitors,CAP-08280,,4.7uF,|
-|C7,CAPC-0603-X-NF100-V50,C7,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,CAP-08604,,0.1uF,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,,RED,|
-|D2,LEDS-0603-G-STAN-01,D2,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,,BLUE,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,USB,USB_MICRO-B_HALF_PTH_MILL,USB-MICROB-PTH-MILL,USB Type Micro-B Connector,CONN-13711,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,U.FL,U.FL,U.FL,SMD Antenna Connector - U.FL,CONN-09193,WRL-09144,U.FL,|
-|LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,CONN_08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08438,,,|
-|R1,RESE-0603-X-O103-01,J5,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-11563,,,|
-|R2,RESE-0603-X-O102-01,J6,QWIIC,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,,|
-|R3,RESE-0603-X-O102-01,JP1,Ant Sel,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,|
-|R4,RESE-0603-X-O103-01,LOGO1,REVISION,REVISION,REVISION,Revision By Text,,,,|
-|R5,RESE-0603-X-O103-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,|
-|R6,RESE-0603-X-UNMATCHED-01,LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,|
-|R7,RESE-0603-X-O103-01,Q1,MBT3904DW1T1,TRANS_NPN_DUAL-MBT3904DW1T1,SC70-6,Dual NPN Transistors in Single Package,TRANS-13337,,,|
-|R8,RESE-0603-X-O103-01,R1,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
-|R9,RESE-0603-X-UNMATCHED-01,R2,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,1k,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,1k,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
-|U1,VREG-SO235-X-KAP2112K-V33D,R5,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2kÃÂ© resistor,RES-08272,,2.2k,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,RES-00824,,10k,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1-01|
+|C5 C5,CAPC-0603-X-UF10-01|
+|C6 C6,CAPC-0603-X-UF47D-01|
+|C7 C7,CAPC-0603-X-UF1D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,VREG-SO235-X-KAP2112K-V33D|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -88,13 +91,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15006
 - oompID: PROJ-SPAR-15006-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1-01
 - oompParts: C5,CAPC-0603-X-UF10-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
-- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-UF47D-01
+- oompParts: C7,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -104,17 +107,16 @@ Contents
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O103-01
-- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R6,RESE-0603-X-O222-01
 - oompParts: R7,RESE-0603-X-O103-01
 - oompParts: R8,RESE-0603-X-O103-01
-- oompParts: R9,RESE-0603-X-UNMATCHED-01
+- oompParts: R9,RESE-0603-X-O222-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,VREG-SO235-X-KAP2112K-V33D

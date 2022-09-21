@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4711 > Adafruit](#pra4711--adafruit)
+* [PRA4711 > Adafruit AP3429A PCB](#pra4711--adafruit-ap3429a-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4711 > Adafruit
+# PRA4711 > Adafruit AP3429A PCB
 
 - ID: PROJ-ADAF-4711-STAN-01
 - Hex ID: PRA4711
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4711-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF22-01,C1,22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF22-01,C2,22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF22-01,C3,22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-SO235-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI04-01,IC1,VREG_BUCK_5PIN_AP3429/A,VREG_BUCK_5PIN_AP3429/A,SOT23-5,,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|R1,RESE-0603-X-O1003-01,L1,SDER041H-2R2MS,INDUCTORNRH2412T,INDUCTOR_TAIYOYUDEN_NRH2412T,Inductors,,|
-|R2,RESE-0603-X-O4503-01,R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-O1003-01,R2,450K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF22-01|
+|C2 C2,CAPC-0805-X-UF22-01|
+|C3 C3,CAPC-0805-X-UF22-01|
+|IC1 IC1,UNMATCHED-SO235-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O4503-01|
+|R3 R3,RESE-0603-X-O1003-01|
 
 ## Images
   

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1465 > Adafruit](#pra1465--adafruit)
+* [PRA1465 > Adafruit ISP SWD and JTAG Breakout PCBs](#pra1465--adafruit-isp-swd-and-jtag-breakout-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1465 > Adafruit
+# PRA1465 > Adafruit ISP SWD and JTAG Breakout PCBs
 
 - ID: PROJ-ADAF-1465-STAN-01
 - Hex ID: PRA1465
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1465-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI05-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI05-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,HEADER-1X576MIL_FULL,1X05_ROUND_FULL_76,PIN HEADER,,|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

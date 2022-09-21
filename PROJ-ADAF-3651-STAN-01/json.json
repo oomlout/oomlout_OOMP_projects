@@ -66,7 +66,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C18,CAPC-0805-X-NF100-V50"
+            "value": "C18,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -78,15 +78,15 @@
         },
         {
             "name": "oompParts",
-            "value": "D2,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D2,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "D3,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D3,DIOD-S123-X-KMBR120-01"
         },
         {
             "name": "oompParts",
-            "value": "D4,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D4,DIOD-S123-X-KMBR120-01"
         },
         {
             "name": "oompParts",

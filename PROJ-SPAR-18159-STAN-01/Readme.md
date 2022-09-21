@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18159 > Sparkfun](#prs18159--sparkfun)
+* [PRS18159 > SparkFun Tsunami Super WAV Trigger Qwiic](#prs18159--sparkfun-tsunami-super-wav-trigger-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18159 > Sparkfun
+# PRS18159 > SparkFun Tsunami Super WAV Trigger Qwiic
 
 - ID: PROJ-SPAR-18159-STAN-01
 - Hex ID: PRS18159
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18159-STAN-01/kicad/bom/ibom.html)

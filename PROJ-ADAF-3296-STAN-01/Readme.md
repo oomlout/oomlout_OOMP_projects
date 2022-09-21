@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3296 > Adafruit](#pra3296--adafruit)
+* [PRA3296 > DS1307 breakout board](#pra3296--ds1307-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3296 > Adafruit
+# PRA3296 > DS1307 breakout board
 
 - ID: PROJ-ADAF-3296-STAN-01
 - Hex ID: PRA3296
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3296-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT,CR1220,CR1220THM,CR1220-THM,CR1216/CR1220/CR1225 12mm 3V lithium coin cell,,|
-|C1,CAPX-UNMATCHED-X-NF100-01,C1,0.1uF,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,|
-|IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC3,DS1307,DS1307,DIL08,DS1307,,|
-|JP2,HEAD-I01-X-PI05-01,JP2,,PINHD-1X5,1X05,PIN HEADER,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q1,32.768,CRYTALTC38H,TC38H,CRYSTAL,,|
-|R1,RESE-UNMATCHED-X-UNMATCHED-01,R1,2.2k,R-US_0207/10,0207/10,RESISTOR, American symbol,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,R2,2.2K,R-US_0207/10,0207/10,RESISTOR, American symbol,,|
+|BAT BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPX-UNMATCHED-X-UF1D-01|
+|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-O222-01|
+|R2 R2,RESE-UNMATCHED-X-O222-01|
 
 ## Images
   
@@ -63,12 +67,12 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/3296
 - oompID: PROJ-ADAF-3296-STAN-01
 - oompParts: BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
 - oompParts: IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI05-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: R2,RESE-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-UNMATCHED-X-O222-01
+- oompParts: R2,RESE-UNMATCHED-X-O222-01
 - rawParts: BAT,CR1220,CR1220THM,CR1220-THM,CR1216/CR1220/CR1225 12mm 3V lithium coin cell,,
 - rawParts: C1,0.1uF,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,
 - rawParts: IC3,DS1307,DS1307,DIL08,DS1307,,

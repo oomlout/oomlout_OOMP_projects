@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16784 > Sparkfun](#prs16784--sparkfun)
+* [PRS16784 > Qwiic Mux TCA9548A](#prs16784--qwiic-mux-tca9548a)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16784 > Sparkfun
+# PRS16784 > Qwiic Mux TCA9548A
 
 - ID: PROJ-SPAR-16784-STAN-01
 - Hex ID: PRS16784
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16784-STAN-01/kicad/bom/ibom.html)

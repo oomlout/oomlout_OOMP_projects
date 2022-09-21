@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13709 > Sparkfun](#prs13709--sparkfun)
+* [PRS13709 > MyoWare Proto Shield](#prs13709--myoware-proto-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13709 > Sparkfun
+# PRS13709 > MyoWare Proto Shield
 
 - ID: PROJ-SPAR-13709-STAN-01
 - Hex ID: PRS13709
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13709-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI03-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI03-01,JP1,Raw,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,|
-|JP3,HEAD-I01-X-PI08-01,JP2,Raw,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,|
-|JP4,HEAD-I01-X-PI08-01,JP3,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP5,HEAD-I01-X-PI08-01,JP4,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP6,HEAD-I01-X-PI08-01,JP5,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP7,HEAD-I01-X-PI08-01,JP6,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP8,HEAD-I01-X-PI08-01,JP7,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP9,HEAD-I01-X-PI08-01,JP8,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP10,HEAD-I01-X-PI08-01,JP9,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP11,HEAD-I01-X-PI08-01,JP10,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP12,HEAD-I01-X-PI08-01,JP11,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP13,HEAD-I01-X-PI08-01,JP12,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP14,HEAD-I01-X-PI08-01,JP13,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP15,HEAD-I01-X-PI08-01,JP14,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP16,HEAD-I01-X-PI08-01,JP15,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP17,HEAD-I01-X-PI08-01,JP16,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP18,HEAD-I01-X-PI03-01,JP17,,M08NO_SILK,1X08_NO_SILK,Header 8,,|
-|JP19,HEAD-I01-X-PI03-01,JP18,Power,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP5 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP6 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP7 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP8 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP9 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP10 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP11 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP12 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP13 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP14 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP15 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP16 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP17 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP18 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP19 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 
 ## Images
   

@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS16836 > Sparkfun](#prs16836--sparkfun)
+* [PRS16836 > SparkFun ProDriver TC78H670FTG](#prs16836--sparkfun-prodriver-tc78h670ftg)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16836 > Sparkfun
+# PRS16836 > SparkFun ProDriver TC78H670FTG
 
 - ID: PROJ-SPAR-16836-STAN-01
 - Hex ID: PRS16836
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

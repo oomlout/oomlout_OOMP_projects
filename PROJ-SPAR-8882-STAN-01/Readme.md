@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8882 > Sparkfun](#prs8882--sparkfun)
+* [PRS8882 > Hall-Effect Current Sensor Breakout-ACS712](#prs8882--hall-effect-current-sensor-breakout-acs712)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8882 > Sparkfun
+# PRS8882 > Hall-Effect Current Sensor Breakout-ACS712
 
 - ID: PROJ-SPAR-8882-STAN-01
 - Hex ID: PRS8882
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8882-STAN-01/kicad/bom/ibom.html)

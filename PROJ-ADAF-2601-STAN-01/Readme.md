@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA2601 > Adafruit](#pra2601--adafruit)
+* [PRA2601 > Adafruit RGB Matrix Shield PCB](#pra2601--adafruit-rgb-matrix-shield-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA2601 > Adafruit
+# PRA2601 > Adafruit RGB Matrix Shield PCB
 
 - ID: PROJ-ADAF-2601-STAN-01
 - Hex ID: PRA2601
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-2601-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI08-01,JP1,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,,,,|
-|JP2,HEAD-I01-X-PI08-01,JP2,,HEADER-1X876MIL,1X08_ROUND_76,PIN HEADER,,,,,|
-|JP3,HEAD-I01-X-PI08-01,JP3,,HEADER-1X876MIL,1X08_ROUND_76,PIN HEADER,,,,,|
-|JP4,HEAD-I01-X-PI08-01,JP4,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,,,,|
-|JP6,HEAD-I01-X-PI10-01,JP6,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,,,,|
-|JP8,HEAD-I01-X-PI06-01,JP8,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,,,,|
-|JP15,HEAD-I01-X-UNMATCHED-01,JP15,Shrouded 2x8,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,,,,|
-|MATRIX_PWR,UNMATCHED-UNMATCHED-X-UNMATCHED-01,MATRIX_PWR,PINHEAD,PINHEAD,TERMBLOCK508,,,,,,|
-|S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S4,6mm,10-XX,B3F-10XX,OMRON SWITCH,,B3F-1000,176432,36M3542,|
-|U$41,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,,,,|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP6 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[JP8 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP15 JP15,HEAD-I01-X-UNMATCHED-01|
+|MATRIX_PWR MATRIX_PWR,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S4 S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$41 U$41,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

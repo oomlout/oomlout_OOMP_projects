@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9111 > Sparkfun](#prs9111--sparkfun)
+* [PRS9111 > XBee Explorer Serial](#prs9111--xbee-explorer-serial)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9111 > Sparkfun
+# PRS9111 > XBee Explorer Serial
 
 - ID: PROJ-SPAR-9111-STAN-01
 - Hex ID: PRS9111
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9111-STAN-01/kicad/bom/ibom.html)

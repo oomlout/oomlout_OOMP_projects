@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3422 > Adafruit](#pra3422--adafruit)
+* [PRA3422 > Adafruit Arcade Bonnet PCB](#pra3422--adafruit-arcade-bonnet-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3422 > Adafruit
+# PRA3422 > Adafruit Arcade Bonnet PCB
 
 - ID: PROJ-ADAF-3422-STAN-01
 - Hex ID: PRA3422
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3422-STAN-01/kicad/bom/ibom.html)
@@ -34,36 +38,36 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B0,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B0,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|B2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B2,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|B3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B3,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|B4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B4,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|B5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B5,CON_JST_XH_2PIN-SM4,CON_JST_XH_2PIN-SM4,JST-XH-2-SM4,,,,,,,|
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|CONN1,HEAD-I01-X-PI25-01,CONN1,HEADER-1X25,HEADER-1X25,1X25_ROUND_70MIL,,,,,,,|
-|D1,LEDS-0805-G-STAN-01,D1,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,,,,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|JOY1,HEAD-I01-X-PI05-01,IC1,MCP23017ML,MCP23017ML,QFN28-ML_6X6MM,http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf,,MICROCHIP,MCP23017-E/SS,1467674,31K2960,|
-|JP1,HEAD-I01-X-PI04-01,IC2,LM339P,LM339P,TSSOP14,Low Power Low Offset Voltage Quad Comparators,,,,,,|
-|JP2,HEAD-I01-X-PI03-01,JOY1,,HEADER-1X5,1X05_OVAL,PIN HEADER,,,,,,|
-|JP3,HEAD-I01-X-PI03-01,JP1,,HEADER-1X4,1X04_OVAL,PIN HEADER,,,,,,|
-|JP4,HEAD-I01-X-PI02-01,JP2,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,,,,,|
-|JP6,HEAD-I01-X-PI02-01,JP3,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,,,,,|
-|JP7,HEAD-I01-X-PI02-01,JP4,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|JP8,HEAD-I01-X-PI02-01,JP6,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|JP9,HEAD-I01-X-PI02-01,JP7,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|JP10,HEAD-I01-X-PI02-01,JP8,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|R1,RESE-UNMATCHED-X-O103-01,JP9,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|R2,RESE-0805-X-O103-01,JP10,,HEADER-1X2,1X02_OVAL,PIN HEADER,,,,,,|
-|R3,RESE-0805-X-O103-01,R1,10K,RESISTOR0805_10MGAP,0805_10MGAP,Resistors,,,,,,|
-|R4,RESE-0603-X-O105-01,R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,,,,,|
-|R5,RESE-0603-X-O102-01,R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,,,,,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1M,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|SPKR,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RPI1,RASPBERRYPI_BPLUS_PHAT,RASPBERRYPI_BPLUS_PHAT,PI_BONNET,,,,,,,|
+|B0 B0,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|B2 B2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|B3 B3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|B4 B4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|B5 B5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CONN1 CONN1,HEAD-I01-X-PI25-01|
+|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JOY1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP9 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP10 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|R1 R1,RESE-UNMATCHED-X-O103-01|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SPKR SPKR,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -91,7 +95,7 @@ Contents
 - oompParts: B3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: B4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: B5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: CONN1,HEAD-I01-X-PI25-01
 - oompParts: D1,LEDS-0805-G-STAN-01

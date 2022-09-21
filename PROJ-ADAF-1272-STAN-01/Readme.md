@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1272 > Adafruit](#pra1272--adafruit)
+* [PRA1272 > Adafruit GPS Logger Shield PCB](#pra1272--adafruit-gps-logger-shield-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1272 > Adafruit
+# PRA1272 > Adafruit GPS Logger Shield PCB
 
 - ID: PROJ-ADAF-1272-STAN-01
 - Hex ID: PRA1272
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1272-STAN-01/kicad/bom/ibom.html)
@@ -34,31 +38,31 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,CR1220,BATTERYCR1220_SMT,CR1220,,,|
-|C1,CAPC-UNMATCHED-X-NF100-01,C1,0.1uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,|
-|C2,CAPC-UNMATCHED-X-UF10-01,C2,10uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,|
-|C3,CAPC-UNMATCHED-X-UF10-01,C3,10uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,|
-|CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN2,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,|
-|FB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FB1,Ferrite,FERRITE0805,0805@1,Ferrite Bead,,|
-|JP1,HEAD-I01-X-PI08-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP4,HEAD-I01-X-PI08-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP6,HEAD-I01-X-PI06-01,JP1,D0-D7,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|JP9,HEAD-I01-X-PI06-01,JP4,D0-D7,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,|
-|LED1,LEDS-0805-G-STAN-01,JP6,,PINHD-1X6B,1X06-BIG,PIN HEADER,,|
-|LED4,LEDS-0805-G-STAN-01,JP9,,PINHD-1X6B,1X06-BIG,PIN HEADER,,|
-|LED5,LEDS-0805-G-STAN-01,LED1,red,LED0805,CHIPLED_0805,LED,,|
-|R1,RESE-0805-X-O102-01,LED4,yellow,LED0805,CHIPLED_0805,LED,,|
-|R5,RESE-0805-X-O103-01,LED5,green,LED0805,CHIPLED_0805,LED,,|
-|R9,RESE-0805-X-O102-01,R1,1K,RESISTOR0805,0805,Resistors,,|
-|R10,RESE-0805-X-O102-01,R5,10K,RESISTOR0805,0805,Resistors,,|
-|RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,1k,RESISTOR0805,0805,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R10,1k,RESISTOR0805,0805,Resistors,,|
-|U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RESET,Reset,SPST_TACT-EVQQ2,EVQ-Q2,SMT 6mm switch, EVQQ2 series,,|
-|U$20,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,,DPDT-EG1390,EG1390,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$9,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,U$20,U.FL,U.FL,U.FL,U.FL Antenna Connector,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U1,FGPMMOPA6H,GPS_FGPMMOPA6H,FGPMMOPA6H,GPS Module - MTK MT3339 Chipset, -165dBm sensitivity, 22 channels, 10Hz, auto-select external antenna options,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U2,MIC5225-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-UNMATCHED-X-UF1D-01|
+|C2 C2,CAPC-UNMATCHED-X-UF10-01|
+|C3 C3,CAPC-UNMATCHED-X-UF10-01|
+|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|FB1 FB1,FERB-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP6 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP9 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED5 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R10 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|RESET RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$9 U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$20 U$20,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -81,11 +85,11 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1272
 - oompID: PROJ-ADAF-1272-STAN-01
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C1,CAPC-UNMATCHED-X-UF1D-01
 - oompParts: C2,CAPC-UNMATCHED-X-UF10-01
 - oompParts: C3,CAPC-UNMATCHED-X-UF10-01
 - oompParts: CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: FB1,FERB-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP4,HEAD-I01-X-PI08-01
 - oompParts: JP6,HEAD-I01-X-PI06-01

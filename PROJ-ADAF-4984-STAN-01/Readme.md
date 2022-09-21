@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4984 > Adafruit](#pra4984--adafruit)
+* [PRA4984 > Adafruit DVI Breakout Board PCB](#pra4984--adafruit-dvi-breakout-board-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4984 > Adafruit
+# PRA4984 > Adafruit DVI Breakout Board PCB
 
 - ID: PROJ-ADAF-4984-STAN-01
 - Hex ID: PRA4984
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4984-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI11-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-UNMATCHED-X-O103-01,JP1,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,|
-|R2,RESE-UNMATCHED-X-O221-01,JP3,,HEADER-1X11,1X11_ROUND,,,|
-|R5,RESE-UNMATCHED-X-O221-01,R1,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R2,220,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,220,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|JP3 JP3,HEAD-I01-X-PI11-01|
+|R1 R1,RESA-06038-X-O103X4-01|
+|R2 R2,RESA-06038-X-O221X4-01|
+|R5 R5,RESA-06038-X-O221X4-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,9 +70,9 @@ Contents
 - oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: JP3,HEAD-I01-X-PI11-01
-- oompParts: R1,RESE-UNMATCHED-X-O103-01
-- oompParts: R2,RESE-UNMATCHED-X-O221-01
-- oompParts: R5,RESE-UNMATCHED-X-O221-01
+- oompParts: R1,RESA-06038-X-O103X4-01
+- oompParts: R2,RESA-06038-X-O221X4-01
+- oompParts: R5,RESA-06038-X-O221X4-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,

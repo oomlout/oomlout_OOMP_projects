@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9695 > Sparkfun](#prs9695--sparkfun)
+* [PRS9695 > MPR121 Capacitive Touch Breakout](#prs9695--mpr121-capacitive-touch-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9695 > Sparkfun
+# PRS9695 > MPR121 Capacitive Touch Breakout
 
 - ID: PROJ-SPAR-9695-STAN-01
 - Hex ID: PRS9695
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9695-STAN-01/kicad/bom/ibom.html)

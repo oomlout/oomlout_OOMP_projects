@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16833 > Sparkfun](#prs16833--sparkfun)
+* [PRS16833 > Qwiic Quad Solid State Relay](#prs16833--qwiic-quad-solid-state-relay)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16833 > Sparkfun
+# PRS16833 > Qwiic Quad Solid State Relay
 
 - ID: PROJ-SPAR-16833-STAN-01
 - Hex ID: PRS16833
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16833-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11509 > Sparkfun](#prs11509--sparkfun)
+* [PRS11509 > Papilio Button LED Wing](#prs11509--papilio-button-led-wing)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11509 > Sparkfun
+# PRS11509 > Papilio Button LED Wing
 
 - ID: PROJ-SPAR-11509-STAN-01
 - Hex ID: PRS11509
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11509-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI04-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI08-01,JP1,,M04PTH,1X04,Header 4,,|
-|LED1,LEDS-0603-G-STAN-01,JP2,,M081X08,1X08,Header 8,,|
-|LED2,LEDS-0603-G-STAN-01,JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|LED3,LEDS-0603-G-STAN-01,JP4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|LED4,LEDS-0603-G-STAN-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R1,RESE-0402-X-O221-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O221-01,LED1,Red,LED0603,LED-0603,LEDs,,|
-|R3,RESE-0402-X-O221-01,LED2,Yellow,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0402-X-O221-01,LED3,Green,LED0603,LED-0603,LEDs,,|
-|R5,RESE-0402-X-O103-01,LED4,Blue,LED0603,LED-0603,LEDs,,|
-|R6,RESE-0402-X-O103-01,R1,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-O103-01,R2,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-O103-01,R3,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,220,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0402-X-O221-01|
+|R2 R2,RESE-0402-X-O221-01|
+|R3 R3,RESE-0402-X-O221-01|
+|R4 R4,RESE-0402-X-O221-01|
+|[R5 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R7 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R8 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S3 S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S4 S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

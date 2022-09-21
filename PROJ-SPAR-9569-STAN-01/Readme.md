@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9569 > Sparkfun](#prs9569--sparkfun)
+* [PRS9569 > Humidity Sensor Breakout-HIH-4030](#prs9569--humidity-sensor-breakout-hih-4030)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9569 > Sparkfun
+# PRS9569 > Humidity Sensor Breakout-HIH-4030
 
 - ID: PROJ-SPAR-9569-STAN-01
 - Hex ID: PRS9569
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9569-STAN-01/kicad/bom/ibom.html)

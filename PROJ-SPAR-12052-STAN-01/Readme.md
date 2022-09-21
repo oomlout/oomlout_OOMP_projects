@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12052 > Sparkfun](#prs12052--sparkfun)
+* [PRS12052 > LTC4150 Coulomb Counter BOB](#prs12052--ltc4150-coulomb-counter-bob)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12052 > Sparkfun
+# PRS12052 > LTC4150 Coulomb Counter BOB
 
 - ID: PROJ-SPAR-12052-STAN-01
 - Hex ID: PRS12052
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12052-STAN-01/kicad/bom/ibom.html)
@@ -34,22 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,4.7uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,4.7uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP3,HEAD-I01-X-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP4,HEAD-I01-X-PI06-01,JP1,JST,M02-JST-2MM-SMT,JST-2-SMD,Standard 2-pin 0.1 header. Use with,CONN-08352,|
-|R1,RESE-1206-X-UNMATCHED-01,JP2,IN,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,JP3,OUT,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,|
-|R3,RESE-0603-X-O753-01,JP4,,M06SIP,1X06,Header 6,,|
-|R4,RESE-0603-X-O473-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
-|R5,RESE-0603-X-UNMATCHED-01,LOGO2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|R6,RESE-0603-X-O753-01,LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R7,RESE-0603-X-UNMATCHED-01,R1,0.05,RESISTOR1206,1206,Resistor,,|
-|R8,RESE-0603-X-O473-01,R2,DNP,RESISTORAXIAL-0.3,AXIAL-0.3,Resistor,,|
-|R9,RESE-0603-X-UNMATCHED-01,R3,75K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,47K,RESISTOR0603-RES,0603-RES,Resistor,,|
+|C1 C1,CAPC-0603-X-UF47D-01|
+|C2 C2,CAPC-0603-X-UF47D-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|R1 R1,RESE-1206-X-UNMATCHED-01|
+|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
+|R3 R3,RESE-0603-X-O753-01|
+|[R4 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|R6 R6,RESE-0603-X-O753-01|
+|R7 R7,RESE-0603-X-UNMATCHED-01|
+|[R8 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|R9 R9,RESE-0603-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,8 +75,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12052
 - oompID: PROJ-SPAR-12052-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF47D-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
 - oompParts: JP3,HEAD-I01-X-PI02-01

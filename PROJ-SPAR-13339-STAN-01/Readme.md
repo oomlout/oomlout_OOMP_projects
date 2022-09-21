@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13339 > Sparkfun](#prs13339--sparkfun)
+* [PRS13339 > LSM6DS3 Breakout](#prs13339--lsm6ds3-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13339 > Sparkfun
+# PRS13339 > LSM6DS3 Breakout
 
 - ID: PROJ-SPAR-13339-STAN-01
 - Hex ID: PRS13339
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13339-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-100V-10%(0603),0603-CAP,CAP-08390,,CAP-08390,0.1uF,,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-100V-10%(0603),0603-CAP,CAP-08390,,CAP-08390,0.1uF,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP1,HEAD-I01-X-PI06-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,HEAD-I01-X-PI01-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Marshall Taylor,,,v10,|
-|JP3,HEAD-I01-X-PI05-01,JP1,IO,M06NO_SILK_YES_STOP,1X06_NO_SILK_YES_STOP,Header 6,,,,,|
-|JP11,HEAD-I01-X-PI01-01,JP2,3.3V,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,IO,M05PTH,1X05,Header 5,,,,,|
-|R1,RESE-0603-X-O472-01,JP11,GND,M01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Header 1,,,,,|
-|R2,RESE-0603-X-O472-01,L1,RES-07859,INDUCTOR30OHM,1.8A,0603,Inductors,,RES-07859,,,|
-|R3,RESE-0603-X-O103-01,LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|[JP3 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|JP11 JP11,HEAD-I01-X-PI01-01|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,8 +71,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LSM6DS3_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13339
 - oompID: PROJ-SPAR-13339-STAN-01
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP2,HEAD-I01-X-PI01-01

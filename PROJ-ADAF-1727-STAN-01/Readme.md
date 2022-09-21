@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1727 > Adafruit](#pra1727--adafruit)
+* [PRA1727 > Adafruit MAX31850 thermocouple breakout board](#pra1727--adafruit-max31850-thermocouple-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1727 > Adafruit
+# PRA1727 > Adafruit MAX31850 thermocouple breakout board
 
 - ID: PROJ-ADAF-1727-STAN-01
 - Hex ID: PRA1727
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1727-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,Ferrite,FERRITE0805,0805,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,Ferrite,FERRITE0805,0805,Ferrite Bead,,|
-|JP1,HEAD-I01-X-PI08-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U2,VREG-SO235-X-KMIC5225-V33D,JP1,Breakout,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_2WAY,SOLDERJUMPER_2WAY_OPEN_NOPASTE,2-Way Solder Jumper,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,9 +70,9 @@ Contents
 - oompID: PROJ-ADAF-1727-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-NF100-V50
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KMIC5225-V33D

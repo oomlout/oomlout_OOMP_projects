@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9721 > Sparkfun](#prs9721--sparkfun)
+* [PRS9721 > Barometric Pressure Sensor Breakout-MPL115A1](#prs9721--barometric-pressure-sensor-breakout-mpl115a1)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9721 > Sparkfun
+# PRS9721 > Barometric Pressure Sensor Breakout-MPL115A1
 
 - ID: PROJ-SPAR-9721-STAN-01
 - Hex ID: PRS9721
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9721-STAN-01/kicad/bom/ibom.html)

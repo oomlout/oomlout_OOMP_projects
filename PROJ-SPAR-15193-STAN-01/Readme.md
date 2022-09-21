@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15193 > Sparkfun](#prs15193--sparkfun)
+* [PRS15193 > SparkFun u-blox ZOE-M8Q](#prs15193--sparkfun-u-blox-zoe-m8q)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15193 > Sparkfun
+# PRS15193 > SparkFun u-blox ZOE-M8Q
 
 - ID: PROJ-SPAR-15193-STAN-01
 - Hex ID: PRS15193
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15193-STAN-01/kicad/bom/ibom.html)

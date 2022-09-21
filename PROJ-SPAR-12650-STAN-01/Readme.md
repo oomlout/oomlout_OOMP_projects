@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12650 > Sparkfun](#prs12650--sparkfun)
+* [PRS12650 > AD8232 Heart Rate Monitor](#prs12650--ad8232-heart-rate-monitor)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12650 > Sparkfun
+# PRS12650 > AD8232 Heart Rate Monitor
 
 - ID: PROJ-SPAR-12650-STAN-01
 - Hex ID: PRS12650
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12650-STAN-01/kicad/bom/ibom.html)
@@ -34,38 +38,38 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.5nF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1nF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,10nF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C4,CAPC-0805-X-NF330-01,C4,0.33uF,CAP0805,0805,Capacitor,,,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|C6,CAPC-0805-X-NF330-01,C6,0.33uF,CAP0805,0805,Capacitor,,,|
-|C7,CAPC-0603-X-NF100-V50,C7,0.1uf,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|D1,LEDS-0603-G-STAN-01,D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|JP1,HEAD-I01-X-PI03-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI06-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R1,RESE-0603-X-O106-01,JP1,,M03PTH,1X03,Header 3,,,|
-|R2,RESE-0603-X-O106-01,JP2,,AUDIO-JACKSMD2,AUDIO-JACK-3.5MM-SMD,3.5mm Audio Jack,CONN-10353,,|
-|R3,RESE-0603-X-O1803-01,JP3,,M06SIP,1X06,Header 6,,,|
-|R4,RESE-0603-X-O1803-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0603-X-O3603-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|R6,RESE-0603-X-O105-01,R1,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R7,RESE-0603-X-O105-01,R2,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R8,RESE-0603-X-O1003-01,R3,180k,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R9,RESE-0603-X-O105-01,R4,180k,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R10,RESE-0603-X-O106-01,R5,360k,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R11,RESE-0603-X-O106-01,R6,1M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R12,RESE-0603-X-UNMATCHED-01,R7,1M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R13,RESE-0603-X-O106-01,R8,100k,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R14,RESE-0603-X-O106-01,R9,1M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R15,RESE-0603-X-O103-01,R10,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R16,RESE-0603-X-O102-01,R11,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R17,RESE-0603-X-UNMATCHED-01,R12,1.4M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R18,RESE-0603-X-UNMATCHED-01,R13,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R19,RESE-0603-X-UNMATCHED-01,R14,10M,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R20,RESE-0603-X-UNMATCHED-01,R15,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,1k,1K-1%,0603-RES,1k-ohm SMT,RES-07856,1k,|
+|C1 C1,CAPC-0603-X-PF15D-01|
+|C2 C2,CAPC-0603-X-NF1-01|
+|C3 C3,CAPC-0603-X-NF10-01|
+|C4 C4,CAPC-0805-X-NF330-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|C6 C6,CAPC-0805-X-NF330-01|
+|C7 C7,CAPC-0603-X-UF1D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[R1 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|[R2 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|R3 R3,RESE-0603-X-O1803-01|
+|R4 R4,RESE-0603-X-O1803-01|
+|R5 R5,RESE-0603-X-O3603-01|
+|[R6 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[R7 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|R8 R8,RESE-0603-X-O1003-01|
+|[R9 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[R10 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|[R11 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|R12 R12,RESE-0603-X-UNMATCHED-01|
+|[R13 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|[R14 RESE-0603-X-O106-01 SMD (0603) 10M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O106-01/)|
+|[R15 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R16 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R17 R17,RESE-0603-X-UNMATCHED-01|
+|R18 R18,RESE-0603-X-UNMATCHED-01|
+|R19 R19,RESE-0603-X-UNMATCHED-01|
+|R20 R20,RESE-0603-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -87,13 +91,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/AD8232_Heart_Rate_Monitor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12650
 - oompID: PROJ-SPAR-12650-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-PF15D-01
+- oompParts: C2,CAPC-0603-X-NF1-01
+- oompParts: C3,CAPC-0603-X-NF10-01
 - oompParts: C4,CAPC-0805-X-NF330-01
-- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: C6,CAPC-0805-X-NF330-01
-- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

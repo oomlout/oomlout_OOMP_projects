@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13005 > Sparkfun](#prs13005--sparkfun)
+* [PRS13005 > TRS Jack Breakout](#prs13005--trs-jack-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13005 > Sparkfun
+# PRS13005 > TRS Jack Breakout
 
 - ID: PROJ-SPAR-13005-STAN-01
 - Hex ID: PRS13005
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13005-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI01-01,JP1,AUDIO-JACK4-.25-HORIZ-TRS,AUDIO-JACK4-.25-HORIZ-TRS,AUDIO-JACK-.25-INCH-HORIZ-PTH,1/4 TRS jack, horizontal,COM-11144,|
-|JP3,HEAD-I01-X-PI06-01,JP2,M01SMDNS,M01SMDNS,1X01NS,Header 1,,|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 
 ## Images
   

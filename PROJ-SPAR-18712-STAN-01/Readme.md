@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18712 > Sparkfun](#prs18712--sparkfun)
+* [PRS18712 > SparkFun Artemis Global Tracker](#prs18712--sparkfun-artemis-global-tracker)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18712 > Sparkfun
+# PRS18712 > SparkFun Artemis Global Tracker
 
 - ID: PROJ-SPAR-18712-STAN-01
 - Hex ID: PRS18712
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18712-STAN-01/kicad/bom/ibom.html)

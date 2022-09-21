@@ -42,22 +42,6 @@
         },
         {
             "name": "oompParts",
-            "value": "3V3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B0,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "B2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "C1,CAPC-0805-X-UF10-V10"
         },
         {
@@ -78,15 +62,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D1,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "D2,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "D2,DIOD-S123-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -94,7 +74,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
@@ -127,10 +107,6 @@
         {
             "name": "oompParts",
             "value": "U1,VREG-SO235-X-KAP2112K-V33D"
-        },
-        {
-            "name": "oompParts",
-            "value": "VBAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

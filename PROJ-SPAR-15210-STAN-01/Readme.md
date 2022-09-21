@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15210 > Sparkfun](#prs15210--sparkfun)
+* [PRS15210 > SparkFun u-blox SAM-M8Q](#prs15210--sparkfun-u-blox-sam-m8q)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15210 > Sparkfun
+# PRS15210 > SparkFun u-blox SAM-M8Q
 
 - ID: PROJ-SPAR-15210-STAN-01
 - Hex ID: PRS15210
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15210-STAN-01/kicad/bom/ibom.html)

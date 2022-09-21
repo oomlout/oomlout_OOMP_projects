@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16474 > Sparkfun](#prs16474--sparkfun)
+* [PRS16474 > SparkFun Photodetector Breakout MAX30101 Qwiic](#prs16474--sparkfun-photodetector-breakout-max30101-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16474 > Sparkfun
+# PRS16474 > SparkFun Photodetector Breakout MAX30101 Qwiic
 
 - ID: PROJ-SPAR-16474-STAN-01
 - Hex ID: PRS16474
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16474-STAN-01/kicad/bom/ibom.html)

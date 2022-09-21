@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15289 > Sparkfun](#prs15289--sparkfun)
+* [PRS15289 > gator microphone](#prs15289--gator-microphone)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15289 > Sparkfun
+# PRS15289 > gator microphone
 
 - ID: PROJ-SPAR-15289-STAN-01
 - Hex ID: PRS15289
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15289-STAN-01/kicad/bom/ibom.html)

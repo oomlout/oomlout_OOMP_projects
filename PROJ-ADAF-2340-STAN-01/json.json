@@ -50,63 +50,15 @@
         },
         {
             "name": "oompParts",
-            "value": "AL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL10,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL11,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "AL12,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "C1,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-NF100-V50"
+            "value": "C3,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0805-X-NF100-V50"
+            "value": "C4,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -170,15 +122,15 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-0805-X-UNMATCHED-01"
+            "value": "R1,RESE-0805-X-O392-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,RESE-0805-X-UNMATCHED-01"
+            "value": "R2,RESE-0805-X-O392-01"
         },
         {
             "name": "oompParts",
-            "value": "R3,RESE-0805-X-UNMATCHED-01"
+            "value": "R3,RESE-0805-X-O392-01"
         },
         {
             "name": "oompParts",

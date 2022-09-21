@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13032 > Sparkfun](#prs13032--sparkfun)
+* [PRS13032 > Breadboard Power Supply Stick 5V-3.3V](#prs13032--breadboard-power-supply-stick-5v-33v)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13032 > Sparkfun
+# PRS13032 > Breadboard Power Supply Stick 5V-3.3V
 
 - ID: PROJ-SPAR-13032-STAN-01
 - Hex ID: PRS13032
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13032-STAN-01/kicad/bom/ibom.html)
@@ -34,29 +38,29 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF100-01,C1,100uF,CAP_POL7343,EIA7343,Capacitor Polarized,,,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,1N4001,DIODESMA-TYLERALT1,SMA-DIODE-TYLERALT1,Diode,,,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,PTCSMD-W,PTCSMD-W,PTC-1206-WIDE,Resettable Fuse PTC,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP1,HEAD-I01-X-PI01-01,J1,POWER_JACKSMD,POWER_JACKSMD,POWER_JACK_SMD,Power Jack,CONN-08106,5.5x2.1mm Barrel,|
-|JP2,HEAD-I01-X-PI01-01,JP1,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP3,HEAD-I01-X-PI01-01,JP2,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP4,HEAD-I01-X-PI01-01,JP3,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP5,HEAD-I01-X-PI02-01,JP4,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP6,HEAD-I01-X-PI01-01,JP5,,M02PTH,1X02,Header 2,,,|
-|JP7,HEAD-I01-X-PI01-01,JP6,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP8,HEAD-I01-X-PI01-01,JP7,M01PTH,M01PTH,1X01,Header 1,,,|
-|JP9,HEAD-I01-X-PI01-01,JP8,M01PTH,M01PTH,1X01,Header 1,,,|
-|LED2,LEDS-1206-G-STAN-01,JP9,M01PTH,M01PTH,1X01,Header 1,,,|
-|R1,RESE-0603-X-O241-01,LED2,Power,LED1206,LED-1206,,,,|
-|R2,RESE-0603-X-O391-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R3,RESE-0603-X-O331-01,R1,240,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R4,RESE-0603-X-O331-01,R2,390,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,330,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,330,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S1,On/Off,AYZ0202,AYZ0202,SPDT Slide Switch,,,|
+|C1 C1,CAPX-UNMATCHED-X-UF100-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,HEAD-I01-X-PI01-01|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|JP3 JP3,HEAD-I01-X-PI01-01|
+|JP4 JP4,HEAD-I01-X-PI01-01|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP6 JP6,HEAD-I01-X-PI01-01|
+|JP7 JP7,HEAD-I01-X-PI01-01|
+|JP8 JP8,HEAD-I01-X-PI01-01|
+|JP9 JP9,HEAD-I01-X-PI01-01|
+|LED2 LED2,LEDS-1206-G-STAN-01|
+|[R1 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|[R2 RESE-0603-X-O391-01 SMD (0603) 390 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|
+|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R4 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,7 +84,7 @@ Contents
 - oompID: PROJ-SPAR-13032-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF100-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

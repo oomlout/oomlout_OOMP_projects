@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16988 > Sparkfun](#prs16988--sparkfun)
+* [PRS16988 > QwiicBus EndPoint](#prs16988--qwiicbus-endpoint)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16988 > Sparkfun
+# PRS16988 > QwiicBus EndPoint
 
 - ID: PROJ-SPAR-16988-STAN-01
 - Hex ID: PRS16988
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16988-STAN-01/kicad/bom/ibom.html)

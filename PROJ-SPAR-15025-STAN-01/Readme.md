@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15025 > Sparkfun](#prs15025--sparkfun)
+* [PRS15025 > nRF52840 Breakout MDBT50Q](#prs15025--nrf52840-breakout-mdbt50q)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15025 > Sparkfun
+# PRS15025 > nRF52840 Breakout MDBT50Q
 
 - ID: PROJ-SPAR-15025-STAN-01
 - Hex ID: PRS15025
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15025-STAN-01/kicad/bom/ibom.html)

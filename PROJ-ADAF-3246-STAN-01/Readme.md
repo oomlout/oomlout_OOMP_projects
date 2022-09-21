@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3246 > Adafruit](#pra3246--adafruit)
+* [PRA3246 > Adafruit Mini Analog Thumbstick Breakout PCB](#pra3246--adafruit-mini-analog-thumbstick-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3246 > Adafruit
+# PRA3246 > Adafruit Mini Analog Thumbstick Breakout PCB
 
 - ID: PROJ-ADAF-3246-STAN-01
 - Hex ID: PRA3246
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3246-STAN-01/kicad/bom/ibom.html)
@@ -34,9 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JOY1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JOY1,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_MINITHM,,,|
-|JP1,HEAD-I01-X-PI04-01,JP1,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI04-01,JP2,,HEADER-1X476MIL,1X04_ROUND_76,PIN HEADER,,|
+|JOY1 JOY1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 
 ## Images
   

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10617 > Sparkfun](#prs10617--sparkfun)
+* [PRS10617 > Lipo Fuel Gauge](#prs10617--lipo-fuel-gauge)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10617 > Sparkfun
+# PRS10617 > Lipo Fuel Gauge
 
 - ID: PROJ-SPAR-10617-STAN-01
 - Hex ID: PRS10617
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10617-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UF1-01,C1,1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,10nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,input,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,|
-|JP2,HEAD-I01-X-PI03-01,JP2,,M03PTH,1X03,Header 3,,|
-|JP4,HEAD-I01-X-PI03-01,JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|JP5,HEAD-I01-X-PI02-01,JP4,,M03PTH,1X03,Header 3,,|
-|R1,RESE-0402-X-O102-01,JP5,,M02PTH,1X02,Header 2,,|
-|R2,RESE-0402-X-O181-01,JP6,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|R3,RESE-0402-X-UNMATCHED-01,JP7,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|R4,RESE-0402-X-UNMATCHED-01,R1,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R5,RESE-0402-X-UNMATCHED-01,R2,180,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R6,RESE-0402-X-UNMATCHED-01,R3,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF1-01|
+|C2 C2,CAPC-0402-X-NF10-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R2 RESE-0402-X-O181-01 SMD (0402) 180 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O181-01/)|
+|[R3 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R4 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R5 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R6 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,17 +73,17 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10617
 - oompID: PROJ-SPAR-10617-STAN-01
 - oompParts: C1,CAPC-0402-X-UF1-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C2,CAPC-0402-X-NF10-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
 - oompParts: JP4,HEAD-I01-X-PI03-01
 - oompParts: JP5,HEAD-I01-X-PI02-01
 - oompParts: R1,RESE-0402-X-O102-01
 - oompParts: R2,RESE-0402-X-O181-01
-- oompParts: R3,RESE-0402-X-UNMATCHED-01
-- oompParts: R4,RESE-0402-X-UNMATCHED-01
-- oompParts: R5,RESE-0402-X-UNMATCHED-01
-- oompParts: R6,RESE-0402-X-UNMATCHED-01
+- oompParts: R3,RESE-0402-X-O472-01
+- oompParts: R4,RESE-0402-X-O472-01
+- oompParts: R5,RESE-0402-X-O472-01
+- oompParts: R6,RESE-0402-X-O472-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,10nF,CAP0402-CAP,0402-CAP,Capacitor,,

@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9966 > Sparkfun](#prs9966--sparkfun)
+* [PRS9966 > USB miniB Breakout](#prs9966--usb-minib-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9966 > Sparkfun
+# PRS9966 > USB miniB Breakout
 
 - ID: PROJ-SPAR-9966-STAN-01
 - Hex ID: PRS9966
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

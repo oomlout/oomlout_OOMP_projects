@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3263 > Adafruit](#pra3263--adafruit)
+* [PRA3263 > Adafruit MAX31856 PCB](#pra3263--adafruit-max31856-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3263 > Adafruit
+# PRA3263 > Adafruit MAX31856 PCB
 
 - ID: PROJ-ADAF-3263-STAN-01
 - Hex ID: PRA3263
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3263-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-UNMATCHED-X-UNMATCHED-01,C1,0.01uF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-NF100-V50,C4,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-NF100-V50,C5,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UF10-V10,C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UF10-V10,C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|D2,DIOD-S323-X-K4148-01,D2,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|D3,DIOD-S323-X-K4148-01,D3,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|JP1,HEAD-I01-X-PI09-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R1,RESE-0805-X-O101-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R2,RESE-0805-X-O101-01,JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|R3,RESE-0805-X-O103-01,R1,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R4,RESE-0805-X-O103-01,R2,100,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R5,RESE-0805-X-O103-01,R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R4,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$13,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
+|C1 C1,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UNMATCHED-01|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|C5 C5,CAPC-0805-X-UF1D-01|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D3 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[R1 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R2 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-SO235-X-KMIC5225-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,10 +79,10 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/3263
 - oompID: PROJ-ADAF-3263-STAN-01
 - oompParts: C1,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-NF100-V50
-- oompParts: C5,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C5,CAPC-0805-X-UF1D-01
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF10-V10
 - oompParts: D1,DIOD-S323-X-K4148-01
@@ -90,7 +94,7 @@ Contents
 - oompParts: R3,RESE-0805-X-O103-01
 - oompParts: R4,RESE-0805-X-O103-01
 - oompParts: R5,RESE-0805-X-O103-01
-- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-SO235-X-KMIC5225-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.01uF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,

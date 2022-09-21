@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS7841 > Sparkfun](#prs7841--sparkfun)
+* [PRS7841 > FT245RL Breakout](#prs7841--ft245rl-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS7841 > Sparkfun
+# PRS7841 > FT245RL Breakout
 
 - ID: PROJ-SPAR-7841-STAN-01
 - Hex ID: PRS7841
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-7841-STAN-01/kicad/bom/ibom.html)

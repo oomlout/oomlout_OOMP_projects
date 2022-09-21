@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS11812 > Sparkfun](#prs11812--sparkfun)
+* [PRS11812 > XBee Explorer USB](#prs11812--xbee-explorer-usb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11812 > Sparkfun
+# PRS11812 > XBee Explorer USB
 
 - ID: PROJ-SPAR-11812-STAN-01
 - Hex ID: PRS11812
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11812-STAN-01/kicad/bom/ibom.html)

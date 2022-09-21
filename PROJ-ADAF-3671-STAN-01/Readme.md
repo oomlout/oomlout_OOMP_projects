@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3671 > Adafruit](#pra3671--adafruit)
+* [PRA3671 > Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi](#pra3671--adafruit-csi-or-dsi-cable-extender-thingy-for-raspberry-pi)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3671 > Adafruit
+# PRA3671 > Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi
 
 - ID: PROJ-ADAF-3671-STAN-01
 - Hex ID: PRA3671
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3671-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
+|JP1 JP1,HEAD-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,HEAD-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

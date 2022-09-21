@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA326 > Adafruit](#pra326--adafruit)
+* [PRA326 > Adafruit 128x64 Monochrome OLED PCB](#pra326--adafruit-128x64-monochrome-oled-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA326 > Adafruit
+# PRA326 > Adafruit 128x64 Monochrome OLED PCB
 
 - ID: PROJ-ADAF-326-STAN-01
 - Hex ID: PRA326
@@ -24,25 +25,28 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,|
-|C1,CAPC-0805-X-UF1-01,C1,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-UF1-01,C2,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C4,CAPC-0805-X-UF1-01,C4,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C5,CAPC-0805-X-NF100-V50,C5,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C7,CAPC-0805-X-NF100-V50,C7,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|P0\,UNMATCHED-UNMATCHED-X-UNMATCHED-01,P0\,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,|
-|R1,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-O103-01,R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R4,RESE-0805-X-O3903-01,R4,390K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,UG-2864HSWEG01,UG-2864HSWEG01,1X30-0.7MM,UG-2864HSWEG01 OLED display,,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0805-X-UF1-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|C3 C3,CAPC-0805-X-UF22D-01|
+|C4 C4,CAPC-0805-X-UF1-01|
+|C5 C5,CAPC-0805-X-UF1D-01|
+|C6 C6,CAPC-0805-X-UF22D-01|
+|C7 C7,CAPC-0805-X-UF1D-01|
+|P0\ P0\,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R4 R4,RESE-0805-X-O3903-01|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -67,11 +71,11 @@ Contents
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0805-X-UF1-01
 - oompParts: C2,CAPC-0805-X-UF1-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0805-X-UF22D-01
 - oompParts: C4,CAPC-0805-X-UF1-01
-- oompParts: C5,CAPC-0805-X-NF100-V50
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
-- oompParts: C7,CAPC-0805-X-NF100-V50
+- oompParts: C5,CAPC-0805-X-UF1D-01
+- oompParts: C6,CAPC-0805-X-UF22D-01
+- oompParts: C7,CAPC-0805-X-UF1D-01
 - oompParts: P0\,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01

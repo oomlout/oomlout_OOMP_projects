@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1712 > Adafruit](#pra1712--adafruit)
+* [PRA1712 > Adafruit TPA2016 PCB](#pra1712--adafruit-tpa2016-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1712 > Adafruit
+# PRA1712 > Adafruit TPA2016 PCB
 
 - ID: PROJ-ADAF-1712-STAN-01
 - Hex ID: PRA1712
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1712-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,0.1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,0.1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,0.1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UNMATCHED-01,C7,1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UNMATCHED-01,C8,1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C9,CAPC-0805-X-UNMATCHED-01,C9,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,ferrite,FERRITE_0805MP,_0805MP,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,ferrite,FERRITE_0805MP,_0805MP,Ferrite Bead,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI10-01,IC1,TPA2016D2QFN,TPA2016D2QFN,QFN20_4MM,,,|
-|R1,RESE-0805-X-O103-01,J1,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,|
-|R2,RESE-0805-X-O103-01,J2,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,|
-|R3,RESE-0805-X-O1003-01,JP1,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|C5 C5,CAPC-0805-X-UF1-01|
+|C6 C6,CAPC-0805-X-UF1-01|
+|C7 C7,CAPC-0805-X-UF1-01|
+|C8 C8,CAPC-0805-X-UF1-01|
+|[C9 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R3 R3,RESE-0805-X-O1003-01|
 
 ## Images
   
@@ -73,17 +77,17 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TPA2016-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1712
 - oompID: PROJ-ADAF-1712-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
-- oompParts: C7,CAPC-0805-X-UNMATCHED-01
-- oompParts: C8,CAPC-0805-X-UNMATCHED-01
-- oompParts: C9,CAPC-0805-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C5,CAPC-0805-X-UF1-01
+- oompParts: C6,CAPC-0805-X-UF1-01
+- oompParts: C7,CAPC-0805-X-UF1-01
+- oompParts: C8,CAPC-0805-X-UF1-01
+- oompParts: C9,CAPC-0805-X-UF10-V10
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

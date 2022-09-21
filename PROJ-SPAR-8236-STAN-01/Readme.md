@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8236 > Sparkfun](#prs8236--sparkfun)
+* [PRS8236 > Navigation Switch Breakout](#prs8236--navigation-switch-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8236 > Sparkfun
+# PRS8236 > Navigation Switch Breakout
 
 - ID: PROJ-SPAR-8236-STAN-01
 - Hex ID: PRS8236
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8236-STAN-01/kicad/bom/ibom.html)

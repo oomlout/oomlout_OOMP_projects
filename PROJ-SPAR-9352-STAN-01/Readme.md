@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9352 > Sparkfun](#prs9352--sparkfun)
+* [PRS9352 > GraphicLCD Serial Backpack](#prs9352--graphiclcd-serial-backpack)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9352 > Sparkfun
+# PRS9352 > GraphicLCD Serial Backpack
 
 - ID: PROJ-SPAR-9352-STAN-01
 - Hex ID: PRS9352
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9352-STAN-01/kicad/bom/ibom.html)

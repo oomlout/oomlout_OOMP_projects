@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13281 > Sparkfun](#prs13281--sparkfun)
+* [PRS13281 > Load Sensor Combinator](#prs13281--load-sensor-combinator)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13281 > Sparkfun
+# PRS13281 > Load Sensor Combinator
 
 - ID: PROJ-SPAR-13281-STAN-01
 - Hex ID: PRS13281
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13281-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,,,v02,|
-|JP1,HEAD-I01-X-PI03-01,JP1,UL,M03PTH,1X03,Header 3,,,,,|
-|JP2,HEAD-I01-X-PI03-01,JP2,UR,M03PTH,1X03,Header 3,,,,,|
-|JP3,HEAD-I01-X-PI03-01,JP3,LL,M03PTH,1X03,Header 3,,,,,|
-|JP4,HEAD-I01-X-PI03-01,JP4,LR,M03PTH,1X03,Header 3,,,,,|
-|JP5,HEAD-I01-X-PI05-01,JP5,,M05PTH,1X05,Header 5,,,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,RJ45,RJ45-8PTH,RJ45-8,RJ45 Jack,,CONN-08506,RJ45,,|
-|JP7,HEAD-I01-X-PI03-01,JP7,,M03PTH,1X03,Header 3,,,,,|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP5 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP7 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 
 ## Images
   

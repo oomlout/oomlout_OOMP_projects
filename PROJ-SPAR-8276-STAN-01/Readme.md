@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8276 > Sparkfun](#prs8276--sparkfun)
+* [PRS8276 > XBee Module Breakout Board](#prs8276--xbee-module-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8276 > Sparkfun
+# PRS8276 > XBee Module Breakout Board
 
 - ID: PROJ-SPAR-8276-STAN-01
 - Hex ID: PRS8276
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8276-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1958 > Adafruit](#pra1958--adafruit)
+* [PRA1958 > Adafruit Si4713 PCB](#pra1958--adafruit-si4713-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1958 > Adafruit
+# PRA1958 > Adafruit Si4713 PCB
 
 - ID: PROJ-ADAF-1958-STAN-01
 - Hex ID: PRA1958
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1958-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|ANT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,ANT,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,|
-|C1,CAPC-0805-X-UNMATCHED-01,C1,22nF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-NF470-01,C2,0.47uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF470-01,C3,0.47uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,20pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UNMATCHED-01,C7,20pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-UNMATCHED-01,D1,1n4148,DIODESOD-323,SOD-323,Diode,,|
-|D2,DIOD-S323-X-UNMATCHED-01,D2,1n4148,DIODESOD-323,SOD-323,Diode,,|
-|JP1,HEAD-I01-X-PI11-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|L1,UNMATCHED-0805-X-UNMATCHED-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|Q1,MOSN-SO23-X-KBSS138-01,JP1,,HEADER-1X11,1X11_ROUND,,,|
-|Q2,MOSN-SO23-X-KBSS138-01,L1,120nH,INDUCTOR_0805,_0805,Inductors,,|
-|R1,RESE-0805-X-O103-01,Q1,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,|
-|R2,RESE-0805-X-O103-01,Q2,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,|
-|R3,RESE-0805-X-O103-01,R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R4,RESE-0805-X-O103-01,R2,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|R5,RESE-0805-X-O103-01,R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R6,RESE-0805-X-O103-01,R4,10K,RESISTOR_0805MP,_0805MP,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,R6,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$15,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
-|Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
+|ANT ANT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPC-0805-X-NF22-01|
+|C2 C2,CAPC-0805-X-NF470-01|
+|C3 C3,CAPC-0805-X-NF470-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C6 C6,CAPC-0805-X-PF20-01|
+|C7 C7,CAPC-0805-X-PF20-01|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|L1 L1,UNMATCHED-0805-X-UNMATCHED-01|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y2 Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,15 +84,15 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1958
 - oompID: PROJ-ADAF-1958-STAN-01
 - oompParts: ANT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-NF22-01
 - oompParts: C2,CAPC-0805-X-NF470-01
 - oompParts: C3,CAPC-0805-X-NF470-01
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
-- oompParts: C7,CAPC-0805-X-UNMATCHED-01
-- oompParts: D1,DIOD-S323-X-UNMATCHED-01
-- oompParts: D2,DIOD-S323-X-UNMATCHED-01
+- oompParts: C6,CAPC-0805-X-PF20-01
+- oompParts: C7,CAPC-0805-X-PF20-01
+- oompParts: D1,DIOD-S323-X-K4148-01
+- oompParts: D2,DIOD-S323-X-K4148-01
 - oompParts: JP1,HEAD-I01-X-PI11-01
 - oompParts: L1,UNMATCHED-0805-X-UNMATCHED-01
 - oompParts: Q1,MOSN-SO23-X-KBSS138-01

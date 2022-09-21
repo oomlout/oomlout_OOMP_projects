@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA966 > Adafruit](#pra966--adafruit)
+* [PRA966 > Adafruit Low profile microSD to SD Adapter PCB](#pra966--adafruit-low-profile-microsd-to-sd-adapter-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA966 > Adafruit
+# PRA966 > Adafruit Low profile microSD to SD Adapter PCB
 
 - ID: PROJ-ADAF-966-STAN-01
 - Hex ID: PRA966
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-966-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

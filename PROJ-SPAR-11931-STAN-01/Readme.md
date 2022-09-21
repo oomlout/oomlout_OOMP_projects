@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11931 > Sparkfun](#prs11931--sparkfun)
+* [PRS11931 > Digital Temperature Sensor Breakout - TMP102](#prs11931--digital-temperature-sensor-breakout---tmp102)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11931 > Sparkfun
+# PRS11931 > Digital Temperature Sensor Breakout - TMP102
 
 - ID: PROJ-SPAR-11931-STAN-01
 - Hex ID: PRS11931
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11931-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI06-01,JP1,,M06SIP,1X06,Header 6,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,JUMPER-32-3,JUMPER-32-3,SJ_3_PASTE2&3,,,|
-|R1,RESE-0603-X-O102-01,JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R2,RESE-0603-X-O102-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R3,RESE-0603-X-O102-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,13 +66,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11931
 - oompID: PROJ-SPAR-11931-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O102-01
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R3,RESE-0603-X-O102-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: JP1,,M06SIP,1X06,Header 6,,

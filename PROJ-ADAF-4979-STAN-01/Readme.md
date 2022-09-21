@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4979 > Adafruit](#pra4979--adafruit)
+* [PRA4979 > Adafruit NeoKey FeatherWing PCB](#pra4979--adafruit-neokey-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4979 > Adafruit
+# PRA4979 > Adafruit NeoKey FeatherWing PCB
 
 - ID: PROJ-ADAF-4979-STAN-01
 - Hex ID: PRA4979
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4979-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|JP1,HEAD-I01-X-PI04-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP5,HEAD-I01-X-PI12-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP6,HEAD-I01-X-PI16-01,JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,,HEADER-1X12,1X12_ROUND,,,|
-|LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,|
-|R1,RESE-0603-X-O1003-01,LED2,WS2812B_SK6812E,WS2812B_SK6812E,NEO3535_REVERSE,,,|
-|R2,RESE-0603-X-O1003-01,MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_NODIM,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP5 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP6 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[LED1 LEDS-3535-RGB-K2812-01 SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
+|[LED2 LEDS-3535-RGB-K2812-01 SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O1003-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -71,12 +75,12 @@ Contents
 - oompID: PROJ-ADAF-4979-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-I01-X-PI04-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP5,HEAD-I01-X-PI12-01
 - oompParts: JP6,HEAD-I01-X-PI16-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-3535-RGB-K2812-01
+- oompParts: LED2,LEDS-3535-RGB-K2812-01
 - oompParts: MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O1003-01
 - oompParts: R2,RESE-0603-X-O1003-01

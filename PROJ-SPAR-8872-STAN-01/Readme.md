@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8872 > Sparkfun](#prs8872--sparkfun)
+* [PRS8872 > Mic Preamp](#prs8872--mic-preamp)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8872 > Sparkfun
+# PRS8872 > Mic Preamp
 
 - ID: PROJ-SPAR-8872-STAN-01
 - Hex ID: PRS8872
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8872-STAN-01/kicad/bom/ibom.html)

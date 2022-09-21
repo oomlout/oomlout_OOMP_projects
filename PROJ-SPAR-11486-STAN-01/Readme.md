@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11486 > Sparkfun](#prs11486--sparkfun)
+* [PRS11486 > MPU-9150 Breakout](#prs11486--mpu-9150-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11486 > Sparkfun
+# PRS11486 > MPU-9150 Breakout
 
 - ID: PROJ-SPAR-11486-STAN-01
 - Hex ID: PRS11486
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11486-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,2.2nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,10nF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-NF100-01,C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI11-01,JP1,M11PTH,M11PTH,1X11,Header 11,,|
-|R1,RESE-0402-X-O103-01,JP2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|R2,RESE-0402-X-O103-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-PF22D-01|
+|C3 C3,CAPC-0402-X-NF10-01|
+|C4 C4,CAPC-0402-X-UF1D-01|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -63,10 +67,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MPU-9150_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11486
 - oompID: PROJ-SPAR-11486-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-PF22D-01
+- oompParts: C3,CAPC-0402-X-NF10-01
+- oompParts: C4,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI11-01
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-0402-X-O103-01

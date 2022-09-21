@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11736 > Sparkfun](#prs11736--sparkfun)
+* [PRS11736 > FT231X Breakout](#prs11736--ft231x-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11736 > Sparkfun
+# PRS11736 > FT231X Breakout
 
 - ID: PROJ-SPAR-11736-STAN-01
 - Hex ID: PRS11736
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11736-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,47pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,47pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C5,CAPC-0402-X-NF100-01,C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI06-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP10,HEAD-I01-X-PI07-01,JP1,,M06SIP-NS,1X06_NS,Header 6,,|
-|JP11,HEAD-I01-X-PI07-01,JP2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|LED1,LEDS-0603-G-STAN-01,JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|LED2,LEDS-0603-G-STAN-01,JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP10,,M07NS,1X07_NS,Header 7,,|
-|R1,RESE-0402-X-O21-01,JP11,,M07NS,1X07_NS,Header 7,,|
-|R2,RESE-0402-X-O21-01,LED1,RED,LED0603,LED-0603,LEDs,,|
-|R3,RESE-0402-X-O102-01,LED2,YELLOW,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0402-X-O102-01,Q1,2N7002PW,MOSFET-NCHANNELSOT323,SOT323,Generic NMOS footprint,,|
-|R5,RESE-0402-X-O103-01,R1,27,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R6,RESE-0402-X-O103-01,R2,27,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-PF47-01|
+|C4 C4,CAPC-0402-X-PF47-01|
+|C5 C5,CAPC-0402-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP10 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[JP11 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0402-X-O270-01|
+|R2 R2,RESE-0402-X-O270-01|
+|[R3 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R4 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[R5 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,18 +79,18 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11736
 - oompID: PROJ-SPAR-11736-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0402-X-NF100-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0402-X-NF100-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-PF47-01
+- oompParts: C4,CAPC-0402-X-PF47-01
+- oompParts: C5,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP10,HEAD-I01-X-PI07-01
 - oompParts: JP11,HEAD-I01-X-PI07-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: LED2,LEDS-0603-G-STAN-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0402-X-O21-01
-- oompParts: R2,RESE-0402-X-O21-01
+- oompParts: R1,RESE-0402-X-O270-01
+- oompParts: R2,RESE-0402-X-O270-01
 - oompParts: R3,RESE-0402-X-O102-01
 - oompParts: R4,RESE-0402-X-O102-01
 - oompParts: R5,RESE-0402-X-O103-01

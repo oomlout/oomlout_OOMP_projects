@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10888 > Sparkfun](#prs10888--sparkfun)
+* [PRS10888 > LSM303 Breakout](#prs10888--lsm303-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10888 > Sparkfun
+# PRS10888 > LSM303 Breakout
 
 - ID: PROJ-SPAR-10888-STAN-01
 - Hex ID: PRS10888
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10888-STAN-01/kicad/bom/ibom.html)
@@ -34,26 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-NF220-01,C3,0.22uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C5,CAPC-0402-X-UNMATCHED-01,C5,2.2uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C6,CAPC-0402-X-UNMATCHED-01,C6,2.2uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C7,CAPC-0402-X-UNMATCHED-01,C7,470pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C8,CAPC-0402-X-UNMATCHED-01,C8,470pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP2,HEAD-I01-X-PI04-01,JP1,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|JP5,HEAD-I01-X-PI04-01,JP2,,M04PTH,1X04,Header 4,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|Q2,UNMATCHED-SO23-X-UNMATCHED-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP5,,M04PTH,1X04,Header 4,,|
-|R2,RESE-0402-X-UNMATCHED-01,JP6,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R3,RESE-0402-X-UNMATCHED-01,Q1,MOSFET-N-CH,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|R4,RESE-0402-X-UNMATCHED-01,Q2,MOSFET-N-CH,MOSFET-NCHANNELSMD,SOT23-3,,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R4,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-NF220-01|
+|C4 C4,CAPC-0402-X-UF47D-01|
+|C5 C5,CAPC-0402-X-UF22D-01|
+|C6 C6,CAPC-0402-X-UF22D-01|
+|C7 C7,CAPC-0402-X-PF470-01|
+|C8 C8,CAPC-0402-X-PF470-01|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP5 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R2 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R3 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[R4 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -76,22 +79,21 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10888
 - oompID: PROJ-SPAR-10888-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0402-X-NF100-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPC-0402-X-NF220-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0402-X-UNMATCHED-01
-- oompParts: C6,CAPC-0402-X-UNMATCHED-01
-- oompParts: C7,CAPC-0402-X-UNMATCHED-01
-- oompParts: C8,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-UF47D-01
+- oompParts: C5,CAPC-0402-X-UF22D-01
+- oompParts: C6,CAPC-0402-X-UF22D-01
+- oompParts: C7,CAPC-0402-X-PF470-01
+- oompParts: C8,CAPC-0402-X-PF470-01
 - oompParts: JP2,HEAD-I01-X-PI04-01
 - oompParts: JP5,HEAD-I01-X-PI04-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q2,UNMATCHED-SO23-X-UNMATCHED-01
-- oompParts: R1,RESE-0402-X-UNMATCHED-01
-- oompParts: R2,RESE-0402-X-UNMATCHED-01
-- oompParts: R3,RESE-0402-X-UNMATCHED-01
-- oompParts: R4,RESE-0402-X-UNMATCHED-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O472-01
+- oompParts: R2,RESE-0402-X-O472-01
+- oompParts: R3,RESE-0402-X-O472-01
+- oompParts: R4,RESE-0402-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01

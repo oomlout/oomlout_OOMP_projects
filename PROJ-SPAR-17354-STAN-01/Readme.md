@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [PRS17354 > Sparkfun](#prs17354--sparkfun)
+* [PRS17354 > nRF9160 Thing Plus](#prs17354--nrf9160-thing-plus)
 	* [Schematic](#schematic)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17354 > Sparkfun
+# PRS17354 > nRF9160 Thing Plus
 
 - ID: PROJ-SPAR-17354-STAN-01
 - Hex ID: PRS17354

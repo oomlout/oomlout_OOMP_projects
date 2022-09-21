@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12779 > Sparkfun](#prs12779--sparkfun)
+* [PRS12779 > Easy Driver](#prs12779--easy-driver)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12779 > Sparkfun
+# PRS12779 > Easy Driver
 
 - ID: PROJ-SPAR-12779-STAN-01
 - Hex ID: PRS12779
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12779-STAN-01/kicad/bom/ibom.html)
@@ -34,43 +38,42 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-UF1-01,C2,1uf,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPX-UNMATCHED-X-UF47-01,C3,47uF,CPOL-USD,PANASONIC_D,POLARIZED CAPACITOR, American symbol,,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,680pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C5,CAPC-0603-X-UNMATCHED-01,C5,680pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP1,HEAD-I01-X-PI02-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI03-01,IC1,A3967SLB,A3967SLB,SO24W,ANALOG DEVICES,,|
-|JP3,HEAD-I01-X-PI04-01,IC2,V_REG_317SMD,V_REG_317SMD,SOT223,Voltage Regulator,,|
-|JP4,HEAD-I01-X-PI02-01,JP1,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|JP5,HEAD-I01-X-PI02-01,JP2,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,|
-|JP6,HEAD-I01-X-PI02-01,JP3,,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,|
-|JP7,HEAD-I01-X-PI02-01,JP4,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|PWR_LED,LEDS-0603-G-STAN-01,JP5,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|R1,RESE-0805-X-UNMATCHED-01,JP6,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|R2,RESE-0805-X-UNMATCHED-01,JP7,,M021X02_NO_SILK,1X02_NO_SILK,Header 2,,|
-|R3,RESE-0603-X-O203-01,JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R4,RESE-0603-X-O203-01,JP9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R5,RESE-0603-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
-|R6,RESE-0603-X-O391-01,PWR_LED,YELLOW,LED-YELLOW0603,LED-0603,Yellow SMD LEDs,DIO-09003,|
-|R7,RESE-0603-X-O331-01,R1,.75,RESISTOR0805-RES,0805,Resistor,,|
-|R8,RESE-0603-X-O241-01,R2,.75,RESISTOR0805-RES,0805,Resistor,,|
-|R9,RESE-0603-X-O102-01,R3,20K,RESISTOR0603,0603-RES,Resistor,,|
-|R10,RESE-0603-X-O103-01,R4,20K,RESISTOR0603,0603-RES,Resistor,,|
-|R11,RESE-0603-X-O103-01,R5,2.49K,RESISTOR0603,0603-RES,Resistor,,|
-|R12,RESE-0603-X-O103-01,R6,390,RESISTOR0603,0603-RES,Resistor,,|
-|R13,RESE-0603-X-O103-01,R7,330,RESISTOR0603,0603-RES,Resistor,,|
-|R14,RESE-0603-X-O103-01,R8,240,RESISTOR0603,0603-RES,Resistor,,|
-|R15,RESE-0603-X-O103-01,R9,1K,RESISTOR0603,0603-RES,Resistor,,|
-|R16,RESE-UNMATCHED-X-O103-01,R10,10K,RESISTOR0603,0603-RES,Resistor,,|
-|R17,RESE-0603-X-UNMATCHED-01,R11,10K,RESISTOR0603,0603-RES,Resistor,,|
-|R18,RESE-0603-X-O102-01,R12,10K,RESISTOR0603,0603-RES,Resistor,,|
-|R19,RESE-0603-X-O102-01,R13,10K,RESISTOR0603,0603-RES,Resistor,,|
-|R20,RESE-0603-X-O103-01,R14,10K,RESISTOR0603,0603-RES,Resistor,,|
-|R21,RESE-0603-X-O103-01,R15,10K,RESISTOR0603,0603-RES,Resistor,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,10K,TRIMPOT3MM-2,TRIMPOT-3MM-2,Various small potentiometers for set-and-forget applications,,|
+|C1 C1,CAPC-0603-X-UNMATCHED-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPX-UNMATCHED-X-UF47-01|
+|C4 C4,CAPC-0603-X-PF680-01|
+|C5 C5,CAPC-0603-X-PF680-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[PWR_LED LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0805-X-UNMATCHED-01|
+|R2 R2,RESE-0805-X-UNMATCHED-01|
+|[R3 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[R4 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|[R6 RESE-0603-X-O391-01 SMD (0603) 390 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|
+|[R7 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R8 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|[R9 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R11 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R12 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R13 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R14 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R15 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R16 R16,RESE-UNMATCHED-X-O103-01|
+|R17 R17,RESE-0603-X-UNMATCHED-01|
+|[R18 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R19 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R20 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R21 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
@@ -95,8 +98,8 @@ Contents
 - oompParts: C1,CAPC-0603-X-UNMATCHED-01
 - oompParts: C2,CAPC-0603-X-UF1-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF47-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-PF680-01
+- oompParts: C5,CAPC-0603-X-PF680-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
@@ -128,7 +131,6 @@ Contents
 - oompParts: R19,RESE-0603-X-O102-01
 - oompParts: R20,RESE-0603-X-O103-01
 - oompParts: R21,RESE-0603-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C2,1uf,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C3,47uF,CPOL-USD,PANASONIC_D,POLARIZED CAPACITOR, American symbol,,

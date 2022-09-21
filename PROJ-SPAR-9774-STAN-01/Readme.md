@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9774 > Sparkfun](#prs9774--sparkfun)
+* [PRS9774 > Benchtop Power Board Kit](#prs9774--benchtop-power-board-kit)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9774 > Sparkfun
+# PRS9774 > Benchtop Power Board Kit
 
 - ID: PROJ-SPAR-9774-STAN-01
 - Hex ID: PRS9774
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9774-STAN-01/kicad/bom/ibom.html)

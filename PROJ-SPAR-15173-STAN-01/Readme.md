@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15173 > Sparkfun](#prs15173--sparkfun)
+* [PRS15173 > Qwiic Transparent Graphical OLED](#prs15173--qwiic-transparent-graphical-oled)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15173 > Sparkfun
+# PRS15173 > Qwiic Transparent Graphical OLED
 
 - ID: PROJ-SPAR-15173-STAN-01
 - Hex ID: PRS15173
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15173-STAN-01/kicad/bom/ibom.html)

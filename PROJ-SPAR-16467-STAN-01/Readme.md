@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16467 > Sparkfun](#prs16467--sparkfun)
+* [PRS16467 > SparkFun Humidity Sensor SHTC3](#prs16467--sparkfun-humidity-sensor-shtc3)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16467 > Sparkfun
+# PRS16467 > SparkFun Humidity Sensor SHTC3
 
 - ID: PROJ-SPAR-16467-STAN-01
 - Hex ID: PRS16467
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16467-STAN-01/kicad/bom/ibom.html)

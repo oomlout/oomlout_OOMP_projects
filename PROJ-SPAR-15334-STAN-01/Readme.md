@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15334 > Sparkfun](#prs15334--sparkfun)
+* [PRS15334 > SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015](#prs15334--sparkfun-qwiic-12-bit-adc---4-channel-ads1015)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15334 > Sparkfun
+# PRS15334 > SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015
 
 - ID: PROJ-SPAR-15334-STAN-01
 - Hex ID: PRS15334
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15334-STAN-01/kicad/bom/ibom.html)

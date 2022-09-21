@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS17506 > Sparkfun](#prs17506--sparkfun)
+* [PRS17506 > SparkFun LoRa Thing Plus expLoRaBLE](#prs17506--sparkfun-lora-thing-plus-explorable)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17506 > Sparkfun
+# PRS17506 > SparkFun LoRa Thing Plus expLoRaBLE
 
 - ID: PROJ-SPAR-17506-STAN-01
 - Hex ID: PRS17506
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

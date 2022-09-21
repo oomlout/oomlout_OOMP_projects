@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-UNMATCHED-01"
+            "value": "C3,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -62,7 +62,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0805-X-UNMATCHED-01"
+            "value": "C6,CAPC-0805-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -70,7 +70,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-UNMATCHED-X-UNMATCHED-01"
+            "value": "C8,CAPC-UNMATCHED-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompParts",
-            "value": "D4,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D4,DIOD-S123-X-KMBR120-01"
         },
         {
             "name": "oompParts",
@@ -126,7 +126,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LED1,LEDS-3535-RGB-K2812-01"
         },
         {
             "name": "oompParts",
@@ -154,7 +154,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-UNMATCHED-X-O1003-01"
+            "value": "R1,RESA-06038-X-O1003X4-01"
         },
         {
             "name": "oompParts",
@@ -166,7 +166,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R4,RESE-UNMATCHED-X-O103-01"
+            "value": "R4,RESA-06038-X-O103X4-01"
         },
         {
             "name": "oompParts",
@@ -178,7 +178,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R7,RESE-0603-X-UNMATCHED-01"
+            "value": "R7,RESE-0603-X-O222-01"
         },
         {
             "name": "oompParts",
@@ -186,7 +186,7 @@
         },
         {
             "name": "oompParts",
-            "value": "R9,RESE-UNMATCHED-X-O103-01"
+            "value": "R9,RESA-06038-X-O103X4-01"
         },
         {
             "name": "oompParts",
@@ -218,23 +218,7 @@
         },
         {
             "name": "oompParts",
-            "value": "TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "TP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "TP28,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "TP29,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

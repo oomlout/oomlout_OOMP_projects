@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13099 > Sparkfun](#prs13099--sparkfun)
+* [PRS13099 > Rotary Switch Potentiometer](#prs13099--rotary-switch-potentiometer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13099 > Sparkfun
+# PRS13099 > Rotary Switch Potentiometer
 
 - ID: PROJ-SPAR-13099-STAN-01
 - Hex ID: PRS13099
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13099-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI03-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R1,RESE-UNMATCHED-X-UNMATCHED-01,JP1,,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R3,RESE-UNMATCHED-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SFE Logo, name only,,,|
-|R4,RESE-UNMATCHED-X-UNMATCHED-01,R1,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|R5,RESE-UNMATCHED-X-UNMATCHED-01,R2,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|R6,RESE-UNMATCHED-X-UNMATCHED-01,R3,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|R7,RESE-UNMATCHED-X-UNMATCHED-01,R4,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|R8,RESE-UNMATCHED-X-UNMATCHED-01,R5,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|R9,RESE-UNMATCHED-X-UNMATCHED-01,R6,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,,RESISTORPTH-1/4W-VERT-KIT,AXIAL-0.1EZ,Resistor,,,|
+|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
+|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
+|R3 R3,RESE-UNMATCHED-X-UNMATCHED-01|
+|R4 R4,RESE-UNMATCHED-X-UNMATCHED-01|
+|R5 R5,RESE-UNMATCHED-X-UNMATCHED-01|
+|R6 R6,RESE-UNMATCHED-X-UNMATCHED-01|
+|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
+|R8 R8,RESE-UNMATCHED-X-UNMATCHED-01|
+|R9 R9,RESE-UNMATCHED-X-UNMATCHED-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

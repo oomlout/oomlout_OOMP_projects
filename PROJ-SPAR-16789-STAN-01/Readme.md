@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16789 > Sparkfun](#prs16789--sparkfun)
+* [PRS16789 > Qwiic Shield for Arduino Nano](#prs16789--qwiic-shield-for-arduino-nano)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16789 > Sparkfun
+# PRS16789 > Qwiic Shield for Arduino Nano
 
 - ID: PROJ-SPAR-16789-STAN-01
 - Hex ID: PRS16789
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16789-STAN-01/kicad/bom/ibom.html)

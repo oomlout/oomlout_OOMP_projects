@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13098 > Sparkfun](#prs13098--sparkfun)
+* [PRS13098 > Rotary Switch Breakout](#prs13098--rotary-switch-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13098 > Sparkfun
+# PRS13098 > Rotary Switch Breakout
 
 - ID: PROJ-SPAR-13098-STAN-01
 - Hex ID: PRS13098
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13098-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI11-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,M111X11_NO_SILK,M111X11_NO_SILK,1X11_NO_SILK,Header 11,,,|
+|JP1 JP1,HEAD-I01-X-PI11-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

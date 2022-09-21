@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14347 > Sparkfun](#prs14347--sparkfun)
+* [PRS14347 > Qwiic Spectral Sensor AS726X](#prs14347--qwiic-spectral-sensor-as726x)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14347 > Sparkfun
+# PRS14347 > Qwiic Spectral Sensor AS726X
 
 - ID: PROJ-SPAR-14347-STAN-01
 - Hex ID: PRS14347
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14347-STAN-01/kicad/bom/ibom.html)
@@ -34,27 +38,27 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,|
-|C3,CAPC-0603-X-UF10-01,C3,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,10uF,|
-|D1,LEDS-0603-G-STAN-01,D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,BLUE,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,White, 60mA,LED-WHITE3014,SUPER_BRIGHT_SMD_LED_3014,White SMD LED,DIO-13728,White, 60mA,|
-|D4,LEDS-UNMATCHED-G-STAN-01,D4,Incandescent,LEDNS,LED_5MM_NOSILK,,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,Serial Interface,6_PIN_SERIAL_CABLEPTH,FTDI_BASIC,6-pin header connection for use with the FTDI BASIC pinout - CABLE SIDE.,,,|
-|R3,RESE-0603-X-O103-01,J3,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|R4,RESE-0603-X-O103-01,J4,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,|
-|R13,RESE-0603-X-UNMATCHED-01,J5,Flash Programming,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,|
-|R14,RESE-0603-X-UNMATCHED-01,J8,,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,JUMPER-SMT_3_2-NC_PASTE_SILK,SMT-JUMPER_3_2-NC_PASTE_SILK,Normally closed solder jumper (2 of 2 connections),,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|C2 C2,CAPC-0603-X-UF1-01|
+|C3 C3,CAPC-0603-X-UF10-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|D2 D2,LEDS-UNMATCHED-G-STAN-01|
+|D4 D4,LEDS-UNMATCHED-G-STAN-01|
+|J1 J1,HEAD-UNMATCHED-X-PI04-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,HEAD-UNMATCHED-X-PI04-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R13 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R14 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -76,16 +80,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14347
 - oompID: PROJ-SPAR-14347-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1-01
 - oompParts: C3,CAPC-0603-X-UF10-01
 - oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D2,LEDS-UNMATCHED-G-STAN-01
 - oompParts: D4,LEDS-UNMATCHED-G-STAN-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -93,8 +97,8 @@ Contents
 - oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R4,RESE-0603-X-O103-01
-- oompParts: R13,RESE-0603-X-UNMATCHED-01
-- oompParts: R14,RESE-0603-X-UNMATCHED-01
+- oompParts: R13,RESE-0603-X-O472-01
+- oompParts: R14,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,

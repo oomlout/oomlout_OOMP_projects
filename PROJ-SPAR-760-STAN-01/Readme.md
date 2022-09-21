@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS760 > Sparkfun](#prs760--sparkfun)
+* [PRS760 > LED Matrix Serial Interface RGB](#prs760--led-matrix-serial-interface-rgb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS760 > Sparkfun
+# PRS760 > LED Matrix Serial Interface RGB
 
 - ID: PROJ-SPAR-760-STAN-01
 - Hex ID: PRS760
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-760-STAN-01/kicad/bom/ibom.html)

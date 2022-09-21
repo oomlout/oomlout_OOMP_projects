@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4702 > Adafruit](#pra4702--adafruit)
+* [PRA4702 > Adafruit RGB Matrix FeatherWing PCB](#pra4702--adafruit-rgb-matrix-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4702 > Adafruit
+# PRA4702 > Adafruit RGB Matrix FeatherWing PCB
 
 - ID: PROJ-ADAF-4702-STAN-01
 - Hex ID: PRA4702
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4702-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C6,CAPC-0805-X-UF10-V10,C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0805-X-UF10-V10,C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC2,VREG-SO235-X-KLP298XS-V33D,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI12-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI08-01,IC2,AP2112K-3.3,LP298XS,SOT23-5L,,,|
-|JP3,HEAD-I01-X-PI08-01,JP1,,HEADER-1X12,1X12_ROUND,,,|
-|JP4,HEAD-I01-X-PI16-01,JP2,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|JP15,HEAD-I01-X-UNMATCHED-01,JP3,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|Q2,MOSP-UNMATCHED-X-UNMATCHED-01,JP15,Shrouded 2x8,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,|
-|R1,RESE-0603-X-O1003-01,MS1,FEATHERWING,FEATHERWING,FEATHERWING,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q2,AON7401,MOSFET-P-POWERDI3333,POWERDI3333,P-Channel Mosfet,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
+|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|JP15 JP15,HEAD-I01-X-UNMATCHED-01|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q2 Q2,MOSP-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

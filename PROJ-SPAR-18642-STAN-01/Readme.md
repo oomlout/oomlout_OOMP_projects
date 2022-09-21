@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18642 > Sparkfun](#prs18642--sparkfun)
+* [PRS18642 > SparkFun Qwiic ToF Imager VL53L5CX](#prs18642--sparkfun-qwiic-tof-imager-vl53l5cx)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18642 > Sparkfun
+# PRS18642 > SparkFun Qwiic ToF Imager VL53L5CX
 
 - ID: PROJ-SPAR-18642-STAN-01
 - Hex ID: PRS18642
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18642-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11178 > Sparkfun](#prs11178--sparkfun)
+* [PRS11178 > BigTime](#prs11178--bigtime)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11178 > Sparkfun
+# PRS11178 > BigTime
 
 - ID: PROJ-SPAR-11178-STAN-01
 - Hex ID: PRS11178
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11178-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT,,BATTERYFOB,BATTERY_20MM_PTH_COMPACT,Battery Holders,,|
-|C1,CAPX-UNMATCHED-X-UNMATCHED-01,C1,100nF,CAPEZ,CAP-PTH-SMALLEZ,Capacitor,,|
-|C2,CAPX-UNMATCHED-X-UNMATCHED-01,C2,100nF,CAPEZ,CAP-PTH-SMALLEZ,Capacitor,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,FTDI_BASICPTH,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic: 3.3V and 5V,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,7-SEGMENT-4DIGIT-YOUNGSUNKIT,7-SEGMENT-4DIGIT-YOUNGSUNKIT,7-SEGMENT-4DIGIT-YOUNGSUN-KIT,This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.,,|
-|R1,RESE-UNMATCHED-X-O1003-01,R1,100k,RESISTORKIT,AXIAL-0.3-KIT,Resistor,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S1,BUTTON,SWITCH-MOMENTARY-2SIDE_EZ,TACTILE-PTH-SIDEEZ,Various NO switches- pushbuttons, reed, etc,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,|
+|BAT BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C1 C1,CAPX-UNMATCHED-X-NF100-01|
+|C2 C2,CAPX-UNMATCHED-X-NF100-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|R1 R1,RESE-UNMATCHED-X-O1003-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -66,13 +69,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11178
 - oompID: PROJ-SPAR-11178-STAN-01
 - oompParts: BAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPX-UNMATCHED-X-NF100-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
 - oompParts: R1,RESE-UNMATCHED-X-O1003-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BAT,,BATTERYFOB,BATTERY_20MM_PTH_COMPACT,Battery Holders,,

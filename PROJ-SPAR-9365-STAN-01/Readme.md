@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9365 > Sparkfun](#prs9365--sparkfun)
+* [PRS9365 > AD Stereo Converter-PCM1803A](#prs9365--ad-stereo-converter-pcm1803a)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9365 > Sparkfun
+# PRS9365 > AD Stereo Converter-PCM1803A
 
 - ID: PROJ-SPAR-9365-STAN-01
 - Hex ID: PRS9365
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9365-STAN-01/kicad/bom/ibom.html)

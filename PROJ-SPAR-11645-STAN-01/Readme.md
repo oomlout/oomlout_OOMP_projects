@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11645 > Sparkfun](#prs11645--sparkfun)
+* [PRS11645 > OpenSegment](#prs11645--opensegment)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11645 > Sparkfun
+# PRS11645 > OpenSegment
 
 - ID: PROJ-SPAR-11645-STAN-01
 - Hex ID: PRS11645
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11645-STAN-01/kicad/bom/ibom.html)
@@ -34,47 +38,46 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-NF100-01,C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-NF100-01,C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C10,CAPC-0402-X-UF1-01,C10,1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C13,CAPX-UNMATCHED-X-UF10-01,C13,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C19,CAPX-UNMATCHED-X-UF10-01,C19,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,FTDI_BASIC,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic: 3.3V and 5V,,|
-|JP2,HEAD-I01-X-PI10-01,JP2,Connections,M10,1X10,Header 10,,|
-|JP8,HEAD-I01-X-PI01-01,JP3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP9,HEAD-I01-X-PI02-01,JP4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP10,HEAD-I01-X-PI02-01,JP5,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,|
-|JP12,HEAD-I01-X-PI02-01,JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|JP13,HEAD-I01-X-PI02-01,JP8,RESET,M01PTH,1X01,Header 1,,|
-|LED1,LEDS-0603-G-STAN-01,JP9,,M02PTH,1X02,Header 2,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,JP10,,M02PTH,1X02,Header 2,,|
-|Q2,UNMATCHED-SO23-X-UNMATCHED-01,JP11,Serial,M03JST-PTH,JST-3-PTH,Header 3,,|
-|Q3,UNMATCHED-SO23-X-UNMATCHED-01,JP12,,M02PTH,1X02,Header 2,,|
-|Q4,UNMATCHED-SO23-X-UNMATCHED-01,JP13,,M02PTH,1X02,Header 2,,|
-|Q5,UNMATCHED-SO23-X-UNMATCHED-01,JP14,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|Q6,UNMATCHED-SO23-X-UNMATCHED-01,LED1,Red,LED0603,LED-0603,LEDs,,|
-|Q7,UNMATCHED-SO23-X-UNMATCHED-01,Q1,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|Q8,UNMATCHED-SO23-X-UNMATCHED-01,Q2,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|Q9,UNMATCHED-SO23-X-UNMATCHED-01,Q3,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|Q10,UNMATCHED-SO23-X-UNMATCHED-01,Q4,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|Q11,UNMATCHED-SO23-X-UNMATCHED-01,Q5,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|Q12,UNMATCHED-SO23-X-UNMATCHED-01,Q6,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|R1,RESE-0402-X-O103-01,Q7,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|R2,RESE-0402-X-UNMATCHED-01,Q8,PNP,TRANSISTOR_PNPSMD,SOT23-3,Generic PNP BJT. Double check pinouts against datasheets- not all devices are the same!,,|
-|R3,RESE-0402-X-UNMATCHED-01,Q9,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Generic NPN BJT. MMBT2222 is the common NPN we use. Double check against datasheet- not all devices are the same!,,|
-|R4,RESE-0402-X-UNMATCHED-01,Q10,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Generic NPN BJT. MMBT2222 is the common NPN we use. Double check against datasheet- not all devices are the same!,,|
-|R5,RESE-0402-X-UNMATCHED-01,Q11,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Generic NPN BJT. MMBT2222 is the common NPN we use. Double check against datasheet- not all devices are the same!,,|
-|R6,RESE-0402-X-UNMATCHED-01,Q12,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Generic NPN BJT. MMBT2222 is the common NPN we use. Double check against datasheet- not all devices are the same!,,|
-|R7,RESE-0402-X-UNMATCHED-01,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-UNMATCHED-01,R2,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R9,RESE-0402-X-UNMATCHED-01,R3,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R11,RESE-0402-X-O331-01,R4,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R6,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,33/68,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-UF1D-01|
+|C4 C4,CAPC-0402-X-UF1D-01|
+|C10 C10,CAPC-0402-X-UF1-01|
+|C13 C13,CAPX-UNMATCHED-X-UF10-01|
+|C19 C19,CAPX-UNMATCHED-X-UF10-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|JP8 JP8,HEAD-I01-X-PI01-01|
+|[JP9 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP10 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP11 JP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP12 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP13 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q3 Q3,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q4 Q4,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q5 Q5,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q6 Q6,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q7 Q7,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q8 Q8,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q9 Q9,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q10 Q10,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q11 Q11,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q12 Q12,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R2 R2,RESE-0402-X-UNMATCHED-01|
+|R3 R3,RESE-0402-X-UNMATCHED-01|
+|R4 R4,RESE-0402-X-UNMATCHED-01|
+|R5 R5,RESE-0402-X-UNMATCHED-01|
+|R6 R6,RESE-0402-X-UNMATCHED-01|
+|R7 R7,RESE-0402-X-UNMATCHED-01|
+|R8 R8,RESE-0402-X-UNMATCHED-01|
+|R9 R9,RESE-0402-X-UNMATCHED-01|
+|R11 R11,RESE-0402-X-O331-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -96,9 +99,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/OpenSegment (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11645
 - oompID: PROJ-SPAR-11645-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C3,CAPC-0402-X-NF100-01
-- oompParts: C4,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-UF1D-01
+- oompParts: C4,CAPC-0402-X-UF1D-01
 - oompParts: C10,CAPC-0402-X-UF1-01
 - oompParts: C13,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C19,CAPX-UNMATCHED-X-UF10-01
@@ -133,7 +136,6 @@ Contents
 - oompParts: R8,RESE-0402-X-UNMATCHED-01
 - oompParts: R9,RESE-0402-X-UNMATCHED-01
 - oompParts: R11,RESE-0402-X-O331-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

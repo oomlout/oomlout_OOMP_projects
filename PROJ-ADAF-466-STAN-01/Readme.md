@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA466 > Adafruit](#pra466--adafruit)
+* [PRA466 > Adafruit VCNL40X0 PCB](#pra466--adafruit-vcnl40x0-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA466 > Adafruit
+# PRA466 > Adafruit VCNL40X0 PCB
 
 - ID: PROJ-ADAF-466-STAN-01
 - Hex ID: PRA466
@@ -24,23 +25,24 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UF10-V10,C6,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI05-01,JP1,,HEADER-1X576MIL,1X05_ROUND_76,PIN HEADER,,|
-|R1,RESE-0805-X-O103-01,R1,10K,RESISTOR0805,0805,Resistors,,|
-|R2,RESE-0805-X-O103-01,R2,10K,RESISTOR0805,0805,Resistors,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$5,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,,|
-|U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$6,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$7,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,U$8,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -64,14 +66,12 @@ Contents
 - oompID: PROJ-ADAF-466-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,

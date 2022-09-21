@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12731 > Sparkfun](#prs12731--sparkfun)
+* [PRS12731 > FT232RL USB Breakout](#prs12731--ft232rl-usb-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12731 > Sparkfun
+# PRS12731 > FT232RL USB Breakout
 
 - ID: PROJ-SPAR-12731-STAN-01
 - Hex ID: PRS12731
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12731-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C5,CAPX-UNMATCHED-X-UF10-01,C5,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,500mA,PTCSMD,PTC-1206,Resettable Fuse PTC,,,|
-|JP1,HEAD-I01-X-PI09-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP2,HEAD-I01-X-PI09-01,JP1,,M09,1X09,Header 9,,,|
-|JP3,HEAD-I01-X-PI04-01,JP2,,M09,1X09,Header 9,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,M04PTH,1X04,Header 4,,,|
-|LED1,LEDS-0603-G-STAN-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|LED2,LEDS-0603-G-STAN-01,JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O331-01,JP7,USB_MICROB_PLUGCONN-11752,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B Plug,CONN-11752,,|
-|R2,RESE-0603-X-O331-01,LED1,Red,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED2,Green,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C5 C5,CAPX-UNMATCHED-X-UF10-01|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[JP2 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R2 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,8 +73,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FT232RL_USB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12731
 - oompID: PROJ-SPAR-12731-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C5,CAPX-UNMATCHED-X-UF10-01
 - oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI09-01
@@ -83,7 +86,6 @@ Contents
 - oompParts: R1,RESE-0603-X-O331-01
 - oompParts: R2,RESE-0603-X-O331-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,

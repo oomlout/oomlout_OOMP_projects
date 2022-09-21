@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16677 > Sparkfun](#prs16677--sparkfun)
+* [PRS16677 > SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic](#prs16677--sparkfun-refrigeration-gas-sensor-zmod4450-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16677 > Sparkfun
+# PRS16677 > SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic
 
 - ID: PROJ-SPAR-16677-STAN-01
 - Hex ID: PRS16677
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16677-STAN-01/kicad/bom/ibom.html)

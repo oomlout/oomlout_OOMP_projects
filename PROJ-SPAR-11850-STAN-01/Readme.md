@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11850 > Sparkfun](#prs11850--sparkfun)
+* [PRS11850 > PicoBuck](#prs11850--picobuck)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11850 > Sparkfun
+# PRS11850 > PicoBuck
 
 - ID: PROJ-SPAR-11850-STAN-01
 - Hex ID: PRS11850
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11850-STAN-01/kicad/bom/ibom.html)
@@ -34,36 +38,33 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF1-01,C1,1uF,1.0UF-25V-+80/-20(0805),0805,,CAP-11625,1.0uF,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,2.2uF,2.2UF-25V-+80/-20(0805),0805,,CAP-11624,2.2uF,|
-|C3,CAPC-0805-X-UF1-01,C3,1uF,1.0UF-25V-+80/-20(0805),0805,,CAP-11625,1.0uF,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,2.2uF,2.2UF-25V-+80/-20(0805),0805,,CAP-11624,2.2uF,|
-|C5,CAPC-0805-X-UF1-01,C5,1uF,1.0UF-25V-+80/-20(0805),0805,,CAP-11625,1.0uF,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,2.2uF,2.2UF-25V-+80/-20(0805),0805,,CAP-11624,2.2uF,|
-|CH1,TERS-35D-L-PI02-01,CH1,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,|
-|CH2,TERS-35D-L-PI02-01,CH2,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,|
-|CH3,TERS-35D-L-PI02-01,CH3,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,DIO-08053,MBRA140,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,DIO-08053,MBRA140,|
-|D3,DIOD-UNMATCHED-X-UNMATCHED-01,D3,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,DIO-08053,MBRA140,|
-|JP2,TERS-35D-L-PI02-01,FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI02-01,FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|JP4,HEAD-I01-X-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,|
-|L2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,M022.54MM_SCREWTERM,M022.54MM_SCREWTERM,1X02_2.54_SCREWTERM@1,Standard 2-pin 0.1 header. Use with,,,|
-|L3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,M022.54MM_SCREWTERM,M022.54MM_SCREWTERM,1X02_2.54_SCREWTERM@1,Standard 2-pin 0.1 header. Use with,,,|
-|R1,RESE-0805-X-UNMATCHED-01,L1,33ÃÂµH/ÃÂ±20%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,NDUC-11627,33ÃÂµH/ÃÂ±20%/1.4A,|
-|R2,RESE-0805-X-UNMATCHED-01,L2,33ÃÂµH/ÃÂ±20%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,NDUC-11627,33ÃÂµH/ÃÂ±20%/1.4A,|
-|R3,RESE-0805-X-UNMATCHED-01,L3,33ÃÂµH/ÃÂ±20%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,NDUC-11627,33ÃÂµH/ÃÂ±20%/1.4A,|
-|R4,RESE-0805-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0805-X-UNMATCHED-01,LOGO2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,|
-|R6,RESE-0805-X-UNMATCHED-01,R1,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|SJ3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R5,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R6,0.3R,0.3OHM-1/8W-1%(0805),0805,,RES-11622,0.3,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,SJ1,JUMPER-SMT_2_NO_NO-SILK,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|C2 C2,CAPC-0805-X-UF22D-01|
+|C3 C3,CAPC-0805-X-UF1-01|
+|C4 C4,CAPC-0805-X-UF22D-01|
+|C5 C5,CAPC-0805-X-UF1-01|
+|C6 C6,CAPC-0805-X-UF22D-01|
+|[CH1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[CH2 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[CH3 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D3 D3,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[JP2 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L2 L2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L3 L3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0805-X-UNMATCHED-01|
+|R2 R2,RESE-0805-X-UNMATCHED-01|
+|R3 R3,RESE-0805-X-UNMATCHED-01|
+|R4 R4,RESE-0805-X-UNMATCHED-01|
+|R5 R5,RESE-0805-X-UNMATCHED-01|
+|R6 R6,RESE-0805-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -86,11 +87,11 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11850
 - oompID: PROJ-SPAR-11850-STAN-01
 - oompParts: C1,CAPC-0805-X-UF1-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C2,CAPC-0805-X-UF22D-01
 - oompParts: C3,CAPC-0805-X-UF1-01
-- oompParts: C4,CAPC-0805-X-UNMATCHED-01
+- oompParts: C4,CAPC-0805-X-UF22D-01
 - oompParts: C5,CAPC-0805-X-UF1-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
+- oompParts: C6,CAPC-0805-X-UF22D-01
 - oompParts: CH1,TERS-35D-L-PI02-01
 - oompParts: CH2,TERS-35D-L-PI02-01
 - oompParts: CH3,TERS-35D-L-PI02-01
@@ -109,9 +110,6 @@ Contents
 - oompParts: R4,RESE-0805-X-UNMATCHED-01
 - oompParts: R5,RESE-0805-X-UNMATCHED-01
 - oompParts: R6,RESE-0805-X-UNMATCHED-01
-- oompParts: SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SJ3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01

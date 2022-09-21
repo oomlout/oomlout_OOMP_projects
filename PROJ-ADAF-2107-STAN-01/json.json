@@ -42,23 +42,23 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0805-X-NF100-V50"
+            "value": "C1,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0805-X-NF100-V50"
+            "value": "C2,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-NF100-V50"
+            "value": "C3,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0805-X-NF100-V50"
+            "value": "C4,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0805-X-NF100-V50"
+            "value": "C5,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -66,11 +66,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0805-X-NF100-V50"
+            "value": "C7,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0805-X-NF100-V50"
+            "value": "C8,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-0805-X-NF100-V50"
+            "value": "C10,CAPC-0805-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -86,19 +86,19 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-0805-X-O21-01"
+            "value": "R1,RESE-0805-X-O240-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,RESE-0805-X-O21-01"
+            "value": "R2,RESE-0805-X-O240-01"
         },
         {
             "name": "oompParts",
-            "value": "R3,RESE-0805-X-O21-01"
+            "value": "R3,RESE-0805-X-O240-01"
         },
         {
             "name": "oompParts",
-            "value": "R4,RESE-0805-X-O21-01"
+            "value": "R4,RESE-0805-X-O240-01"
         },
         {
             "name": "oompParts",

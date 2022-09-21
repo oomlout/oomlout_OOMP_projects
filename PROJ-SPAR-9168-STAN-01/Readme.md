@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9168 > Sparkfun](#prs9168--sparkfun)
+* [PRS9168 > On Screen Display Breakout-MAX7456](#prs9168--on-screen-display-breakout-max7456)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9168 > Sparkfun
+# PRS9168 > On Screen Display Breakout-MAX7456
 
 - ID: PROJ-SPAR-9168-STAN-01
 - Hex ID: PRS9168
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9168-STAN-01/kicad/bom/ibom.html)

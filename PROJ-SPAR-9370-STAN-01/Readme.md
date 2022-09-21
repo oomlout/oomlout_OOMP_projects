@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9370 > Sparkfun](#prs9370--sparkfun)
+* [PRS9370 > DC-DC Converter Breakout](#prs9370--dc-dc-converter-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9370 > Sparkfun
+# PRS9370 > DC-DC Converter Breakout
 
 - ID: PROJ-SPAR-9370-STAN-01
 - Hex ID: PRS9370
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9370-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA5397 > Adafruit](#pra5397--adafruit)
+* [PRA5397 > Adafruit Charger BFF PCB](#pra5397--adafruit-charger-bff-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA5397 > Adafruit
+# PRA5397 > Adafruit Charger BFF PCB
 
 - ID: PROJ-ADAF-5397-STAN-01
 - Hex ID: PRA5397
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-5397-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C20,CAPC-0805-X-UNMATCHED-01,C20,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CHG,LEDS-0603-G-STAN-01,CHG,ORANGE,LED0603_NOOUTLINE,CHIPLED_0603_NOOUTLINE,LED,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,MBR120,DIODE_SOD-123FL,SOD-123FL,Diode,,|
-|JP1,HEAD-I01-X-PI07-01,JP1,,HEADER-1X7_CASTEL,1X07_CASTEL,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI07-01,JP3,,HEADER-1X7_CASTEL,1X07_CASTEL,PIN HEADER,,|
-|R1,RESE-0603-X-O1003-01,R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R2,RESE-0603-X-UNMATCHED-01,R2,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-O1003-01,R3,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R8,RESE-0603-X-UNMATCHED-01,R8,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,SW2,,SWITCH_DPDTEG1390,EG1390,Switch - DPDT,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$6,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C20 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CHG LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D2 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[JP3 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|R1 R1,RESE-0603-X-O1003-01|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|R3 R3,RESE-0603-X-O1003-01|
+|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,16 +72,16 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Charger-BFF-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5397
 - oompID: PROJ-ADAF-5397-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C20,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C20,CAPC-0805-X-UF10-V10
 - oompParts: CHG,LEDS-0603-G-STAN-01
-- oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D2,DIOD-S123-X-KMBR120-01
 - oompParts: JP1,HEAD-I01-X-PI07-01
 - oompParts: JP3,HEAD-I01-X-PI07-01
 - oompParts: R1,RESE-0603-X-O1003-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: R3,RESE-0603-X-O1003-01
-- oompParts: R8,RESE-0603-X-UNMATCHED-01
+- oompParts: R8,RESE-0603-X-O472-01
 - oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14048 > Sparkfun](#prs14048--sparkfun)
+* [PRS14048 > TeensyView](#prs14048--teensyview)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14048 > Sparkfun
+# PRS14048 > TeensyView
 
 - ID: PROJ-SPAR-14048-STAN-01
 - Hex ID: PRS14048
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14048-STAN-01/kicad/bom/ibom.html)
@@ -34,21 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C2,CAPC-0402-X-UNMATCHED-01,C2,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,2.2uF,2.2UF-0805-25V-(+80/-20%),0805,2.2ÃÂµF ceramic capacitors,CAP-11624,2.2uF,|
-|C6,CAPC-1206-X-UNMATCHED-01,C6,4.7uF,4.7UF-1206-16V-(+80/-20%),1206,4.7ÃÂµF ceramic capacitors,CAP-10300,4.7uF,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,DNP,CONN_14NO_SILK,1X14_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,DNP,CONN_14NO_SILK,1X14_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,|
-|OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R1,RESE-0603-X-O3903-01,JP2,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP3,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,|
+|C1 C1,CAPC-0402-X-UF1-01|
+|C2 C2,CAPC-0402-X-UF1-01|
+|C3 C3,CAPC-0402-X-UF1-01|
+|C4 C4,CAPC-0402-X-UF1-01|
+|C5 C5,CAPC-0805-X-UF22D-01|
+|C6 C6,CAPC-1206-X-UF47D-01|
+|OLED1 OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O3903-01|
+|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   
@@ -70,21 +68,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/TeensyView (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14048
 - oompID: PROJ-SPAR-14048-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
-- oompParts: C6,CAPC-1206-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF1-01
+- oompParts: C2,CAPC-0402-X-UF1-01
+- oompParts: C3,CAPC-0402-X-UF1-01
+- oompParts: C4,CAPC-0402-X-UF1-01
+- oompParts: C5,CAPC-0805-X-UF22D-01
+- oompParts: C6,CAPC-1206-X-UF47D-01
 - oompParts: OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O3903-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O472-01
 - rawParts: C1,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,
 - rawParts: C2,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,
 - rawParts: C3,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,

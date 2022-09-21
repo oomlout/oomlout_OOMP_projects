@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13058 > Sparkfun](#prs13058--sparkfun)
+* [PRS13058 > MiP ProMini-Pack](#prs13058--mip-promini-pack)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13058 > Sparkfun
+# PRS13058 > MiP ProMini-Pack
 
 - ID: PROJ-SPAR-13058-STAN-01
 - Hex ID: PRS13058
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13058-STAN-01/kicad/bom/ibom.html)
@@ -34,43 +38,43 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C10,CAPC-0603-X-NF100-V50,C10,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C13,CAPX-UNMATCHED-X-UF10-01,C13,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|C19,CAPX-UNMATCHED-X-UF10-01,C19,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,|
-|D3,LEDS-0603-G-STAN-01,D3,Green,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|D4,LEDS-0603-G-STAN-01,D4,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,PTCSMD,PTCSMD,PTC-1206,Resettable Fuse PTC,RES-11150,,|
-|JP1,HEAD-I01-X-PI06-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP3,HEAD-I01-X-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI08-01,JP1,FTDI Basic,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,,|
-|JP5,HEAD-I01-X-PI08-01,JP2,,M02PTH,1X02,Header 2,,,|
-|JP6,HEAD-I01-X-PI12-01,JP3,,M02PTH,1X02,Header 2,,,|
-|JP7,HEAD-I01-X-PI12-01,JP4,,M081X08,1X08,Header 8,,,|
-|JP8,HEAD-I01-X-PI08-01,JP5,,M081X08,1X08,Header 8,,,|
-|JP9,HEAD-I01-X-PI08-01,JP6,,M12PTH,1X12,Header 12,,,|
-|JP10,HEAD-I01-X-PI01-01,JP7,,M12PTH,1X12,Header 12,,,|
-|JP11,HEAD-UNMATCHED-X-PI04-01,JP8,,M081X08,1X08,Header 8,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP9,,M081X08,1X08,Header 8,,,|
-|R1,RESE-0603-X-UNMATCHED-01,JP10,M01PTH,M01PTH,1X01,Header 1,,,|
-|R2,RESE-0603-X-O103-01,JP11,,M04JST,1X04-1.5MM_JST,Header 4,,,|
-|R3,RESE-0603-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|R4,RESE-0603-X-O103-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0603-X-O103-01,Q1,8MHz,RESONATOR8MHZ,RESONATOR-SMD,Resonator,XTAL-08895,8MHZ,|
-|R6,RESE-0603-X-O331-01,R1,DNP,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R7,RESE-0603-X-O102-01,R2,10K,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R8,RESE-0603-X-O102-01,R3,DNP,RESISTOR0603-RES,0603-RES,Resistor,,,|
-|R9,RESE-0603-X-O102-01,R4,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R10,RESE-0603-X-O102-01,R5,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|R11,RESE-0603-X-O102-01,R6,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R9,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R10,1K,1KOHM1/10W1%(0603),0603-RES,RES-07856,RES-07856,1K,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|C10 C10,CAPC-0603-X-UF1D-01|
+|C13 C13,CAPX-UNMATCHED-X-UF10-01|
+|C19 C19,CAPX-UNMATCHED-X-UF10-01|
+|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP5 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP6 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP7 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP8 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP9 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|JP10 JP10,HEAD-I01-X-PI01-01|
+|JP11 JP11,HEAD-UNMATCHED-X-PI04-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-UNMATCHED-01|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R3 R3,RESE-0603-X-UNMATCHED-01|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R7 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R9 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R10 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R11 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -92,11 +96,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MiP_ProMini-Pack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13058
 - oompID: PROJ-SPAR-13058-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
-- oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0603-X-UF1D-01
 - oompParts: C13,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C19,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D3,LEDS-0603-G-STAN-01

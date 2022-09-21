@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3056 > Adafruit](#pra3056--adafruit)
+* [PRA3056 > Adafruit WICED WiFi Feather PCB](#pra3056--adafruit-wiced-wifi-feather-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3056 > Adafruit
+# PRA3056 > Adafruit WICED WiFi Feather PCB
 
 - ID: PROJ-ADAF-3056-STAN-01
 - Hex ID: PRA3056
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3056-STAN-01/kicad/bom/ibom.html)
@@ -34,35 +38,35 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C6,CAPC-0805-X-UNMATCHED-01,C6,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C7,CAPC-0603-X-UF1-01,C7,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C8,CAPC-0805-X-UNMATCHED-01,C8,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C10,CAPC-UNMATCHED-X-NF100-01,C10,0.1uF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,|
-|CHG,LEDS-0805-G-STAN-01,CHG,ORANGE,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,MBR120,DIODE-SCHOTTKYSOD-123,SOD-123,,,|
-|JP1,HEAD-I01-X-PI16-01,JP1,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,|
-|JP2,HEAD-I01-X-PI01-01,JP2,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,|
-|JP3,HEAD-I01-X-PI12-01,JP3,,HEADER-1X12,1X12_ROUND,,,|
-|L,LEDS-0805-G-STAN-01,L,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R1,RESE-0603-X-O1003-01,R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R2,RESE-0603-X-O102-01,R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-O1003-01,R3,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R4,RESE-0603-X-O1003-01,R4,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R6,RESE-0603-X-O1003-01,R6,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R7,RESE-0603-X-UNMATCHED-01,R7,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R8,RESE-0603-X-O472-01,R8,4.7K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,BAT,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,SW1,,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,U$31,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$32,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$34,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$35,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U1,,USI_WM-N-BM-09,USI_WM-N-BM-09,USI WM-N-BM-09 WICED WiFi Module,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C5 C5,CAPC-0603-X-UF1-01|
+|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C7 C7,CAPC-0603-X-UF1-01|
+|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C10 C10,CAPC-UNMATCHED-X-UF1D-01|
+|[CHG LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[JP1 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|JP2 JP2,HEAD-I01-X-PI01-01|
+|[JP3 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[L LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|R1 R1,RESE-0603-X-O1003-01|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R3 R3,RESE-0603-X-O1003-01|
+|R4 R4,RESE-0603-X-O1003-01|
+|R6 R6,RESE-0603-X-O1003-01|
+|[R7 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -84,16 +88,16 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-WICED-WiFi-Feather-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3056
 - oompID: PROJ-ADAF-3056-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C2,CAPC-0805-X-UF10-V10
+- oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
+- oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-UF1-01
-- oompParts: C8,CAPC-0805-X-UNMATCHED-01
-- oompParts: C10,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C8,CAPC-0805-X-UF10-V10
+- oompParts: C10,CAPC-UNMATCHED-X-UF1D-01
 - oompParts: CHG,LEDS-0805-G-STAN-01
-- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,DIOD-S123-X-KMBR120-01
 - oompParts: JP1,HEAD-I01-X-PI16-01
 - oompParts: JP2,HEAD-I01-X-PI01-01
 - oompParts: JP3,HEAD-I01-X-PI12-01
@@ -103,7 +107,7 @@ Contents
 - oompParts: R3,RESE-0603-X-O1003-01
 - oompParts: R4,RESE-0603-X-O1003-01
 - oompParts: R6,RESE-0603-X-O1003-01
-- oompParts: R7,RESE-0603-X-UNMATCHED-01
+- oompParts: R7,RESE-0603-X-O222-01
 - oompParts: R8,RESE-0603-X-O472-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

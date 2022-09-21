@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA358 > Adafruit](#pra358--adafruit)
+* [PRA358 > Adafruit_1.8_Inch_TFT_Breakout_PCB](#pra358--adafruit_18_inch_tft_breakout_pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA358 > Adafruit
+# PRA358 > Adafruit_1.8_Inch_TFT_Breakout_PCB
 
 - ID: PROJ-ADAF-358-STAN-01
 - Hex ID: PRA358
@@ -24,23 +25,26 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C4,CAPC-0805-X-NF100-V50,C4,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,4050D,4050D,SO16,Hex non-inverting BUFFER,,|
-|IC2,VREG-SO235-X-KLP298XS-V33D,IC2,LP298XS,LP298XS,SOT23-5L,,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,Q1,2N2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,Q2,MICROSD,MICROSD,MICROSD,Micro-SD / Transflash card holder with SPI pinout,,|
-|R1,RESE-0805-X-UNMATCHED-01,R1,22 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O102-01,R2,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,JD-T1800,JD-T1800,JD-T1800,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0805-X-UNMATCHED-01|
+|[R2 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -64,8 +68,8 @@ Contents
 - oompID: PROJ-ADAF-358-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-NF100-V50
-- oompParts: C4,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,VREG-SO235-X-KLP298XS-V33D
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3229 > Adafruit](#pra3229--adafruit)
+* [PRA3229 > Adafruit Radio FeatherWing PCB](#pra3229--adafruit-radio-featherwing-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3229 > Adafruit
+# PRA3229 > Adafruit Radio FeatherWing PCB
 
 - ID: PROJ-ADAF-3229-STAN-01
 - Hex ID: PRA3229
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3229-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|JP1,HEAD-I01-X-PI09-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI05-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI05-01,JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|JP4,HEAD-I01-X-PI03-01,JP2,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|JP5,HEAD-I01-X-PI03-01,JP3,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|JP6,HEAD-I01-X-PI02-01,JP4,,HEADER-1X376MIL,1X03_ROUND_76,PIN HEADER,,|
-|JP7,HEAD-I01-X-PI05-01,JP5,,HEADER-1X376MIL,1X03_ROUND_76,PIN HEADER,,|
-|MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP6,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|R1,RESE-0603-X-O1003-01,JP7,,HEADER-1X576MIL,1X05_ROUND_76,PIN HEADER,,|
-|R2,RESE-0603-X-O1003-01,MS1,FEATHERWING_NOHOLES,FEATHERWING_NOHOLES,FEATHERWING_NOHOLES,,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,100k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SW1,,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[JP2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP3 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP5 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|R2 R2,RESE-0603-X-O1003-01|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X1 X1,CAPX-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -82,7 +86,7 @@ Contents
 - oompParts: R2,RESE-0603-X-O1003-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,CAPX-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,
 - rawParts: FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

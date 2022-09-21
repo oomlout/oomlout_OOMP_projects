@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS8883 > Sparkfun](#prs8883--sparkfun)
+* [PRS8883 > Low Current Sensor Breakout-ACS712](#prs8883--low-current-sensor-breakout-acs712)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS8883 > Sparkfun
+# PRS8883 > Low Current Sensor Breakout-ACS712
 
 - ID: PROJ-SPAR-8883-STAN-01
 - Hex ID: PRS8883
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8883-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3203 > Adafruit](#pra3203--adafruit)
+* [PRA3203 > Adafruit Perma Proto Bonnet PCB](#pra3203--adafruit-perma-proto-bonnet-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3203 > Adafruit
+# PRA3203 > Adafruit Perma Proto Bonnet PCB
 
 - ID: PROJ-ADAF-3203-STAN-01
 - Hex ID: PRA3203
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3203-STAN-01/kicad/bom/ibom.html)
@@ -34,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CONN1,HEAD-I01-X-PI25-01,CONN1,HEADER-1X25,HEADER-1X25,1X25_ROUND_70MIL,,,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,RPI1,RASPBERRYPI_BPLUS_BONNETNODIM,RASPBERRYPI_BPLUS_BONNETNODIM,PI_BONNET_NODIM,,,|
+|CONN1 CONN1,HEAD-I01-X-PI25-01|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

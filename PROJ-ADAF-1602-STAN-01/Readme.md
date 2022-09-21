@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1602 > Adafruit](#pra1602--adafruit)
+* [PRA1602 > Adafruit CAP1188 PCB](#pra1602--adafruit-cap1188-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1602 > Adafruit
+# PRA1602 > Adafruit CAP1188 PCB
 
 - ID: PROJ-ADAF-1602-STAN-01
 - Hex ID: PRA1602
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1602-STAN-01/kicad/bom/ibom.html)
@@ -34,27 +38,27 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|JP3,HEAD-I01-X-PI13-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP4,HEAD-I01-X-PI13-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|LED1,LEDS-0805-G-STAN-01,JP3,,HEADER-1X13,1X13_ROUND_70,,,|
-|LED2,LEDS-0805-G-STAN-01,JP4,,HEADER-1X13,1X13_ROUND_70,,,|
-|LED3,LEDS-0805-G-STAN-01,LED1,,LED0805,CHIPLED_0805,LED,,|
-|LED4,LEDS-0805-G-STAN-01,LED2,,LED0805,CHIPLED_0805,LED,,|
-|LED5,LEDS-0805-G-STAN-01,LED3,,LED0805,CHIPLED_0805,LED,,|
-|LED6,LEDS-0805-G-STAN-01,LED4,,LED0805,CHIPLED_0805,LED,,|
-|LED7,LEDS-0805-G-STAN-01,LED5,,LED0805,CHIPLED_0805,LED,,|
-|LED8,LEDS-0805-G-STAN-01,LED6,,LED0805,CHIPLED_0805,LED,,|
-|R1,RESE-UNMATCHED-X-O471-01,LED7,,LED0805,CHIPLED_0805,LED,,|
-|R2,RESE-UNMATCHED-X-O471-01,LED8,,LED0805,CHIPLED_0805,LED,,|
-|R9,RESE-0805-X-O103-01,R1,470,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|R10,RESE-0805-X-O103-01,R2,470,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|R11,RESE-0805-X-O103-01,R9,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R12,RESE-0805-X-O103-01,R10,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R13,RESE-0805-X-O1503-01,R11,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R12,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,R13,150K,RESISTOR_0805MP,_0805MP,Resistors,,|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|JP3 JP3,HEAD-I01-X-PI13-01|
+|JP4 JP4,HEAD-I01-X-PI13-01|
+|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED3 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED5 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED6 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED7 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LED8 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|R1 R1,RESA-06038-X-O471X4-01|
+|R2 R2,RESA-06038-X-O471X4-01|
+|[R9 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R10 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R11 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R12 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|R13 R13,RESE-0805-X-O1503-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -88,8 +92,8 @@ Contents
 - oompParts: LED6,LEDS-0805-G-STAN-01
 - oompParts: LED7,LEDS-0805-G-STAN-01
 - oompParts: LED8,LEDS-0805-G-STAN-01
-- oompParts: R1,RESE-UNMATCHED-X-O471-01
-- oompParts: R2,RESE-UNMATCHED-X-O471-01
+- oompParts: R1,RESA-06038-X-O471X4-01
+- oompParts: R2,RESA-06038-X-O471X4-01
 - oompParts: R9,RESE-0805-X-O103-01
 - oompParts: R10,RESE-0805-X-O103-01
 - oompParts: R11,RESE-0805-X-O103-01

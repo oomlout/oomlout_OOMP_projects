@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18430 > Sparkfun](#prs18430--sparkfun)
+* [PRS18430 > SparkFun WiFi Function Board ESP32](#prs18430--sparkfun-wifi-function-board-esp32)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18430 > Sparkfun
+# PRS18430 > SparkFun WiFi Function Board ESP32
 
 - ID: PROJ-SPAR-18430-STAN-01
 - Hex ID: PRS18430
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18430-STAN-01/kicad/bom/ibom.html)

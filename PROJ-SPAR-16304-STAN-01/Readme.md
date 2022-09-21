@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16304 > Sparkfun](#prs16304--sparkfun)
+* [PRS16304 > Temperature Sensor TMP102 Qwiic](#prs16304--temperature-sensor-tmp102-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16304 > Sparkfun
+# PRS16304 > Temperature Sensor TMP102 Qwiic
 
 - ID: PROJ-SPAR-16304-STAN-01
 - Hex ID: PRS16304
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16304-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12924 > Sparkfun](#prs12924--sparkfun)
+* [PRS12924 > MicroView USB Programmer](#prs12924--microview-usb-programmer)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12924 > Sparkfun
+# PRS12924 > MicroView USB Programmer
 
 - ID: PROJ-SPAR-12924-STAN-01
 - Hex ID: PRS12924
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12924-STAN-01/kicad/bom/ibom.html)
@@ -34,28 +38,28 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,47pF,47PF-50V-5%(0603),0603-CAP,CAP-08913,CAP-08913,47pF,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,47pF,47PF-50V-5%(0603),0603-CAP,CAP-08913,CAP-08913,47pF,|
-|C4,CAPX-UNMATCHED-X-UF10-01,C4,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,10uF,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C6,CAPC-0603-X-NF100-V50,C6,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|C7,CAPC-0603-X-NF100-V50,C7,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,|
-|D1,LEDS-1206-G-STAN-01,D1,GREEN,LED-GREENLARGE,LED-1206,Various green LEDs,DIO-00862,GREEN,|
-|D2,LEDS-1206-G-STAN-01,D2,RED,LED-RED1206,LED-1206,Assorted Red LEDs,DIO-00809,RED,|
-|D3,LEDS-1206-G-STAN-01,D3,Yellow,LED-YELLOWLILYPAD,LED-1206,Yellow SMD LEDs,DIO-09909,Yellow,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,500mA,PTCSMD-W,PTC-1206-WIDE,Resettable Fuse PTC,,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R1,RESE-0603-X-O103-01,J1,MICROVIEW-16ND,MICROVIEW-16ND,MV-DIP16-NODIMENSION,,,,|
-|R2,RESE-0603-X-O103-01,JP1,USBA-SMD-MALE,USBA-SMD-MALE,USB-A-SMT-MALE,USB Connectors,,,|
-|R3,RESE-0603-X-O102-01,LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,|
-|R4,RESE-0603-X-O102-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|R5,RESE-0603-X-O102-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,|
-|R6,RESE-0603-X-O21-01,Q1,2N7002PW,MOSFET-NCHANNEL2N7002PW,SOT323,Common NMOSFET Parts,TRANS-11151,,|
-|R7,RESE-0603-X-O21-01,R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,RES-00824,10K,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-PF47-01|
+|C3 C3,CAPC-0603-X-PF47-01|
+|C4 C4,CAPX-UNMATCHED-X-UF10-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|C6 C6,CAPC-0603-X-UF1D-01|
+|C7 C7,CAPC-0603-X-UF1D-01|
+|D1 D1,LEDS-1206-G-STAN-01|
+|D2 D2,LEDS-1206-G-STAN-01|
+|D3 D3,LEDS-1206-G-STAN-01|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R6 R6,RESE-0603-X-O270-01|
+|R7 R7,RESE-0603-X-O270-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -77,13 +81,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroView_USB_Programmer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12924
 - oompID: PROJ-SPAR-12924-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-PF47-01
+- oompParts: C3,CAPC-0603-X-PF47-01
 - oompParts: C4,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C5,CAPC-0603-X-NF100-V50
-- oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C7,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-1206-G-STAN-01
 - oompParts: D2,LEDS-1206-G-STAN-01
 - oompParts: D3,LEDS-1206-G-STAN-01
@@ -96,8 +100,8 @@ Contents
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: R4,RESE-0603-X-O102-01
 - oompParts: R5,RESE-0603-X-O102-01
-- oompParts: R6,RESE-0603-X-O21-01
-- oompParts: R7,RESE-0603-X-O21-01
+- oompParts: R6,RESE-0603-X-O270-01
+- oompParts: R7,RESE-0603-X-O270-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: C2,47pF,47PF-50V-5%(0603),0603-CAP,CAP-08913,CAP-08913,47pF,

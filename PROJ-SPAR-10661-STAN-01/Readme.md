@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10661 > Sparkfun](#prs10661--sparkfun)
+* [PRS10661 > VoiceBox Shield](#prs10661--voicebox-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10661 > Sparkfun
+# PRS10661 > VoiceBox Shield
 
 - ID: PROJ-SPAR-10661-STAN-01
 - Hex ID: PRS10661
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10661-STAN-01/kicad/bom/ibom.html)
@@ -34,40 +38,40 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UNMATCHED-01,C1,100pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0603-X-UNMATCHED-01,C3,100pF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C4,CAPC-0603-X-UNMATCHED-01,C4,10 nF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C5,CAPC-0603-X-UF1-01,C5,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C6,CAPC-0603-X-UF1-01,C6,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C7,CAPC-0603-X-UNMATCHED-01,C7,10 nF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C8,CAPX-UNMATCHED-X-UF10-01,C8,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C9,CAPX-UNMATCHED-X-UNMATCHED-01,C9,100 uF,CAP_POL7343,EIA7343,Capacitor Polarized,,|
-|C10,CAPC-0603-X-UF1-01,C10,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C11,CAPC-0603-X-UF1-01,C11,1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C12,CAPC-0603-X-NF100-V50,C12,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,IC1,OPAMP-DUALU,OPAMP-DUALU,SO08,Operational Amplifier,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|JP3,HEAD-I01-X-PI02-01,JP2,JUMPER-32-3,JUMPER-32-3,SJ_3_PASTE2&3,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,Audio Header,M02PTH,1X02,Header 2,,|
-|LED1,LEDS-0603-G-STAN-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R1,RESE-0603-X-O103-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R2,RESE-0603-X-O1003-01,JP6,3.5mm SMD Audio Jack,AUDIO-JACKSMD2,AUDIO-JACK-3.5MM-SMD,3.5mm Audio Jack,,|
-|R3,RESE-0603-X-O103-01,LED1,Green,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0603-X-O103-01,R1,10k,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R5,RESE-0603-X-O1003-01,R2,100K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R6,RESE-0603-X-O103-01,R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R7,RESE-0603-X-O103-01,R4,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R8,RESE-UNMATCHED-X-UNMATCHED-01,R5,100K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R9,RESE-0603-X-O103-01,R6,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R10,RESE-0603-X-O103-01,R7,10K,RESISTOR0603-RES,0603-RES,Resistor,,|
-|R11,RESE-0603-X-O283-01,R8,10K Trimpot,TRIMPOTSMD,TRIMPOT-3MM,,,|
-|R12,RESE-0603-X-O283-01,R9,10K,RESISTOR0603,0603,Resistor,,|
-|R13,RESE-0603-X-O331-01,R10,10K,RESISTOR0603,0603,Resistor,,|
-|R14,RESE-0603-X-O103-01,R11,28k,RESISTOR0603-RES,0603-RES,Resistor,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R12,28k,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R13,330,RESISTOR0603-RES,0603-RES,Resistor,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R14,10k,RESISTOR0603-RES,0603-RES,Resistor,,|
+|C1 C1,CAPC-0603-X-PF100-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-PF100-01|
+|C4 C4,CAPC-0603-X-UNMATCHED-01|
+|C5 C5,CAPC-0603-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF1-01|
+|C7 C7,CAPC-0603-X-UNMATCHED-01|
+|C8 C8,CAPX-UNMATCHED-X-UF10-01|
+|C9 C9,CAPX-UNMATCHED-X-UNMATCHED-01|
+|C10 C10,CAPC-0603-X-UF1-01|
+|C11 C11,CAPC-0603-X-UF1-01|
+|C12 C12,CAPC-0603-X-UF1D-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R2 R2,RESE-0603-X-O1003-01|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R5 R5,RESE-0603-X-O1003-01|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R8 R8,RESE-UNMATCHED-X-UNMATCHED-01|
+|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R11 R11,RESE-0603-X-O283-01|
+|R12 R12,RESE-0603-X-O283-01|
+|[R13 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[R14 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -89,9 +93,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/VoiceBox_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10661
 - oompID: PROJ-SPAR-10661-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-PF100-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-PF100-01
 - oompParts: C4,CAPC-0603-X-UNMATCHED-01
 - oompParts: C5,CAPC-0603-X-UF1-01
 - oompParts: C6,CAPC-0603-X-UF1-01
@@ -100,7 +104,7 @@ Contents
 - oompParts: C9,CAPX-UNMATCHED-X-UNMATCHED-01
 - oompParts: C10,CAPC-0603-X-UF1-01
 - oompParts: C11,CAPC-0603-X-UF1-01
-- oompParts: C12,CAPC-0603-X-NF100-V50
+- oompParts: C12,CAPC-0603-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI02-01

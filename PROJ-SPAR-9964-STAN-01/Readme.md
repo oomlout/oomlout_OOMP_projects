@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9964 > Sparkfun](#prs9964--sparkfun)
+* [PRS9964 > Electret Microphone Breakout](#prs9964--electret-microphone-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9964 > Sparkfun
+# PRS9964 > Electret Microphone Breakout
 
 - ID: PROJ-SPAR-9964-STAN-01
 - Hex ID: PRS9964
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

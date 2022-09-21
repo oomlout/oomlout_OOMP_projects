@@ -49,14 +49,6 @@
             "value": "R1,RESE-0603-X-O103-01"
         },
         {
-            "name": "oompParts",
-            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
             "name": "rawParts",
             "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,"
         },

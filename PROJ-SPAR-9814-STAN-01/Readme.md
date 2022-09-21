@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9814 > Sparkfun](#prs9814--sparkfun)
+* [PRS9814 > ADXL345 Eval](#prs9814--adxl345-eval)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9814 > Sparkfun
+# PRS9814 > ADXL345 Eval
 
 - ID: PROJ-SPAR-9814-STAN-01
 - Hex ID: PRS9814
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

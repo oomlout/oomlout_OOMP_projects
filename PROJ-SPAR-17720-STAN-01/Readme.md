@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17720 > Sparkfun](#prs17720--sparkfun)
+* [PRS17720 > MicroMod Processor-RP2040](#prs17720--micromod-processor-rp2040)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17720 > Sparkfun
+# PRS17720 > MicroMod Processor-RP2040
 
 - ID: PROJ-SPAR-17720-STAN-01
 - Hex ID: PRS17720
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17720-STAN-01/kicad/bom/ibom.html)

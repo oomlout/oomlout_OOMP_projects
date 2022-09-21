@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9614 > Sparkfun](#prs9614--sparkfun)
+* [PRS9614 > USB microB Breakout Board](#prs9614--usb-microb-breakout-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9614 > Sparkfun
+# PRS9614 > USB microB Breakout Board
 
 - ID: PROJ-SPAR-9614-STAN-01
 - Hex ID: PRS9614
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9614-STAN-01/kicad/bom/ibom.html)

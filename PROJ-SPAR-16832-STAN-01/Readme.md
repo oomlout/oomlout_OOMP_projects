@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16832 > Sparkfun](#prs16832--sparkfun)
+* [PRS16832 > OpenLog Artemis](#prs16832--openlog-artemis)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16832 > Sparkfun
+# PRS16832 > OpenLog Artemis
 
 - ID: PROJ-SPAR-16832-STAN-01
 - Hex ID: PRS16832
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16832-STAN-01/kicad/bom/ibom.html)

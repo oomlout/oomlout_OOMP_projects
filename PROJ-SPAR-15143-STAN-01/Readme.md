@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15143 > Sparkfun](#prs15143--sparkfun)
+* [PRS15143 > LCD TFT Breakout 1in8 128x160](#prs15143--lcd-tft-breakout-1in8-128x160)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15143 > Sparkfun
+# PRS15143 > LCD TFT Breakout 1in8 128x160
 
 - ID: PROJ-SPAR-15143-STAN-01
 - Hex ID: PRS15143
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15143-STAN-01/kicad/bom/ibom.html)

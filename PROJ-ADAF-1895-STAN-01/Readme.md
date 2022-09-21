@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [PRA1895 > Adafruit](#pra1895--adafruit)
+* [PRA1895 > Adafruit FRAM Breakout PCB](#pra1895--adafruit-fram-breakout-pcb)
 	* [Schematic](#schematic)
 	* [Tags](#tags)
 
-# PRA1895 > Adafruit
+# PRA1895 > Adafruit FRAM Breakout PCB
 
 - ID: PROJ-ADAF-1895-STAN-01
 - Hex ID: PRA1895

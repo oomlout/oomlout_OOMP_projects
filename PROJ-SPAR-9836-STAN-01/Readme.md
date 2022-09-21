@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9836 > Sparkfun](#prs9836--sparkfun)
+* [PRS9836 > ADXL345 Breakout](#prs9836--adxl345-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9836 > Sparkfun
+# PRS9836 > ADXL345 Breakout
 
 - ID: PROJ-SPAR-9836-STAN-01
 - Hex ID: PRS9836
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9836-STAN-01/kicad/bom/ibom.html)

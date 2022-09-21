@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13994 > Sparkfun](#prs13994--sparkfun)
+* [PRS13994 > SSOP-DIP Adapter 16-Pin](#prs13994--ssop-dip-adapter-16-pin)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13994 > Sparkfun
+# PRS13994 > SSOP-DIP Adapter 16-Pin
 
 - ID: PROJ-SPAR-13994-STAN-01
 - Hex ID: PRS13994
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13994-STAN-01/kicad/bom/ibom.html)
@@ -34,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1,HEAD-I01-X-PI08-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI08-01,JP1,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,|
-|JP3,HEAD-I01-X-PI08-01,JP2,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,|
-|JP4,HEAD-I01-X-PI08-01,JP3,,M08NO_SILK,1X08_PIN1_NO_SILK,Header 8,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,,M08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Header 8,CONN-08438,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,|
+|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

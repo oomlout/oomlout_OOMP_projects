@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15177 > Sparkfun](#prs15177--sparkfun)
+* [PRS15177 > Qwiic Proximity Sensor](#prs15177--qwiic-proximity-sensor)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15177 > Sparkfun
+# PRS15177 > Qwiic Proximity Sensor
 
 - ID: PROJ-SPAR-15177-STAN-01
 - Hex ID: PRS15177
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15177-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4863 > Adafruit](#pra4863--adafruit)
+* [PRA4863 > Adafruit CYBERDECK PCB](#pra4863--adafruit-cyberdeck-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4863 > Adafruit
+# PRA4863 > Adafruit CYBERDECK PCB
 
 - ID: PROJ-ADAF-4863-STAN-01
 - Hex ID: PRA4863
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4863-STAN-01/kicad/bom/ibom.html)
@@ -34,18 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C34,CAPC-0805-X-UF10-V10,C34,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|CONN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CONN3,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,|
-|D1,DIOD-S323-X-UNMATCHED-01,D1,3.6V,DIODE-ZENERSOD323,SOD-323,Zener Diode,,|
-|D2,DIOD-S323-X-UNMATCHED-01,D2,3.6V,DIODE-ZENERSOD323,SOD-323,Zener Diode,,|
-|NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R7,RESE-0603-X-O102-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|R8,RESE-0603-X-O102-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,NEOPIX,JST PH 3,CON_JST_PH_3PIN,JSTPH3,,,|
-|RPI3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|SENSE,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C34 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[CONN3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|D1 D1,DIOD-S323-X-UNMATCHED-01|
+|D2 D2,DIOD-S323-X-UNMATCHED-01|
+|NEOPIX NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R7 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|RPI3 RPI3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SENSE SENSE,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,8 +73,8 @@ Contents
 - oompID: PROJ-ADAF-4863-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C34,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: CONN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-I01-X-PI04-01
+- oompParts: CONN3,HEAD-I01-X-PI04-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01

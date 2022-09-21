@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18354 > Sparkfun](#prs18354--sparkfun)
+* [PRS18354 > SparkFun Qwiic LED Stick](#prs18354--sparkfun-qwiic-led-stick)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18354 > Sparkfun
+# PRS18354 > SparkFun Qwiic LED Stick
 
 - ID: PROJ-SPAR-18354-STAN-01
 - Hex ID: PRS18354
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18354-STAN-01/kicad/bom/ibom.html)

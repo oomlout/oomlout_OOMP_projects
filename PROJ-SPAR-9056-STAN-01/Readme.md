@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9056 > Sparkfun](#prs9056--sparkfun)
+* [PRS9056 > Analog Digital MUX Breakout](#prs9056--analog-digital-mux-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9056 > Sparkfun
+# PRS9056 > Analog Digital MUX Breakout
 
 - ID: PROJ-SPAR-9056-STAN-01
 - Hex ID: PRS9056
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9056-STAN-01/kicad/bom/ibom.html)

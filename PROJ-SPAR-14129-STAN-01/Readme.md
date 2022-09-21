@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14129 > Sparkfun](#prs14129--sparkfun)
+* [PRS14129 > Ardumoto-Motor Driver Shield](#prs14129--ardumoto-motor-driver-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14129 > Sparkfun
+# PRS14129 > Ardumoto-Motor Driver Shield
 
 - ID: PROJ-SPAR-14129-STAN-01
 - Hex ID: PRS14129
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14129-STAN-01/kicad/bom/ibom.html)
@@ -34,63 +38,63 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08604,,0.1uF,,|
-|C3,CAPX-UNMATCHED-X-UF100-01,C3,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100ÃÂµF polarized capacitors,,CAP-12547,,100uF,,|
-|C8,CAPC-0603-X-NF100-V50,C8,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08604,,0.1uF,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D1,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D3,DIOD-UNMATCHED-X-UNMATCHED-01,D3,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D4,DIOD-UNMATCHED-X-UNMATCHED-01,D4,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D5,DIOD-UNMATCHED-X-UNMATCHED-01,D5,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D6,DIOD-UNMATCHED-X-UNMATCHED-01,D6,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D7,DIOD-UNMATCHED-X-UNMATCHED-01,D7,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D8,DIOD-UNMATCHED-X-UNMATCHED-01,D8,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,1A/40V/500mV,,|
-|D9,LEDS-0603-G-STAN-01,D9,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,,|
-|D10,LEDS-0603-G-STAN-01,D10,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,,|
-|D11,LEDS-0603-G-STAN-01,D11,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,,|
-|D12,LEDS-0603-G-STAN-01,D12,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME2,FRAME-LETTERNO_PACKAGE,FRAME-LETTERNO_PACKAGE,DUMMY,Schematic Frame - Letter,Nobody,,,,v01,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,|
-|J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,|
-|J7,TERS-35D-L-UNMATCHED-01,J1,,CONN_08NO_SILK_FEMALE_PTH,1X08_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08438,,,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08437,,,,|
-|J10,TERS-35D-L-PI02-01,J4,,CONN_07NO_SILK,1X07_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08437,,,,|
-|J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J6,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|J13,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J7,,CONN_04SCREW,SCREWTERMINAL-3.5MM-4,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,2xCONN-08399,2xPRT-08084,,,|
-|J14,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J8,,CONN_04,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,,|
-|J15,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J9,,CONN_02,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J10,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08399,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J11,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J12,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J13,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J14,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J15,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,31NCT,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,|
-|JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,31NCT,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,|
-|JP9,HEAD-I01-X-PI02-01,JP3,31NCT,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,|
-|JP10,HEAD-I01-X-PI02-01,JP4,31NCT,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,|
-|JP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP5,2NCT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,2NCT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,|
-|LED2,LEDS-0603-G-STAN-01,JP7,2NCT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,|
-|LED3,LEDS-0603-G-STAN-01,JP8,2NCT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,|
-|LED4,LEDS-0603-G-STAN-01,JP9,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|R1,RESE-0603-X-O102-01,JP10,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,|
-|R2,RESE-0603-X-O102-01,JP11,31NCT,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,|
-|R3,RESE-0603-X-O102-01,LED1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,BLUE,,|
-|R4,RESE-0603-X-O102-01,LED2,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,DIO-09003,,Yellow,,|
-|R5,RESE-0603-X-O102-01,LED3,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,DIO-09003,,Yellow,,|
-|R6,RESE-0603-X-O102-01,LED4,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,BLUE,,|
-|R7,RESE-0603-X-O102-01,LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,,,,|
-|R8,RESE-0603-X-O102-01,LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,,|
-|U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,,|
-|U6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPX-UNMATCHED-X-UF100-01|
+|C8 C8,CAPC-0603-X-UF1D-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D3 D3,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D4 D4,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D5 D5,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D6 D6,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D7 D7,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D8 D8,DIOD-UNMATCHED-X-UNMATCHED-01|
+|[D9 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D10 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D11 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[D12 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J7 J7,TERS-35D-L-UNMATCHED-01|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J9 J9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J10 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|J11 J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J12 J12,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J13 J13,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J14 J14,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J15 J15,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP8 JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP9 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP10 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP11 JP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R6 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R7 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U6 U6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -112,9 +116,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14129
 - oompID: PROJ-SPAR-14129-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C8,CAPC-0603-X-NF100-V50
+- oompParts: C8,CAPC-0603-X-UF1D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01

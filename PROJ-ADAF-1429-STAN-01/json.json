@@ -129,22 +129,6 @@
             "value": "R3,RESE-0805-X-O103-01"
         },
         {
-            "name": "oompParts",
-            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
             "name": "rawParts",
             "value": "C1,10uF/16V,CAP_CERAMIC0805,0805,Ceramic Capacitors,,,,,,"
         },

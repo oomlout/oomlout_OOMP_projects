@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13169 > Sparkfun](#prs13169--sparkfun)
+* [PRS13169 > Blackberry Trackballer Breakout](#prs13169--blackberry-trackballer-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13169 > Sparkfun
+# PRS13169 > Blackberry Trackballer Breakout
 
 - ID: PROJ-SPAR-13169-STAN-01
 - Hex ID: PRS13169
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13169-STAN-01/kicad/bom/ibom.html)
@@ -34,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9358 > Sparkfun](#prs9358--sparkfun)
+* [PRS9358 > Bluetooth Mate](#prs9358--bluetooth-mate)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9358 > Sparkfun
+# PRS9358 > Bluetooth Mate
 
 - ID: PROJ-SPAR-9358-STAN-01
 - Hex ID: PRS9358
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9358-STAN-01/kicad/bom/ibom.html)

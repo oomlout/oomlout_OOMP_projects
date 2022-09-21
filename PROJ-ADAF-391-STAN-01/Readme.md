@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRA391 > Adafruit](#pra391--adafruit)
+* [PRA391 > Adafruit BMP085 PCB](#pra391--adafruit-bmp085-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA391 > Adafruit
+# PRA391 > Adafruit BMP085 PCB
 
 - ID: PROJ-ADAF-391-STAN-01
 - Hex ID: PRA391
@@ -24,25 +25,26 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,1.0uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,1.0uF,C-USC0805,C0805,CAPACITOR, American symbol,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|JP2,HEAD-I01-X-PI07-01,JP2,Breakout,HEADER-1X7THICKER,1X07_ROUND_76,PIN HEADER,,|
-|Q1,MOSN-SO23-X-KBSS138-01,Q1,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,|
-|Q2,MOSN-SO23-X-KBSS138-01,Q2,BSS138,MOSFET-NREFLOW,SOT23,N-Channel Mosfet,,|
-|R1,RESE-0805-X-O103-01,R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R2,RESE-0805-X-O103-01,R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R3,RESE-0805-X-O103-01,R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R4,RESE-0805-X-O103-01,R4,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
-|U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$7,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$8,MOUNTINGHOLE2.0,MOUNTINGHOLE2.0,MOUNTINGHOLE_2.0_PLATED,Mounting Hole,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,U$15,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,|
+|C1 C1,CAPC-0805-X-UF1-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP2 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -64,8 +66,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP085-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/391
 - oompID: PROJ-ADAF-391-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF1-01
+- oompParts: C2,CAPC-0805-X-UF1-01
 - oompParts: D1,DIOD-S323-X-K4148-01
 - oompParts: JP2,HEAD-I01-X-PI07-01
 - oompParts: Q1,MOSN-SO23-X-KBSS138-01
@@ -74,8 +76,6 @@ Contents
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01
 - oompParts: R4,RESE-0805-X-O103-01
-- oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,1.0uF,C-USC0805,C0805,CAPACITOR, American symbol,,

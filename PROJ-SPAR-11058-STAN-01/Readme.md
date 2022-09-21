@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11058 > Sparkfun](#prs11058--sparkfun)
+* [PRS11058 > Venus GPS SMA Connector](#prs11058--venus-gps-sma-connector)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11058 > Sparkfun
+# PRS11058 > Venus GPS SMA Connector
 
 - ID: PROJ-SPAR-11058-STAN-01
 - Hex ID: PRS11058
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11058-STAN-01/kicad/bom/ibom.html)
@@ -34,27 +38,26 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPX-UNMATCHED-X-UF10-01,C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C3,CAPC-0402-X-UF1-01,C3,1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C4,CAPC-0402-X-UNMATCHED-01,C4,22pF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C5,CAPC-0402-X-NF100-01,C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|D1,DIOD-S323-X-UNMATCHED-01,C7,DNP,CAP_POLEN_J2,EN_J2,Capacitor Polarized,,|
-|JP1,HEAD-I01-X-PI04-01,D1,BAS16,DIODESOD,SOD-323,Diode,,|
-|JP2,HEAD-I01-X-PI04-01,JP1,MAIN,M04PTH,1X04,Header 4,,|
-|JP3,HEAD-I01-X-PI04-01,JP2,MISC,M04PTH,1X04,Header 4,,|
-|JP4,HEAD-I01-X-PI04-01,JP3,SPI,M04PTH,1X04,Header 4,,|
-|JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,AUX,M04PTH,1X04,Header 4,,|
-|L1,UNMATCHED-0402-X-UNMATCHED-01,JP5,SMA_EDGE,SMA_EDGE,SMA-EDGE,SMA Antenna Connector,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R1,RESE-0402-X-O333-01,JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O103-01,L1,33nH,INDUCTOR0402,C0402,Inductors,,|
-|R3,RESE-0402-X-O331-01,LED1,Red,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0402-X-O331-01,LOGO1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R6,RESE-0402-X-O103-01,LOGO2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|R7,RESE-UNMATCHED-X-UNMATCHED-01,LOGO3,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,33k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPX-UNMATCHED-X-UF10-01|
+|C3 C3,CAPC-0402-X-UF1-01|
+|C4 C4,CAPC-0402-X-PF22-01|
+|C5 C5,CAPC-0402-X-UF1D-01|
+|D1 D1,DIOD-S323-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[JP4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|JP5 JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L1 L1,UNMATCHED-0402-X-UNMATCHED-01|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|R1 R1,RESE-0402-X-O333-01|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R3 R3,RESE-0402-X-O331-01|
+|R4 R4,RESE-0402-X-O331-01|
+|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -76,11 +79,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Venus_GPS_SMA_Connector (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11058
 - oompID: PROJ-SPAR-11058-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C3,CAPC-0402-X-UF1-01
-- oompParts: C4,CAPC-0402-X-UNMATCHED-01
-- oompParts: C5,CAPC-0402-X-NF100-01
+- oompParts: C4,CAPC-0402-X-PF22-01
+- oompParts: C5,CAPC-0402-X-UF1D-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: JP2,HEAD-I01-X-PI04-01
@@ -95,7 +98,6 @@ Contents
 - oompParts: R4,RESE-0402-X-O331-01
 - oompParts: R6,RESE-0402-X-O103-01
 - oompParts: R7,RESE-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

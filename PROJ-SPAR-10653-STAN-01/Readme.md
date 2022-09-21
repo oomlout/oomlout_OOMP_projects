@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10653 > Sparkfun](#prs10653--sparkfun)
+* [PRS10653 > Voice Recorder Breakout-ISD1932](#prs10653--voice-recorder-breakout-isd1932)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10653 > Sparkfun
+# PRS10653 > Voice Recorder Breakout-ISD1932
 
 - ID: PROJ-SPAR-10653-STAN-01
 - Hex ID: PRS10653
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10653-STAN-01/kicad/bom/ibom.html)
@@ -34,31 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0603-X-NF100-V50,C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C4,CAPX-UNMATCHED-X-UF10-01,C4,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C5,CAPX-UNMATCHED-X-UF10-01,C5,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C6,CAPX-UNMATCHED-X-UF10-01,C6,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C7,CAPX-UNMATCHED-X-UF10-01,C7,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C8,CAPC-0603-X-NF100-V50,C8,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C9,CAPC-0603-X-NF100-V50,C9,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C10,CAPC-0603-X-UNMATCHED-01,C10,4.7uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP4,HEAD-I01-X-PI02-01,JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|JP5,HEAD-I01-X-PI02-01,JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP7,HEAD-I01-X-PI08-01,JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|JP8,HEAD-I01-X-PI02-01,JP4,,M02PTH,1X02,Header 2,,|
-|JP9,HEAD-I01-X-PI06-01,JP5,,M02PTH,1X02,Header 2,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|R1,RESE-0603-X-O102-01,JP7,,M08,1X08,Header 8,,|
-|R2,RESE-0603-X-UNMATCHED-01,JP8,,M02PTH,1X02,Header 2,,|
-|R3,RESE-0603-X-UNMATCHED-01,JP9,,M06SIP,1X06,Header 6,,|
-|R4,RESE-0603-X-UNMATCHED-01,JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP11,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP12,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP13,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,Red,LED0603,LED-0603,LEDs,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1k,RESISTOR0603-RES,0603-RES,Resistor,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0603-X-UF1D-01|
+|C4 C4,CAPX-UNMATCHED-X-UF10-01|
+|C5 C5,CAPX-UNMATCHED-X-UF10-01|
+|C6 C6,CAPX-UNMATCHED-X-UF10-01|
+|C7 C7,CAPX-UNMATCHED-X-UF10-01|
+|C8 C8,CAPC-0603-X-UF1D-01|
+|C9 C9,CAPC-0603-X-UF1D-01|
+|C10 C10,CAPC-0603-X-UF47D-01|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP7 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP9 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,16 +83,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10653
 - oompID: PROJ-SPAR-10653-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: C4,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C5,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C6,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C7,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C8,CAPC-0603-X-NF100-V50
-- oompParts: C9,CAPC-0603-X-NF100-V50
-- oompParts: C10,CAPC-0603-X-UNMATCHED-01
+- oompParts: C8,CAPC-0603-X-UF1D-01
+- oompParts: C9,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0603-X-UF47D-01
 - oompParts: JP4,HEAD-I01-X-PI02-01
 - oompParts: JP5,HEAD-I01-X-PI02-01
 - oompParts: JP7,HEAD-I01-X-PI08-01
@@ -97,11 +100,10 @@ Contents
 - oompParts: JP9,HEAD-I01-X-PI06-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: R1,RESE-0603-X-O102-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
-- oompParts: R3,RESE-0603-X-UNMATCHED-01
-- oompParts: R4,RESE-0603-X-UNMATCHED-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O472-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

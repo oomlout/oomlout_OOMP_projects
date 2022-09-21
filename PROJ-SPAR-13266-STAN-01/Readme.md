@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13266 > Sparkfun](#prs13266--sparkfun)
+* [PRS13266 > MAX31855K Thermocouple Breakout](#prs13266--max31855k-thermocouple-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13266 > Sparkfun
+# PRS13266 > MAX31855K Thermocouple Breakout
 
 - ID: PROJ-SPAR-13266-STAN-01
 - Hex ID: PRS13266
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13266-STAN-01/kicad/bom/ibom.html)
@@ -34,16 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,|
-|C2,CAPC-0603-X-UNMATCHED-01,C2,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,,CAP-00867,10nF,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|L1,UNMATCHED-0603-X-UNMATCHED-01,FRAME1,>VERSION,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Brent Wilkins,,,v01,|
-|L2,UNMATCHED-0603-X-UNMATCHED-01,JP1,DNP,M06SILK_FEMALE_PTH,1X06,Header 6,,CONN-08437,,,|
-|R1,RESE-0603-X-O103-01,JP2,PCB_THERMOCOUPLE,PCB_THERMOCOUPLE,PCC-SMP,Circuit Board Thermocouple Connectors,,,,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L1,470OHM,INDUCTOR0603,0603,Inductors,,NDUC-12579,,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L2,470OHM,INDUCTOR0603,0603,Inductors,,NDUC-12579,,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|C2 C2,CAPC-0603-X-NF10-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L1 L1,UNMATCHED-0603-X-UNMATCHED-01|
+|L2 L2,UNMATCHED-0603-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -65,15 +67,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MAX31855K_Thermocouple_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13266
 - oompID: PROJ-SPAR-13266-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-NF10-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L1,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: L2,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,
 - rawParts: C2,10nF,10NF/10000PF-50V-10%(0603),0603-CAP,CAP-00867,,CAP-00867,10nF,,

@@ -42,111 +42,83 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D1,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D2,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D2,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D3,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D3,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D4,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D4,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D5,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D5,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D6,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D6,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D7,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D7,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D8,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D8,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D9,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D9,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D10,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D10,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D11,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D11,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D12,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D12,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D13,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D13,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D14,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D14,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D15,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D15,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D16,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D16,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D17,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D17,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D18,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D18,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D19,DIOD-UNMATCHED-X-UNMATCHED-01"
+            "value": "D19,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "oompParts",
-            "value": "D20,DIOD-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "H1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "H2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "H3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "H4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "D20,LEDS-2020-RGB-K102-01"
         },
         {
             "name": "rawParts",

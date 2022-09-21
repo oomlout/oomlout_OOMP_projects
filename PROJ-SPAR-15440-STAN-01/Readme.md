@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15440 > Sparkfun](#prs15440--sparkfun)
+* [PRS15440 > Qwiic Atmospheric Sensor Breakout BME280](#prs15440--qwiic-atmospheric-sensor-breakout-bme280)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15440 > Sparkfun
+# PRS15440 > Qwiic Atmospheric Sensor Breakout BME280
 
 - ID: PROJ-SPAR-15440-STAN-01
 - Hex ID: PRS15440
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15440-STAN-01/kicad/bom/ibom.html)

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS495 > Sparkfun](#prs495--sparkfun)
+* [PRS495 > SOIC20-DIP Adapter](#prs495--soic20-dip-adapter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS495 > Sparkfun
+# PRS495 > SOIC20-DIP Adapter
 
 - ID: PROJ-SPAR-495-STAN-01
 - Hex ID: PRS495
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-495-STAN-01/kicad/bom/ibom.html)

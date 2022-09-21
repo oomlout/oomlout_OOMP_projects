@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11113 > Sparkfun](#prs11113--sparkfun)
+* [PRS11113 > Pro Mini Candy](#prs11113--pro-mini-candy)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11113 > Sparkfun
+# PRS11113 > Pro Mini Candy
 
 - ID: PROJ-SPAR-11113-STAN-01
 - Hex ID: PRS11113
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11113-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-NF100-01,C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C2,CAPC-0402-X-NF100-01,C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-NF100-01,C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C10,CAPC-0402-X-NF100-01,C10,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C13,CAPX-UNMATCHED-X-UF10-01,C13,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|C19,CAPX-UNMATCHED-X-UF10-01,C19,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,|
-|D3,LEDS-0603-G-STAN-01,D3,Green,LED0603,LED-0603,LEDs,,|
-|JP1,HEAD-I01-X-PI06-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP2,HEAD-I01-X-PI02-01,JP1,FTDI Basic,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,|
-|JP3,HEAD-I01-X-PI01-01,JP2,,M02PTH,1X02,Header 2,,|
-|JP4,HEAD-I01-X-PI01-01,JP3,,M01PTH,1X01,Header 1,,|
-|JP6,HEAD-I01-X-PI12-01,JP4,,M01PTH,1X01,Header 1,,|
-|JP7,HEAD-I01-X-PI12-01,JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|LED1,LEDS-0603-G-STAN-01,JP6,,M12PTH,1X12,Header 12,,|
-|Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP7,,M12PTH,1X12,Header 12,,|
-|R1,RESE-0402-X-UNMATCHED-01,JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O103-01,LED1,Red,LED0603,LED-0603,LEDs,,|
-|R3,RESE-0402-X-UNMATCHED-01,Q1,8/16/20MHz,RESONATORSMD,RESONATOR-SMD,Resonator,,|
-|R6,RESE-0402-X-O331-01,R1,,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R11,RESE-0402-X-O103-01,R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,330,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R11,10K,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,S2,Reset,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,|
+|C1 C1,CAPC-0402-X-UF1D-01|
+|C2 C2,CAPC-0402-X-UF1D-01|
+|C3 C3,CAPC-0402-X-UF1D-01|
+|C10 C10,CAPC-0402-X-UF1D-01|
+|C13 C13,CAPX-UNMATCHED-X-UF10-01|
+|C19 C19,CAPX-UNMATCHED-X-UF10-01|
+|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP3 JP3,HEAD-I01-X-PI01-01|
+|JP4 JP4,HEAD-I01-X-PI01-01|
+|[JP6 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[JP7 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0402-X-UNMATCHED-01|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R3 R3,RESE-0402-X-UNMATCHED-01|
+|R6 R6,RESE-0402-X-O331-01|
+|[R11 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -79,10 +83,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Pro_Mini_Candy (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11113
 - oompID: PROJ-SPAR-11113-STAN-01
-- oompParts: C1,CAPC-0402-X-NF100-01
-- oompParts: C2,CAPC-0402-X-NF100-01
-- oompParts: C3,CAPC-0402-X-NF100-01
-- oompParts: C10,CAPC-0402-X-NF100-01
+- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-UF1D-01
+- oompParts: C10,CAPC-0402-X-UF1D-01
 - oompParts: C13,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C19,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D3,LEDS-0603-G-STAN-01

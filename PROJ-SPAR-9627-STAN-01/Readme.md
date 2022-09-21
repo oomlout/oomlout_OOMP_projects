@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9627 > Sparkfun](#prs9627--sparkfun)
+* [PRS9627 > Mini FET Shield](#prs9627--mini-fet-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9627 > Sparkfun
+# PRS9627 > Mini FET Shield
 
 - ID: PROJ-SPAR-9627-STAN-01
 - Hex ID: PRS9627
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9627-STAN-01/kicad/bom/ibom.html)

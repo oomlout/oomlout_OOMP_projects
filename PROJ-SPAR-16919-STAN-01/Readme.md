@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16919 > Sparkfun](#prs16919--sparkfun)
+* [PRS16919 > Qwiic Alphanumeric Display Breakout](#prs16919--qwiic-alphanumeric-display-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16919 > Sparkfun
+# PRS16919 > Qwiic Alphanumeric Display Breakout
 
 - ID: PROJ-SPAR-16919-STAN-01
 - Hex ID: PRS16919
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16919-STAN-01/kicad/bom/ibom.html)

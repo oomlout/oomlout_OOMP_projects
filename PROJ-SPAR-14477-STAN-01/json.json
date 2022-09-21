@@ -58,10 +58,6 @@
         },
         {
             "name": "oompParts",
-            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "JP2,HEAD-I01-X-PI04-01"
         },
         {
@@ -95,10 +91,6 @@
         {
             "name": "oompParts",
             "value": "JP10,HEAD-I01-X-PI09-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "rawParts",

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4978 > Adafruit](#pra4978--adafruit)
+* [PRA4978 > Adafruit NeoKey Breakout PCB](#pra4978--adafruit-neokey-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4978 > Adafruit
+# PRA4978 > Adafruit NeoKey Breakout PCB
 
 - ID: PROJ-ADAF-4978-STAN-01
 - Hex ID: PRA4978
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4978-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-UF1-01,C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|JP1,HEAD-I01-X-PI05-01,FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI02-01,FID4,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI05-01,JP1,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|JP4,HEAD-I01-X-PI02-01,JP2,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,,HEADER-1X570MIL,1X05_ROUND_70,PIN HEADER,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP4,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
+|C1 C1,CAPC-0603-X-UF1-01|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LED1 LEDS-3535-RGB-K2812-01 SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,7 +73,7 @@ Contents
 - oompParts: JP2,HEAD-I01-X-PI02-01
 - oompParts: JP3,HEAD-I01-X-PI05-01
 - oompParts: JP4,HEAD-I01-X-PI02-01
-- oompParts: LED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-3535-RGB-K2812-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,
 - rawParts: D1,1N4148,DIODESOD-323,SOD-323,Diode,,

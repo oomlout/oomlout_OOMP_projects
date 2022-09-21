@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9116 > Sparkfun](#prs9116--sparkfun)
+* [PRS9116 > DS1077 Breakout](#prs9116--ds1077-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9116 > Sparkfun
+# PRS9116 > DS1077 Breakout
 
 - ID: PROJ-SPAR-9116-STAN-01
 - Hex ID: PRS9116
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9116-STAN-01/kicad/bom/ibom.html)

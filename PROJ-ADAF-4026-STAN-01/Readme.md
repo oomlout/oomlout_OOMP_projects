@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4026 > Adafruit](#pra4026--adafruit)
+* [PRA4026 > Adafruit STEMMA Soil Sensor PCB](#pra4026--adafruit-stemma-soil-sensor-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4026 > Adafruit
+# PRA4026 > Adafruit STEMMA Soil Sensor PCB
 
 - ID: PROJ-ADAF-4026-STAN-01
 - Hex ID: PRA4026
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4026-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3,CAPC-0805-X-UF10-V10,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,|
-|D1,LEDS-0805-G-STAN-01,D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,|
-|Q3,MOSN-SO363-X-UNMATCHED-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,|
-|R1,RESE-0603-X-O102-01,IC1,ATSAMD10D14A,ATSAMD10D14A,QFN24_4MM,,,,|
-|R2,RESE-0603-X-O102-01,Q3,2N7002D,MOSFET-N_DUAL,SOT363,Dual N-Channel MOSFET,,,|
-|R6,RESE-UNMATCHED-X-O103-01,R1,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,,|
-|TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ8,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,,|
-|TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ9,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,,|
-|U2,VREG-SO235-X-KMIC5225-V33D,TP1,TPTP15R,TPTP15R,TP15R,Test pad,,,|
-|X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,TP2,TPTP15R,TPTP15R,TP15R,Test pad,,,|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q3 Q3,MOSN-SO363-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|R6 R6,RESA-06038-X-O103X4-01|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP3 TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP4 TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|[X1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 
 ## Images
   
@@ -76,13 +80,13 @@ Contents
 - oompParts: Q3,MOSN-SO363-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O102-01
 - oompParts: R2,RESE-0603-X-O102-01
-- oompParts: R6,RESE-UNMATCHED-X-O103-01
+- oompParts: R6,RESA-06038-X-O103X4-01
 - oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KMIC5225-V33D
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,HEAD-I01-X-PI04-01
 - rawParts: C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,
 - rawParts: C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,
 - rawParts: D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,,

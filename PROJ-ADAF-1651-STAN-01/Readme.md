@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1651 > Adafruit](#pra1651--adafruit)
+* [PRA1651 > Adafruit 2.8 TFT Shield v2 PCB](#pra1651--adafruit-28-tft-shield-v2-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1651 > Adafruit
+# PRA1651 > Adafruit 2.8 TFT Shield v2 PCB
 
 - ID: PROJ-ADAF-1651-STAN-01
 - Hex ID: PRA1651
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1651-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C2,CAPC-0805-X-NF100-V50,C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C4,CAPC-0805-X-UF10-V10,C4,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323F,SOD-323F,Diode,,|
-|IC4,VREG-SO235-X-KMIC5225-V33D,IC4,MIC5225-3.3,LP298XS,SOT23-5L,,,|
-|IC5,UNMATCHED-SO23-X-UNMATCHED-01,IC5,AXP803,AXP083-SAG,SOT23,,,|
-|Q1,UNMATCHED-SO23-X-UNMATCHED-01,ICSP_CLK,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|R1,RESE-0805-X-O61-01,ICSP_SI,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|R2,RESE-0805-X-UNMATCHED-01,ICSP_SI1,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|R3,RESE-0805-X-UNMATCHED-01,ICSP_SO,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|R4,RESE-0805-X-UNMATCHED-01,PIN3,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,|
-|R5,RESE-0805-X-O102-01,Q1,MMBT2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|R6,RESE-0805-X-O103-01,R1,68,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R7,RESE-0805-X-O103-01,R2,68 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R8,RESE-0805-X-O103-01,R3,68 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|R9,RESE-0805-X-O102-01,R4,68 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R7,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U$17,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R8,10K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R9,1K,R-US_R0805,R0805,RESISTOR, American symbol,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[IC4 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0805-X-O680-01 SMD (0805) 68 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O680-01/)|
+|R2 R2,RESE-0805-X-UNMATCHED-01|
+|R3 R3,RESE-0805-X-UNMATCHED-01|
+|R4 R4,RESE-0805-X-UNMATCHED-01|
+|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U$17 U$17,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,15 +84,15 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1651
 - oompID: PROJ-ADAF-1651-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-NF100-V50
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: D1,DIOD-S323-X-K4148-01
 - oompParts: IC4,VREG-SO235-X-KMIC5225-V33D
 - oompParts: IC5,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
-- oompParts: R1,RESE-0805-X-O61-01
+- oompParts: R1,RESE-0805-X-O680-01
 - oompParts: R2,RESE-0805-X-UNMATCHED-01
 - oompParts: R3,RESE-0805-X-UNMATCHED-01
 - oompParts: R4,RESE-0805-X-UNMATCHED-01

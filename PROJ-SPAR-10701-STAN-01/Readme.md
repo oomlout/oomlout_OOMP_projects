@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS10701 > Sparkfun](#prs10701--sparkfun)
+* [PRS10701 > Color Light Sensor Evaluation Board](#prs10701--color-light-sensor-evaluation-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10701 > Sparkfun
+# PRS10701 > Color Light Sensor Evaluation Board
 
 - ID: PROJ-SPAR-10701-STAN-01
 - Hex ID: PRS10701
@@ -24,29 +25,31 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## OOMP Parts
   
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0402-X-UNMATCHED-01,C1,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|C3,CAPC-0402-X-UNMATCHED-01,C3,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,|
-|JP3,HEAD-I01-X-PI03-01,JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|JP4,HEAD-I01-X-PI05-01,JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|LED1,LEDS-0603-G-STAN-01,JP3,,M03PTH,1X03,Header 3,,|
-|Q2,UNMATCHED-SO23-X-UNMATCHED-01,JP4,,M05PTH,1X05,Header 5,,|
-|R1,RESE-0402-X-O103-01,JP5,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|R2,RESE-0402-X-O103-01,JP6,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|R3,RESE-0402-X-O103-01,LED1,WHITE,LED0603,LED-0603,LEDs,,|
-|R4,RESE-0402-X-O331-01,Q2,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,|
-|R5,RESE-0402-X-O101-01,R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R6,RESE-0402-X-O103-01,R2,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R7,RESE-0402-X-O301-01,R3,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|R8,RESE-0402-X-O301-01,R4,330,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,100,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10k,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,R7,300,RESISTOR0402-RES,0402-RES,Resistor,,|
-|U3,UNMATCHED-SO235-X-UNMATCHED-01,R8,300,RESISTOR0402-RES,0402-RES,Resistor,,|
+|C1 C1,CAPC-0402-X-UF47D-01|
+|C3 C3,CAPC-0402-X-UF47D-01|
+|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP4 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
+|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R4 R4,RESE-0402-X-O331-01|
+|[R5 RESE-0402-X-O101-01 SMD (0402) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
+|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|R7 R7,RESE-0402-X-O301-01|
+|R8 R8,RESE-0402-X-O301-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,8 +71,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10701
 - oompID: PROJ-SPAR-10701-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF47D-01
+- oompParts: C3,CAPC-0402-X-UF47D-01
 - oompParts: JP3,HEAD-I01-X-PI03-01
 - oompParts: JP4,HEAD-I01-X-PI05-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
@@ -82,7 +85,6 @@ Contents
 - oompParts: R6,RESE-0402-X-O103-01
 - oompParts: R7,RESE-0402-X-O301-01
 - oompParts: R8,RESE-0402-X-O301-01
-- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01

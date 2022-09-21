@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9612 > Sparkfun](#prs9612--sparkfun)
+* [PRS9612 > Audio Amplifier Kit-STA540](#prs9612--audio-amplifier-kit-sta540)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9612 > Sparkfun
+# PRS9612 > Audio Amplifier Kit-STA540
 
 - ID: PROJ-SPAR-9612-STAN-01
 - Hex ID: PRS9612
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

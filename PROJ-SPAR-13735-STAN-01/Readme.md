@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13735 > Sparkfun](#prs13735--sparkfun)
+* [PRS13735 > LilyPad Tri-Color LED](#prs13735--lilypad-tri-color-led)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13735 > Sparkfun
+# PRS13735 > LilyPad Tri-Color LED
 
 - ID: PROJ-SPAR-13735-STAN-01
 - Hex ID: PRS13735
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13735-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D2,XZM2CRKM2DGFBB45SCCB,SUNLEDSMD1,PLCC4SMDLED,LED-RGB Common Cathode,DIO-13722,XZM2CRKM2DGFBB45SCCB,|
-|LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R1,RESE-0603-X-O201-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R2,RESE-0603-X-O101-01,FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|R3,RESE-0603-X-O101-01,FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,|
-|U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,|
-|U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,REVISION,REVISION,REVISION,Revision By Text,,,|
-|U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,|
-|U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,|
-|U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,200,200OHM-0603-1/10W-1%,0603,200ÃÂ© resistor,RES-08220,200,|
-|U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,100,100OHM-0603-1/10W-1%,0603,100ÃÂ© resistor,RES-07863,100,|
+|D2 D2,LEDS-UNMATCHED-G-STAN-01|
+|[R1 RESE-0603-X-O201-01 SMD (0603) 200 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
+|[R2 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|[R3 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
 
 ## Images
   
@@ -66,17 +63,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Tri-Color_LED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13735
 - oompID: PROJ-SPAR-13735-STAN-01
-- oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: D2,LEDS-UNMATCHED-G-STAN-01
 - oompParts: R1,RESE-0603-X-O201-01
 - oompParts: R2,RESE-0603-X-O101-01
 - oompParts: R3,RESE-0603-X-O101-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: D2,XZM2CRKM2DGFBB45SCCB,SUNLEDSMD1,PLCC4SMDLED,LED-RGB Common Cathode,DIO-13722,XZM2CRKM2DGFBB45SCCB,
 - rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
 - rawParts: FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,

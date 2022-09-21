@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4097 > Adafruit](#pra4097--adafruit)
+* [PRA4097 > Adafruit_ADXL343_PCB](#pra4097--adafruit_adxl343_pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4097 > Adafruit
+# PRA4097 > Adafruit_ADXL343_PCB
 
 - ID: PROJ-ADAF-4097-STAN-01
 - Hex ID: PRA4097
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4097-STAN-01/kicad/bom/ibom.html)
@@ -34,17 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0603-X-NF100-V50,C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UF10-V10,C3,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|D1,DIOD-S323-X-K4148-01,D1,1N4148,DIODESOD-323,SOD-323,Diode,,|
-|JP1,HEAD-I01-X-PI09-01,JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|Q3,MOSN-SO363-X-UNMATCHED-01,Q3,2N7002D,MOSFET-N_DUAL,SOT363,Dual N-Channel MOSFET,,|
-|R5,RESE-0603-X-O103-01,R5,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R6,RESE-0603-X-O103-01,R6,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R8,RESE-UNMATCHED-X-O103-01,R8,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|U2,VREG-SO235-X-KAP2112K-V33D,U$3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
+|C1 C1,CAPC-0603-X-UF1D-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|Q3 Q3,MOSN-SO363-X-UNMATCHED-01|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R8 R8,RESA-06038-X-O103X4-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-SO235-X-KAP2112K-V33D|
 
 ## Images
   
@@ -66,7 +70,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit_ADXL343_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4097
 - oompID: PROJ-ADAF-4097-STAN-01
-- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: D1,DIOD-S323-X-K4148-01
@@ -74,7 +78,7 @@ Contents
 - oompParts: Q3,MOSN-SO363-X-UNMATCHED-01
 - oompParts: R5,RESE-0603-X-O103-01
 - oompParts: R6,RESE-0603-X-O103-01
-- oompParts: R8,RESE-UNMATCHED-X-O103-01
+- oompParts: R8,RESA-06038-X-O103X4-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D
 - rawParts: C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,

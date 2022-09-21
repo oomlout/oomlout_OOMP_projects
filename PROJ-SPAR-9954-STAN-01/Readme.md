@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [PRS9954 > Sparkfun](#prs9954--sparkfun)
+* [PRS9954 > WiFly-Shield](#prs9954--wifly-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9954 > Sparkfun
+# PRS9954 > WiFly-Shield
 
 - ID: PROJ-SPAR-9954-STAN-01
 - Hex ID: PRS9954
@@ -23,6 +24,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Images
   
   

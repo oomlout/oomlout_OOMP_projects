@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14193 > Sparkfun](#prs14193--sparkfun)
+* [PRS14193 > CCS811 Air Quality Breakout](#prs14193--ccs811-air-quality-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14193 > Sparkfun
+# PRS14193 > CCS811 Air Quality Breakout
 
 - ID: PROJ-SPAR-14193-STAN-01
 - Hex ID: PRS14193
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14193-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2,CAPC-0603-X-UNMATCHED-01,C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|R1,RESE-0603-X-O1003-01,H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,|
-|R2,RESE-0603-X-UNMATCHED-01,J2,,CONN_031X03_NO_SILK,1X03_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,|
-|R6,RESE-0603-X-O1003-01,J8,,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,,|
-|R10,RESE-0603-X-O103-01,JP1,,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,|
-|R12,RESE-UNMATCHED-X-O103-01,JP2,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,|
-|R13,RESE-0603-X-UNMATCHED-01,LOGO1,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SparkFun Flame Logo,,,,|
-|R14,RESE-0603-X-UNMATCHED-01,LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,100k,100KOHM-0603-1/10W-1%,0603,100kÃÂ© resistor,RES-07828,,100k,|
+|C2 C2,CAPC-0603-X-UF1-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-0603-X-O1003-01|
+|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|R6 R6,RESE-0603-X-O1003-01|
+|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|R12 R12,RESE-UNMATCHED-X-O103-01|
+|[R13 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[R14 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -68,18 +72,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/CCS811_Air_Quality_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14193
 - oompID: PROJ-SPAR-14193-STAN-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-UF1-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O1003-01
-- oompParts: R2,RESE-0603-X-UNMATCHED-01
+- oompParts: R2,RESE-0603-X-O472-01
 - oompParts: R6,RESE-0603-X-O1003-01
 - oompParts: R10,RESE-0603-X-O103-01
 - oompParts: R12,RESE-UNMATCHED-X-O103-01
-- oompParts: R13,RESE-0603-X-UNMATCHED-01
-- oompParts: R14,RESE-0603-X-UNMATCHED-01
+- oompParts: R13,RESE-0603-X-O472-01
+- oompParts: R14,RESE-0603-X-O472-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,,1.0uF,
 - rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,

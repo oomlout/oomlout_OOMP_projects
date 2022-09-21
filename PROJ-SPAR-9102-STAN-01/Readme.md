@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9102 > Sparkfun](#prs9102--sparkfun)
+* [PRS9102 > LilyPad Protoboard Small](#prs9102--lilypad-protoboard-small)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9102 > Sparkfun
+# PRS9102 > LilyPad Protoboard Small
 
 - ID: PROJ-SPAR-9102-STAN-01
 - Hex ID: PRS9102
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9102-STAN-01/kicad/bom/ibom.html)

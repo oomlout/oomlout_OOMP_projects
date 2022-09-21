@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS12069 > Sparkfun](#prs12069--sparkfun)
+* [PRS12069 > H2OhNo](#prs12069--h2ohno)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS12069 > Sparkfun
+# PRS12069 > H2OhNo
 
 - ID: PROJ-SPAR-12069-STAN-01
 - Hex ID: PRS12069
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-12069-STAN-01/kicad/bom/ibom.html)
@@ -34,14 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,BAT1,,BATTERY20PTH,BATTCOM_20MM_PTH,Battery Holders,,,|
-|C6,CAPX-UNMATCHED-X-NF100-01,C6,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,,|
-|JP3,HEAD-I01-X-PI02-01,FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|JP4,HEAD-I01-X-PI06-01,JP3,Water Sensor,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,|
-|LED1,LEDS-UNMATCHED-G-STAN-01,JP4,ISP,M06SIP,1X06,Header 6,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LED1,,LED5MM,LED5MM,LEDs,,,|
-|SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,S1,Power,SWITCH-SPDTPTH,SWITCH-SPDT,SPDT Switch,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,SG1,Buzzer,BUZZERPTH,BUZZER-12MM,Buzzer 12mm,,,|
+|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|C6 C6,CAPX-UNMATCHED-X-UF1D-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SG1 SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -64,7 +68,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12069
 - oompID: PROJ-SPAR-12069-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C6,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C6,CAPX-UNMATCHED-X-UF1D-01
 - oompParts: JP3,HEAD-I01-X-PI02-01
 - oompParts: JP4,HEAD-I01-X-PI06-01
 - oompParts: LED1,LEDS-UNMATCHED-G-STAN-01

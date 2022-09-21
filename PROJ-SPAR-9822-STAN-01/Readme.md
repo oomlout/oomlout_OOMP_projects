@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9822 > Sparkfun](#prs9822--sparkfun)
+* [PRS9822 > USB RS-485 Converter](#prs9822--usb-rs-485-converter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9822 > Sparkfun
+# PRS9822 > USB RS-485 Converter
 
 - ID: PROJ-SPAR-9822-STAN-01
 - Hex ID: PRS9822
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9822-STAN-01/kicad/bom/ibom.html)

@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17381 > Sparkfun](#prs17381--sparkfun)
+* [PRS17381 > ESP32 Thing Plus U.FL](#prs17381--esp32-thing-plus-ufl)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17381 > Sparkfun
+# PRS17381 > ESP32 Thing Plus U.FL
 
 - ID: PROJ-SPAR-17381-STAN-01
 - Hex ID: PRS17381
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17381-STAN-01/kicad/bom/ibom.html)

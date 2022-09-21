@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS10255 > Sparkfun](#prs10255--sparkfun)
+* [PRS10255 > LiPower Boost Converter](#prs10255--lipower-boost-converter)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS10255 > Sparkfun
+# PRS10255 > LiPower Boost Converter
 
 - ID: PROJ-SPAR-10255-STAN-01
 - Hex ID: PRS10255
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-10255-STAN-01/kicad/bom/ibom.html)
@@ -34,20 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-1206-X-UF10-01,C1,10uF,CAP1206,1206,Capacitor,,|
-|C2,CAPC-0603-X-NF100-V50,C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|C3,CAPC-0805-X-UF22-01,C3,22uF,CAP0805,0805,Capacitor,,|
-|C4,CAPC-0603-X-NF100-V50,C4,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,|
-|JP1,HEAD-I01-X-PI02-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,|
-|JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,VOUT,M02PTH,1X02,Header 2,,|
-|JP7,HEAD-I01-X-PI02-01,JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,|
-|L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,JST,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,|
-|R3,RESE-0603-X-O205-01,JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R4,RESE-0603-X-O2203-01,JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,|
-|R5,RESE-0603-X-UNMATCHED-01,JP6,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,|
-|R6,RESE-0603-X-O2203-01,JP7,VIN,M02PTH,1X02,Header 2,,|
-|R7,RESE-0603-X-O205-01,L1,4.7uH, 1.2A,INDUCTOR.,CDRH2D09,Inductors,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,2M,RESISTOR0603-RES,0603-RES,Resistor,,|
+|C1 C1,CAPC-1206-X-UF10-01|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|C3 C3,CAPC-0805-X-UF22-01|
+|C4 C4,CAPC-0603-X-UF1D-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R3 R3,RESE-0603-X-O205-01|
+|R4 R4,RESE-0603-X-O2203-01|
+|R5 R5,RESE-0603-X-UNMATCHED-01|
+|R6 R6,RESE-0603-X-O2203-01|
+|R7 R7,RESE-0603-X-O205-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -70,9 +74,9 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10255
 - oompID: PROJ-SPAR-10255-STAN-01
 - oompParts: C1,CAPC-1206-X-UF10-01
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UF22-01
-- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP7,HEAD-I01-X-PI02-01

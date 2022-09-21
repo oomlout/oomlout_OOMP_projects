@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA1393 > Adafruit](#pra1393--adafruit)
+* [PRA1393 > Adafruit Sharp Memory Display PCBs](#pra1393--adafruit-sharp-memory-display-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA1393 > Adafruit
+# PRA1393 > Adafruit Sharp Memory Display PCBs
 
 - ID: PROJ-ADAF-1393-STAN-01
 - Hex ID: PRA1393
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-1393-STAN-01/kicad/bom/ibom.html)
@@ -34,24 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,0.1ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,1ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,1ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,10ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UNMATCHED-01,C5,10ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,|
-|FB1,UNMATCHED-0805-X-UNMATCHED-01,FB1,,FERRITE_0805,_0805,Ferrite Bead,,|
-|FB2,UNMATCHED-0805-X-UNMATCHED-01,FB2,,FERRITE_0805,_0805,Ferrite Bead,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|JP1,HEAD-I01-X-PI09-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R1,RESE-0805-X-O103-01,FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,|
-|R2,RESE-0805-X-O103-01,IC1,LS013B4DN04,SHARP_MEMORYLCD_10PIN,FPC_10PIN_52892-1095,Sharp Mono Memory LCD,,|
-|R3,RESE-0805-X-O103-01,JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,|
-|U$21,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,10K,RESISTOR_0805,_0805,Resistors,,|
-|U$22,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10K,RESISTOR_0805,_0805,Resistors,,|
-|U$27,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10K,RESISTOR_0805,_0805,Resistors,,|
-|U$28,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$21,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$22,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,,|
-|U2,UNMATCHED-SO235-X-UNMATCHED-01,U$27,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,,|
+|C1 C1,CAPC-0805-X-UF1D-01|
+|C2 C2,CAPC-0805-X-UF1-01|
+|C3 C3,CAPC-0805-X-UF1-01|
+|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|FB1 FB1,FERB-0805-X-UNMATCHED-01|
+|FB2 FB2,FERB-0805-X-UNMATCHED-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -73,22 +73,18 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1393
 - oompID: PROJ-ADAF-1393-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-UNMATCHED-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
-- oompParts: FB1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: FB2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-UF1-01
+- oompParts: C3,CAPC-0805-X-UF1-01
+- oompParts: C4,CAPC-0805-X-UF10-V10
+- oompParts: C5,CAPC-0805-X-UF10-V10
+- oompParts: FB1,FERB-0805-X-UNMATCHED-01
+- oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI09-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01
-- oompParts: U$21,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$22,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$27,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$28,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,0.1ÃÂµF,CAP_CERAMIC_0805,_0805,Ceramic Capacitors,,

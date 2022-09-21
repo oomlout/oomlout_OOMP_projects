@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS9716 > Sparkfun](#prs9716--sparkfun)
+* [PRS9716 > FTDI Basic Breakout-5V](#prs9716--ftdi-basic-breakout-5v)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS9716 > Sparkfun
+# PRS9716 > FTDI Basic Breakout-5V
 
 - ID: PROJ-SPAR-9716-STAN-01
 - Hex ID: PRS9716
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9716-STAN-01/kicad/bom/ibom.html)

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13279 > Sparkfun](#prs13279--sparkfun)
+* [PRS13279 > Large Digit Driver](#prs13279--large-digit-driver)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13279 > Sparkfun
+# PRS13279 > Large Digit Driver
 
 - ID: PROJ-SPAR-13279-STAN-01
 - Hex ID: PRS13279
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13279-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP1,HEAD-I01-X-PI01-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,HEAD-I01-X-PI06-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,,,v10,|
-|JP3,HEAD-I01-X-PI01-01,JP1,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP4,HEAD-I01-X-PI01-01,JP2,,M06SMD,1X06-SMD,Header 6,,CONN-08971,RA 6Pin SMD,,|
-|JP5,HEAD-I01-X-PI01-01,JP3,Anchor,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP6,HEAD-I01-X-PI01-01,JP4,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP7,HEAD-I01-X-PI01-01,JP5,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP8,HEAD-I01-X-PI01-01,JP6,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP9,HEAD-I01-X-PI01-01,JP7,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP10,HEAD-I01-X-PI01-01,JP8,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP11,HEAD-I01-X-PI01-01,JP9,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP12,HEAD-I01-X-PI01-01,JP10,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP13,HEAD-I01-X-PI06-01,JP11,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|JP14,HEAD-I01-X-PI01-01,JP12,,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|R1,RESE-0603-X-O11-01,JP13,,M06SMD,1X06-SMD,Header 6,,CONN-08971,RA 6Pin SMD,,|
-|R2,RESE-0603-X-O11-01,JP14,Anchor,M01PTH_LONGPAD,1X01_LONGPAD,Header 1,,,,,|
-|R3,RESE-0603-X-O11-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|R4,RESE-0603-X-O11-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
-|R5,RESE-0603-X-O11-01,R1,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,|
-|R6,RESE-0603-X-O11-01,R2,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,|
-|R7,RESE-0603-X-O11-01,R3,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,|
-|R8,RESE-0603-X-O11-01,R4,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,15,15OHM-1/10W-1%(0603)0603,0603-RES,,,RES-12570,15,,|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,HEAD-I01-X-PI01-01|
+|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP3 JP3,HEAD-I01-X-PI01-01|
+|JP4 JP4,HEAD-I01-X-PI01-01|
+|JP5 JP5,HEAD-I01-X-PI01-01|
+|JP6 JP6,HEAD-I01-X-PI01-01|
+|JP7 JP7,HEAD-I01-X-PI01-01|
+|JP8 JP8,HEAD-I01-X-PI01-01|
+|JP9 JP9,HEAD-I01-X-PI01-01|
+|JP10 JP10,HEAD-I01-X-PI01-01|
+|JP11 JP11,HEAD-I01-X-PI01-01|
+|JP12 JP12,HEAD-I01-X-PI01-01|
+|[JP13 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|JP14 JP14,HEAD-I01-X-PI01-01|
+|[R1 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R2 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R3 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R4 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R5 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R6 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R7 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|[R8 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -94,14 +98,14 @@ Contents
 - oompParts: JP12,HEAD-I01-X-PI01-01
 - oompParts: JP13,HEAD-I01-X-PI06-01
 - oompParts: JP14,HEAD-I01-X-PI01-01
-- oompParts: R1,RESE-0603-X-O11-01
-- oompParts: R2,RESE-0603-X-O11-01
-- oompParts: R3,RESE-0603-X-O11-01
-- oompParts: R4,RESE-0603-X-O11-01
-- oompParts: R5,RESE-0603-X-O11-01
-- oompParts: R6,RESE-0603-X-O11-01
-- oompParts: R7,RESE-0603-X-O11-01
-- oompParts: R8,RESE-0603-X-O11-01
+- oompParts: R1,RESE-0603-X-O150-01
+- oompParts: R2,RESE-0603-X-O150-01
+- oompParts: R3,RESE-0603-X-O150-01
+- oompParts: R4,RESE-0603-X-O150-01
+- oompParts: R5,RESE-0603-X-O150-01
+- oompParts: R6,RESE-0603-X-O150-01
+- oompParts: R7,RESE-0603-X-O150-01
+- oompParts: R8,RESE-0603-X-O150-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
 - rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS11008 > Sparkfun](#prs11008--sparkfun)
+* [PRS11008 > LilyPad Vibe Board](#prs11008--lilypad-vibe-board)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS11008 > Sparkfun
+# PRS11008 > LilyPad Vibe Board
 
 - ID: PROJ-SPAR-11008-STAN-01
 - Hex ID: PRS11008
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11008-STAN-01/kicad/bom/ibom.html)
@@ -34,15 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D1,DIOD-S323-X-UNMATCHED-01,D1,,DIODESOD,SOD-323,Diode,,,|
-|M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|R1,RESE-0603-X-O31-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,|
-|VIBE+,UNMATCHED-UNMATCHED-X-UNMATCHED-01,M1,MOTORSMD,MOTORSMD,VIBE-MOTOR-10MM-SMD,Vibration Motor,,,|
-|VIBE-,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,33,33K-1%,0603-RES,33k-ohm SMT,RES-08416,33k,|
-|VIBE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,|
-|VIBE2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,VIBE+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,|
-|VIBE3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,VIBE-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,,|
-|VIBE4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,VIBE1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,,|
+|D1 D1,DIOD-S323-X-UNMATCHED-01|
+|M1 M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O330-01 SMD (0603) 33 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
 
 ## Images
   
@@ -66,13 +64,7 @@ Contents
 - oompID: PROJ-SPAR-11008-STAN-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R1,RESE-0603-X-O31-01
-- oompParts: VIBE+,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VIBE-,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VIBE1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VIBE2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VIBE3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: VIBE4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O330-01
 - rawParts: D1,,DIODESOD,SOD-323,Diode,,,
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
 - rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,

@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14066 > Sparkfun](#prs14066--sparkfun)
+* [PRS14066 > Simultaneous RFID Tag Reader](#prs14066--simultaneous-rfid-tag-reader)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14066 > Sparkfun
+# PRS14066 > Simultaneous RFID Tag Reader
 
 - ID: PROJ-SPAR-14066-STAN-01
 - Hex ID: PRS14066
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14066-STAN-01/kicad/bom/ibom.html)
@@ -34,32 +38,32 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,B1,ARDUINO_UNO_SHIELD,ARDUINO_UNO_R3_SHIELDBASIC,UNO_R3_SHIELD,Arduino R3 Shield Footprint,,,,,|
-|C2,CAPC-0805-X-UF10-V10,C2,10uF,10UF-0805-10V-10%,0805,10.0ÃÂµF ceramic capacitors,CAP-11330,,,10uF,|
-|C7,CAPC-0603-X-UNMATCHED-01,C3,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,|
-|C9,CAPC-0603-X-NF100-V50,C4,DNP,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,|
-|C12,CAPC-0603-X-NF100-V50,C7,0.0,1.0PF-0603-50V-25%,0603,1pF ceramic capacitors,CAP-07879,,,1.0pF,|
-|D1,LEDS-0603-G-STAN-01,C9,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,,0.1uF,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,C12,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,CAP-00810,,,0.1uF,|
-|E1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,,,RED,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,D2,B340A,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diodes in SFEs production catalog,DIO-09886,,,B340A,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,E1,Trace Antenna,ANTENNA_GROUNDED1,915MHZ_ANTENNA_TRIMBLE,,,,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|J6,TERS-35D-L-PI02-01,FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame,,,,,|
-|J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,FTDI,CONN_06SILK_FEMALE_PTH,1X06,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08437,,,,|
-|JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J3,JST,CONN_02JST-PTH-2,JST-2-PTH,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09863,,PRT-09914,,|
-|JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,U.FL,U.FL,U.FL,SMD antenna connector- WRL-09144,CONN-09193,,,U.FL,|
-|L1,UNMATCHED-0603-X-UNMATCHED-01,J5,Extra,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,|
-|R1,RESE-0603-X-O102-01,J6,Screw Terminal,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,,,|
-|R3,RESE-0603-X-O102-01,J7,GPIOs,CONN_03,1X03,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP1,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,|
-|SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP2,SJ1,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,,|
-|SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,L1,3.9nH,3.9NH_-+0.3NH_300MA(0603)0603,0603,,NDUC-08761,,,3.9nH,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,|
-|U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,RES-07856,,,1k,|
+|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C7 C7,CAPC-0603-X-UNMATCHED-01|
+|C9 C9,CAPC-0603-X-UF1D-01|
+|C12 C12,CAPC-0603-X-UF1D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|E1 E1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[J6 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|J7 J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|L1 L1,UNMATCHED-0603-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SG1 SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|SJ2 SJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -84,8 +88,8 @@ Contents
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-UNMATCHED-01
-- oompParts: C9,CAPC-0603-X-NF100-V50
-- oompParts: C12,CAPC-0603-X-NF100-V50
+- oompParts: C9,CAPC-0603-X-UF1D-01
+- oompParts: C12,CAPC-0603-X-UF1D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: E1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

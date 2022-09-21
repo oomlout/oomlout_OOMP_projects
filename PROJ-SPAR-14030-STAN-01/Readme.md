@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS14030 > Sparkfun](#prs14030--sparkfun)
+* [PRS14030 > Mini GPS Shield](#prs14030--mini-gps-shield)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS14030 > Sparkfun
+# PRS14030 > Mini GPS Shield
 
 - ID: PROJ-SPAR-14030-STAN-01
 - Hex ID: PRS14030
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-14030-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C5,CAPC-0805-X-UNMATCHED-01,C5,1.0uF,1.0UF-25V-+80/-20(0805),0805-CAP,CAP-11625,CAP-11625,1.0uF,|
-|C6,CAPC-0603-X-UNMATCHED-01,C6,2.2uF,2.2UF-10V-20%(0603),0603-CAP,CAP-07888,CAP-07888,2.2uF,|
-|D1,LEDS-0603-G-STAN-01,D1,BLUE,LED-BLUE0603,LED-0603,Blue LEDs for production use,DIO-08575,BLUE,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,|
-|J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,|
-|J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J1,MICROSD_TINY,MICROSD_TINY,MICROSD_TINY,,CONN-13500,,|
-|J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J2,,M12NO_SILK,1X12_NO_SILK,Header 12,,,|
-|R1,RESE-0603-X-O471-01,J3,,M12NO_SILK,1X12_NO_SILK,Header 12,,,|
-|S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J4,,M06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Header 6,CONN-08437,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,J5,,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,|
-|U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,|
-|U3,VREG-SO235-X-KAP2112K-V33D,LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,|
+|C5 C5,CAPC-0805-X-UF1-01|
+|C6 C6,CAPC-0603-X-UF22D-01|
+|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[R1 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U3 U3,VREG-SO235-X-KAP2112K-V33D|
 
 ## Images
   
@@ -68,8 +72,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mini_GPS_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14030
 - oompID: PROJ-SPAR-14030-STAN-01
-- oompParts: C5,CAPC-0805-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C5,CAPC-0805-X-UF1-01
+- oompParts: C6,CAPC-0603-X-UF22D-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

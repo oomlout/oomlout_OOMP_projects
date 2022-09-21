@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS16790 > Sparkfun](#prs16790--sparkfun)
+* [PRS16790 > Qwiic Shield for Thing Plus](#prs16790--qwiic-shield-for-thing-plus)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS16790 > Sparkfun
+# PRS16790 > Qwiic Shield for Thing Plus
 
 - ID: PROJ-SPAR-16790-STAN-01
 - Hex ID: PRS16790
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16790-STAN-01/kicad/bom/ibom.html)

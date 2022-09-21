@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17372 > Sparkfun](#prs17372--sparkfun)
+* [PRS17372 > SparkFun PIR Breakout](#prs17372--sparkfun-pir-breakout)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17372 > Sparkfun
+# PRS17372 > SparkFun PIR Breakout
 
 - ID: PROJ-SPAR-17372-STAN-01
 - Hex ID: PRS17372
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17372-STAN-01/kicad/bom/ibom.html)

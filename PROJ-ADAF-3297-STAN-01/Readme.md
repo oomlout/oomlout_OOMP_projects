@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA3297 > Adafruit](#pra3297--adafruit)
+* [PRA3297 > Adafruit DRV8833 Motor Driver Breakout PCB](#pra3297--adafruit-drv8833-motor-driver-breakout-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA3297 > Adafruit
+# PRA3297 > Adafruit DRV8833 Motor Driver Breakout PCB
 
 - ID: PROJ-ADAF-3297-STAN-01
 - Hex ID: PRA3297
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-3297-STAN-01/kicad/bom/ibom.html)
@@ -34,19 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UNMATCHED-01,C1,10ÃÂµF/16V,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,10ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-NF100-V50,C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-UNMATCHED-01,C4,10ÃÂµF/16V,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP2,HEAD-I01-X-PI02-01,FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP3,HEAD-I01-X-PI02-01,J1,VMOTORIN,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,|
-|JP4,HEAD-I01-X-PI02-01,JP2,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|JP5,HEAD-I01-X-PI08-01,JP3,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|Q1,MOSP-SO23-X-UNMATCHED-01,JP4,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,|
-|R1,RESE-1206-X-UNMATCHED-01,JP5,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,|
-|R2,RESE-1206-X-UNMATCHED-01,Q1,DMG3415U,MOSFET-PWIDE,SOT23-WIDE,P-Channel Mosfet,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R1,0.2ÃÂ©,RESISTOR_1206,_1206,Resistors,,|
+|C1 C1,CAPC-0805-X-UNMATCHED-01|
+|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C3 C3,CAPC-0805-X-UF1D-01|
+|C4 C4,CAPC-0805-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|Q1 Q1,MOSP-SO23-X-UNMATCHED-01|
+|R1 R1,RESE-1206-X-UNMATCHED-01|
+|R2 R2,RESE-1206-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -69,8 +73,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/3297
 - oompID: PROJ-ADAF-3297-STAN-01
 - oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF10-V10
+- oompParts: C3,CAPC-0805-X-UF1D-01
 - oompParts: C4,CAPC-0805-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI02-01

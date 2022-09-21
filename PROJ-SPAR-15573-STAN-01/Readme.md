@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15573 > Sparkfun](#prs15573--sparkfun)
+* [PRS15573 > SparkFun Cryptographic Co-Processor Breakout ATECC508A Qwiic](#prs15573--sparkfun-cryptographic-co-processor-breakout-atecc508a-qwiic)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15573 > Sparkfun
+# PRS15573 > SparkFun Cryptographic Co-Processor Breakout ATECC508A Qwiic
 
 - ID: PROJ-SPAR-15573-STAN-01
 - Hex ID: PRS15573
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15573-STAN-01/kicad/bom/ibom.html)

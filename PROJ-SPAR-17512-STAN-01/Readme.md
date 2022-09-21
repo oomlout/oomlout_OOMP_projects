@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS17512 > Sparkfun](#prs17512--sparkfun)
+* [PRS17512 > SparkFun Qwiic pHAT Extension](#prs17512--sparkfun-qwiic-phat-extension)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS17512 > Sparkfun
+# PRS17512 > SparkFun Qwiic pHAT Extension
 
 - ID: PROJ-SPAR-17512-STAN-01
 - Hex ID: PRS17512
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17512-STAN-01/kicad/bom/ibom.html)

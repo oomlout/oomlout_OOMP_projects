@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4132 > Adafruit](#pra4132--adafruit)
+* [PRA4132 > Adafruit GPIO Expander Bonnet PCBs](#pra4132--adafruit-gpio-expander-bonnet-pcbs)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4132 > Adafruit
+# PRA4132 > Adafruit GPIO Expander Bonnet PCBs
 
 - ID: PROJ-ADAF-4132-STAN-01
 - Hex ID: PRA4132
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4132-STAN-01/kicad/bom/ibom.html)
@@ -34,32 +38,32 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,ADDR0,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,,,,,|
-|C2,CAPC-0603-X-NF100-V50,ADDR1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,,,,,|
-|C3,CAPC-0805-X-UF10-V10,ADDR2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,,,,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|JP1,HEAD-I01-X-PI02-01,C2,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,,,,,|
-|JP2,HEAD-I01-X-UNMATCHED-01,C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,,,,,|
-|JP3,HEAD-I01-X-PI02-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|JP5,HEAD-I01-X-PI02-01,FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,,,,,|
-|JP6,HEAD-I01-X-PI02-01,IC1,MCP23017ML,MCP23017ML,QFN28-ML_6X6MM,http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf,,MICROCHIP,MCP23017-E/ML,unknown,31K2957,|
-|JP7,HEAD-I01-X-UNMATCHED-01,JP1,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|JP8,HEAD-I01-X-PI02-01,JP2,,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,,,,,|
-|JP9,HEAD-I01-X-PI02-01,JP3,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|PIN1,HEAD-I01-X-PI21-01,JP5,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|Q1,MOSN-SO23-X-KBSS138-01,JP6,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|Q2,MOSN-SO23-X-KBSS138-01,JP7,,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,,,,,|
-|R1,RESE-0603-X-O103-01,JP8,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|R2,RESE-0603-X-O103-01,JP9,,HEADER-1X2ROUND,1X02_ROUND,PIN HEADER,,,,,,|
-|R3,RESE-0603-X-O103-01,PIN1,HEADER-1X21,HEADER-1X21,1X21_ROUND_70MIL,,,,,,,|
-|R4,RESE-0603-X-O103-01,Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,,,,,|
-|R5,RESE-0603-X-O103-01,Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,,,,,|
-|R6,RESE-0603-X-O103-01,R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|R7,RESE-0603-X-O103-01,R2,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|R8,RESE-0603-X-O103-01,R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|R9,RESE-0603-X-O103-01,R4,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|RPI2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
-|U1,UNMATCHED-SO235-X-UNMATCHED-01,R6,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,,,,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0603-X-UF1D-01|
+|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP2 JP2,HEAD-I01-X-UNMATCHED-01|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP7 JP7,HEAD-I01-X-UNMATCHED-01|
+|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP9 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|PIN1 PIN1,HEAD-I01-X-PI21-01|
+|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[Q2 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|RPI2 RPI2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
 
 ## Images
   
@@ -82,7 +86,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/4132
 - oompID: PROJ-ADAF-4132-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI02-01

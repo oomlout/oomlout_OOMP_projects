@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA782 > Adafruit](#pra782--adafruit)
+* [PRA782 > Adafruit USB Serial RGB Character Backpack PCB](#pra782--adafruit-usb-serial-rgb-character-backpack-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA782 > Adafruit
+# PRA782 > Adafruit USB Serial RGB Character Backpack PCB
 
 - ID: PROJ-ADAF-782-STAN-01
 - Hex ID: PRA782
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-782-STAN-01/kicad/bom/ibom.html)
@@ -34,30 +38,30 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF10-V10,C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UNMATCHED-01,C2,18pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C3,CAPC-0805-X-UNMATCHED-01,C3,18pF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C4,CAPC-0805-X-NF100-V50,C4,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C5,CAPC-0805-X-UF10-V10,C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN1,miniB,USBMINIBLARGE,USB-MINIB_LARGER,USB Connectors,,|
-|CN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,CN3,JST-PH-3,JST_3PIN,JSTPH3,,,|
-|F1,UNMATCHED-1206-X-UNMATCHED-01,F1,500mA,PTCFUSE-1206,R1206,PTC fuses, resettable thermistors,,|
-|IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|ISP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID2,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,|
-|JP1,HEAD-I01-X-PI18-01,IC2,AT90USB162,ATMEGA32U2-TQFP,TQFP32-08,ATmega32u2,,|
-|LED,LEDS-0805-G-STAN-01,ISP6,PINHD-2X3THM,PINHD-2X3THM,ISP6,,,|
-|R1,RESE-0805-X-O21-01,JP1,CHARLCD,PINHD-1X18-BIG,1X18-BIG,PIN HEADER,,|
-|R2,RESE-0805-X-O21-01,LED,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,|
-|R3,RESE-0805-X-O102-01,R1,22,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R5,RESE-0805-X-O102-01,R2,22,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R6,RESE-0805-X-O102-01,R3,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|R7,RESE-0805-X-O102-01,R5,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|T1,UNMATCHED-SO23-X-UNMATCHED-01,R6,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|T2,UNMATCHED-SO23-X-UNMATCHED-01,R7,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,|
-|T3,UNMATCHED-SO23-X-UNMATCHED-01,T1,MMBT222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,T2,MMBT222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|USB,UNMATCHED-UNMATCHED-X-UNMATCHED-01,T3,MMBT222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,|
-|X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,U$1,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,|
+|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|C2 C2,CAPC-0805-X-PF18-01|
+|C3 C3,CAPC-0805-X-PF18-01|
+|C4 C4,CAPC-0805-X-UF1D-01|
+|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CN3 CN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
+|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|ISP6 ISP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI18-01 2.54 mm 18 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI18-01/)|
+|[LED LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[R1 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[R2 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[R3 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R6 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[R7 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|T1 T1,UNMATCHED-SO23-X-UNMATCHED-01|
+|T2 T2,UNMATCHED-SO23-X-UNMATCHED-01|
+|T3 T3,UNMATCHED-SO23-X-UNMATCHED-01|
+|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|USB USB,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -80,9 +84,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/782
 - oompID: PROJ-ADAF-782-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-PF18-01
+- oompParts: C3,CAPC-0805-X-PF18-01
+- oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: CN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -91,8 +95,8 @@ Contents
 - oompParts: ISP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI18-01
 - oompParts: LED,LEDS-0805-G-STAN-01
-- oompParts: R1,RESE-0805-X-O21-01
-- oompParts: R2,RESE-0805-X-O21-01
+- oompParts: R1,RESE-0805-X-O220-01
+- oompParts: R2,RESE-0805-X-O220-01
 - oompParts: R3,RESE-0805-X-O102-01
 - oompParts: R5,RESE-0805-X-O102-01
 - oompParts: R6,RESE-0805-X-O102-01

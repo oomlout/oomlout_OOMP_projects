@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRARSTAN > Arduino Nano](#prarstan--arduino-nano)
+* [PRARSTAN > ](#prarstan--)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRARSTAN > Arduino Nano
+# PRARSTAN > 
 
 - ID: PROJ-ARDU-NANO-STAN-01
 - Hex ID: PRARSTAN
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ARDU-NANO-STAN-01/kicad/bom/ibom.html)
@@ -34,53 +38,53 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-UNMATCHED-X-UNMATCHED-01,C1,4n7,C4.7NF-0805,0805-R2013X50N,SMD Capacitor,0689,http://www.kemet.com/Lists/ProductCatalog/Attachments/40/KEM_C1010_X7R_HV_SMD.pdf,www.kemet.com/docfinder?Partnumber=C0805C472KDRACTU,399-6738-1-ND,Kemet,C0805C472KDRACTU,-,,4n7,1KV,|
-|C2,CAPC-UNMATCHED-X-UNMATCHED-01,C2,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,|
-|C3,CAPC-UNMATCHED-X-UNMATCHED-01,C3,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,|
-|C4,CAPC-UNMATCHED-X-UNMATCHED-01,C4,22u,C-22U-0805,0805-R2013X50N,SMD Capacitor,2233,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A226MQCLQNC_character.pdf,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL21A226MQCLQNC/1276-2412-1-ND/3890498,1276-2412-1-ND,Samsung,CL21A226MQCLQNC,-,,22u,,|
-|C5,CAPC-UNMATCHED-X-UNMATCHED-01,C5,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,|
-|C6,CAPC-UNMATCHED-X-UNMATCHED-01,C6,1u,C-1UF-0402,0402-1005X55N,SMD Capacitor,0133,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R61E105KA12D/490-10017-1-ND/5026367,490-10017-1-ND,Murata,GRM155R61E105KA12D ,-,,1u,,|
-|C7,CAPC-UNMATCHED-X-UNMATCHED-01,C7,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,|
-|C8,CAPC-UNMATCHED-X-UNMATCHED-01,C8,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,|
-|C9,CAPC-UNMATCHED-X-UNMATCHED-01,C9,4u7,C-4.7UF-0402,0402-1005X55N,SMD Capacitor,0833,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R60J475ME47D/490-5915-1-ND/3719860,490-5915-1-ND,Murata,GRM155R60J475ME47D ,-,,4u7,,|
-|C10,CAPC-UNMATCHED-X-UNMATCHED-01,C10,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,|
-|C11,CAPC-UNMATCHED-X-UNMATCHED-01,C11,100n,C-100NF-0402,0402-1005X55N,SMD Capacitor,0132,http://www.tdk.com/pdf/TDKMLCCCapRange.pdf,http://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R1H104K050BB/445-5942-1-ND/2443982,445-5942-1-ND,TDK,C1005X5R1H104K050BB,-,,100n,,|
-|D1,DIOD-UNMATCHED-X-UNMATCHED-01,D+,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,|
-|D2,DIOD-UNMATCHED-X-UNMATCHED-01,D-,DNP,TPTP-1.00MM,TP-1.00MM,Testpoint,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,|
-|DL1,LEDS-UNMATCHED-G-STAN-01,D1,PRTR5V,PRTR5V0U2X,215,SOT190P230X110-4N,USB ESD protection,2209,http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/PRTR5V0U2X,215/568-4140-1-ND/1589981,568-4140-1-ND,NXP,PRTR5V0U2X,215,,,PRTR5V,,|
-|DL2,LEDS-UNMATCHED-G-STAN-01,D2,PMEG6020,PMEG6020AELRX,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,2208,http://www.nxp.com/documents/data_sheet/PMEG6020AELR.pdf,http://www.digikey.com/products/en?keywords=%20568-12710-1-ND, 568-12710-1-ND,NXP,PMEG6020AELRX,,,PMEG6020,,|
-|DL3,LEDS-UNMATCHED-G-STAN-01,D3,DNP,PMEG6020AELRX-DNP,SODFL3517X110N,60 V, 2 A low leakage current Schottky barrier rectifier,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,|
-|DL4,LEDS-UNMATCHED-G-STAN-01,DL1,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,DL2,GREEN,LED-GREEN-0603,LEDC1608X80N-AK,LED,2204,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMG-C190/516-1425-1-ND/637749,516-1425-1-ND,Avago ,HSMG-C190 ,,,GREEN,,|
-|J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,DL3,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,|
-|JP2,HEAD-I01-X-PI15-01,DL4,YELLOW,LED-YELLOW-0603,LEDC1608X80N-AK,LED,2243,http://media.digikey.com/pdf/Data%20Sheets/Avago%20PDFs/HSMz-Czzz.pdf,http://www.digikey.com/product-detail/en/broadcom-limited/HSMY-C190/516-1424-1-ND/637748,516-1424-1-ND,Avago,HSMY-C190,,,YELLOW,,|
-|JP3,HEAD-I01-X-PI15-01,FD1,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,|
-|PB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FD2,DNP,FIDUCIAL-1.5MM,FD-1-1.5,Fiducial mount,DNP,DNP,DNP,DNP,DNP,DNP,,,DNP,,|
-|Q1,UNMATCHED-SO363-X-KBSS138-01,FRAME1,DNP,A3-FRAME,FRAME,,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,|
-|Q2,UNMATCHED-SO363-X-KBSS138-01,IC1,MPM3610,MPM3610,MPM3610,MPM3610 Step Down Regulator,2093,https://www.monolithicpower.com/pub/media/document/MPM3610_r1.01.pdf,https://www.digikey.com/product-detail/en/monolithic-power-systems-inc/MPM3610AGQV-P/1589-1249-1-ND/5298336,1589-1249-1-ND,MPS,MPM3610AGQV-P,,NO,MPM3610,,|
-|R1,RESE-UNMATCHED-X-O105-01,J1,-,USB-MICRO,ZX62-AB-5PA,USB - micro AB USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle, Horizontal,2219,https://www.hirose.com/product/en/download_file/key_name/ZX/category/Catalog/doc_file_id/31704/?file_category_id=4&item_id=13&is_series=1,http://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-AB-5PA(31)/H125279CT-ND/5994741,H125279CT-ND ,Hirose,ZX62-AB-5PA(31) ,,,-,,|
-|R2,RESE-UNMATCHED-X-UNMATCHED-01,J2,DNP,PINHD-2X03-SMTP,2X03-TP,PIN HEADER,DNP,DNP,DNP,DNP,DNP,DNP,DNP,,DNP,,|
-|R3,RESE-UNMATCHED-X-UNMATCHED-01,JP2,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,|
-|R4,RESE-UNMATCHED-X-O1003-01,JP3,-,PINHD-1X15-CASTELLATED,1X15-CASTELL,PIN HEADER,0646,-,-,-,-,-,DNM,,-,,|
-|R5,RESE-UNMATCHED-X-UNMATCHED-01,PB1,PTS820,TACTILE1PTS820-NH,C&K_PTS820_NO_HOLES,Tactile Switch SPST-NO Top Actuated Surface Mount,0173,http://www.ckswitches.com/media/1474/pts820.pdf,https://www.digikey.com/product-detail/en/c-k/PTS820-J15M-SMTR-LFS/CKN10506CT-ND/4176681,PTS820 J25K SMTR LFS-ND,C&K,PTS820 J25K SMTR LFS,,,PTS820,,|
-|R6,RESE-UNMATCHED-X-O1003-01,Q1,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,|
-|R7,RESE-UNMATCHED-X-UNMATCHED-01,Q2,BSS138PS,BSS138PS,SOT363,MOSFET 2N-CH 60V 0.32A 6TSSOP,2323,https://assets.nexperia.com/documents/data-sheet/BSS138PS.pdf,http://www.digikey.com/product-detail/en/nxp-semiconductors/BSS138PS,115/568-8393-1-ND/2763927,568-8393-1-ND,NXP,BSS138PS,115,,,,,|
-|R8,RESE-UNMATCHED-X-UNMATCHED-01,R1,1M,R-1M-0402,0402-1005X55N,SMD Resistor,0139,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402JR-07330RL/311-330JRCT-ND/729412 ,311-330JRCT-ND,Yageo,RC0402JR-07330RL,NO,,1M,,|
-|R9,RESE-UNMATCHED-X-O393-01,R2,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,|
-|R10,RESE-UNMATCHED-X-O1003-01,R3,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,|
-|R11,RESE-UNMATCHED-X-UNMATCHED-01,R4,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,|
-|R12,RESE-UNMATCHED-X-UNMATCHED-01,R5,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,|
-|R13,RESE-UNMATCHED-X-UNMATCHED-01,R6,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,|
-|R14,RESE-UNMATCHED-X-UNMATCHED-01,R7,0R,R-0R-0402,0402-1005X55N,SMD Resistor,0039,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-070RL/311-0.0LRCT-ND/2827888,311-0.0LRCT-ND,Yageo,RC0402FR-070RL,NO,,0R,,|
-|R15,RESE-UNMATCHED-X-UNMATCHED-01,R8,19k1,R-19K1-0402,0402-1005X55N,SMD Resistor,A5369,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf,https://www.digikey.it/product-detail/it/yageo/RC0402FR-0719K1L/311-19.1KLRTR-ND/726552,311-19.1KLRTR-ND,Yageo,RC0402FR-0719K1L,NO,,19k1,,|
-|R16,RESE-UNMATCHED-X-UNMATCHED-01,R9,39k,R-39K-0402,0402-1005X55N,SMD Resistor,A5479,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,https://www.digikey.com/product-detail/en/yageo/RC0402JR-0739KL/311-39KJRCT-ND/729420,311-39KJRCT-ND ,Yageo,RC0402JR-0739KL,NO,,39k,,|
-|R17,RESE-UNMATCHED-X-UNMATCHED-01,R10,100k,R-100K-0402,0402-1005X55N,SMD Resistor,0134,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,311-100KLRCT-ND,Yageo ,RC0402FR-07100KL ,NO,,100k,,|
-|R18,RESE-UNMATCHED-X-UNMATCHED-01,R11,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,|
-|R19,RESE-UNMATCHED-X-UNMATCHED-01,R12,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,|
-|R20,RESE-UNMATCHED-X-UNMATCHED-01,R13,330R,R-330R-0402,0402-1005X55N,SMD Resistor,2229,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-07330RL/311-330LRCT-ND/729541,311-330LRCT-ND,Yageo ,RC0402FR-07330RL ,NO,,330R,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R14,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,|
-|U2,VREG-UNMATCHED-X-KAP2112K-01,R15,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,|
-|U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R16,4k7,R-4K7-0402,0402-1005X55N,SMD Resistor,2196,www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf,http://www.digikey.com/product-detail/en/yageo/RC0402FR-074K7L/311-4.7KLRCT-ND/2827881,311-4.7KLRCT-ND,Yageo ,RC0402FR-074K7L ,NO,,4k7,,|
+|C1 C1,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C2 C2,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C3 C3,CAPC-UNMATCHED-X-UF22-01|
+|C4 C4,CAPC-UNMATCHED-X-UF22-01|
+|C5 C5,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C6 C6,CAPC-UNMATCHED-X-UF1-01|
+|C7 C7,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C8 C8,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C9 C9,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C10 C10,CAPC-UNMATCHED-X-UNMATCHED-01|
+|C11 C11,CAPC-UNMATCHED-X-UNMATCHED-01|
+|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
+|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
+|DL1 DL1,LEDS-UNMATCHED-G-STAN-01|
+|DL2 DL2,LEDS-UNMATCHED-G-STAN-01|
+|DL3 DL3,LEDS-UNMATCHED-G-STAN-01|
+|DL4 DL4,LEDS-UNMATCHED-G-STAN-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|JP2 JP2,HEAD-I01-X-PI15-01|
+|JP3 JP3,HEAD-I01-X-PI15-01|
+|PB1 PB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Q1 Q1,UNMATCHED-SO363-X-KBSS138-01|
+|Q2 Q2,UNMATCHED-SO363-X-KBSS138-01|
+|R1 R1,RESE-UNMATCHED-X-O105-01|
+|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
+|R3 R3,RESE-UNMATCHED-X-UNMATCHED-01|
+|R4 R4,RESE-UNMATCHED-X-O1003-01|
+|R5 R5,RESE-UNMATCHED-X-UNMATCHED-01|
+|R6 R6,RESE-UNMATCHED-X-O1003-01|
+|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
+|R8 R8,RESE-UNMATCHED-X-UNMATCHED-01|
+|R9 R9,RESE-UNMATCHED-X-O393-01|
+|R10 R10,RESE-UNMATCHED-X-O1003-01|
+|R11 R11,RESE-UNMATCHED-X-UNMATCHED-01|
+|R12 R12,RESE-UNMATCHED-X-UNMATCHED-01|
+|R13 R13,RESE-UNMATCHED-X-UNMATCHED-01|
+|R14 R14,RESE-UNMATCHED-X-UNMATCHED-01|
+|R15 R15,RESE-UNMATCHED-X-UNMATCHED-01|
+|R16 R16,RESE-UNMATCHED-X-UNMATCHED-01|
+|R17 R17,RESE-UNMATCHED-X-UNMATCHED-01|
+|R18 R18,RESE-UNMATCHED-X-UNMATCHED-01|
+|R19 R19,RESE-UNMATCHED-X-UNMATCHED-01|
+|R20 R20,RESE-UNMATCHED-X-UNMATCHED-01|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|U2 U2,VREG-UNMATCHED-X-KAP2112K-01|
+|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -103,10 +107,10 @@ Contents
 - oompID: PROJ-ARDU-NANO-STAN-01
 - oompParts: C1,CAPC-UNMATCHED-X-UNMATCHED-01
 - oompParts: C2,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C3,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C4,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C3,CAPC-UNMATCHED-X-UF22-01
+- oompParts: C4,CAPC-UNMATCHED-X-UF22-01
 - oompParts: C5,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C6,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C6,CAPC-UNMATCHED-X-UF1-01
 - oompParts: C7,CAPC-UNMATCHED-X-UNMATCHED-01
 - oompParts: C8,CAPC-UNMATCHED-X-UNMATCHED-01
 - oompParts: C9,CAPC-UNMATCHED-X-UNMATCHED-01

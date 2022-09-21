@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRA4683 > Adafruit](#pra4683--adafruit)
+* [PRA4683 > Adafruit MPM3610 PCB](#pra4683--adafruit-mpm3610-pcb)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRA4683 > Adafruit
+# PRA4683 > Adafruit MPM3610 PCB
 
 - ID: PROJ-ADAF-4683-STAN-01
 - Hex ID: PRA4683
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-ADAF-4683-STAN-01/kicad/bom/ibom.html)
@@ -34,13 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPC-0805-X-UF22-01,C1,22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|C2,CAPC-0805-X-UF22-01,C2,22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,|
-|IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,|
-|JP1,HEAD-I01-X-PI04-01,IC1,MPM3610,MPM3610,MPM3610,,,|
-|R1,RESE-0603-X-O753-01,JP1,,HEADER-1X4ROUND,1X04_ROUND,PIN HEADER,,|
-|R2,RESE-0603-X-O753-01,R1,75K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
-|R3,RESE-0603-X-O243-01,R2,75K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,|
+|C1 C1,CAPC-0805-X-UF22-01|
+|C2 C2,CAPC-0805-X-UF22-01|
+|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|R1 R1,RESE-0603-X-O753-01|
+|R2 R2,RESE-0603-X-O753-01|
+|[R3 RESE-0603-X-O243-01 SMD (0603) 25k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O243-01/)|
 
 ## Images
   

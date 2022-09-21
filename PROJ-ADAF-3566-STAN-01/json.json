@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0603-X-NF100-V50"
+            "value": "C1,CAPC-0603-X-UF1D-01"
         },
         {
             "name": "oompParts",
@@ -70,11 +70,11 @@
         },
         {
             "name": "oompParts",
-            "value": "R1,RESE-UNMATCHED-X-O103-01"
+            "value": "R1,RESA-06038-X-O103X4-01"
         },
         {
             "name": "oompParts",
-            "value": "R2,RESE-UNMATCHED-X-O1003-01"
+            "value": "R2,RESA-06038-X-O1003X4-01"
         },
         {
             "name": "oompParts",

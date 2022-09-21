@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS15344 > Sparkfun](#prs15344--sparkfun)
+* [PRS15344 > Qwiic Capacitive Touch Slider CAP1203](#prs15344--qwiic-capacitive-touch-slider-cap1203)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS15344 > Sparkfun
+# PRS15344 > Qwiic Capacitive Touch Slider CAP1203
 
 - ID: PROJ-SPAR-15344-STAN-01
 - Hex ID: PRS15344
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15344-STAN-01/kicad/bom/ibom.html)

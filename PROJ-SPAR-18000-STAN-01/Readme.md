@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [PRS18000 > Sparkfun](#prs18000--sparkfun)
+* [PRS18000 > QwiicBus MidPoint](#prs18000--qwiicbus-midpoint)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS18000 > Sparkfun
+# PRS18000 > QwiicBus MidPoint
 
 - ID: PROJ-SPAR-18000-STAN-01
 - Hex ID: PRS18000
@@ -24,6 +25,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18000-STAN-01/kicad/bom/ibom.html)

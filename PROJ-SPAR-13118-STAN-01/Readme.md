@@ -5,15 +5,16 @@
 Contents
 ========
 
-* [PRS13118 > Sparkfun](#prs13118--sparkfun)
+* [PRS13118 > Servo Trigger](#prs13118--servo-trigger)
 	* [Schematic](#schematic)
+	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# PRS13118 > Sparkfun
+# PRS13118 > Servo Trigger
 
 - ID: PROJ-SPAR-13118-STAN-01
 - Hex ID: PRS13118
@@ -25,6 +26,9 @@ Contents
 ## Schematic
   
 [![schem](eagleSchemImage.png)](eagleSchemImage.png)
+## PCB
+  
+[![pcb](eagleImage.png)](eagleImage.png)
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13118-STAN-01/kicad/bom/ibom.html)
@@ -34,25 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1,CAPX-UNMATCHED-X-UF10-01,C1,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,,CAP-00811,10uF,,|
-|C5,CAPC-0603-X-NF100-V50,C5,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,CAP-00810,0.1uF,,|
-|FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP1,HEAD-I01-X-PI02-01,FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,|
-|JP2,HEAD-I01-X-PI03-01,FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Byron Jacquot,,,V10,|
-|JP3,HEAD-I01-X-PI02-01,JP1,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,|
-|JP4,HEAD-I01-X-PI02-01,JP2,SERVO-OUT,M031X03_NO_SILK,1X03_NO_SILK,Header 3,,,,,|
-|JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01,JP3,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,|
-|R1,RESE-UNMATCHED-X-O103-01,JP4,M021X02_NO_SILK,M021X02_NO_SILK,1X02_NO_SILK,Standard 2-pin 0.1 header. Use with,,,,,|
-|R2,RESE-UNMATCHED-X-O103-01,JP9,,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,,,,|
-|R3,RESE-UNMATCHED-X-O103-01,LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,|
-|R4,RESE-0603-X-O103-01,LOGO2,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME_.2,SFE Logo, name only,,,,,|
-|R5,RESE-0603-X-O103-01,LOGO3,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE Logo, flame only,,,,,|
-|R6,RESE-0603-X-O103-01,R1,10k,TRIMPOTRES-11156,TRIMPOT_5MM,Various small potentiometers for set-and-forget applications,,RES-11156,,,|
-|TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R2,10k,TRIMPOTRES-11156,TRIMPOT_5MM,Various small potentiometers for set-and-forget applications,,RES-11156,,,|
-|TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R3,10k,TRIMPOTRES-11156,TRIMPOT_5MM,Various small potentiometers for set-and-forget applications,,RES-11156,,,|
-|TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R4,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,|
-|U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R5,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,|
-|Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01,R6,10K,10KOHM-1/10W-1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,|
+|C1 C1,CAPX-UNMATCHED-X-UF10-01|
+|C5 C5,CAPC-0603-X-UF1D-01|
+|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|R1 R1,RESE-UNMATCHED-X-O103-01|
+|R2 R2,RESE-UNMATCHED-X-O103-01|
+|R3 R3,RESE-UNMATCHED-X-O103-01|
+|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
 
 ## Images
   
@@ -75,7 +76,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13118
 - oompID: PROJ-SPAR-13118-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
@@ -88,9 +89,6 @@ Contents
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O103-01
 - oompParts: R6,RESE-0603-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,,CAP-00811,10uF,,
