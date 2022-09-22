@@ -1,13 +1,13 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-3800-STAN-01")
 
-newPart.addTag('oompParts','C1,CAPC-0603-X-UF1-01')
-newPart.addTag('oompParts','C5,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C1,CAPC-0603-X-UF1-V25')
+newPart.addTag('oompParts','C5,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C6,CAPC-0805-X-UF10-V10')
-newPart.addTag('oompParts','C7,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C7,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C8,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C9,CAPC-0805-X-UF10-V10')
-newPart.addTag('oompParts','C14,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C14,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','D1,DIOD-S123-X-KMBR120-01')
 newPart.addTag('oompParts','D2,DIOD-S123-X-KMBR120-01')
 newPart.addTag('oompParts','IC1,UNMATCHED-SO235-X-UNMATCHED-01')

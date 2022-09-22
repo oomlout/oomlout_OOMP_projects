@@ -1,11 +1,11 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-14411-STAN-01")
 
-newPart.addTag('oompParts','C1,CAPC-0805-X-UF22-01')
-newPart.addTag('oompParts','C2,CAPC-0805-X-UF22-01')
-newPart.addTag('oompParts','C3,CAPC-0805-X-UF22-01')
-newPart.addTag('oompParts','C9,CAPC-0603-X-UF47D-01')
-newPart.addTag('oompParts','C10,CAPC-0603-X-UF47D-01')
+newPart.addTag('oompParts','C1,CAPC-0805-X-UF22-V63D')
+newPart.addTag('oompParts','C2,CAPC-0805-X-UF22-V63D')
+newPart.addTag('oompParts','C3,CAPC-0805-X-UF22-V63D')
+newPart.addTag('oompParts','C9,CAPC-0603-X-UF47D-V10')
+newPart.addTag('oompParts','C10,CAPC-0603-X-UF47D-V10')
 newPart.addTag('oompParts','D1,DIOD-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','D2,DIOD-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','D3,LEDS-0603-R-STAN-01')

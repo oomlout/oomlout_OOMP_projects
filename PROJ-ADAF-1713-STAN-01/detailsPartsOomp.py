@@ -1,9 +1,9 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-1713-STAN-01")
 
-newPart.addTag('oompParts','C1,CAPC-0805-X-UF22D-01')
+newPart.addTag('oompParts','C1,CAPC-0805-X-UF22D-V25')
 newPart.addTag('oompParts','C2,CAPC-0805-X-UF1D-01')
-newPart.addTag('oompParts','C5,CAPC-0805-X-UF22D-01')
+newPart.addTag('oompParts','C5,CAPC-0805-X-UF22D-V25')
 newPart.addTag('oompParts','C8,CAPC-0805-X-UF47-01')
 newPart.addTag('oompParts','C9,CAPC-0805-X-UF1D-01')
 newPart.addTag('oompParts','FB1,FERB-0805-X-UNMATCHED-01')
