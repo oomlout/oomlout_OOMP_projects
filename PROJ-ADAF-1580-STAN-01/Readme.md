@@ -38,20 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1D-01|
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|[D3 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|R1 R1,RESE-0805-X-O471-01|
-|[R2 RESE-0805-X-O203-01 SMD (0805) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|
-|U$7 U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C1|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, CN2, IC1, U$7, X1, Y1|
+|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D2, D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|RESE-0805-X-O471-01<BR>R1|
+|[RESE-0805-X-O203-01<br> SMD (0805) 20k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|
 
 ## Images
   
@@ -81,7 +74,7 @@ Contents
 - oompParts: D2,DIOD-S323-X-K4148-01
 - oompParts: D3,DIOD-S323-X-K4148-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED1,LEDS-0805-G-STAN-01
+- oompParts: LED1,LEDS-0805-R-STAN-01
 - oompParts: R1,RESE-0805-X-O471-01
 - oompParts: R2,RESE-0805-X-O203-01
 - oompParts: U$7,UNMATCHED-UNMATCHED-X-UNMATCHED-01

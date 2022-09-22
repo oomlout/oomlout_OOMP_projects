@@ -38,29 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-PF22D-01|
-|C2 C2,CAPC-0402-X-PF10-01|
-|C3 C3,CAPC-0402-X-UNMATCHED-01|
-|C4 C4,CAPC-0805-X-UF1-01|
-|C5 C5,CAPC-0805-X-UF1-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
-|L2 L2,UNMATCHED-0402-X-UNMATCHED-01|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|R1 R1,RESE-0805-X-O471-01|
-|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$35 U$35,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-PF22D-V50<br> SMD (0402) 2.2 pF Capacitor (Ceramic) 50v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
+|[CAPC-0402-X-PF10-V50<br> SMD (0402) 10 pF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF10-V50/)|
+|CAPC-0402-X-UNMATCHED-01<BR>C3|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|FERB-0805-X-UNMATCHED-01<BR>FB1|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-I01-X-PI09-01<br> 2.54 mm 9 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|UNMATCHED-0402-X-UNMATCHED-01<BR>L2|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|RESE-0805-X-O471-01<BR>R1|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$35, U1, U2, U3, X1|
 
 ## Images
   
@@ -82,11 +72,11 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1510
 - oompID: PROJ-ADAF-1510-STAN-01
-- oompParts: C1,CAPC-0402-X-PF22D-01
-- oompParts: C2,CAPC-0402-X-PF10-01
+- oompParts: C1,CAPC-0402-X-PF22D-V50
+- oompParts: C2,CAPC-0402-X-PF10-V50
 - oompParts: C3,CAPC-0402-X-UNMATCHED-01
-- oompParts: C4,CAPC-0805-X-UF1-01
-- oompParts: C5,CAPC-0805-X-UF1-01
+- oompParts: C4,CAPC-0805-X-UF1-V25
+- oompParts: C5,CAPC-0805-X-UF1-V25
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF10-V10
 - oompParts: C8,CAPC-0805-X-UF10-V10
@@ -98,8 +88,6 @@ Contents
 - oompParts: R1,RESE-0805-X-O471-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$35,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

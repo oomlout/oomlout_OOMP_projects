@@ -54,7 +54,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0603-X-UF1-01"
+            "value": "C5,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -62,7 +62,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UF1-01"
+            "value": "C7,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0603-X-UF1-01"
+            "value": "C11,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -90,7 +90,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C14,CAPC-0603-X-UF1-01"
+            "value": "C14,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -122,7 +122,7 @@
         },
         {
             "name": "oompParts",
-            "value": "ICSP,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "ICSP,HEAD-I01-X-PI2X03-01"
         },
         {
             "name": "oompParts",
@@ -130,15 +130,15 @@
         },
         {
             "name": "oompParts",
-            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J2,HEAD-I01-X-PI08-01"
         },
         {
             "name": "oompParts",
-            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J3,HEAD-I01-X-PI08-01"
         },
         {
             "name": "oompParts",
-            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J4,HEAD-I01-X-PI06-01"
         },
         {
             "name": "oompParts",
@@ -146,7 +146,7 @@
         },
         {
             "name": "oompParts",
-            "value": "L,LEDS-0805-G-STAN-01"
+            "value": "L,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -194,7 +194,7 @@
         },
         {
             "name": "oompParts",
-            "value": "RX,LEDS-0805-G-STAN-01"
+            "value": "RX,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -202,7 +202,7 @@
         },
         {
             "name": "oompParts",
-            "value": "TX,LEDS-0805-G-STAN-01"
+            "value": "TX,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",

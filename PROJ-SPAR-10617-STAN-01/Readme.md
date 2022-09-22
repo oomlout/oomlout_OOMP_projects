@@ -38,19 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1-01|
-|C2 C2,CAPC-0402-X-NF10-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R2 RESE-0402-X-O181-01 SMD (0402) 180 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O181-01/)|
-|[R3 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R4 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R5 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R6 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[CAPC-0402-X-NF10-V50<br> SMD (0402) 10 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0402-X-O102-01<br> SMD (0402) 1k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[RESE-0402-X-O181-01<br> SMD (0402) 180 Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O181-01/)|
+|[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R3, R4, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -72,9 +68,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Lipo_Fuel_Gauge (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10617
 - oompID: PROJ-SPAR-10617-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-01
-- oompParts: C2,CAPC-0402-X-NF10-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF1-V63D
+- oompParts: C2,CAPC-0402-X-NF10-V50
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI03-01
 - oompParts: JP4,HEAD-I01-X-PI03-01
 - oompParts: JP5,HEAD-I01-X-PI02-01

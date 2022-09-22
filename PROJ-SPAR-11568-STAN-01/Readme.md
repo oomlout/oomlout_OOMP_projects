@@ -38,18 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|AJ1 AJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|AJ2 AJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C1 C1,CAPC-0402-X-PF47D-01|
-|C2 C2,CAPC-0402-X-PF47D-01|
-|C3 C3,CAPC-0402-X-PF47D-01|
-|C4 C4,CAPC-0402-X-PF47D-01|
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|R1 R1,RESE-0402-X-UNMATCHED-01|
-|R2 R2,RESE-0402-X-UNMATCHED-01|
-|R3 R3,RESE-0402-X-UNMATCHED-01|
-|R4 R4,RESE-0402-X-UNMATCHED-01|
+|TERS-35D-L-UNMATCHED-01<BR>AJ1, AJ2|
+|CAPC-0402-X-PF47D-01<BR>C1, C2, C3, C4|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|RESE-0402-X-UNMATCHED-01<BR>R1, R2, R3, R4|
 
 ## Images
   
@@ -71,8 +64,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Papilio_Audio_Wing (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11568
 - oompID: PROJ-SPAR-11568-STAN-01
-- oompParts: AJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: AJ2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: AJ1,TERS-35D-L-UNMATCHED-01
+- oompParts: AJ2,TERS-35D-L-UNMATCHED-01
 - oompParts: C1,CAPC-0402-X-PF47D-01
 - oompParts: C2,CAPC-0402-X-PF47D-01
 - oompParts: C3,CAPC-0402-X-PF47D-01

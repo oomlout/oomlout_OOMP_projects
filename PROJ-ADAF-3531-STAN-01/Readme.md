@@ -38,21 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C3 C3,CAPC-0805-X-UF22D-01|
-|C4 C4,CAPC-0805-X-UF22D-01|
-|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C6 C6,CAPC-0805-X-UF22D-01|
-|C7 C7,CAPC-0805-X-UF22D-01|
-|C8 C8,CAPC-0805-X-UF22D-01|
-|IC1 IC1,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|R3 R3,RESE-0805-X-O3903-01|
-|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C2, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C3, C4, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC1|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|RESE-0805-X-O3903-01<BR>R3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RPI1, SW3, U1|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1, SW2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
 
 ## Images
   
@@ -75,18 +67,18 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/3531
 - oompID: PROJ-ADAF-3531-STAN-01
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-UF22D-01
-- oompParts: C4,CAPC-0805-X-UF22D-01
+- oompParts: C3,CAPC-0805-X-UF22D-V25
+- oompParts: C4,CAPC-0805-X-UF22D-V25
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0805-X-UF22D-01
-- oompParts: C7,CAPC-0805-X-UF22D-01
-- oompParts: C8,CAPC-0805-X-UF22D-01
+- oompParts: C6,CAPC-0805-X-UF22D-V25
+- oompParts: C7,CAPC-0805-X-UF22D-V25
+- oompParts: C8,CAPC-0805-X-UF22D-V25
 - oompParts: IC1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O3903-01
 - oompParts: RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-6060-X-STAN-01
+- oompParts: SW2,BUTA-6060-X-STAN-01
 - oompParts: SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

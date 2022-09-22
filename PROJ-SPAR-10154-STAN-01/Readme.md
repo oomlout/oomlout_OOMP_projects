@@ -38,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[JP0 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP2 JP2,HEAD-I01-X-PI01-01|
-|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP4 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|RFM22-XXX-S2 RFM22-XXX-S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP0, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|HEAD-I01-X-PI01-01<BR>JP2|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RFM22-XXX-S2|
 
 ## Images
   

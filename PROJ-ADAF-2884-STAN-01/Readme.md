@@ -38,15 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP2 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|[JP3 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|[JP4 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP5 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP6 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|MS2 MS2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|MS3 MS3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP1, JP4, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI16-01<br> 2.54 mm 16 Pin Header<br> JP2, JP3, JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>MS1, MS2, MS3|
 
 ## Images
   

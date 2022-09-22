@@ -38,30 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,HEAD-I01-X-PI01-01|
-|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|JP3 JP3,HEAD-I01-X-PI01-01|
-|JP4 JP4,HEAD-I01-X-PI01-01|
-|JP5 JP5,HEAD-I01-X-PI01-01|
-|JP6 JP6,HEAD-I01-X-PI01-01|
-|JP7 JP7,HEAD-I01-X-PI01-01|
-|JP8 JP8,HEAD-I01-X-PI01-01|
-|JP9 JP9,HEAD-I01-X-PI01-01|
-|JP10 JP10,HEAD-I01-X-PI01-01|
-|JP11 JP11,HEAD-I01-X-PI01-01|
-|JP12 JP12,HEAD-I01-X-PI01-01|
-|[JP13 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|JP14 JP14,HEAD-I01-X-PI01-01|
-|[R1 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R2 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R3 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R4 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R5 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R6 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R7 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|[R8 RESE-0603-X-O150-01 SMD (0603) 15 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, U1|
+|HEAD-I01-X-PI01-01<BR>JP1, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP14|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP2, JP13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0603-X-O150-01<br> SMD (0603) 15 Ohm Resistor<br> R1, R2, R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O150-01/)|
 
 ## Images
   

@@ -38,19 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-UNMATCHED-X-UF10-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C5 C5,CAPC-0603-X-UF1D-01|
-|[CONN3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[CONN4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP3 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|R6 R6,RESA-06038-X-O103X4-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPC-UNMATCHED-X-UF10-01<BR>C1|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0603-X-UF1D-01<BR>C5|
+|HEAD-I01-X-UNMATCHED-01<BR>CONN3, CONN4|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC2|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|RESA-06038-X-O103X4-01<BR>R6|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -75,10 +73,10 @@ Contents
 - oompParts: C1,CAPC-UNMATCHED-X-UF10-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0603-X-UF1D-01
-- oompParts: CONN3,HEAD-I01-X-PI04-01
-- oompParts: CONN4,HEAD-I01-X-PI04-01
+- oompParts: CONN3,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN4,HEAD-I01-X-UNMATCHED-01
 - oompParts: D3,LEDS-0603-G-STAN-01
-- oompParts: D4,LEDS-0603-G-STAN-01
+- oompParts: D4,LEDS-0603-R-STAN-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI12-01
 - oompParts: JP3,HEAD-I01-X-PI12-01

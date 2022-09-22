@@ -38,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -65,7 +64,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SN74HC165-Shift-In-Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11512
 - oompID: PROJ-SPAR-11512-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: JP3,HEAD-I01-X-PI06-01

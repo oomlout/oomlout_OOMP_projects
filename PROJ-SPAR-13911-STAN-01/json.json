@@ -42,19 +42,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0402-X-UF1-01"
+            "value": "C1,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0402-X-UF1-01"
+            "value": "C2,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0402-X-UF1-01"
+            "value": "C3,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0402-X-UF1-01"
+            "value": "C4,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
@@ -70,15 +70,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0402-X-UF1-01"
+            "value": "C8,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0402-X-UF1-01"
+            "value": "C9,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C10,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -86,11 +86,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C12,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C12,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
-            "value": "D1,LEDS-0603-G-STAN-01"
+            "value": "D1,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",

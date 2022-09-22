@@ -38,24 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF47D-01|
-|C2 C2,CAPC-0603-X-UF1-01|
-|C3 C3,CAPC-0603-X-UF47D-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|D3 D3,DIOD-UNMATCHED-X-UNMATCHED-01|
-|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R2 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R3 R3,RESE-0603-X-UNMATCHED-01|
-|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D3|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, JP1, JP3, U1|
+|HEAD-I01-X-UNMATCHED-01<BR>JP2|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R1, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R3|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -77,15 +70,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photon_Battery_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13626
 - oompID: PROJ-SPAR-13626-STAN-01
-- oompParts: C1,CAPC-0603-X-UF47D-01
-- oompParts: C2,CAPC-0603-X-UF1-01
-- oompParts: C3,CAPC-0603-X-UF47D-01
+- oompParts: C1,CAPC-0603-X-UF47D-V10
+- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPC-0603-X-UF47D-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: D2,LEDS-0603-G-STAN-01
+- oompParts: D2,LEDS-0603-R-STAN-01
 - oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O102-01
 - oompParts: R2,RESE-0603-X-O331-01

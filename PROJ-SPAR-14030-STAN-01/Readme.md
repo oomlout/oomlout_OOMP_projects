@@ -38,19 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C5 C5,CAPC-0805-X-UF1-01|
-|C6 C6,CAPC-0603-X-UF22D-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,VREG-SO235-X-KAP2112K-V33D|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0603-X-UF22D-V10<br> SMD (0603) 2.2 uF Capacitor (Ceramic) 10v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
+|[LEDS-0603-L-STAN-01<br> SMD (0603) Blue LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, S1, U1, U2|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> J2, J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0603-X-O471-01<br> SMD (0603) 470 Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|VREG-SO235-X-KAP2112K-V33D<BR>U3|
 
 ## Images
   
@@ -72,14 +68,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mini_GPS_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14030
 - oompID: PROJ-SPAR-14030-STAN-01
-- oompParts: C5,CAPC-0805-X-UF1-01
-- oompParts: C6,CAPC-0603-X-UF22D-01
-- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: C5,CAPC-0805-X-UF1-V25
+- oompParts: C6,CAPC-0603-X-UF22D-V10
+- oompParts: D1,LEDS-0603-L-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI12-01
+- oompParts: J3,HEAD-I01-X-PI12-01
+- oompParts: J4,HEAD-I01-X-PI06-01
+- oompParts: J5,HEAD-I01-X-PI02-01
 - oompParts: R1,RESE-0603-X-O471-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

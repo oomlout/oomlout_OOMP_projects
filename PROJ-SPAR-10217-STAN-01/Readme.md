@@ -38,16 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C3 C3,CAPC-0603-X-UF47D-01|
-|C4 C4,CAPC-0603-X-UF47D-01|
-|[D11 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP8 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
-|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R4 R4,RESE-0603-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP9|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R4|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -69,9 +67,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Lipo_Charger_Basic-microUSB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10217
 - oompID: PROJ-SPAR-10217-STAN-01
-- oompParts: C3,CAPC-0603-X-UF47D-01
-- oompParts: C4,CAPC-0603-X-UF47D-01
-- oompParts: D11,LEDS-0603-G-STAN-01
+- oompParts: C3,CAPC-0603-X-UF47D-V10
+- oompParts: C4,CAPC-0603-X-UF47D-V10
+- oompParts: D11,LEDS-0603-R-STAN-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP8,HEAD-I01-X-PI02-01
 - oompParts: JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01

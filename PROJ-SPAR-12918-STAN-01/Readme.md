@@ -38,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|FRAME2 FRAME2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP5 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP6 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|U1 U1,UNMATCHED-SO23-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME2|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>U1|
 
 ## Images
   

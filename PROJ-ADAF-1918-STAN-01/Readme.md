@@ -38,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1D-01|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|R1 R1,RESE-0805-X-O105-01|
-|R2 R2,RESE-0805-X-UNMATCHED-01|
-|[R3 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C1, C2|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|RESE-0805-X-O105-01<BR>R1|
+|RESE-0805-X-UNMATCHED-01<BR>R2|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U2|
 
 ## Images
   

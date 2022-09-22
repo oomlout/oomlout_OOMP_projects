@@ -38,57 +38,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPC-0402-X-PF18-01|
-|C4 C4,CAPX-UNMATCHED-X-UF10-01|
-|C5 C5,CAPC-0402-X-UF1D-01|
-|C6 C6,CAPX-UNMATCHED-X-UF10-01|
-|C7 C7,CAPC-0402-X-UF1D-01|
-|C8 C8,CAPC-0402-X-PF18-01|
-|C9 C9,CAPC-0402-X-UF1D-01|
-|C10 C10,CAPC-0402-X-NF10-01|
-|C11 C11,CAPC-0402-X-NF47-01|
-|C12 C12,CAPC-0402-X-NF10-01|
-|C13 C13,CAPC-0402-X-NF100-01|
-|C14 C14,CAPC-0402-X-NF100-01|
-|C15 C15,CAPC-0402-X-NF100-01|
-|C16 C16,CAPC-0402-X-NF100-01|
-|C17 C17,CAPC-0402-X-NF100-01|
-|C18 C18,CAPC-0402-X-NF100-01|
-|C19 C19,CAPC-0402-X-NF100-01|
-|C20 C20,CAPC-0402-X-NF100-01|
-|C21 C21,CAPC-0402-X-NF100-01|
-|C22 C22,CAPC-0402-X-NF100-01|
-|C23 C23,CAPC-0402-X-NF10-01|
-|C24 C24,CAPC-0402-X-NF10-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP3 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
-|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O105-01 SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
-|R2 R2,RESE-0402-X-O1003-01|
-|R3 R3,RESE-0402-X-O1003-01|
-|R4 R4,RESE-0402-X-O1003-01|
-|R5 R5,RESE-0402-X-O1003-01|
-|R6 R6,RESE-0402-X-O200-01|
-|[R7 RESE-0402-X-O100-01 SMD (0402) 10 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O100-01/)|
-|R8 R8,RESE-0402-X-O331-01|
-|R9 R9,RESE-0402-X-O200-01|
-|R10 R10,RESE-0402-X-O1003-01|
-|R11 R11,RESE-0402-X-O1003-01|
-|[R12 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R13 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|R14 R14,RESE-0402-X-O1003-01|
-|R15 R15,RESE-0402-X-O1003-01|
-|R16 R16,RESE-0402-X-O1003-01|
-|R17 R17,RESE-0402-X-O1003-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$12 U$12,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1, C4, C6|
+|CAPC-0402-X-UF1D-01<BR>C2, C5, C7, C9|
+|[CAPC-0402-X-PF18-V50<br> SMD (0402) 18 pF Capacitor (Ceramic) 50v<br> C3, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
+|[CAPC-0402-X-NF10-V50<br> SMD (0402) 10 nF Capacitor (Ceramic) 50v<br> C10, C12, C23, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
+|[CAPC-0402-X-NF47-V25<br> SMD (0402) 47 nF Capacitor (Ceramic) 25v<br> C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF47-V25/)|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C13, C14, C15, C16, C17, C18, C19, C20, C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP4, Q1, U$2, U$12, U2|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[RESE-0402-X-O105-01<br> SMD (0402) 1M Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
+|RESE-0402-X-O1003-01<BR>R2, R3, R4, R5, R10, R11, R14, R15, R16, R17|
+|RESE-0402-X-O200-01<BR>R6, R9|
+|[RESE-0402-X-O100-01<br> SMD (0402) 10 Ohm Resistor<br> R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O100-01/)|
+|RESE-0402-X-O331-01<BR>R8|
+|[RESE-0402-X-O471-01<br> SMD (0402) 470 Ohm Resistor<br> R12, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -110,30 +76,30 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MP3_Breakout-VS1033D (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10608
 - oompID: PROJ-SPAR-10608-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-PF18-01
-- oompParts: C4,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C3,CAPC-0402-X-PF18-V50
+- oompParts: C4,CAPT-3216-X-UF10-01
 - oompParts: C5,CAPC-0402-X-UF1D-01
-- oompParts: C6,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C6,CAPT-3216-X-UF10-01
 - oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-PF18-01
+- oompParts: C8,CAPC-0402-X-PF18-V50
 - oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-NF10-01
-- oompParts: C11,CAPC-0402-X-NF47-01
-- oompParts: C12,CAPC-0402-X-NF10-01
-- oompParts: C13,CAPC-0402-X-NF100-01
-- oompParts: C14,CAPC-0402-X-NF100-01
-- oompParts: C15,CAPC-0402-X-NF100-01
-- oompParts: C16,CAPC-0402-X-NF100-01
-- oompParts: C17,CAPC-0402-X-NF100-01
-- oompParts: C18,CAPC-0402-X-NF100-01
-- oompParts: C19,CAPC-0402-X-NF100-01
-- oompParts: C20,CAPC-0402-X-NF100-01
-- oompParts: C21,CAPC-0402-X-NF100-01
-- oompParts: C22,CAPC-0402-X-NF100-01
-- oompParts: C23,CAPC-0402-X-NF10-01
-- oompParts: C24,CAPC-0402-X-NF10-01
+- oompParts: C10,CAPC-0402-X-NF10-V50
+- oompParts: C11,CAPC-0402-X-NF47-V25
+- oompParts: C12,CAPC-0402-X-NF10-V50
+- oompParts: C13,CAPC-0402-X-NF100-V10
+- oompParts: C14,CAPC-0402-X-NF100-V10
+- oompParts: C15,CAPC-0402-X-NF100-V10
+- oompParts: C16,CAPC-0402-X-NF100-V10
+- oompParts: C17,CAPC-0402-X-NF100-V10
+- oompParts: C18,CAPC-0402-X-NF100-V10
+- oompParts: C19,CAPC-0402-X-NF100-V10
+- oompParts: C20,CAPC-0402-X-NF100-V10
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C22,CAPC-0402-X-NF100-V10
+- oompParts: C23,CAPC-0402-X-NF10-V50
+- oompParts: C24,CAPC-0402-X-NF10-V50
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI10-01
 - oompParts: JP3,HEAD-I01-X-PI07-01

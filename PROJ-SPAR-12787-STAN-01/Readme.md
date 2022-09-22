@@ -38,15 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF100-01|
-|C2 C2,CAPC-0603-X-UF1-01|
-|C3 C3,CAPC-0603-X-UF1-01|
-|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|R4 R4,RESE-0603-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPX-7343-X-UF100-01<BR>C1|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -68,9 +66,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12787
 - oompID: PROJ-SPAR-12787-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C2,CAPC-0603-X-UF1-01
-- oompParts: C3,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPX-7343-X-UF100-01
+- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPC-0603-X-UF1-V25
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O472-01

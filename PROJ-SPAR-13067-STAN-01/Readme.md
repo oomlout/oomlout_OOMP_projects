@@ -38,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|JP11 JP11,HEAD-UNMATCHED-X-PI04-01|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|HEAD-UNMATCHED-X-PI04-01<BR>JP11|
 
 ## Images
   

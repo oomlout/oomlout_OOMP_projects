@@ -38,27 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPX-UNMATCHED-X-UF10-01|
-|C4 C4,CAPC-0603-X-UF1D-01|
-|C5 C5,CAPC-0603-X-UF1D-01|
-|C6 C6,CAPC-0603-X-UF1D-01|
-|CLIENT CLIENT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|HOST HOST,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1, C3|
+|CAPC-0603-X-UF1D-01<BR>C2, C4, C5, C6|
+|HEAD-I01-X-UNMATCHED-01<BR>CLIENT|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D1, D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>HOST, JP4, U1, U3|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R1, R2, R3, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -80,15 +69,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FTDI_SmartBasic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12935
 - oompID: PROJ-SPAR-12935-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C3,CAPT-3216-X-UF10-01
 - oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: C6,CAPC-0603-X-UF1D-01
-- oompParts: CLIENT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: CLIENT,HEAD-I01-X-UNMATCHED-01
 - oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: D2,LEDS-0603-G-STAN-01
+- oompParts: D2,LEDS-0603-R-STAN-01
 - oompParts: D4,LEDS-0603-G-STAN-01
 - oompParts: HOST,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI02-01

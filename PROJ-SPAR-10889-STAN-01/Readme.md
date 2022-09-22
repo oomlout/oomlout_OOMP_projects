@@ -33,48 +33,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1D-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPC-0402-X-UF1D-01|
-|C4 C4,CAPC-0402-X-UF1D-01|
-|C5 C5,CAPX-UNMATCHED-X-UF10-01|
-|C6 C6,CAPC-0402-X-UF1D-01|
-|C10 C10,CAPC-0402-X-UF1D-01|
-|C13 C13,CAPX-UNMATCHED-X-UF10-01|
-|C19 C19,CAPX-UNMATCHED-X-UF10-01|
-|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP3 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP6 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP7 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP8 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP9 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP10 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP21 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|LED4 LED4,LEDS-UNMATCHED-G-STAN-01|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R3 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|R4 R4,RESE-0402-X-O201-01|
-|[R5 RESE-0402-X-O101-01 SMD (0402) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
-|R6 R6,RESE-0402-X-O331-01|
-|[R7 RESE-0402-X-O101-01 SMD (0402) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
-|[R8 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R11 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SG1 SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0402-X-UF1D-01<BR>C1, C2, C3, C4, C6, C10|
+|CAPT-3216-X-UF10-01<BR>C5, C13, C19|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D3, LED3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2, JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP6, JP7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP10, JP21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED1, LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|LEDS-UNMATCHED-G-STAN-01<BR>LED4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>Q1, S1, S2, SG1, U1, U3, U4, X2|
+|[RESE-0402-X-O102-01<br> SMD (0402) 1k Ohm Resistor<br> R1, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R2, R8, R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-0402-X-O201-01<BR>R4|
+|[RESE-0402-X-O101-01<br> SMD (0402) 100 Ohm Resistor<br> R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
+|RESE-0402-X-O331-01<BR>R6|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|VREG-SO235-X-KMIC5205-01<BR>U2|
 
 ## Images
   
@@ -100,11 +76,11 @@ Contents
 - oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPC-0402-X-UF1D-01
 - oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C5,CAPT-3216-X-UF10-01
 - oompParts: C6,CAPC-0402-X-UF1D-01
 - oompParts: C10,CAPC-0402-X-UF1D-01
-- oompParts: C13,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C19,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C13,CAPT-3216-X-UF10-01
+- oompParts: C19,CAPT-3216-X-UF10-01
 - oompParts: D3,LEDS-0603-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
@@ -115,8 +91,8 @@ Contents
 - oompParts: JP9,HEAD-I01-X-PI02-01
 - oompParts: JP10,HEAD-I01-X-PI03-01
 - oompParts: JP21,HEAD-I01-X-PI03-01
-- oompParts: LED1,LEDS-0603-G-STAN-01
-- oompParts: LED2,LEDS-0603-G-STAN-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LED2,LEDS-0603-R-STAN-01
 - oompParts: LED3,LEDS-0603-G-STAN-01
 - oompParts: LED4,LEDS-UNMATCHED-G-STAN-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -134,7 +110,7 @@ Contents
 - oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U2,VREG-SO235-X-KMIC5205-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

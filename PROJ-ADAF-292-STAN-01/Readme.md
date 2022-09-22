@@ -33,25 +33,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|A0 A0,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|A1 A1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|A2 A2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|CONTRAST CONTRAST,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R4 RESE-0805-X-O472-01 SMD (0805) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O472-01/)|
-|[R5 RESE-0805-X-O472-01 SMD (0805) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O472-01/)|
-|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|SPI SPI,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>A0, A1, A2, CONTRAST, IC1, IC2, J1, SPI|
+|CAPX-UNMATCHED-X-UF10-01<BR>C1|
+|CAPC-0805-X-UF1D-01<BR>C2|
+|[HEAD-I01-X-PI16-01<br> 2.54 mm 16 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2, R3, R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[RESE-0805-X-O472-01<br> SMD (0805) 4.7k Ohm Resistor<br> R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O472-01/)|
 
 ## Images
   

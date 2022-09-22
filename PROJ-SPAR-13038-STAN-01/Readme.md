@@ -38,17 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|C4 C4,CAPC-0603-X-UF1D-01|
-|C5 C5,CAPC-0603-X-UF1D-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,HEAD-I01-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C2, C3, C4, C5|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U2, U4|
+|HEAD-I01-X-UNMATCHED-01<BR>U3|
 
 ## Images
   

@@ -38,10 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D2 D2,LEDS-UNMATCHED-G-STAN-01|
-|[R1 RESE-0603-X-O201-01 SMD (0603) 200 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
-|[R2 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R3 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|LEDS-UNMATCHED-G-STAN-01<BR>D2|
+|[RESE-0603-X-O201-01<br> SMD (0603) 200 Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
 
 ## Images
   

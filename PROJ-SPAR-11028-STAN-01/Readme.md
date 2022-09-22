@@ -38,14 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-PF22D-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|C4 C4,CAPC-0603-X-NF10-01|
-|[JP6 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C3|
+|CAPC-0603-X-PF22D-01<BR>C2|
+|[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -70,7 +68,7 @@ Contents
 - oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0603-X-PF22D-01
 - oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-NF10-01
+- oompParts: C4,CAPC-0603-X-NF10-V50
 - oompParts: JP6,HEAD-I01-X-PI10-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01

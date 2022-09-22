@@ -38,14 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP3 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[LED1 LEDS-3535-RGB-K2812-01 SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LEDS-3535-RGB-K2812-01<br> SMD (3535) Smart Controller (WS2812B) RGB LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>SW1|
 
 ## Images
   
@@ -67,7 +65,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4978
 - oompID: PROJ-ADAF-4978-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
 - oompParts: D1,DIOD-S323-X-K4148-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI02-01

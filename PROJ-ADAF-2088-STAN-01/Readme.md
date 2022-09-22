@@ -38,16 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[IC2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
-|JP1 JP1,HEAD-I01-X-PI11-01|
-|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[Q3 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
-|R3 R3,RESE-0805-X-UNMATCHED-01|
-|TFT2 TFT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, Q2, TFT2|
+|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> IC2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|HEAD-I01-X-PI11-01<BR>JP1|
+|[MOSN-SO23-X-KBSS138-01<br> SMD (SOT-23) BSS138 N-Ch. MOSFET<br> Q3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|RESE-0805-X-UNMATCHED-01<BR>R3|
 
 ## Images
   

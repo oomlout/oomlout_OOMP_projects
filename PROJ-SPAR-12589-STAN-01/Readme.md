@@ -38,20 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-UF47D-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,MOSN-SO23-X-UNMATCHED-01|
-|Q2 Q2,MOSN-SO23-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R8 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R10 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C3|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1, JP2|
+|MOSN-SO23-X-UNMATCHED-01<BR>Q1, Q2|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R7, R8, R9, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
+|VREG-SO235-X-KMIC5205-01<BR>U2|
 
 ## Images
   
@@ -74,10 +67,10 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12589
 - oompID: PROJ-SPAR-12589-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF47D-01
+- oompParts: C2,CAPC-0603-X-UF47D-V10
 - oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
 - oompParts: Q1,MOSN-SO23-X-UNMATCHED-01
 - oompParts: Q2,MOSN-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01
@@ -86,7 +79,7 @@ Contents
 - oompParts: R9,RESE-0603-X-O103-01
 - oompParts: R10,RESE-0603-X-O103-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U2,VREG-SO235-X-KMIC5205-01
 - rawParts: C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,
 - rawParts: C2,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7ÃÂµF ceramic capacitors,,CAP-08280,,4.7uF,
 - rawParts: C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,

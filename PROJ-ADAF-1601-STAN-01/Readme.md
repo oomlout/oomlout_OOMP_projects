@@ -38,33 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[IC4 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
-|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
-|JP1 JP1,HEAD-I01-X-UNMATCHED-01|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R2 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R3 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R4 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R10 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R11 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW4 SW4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C2, C3, C4|
+|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> IC4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC5, Q1|
+|HEAD-I01-X-PI2X13-01<BR>JP1|
+|[RESE-0805-X-O101-01<br> SMD (0805) 100 Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R5, R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[RESE-0805-X-O220-01<br> SMD (0805) 22 Ohm Resistor<br> R10, R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>SW1, SW2, SW3, SW4, U$2, U$3, U2|
 
 ## Images
   
@@ -93,7 +76,7 @@ Contents
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: IC4,VREG-SO235-X-KMIC5225-V33D
 - oompParts: IC5,UNMATCHED-SO23-X-UNMATCHED-01
-- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI2X13-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O101-01
 - oompParts: R2,RESE-0805-X-O101-01

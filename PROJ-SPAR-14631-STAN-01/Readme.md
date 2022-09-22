@@ -38,49 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPC-0402-X-UF1D-01|
-|C4 C4,CAPC-0402-X-UF1D-01|
-|C5 C5,CAPC-0402-X-UF1-01|
-|C6 C6,CAPC-0603-X-UF47D-01|
-|C7 C7,CAPC-0603-X-UF47D-01|
-|C8 C8,CAPC-0603-X-UF47D-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D10 D10,LEDS-UNMATCHED-G-STAN-01|
-|J15 J15,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J16 J16,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED5 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED6 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED7 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED8 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED9 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[R1 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|R4 R4,RESE-0402-X-O220-01|
-|R5 R5,RESE-0402-X-O220-01|
-|[R6 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R7 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R8 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R9 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R10 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R11 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R12 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R13 RESE-0402-X-O471-01 SMD (0402) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
-|[R14 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R15 R15,RESE-0402-X-O220-01|
-|R16 R16,RESE-0402-X-O220-01|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$44 U$44,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,VREG-SO235-X-KAP2112K-V33D|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0402-X-UF1D-01<BR>C2, C3, C4|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
+|LEDS-UNMATCHED-G-STAN-01<BR>D10|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J15, J16, S1, S2, U$44, U5, Y1|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-Y-STAN-01<br> SMD (0603) Yellow LED<br> LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED3, LED4, LED5, LED6, LED7, LED8, LED9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R1, R7, R14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|RESE-0402-X-O220-01<BR>R4, R5, R15, R16|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[RESE-0402-X-O471-01<br> SMD (0402) 470 Ohm Resistor<br> R8, R9, R10, R11, R12, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O471-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
+|VREG-SO235-X-KAP2112K-V33D<BR>U2|
 
 ## Images
   
@@ -105,16 +78,16 @@ Contents
 - oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPC-0402-X-UF1D-01
 - oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPC-0402-X-UF1-01
-- oompParts: C6,CAPC-0603-X-UF47D-01
-- oompParts: C7,CAPC-0603-X-UF47D-01
-- oompParts: C8,CAPC-0603-X-UF47D-01
+- oompParts: C5,CAPC-0402-X-UF1-V63D
+- oompParts: C6,CAPC-0603-X-UF47D-V10
+- oompParts: C7,CAPC-0603-X-UF47D-V10
+- oompParts: C8,CAPC-0603-X-UF47D-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D10,LEDS-UNMATCHED-G-STAN-01
 - oompParts: J15,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J16,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LED1,LEDS-0603-G-STAN-01
-- oompParts: LED2,LEDS-0603-G-STAN-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LED2,LEDS-0603-Y-STAN-01
 - oompParts: LED3,LEDS-0603-G-STAN-01
 - oompParts: LED4,LEDS-0603-G-STAN-01
 - oompParts: LED5,LEDS-0603-G-STAN-01

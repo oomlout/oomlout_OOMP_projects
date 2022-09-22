@@ -38,27 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|C2 C2,CAPC-0603-X-UF1-01|
-|C3 C3,CAPC-0603-X-UF10-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|D2 D2,LEDS-UNMATCHED-G-STAN-01|
-|D4 D4,LEDS-UNMATCHED-G-STAN-01|
-|J1 J1,HEAD-UNMATCHED-X-PI04-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,HEAD-UNMATCHED-X-PI04-01|
-|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R13 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R14 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[CAPC-0603-X-UF10-V63D<br> SMD (0603) 10 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
+|[LEDS-0603-L-STAN-01<br> SMD (0603) Blue LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|LEDS-UNMATCHED-G-STAN-01<BR>D2, D4|
+|HEAD-UNMATCHED-X-PI04-01<BR>J1, J4|
+|HEAD-I01-X-UNMATCHED-01<BR>J2|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP2, JP4, U1, U3|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R13, R14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   
@@ -80,18 +70,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS726X (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14347
 - oompID: PROJ-SPAR-14347-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
-- oompParts: C2,CAPC-0603-X-UF1-01
-- oompParts: C3,CAPC-0603-X-UF10-01
-- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPC-0603-X-UF10-V63D
+- oompParts: D1,LEDS-0603-L-STAN-01
 - oompParts: D2,LEDS-UNMATCHED-G-STAN-01
 - oompParts: D4,LEDS-UNMATCHED-G-STAN-01
 - oompParts: J1,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI02-01
 - oompParts: J4,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J8,HEAD-I01-X-PI04-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01

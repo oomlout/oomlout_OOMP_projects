@@ -38,35 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-1206-X-UF10-01|
-|C2 C2,CAPC-1206-X-UF10-01|
-|C3 C3,CAPC-0603-X-UF1-01|
-|C4 C4,CAPC-0603-X-UF1-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
-|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|MIC1 MIC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|R3 R3,RESE-0603-X-O1003-01|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R7 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
-|[R8 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R9 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R10 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|R11 R11,RESE-0603-X-O1003-01|
-|R12 R12,RESE-0603-X-UNMATCHED-01|
-|[R13 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|R14 R14,RESE-0603-X-O1003-01|
-|[R15 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R16 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|R17 R17,RESE-UNMATCHED-X-UNMATCHED-01|
-|[R18 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R19 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, MIC1|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R1, R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R2, R10, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RESE-0603-X-O1003-01<BR>R3, R11, R14|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R4, R5, R6, R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O223-01<br> SMD (0603) 22k Ohm Resistor<br> R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R8, R15, R18, R19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R12|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R17|
 
 ## Images
   
@@ -88,13 +73,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Sound_Detector (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12642
 - oompID: PROJ-SPAR-12642-STAN-01
-- oompParts: C1,CAPC-1206-X-UF10-01
-- oompParts: C2,CAPC-1206-X-UF10-01
-- oompParts: C3,CAPC-0603-X-UF1-01
-- oompParts: C4,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPC-1206-X-UF10-V25
+- oompParts: C2,CAPC-1206-X-UF10-V25
+- oompParts: C3,CAPC-0603-X-UF1-V25
+- oompParts: C4,CAPC-0603-X-UF1-V25
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: D3,LEDS-0603-G-STAN-01
+- oompParts: D3,LEDS-0603-R-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: MIC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

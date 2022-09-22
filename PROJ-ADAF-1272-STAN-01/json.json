@@ -82,11 +82,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0805-G-STAN-01"
+            "value": "LED1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,LEDS-0805-G-STAN-01"
+            "value": "LED4,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompParts",
-            "value": "RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "RESET,BUTA-6060-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -118,7 +118,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U$9,HEAD-I01-X-PI10-01"
         },
         {
             "name": "oompParts",

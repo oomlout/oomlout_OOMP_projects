@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "D3,LEDS-0805-G-STAN-01"
+            "value": "D3,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -106,11 +106,11 @@
         },
         {
             "name": "oompParts",
-            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SW1,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SW2,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",

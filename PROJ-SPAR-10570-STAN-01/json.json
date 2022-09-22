@@ -54,15 +54,15 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-UNMATCHED-G-STAN-01"
+            "value": "LED1,LEDS-UNMATCHED-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-UNMATCHED-G-STAN-01"
+            "value": "LED2,LEDS-UNMATCHED-Y-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-UNMATCHED-G-STAN-01"
+            "value": "LED3,LEDS-UNMATCHED-Y-STAN-01"
         },
         {
             "name": "oompParts",

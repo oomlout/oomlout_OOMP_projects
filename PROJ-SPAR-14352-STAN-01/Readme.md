@@ -38,23 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|I2C I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J1 J1,HEAD-UNMATCHED-X-PI04-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J8 J8,HEAD-UNMATCHED-X-PI04-01|
-|J9 J9,HEAD-UNMATCHED-X-PI04-01|
-|J10 J10,HEAD-UNMATCHED-X-PI04-01|
-|Q1 Q1,UNMATCHED-SO23-X-KBSS138-01|
-|Q2 Q2,UNMATCHED-SO23-X-KBSS138-01|
-|[R1 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R2 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>I2C, U$3, U1|
+|HEAD-UNMATCHED-X-PI04-01<BR>J1, J8, J9, J10|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|UNMATCHED-SO23-X-KBSS138-01<BR>Q1, Q2|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   
@@ -78,10 +69,10 @@ Contents
 - oompID: PROJ-SPAR-14352-STAN-01
 - oompParts: I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI08-01
+- oompParts: J3,HEAD-I01-X-PI10-01
+- oompParts: J4,HEAD-I01-X-PI06-01
+- oompParts: J6,HEAD-I01-X-PI07-01
 - oompParts: J8,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J9,HEAD-UNMATCHED-X-PI04-01
 - oompParts: J10,HEAD-UNMATCHED-X-PI04-01

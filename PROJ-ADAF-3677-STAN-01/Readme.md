@@ -38,26 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C9 C9,CAPC-0603-X-UF1-01|
-|C14 C14,CAPC-0603-X-UF1-01|
-|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[JP2 HEAD-I01-X-PI14-01 2.54 mm 14 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
-|[JP4 HEAD-I01-X-PI14-01 2.54 mm 14 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
-|[L LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[R4 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|[R5 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|[R7 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|R9 R9,RESE-0603-X-O1003-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C9, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, X1, X3, Y1|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-I01-X-PI14-01<br> 2.54 mm 14 Pin Header<br> JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> L](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|[RESE-0603-X-O220-01<br> SMD (0603) 22 Ohm Resistor<br> R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|RESE-0603-X-O1003-01<BR>R9|
+|BUTA-UNMATCHED-X-STAN-01<BR>SW1|
+|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -82,19 +74,19 @@ Contents
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF10-V10
 - oompParts: C8,CAPC-0805-X-UF10-V10
-- oompParts: C9,CAPC-0603-X-UF1-01
-- oompParts: C14,CAPC-0603-X-UF1-01
+- oompParts: C9,CAPC-0603-X-UF1-V25
+- oompParts: C14,CAPC-0603-X-UF1-V25
 - oompParts: D1,DIOD-S123-X-KMBR120-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI14-01
 - oompParts: JP4,HEAD-I01-X-PI14-01
-- oompParts: L,LEDS-0805-G-STAN-01
+- oompParts: L,LEDS-0805-R-STAN-01
 - oompParts: R4,RESE-0603-X-O220-01
 - oompParts: R5,RESE-0603-X-O220-01
 - oompParts: R7,RESE-0603-X-O222-01
 - oompParts: R9,RESE-0603-X-O1003-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-UNMATCHED-X-STAN-01
 - oompParts: U2,VREG-SO235-X-KMIC5225-V33D
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

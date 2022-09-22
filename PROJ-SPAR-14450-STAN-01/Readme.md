@@ -38,12 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1D-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPX-UNMATCHED-X-UF10-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0402-X-UF1D-01<BR>C1, C2|
+|CAPX-3528-X-UF10-01<BR>C3|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -67,7 +65,7 @@ Contents
 - oompID: PROJ-SPAR-14450-STAN-01
 - oompParts: C1,CAPC-0402-X-UF1D-01
 - oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C3,CAPX-3528-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: JP2,HEAD-I01-X-PI08-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

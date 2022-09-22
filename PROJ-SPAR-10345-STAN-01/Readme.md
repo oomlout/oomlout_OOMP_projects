@@ -38,10 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1|
+|CAPC-0402-X-UF1D-01<BR>C2|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -63,7 +63,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10345
 - oompID: PROJ-SPAR-10345-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

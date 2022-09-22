@@ -38,15 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[J1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-O3003-01|
-|[R2 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0603-X-UF1D-01<BR>C2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, JP1, JP2|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|RESE-0603-X-O3003-01<BR>R1|
+|[RESE-0603-X-O105-01<br> SMD (0603) 1M Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
 
 ## Images
   
@@ -72,7 +70,7 @@ Contents
 - oompParts: C2,CAPC-0603-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,TERS-35D-L-PI02-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI07-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O3003-01

@@ -38,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPX-UNMATCHED-X-UF68-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1|
+|CAPX-3528-X-UF68-01<BR>C2|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -65,8 +65,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/NCP1402-5V_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10968
 - oompID: PROJ-SPAR-10968-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF68-01
+- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPX-3528-X-UF68-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

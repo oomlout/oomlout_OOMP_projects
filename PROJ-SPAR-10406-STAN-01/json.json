@@ -46,27 +46,27 @@
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0402-X-PF22-01"
+            "value": "C2,CAPC-0402-X-PF22-V50"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0402-X-PF27-01"
+            "value": "C3,CAPC-0402-X-PF27-V50"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0402-X-PF27-01"
+            "value": "C4,CAPC-0402-X-PF27-V50"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0402-X-PF18-01"
+            "value": "C5,CAPC-0402-X-PF18-V50"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0402-X-PF18-01"
+            "value": "C6,CAPC-0402-X-PF18-V50"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0402-X-PF22-01"
+            "value": "C7,CAPC-0402-X-PF22-V50"
         },
         {
             "name": "oompParts",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0603-G-STAN-01"
+            "value": "LED1,LEDS-0603-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -90,7 +90,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-0603-G-STAN-01"
+            "value": "LED3,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",

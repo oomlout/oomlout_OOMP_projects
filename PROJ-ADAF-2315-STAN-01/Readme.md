@@ -38,26 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CONN1 CONN1,HEAD-I01-X-PI25-01|
-|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-O392-01|
-|R2 R2,RESE-0805-X-O392-01|
-|R3 R3,RESE-0805-X-O392-01|
-|[R4 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R5 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R6 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R7 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R8 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R10 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW3 SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW4 SW4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|HEAD-I01-X-PI25-01<BR>CONN1|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC5, Q1|
+|RESE-0805-X-O392-01<BR>R1, R2, R3|
+|[RESE-0805-X-O101-01<br> SMD (0805) 100 Ohm Resistor<br> R4, R5, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R9, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RPI1, U1, U2|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1, SW2, SW3, SW4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
 
 ## Images
   
@@ -93,10 +81,10 @@ Contents
 - oompParts: R9,RESE-0805-X-O102-01
 - oompParts: R10,RESE-0805-X-O102-01
 - oompParts: RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-6060-X-STAN-01
+- oompParts: SW2,BUTA-6060-X-STAN-01
+- oompParts: SW3,BUTA-6060-X-STAN-01
+- oompParts: SW4,BUTA-6060-X-STAN-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: CONN1,HEADER-1X25,HEADER-1X25,1X25_ROUND_70MIL,,,

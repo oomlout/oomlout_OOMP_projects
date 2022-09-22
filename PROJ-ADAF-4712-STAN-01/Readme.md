@@ -38,17 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|[CONN3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[CONN4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|R3 R3,RESA-06038-X-O103X4-01|
-|[R4 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|HEAD-I01-X-UNMATCHED-01<BR>CONN3, CONN4|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, X1, X2|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|RESA-06038-X-O103X4-01<BR>R3|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
 
 ## Images
   
@@ -70,9 +67,9 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-LC709203F-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4712
 - oompID: PROJ-ADAF-4712-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
-- oompParts: CONN3,HEAD-I01-X-PI04-01
-- oompParts: CONN4,HEAD-I01-X-PI04-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: CONN3,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN4,HEAD-I01-X-UNMATCHED-01
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01

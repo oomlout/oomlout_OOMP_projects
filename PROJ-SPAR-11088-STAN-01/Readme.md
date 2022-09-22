@@ -38,38 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPX-UNMATCHED-X-UF10-01|
-|C3 C3,CAPC-0402-X-UF1-01|
-|C4 C4,CAPC-0402-X-UF1D-01|
-|C5 C5,CAPC-0402-X-UF1-01|
-|C6 C6,CAPX-UNMATCHED-X-UF10-01|
-|C7 C7,CAPC-0402-X-UF1D-01|
-|C8 C8,CAPC-0402-X-UF1-01|
-|C9 C9,CAPC-0402-X-NF470-01|
-|C10 C10,CAPC-0402-X-UF1D-01|
-|C11 C11,CAPC-0402-X-NF470-01|
-|C12 C12,CAPX-UNMATCHED-X-UF10-01|
-|C13 C13,CAPC-0402-X-UF1-01|
-|C14 C14,CAPX-UNMATCHED-X-UF10-01|
-|C15 C15,CAPC-0402-X-UF1D-01|
-|C16 C16,CAPC-0402-X-NF470-01|
-|[JP2 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[JP8 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|R1 R1,RESE-0402-X-O331-01|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R3 R3,RESE-0402-X-O331-01|
-|R4 R4,RESE-0402-X-O331-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U6 U6,UNMATCHED-SO235-X-UNMATCHED-01|
-|U7 U7,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1, C2, C6, C12, C14|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C3, C5, C8, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPC-0402-X-UF1D-01<BR>C4, C7, C10, C15|
+|CAPC-0402-X-NF470-01<BR>C9, C11, C16|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-L-STAN-01<br> SMD (0603) Blue LED<br> LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|RESE-0402-X-O331-01<BR>R1, R3, R4|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1, U2, U6, U7|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U3, U4, U5|
 
 ## Images
   
@@ -91,26 +72,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Run-SPOT-Run (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11088
 - oompID: PROJ-SPAR-11088-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C3,CAPC-0402-X-UF1-01
+- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPC-0402-X-UF1-V63D
 - oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPC-0402-X-UF1-01
-- oompParts: C6,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C5,CAPC-0402-X-UF1-V63D
+- oompParts: C6,CAPT-3216-X-UF10-01
 - oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1-01
+- oompParts: C8,CAPC-0402-X-UF1-V63D
 - oompParts: C9,CAPC-0402-X-NF470-01
 - oompParts: C10,CAPC-0402-X-UF1D-01
 - oompParts: C11,CAPC-0402-X-NF470-01
-- oompParts: C12,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C13,CAPC-0402-X-UF1-01
-- oompParts: C14,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C12,CAPT-3216-X-UF10-01
+- oompParts: C13,CAPC-0402-X-UF1-V63D
+- oompParts: C14,CAPT-3216-X-UF10-01
 - oompParts: C15,CAPC-0402-X-UF1D-01
 - oompParts: C16,CAPC-0402-X-NF470-01
 - oompParts: JP2,HEAD-I01-X-PI05-01
 - oompParts: JP8,HEAD-I01-X-PI06-01
-- oompParts: LED1,LEDS-0603-G-STAN-01
-- oompParts: LED2,LEDS-0603-G-STAN-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LED2,LEDS-0603-L-STAN-01
 - oompParts: LED3,LEDS-0603-G-STAN-01
 - oompParts: R1,RESE-0402-X-O331-01
 - oompParts: R2,RESE-0402-X-O103-01

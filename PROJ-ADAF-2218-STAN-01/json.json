@@ -106,11 +106,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C17,CAPC-0805-X-UF1-01"
+            "value": "C17,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C18,CAPC-0805-X-UF1-01"
+            "value": "C18,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -142,7 +142,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C26,CAPX-UNMATCHED-X-UF100-01"
+            "value": "C26,CAPE-PANC-X-UF100-01"
         },
         {
             "name": "oompParts",
@@ -222,7 +222,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0805-G-STAN-01"
+            "value": "LED1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -230,7 +230,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-0805-G-STAN-01"
+            "value": "LED3,LEDS-0805-L-STAN-01"
         },
         {
             "name": "oompParts",

@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "FTDI,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "FTDI,HEAD-I01-X-PI06-01"
         },
         {
             "name": "oompParts",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompParts",
-            "value": "TX,LEDS-0805-G-STAN-01"
+            "value": "TX,LEDS-0805-R-STAN-01"
         },
         {
             "name": "rawParts",

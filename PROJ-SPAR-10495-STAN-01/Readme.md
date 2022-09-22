@@ -38,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 
 ## Images
   
@@ -62,7 +62,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10495
 - oompID: PROJ-SPAR-10495-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI02-01
 - rawParts: BAT1,,BATTERY245PTH,BATTCON_245MM_PTH,Battery Holders,,
 - rawParts: J3,,M02PTH,1X02,Header 2,,
 - rawParts: JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

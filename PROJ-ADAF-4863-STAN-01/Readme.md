@@ -38,18 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C34 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[CONN3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|D1 D1,DIOD-S323-X-UNMATCHED-01|
-|D2 D2,DIOD-S323-X-UNMATCHED-01|
-|NEOPIX NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R7 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|RPI3 RPI3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SENSE SENSE,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C34](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|HEAD-I01-X-UNMATCHED-01<BR>CONN1, CONN3|
+|DIOD-S323-X-UNMATCHED-01<BR>D1, D2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>NEOPIX, RPI1, RPI3, SENSE|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
 
 ## Images
   
@@ -73,8 +66,8 @@ Contents
 - oompID: PROJ-ADAF-4863-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C34,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,HEAD-I01-X-PI04-01
-- oompParts: CONN3,HEAD-I01-X-PI04-01
+- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN3,HEAD-I01-X-UNMATCHED-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01

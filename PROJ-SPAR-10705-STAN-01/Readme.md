@@ -38,14 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
-|[JP4 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
-|JP5 JP5,HEAD-I01-X-PI30-01|
-|JP6 JP6,HEAD-I01-X-PI30-01|
-|JP7 JP7,HEAD-I01-X-PI30-01|
-|JP8 JP8,HEAD-I01-X-PI30-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP2, U1|
+|[HEAD-I01-X-PI20-01<br> 2.54 mm 20 Pin Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
+|HEAD-I01-X-PI30-01<BR>JP5, JP6, JP7, JP8|
 
 ## Images
   

@@ -33,27 +33,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC4 IC4,VREG-SO235-X-KLP298XS-V33D|
-|IC5 IC5,UNMATCHED-SO23-X-UNMATCHED-01|
-|PIN3 PIN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R2 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R3 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R4 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R5 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|RD RD,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|VCC VCC,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C2, C3, C4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN2, IC1, IC3, PIN3, RD, U$2, U$3, VCC|
+|VREG-SO235-X-KLP298XS-V33D<BR>IC4|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC5, Q1|
+|[RESE-0805-X-O220-01<br> SMD (0805) 22 Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 
 ## Images
   

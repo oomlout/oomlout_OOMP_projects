@@ -38,13 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22-01|
-|C2 C2,CAPC-0805-X-UF22-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|R1 R1,RESE-0603-X-O753-01|
-|R2 R2,RESE-0603-X-O753-01|
-|[R3 RESE-0603-X-O243-01 SMD (0603) 25k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O243-01/)|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|RESE-0603-X-O753-01<BR>R1, R2|
+|[RESE-0603-X-O243-01<br> SMD (0603) 25k Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O243-01/)|
 
 ## Images
   
@@ -66,8 +64,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-MPM3610-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4683
 - oompID: PROJ-ADAF-4683-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22-01
-- oompParts: C2,CAPC-0805-X-UF22-01
+- oompParts: C1,CAPC-0805-X-UF22-V63D
+- oompParts: C2,CAPC-0805-X-UF22-V63D
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0603-X-O753-01

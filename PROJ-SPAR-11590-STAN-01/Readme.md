@@ -38,19 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C1 C1,CAPC-0402-X-UF1D-01|
-|LED1 LED1,LEDS-1206-G-STAN-01|
-|LED2 LED2,LEDS-1206-G-STAN-01|
-|LED3 LED3,LEDS-1206-G-STAN-01|
-|LED4 LED4,LEDS-1206-G-STAN-01|
-|[R1 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R2 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R3 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R4 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R5 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, S1, U1|
+|CAPC-0402-X-UF1D-01<BR>C1|
+|LEDS-1206-G-STAN-01<BR>LED1, LED2, LED3, LED4|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
 
 ## Images
   

@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "ANALOG,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "ANALOG,HEAD-I01-X-PI06-01"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0805-X-UF22D-01"
+            "value": "C7,CAPC-0805-X-UF22D-V25"
         },
         {
             "name": "oompParts",
@@ -66,7 +66,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPX-UNMATCHED-X-UNMATCHED-01"
+            "value": "C9,CAPX-3528-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0805-G-STAN-01"
+            "value": "LED1,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -90,11 +90,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-0805-G-STAN-01"
+            "value": "LED3,LEDS-0805-L-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,LEDS-0805-G-STAN-01"
+            "value": "LED4,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -146,7 +146,7 @@
         },
         {
             "name": "oompParts",
-            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SW1,BUTA-UNMATCHED-X-STAN-01"
         },
         {
             "name": "oompParts",

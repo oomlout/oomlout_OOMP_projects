@@ -38,18 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C4 C4,CAPC-0603-X-UF1D-01|
-|C5 C5,CAPC-0603-X-UF47D-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP7 JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C4|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J2, J4, JP7, U2|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   
@@ -73,11 +68,11 @@ Contents
 - oompID: PROJ-SPAR-14587-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C4,CAPC-0603-X-UF1D-01
-- oompParts: C5,CAPC-0603-X-UF47D-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C5,CAPC-0603-X-UF47D-V10
+- oompParts: J1,HEAD-I01-X-PI02-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J5,HEAD-I01-X-PI04-01
 - oompParts: JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R2,RESE-0603-X-O103-01
 - oompParts: R4,RESE-0603-X-O472-01

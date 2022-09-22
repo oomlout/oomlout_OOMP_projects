@@ -38,19 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22D-01|
-|C2 C2,CAPC-0805-X-UF1-01|
-|C3 C3,CAPC-0805-X-UF1-01|
-|C4 C4,CAPC-0603-X-UF1-01|
-|C5 C5,CAPC-UNMATCHED-X-UF47D-01|
-|C6 C6,CAPC-0603-X-UF1-01|
-|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|OLED1 OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-O3903-01|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R7 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C4, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-UNMATCHED-X-UF47D-01<BR>C5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, JP3, OLED1|
+|RESE-0603-X-O3903-01<BR>R1|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R2, R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
@@ -72,12 +66,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photon_OLED_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13628
 - oompID: PROJ-SPAR-13628-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22D-01
-- oompParts: C2,CAPC-0805-X-UF1-01
-- oompParts: C3,CAPC-0805-X-UF1-01
-- oompParts: C4,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPC-0805-X-UF22D-V25
+- oompParts: C2,CAPC-0805-X-UF1-V25
+- oompParts: C3,CAPC-0805-X-UF1-V25
+- oompParts: C4,CAPC-0603-X-UF1-V25
 - oompParts: C5,CAPC-UNMATCHED-X-UF47D-01
-- oompParts: C6,CAPC-0603-X-UF1-01
+- oompParts: C6,CAPC-0603-X-UF1-V25
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

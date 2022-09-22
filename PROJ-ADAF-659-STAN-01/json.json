@@ -46,7 +46,7 @@
         },
         {
             "name": "oompParts",
-            "value": "BOOT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "BOOT,BUTA-UNMATCHED-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -102,11 +102,11 @@
         },
         {
             "name": "oompParts",
-            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP1,HEAD-I01-X-PI2X03-01"
         },
         {
             "name": "oompParts",
-            "value": "L,LEDS-0805-G-STAN-01"
+            "value": "L,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -158,7 +158,7 @@
         },
         {
             "name": "oompParts",
-            "value": "RXLED,LEDS-0805-G-STAN-01"
+            "value": "RXLED,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -166,7 +166,7 @@
         },
         {
             "name": "oompParts",
-            "value": "TXLED,LEDS-0805-G-STAN-01"
+            "value": "TXLED,LEDS-0805-Y-STAN-01"
         },
         {
             "name": "oompParts",

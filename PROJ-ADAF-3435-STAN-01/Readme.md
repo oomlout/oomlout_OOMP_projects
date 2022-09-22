@@ -38,15 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1-01|
-|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|Q1 Q1,MOSP-SO23-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|R2 R2,RESE-0805-X-O105-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO23-X-UNMATCHED-01|
-|VR1 VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|MOSP-SO23-X-UNMATCHED-01<BR>Q1|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|RESE-0805-X-O105-01<BR>R2|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>U2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>VR1|
 
 ## Images
   
@@ -68,13 +68,13 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3435
 - oompID: PROJ-ADAF-3435-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
 - oompParts: D1,LEDS-0805-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: Q1,MOSP-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O102-01
 - oompParts: R2,RESE-0805-X-O105-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-6060-X-STAN-01
 - oompParts: U2,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

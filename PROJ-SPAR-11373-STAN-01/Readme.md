@@ -38,28 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPX-UNMATCHED-X-UF10-01|
-|JP2 JP2,HEAD-I01-X-PI11-01|
-|JP3 JP3,HEAD-I01-X-PI11-01|
-|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R3 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R4 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R5 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R6 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R7 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R8 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R11 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1, C3|
+|CAPC-0402-X-UF1D-01<BR>C2|
+|HEAD-I01-X-PI11-01<BR>JP2, JP3|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED1, LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED3, LED4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1, Q2|
+|[RESE-0402-X-O102-01<br> SMD (0402) 1k Ohm Resistor<br> R1, R3, R4, R5, R6, R7, R8, R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U2|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U3|
 
 ## Images
   
@@ -81,14 +69,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Regulated (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11373
 - oompID: PROJ-SPAR-11373-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C3,CAPT-3216-X-UF10-01
 - oompParts: JP2,HEAD-I01-X-PI11-01
 - oompParts: JP3,HEAD-I01-X-PI11-01
 - oompParts: JP4,HEAD-I01-X-PI06-01
-- oompParts: LED1,LEDS-0603-G-STAN-01
-- oompParts: LED2,LEDS-0603-G-STAN-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LED2,LEDS-0603-R-STAN-01
 - oompParts: LED3,LEDS-0603-G-STAN-01
 - oompParts: LED4,LEDS-0603-G-STAN-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01

@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "ADC,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "ADC,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
@@ -102,7 +102,7 @@
         },
         {
             "name": "oompParts",
-            "value": "CHRG,LEDS-0805-G-STAN-01"
+            "value": "CHRG,LEDS-0805-O-STAN-01"
         },
         {
             "name": "oompParts",
@@ -154,11 +154,11 @@
         },
         {
             "name": "oompParts",
-            "value": "NETSTAT,LEDS-0805-G-STAN-01"
+            "value": "NETSTAT,LEDS-0805-L-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "PWM,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "PWM,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
@@ -190,7 +190,7 @@
         },
         {
             "name": "oompParts",
-            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SW1,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -206,7 +206,7 @@
         },
         {
             "name": "oompParts",
-            "value": "VBUS,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "VBUS,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",

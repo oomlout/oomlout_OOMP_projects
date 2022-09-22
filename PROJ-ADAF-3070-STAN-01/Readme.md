@@ -38,19 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|JP2 JP2,HEAD-I01-X-PI01-01|
-|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
-|R1 R1,RESE-0805-X-O1003-01|
-|R2 R2,RESE-0805-X-O1003-01|
-|R3 R3,RESE-0805-X-O1003-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,VREG-SO235-X-KAP2112K-V33D|
-|X1 X1,CAPX-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C2|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|HEAD-I01-X-PI01-01<BR>JP2|
+|[HEAD-I01-X-PI09-01<br> 2.54 mm 9 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|RESE-0805-X-O1003-01<BR>R1, R2, R3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U2|
+|VREG-SO235-X-KAP2112K-V33D<BR>U3|
+|CAPX-UNMATCHED-X-UNMATCHED-01<BR>X1|
 
 ## Images
   

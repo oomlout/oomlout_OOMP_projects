@@ -50,35 +50,35 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0402-X-UF1-01"
+            "value": "C1,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0402-X-UF1-01"
+            "value": "C2,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0402-X-UF1-01"
+            "value": "C3,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0402-X-UF1-01"
+            "value": "C4,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0402-X-PF12-01"
+            "value": "C5,CAPC-0402-X-PF12-V50"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0402-X-PF12-01"
+            "value": "C6,CAPC-0402-X-PF12-V50"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0402-X-PF12-01"
+            "value": "C7,CAPC-0402-X-PF12-V50"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0402-X-PF12-01"
+            "value": "C8,CAPC-0402-X-PF12-V50"
         },
         {
             "name": "oompParts",
@@ -86,15 +86,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C10,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0402-X-PF22-01"
+            "value": "C11,CAPC-0402-X-PF22-V50"
         },
         {
             "name": "oompParts",
-            "value": "C12,CAPC-0402-X-UF1-01"
+            "value": "C12,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
@@ -102,7 +102,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C14,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C14,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -110,11 +110,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C16,CAPC-0402-X-NF100-01"
+            "value": "C16,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C17,CAPC-0402-X-NF100-01"
+            "value": "C17,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -126,7 +126,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J3,DCJP-21D-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -146,7 +146,7 @@
         },
         {
             "name": "oompParts",
-            "value": "JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP6,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -158,11 +158,11 @@
         },
         {
             "name": "oompParts",
-            "value": "JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP9,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0603-G-STAN-01"
+            "value": "LED1,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",

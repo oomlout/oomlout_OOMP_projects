@@ -38,15 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C9 C9,CAPC-0603-X-UF1-01|
-|C13 C13,CAPC-0603-X-UF1-01|
-|[C15 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[R12 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R13 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|SENSE SENSE,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$13 U$13,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|VR2 VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C9, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R12, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>SENSE, U$13, U5, VR2|
 
 ## Images
   
@@ -68,8 +63,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3885
 - oompID: PROJ-ADAF-3885-STAN-01
-- oompParts: C9,CAPC-0603-X-UF1-01
-- oompParts: C13,CAPC-0603-X-UF1-01
+- oompParts: C9,CAPC-0603-X-UF1-V25
+- oompParts: C13,CAPC-0603-X-UF1-V25
 - oompParts: C15,CAPC-0805-X-UF10-V10
 - oompParts: R12,RESE-0603-X-O101-01
 - oompParts: R13,RESE-0603-X-O101-01

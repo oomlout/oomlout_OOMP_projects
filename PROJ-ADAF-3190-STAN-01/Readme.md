@@ -38,13 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UNMATCHED-01|
-|C2 C2,CAPX-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[R1 RESE-0805-X-O303-01 SMD (0805) 30k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O303-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
+|CAPE-PAND-X-UNMATCHED-01<BR>C2|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[RESE-0805-X-O303-01<br> SMD (0805) 30k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O303-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> X1, X2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
 
 ## Images
   
@@ -66,13 +65,13 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3190
 - oompID: PROJ-ADAF-3190-STAN-01
-- oompParts: C1,CAPC-0805-X-UNMATCHED-01
-- oompParts: C2,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPE-PAND-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0805-X-O303-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,TERS-35D-L-PI02-01
+- oompParts: X2,TERS-35D-L-PI02-01
 - rawParts: C1,0.1uF/50V,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,22uF/63V,CAP_ELECTROLYTICPANASONIC_D,PANASONIC_D,Electrolytic Capacitors,,
 - rawParts: FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

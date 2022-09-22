@@ -38,37 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-UNMATCHED-X-NF22-01|
-|C3 C3,CAPC-0603-X-PF22-01|
-|C4 C4,CAPC-0603-X-PF22-01|
-|C5 C5,CAPC-0603-X-NF1-01|
-|C6 C6,CAPC-0603-X-UF1D-01|
-|C7 C7,CAPX-UNMATCHED-X-UF47-01|
-|C8 C8,CAPX-UNMATCHED-X-UF47-01|
-|C9 C9,CAPC-0603-X-UF1D-01|
-|C10 C10,CAPC-0603-X-UF1-01|
-|C11 C11,CAPC-0603-X-UF1-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|L1 L1,UNMATCHED-0603-X-UNMATCHED-01|
-|L2 L2,UNMATCHED-0603-X-UNMATCHED-01|
-|L3 L3,UNMATCHED-0603-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R4 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
-|[R5 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
-|[R6 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
-|[R7 RESE-0603-X-O203-01 SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
-|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R9 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R10 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R11 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R12 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C6, C9|
+|CAPC-UNMATCHED-X-NF22-01<BR>C2|
+|[CAPC-0603-X-PF22-V50<br> SMD (0603) 22 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
+|[CAPC-0603-X-NF1-V50<br> SMD (0603) 1 nF Capacitor (Ceramic) 50v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF1-V50/)|
+|CAPX-3528-X-UF47-01<BR>C7, C8|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>L1, L2, L3|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R3, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[RESE-0603-X-O203-01<br> SMD (0603) 20k Ohm Resistor<br> R4, R5, R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R9, R10, R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U3, Y1|
+|TERS-35D-L-UNMATCHED-01<BR>U4|
 
 ## Images
   
@@ -92,15 +75,15 @@ Contents
 - oompID: PROJ-SPAR-12938-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-UNMATCHED-X-NF22-01
-- oompParts: C3,CAPC-0603-X-PF22-01
-- oompParts: C4,CAPC-0603-X-PF22-01
-- oompParts: C5,CAPC-0603-X-NF1-01
+- oompParts: C3,CAPC-0603-X-PF22-V50
+- oompParts: C4,CAPC-0603-X-PF22-V50
+- oompParts: C5,CAPC-0603-X-NF1-V50
 - oompParts: C6,CAPC-0603-X-UF1D-01
-- oompParts: C7,CAPX-UNMATCHED-X-UF47-01
-- oompParts: C8,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C7,CAPX-3528-X-UF47-01
+- oompParts: C8,CAPX-3528-X-UF47-01
 - oompParts: C9,CAPC-0603-X-UF1D-01
-- oompParts: C10,CAPC-0603-X-UF1-01
-- oompParts: C11,CAPC-0603-X-UF1-01
+- oompParts: C10,CAPC-0603-X-UF1-V25
+- oompParts: C11,CAPC-0603-X-UF1-V25
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: L1,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: L2,UNMATCHED-0603-X-UNMATCHED-01
@@ -119,7 +102,7 @@ Contents
 - oompParts: R12,RESE-0603-X-O331-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,TERS-35D-L-UNMATCHED-01
 - oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: C2,22nF,22NF/22,000PF-50V-10%(0603),0603-CAP,CAP-07885,CAP-07885,22nF,

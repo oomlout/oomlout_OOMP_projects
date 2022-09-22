@@ -42,23 +42,23 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0805-X-UF22-01"
+            "value": "C1,CAPC-0805-X-UF22-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0402-X-UF1-01"
+            "value": "C2,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0402-X-UF1-01"
+            "value": "C3,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0402-X-UNMATCHED-01"
+            "value": "C5,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0805-X-UF22-01"
+            "value": "C6,CAPC-0805-X-UF22-V63D"
         },
         {
             "name": "oompParts",
@@ -66,7 +66,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0805-X-UF22-01"
+            "value": "C8,CAPC-0805-X-UF22-V63D"
         },
         {
             "name": "oompParts",
@@ -78,15 +78,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C12,CAPC-0402-X-UF1-01"
+            "value": "C12,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C19,CAPC-0603-X-UF1-01"
+            "value": "C19,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "CONN1,HEAD-I01-X-PI04-01"
+            "value": "CONN1,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -95,10 +95,6 @@
         {
             "name": "oompParts",
             "value": "D2,DIOD-S323-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -122,11 +118,11 @@
         },
         {
             "name": "oompParts",
-            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "Q1,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "Q2,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -171,10 +167,6 @@
         {
             "name": "oompParts",
             "value": "U1,VREG-SO235-X-KAP2112K-V33D"
-        },
-        {
-            "name": "oompParts",
-            "value": "VBAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0805-X-UF1-01"
+            "value": "C3,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -70,7 +70,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-0805-X-UF1-01"
+            "value": "C10,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompParts",
-            "value": "CONTROL,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "CONTROL,HEAD-I01-X-PI14-01"
         },
         {
             "name": "oompParts",
@@ -98,11 +98,11 @@
         },
         {
             "name": "oompParts",
-            "value": "GPIO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "GPIO1,HEAD-I01-X-PI14-01"
         },
         {
             "name": "oompParts",
-            "value": "GREEN,LEDS-0805-G-STAN-01"
+            "value": "GREEN,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",

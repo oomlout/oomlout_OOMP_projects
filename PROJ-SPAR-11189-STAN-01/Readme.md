@@ -38,14 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UNMATCHED-01|
-|C2 C2,CAPC-0603-X-UNMATCHED-01|
-|C3 C3,CAPC-0603-X-UNMATCHED-01|
-|C4 C4,CAPC-0603-X-UNMATCHED-01|
-|C5 C5,CAPC-0603-X-UNMATCHED-01|
-|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, U1|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 
 ## Images
   
@@ -67,11 +62,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MAX3232_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11189
 - oompID: PROJ-SPAR-11189-STAN-01
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI10-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

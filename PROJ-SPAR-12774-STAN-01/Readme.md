@@ -38,29 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|JP1 JP1,HEAD-I01-X-PI01-01|
-|JP2 JP2,HEAD-I01-X-PI01-01|
-|R1 R1,RESE-UNMATCHED-X-O472-01|
-|R2 R2,RESE-UNMATCHED-X-O472-01|
-|R3 R3,RESE-UNMATCHED-X-O472-01|
-|R4 R4,RESE-UNMATCHED-X-O472-01|
-|R5 R5,RESE-UNMATCHED-X-O472-01|
-|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R7 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R8 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|SJ1 SJ1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SJ3 SJ3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SJ4 SJ4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SJ5 SJ5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$4 U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$5 U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1, D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|HEAD-I01-X-PI01-01<BR>JP1, JP2|
+|RESE-UNMATCHED-X-O472-01<BR>R1, R2, R3, R4, R5|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>SJ1, SJ3, SJ4, SJ5, U$1, U$2, U$3, U$4, U$5, U1|
 
 ## Images
   
@@ -83,8 +67,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12774
 - oompID: PROJ-SPAR-12774-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: D2,LEDS-0603-G-STAN-01
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: D2,LEDS-0603-R-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
 - oompParts: JP2,HEAD-I01-X-PI01-01
 - oompParts: R1,RESE-UNMATCHED-X-O472-01

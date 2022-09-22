@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "B1,LEDS-0805-G-STAN-01"
+            "value": "B1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompParts",
-            "value": "FTDI,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "FTDI,HEAD-I01-X-PI06-01"
         },
         {
             "name": "oompParts",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompParts",
-            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "Q1,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",

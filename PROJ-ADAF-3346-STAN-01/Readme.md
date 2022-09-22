@@ -38,28 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C9 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C10 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CONN1 CONN1,HEAD-I01-X-PI25-01|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|FB2 FB2,FERB-0805-X-UNMATCHED-01|
-|FB3 FB3,FERB-0805-X-UNMATCHED-01|
-|FB4 FB4,FERB-0805-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP4 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP5 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|LEFT LEFT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-O3903-01|
-|R2 R2,RESE-0805-X-O1003-01|
-|RIGHT RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C6, C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C2, C3|
+|HEAD-I01-X-PI25-01<BR>CONN1|
+|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2, FB3, FB4|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP2, JP4, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>LEFT, RIGHT, RPI1, X3|
+|RESE-0805-X-O3903-01<BR>R1|
+|RESE-0805-X-O1003-01<BR>R2|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> X1, X2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
 
 ## Images
   
@@ -100,8 +87,8 @@ Contents
 - oompParts: R2,RESE-0805-X-O1003-01
 - oompParts: RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,TERS-35D-L-PI02-01
+- oompParts: X2,TERS-35D-L-PI02-01
 - oompParts: X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

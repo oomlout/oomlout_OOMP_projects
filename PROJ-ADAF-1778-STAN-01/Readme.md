@@ -38,19 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1D-01|
-|C2 C2,CAPC-0805-X-UNMATCHED-01|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPC-0805-X-UNMATCHED-01|
-|D1 D1,DIOD-SO23-X-UNMATCHED-01|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[R1 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R2 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|R3 R3,RESE-0805-X-O105-01|
-|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C1, C3|
+|CAPC-0805-X-UNMATCHED-01<BR>C2, C4|
+|DIOD-SO23-X-UNMATCHED-01<BR>D1|
+|FERB-0805-X-UNMATCHED-01<BR>FB1|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[RESE-0805-X-O101-01<br> SMD (0805) 100 Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|RESE-0805-X-O105-01<BR>R3|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> X1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
 
 ## Images
   
@@ -84,7 +81,7 @@ Contents
 - oompParts: R3,RESE-0805-X-O105-01
 - oompParts: R4,RESE-0805-X-O102-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,TERS-35D-L-PI02-01
 - rawParts: C1,0.1ÃÂµF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,0.01uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C3,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

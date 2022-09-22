@@ -38,20 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-NF10-01|
-|C3 C3,CAPC-0603-X-NF10-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP5 JP5,HEAD-I01-X-PI01-01|
-|[JP6 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|JP9 JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|LED1 LED1,LEDS-1206-G-STAN-01|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R3 RESE-0603-X-O201-01 SMD (0603) 200 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1|
+|[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J1, JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|HEAD-I01-X-PI01-01<BR>JP5|
+|HEAD-I01-X-UNMATCHED-01<BR>JP9|
+|LEDS-1206-G-STAN-01<BR>LED1|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[RESE-0603-X-O201-01<br> SMD (0603) 200 Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$1, U1|
 
 ## Images
   
@@ -74,12 +71,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12041
 - oompID: PROJ-SPAR-12041-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-NF10-01
-- oompParts: C3,CAPC-0603-X-NF10-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-NF10-V50
+- oompParts: C3,CAPC-0603-X-NF10-V50
+- oompParts: J1,HEAD-I01-X-PI04-01
 - oompParts: JP5,HEAD-I01-X-PI01-01
 - oompParts: JP6,HEAD-I01-X-PI04-01
-- oompParts: JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP9,HEAD-I01-X-UNMATCHED-01
 - oompParts: LED1,LEDS-1206-G-STAN-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O103-01

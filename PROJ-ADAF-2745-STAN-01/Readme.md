@@ -38,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22-01|
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-O1003-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1|
+|RESE-0805-X-O1003-01<BR>R1|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -65,7 +65,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2745
 - oompID: PROJ-ADAF-2745-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22-01
+- oompParts: C1,CAPC-0805-X-UF22-V63D
 - oompParts: C2,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

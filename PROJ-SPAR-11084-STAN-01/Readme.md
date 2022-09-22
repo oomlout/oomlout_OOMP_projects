@@ -38,14 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1D-01|
-|C2 C2,CAPX-UNMATCHED-X-UF10-01|
-|C3 C3,CAPC-0402-X-UF1D-01|
-|C4 C4,CAPC-0402-X-UF1-01|
-|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[R1 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|[R2 RESE-0402-X-O102-01 SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0402-X-UF1D-01<BR>C1, C3|
+|CAPT-3216-X-UF10-01<BR>C2|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0402-X-O102-01<br> SMD (0402) 1k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -68,9 +66,9 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11084
 - oompID: PROJ-SPAR-11084-STAN-01
 - oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-01
 - oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1-01
+- oompParts: C4,CAPC-0402-X-UF1-V63D
 - oompParts: JP4,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0402-X-O102-01
 - oompParts: R2,RESE-0402-X-O102-01

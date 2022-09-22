@@ -86,7 +86,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED,LEDS-0805-G-STAN-01"
+            "value": "LED,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -126,11 +126,11 @@
         },
         {
             "name": "oompParts",
-            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U$1,HEAD-I01-X-PI10-01"
         },
         {
             "name": "oompParts",
-            "value": "USB,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "USB,HEAD-I01-X-PI05-01"
         },
         {
             "name": "oompParts",

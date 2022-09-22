@@ -38,31 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1-01|
-|C2 C2,CAPC-0402-X-UF1-01|
-|C3 C3,CAPC-0402-X-UF1-01|
-|C4 C4,CAPC-0402-X-UF1-01|
-|C5 C5,CAPC-0402-X-UF1D-01|
-|C6 C6,CAPC-0402-X-UF1D-01|
-|C7 C7,CAPC-0402-X-UF1D-01|
-|C8 C8,CAPC-0402-X-UF1-01|
-|C9 C9,CAPC-0402-X-UF1-01|
-|C10 C10,CAPX-UNMATCHED-X-UF10-01|
-|C11 C11,CAPC-0402-X-UF1D-01|
-|C12 C12,CAPX-UNMATCHED-X-UF10-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|J8 J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-O10-01|
-|R2 R2,RESE-0603-X-O10-01|
-|[R3 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R6 RESE-0603-X-O471-01 SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
-|[R7 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R8 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C3, C4, C8, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPC-0402-X-UF1D-01<BR>C5, C6, C7, C11|
+|CAPT-3216-X-UF10-01<BR>C10, C12|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J8, U$3, U1, U2|
+|RESE-0603-X-O10-01<BR>R1, R2|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R3, R4, R5, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[RESE-0603-X-O471-01<br> SMD (0603) 470 Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
 
 ## Images
   
@@ -84,19 +67,19 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Controlled_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13911
 - oompID: PROJ-SPAR-13911-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-01
-- oompParts: C2,CAPC-0402-X-UF1-01
-- oompParts: C3,CAPC-0402-X-UF1-01
-- oompParts: C4,CAPC-0402-X-UF1-01
+- oompParts: C1,CAPC-0402-X-UF1-V63D
+- oompParts: C2,CAPC-0402-X-UF1-V63D
+- oompParts: C3,CAPC-0402-X-UF1-V63D
+- oompParts: C4,CAPC-0402-X-UF1-V63D
 - oompParts: C5,CAPC-0402-X-UF1D-01
 - oompParts: C6,CAPC-0402-X-UF1D-01
 - oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1-01
-- oompParts: C9,CAPC-0402-X-UF1-01
-- oompParts: C10,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C8,CAPC-0402-X-UF1-V63D
+- oompParts: C9,CAPC-0402-X-UF1-V63D
+- oompParts: C10,CAPT-3216-X-UF10-01
 - oompParts: C11,CAPC-0402-X-UF1D-01
-- oompParts: C12,CAPX-UNMATCHED-X-UF10-01
-- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: C12,CAPT-3216-X-UF10-01
+- oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O10-01
 - oompParts: R2,RESE-0603-X-O10-01

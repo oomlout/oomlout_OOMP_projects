@@ -38,18 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BH1 BH1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|BH2 BH2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|BH3 BH3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|BH4 BH4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R2 RESE-0402-X-O105-01 SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BH1, BH2, BH3, BH4, Q1|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1, JP3, JP4|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O105-01<br> SMD (0402) 1M Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
 
 ## Images
   
@@ -75,10 +68,10 @@ Contents
 - oompParts: BH2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BH3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BH4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP3,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP4,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP5,HEAD-I01-X-PI02-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0402-X-O103-01

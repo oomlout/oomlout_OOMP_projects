@@ -38,38 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-PF15-01|
-|C2 C2,CAPC-0805-X-PF15-01|
-|C3 C3,CAPC-0402-X-PF22D-01|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|C5 C5,CAPC-0402-X-PF18D-01|
-|C6 C6,CAPC-0402-X-PF12D-01|
-|C7 C7,CAPC-0805-X-UF1-01|
-|C8 C8,CAPC-0603-X-NF1-01|
-|[C9 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C10 C10,CAPC-0805-X-UF1D-01|
-|C11 C11,CAPC-0805-X-NF33-01|
-|C12 C12,CAPC-0805-X-UF1D-01|
-|C13 C13,CAPC-0805-X-PF15-01|
-|C14 C14,CAPC-0805-X-PF15-01|
-|C15 C15,CAPC-0402-X-PF15D-01|
-|[C16 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C17 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[FB1 FERB-0805-X-O121-01 SMD (0805) 120 Ohm Ferrite Bead](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/FERB-0805-X-O121-01/)|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|L1 L1,UNMATCHED-0402-X-UNMATCHED-01|
-|L2 L2,UNMATCHED-0402-X-UNMATCHED-01|
-|L3 L3,UNMATCHED-0402-X-UNMATCHED-01|
-|L4 L4,UNMATCHED-0603-X-UNMATCHED-01|
-|L5 L5,UNMATCHED-0603-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O223-01 SMD (0805) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O223-01/)|
-|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|U$28 U$28,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y2 Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-PF15-01<BR>C1, C2, C13, C14|
+|[CAPC-0402-X-PF22D-V50<br> SMD (0402) 2.2 pF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
+|CAPC-0805-X-UF1D-01<BR>C4, C10, C12|
+|CAPC-0402-X-PF18D-01<BR>C5|
+|CAPC-0402-X-PF12D-01<BR>C6|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0603-X-NF1-V50<br> SMD (0603) 1 nF Capacitor (Ceramic) 50v<br> C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF1-V50/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C9, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-NF33-01<BR>C11|
+|[CAPC-0402-X-PF15D-V50<br> SMD (0402) 1.5 pF Capacitor (Ceramic) 50v<br> C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15D-V50/)|
+|[FERB-0805-X-O121-01<br> SMD (0805) 120 Ohm Ferrite Bead<br> FB1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/FERB-0805-X-O121-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-0402-X-UNMATCHED-01<BR>L1, L2, L3|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>L4, L5|
+|[RESE-0805-X-O223-01<br> SMD (0805) 22k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O223-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$28, U1, U3, Y1, Y2|
+|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -93,19 +79,19 @@ Contents
 - oompID: PROJ-ADAF-1697-STAN-01
 - oompParts: C1,CAPC-0805-X-PF15-01
 - oompParts: C2,CAPC-0805-X-PF15-01
-- oompParts: C3,CAPC-0402-X-PF22D-01
+- oompParts: C3,CAPC-0402-X-PF22D-V50
 - oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: C5,CAPC-0402-X-PF18D-01
 - oompParts: C6,CAPC-0402-X-PF12D-01
-- oompParts: C7,CAPC-0805-X-UF1-01
-- oompParts: C8,CAPC-0603-X-NF1-01
+- oompParts: C7,CAPC-0805-X-UF1-V25
+- oompParts: C8,CAPC-0603-X-NF1-V50
 - oompParts: C9,CAPC-0805-X-UF10-V10
 - oompParts: C10,CAPC-0805-X-UF1D-01
 - oompParts: C11,CAPC-0805-X-NF33-01
 - oompParts: C12,CAPC-0805-X-UF1D-01
 - oompParts: C13,CAPC-0805-X-PF15-01
 - oompParts: C14,CAPC-0805-X-PF15-01
-- oompParts: C15,CAPC-0402-X-PF15D-01
+- oompParts: C15,CAPC-0402-X-PF15D-V50
 - oompParts: C16,CAPC-0805-X-UF10-V10
 - oompParts: C17,CAPC-0805-X-UF10-V10
 - oompParts: FB1,FERB-0805-X-O121-01

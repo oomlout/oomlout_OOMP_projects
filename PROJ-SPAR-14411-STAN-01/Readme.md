@@ -38,33 +38,22 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22-01|
-|C2 C2,CAPC-0805-X-UF22-01|
-|C3 C3,CAPC-0805-X-UF22-01|
-|C9 C9,CAPC-0603-X-UF47D-01|
-|C10 C10,CAPC-0603-X-UF47D-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
-|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J6 J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J7 J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-O1003-01|
-|R2 R2,RESE-0603-X-O7503-01|
-|R3 R3,RESE-0603-X-UNMATCHED-01|
-|R4 R4,RESE-0603-X-O7503-01|
-|[R6 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R9 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|RPROG RPROG,UNMATCHED-0603-X-UNMATCHED-01|
-|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-L-STAN-01<br> SMD (0603) Blue LED<br> D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, L1, S2, U2|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J2, J3, J5, J7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>J4|
+|HEAD-I01-X-PI01-01<BR>J6|
+|RESE-0603-X-O1003-01<BR>R1|
+|RESE-0603-X-O7503-01<BR>R2, R4|
+|RESE-0603-X-UNMATCHED-01<BR>R3|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>RPROG|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -86,22 +75,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14411
 - oompID: PROJ-SPAR-14411-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22-01
-- oompParts: C2,CAPC-0805-X-UF22-01
-- oompParts: C3,CAPC-0805-X-UF22-01
-- oompParts: C9,CAPC-0603-X-UF47D-01
-- oompParts: C10,CAPC-0603-X-UF47D-01
+- oompParts: C1,CAPC-0805-X-UF22-V63D
+- oompParts: C2,CAPC-0805-X-UF22-V63D
+- oompParts: C3,CAPC-0805-X-UF22-V63D
+- oompParts: C9,CAPC-0603-X-UF47D-V10
+- oompParts: C10,CAPC-0603-X-UF47D-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: D3,LEDS-0603-G-STAN-01
-- oompParts: D4,LEDS-0603-G-STAN-01
+- oompParts: D3,LEDS-0603-R-STAN-01
+- oompParts: D4,LEDS-0603-L-STAN-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI02-01
+- oompParts: J3,HEAD-I01-X-PI02-01
+- oompParts: J4,HEAD-I01-X-UNMATCHED-01
+- oompParts: J5,HEAD-I01-X-PI02-01
+- oompParts: J6,HEAD-I01-X-PI01-01
+- oompParts: J7,HEAD-I01-X-PI02-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O1003-01
 - oompParts: R2,RESE-0603-X-O7503-01

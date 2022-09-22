@@ -38,9 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,HEAD-I01-X-PI13-01|
-|JP3 JP3,HEAD-I01-X-PI13-01|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1|
+|HEAD-I01-X-PI13-01<BR>JP2, JP3|
 
 ## Images
   
@@ -62,7 +61,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1754
 - oompID: PROJ-ADAF-1754-STAN-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI13-01
 - oompParts: JP3,HEAD-I01-X-PI13-01
 - rawParts: JP1,PI,RASBERRYPI_IDC,RASBERRYPI_IDC,Rasberry PI IDC Header,,

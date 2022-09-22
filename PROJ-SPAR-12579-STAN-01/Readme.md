@@ -38,11 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPX-UNMATCHED-X-UF10-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1|
+|CAPT-3216-X-UF10-01<BR>C2|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -65,7 +64,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12579
 - oompID: PROJ-SPAR-12579-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI10-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

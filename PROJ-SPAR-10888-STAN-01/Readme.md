@@ -38,25 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPC-0402-X-NF220-01|
-|C4 C4,CAPC-0402-X-UF47D-01|
-|C5 C5,CAPC-0402-X-UF22D-01|
-|C6 C6,CAPC-0402-X-UF22D-01|
-|C7 C7,CAPC-0402-X-PF470-01|
-|C8 C8,CAPC-0402-X-PF470-01|
-|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP5 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R2 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R3 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R4 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1|
+|CAPC-0402-X-UF1D-01<BR>C2|
+|[CAPC-0402-X-NF220-V16<br> SMD (0402) 220 nF Capacitor (Ceramic) 16v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF220-V16/)|
+|[CAPC-0402-X-UF47D-V63D<br> SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|CAPC-0402-X-UF22D-01<BR>C5, C6|
+|CAPC-0402-X-PF470-01<BR>C7, C8|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP2, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1, Q2|
+|[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U2|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U3|
 
 ## Images
   
@@ -78,10 +70,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LSM303_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10888
 - oompID: PROJ-SPAR-10888-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-NF220-01
-- oompParts: C4,CAPC-0402-X-UF47D-01
+- oompParts: C3,CAPC-0402-X-NF220-V16
+- oompParts: C4,CAPC-0402-X-UF47D-V63D
 - oompParts: C5,CAPC-0402-X-UF22D-01
 - oompParts: C6,CAPC-0402-X-UF22D-01
 - oompParts: C7,CAPC-0402-X-PF470-01

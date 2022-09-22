@@ -38,16 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF47D-01|
-|C2 C2,CAPC-0603-X-UF47D-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|FRAME1 FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP4 JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R4 R4,RESE-0603-X-UNMATCHED-01|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|[LEDS-0603-Y-STAN-01<br> SMD (0603) Yellow LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, JP4, S1|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R4|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -69,11 +66,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Simple_Power (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11893
 - oompID: PROJ-SPAR-11893-STAN-01
-- oompParts: C1,CAPC-0603-X-UF47D-01
-- oompParts: C2,CAPC-0603-X-UF47D-01
-- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: C1,CAPC-0603-X-UF47D-V10
+- oompParts: C2,CAPC-0603-X-UF47D-V10
+- oompParts: D1,LEDS-0603-Y-STAN-01
 - oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R3,RESE-0603-X-O331-01
 - oompParts: R4,RESE-0603-X-UNMATCHED-01

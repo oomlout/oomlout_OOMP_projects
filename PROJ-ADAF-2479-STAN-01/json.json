@@ -42,11 +42,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0805-X-UF1-01"
+            "value": "C1,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0805-X-UF1-01"
+            "value": "C2,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,LEDS-0805-G-STAN-01"
+            "value": "D1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -118,27 +118,11 @@
         },
         {
             "name": "oompParts",
-            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
-            "value": "TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
-        },
-        {
-            "name": "oompParts",
             "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
             "value": "U2,VREG-SO235-X-KMIC5225-V33D"
-        },
-        {
-            "name": "oompParts",
-            "value": "VTREF,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",

@@ -38,71 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D5 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D6 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D7 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D8 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D9 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D10 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D11 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D12 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D13 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D14 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D15 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D16 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D17 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D18 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D19 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D20 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D21 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D22 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D23 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D24 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D25 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D26 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D27 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D28 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D29 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D30 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D31 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D32 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D33 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D34 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D35 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D36 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D37 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D38 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D39 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D40 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D41 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D42 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D43 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D44 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D45 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D46 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D47 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D48 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D49 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D50 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D51 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D52 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D53 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D54 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D55 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D56 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|R1 R1,RESE-0603-X-O820-01|
-|R2 R2,RESE-0603-X-O820-01|
-|R3 R3,RESE-0603-X-O820-01|
-|R4 R4,RESE-0603-X-O820-01|
-|R5 R5,RESE-0603-X-O820-01|
-|R6 R6,RESE-0603-X-O820-01|
-|R7 R7,RESE-0603-X-O820-01|
-|R8 R8,RESE-0603-X-O820-01|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|RESE-0603-X-O820-01<BR>R1, R2, R3, R4, R5, R6, R7, R8|
 
 ## Images
   
@@ -124,62 +62,62 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LED_Array_8x7 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13795
 - oompID: PROJ-SPAR-13795-STAN-01
-- oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: D2,LEDS-0603-G-STAN-01
-- oompParts: D3,LEDS-0603-G-STAN-01
-- oompParts: D4,LEDS-0603-G-STAN-01
-- oompParts: D5,LEDS-0603-G-STAN-01
-- oompParts: D6,LEDS-0603-G-STAN-01
-- oompParts: D7,LEDS-0603-G-STAN-01
-- oompParts: D8,LEDS-0603-G-STAN-01
-- oompParts: D9,LEDS-0603-G-STAN-01
-- oompParts: D10,LEDS-0603-G-STAN-01
-- oompParts: D11,LEDS-0603-G-STAN-01
-- oompParts: D12,LEDS-0603-G-STAN-01
-- oompParts: D13,LEDS-0603-G-STAN-01
-- oompParts: D14,LEDS-0603-G-STAN-01
-- oompParts: D15,LEDS-0603-G-STAN-01
-- oompParts: D16,LEDS-0603-G-STAN-01
-- oompParts: D17,LEDS-0603-G-STAN-01
-- oompParts: D18,LEDS-0603-G-STAN-01
-- oompParts: D19,LEDS-0603-G-STAN-01
-- oompParts: D20,LEDS-0603-G-STAN-01
-- oompParts: D21,LEDS-0603-G-STAN-01
-- oompParts: D22,LEDS-0603-G-STAN-01
-- oompParts: D23,LEDS-0603-G-STAN-01
-- oompParts: D24,LEDS-0603-G-STAN-01
-- oompParts: D25,LEDS-0603-G-STAN-01
-- oompParts: D26,LEDS-0603-G-STAN-01
-- oompParts: D27,LEDS-0603-G-STAN-01
-- oompParts: D28,LEDS-0603-G-STAN-01
-- oompParts: D29,LEDS-0603-G-STAN-01
-- oompParts: D30,LEDS-0603-G-STAN-01
-- oompParts: D31,LEDS-0603-G-STAN-01
-- oompParts: D32,LEDS-0603-G-STAN-01
-- oompParts: D33,LEDS-0603-G-STAN-01
-- oompParts: D34,LEDS-0603-G-STAN-01
-- oompParts: D35,LEDS-0603-G-STAN-01
-- oompParts: D36,LEDS-0603-G-STAN-01
-- oompParts: D37,LEDS-0603-G-STAN-01
-- oompParts: D38,LEDS-0603-G-STAN-01
-- oompParts: D39,LEDS-0603-G-STAN-01
-- oompParts: D40,LEDS-0603-G-STAN-01
-- oompParts: D41,LEDS-0603-G-STAN-01
-- oompParts: D42,LEDS-0603-G-STAN-01
-- oompParts: D43,LEDS-0603-G-STAN-01
-- oompParts: D44,LEDS-0603-G-STAN-01
-- oompParts: D45,LEDS-0603-G-STAN-01
-- oompParts: D46,LEDS-0603-G-STAN-01
-- oompParts: D47,LEDS-0603-G-STAN-01
-- oompParts: D48,LEDS-0603-G-STAN-01
-- oompParts: D49,LEDS-0603-G-STAN-01
-- oompParts: D50,LEDS-0603-G-STAN-01
-- oompParts: D51,LEDS-0603-G-STAN-01
-- oompParts: D52,LEDS-0603-G-STAN-01
-- oompParts: D53,LEDS-0603-G-STAN-01
-- oompParts: D54,LEDS-0603-G-STAN-01
-- oompParts: D55,LEDS-0603-G-STAN-01
-- oompParts: D56,LEDS-0603-G-STAN-01
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: D2,LEDS-0603-R-STAN-01
+- oompParts: D3,LEDS-0603-R-STAN-01
+- oompParts: D4,LEDS-0603-R-STAN-01
+- oompParts: D5,LEDS-0603-R-STAN-01
+- oompParts: D6,LEDS-0603-R-STAN-01
+- oompParts: D7,LEDS-0603-R-STAN-01
+- oompParts: D8,LEDS-0603-R-STAN-01
+- oompParts: D9,LEDS-0603-R-STAN-01
+- oompParts: D10,LEDS-0603-R-STAN-01
+- oompParts: D11,LEDS-0603-R-STAN-01
+- oompParts: D12,LEDS-0603-R-STAN-01
+- oompParts: D13,LEDS-0603-R-STAN-01
+- oompParts: D14,LEDS-0603-R-STAN-01
+- oompParts: D15,LEDS-0603-R-STAN-01
+- oompParts: D16,LEDS-0603-R-STAN-01
+- oompParts: D17,LEDS-0603-R-STAN-01
+- oompParts: D18,LEDS-0603-R-STAN-01
+- oompParts: D19,LEDS-0603-R-STAN-01
+- oompParts: D20,LEDS-0603-R-STAN-01
+- oompParts: D21,LEDS-0603-R-STAN-01
+- oompParts: D22,LEDS-0603-R-STAN-01
+- oompParts: D23,LEDS-0603-R-STAN-01
+- oompParts: D24,LEDS-0603-R-STAN-01
+- oompParts: D25,LEDS-0603-R-STAN-01
+- oompParts: D26,LEDS-0603-R-STAN-01
+- oompParts: D27,LEDS-0603-R-STAN-01
+- oompParts: D28,LEDS-0603-R-STAN-01
+- oompParts: D29,LEDS-0603-R-STAN-01
+- oompParts: D30,LEDS-0603-R-STAN-01
+- oompParts: D31,LEDS-0603-R-STAN-01
+- oompParts: D32,LEDS-0603-R-STAN-01
+- oompParts: D33,LEDS-0603-R-STAN-01
+- oompParts: D34,LEDS-0603-R-STAN-01
+- oompParts: D35,LEDS-0603-R-STAN-01
+- oompParts: D36,LEDS-0603-R-STAN-01
+- oompParts: D37,LEDS-0603-R-STAN-01
+- oompParts: D38,LEDS-0603-R-STAN-01
+- oompParts: D39,LEDS-0603-R-STAN-01
+- oompParts: D40,LEDS-0603-R-STAN-01
+- oompParts: D41,LEDS-0603-R-STAN-01
+- oompParts: D42,LEDS-0603-R-STAN-01
+- oompParts: D43,LEDS-0603-R-STAN-01
+- oompParts: D44,LEDS-0603-R-STAN-01
+- oompParts: D45,LEDS-0603-R-STAN-01
+- oompParts: D46,LEDS-0603-R-STAN-01
+- oompParts: D47,LEDS-0603-R-STAN-01
+- oompParts: D48,LEDS-0603-R-STAN-01
+- oompParts: D49,LEDS-0603-R-STAN-01
+- oompParts: D50,LEDS-0603-R-STAN-01
+- oompParts: D51,LEDS-0603-R-STAN-01
+- oompParts: D52,LEDS-0603-R-STAN-01
+- oompParts: D53,LEDS-0603-R-STAN-01
+- oompParts: D54,LEDS-0603-R-STAN-01
+- oompParts: D55,LEDS-0603-R-STAN-01
+- oompParts: D56,LEDS-0603-R-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: R1,RESE-0603-X-O820-01
 - oompParts: R2,RESE-0603-X-O820-01

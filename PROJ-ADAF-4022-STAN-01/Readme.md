@@ -38,16 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-UNMATCHED-X-UF10-01|
-|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[Q1 MOSN-SO363-X-KBSS138-01 SMD (SOT-363) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO363-X-KBSS138-01/)|
-|R1 R1,RESA-06038-X-O103X4-01|
-|R2 R2,RESA-06038-X-O103X4-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,VREG-SO235-X-KAP2112K-V33D|
+|CAPC-UNMATCHED-X-UF10-01<BR>C1, C2|
+|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[MOSN-SO363-X-KBSS138-01<br> SMD (SOT-363) BSS138 N-Ch. MOSFET<br> Q1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO363-X-KBSS138-01/)|
+|RESA-06038-X-O103X4-01<BR>R1, R2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
+|VREG-SO235-X-KAP2112K-V33D<BR>U2|
 
 ## Images
   

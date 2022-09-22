@@ -38,24 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPX-UNMATCHED-X-NF100-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,HEAD-I01-X-UNMATCHED-01|
-|JP2 JP2,HEAD-I01-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|[JP4 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,MOSP-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESA-06038-X-O103X4-01|
-|R2 R2,RESA-06038-X-O103X4-01|
-|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|R10 R10,RESE-0805-X-O471-01|
-|R11 R11,RESA-06038-X-O221X4-01|
-|R13 R13,RESA-06038-X-O221X4-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPX-UNMATCHED-X-NF100-01<BR>C2|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>JP1, JP2|
+|[HEAD-I01-X-PI16-01<br> 2.54 mm 16 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>MS1, U1|
+|MOSP-UNMATCHED-X-UNMATCHED-01<BR>Q1|
+|RESA-06038-X-O103X4-01<BR>R1, R2|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|RESE-0805-X-O471-01<BR>R10|
+|RESA-06038-X-O221X4-01<BR>R11, R13|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
 
 ## Images
   
@@ -79,7 +75,7 @@ Contents
 - oompID: PROJ-ADAF-2928-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPX-UNMATCHED-X-NF100-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,TERS-35D-L-PI02-01
 - oompParts: JP1,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI16-01
@@ -93,7 +89,7 @@ Contents
 - oompParts: R10,RESE-0805-X-O471-01
 - oompParts: R11,RESA-06038-X-O221X4-01
 - oompParts: R13,RESA-06038-X-O221X4-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-4628-X-STAN-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,,CPOL-USE3.5-8,E3,5-8,POLARIZED CAPACITOR, American symbol,,

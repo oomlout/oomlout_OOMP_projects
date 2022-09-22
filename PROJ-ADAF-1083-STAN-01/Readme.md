@@ -38,16 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1-01|
-|C2 C2,CAPC-0805-X-UF1-01|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|FB2 FB2,FERB-0805-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R4 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -69,8 +64,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1083
 - oompID: PROJ-ADAF-1083-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-01
-- oompParts: C2,CAPC-0805-X-UF1-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
+- oompParts: C2,CAPC-0805-X-UF1-V25
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI10-01

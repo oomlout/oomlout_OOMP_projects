@@ -42,11 +42,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPX-UNMATCHED-X-UF220-01"
+            "value": "C1,CAPE-PANC-X-UF220-01"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPX-UNMATCHED-X-UF220-01"
+            "value": "C2,CAPE-PANC-X-UF220-01"
         },
         {
             "name": "oompParts",
@@ -86,19 +86,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C12,CAPC-0805-X-UF1-01"
+            "value": "C12,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C13,CAPC-0805-X-UF1-01"
+            "value": "C13,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C14,CAPC-0805-X-UF1-01"
+            "value": "C14,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C15,CAPC-0805-X-UF1-01"
+            "value": "C15,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -106,11 +106,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C17,CAPC-0805-X-UF1-01"
+            "value": "C17,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C18,CAPC-0805-X-UNMATCHED-01"
+            "value": "C18,CAPC-0805-X-UF47-01"
         },
         {
             "name": "oompParts",
@@ -210,11 +210,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LEFTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "LEFTSPK,TERS-35D-L-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "MP3GPIO,HEAD-I01-X-UNMATCHED-01"
+            "value": "MP3GPIO,HEAD-I01-X-PI2X07-01"
         },
         {
             "name": "oompParts",
@@ -298,11 +298,11 @@
         },
         {
             "name": "oompParts",
-            "value": "RIGHTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "RIGHTSPK,TERS-35D-L-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SW2,BUTA-6060-X-STAN-01"
         },
         {
             "name": "oompParts",

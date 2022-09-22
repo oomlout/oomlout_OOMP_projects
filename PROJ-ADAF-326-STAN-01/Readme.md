@@ -33,20 +33,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C1 C1,CAPC-0805-X-UF1-01|
-|C2 C2,CAPC-0805-X-UF1-01|
-|C3 C3,CAPC-0805-X-UF22D-01|
-|C4 C4,CAPC-0805-X-UF1-01|
-|C5 C5,CAPC-0805-X-UF1D-01|
-|C6 C6,CAPC-0805-X-UF22D-01|
-|C7 C7,CAPC-0805-X-UF1D-01|
-|P0\ P0\,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R2 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R3 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|R4 R4,RESE-0805-X-O3903-01|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> B1, P0\](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1, C2, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C3, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|CAPC-0805-X-UF1D-01<BR>C5, C7|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|RESE-0805-X-O3903-01<BR>R4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$1|
 
 ## Images
   
@@ -68,15 +61,15 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/326
 - oompID: PROJ-ADAF-326-STAN-01
-- oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0805-X-UF1-01
-- oompParts: C2,CAPC-0805-X-UF1-01
-- oompParts: C3,CAPC-0805-X-UF22D-01
-- oompParts: C4,CAPC-0805-X-UF1-01
+- oompParts: B1,HEAD-I01-X-PI10-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
+- oompParts: C2,CAPC-0805-X-UF1-V25
+- oompParts: C3,CAPC-0805-X-UF22D-V25
+- oompParts: C4,CAPC-0805-X-UF1-V25
 - oompParts: C5,CAPC-0805-X-UF1D-01
-- oompParts: C6,CAPC-0805-X-UF22D-01
+- oompParts: C6,CAPC-0805-X-UF22D-V25
 - oompParts: C7,CAPC-0805-X-UF1D-01
-- oompParts: P0\,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: P0\,HEAD-I01-X-PI10-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01
 - oompParts: R3,RESE-0805-X-O103-01

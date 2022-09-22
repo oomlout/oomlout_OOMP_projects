@@ -38,22 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF47D-01|
-|C2 C2,CAPC-0603-X-UF47D-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|PROG PROG,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R-PROG1 R-PROG1,UNMATCHED-0603-X-UNMATCHED-01|
-|[R-PROG2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R1 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
+|[DCJP-S21D-X-STAN-01<br> 2.1 mm (SMD) DC Jack<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-S21D-X-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J2, J3, PROG, X1|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>R-PROG1|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R-PROG2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -75,16 +69,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_LiPolyCharger_SingleCell (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12711
 - oompID: PROJ-SPAR-12711-STAN-01
-- oompParts: C1,CAPC-0603-X-UF47D-01
-- oompParts: C2,CAPC-0603-X-UF47D-01
+- oompParts: C1,CAPC-0603-X-UF47D-V10
+- oompParts: C2,CAPC-0603-X-UF47D-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,DCJP-S21D-X-STAN-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
 - oompParts: JP2,HEAD-I01-X-PI02-01
-- oompParts: LED2,LEDS-0603-G-STAN-01
+- oompParts: LED2,LEDS-0603-R-STAN-01
 - oompParts: PROG,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R-PROG1,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: R-PROG2,RESE-0603-X-O103-01

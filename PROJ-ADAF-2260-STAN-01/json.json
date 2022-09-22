@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "BACKLITEPWM,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "BACKLITEPWM,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
@@ -110,11 +110,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C17,CAPC-0805-X-UF1-01"
+            "value": "C17,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C18,CAPC-0805-X-UF1-01"
+            "value": "C18,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -138,11 +138,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C24,CAPX-UNMATCHED-X-UNMATCHED-01"
+            "value": "C24,CAPE-PANC-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "C25,CAPC-0805-X-UF1-01"
+            "value": "C25,CAPC-0805-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -190,7 +190,7 @@
         },
         {
             "name": "oompParts",
-            "value": "GND,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "GND,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
@@ -202,23 +202,23 @@
         },
         {
             "name": "oompParts",
-            "value": "JP3,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP3,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "JP4,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP4,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "JP5,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP5,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "JP6,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP6,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "JP7,HEAD-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP7,HEAD-UNMATCHED-X-PI01-01"
         },
         {
             "name": "oompParts",
@@ -226,7 +226,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0805-G-STAN-01"
+            "value": "LED1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -234,7 +234,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-0805-G-STAN-01"
+            "value": "LED3,LEDS-0805-L-STAN-01"
         },
         {
             "name": "oompParts",

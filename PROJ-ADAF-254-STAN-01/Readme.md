@@ -38,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[ACT LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|C1 C1,CAPX-UNMATCHED-X-UNMATCHED-01|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> ACT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|CAPX-UNMATCHED-X-UNMATCHED-01<BR>C1|
+|CAPC-0805-X-UF1D-01<BR>C2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, X1|
+|VREG-SO235-X-KLP298XS-V33D<BR>IC2|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 
 ## Images
   
@@ -67,7 +66,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/MicroSD-breakout-board (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/254
 - oompID: PROJ-ADAF-254-STAN-01
-- oompParts: ACT,LEDS-0805-G-STAN-01
+- oompParts: ACT,LEDS-0805-R-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-UF1D-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

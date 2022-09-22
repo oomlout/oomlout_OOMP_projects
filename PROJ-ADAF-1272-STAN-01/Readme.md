@@ -38,31 +38,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|B1 B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C1 C1,CAPC-UNMATCHED-X-UF1D-01|
-|C2 C2,CAPC-UNMATCHED-X-UF10-01|
-|C3 C3,CAPC-UNMATCHED-X-UF10-01|
-|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|FB1 FB1,FERB-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP6 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP9 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[LED4 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[LED5 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R10 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|RESET RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$9 U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$20 U$20,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[U2 VREG-SO235-X-KMIC5225-V33D SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>B1, CN2, SW1, U$20, U1, U3, U4|
+|CAPC-UNMATCHED-X-UF1D-01<BR>C1|
+|CAPC-UNMATCHED-X-UF10-01<BR>C2, C3|
+|FERB-UNMATCHED-X-UNMATCHED-01<BR>FB1|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP6, JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|[LEDS-0805-Y-STAN-01<br> SMD (0805) Yellow LED<br> LED4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-Y-STAN-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> LED5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R1, R9, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> RESET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> U$9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   
@@ -94,16 +83,16 @@ Contents
 - oompParts: JP4,HEAD-I01-X-PI08-01
 - oompParts: JP6,HEAD-I01-X-PI06-01
 - oompParts: JP9,HEAD-I01-X-PI06-01
-- oompParts: LED1,LEDS-0805-G-STAN-01
-- oompParts: LED4,LEDS-0805-G-STAN-01
+- oompParts: LED1,LEDS-0805-R-STAN-01
+- oompParts: LED4,LEDS-0805-Y-STAN-01
 - oompParts: LED5,LEDS-0805-G-STAN-01
 - oompParts: R1,RESE-0805-X-O102-01
 - oompParts: R5,RESE-0805-X-O103-01
 - oompParts: R9,RESE-0805-X-O102-01
 - oompParts: R10,RESE-0805-X-O102-01
-- oompParts: RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RESET,BUTA-6060-X-STAN-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$9,HEAD-I01-X-PI10-01
 - oompParts: U$20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KMIC5225-V33D

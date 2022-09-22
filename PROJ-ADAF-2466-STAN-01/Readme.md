@@ -38,61 +38,28 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[AD HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0805-X-UF1D-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|C5 C5,CAPC-0805-X-UF1D-01|
-|C6 C6,CAPC-0805-X-UF1D-01|
-|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C9 C9,CAPC-0805-X-UF1D-01|
-|C10 C10,CAPC-UNMATCHED-X-UF1D-01|
-|C12 C12,CAPC-0805-X-UF1D-01|
-|C13 C13,CAPC-0805-X-UF1D-01|
-|C15 C15,CAPC-0805-X-UF1D-01|
-|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
-|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|F2 F2,UNMATCHED-1206-X-UNMATCHED-01|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|FB2 FB2,FERB-0805-X-UNMATCHED-01|
-|GROUND1 GROUND1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|ICSP ICSP,HEAD-I01-X-UNMATCHED-01|
-|[IOH HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[IOL HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|JP1 JP1,HEAD-I01-X-PI01-01|
-|[L LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[ON LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|PC1 PC1,CAPX-UNMATCHED-X-UNMATCHED-01|
-|PC2 PC2,CAPX-UNMATCHED-X-UNMATCHED-01|
-|[POWER HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R3 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R6 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R7 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R8 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R9 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R10 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R11 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R12 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R13 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R14 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R15 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R16 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|RESET RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[RXLED LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|T1 T1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|T2 T2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[TXLED LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-SO235-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X3 X3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y2 Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|ZU4 ZU4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> AD](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C3, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C2, C4, C5, C6, C9, C12, C13, C15|
+|CAPC-UNMATCHED-X-UF1D-01<BR>C10|
+|[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|UNMATCHED-1206-X-UNMATCHED-01<BR>F2|
+|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>GROUND1, SW2, T1, T2, U1, U3, U5, X2, X3, Y2, ZU4|
+|[HEAD-I01-X-PI2X03-01<br> 2.54 mm 6 Pin (2x3) Header<br> ICSP](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> IOH](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> IOL, POWER](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|HEAD-I01-X-PI01-01<BR>JP1|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> L](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> ON](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[CAPE-PAND-X-UF47-V25<br> SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v<br> PC1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPE-PAND-X-UF47-V25/)|
+|CAPE-PAND-X-UF47-V63D<BR>PC2|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R1, R3, R6, R9, R10, R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R7, R8, R13, R14, R15, R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> RESET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|[LEDS-0805-Y-STAN-01<br> SMD (0805) Yellow LED<br> RXLED, TXLED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-Y-STAN-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U4|
 
 ## Images
   
@@ -133,14 +100,14 @@ Contents
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: GROUND1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: ICSP,HEAD-I01-X-UNMATCHED-01
+- oompParts: ICSP,HEAD-I01-X-PI2X03-01
 - oompParts: IOH,HEAD-I01-X-PI10-01
 - oompParts: IOL,HEAD-I01-X-PI08-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
-- oompParts: L,LEDS-0805-G-STAN-01
+- oompParts: L,LEDS-0805-R-STAN-01
 - oompParts: ON,LEDS-0805-G-STAN-01
-- oompParts: PC1,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: PC2,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: PC1,CAPE-PAND-X-UF47-V25
+- oompParts: PC2,CAPE-PAND-X-UF47-V63D
 - oompParts: POWER,HEAD-I01-X-PI08-01
 - oompParts: R1,RESE-0805-X-O102-01
 - oompParts: R3,RESE-0805-X-O102-01
@@ -155,12 +122,12 @@ Contents
 - oompParts: R14,RESE-0805-X-O103-01
 - oompParts: R15,RESE-0805-X-O103-01
 - oompParts: R16,RESE-0805-X-O103-01
-- oompParts: RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: RXLED,LEDS-0805-G-STAN-01
+- oompParts: RESET,BUTA-6060-X-STAN-01
+- oompParts: RXLED,LEDS-0805-Y-STAN-01
 - oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: T1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: T2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TXLED,LEDS-0805-G-STAN-01
+- oompParts: TXLED,LEDS-0805-Y-STAN-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U4,UNMATCHED-SO235-X-UNMATCHED-01

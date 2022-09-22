@@ -46,19 +46,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0603-X-UF47D-01"
+            "value": "C2,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPX-UNMATCHED-X-UF47-01"
+            "value": "C3,CAPX-3528-X-UF47-01"
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0603-X-UF1-01"
+            "value": "C4,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0603-X-UF47D-01"
+            "value": "C5,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
@@ -74,7 +74,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C9,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -98,11 +98,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,LEDS-0603-G-STAN-01"
+            "value": "D1,LEDS-0603-Y-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "D2,LEDS-1206-G-STAN-01"
+            "value": "D2,LEDS-1206-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -114,11 +114,11 @@
         },
         {
             "name": "oompParts",
-            "value": "F1,UNMATCHED-1206-X-UNMATCHED-01"
+            "value": "F1,REFU-1206-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "F2,UNMATCHED-1206-X-UNMATCHED-01"
+            "value": "F2,REFU-1206-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -126,7 +126,7 @@
         },
         {
             "name": "oompParts",
-            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP1,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -158,7 +158,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED6,LEDS-0603-G-STAN-01"
+            "value": "LED6,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -314,7 +314,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U7,UNMATCHED-SO235-X-UNMATCHED-01"
+            "value": "U7,VREG-SO235-X-KMIC5205-01"
         },
         {
             "name": "oompParts",

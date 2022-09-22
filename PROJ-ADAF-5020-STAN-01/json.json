@@ -46,11 +46,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0603-X-UF1-01"
+            "value": "C4,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0603-X-UF1-01"
+            "value": "C5,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -70,7 +70,7 @@
         },
         {
             "name": "oompParts",
-            "value": "RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "RESET,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",

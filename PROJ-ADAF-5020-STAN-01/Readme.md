@@ -38,19 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C4 C4,CAPC-0603-X-UF1-01|
-|C5 C5,CAPC-0603-X-UF1-01|
-|[C8 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[LED1 LEDS-3535-RGB-K2812-01 SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
-|RESET RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|RST RST,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SWC SWC,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SWD SWD,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,VREG-SO235-X-KAP2112K-V33D|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C3, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, IC3, RST, SW1, SWC, SWD|
+|[LEDS-3535-RGB-K2812-01<br> SMD (3535) Smart Controller (WS2812B) RGB LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> RESET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
+|VREG-SO235-X-KAP2112K-V33D<BR>U1|
 
 ## Images
   
@@ -73,13 +66,13 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/5020
 - oompID: PROJ-ADAF-5020-STAN-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
-- oompParts: C4,CAPC-0603-X-UF1-01
-- oompParts: C5,CAPC-0603-X-UF1-01
+- oompParts: C4,CAPC-0603-X-UF1-V25
+- oompParts: C5,CAPC-0603-X-UF1-V25
 - oompParts: C8,CAPC-0805-X-UF10-V10
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: LED1,LEDS-3535-RGB-K2812-01
-- oompParts: RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RESET,BUTA-4628-X-STAN-01
 - oompParts: RST,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SWC,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -38,29 +38,21 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF22D-01|
-|C2 C2,CAPC-0603-X-UF1-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|C4 C4,CAPC-UNMATCHED-X-UF47D-01|
-|C5 C5,CAPC-0603-X-UF1D-01|
-|C6 C6,CAPC-UNMATCHED-X-UF47D-01|
-|C7 C7,CAPC-0603-X-PF10-01|
-|C8 C8,CAPC-0603-X-PF10-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[D2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|D3 D3,DIOD-S323-X-UNMATCHED-01|
-|D4 D4,DIOD-S323-X-UNMATCHED-01|
-|D5 D5,DIOD-S323-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J5 J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-UNMATCHED-01|
-|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,VREG-SO235-X-KAP2112K-V33D|
+|[CAPC-0603-X-UF22D-V10<br> SMD (0603) 2.2 uF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UF1D-01<BR>C3, C5|
+|CAPC-UNMATCHED-X-UF47D-01<BR>C4, C6|
+|[CAPC-0603-X-PF10-V50<br> SMD (0603) 10 pF Capacitor (Ceramic) 50v<br> C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF10-V50/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|DIOD-S323-X-UNMATCHED-01<BR>D3, D4, D5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, U1|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>J3|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> J4, J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R1|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|VREG-SO235-X-KAP2112K-V33D<BR>U2|
 
 ## Images
   
@@ -82,24 +74,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_UART_Serial_Breakout-CY7C65213 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13830
 - oompID: PROJ-SPAR-13830-STAN-01
-- oompParts: C1,CAPC-0603-X-UF22D-01
-- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPC-0603-X-UF22D-V10
+- oompParts: C2,CAPC-0603-X-UF1-V25
 - oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: C4,CAPC-UNMATCHED-X-UF47D-01
 - oompParts: C5,CAPC-0603-X-UF1D-01
 - oompParts: C6,CAPC-UNMATCHED-X-UF47D-01
-- oompParts: C7,CAPC-0603-X-PF10-01
-- oompParts: C8,CAPC-0603-X-PF10-01
-- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: C7,CAPC-0603-X-PF10-V50
+- oompParts: C8,CAPC-0603-X-PF10-V50
+- oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: D3,DIOD-S323-X-UNMATCHED-01
 - oompParts: D4,DIOD-S323-X-UNMATCHED-01
 - oompParts: D5,DIOD-S323-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI02-01
+- oompParts: J3,HEAD-I01-X-UNMATCHED-01
+- oompParts: J4,HEAD-I01-X-PI12-01
+- oompParts: J5,HEAD-I01-X-PI12-01
 - oompParts: R1,RESE-0603-X-UNMATCHED-01
 - oompParts: R3,RESE-0603-X-O102-01
 - oompParts: R4,RESE-0603-X-O102-01

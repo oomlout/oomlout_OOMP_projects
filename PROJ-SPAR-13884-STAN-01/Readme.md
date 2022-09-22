@@ -38,23 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|C2 C2,CAPC-0603-X-NF470-01|
-|C3 C3,CAPC-0603-X-NF470-01|
-|C4 C4,CAPC-0603-X-UF1-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|LED1 LED1,LEDS-5050-G-STAN-01|
-|LED2 LED2,LEDS-5050-G-STAN-01|
-|LED3 LED3,LEDS-5050-G-STAN-01|
-|R1 R1,RESE-0603-X-O1503-01|
-|R2 R2,RESE-0603-X-O1503-01|
-|R3 R3,RESE-0603-X-O1503-01|
-|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|[R5 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UF47-01<BR>C2, C3|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J2, J3, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|LEDS-5050-G-STAN-01<BR>LED1, LED2, LED3|
+|RESE-0603-X-O1503-01<BR>R1, R2, R3|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -76,14 +67,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LP55231_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13884
 - oompID: PROJ-SPAR-13884-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
-- oompParts: C2,CAPC-0603-X-NF470-01
-- oompParts: C3,CAPC-0603-X-NF470-01
-- oompParts: C4,CAPC-0603-X-UF1-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-UF47-01
+- oompParts: C3,CAPC-0603-X-UF47-01
+- oompParts: C4,CAPC-0603-X-UF1-V25
+- oompParts: J1,HEAD-I01-X-PI08-01
+- oompParts: J2,HEAD-I01-X-PI04-01
+- oompParts: J3,HEAD-I01-X-PI04-01
+- oompParts: J4,HEAD-I01-X-PI04-01
 - oompParts: LED1,LEDS-5050-G-STAN-01
 - oompParts: LED2,LEDS-5050-G-STAN-01
 - oompParts: LED3,LEDS-5050-G-STAN-01

@@ -38,13 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UNMATCHED-01|
-|C2 C2,CAPC-0402-X-UNMATCHED-01|
-|C3 C3,CAPC-0402-X-UF47D-01|
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|R1 R1,RESE-0402-X-UNMATCHED-01|
-|R2 R2,RESE-0402-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-NF220-V16<br> SMD (0402) 220 nF Capacitor (Ceramic) 16v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF220-V16/)|
+|[CAPC-0402-X-UF47D-V63D<br> SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|RESE-0402-X-UNMATCHED-01<BR>R1, R2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -66,9 +65,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Triple_Axis_Magnetometer-HMC5883L (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10530
 - oompID: PROJ-SPAR-10530-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
-- oompParts: C3,CAPC-0402-X-UF47D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF220-V16
+- oompParts: C3,CAPC-0402-X-UF47D-V63D
 - oompParts: JP1,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0402-X-UNMATCHED-01
 - oompParts: R2,RESE-0402-X-UNMATCHED-01

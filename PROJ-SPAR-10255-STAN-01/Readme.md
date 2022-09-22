@@ -38,20 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-1206-X-UF10-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPC-0805-X-UF22-01|
-|C4 C4,CAPC-0603-X-UF1D-01|
-|[JP1 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R3 R3,RESE-0603-X-O205-01|
-|R4 R4,RESE-0603-X-O2203-01|
-|R5 R5,RESE-0603-X-UNMATCHED-01|
-|R6 R6,RESE-0603-X-O2203-01|
-|R7 R7,RESE-0603-X-O205-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
+|CAPC-0603-X-UF1D-01<BR>C2, C4|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP1, JP7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>JP3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1, U1|
+|RESE-0603-X-O205-01<BR>R3, R7|
+|RESE-0603-X-O2203-01<BR>R4, R6|
+|RESE-0603-X-UNMATCHED-01<BR>R5|
 
 ## Images
   
@@ -73,12 +68,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LiPower_Boost_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10255
 - oompID: PROJ-SPAR-10255-STAN-01
-- oompParts: C1,CAPC-1206-X-UF10-01
+- oompParts: C1,CAPC-1206-X-UF10-V25
 - oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF22-01
+- oompParts: C3,CAPC-0805-X-UF22-V63D
 - oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI02-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP3,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP7,HEAD-I01-X-PI02-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R3,RESE-0603-X-O205-01

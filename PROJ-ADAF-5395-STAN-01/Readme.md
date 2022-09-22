@@ -38,43 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22-01|
-|C2 C2,CAPC-0402-X-UF1-01|
-|C3 C3,CAPC-0402-X-UF1-01|
-|C5 C5,CAPC-0402-X-UNMATCHED-01|
-|C6 C6,CAPC-0805-X-UF22-01|
-|C7 C7,CAPC-0402-X-PF12D-01|
-|C8 C8,CAPC-0805-X-UF22-01|
-|C9 C9,CAPC-0402-X-PF12D-01|
-|C11 C11,CAPC-0402-X-UF1D-01|
-|C12 C12,CAPC-0402-X-UF1-01|
-|C19 C19,CAPC-0603-X-UF1-01|
-|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|D1 D1,DIOD-S323-X-UNMATCHED-01|
-|D2 D2,DIOD-S323-X-UNMATCHED-01|
-|GND GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
-|[JP3 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
-|L2 L2,UNMATCHED-0402-X-UNMATCHED-01|
-|LED1 LED1,LEDS-UNMATCHED-RGB-K2812-01|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q5 Q5,MOSN-SO363-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R4 R4,RESE-0402-X-O223-01|
-|[R5 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R6 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R7 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|SWC1 SWC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SWC2 SWC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,VREG-SO235-X-KAP2112K-V33D|
-|VBAT VBAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X6 X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C1, C6, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C2, C3, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|CAPC-0402-X-PF12D-01<BR>C7, C9|
+|CAPC-0402-X-UF1D-01<BR>C11|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|HEAD-I01-X-UNMATCHED-01<BR>CONN1|
+|DIOD-S323-X-UNMATCHED-01<BR>D1, D2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, SWC1, SWC2, X1, X2, X6|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|UNMATCHED-0402-X-UNMATCHED-01<BR>L2|
+|LEDS-UNMATCHED-RGB-K2812-01<BR>LED1|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> Q1, Q2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
+|MOSN-SO363-X-UNMATCHED-01<BR>Q5|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1, R2, R3, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-0402-X-O223-01<BR>R4|
+|[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|VREG-SO235-X-KAP2112K-V33D<BR>U1|
 
 ## Images
   
@@ -96,28 +77,27 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/5395
 - oompID: PROJ-ADAF-5395-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22-01
-- oompParts: C2,CAPC-0402-X-UF1-01
-- oompParts: C3,CAPC-0402-X-UF1-01
-- oompParts: C5,CAPC-0402-X-UNMATCHED-01
-- oompParts: C6,CAPC-0805-X-UF22-01
+- oompParts: C1,CAPC-0805-X-UF22-V63D
+- oompParts: C2,CAPC-0402-X-UF1-V63D
+- oompParts: C3,CAPC-0402-X-UF1-V63D
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0805-X-UF22-V63D
 - oompParts: C7,CAPC-0402-X-PF12D-01
-- oompParts: C8,CAPC-0805-X-UF22-01
+- oompParts: C8,CAPC-0805-X-UF22-V63D
 - oompParts: C9,CAPC-0402-X-PF12D-01
 - oompParts: C11,CAPC-0402-X-UF1D-01
-- oompParts: C12,CAPC-0402-X-UF1-01
-- oompParts: C19,CAPC-0603-X-UF1-01
-- oompParts: CONN1,HEAD-I01-X-PI04-01
+- oompParts: C12,CAPC-0402-X-UF1-V63D
+- oompParts: C19,CAPC-0603-X-UF1-V25
+- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
-- oompParts: GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI07-01
 - oompParts: JP3,HEAD-I01-X-PI07-01
 - oompParts: L2,UNMATCHED-0402-X-UNMATCHED-01
 - oompParts: LED1,LEDS-UNMATCHED-RGB-K2812-01
-- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q1,BUTA-4628-X-STAN-01
+- oompParts: Q2,BUTA-4628-X-STAN-01
 - oompParts: Q5,MOSN-SO363-X-UNMATCHED-01
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-0402-X-O103-01
@@ -129,7 +109,6 @@ Contents
 - oompParts: SWC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SWC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,VREG-SO235-X-KAP2112K-V33D
-- oompParts: VBAT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01

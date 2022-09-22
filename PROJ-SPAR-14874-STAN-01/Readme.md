@@ -38,26 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF10-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPX-UNMATCHED-X-UF10-01|
-|C6 C6,CAPC-0603-X-UF1-01|
-|C7 C7,CAPC-0603-X-UF1-01|
-|C8 C8,CAPC-0603-X-UF1-01|
-|C9 C9,CAPC-0603-X-UF1-01|
-|C10 C10,CAPC-0603-X-UF1D-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R6 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R7 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|[R8 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|[R9 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|[R10 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPT-3216-X-UF10-01<BR>C1, C3|
+|CAPC-0603-X-UF1D-01<BR>C2, C10|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C6, C7, C8, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[HEAD-I01-X-PI09-01<br> 2.54 mm 9 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R3, R4, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O473-01<br> SMD (0603) 47k Ohm Resistor<br> R7, R8, R9, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -79,15 +67,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/TSH82_Configurable_Op_Amp_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14874
 - oompID: PROJ-SPAR-14874-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C6,CAPC-0603-X-UF1-01
-- oompParts: C7,CAPC-0603-X-UF1-01
-- oompParts: C8,CAPC-0603-X-UF1-01
-- oompParts: C9,CAPC-0603-X-UF1-01
+- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: C6,CAPC-0603-X-UF1-V25
+- oompParts: C7,CAPC-0603-X-UF1-V25
+- oompParts: C8,CAPC-0603-X-UF1-V25
+- oompParts: C9,CAPC-0603-X-UF1-V25
 - oompParts: C10,CAPC-0603-X-UF1D-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-I01-X-PI09-01
 - oompParts: R1,RESE-0603-X-O222-01
 - oompParts: R2,RESE-0603-X-O222-01
 - oompParts: R3,RESE-0603-X-O103-01

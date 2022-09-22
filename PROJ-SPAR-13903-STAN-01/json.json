@@ -46,15 +46,15 @@
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-1206-G-STAN-01"
+            "value": "LED2,LEDS-1206-P-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-1206-G-STAN-01"
+            "value": "LED3,LEDS-1206-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,LEDS-1206-G-STAN-01"
+            "value": "LED4,LEDS-1206-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -62,7 +62,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED6,LEDS-1206-G-STAN-01"
+            "value": "LED6,LEDS-1206-L-STAN-01"
         },
         {
             "name": "oompParts",

@@ -38,26 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1D-01|
-|C2 C2,CAPC-0402-X-NF22-01|
-|C3 C3,CAPC-0402-X-PF22-01|
-|C4 C4,CAPC-0402-X-PF22-01|
-|C5 C5,CAPC-0402-X-PF47D-01|
-|C6 C6,CAPC-0402-X-UF1-01|
-|C7 C7,CAPC-0402-X-UF1-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|JP5 JP5,HEAD-I01-X-PI01-01|
-|L1 L1,UNMATCHED-0402-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R3 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R8 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|R9 R9,RESE-0402-X-O331-01|
-|R10 R10,RESE-0402-X-O331-01|
-|R11 R11,RESE-0402-X-O331-01|
-|R12 R12,RESE-0402-X-O331-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0402-X-UF1D-01<BR>C1|
+|[CAPC-0402-X-NF22-V50<br> SMD (0402) 22 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|
+|[CAPC-0402-X-PF22-V50<br> SMD (0402) 22 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
+|CAPC-0402-X-PF47D-01<BR>C5|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|HEAD-I01-X-PI01-01<BR>JP5|
+|UNMATCHED-0402-X-UNMATCHED-01<BR>L1|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R3, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|RESE-0402-X-O331-01<BR>R9, R10, R11, R12|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, Y1|
 
 ## Images
   
@@ -80,12 +72,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11083
 - oompID: PROJ-SPAR-11083-STAN-01
 - oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C2,CAPC-0402-X-NF22-01
-- oompParts: C3,CAPC-0402-X-PF22-01
-- oompParts: C4,CAPC-0402-X-PF22-01
+- oompParts: C2,CAPC-0402-X-NF22-V50
+- oompParts: C3,CAPC-0402-X-PF22-V50
+- oompParts: C4,CAPC-0402-X-PF22-V50
 - oompParts: C5,CAPC-0402-X-PF47D-01
-- oompParts: C6,CAPC-0402-X-UF1-01
-- oompParts: C7,CAPC-0402-X-UF1-01
+- oompParts: C6,CAPC-0402-X-UF1-V63D
+- oompParts: C7,CAPC-0402-X-UF1-V63D
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP5,HEAD-I01-X-PI01-01
 - oompParts: L1,UNMATCHED-0402-X-UNMATCHED-01

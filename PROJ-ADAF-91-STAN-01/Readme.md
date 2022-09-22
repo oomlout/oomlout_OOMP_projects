@@ -33,33 +33,20 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1D-01|
-|C2 C2,CAPX-UNMATCHED-X-UNMATCHED-01|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|C5 C5,CAPC-0805-X-PF15-01|
-|C6 C6,CAPC-0805-X-PF15-01|
-|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC2 IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JA1 JA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JD1 JD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JD2 JD2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP4 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|L1 L1,UNMATCHED-1206-X-UNMATCHED-01|
-|[R1 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|R2 R2,RESE-0805-X-UNMATCHED-01|
-|R3 R3,RESE-0805-X-UNMATCHED-01|
-|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|R5 R5,RESE-0805-X-UNMATCHED-01|
-|R6 R6,RESE-0805-X-UNMATCHED-01|
-|[RX LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[TX LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|USB USB,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C1, C3, C4|
+|CAPX-UNMATCHED-X-UNMATCHED-01<BR>C2|
+|CAPC-0805-X-PF15-01<BR>C5, C6|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D1, D2, RX, TX](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, IC2, USB, X1|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JA1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JD1, JD2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI2X03-01<br> 2.54 mm 6 Pin (2x3) Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-1206-X-UNMATCHED-01<BR>L1|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|RESE-0805-X-UNMATCHED-01<BR>R2, R3, R5, R6|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> S1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
 
 ## Images
   
@@ -91,10 +78,10 @@ Contents
 - oompParts: D2,LEDS-0805-G-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JA1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JD2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JA1,HEAD-I01-X-PI06-01
+- oompParts: JD1,HEAD-I01-X-PI08-01
+- oompParts: JD2,HEAD-I01-X-PI08-01
+- oompParts: JP3,HEAD-I01-X-PI2X03-01
 - oompParts: JP4,HEAD-I01-X-PI04-01
 - oompParts: L1,UNMATCHED-1206-X-UNMATCHED-01
 - oompParts: R1,RESE-0805-X-O103-01
@@ -104,7 +91,7 @@ Contents
 - oompParts: R5,RESE-0805-X-UNMATCHED-01
 - oompParts: R6,RESE-0805-X-UNMATCHED-01
 - oompParts: RX,LEDS-0805-G-STAN-01
-- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S1,BUTA-6060-X-STAN-01
 - oompParts: TX,LEDS-0805-G-STAN-01
 - oompParts: USB,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -38,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[JP1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP4 TERS-35D-L-PI03-01 3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
-|[JP5 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|JP8 JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-UNMATCHED-X-O103-01|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>JP2, JP8|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[TERS-35D-L-PI03-01<br> 3.5 mm 3 Pin Blue Screw Terminal<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>Q1|
+|RESE-UNMATCHED-X-O103-01<BR>R1|
 
 ## Images
   
@@ -68,11 +67,11 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12959
 - oompID: PROJ-SPAR-12959-STAN-01
 - oompParts: JP1,TERS-35D-L-PI02-01
-- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI02-01
 - oompParts: JP4,TERS-35D-L-PI03-01
 - oompParts: JP5,HEAD-I01-X-PI03-01
-- oompParts: JP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP8,HEAD-I01-X-UNMATCHED-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-UNMATCHED-X-O103-01
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,

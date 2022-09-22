@@ -38,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1-01|
-|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X4 X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>X1, X4|
 
 ## Images
   
@@ -65,7 +64,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-TMP235-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4686
 - oompID: PROJ-ADAF-4686-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
 - oompParts: D2,LEDS-0805-G-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: R3,RESE-0603-X-O102-01

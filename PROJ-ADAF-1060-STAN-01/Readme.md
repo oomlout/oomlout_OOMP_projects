@@ -38,12 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1-01|
-|IC2 IC2,UNMATCHED-UNMATCHED-X-K2811-01|
-|LED2 LED2,LEDS-5050-RGB-STAN-01|
-|[R1 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R2 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R3 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|UNMATCHED-UNMATCHED-X-K2811-01<BR>IC2|
+|LEDS-5050-RGB-STAN-01<BR>LED2|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[RESE-0805-X-O220-01<br> SMD (0805) 22 Ohm Resistor<br> R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
 
 ## Images
   
@@ -65,7 +64,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Flora-Smart-NeoPixel (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1060
 - oompID: PROJ-ADAF-1060-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-K2811-01
 - oompParts: LED2,LEDS-5050-RGB-STAN-01
 - oompParts: R1,RESE-0805-X-O102-01

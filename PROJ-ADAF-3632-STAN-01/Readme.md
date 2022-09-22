@@ -38,22 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|DOWN DOWN,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JOY1 JOY1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|LEFT LEFT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|RIGHT RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW6 SW6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW7 SW7,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP2 TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|UP UP,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> DOWN, LEFT, RIGHT, UP](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, JOY1, MS1|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R2, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> SW6, SW7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
 
 ## Images
   
@@ -75,22 +65,20 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3632
 - oompID: PROJ-ADAF-3632-STAN-01
-- oompParts: D1,LEDS-0805-G-STAN-01
-- oompParts: DOWN,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,LEDS-0805-R-STAN-01
+- oompParts: DOWN,BUTA-6060-X-STAN-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JOY1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: LEFT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LEFT,BUTA-6060-X-STAN-01
 - oompParts: MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R2,RESE-0603-X-O102-01
 - oompParts: R3,RESE-0603-X-O103-01
 - oompParts: R4,RESE-0603-X-O103-01
 - oompParts: R5,RESE-0603-X-O102-01
-- oompParts: RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: UP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RIGHT,BUTA-6060-X-STAN-01
+- oompParts: SW6,BUTA-4628-X-STAN-01
+- oompParts: SW7,BUTA-4628-X-STAN-01
+- oompParts: UP,BUTA-6060-X-STAN-01
 - rawParts: D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,
 - rawParts: DOWN,6mm,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,
 - rawParts: FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,

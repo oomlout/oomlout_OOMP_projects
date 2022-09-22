@@ -78,7 +78,7 @@
         },
         {
             "name": "oompParts",
-            "value": "D1,LEDS-0805-G-STAN-01"
+            "value": "D1,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -154,7 +154,7 @@
         },
         {
             "name": "oompParts",
-            "value": "SPKR,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "SPKR,TERS-35D-L-PI02-01"
         },
         {
             "name": "oompParts",

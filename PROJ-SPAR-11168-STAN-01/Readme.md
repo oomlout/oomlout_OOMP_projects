@@ -38,23 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED2 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED3 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|[LED4 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|Q1 Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0402-X-O331-01|
-|R2 R2,RESE-0402-X-O331-01|
-|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R4 R4,RESE-0402-X-O331-01|
-|R5 R5,RESE-0402-X-O331-01|
-|[R6 RESE-0402-X-O101-01 SMD (0402) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
-|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|S3 S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$9 U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, J1, Q1, S2, S3, U1|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED1, LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-L-STAN-01<br> SMD (0603) Blue LED<br> LED4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|RESE-0402-X-O331-01<BR>R1, R2, R4, R5|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O101-01<br> SMD (0402) 100 Ohm Resistor<br> R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
+|HEAD-I01-X-UNMATCHED-01<BR>U$9|
 
 ## Images
   
@@ -80,8 +71,8 @@ Contents
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: LED1,LEDS-0603-G-STAN-01
 - oompParts: LED2,LEDS-0603-G-STAN-01
-- oompParts: LED3,LEDS-0603-G-STAN-01
-- oompParts: LED4,LEDS-0603-G-STAN-01
+- oompParts: LED3,LEDS-0603-R-STAN-01
+- oompParts: LED4,LEDS-0603-L-STAN-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0402-X-O331-01
 - oompParts: R2,RESE-0402-X-O331-01
@@ -91,7 +82,7 @@ Contents
 - oompParts: R6,RESE-0402-X-O101-01
 - oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$9,HEAD-I01-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: $$U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
 - rawParts: IC1,AVR-MEGA-PZIF_SOCKET,AVR-MEGA8-PZIF_SOCKET,DIL28-3-ZIF_SOCKET,MICROCONTROLLER,,

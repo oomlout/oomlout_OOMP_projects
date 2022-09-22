@@ -54,11 +54,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C4,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPX-UNMATCHED-X-UF68-01"
+            "value": "C5,CAPX-3528-X-UF68-01"
         },
         {
             "name": "oompParts",
@@ -82,7 +82,7 @@
         },
         {
             "name": "oompParts",
-            "value": "JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP3,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -118,11 +118,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-UNMATCHED-G-STAN-01"
+            "value": "LED2,LEDS-UNMATCHED-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-UNMATCHED-G-STAN-01"
+            "value": "LED3,LEDS-UNMATCHED-R-STAN-01"
         },
         {
             "name": "oompParts",

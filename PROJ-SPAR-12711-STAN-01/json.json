@@ -42,11 +42,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0603-X-UF47D-01"
+            "value": "C1,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0603-X-UF47D-01"
+            "value": "C2,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J1,DCJP-S21D-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-0603-G-STAN-01"
+            "value": "LED2,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",

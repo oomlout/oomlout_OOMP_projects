@@ -42,39 +42,39 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0603-X-UNMATCHED-01"
+            "value": "C1,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0603-X-UF1-01"
+            "value": "C2,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+            "value": "C6,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UNMATCHED-01"
+            "value": "C7,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0603-X-UNMATCHED-01"
+            "value": "C8,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0603-X-UNMATCHED-01"
+            "value": "C9,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-UNMATCHED-X-UNMATCHED-01"
+            "value": "C10,CAPC-UNMATCHED-X-NF220-01"
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0603-X-UNMATCHED-01"
+            "value": "C11,CAPC-0603-X-NF100-V50"
         },
         {
             "name": "oompParts",
-            "value": "C14,CAPX-UNMATCHED-X-UF47-01"
+            "value": "C14,CAPE-PAND-X-UF47-01"
         },
         {
             "name": "oompParts",
@@ -98,7 +98,7 @@
         },
         {
             "name": "oompParts",
-            "value": "JP5,TERS-35D-L-UNMATCHED-01"
+            "value": "JP5,TERS-35D-L-PI04-01"
         },
         {
             "name": "oompParts",
@@ -114,11 +114,11 @@
         },
         {
             "name": "oompParts",
-            "value": "JP11,TERS-35D-L-UNMATCHED-01"
+            "value": "JP11,TERS-35D-L-PI04-01"
         },
         {
             "name": "oompParts",
-            "value": "JP12,TERS-35D-L-UNMATCHED-01"
+            "value": "JP12,TERS-35D-L-PI04-01"
         },
         {
             "name": "oompParts",
@@ -130,7 +130,7 @@
         },
         {
             "name": "oompParts",
-            "value": "PWR_LED,LEDS-0603-G-STAN-01"
+            "value": "PWR_LED,LEDS-0603-Y-STAN-01"
         },
         {
             "name": "oompParts",

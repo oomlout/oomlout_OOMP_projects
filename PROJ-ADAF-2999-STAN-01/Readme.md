@@ -38,22 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-UNMATCHED-X-UF10-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|[D1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|[D3 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|JP2 JP2,HEAD-I01-X-PI13-01|
-|R1 R1,RESE-0805-X-O1003-01|
-|R2 R2,RESE-0805-X-O1003-01|
-|R3 R3,RESE-0805-X-O1003-01|
-|R7 R7,RESE-0805-X-O1003-01|
-|R8 R8,RESA-06038-X-O102X4-01|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-UNMATCHED-X-UF10-01<BR>C2|
+|CAPC-0805-X-UF1D-01<BR>C4|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[LEDS-0805-Y-STAN-01<br> SMD (0805) Yellow LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-Y-STAN-01/)|
+|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|HEAD-I01-X-PI13-01<BR>JP2|
+|RESE-0805-X-O1003-01<BR>R1, R2, R3, R7|
+|RESA-06038-X-O102X4-01<BR>R8|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$1, U1|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -80,8 +75,8 @@ Contents
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0805-X-UF1D-01
 - oompParts: D1,LEDS-0805-G-STAN-01
-- oompParts: D2,LEDS-0805-G-STAN-01
-- oompParts: D3,LEDS-0805-G-STAN-01
+- oompParts: D2,LEDS-0805-Y-STAN-01
+- oompParts: D3,LEDS-0805-R-STAN-01
 - oompParts: JP2,HEAD-I01-X-PI13-01
 - oompParts: R1,RESE-0805-X-O1003-01
 - oompParts: R2,RESE-0805-X-O1003-01

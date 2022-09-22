@@ -38,39 +38,25 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF220-01|
-|C2 C2,CAPX-UNMATCHED-X-UF220-01|
-|C3 C3,CAPC-0603-X-UF1-01|
-|C4 C4,CAPC-0603-X-PF22-01|
-|C5 C5,CAPC-0603-X-PF22-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C8 C8,CAPC-0603-X-UF1-01|
-|C19 C19,CAPC-0603-X-UF1-01|
-|[C20 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C21 C21,CAPC-0603-X-NF10-01|
-|C22 C22,CAPC-0603-X-NF10-01|
-|C26 C26,CAPC-0603-X-UF1D-01|
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|FB2 FB2,FERB-0805-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP2 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP3 JP3,HEAD-I01-X-PI13-01|
-|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP5 JP5,HEAD-I01-X-PI01-01|
-|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O105-01 SMD (0603) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
-|R2 R2,RESE-0603-X-O1003-01|
-|[R3 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|[R4 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|[R6 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R7 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|R16 R16,RESA-06038-X-O1003X4-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO23-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPE-PANC-X-UF220-01<BR>C1, C2|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C3, C8, C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[CAPC-0603-X-PF22-V50<br> SMD (0603) 22 pF Capacitor (Ceramic) 50v<br> C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
+|CAPC-0603-X-UF1D-01<BR>C26|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, MS1, U1, X1, Y1|
+|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|HEAD-I01-X-PI13-01<BR>JP3|
+|HEAD-I01-X-PI01-01<BR>JP5|
+|[RESE-0603-X-O105-01<br> SMD (0603) 1M Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O105-01/)|
+|RESE-0603-X-O1003-01<BR>R2|
+|[RESE-0603-X-O220-01<br> SMD (0603) 22 Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|RESA-06038-X-O1003X4-01<BR>R16|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -92,17 +78,17 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3357
 - oompID: PROJ-ADAF-3357-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF220-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF220-01
-- oompParts: C3,CAPC-0603-X-UF1-01
-- oompParts: C4,CAPC-0603-X-PF22-01
-- oompParts: C5,CAPC-0603-X-PF22-01
+- oompParts: C1,CAPE-PANC-X-UF220-01
+- oompParts: C2,CAPE-PANC-X-UF220-01
+- oompParts: C3,CAPC-0603-X-UF1-V25
+- oompParts: C4,CAPC-0603-X-PF22-V50
+- oompParts: C5,CAPC-0603-X-PF22-V50
 - oompParts: C6,CAPC-0805-X-UF10-V10
-- oompParts: C8,CAPC-0603-X-UF1-01
-- oompParts: C19,CAPC-0603-X-UF1-01
+- oompParts: C8,CAPC-0603-X-UF1-V25
+- oompParts: C19,CAPC-0603-X-UF1-V25
 - oompParts: C20,CAPC-0805-X-UF10-V10
-- oompParts: C21,CAPC-0603-X-NF10-01
-- oompParts: C22,CAPC-0603-X-NF10-01
+- oompParts: C21,CAPC-0603-X-NF10-V50
+- oompParts: C22,CAPC-0603-X-NF10-V50
 - oompParts: C26,CAPC-0603-X-UF1D-01
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
@@ -120,7 +106,7 @@ Contents
 - oompParts: R6,RESE-0603-X-O101-01
 - oompParts: R7,RESE-0603-X-O101-01
 - oompParts: R16,RESA-06038-X-O1003X4-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-4628-X-STAN-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

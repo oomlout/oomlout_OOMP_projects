@@ -38,11 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2 C2,CAPC-UNMATCHED-X-UF10-01|
-|C6 C6,CAPC-0805-X-NF220-01|
-|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|R1 R1,RESA-06038-X-O103X4-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-UNMATCHED-X-UF10-01<BR>C2|
+|CAPC-0805-X-NF220-01<BR>C6|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|RESA-06038-X-O103X4-01<BR>R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U2|
 
 ## Images
   

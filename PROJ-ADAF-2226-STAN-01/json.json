@@ -42,63 +42,63 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0603-X-UF1-01"
+            "value": "C1,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0603-X-UF1-01"
+            "value": "C2,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UF1-01"
+            "value": "C6,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-0603-X-UF1-01"
+            "value": "C10,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "DIN,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "DIN,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "DOUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "DOUT,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "GND,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "GND,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "GND_2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "GND_2,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED1,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED2,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED3,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED4,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED5,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED5,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED6,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED6,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
-            "value": "LED7,LEDS-UNMATCHED-RGB-K2812-01"
+            "value": "LED7,LEDS-5050-RGB-K2812-01"
         },
         {
             "name": "oompParts",
@@ -106,7 +106,7 @@
         },
         {
             "name": "oompParts",
-            "value": "VDD,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "VDD,HEAD-I01-X-PI01-01"
         },
         {
             "name": "rawParts",

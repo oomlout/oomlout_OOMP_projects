@@ -38,14 +38,13 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|JP3 JP3,HEAD-I01-X-PI11-01|
-|R1 R1,RESA-06038-X-O103X4-01|
-|R2 R2,RESA-06038-X-O221X4-01|
-|R5 R5,RESA-06038-X-O221X4-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|HEAD-I01-X-PI11-01<BR>JP3|
+|RESA-06038-X-O103X4-01<BR>R1|
+|RESA-06038-X-O221X4-01<BR>R2, R5|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>X1|
 
 ## Images
   
@@ -67,7 +66,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-DVI-Breakout-Board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/4984
 - oompID: PROJ-ADAF-4984-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
 - oompParts: JP1,HEAD-I01-X-PI03-01
 - oompParts: JP3,HEAD-I01-X-PI11-01
 - oompParts: R1,RESA-06038-X-O103X4-01

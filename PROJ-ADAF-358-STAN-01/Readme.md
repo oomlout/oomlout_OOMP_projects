@@ -33,18 +33,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C3 C3,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPC-0805-X-UF1D-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC2 IC2,VREG-SO235-X-KLP298XS-V33D|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-UNMATCHED-01|
-|[R2 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UF1D-01<BR>C3, C4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, Q2, U$1|
+|VREG-SO235-X-KLP298XS-V33D<BR>IC2|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
+|RESE-0805-X-UNMATCHED-01<BR>R1|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> U$2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 
 ## Images
   
@@ -77,7 +73,7 @@ Contents
 - oompParts: R1,RESE-0805-X-UNMATCHED-01
 - oompParts: R2,RESE-0805-X-O102-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$2,HEAD-I01-X-PI10-01
 - rawParts: C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 - rawParts: C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,

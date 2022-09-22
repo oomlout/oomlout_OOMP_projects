@@ -38,17 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[JP1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP2 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0402-X-UNMATCHED-01|
-|R2 R2,RESE-0402-X-UNMATCHED-01|
-|R3 R3,RESE-0402-X-O271-01|
-|R4 R4,RESE-0402-X-O271-01|
-|R5 R5,RESE-0402-X-O271-01|
-|R6 R6,RESE-0402-X-O271-01|
-|R7 R7,RESE-0402-X-O271-01|
-|R8 R8,RESE-0402-X-O271-01|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP3|
+|RESE-0402-X-UNMATCHED-01<BR>R1, R2|
+|RESE-0402-X-O271-01<BR>R3, R4, R5, R6, R7, R8|
 
 ## Images
   

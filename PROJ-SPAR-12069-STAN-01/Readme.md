@@ -38,14 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|BAT1 BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|C6 C6,CAPX-UNMATCHED-X-UF1D-01|
-|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP4 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|LED1 LED1,LEDS-UNMATCHED-G-STAN-01|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SG1 SG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, S1, SG1, U2|
+|CAPX-UNMATCHED-X-UF1D-01<BR>C6|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LEDS-UNMATCHED-G-STAN-01<BR>LED1|
 
 ## Images
   

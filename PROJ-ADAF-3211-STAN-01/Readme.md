@@ -38,21 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CONN1 CONN1,HEAD-I01-X-PI25-01|
-|[D1 DIOD-S123-X-KMBR120-01 SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
-|[D2 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|IC3 IC3,UNMATCHED-SO23-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|JP15 JP15,HEAD-I01-X-UNMATCHED-01|
-|MATRIX_PWR MATRIX_PWR,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,MOSN-UNMATCHED-X-UNMATCHED-01|
-|Q2 Q2,MOSP-UNMATCHED-X-UNMATCHED-01|
-|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|[R13 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|RPI1 RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|HEAD-I01-X-PI25-01<BR>CONN1|
+|[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC3|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|HEAD-I01-X-PI2X08-01<BR>JP15|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>MATRIX_PWR, RPI1, U3, U5, X1|
+|MOSN-UNMATCHED-X-UNMATCHED-01<BR>Q1|
+|MOSP-UNMATCHED-X-UNMATCHED-01<BR>Q2|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R4, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 
 ## Images
   
@@ -79,7 +74,7 @@ Contents
 - oompParts: D2,LEDS-0805-G-STAN-01
 - oompParts: IC3,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI03-01
-- oompParts: JP15,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP15,HEAD-I01-X-PI2X08-01
 - oompParts: MATRIX_PWR,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,MOSN-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q2,MOSP-UNMATCHED-X-UNMATCHED-01

@@ -33,30 +33,23 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPC-0805-X-UF22-01|
-|C4 C4,CAPC-0603-X-PF470-01|
-|C5 C5,CAPC-0603-X-UF1D-01|
-|C6 C6,CAPC-0603-X-UF10-01|
-|C7 C7,CAPX-UNMATCHED-X-UF10-01|
-|[D1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP7 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
-|[R2 RESE-0603-X-O223-01 SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
-|R3 R3,RESE-0603-X-O133-01|
-|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|R5 R5,RESE-0603-X-UNMATCHED-01|
-|R6 R6,RESE-0603-X-O2003-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C2, C5|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|CAPC-0603-X-PF470-01<BR>C4|
+|[CAPC-0603-X-UF10-V63D<br> SMD (0603) 10 uF Capacitor (Ceramic) 6.3v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
+|CAPT-3216-X-UF10-01<BR>C7|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J1, J2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|HEAD-I01-X-PI01-01<BR>J3, J4|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1, U1, U2|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1|
+|[RESE-0603-X-O223-01<br> SMD (0603) 22k Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|RESE-0603-X-O133-01<BR>R3|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R5|
+|RESE-0603-X-O2003-01<BR>R6|
+|VREG-SO235-X-KMIC5205-01<BR>U3|
 
 ## Images
   
@@ -80,16 +73,16 @@ Contents
 - oompID: PROJ-SPAR-14765-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF22-01
+- oompParts: C3,CAPC-0805-X-UF22-V63D
 - oompParts: C4,CAPC-0603-X-PF470-01
 - oompParts: C5,CAPC-0603-X-UF1D-01
-- oompParts: C6,CAPC-0603-X-UF10-01
-- oompParts: C7,CAPX-UNMATCHED-X-UF10-01
-- oompParts: D1,LEDS-0603-G-STAN-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-UF10-V63D
+- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: J1,HEAD-I01-X-PI04-01
+- oompParts: J2,HEAD-I01-X-PI04-01
+- oompParts: J3,HEAD-I01-X-PI01-01
+- oompParts: J4,HEAD-I01-X-PI01-01
 - oompParts: JP3,HEAD-I01-X-PI04-01
 - oompParts: JP7,HEAD-I01-X-PI02-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -101,7 +94,7 @@ Contents
 - oompParts: R6,RESE-0603-X-O2003-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U3,VREG-SO235-X-KMIC5205-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,
 - rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,0.1uF,
 - rawParts: C3,22uF,22UF-0805-6.3V-20%,0805,22ÃÂµF ceramic capacitors,CAP-08402,22uF,

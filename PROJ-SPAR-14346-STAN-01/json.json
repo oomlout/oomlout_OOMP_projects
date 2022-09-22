@@ -58,19 +58,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPC-0402-X-UF1-01"
+            "value": "C5,CAPC-0402-X-UF1-V63D"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0603-X-UF47D-01"
+            "value": "C6,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UF47D-01"
+            "value": "C7,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0603-X-UF47D-01"
+            "value": "C8,CAPC-0603-X-UF47D-V10"
         },
         {
             "name": "oompParts",
@@ -82,19 +82,19 @@
         },
         {
             "name": "oompParts",
-            "value": "D3,LEDS-1206-G-STAN-01"
+            "value": "D3,LEDS-1206-Y-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "D4,LEDS-1206-G-STAN-01"
+            "value": "D4,LEDS-1206-Y-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "D5,LEDS-1206-G-STAN-01"
+            "value": "D5,LEDS-1206-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "D6,LEDS-1206-G-STAN-01"
+            "value": "D6,LEDS-1206-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -102,11 +102,11 @@
         },
         {
             "name": "oompParts",
-            "value": "D8,LEDS-1206-G-STAN-01"
+            "value": "D8,LEDS-1206-L-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "D9,LEDS-1206-G-STAN-01"
+            "value": "D9,LEDS-1206-L-STAN-01"
         },
         {
             "name": "oompParts",
@@ -122,11 +122,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-0603-G-STAN-01"
+            "value": "LED1,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED2,LEDS-0603-G-STAN-01"
+            "value": "LED2,LEDS-0603-Y-STAN-01"
         },
         {
             "name": "oompParts",

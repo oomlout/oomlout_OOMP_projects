@@ -33,36 +33,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|JP1 JP1,HEAD-I01-X-PI23-01|
-|JP2 JP2,HEAD-I01-X-PI23-01|
-|JP3 JP3,HEAD-I01-X-PI23-01|
-|JP4 JP4,HEAD-I01-X-PI23-01|
-|JP5 JP5,HEAD-I01-X-PI11-01|
-|JP6 JP6,HEAD-I01-X-PI11-01|
-|[JP7 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP8 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP9 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP10 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|JP11 JP11,HEAD-I01-X-PI11-01|
-|JP12 JP12,HEAD-I01-X-PI11-01|
-|JP13 JP13,HEAD-I01-X-PI11-01|
-|JP14 JP14,HEAD-I01-X-PI11-01|
-|JP15 JP15,HEAD-I01-X-PI11-01|
-|JP16 JP16,HEAD-I01-X-PI11-01|
-|JP17 JP17,HEAD-I01-X-PI11-01|
-|JP18 JP18,HEAD-I01-X-PI11-01|
-|JP19 JP19,HEAD-I01-X-PI11-01|
-|JP20 JP20,HEAD-I01-X-PI11-01|
-|JP21 JP21,HEAD-I01-X-PI11-01|
-|JP22 JP22,HEAD-I01-X-PI11-01|
-|JP23 JP23,HEAD-I01-X-PI11-01|
-|[JP24 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP26 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP34 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP35 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO23-X-UNMATCHED-01|
+|HEAD-I01-X-PI23-01<BR>JP1, JP2, JP3, JP4|
+|HEAD-I01-X-PI11-01<BR>JP5, JP6, JP11, JP12, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP20, JP21, JP22, JP23|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP7, JP8, JP24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP9, JP10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP26](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP34, JP35](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$2, U1|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>U2|
 
 ## Images
   

@@ -38,24 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C2 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C3 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C4 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C5 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C6 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C7 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|[C8 CAPC-0805-X-NF100-V50 SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|CN2 CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|LED1 LED1,LEDS-5050-RGB-K2811-01|
-|LED2 LED2,LEDS-5050-RGB-K2811-01|
-|LED3 LED3,LEDS-5050-RGB-K2811-01|
-|LED4 LED4,LEDS-5050-RGB-K2811-01|
-|LED5 LED5,LEDS-5050-RGB-K2811-01|
-|LED6 LED6,LEDS-5050-RGB-K2811-01|
-|LED7 LED7,LEDS-5050-RGB-K2811-01|
-|LED8 LED8,LEDS-5050-RGB-K2811-01|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3, C4, C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, CN2|
+|LEDS-5050-RGB-K2811-01<BR>LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8|
 
 ## Images
   

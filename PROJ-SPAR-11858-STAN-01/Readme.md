@@ -38,13 +38,11 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPC-0603-X-PF22-01|
-|[JP1 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP2 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|JP3 JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|L1 L1,UNMATCHED-0603-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1|
+|[CAPC-0603-X-PF22-V50<br> SMD (0603) 22 pF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP3, U1|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>L1|
 
 ## Images
   
@@ -67,7 +65,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11858
 - oompID: PROJ-SPAR-11858-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0603-X-PF22-01
+- oompParts: C3,CAPC-0603-X-PF22-V50
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: JP2,HEAD-I01-X-PI10-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

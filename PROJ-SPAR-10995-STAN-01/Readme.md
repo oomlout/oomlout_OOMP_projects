@@ -38,30 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1-01|
-|C2 C2,CAPX-UNMATCHED-X-UF10-01|
-|C3 C3,CAPC-0402-X-UF1D-01|
-|C4 C4,CAPX-UNMATCHED-X-UF10-01|
-|JP1 JP1,HEAD-I01-X-PI01-01|
-|JP6 JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP7 JP7,HEAD-I01-X-PI01-01|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q3 Q3,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q4 Q4,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R4 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R5 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R7 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R8 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R9 R9,RESE-0402-X-UNMATCHED-01|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPT-3216-X-UF10-01<BR>C2, C4|
+|CAPC-0402-X-UF1D-01<BR>C3|
+|HEAD-I01-X-PI01-01<BR>JP1, JP7|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP6, S1, U1, U2|
+|[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1, Q2, Q3, Q4|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1, R2, R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-0402-X-UNMATCHED-01<BR>R9|
 
 ## Images
   
@@ -83,14 +68,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/GPS_Evaluation_Board_GP-2106 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10995
 - oompID: PROJ-SPAR-10995-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPC-0402-X-UF1-V63D
+- oompParts: C2,CAPT-3216-X-UF10-01
 - oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C4,CAPT-3216-X-UF10-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
 - oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP7,HEAD-I01-X-PI01-01
-- oompParts: LED1,LEDS-0603-G-STAN-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q2,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q3,UNMATCHED-SO23-X-UNMATCHED-01

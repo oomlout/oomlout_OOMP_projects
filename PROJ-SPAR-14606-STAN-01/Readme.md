@@ -38,26 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|C2 C2,CAPC-0805-X-UF1-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|C4 C4,CAPC-0603-X-UNMATCHED-01|
-|C5 C5,CAPC-0603-X-UF1-01|
-|C6 C6,CAPC-0805-X-UNMATCHED-01|
-|C7 C7,CAPC-0805-X-UNMATCHED-01|
-|C8 C8,CAPC-0603-X-UF1-01|
-|C9 C9,CAPC-0603-X-UF22D-01|
-|C10 C10,CAPC-0603-X-UF1D-01|
-|C11 C11,CAPC-0603-X-UF1D-01|
-|D1 D1,DIOD-S323-X-UNMATCHED-01|
-|DS1 DS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|R2 R2,RESE-0603-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,VREG-SO235-X-KAP2112K-V33D|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C5, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|CAPC-0603-X-UF1D-01<BR>C3, C10, C11|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPC-0805-X-UNMATCHED-V25<BR>C6, C7|
+|[CAPC-0603-X-UF22D-V10<br> SMD (0603) 2.2 uF Capacitor (Ceramic) 10v<br> C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
+|DIOD-S323-X-UNMATCHED-01<BR>D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>DS1, L1, U3|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0603-X-O473-01<br> SMD (0603) 47k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R2|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
+|VREG-SO235-X-KAP2112K-V33D<BR>U2|
 
 ## Images
   
@@ -79,20 +72,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Flexible_Grayscale_OLED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14606
 - oompID: PROJ-SPAR-14606-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
-- oompParts: C2,CAPC-0805-X-UF1-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0805-X-UF1-V25
 - oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0805-X-UNMATCHED-01
-- oompParts: C7,CAPC-0805-X-UNMATCHED-01
-- oompParts: C8,CAPC-0603-X-UF1-01
-- oompParts: C9,CAPC-0603-X-UF22D-01
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UF1-V25
+- oompParts: C6,CAPC-0805-X-UNMATCHED-V25
+- oompParts: C7,CAPC-0805-X-UNMATCHED-V25
+- oompParts: C8,CAPC-0603-X-UF1-V25
+- oompParts: C9,CAPC-0603-X-UF22D-V10
 - oompParts: C10,CAPC-0603-X-UF1D-01
 - oompParts: C11,CAPC-0603-X-UF1D-01
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: DS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI06-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O473-01
 - oompParts: R2,RESE-0603-X-UNMATCHED-01

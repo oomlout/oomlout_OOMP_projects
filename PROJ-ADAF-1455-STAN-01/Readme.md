@@ -38,19 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UNMATCHED-01|
-|C2 C2,CAPC-0805-X-UNMATCHED-01|
-|C4 C4,CAPX-UNMATCHED-X-UNMATCHED-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|JP2 JP2,HEAD-I01-X-UNMATCHED-01|
-|JP3 JP3,HEAD-I01-X-UNMATCHED-01|
-|[JP4 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|JP5 JP5,HEAD-I01-X-UNMATCHED-01|
-|JP8 JP8,HEAD-I01-X-UNMATCHED-01|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|R2 R2,RESE-0805-X-O471-01|
-|R3 R3,RESE-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UNMATCHED-01<BR>C1, C2|
+|CAPX-UNMATCHED-X-UNMATCHED-01<BR>C4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-I01-X-PI2X03-01<br> 2.54 mm 6 Pin (2x3) Header<br> JP2, JP3, JP5, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|RESE-0805-X-O471-01<BR>R2|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R3|
 
 ## Images
   
@@ -77,11 +72,11 @@ Contents
 - oompParts: C4,CAPX-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI05-01
-- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
-- oompParts: JP3,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-PI2X03-01
+- oompParts: JP3,HEAD-I01-X-PI2X03-01
 - oompParts: JP4,HEAD-I01-X-PI05-01
-- oompParts: JP5,HEAD-I01-X-UNMATCHED-01
-- oompParts: JP8,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP5,HEAD-I01-X-PI2X03-01
+- oompParts: JP8,HEAD-I01-X-PI2X03-01
 - oompParts: LED1,LEDS-0805-G-STAN-01
 - oompParts: R2,RESE-0805-X-O471-01
 - oompParts: R3,RESE-UNMATCHED-X-UNMATCHED-01

@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C1,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPC-0603-X-PF22-01"
+            "value": "C3,CAPC-0603-X-PF22-V50"
         },
         {
             "name": "oompParts",
@@ -62,7 +62,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C6,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -70,19 +70,19 @@
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0603-X-PF22-01"
+            "value": "C8,CAPC-0603-X-PF22-V50"
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0603-X-UF1-01"
+            "value": "C9,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-0603-X-NF10-01"
+            "value": "C10,CAPC-0603-X-NF10-V50"
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0603-X-NF10-01"
+            "value": "C11,CAPC-0603-X-NF10-V50"
         },
         {
             "name": "oompParts",
@@ -106,11 +106,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C17,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C17,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
-            "value": "C18,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C18,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -118,7 +118,7 @@
         },
         {
             "name": "oompParts",
-            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JP1,TERS-35D-L-UNMATCHED-01"
         },
         {
             "name": "oompParts",
@@ -218,7 +218,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U1,UNMATCHED-SO235-X-UNMATCHED-01"
+            "value": "U1,VREG-SO235-X-KMIC5205-01"
         },
         {
             "name": "oompParts",

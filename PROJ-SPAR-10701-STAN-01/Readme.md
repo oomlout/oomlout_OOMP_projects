@@ -33,23 +33,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF47D-01|
-|C3 C3,CAPC-0402-X-UF47D-01|
-|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP4 HEAD-I01-X-PI05-01 2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|[LED1 LEDS-0603-G-STAN-01 SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
-|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
-|[R1 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R2 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R3 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R4 R4,RESE-0402-X-O331-01|
-|[R5 RESE-0402-X-O101-01 SMD (0402) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
-|[R6 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|R7 R7,RESE-0402-X-O301-01|
-|R8 R8,RESE-0402-X-O301-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0402-X-UF47D-V63D<br> SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q2|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1, R2, R3, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-0402-X-O331-01<BR>R4|
+|[RESE-0402-X-O101-01<br> SMD (0402) 100 Ohm Resistor<br> R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O101-01/)|
+|RESE-0402-X-O301-01<BR>R7, R8|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U2, U3|
 
 ## Images
   
@@ -71,8 +65,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10701
 - oompID: PROJ-SPAR-10701-STAN-01
-- oompParts: C1,CAPC-0402-X-UF47D-01
-- oompParts: C3,CAPC-0402-X-UF47D-01
+- oompParts: C1,CAPC-0402-X-UF47D-V63D
+- oompParts: C3,CAPC-0402-X-UF47D-V63D
 - oompParts: JP3,HEAD-I01-X-PI03-01
 - oompParts: JP4,HEAD-I01-X-PI05-01
 - oompParts: LED1,LEDS-0603-G-STAN-01

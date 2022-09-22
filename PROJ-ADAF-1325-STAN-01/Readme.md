@@ -38,14 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CON1 CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP2 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
-|[JP3 HEAD-I01-X-PI20-01 2.54 mm 20 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$4 U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CON1, U$1, U$2, U$3, U$4|
+|HEAD-I01-X-PI2X20-01<BR>JP1|
+|[HEAD-I01-X-PI20-01<br> 2.54 mm 20 Pin Header<br> JP2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
 
 ## Images
   
@@ -68,7 +63,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1325
 - oompID: PROJ-ADAF-1325-STAN-01
 - oompParts: CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI2X20-01
 - oompParts: JP2,HEAD-I01-X-PI20-01
 - oompParts: JP3,HEAD-I01-X-PI20-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

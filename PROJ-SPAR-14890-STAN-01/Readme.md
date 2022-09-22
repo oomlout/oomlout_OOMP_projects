@@ -38,18 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|D2 D2,LEDS-1206-G-STAN-01|
-|D3 D3,LEDS-1206-G-STAN-01|
-|D4 D4,LEDS-1206-G-STAN-01|
-|D5 D5,LEDS-1206-G-STAN-01|
-|D6 D6,LEDS-1206-G-STAN-01|
-|D9 D9,LEDS-1206-G-STAN-01|
-|[R2 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|[R3 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R4 R4,RESE-0603-X-O151-01|
-|[R5 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|R6 R6,RESE-0603-X-O151-01|
-|[R7 RESE-0603-X-O331-01 SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|LEDS-1206-R-STAN-01<BR>D2|
+|LEDS-1206-G-STAN-01<BR>D3, D6, D9|
+|LEDS-1206-L-STAN-01<BR>D4|
+|LEDS-1206-Y-STAN-01<BR>D5|
+|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R2, R3, R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|RESE-0603-X-O151-01<BR>R4, R6|
 
 ## Images
   
@@ -71,10 +65,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/gator_color (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14890
 - oompID: PROJ-SPAR-14890-STAN-01
-- oompParts: D2,LEDS-1206-G-STAN-01
+- oompParts: D2,LEDS-1206-R-STAN-01
 - oompParts: D3,LEDS-1206-G-STAN-01
-- oompParts: D4,LEDS-1206-G-STAN-01
-- oompParts: D5,LEDS-1206-G-STAN-01
+- oompParts: D4,LEDS-1206-L-STAN-01
+- oompParts: D5,LEDS-1206-Y-STAN-01
 - oompParts: D6,LEDS-1206-G-STAN-01
 - oompParts: D9,LEDS-1206-G-STAN-01
 - oompParts: R2,RESE-0603-X-O331-01

@@ -38,156 +38,17 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C2 C2,CAPC-0603-X-UF1-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C4 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C5 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C6 C6,CAPC-0603-X-UF1-01|
-|[CONN1 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[CONN2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[JP5 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
-|[LED1 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED2 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED3 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED4 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED5 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED6 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED7 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED8 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED9 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED10 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED11 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED12 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED13 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED14 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED15 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED16 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED17 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED18 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED19 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED20 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED21 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED22 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED23 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED24 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED25 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED26 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED27 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED28 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED29 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED30 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED31 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED32 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED33 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED34 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED35 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED36 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED37 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED38 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED39 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED40 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED41 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED42 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED43 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED44 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED45 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED46 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED47 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED48 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED49 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED50 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED51 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED52 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED53 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED54 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED55 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED56 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED57 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED58 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED59 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED60 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED61 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED62 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED63 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED64 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED65 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED66 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED67 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED68 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED69 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED70 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED71 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED72 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED73 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED74 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED75 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED76 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED77 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED78 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED79 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED80 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED81 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED82 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED83 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED84 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED85 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED86 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED87 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED88 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED89 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED90 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED91 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED92 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED93 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED94 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED95 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED96 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED97 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED98 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED99 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED100 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED101 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED102 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED103 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED104 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED105 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED106 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED107 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED108 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED109 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED110 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED111 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED112 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED113 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED114 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED115 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED116 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[LED117 LEDS-2121-RGB-STAN-CA SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
-|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|R2 R2,RESA-06038-X-O220X4-01|
-|R3 R3,RESA-06038-X-O220X4-01|
-|R4 R4,RESA-06038-X-O220X4-01|
-|R5 R5,RESA-06038-X-O220X4-01|
-|R6 R6,RESA-06038-X-O220X4-01|
-|R7 R7,RESA-06038-X-O472X4-01|
-|R8 R8,RESA-06038-X-O220X4-01|
-|[R9 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|[R10 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R11 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R12 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R13 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R14 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R15 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R16 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R17 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R18 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R19 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R20 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R21 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R22 RESE-0603-X-O510-01 SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
-|[R23 RESE-0603-X-O220-01 SMD (0603) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|HEAD-I01-X-UNMATCHED-01<BR>CONN1, CONN2|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[LEDS-2121-RGB-STAN-CA<br> SMD (2121) RGB LED Common Anode<br> LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20, LED21, LED22, LED23, LED24, LED25, LED26, LED27, LED28, LED29, LED30, LED31, LED32, LED33, LED34, LED35, LED36, LED37, LED38, LED39, LED40, LED41, LED42, LED43, LED44, LED45, LED46, LED47, LED48, LED49, LED50, LED51, LED52, LED53, LED54, LED55, LED56, LED57, LED58, LED59, LED60, LED61, LED62, LED63, LED64, LED65, LED66, LED67, LED68, LED69, LED70, LED71, LED72, LED73, LED74, LED75, LED76, LED77, LED78, LED79, LED80, LED81, LED82, LED83, LED84, LED85, LED86, LED87, LED88, LED89, LED90, LED91, LED92, LED93, LED94, LED95, LED96, LED97, LED98, LED99, LED100, LED101, LED102, LED103, LED104, LED105, LED106, LED107, LED108, LED109, LED110, LED111, LED112, LED113, LED114, LED115, LED116, LED117](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|RESA-06038-X-O220X4-01<BR>R2, R3, R4, R5, R6, R8|
+|RESA-06038-X-O472X4-01<BR>R7|
+|[RESE-0603-X-O220-01<br> SMD (0603) 22 Ohm Resistor<br> R9, R23](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O220-01/)|
+|[RESE-0603-X-O510-01<br> SMD (0603) 51 Ohm Resistor<br> R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>X1|
 
 ## Images
   
@@ -210,13 +71,13 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/5201
 - oompID: PROJ-ADAF-5201-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0603-X-UF1-01
+- oompParts: C2,CAPC-0603-X-UF1-V25
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0603-X-UF1-01
-- oompParts: CONN1,HEAD-I01-X-PI04-01
-- oompParts: CONN2,HEAD-I01-X-PI04-01
+- oompParts: C6,CAPC-0603-X-UF1-V25
+- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN2,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP5,HEAD-I01-X-PI07-01
 - oompParts: LED1,LEDS-2121-RGB-STAN-CA
 - oompParts: LED2,LEDS-2121-RGB-STAN-CA

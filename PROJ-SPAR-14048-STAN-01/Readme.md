@@ -38,15 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-UF1-01|
-|C2 C2,CAPC-0402-X-UF1-01|
-|C3 C3,CAPC-0402-X-UF1-01|
-|C4 C4,CAPC-0402-X-UF1-01|
-|C5 C5,CAPC-0805-X-UF22D-01|
-|C6 C6,CAPC-1206-X-UF47D-01|
-|OLED1 OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0603-X-O3903-01|
-|[R4 RESE-0603-X-O472-01 SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|CAPC-1206-X-UF47D-01<BR>C6|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>OLED1|
+|RESE-0603-X-O3903-01<BR>R1|
+|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   
@@ -68,11 +65,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/TeensyView (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14048
 - oompID: PROJ-SPAR-14048-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-01
-- oompParts: C2,CAPC-0402-X-UF1-01
-- oompParts: C3,CAPC-0402-X-UF1-01
-- oompParts: C4,CAPC-0402-X-UF1-01
-- oompParts: C5,CAPC-0805-X-UF22D-01
+- oompParts: C1,CAPC-0402-X-UF1-V63D
+- oompParts: C2,CAPC-0402-X-UF1-V63D
+- oompParts: C3,CAPC-0402-X-UF1-V63D
+- oompParts: C4,CAPC-0402-X-UF1-V63D
+- oompParts: C5,CAPC-0805-X-UF22D-V25
 - oompParts: C6,CAPC-1206-X-UF47D-01
 - oompParts: OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O3903-01

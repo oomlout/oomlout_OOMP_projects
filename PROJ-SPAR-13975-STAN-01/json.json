@@ -50,7 +50,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C3,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C3,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -58,15 +58,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C5,CAPX-UNMATCHED-X-UF47-01"
+            "value": "C5,CAPE-PAND-X-UF47-01"
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C6,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0603-X-UF1-01"
+            "value": "C7,CAPC-0603-X-UF1-V25"
         },
         {
             "name": "oompParts",
@@ -94,7 +94,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C15,CAPX-UNMATCHED-X-UF10-01"
+            "value": "C15,CAPT-3216-X-UF10-01"
         },
         {
             "name": "oompParts",
@@ -114,7 +114,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J3,DCJP-21D-X-STAN-01"
         },
         {
             "name": "oompParts",
@@ -138,7 +138,7 @@
         },
         {
             "name": "oompParts",
-            "value": "LED1,LEDS-1206-G-STAN-01"
+            "value": "LED1,LEDS-1206-L-STAN-01"
         },
         {
             "name": "oompParts",
@@ -146,11 +146,11 @@
         },
         {
             "name": "oompParts",
-            "value": "LED3,LEDS-1206-G-STAN-01"
+            "value": "LED3,LEDS-1206-R-STAN-01"
         },
         {
             "name": "oompParts",
-            "value": "LED4,LEDS-1206-G-STAN-01"
+            "value": "LED4,LEDS-1206-Y-STAN-01"
         },
         {
             "name": "oompParts",
@@ -250,7 +250,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U2,UNMATCHED-SO235-X-UNMATCHED-01"
+            "value": "U2,VREG-SO235-X-KMIC5205-01"
         },
         {
             "name": "oompParts",

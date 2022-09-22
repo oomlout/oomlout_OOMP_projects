@@ -38,20 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1D-01|
-|C2 C2,CAPC-0603-X-UF1D-01|
-|C3 C3,CAPC-1206-X-UF10-01|
-|C4 C4,CAPC-1206-X-UF10-01|
-|[JP2 HEAD-I01-X-PI04-01 2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[R1 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R2 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|R3 R3,RESE-0603-X-O2003-01|
-|R4 R4,RESE-0603-X-UNMATCHED-01|
-|R5 R5,RESE-0603-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,HEAD-I01-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0603-X-UF1D-01<BR>C1, C2|
+|[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
+|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|RESE-0603-X-O2003-01<BR>R3|
+|RESE-0603-X-UNMATCHED-01<BR>R4, R5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$2, U2|
+|HEAD-I01-X-UNMATCHED-01<BR>U$3|
+|VREG-SO235-X-KMIC5205-01<BR>U1|
 
 ## Images
   
@@ -75,8 +70,8 @@ Contents
 - oompID: PROJ-SPAR-13034-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1D-01
 - oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-1206-X-UF10-01
-- oompParts: C4,CAPC-1206-X-UF10-01
+- oompParts: C3,CAPC-1206-X-UF10-V25
+- oompParts: C4,CAPC-1206-X-UF10-V25
 - oompParts: JP2,HEAD-I01-X-PI04-01
 - oompParts: R1,RESE-0603-X-O103-01
 - oompParts: R2,RESE-0603-X-O103-01
@@ -85,7 +80,7 @@ Contents
 - oompParts: R5,RESE-0603-X-UNMATCHED-01
 - oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$3,HEAD-I01-X-UNMATCHED-01
-- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U1,VREG-SO235-X-KMIC5205-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
 - rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,

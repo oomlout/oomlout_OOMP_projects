@@ -42,7 +42,7 @@
         },
         {
             "name": "oompParts",
-            "value": "BOOT,LEDS-0805-G-STAN-01"
+            "value": "BOOT,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",
@@ -78,7 +78,7 @@
         },
         {
             "name": "oompParts",
-            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "Q1,BUTA-4628-X-STAN-01"
         },
         {
             "name": "oompParts",

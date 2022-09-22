@@ -62,7 +62,7 @@
         },
         {
             "name": "oompParts",
-            "value": "CHRG/LBO,LEDS-0805-G-STAN-01"
+            "value": "CHRG/LBO,LEDS-0805-O-STAN-01"
         },
         {
             "name": "oompParts",
@@ -110,7 +110,7 @@
         },
         {
             "name": "oompParts",
-            "value": "PWR,LEDS-0805-G-STAN-01"
+            "value": "PWR,LEDS-0805-R-STAN-01"
         },
         {
             "name": "oompParts",

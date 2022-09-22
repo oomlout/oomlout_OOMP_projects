@@ -33,27 +33,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,HEAD-UNMATCHED-X-PI06-01|
-|[JP2 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[JP3 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|JP5 JP5,HEAD-UNMATCHED-X-PI08-01|
-|JP6 JP6,HEAD-UNMATCHED-X-PI08-01|
-|JP7 JP7,HEAD-UNMATCHED-X-PI08-01|
-|[JP8 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|JP9 JP9,HEAD-I01-X-PI01-01|
-|LED LED,LEDS-UNMATCHED-G-STAN-01|
-|POWER POWER,LEDS-UNMATCHED-G-STAN-01|
-|R1 R1,RESE-UNMATCHED-X-UNMATCHED-01|
-|R2 R2,RESE-UNMATCHED-X-UNMATCHED-01|
-|RESET RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|W W,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X X,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y Y,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Z Z,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|TERS-35D-L-UNMATCHED-01<BR>CN1, JP1, JP5, JP6, JP7|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP2, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|HEAD-I01-X-PI01-01<BR>JP9, W, X, Y, Z|
+|LEDS-UNMATCHED-G-STAN-01<BR>LED, POWER|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1, R2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RESET, U$1|
 
 ## Images
   
@@ -75,15 +62,15 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/196
 - oompID: PROJ-ADAF-196-STAN-01
-- oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,HEAD-UNMATCHED-X-PI06-01
+- oompParts: CN1,TERS-35D-L-UNMATCHED-01
+- oompParts: J1,TERS-35D-L-PI02-01
+- oompParts: JP1,TERS-35D-L-UNMATCHED-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: JP3,HEAD-I01-X-PI08-01
 - oompParts: JP4,HEAD-I01-X-PI08-01
-- oompParts: JP5,HEAD-UNMATCHED-X-PI08-01
-- oompParts: JP6,HEAD-UNMATCHED-X-PI08-01
-- oompParts: JP7,HEAD-UNMATCHED-X-PI08-01
+- oompParts: JP5,TERS-35D-L-UNMATCHED-01
+- oompParts: JP6,TERS-35D-L-UNMATCHED-01
+- oompParts: JP7,TERS-35D-L-UNMATCHED-01
 - oompParts: JP8,HEAD-I01-X-PI06-01
 - oompParts: JP9,HEAD-I01-X-PI01-01
 - oompParts: LED,LEDS-UNMATCHED-G-STAN-01
@@ -92,10 +79,10 @@ Contents
 - oompParts: R2,RESE-UNMATCHED-X-UNMATCHED-01
 - oompParts: RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: W,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: Y,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: Z,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: W,HEAD-I01-X-PI01-01
+- oompParts: X,HEAD-I01-X-PI01-01
+- oompParts: Y,HEAD-I01-X-PI01-01
+- oompParts: Z,HEAD-I01-X-PI01-01
 - rawParts: CN1,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,
 - rawParts: J1,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,
 - rawParts: JP1,,PINHD-1X6-3.5MM,1X06-3.5MM,PIN HEADER,,

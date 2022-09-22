@@ -38,33 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1-01|
-|C2 C2,CAPC-0805-X-UF22D-01|
-|C3 C3,CAPC-0805-X-UF1-01|
-|C4 C4,CAPC-0805-X-UF22D-01|
-|C5 C5,CAPC-0805-X-UF1-01|
-|C6 C6,CAPC-0805-X-UF22D-01|
-|[CH1 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|[CH2 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|[CH3 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D2 D2,DIOD-UNMATCHED-X-UNMATCHED-01|
-|D3 D3,DIOD-UNMATCHED-X-UNMATCHED-01|
-|[JP2 TERS-35D-L-PI02-01 3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP4 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|L1 L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|L2 L2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|L3 L3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-UNMATCHED-01|
-|R2 R2,RESE-0805-X-UNMATCHED-01|
-|R3 R3,RESE-0805-X-UNMATCHED-01|
-|R4 R4,RESE-0805-X-UNMATCHED-01|
-|R5 R5,RESE-0805-X-UNMATCHED-01|
-|R6 R6,RESE-0805-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-SO235-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO235-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-SO235-X-UNMATCHED-01|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1, C3, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C2, C4, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> CH1, CH2, CH3, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2, D3|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1, L2, L3|
+|RESE-0805-X-UNMATCHED-01<BR>R1, R2, R3, R4, R5, R6|
+|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1, U2, U3|
 
 ## Images
   
@@ -86,12 +67,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/PicoBuck (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11850
 - oompID: PROJ-SPAR-11850-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-01
-- oompParts: C2,CAPC-0805-X-UF22D-01
-- oompParts: C3,CAPC-0805-X-UF1-01
-- oompParts: C4,CAPC-0805-X-UF22D-01
-- oompParts: C5,CAPC-0805-X-UF1-01
-- oompParts: C6,CAPC-0805-X-UF22D-01
+- oompParts: C1,CAPC-0805-X-UF1-V25
+- oompParts: C2,CAPC-0805-X-UF22D-V25
+- oompParts: C3,CAPC-0805-X-UF1-V25
+- oompParts: C4,CAPC-0805-X-UF22D-V25
+- oompParts: C5,CAPC-0805-X-UF1-V25
+- oompParts: C6,CAPC-0805-X-UF22D-V25
 - oompParts: CH1,TERS-35D-L-PI02-01
 - oompParts: CH2,TERS-35D-L-PI02-01
 - oompParts: CH3,TERS-35D-L-PI02-01

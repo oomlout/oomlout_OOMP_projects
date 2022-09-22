@@ -42,27 +42,27 @@
         },
         {
             "name": "oompParts",
-            "value": "JG1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG1,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "JG2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG2,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "JG3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG3,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "JG4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG4,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "JG5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG5,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
-            "value": "JG6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "JG6,HEAD-I01-X-PI02-01"
         },
         {
             "name": "oompParts",
@@ -646,19 +646,19 @@
         },
         {
             "name": "oompParts",
-            "value": "TIE+1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "TIE+1,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "TIE+2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "TIE+2,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "TIE-1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "TIE-1,HEAD-I01-X-PI01-01"
         },
         {
             "name": "oompParts",
-            "value": "TIE-2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "TIE-2,HEAD-I01-X-PI01-01"
         },
         {
             "name": "rawParts",

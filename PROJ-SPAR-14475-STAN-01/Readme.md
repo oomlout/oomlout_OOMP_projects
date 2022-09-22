@@ -38,25 +38,14 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-UF1-01|
-|C2 C2,CAPC-0603-X-UF1-01|
-|C3 C3,CAPX-UNMATCHED-X-UF100-01|
-|C4 C4,CAPX-UNMATCHED-X-UF100-01|
-|C5 C5,CAPC-0603-X-UF1-01|
-|C6 C6,CAPC-0603-X-UF1-01|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP2 JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|POT1 POT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[R1 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R2 RESE-0603-X-O222-01 SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
-|[R3 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R4 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|R5 R5,RESE-0603-X-O1003-01|
-|R6 R6,RESE-0603-X-O1003-01|
-|R7 R7,RESE-UNMATCHED-X-UNMATCHED-01|
-|R8 R8,RESE-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C2, C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPE-PAND-X-UF100-01<BR>C3, C4|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP2, POT1, U1|
+|[RESE-0603-X-O222-01<br> SMD (0603) 2.2k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RESE-0603-X-O1003-01<BR>R5, R6|
+|RESE-UNMATCHED-X-UNMATCHED-01<BR>R7, R8|
 
 ## Images
   
@@ -78,13 +67,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14475
 - oompID: PROJ-SPAR-14475-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-01
-- oompParts: C2,CAPC-0603-X-UF1-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C4,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C5,CAPC-0603-X-UF1-01
-- oompParts: C6,CAPC-0603-X-UF1-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPE-PAND-X-UF100-01
+- oompParts: C4,CAPE-PAND-X-UF100-01
+- oompParts: C5,CAPC-0603-X-UF1-V25
+- oompParts: C6,CAPC-0603-X-UF1-V25
+- oompParts: J1,HEAD-I01-X-PI10-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: POT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

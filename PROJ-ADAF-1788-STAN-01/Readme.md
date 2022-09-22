@@ -38,79 +38,33 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF220-01|
-|C2 C2,CAPX-UNMATCHED-X-UF220-01|
-|[C3 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C4 C4,CAPC-0805-X-PF15-01|
-|C5 C5,CAPC-0805-X-PF15-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C7 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C8 C8,CAPC-0805-X-UF1D-01|
-|C9 C9,CAPC-0805-X-UF1D-01|
-|C10 C10,CAPC-0805-X-UF1D-01|
-|C11 C11,CAPC-0805-X-UF1D-01|
-|C12 C12,CAPC-0805-X-UF1-01|
-|C13 C13,CAPC-0805-X-UF1-01|
-|C14 C14,CAPC-0805-X-UF1-01|
-|C15 C15,CAPC-0805-X-UF1-01|
-|[C16 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C17 C17,CAPC-0805-X-UF1-01|
-|C18 C18,CAPC-0805-X-UNMATCHED-01|
-|[C19 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C20 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C21 C21,CAPC-0805-X-UNMATCHED-01|
-|C22 C22,CAPC-0805-X-UNMATCHED-01|
-|C23 C23,CAPC-0805-X-UF1D-01|
-|C24 C24,CAPC-UNMATCHED-X-UF1D-01|
-|C25 C25,CAPC-0805-X-UF1D-01|
-|C26 C26,CAPC-0805-X-UF1D-01|
-|C27 C27,CAPC-0805-X-UNMATCHED-01|
-|C28 C28,CAPC-0805-X-UNMATCHED-01|
-|CN1 CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[D1 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|[D2 DIOD-S323-X-K4148-01 SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|FB1 FB1,FERB-0805-X-UNMATCHED-01|
-|FB2 FB2,FERB-0805-X-UNMATCHED-01|
-|FB3 FB3,FERB-0805-X-UNMATCHED-01|
-|FB4 FB4,FERB-0805-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP2 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|[JP3 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[JP4 HEAD-I01-X-PI08-01 2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[JP6 HEAD-I01-X-PI10-01 2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|[JP7 HEAD-I01-X-PI07-01 2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
-|[JP8 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|LEFTSPK LEFTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|MP3GPIO MP3GPIO,HEAD-I01-X-UNMATCHED-01|
-|R1 R1,RESE-0805-X-O105-01|
-|R2 R2,RESE-0805-X-O1003-01|
-|[R3 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|[R4 RESE-0805-X-O220-01 SMD (0805) 22 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
-|R5 R5,RESE-0805-X-O100-01|
-|[R6 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|[R7 RESE-0805-X-O101-01 SMD (0805) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
-|R8 R8,RESE-0805-X-O1003-01|
-|[R9 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R10 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|R12 R12,RESE-0805-X-O1003-01|
-|R13 R13,RESE-0805-X-O1003-01|
-|R14 R14,RESE-0805-X-O1003-01|
-|R15 R15,RESE-0805-X-O1003-01|
-|R16 R16,RESE-0805-X-O1003-01|
-|R17 R17,RESE-0805-X-O1003-01|
-|R18 R18,RESE-0805-X-O1003-01|
-|[R19 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R20 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|[R21 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|RIGHTSPK RIGHTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|SW2 SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$41 U$41,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-SO23-X-UNMATCHED-01|
-|U4 U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPE-PANC-X-UF220-01<BR>C1, C2|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C3, C6, C7, C16, C19, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-PF15-01<BR>C4, C5|
+|CAPC-0805-X-UF1D-01<BR>C8, C9, C10, C11, C23, C25, C26|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C12, C13, C14, C15, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|CAPC-0805-X-UF47-01<BR>C18|
+|CAPC-0805-X-UNMATCHED-01<BR>C21, C22, C27, C28|
+|CAPC-UNMATCHED-X-UF1D-01<BR>C24|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, U$41, U1, U4, U5, X1, Y1|
+|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D1, D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2, FB3, FB4|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> LEFTSPK, RIGHTSPK](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|HEAD-I01-X-PI2X07-01<BR>MP3GPIO|
+|RESE-0805-X-O105-01<BR>R1|
+|RESE-0805-X-O1003-01<BR>R2, R8, R12, R13, R14, R15, R16, R17, R18|
+|[RESE-0805-X-O220-01<br> SMD (0805) 22 Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O220-01/)|
+|RESE-0805-X-O100-01<BR>R5|
+|[RESE-0805-X-O101-01<br> SMD (0805) 100 Ohm Resistor<br> R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O101-01/)|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R9, R10, R19, R20, R21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -132,8 +86,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1788
 - oompID: PROJ-ADAF-1788-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF220-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF220-01
+- oompParts: C1,CAPE-PANC-X-UF220-01
+- oompParts: C2,CAPE-PANC-X-UF220-01
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0805-X-PF15-01
 - oompParts: C5,CAPC-0805-X-PF15-01
@@ -143,13 +97,13 @@ Contents
 - oompParts: C9,CAPC-0805-X-UF1D-01
 - oompParts: C10,CAPC-0805-X-UF1D-01
 - oompParts: C11,CAPC-0805-X-UF1D-01
-- oompParts: C12,CAPC-0805-X-UF1-01
-- oompParts: C13,CAPC-0805-X-UF1-01
-- oompParts: C14,CAPC-0805-X-UF1-01
-- oompParts: C15,CAPC-0805-X-UF1-01
+- oompParts: C12,CAPC-0805-X-UF1-V25
+- oompParts: C13,CAPC-0805-X-UF1-V25
+- oompParts: C14,CAPC-0805-X-UF1-V25
+- oompParts: C15,CAPC-0805-X-UF1-V25
 - oompParts: C16,CAPC-0805-X-UF10-V10
-- oompParts: C17,CAPC-0805-X-UF1-01
-- oompParts: C18,CAPC-0805-X-UNMATCHED-01
+- oompParts: C17,CAPC-0805-X-UF1-V25
+- oompParts: C18,CAPC-0805-X-UF47-01
 - oompParts: C19,CAPC-0805-X-UF10-V10
 - oompParts: C20,CAPC-0805-X-UF10-V10
 - oompParts: C21,CAPC-0805-X-UNMATCHED-01
@@ -174,8 +128,8 @@ Contents
 - oompParts: JP6,HEAD-I01-X-PI10-01
 - oompParts: JP7,HEAD-I01-X-PI07-01
 - oompParts: JP8,HEAD-I01-X-PI06-01
-- oompParts: LEFTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: MP3GPIO,HEAD-I01-X-UNMATCHED-01
+- oompParts: LEFTSPK,TERS-35D-L-PI02-01
+- oompParts: MP3GPIO,HEAD-I01-X-PI2X07-01
 - oompParts: R1,RESE-0805-X-O105-01
 - oompParts: R2,RESE-0805-X-O1003-01
 - oompParts: R3,RESE-0805-X-O220-01
@@ -196,8 +150,8 @@ Contents
 - oompParts: R19,RESE-0805-X-O103-01
 - oompParts: R20,RESE-0805-X-O103-01
 - oompParts: R21,RESE-0805-X-O103-01
-- oompParts: RIGHTSPK,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RIGHTSPK,TERS-35D-L-PI02-01
+- oompParts: SW2,BUTA-6060-X-STAN-01
 - oompParts: U$41,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-SO23-X-UNMATCHED-01

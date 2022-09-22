@@ -38,28 +38,18 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C2 C2,CAPC-0805-X-UF1D-01|
-|C4 C4,CAPX-UNMATCHED-X-UNMATCHED-01|
-|C5 C5,CAPX-UNMATCHED-X-UNMATCHED-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C10 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IC3 IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP1 HEAD-I01-X-PI12-01 2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
-|[JP2 HEAD-I01-X-PI16-01 2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
-|[LED1 LEDS-0805-G-STAN-01 SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|MPOWER MPOWER,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|MS1 MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,MOSP-UNMATCHED-X-UNMATCHED-01|
-|[R4 RESE-0805-X-O102-01 SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
-|R9 R9,RESA-06038-X-O103X4-01|
-|R10 R10,RESA-06038-X-O103X4-01|
-|SW1 SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X1 X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X2 X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X4 X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|X6 X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C2|
+|CAPE-PANC-X-UF47-01<BR>C4, C5|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, IC3, MS1, U2|
+|[HEAD-I01-X-PI12-01<br> 2.54 mm 12 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI16-01<br> 2.54 mm 16 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> MPOWER, X1, X2, X4, X6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|MOSP-UNMATCHED-X-UNMATCHED-01<BR>Q1|
+|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|RESA-06038-X-O103X4-01<BR>R9, R10|
+|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
 
 ## Images
   
@@ -82,8 +72,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2927
 - oompID: PROJ-ADAF-2927-STAN-01
 - oompParts: C2,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C5,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C4,CAPE-PANC-X-UF47-01
+- oompParts: C5,CAPE-PANC-X-UF47-01
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C10,CAPC-0805-X-UF10-V10
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -91,18 +81,18 @@ Contents
 - oompParts: JP1,HEAD-I01-X-PI12-01
 - oompParts: JP2,HEAD-I01-X-PI16-01
 - oompParts: LED1,LEDS-0805-G-STAN-01
-- oompParts: MPOWER,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: MPOWER,TERS-35D-L-PI02-01
 - oompParts: MS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,MOSP-UNMATCHED-X-UNMATCHED-01
 - oompParts: R4,RESE-0805-X-O102-01
 - oompParts: R9,RESA-06038-X-O103X4-01
 - oompParts: R10,RESA-06038-X-O103X4-01
-- oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: SW1,BUTA-4628-X-STAN-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: X6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,TERS-35D-L-PI02-01
+- oompParts: X2,TERS-35D-L-PI02-01
+- oompParts: X4,TERS-35D-L-PI02-01
+- oompParts: X6,TERS-35D-L-PI02-01
 - rawParts: A0,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,
 - rawParts: A1,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,
 - rawParts: A2,,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,

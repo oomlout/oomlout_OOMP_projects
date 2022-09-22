@@ -54,15 +54,15 @@
         },
         {
             "name": "oompParts",
-            "value": "CONN3,HEAD-I01-X-PI04-01"
+            "value": "CONN3,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "CONN4,HEAD-I01-X-PI04-01"
+            "value": "CONN4,HEAD-I01-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "D1,LEDS-0603-G-STAN-01"
+            "value": "D1,LEDS-0603-R-STAN-01"
         },
         {
             "name": "oompParts",

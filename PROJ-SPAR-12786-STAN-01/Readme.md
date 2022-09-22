@@ -38,12 +38,10 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0603-X-NF10-01|
-|C2 C2,CAPC-0603-X-NF10-01|
-|C3 C3,CAPC-0603-X-NF10-01|
-|C4 C4,CAPC-0603-X-UF1D-01|
-|[JP1 HEAD-I01-X-PI06-01 2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
+|CAPC-0603-X-UF1D-01<BR>C4|
+|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -65,9 +63,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ADXL337_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12786
 - oompID: PROJ-SPAR-12786-STAN-01
-- oompParts: C1,CAPC-0603-X-NF10-01
-- oompParts: C2,CAPC-0603-X-NF10-01
-- oompParts: C3,CAPC-0603-X-NF10-01
+- oompParts: C1,CAPC-0603-X-NF10-V50
+- oompParts: C2,CAPC-0603-X-NF10-V50
+- oompParts: C3,CAPC-0603-X-NF10-V50
 - oompParts: C4,CAPC-0603-X-UF1D-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

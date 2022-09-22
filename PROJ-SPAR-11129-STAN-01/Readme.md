@@ -38,39 +38,24 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0402-X-NF22-01|
-|C2 C2,CAPC-0402-X-UF1D-01|
-|C3 C3,CAPC-0402-X-NF390-01|
-|C4 C4,CAPC-0402-X-NF390-01|
-|C5 C5,CAPC-0402-X-PF22-01|
-|C6 C6,CAPC-0402-X-PF22-01|
-|C8 C8,CAPX-UNMATCHED-X-UF47-01|
-|C9 C9,CAPX-UNMATCHED-X-UF47-01|
-|C10 C10,CAPC-0402-X-UF1D-01|
-|C11 C11,CAPC-0402-X-UF1D-01|
-|D1 D1,DIOD-SO23-X-UNMATCHED-01|
-|J3 J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J4 J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI03-01 2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|L1 L1,UNMATCHED-0603-X-UNMATCHED-01|
-|L2 L2,UNMATCHED-0402-X-UNMATCHED-01|
-|L3 L3,UNMATCHED-0402-X-UNMATCHED-01|
-|R1 R1,RESE-0402-X-O202-01|
-|R2 R2,RESE-0402-X-O202-01|
-|R3 R3,RESE-0402-X-O202-01|
-|R4 R4,RESE-0402-X-O202-01|
-|[R5 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R6 RESE-0402-X-O472-01 SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
-|[R7 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R8 RESE-0402-X-O103-01 SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|[R9 RESE-0402-X-O203-01 SMD (0402) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|
-|[R10 RESE-0402-X-O203-01 SMD (0402) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|
-|[R11 RESE-0402-X-O473-01 SMD (0402) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O473-01/)|
-|[R12 RESE-0402-X-O473-01 SMD (0402) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O473-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U2 U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U3 U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Y1 Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0402-X-NF22-V50<br> SMD (0402) 22 nF Capacitor (Ceramic) 50v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|
+|CAPC-0402-X-UF1D-01<BR>C2, C10, C11|
+|CAPC-0402-X-NF390-01<BR>C3, C4|
+|[CAPC-0402-X-PF22-V50<br> SMD (0402) 22 pF Capacitor (Ceramic) 50v<br> C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
+|CAPX-3528-X-UF47-01<BR>C8, C9|
+|DIOD-SO23-X-UNMATCHED-01<BR>D1|
+|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-0603-X-UNMATCHED-01<BR>L1|
+|UNMATCHED-0402-X-UNMATCHED-01<BR>L2, L3|
+|RESE-0402-X-O202-01<BR>R1, R2, R3, R4|
+|[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
+|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O203-01<br> SMD (0402) 20k Ohm Resistor<br> R9, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|
+|[RESE-0402-X-O473-01<br> SMD (0402) 47k Ohm Resistor<br> R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O473-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U3, Y1|
+|TERS-35D-L-UNMATCHED-01<BR>U2|
 
 ## Images
   
@@ -92,19 +77,19 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Si4707_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11129
 - oompID: PROJ-SPAR-11129-STAN-01
-- oompParts: C1,CAPC-0402-X-NF22-01
+- oompParts: C1,CAPC-0402-X-NF22-V50
 - oompParts: C2,CAPC-0402-X-UF1D-01
 - oompParts: C3,CAPC-0402-X-NF390-01
 - oompParts: C4,CAPC-0402-X-NF390-01
-- oompParts: C5,CAPC-0402-X-PF22-01
-- oompParts: C6,CAPC-0402-X-PF22-01
-- oompParts: C8,CAPX-UNMATCHED-X-UF47-01
-- oompParts: C9,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C5,CAPC-0402-X-PF22-V50
+- oompParts: C6,CAPC-0402-X-PF22-V50
+- oompParts: C8,CAPX-3528-X-UF47-01
+- oompParts: C9,CAPX-3528-X-UF47-01
 - oompParts: C10,CAPC-0402-X-UF1D-01
 - oompParts: C11,CAPC-0402-X-UF1D-01
 - oompParts: D1,DIOD-SO23-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI08-01
+- oompParts: J4,HEAD-I01-X-PI02-01
 - oompParts: JP3,HEAD-I01-X-PI03-01
 - oompParts: L1,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: L2,UNMATCHED-0402-X-UNMATCHED-01
@@ -122,7 +107,7 @@ Contents
 - oompParts: R11,RESE-0402-X-O473-01
 - oompParts: R12,RESE-0402-X-O473-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,TERS-35D-L-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,22nF,CAP0402-CAP,0402-CAP,Capacitor,,

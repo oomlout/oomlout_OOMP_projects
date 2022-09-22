@@ -38,31 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF22-01|
-|C2 C2,CAPC-0805-X-UF22-01|
-|IC1 IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|IN IN,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|LED1 LED1,LEDS-UNMATCHED-RGB-STAN-01|
-|OUT OUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|Q1 Q1,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q2 Q2,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q3 Q3,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q4 Q4,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q5 Q5,UNMATCHED-SO23-X-UNMATCHED-01|
-|Q6 Q6,UNMATCHED-SO23-X-UNMATCHED-01|
-|R1 R1,RESE-1206-X-UNMATCHED-01|
-|[R2 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|R3 R3,RESE-1206-X-UNMATCHED-01|
-|[R4 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|R5 R5,RESE-1206-X-UNMATCHED-01|
-|[R6 RESE-0603-X-O473-01 SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
-|[R7 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R8 RESE-0603-X-O330-01 SMD (0603) 33 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
-|[R9 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$2 U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$3 U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$4 U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, U$1, U$2, U$3, U$4|
+|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> IN, OUT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|LEDS-UNMATCHED-RGB-STAN-01<BR>LED1|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1, Q2, Q3, Q4, Q5, Q6|
+|RESE-1206-X-UNMATCHED-01<BR>R1, R3, R5|
+|[RESE-0603-X-O473-01<br> SMD (0603) 47k Ohm Resistor<br> R2, R4, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R7, R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|[RESE-0603-X-O330-01<br> SMD (0603) 33 Ohm Resistor<br> R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
 
 ## Images
   
@@ -84,12 +68,12 @@ Contents
 - sources: All source files from https://github.com/adafruit/Pixie-3W-Smart-LED-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2741
 - oompID: PROJ-ADAF-2741-STAN-01
-- oompParts: C1,CAPC-0805-X-UF22-01
-- oompParts: C2,CAPC-0805-X-UF22-01
+- oompParts: C1,CAPC-0805-X-UF22-V63D
+- oompParts: C2,CAPC-0805-X-UF22-V63D
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: IN,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: IN,HEAD-I01-X-PI03-01
 - oompParts: LED1,LEDS-UNMATCHED-RGB-STAN-01
-- oompParts: OUT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: OUT,HEAD-I01-X-PI03-01
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q2,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q3,UNMATCHED-SO23-X-UNMATCHED-01

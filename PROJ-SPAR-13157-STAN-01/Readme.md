@@ -38,29 +38,19 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPX-UNMATCHED-X-UF100-01|
-|C2 C2,CAPX-UNMATCHED-X-UF10-01|
-|C3 C3,CAPC-0603-X-UF1D-01|
-|D1 D1,DIOD-UNMATCHED-X-UNMATCHED-01|
-|F1 F1,UNMATCHED-1206-X-UNMATCHED-01|
-|J1 J1,UNMATCHED-0603-X-UNMATCHED-01|
-|JP1 JP1,HEAD-I01-X-PI01-01|
-|JP2 JP2,HEAD-I01-X-PI01-01|
-|JP3 JP3,HEAD-I01-X-PI01-01|
-|JP4 JP4,HEAD-I01-X-PI01-01|
-|[JP5 HEAD-I01-X-PI02-01 2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|JP6 JP6,HEAD-I01-X-PI01-01|
-|JP7 JP7,HEAD-I01-X-PI01-01|
-|JP8 JP8,HEAD-I01-X-PI01-01|
-|JP9 JP9,HEAD-I01-X-PI01-01|
-|LED2 LED2,LEDS-1206-G-STAN-01|
-|[R1 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
-|[R2 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|R3 R3,RESE-0603-X-O281-01|
-|[R4 RESE-0603-X-O241-01 SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
-|S1 S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|S2 S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPX-7343-X-UF100-01<BR>C1|
+|CAPT-3216-X-UF10-01<BR>C2|
+|CAPC-0603-X-UF1D-01<BR>C3|
+|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
+|REFU-1206-X-UNMATCHED-01<BR>F1|
+|[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+|HEAD-I01-X-PI01-01<BR>JP1, JP2, JP3, JP4, JP6, JP7, JP8, JP9|
+|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LEDS-1206-G-STAN-01<BR>LED2|
+|[RESE-0603-X-O241-01<br> SMD (0603) 240 Ohm Resistor<br> R1, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|RESE-0603-X-O281-01<BR>R3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>S1, S2, U1|
 
 ## Images
   
@@ -82,12 +72,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13157
 - oompID: PROJ-SPAR-13157-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPX-7343-X-UF100-01
+- oompParts: C2,CAPT-3216-X-UF10-01
 - oompParts: C3,CAPC-0603-X-UF1D-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
-- oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-0603-X-UNMATCHED-01
+- oompParts: F1,REFU-1206-X-UNMATCHED-01
+- oompParts: J1,DCJP-21D-X-STAN-01
 - oompParts: JP1,HEAD-I01-X-PI01-01
 - oompParts: JP2,HEAD-I01-X-PI01-01
 - oompParts: JP3,HEAD-I01-X-PI01-01

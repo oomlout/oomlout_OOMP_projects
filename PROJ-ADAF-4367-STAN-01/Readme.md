@@ -38,34 +38,16 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[C1 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[C2 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|C9 C9,CAPC-0603-X-UF1-01|
-|C13 C13,CAPC-0603-X-UF1-01|
-|[C15 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|D1 D1,DIOD-S323-X-UNMATCHED-01|
-|D2 D2,DIOD-S323-X-UNMATCHED-01|
-|IC4 IC4,UNMATCHED-SO23-X-UNMATCHED-01|
-|LEFT LEFT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[Q1 MOSN-SO23-X-KBSS138-01 SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
-|R1 R1,RESE-0603-X-UNMATCHED-01|
-|[R2 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R3 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R4 RESE-0603-X-O103-01 SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[R5 RESE-0603-X-O102-01 SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[R12 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|[R13 RESE-0603-X-O101-01 SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
-|RIGHT RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TFT2 TFT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP1 TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP14 TP14,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP15 TP15,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP16 TP16,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP17 TP17,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|TP18 TP18,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U$1 U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|U5 U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|VR2 VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C9, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|DIOD-S323-X-UNMATCHED-01<BR>D1, D2|
+|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>LEFT, RIGHT, TFT2, U$1, U5, VR2|
+|[MOSN-SO23-X-KBSS138-01<br> SMD (SOT-23) BSS138 N-Ch. MOSFET<br> Q1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
+|RESE-0603-X-UNMATCHED-01<BR>R1|
+|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R2, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O101-01<br> SMD (0603) 100 Ohm Resistor<br> R12, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
 
 ## Images
   
@@ -89,8 +71,8 @@ Contents
 - oompID: PROJ-ADAF-4367-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C9,CAPC-0603-X-UF1-01
-- oompParts: C13,CAPC-0603-X-UF1-01
+- oompParts: C9,CAPC-0603-X-UF1-V25
+- oompParts: C13,CAPC-0603-X-UF1-V25
 - oompParts: C15,CAPC-0805-X-UF10-V10
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
@@ -106,12 +88,6 @@ Contents
 - oompParts: R13,RESE-0603-X-O101-01
 - oompParts: RIGHT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TFT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP14,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP15,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP16,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP17,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: TP18,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

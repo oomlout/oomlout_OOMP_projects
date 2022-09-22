@@ -38,21 +38,15 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|C1 C1,CAPC-0805-X-UF1D-01|
-|C2 C2,CAPC-0805-X-UF1-01|
-|C3 C3,CAPC-0805-X-UF1-01|
-|C4 C4,CAPC-0805-X-UF1-01|
-|C5 C5,CAPC-0805-X-UF1-01|
-|[C6 CAPC-0805-X-UF10-V10 SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|J1 J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|J2 J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|JP1 JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
-|[JP3 HEAD-I01-X-PI09-01 2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
-|R1 R1,RESE-0805-X-O1003-01|
-|R3 R3,RESE-0805-X-O1003-01|
-|R4 R4,RESE-0805-X-O1003-01|
-|[R5 RESE-0805-X-O103-01 SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|U1 U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01|
+|CAPC-0805-X-UF1D-01<BR>C1|
+|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C2, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1, J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|HEAD-I01-X-PI2X04-01<BR>JP1|
+|[HEAD-I01-X-PI09-01<br> 2.54 mm 9 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|RESE-0805-X-O1003-01<BR>R1, R3, R4|
+|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
 ## Images
   
@@ -75,14 +69,14 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/987
 - oompID: PROJ-ADAF-987-STAN-01
 - oompParts: C1,CAPC-0805-X-UF1D-01
-- oompParts: C2,CAPC-0805-X-UF1-01
-- oompParts: C3,CAPC-0805-X-UF1-01
-- oompParts: C4,CAPC-0805-X-UF1-01
-- oompParts: C5,CAPC-0805-X-UF1-01
+- oompParts: C2,CAPC-0805-X-UF1-V25
+- oompParts: C3,CAPC-0805-X-UF1-V25
+- oompParts: C4,CAPC-0805-X-UF1-V25
+- oompParts: C5,CAPC-0805-X-UF1-V25
 - oompParts: C6,CAPC-0805-X-UF10-V10
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,TERS-35D-L-PI02-01
+- oompParts: J2,TERS-35D-L-PI02-01
+- oompParts: JP1,HEAD-I01-X-PI2X04-01
 - oompParts: JP3,HEAD-I01-X-PI09-01
 - oompParts: R1,RESE-0805-X-O1003-01
 - oompParts: R3,RESE-0805-X-O1003-01
