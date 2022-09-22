@@ -11,8 +11,13 @@ newPart.addTag('oompParts','C8,CAPC-0603-X-UF1D-01')
 newPart.addTag('oompParts','C10,CAPC-0603-X-UF1D-01')
 newPart.addTag('oompParts','C12,CAPC-0603-X-UF1D-01')
 newPart.addTag('oompParts','C15,CAPT-3216-X-UF10-01')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C16,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C17,CAPC-0603-X-NF10-V50')
+=======
+newPart.addTag('oompParts','C16,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C17,CAPC-0603-X-NF10-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C18,CAPC-0603-X-UF1D-01')
 newPart.addTag('oompParts','D1,DIOD-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','D2,LEDS-1206-G-STAN-01')

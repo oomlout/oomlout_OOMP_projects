@@ -1,9 +1,15 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-13626-STAN-01")
 
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C1,CAPC-0603-X-UF47D-V10')
 newPart.addTag('oompParts','C2,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C3,CAPC-0603-X-UF47D-V10')
+=======
+newPart.addTag('oompParts','C1,CAPC-0603-X-UF47D-01')
+newPart.addTag('oompParts','C2,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C3,CAPC-0603-X-UF47D-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','D1,DIOD-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','D2,LEDS-0603-R-STAN-01')
 newPart.addTag('oompParts','D3,DIOD-UNMATCHED-X-UNMATCHED-01')

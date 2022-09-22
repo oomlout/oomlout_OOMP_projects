@@ -4,7 +4,11 @@ newPart = OOMP.getPartByID("PROJ-SPAR-11341-STAN-01")
 newPart.addTag('oompParts','C3,CAPC-0402-X-UF1D-01')
 newPart.addTag('oompParts','C4,CAPT-3216-X-UF10-01')
 newPart.addTag('oompParts','C5,CAPC-0402-X-NF470-01')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C6,CAPC-0402-X-NF10-V50')
+=======
+newPart.addTag('oompParts','C6,CAPC-0402-X-NF10-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C7,CAPC-0402-X-UF1D-01')
 newPart.addTag('oompParts','C8,CAPC-0402-X-UF1D-01')
 newPart.addTag('oompParts','JP1,HEAD-I01-X-PI05-01')

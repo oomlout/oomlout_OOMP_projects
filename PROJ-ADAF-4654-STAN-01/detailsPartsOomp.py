@@ -1,9 +1,15 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-4654-STAN-01")
 
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C1,CAPC-0805-X-UF22-V63D')
 newPart.addTag('oompParts','C2,CAPC-0805-X-UF22-V63D')
 newPart.addTag('oompParts','C3,CAPC-0805-X-UF22-V63D')
+=======
+newPart.addTag('oompParts','C1,CAPC-0805-X-UF22-01')
+newPart.addTag('oompParts','C2,CAPC-0805-X-UF22-01')
+newPart.addTag('oompParts','C3,CAPC-0805-X-UF22-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','JP1,HEAD-I01-X-PI04-01')
 newPart.addTag('oompParts','L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

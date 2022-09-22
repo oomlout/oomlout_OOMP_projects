@@ -6,7 +6,11 @@ newPart.addTag('oompParts','C2,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C3,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C4,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C5,CAPC-UNMATCHED-X-UF10-01')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C6,CAPC-0805-X-UF1-V25')
+=======
+newPart.addTag('oompParts','C6,CAPC-0805-X-UF1-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','CONN3,HEAD-I01-X-UNMATCHED-01')
 newPart.addTag('oompParts','CONN4,HEAD-I01-X-UNMATCHED-01')
 newPart.addTag('oompParts','D1,LEDS-0603-G-STAN-01')
