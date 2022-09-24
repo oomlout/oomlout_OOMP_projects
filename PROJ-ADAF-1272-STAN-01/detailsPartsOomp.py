@@ -2,7 +2,7 @@ import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-1272-STAN-01")
 
 newPart.addTag('oompParts','B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
-newPart.addTag('oompParts','C1,CAPC-UNMATCHED-X-UF1D-01')
+newPart.addTag('oompParts','C1,CAPC-UNMATCHED-X-NF100-01')
 newPart.addTag('oompParts','C2,CAPC-UNMATCHED-X-UF10-01')
 newPart.addTag('oompParts','C3,CAPC-UNMATCHED-X-UF10-01')
 newPart.addTag('oompParts','CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

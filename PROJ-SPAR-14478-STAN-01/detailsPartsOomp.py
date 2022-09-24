@@ -1,14 +1,14 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-14478-STAN-01")
 
-newPart.addTag('oompParts','C1,CAPC-0603-X-UF1D-01')
+newPart.addTag('oompParts','C1,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C2,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C3,CAPC-0603-X-PF22-V50')
 newPart.addTag('oompParts','C4,CAPC-0603-X-PF22-V50')
-newPart.addTag('oompParts','C5,CAPC-0603-X-UF1D-01')
+newPart.addTag('oompParts','C5,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C6,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C7,CAPT-3216-X-UF10-01')
-newPart.addTag('oompParts','C8,CAPC-0603-X-UF1D-01')
+newPart.addTag('oompParts','C8,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','CLICK,HEAD-UNMATCHED-X-PI01-01')
 newPart.addTag('oompParts','DOWN,HEAD-UNMATCHED-X-PI01-01')
 newPart.addTag('oompParts','F1,REFU-1206-X-UNMATCHED-01')

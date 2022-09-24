@@ -3,7 +3,7 @@ newPart = OOMP.getPartByID("PROJ-ADAF-2190-STAN-01")
 
 newPart.addTag('oompParts','C1,CAPC-0805-X-UNMATCHED-01')
 newPart.addTag('oompParts','C2,CAPC-0805-X-UNMATCHED-01')
-newPart.addTag('oompParts','C3,CAPC-0805-X-UF1D-01')
+newPart.addTag('oompParts','C3,CAPC-0805-X-NF100-V50')
 newPart.addTag('oompParts','C4,CAPC-0805-X-PF10-01')
 newPart.addTag('oompParts','C5,CAPC-0805-X-UNMATCHED-01')
 newPart.addTag('oompParts','C6,CAPC-0805-X-UNMATCHED-01')
