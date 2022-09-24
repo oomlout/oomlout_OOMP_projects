@@ -4,19 +4,9 @@ newPart = OOMP.getPartByID("PROJ-SPAR-14130-STAN-01")
 newPart.addTag('oompParts','BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','BT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','BT3,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
-<<<<<<< HEAD
 newPart.addTag('oompParts','C1,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C5,CAPC-0805-X-UNMATCHED-01')
-=======
-newPart.addTag('oompParts','C1,CAPC-0603-X-UF1D-01')
-<<<<<<< Updated upstream
-newPart.addTag('oompParts','C5,CAPC-0805-X-UF1-V25')
->>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C6,CAPC-0603-X-UF22D-V10')
-=======
-newPart.addTag('oompParts','C5,CAPC-0805-X-UF1-01')
-newPart.addTag('oompParts','C6,CAPC-0603-X-UF22D-01')
->>>>>>> Stashed changes
 newPart.addTag('oompParts','D3,LEDS-UNMATCHED-G-STAN-01')
 newPart.addTag('oompParts','D4,DIOD-S323-X-UNMATCHED-01')
 newPart.addTag('oompParts','D5,LEDS-0603-R-STAN-01')

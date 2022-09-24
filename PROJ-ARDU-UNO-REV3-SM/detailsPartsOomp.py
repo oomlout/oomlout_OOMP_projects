@@ -3,20 +3,12 @@ newPart = OOMP.getPartByID("PROJ-ARDU-UNO-REV3-SM")
 
 newPart.addTag('oompParts','C1,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C2,CAPC-0603-X-UNMATCHED-01')
-<<<<<<< Updated upstream
 newPart.addTag('oompParts','C3,CAPC-0603-X-UF1-V25')
-=======
-newPart.addTag('oompParts','C3,CAPC-0603-X-UF1-01')
->>>>>>> Stashed changes
 newPart.addTag('oompParts','C4,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C5,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C6,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C7,CAPC-0603-X-UNMATCHED-01')
-<<<<<<< Updated upstream
 newPart.addTag('oompParts','C8,CAPC-0603-X-UF1-V25')
-=======
-newPart.addTag('oompParts','C8,CAPC-0603-X-UF1-01')
->>>>>>> Stashed changes
 newPart.addTag('oompParts','C9,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C10,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C11,CAPC-0603-X-UNMATCHED-01')
