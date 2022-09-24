@@ -5,8 +5,16 @@ newPart.addTag('oompParts','ANALOG,HEAD-I01-X-PI06-01')
 newPart.addTag('oompParts','BATT_IN,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','C4,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C6,CAPC-0805-X-UF10-V10')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C7,CAPC-0805-X-UF22D-V25')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C8,CAPC-0805-X-NF100-V50')
+=======
+=======
+newPart.addTag('oompParts','C7,CAPC-0805-X-UF22D-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C8,CAPC-0805-X-UF1D-01')
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C9,CAPX-3528-X-UNMATCHED-01')
 newPart.addTag('oompParts','D1,DIOD-S123-X-KMBR120-01')
 newPart.addTag('oompParts','F1,UNMATCHED-1206-X-UNMATCHED-01')

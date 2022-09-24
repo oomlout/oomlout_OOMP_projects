@@ -1,13 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-4300-STAN-01")
 
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C12,CAPC-0603-X-UF1-V25')
+=======
+newPart.addTag('oompParts','C12,CAPC-0603-X-UF1-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C16,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C17,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C18,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C19,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C21,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C22,CAPC-0805-X-UF10-V10')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C23,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C24,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C25,CAPC-0603-X-NF100-V50')
@@ -18,6 +23,18 @@ newPart.addTag('oompParts','C29,CAPC-0603-X-UF1-V25')
 newPart.addTag('oompParts','C30,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C31,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C32,CAPC-0603-X-UF1-V25')
+=======
+newPart.addTag('oompParts','C23,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C24,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C25,CAPC-0603-X-UF1D-01')
+newPart.addTag('oompParts','C26,CAPC-0805-X-UF10-V10')
+newPart.addTag('oompParts','C27,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C28,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C29,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C30,CAPC-0805-X-UF10-V10')
+newPart.addTag('oompParts','C31,CAPC-0603-X-UF1D-01')
+newPart.addTag('oompParts','C32,CAPC-0603-X-UF1-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C33,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','CHG1,LEDS-0805-O-STAN-01')
 newPart.addTag('oompParts','D3,DIOD-S123-X-UNMATCHED-01')

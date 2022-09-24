@@ -3,8 +3,16 @@ newPart = OOMP.getPartByID("PROJ-ADAF-1944-STAN-01")
 
 newPart.addTag('oompParts','B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','C1,CAPC-0805-X-UF10-V10')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C2,CAPC-0805-X-UF22D-V25')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C4,CAPC-0805-X-NF100-V50')
+=======
+=======
+newPart.addTag('oompParts','C2,CAPC-0805-X-UF22D-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C4,CAPC-0805-X-UF1D-01')
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C5,CAPX-3528-X-UNMATCHED-01')
 newPart.addTag('oompParts','C6,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

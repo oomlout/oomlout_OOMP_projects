@@ -2,16 +2,35 @@ import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-12660-STAN-01")
 
 newPart.addTag('oompParts','C1,CAPT-3216-X-UF10-01')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C2,CAPC-0603-X-NF100-V50')
+=======
+newPart.addTag('oompParts','C2,CAPC-0603-X-UF1D-01')
+<<<<<<< Updated upstream
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C3,CAPC-0603-X-PF22-V50')
+=======
+newPart.addTag('oompParts','C3,CAPC-0603-X-PF22-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C4,CAPC-0603-X-PF470-01')
 newPart.addTag('oompParts','C5,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C6,CAPT-3216-X-UF10-01')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C7,CAPC-0603-X-NF100-V50')
+=======
+newPart.addTag('oompParts','C7,CAPC-0603-X-UF1D-01')
+<<<<<<< Updated upstream
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C8,CAPC-0603-X-PF22-V50')
 newPart.addTag('oompParts','C9,CAPC-0603-X-UNMATCHED-01')
 newPart.addTag('oompParts','C10,CAPC-0603-X-NF10-V50')
 newPart.addTag('oompParts','C11,CAPC-0603-X-NF10-V50')
+=======
+newPart.addTag('oompParts','C8,CAPC-0603-X-PF22-01')
+newPart.addTag('oompParts','C9,CAPC-0603-X-UF1-01')
+newPart.addTag('oompParts','C10,CAPC-0603-X-NF10-01')
+newPart.addTag('oompParts','C11,CAPC-0603-X-NF10-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C12,CAPC-0603-X-NF47-01')
 newPart.addTag('oompParts','C13,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C14,CAPC-0603-X-NF100-V50')

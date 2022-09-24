@@ -4,10 +4,22 @@ newPart = OOMP.getPartByID("PROJ-SPAR-10941-STAN-01")
 newPart.addTag('oompParts','BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','C1,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C2,CAPX-3528-X-UF47-01')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C3,CAPC-0402-X-UNMATCHED-01')
 newPart.addTag('oompParts','C4,CAPC-0402-X-NF100-V10')
+=======
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C3,CAPC-0402-X-UF1-V63D')
+newPart.addTag('oompParts','C4,CAPC-0402-X-UF1D-01')
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','C9,CAPC-0402-X-UF47D-V63D')
 newPart.addTag('oompParts','C10,CAPC-0402-X-UF47D-V63D')
+=======
+newPart.addTag('oompParts','C3,CAPC-0402-X-UF1-01')
+newPart.addTag('oompParts','C4,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C9,CAPC-0402-X-UF47D-01')
+newPart.addTag('oompParts','C10,CAPC-0402-X-UF47D-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','D2,LEDS-0603-G-STAN-01')
 newPart.addTag('oompParts','D4,LEDS-0603-Y-STAN-01')
 newPart.addTag('oompParts','JP2,HEAD-I01-X-PI06-01')

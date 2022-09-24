@@ -4,11 +4,13 @@ newPart = OOMP.getPartByID("PROJ-SPAR-10507-STAN-01")
 newPart.addTag('oompParts','C1,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C2,CAPE-PANG-X-UF100-01')
 newPart.addTag('oompParts','C3,CAPT-3216-X-UF10-01')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C4,CAPC-0805-X-UF1-V25')
 newPart.addTag('oompParts','C5,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C6,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C7,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C8,CAPC-0402-X-NF220-V16')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C9,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C10,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C11,CAPC-0402-X-NF100-V10')
@@ -30,6 +32,48 @@ newPart.addTag('oompParts','C26,CAPC-0402-X-NF220-V16')
 newPart.addTag('oompParts','C27,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C28,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C29,CAPC-0402-X-NF100-V10')
+=======
+=======
+newPart.addTag('oompParts','C4,CAPC-0805-X-UF1-01')
+newPart.addTag('oompParts','C5,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C6,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C7,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C8,CAPC-0402-X-NF220-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C9,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C10,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C11,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C12,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C13,CAPC-0402-X-UF1D-01')
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C14,CAPC-0402-X-NF220-V16')
+=======
+newPart.addTag('oompParts','C14,CAPC-0402-X-NF220-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C15,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C16,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C17,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C18,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C19,CAPC-0402-X-UF1D-01')
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C20,CAPC-0402-X-NF220-V16')
+=======
+newPart.addTag('oompParts','C20,CAPC-0402-X-NF220-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C21,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C22,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C23,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C24,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C25,CAPC-0402-X-UF1D-01')
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C26,CAPC-0402-X-NF220-V16')
+=======
+newPart.addTag('oompParts','C26,CAPC-0402-X-NF220-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C27,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C28,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C29,CAPC-0402-X-UF1D-01')
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','D1,DIOD-UNMATCHED-X-UNMATCHED-01')
 newPart.addTag('oompParts','F1,REFU-1206-X-UNMATCHED-01')
 newPart.addTag('oompParts','J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

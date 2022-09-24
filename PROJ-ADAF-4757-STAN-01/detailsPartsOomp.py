@@ -26,10 +26,17 @@ newPart.addTag('oompParts','C24,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C25,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C26,CAPC-0603-X-PF220-01')
 newPart.addTag('oompParts','C27,CAPC-0603-X-PF220-01')
+<<<<<<< Updated upstream
 newPart.addTag('oompParts','C28,CAPC-0603-X-PF100-V50')
 newPart.addTag('oompParts','C29,CAPC-0603-X-PF100-V50')
 newPart.addTag('oompParts','C30,CAPC-0603-X-PF100-V50')
 newPart.addTag('oompParts','C31,CAPC-0603-X-PF100-V50')
+=======
+newPart.addTag('oompParts','C28,CAPC-0603-X-PF100-01')
+newPart.addTag('oompParts','C29,CAPC-0603-X-PF100-01')
+newPart.addTag('oompParts','C30,CAPC-0603-X-PF100-01')
+newPart.addTag('oompParts','C31,CAPC-0603-X-PF100-01')
+>>>>>>> Stashed changes
 newPart.addTag('oompParts','C32,CAPC-0805-X-UF10-V10')
 newPart.addTag('oompParts','C33,CAPC-0805-X-UNMATCHED-01')
 newPart.addTag('oompParts','C34,CAPC-0805-X-UF10-V10')

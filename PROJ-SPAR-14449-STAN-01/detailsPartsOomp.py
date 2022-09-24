@@ -2,6 +2,7 @@ import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-14449-STAN-01")
 
 newPart.addTag('oompParts','C1,CAPC-0603-X-PF22D-01')
+<<<<<<< HEAD
 newPart.addTag('oompParts','C2,CAPC-0402-X-NF100-V10')
 newPart.addTag('oompParts','C3,CAPC-0402-X-UNMATCHED-01')
 newPart.addTag('oompParts','C4,CAPC-0402-X-NF100-V10')
@@ -15,6 +16,33 @@ newPart.addTag('oompParts','C11,CAPC-0402-X-UNMATCHED-01')
 newPart.addTag('oompParts','C12,CAPC-0402-X-UNMATCHED-01')
 newPart.addTag('oompParts','C13,CAPC-0402-X-UNMATCHED-01')
 newPart.addTag('oompParts','C14,CAPC-0402-X-UNMATCHED-01')
+=======
+newPart.addTag('oompParts','C2,CAPC-0402-X-UF1D-01')
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C3,CAPC-0402-X-UF1-V63D')
+=======
+newPart.addTag('oompParts','C3,CAPC-0402-X-UF1-01')
+>>>>>>> Stashed changes
+newPart.addTag('oompParts','C4,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C5,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C6,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C7,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C8,CAPC-0402-X-UF1D-01')
+newPart.addTag('oompParts','C9,CAPC-0402-X-UF1D-01')
+<<<<<<< Updated upstream
+newPart.addTag('oompParts','C10,CAPC-0402-X-UF1-V63D')
+newPart.addTag('oompParts','C11,CAPC-0402-X-UF1-V63D')
+newPart.addTag('oompParts','C12,CAPC-0402-X-UF1-V63D')
+newPart.addTag('oompParts','C13,CAPC-0402-X-UF1-V63D')
+newPart.addTag('oompParts','C14,CAPC-0402-X-UF1-V63D')
+=======
+newPart.addTag('oompParts','C10,CAPC-0402-X-UF1-01')
+newPart.addTag('oompParts','C11,CAPC-0402-X-UF1-01')
+newPart.addTag('oompParts','C12,CAPC-0402-X-UF1-01')
+newPart.addTag('oompParts','C13,CAPC-0402-X-UF1-01')
+newPart.addTag('oompParts','C14,CAPC-0402-X-UF1-01')
+>>>>>>> Stashed changes
+>>>>>>> ce35dbf82e121fb70d6103d0bf9b14f52166888b
 newPart.addTag('oompParts','D1,LEDS-1206-G-STAN-01')
 newPart.addTag('oompParts','F1,UNMATCHED-1206-X-UNMATCHED-01')
 newPart.addTag('oompParts','H1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
