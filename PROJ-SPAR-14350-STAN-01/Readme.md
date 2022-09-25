@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |HEAD-I01-X-PI01-01<BR>J2|
 |[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
@@ -49,9 +49,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -65,7 +65,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/APDS-9301_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14350
 - oompID: PROJ-SPAR-14350-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
 - oompParts: J1,HEAD-I01-X-PI04-01
 - oompParts: J2,HEAD-I01-X-PI01-01
 - oompParts: R1,RESE-0603-X-O472-01

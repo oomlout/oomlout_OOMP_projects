@@ -38,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C2, C5, C6, C7|
+|CAPC-0603-X-UNMATCHED-01<BR>C1, C8|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C2, C5, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |CAPT-3216-X-UF10-01<BR>C13, C14|
 |DIOD-S323-X-UNMATCHED-01<BR>D5, D6, D7, D8, D9, D10|
 |[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -55,9 +55,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -71,12 +71,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photon_Weather_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13630
 - oompID: PROJ-SPAR-13630-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-V25
-- oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C5,CAPC-0603-X-UF1D-01
-- oompParts: C6,CAPC-0603-X-UF1D-01
-- oompParts: C7,CAPC-0603-X-UF1D-01
-- oompParts: C8,CAPC-0603-X-UF1-V25
+- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C8,CAPC-0603-X-UNMATCHED-01
 - oompParts: C13,CAPT-3216-X-UF10-01
 - oompParts: C14,CAPT-3216-X-UF10-01
 - oompParts: D5,DIOD-S323-X-UNMATCHED-01

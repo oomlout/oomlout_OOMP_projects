@@ -39,15 +39,14 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>B1, E1, J1, J2, J3, J8, J9, JP1, JP4, JP5, JP6, JP7, JP8, S1, S2, S3, S4, U1, U4, U5, U6|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C2, C4, C8, C13|
+|CAPC-0603-X-UNMATCHED-01<BR>C1, C3|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C2, C4, C8, C13, C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C5, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
 |[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
 |[CAPC-0603-X-PF15-V50<br> SMD (0603) 15 pF Capacitor (Ceramic) 50v<br> C10, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF15-V50/)|
 |CAPC-0603-X-PF68-01<BR>C11|
 |[CAPC-1206-X-UF100-V63D<br> SMD (1206) 100 uF Capacitor (Ceramic) 6.3v<br> C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF100-V63D/)|
 |CAPC-0603-X-PF47-01<BR>C14, C17, C18, C20|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
 |[LEDS-0603-Y-STAN-01<br> SMD (0603) Yellow LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
 |DIOD-S323-X-UNMATCHED-01<BR>D3|
@@ -72,9 +71,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -89,19 +88,19 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14997
 - oompID: PROJ-SPAR-14997-STAN-01
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-UF1-V25
-- oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0603-X-UF1-V25
-- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-UF47D-V10
 - oompParts: C6,CAPC-0603-X-UF47D-V10
 - oompParts: C7,CAPC-0603-X-UF47D-V10
-- oompParts: C8,CAPC-0603-X-UF1D-01
+- oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: C9,CAPC-0603-X-NF10-V50
 - oompParts: C10,CAPC-0603-X-PF15-V50
 - oompParts: C11,CAPC-0603-X-PF68-01
 - oompParts: C12,CAPC-1206-X-UF100-V63D
-- oompParts: C13,CAPC-0603-X-UF1D-01
+- oompParts: C13,CAPC-0603-X-NF100-V50
 - oompParts: C14,CAPC-0603-X-PF47-01
 - oompParts: C15,CAPC-0603-X-PF15-V50
 - oompParts: C17,CAPC-0603-X-PF47-01

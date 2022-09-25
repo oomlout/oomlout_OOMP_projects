@@ -39,8 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, FRAME2, J1, S2, U1, U2, U3, U4, U5, U6, U7, U8, U9|
-|CAPC-0603-X-UF1D-01<BR>C1, C2, C3, C7, C12|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C4, C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3, C4, C7, C10, C11, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |CAPC-0603-X-UNMATCHED-01<BR>C5, C6, C8, C9|
 |CAPX-UNMATCHED-X-UF10-01<BR>C13|
 |HEAD-I01-X-PI01-01<BR>JP1|
@@ -56,9 +55,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -73,18 +72,18 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13183
 - oompID: PROJ-SPAR-13183-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-UNMATCHED-01
 - oompParts: C6,CAPC-0603-X-UNMATCHED-01
-- oompParts: C7,CAPC-0603-X-UF1D-01
+- oompParts: C7,CAPC-0603-X-NF100-V50
 - oompParts: C8,CAPC-0603-X-UNMATCHED-01
 - oompParts: C9,CAPC-0603-X-UNMATCHED-01
 - oompParts: C10,CAPC-0603-X-NF100-V50
 - oompParts: C11,CAPC-0603-X-NF100-V50
-- oompParts: C12,CAPC-0603-X-UF1D-01
+- oompParts: C12,CAPC-0603-X-NF100-V50
 - oompParts: C13,CAPX-UNMATCHED-X-UF10-01
 - oompParts: FRAME2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

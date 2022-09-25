@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPT-3216-X-UF10-01<BR>C1|
-|CAPC-0402-X-UF1D-01<BR>C2|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> INPUT, OUTPUT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[RESE-0402-X-O472-01<br> SMD (0402) 4.7k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
 |RESE-UNMATCHED-X-UNMATCHED-01<BR>R2|
@@ -62,7 +62,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10103
 - oompID: PROJ-SPAR-10103-STAN-01
 - oompParts: C1,CAPT-3216-X-UF10-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: INPUT,HEAD-I01-X-PI06-01
 - oompParts: OUTPUT,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0402-X-O472-01

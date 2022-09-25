@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C2, C3, C4, C6, C10|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C2, C3, C4, C6, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C5, C13, C19|
 |[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D3, LED3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
@@ -72,13 +72,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ProtoSnap-Pro_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10889
 - oompID: PROJ-SPAR-10889-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPT-3216-X-UF10-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-UF1D-01
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
 - oompParts: C13,CAPT-3216-X-UF10-01
 - oompParts: C19,CAPT-3216-X-UF10-01
 - oompParts: D3,LEDS-0603-G-STAN-01

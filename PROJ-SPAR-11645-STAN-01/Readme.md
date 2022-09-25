@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C3, C4|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |CAPT-3216-X-UF10-01<BR>C13, C19|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, U2, U3|
@@ -57,9 +57,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -73,9 +73,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/OpenSegment (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11645
 - oompID: PROJ-SPAR-11645-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C10,CAPC-0402-X-UF1-V63D
 - oompParts: C13,CAPT-3216-X-UF10-01
 - oompParts: C19,CAPT-3216-X-UF10-01

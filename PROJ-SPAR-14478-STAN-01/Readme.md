@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1, C5, C8|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C5, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |[CAPC-0603-X-PF22-V50<br> SMD (0603) 22 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
 |CAPT-3216-X-UF10-01<BR>C7|
@@ -59,9 +59,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -75,14 +75,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MaKeyMaKey (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14478
 - oompID: PROJ-SPAR-14478-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
 - oompParts: C2,CAPC-0603-X-UF1-V25
 - oompParts: C3,CAPC-0603-X-PF22-V50
 - oompParts: C4,CAPC-0603-X-PF22-V50
-- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-UF1-V25
 - oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPC-0603-X-UF1D-01
+- oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: CLICK,HEAD-UNMATCHED-X-PI01-01
 - oompParts: DOWN,HEAD-UNMATCHED-X-PI01-01
 - oompParts: F1,REFU-1206-X-UNMATCHED-01

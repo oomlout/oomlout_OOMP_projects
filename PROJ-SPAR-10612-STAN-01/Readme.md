@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
 |[CAPC-0402-X-NF10-V50<br> SMD (0402) 10 nF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
 |CAPC-0402-X-NF470-01<BR>C4|
@@ -50,9 +50,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -66,7 +66,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10612
 - oompID: PROJ-SPAR-10612-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPC-1206-X-UF10-V25
 - oompParts: C3,CAPC-0402-X-NF10-V50
 - oompParts: C4,CAPC-0402-X-NF470-01

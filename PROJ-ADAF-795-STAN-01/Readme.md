@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPX-UNMATCHED-X-UF1D-01<BR>C1, C2, C5, C6|
+|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2, C5, C6|
 |CAPX-UNMATCHED-X-UNMATCHED-V25<BR>C3|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>C4, C7|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
@@ -66,12 +66,12 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-Menta-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/795
 - oompID: PROJ-ADAF-795-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C3,CAPX-UNMATCHED-X-UNMATCHED-V25
 - oompParts: C4,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C5,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C6,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C5,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C6,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C7,CAPX-UNMATCHED-X-UNMATCHED-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,LEDS-UNMATCHED-G-STAN-01

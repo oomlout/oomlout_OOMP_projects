@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C4, C6, C8, C18, C19, C20, C21, C23, C24, C25|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C4, C6, C8, C18, C19, C20, C21, C23, C24, C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPX-3528-X-UF47-01<BR>C2|
 |[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C3, C13, C26, C27, C28, C29](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |CAPT-3216-X-UF10-01<BR>C5, C7, C22|
@@ -72,9 +72,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -88,14 +88,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_MP3_Player (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11013
 - oompID: PROJ-SPAR-11013-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPX-3528-X-UF47-01
 - oompParts: C3,CAPC-0402-X-UF1-V63D
-- oompParts: C4,CAPC-0402-X-UF1D-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPT-3216-X-UF10-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
+- oompParts: C6,CAPC-0402-X-NF100-V10
 - oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
+- oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: C9,CAPC-0402-X-UF47D-V63D
 - oompParts: C10,CAPC-0402-X-UF47D-V63D
 - oompParts: C11,CAPC-0402-X-PF22-V50
@@ -105,14 +105,14 @@ Contents
 - oompParts: C15,CAPC-0402-X-NF10-V50
 - oompParts: C16,CAPC-0402-X-NF47-V25
 - oompParts: C17,CAPC-0402-X-PF470-01
-- oompParts: C18,CAPC-0402-X-UF1D-01
-- oompParts: C19,CAPC-0402-X-UF1D-01
-- oompParts: C20,CAPC-0402-X-UF1D-01
-- oompParts: C21,CAPC-0402-X-UF1D-01
+- oompParts: C18,CAPC-0402-X-NF100-V10
+- oompParts: C19,CAPC-0402-X-NF100-V10
+- oompParts: C20,CAPC-0402-X-NF100-V10
+- oompParts: C21,CAPC-0402-X-NF100-V10
 - oompParts: C22,CAPT-3216-X-UF10-01
-- oompParts: C23,CAPC-0402-X-UF1D-01
-- oompParts: C24,CAPC-0402-X-UF1D-01
-- oompParts: C25,CAPC-0402-X-UF1D-01
+- oompParts: C23,CAPC-0402-X-NF100-V10
+- oompParts: C24,CAPC-0402-X-NF100-V10
+- oompParts: C25,CAPC-0402-X-NF100-V10
 - oompParts: C26,CAPC-0402-X-UF1-V63D
 - oompParts: C27,CAPC-0402-X-UF1-V63D
 - oompParts: C28,CAPC-0402-X-UF1-V63D

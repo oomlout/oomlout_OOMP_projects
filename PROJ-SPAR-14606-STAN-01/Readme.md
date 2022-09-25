@@ -38,10 +38,9 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C5, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C3, C10, C11|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPC-0603-X-UNMATCHED-01<BR>C1, C5, C8|
+|CAPC-0805-X-UNMATCHED-01<BR>C2|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3, C4, C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |CAPC-0805-X-UNMATCHED-V25<BR>C6, C7|
 |[CAPC-0603-X-UF22D-V10<br> SMD (0603) 2.2 uF Capacitor (Ceramic) 10v<br> C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
 |DIOD-S323-X-UNMATCHED-01<BR>D1|
@@ -56,9 +55,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -72,17 +71,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Flexible_Grayscale_OLED (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14606
 - oompID: PROJ-SPAR-14606-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-V25
-- oompParts: C2,CAPC-0805-X-UF1-V25
-- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPC-0603-X-UF1-V25
+- oompParts: C5,CAPC-0603-X-UNMATCHED-01
 - oompParts: C6,CAPC-0805-X-UNMATCHED-V25
 - oompParts: C7,CAPC-0805-X-UNMATCHED-V25
-- oompParts: C8,CAPC-0603-X-UF1-V25
+- oompParts: C8,CAPC-0603-X-UNMATCHED-01
 - oompParts: C9,CAPC-0603-X-UF22D-V10
-- oompParts: C10,CAPC-0603-X-UF1D-01
-- oompParts: C11,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C11,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: DS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,HEAD-I01-X-PI06-01

@@ -35,7 +35,7 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>A0, A1, A2, CONTRAST, IC1, IC2, J1, SPI|
 |CAPX-UNMATCHED-X-UF10-01<BR>C1|
-|CAPC-0805-X-UF1D-01<BR>C2|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[HEAD-I01-X-PI16-01<br> 2.54 mm 16 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
 |UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
 |[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2, R3, R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
@@ -65,7 +65,7 @@ Contents
 - oompParts: A1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: A2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
 - oompParts: CONTRAST,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

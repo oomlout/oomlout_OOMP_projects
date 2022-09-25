@@ -35,10 +35,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0603-X-UF10-V63D<br> SMD (0603) 10 uF Capacitor (Ceramic) 6.3v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
-|CAPC-0603-X-UF1D-01<BR>C2, C5, C9, C11, C14, C16, C17, C18|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C2, C5, C9, C11, C14, C16, C17, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-PF10-V50<br> SMD (0603) 10 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF10-V50/)|
 |[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C6, C15, C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|CAPC-0805-X-UNMATCHED-01<BR>C7|
 |CAPC-0603-X-PF56D-01<BR>C8|
 |[CAPC-0603-X-UF22D-V10<br> SMD (0603) 2.2 uF Capacitor (Ceramic) 10v<br> C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
 |CAPC-0603-X-PF47-01<BR>C12, C13|
@@ -69,9 +69,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleSchemImage|
-| :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -86,23 +86,23 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13794
 - oompID: PROJ-SPAR-13794-STAN-01
 - oompParts: C1,CAPC-0603-X-UF10-V63D
-- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0603-X-PF10-V50
 - oompParts: C4,CAPC-0603-X-PF10-V50
-- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-UF47D-V10
-- oompParts: C7,CAPC-0805-X-UF1-V25
+- oompParts: C7,CAPC-0805-X-UNMATCHED-01
 - oompParts: C8,CAPC-0603-X-PF56D-01
-- oompParts: C9,CAPC-0603-X-UF1D-01
+- oompParts: C9,CAPC-0603-X-NF100-V50
 - oompParts: C10,CAPC-0603-X-UF22D-V10
-- oompParts: C11,CAPC-0603-X-UF1D-01
+- oompParts: C11,CAPC-0603-X-NF100-V50
 - oompParts: C12,CAPC-0603-X-PF47-01
 - oompParts: C13,CAPC-0603-X-PF47-01
-- oompParts: C14,CAPC-0603-X-UF1D-01
+- oompParts: C14,CAPC-0603-X-NF100-V50
 - oompParts: C15,CAPC-0603-X-UF47D-V10
-- oompParts: C16,CAPC-0603-X-UF1D-01
-- oompParts: C17,CAPC-0603-X-UF1D-01
-- oompParts: C18,CAPC-0603-X-UF1D-01
+- oompParts: C16,CAPC-0603-X-NF100-V50
+- oompParts: C17,CAPC-0603-X-NF100-V50
+- oompParts: C18,CAPC-0603-X-NF100-V50
 - oompParts: C19,CAPC-0603-X-UF47D-V10
 - oompParts: D1,LEDS-0603-Y-STAN-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01

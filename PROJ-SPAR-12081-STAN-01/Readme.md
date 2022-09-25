@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C2, C3, C4, C5, C8, C9, C10, C11, C12|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C2, C3, C4, C5, C8, C9, C10, C11, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPC-0402-X-PF470-01<BR>C6|
 |CAPT-3216-X-UF10-01<BR>C7|
 |[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
@@ -73,18 +73,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_Weather_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12081
 - oompID: PROJ-SPAR-12081-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: C5,CAPC-0402-X-NF100-V10
 - oompParts: C6,CAPC-0402-X-PF470-01
 - oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
-- oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-UF1D-01
-- oompParts: C11,CAPC-0402-X-UF1D-01
-- oompParts: C12,CAPC-0402-X-UF1D-01
+- oompParts: C8,CAPC-0402-X-NF100-V10
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
+- oompParts: C11,CAPC-0402-X-NF100-V10
+- oompParts: C12,CAPC-0402-X-NF100-V10
 - oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: D3,DIOD-S323-X-UNMATCHED-01

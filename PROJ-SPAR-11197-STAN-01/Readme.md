@@ -44,8 +44,7 @@ Contents
 |CAPC-0402-X-NF750-01<BR>C9|
 |CAPT-3216-X-UF10-01<BR>C10, C14|
 |[CAPC-0402-X-PF22-V50<br> SMD (0402) 22 pF Capacitor (Ceramic) 50v<br> C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
-|CAPC-0402-X-UF1D-01<BR>C13, C15|
-|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C13, C15, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
 |[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP1, JP5, JP7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -64,9 +63,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -94,9 +93,9 @@ Contents
 - oompParts: C10,CAPT-3216-X-UF10-01
 - oompParts: C11,CAPC-0402-X-PF22-V50
 - oompParts: C12,CAPC-0402-X-UF1-V63D
-- oompParts: C13,CAPC-0402-X-UF1D-01
+- oompParts: C13,CAPC-0402-X-NF100-V10
 - oompParts: C14,CAPT-3216-X-UF10-01
-- oompParts: C15,CAPC-0402-X-UF1D-01
+- oompParts: C15,CAPC-0402-X-NF100-V10
 - oompParts: C16,CAPC-0402-X-NF100-V10
 - oompParts: C17,CAPC-0402-X-NF100-V10
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C8|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF22-V50<br> SMD (0402) 22 pF Capacitor (Ceramic) 50v<br> C2, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
 |[CAPC-0402-X-PF27-V50<br> SMD (0402) 27 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF27-V50/)|
 |[CAPC-0402-X-PF18-V50<br> SMD (0402) 18 pF Capacitor (Ceramic) 50v<br> C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
@@ -68,14 +68,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFID_Evaluation_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10406
 - oompID: PROJ-SPAR-10406-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPC-0402-X-PF22-V50
 - oompParts: C3,CAPC-0402-X-PF27-V50
 - oompParts: C4,CAPC-0402-X-PF27-V50
 - oompParts: C5,CAPC-0402-X-PF18-V50
 - oompParts: C6,CAPC-0402-X-PF18-V50
 - oompParts: C7,CAPC-0402-X-PF22-V50
-- oompParts: C8,CAPC-0402-X-UF1D-01
+- oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP6,HEAD-I01-X-PI05-01
 - oompParts: LED1,LEDS-0603-Y-STAN-01

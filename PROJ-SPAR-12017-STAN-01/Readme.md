@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1, C2|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1|
 |[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |RESE-0603-X-O753-01<BR>R1|
@@ -48,9 +48,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -64,8 +64,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12017
 - oompID: PROJ-SPAR-12017-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP9,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0603-X-O753-01

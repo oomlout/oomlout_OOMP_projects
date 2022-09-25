@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1, C2, C3, C8, C9|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3, C8, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |CAPT-3216-X-UF10-01<BR>C4, C5, C6, C7|
 |[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
 |[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP4, JP5, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -70,15 +70,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10653
 - oompID: PROJ-SPAR-10653-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPT-3216-X-UF10-01
 - oompParts: C5,CAPT-3216-X-UF10-01
 - oompParts: C6,CAPT-3216-X-UF10-01
 - oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPC-0603-X-UF1D-01
-- oompParts: C9,CAPC-0603-X-UF1D-01
+- oompParts: C8,CAPC-0603-X-NF100-V50
+- oompParts: C9,CAPC-0603-X-NF100-V50
 - oompParts: C10,CAPC-0603-X-UF47D-V10
 - oompParts: JP4,HEAD-I01-X-PI02-01
 - oompParts: JP5,HEAD-I01-X-PI02-01

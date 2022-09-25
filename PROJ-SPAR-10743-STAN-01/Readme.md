@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C2, C3, C4, C5, C6, C9, C10|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C2, C3, C4, C5, C6, C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C7, C8|
 |REFU-1206-X-UNMATCHED-01<BR>F1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, S1, U1, Y1|
@@ -55,9 +55,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -71,15 +71,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mega_Pro_Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10743
 - oompID: PROJ-SPAR-10743-STAN-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
-- oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPC-0402-X-UF1D-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0402-X-NF100-V10
 - oompParts: C7,CAPT-3216-X-UF10-01
 - oompParts: C8,CAPT-3216-X-UF10-01
-- oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-UF1D-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
 - oompParts: F1,REFU-1206-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-UNMATCHED-01

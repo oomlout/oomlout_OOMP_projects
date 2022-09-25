@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1, C2, C3, C4, C5|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |CAPX-UNMATCHED-X-UF10-01<BR>C6, C7|
 |[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> J1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -70,11 +70,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/HX711-Load-Cell-Amplifier (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13230
 - oompID: PROJ-SPAR-13230-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF1D-01
-- oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-UF1D-01
-- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C7,CAPX-UNMATCHED-X-UF10-01
 - oompParts: J1,HEAD-I01-X-PI05-01

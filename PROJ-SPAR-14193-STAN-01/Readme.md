@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UNMATCHED-01<BR>C2|
 |[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 |[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP2, U2|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -67,7 +67,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/CCS811_Air_Quality_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14193
 - oompID: PROJ-SPAR-14193-STAN-01
-- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-UNMATCHED-01
 - oompParts: J2,HEAD-I01-X-PI03-01
 - oompParts: J8,HEAD-I01-X-PI04-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

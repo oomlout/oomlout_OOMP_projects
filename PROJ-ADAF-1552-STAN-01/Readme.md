@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C2, C3, C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
 |FERB-0805-X-UNMATCHED-01<BR>FB1, FB2|
 |[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1, J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -68,9 +68,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1552
 - oompID: PROJ-ADAF-1552-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: C5,CAPC-0805-X-UF1-V25
 - oompParts: C6,CAPC-0805-X-UF1-V25
 - oompParts: C7,CAPC-0805-X-UF1-V25

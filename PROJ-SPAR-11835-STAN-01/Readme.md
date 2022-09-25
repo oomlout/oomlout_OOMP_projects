@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, BAT2, J1, JP1, S1, S2, SP1, U3|
-|CAPX-UNMATCHED-X-UF1D-01<BR>C1, C2, C3, C10|
+|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2, C3, C10|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |LEDS-UNMATCHED-R-STAN-01<BR>LED1, LED2|
 |RESE-UNMATCHED-X-O205-01<BR>R1, R3, R4, R5, R6, R7, R8, R9, R17, R18, R19, R20, R21|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -69,10 +69,10 @@ Contents
 - oompID: PROJ-SPAR-11835-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BAT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C10,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C3,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C10,CAPX-UNMATCHED-X-NF100-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP9,HEAD-I01-X-PI06-01

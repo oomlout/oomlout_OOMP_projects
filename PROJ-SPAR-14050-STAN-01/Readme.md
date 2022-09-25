@@ -38,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C3|
+|CAPC-0603-X-UNMATCHED-01<BR>C1, C2|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-PF10-V50<br> SMD (0603) 10 pF Capacitor (Ceramic) 50v<br> C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF10-V50/)|
 |[CAPC-0603-X-NF10-V50<br> SMD (0603) 10 nF Capacitor (Ceramic) 50v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
 |[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -70,9 +70,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Basic_Breakout-CH340G (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14050
 - oompID: PROJ-SPAR-14050-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1-V25
-- oompParts: C2,CAPC-0603-X-UF1-V25
-- oompParts: C3,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPC-0603-X-PF10-V50
 - oompParts: C5,CAPC-0603-X-PF10-V50
 - oompParts: C6,CAPC-0603-X-NF10-V50

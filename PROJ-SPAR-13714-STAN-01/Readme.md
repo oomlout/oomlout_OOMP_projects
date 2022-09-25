@@ -38,12 +38,12 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C4, C5, C7, C16, C17, C19, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
-|CAPC-0402-X-UF1D-01<BR>C3, C6, C9, C11, C13, C15, C21, C22, C23, C25, C27, C29, C30, C31, C32, C33, C34, C35, C36|
+|CAPC-0402-X-UNMATCHED-01<BR>C1, C2, C4, C5, C7, C16, C17, C19, C20|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C3, C6, C9, C11, C13, C15, C21, C22, C23, C25, C27, C29, C30, C31, C32, C33, C34, C35, C36](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPX-UNMATCHED-X-NF100-01<BR>C12, C14, C18, C24|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C26, C28](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C37](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C38|
+|CAPC-0603-X-UNMATCHED-01<BR>C37|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C38](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2, D3, D4|
 |[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D5, D6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP2, JP8, JP9, JP11, JP12, JP15, S1, S2, S3, S4, S5, S6, U$1, U1, U4, U7, Y1, Y2|
@@ -65,9 +65,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -81,42 +81,42 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FreeSoc2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13714
 - oompID: PROJ-SPAR-13714-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-V63D
-- oompParts: C2,CAPC-0402-X-UF1-V63D
-- oompParts: C3,CAPC-0402-X-UF1D-01
-- oompParts: C4,CAPC-0402-X-UF1-V63D
-- oompParts: C5,CAPC-0402-X-UF1-V63D
-- oompParts: C6,CAPC-0402-X-UF1D-01
-- oompParts: C7,CAPC-0402-X-UF1-V63D
-- oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C11,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-UNMATCHED-01
+- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C5,CAPC-0402-X-UNMATCHED-01
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-UNMATCHED-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C11,CAPC-0402-X-NF100-V10
 - oompParts: C12,CAPX-UNMATCHED-X-NF100-01
-- oompParts: C13,CAPC-0402-X-UF1D-01
+- oompParts: C13,CAPC-0402-X-NF100-V10
 - oompParts: C14,CAPX-UNMATCHED-X-NF100-01
-- oompParts: C15,CAPC-0402-X-UF1D-01
-- oompParts: C16,CAPC-0402-X-UF1-V63D
-- oompParts: C17,CAPC-0402-X-UF1-V63D
+- oompParts: C15,CAPC-0402-X-NF100-V10
+- oompParts: C16,CAPC-0402-X-UNMATCHED-01
+- oompParts: C17,CAPC-0402-X-UNMATCHED-01
 - oompParts: C18,CAPX-UNMATCHED-X-NF100-01
-- oompParts: C19,CAPC-0402-X-UF1-V63D
-- oompParts: C20,CAPC-0402-X-UF1-V63D
-- oompParts: C21,CAPC-0402-X-UF1D-01
-- oompParts: C22,CAPC-0402-X-UF1D-01
-- oompParts: C23,CAPC-0402-X-UF1D-01
+- oompParts: C19,CAPC-0402-X-UNMATCHED-01
+- oompParts: C20,CAPC-0402-X-UNMATCHED-01
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C22,CAPC-0402-X-NF100-V10
+- oompParts: C23,CAPC-0402-X-NF100-V10
 - oompParts: C24,CAPX-UNMATCHED-X-NF100-01
-- oompParts: C25,CAPC-0402-X-UF1D-01
+- oompParts: C25,CAPC-0402-X-NF100-V10
 - oompParts: C26,CAPC-0805-X-UF10-V10
-- oompParts: C27,CAPC-0402-X-UF1D-01
+- oompParts: C27,CAPC-0402-X-NF100-V10
 - oompParts: C28,CAPC-0805-X-UF10-V10
-- oompParts: C29,CAPC-0402-X-UF1D-01
-- oompParts: C30,CAPC-0402-X-UF1D-01
-- oompParts: C31,CAPC-0402-X-UF1D-01
-- oompParts: C32,CAPC-0402-X-UF1D-01
-- oompParts: C33,CAPC-0402-X-UF1D-01
-- oompParts: C34,CAPC-0402-X-UF1D-01
-- oompParts: C35,CAPC-0402-X-UF1D-01
-- oompParts: C36,CAPC-0402-X-UF1D-01
-- oompParts: C37,CAPC-0603-X-UF1-V25
-- oompParts: C38,CAPC-0603-X-UF1D-01
+- oompParts: C29,CAPC-0402-X-NF100-V10
+- oompParts: C30,CAPC-0402-X-NF100-V10
+- oompParts: C31,CAPC-0402-X-NF100-V10
+- oompParts: C32,CAPC-0402-X-NF100-V10
+- oompParts: C33,CAPC-0402-X-NF100-V10
+- oompParts: C34,CAPC-0402-X-NF100-V10
+- oompParts: C35,CAPC-0402-X-NF100-V10
+- oompParts: C36,CAPC-0402-X-NF100-V10
+- oompParts: C37,CAPC-0603-X-UNMATCHED-01
+- oompParts: C38,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01

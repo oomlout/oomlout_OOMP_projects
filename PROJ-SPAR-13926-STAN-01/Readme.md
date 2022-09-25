@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C2|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-UF47D-V63D<br> SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
@@ -59,8 +59,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MMA8452_Accelerometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13926
 - oompID: PROJ-SPAR-13926-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0402-X-UF47D-V63D
 - oompParts: JP5,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0402-X-O103-01

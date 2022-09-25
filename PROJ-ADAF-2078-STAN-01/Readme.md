@@ -42,7 +42,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BATT_IN, L1, S1, T1, U2, U4, X1|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C4, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
-|CAPC-0805-X-UF1D-01<BR>C8|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |CAPX-3528-X-UNMATCHED-01<BR>C9|
 |[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
 |UNMATCHED-1206-X-UNMATCHED-01<BR>F1|
@@ -63,9 +63,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -84,7 +84,7 @@ Contents
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF22D-V25
-- oompParts: C8,CAPC-0805-X-UF1D-01
+- oompParts: C8,CAPC-0805-X-NF100-V50
 - oompParts: C9,CAPX-3528-X-UNMATCHED-01
 - oompParts: D1,DIOD-S123-X-KMBR120-01
 - oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01

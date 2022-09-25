@@ -40,7 +40,7 @@ Contents
 | :---: |
 |[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |[CAPC-0402-X-PF22D-V50<br> SMD (0402) 2.2 pF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
-|CAPC-0402-X-UF1D-01<BR>C4, C7, C8, C9, C13, C21, C23, C24, C26, C27, INPUT1, INPUT2, MPU, OUTPUT1|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C4, C7, C8, C9, C13, C21, C23, C24, C26, C27, INPUT1, INPUT2, MPU, OUTPUT1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C5, C6, C28, OUTPUT2|
 |[CAPC-0402-X-NF22-V50<br> SMD (0402) 22 nF Capacitor (Ceramic) 50v<br> C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>C12|
@@ -68,9 +68,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -87,21 +87,21 @@ Contents
 - oompParts: C1,CAPC-0402-X-UF1-V63D
 - oompParts: C2,CAPC-0402-X-PF22D-V50
 - oompParts: C3,CAPC-0402-X-UF1-V63D
-- oompParts: C4,CAPC-0402-X-UF1D-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPT-3216-X-UF10-01
 - oompParts: C6,CAPT-3216-X-UF10-01
-- oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
-- oompParts: C9,CAPC-0402-X-UF1D-01
+- oompParts: C7,CAPC-0402-X-NF100-V10
+- oompParts: C8,CAPC-0402-X-NF100-V10
+- oompParts: C9,CAPC-0402-X-NF100-V10
 - oompParts: C10,CAPC-0402-X-NF22-V50
 - oompParts: C11,CAPC-0402-X-NF22-V50
 - oompParts: C12,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C13,CAPC-0402-X-UF1D-01
-- oompParts: C21,CAPC-0402-X-UF1D-01
-- oompParts: C23,CAPC-0402-X-UF1D-01
-- oompParts: C24,CAPC-0402-X-UF1D-01
-- oompParts: C26,CAPC-0402-X-UF1D-01
-- oompParts: C27,CAPC-0402-X-UF1D-01
+- oompParts: C13,CAPC-0402-X-NF100-V10
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C23,CAPC-0402-X-NF100-V10
+- oompParts: C24,CAPC-0402-X-NF100-V10
+- oompParts: C26,CAPC-0402-X-NF100-V10
+- oompParts: C27,CAPC-0402-X-NF100-V10
 - oompParts: C28,CAPT-3216-X-UF10-01
 - oompParts: I1,HEAD-I01-X-PI03-01
 - oompParts: I2,HEAD-I01-X-PI03-01
@@ -111,8 +111,8 @@ Contents
 - oompParts: I6,HEAD-I01-X-PI03-01
 - oompParts: I7,HEAD-I01-X-PI03-01
 - oompParts: I8,HEAD-I01-X-PI03-01
-- oompParts: INPUT1,CAPC-0402-X-UF1D-01
-- oompParts: INPUT2,CAPC-0402-X-UF1D-01
+- oompParts: INPUT1,CAPC-0402-X-NF100-V10
+- oompParts: INPUT2,CAPC-0402-X-NF100-V10
 - oompParts: JP1,HEAD-I01-X-PI02-01
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: JP4,HEAD-I01-X-PI02-01
@@ -129,7 +129,7 @@ Contents
 - oompParts: JP15,HEAD-I01-X-PI03-01
 - oompParts: JP16,HEAD-I01-X-PI04-01
 - oompParts: JP17,HEAD-I01-X-PI02-01
-- oompParts: MPU,CAPC-0402-X-UF1D-01
+- oompParts: MPU,CAPC-0402-X-NF100-V10
 - oompParts: O1,HEAD-I01-X-PI03-01
 - oompParts: O2,HEAD-I01-X-PI03-01
 - oompParts: O3,HEAD-I01-X-PI03-01
@@ -138,7 +138,7 @@ Contents
 - oompParts: O6,HEAD-I01-X-PI03-01
 - oompParts: O7,HEAD-I01-X-PI03-01
 - oompParts: O8,HEAD-I01-X-PI03-01
-- oompParts: OUTPUT1,CAPC-0402-X-UF1D-01
+- oompParts: OUTPUT1,CAPC-0402-X-NF100-V10
 - oompParts: OUTPUT2,CAPT-3216-X-UF10-01
 - oompParts: R1,RESE-0402-X-O203-01
 - oompParts: R2,RESE-0402-X-O331-01

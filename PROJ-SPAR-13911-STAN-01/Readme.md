@@ -38,8 +38,8 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C3, C4, C8, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
-|CAPC-0402-X-UF1D-01<BR>C5, C6, C7, C11|
+|CAPC-0402-X-UNMATCHED-01<BR>C1, C2, C3, C4, C8, C9|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C5, C6, C7, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C10, C12|
 |[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J8, U$3, U1, U2|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -67,17 +67,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Controlled_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13911
 - oompID: PROJ-SPAR-13911-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-V63D
-- oompParts: C2,CAPC-0402-X-UF1-V63D
-- oompParts: C3,CAPC-0402-X-UF1-V63D
-- oompParts: C4,CAPC-0402-X-UF1-V63D
-- oompParts: C5,CAPC-0402-X-UF1D-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
-- oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1-V63D
-- oompParts: C9,CAPC-0402-X-UF1-V63D
+- oompParts: C1,CAPC-0402-X-UNMATCHED-01
+- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-NF100-V10
+- oompParts: C8,CAPC-0402-X-UNMATCHED-01
+- oompParts: C9,CAPC-0402-X-UNMATCHED-01
 - oompParts: C10,CAPT-3216-X-UF10-01
-- oompParts: C11,CAPC-0402-X-UF1D-01
+- oompParts: C11,CAPC-0402-X-NF100-V10
 - oompParts: C12,CAPT-3216-X-UF10-01
 - oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01

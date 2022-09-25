@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPC-0805-X-UNMATCHED-01<BR>C1, C2, C5, C6, C7, C8|
-|CAPC-0805-X-UF1D-01<BR>C3|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |CAPC-0805-X-PF10-01<BR>C4|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, L1, U1|
 |[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
@@ -55,9 +55,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -73,7 +73,7 @@ Contents
 - oompID: PROJ-ADAF-2190-STAN-01
 - oompParts: C1,CAPC-0805-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-NF100-V50
 - oompParts: C4,CAPC-0805-X-PF10-01
 - oompParts: C5,CAPC-0805-X-UNMATCHED-01
 - oompParts: C6,CAPC-0805-X-UNMATCHED-01

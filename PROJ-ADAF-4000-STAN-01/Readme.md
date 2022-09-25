@@ -40,11 +40,10 @@ Contents
 | :---: |
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> AD](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C3, C18, C19, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C2|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C4, C6, C8, C10, C11, C14, C15, C16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C4, C6, C8, C10, C11, C12, C13, C14, C15, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-PF22-V50<br> SMD (0603) 22 pF Capacitor (Ceramic) 50v<br> C5, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
 |[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|CAPC-0603-X-UF1D-01<BR>C12, C13, C17|
 |[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>ECC1, L1, SW1, T2, TR1, U$1, U1, U3, X2, X3, X4, X5, X6|
 |UNMATCHED-1206-X-UNMATCHED-01<BR>F2|
@@ -73,9 +72,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -91,7 +90,7 @@ Contents
 - oompID: PROJ-ADAF-4000-STAN-01
 - oompParts: AD,HEAD-I01-X-PI06-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
 - oompParts: C3,CAPC-0805-X-UF10-V10
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-PF22-V50
@@ -101,12 +100,12 @@ Contents
 - oompParts: C9,CAPC-0603-X-UF1-V25
 - oompParts: C10,CAPC-0603-X-NF100-V50
 - oompParts: C11,CAPC-0603-X-NF100-V50
-- oompParts: C12,CAPC-0603-X-UF1D-01
-- oompParts: C13,CAPC-0603-X-UF1D-01
+- oompParts: C12,CAPC-0603-X-NF100-V50
+- oompParts: C13,CAPC-0603-X-NF100-V50
 - oompParts: C14,CAPC-0603-X-NF100-V50
 - oompParts: C15,CAPC-0603-X-NF100-V50
 - oompParts: C16,CAPC-0603-X-NF100-V50
-- oompParts: C17,CAPC-0603-X-UF1D-01
+- oompParts: C17,CAPC-0603-X-NF100-V50
 - oompParts: C18,CAPC-0805-X-UF10-V10
 - oompParts: C19,CAPC-0805-X-UF10-V10
 - oompParts: C20,CAPC-0805-X-UF10-V10

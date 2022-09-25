@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPT-3216-X-UF10-01<BR>C1|
-|CAPC-0402-X-UF1D-01<BR>C2|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
 
@@ -47,9 +47,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -64,7 +64,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10345
 - oompID: PROJ-SPAR-10345-STAN-01
 - oompParts: C1,CAPT-3216-X-UF10-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: JP1,HEAD-I01-X-PI08-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

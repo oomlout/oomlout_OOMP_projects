@@ -39,9 +39,9 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, PP-GND, PP-MISO, PP-MOSI, PP-RST, PP-SCK, PP-VCC, S2, S3, TP-DTR, TP-FTDI_VCC, TP-RX, TP-TX, U1, Y1|
-|CAPC-0402-X-UF1D-01<BR>C1, C4|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPX-3528-X-UF47-01<BR>C2|
-|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPC-0402-X-UNMATCHED-01<BR>C3|
 |[CAPC-0402-X-UF47D-V63D<br> SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v<br> C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
 |[LEDS-0603-G-STAN-01<br> SMD (0603) Green LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
 |[LEDS-0603-Y-STAN-01<br> SMD (0603) Yellow LED<br> D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -71,10 +71,10 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10941
 - oompID: PROJ-SPAR-10941-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPX-3528-X-UF47-01
-- oompParts: C3,CAPC-0402-X-UF1-V63D
-- oompParts: C4,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C9,CAPC-0402-X-UF47D-V63D
 - oompParts: C10,CAPC-0402-X-UF47D-V63D
 - oompParts: D2,LEDS-0603-G-STAN-01

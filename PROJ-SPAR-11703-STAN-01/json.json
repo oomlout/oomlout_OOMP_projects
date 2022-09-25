@@ -54,7 +54,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C4,CAPC-0402-X-UF1D-01"
+            "value": "C4,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -66,15 +66,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C7,CAPC-0402-X-UF1D-01"
+            "value": "C7,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C8,CAPC-0402-X-UF1D-01"
+            "value": "C8,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0402-X-UF1D-01"
+            "value": "C9,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -90,27 +90,27 @@
         },
         {
             "name": "oompParts",
-            "value": "C13,CAPC-0402-X-UF1D-01"
+            "value": "C13,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C21,CAPC-0402-X-UF1D-01"
+            "value": "C21,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C23,CAPC-0402-X-UF1D-01"
+            "value": "C23,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C24,CAPC-0402-X-UF1D-01"
+            "value": "C24,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C26,CAPC-0402-X-UF1D-01"
+            "value": "C26,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C27,CAPC-0402-X-UF1D-01"
+            "value": "C27,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -150,11 +150,11 @@
         },
         {
             "name": "oompParts",
-            "value": "INPUT1,CAPC-0402-X-UF1D-01"
+            "value": "INPUT1,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "INPUT2,CAPC-0402-X-UF1D-01"
+            "value": "INPUT2,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -222,7 +222,7 @@
         },
         {
             "name": "oompParts",
-            "value": "MPU,CAPC-0402-X-UF1D-01"
+            "value": "MPU,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -258,7 +258,7 @@
         },
         {
             "name": "oompParts",
-            "value": "OUTPUT1,CAPC-0402-X-UF1D-01"
+            "value": "OUTPUT1,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",

@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BTNA, BTNB, DISPLAY2, IC1, IC2, IC3, IC4, MB1, MDBT1, SP1, U1, U3, U4, X1, X3|
-|CAPC-0603-X-UF1D-01<BR>C3, C4, C10, C11, C12, C14|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3, C4, C10, C11, C12, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C5, C6, C7, C8, C9, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |HEAD-I01-X-UNMATCHED-01<BR>CONN1|
 |[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1, D5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
@@ -61,9 +61,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -79,18 +79,18 @@ Contents
 - oompID: PROJ-ADAF-4500-STAN-01
 - oompParts: BTNA,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BTNB,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: C7,CAPC-0805-X-UF10-V10
 - oompParts: C8,CAPC-0805-X-UF10-V10
 - oompParts: C9,CAPC-0805-X-UF10-V10
-- oompParts: C10,CAPC-0603-X-UF1D-01
-- oompParts: C11,CAPC-0603-X-UF1D-01
-- oompParts: C12,CAPC-0603-X-UF1D-01
+- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C11,CAPC-0603-X-NF100-V50
+- oompParts: C12,CAPC-0603-X-NF100-V50
 - oompParts: C13,CAPC-0805-X-UF10-V10
-- oompParts: C14,CAPC-0603-X-UF1D-01
+- oompParts: C14,CAPC-0603-X-NF100-V50
 - oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
 - oompParts: D1,DIOD-S123-X-KMBR120-01
 - oompParts: D2,LEDS-0603-R-STAN-01

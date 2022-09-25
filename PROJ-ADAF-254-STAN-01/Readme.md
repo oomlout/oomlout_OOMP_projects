@@ -40,7 +40,7 @@ Contents
 | :---: |
 |[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> ACT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>C1|
-|CAPC-0805-X-UF1D-01<BR>C2|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, X1|
 |VREG-SO235-X-KLP298XS-V33D<BR>IC2|
 |[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
@@ -50,9 +50,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -68,7 +68,7 @@ Contents
 - oompID: PROJ-ADAF-254-STAN-01
 - oompParts: ACT,LEDS-0805-R-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,VREG-SO235-X-KLP298XS-V33D
 - oompParts: JP1,HEAD-I01-X-PI08-01

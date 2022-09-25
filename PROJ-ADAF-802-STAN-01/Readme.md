@@ -37,7 +37,7 @@ Contents
 |HEAD-I01-X-PI01-01<BR>BACKLITE, NAV|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BTN1, IC1, U$1, U$2, U$3|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C3, C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> DIGITALS, DIGITALS2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
 |VREG-SO235-X-KLP298XS-V33D<BR>IC2|
 |UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
@@ -71,8 +71,8 @@ Contents
 - oompParts: BTN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: DIGITALS,HEAD-I01-X-PI08-01
 - oompParts: DIGITALS2,HEAD-I01-X-PI08-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

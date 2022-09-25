@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2, C4, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C3|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
@@ -62,7 +62,7 @@ Contents
 - oompID: PROJ-ADAF-466-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-NF100-V50
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0805-X-UF10-V10
 - oompParts: JP1,HEAD-I01-X-PI05-01

@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C3, C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, Q2, U$1|
 |VREG-SO235-X-KLP298XS-V33D<BR>IC2|
 |UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
@@ -64,8 +64,8 @@ Contents
 - oompID: PROJ-ADAF-358-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF10-V10
-- oompParts: C3,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,VREG-SO235-X-KLP298XS-V33D
 - oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01

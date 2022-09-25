@@ -39,8 +39,8 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C4, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0805-X-UNMATCHED-01<BR>C2, C3|
+|CAPC-0603-X-UNMATCHED-01<BR>C4, C6, C7|
 |CAPC-1206-X-UF47D-01<BR>C5|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, J2, JP2, JP3, OLED1|
 |[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -52,9 +52,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -69,12 +69,12 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14532
 - oompID: PROJ-SPAR-14532-STAN-01
 - oompParts: C1,CAPC-0805-X-UF22D-V25
-- oompParts: C2,CAPC-0805-X-UF1-V25
-- oompParts: C3,CAPC-0805-X-UF1-V25
-- oompParts: C4,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0805-X-UNMATCHED-01
+- oompParts: C3,CAPC-0805-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-UNMATCHED-01
 - oompParts: C5,CAPC-1206-X-UF47D-01
-- oompParts: C6,CAPC-0603-X-UF1-V25
-- oompParts: C7,CAPC-0603-X-UF1-V25
+- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C7,CAPC-0603-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,HEAD-I01-X-PI04-01

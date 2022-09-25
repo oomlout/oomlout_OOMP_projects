@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>A0, A1, A2, A3, A4, CN1, IC1, IC3, PWR, Q1, U$1, U$5, U2|
-|CAPC-0805-X-UF1D-01<BR>C1, C2, C3|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |CAPE-PANC-X-UNMATCHED-01<BR>C4, C5|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C6, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |CAPE-PANC-X-UF100-01<BR>C9|
@@ -57,9 +57,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -78,9 +78,9 @@ Contents
 - oompParts: A2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: A3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: A4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-0805-X-UF1D-01
-- oompParts: C2,CAPC-0805-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C1,CAPC-0805-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-NF100-V50
 - oompParts: C4,CAPE-PANC-X-UNMATCHED-01
 - oompParts: C5,CAPE-PANC-X-UNMATCHED-01
 - oompParts: C6,CAPC-0805-X-UF10-V10

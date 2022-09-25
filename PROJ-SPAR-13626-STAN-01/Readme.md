@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0603-X-UF47D-V10<br> SMD (0603) 4.7 uF Capacitor (Ceramic) 10v<br> C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UNMATCHED-01<BR>C2|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D3|
 |[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, JP1, JP3, U1|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -71,7 +71,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13626
 - oompID: PROJ-SPAR-13626-STAN-01
 - oompParts: C1,CAPC-0603-X-UF47D-V10
-- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-UNMATCHED-01
 - oompParts: C3,CAPC-0603-X-UF47D-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,LEDS-0603-R-STAN-01

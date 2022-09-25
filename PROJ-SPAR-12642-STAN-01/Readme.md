@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UNMATCHED-01<BR>C3, C4|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
 |[LEDS-0603-R-STAN-01<br> SMD (0603) Red LED<br> D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, MIC1|
@@ -57,9 +57,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -75,8 +75,8 @@ Contents
 - oompID: PROJ-SPAR-12642-STAN-01
 - oompParts: C1,CAPC-1206-X-UF10-V25
 - oompParts: C2,CAPC-1206-X-UF10-V25
-- oompParts: C3,CAPC-0603-X-UF1-V25
-- oompParts: C4,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-UNMATCHED-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,LEDS-0603-R-STAN-01

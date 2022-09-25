@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-0805-X-UF1D-01<BR>C2, C3, C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN2, IC1, IC3, PIN3, RD, U$2, U$3, VCC|
 |VREG-SO235-X-KLP298XS-V33D<BR>IC4|
 |UNMATCHED-SO23-X-UNMATCHED-01<BR>IC5, Q1|
@@ -62,9 +62,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/376
 - oompID: PROJ-ADAF-376-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
-- oompParts: C2,CAPC-0805-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

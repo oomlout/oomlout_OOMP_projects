@@ -35,9 +35,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
+|bominteractivefront|bominteractiveback|eagleImage|
+| :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
 
 ## Tags
 

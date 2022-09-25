@@ -39,11 +39,10 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPT-3216-X-UF10-01<BR>C1, C4, C6|
-|CAPC-0402-X-UF1D-01<BR>C2, C5, C7, C9|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C2, C5, C7, C9, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF18-V50<br> SMD (0402) 18 pF Capacitor (Ceramic) 50v<br> C3, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
 |[CAPC-0402-X-NF10-V50<br> SMD (0402) 10 nF Capacitor (Ceramic) 50v<br> C10, C12, C23, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
 |[CAPC-0402-X-NF47-V25<br> SMD (0402) 47 nF Capacitor (Ceramic) 25v<br> C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF47-V25/)|
-|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C13, C14, C15, C16, C17, C18, C19, C20, C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 |[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP4, Q1, U$2, U$12, U2|
@@ -60,9 +59,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -77,14 +76,14 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/10608
 - oompID: PROJ-SPAR-10608-STAN-01
 - oompParts: C1,CAPT-3216-X-UF10-01
-- oompParts: C2,CAPC-0402-X-UF1D-01
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0402-X-PF18-V50
 - oompParts: C4,CAPT-3216-X-UF10-01
-- oompParts: C5,CAPC-0402-X-UF1D-01
+- oompParts: C5,CAPC-0402-X-NF100-V10
 - oompParts: C6,CAPT-3216-X-UF10-01
-- oompParts: C7,CAPC-0402-X-UF1D-01
+- oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-PF18-V50
-- oompParts: C9,CAPC-0402-X-UF1D-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
 - oompParts: C10,CAPC-0402-X-NF10-V50
 - oompParts: C11,CAPC-0402-X-NF47-V25
 - oompParts: C12,CAPC-0402-X-NF10-V50

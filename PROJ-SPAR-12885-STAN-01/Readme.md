@@ -41,7 +41,7 @@ Contents
 |CAPX-UNMATCHED-X-UF10-01<BR>C1|
 |[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
 |CAPX-3528-X-UF47-01<BR>C3, C4|
-|[CAPC-0603-X-UF1-V25<br> SMD (0603) 1 uF Capacitor (Ceramic) 25v<br> C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-UNMATCHED-01<BR>C5, C6|
 |DIOD-SO23-X-UNMATCHED-01<BR>D1, D2|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, J3, JP1, JP2, JP3, L1, U1|
 |[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
@@ -58,9 +58,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -78,8 +78,8 @@ Contents
 - oompParts: C2,CAPC-1206-X-UF10-V25
 - oompParts: C3,CAPX-3528-X-UF47-01
 - oompParts: C4,CAPX-3528-X-UF47-01
-- oompParts: C5,CAPC-0603-X-UF1-V25
-- oompParts: C6,CAPC-0603-X-UF1-V25
+- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-UNMATCHED-01
 - oompParts: D1,DIOD-SO23-X-UNMATCHED-01
 - oompParts: D2,DIOD-SO23-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

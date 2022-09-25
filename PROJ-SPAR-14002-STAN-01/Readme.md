@@ -41,7 +41,7 @@ Contents
 |CAPC-0603-X-PF470-01<BR>C1, C2|
 |[CAPC-0603-X-PF100-V50<br> SMD (0603) 100 pF Capacitor (Ceramic) 50v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
 |CAPE-PAND-X-UF220-01<BR>C4|
-|CAPC-0603-X-UF1D-01<BR>C5, C6|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-S323-X-UNMATCHED-01<BR>D1, D4|
 |DIOD-SO23-X-UNMATCHED-01<BR>D2, D3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, J1|
@@ -54,9 +54,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -74,8 +74,8 @@ Contents
 - oompParts: C2,CAPC-0603-X-PF470-01
 - oompParts: C3,CAPC-0603-X-PF100-V50
 - oompParts: C4,CAPE-PAND-X-UF220-01
-- oompParts: C5,CAPC-0603-X-UF1D-01
-- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-SO23-X-UNMATCHED-01
 - oompParts: D3,DIOD-SO23-X-UNMATCHED-01

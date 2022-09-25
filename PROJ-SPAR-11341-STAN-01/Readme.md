@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C3, C7, C8|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C3, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C4|
 |CAPC-0402-X-NF470-01<BR>C5|
 |[CAPC-0402-X-NF10-V50<br> SMD (0402) 10 nF Capacitor (Ceramic) 50v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
@@ -52,9 +52,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -68,12 +68,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Gyro_Breakout-LPY503AL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11341
 - oompID: PROJ-SPAR-11341-STAN-01
-- oompParts: C3,CAPC-0402-X-UF1D-01
+- oompParts: C3,CAPC-0402-X-NF100-V10
 - oompParts: C4,CAPT-3216-X-UF10-01
 - oompParts: C5,CAPC-0402-X-NF470-01
 - oompParts: C6,CAPC-0402-X-NF10-V50
-- oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
+- oompParts: C7,CAPC-0402-X-NF100-V10
+- oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: JP1,HEAD-I01-X-PI05-01
 - oompParts: JP2,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0402-X-O103-01

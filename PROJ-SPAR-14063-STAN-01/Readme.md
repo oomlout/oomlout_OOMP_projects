@@ -40,7 +40,7 @@ Contents
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, JP1, JP12, JP13, JP20, JP21, JP22, JP23, JP24, JP25, JP26, JP27, LOGO1, LOGO2, S2, SEWTAP+, SEWTAP-, SEWTAP1, SEWTAP2, SEWTAP3, SEWTAP4, SEWTAPLS+, SEWTAPLS-, SEWTAPLSOUT, ST1, ST2, ST3, U1, U3, Y1|
 |[CAPC-0603-X-PF15-V50<br> SMD (0603) 15 pF Capacitor (Ceramic) 50v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF15-V50/)|
-|CAPC-0603-X-UF1D-01<BR>C3, C4|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
 |LEDS-1206-G-STAN-01<BR>D3, D4, D5, D6|
 |HEAD-I01-X-PI01-01<BR>JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9|
@@ -57,9 +57,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -76,8 +76,8 @@ Contents
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0603-X-PF15-V50
 - oompParts: C2,CAPC-0603-X-PF15-V50
-- oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,LEDS-1206-G-STAN-01

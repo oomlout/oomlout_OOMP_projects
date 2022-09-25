@@ -41,7 +41,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>B1, CN1, L1, Q1, U1|
 |[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
-|CAPC-0805-X-UF1D-01<BR>C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |CAPX-3528-X-UNMATCHED-01<BR>C5|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> LBO](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
@@ -56,9 +56,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -75,7 +75,7 @@ Contents
 - oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF22D-V25
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: C5,CAPX-3528-X-UNMATCHED-01
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI06-01

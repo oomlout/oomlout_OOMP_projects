@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, S1, SG1, U2|
-|CAPX-UNMATCHED-X-UF1D-01<BR>C6|
+|CAPX-UNMATCHED-X-NF100-01<BR>C6|
 |[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |LEDS-UNMATCHED-G-STAN-01<BR>LED1|
@@ -48,9 +48,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -65,7 +65,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/12069
 - oompID: PROJ-SPAR-12069-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C6,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C6,CAPX-UNMATCHED-X-NF100-01
 - oompParts: JP3,HEAD-I01-X-PI02-01
 - oompParts: JP4,HEAD-I01-X-PI06-01
 - oompParts: LED1,LEDS-UNMATCHED-G-STAN-01

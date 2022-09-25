@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0603-X-UF1D-01<BR>C1, C2, C5|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0805-X-UF22-V63D<br> SMD (0805) 22 uF Capacitor (Ceramic) 6.3v<br> C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
 |CAPC-0603-X-PF470-01<BR>C4|
 |[CAPC-0603-X-UF10-V63D<br> SMD (0603) 10 uF Capacitor (Ceramic) 6.3v<br> C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
@@ -71,11 +71,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Single_Supply_Logic_Level_Converter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14765
 - oompID: PROJ-SPAR-14765-STAN-01
-- oompParts: C1,CAPC-0603-X-UF1D-01
-- oompParts: C2,CAPC-0603-X-UF1D-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0805-X-UF22-V63D
 - oompParts: C4,CAPC-0603-X-PF470-01
-- oompParts: C5,CAPC-0603-X-UF1D-01
+- oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-UF10-V63D
 - oompParts: C7,CAPT-3216-X-UF10-01
 - oompParts: D1,LEDS-0603-R-STAN-01

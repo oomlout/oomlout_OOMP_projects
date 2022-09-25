@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPT-3216-X-UF10-01<BR>C1, C2, C5, C7|
-|CAPC-0603-X-UF1D-01<BR>C3, C4, C6, C8|
+|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3, C4, C6, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |LEDS-1206-G-STAN-01<BR>D1, D2, D3, D4, D5, D6, D7, D8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, J2, S1, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TS1, U1, U2|
 |HEAD-I01-X-PI01-01<BR>JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14, JP15|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -69,12 +69,12 @@ Contents
 - oompID: PROJ-SPAR-13144-STAN-01
 - oompParts: C1,CAPT-3216-X-UF10-01
 - oompParts: C2,CAPT-3216-X-UF10-01
-- oompParts: C3,CAPC-0603-X-UF1D-01
-- oompParts: C4,CAPC-0603-X-UF1D-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPT-3216-X-UF10-01
-- oompParts: C6,CAPC-0603-X-UF1D-01
+- oompParts: C6,CAPC-0603-X-NF100-V50
 - oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPC-0603-X-UF1D-01
+- oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: D1,LEDS-1206-G-STAN-01
 - oompParts: D2,LEDS-1206-G-STAN-01
 - oompParts: D3,LEDS-1206-G-STAN-01

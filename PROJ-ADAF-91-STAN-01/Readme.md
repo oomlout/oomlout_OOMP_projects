@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UF1D-01<BR>C1, C3, C4|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>C2|
 |CAPC-0805-X-PF15-01<BR>C5, C6|
 |[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D1, D2, RX, TX](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
@@ -68,10 +68,10 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit_USB_Boarduino_PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/91
 - oompID: PROJ-ADAF-91-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1D-01
+- oompParts: C1,CAPC-0805-X-NF100-V50
 - oompParts: C2,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
-- oompParts: C4,CAPC-0805-X-UF1D-01
+- oompParts: C3,CAPC-0805-X-NF100-V50
+- oompParts: C4,CAPC-0805-X-NF100-V50
 - oompParts: C5,CAPC-0805-X-PF15-01
 - oompParts: C6,CAPC-0805-X-PF15-01
 - oompParts: D1,LEDS-0805-G-STAN-01

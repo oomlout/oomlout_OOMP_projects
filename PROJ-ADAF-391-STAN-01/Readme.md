@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|CAPC-0805-X-UNMATCHED-01<BR>C1, C2|
 |[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
 |[HEAD-I01-X-PI07-01<br> 2.54 mm 7 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
 |[MOSN-SO23-X-KBSS138-01<br> SMD (SOT-23) BSS138 N-Ch. MOSFET<br> Q1, Q2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
@@ -61,8 +61,8 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-BMP085-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/391
 - oompID: PROJ-ADAF-391-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1-V25
-- oompParts: C2,CAPC-0805-X-UF1-V25
+- oompParts: C1,CAPC-0805-X-UNMATCHED-01
+- oompParts: C2,CAPC-0805-X-UNMATCHED-01
 - oompParts: D1,DIOD-S323-X-K4148-01
 - oompParts: JP2,HEAD-I01-X-PI07-01
 - oompParts: Q1,MOSN-SO23-X-KBSS138-01

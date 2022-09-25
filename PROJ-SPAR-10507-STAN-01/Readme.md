@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C5, C6, C7, C9, C10, C11, C12, C13, C15, C16, C17, C18, C19, C21, C22, C23, C24, C25, C27, C28, C29|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C5, C6, C7, C9, C10, C11, C12, C13, C15, C16, C17, C18, C19, C21, C22, C23, C24, C25, C27, C28, C29](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPE-PANG-X-UF100-01<BR>C2|
 |CAPT-3216-X-UF10-01<BR>C3|
 |[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
@@ -74,35 +74,35 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Quadstepper_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10507
 - oompID: PROJ-SPAR-10507-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPE-PANG-X-UF100-01
 - oompParts: C3,CAPT-3216-X-UF10-01
 - oompParts: C4,CAPC-0805-X-UF1-V25
-- oompParts: C5,CAPC-0402-X-UF1D-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
-- oompParts: C7,CAPC-0402-X-UF1D-01
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-NF220-V16
-- oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-UF1D-01
-- oompParts: C11,CAPC-0402-X-UF1D-01
-- oompParts: C12,CAPC-0402-X-UF1D-01
-- oompParts: C13,CAPC-0402-X-UF1D-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
+- oompParts: C11,CAPC-0402-X-NF100-V10
+- oompParts: C12,CAPC-0402-X-NF100-V10
+- oompParts: C13,CAPC-0402-X-NF100-V10
 - oompParts: C14,CAPC-0402-X-NF220-V16
-- oompParts: C15,CAPC-0402-X-UF1D-01
-- oompParts: C16,CAPC-0402-X-UF1D-01
-- oompParts: C17,CAPC-0402-X-UF1D-01
-- oompParts: C18,CAPC-0402-X-UF1D-01
-- oompParts: C19,CAPC-0402-X-UF1D-01
+- oompParts: C15,CAPC-0402-X-NF100-V10
+- oompParts: C16,CAPC-0402-X-NF100-V10
+- oompParts: C17,CAPC-0402-X-NF100-V10
+- oompParts: C18,CAPC-0402-X-NF100-V10
+- oompParts: C19,CAPC-0402-X-NF100-V10
 - oompParts: C20,CAPC-0402-X-NF220-V16
-- oompParts: C21,CAPC-0402-X-UF1D-01
-- oompParts: C22,CAPC-0402-X-UF1D-01
-- oompParts: C23,CAPC-0402-X-UF1D-01
-- oompParts: C24,CAPC-0402-X-UF1D-01
-- oompParts: C25,CAPC-0402-X-UF1D-01
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C22,CAPC-0402-X-NF100-V10
+- oompParts: C23,CAPC-0402-X-NF100-V10
+- oompParts: C24,CAPC-0402-X-NF100-V10
+- oompParts: C25,CAPC-0402-X-NF100-V10
 - oompParts: C26,CAPC-0402-X-NF220-V16
-- oompParts: C27,CAPC-0402-X-UF1D-01
-- oompParts: C28,CAPC-0402-X-UF1D-01
-- oompParts: C29,CAPC-0402-X-UF1D-01
+- oompParts: C27,CAPC-0402-X-NF100-V10
+- oompParts: C28,CAPC-0402-X-NF100-V10
+- oompParts: C29,CAPC-0402-X-NF100-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: F1,REFU-1206-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

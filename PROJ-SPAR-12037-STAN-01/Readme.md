@@ -39,7 +39,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, BAT2, JP3, JP4, JP8, JP9, JP10, JP11, JP12, JP13, JP14, S1, S2, S3, S4, S5, S6, SG1, U$1, U$6, U$7|
-|CAPX-UNMATCHED-X-UF1D-01<BR>C1, C2|
+|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |RESE-UNMATCHED-X-O103-01<BR>R1|
 
@@ -47,9 +47,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -65,8 +65,8 @@ Contents
 - oompID: PROJ-SPAR-12037-STAN-01
 - oompParts: BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BAT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPX-UNMATCHED-X-NF100-01
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01

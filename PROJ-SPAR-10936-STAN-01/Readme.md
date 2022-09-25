@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPX-UNMATCHED-X-UF1D-01<BR>C1, C2, C3, C4|
+|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2, C3, C4|
 |CAPX-UNMATCHED-X-UF10-01<BR>C5|
 |LEDS-UNMATCHED-G-STAN-01<BR>D1, D2, D3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, IC2, IC3, IC4|
@@ -51,9 +51,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -67,10 +67,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Bar_Graph_Breakout_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10936
 - oompID: PROJ-SPAR-10936-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C2,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C4,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C3,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C4,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C5,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D1,LEDS-UNMATCHED-G-STAN-01
 - oompParts: D2,LEDS-UNMATCHED-G-STAN-01

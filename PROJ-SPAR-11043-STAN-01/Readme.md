@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPX-UNMATCHED-X-UF1D-01<BR>C1, C3, C4, C5, C8, C9, C10|
+|CAPX-UNMATCHED-X-NF100-01<BR>C1, C3, C4, C5, C8, C9, C10|
 |CAPX-UNMATCHED-X-UF100-01<BR>C2|
 |CAPX-UNMATCHED-X-UF10-01<BR>C6, C12|
 |CAPX-UNMATCHED-X-NF1-01<BR>C7|
@@ -57,9 +57,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -73,16 +73,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/fabFM-Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11043
 - oompID: PROJ-SPAR-11043-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C1,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C2,CAPX-UNMATCHED-X-UF100-01
-- oompParts: C3,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C4,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C5,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C3,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C4,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C5,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C6,CAPX-UNMATCHED-X-UF10-01
 - oompParts: C7,CAPX-UNMATCHED-X-NF1-01
-- oompParts: C8,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C9,CAPX-UNMATCHED-X-UF1D-01
-- oompParts: C10,CAPX-UNMATCHED-X-UF1D-01
+- oompParts: C8,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C9,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C10,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C11,CAPX-UNMATCHED-X-UF220-01
 - oompParts: C12,CAPX-UNMATCHED-X-UF10-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

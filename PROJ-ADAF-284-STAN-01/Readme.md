@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |CAPX-UNMATCHED-X-UF10-01<BR>C1|
-|CAPC-0805-X-UF1D-01<BR>C2, C3|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, IC1, SJ1, SJ2, SJ3, SJ4, SJ5, SJ6|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> FTDI](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |RESE-0805-X-O100-01<BR>R1, R5|
@@ -63,8 +63,8 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/284
 - oompID: PROJ-ADAF-284-STAN-01
 - oompParts: C1,CAPX-UNMATCHED-X-UF10-01
-- oompParts: C2,CAPC-0805-X-UF1D-01
-- oompParts: C3,CAPC-0805-X-UF1D-01
+- oompParts: C2,CAPC-0805-X-NF100-V50
+- oompParts: C3,CAPC-0805-X-NF100-V50
 - oompParts: CN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: FTDI,HEAD-I01-X-PI06-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

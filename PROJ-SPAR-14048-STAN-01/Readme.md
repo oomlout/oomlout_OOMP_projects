@@ -38,7 +38,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|[CAPC-0402-X-UF1-V63D<br> SMD (0402) 1 uF Capacitor (Ceramic) 6.3v<br> C1, C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPC-0402-X-UNMATCHED-01<BR>C1, C2, C3, C4|
 |[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
 |CAPC-1206-X-UF47D-01<BR>C6|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>OLED1|
@@ -49,9 +49,9 @@ Contents
   
   
 
-|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -65,10 +65,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/TeensyView (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/14048
 - oompID: PROJ-SPAR-14048-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1-V63D
-- oompParts: C2,CAPC-0402-X-UF1-V63D
-- oompParts: C3,CAPC-0402-X-UF1-V63D
-- oompParts: C4,CAPC-0402-X-UF1-V63D
+- oompParts: C1,CAPC-0402-X-UNMATCHED-01
+- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-UNMATCHED-01
 - oompParts: C5,CAPC-0805-X-UF22D-V25
 - oompParts: C6,CAPC-1206-X-UF47D-01
 - oompParts: OLED1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

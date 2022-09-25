@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C7, C8, C9, C10, C11, C12, C13, C15, C17, C21|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C7, C8, C9, C10, C11, C12, C13, C15, C17, C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF18-V50<br> SMD (0402) 18 pF Capacitor (Ceramic) 50v<br> C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
 |[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C5, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
 |CAPT-3216-X-UF10-01<BR>C19, C20|
@@ -73,23 +73,23 @@ Contents
 - sources: All source files from https://github.com/sparkfun/PoEthernet_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/10864
 - oompID: PROJ-SPAR-10864-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0402-X-PF18-V50
 - oompParts: C4,CAPC-0402-X-PF18-V50
 - oompParts: C5,CAPC-1206-X-UF10-V25
-- oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
-- oompParts: C9,CAPC-0402-X-UF1D-01
-- oompParts: C10,CAPC-0402-X-UF1D-01
-- oompParts: C11,CAPC-0402-X-UF1D-01
-- oompParts: C12,CAPC-0402-X-UF1D-01
-- oompParts: C13,CAPC-0402-X-UF1D-01
+- oompParts: C7,CAPC-0402-X-NF100-V10
+- oompParts: C8,CAPC-0402-X-NF100-V10
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
+- oompParts: C11,CAPC-0402-X-NF100-V10
+- oompParts: C12,CAPC-0402-X-NF100-V10
+- oompParts: C13,CAPC-0402-X-NF100-V10
 - oompParts: C14,CAPC-1206-X-UF10-V25
-- oompParts: C15,CAPC-0402-X-UF1D-01
-- oompParts: C17,CAPC-0402-X-UF1D-01
+- oompParts: C15,CAPC-0402-X-NF100-V10
+- oompParts: C17,CAPC-0402-X-NF100-V10
 - oompParts: C19,CAPT-3216-X-UF10-01
 - oompParts: C20,CAPT-3216-X-UF10-01
-- oompParts: C21,CAPC-0402-X-UF1D-01
+- oompParts: C21,CAPC-0402-X-NF100-V10
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: FB2,FERB-0805-X-UNMATCHED-01
 - oompParts: FB3,FERB-0805-X-UNMATCHED-01

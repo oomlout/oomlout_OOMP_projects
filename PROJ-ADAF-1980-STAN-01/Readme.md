@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0805-X-UF1D-01<BR>C1|
+|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
@@ -58,7 +58,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/TSL2561-breakout-board-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/1980
 - oompID: PROJ-ADAF-1980-STAN-01
-- oompParts: C1,CAPC-0805-X-UF1D-01
+- oompParts: C1,CAPC-0805-X-NF100-V50
 - oompParts: JP1,HEAD-I01-X-PI06-01
 - oompParts: R1,RESE-0805-X-O103-01
 - oompParts: R2,RESE-0805-X-O103-01

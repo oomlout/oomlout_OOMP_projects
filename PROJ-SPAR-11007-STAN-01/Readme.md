@@ -33,7 +33,7 @@ Contents
 
 |OOMP Parts|
 | :---: |
-|CAPC-0402-X-UF1D-01<BR>C1, C4, C5, C6, C7, C8|
+|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C4, C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPT-3216-X-UF10-01<BR>C2, C3|
 |REFU-1206-X-UNMATCHED-01<BR>F1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, S1, S2, U1, U2, Y1|
@@ -67,14 +67,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mega_Pro (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11007
 - oompID: PROJ-SPAR-11007-STAN-01
-- oompParts: C1,CAPC-0402-X-UF1D-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPT-3216-X-UF10-01
 - oompParts: C3,CAPT-3216-X-UF10-01
-- oompParts: C4,CAPC-0402-X-UF1D-01
-- oompParts: C5,CAPC-0402-X-UF1D-01
-- oompParts: C6,CAPC-0402-X-UF1D-01
-- oompParts: C7,CAPC-0402-X-UF1D-01
-- oompParts: C8,CAPC-0402-X-UF1D-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-NF100-V10
+- oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: F1,REFU-1206-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,DCJP-21D-X-STAN-01
