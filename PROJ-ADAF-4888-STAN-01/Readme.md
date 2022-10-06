@@ -52,7 +52,7 @@ Contents
 |RESE-0402-X-O220-01<BR>R3, R4|
 |[RESE-0402-X-O102-01<br> SMD (0402) 1k Ohm Resistor<br> R6, R7, R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
 |[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> SW2, SW3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
-|VREG-SO235-X-KAP2112K-V33D<BR>U2|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 
 ## Images
   

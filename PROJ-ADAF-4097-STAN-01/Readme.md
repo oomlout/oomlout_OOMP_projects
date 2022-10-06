@@ -46,7 +46,7 @@ Contents
 |[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 |RESA-06038-X-O103X4-01<BR>R8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1|
-|VREG-SO235-X-KAP2112K-V33D<BR>U2|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 
 ## Images
   

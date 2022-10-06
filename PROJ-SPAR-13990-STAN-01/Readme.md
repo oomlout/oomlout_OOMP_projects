@@ -56,7 +56,7 @@ Contents
 |UNMATCHED-0402-X-UNMATCHED-01<BR>L1|
 |[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
 |UNMATCHED-4628-X-UNMATCHED-01<BR>SW1, SW2|
-|VREG-SO235-X-KAP2112K-V33D<BR>U1|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 
 ## Images
   

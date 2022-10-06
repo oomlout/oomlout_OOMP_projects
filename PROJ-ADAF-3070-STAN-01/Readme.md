@@ -45,7 +45,7 @@ Contents
 |[HEAD-I01-X-PI09-01<br> 2.54 mm 9 Pin Header<br> JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
 |RESE-0805-X-O1003-01<BR>R1, R2, R3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U1, U2|
-|VREG-SO235-X-KAP2112K-V33D<BR>U3|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>X1|
 
 ## Images

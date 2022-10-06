@@ -63,7 +63,7 @@ Contents
 |[RESE-0603-X-O201-01<br> SMD (0603) 200 Ohm Resistor<br> R3, R4, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
 |RESE-0603-X-O270-01<BR>R7, R8|
 |[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R12, R13, R15, R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|VREG-SO235-X-KAP2112K-V33D<BR>U1|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 
 ## Images
   

@@ -50,7 +50,7 @@ Contents
 |RESE-0603-X-O3903-01<BR>R3|
 |RESA-06038-X-O103X4-01<BR>R5|
 |[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1, SW2, SW3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
-|VREG-SO235-X-KAP2112K-V33D<BR>U1|
+|[VREG-SO235-X-KAP2112K-V33D<br> SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v<br> U1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01<BR>X1|
 
 ## Images
