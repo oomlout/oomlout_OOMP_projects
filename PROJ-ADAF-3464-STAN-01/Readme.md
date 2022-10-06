@@ -36,11 +36,11 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[BUTA-4628-X-STAN-01<br> SMD (4628) Pushbutton (Tactile)<br> 1, 2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JOY1, RPI1, U1|
-|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1, SW2, SW3, SW4, SW5, SW8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[BUTA-4628-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|[SMD (4628) Pushbutton (Tactile)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|[1, 2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JOY1, RPI1, U1|
+|[BUTA-6060-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|[SMD (6060) Pushbutton (Tactile)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|[SW1, SW2, SW3, SW4, SW5, SW8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
 
 ## Images
   

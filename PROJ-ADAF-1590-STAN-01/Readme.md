@@ -36,24 +36,24 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C1, C4, C5, C6, C7, C8, C9, C10, C11, C12, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
-|CAPC-0805-X-PF20-01<BR>C2, C3|
-|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C16, C19, C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C17, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
-|DIOD-S123-X-UNMATCHED-01<BR>D2|
-|[DIOD-S323-X-K4148-01<br> SMD (SOD-323) Diode<br> D3, D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
-|FERB-0805-X-UNMATCHED-01<BR>FB2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, L1, U1, U5, Y1|
-|HEAD-I01-X-PI15-01<BR>JP1|
-|RESE-0805-X-UNMATCHED-01<BR>R1, R9, R10|
-|RESE-0805-X-O105-01<BR>R3|
-|RESA-06038-X-O330X4-01<BR>R4, R5, R6, R7, R8|
-|[RESE-0805-X-O103-01<br> SMD (0805) 10k Ohm Resistor<br> R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|UNMATCHED-SO235-X-UNMATCHED-01<BR>U3|
-|[VREG-SO235-X-KMIC5225-V33D<br> SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v<br> U4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|[SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|[C1, C4, C5, C6, C7, C8, C9, C10, C11, C12, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
+|CAPC-0805-X-PF20-01||C2, C3|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C16, C19, C21, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C17, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|DIOD-S123-X-UNMATCHED-01||D2|
+|[DIOD-S323-X-K4148-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|[SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|[D3, D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
+|FERB-0805-X-UNMATCHED-01||FB2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, L1, U1, U5, Y1|
+|HEAD-I01-X-PI15-01||JP1|
+|RESE-0805-X-UNMATCHED-01||R1, R9, R10|
+|RESE-0805-X-O105-01||R3|
+|RESA-06038-X-O330X4-01||R4, R5, R6, R7, R8|
+|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01||U3|
+|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|[SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|[U4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KMIC5225-V33D/)|
 
 ## Images
   

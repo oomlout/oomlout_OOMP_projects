@@ -36,12 +36,12 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C2, C4, C5, C6, C7, C9, C10, C11, C13, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|[LEDS-5050-RGB-K2812-01<br> SMD (5050) Smart Controller (WS2812B) RGB LED<br> LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-5050-RGB-K2812-01/)|
-|RESE-0603-X-UNMATCHED-01<BR>R1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>U$1, U$2|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C4, C5, C6, C7, C9, C10, C11, C13, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[LEDS-5050-RGB-K2812-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-5050-RGB-K2812-01/)|[SMD (5050) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-5050-RGB-K2812-01/)|[LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-5050-RGB-K2812-01/)|
+|RESE-0603-X-UNMATCHED-01||R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$1, U$2|
 
 ## Images
   

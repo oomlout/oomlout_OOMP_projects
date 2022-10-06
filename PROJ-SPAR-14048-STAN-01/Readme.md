@@ -36,14 +36,14 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPC-0402-X-UNMATCHED-01<BR>C1, C2, C3, C4|
-|[CAPC-0805-X-UF22D-V25<br> SMD (0805) 2.2 uF Capacitor (Ceramic) 25v<br> C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
-|CAPC-1206-X-UF47D-01<BR>C6|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>OLED1|
-|RESE-0603-X-O3903-01<BR>R1|
-|[RESE-0603-X-O472-01<br> SMD (0603) 4.7k Ohm Resistor<br> R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPC-0402-X-UNMATCHED-01||C1, C2, C3, C4|
+|[CAPC-0805-X-UF22D-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|[SMD (0805) 2.2 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|[C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22D-V25/)|
+|CAPC-1206-X-UF47D-01||C6|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||OLED1|
+|RESE-0603-X-O3903-01||R1|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
 ## Images
   

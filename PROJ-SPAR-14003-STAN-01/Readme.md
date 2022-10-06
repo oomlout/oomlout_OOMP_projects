@@ -36,16 +36,16 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPE-PAND-X-UNMATCHED-01<BR>C3, C4|
-|[CAPC-0603-X-PF100-V50<br> SMD (0603) 100 pF Capacitor (Ceramic) 50v<br> C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
-|DIOD-SO23-X-UNMATCHED-01<BR>D1, D2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, J6|
-|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|HEAD-I01-X-PI01-01<BR>J2, J3, J4, J5, J7, J8, J9|
-|UNMATCHED-0603-X-UNMATCHED-01<BR>L1, L2|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPE-PAND-X-UNMATCHED-01||C3, C4|
+|[CAPC-0603-X-PF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[SMD (0603) 100 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
+|DIOD-SO23-X-UNMATCHED-01||D1, D2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, J6|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|HEAD-I01-X-PI01-01||J2, J3, J4, J5, J7, J8, J9|
+|UNMATCHED-0603-X-UNMATCHED-01||L1, L2|
 
 ## Images
   

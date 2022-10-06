@@ -36,13 +36,13 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|TERS-35D-L-UNMATCHED-01<BR>AJ1, AJ2|
-|CAPC-0402-X-PF47D-01<BR>C1, C2, C3, C4|
-|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|RESE-0402-X-UNMATCHED-01<BR>R1, R2, R3, R4|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|TERS-35D-L-UNMATCHED-01||AJ1, AJ2|
+|CAPC-0402-X-PF47D-01||C1, C2, C3, C4|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|RESE-0402-X-UNMATCHED-01||R1, R2, R3, R4|
 
 ## Images
   

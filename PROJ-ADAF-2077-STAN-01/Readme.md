@@ -36,15 +36,15 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>GNDSTRIP1, GNDSTRIP2, IC1, M1, RESET, S1, U$3, U$5, U$10, U$11, U$12, U$13, U$14, U$15, U$17, U$18, U$20, U$21, U$22, U$23, U$24, U$26, U$28, U$29, U$30, U$31, U$32, U$33, U$43, VCCSTRIP1, VCCSTRIP2|
-|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED1, LED2|
-|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1, R2|
-|[HEAD-I01-X-PI10-01<br> 2.54 mm 10 Pin Header<br> U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-NF100-01||C1, C2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||GNDSTRIP1, GNDSTRIP2, IC1, M1, RESET, S1, U$3, U$5, U$10, U$11, U$12, U$13, U$14, U$15, U$17, U$18, U$20, U$21, U$22, U$23, U$24, U$26, U$28, U$29, U$30, U$31, U$32, U$33, U$43, VCCSTRIP1, VCCSTRIP2|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP1, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1, LED2|
+|RESE-UNMATCHED-X-UNMATCHED-01||R1, R2|
+|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 
 ## Images
   

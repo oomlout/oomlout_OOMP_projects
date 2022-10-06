@@ -36,18 +36,18 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI25-01<BR>CONN1|
-|[DIOD-S123-X-KMBR120-01<br> SMD (SOD-123) MBR120 Diode<br> D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
-|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|UNMATCHED-SO23-X-UNMATCHED-01<BR>IC3|
-|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|HEAD-I01-X-PI2X08-01<BR>JP15|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>MATRIX_PWR, RPI1, U3, U5, X1|
-|MOSN-UNMATCHED-X-UNMATCHED-01<BR>Q1|
-|MOSP-UNMATCHED-X-UNMATCHED-01<BR>Q2|
-|[RESE-0805-X-O102-01<br> SMD (0805) 1k Ohm Resistor<br> R4, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-PI25-01||CONN1|
+|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
+|[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01||IC3|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|HEAD-I01-X-PI2X08-01||JP15|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||MATRIX_PWR, RPI1, U3, U5, X1|
+|MOSN-UNMATCHED-X-UNMATCHED-01||Q1|
+|MOSP-UNMATCHED-X-UNMATCHED-01||Q2|
+|[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[R4, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 
 ## Images
   

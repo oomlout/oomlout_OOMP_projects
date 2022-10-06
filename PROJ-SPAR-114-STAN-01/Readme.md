@@ -36,20 +36,20 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPX-UNMATCHED-X-UF100-01<BR>C1|
-|CAPX-UNMATCHED-X-UF10-01<BR>C2|
-|CAPX-UNMATCHED-X-NF100-01<BR>C3|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>F1, S1, S2, U1|
-|[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
-|HEAD-I01-X-PI01-01<BR>JP1, JP2, JP3, JP4|
-|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED2|
-|RESE-UNMATCHED-X-O241-01<BR>R1|
-|RESE-UNMATCHED-X-O391-01<BR>R2|
-|RESE-UNMATCHED-X-O331-01<BR>R3, R4|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-UF100-01||C1|
+|CAPX-UNMATCHED-X-UF10-01||C2|
+|CAPX-UNMATCHED-X-NF100-01||C3|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F1, S1, S2, U1|
+|[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+|HEAD-I01-X-PI01-01||JP1, JP2, JP3, JP4|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED2|
+|RESE-UNMATCHED-X-O241-01||R1|
+|RESE-UNMATCHED-X-O391-01||R2|
+|RESE-UNMATCHED-X-O331-01||R3, R4|
 
 ## Images
   

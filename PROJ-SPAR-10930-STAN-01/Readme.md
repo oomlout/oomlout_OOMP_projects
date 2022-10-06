@@ -31,14 +31,14 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2, C6|
-|CAPX-UNMATCHED-X-UF10-01<BR>C5|
-|[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP2, Q1, S1, S2, S3, S4, SG2, U1|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED1|
-|RESE-UNMATCHED-X-O103-01<BR>R1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-NF100-01||C1, C2, C6|
+|CAPX-UNMATCHED-X-UF10-01||C5|
+|[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP2, Q1, S1, S2, S3, S4, SG2, U1|
+|LEDS-UNMATCHED-G-STAN-01||LED1|
+|RESE-UNMATCHED-X-O103-01||R1|
 
 ## Images
   

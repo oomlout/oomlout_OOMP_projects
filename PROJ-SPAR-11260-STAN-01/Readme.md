@@ -36,18 +36,18 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|REFU-1206-X-UNMATCHED-01<BR>100MA|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPX-3528-X-UF47-01<BR>C10|
-|[CAPC-1206-X-UF10-V25<br> SMD (1206) 10 uF Capacitor (Ceramic) 25v<br> C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
-|HEAD-I01-X-UNMATCHED-01<BR>JP1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1, S1|
-|LEDS-1206-R-STAN-01<BR>LED1|
-|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|REFU-1206-X-UNMATCHED-01||100MA|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPX-3528-X-UF47-01||C10|
+|[CAPC-1206-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[SMD (1206) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2|
+|HEAD-I01-X-UNMATCHED-01||JP1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||L1, S1|
+|LEDS-1206-R-STAN-01||LED1|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
 
 ## Images
   

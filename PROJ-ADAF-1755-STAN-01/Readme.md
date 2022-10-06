@@ -36,10 +36,10 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|LEDS-1206-G-STAN-01<BR>LED1|
-|RESE-0603-X-UNMATCHED-01<BR>R1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|LEDS-1206-G-STAN-01||LED1|
+|RESE-0603-X-UNMATCHED-01||R1|
 
 ## Images
   

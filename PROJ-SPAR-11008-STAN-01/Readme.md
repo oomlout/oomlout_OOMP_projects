@@ -36,11 +36,11 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|DIOD-S323-X-UNMATCHED-01<BR>D1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>M1|
-|[RESE-0603-X-O330-01<br> SMD (0603) 33 Ohm Resistor<br> R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|DIOD-S323-X-UNMATCHED-01||D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||M1|
+|[RESE-0603-X-O330-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|[SMD (0603) 33 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
 
 ## Images
   

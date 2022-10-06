@@ -36,21 +36,21 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[CAPC-0402-X-NF100-V10<br> SMD (0402) 100 nF Capacitor (Ceramic) 10v<br> C1, C2, C3, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01<BR>C4|
-|CAPX-3528-X-UF68-01<BR>C5|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
-|UNMATCHED-SO235-X-UNMATCHED-01<BR>IC1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>JP1, JP2, JP4, JP5, JP6, JP7, JP8, JP10, L1, SG1, TP1, U1, U3, U4, Y1|
-|HEAD-I01-X-UNMATCHED-01<BR>JP3|
-|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|LEDS-UNMATCHED-R-STAN-01<BR>LED2, LED3|
-|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
-|RESE-UNMATCHED-X-O102-01<BR>R1, R3|
-|[RESE-0402-X-O103-01<br> SMD (0402) 10k Ohm Resistor<br> R2, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
-|RESE-UNMATCHED-X-UNMATCHED-01<BR>R4, R5|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C3, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|CAPT-3216-X-UF10-01||C4|
+|CAPX-3528-X-UF68-01||C5|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|UNMATCHED-SO235-X-UNMATCHED-01||IC1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP1, JP2, JP4, JP5, JP6, JP7, JP8, JP10, L1, SG1, TP1, U1, U3, U4, Y1|
+|HEAD-I01-X-UNMATCHED-01||JP3|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|LEDS-UNMATCHED-R-STAN-01||LED2, LED3|
+|UNMATCHED-SO23-X-UNMATCHED-01||Q1|
+|RESE-UNMATCHED-X-O102-01||R1, R3|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R2, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-UNMATCHED-X-UNMATCHED-01||R4, R5|
 
 ## Images
   

@@ -36,9 +36,9 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BLUE, DOWN, GREEN, IC1, LEFT, RED, RIGHT, SELECT, TM1, U$1, U$4, UP|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BLUE, DOWN, GREEN, IC1, LEFT, RED, RIGHT, SELECT, TM1, U$1, U$4, UP|
 
 ## Images
   

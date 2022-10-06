@@ -36,12 +36,12 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BAT1, BAT2, JP3, JP4, JP8, JP9, JP10, JP11, JP12, JP13, JP14, S1, S2, S3, S4, S5, S6, SG1, U$1, U$6, U$7|
-|CAPX-UNMATCHED-X-NF100-01<BR>C1, C2|
-|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|RESE-UNMATCHED-X-O103-01<BR>R1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BAT1, BAT2, JP3, JP4, JP8, JP9, JP10, JP11, JP12, JP13, JP14, S1, S2, S3, S4, S5, S6, SG1, U$1, U$6, U$7|
+|CAPX-UNMATCHED-X-NF100-01||C1, C2|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|RESE-UNMATCHED-X-O103-01||R1|
 
 ## Images
   

@@ -36,10 +36,10 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-PI25-01<BR>CONN1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RPI1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-PI25-01||CONN1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||RPI1|
 
 ## Images
   

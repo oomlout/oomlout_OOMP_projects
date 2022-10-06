@@ -36,10 +36,10 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-UNMATCHED-01<BR>J1, J3, JP1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J2, J4|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-UNMATCHED-01||J1, J3, JP1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J2, J4|
 
 ## Images
   

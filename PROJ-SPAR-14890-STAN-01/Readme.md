@@ -36,14 +36,14 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|LEDS-1206-R-STAN-01<BR>D2|
-|LEDS-1206-G-STAN-01<BR>D3, D6, D9|
-|LEDS-1206-L-STAN-01<BR>D4|
-|LEDS-1206-Y-STAN-01<BR>D5|
-|[RESE-0603-X-O331-01<br> SMD (0603) 330 Ohm Resistor<br> R2, R3, R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
-|RESE-0603-X-O151-01<BR>R4, R6|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|LEDS-1206-R-STAN-01||D2|
+|LEDS-1206-G-STAN-01||D3, D6, D9|
+|LEDS-1206-L-STAN-01||D4|
+|LEDS-1206-Y-STAN-01||D5|
+|[RESE-0603-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[R2, R3, R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|RESE-0603-X-O151-01||R4, R6|
 
 ## Images
   

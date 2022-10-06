@@ -36,18 +36,18 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPC-0805-X-UNMATCHED-01<BR>C1, C2, C6, C15|
-|CAPC-0805-X-UNMATCHED-V25<BR>C3, C4, C5, C22, C23|
-|[CAPC-0805-X-UF1-V25<br> SMD (0805) 1 uF Capacitor (Ceramic) 25v<br> C16, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|HEAD-I01-X-UNMATCHED-01<BR>CONN2|
-|DIOD-S123-X-UNMATCHED-01<BR>D1, D2, D3|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>EINK1, L1, RPI2, SW3, SW4|
-|UNMATCHED-SO23-X-UNMATCHED-01<BR>Q5|
-|RESE-0603-X-O1003-01<BR>R2, R3, R5, R6|
-|RESE-UNMATCHED-X-UNMATCHED-01<BR>R4|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPC-0805-X-UNMATCHED-01||C1, C2, C6, C15|
+|CAPC-0805-X-UNMATCHED-V25||C3, C4, C5, C22, C23|
+|[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C16, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|HEAD-I01-X-UNMATCHED-01||CONN2|
+|DIOD-S123-X-UNMATCHED-01||D1, D2, D3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||EINK1, L1, RPI2, SW3, SW4|
+|UNMATCHED-SO23-X-UNMATCHED-01||Q5|
+|RESE-0603-X-O1003-01||R2, R3, R5, R6|
+|RESE-UNMATCHED-X-UNMATCHED-01||R4|
 
 ## Images
   

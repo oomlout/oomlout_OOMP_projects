@@ -36,15 +36,15 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|DIOD-UNMATCHED-X-K4148-01<BR>D1|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D2|
-|TERS-UNMATCHED-X-UNMATCHED-01<BR>J1|
-|[TERS-35D-L-PI03-01<br> 3.5 mm 3 Pin Blue Screw Terminal<br> J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>K1, Q1|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED1|
-|RESE-UNMATCHED-X-O102-01<BR>R1, R2|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|DIOD-UNMATCHED-X-K4148-01||D1|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D2|
+|TERS-UNMATCHED-X-UNMATCHED-01||J1|
+|[TERS-35D-L-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|[3.5 mm 3 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||K1, Q1|
+|LEDS-UNMATCHED-G-STAN-01||LED1|
+|RESE-UNMATCHED-X-O102-01||R1, R2|
 
 ## Images
   

@@ -31,16 +31,16 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|TERS-35D-L-UNMATCHED-01<BR>CN1, JP1, JP5, JP6, JP7|
-|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP2, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[HEAD-I01-X-PI08-01<br> 2.54 mm 8 Pin Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
-|HEAD-I01-X-PI01-01<BR>JP9, W, X, Y, Z|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED, POWER|
-|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1, R2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RESET, U$1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|TERS-35D-L-UNMATCHED-01||CN1, JP1, JP5, JP6, JP7|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP2, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|HEAD-I01-X-PI01-01||JP9, W, X, Y, Z|
+|LEDS-UNMATCHED-G-STAN-01||LED, POWER|
+|RESE-UNMATCHED-X-UNMATCHED-01||R1, R2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||RESET, U$1|
 
 ## Images
   

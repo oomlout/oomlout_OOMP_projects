@@ -36,19 +36,19 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>BATT_IN, BATT_OUT, IC1, IN, OUT, U$1, USB, VIN|
-|CAPC-0805-X-UF47-01<BR>C3|
-|CAPX-UNMATCHED-X-UF10-01<BR>C4, C5|
-|LEDS-0805-O-STAN-01<BR>CHG|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1, D2|
-|[LEDS-0805-R-STAN-01<br> SMD (0805) Red LED<br> ERR](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
-|[LEDS-0805-G-STAN-01<br> SMD (0805) Green LED<br> PG](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
-|RESE-0805-X-UNMATCHED-01<BR>R1, R6, R7|
-|RESE-0805-X-O471-01<BR>R11|
-|UNMATCHED-0805-X-UNMATCHED-01<BR>RTH|
-|HEAD-I01-X-PI01-01<BR>STAT3, STAT4|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BATT_IN, BATT_OUT, IC1, IN, OUT, U$1, USB, VIN|
+|CAPC-0805-X-UF47-01||C3|
+|CAPX-UNMATCHED-X-UF10-01||C4, C5|
+|LEDS-0805-O-STAN-01||CHG|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2|
+|[LEDS-0805-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[SMD (0805) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[ERR](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
+|[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[PG](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
+|RESE-0805-X-UNMATCHED-01||R1, R6, R7|
+|RESE-0805-X-O471-01||R11|
+|UNMATCHED-0805-X-UNMATCHED-01||RTH|
+|HEAD-I01-X-PI01-01||STAT3, STAT4|
 
 ## Images
   

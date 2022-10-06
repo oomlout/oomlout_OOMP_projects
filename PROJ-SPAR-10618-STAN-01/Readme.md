@@ -31,16 +31,16 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J1, Q1, Q2, Q3, Q4, Q5, Q6, S1, U1|
-|HEAD-I01-X-UNMATCHED-01<BR>JP1, JP2, JP3, JP4, JP5, JP8|
-|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> JP6, JP9, JP10, JP11, JP12, JP13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|LEDS-UNMATCHED-R-STAN-01<BR>LED1|
-|LEDS-UNMATCHED-Y-STAN-01<BR>LED2|
-|RESE-UNMATCHED-X-O103-01<BR>R1, R2, R3, R4, R5, R6|
-|RESE-UNMATCHED-X-O102-01<BR>R7, R8|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, Q1, Q2, Q3, Q4, Q5, Q6, S1, U1|
+|HEAD-I01-X-UNMATCHED-01||JP1, JP2, JP3, JP4, JP5, JP8|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[JP6, JP9, JP10, JP11, JP12, JP13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|LEDS-UNMATCHED-R-STAN-01||LED1|
+|LEDS-UNMATCHED-Y-STAN-01||LED2|
+|RESE-UNMATCHED-X-O103-01||R1, R2, R3, R4, R5, R6|
+|RESE-UNMATCHED-X-O102-01||R7, R8|
 
 ## Images
   

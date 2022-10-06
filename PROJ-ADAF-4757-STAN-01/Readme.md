@@ -36,24 +36,24 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[CAPC-0805-X-UF10-V10<br> SMD (0805) 10 uF Capacitor (Ceramic) 10v<br> C1, C2, C5, C9, C10, C11, C13, C23, C24, C32, C34](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C3, C7, C8, C12, C14, C16, C18, C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPE-PANC-X-UF100-01<BR>C4, C6|
-|CAPC-0603-X-PF33-01<BR>C19, C20, C21, C22|
-|CAPC-0603-X-PF220-01<BR>C26, C27|
-|[CAPC-0603-X-PF100-V50<br> SMD (0603) 100 pF Capacitor (Ceramic) 50v<br> C28, C29, C30, C31](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
-|CAPC-0805-X-UNMATCHED-01<BR>C33|
-|HEAD-I01-X-UNMATCHED-01<BR>CONN3|
-|DIOD-S323-X-UNMATCHED-01<BR>D1|
-|FERB-0805-X-UNMATCHED-01<BR>FB1, FB2, FB3, FB4, FB7, FB8, FB9, FB10|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC3, LEFTMIC, NEOPIX, OSC1, RIGHTMIC, RPI1, SW6, X1, X2, X5|
-|LEDS-UNMATCHED-RGB-K102-01<BR>LED1, LED2, LED3|
-|[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R4, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
-|[RESE-0603-X-O102-01<br> SMD (0603) 1k Ohm Resistor<br> R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|[BUTA-6060-X-STAN-01<br> SMD (6060) Pushbutton (Tactile)<br> SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
-|UNMATCHED-SO235-X-UNMATCHED-01<BR>U3|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C2, C5, C9, C10, C11, C13, C23, C24, C32, C34](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3, C7, C8, C12, C14, C16, C18, C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPE-PANC-X-UF100-01||C4, C6|
+|CAPC-0603-X-PF33-01||C19, C20, C21, C22|
+|CAPC-0603-X-PF220-01||C26, C27|
+|[CAPC-0603-X-PF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[SMD (0603) 100 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[C28, C29, C30, C31](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
+|CAPC-0805-X-UNMATCHED-01||C33|
+|HEAD-I01-X-UNMATCHED-01||CONN3|
+|DIOD-S323-X-UNMATCHED-01||D1|
+|FERB-0805-X-UNMATCHED-01||FB1, FB2, FB3, FB4, FB7, FB8, FB9, FB10|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC3, LEFTMIC, NEOPIX, OSC1, RIGHTMIC, RPI1, SW6, X1, X2, X5|
+|LEDS-UNMATCHED-RGB-K102-01||LED1, LED2, LED3|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1, R4, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[BUTA-6060-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|[SMD (6060) Pushbutton (Tactile)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|[SW1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-6060-X-STAN-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01||U3|
 
 ## Images
   

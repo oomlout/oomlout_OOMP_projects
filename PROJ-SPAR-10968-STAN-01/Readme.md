@@ -36,14 +36,14 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPT-3216-X-UF10-01<BR>C1|
-|CAPX-3528-X-UF68-01<BR>C2|
-|DIOD-UNMATCHED-X-UNMATCHED-01<BR>D1|
-|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>L1|
-|UNMATCHED-SO235-X-UNMATCHED-01<BR>U1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPT-3216-X-UF10-01||C1|
+|CAPX-3528-X-UF68-01||C2|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||L1|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
 
 ## Images
   

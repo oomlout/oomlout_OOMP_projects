@@ -36,16 +36,16 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
-|LEDS-UNMATCHED-R-STAN-01<BR>LED1|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED2|
-|LEDS-UNMATCHED-L-STAN-01<BR>LED3|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>Q1, Q2, Q3|
-|RESE-UNMATCHED-X-O360-01<BR>R1|
-|RESE-UNMATCHED-X-O220-01<BR>R2, R3|
-|RESE-UNMATCHED-X-O331-01<BR>R4, R5, R6|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|LEDS-UNMATCHED-R-STAN-01||LED1|
+|LEDS-UNMATCHED-G-STAN-01||LED2|
+|LEDS-UNMATCHED-L-STAN-01||LED3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||Q1, Q2, Q3|
+|RESE-UNMATCHED-X-O360-01||R1|
+|RESE-UNMATCHED-X-O220-01||R2, R3|
+|RESE-UNMATCHED-X-O331-01||R4, R5, R6|
 
 ## Images
   

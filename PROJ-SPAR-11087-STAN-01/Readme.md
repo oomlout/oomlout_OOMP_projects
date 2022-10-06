@@ -36,14 +36,14 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|HEAD-I01-X-UNMATCHED-01<BR>JP1, JP2|
-|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED1|
-|RESE-UNMATCHED-X-O331-01<BR>R1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>RADJ, U1|
-|HEAD-I01-X-PI01-01<BR>TP1, TP2|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-UNMATCHED-01||JP1, JP2|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1|
+|RESE-UNMATCHED-X-O331-01||R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||RADJ, U1|
+|HEAD-I01-X-PI01-01||TP1, TP2|
 
 ## Images
   

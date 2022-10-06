@@ -36,21 +36,21 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|CAPX-UNMATCHED-X-UF100-01<BR>C1|
-|CAPX-UNMATCHED-X-UF220-01<BR>C2|
-|CAPX-UNMATCHED-X-NF100-01<BR>C3|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>IC1, IC2, IC3, JP9|
-|[DCJP-21D-X-STAN-01<br> 2.1 mm DC Jack<br> J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
-|[TERS-35D-L-PI02-01<br> 3.5 mm 2 Pin Blue Screw Terminal<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
-|[HEAD-I01-X-PI02-01<br> 2.54 mm 2 Pin Header<br> JP3, JP4, JP5, JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|[HEAD-I01-X-PI04-01<br> 2.54 mm 4 Pin Header<br> JP7, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|LEDS-UNMATCHED-G-STAN-01<BR>LED1|
-|LEDS-UNMATCHED-Y-STAN-01<BR>LED2|
-|RESE-UNMATCHED-X-O271-01<BR>R1, R2, R5|
-|RESE-UNMATCHED-X-O102-01<BR>R3, R4, R7, R8|
-|RESE-UNMATCHED-X-O471-01<BR>R6|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-UF100-01||C1|
+|CAPX-UNMATCHED-X-UF220-01||C2|
+|CAPX-UNMATCHED-X-NF100-01||C3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, IC2, IC3, JP9|
+|[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP3, JP4, JP5, JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP7, JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1|
+|LEDS-UNMATCHED-Y-STAN-01||LED2|
+|RESE-UNMATCHED-X-O271-01||R1, R2, R5|
+|RESE-UNMATCHED-X-O102-01||R3, R4, R7, R8|
+|RESE-UNMATCHED-X-O471-01||R6|
 
 ## Images
   

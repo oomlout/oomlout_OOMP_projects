@@ -36,11 +36,11 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|[HEAD-I01-X-PI03-01<br> 2.54 mm 3 Pin Header<br> JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|RESE-UNMATCHED-X-UNMATCHED-01<BR>R1, R2, R3, R4, R5, R6, R7, R8, R9|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>SW1|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|RESE-UNMATCHED-X-UNMATCHED-01||R1, R2, R3, R4, R5, R6, R7, R8, R9|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||SW1|
 
 ## Images
   

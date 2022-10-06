@@ -36,10 +36,10 @@ Contents
 ## OOMP Parts
   
 
-|OOMP Parts|
-| :---: |
-|LEDS-1206-G-STAN-01<BR>D1, D2, D3, D4, D5|
-|RESE-0603-X-O151-01<BR>R1, R2, R3, R4, R5|
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|LEDS-1206-G-STAN-01||D1, D2, D3, D4, D5|
+|RESE-0603-X-O151-01||R1, R2, R3, R4, R5|
 
 ## Images
   
