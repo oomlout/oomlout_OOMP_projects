@@ -53,7 +53,7 @@ Contents
 |HEAD-I01-X-PI01-01<BR>J3, J6, J7, J8, J13|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>J4, J5, J9, J12, S1, S2, S3, S4, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, U1, U2, U3, U4, U6, Y1|
 |HEAD-I01-X-UNMATCHED-01<BR>J10, J11|
-|HEAD-I01-X-PI2X10-01<BR>J14|
+|[HEAD-I01-X-PI2X10-01<br> 2.54 mm 20 Pin (2x10) Header<br> J14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|
 |[HEAD-I01-X-PI05-01<br> 2.54 mm 5 Pin Header<br> J15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |UNMATCHED-0805-X-UNMATCHED-01<BR>L1|
 |UNMATCHED-SO23-X-UNMATCHED-01<BR>Q1|
@@ -77,9 +77,9 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 

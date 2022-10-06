@@ -34,7 +34,7 @@ Contents
 |OOMP Parts|
 | :---: |
 |[HEAD-I01-X-PI20-01<br> 2.54 mm 20 Pin Header<br> 1X20BREAKOUT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI20-01/)|
-|HEAD-I01-X-PI2X10-01<BR>2X10BREAKOUT|
+|[HEAD-I01-X-PI2X10-01<br> 2.54 mm 20 Pin (2x10) Header<br> 2X10BREAKOUT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|
 |CAPC-0805-X-UNMATCHED-01<BR>C1, C5|
 |[CAPC-0805-X-NF100-V50<br> SMD (0805) 100 nF Capacitor (Ceramic) 50v<br> C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>CN1, IC2, IC3|

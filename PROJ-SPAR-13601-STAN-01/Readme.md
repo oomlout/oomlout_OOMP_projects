@@ -41,16 +41,16 @@ Contents
 |[CAPC-0603-X-NF100-V50<br> SMD (0603) 100 nF Capacitor (Ceramic) 50v<br> C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01<BR>FRAME1, U1|
 |[HEAD-I01-X-PI06-01<br> 2.54 mm 6 Pin Header<br> JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|HEAD-I01-X-PI2X10-01<BR>JP3, JP4|
+|[HEAD-I01-X-PI2X10-01<br> 2.54 mm 20 Pin (2x10) Header<br> JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|
 |[RESE-0603-X-O103-01<br> SMD (0603) 10k Ohm Resistor<br> R1, R2, R3, R4, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 
 ## Images
   
   
 
-|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
