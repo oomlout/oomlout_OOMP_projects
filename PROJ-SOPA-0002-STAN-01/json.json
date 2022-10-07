@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "BBQ20KBD1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/bbq20kbd_hw"
+        },
+        {
+            "name": "gitName",
+            "value": "bbq20kbd_hw"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "bbq20_keyboard.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "bbq20_keyboard.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0002-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0002-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "BBQ20KBD1"
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "0C"
+        },
+        {
+            "name": "name",
+            "value": "Zoe Rev C"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/zoe"
+        },
+        {
+            "name": "gitName",
+            "value": "zoe"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "/Revision C/pi-zigbee-poe-rtc.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "/Revision C/pi-zigbee-poe-rtc.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRE2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0002-STAN-0C"
+        },
+        {
+            "name": "oompParts",
+            "value": "BAT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "BR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "BR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPX-UNMATCHED-X-UF470-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MOD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MOD2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MOD3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP12,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP13,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP14,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP15,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP16,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP17,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP18,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "BAT1,KEYSTONE 3001,BATTERY,KEYSTONE_3001,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BR1,MB6S,DIODE-RECTIFIER-MB6S,SOP254P665X270-4N,MICRO COMMERCIAL COMPONENTS - MB6S-TP - BRIDGE RECTIFIER, 500mA, 600V,MICRO COMMERCIAL COMPONENTS - MB6S-TP - BRIDGE RECTIFIER, 500mA, 600V,2.7mm,Micro Commercial Components (MCC),MB6S-TP,833-MB6S-TP,https://www.mouser.com/Search/Refine.aspx?Keyword=833-MB6S-TP,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BR2,MB6S,DIODE-RECTIFIER-MB6S,SOP254P665X270-4N,MICRO COMMERCIAL COMPONENTS - MB6S-TP - BRIDGE RECTIFIER, 500mA, 600V,MICRO COMMERCIAL COMPONENTS - MB6S-TP - BRIDGE RECTIFIER, 500mA, 600V,2.7mm,Micro Commercial Components (MCC),MB6S-TP,833-MB6S-TP,https://www.mouser.com/Search/Refine.aspx?Keyword=833-MB6S-TP,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,100n,CAP-0603,_PKG_C_0603,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,100n,CAP-0603,_PKG_C_0603,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,2u2,CAP-0603,_PKG_C_0603,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,470u,CAP-POL-ELCO-D8-L10.5,_CAP_ELCO_D8_L10.5,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CON1,,TC2050-IDC-NL_CC-DEBUGGER,TC2050-IDC-NL,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,SMAJ58CA,DIODE-TVS-SMAJ58CA,DIOM5126X250N-NOPOL,DIODE, TVS, 58V, 300W, 2SMA Taiwan Semi SMAJ58CA Bi-Directional TVS Diode, 2-Pin SMA,DIODE, TVS, 58V, 300W, 2SMA Taiwan Semi SMAJ58CA Bi-Directional TVS Diode, 2-Pin SMA,2.5mm,Taiwan Semiconductor,SMAJ58CA,N/A,https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,TLV70333DBVR,LDO-TLV70333DBVR,SOT95P280X145-5N,300mA Low-IQ Low-Dropout (LDO) Regulator,300mA Low-IQ Low-Dropout (LDO) Regulator,1.45mm,Texas Instruments,TLV70333DBVR,595-TLV70333DBVR,https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLV70333DBVR,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,,RTC-DS3231SN#,SOIC127P1032X265-16N,Real Time Clock Serial Maxim DS3231SN# Real Time Clock, Battery Backup, Calendar, Clock, I2C, 5.5 V, 16-Pin SOIC,Real Time Clock Serial Maxim DS3231SN# Real Time Clock, Battery Backup, Calendar, Clock, I2C, 5.5 V, 16-Pin SOIC,2.65mm,Maxim Integrated,DS3231SN#,700-DS3231SN#,https://www.mouser.com/Search/Refine.aspx?Keyword=700-DS3231SN%23,1897251,http://uk.rs-online.com/web/p/products/1897251,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MOD1,E18-MS1PA1-IPX/PCB,EBYTE-E18-MS1PA1,EBYTE-E18-MS1PA1,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MOD2,AG9805-MT,SILVERTEL_AG9800M,SILVERTEL_AG9800M,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MOD3,RPI-HAT-FULL,RPI-HAT-FULL,RPI-HAT-FULL,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,4K7,RES-0603,_PKG_C_0603,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,0,TP_DUAL_1206,TP_DUAL_1206,To accomodate either0R 1206 link (oversized pads)2 x Harwin S2751-46R SMD Test Points (Digikey Link),,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,0,TP_DUAL_1206,TP_DUAL_1206,To accomodate either0R 1206 link (oversized pads)2 x Harwin S2751-46R SMD Test Points (Digikey Link),,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW1,DSHP03TS-S,SWITCH-DIP03-SMD,DSHP03TS-S,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW2,,SPNO-XKB-TS-1187A,XKB-TS-1187A,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP5,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP6,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP7,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP8,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP9,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP10,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP11,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP12,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP13,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP14,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP15,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP16,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP17,TP,TP,TP_DOT,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP18,TP-HOOK,TP-HOOK,TP_S2751-46R,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-ELECTROLAMA,LOGO-ELECTROLAMA,ELECTROLAMA,,,,,,,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0002-STAN-0C"
+        },
+        {
+            "name": "name",
+            "value": "Zoe Rev C"
+        }
+    ]
+}

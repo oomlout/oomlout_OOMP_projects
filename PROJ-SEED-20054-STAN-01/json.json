@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SEED"
+        },
+        {
+            "name": "oompColor",
+            "value": "20054"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "Grove - ADXL345 - 3-Axis Digital Accelerometer(+/-16g)"
+        },
+        {
+            "name": "linkBuyPage",
+            "value": "https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-16g.html"
+        },
+        {
+            "name": "hexID",
+            "value": "PRS20054"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SEED-20054-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SEED-20054-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Grove - ADXL345 - 3-Axis Digital Accelerometer(+/-16g)"
+        }
+    ]
+}

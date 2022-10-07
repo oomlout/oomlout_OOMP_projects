@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "RP2040 Stamp1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/rp2040_stamp_hw"
+        },
+        {
+            "name": "gitName",
+            "value": "rp2040_stamp_hw"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "rp2040_stamp.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "rp2040_stamp.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0001-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0001-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "RP2040 Stamp1"
+        }
+    ]
+}

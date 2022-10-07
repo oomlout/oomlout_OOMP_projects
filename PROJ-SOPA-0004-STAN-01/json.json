@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0004"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "Raspberry Pi Zero Adapter for the Keyboard FeatherWing1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/keyboard_featherwing_zero_adapter"
+        },
+        {
+            "name": "gitName",
+            "value": "keyboard_featherwing_zero_adapter"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "kfw_rpi_adapter.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "kfw_rpi_adapter.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO4"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0004-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0004-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Raspberry Pi Zero Adapter for the Keyboard FeatherWing1"
+        }
+    ]
+}

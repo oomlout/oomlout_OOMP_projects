@@ -1,0 +1,188 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ADAF"
+        },
+        {
+            "name": "oompColor",
+            "value": "1231"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "0B"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev B"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/adafruit/Adafruit_ADXL345_PCB"
+        },
+        {
+            "name": "gitName",
+            "value": "Adafruit_ADXL345_PCB"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "Adafruit ADXL345 Triple-Axis Accelerometer.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "Adafruit ADXL345 Triple-Axis Accelerometer.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRA1231B"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1231-STAN-0B"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-K4148-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,MOSN-SO23-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q2,MOSN-SO23-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,1N4148,DIODE_SOD323MINI,SOD-323_MINI,Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,,ACCEL_ADXL345,LGA14,ADXL345 - Digital 3-Axis Accelerometer (I2C/SPI),,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ADAF-1231-STAN-0B"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev B"
+        }
+    ]
+}

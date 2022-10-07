@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0003"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "The RP2040 Stamp Carrier1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/rp2040_stamp_carrier_hw"
+        },
+        {
+            "name": "gitName",
+            "value": "rp2040_stamp_carrier_hw"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "rp2040_stamp_carrier.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "rp2040_stamp_carrier.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO3"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0003-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0003-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "The RP2040 Stamp Carrier1"
+        }
+    ]
+}

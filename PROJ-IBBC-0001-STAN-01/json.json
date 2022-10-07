@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "IBBC"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 Breakout"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/oomlout/IBBC_0001"
+        },
+        {
+            "name": "gitName",
+            "value": "IBBC_0001"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "working/IBBC_0001/IBBC_0001.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "working/IBBC_0001/IBBC_0001.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRI1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-IBBC-0001-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-IBBC-0001-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 Breakout"
+        }
+    ]
+}
