@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ANLG"
+        },
+        {
+            "name": "oompColor",
+            "value": "0345"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "EVAL-ADXL345Z"
+        },
+        {
+            "name": "hexID",
+            "value": "PRAN1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ANLG-0345-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ANLG-0345-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "EVAL-ADXL345Z"
+        }
+    ]
+}
