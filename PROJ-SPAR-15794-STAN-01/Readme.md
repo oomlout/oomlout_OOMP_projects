@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15794-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPC-0603-X-UNMATCHED-01||C1, C3|
+|HEAD-UNMATCHED-X-PI04-01||J1|
+|HEAD-I01-X-UNMATCHED-01||J9|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$4|
+|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
+
 ## Images
   
   
@@ -52,6 +64,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Pi_SHIM (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15794
 - oompID: PROJ-SPAR-15794-STAN-01
+- oompParts: C1,CAPC-0603-X-UNMATCHED-01
+- oompParts: C3,CAPC-0603-X-UNMATCHED-01
+- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J9,HEAD-I01-X-UNMATCHED-01
+- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,VREG-SO235-X-KAP2112K-V33D
 - rawParts: C1,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,
 - rawParts: C3,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,CAP-00868,1.0uF,
 - rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,

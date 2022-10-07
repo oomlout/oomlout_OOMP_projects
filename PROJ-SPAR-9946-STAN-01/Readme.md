@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9946-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|CAPT-3216-X-UF10-01||C7|
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, U2|
+
 ## Images
   
   
@@ -52,6 +64,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9946
 - oompID: PROJ-SPAR-9946-STAN-01
+- oompParts: C1,CAPC-0402-X-UF47D-V63D
+- oompParts: C3,CAPC-0402-X-UF1-V63D
+- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: JP2,HEAD-I01-X-PI05-01
+- oompParts: JP4,HEAD-I01-X-PI05-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C7,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

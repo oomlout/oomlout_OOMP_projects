@@ -41,6 +41,86 @@
             "value": "PROJ-SPAR-9822-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPT-3216-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F1,REFU-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,TERS-35D-L-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP12,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },

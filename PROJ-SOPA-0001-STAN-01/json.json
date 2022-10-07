@@ -49,6 +49,286 @@
             "value": "PROJ-SOPA-0001-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "R2,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-UNMATCHED-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-UNMATCHED-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,VREG-UNMATCHED-X-KAP2112K-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,DIOD-2020-X-K2812-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C15,CAPC-UNMATCHED-X-PF12-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-UNMATCHED-X-PF12-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C16,CAPC-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPC-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-UNMATCHED-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,AP2112K-3.3,SOT-23-5,SOT-23-5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_3x2.5mm_SilkScreen,SolderParty-New-Logo_3x2.5mm_SilkScreen,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,RP2040,QFN-56_EP_7x7_Pitch0.4mm,QFN-56_EP_7x7_Pitch0.4mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,WS2812B-2020,WS2812B-2020,WS2812B-2020,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,12pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,12pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,MCP73831,SOT-23-5,SOT-23-5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,10uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,10uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,LED_CHR,LED_0603_1608Metric,LED_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,2K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,W25Q64JV,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,100K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW1,SW_RESET,SW_SPST_B3U-1000P,SW_SPST_B3U-1000P,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,27R,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,27R,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,BSS84,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,D_Schottky_Small,D_SOD-323,D_SOD-323,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,XYDBPCNANF-12MHZ,Crystal_SMD_2520-4Pin_2.5x2.0mm,Crystal_SMD_2520-4Pin_2.5x2.0mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,Jumper_Neopixel_VDD,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,Jumper_Neopixel,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_5x4.2mm_SilkScreen,SolderParty-New-Logo_5x4.2mm_SilkScreen,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SOPA-0001-STAN-01"
         },

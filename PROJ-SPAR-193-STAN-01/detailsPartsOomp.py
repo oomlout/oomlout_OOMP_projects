@@ -1,2 +1,6 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-193-STAN-01")
+
+newPart.addTag('oompParts','FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','HEADERS,HEAD-I01-X-UNMATCHED-01')
+newPart.addTag('oompParts','RJ11,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

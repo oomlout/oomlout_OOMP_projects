@@ -41,6 +41,54 @@
             "value": "PROJ-SPAR-449-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C4,CAPT-3216-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,LEDS-1206-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D5,LEDS-1206-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C4,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,,CAP-00811,10uF,,"
         },

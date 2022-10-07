@@ -41,6 +41,70 @@
             "value": "PROJ-SPAR-15353-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,MOSP-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O1243-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O1693-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,"
         },

@@ -8,6 +8,7 @@ Contents
 * [PRS9110 > Thumb Joystick Breakout](#prs9110--thumb-joystick-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,14 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -47,6 +56,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Thumb_Joystick_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9110
 - oompID: PROJ-SPAR-9110-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI05-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M05PTH,1X05,Header 5,,
 - rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 - rawParts: U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,

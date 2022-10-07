@@ -49,6 +49,78 @@
             "value": "PROJ-IBBC-0001-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "U2,VREG-UNMATCHED-X-KAP2112K-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,AP2112K-3.3,SOT-23-5_HandSoldering,SOT-23-5_HandSoldering,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,100nf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,PinHeader_1x06_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADXL343,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,PinHeader_1x04_P2.54mm_Vertical,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-IBBC-0001-STAN-01"
         },

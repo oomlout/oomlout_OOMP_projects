@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8777-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|UNMATCHED-SO23-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -52,6 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Temperature_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8777
 - oompID: PROJ-SPAR-8777-STAN-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: U1,UNMATCHED-SO23-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: TEMP+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
 - rawParts: TEMP-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,

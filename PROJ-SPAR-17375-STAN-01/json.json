@@ -41,6 +41,66 @@
             "value": "PROJ-SPAR-17375-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,DIOD-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O473-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "ADR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
         },

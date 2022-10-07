@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,20 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9627-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||2.2UH, Q1, Q2, Q3, Q4, U1, U2|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|CAPT-3216-X-UF10-01||C2, C3|
+|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[JP2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0402-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R2, R10, R11, R12, R13, R14, R15, R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|RESE-0402-X-O1803-01||R3|
+
 ## Images
   
   
@@ -52,6 +67,29 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mini_FET_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9627
 - oompID: PROJ-SPAR-9627-STAN-01
+- oompParts: 2.2UH,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: JP2,HEAD-I01-X-PI12-01
+- oompParts: JP3,HEAD-I01-X-PI12-01
+- oompParts: JP4,HEAD-I01-X-PI02-01
+- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O105-01
+- oompParts: R2,RESE-0402-X-O102-01
+- oompParts: R3,RESE-0402-X-O1803-01
+- oompParts: R10,RESE-0402-X-O102-01
+- oompParts: R11,RESE-0402-X-O102-01
+- oompParts: R12,RESE-0402-X-O102-01
+- oompParts: R13,RESE-0402-X-O102-01
+- oompParts: R14,RESE-0402-X-O102-01
+- oompParts: R15,RESE-0402-X-O102-01
+- oompParts: R16,RESE-0402-X-O102-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: 2.2UH,2.2uH,VLF4012A,VLF4012A,,,
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

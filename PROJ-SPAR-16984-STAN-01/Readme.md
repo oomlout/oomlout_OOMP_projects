@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,21 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16984-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-PF15-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[SMD (0402) 15 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|
+|[CAPC-0402-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|DIOD-S323-X-UNMATCHED-01||D2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, LOGO4, U1, U2, Y1|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|RESE-0402-X-UNMATCHED-01||R2, R3|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+
 ## Images
   
   
@@ -52,6 +68,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroMod_Processor_Board-nRF52840 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16984
 - oompID: PROJ-SPAR-16984-STAN-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-PF15-V50
+- oompParts: C3,CAPC-0402-X-PF15-V50
+- oompParts: C4,CAPC-0402-X-UF10-V63D
+- oompParts: C5,CAPC-0402-X-UF10-V63D
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: D1,LEDS-0603-L-STAN-01
+- oompParts: D2,DIOD-S323-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O102-01
+- oompParts: R2,RESE-0402-X-UNMATCHED-01
+- oompParts: R3,RESE-0402-X-UNMATCHED-01
+- oompParts: R4,RESE-0402-X-O103-01
+- oompParts: R5,RESE-0402-X-O103-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-0402T-16V-10%,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-12416,,0.1uF,
 - rawParts: C2,15pF,15PF-0402T-50V-5%,0402-TIGHT,15pF ceramic capacitors,,CAP-13063,,15pF,
 - rawParts: C3,15pF,15PF-0402T-50V-5%,0402-TIGHT,15pF ceramic capacitors,,CAP-13063,,15pF,

@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,23 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15332-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||A1, U1, Y1|
+|CAPC-0402-X-UF47-01||C1|
+|[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|CAPC-0402-X-UF22D-01||C3, C5, C8, C16|
+|CAPC-0402-X-UNMATCHED-01||C4, C12, C13, C14, C15|
+|CAPC-0402-X-PF6-01||C6, C7|
+|[CAPC-0402-X-NF47-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF47-V25/)|[SMD (0402) 47 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF47-V25/)|[C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF47-V25/)|
+|CAPC-0402-X-NF500-01||C18|
+|UNMATCHED-0805-X-UNMATCHED-01||L1, L2|
+|UNMATCHED-0402-X-UNMATCHED-01||L3, L4|
+|RESE-0402-X-UNMATCHED-01||R2|
+
 ## Images
   
   
@@ -52,6 +70,29 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Artemis (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15332
 - oompID: PROJ-SPAR-15332-STAN-01
+- oompParts: A1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-UF47-01
+- oompParts: C2,CAPC-0402-X-UF47D-V63D
+- oompParts: C3,CAPC-0402-X-UF22D-01
+- oompParts: C4,CAPC-0402-X-UNMATCHED-01
+- oompParts: C5,CAPC-0402-X-UF22D-01
+- oompParts: C6,CAPC-0402-X-PF6-01
+- oompParts: C7,CAPC-0402-X-PF6-01
+- oompParts: C8,CAPC-0402-X-UF22D-01
+- oompParts: C11,CAPC-0402-X-NF47-V25
+- oompParts: C12,CAPC-0402-X-UNMATCHED-01
+- oompParts: C13,CAPC-0402-X-UNMATCHED-01
+- oompParts: C14,CAPC-0402-X-UNMATCHED-01
+- oompParts: C15,CAPC-0402-X-UNMATCHED-01
+- oompParts: C16,CAPC-0402-X-UF22D-01
+- oompParts: C18,CAPC-0402-X-NF500-01
+- oompParts: L1,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: L2,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: L3,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: L4,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: R2,RESE-0402-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: A1,2.4GHZ-3.2X1.6MM,ANTENNA2.4GHZ-8.0X1.0MM,ANT-2.4GHZ-8.0X1.0MM,Single-ended Antennae,,ANT-14377,,,
 - rawParts: C1,0.47uF,470NF-0402_TIGHT-6.3V-10%-X5R,0402-TIGHT,0.47uF/470nF ceramic capacitors,,CAP-14242,,0.47uF,
 - rawParts: C2,4.7uF,4.7UF-0402_TIGHT-6.3V-20%-X5R,0402-TIGHT,4.7ÃÂµF ceramic capacitors,,CAP-14240,,4.7uF,

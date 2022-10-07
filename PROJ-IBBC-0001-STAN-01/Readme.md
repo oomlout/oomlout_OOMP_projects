@@ -7,6 +7,7 @@ Contents
 
 * [PRI1 > ](#pri1--)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -23,6 +24,17 @@ Contents
 ## Interactive BOM
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-IBBC-0001-STAN-01/kicad/bom/ibom.html)
+
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|VREG-UNMATCHED-X-KAP2112K-01||U2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, U1|
+|HEAD-I01-X-UNMATCHED-01||J2, J3, J4|
+|CAPC-UNMATCHED-X-NF100-01||C3|
+|CAPC-UNMATCHED-X-UF10-01||C2, C1|
 
 ## Images
   
@@ -46,6 +58,24 @@ Contents
 - kicadSchem: working/IBBC_0001/IBBC_0001.kicad_sch
 - hexID: PRI1
 - oompID: PROJ-IBBC-0001-STAN-01
+- oompParts: U2,VREG-UNMATCHED-X-KAP2112K-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-UNMATCHED-01
+- oompParts: C3,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C2,CAPC-UNMATCHED-X-UF10-01
+- oompParts: C1,CAPC-UNMATCHED-X-UF10-01
+- oompParts: J3,HEAD-I01-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-I01-X-UNMATCHED-01
+- rawParts: U2,AP2112K-3.3,SOT-23-5_HandSoldering,SOT-23-5_HandSoldering,,,,
+- rawParts: J1,Conn_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,
+- rawParts: J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,
+- rawParts: C3,100nf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,
+- rawParts: C2,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,
+- rawParts: C1,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,
+- rawParts: J3,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,PinHeader_1x06_P2.54mm_Vertical,,,,
+- rawParts: U1,ADXL343,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,,,,
+- rawParts: J4,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,PinHeader_1x04_P2.54mm_Vertical,,,,
 
 
 

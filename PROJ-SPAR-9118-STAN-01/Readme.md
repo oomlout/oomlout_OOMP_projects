@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9118-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||FRAME1, U1|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-SO23-X-UNMATCHED-01||Q1, Q2|
+|[RESE-0603-X-O221-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)|[SMD (0603) 220 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O221-01/)|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R3, R4, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+
 ## Images
   
   
@@ -52,6 +64,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Opto_Isolator_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9118
 - oompID: PROJ-SPAR-9118-STAN-01
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI04-01
+- oompParts: JP2,HEAD-I01-X-PI04-01
+- oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
+- oompParts: Q2,UNMATCHED-SO23-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O221-01
+- oompParts: R2,RESE-0603-X-O221-01
+- oompParts: R3,RESE-0603-X-O103-01
+- oompParts: R4,RESE-0603-X-O103-01
+- oompParts: R5,RESE-0603-X-O103-01
+- oompParts: R6,RESE-0603-X-O103-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,v01,
 - rawParts: JP1,,M04PTH,1X04,Header 4,,,,,
 - rawParts: JP2,,M04PTH,1X04,Header 4,,,,,

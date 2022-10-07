@@ -41,6 +41,58 @@
             "value": "PROJ-SPAR-15177-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-UF22D-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,2.2uF,2.2UF-0603-10V-20%,0603,2.2\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-07888,2.2uF,"
         },

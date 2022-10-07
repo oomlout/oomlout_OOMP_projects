@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,21 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15270-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|DIOD-S323-X-UNMATCHED-01||D2, D4, D5, D6|
+|[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||Q1, U1, U3|
+|MOSP-SO23-X-UNMATCHED-01||Q3|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+
 ## Images
   
   
@@ -52,6 +68,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/gator_log (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15270
 - oompID: PROJ-SPAR-15270-STAN-01
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: D1,LEDS-0603-L-STAN-01
+- oompParts: D2,DIOD-S323-X-UNMATCHED-01
+- oompParts: D3,LEDS-0603-G-STAN-01
+- oompParts: D4,DIOD-S323-X-UNMATCHED-01
+- oompParts: D5,DIOD-S323-X-UNMATCHED-01
+- oompParts: D6,DIOD-S323-X-UNMATCHED-01
+- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q3,MOSP-SO23-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O102-01
+- oompParts: R2,RESE-0603-X-O103-01
+- oompParts: R3,RESE-0603-X-O103-01
+- oompParts: R6,RESE-0603-X-O331-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08604,,0.1uF,
 - rawParts: C3,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08604,,0.1uF,
 - rawParts: D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,BLUE,

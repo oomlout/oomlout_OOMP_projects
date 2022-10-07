@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9101-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-PI01-01||JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP20, JP21, JP22|
+
 ## Images
   
   
@@ -52,6 +60,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Large (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9101
 - oompID: PROJ-SPAR-9101-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI01-01
+- oompParts: JP2,HEAD-I01-X-PI01-01
+- oompParts: JP3,HEAD-I01-X-PI01-01
+- oompParts: JP4,HEAD-I01-X-PI01-01
+- oompParts: JP5,HEAD-I01-X-PI01-01
+- oompParts: JP6,HEAD-I01-X-PI01-01
+- oompParts: JP7,HEAD-I01-X-PI01-01
+- oompParts: JP8,HEAD-I01-X-PI01-01
+- oompParts: JP9,HEAD-I01-X-PI01-01
+- oompParts: JP10,HEAD-I01-X-PI01-01
+- oompParts: JP11,HEAD-I01-X-PI01-01
+- oompParts: JP12,HEAD-I01-X-PI01-01
+- oompParts: JP13,HEAD-I01-X-PI01-01
+- oompParts: JP14,HEAD-I01-X-PI01-01
+- oompParts: JP15,HEAD-I01-X-PI01-01
+- oompParts: JP16,HEAD-I01-X-PI01-01
+- oompParts: JP17,HEAD-I01-X-PI01-01
+- oompParts: JP18,HEAD-I01-X-PI01-01
+- oompParts: JP19,HEAD-I01-X-PI01-01
+- oompParts: JP20,HEAD-I01-X-PI01-01
+- oompParts: JP21,HEAD-I01-X-PI01-01
+- oompParts: JP22,HEAD-I01-X-PI01-01
 - rawParts: GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,
 - rawParts: JP1,,M01SMDNS,1X01NS,Header 1,,
 - rawParts: JP2,,M01SMDNS,1X01NS,Header 1,,

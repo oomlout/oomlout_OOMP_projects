@@ -41,6 +41,66 @@
             "value": "PROJ-SPAR-9607-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPX-7343-X-UF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },

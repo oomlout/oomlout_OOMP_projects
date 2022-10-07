@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,23 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-11812-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPT-3216-X-UF10-01||C1|
+|CAPC-0603-X-PF47-01||C3, C4|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C5, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1, D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D3, D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|HEAD-I01-X-PI11-01||JP5, JP6|
+|RESE-0603-X-O270-01||R2, R5|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R4, R6, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S2, U2, U4, X1|
+|UNMATCHED-SO235-X-UNMATCHED-01||U3|
+
 ## Images
   
   
@@ -52,6 +70,29 @@ Contents
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_USB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11812
 - oompID: PROJ-SPAR-11812-STAN-01
+- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPC-0603-X-PF47-01
+- oompParts: C4,CAPC-0603-X-PF47-01
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: D2,LEDS-0603-R-STAN-01
+- oompParts: D3,LEDS-0603-G-STAN-01
+- oompParts: D4,LEDS-0603-G-STAN-01
+- oompParts: JP5,HEAD-I01-X-PI11-01
+- oompParts: JP6,HEAD-I01-X-PI11-01
+- oompParts: R2,RESE-0603-X-O270-01
+- oompParts: R4,RESE-0603-X-O102-01
+- oompParts: R5,RESE-0603-X-O270-01
+- oompParts: R6,RESE-0603-X-O102-01
+- oompParts: R7,RESE-0603-X-O331-01
+- oompParts: R8,RESE-0603-X-O102-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,
 - rawParts: C3,47pF,CAP0603-CAP,0603-CAP,Capacitor,,,
 - rawParts: C4,47pF,CAP0603-CAP,0603-CAP,Capacitor,,,

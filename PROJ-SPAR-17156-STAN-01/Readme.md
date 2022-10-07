@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,16 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17156-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_ISO, D1_BP, J1, J2, J3, J4, J5, S1|
+|DIOD-S323-X-UNMATCHED-01||D1|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+
 ## Images
   
   
@@ -52,6 +63,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Teensy_Extended (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17156
 - oompID: PROJ-SPAR-17156-STAN-01
+- oompParts: 3V3_ISO,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,DIOD-S323-X-UNMATCHED-01
+- oompParts: D1_BP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J6,HEAD-I01-X-PI02-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: 3V3_ISO,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
 - rawParts: D1,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,DIO-14072,,3A/10V/280mV,
 - rawParts: D1_BP,,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,

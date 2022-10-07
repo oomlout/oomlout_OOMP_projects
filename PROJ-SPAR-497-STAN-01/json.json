@@ -41,6 +41,18 @@
             "value": "PROJ-SPAR-497-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP2,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
         },

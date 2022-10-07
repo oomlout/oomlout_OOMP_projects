@@ -41,6 +41,226 @@
             "value": "PROJ-SPAR-16400-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "3V3_LED,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPT-3216-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0603-X-NF220-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-0603-X-NF220-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C22,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C23,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C29,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C30,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C31,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C46,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,DIOD-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,LEDS-0603-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D6,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "E1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "E2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "EN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "EN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J6,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J8,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J9,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J10,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J14,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0603-X-O203-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VE,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VIN_LED,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "3V3_LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
         },

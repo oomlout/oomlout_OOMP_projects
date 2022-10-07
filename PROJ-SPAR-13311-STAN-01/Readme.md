@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-13311-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||FRAME1, JP1, JP9, S2, S3|
+|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED1, LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[LED3, LED4, LED5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1, R2, R3, R4, R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+
 ## Images
   
   
@@ -52,6 +64,23 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Teensy_3_1_XBee_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13311
 - oompID: PROJ-SPAR-13311-STAN-01
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-PI10-01
+- oompParts: JP3,HEAD-I01-X-PI10-01
+- oompParts: JP9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LED2,LEDS-0603-R-STAN-01
+- oompParts: LED3,LEDS-0603-G-STAN-01
+- oompParts: LED4,LEDS-0603-G-STAN-01
+- oompParts: LED5,LEDS-0603-G-STAN-01
+- oompParts: R1,RESE-0603-X-O102-01
+- oompParts: R2,RESE-0603-X-O102-01
+- oompParts: R3,RESE-0603-X-O102-01
+- oompParts: R4,RESE-0603-X-O102-01
+- oompParts: R11,RESE-0603-X-O102-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
 - rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
 - rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Marshall Taylor,,,v10,

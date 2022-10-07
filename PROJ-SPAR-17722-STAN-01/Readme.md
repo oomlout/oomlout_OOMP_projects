@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,35 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17722-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BT1, BT2, E1, F2, J1, J3, J4, J5, J6, J8, MEAS, S1, S2, U1, U5|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C3, C4, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPT-3216-X-UF10-01||C2|
+|CAPC-0603-X-UNMATCHED-01||C5|
+|[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C7, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
+|CAPC-0603-X-PF47-01||C8|
+|DIOD-S323-X-UNMATCHED-01||D1, D5, D6, D7, D11, D12|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D2, D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D4|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D8, D9, D10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|DIOD-0402-X-UNMATCHED-01||D13|
+|FERB-0402-X-UNMATCHED-01||FB1|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J7, J9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[J10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1, R4, R8, R19, R20, R21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R3, R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|RESE-0603-X-O1003-01||R5, R22|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O203-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|[SMD (0603) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|[R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O203-01/)|
+|RESE-1206-X-O330-01||R11, R12, R13|
+|RESE-0402-X-UNMATCHED-01||R15, R16|
+|[RESE-0603-X-O330-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|[SMD (0603) 33 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|[R17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O330-01/)|
+|RESE-0603-X-UNMATCHED-01||R24|
+
 ## Images
   
   
@@ -52,6 +82,68 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroMod_GNSS_F9P_Carrier_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17722
 - oompID: PROJ-SPAR-17722-STAN-01
+- oompParts: BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: BT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-UNMATCHED-01
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-NF220-V25
+- oompParts: C8,CAPC-0603-X-PF47-01
+- oompParts: C13,CAPC-0603-X-NF220-V25
+- oompParts: D1,DIOD-S323-X-UNMATCHED-01
+- oompParts: D2,LEDS-0603-R-STAN-01
+- oompParts: D3,LEDS-0603-R-STAN-01
+- oompParts: D4,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D5,DIOD-S323-X-UNMATCHED-01
+- oompParts: D6,DIOD-S323-X-UNMATCHED-01
+- oompParts: D7,DIOD-S323-X-UNMATCHED-01
+- oompParts: D8,LEDS-0603-L-STAN-01
+- oompParts: D9,LEDS-0603-L-STAN-01
+- oompParts: D10,LEDS-0603-L-STAN-01
+- oompParts: D11,DIOD-S323-X-UNMATCHED-01
+- oompParts: D12,DIOD-S323-X-UNMATCHED-01
+- oompParts: D13,DIOD-0402-X-UNMATCHED-01
+- oompParts: E1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: FB1,FERB-0402-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J7,HEAD-I01-X-PI06-01
+- oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J9,HEAD-I01-X-PI06-01
+- oompParts: J10,HEAD-I01-X-PI12-01
+- oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O102-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O102-01
+- oompParts: R5,RESE-0603-X-O1003-01
+- oompParts: R6,RESE-0603-X-O472-01
+- oompParts: R7,RESE-0603-X-O472-01
+- oompParts: R8,RESE-0603-X-O102-01
+- oompParts: R9,RESE-0603-X-O103-01
+- oompParts: R10,RESE-0603-X-O203-01
+- oompParts: R11,RESE-1206-X-O330-01
+- oompParts: R12,RESE-1206-X-O330-01
+- oompParts: R13,RESE-1206-X-O330-01
+- oompParts: R15,RESE-0402-X-UNMATCHED-01
+- oompParts: R16,RESE-0402-X-UNMATCHED-01
+- oompParts: R17,RESE-0603-X-O330-01
+- oompParts: R19,RESE-0603-X-O102-01
+- oompParts: R20,RESE-0603-X-O102-01
+- oompParts: R21,RESE-0603-X-O102-01
+- oompParts: R22,RESE-0603-X-O1003-01
+- oompParts: R24,RESE-0603-X-UNMATCHED-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: 3V3,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,
 - rawParts: BT1,ML414H,ML414H_IV01E_BATTERY,ML414H_IV01E,SEIKO ML414H-IV01E Reflowable Lithium Battery,,,,BATT-14267,,,
 - rawParts: BT2,ML414H_IV01E_BATTERY,ML414H_IV01E_BATTERY,ML414H_IV01E,SEIKO ML414H-IV01E Reflowable Lithium Battery,,,,BATT-14267,,,

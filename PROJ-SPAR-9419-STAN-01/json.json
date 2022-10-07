@@ -41,6 +41,58 @@
             "value": "PROJ-SPAR-9419-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MICRO-SDCARD,MICRO-SDCARD,MICRO-SDCARD,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOM,OSHW-LOGO-M,OSHW-LOGO-M,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE_LOGO_FLAME_.2,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,1X08,1X08,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,microSD Socket,MICROSD_1_1,MICROSD_1_1,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL-1X2,FIDUCIAL-1X2,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL-1X2,FIDUCIAL-1X2,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,,CREATIVE_COMMONS,CREATIVE_COMMONS,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE_LOGO_NAME_FLAME_.1,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9419-STAN-01"
         },

@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8236-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP2|
+
 ## Images
   
   
@@ -52,6 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Navigation_Switch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8236
 - oompID: PROJ-SPAR-8236-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI04-01
+- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M04PTH,1X04,Header 4,,
 - rawParts: JP2,NAV_SWITCH,NAV_SWITCHSMD,NAV_SWITCH,Navigation Switch,,
 - rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,

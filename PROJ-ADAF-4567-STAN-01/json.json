@@ -41,6 +41,86 @@
             "value": "PROJ-ADAF-4567-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0805-X-UF22D-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "CONN1,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,DIOD-S123-X-KMBR120-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0805-X-O9103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RPI1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$33,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
         },

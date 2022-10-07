@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-9773-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "F1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,TERS-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,DCJP-21D-X-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,TERS-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "F1,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,,,,,,"
         },

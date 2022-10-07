@@ -8,6 +8,7 @@ Contents
 * [PRS9964 > Electret Microphone Breakout](#prs9964--electret-microphone-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,22 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
+|[CAPC-0402-X-PF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|[SMD (0402) 100 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||M1|
+|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|RESE-0402-X-O1003-01||R5|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -47,6 +64,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Electret_Microphone_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9964
 - oompID: PROJ-SPAR-9964-STAN-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-UF1-V63D
+- oompParts: C3,CAPC-0402-X-PF100-V50
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: JP1,HEAD-I01-X-PI03-01
+- oompParts: M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O222-01
+- oompParts: R2,RESE-0402-X-O103-01
+- oompParts: R3,RESE-0402-X-O103-01
+- oompParts: R4,RESE-0402-X-O102-01
+- oompParts: R5,RESE-0402-X-O1003-01
+- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,100pF,CAP0402-CAP,0402-CAP,Capacitor,,

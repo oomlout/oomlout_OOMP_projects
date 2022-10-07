@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-9370-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPX-UNMATCHED-X-UNMATCHED-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPE-PANC-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "IN,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "OUT,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,100uF-25V,CAP_POL,NIPPON_F80,Capacitor Polarized,,"
         },

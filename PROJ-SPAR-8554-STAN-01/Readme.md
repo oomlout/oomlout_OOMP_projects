@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,18 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8554-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|CAPC-0603-X-NF47-01||C2|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[RESE-0603-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+|[RESE-0603-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -52,6 +65,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/IR_Receiver_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8554
 - oompID: PROJ-SPAR-8554-STAN-01
+- oompParts: C1,CAPC-0603-X-UF1-V25
+- oompParts: C2,CAPC-0603-X-NF47-01
+- oompParts: JP1,HEAD-I01-X-PI03-01
+- oompParts: R1,RESE-0603-X-O101-01
+- oompParts: R2,RESE-0603-X-O222-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C2,47nF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: JP1,,M03PTH,1X03,Header 3,,

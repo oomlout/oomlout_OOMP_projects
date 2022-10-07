@@ -8,6 +8,7 @@ Contents
 * [PRS9981 > SC16IS750 Breakout](#prs9981--sc16is750-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,20 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-PF18-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[SMD (0402) 18 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
+|CAPT-3216-X-UF10-01||C3|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, Q1|
+|HEAD-I01-X-PI11-01||JP2, JP4|
+|[RESE-0402-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -47,6 +62,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SC16IS750_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9981
 - oompID: PROJ-SPAR-9981-STAN-01
+- oompParts: C1,CAPC-0402-X-PF18-V50
+- oompParts: C2,CAPC-0402-X-PF18-V50
+- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-PI11-01
+- oompParts: JP4,HEAD-I01-X-PI11-01
+- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O105-01
+- oompParts: R2,RESE-0402-X-O102-01
+- oompParts: R3,RESE-0402-X-O102-01
+- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,18pF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,18pF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,

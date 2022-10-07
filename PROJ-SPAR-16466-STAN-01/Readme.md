@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16466-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2CPU, J5, J7, U1|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|RESE-UNMATCHED-X-O472-01||R1, R3, R4, R5|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+
 ## Images
   
   
@@ -52,6 +66,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16466
 - oompID: PROJ-SPAR-16466-STAN-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: I2CPU,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-I01-X-PI04-01
+- oompParts: J2,HEAD-I01-X-PI06-01
+- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-UNMATCHED-X-O472-01
+- oompParts: R2,RESE-0603-X-O102-01
+- oompParts: R3,RESE-UNMATCHED-X-O472-01
+- oompParts: R4,RESE-UNMATCHED-X-O472-01
+- oompParts: R5,RESE-UNMATCHED-X-O472-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: ADDR,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,
 - rawParts: C1,0.1uF,0.1UF-0603-100V-10%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08390,,0.1uF,
 - rawParts: C2,0.1uF,0.1UF-0603-100V-10%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08390,,0.1uF,

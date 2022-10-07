@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,22 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15451-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C4, C6, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|CAPC-0402-X-UNMATCHED-01||C3, C5, C7, C8|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[TERS-35D-L-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[3.5 mm 4 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, J4, TP1, TP2, TP3, TP4, TP5, TP6, U1, U2|
+|[RESE-0603-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|RESE-0603-X-O10-01||R4, R5|
+
 ## Images
   
   
@@ -52,6 +69,33 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Motor_Driver (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15451
 - oompID: PROJ-SPAR-15451-STAN-01
+- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-UNMATCHED-01
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: C5,CAPC-0402-X-UNMATCHED-01
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-UNMATCHED-01
+- oompParts: C8,CAPC-0402-X-UNMATCHED-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: D1,LEDS-0603-L-STAN-01
+- oompParts: J1,TERS-35D-L-PI02-01
+- oompParts: J2,TERS-35D-L-PI04-01
+- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O471-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O10-01
+- oompParts: R5,RESE-0603-X-O10-01
+- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,10UF-0805-25V-10%,0805,10.0ÃÂµF ceramic capacitors,CAP-14259,10uF,
 - rawParts: C2,0.1uF,0.1UF-0402-16V-10%,0402,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,
 - rawParts: C3,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,

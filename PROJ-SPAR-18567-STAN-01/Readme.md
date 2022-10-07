@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,22 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-18567-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||B1, I2C, J1, J3, JP1, JP2, JP3, JP4, JP5, JP6, MEAS, S1, S2, S3, TP1, U1|
+|[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
+|[CAPC-0603-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[SMD (0603) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|RESE-0603-X-UNMATCHED-01||R1|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R3, R4, R5, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
+|[RESE-0603-X-O201-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|[SMD (0603) 200 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O201-01/)|
+
 ## Images
   
   
@@ -52,6 +69,37 @@ Contents
 - sources: All source files from https://github.com/sparkfun/WiFi_Shield-DA16200 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18567
 - oompID: PROJ-SPAR-18567-STAN-01
+- oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C2,CAPC-0603-X-UF1-V25
+- oompParts: C3,CAPC-0603-X-UF1-V25
+- oompParts: C4,CAPC-0603-X-UF10-V63D
+- oompParts: D1,LEDS-0603-R-STAN-01
+- oompParts: I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI06-01
+- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-I01-X-PI08-01
+- oompParts: J5,HEAD-I01-X-PI04-01
+- oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-UNMATCHED-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: R5,RESE-0603-X-O472-01
+- oompParts: R6,RESE-0603-X-O201-01
+- oompParts: R7,RESE-0603-X-O472-01
+- oompParts: R8,RESE-0603-X-O472-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: B1,ARDUINO_UNO_R3_SHIELD,ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK,UNO_R3_SHIELD_NOLABELS_LOCK,Arduino R3 Shield Footprint,,,,,,
 - rawParts: C1,DNP,CAP-0603,0603,,,,,,,
 - rawParts: C2,1uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,,CAP-00868,,,1.0uF,

@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9760-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S1, S2, S3, S4, S6, U1, U2|
+
 ## Images
   
   
@@ -52,6 +60,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Joystick_Shield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9760
 - oompID: PROJ-SPAR-9760-STAN-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 - rawParts: S1,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,
 - rawParts: S2,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,

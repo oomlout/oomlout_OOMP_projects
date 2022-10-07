@@ -1,2 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9607-STAN-01")
+
+newPart.addTag('oompParts','C3,CAPC-0603-X-NF100-V50')
+newPart.addTag('oompParts','C5,CAPX-7343-X-UF100-01')
+newPart.addTag('oompParts','JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','JP5,HEAD-I01-X-PI05-01')
+newPart.addTag('oompParts','JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','LED1,LEDS-0603-R-STAN-01')
+newPart.addTag('oompParts','R1,RESE-0603-X-O223-01')
+newPart.addTag('oompParts','R2,RESE-0603-X-O103-01')
+newPart.addTag('oompParts','R3,RESE-0603-X-O103-01')
+newPart.addTag('oompParts','R6,RESE-0603-X-O331-01')
+newPart.addTag('oompParts','S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

@@ -41,6 +41,62 @@
             "value": "PROJ-SPAR-9565-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED4,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED5,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED6,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED7,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED8,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED9,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED10,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
         },

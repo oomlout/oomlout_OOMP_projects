@@ -41,6 +41,62 @@
             "value": "PROJ-SPAR-8245-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C5,CAPT-3216-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "F1,REFU-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "POWER,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C5,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
         },

@@ -41,6 +41,74 @@
             "value": "PROJ-SPAR-16826-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-PF10-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-PF10-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI2X13-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "BYP,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
         },

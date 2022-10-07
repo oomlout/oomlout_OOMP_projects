@@ -41,6 +41,90 @@
             "value": "PROJ-SPAR-691-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-PF22-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-PF22-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-NF33-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0402-X-PF22D-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0402-X-PF47D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0402-X-PF15D-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0402-X-NF10-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0402-X-NF1-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPT-3216-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L2,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L3,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,22pF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },

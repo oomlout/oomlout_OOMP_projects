@@ -41,6 +41,90 @@
             "value": "PROJ-SPAR-9598-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP7,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP8,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP9,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP10,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0402-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "D1,,DIODESMA,SMA-DIODE,Diode,,"
         },

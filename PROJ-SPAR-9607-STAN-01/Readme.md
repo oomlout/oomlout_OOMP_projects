@@ -8,6 +8,7 @@ Contents
 * [PRS9607 > SM5100B Cellular Shield](#prs9607--sm5100b-cellular-shield)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,20 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPX-7343-X-UF100-01||C5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP4, JP6, S1, U1, U2, U3, U4|
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|[RESE-0603-X-O223-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|[SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[SMD (0603) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O331-01/)|
+
 ## Images
   
   
@@ -47,6 +62,21 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SM5100B_Cellular_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9607
 - oompID: PROJ-SPAR-9607-STAN-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPX-7343-X-UF100-01
+- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP5,HEAD-I01-X-PI05-01
+- oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: R1,RESE-0603-X-O223-01
+- oompParts: R2,RESE-0603-X-O103-01
+- oompParts: R3,RESE-0603-X-O103-01
+- oompParts: R6,RESE-0603-X-O331-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C5,100uF,CAP_POL7343,EIA7343,Capacitor Polarized,,
 - rawParts: JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

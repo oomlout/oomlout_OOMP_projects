@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,16 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-7841-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-1206-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[SMD (1206) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, X2|
+
 ## Images
   
   
@@ -52,6 +63,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FT245RL_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/7841
 - oompID: PROJ-SPAR-7841-STAN-01
+- oompParts: C1,CAPC-1206-X-UF10-V25
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: JP1,HEAD-I01-X-PI09-01
+- oompParts: JP2,HEAD-I01-X-PI09-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,CPOL_1206,,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

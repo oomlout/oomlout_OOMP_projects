@@ -8,6 +8,7 @@ Contents
 * [PRS9267 > LilyPad Accelerometer-ADXL335](#prs9267--lilypad-accelerometer-adxl335)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,15 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|RESE-0402-X-UNMATCHED-01||R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -47,6 +57,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9267
 - oompID: PROJ-SPAR-9267-STAN-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: R1,RESE-0402-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

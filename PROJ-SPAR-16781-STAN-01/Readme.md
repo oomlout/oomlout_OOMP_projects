@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,31 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16781-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||A1, J1, LOGO1, Q2, U1, U2, U4, Y1, Y2|
+|CAPC-0402-X-PF270-01||C1, C2|
+|[CAPC-0402-X-PF12-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[SMD (0402) 12 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|
+|[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[SMD (0402) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C6, C17, C20, C21, C23, C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|[CAPC-0402-X-PF15-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[SMD (0402) 15 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[C9, C26](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|
+|[CAPC-0402-X-PF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|[SMD (0402) 100 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|[C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF100-V50/)|
+|[CAPC-0402-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|
+|CAPC-0402-X-UNMATCHED-01||C24|
+|CAPC-0402-X-PF30D-01||C27|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|UNMATCHED-0402-X-UNMATCHED-01||L1|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R1, R9, R17, R18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O203-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|[SMD (0402) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|
+|RESE-0402-X-O223-01||R3|
+|RESE-0402-X-O333-01||R4|
+|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+
 ## Images
   
   
@@ -52,6 +78,44 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroMod_ESP32_Processor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16781
 - oompID: PROJ-SPAR-16781-STAN-01
+- oompParts: A1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-PF270-01
+- oompParts: C2,CAPC-0402-X-PF270-01
+- oompParts: C3,CAPC-0402-X-PF12-V50
+- oompParts: C4,CAPC-0402-X-PF12-V50
+- oompParts: C5,CAPC-0402-X-NF10-V50
+- oompParts: C6,CAPC-0402-X-NF100-V10
+- oompParts: C7,CAPC-0402-X-UF47D-V63D
+- oompParts: C9,CAPC-0402-X-PF15-V50
+- oompParts: C17,CAPC-0402-X-NF100-V10
+- oompParts: C18,CAPC-0402-X-PF100-V50
+- oompParts: C20,CAPC-0402-X-NF100-V10
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C22,CAPC-0402-X-UF10-V63D
+- oompParts: C23,CAPC-0402-X-NF100-V10
+- oompParts: C24,CAPC-0402-X-UNMATCHED-01
+- oompParts: C25,CAPC-0402-X-NF100-V10
+- oompParts: C26,CAPC-0402-X-PF15-V50
+- oompParts: C27,CAPC-0402-X-PF30D-01
+- oompParts: D4,LEDS-0603-L-STAN-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: L1,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: LOGO1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O103-01
+- oompParts: R2,RESE-0402-X-O203-01
+- oompParts: R3,RESE-0402-X-O223-01
+- oompParts: R4,RESE-0402-X-O333-01
+- oompParts: R5,RESE-0402-X-O222-01
+- oompParts: R8,RESE-0402-X-O102-01
+- oompParts: R9,RESE-0402-X-O103-01
+- oompParts: R17,RESE-0402-X-O103-01
+- oompParts: R18,RESE-0402-X-O103-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: A1,,ANTENNA2.4GHZ-8.0X1.0MM,ANT-2.4GHZ-8.0X1.0MM,Single-ended Antennae,,ANT-14377,,,
 - rawParts: C1,270pF,270PF-0402T-50V-5%,0402-TIGHT,270pF/0.27nF ceramic capacitors,,CAP-15129,,270pF,
 - rawParts: C2,270pF,270PF-0402T-50V-5%,0402-TIGHT,270pF/0.27nF ceramic capacitors,,CAP-15129,,270pF,

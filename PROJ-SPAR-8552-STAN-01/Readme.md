@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8552-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||DB9|
+|[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
+
 ## Images
   
   
@@ -52,6 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_DB9_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8552
 - oompID: PROJ-SPAR-8552-STAN-01
+- oompParts: DB9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI09-01
 - rawParts: DB9,,DB9,DB9,DB9 Connector,,
 - rawParts: JP1,M09,M09,1X09,Header 9,,
 - rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

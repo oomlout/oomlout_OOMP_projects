@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,33 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17381-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[SMD (0603) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C3, C6, C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
+|CAPC-0402-X-UNMATCHED-01||C7, C10|
+|[LEDS-0603-Y-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[SMD (0603) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
+|DIOD-S323-X-UNMATCHED-01||D2|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, J5, LOGO4, Q2, TP1, U4, U5|
+|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|HEAD-I01-X-UNMATCHED-01||JP2|
+|UNMATCHED-SO23-X-UNMATCHED-01||Q1|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1, R2, R7, R17, R18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|RESE-0402-X-O223-01||R5|
+|RESE-0603-X-UNMATCHED-01||R6|
+|RESE-0402-X-O1003-01||R8|
+|RESE-0402-X-O333-01||R9|
+|UNMATCHED-4628-X-UNMATCHED-01||S1, S2|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
+|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[U3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
+
 ## Images
   
   
@@ -52,6 +80,42 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ESP32_Thing_Plus_U.FL (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17381
 - oompID: PROJ-SPAR-17381-STAN-01
+- oompParts: C1,CAPC-0603-X-UF10-V63D
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-UF47D-V63D
+- oompParts: C6,CAPC-0402-X-UF47D-V63D
+- oompParts: C7,CAPC-0402-X-UNMATCHED-01
+- oompParts: C10,CAPC-0402-X-UNMATCHED-01
+- oompParts: C19,CAPC-0402-X-UF47D-V63D
+- oompParts: D1,LEDS-0603-Y-STAN-01
+- oompParts: D2,DIOD-S323-X-UNMATCHED-01
+- oompParts: D3,LEDS-0603-L-STAN-01
+- oompParts: J2,HEAD-I01-X-PI12-01
+- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-I01-X-PI16-01
+- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
+- oompParts: LOGO4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q1,UNMATCHED-SO23-X-UNMATCHED-01
+- oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O103-01
+- oompParts: R2,RESE-0603-X-O103-01
+- oompParts: R3,RESE-0603-X-O102-01
+- oompParts: R4,RESE-0603-X-O102-01
+- oompParts: R5,RESE-0402-X-O223-01
+- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R7,RESE-0603-X-O103-01
+- oompParts: R8,RESE-0402-X-O1003-01
+- oompParts: R9,RESE-0402-X-O333-01
+- oompParts: R17,RESE-0603-X-O103-01
+- oompParts: R18,RESE-0603-X-O103-01
+- oompParts: S1,UNMATCHED-4628-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-4628-X-UNMATCHED-01
+- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U3,VREG-SO235-X-KAP2112K-V33D
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,CAP-11015,10uF,
 - rawParts: C2,0.1uF,0.1UF-0402T-16V-10%,0402-TIGHT,0.1ÃÂµF ceramic capacitors,CAP-12416,0.1uF,
 - rawParts: C3,4.7uF,4.7UF-0402_TIGHT-6.3V-20%-X5R,0402-TIGHT,4.7ÃÂµF ceramic capacitors,CAP-14240,4.7uF,

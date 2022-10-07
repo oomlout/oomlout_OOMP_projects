@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,22 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8872-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-UF10-01||C1, C2, C3, C5|
+|CAPX-UNMATCHED-X-UF100-01||C4|
+|[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP1, JP2, JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LEDS-UNMATCHED-R-STAN-01||LED1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||Q1, S1|
+|RESE-UNMATCHED-X-O121-01||R1|
+|RESE-UNMATCHED-X-O222-01||R2|
+|RESE-UNMATCHED-X-O472-01||R3|
+|RESE-UNMATCHED-X-O2203-01||R4|
+
 ## Images
   
   
@@ -52,6 +69,23 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mic_Preamp (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8872
 - oompID: PROJ-SPAR-8872-STAN-01
+- oompParts: C1,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C2,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C3,CAPX-UNMATCHED-X-UF10-01
+- oompParts: C4,CAPX-UNMATCHED-X-UF100-01
+- oompParts: C5,CAPX-UNMATCHED-X-UF10-01
+- oompParts: J1,DCJP-21D-X-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI02-01
+- oompParts: JP2,HEAD-I01-X-PI02-01
+- oompParts: JP3,HEAD-I01-X-PI02-01
+- oompParts: JP4,HEAD-I01-X-PI02-01
+- oompParts: LED1,LEDS-UNMATCHED-R-STAN-01
+- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-UNMATCHED-X-O121-01
+- oompParts: R2,RESE-UNMATCHED-X-O222-01
+- oompParts: R3,RESE-UNMATCHED-X-O472-01
+- oompParts: R4,RESE-UNMATCHED-X-O2203-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,
 - rawParts: C2,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,
 - rawParts: C3,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,

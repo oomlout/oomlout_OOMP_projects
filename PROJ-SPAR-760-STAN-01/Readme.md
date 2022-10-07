@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,20 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-760-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3, C4, C5, C6, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPT-3216-X-UF10-01||C7, C9|
+|CAPX-3528-X-UF47-01||C8|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, IC2, IC3, IC4, U2, U3, ULN2803|
+|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
+
 ## Images
   
   
@@ -52,6 +67,50 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LED_Matrix_Serial_Interface_RGB (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/760
 - oompID: PROJ-SPAR-760-STAN-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C8,CAPX-3528-X-UF47-01
+- oompParts: C9,CAPT-3216-X-UF10-01
+- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: IC4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI16-01
+- oompParts: JP2,HEAD-I01-X-PI16-01
+- oompParts: JP3,HEAD-I01-X-PI06-01
+- oompParts: JP4,HEAD-I01-X-PI06-01
+- oompParts: R1,RESE-0603-X-O103-01
+- oompParts: R2,RESE-0603-X-O101-01
+- oompParts: R3,RESE-0603-X-O101-01
+- oompParts: R4,RESE-0603-X-O101-01
+- oompParts: R5,RESE-0603-X-O101-01
+- oompParts: R6,RESE-0603-X-O101-01
+- oompParts: R7,RESE-0603-X-O101-01
+- oompParts: R8,RESE-0603-X-O101-01
+- oompParts: R9,RESE-0603-X-O101-01
+- oompParts: R10,RESE-0603-X-O101-01
+- oompParts: R11,RESE-0603-X-O101-01
+- oompParts: R12,RESE-0603-X-O101-01
+- oompParts: R13,RESE-0603-X-O101-01
+- oompParts: R14,RESE-0603-X-O101-01
+- oompParts: R15,RESE-0603-X-O101-01
+- oompParts: R16,RESE-0603-X-O101-01
+- oompParts: R17,RESE-0603-X-O101-01
+- oompParts: R18,RESE-0603-X-O101-01
+- oompParts: R19,RESE-0603-X-O101-01
+- oompParts: R20,RESE-0603-X-O101-01
+- oompParts: R21,RESE-0603-X-O101-01
+- oompParts: R22,RESE-0603-X-O101-01
+- oompParts: R23,RESE-0603-X-O101-01
+- oompParts: R24,RESE-0603-X-O101-01
+- oompParts: R25,RESE-0603-X-O101-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: ULN2803,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C3,0.1uf,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C4,0.1uf,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,

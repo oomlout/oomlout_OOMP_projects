@@ -41,6 +41,130 @@
             "value": "PROJ-SPAR-18567-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-UF10-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O201-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "B1,ARDUINO_UNO_R3_SHIELD,ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK,UNO_R3_SHIELD_NOLABELS_LOCK,Arduino R3 Shield Footprint,,,,,,"
         },

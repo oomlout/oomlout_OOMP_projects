@@ -41,6 +41,98 @@
             "value": "PROJ-SPAR-18354-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-UF47D-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D0,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D5,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D6,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D7,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D8,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D9,LEDS-5050-RGB-K102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D10,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J7,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "ADDR,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
         },

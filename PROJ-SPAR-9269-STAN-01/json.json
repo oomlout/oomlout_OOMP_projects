@@ -41,6 +41,30 @@
             "value": "PROJ-SPAR-9269-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "SL1,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
         },

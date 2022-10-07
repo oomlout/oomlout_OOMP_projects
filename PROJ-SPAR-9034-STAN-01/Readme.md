@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,28 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9034-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPT-3216-X-UF10-01||C1, C14|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0402-X-PF15-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[SMD (0402) 15 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|
+|CAPC-0402-X-NF33-01||C5, C6|
+|CAPC-0402-X-UNMATCHED-01||C7, C8, C11|
+|[CAPC-0402-X-PF22D-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[SMD (0402) 2.2 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
+|CAPC-0402-X-PF12D-01||C12|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J$1, Q1, U2, X1|
+|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-0402-X-UNMATCHED-01||L1, L2, L3|
+|[RESE-0402-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
+|RESE-0402-X-O223-01||R2|
+|RESE-1206-X-O100-01||R3|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|RESE-0402-X-O220-01||R6, R7|
+|UNMATCHED-SO235-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -52,6 +75,35 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9034
 - oompID: PROJ-SPAR-9034-STAN-01
+- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-PF15-V50
+- oompParts: C4,CAPC-0402-X-PF15-V50
+- oompParts: C5,CAPC-0402-X-NF33-01
+- oompParts: C6,CAPC-0402-X-NF33-01
+- oompParts: C7,CAPC-0402-X-UNMATCHED-01
+- oompParts: C8,CAPC-0402-X-UNMATCHED-01
+- oompParts: C10,CAPC-0402-X-PF22D-V50
+- oompParts: C11,CAPC-0402-X-UNMATCHED-01
+- oompParts: C12,CAPC-0402-X-PF12D-01
+- oompParts: C13,CAPC-0402-X-NF100-V10
+- oompParts: C14,CAPT-3216-X-UF10-01
+- oompParts: J$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI10-01
+- oompParts: L1,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: L2,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: L3,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O105-01
+- oompParts: R2,RESE-0402-X-O223-01
+- oompParts: R3,RESE-1206-X-O100-01
+- oompParts: R4,RESE-0402-X-O103-01
+- oompParts: R5,RESE-0402-X-O103-01
+- oompParts: R6,RESE-0402-X-O220-01
+- oompParts: R7,RESE-0402-X-O220-01
+- oompParts: U1,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,15pF,CAP0402-CAP,0402-CAP,Capacitor,,

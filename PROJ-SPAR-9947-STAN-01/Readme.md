@@ -8,6 +8,7 @@ Contents
 * [PRS9947 > USB Host Shield](#prs9947--usb-host-shield)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,25 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C3, C8, C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|CAPT-3216-X-UF10-01||C4, C7, C10|
+|[CAPC-0402-X-PF18-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[SMD (0402) 18 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[C5, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
+|REFU-1206-X-UNMATCHED-01||F1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, Q2, S1, S2, U1, U2, U4, X2|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP2, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|RESE-0402-X-O330-01||R1, R2|
+|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|RESE-0402-X-O241-01||R8|
+|RESE-0402-X-O711-01||R9|
+|RESE-0402-X-O331-01||R14|
+|UNMATCHED-SO235-X-UNMATCHED-01||U3|
+
 ## Images
   
   
@@ -47,6 +67,36 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_Host_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9947
 - oompID: PROJ-SPAR-9947-STAN-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPT-3216-X-UF10-01
+- oompParts: C5,CAPC-0402-X-PF18-V50
+- oompParts: C6,CAPC-0402-X-PF18-V50
+- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C8,CAPC-0402-X-NF100-V10
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPT-3216-X-UF10-01
+- oompParts: C11,CAPC-0402-X-NF100-V10
+- oompParts: F1,REFU-1206-X-UNMATCHED-01
+- oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-PI08-01
+- oompParts: JP3,HEAD-I01-X-PI08-01
+- oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0402-X-O330-01
+- oompParts: R2,RESE-0402-X-O330-01
+- oompParts: R7,RESE-0402-X-O222-01
+- oompParts: R8,RESE-0402-X-O241-01
+- oompParts: R9,RESE-0402-X-O711-01
+- oompParts: R14,RESE-0402-X-O331-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
 - rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,

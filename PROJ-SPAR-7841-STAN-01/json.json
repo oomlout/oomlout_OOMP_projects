@@ -41,6 +41,34 @@
             "value": "PROJ-SPAR-7841-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-1206-X-UF10-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,10uF,CAP_POL1206,CPOL_1206,,,"
         },

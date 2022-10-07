@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,20 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-19764-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|LEDS-0402-R-STAN-01||D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C_PU, U1|
+|HEAD-UNMATCHED-X-UNMATCHED-01||J1|
+|HEAD-UNMATCHED-X-PI01-01||J3, J4|
+|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R3, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
+|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
+
 ## Images
   
   
@@ -52,6 +67,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19764
 - oompID: PROJ-SPAR-19764-STAN-01
+- oompParts: C3,CAPC-0402-X-NF100-V10
+- oompParts: C4,CAPC-0402-X-NF100-V10
+- oompParts: D1,LEDS-0402-R-STAN-01
+- oompParts: I2C_PU,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-UNMATCHED-X-PI01-01
+- oompParts: J4,HEAD-UNMATCHED-X-PI01-01
+- oompParts: R1,RESE-0402-X-O222-01
+- oompParts: R2,RESE-0402-X-O222-01
+- oompParts: R3,RESE-0402-X-O103-01
+- oompParts: R4,RESE-0402-X-O102-01
+- oompParts: R5,RESE-0402-X-O103-01
+- oompParts: R6,RESE-0402-X-O103-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: ADDR,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,
 - rawParts: C3,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-14993,,0.1uF,
 - rawParts: C4,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-14993,,0.1uF,

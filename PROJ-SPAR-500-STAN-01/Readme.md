@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-500-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI14-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|[2.54 mm 14 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI14-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$2|
+
 ## Images
   
   
@@ -52,6 +61,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_28-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/500
 - oompID: PROJ-SPAR-500-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI14-01
+- oompParts: JP2,HEAD-I01-X-PI14-01
+- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,M14,M14,1X14,Header 14,,
 - rawParts: JP2,M14,M14,1X14,Header 14,,
 - rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,

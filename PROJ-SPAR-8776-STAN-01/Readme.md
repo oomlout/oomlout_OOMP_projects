@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8776-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S1|
+
 ## Images
   
   
@@ -52,6 +60,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Button_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8776
 - oompID: PROJ-SPAR-8776-STAN-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: BUTTON-,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,
 - rawParts: BUTTONS,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,
 - rawParts: LOGO1,LOGO-LPL,LOGO-LPL,LOGO-L,,,

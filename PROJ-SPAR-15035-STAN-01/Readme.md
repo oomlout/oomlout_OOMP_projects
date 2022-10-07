@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15035-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||ATX_POWER_CONNECTOR|
+|TERS-UNMATCHED-X-UNMATCHED-01||J1, J2|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J3, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+
 ## Images
   
   
@@ -52,6 +62,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ATX_Power_Connector_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15035
 - oompID: PROJ-SPAR-15035-STAN-01
+- oompParts: ATX_POWER_CONNECTOR,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,TERS-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,TERS-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI04-01
+- oompParts: J4,HEAD-I01-X-PI04-01
 - rawParts: ATX_POWER_CONNECTOR,COMPUTER_PERIPHERAL_POWERRA-VT,COMPUTER_PERIPHERAL_POWERRA-VT,COMPUTER-PERIPHERAL-POWER-RA-VT,ATX 4-Pin Power Supply Connector - Right Angle and Vertical PTH Mount,PRT-15700,,,
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,
 - rawParts: H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,

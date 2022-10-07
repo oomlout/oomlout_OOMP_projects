@@ -41,6 +41,34 @@
             "value": "PROJ-SPAR-8130-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "JP1,,M05,1X05,Header 5,,"
         },
