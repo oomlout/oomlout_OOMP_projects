@@ -41,6 +41,358 @@
             "value": "PROJ-SPAR-10769-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,27pF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,27pF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF ESR<=5,CAP_POL1206,EIA3216,Capacitor Polarized,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,560pF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,560pF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,2.2uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,470pF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,1uF,CAP0402-CAP,0402-CAP,Capacitor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C18,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,BAS16,DIODESOD,SOD-323,Diode,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,BAS16,DIODESOD,SOD-323,Diode,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,BAS16,DIODESOD,SOD-323,Diode,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,MBRA140,DIODESMA,SMA-DIODE,Diode,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,SCANTOOL,SCANTOOL,_STN_SCANTOOL_QFN-28-S,STN1110 - Multiprotocol OBD II to UART Interpreter, QFN Package,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC3,LM339PWR,LM339PWR,TSSOP-14,Quad Differential Comparators,IC, Quad Comparator,Texas Instruments,LM339PWR,Digikey:296-6607-1-ND,PARTNUM,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC4,MCP2551,MCP2551-I/SN,SO-8,CAN Driver,IC, CAN Transceiver,Microchip Technology,MCP2551-I/SN,Digikey:MCP2551-I/SN-ND,PARTNUM,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M08,1X08,Header 8,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,DNP,FTDI_BASICPTH,FTDI_BASIC,FTDI Basic: 3.3V and 5V,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,DNP,M02PTH,1X02,Header 2,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,YELLOW,LED0603,LED-0603,LEDs,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,RED,LED0603,LED-0603,LEDs,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,YELLOW,LED0603,LED-0603,LEDs,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,RED,LED0603,LED-0603,LEDs,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED5,RED,LED0603,LED-0603,LEDs,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q7,ZXMP6A13FTA,MOSFET-PCHANNEL,SOT23,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q8,MMBT2222,TRANSISTOR_NPNSOT23-3,SOT23-3,Transistor NPN,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q9,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q10,BSS138,MOSFET-NCHANNELSMD,SOT23-3,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,62K,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,330,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,330,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,10K,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,1k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,510 0.5W,R-US_2010,2010,Resistor, US Symbol,Resistor,,,,VAL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,510 0.5W,R-US_2010,2010,Resistor, US Symbol,Resistor,,,,VAL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,1k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,100,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,100,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,1.2k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R18,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R19,866,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R20,240,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R21,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R22,374,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R23,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R24,1.5k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R25,4.7k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R27,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R28,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R29,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R30,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R31,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R32,1k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R33,10k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R34,1.5k,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R35,330,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R37,330,RESISTOR0402-RES,0402-RES,Resistor,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$14,OSHW-LOGO,OSHW-LOGO,OSHW-LOGO,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,V_REG_317DPACK,V_REG_317DPACK,V-REG_DPACK,Voltage Regulator,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,5V Reg.,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X2,Male DB9,DB9MALE,DB9_MALE,DB9 Connector,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-10769-STAN-01"
         },

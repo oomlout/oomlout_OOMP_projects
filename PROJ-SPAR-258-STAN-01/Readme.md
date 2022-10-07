@@ -52,6 +52,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_Enabled_LCD_Backpack (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/258
 - oompID: PROJ-SPAR-258-STAN-01
+- rawParts: C1,,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: IC1,PIC16F88-SSOP,PIC16F88-SSOP,SSOP20,PIC 16F8x,,
+- rawParts: JP1,,M06LOCK,1X06_LOCK,Header 6,,
+- rawParts: JP2,,M06LOCK,1X06_LOCK,Header 6,,
+- rawParts: JP3,,M03PTH,1X03,Header 3,,
+- rawParts: JP4,,M03SCREW_LOCK,SCREWTERMINAL-3.5MM-3_LOCK.007S,Header 3,,
+- rawParts: Q1,TRANSISTOR_PNPSMD,TRANSISTOR_PNPSMD,SOT23-3,,,
+- rawParts: R1,,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,TRIMPOTSMD,TRIMPOTSMD,TRIMPOT-3MM,,,
+- rawParts: TP1,,TEST-POINT3X5,PAD.03X.05,,,
+- rawParts: U$1,PIC-ICSP-MINI,PIC-ICSP-MINI,PIC-ICSP-MINI,PIC-ICSP-Mini,,
+- rawParts: U$2,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,,,
+- rawParts: U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: Y1,RESONATORSMD,RESONATORSMD,RESONATOR-SMD,Resonator,,
 
 
 

@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-9170-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,DS_TOUCH_CONNECTOR,DS_TOUCH_CONNECTOR,DS_TOUCH_CONNECTOR,4-pin DS touch screen connector,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9170-STAN-01"
         },

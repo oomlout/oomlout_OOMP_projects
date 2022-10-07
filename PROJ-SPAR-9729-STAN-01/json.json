@@ -41,6 +41,62 @@
             "value": "PROJ-SPAR-9729-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M063.5MM-6,SCREWTERMINAL-3.5MM-6,Header 6,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M04SCREW,SCREWTERMINAL-3.5MM-4,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,,M023.5MM,SCREWTERMINAL-3.5MM-2,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,Reset,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,General,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ARDUINO_SHIELD,ARDUINO_SHIELDNOHOLES,DUEMILANOVE_SHIELD_NOHOLES,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9729-STAN-01"
         },

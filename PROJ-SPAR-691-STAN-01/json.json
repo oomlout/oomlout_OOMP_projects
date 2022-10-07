@@ -41,6 +41,110 @@
             "value": "PROJ-SPAR-691-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,22pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,22pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,33nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,2.2nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,4.7pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,1.0pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,1.5pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,10nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M081X08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,3.9nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,2.7nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L3,8.2nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,,TEST-POINT3X5,PAD.03X.05,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,PAD,PAD,PAD-0.008,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,PAD,PAD,PAD-0.008,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,NRF24L01ALT1,NRF24L01ALT1,QFN20_ALT1,2.4GHz Low Power Transceiver,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,ANTENNA2SMD5,ANTENNA2SMD5,ANTENNA-CHIP5,Antenna,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-691-STAN-01"
         },

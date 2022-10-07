@@ -52,6 +52,30 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Benchtop_Power_Board_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9774
 - oompID: PROJ-SPAR-9774-STAN-01
+- rawParts: F1,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
+- rawParts: F2,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
+- rawParts: F3,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
+- rawParts: F4,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: J1,ATX24RH,ATX24RH,ATX24_RIGHT_ANGLE,ATX24 Pin Power Supply Connector This is a good connector for connecting a computer power supply to a PCB. Its massive, but provides many amps of power at 5V and 12V. SKU: PRT-09498,,
+- rawParts: JP1,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME_.3,SFE Logo, name and flame,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: JP5,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,
+- rawParts: LED1,RED,LED5MM,LED5MM,LEDs,,
+- rawParts: LOGO1,OSHW-LOGOL,OSHW-LOGOL,OSHW-LOGO-L,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: R1,1K,RESISTORPTH1,AXIAL-0.3,Resistor,,
+- rawParts: S1,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S2,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S3,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S4,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S5,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S6,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S7,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S8,BINDING_POST,BINDING_POST,BINDING_POST,Single Banana jack.,,
+- rawParts: S9,,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,SWCH-08261,
+- rawParts: U$1,REVISION,REVISION,REVISION,,,
 
 
 

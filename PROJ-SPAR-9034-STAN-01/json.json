@@ -41,6 +41,138 @@
             "value": "PROJ-SPAR-9034-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,15pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,15pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,33nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,33nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,10n,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,10n,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,2.2nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,1.0pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,1.2pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,100nF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J$1,SMA_EDGE,SMA_EDGE,SMA-EDGE,SMA Antenna Connector,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,M10,M10,1X10,Header 10,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,4.7nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,6.8nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L3,6.8nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10,RESISTOR1206,1206,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,22,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,22,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$12,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$13,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$14,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,NRF24LU1,NRF24LU1,QFN-32,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USBSMD,USBSMD,USB-MINIB,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9034-STAN-01"
         },

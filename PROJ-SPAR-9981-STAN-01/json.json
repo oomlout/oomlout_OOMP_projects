@@ -41,6 +41,70 @@
             "value": "PROJ-SPAR-9981-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,18pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,18pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,SC16IS750,SC16IS750,QFN-24,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M11PTH,M11PTH,1X11,Header 11,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,M11PTH,M11PTH,1X11,Header 11,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,14.7456MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9981-STAN-01"
         },

@@ -52,6 +52,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Temperature_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8777
 - oompID: PROJ-SPAR-8777-STAN-01
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: TEMP+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: TEMP-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: TEMP1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: TEMP2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: TEMP3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: TEMPS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,
+- rawParts: U1,MCP9700,MCP9700SMD,SOT23-3,,,
 
 
 

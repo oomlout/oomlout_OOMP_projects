@@ -52,6 +52,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9946
 - oompID: PROJ-SPAR-9946-STAN-01
+- rawParts: C1,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C7,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP2,Control,M05PTH,1X05,Header 5,,
+- rawParts: JP4,Input,M05PTH,1X05,Header 5,,
+- rawParts: SJ1,D1,SOLDERJUMPER_2WAYPASTE2&3,SJ_3_PASTE2&3,Solder Jumper,,
+- rawParts: SJ2,D0,SOLDERJUMPER_2WAYPASTE1&2,SJ_3_PASTE1&2,Solder Jumper,,
+- rawParts: U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U1,LTC3588,LTC3588_,MSOP-10-GNDPAD,LTC3588 Energy Harvesting Power Supply,,
+- rawParts: U2,10uH,INDUCTOR-,CDRH3D28,Inductors,,
 
 
 

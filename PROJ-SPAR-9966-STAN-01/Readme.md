@@ -47,6 +47,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_miniB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9966
 - oompID: PROJ-SPAR-9966-STAN-01
+- rawParts: JP1,,M05PTH,1X05,Header 5,,
+- rawParts: U$1,USB-MINIB-5PIN,USB-MINIB-5PIN,USB-MINIB,,,
+- rawParts: U$2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$6,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 
 
 

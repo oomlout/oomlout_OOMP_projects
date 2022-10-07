@@ -41,6 +41,102 @@
             "value": "PROJ-SPAR-16467-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,QWIIC_RIGHT_ANGLE,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,QWIIC_RIGHT_ANGLE,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,REVISION,REVISION,REVISION,Revision By Text,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWRLED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,SHTC3,SHTC3,SHTC3,Sensirion SHTC3 Humidity Sensor,,IC-14840,,SHTC3,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16467-STAN-01"
         },

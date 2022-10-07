@@ -52,6 +52,18 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Soil_Moisture_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13322
 - oompID: PROJ-SPAR-13322-STAN-01
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Joel Bartlett,,,v10,
+- rawParts: JP1,DNP,M03POLAR,MOLEX-1X3,Header 3,,,,,
+- rawParts: JP2,,M03SCREW_LOCK,SCREWTERMINAL-3.5MM-3_LOCK.007S,Header 3,,CONN-08288,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: Q1,2N3904,TRANSISTOR_NPNMMBT2222A,SOT23-3,Generic NPN BJT,,TRANS-08049,MMBT2222A,,
+- rawParts: R1,10k,100OHM-1/4W-5%(0603),0603-RES,,,RES-12438,100/.25W,,
+- rawParts: R2,100,100OHM-1/4W-5%(0603),0603-RES,,,RES-12438,100/.25W,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
 
 
 

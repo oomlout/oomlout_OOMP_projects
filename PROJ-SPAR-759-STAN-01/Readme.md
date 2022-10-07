@@ -52,6 +52,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/759
 - oompID: PROJ-SPAR-759-STAN-01
+- rawParts: C3,.1uf,CAP0402,C0402,Capacitor,,
+- rawParts: C4,0.1uf,CAP0402,C0402,Capacitor,,
+- rawParts: C5,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C6,0.1uf,CAP0402,C0402,Capacitor,,
+- rawParts: C7,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,
+- rawParts: C8,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: C9,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: IC1,74LS595D,74LS595D,SO16,8-bit SHIFT REGISTER, output latch,,
+- rawParts: IC2,74LS595D,74LS595D,SO16,8-bit SHIFT REGISTER, output latch,,
+- rawParts: IC3,AVR-MEGA8-AI,AVR-MEGA8-AI,TQFP32-08,MICROCONTROLLER,,
+- rawParts: JP1,M12PTH,M12PTH,1X12,Header 12,,
+- rawParts: JP2,M12PTH,M12PTH,1X12,Header 12,,
+- rawParts: JP3,,M06SMD,1X06-SMD,Header 6,,
+- rawParts: JP4,,M06SIP,1X06,Header 6,,
+- rawParts: R1,10K,RESISTOR0402,C0402,Resistor,,
+- rawParts: U$1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U2,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,
+- rawParts: U3,16MHz,RESONATORSMD,RESONATOR-SMD,Resonator,,
+- rawParts: ULN1,uln2803,ULN2803SOICW,SO18L,Darlington Driver,,
 
 
 

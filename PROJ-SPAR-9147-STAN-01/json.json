@@ -41,6 +41,94 @@
             "value": "PROJ-SPAR-9147-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,TINY85S,TINY85S,SOIC8,MICROCONTROLLER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,M01PTH,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,M01PTH,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Blue,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,Blue,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,White?,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,Yellow,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,68,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,68,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1.5K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,470,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,470,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USBPCB,USBPCB,USB-A-PCB,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9147-STAN-01"
         },

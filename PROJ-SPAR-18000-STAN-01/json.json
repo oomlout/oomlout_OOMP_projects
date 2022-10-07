@@ -41,6 +41,202 @@
             "value": "PROJ-SPAR-18000-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "BP,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,4.7uF,4.7UF-0805-50V-(10%),0805,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15457,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,4.7uF,4.7UF-0805-50V-(10%),0805,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15457,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.22uF,0.22UF-0603-50V-10%,0603,0.22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15456,,,0.22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,22uF,22UF-1210-16V-20%,1210,22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-10381,,,22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,22uF,22UF-1210-16V-20%,1210,22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-10381,,,22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,100uF,100UF-POLAR-8X10.5-50V,8X10.5,100\u00c3\u0082\u00c2\u00b5F polarized capacitors,,CAP-15455,,,100uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,0.22uF,0.22UF-0603-50V-10%,0603,0.22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15456,,,0.22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D11,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "GND\\,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "HV_GND,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,RJ45,RJ45-8,RJ45-8,RJ45 Jack - 8 pin,,CONN-08506,,PRT-00643,RJ45,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,RJ45,RJ45-8,RJ45-8,RJ45 Jack - 8 pin,,CONN-08506,,PRT-00643,RJ45,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,2.2uH,2.2\u00c3\u008e\u00c2\u00bcH_SHIELDED_INDUCTOR_5X5,INDUCTOR_5X5MM,Murata 2.2uH Inductor,,NDUC-15453,,,2.2uH,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PSEL,JUMPER-SMT_3_NO_SILK,JUMPER-SMT_3_NO_SILK,SMT-JUMPER_3_NO_SILK,Normally open jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07828,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,43k,43KOHM-0603-1/10W-1%,0603,43k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07858,,,43k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07828,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,PCA9615,PCA9615,TSSOP10,Differential I2C Bus Buffer,,IC-13899,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,LMR33630,LMR33630,VQFN-HR-12,Texas Instruments LMR33630 3.8V-36V 3A Regulator,,VREG-15445,,,LMR33630,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18000-STAN-01"
         },

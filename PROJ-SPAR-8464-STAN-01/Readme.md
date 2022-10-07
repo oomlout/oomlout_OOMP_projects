@@ -52,6 +52,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Light_Sensor (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8464
 - oompID: PROJ-SPAR-8464-STAN-01
+- rawParts: LIGHT+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: LIGHT-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: LIGHT1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: LIGHT2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: LIGHT3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: LIGHTS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: R1,10K,RESISTOR0402,C0402,Resistor,,
+- rawParts: U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,
+- rawParts: U1,TEMT6000,TEMT6000,TEMT6000-SEN,Ambient Light Sensor,,
 
 
 

@@ -41,6 +41,38 @@
             "value": "PROJ-SPAR-8463-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "B1,Buzzer,BUZZERSMD2,BUZZER-CCV,Buzzer 12mm,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$8,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$9,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8463-STAN-01"
         },

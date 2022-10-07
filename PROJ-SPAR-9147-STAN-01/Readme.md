@@ -52,6 +52,28 @@ Contents
 - sources: All source files from https://github.com/sparkfun/AVR_Stick (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9147
 - oompID: PROJ-SPAR-9147-STAN-01
+- rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: IC1,TINY85S,TINY85S,SOIC8,MICROCONTROLLER,,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,
+- rawParts: JP2,,M04PTH,1X04,Header 4,,
+- rawParts: JP3,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,
+- rawParts: JP4,M01PTH,M01PTH,1X01,Header 1,,
+- rawParts: JP5,M01PTH,M01PTH,1X01,Header 1,,
+- rawParts: LED1,Blue,LED0603,LED-0603,LEDs,,
+- rawParts: LED2,Blue,LED0603,LED-0603,LEDs,,
+- rawParts: LED3,White?,LED0603,LED-0603,LEDs,,
+- rawParts: LED4,Yellow,LED0603,LED-0603,LEDs,,
+- rawParts: R1,68,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,68,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,1.5K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R4,470,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R5,470,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$4,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: X1,USBPCB,USBPCB,USB-A-PCB,USB Connectors,,
 
 
 

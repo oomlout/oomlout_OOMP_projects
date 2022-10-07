@@ -41,6 +41,150 @@
             "value": "PROJ-SPAR-18642-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,PWR_LED,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,PSU,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,INT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,QWIIC_LOGO_CONNECTOR,QWIIC_LOGO_CONNECTOR,QWIIC_5.5MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,47k,47KOHM-0603-1/10W-1%,0603,47k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07871,,47k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,47k,47KOHM-0603-1/10W-1%,0603,47k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07871,,47k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,47k,47KOHM-0603-1/10W-1%,0603,47k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07871,,47k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,47k,47KOHM-0603-1/10W-1%,0603,47k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07871,,47k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,VL53L5CX,VL53L5CX,VL53L5CX,,,IC-16254,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18642-STAN-01"
         },

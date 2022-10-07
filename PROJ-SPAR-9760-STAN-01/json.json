@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-9760-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S3,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S4,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S6,Reset,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ARDUINO_SHIELD,ARDUINO_SHIELDLABEL,DUEMILANOVE_SHIELD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,JOYSTICK,JOYSTICKPTH,JOYSTICK,Thumb Joystick,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9760-STAN-01"
         },

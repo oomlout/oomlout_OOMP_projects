@@ -41,6 +41,290 @@
             "value": "PROJ-SPAR-16566-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "ADR,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BYP,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uF,10UF-POLAR-EIA3528-20V-10%(TANT),EIA3528,10.0\u00c3\u0082\u00c2\u00b5F polarized capacitors,,CAP-08063,,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0402-10V-10%-X7R,0402,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-11015,,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-11015,,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,1A/40V/500mV,DIODE-SCHOTTKY-SS14,SMA-DIODE,Schottky diode,,DIO-08053,,,1A/40V/500mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,DIO-14072,,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D7,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D8,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D9,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D10,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D11,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D12,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,DIO-14072,,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame - Ledger,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_041X04_NO_SILK_NO_POP,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,,Qwiic Right Angle,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,,Qwiic Right Angle,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,POWER_JACK,POWER_JACK,POWER_JACK_PTH,Power Jack Connector,,CONN-08197,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_03-SCREW-5MM,SCREWTERMINAL-5MM-3,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-10134,,PRT-08433,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,CONN_03-SCREW-5MM,SCREWTERMINAL-5MM-3,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-10134,,PRT-08433,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,,CONN_03-SCREW-5MM,SCREWTERMINAL-5MM-3,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-10134,,PRT-08433,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,,CONN_03-SCREW-5MM,SCREWTERMINAL-5MM-3,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-10134,,PRT-08433,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J9,AVR_SPI_PROG_3X2TESTPOINTS,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "K1,RELAY-SPDT-JZC-11F,RELAY-SPDT-JZC-11F,RELAY-JZC,SPDT Electromechanical Relay,,COMP-09533,,COM-00100,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "K2,RELAY-SPDT-JZC-11F,RELAY-SPDT-JZC-11F,RELAY-JZC,SPDT Electromechanical Relay,,COMP-09533,,COM-00100,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "K3,RELAY-SPDT-JZC-11F,RELAY-SPDT-JZC-11F,RELAY-JZC,SPDT Electromechanical Relay,,COMP-09533,,COM-00100,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "K4,RELAY-SPDT-JZC-11F,RELAY-SPDT-JZC-11F,RELAY-JZC,SPDT Electromechanical Relay,,COMP-09533,,COM-00100,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,15uH,INDUCTOR-LQH5B-15UH,INDUCTOR_15UH,Inductors,,NDUC-15090,,,15uH,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,,TRANS-08049,,,600mA/40V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,,TRANS-08049,,,600mA/40V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,,TRANS-08049,,,600mA/40V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,,TRANS-08049,,,600mA/40V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,RES-08609,,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,RES-08609,,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,12k,12KOHM-0603-1/10W-1%,0603,12k\u00c3\u008e\u00c2\u00a9 resistor,,RES-10327,,,12k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,2.0k,2.0KOHM-0603-1/10W-5%,0603,2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08296,,,2.0k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,RES-08609,,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,RES-08609,,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,100,100OHM-0603-1/10W-1%,0603,100\u00c3\u008e\u00c2\u00a9 resistor,,RES-07863,,,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,100,100OHM-0603-1/10W-1%,0603,100\u00c3\u008e\u00c2\u00a9 resistor,,RES-07863,,,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,100,100OHM-0603-1/10W-1%,0603,100\u00c3\u008e\u00c2\u00a9 resistor,,RES-07863,,,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,100,100OHM-0603-1/10W-1%,0603,100\u00c3\u008e\u00c2\u00a9 resistor,,RES-07863,,,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,,RES-00818,,,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LMR14010A,LMR14010A,SOT23-6,LMR14010A Buck Regulator 1A Output,,IC-15089,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,DUAL-OPTOISOLATOR_SOIC8,DUAL-OPTOISOLATOR_SOIC8,SO08,Optocoupler, Phototransistor Output, Dual Channel,,IC-09076,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,DUAL-OPTOISOLATOR_SOIC8,DUAL-OPTOISOLATOR_SOIC8,SO08,Optocoupler, Phototransistor Output, Dual Channel,,IC-09076,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,ATTINY84-ARDUINO,ATTINY84-ARDUINO,SO14,,,IC-14155,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16566-STAN-01"
         },

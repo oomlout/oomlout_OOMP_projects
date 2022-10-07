@@ -47,6 +47,21 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Electret_Microphone_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9964
 - oompID: PROJ-SPAR-9964-STAN-01
+- rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,100pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: M1,MIC9.7MM,MIC9.7MM,MIC-9.7MM,Microphone,,
+- rawParts: R1,2.2K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,10K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R4,1K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R5,100K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,OPA344,OPA344,SOT23-5,,,
 
 
 

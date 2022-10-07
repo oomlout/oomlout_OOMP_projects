@@ -41,6 +41,190 @@
             "value": "PROJ-ADAF-3654-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CS_JMP,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,green,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,Yellow,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,Red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC4,AP2112-3.3,LP298XS,SOT23-5L,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IRQ_JMP,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,HEADER-1X670MIL,1X06_ROUND_70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP12,,HEADER-1X1ROUND,1X01_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "M1,ARDUINO_R3_ICSP_NODIM,ARDUINO_R3_ICSP_NODIM,ARDUINOR3_ICSP_NODIM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RST_JMP,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SD_JMP,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,ICSP_MISO,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,ISCP_SCLK,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ4,ICSP_MOSI,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ5,D12_MISO,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ6,D13_SCLK,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ7,D11_MOSI,SOLDERJUMPERREFLOW_NOPASTE,SOLDERJUMPER_REFLOW_NOPASTE,SMD Solder JUMPER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW2,Tactile,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,ATWINC1500_MR210PB,ATWINC1500_MR210PA,ATWINC1500_MR210PA,ATWINC1500_MR210PA wifi module,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,74HC4050,74HC4050D,SOIC16,6-channel level shifter,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,microSd,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ADAF-3654-STAN-01"
         },

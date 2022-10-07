@@ -52,6 +52,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Opto_Isolator_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9118
 - oompID: PROJ-SPAR-9118-STAN-01
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,v01,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,,,,
+- rawParts: JP2,,M04PTH,1X04,Header 4,,,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,,,,
+- rawParts: Q1,NPN,TRANSISTOR_NPNMMBT2222A,SOT23-3,Generic NPN BJT,,TRANS-08049,MMBT2222A,,
+- rawParts: Q2,NPN,TRANSISTOR_NPNMMBT2222A,SOT23-3,Generic NPN BJT,,TRANS-08049,MMBT2222A,,
+- rawParts: R1,220,220OHM-0603-1/10W-1%,0603,220ÃÂ© resistor,,RES-07861,220,,
+- rawParts: R2,220,220OHM-0603-1/10W-1%,0603,220ÃÂ© resistor,,RES-07861,220,,
+- rawParts: R3,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,10k,,
+- rawParts: R4,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,10k,,
+- rawParts: R5,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,10k,,
+- rawParts: R6,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,10k,,
+- rawParts: U$2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,
+- rawParts: U$3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,
+- rawParts: U1,ILD213T-IDL213T,ILD213T-IDL213T,SO08,Dual Channel Phototransistor Optocoupler,,IC-09076,,,
 
 
 

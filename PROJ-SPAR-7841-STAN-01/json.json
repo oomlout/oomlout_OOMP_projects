@@ -41,6 +41,50 @@
             "value": "PROJ-SPAR-7841-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,CPOL_1206,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,M09,M09,1X09,Header 9,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M09,M09,1X09,Header 9,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,SOLDERJUMPERNC2,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,FT245RL,FT245RL,SSOP28DB,USB FIFO Controller,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X2,USBSMD,USBSMD,USB-MINIB,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-7841-STAN-01"
         },

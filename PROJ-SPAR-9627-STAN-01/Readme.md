@@ -52,6 +52,30 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Mini_FET_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9627
 - oompID: PROJ-SPAR-9627-STAN-01
+- rawParts: 2.2UH,2.2uH,VLF4012A,VLF4012A,,,
+- rawParts: C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: JP2,M12PTH,M12PTH,1X12,Header 12,,
+- rawParts: JP3,M12PTH,M12PTH,1X12,Header 12,,
+- rawParts: JP4,,M02PTH,1X02,Header 2,,
+- rawParts: JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: Q1,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,
+- rawParts: Q2,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,
+- rawParts: Q3,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,
+- rawParts: Q4,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,
+- rawParts: R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,180k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R10,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R11,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R12,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R13,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R14,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R15,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R16,1k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U1,TPS61200,TPS61200,DRC-S-PVSON-N10,,,
+- rawParts: U2,ARDUINO_MINI,ARDUINO_MINI,ARDUINO_MINI,,,
 
 
 

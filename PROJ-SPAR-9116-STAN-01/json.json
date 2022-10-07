@@ -41,6 +41,34 @@
             "value": "PROJ-SPAR-9116-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,.1uF,CAP0603,0603,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M081X08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,DS1077,DS1077,SO08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9116-STAN-01"
         },

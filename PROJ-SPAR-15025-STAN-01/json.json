@@ -41,6 +41,214 @@
             "value": "PROJ-SPAR-15025-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-11015,,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00810,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,15pF,15PF-0603-50V-5%,0603,15pF ceramic capacitors,CAP-07881,,,15pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-11015,,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-08280,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-08280,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,15pF,15PF-0603-50V-5%,0603,15pF ceramic capacitors,CAP-07881,,,15pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,DNP,270PF-0603-50V-5%,0603,270pF/0.27nF ceramic capacitors,CAP-13339,,,270PF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,DNP,270PF-0603-50V-5%,0603,270pF/0.27nF ceramic capacitors,CAP-13339,,,270PF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,DIO-09003,,,Yellow,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,DIO-11623,,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,JST_2MM_MALESMD,JST-2-SMD,JST 2MM MALE RA CONNECTOR,CONN-11443,PRT-08612,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,CONN_12NO_SILK,1X12_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,USB_MICRO-B_HALF_PTH_MILL,USB-MICROB-PTH-MILL,USB Type Micro-B Connector,CONN-13711,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,,CONN_07NO_SILK,1X07_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,CORTEX_DEBUG_PTH,CORTEX_DEBUG_PTH,2X5-PTH-1.27MM,Cortex Debug Connector - 10 pin,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J9,,CONN_07NO_SILK,1X07_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J12,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J13,,CONN_12NO_SILK,1X12_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J14,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME_.2,SparkFun Font Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,27,27OHM-0603-1/10W-1%,0603,27\u00c3\u008e\u00c2\u00a9 resistor,RES-09334,,,27,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,27,27OHM-0603-1/10W-1%,0603,27\u00c3\u008e\u00c2\u00a9 resistor,RES-09334,,,27,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,2.0k,2.0KOHM-0603-1/10W-5%,0603,2k\u00c3\u008e\u00c2\u00a9 resistor,RES-08296,,,2.0k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,RES-08272,,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,RES-08272,,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,RESET,MOMENTARY-SWITCH-SPST-SMD-RIGHT-ANGLE,TACTILE_SWITCH_SMD_RIGHT_ANGLE,Momentary Switch (Pushbutton) - SPST,COMP-12265,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,,SWITCH-SPDT-SMD-RIGHT-ANGLE,SWITCH_SPST_SMD_A,Single Pole, Double Throw (SPDT) Switch,SWCH-10651,,COM-10860,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S3,BOOTLOAD,MOMENTARY-SWITCH-SPST-SMD-RIGHT-ANGLE,TACTILE_SWITCH_SMD_RIGHT_ANGLE,Momentary Switch (Pushbutton) - SPST,COMP-12265,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MDBT50Q,MDBT50Q,MDBT50Q,,IC-14109,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,MCP73831,MCP73831,SOT23-5,MCP73831T Li-Ion, Li-Pol Controller,IC-09995,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,3.3V,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,VREG-12457,,,3.3V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,32.768kHz,CRYSTAL-32.768KHZSMD-3.2X1.5,CRYSTAL-SMD-3.2X1.5MM,32.768kHz Crystal,XTAL-13062,,,32.768kHz,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15025-STAN-01"
         },

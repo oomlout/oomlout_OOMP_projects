@@ -41,6 +41,86 @@
             "value": "PROJ-SPAR-16790-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_NO_NO-SILK,JUMPER-SMT_3_NO_NO-SILK,SMT-JUMPER_3_NO_NO-SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,QWIIC_RIGHT_ANGLE,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,QWIIC_RIGHT_ANGLE,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Vertical Qwiic Connector,QWIIC_CONNECTOR,JST04_1MM_VERT,SparkFun I2C Standard Qwiic Connector,,CONN-14483,,Vertical Qwiic Connector,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Vertical Qwiic Connector,QWIIC_CONNECTOR,JST04_1MM_VERT,SparkFun I2C Standard Qwiic Connector,,CONN-14483,,Vertical Qwiic Connector,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,THING_PLUS,THING_PLUS,THING_PLUS,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16790-STAN-01"
         },

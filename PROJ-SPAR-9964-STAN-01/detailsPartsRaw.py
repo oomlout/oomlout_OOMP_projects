@@ -1,2 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9964-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C2,1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C3,100pF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','JP1,,M03PTH,1X03,Header 3,,')
+newPart.addTag('rawParts','JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,')
+newPart.addTag('rawParts','JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,')
+newPart.addTag('rawParts','M1,MIC9.7MM,MIC9.7MM,MIC-9.7MM,Microphone,,')
+newPart.addTag('rawParts','R1,2.2K,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','R3,10K,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','R4,1K,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','R5,100K,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,')
+newPart.addTag('rawParts','U1,OPA344,OPA344,SOT23-5,,,')

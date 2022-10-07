@@ -41,6 +41,74 @@
             "value": "PROJ-SPAR-199-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M100.1,1X10,Header 10,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Red,LED1206,LED-1206,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,CP2103,CP2103_USB_UART,MLP28,Single-Chip USB to UART Bridge,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USBPTH,USBPTH,USB-B-PTH,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-199-STAN-01"
         },

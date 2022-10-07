@@ -52,6 +52,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Buzzer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8463
 - oompID: PROJ-SPAR-8463-STAN-01
+- rawParts: B1,Buzzer,BUZZERSMD2,BUZZER-CCV,Buzzer 12mm,,
+- rawParts: U$1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,
+- rawParts: U$4,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: U$6,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: U$7,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
+- rawParts: U$8,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$9,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
 
 
 

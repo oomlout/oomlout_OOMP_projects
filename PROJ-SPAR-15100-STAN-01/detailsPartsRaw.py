@@ -1,2 +1,17 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-15100-STAN-01")
+
+newPart.addTag('rawParts','FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,')
+newPart.addTag('rawParts','H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,')
+newPart.addTag('rawParts','H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,')
+newPart.addTag('rawParts','J2,,USB_C16PIN,USB-C-16P,USB Type C 16Pin Connector,,CONN-14122,,,')
+newPart.addTag('rawParts','J3,,CONN_06NO_SILK_NO_POP,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,')
+newPart.addTag('rawParts','JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,')
+newPart.addTag('rawParts','LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,')
+newPart.addTag('rawParts','LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,')
+newPart.addTag('rawParts','R1,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,5.1k,')
+newPart.addTag('rawParts','R4,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,5.1k,')

@@ -41,6 +41,118 @@
             "value": "PROJ-SPAR-9358-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,Red,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,Green,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M01SMDNS,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,MOSFET-NCHANNELSMD,MOSFET-NCHANNELSMD,SOT23-3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,MOSFET-NCHANNELSMD,MOSFET-NCHANNELSMD,SOT23-3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,SOLDERJUMPERNO,SOLDERJUMPERNO,SJ_2S-NO,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,,TEST-POINT3X5,PAD.03X.05,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,REVISION,REVISION,REVISION,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,BLUETOOTH-RN41,BLUETOOTH-RN41,RN41,Bluetooth SMD module,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,V_REG_LDOSMD,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9358-STAN-01"
         },

@@ -41,6 +41,134 @@
             "value": "PROJ-SPAR-15143-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,Owen Lyke,,,v10,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,MICRO-SD_CARD_SOCKETTINY,MICRO-SD_CARD_SOCKETTINY,MICROSD_TINY,microSD Socket for Transflash,,CONN-13500,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-11563,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LED,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME.3_INCH,SFE_LOGO_NAME_FLAME_.3,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SPECIAL_INSTRUCTIONS-PRODUCTION,SPECIAL_INSTRUCTIONS-PRODUCTION,PRODUCTION_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,220mA/50V/3.5\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-BSS138,SOT23-3,N-channel MOSFETs,,TRANS-00830,,,220mA/50V/3.5\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1,1OHM-0603-1/10W-1%,0603,1\u00c3\u008e\u00c2\u00a9 resistor,,RES-08269,,,1,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1,1OHM-0603-1/10W-1%,0603,1\u00c3\u008e\u00c2\u00a9 resistor,,RES-08269,,,1,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$33,EXTERNAL_DISP-KWH018ST14-F01,EXTERNAL_DISP-KWH018ST14-F01,KWH018ST14-F01_HOLES,External Display Device,,LCD-14196,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,,KWH018ST14-F01_4WSPI-BOTTOM,FPC05040-17204,Fomike KWH018ST14-F01 TFT LCD Module Using 4WSPI Interface,,CONN-14082,LCD-14196,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,TXB0108DQSR,TXB0108,UFDFN-20,8-Bit Bi-Directional Level Shifter,,IC-12292,,,TXB0108DQSR,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,3.3V,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,,VREG-12457,,,3.3V,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15143-STAN-01"
         },

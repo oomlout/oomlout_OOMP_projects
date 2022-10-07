@@ -52,6 +52,33 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15440
 - oompID: PROJ-SPAR-15440-STAN-01
+- rawParts: C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,
+- rawParts: C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,
+- rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: J1,QWIIC,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,Qwiic Right Angle,
+- rawParts: J2,QWIIC,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,Qwiic Right Angle,
+- rawParts: J3,PTH,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,,,
+- rawParts: J4,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: JP1,,JUMPER-SMT_2_NC_TRACE_NO-SILK,SMT-JUMPER_2_NC_TRACE_NO-SILK,Normally closed trace jumper,,,,,
+- rawParts: JP2,EN I2C MODE,JUMPER-PAD-2-NC_BY_TRACENO_SILK,PAD-JUMPER-2-NC_BY_TRACE_NO_SILK,,,,,,
+- rawParts: JP3,EN ADR PU,JUMPER-SMT_3_1-NC_TRACE_NO-SILK,SMT-JUMPER_3_1-NC_TRACE_NO-SILK,Normally closed trace jumper (1 of 2 connections),,,,,
+- rawParts: JP4,,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,SMT-JUMPER_3_2-NC_TRACE_NO-SILK,Normally closed trace jumper (2 of 2 connections),,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,
+- rawParts: LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: R1,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R3,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R4,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R5,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,
+- rawParts: U1,BME280,BME280,LGA-8-2.5X2.5,Bosch BME280 &ndash, Combined Humidity and Pressure Sensor,,IC-13090,,BME280,
 
 
 

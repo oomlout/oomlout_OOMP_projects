@@ -41,6 +41,122 @@
             "value": "PROJ-SPAR-19764-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "ADDR,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14993,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14993,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED_0402,LED-0402,Red SMD LED,,DIO-16757,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,Elias Santistevan,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C_PU,S_MODE,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,Qwiic Right Angle,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,,CONN_01_1MM,1X01_1MM_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,,CONN_01_1MM,1X01_1MM_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,QWIIC_LOGO_3MM,QWIIC_LOGO_3MM,QWIIC_3MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME_FLAMEBLANK,SFE_LOGO_NAME_FLAMEBLANK,BLANK,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14341,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14341,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14241,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1k,1KOHM-0402T-1/16W-1%,0402-TIGHT,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14342,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14241,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14241,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ISM330DHCX,ISM330DHCX,LGA-14L,ISM330DHCX 6DoF,,IC-16693,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-19764-STAN-01"
         },

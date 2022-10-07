@@ -52,6 +52,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Joystick_Shield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9760
 - oompID: PROJ-SPAR-9760-STAN-01
+- rawParts: JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: S1,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,
+- rawParts: S2,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,
+- rawParts: S3,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,
+- rawParts: S4,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,
+- rawParts: S6,Reset,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,
+- rawParts: U$3,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
+- rawParts: U1,ARDUINO_SHIELD,ARDUINO_SHIELDLABEL,DUEMILANOVE_SHIELD,,,
+- rawParts: U2,JOYSTICK,JOYSTICKPTH,JOYSTICK,Thumb Joystick,,
 
 
 

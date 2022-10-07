@@ -41,6 +41,250 @@
             "value": "PROJ-SPAR-9713-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "3.3,M01PTH,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "5,M01PTH,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL3528,EIA3528,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,10uF,CAP_POL3528,EIA3528,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,18pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,18pF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,11pf,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,11pf,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,,DIODESMA,SMA-DIODE,Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F1,250mA PTC Fuse,R-EU_R1206,R1206,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "GND,M01PTH,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,JST-2-PTH,M02-JST-2MM-SMT,S2B-PH,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,M40,M40,1X40,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,M40,M40,1X40,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,USB-A-S,USB-A-S,USB-A-S,USB Connectors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,USB-MINIB,USB_5PIN,USB-MINIB,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,WHITE,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,RED,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,YELLOW,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PROGRAM,,TAC_SWITCHSND,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR,BLUE,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR_SEL,AYZ0202,AYZ0202,AYZ0202,SPDT Slide Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,8MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,32.768KHz,CRYSTAL32-SMD,CRYSTAL-32KHZ-SMD,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,10K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10K,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,390,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,240,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,715,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,240,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RESET,,TAC_SWITCHSND,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,PIC32MX460F512L TQFP100,PIC32MX4XXLTQFP100,TQFP100,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,3.3V,V_REG_317SMD,SOT223,Voltage Regulator,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,5V,V_REG_317SMD,SOT223,Voltage Regulator,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "USB,GREEN,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "USER,,TAC_SWITCHSND,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9713-STAN-01"
         },

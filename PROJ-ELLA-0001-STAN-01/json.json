@@ -1,0 +1,332 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "Zig A Zig Ah"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/zig-a-zig-ah"
+        },
+        {
+            "name": "gitName",
+            "value": "zig-a-zig-ah"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "zzh/Revision A/zzh.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "zzh/Revision A/zzh.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRE1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0001-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C15,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C16,CAPC-0805-X-UF22-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C17,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C18,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L2,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L3,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "MOD1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O101-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,12p,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,12p,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,1u,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,DNP,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,DNP,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,22u,CAP-0805,_PKG_C_0805,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C18,100n,CAP-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CON3,DNP,DEBUG_CORTEX-SWD/CJTAG-5PIN-CUT5,DEBUG_CORTEX_5PIN,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,PRTR5V0U2F,115,DIODE-TVS-PRTR5V0U2F,_PKG_SOT886_JEDEC-MO-252,ESD Suppressor, NXP, PRTR5V0U2F,ESD Suppressor, NXP, PRTR5V0U2F,,0.5mm,,Nexperia,PRTR5V0U2F,115,,,771-PRTR5V0U2F-T/R,https://www.mouser.com/Search/Refine.aspx?Keyword=771-PRTR5V0U2F-T%2FR,8166931P,http://uk.rs-online.com/web/p/products/8166931P,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FL1,BALUN_LFB182G45BG5D920,BALUN_LFB182G45BG5D920,LFB182G45BG5D920,Balance Matching BAND PASS FILTER,Balance Matching BAND PASS FILTER,,mm,,Murata Electronics,LFB182G45BG5D920,,,81-LFB182G45BG5D920,https://www.mouser.com/Search/Refine.aspx?Keyword=81-LFB182G45BG5D920,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,CH340E,INTERFACE-CH340E,_PKG_MSOP10_TI-DGS10,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,ME6211C33R5G,POWER-LDO-ME6211C33R5G,SOT65P212X110-5N,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC3,CC2652R1FRGZ,WMCU-CC2652R1FRGZ,QFN50P700X700X100-49N,Texas Instruments SimpleLink? Multi-Standard CC2652R Wireless MCU 48-VQFN -40 to 85,Texas Instruments SimpleLink? Multi-Standard CC2652R Wireless MCU 48-VQFN -40 to 85,,1mm,,Texas Instruments,CC2652R1FRGZT,,,595-CC2652R1FRGZT,https://www.mouser.com/Search/Refine.aspx?Keyword=595-CC2652R1FRGZT,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,BLM18HE152SN1,INDUCTOR-0603,_PKG_L_0603,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,MLZ2012N6R8LT000,INDUCTOR-0805,_PKG_C_0805,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L3,0,INDUCTOR-0402,_PKG_L_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LED-0603,_PKG_LED_0603,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MOD1,,ZZH_MODULE,ZZH_MODULE,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100K,RES-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,100,RES-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100K,RES-0402,_PKG_C_0402,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW1,K2-1177SW-D4DW-06,PUSHBUTTON-K2-1177SW-D4DW-06,K2-1177SW-D4DW-06,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,LOGO-ELECTROLAMA,LOGO-ELECTROLAMA,ELECTROLAMA,,,,,,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,Q22FA12800150,48.000MHZ_CX2016DB48000C0FPLC1,XTAL-4P-2016,48MHz \u00c3\u0082\u00c2\u00b110ppm Crystal 7pF 50 Ohms 4-SMD, No Lead,,1253-2042-1-ND,,,,,KYOCERA,CX2016DB48000C0FPLC1,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y2,32.768KHz,32.768KHZ_Q13FC1350000400,XTAL-2P-3215,SMD Crystal Resonators 32.768KHz +/-20ppm SMD-3215_2P RoHS,,,,C32346,,,SEIKO EPSON,Q13FC1350000400,,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0001-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Zig A Zig Ah"
+        }
+    ]
+}

@@ -52,6 +52,33 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15353
 - oompID: PROJ-SPAR-15353-STAN-01
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,
+- rawParts: H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,
+- rawParts: H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,
+- rawParts: H4,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,
+- rawParts: J1,,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,,CONN-11443,,PRT-08612,,
+- rawParts: J2,,CONN_06NO_SILK_NO_POP,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,
+- rawParts: JP2,LED,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,
+- rawParts: LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,,
+- rawParts: Q1,1.1A/60V/600mÃÂ©,MOSFET_PCH-SI2309DS,SOT23-3,P-channel MOSFETs,,TRANS-08285,,,1.1A/60V/600mÃÂ©,
+- rawParts: R1,16.2k,16.2KOHM-0603-1/10W-1%,0603,16.2kÃÂ© resistor,,RES-12187,,,16.2k,
+- rawParts: R2,22k,22KOHM-0603-1/10W-1%,0603,22kÃÂ© resistor,,RES-07853,,,22k,
+- rawParts: R3,93.1k,93.1KOHM,0603,93.1kÃÂ© resistor,,RES-14393,,,93.1k,
+- rawParts: R4,124k,124KOHM,0603,124kÃÂ© resistor,,RES-14395,,,124k,
+- rawParts: R5,169K,169KOHM,0603,169kÃÂ© resistor,,RES-14394,,,169K,
+- rawParts: R6,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,,1k,
+- rawParts: R7, ,RESISTOR0603,0603,Generic Resistor Package,, ,,, ,
+- rawParts: R8, ,RESISTORAXIAL-0.3,AXIAL-0.3,Generic Resistor Package,, ,,, ,
+- rawParts: S1,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,TACTILE_SWITCH_SMD_5.2MM,Momentary Switch (Pushbutton) - SPST,,SWCH-14139,,,,
+- rawParts: SW1,DIP-06,DIP-06,DIPSWITCH-06-SMD,,,--------,,,,
+- rawParts: U1,TPL5110,TPL5110,SOT23-6,TPL5110 Nano-Power System Timer for Power Gating,,IC-14387,,,,
 
 
 

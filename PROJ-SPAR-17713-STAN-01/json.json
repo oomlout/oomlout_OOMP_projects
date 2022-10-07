@@ -41,6 +41,150 @@
             "value": "PROJ-SPAR-17713-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,22pF,22PF-0402T-16V-10%,0402-TIGHT,22pF ceramic capacitors,,CAP-14674,,,22pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,22pF,22PF-0402T-16V-10%,0402-TIGHT,22pF ceramic capacitors,,CAP-14674,,,22pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,15pF,15PF-0402T-50V-5%,0402-TIGHT,15pF ceramic capacitors,,CAP-13063,,,15pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,15pF,15PF-0402T-50V-5%,0402-TIGHT,15pF ceramic capacitors,,CAP-13063,,,15pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,2.2uF,2.2UF-0402_TIGHT-10V-10%-X5R,0402-TIGHT,2.2\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14232,,,2.2uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,2.2uF,2.2UF-0402_TIGHT-10V-10%-X5R,0402-TIGHT,2.2\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14232,,,2.2uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,C,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1.0uF,1.0UF-0402T-16V-10%,0402-TIGHT,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-12417,,C,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,4.7uF,4.7UF-0402_TIGHT-6.3V-20%-X5R,0402-TIGHT,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14240,,C,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C20,0.1uF,0.1UF-0402T-10V-10%-X7R,0402-TIGHT,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-15083,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,MICROMOD-2222,MICROMOD-2222,M.2-CARD-E-22,MicroMod Connector,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,,MOSFET_PCH-DMG2305UX-7,SOT23-3,P-channel MOSFETs,,TRAN-14388,,,20V/4.2A/52m\u00c3\u008e\u00c2\u00a9/1.4W,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100k,100KOHM-0402T-1/16W-1%,0402-TIGHT,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-13495,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22,22OHM-0402T-1/16W-1%,0402-TIGHT,22\u00c3\u008e\u00c2\u00a9 resistor,,RES-12427,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,22,22OHM-0402T-1/16W-1%,0402-TIGHT,22\u00c3\u008e\u00c2\u00a9 resistor,,RES-12427,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,5.1k,5.1KOHM-0402T-1/16W-1%,0402-TIGHT,,,RES-14340,,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,100k,100KOHM-0402T-1/16W-1%,0402-TIGHT,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-13495,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,100k,100KOHM-0402T-1/16W-1%,0402-TIGHT,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-13495,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,1k,1KOHM-0402T-1/16W-1%,0402-TIGHT,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-14342,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,STM32F405RGT6,STM32F405RG,TQFP64,STM32F405RGT6,,IC-11709,,,STM32F405RGT6,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,W25QXX128MBIT-6X5,W25QXX128MBIT-6X5,WSON-8-6X5,,,IC-15107,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,12MHz,CRYSTAL-12MHZ,CRYSTAL-SMD-5X3.2-4PAD,12.0MHz Crystal,,XTAL-08297,,,12MHz,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y2,32.768kHz,CRYSTAL-32.768KHZSMD-3.2X1.5,CRYSTAL-SMD-3.2X1.5MM,32.768kHz Crystal,,XTAL-13062,,,32.768kHz,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-17713-STAN-01"
         },

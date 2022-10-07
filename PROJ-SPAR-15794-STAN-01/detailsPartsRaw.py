@@ -1,2 +1,16 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-15794-STAN-01")
+
+newPart.addTag('rawParts','C1,1.0uF,1.0UF-0603-16V-10%,0603,1\xc3\x82\xc2\xb5F ceramic capacitors,CAP-00868,1.0uF,')
+newPart.addTag('rawParts','C3,1.0uF,1.0UF-0603-16V-10%,0603,1\xc3\x82\xc2\xb5F ceramic capacitors,CAP-00868,1.0uF,')
+newPart.addTag('rawParts','FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,')
+newPart.addTag('rawParts','FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,')
+newPart.addTag('rawParts','FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,')
+newPart.addTag('rawParts','FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,')
+newPart.addTag('rawParts','FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,')
+newPart.addTag('rawParts','J1,Qwiic Right Angle,I2C_STANDARDQWIIC,1X04_1MM_RA,SparkFun I2C Standard Pinout Header,CONN-13694,Qwiic Right Angle,')
+newPart.addTag('rawParts','J9,,SPARKFUN-CONNECTORS_CONN_03X2SINGLE_SLOT-4MILS,SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,')
+newPart.addTag('rawParts','LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open Source Hardware Logo,,,')
+newPart.addTag('rawParts','U$1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,')
+newPart.addTag('rawParts','U$4,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,')
+newPart.addTag('rawParts','U2,3.3V/600mA,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,VREG-12457,3.3V,')

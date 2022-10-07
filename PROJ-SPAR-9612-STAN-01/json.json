@@ -41,6 +41,198 @@
             "value": "PROJ-SPAR-9612-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10pF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10pF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,1000uF,CAP_POLPTH4,CPOL-RADIAL-1000UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.47uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.47uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.47uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.47uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,100uF,CAP_POLPTH1,CPOL-RADIAL-100UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP12,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP13,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LED3MM,LED3MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,GREEN,LED3MM,LED3MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,RED,LED3MM,LED3MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,47K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,47K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,1K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,1K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,STBY,SWITCH-SPSTPTH,SWITCH-SPDT,SPST Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LM358,LM358,DIP08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,STA540,STA5406400BG_W/SOLDERPOSTS,MULTIWATT15_6400BGHEATSINK_2,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR1,10K,POT,ALPS_POT,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR2,10K,POT,ALPS_POT,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9612-STAN-01"
         },

@@ -41,6 +41,150 @@
             "value": "PROJ-SPAR-8480-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F1,PTC,PTCSMD,PTC-1206,Resettable Fuse PTC,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,AIN,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,DIN,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,AOUT,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,DOUT,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,ISSP,M05,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Power,LED1206,LED-1206,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,,LED1206,LED-1206,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,TX,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,RX,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,330,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,1K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$10,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$12,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$13,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$14,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$15,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$17,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$18,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,CY8C29466-24SOIC,CY8C29466-24SOIC,SOIC28,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,FT232RL,FT232RL-BASICSSOP,SSOP28DB,USB UART,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X2,USBSMD,USBSMD,USB-MINIB,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8480-STAN-01"
         },

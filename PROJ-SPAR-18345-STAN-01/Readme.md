@@ -52,6 +52,34 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18345
 - oompID: PROJ-SPAR-18345-STAN-01
+- rawParts: C1,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,,,CAP-13930,,1.0uF,
+- rawParts: C4,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1ÃÂµF ceramic capacitors,,,CAP-13930,,1.0uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,,DIO-00819,,RED,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,
+- rawParts: I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,,
+- rawParts: J1,DNP,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,CONN-09696,,,
+- rawParts: J2,QWIIC_RA,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,,CONN-13694,,QWIIC_RIGHT_ANGLE,
+- rawParts: J4,QWIIC_RA,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,,CONN-13694,,QWIIC_RIGHT_ANGLE,
+- rawParts: JP1,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,
+- rawParts: JP2,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,
+- rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,
+- rawParts: JP5,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,
+- rawParts: JP6,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,
+- rawParts: JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,
+- rawParts: JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,
+- rawParts: LOGO1,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,,
+- rawParts: LOGO2,QWIIC_LOGO_5MM,QWIIC_LOGO_5MM,QWIIC_5MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,,
+- rawParts: LOGO3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,,
+- rawParts: LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,,
+- rawParts: LOGO5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,
+- rawParts: LOGO6,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,,
+- rawParts: PWR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,
+- rawParts: R1,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,,RES-07857,,4.7k,
+- rawParts: R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7kÃÂ© resistor,,,RES-07857,,4.7k,
+- rawParts: R3,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,,RES-07856,,1k,
+- rawParts: R4,4.7,4.7OHM-0603-1/10W-1%,0603,4.7ÃÂ© resistor,,,RES-15581,,4.7,
+- rawParts: U1,SGP40,SGP40,SGP40,The SGP40 is a digital gas sensor designed for easy,,1649-SGP40-D-R4CT-ND,IC-15580,,SGP40,
 
 
 

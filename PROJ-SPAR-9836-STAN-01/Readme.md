@@ -52,6 +52,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ADXL345_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9836
 - oompID: PROJ-SPAR-9836-STAN-01
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: CIO,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: JP1,,M08,1X08,Header 8,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U2,ADXL345PATRICK,ADXL345PATRICK,LGA14_1:1_PATRICK,,,
 
 
 

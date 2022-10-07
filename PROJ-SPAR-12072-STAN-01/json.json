@@ -41,6 +41,130 @@
             "value": "PROJ-SPAR-12072-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "AE1,ANTENNA22500AT44M0400,ANTENNA22500AT44M0400,ANTENNA-CHIP_2500AT44M0400,Chip antenna,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP0805,0805,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uF,CAP0805,0805,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1uF,CAP0805,0805,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,1uF,CAP0805,0805,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10pF,CAP0603-CAP,0603-CAP,Capacitor,C0G,,5%,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,2.2pF,CAP0603-CAP,0603-CAP,Capacitor,C0G,,10%,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,DNP,CAP0603-CAP,0603-CAP,Capacitor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,,DIO-00821,,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,U.FL,U.FL,U.FL,SMD antenna connector- WRL-09144,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,Debug,M03PTH,1X03,Header 3,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M09,M09,1X09,Header 9,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,DNP,INDUCTOR0603,0603,Inductors,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,2.2nH,INDUCTOR0603,0603,Inductors,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,240,RESISTOR0603,0603-RES,Resistor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,390,RESISTOR0603,0603-RES,Resistor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,390,RESISTOR0603-RES,0603-RES,Resistor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,RESISTOR0603-RES,0603-RES,Resistor,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,Mode,SOLDERJUMPER_2WAYPASTE1&2,SJ_3_PASTE1&2,Solder Jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LM1117,V_REG_LM1117SOT223,SOT223,Voltage Regulator LM1117,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,74HC4050,HEX_CONVERTER,SO016,Just what it says.,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,CC3000,CC3000,QFN-46_CC3000,TI CC3000 WiFi Module,,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-12072-STAN-01"
         },

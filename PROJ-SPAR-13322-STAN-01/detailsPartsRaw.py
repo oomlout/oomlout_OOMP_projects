@@ -1,2 +1,15 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-13322-STAN-01")
+
+newPart.addTag('rawParts','FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Joel Bartlett,,,v10,')
+newPart.addTag('rawParts','JP1,DNP,M03POLAR,MOLEX-1X3,Header 3,,,,,')
+newPart.addTag('rawParts','JP2,,M03SCREW_LOCK,SCREWTERMINAL-3.5MM-3_LOCK.007S,Header 3,,CONN-08288,,,')
+newPart.addTag('rawParts','LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,')
+newPart.addTag('rawParts','LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,')
+newPart.addTag('rawParts','Q1,2N3904,TRANSISTOR_NPNMMBT2222A,SOT23-3,Generic NPN BJT,,TRANS-08049,MMBT2222A,,')
+newPart.addTag('rawParts','R1,10k,100OHM-1/4W-5%(0603),0603-RES,,,RES-12438,100/.25W,,')
+newPart.addTag('rawParts','R2,100,100OHM-1/4W-5%(0603),0603-RES,,,RES-12438,100/.25W,,')
+newPart.addTag('rawParts','STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,')
+newPart.addTag('rawParts','STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,')

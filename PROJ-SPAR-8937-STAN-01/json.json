@@ -41,6 +41,170 @@
             "value": "PROJ-SPAR-8937-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,Status,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,Status,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,SWCH-08247,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$30,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$31,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$32,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$33,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$34,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$35,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$36,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$37,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$38,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$39,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$40,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$41,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$42,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$43,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$44,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$45,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$46,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$47,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$48,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$51,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,XBEE-1B3,XBEE-1B3,XBEE-SMD,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,V_REG_LDOSMD,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8937-STAN-01"
         },

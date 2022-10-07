@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-8882-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,M01-SMTSO-256-ET,M01-SMTSO-256-ET,SMTSO-256-ET,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M01-SMTSO-256-ET,M01-SMTSO-256-ET,SMTSO-256-ET,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,ACS712,ACS712,SO08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8882-STAN-01"
         },

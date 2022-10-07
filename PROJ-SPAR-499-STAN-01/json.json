@@ -41,6 +41,18 @@
             "value": "PROJ-SPAR-499-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,M10,M10,1X10,Header 10,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M10,M10,1X10,Header 10,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,SSOP20,SSOP20,SSOP20-LONG,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-499-STAN-01"
         },

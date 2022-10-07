@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Photo_Interrupter_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9322
 - oompID: PROJ-SPAR-9322-STAN-01
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: R1,220,RESISTORPTH1,AXIAL-0.3,Resistor,,
+- rawParts: U1,GP1A57HR,GP1A57HR,GP1A57HR,,,
+- rawParts: U2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
 
 
 

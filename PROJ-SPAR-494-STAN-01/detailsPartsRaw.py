@@ -1,2 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-494-STAN-01")
+
+newPart.addTag('rawParts','FRAME1,frame,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,')
+newPart.addTag('rawParts','JP1,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,')
+newPart.addTag('rawParts','JP2,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,')
+newPart.addTag('rawParts','JP3,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,')
+newPart.addTag('rawParts','JP4,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,')
+newPart.addTag('rawParts','JP5,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,')
+newPart.addTag('rawParts','JP6,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,')
+newPart.addTag('rawParts','JP7,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,')
+newPart.addTag('rawParts','JP8,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,')
+newPart.addTag('rawParts','LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,')
+newPart.addTag('rawParts','LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,')
+newPart.addTag('rawParts','U1,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,')
+newPart.addTag('rawParts','U2,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,')
+newPart.addTag('rawParts','U3,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,')
+newPart.addTag('rawParts','U4,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,')

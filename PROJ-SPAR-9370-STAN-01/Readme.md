@@ -52,6 +52,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/DC-DC_Converter_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9370
 - oompID: PROJ-SPAR-9370-STAN-01
+- rawParts: C1,100uF-25V,CAP_POL,NIPPON_F80,Capacitor Polarized,,
+- rawParts: C2,22uF-35v,CAP_POLC,PANASONIC_C,Capacitor Polarized,,
+- rawParts: C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: IN,,M05PTH,1X05,Header 5,,
+- rawParts: OUT,,M03PTH,1X03,Header 3,,
+- rawParts: Q1,MOSFET-NCHANNELSMD,MOSFET-NCHANNELSMD,SOT23-3,,,
+- rawParts: R1,22K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R2,100K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: U$1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U1,DC-DC_CONVERTER,DC-DC_CONVERTER,DC-DC_CONVERTER,,,
 
 
 

@@ -1,2 +1,12 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-8464-STAN-01")
+
+newPart.addTag('rawParts','LIGHT+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','LIGHT-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','LIGHT1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','LIGHT2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','LIGHT3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','LIGHTS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','R1,10K,RESISTOR0402,C0402,Resistor,,')
+newPart.addTag('rawParts','U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,')
+newPart.addTag('rawParts','U1,TEMT6000,TEMT6000,TEMT6000-SEN,Ambient Light Sensor,,')

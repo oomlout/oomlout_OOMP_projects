@@ -41,6 +41,158 @@
             "value": "PROJ-SPAR-9814-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "BAT1,AA Battery,BATTERYAA,BATTERY-AA,Battery Holders,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BAT2,AA Battery,BATTERYAA,BATTERY-AA,Battery Holders,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1uF,CAP0805,0805,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,4.7uF,CAP_POL7343,EIA7343,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,FT232RLSSOP,FT232RLSSOP,SSOP28DB,USB UART,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S3,Power Switch,SWITCH-SPSTSMD,AYZ0202,SPST Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ATMEGA168,ATMEGA168,TQFP32-08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,ADXL345,ADXL345,LGA14,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,USD-SOCKETNEW,USD-SOCKETNEW,MICRO-SD-SOCKET-PP,microSD Socket,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USBSMD,USBSMD,USB-MINIB,USB Connectors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9814-STAN-01"
         },

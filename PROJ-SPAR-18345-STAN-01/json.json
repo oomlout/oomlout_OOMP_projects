@@ -41,6 +41,118 @@
             "value": "PROJ-SPAR-18345-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,CAP-13930,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,CAP-13930,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,DNP,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,CONN-09696,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,QWIIC_RA,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,QWIIC_RA,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIAL0.2MM,FIDUCIAL0.2MM,FIDUCIAL-0.2MM,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,QWIIC_LOGO_5MM,QWIIC_LOGO_5MM,QWIIC_5MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO6,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,4.7,4.7OHM-0603-1/10W-1%,0603,4.7\u00c3\u008e\u00c2\u00a9 resistor,,,RES-15581,,4.7,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,SGP40,SGP40,SGP40,The SGP40 is a digital gas sensor designed for easy,,1649-SGP40-D-R4CT-ND,IC-15580,,SGP40,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18345-STAN-01"
         },

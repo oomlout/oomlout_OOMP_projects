@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-8464-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "LIGHT+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LIGHT-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LIGHT1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LIGHT2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LIGHT3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LIGHTS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,TEMT6000,TEMT6000,TEMT6000-SEN,Ambient Light Sensor,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8464-STAN-01"
         },

@@ -52,6 +52,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RS232_Shifter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8780
 - oompID: PROJ-SPAR-8780-STAN-01
+- rawParts: C4,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,,CAP-00811,10uF,,
+- rawParts: D1,BAS16,DIODEBAS16,SOD-323,Diode,,DIO-09646,250mA/100V,,
+- rawParts: D4,Red,LED-RED1206,LED-1206,Assorted Red LEDs,,DIO-00809,RED,,
+- rawParts: D5,Grn,LED-GREENLARGE,LED-1206,Various green LEDs,,DIO-00862,GREEN,,
+- rawParts: E$1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: E$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,,,v01,
+- rawParts: JP1,DB9,DB9FEMALE,DB9,DB9 Connector,,CONN-08194,,,
+- rawParts: JP2,,M04PTH,1X04,Header 4,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: LOGO2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo,,,,,
+- rawParts: R1,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,
+- rawParts: R2,10K,10KOHM1/10W1%(0603)0603,0603-RES,RES-00824,,RES-00824,10K,,
+- rawParts: R3,330,330OHM1/10W1%(0603),0603-RES,RES-00818,,RES-00818,330,,
+- rawParts: R4,330,330OHM1/10W1%(0603),0603-RES,RES-00818,,RES-00818,330,,
+- rawParts: U2,XN04312,XN04312SOT,SOT23-6,NPN/PNP Transistor Array,,TRANS-00816,,,
 
 
 

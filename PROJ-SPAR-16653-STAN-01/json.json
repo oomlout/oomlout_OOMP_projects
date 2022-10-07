@@ -41,6 +41,266 @@
             "value": "PROJ-SPAR-16653-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,2.2uF,2.2UF-0603-10V-20%,0603,2.2\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-07888,,,,2.2uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,2.2uF,2.2UF-0603-10V-20%,0603,2.2\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-07888,,,,2.2uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,10nF,10NF-0603-50V-10%,0603,0.01uF/10nF/10,000pF ceramic capacitors,,CAP-00867,,,,10nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,WS2812B,WS2812B,WS2812B,WS2812B SMD addressable RGB LED,,DIO-12503,,,,WS2812B,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame - Ledger,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2C,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,SMT-JUMPER_3_2-NC_TRACE_NO-SILK,Normally closed trace jumper (2 of 2 connections),,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,AVR_SPI_PROG_3X2TESTPOINTS,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,2.4 TFT,4DLCD-24-320X240,FPC05040-17204,4D LCD 4DLCD-24320240-IPS - 2.4 240x320 TFT LCD,,LCD-14913,CONN-14082,,,2.4 TFT,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.4_INCH,SFE_LOGO_NAME_FLAME.4_INCH,SFE_LOGO_NAME_FLAME_.4,SparkFun Font Logo w/ Flame,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,QWIIC_LOGO_4MM,QWIIC_LOGO_4MM,QWIIC_4MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LS2,CVS-1508,SPEAKERCVS-1508,CVS-1508_PCBSPKR,Speaker,,COM-14823,,,,CVS-1508,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,1.1A/60V/600m\u00c3\u008e\u00c2\u00a9,MOSFET_PCH-SI2309DS,SOT23-3,P-channel MOSFETs,,TRANS-08285,,,,1.1A/60V/600m\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S3,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,TACTILE_SWITCH_SMD_5.2MM,Momentary Switch (Pushbutton) - SPST,,SWCH-14139,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S4,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,MOMENTARY-SWITCH-SPST-SMD-5.2MM-TALL,TACTILE_SWITCH_SMD_5.2MM,Momentary Switch (Pushbutton) - SPST,,SWCH-14139,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S6,Joystick,JOYSTICK_MINI,JOYSTICK_MINI,Small Tactile Joystick w/ Select Switch,,SWCH-09905,,,COM-10063,Joystick,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP5,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP6,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP7,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP8,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP9,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP10,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP11,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP12,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP13,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP14,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP15,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,SparkFun Test Points,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,Raspberry Pi Header,RASPBERRY_PI_40BTM-NOHOLES,RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES,,,CONN-13790,,,,Raspberry Pi Header,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,ADMP401,ADMP401,ADMP401,ADMP401 - Omnidirection Bottom-Port MEMS Microphone,,IC-09773,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,ADMP401,ADMP401,ADMP401,ADMP401 - Omnidirection Bottom-Port MEMS Microphone,,IC-09773,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,WM8960,WM8960,QFN-32,Cirrus Logic WM890 - Stereo Audio CODEC,,IC-14824,,,,WM8960,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,ATTINY84,ATTINY84,SO14,Atmel 14-pin 2/4/8kB flash uC,,IC-11285,,,,ATTINY84,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,24 MHz,OSCILLATOR-24MHZ,RESONATOR-SMD-3.2X2.5,Abracon 24 MHZ Oscillator,,XTAL-14907,,,,24 MHz,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16653-STAN-01"
         },

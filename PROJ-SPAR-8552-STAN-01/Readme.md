@@ -52,6 +52,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Serial_DB9_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8552
 - oompID: PROJ-SPAR-8552-STAN-01
+- rawParts: DB9,,DB9,DB9,DB9 Connector,,
+- rawParts: JP1,M09,M09,1X09,Header 9,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 
 
 

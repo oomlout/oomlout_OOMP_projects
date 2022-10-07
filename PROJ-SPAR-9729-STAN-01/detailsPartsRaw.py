@@ -1,2 +1,17 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9729-STAN-01")
+
+newPart.addTag('rawParts','JP1,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,')
+newPart.addTag('rawParts','JP2,,M063.5MM-6,SCREWTERMINAL-3.5MM-6,Header 6,,')
+newPart.addTag('rawParts','JP3,,M04SCREW,SCREWTERMINAL-3.5MM-4,Header 4,,')
+newPart.addTag('rawParts','JP4,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,')
+newPart.addTag('rawParts','JP5,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,')
+newPart.addTag('rawParts','JP6,,M023.5MM,SCREWTERMINAL-3.5MM-2,Header 2,,')
+newPart.addTag('rawParts','JP7,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,')
+newPart.addTag('rawParts','JP8,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,')
+newPart.addTag('rawParts','LED1,,LED5MM,LED5MM,LEDs,,')
+newPart.addTag('rawParts','R1,330,RESISTORPTH1,AXIAL-0.3,Resistor,,')
+newPart.addTag('rawParts','S1,Reset,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,')
+newPart.addTag('rawParts','S2,General,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,')
+newPart.addTag('rawParts','U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,')
+newPart.addTag('rawParts','U1,ARDUINO_SHIELD,ARDUINO_SHIELDNOHOLES,DUEMILANOVE_SHIELD_NOHOLES,,,')

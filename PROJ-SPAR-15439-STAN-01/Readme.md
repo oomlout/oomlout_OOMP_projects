@@ -52,6 +52,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/PCA9306_Level_Translator_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15439
 - oompID: PROJ-SPAR-15439-STAN-01
+- rawParts: C1,100pF,100PF-0603-50V-5%,0603,100pF/0.1nF ceramic capacitors,,CAP-07883,,100pF,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,
+- rawParts: J2,,CONN_05NO_SILK,1X05_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: JP1,EN,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,
+- rawParts: LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO2,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,,
+- rawParts: LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,
+- rawParts: R1,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2kÃÂ© resistor,,RES-08272,,2.2k,
+- rawParts: R2,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2kÃÂ© resistor,,RES-08272,,2.2k,
+- rawParts: R3,200k,200KOHM-0603-1/10W-1%,0603,200kÃÂ© resistor,,RES-09385,,200k,
+- rawParts: R4,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2kÃÂ© resistor,,RES-08272,,2.2k,
+- rawParts: R5,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2kÃÂ© resistor,,RES-08272,,2.2k,
+- rawParts: U1,PCA9306,PCA9306VSSOP_8PIN,VSSOP_8PIN,Bidirectional I2C level shifter,,IC-14450,,,
 
 
 

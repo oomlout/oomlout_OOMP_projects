@@ -52,6 +52,21 @@ Contents
 - sources: All source files from https://github.com/sparkfun/8_channel_level_shifter_TXS0108E (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19626
 - oompID: PROJ-SPAR-19626-STAN-01
+- rawParts: C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,
+- rawParts: C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,
+- rawParts: C3,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,,CAP-11015,,10uF,
+- rawParts: C4,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,,CAP-11015,,10uF,
+- rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: J1,,CONN_111X11_NO_SILK,1X11_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: J2,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,
+- rawParts: R1,100k,100KOHM-0603-1/10W-1%,0603,100kÃÂ© resistor,,RES-07828,,100k,
+- rawParts: U1,TXS0108,TXS0108-VFQFN_20,VFQFN-20,8-Bit Bi-Directional Level Shifter For Open-Drain and Push-Pull,,IC-14343,,TXS0108,
 
 
 

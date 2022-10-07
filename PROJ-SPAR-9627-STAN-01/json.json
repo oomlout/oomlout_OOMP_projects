@@ -41,6 +41,102 @@
             "value": "PROJ-SPAR-9627-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "2.2UH,2.2uH,VLF4012A,VLF4012A,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,M12PTH,M12PTH,1X12,Header 12,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,M12PTH,M12PTH,1X12,Header 12,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,FDMA1024NZ,FDMA1024NZ,MICROFET_2X2,Dual N-Channel 30-V (D-S) MOSFET,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,180k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,1k,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,TPS61200,TPS61200,DRC-S-PVSON-N10,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,ARDUINO_MINI,ARDUINO_MINI,ARDUINO_MINI,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9627-STAN-01"
         },

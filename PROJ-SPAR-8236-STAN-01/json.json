@@ -41,6 +41,18 @@
             "value": "PROJ-SPAR-8236-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,,M04PTH,1X04,Header 4,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,NAV_SWITCH,NAV_SWITCHSMD,NAV_SWITCH,Navigation Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8236-STAN-01"
         },

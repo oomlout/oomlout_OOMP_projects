@@ -41,6 +41,22 @@
             "value": "PROJ-SPAR-9322-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,220,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,GP1A57HR,GP1A57HR,GP1A57HR,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9322-STAN-01"
         },

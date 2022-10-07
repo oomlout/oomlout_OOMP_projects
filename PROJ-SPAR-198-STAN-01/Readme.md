@@ -52,6 +52,27 @@ Contents
 - sources: All source files from https://github.com/sparkfun/CP2102_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/198
 - oompID: PROJ-SPAR-198-STAN-01
+- rawParts: C1,1uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,1.0uF,
+- rawParts: C2,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,0.1uF,
+- rawParts: C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,
+- rawParts: JP1,,M02PTH,1X02,Header 2,,,
+- rawParts: JP2,,M02PTH,1X02,Header 2,,,
+- rawParts: JP3,,M04PTH,1X04,Header 4,,,
+- rawParts: JP4,M100.1,M100.1,1X10,Header 10,,,
+- rawParts: LED1,Red,LED1206,LED-1206,LEDs,,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,
+- rawParts: R1,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,330,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,
+- rawParts: U$4,REVISION,REVISION,REVISION,,,,
+- rawParts: U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U$8,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U$9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,
+- rawParts: U1,CP2102,CP210X_USB_UART,MLP28,Single-Chip USB to UART Bridge,,,
+- rawParts: X1,USBPTH,USBPTH,USB-B-PTH,USB Connectors,,,
 
 
 

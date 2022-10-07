@@ -52,6 +52,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/nRF2401A_Transceiver-Chip_Antenna (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/152
 - oompID: PROJ-SPAR-152-STAN-01
+- rawParts: C1,22pF,CAP0402,C0402,Capacitor,,
+- rawParts: C2,22pF,CAP0402,C0402,Capacitor,,
+- rawParts: C3,33nF,CAP0402,C0402,Capacitor,,
+- rawParts: C4,2.2nF,CAP0402,C0402,Capacitor,,
+- rawParts: C5,22pF,CAP0402,C0402,Capacitor,,
+- rawParts: C6,1.0pF,CAP0402,C0402,Capacitor,,
+- rawParts: C7,1.0pF,CAP0402,C0402,Capacitor,,
+- rawParts: C8,10nF,CAP0402,C0402,Capacitor,,
+- rawParts: C9,1nF,CAP0402,C0402,Capacitor,,
+- rawParts: JP1,,M07,1X07,Header 7,,
+- rawParts: JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: L1,3.3nH,INDUCTOR0402,C0402,Inductors,,
+- rawParts: L2,33nH,INDUCTOR0402,C0402,Inductors,,
+- rawParts: Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,
+- rawParts: R1,1M,RESISTOR0402,C0402,Resistor,,
+- rawParts: R2,22K,RESISTOR0402,C0402,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,NRF2401A,NRF2401ASMD,MLP-24,2.4GHz Transceiver,,
+- rawParts: Y1,ANTENNA2SMD5,ANTENNA2SMD5,ANTENNA-CHIP5,Antenna,,
 
 
 

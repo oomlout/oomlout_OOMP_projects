@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-8776-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "BUTTON-,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BUTTONS,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,LOGO-LPL,LOGO-LPL,LOGO-L,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8776-STAN-01"
         },

@@ -41,6 +41,22 @@
             "value": "PROJ-SPAR-193-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "FRAME1,,FRAME-LETTERNO_PACKAGE,DUMMY,Schematic Frame,Nathan Seidle,v21,"
+        },
+        {
+            "name": "rawParts",
+            "value": "HEADERS,,M06POLAR,MOLEX-1X6,Header 6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RJ11,RJ11-6PTH,RJ11-6PTH,RJ11-6,RJ11 Jack,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-193-STAN-01"
         },

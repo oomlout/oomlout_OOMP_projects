@@ -41,6 +41,70 @@
             "value": "PROJ-SPAR-258-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,PIC16F88-SSOP,PIC16F88-SSOP,SSOP20,PIC 16F8x,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M06LOCK,1X06_LOCK,Header 6,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M06LOCK,1X06_LOCK,Header 6,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M03SCREW_LOCK,SCREWTERMINAL-3.5MM-3_LOCK.007S,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,TRANSISTOR_PNPSMD,TRANSISTOR_PNPSMD,SOT23-3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,TRIMPOTSMD,TRIMPOTSMD,TRIMPOT-3MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,,TEST-POINT3X5,PAD.03X.05,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,PIC-ICSP-MINI,PIC-ICSP-MINI,PIC-ICSP-MINI,PIC-ICSP-Mini,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,LOGO-FLAME-LARGE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,RESONATORSMD,RESONATORSMD,RESONATOR-SMD,Resonator,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-258-STAN-01"
         },

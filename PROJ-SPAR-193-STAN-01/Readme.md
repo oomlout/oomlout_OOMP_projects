@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Adapter_Board-ICD_ICD2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/193
 - oompID: PROJ-SPAR-193-STAN-01
+- rawParts: FRAME1,,FRAME-LETTERNO_PACKAGE,DUMMY,Schematic Frame,Nathan Seidle,v21,
+- rawParts: HEADERS,,M06POLAR,MOLEX-1X6,Header 6,,,
+- rawParts: JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,
+- rawParts: RJ11,RJ11-6PTH,RJ11-6PTH,RJ11-6,RJ11 Jack,,,
 
 
 

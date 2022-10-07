@@ -47,6 +47,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/microSD_Transflash_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/544
 - oompID: PROJ-SPAR-544-STAN-01
+- rawParts: JP1,,M07,1X07,Header 7,,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,microSD,USD-SOCKETSMD,MICRO-SD-SOCKET-PP,microSD Socket,,
 
 
 

@@ -1,2 +1,11 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-8463-STAN-01")
+
+newPart.addTag('rawParts','B1,Buzzer,BUZZERSMD2,BUZZER-CCV,Buzzer 12mm,,')
+newPart.addTag('rawParts','U$1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,')
+newPart.addTag('rawParts','U$4,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','U$6,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','U$7,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','U$8,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','U$9,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')

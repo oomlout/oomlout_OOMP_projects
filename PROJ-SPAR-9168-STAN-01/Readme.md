@@ -52,6 +52,30 @@ Contents
 - sources: All source files from https://github.com/sparkfun/On_Screen_Display_Breakout-MAX7456 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9168
 - oompID: PROJ-SPAR-9168-STAN-01
+- rawParts: C1,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C2,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C3,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C4,22pf,CAP0402,C0402,Capacitor,,
+- rawParts: C5,22pf,CAP0402,C0402,Capacitor,,
+- rawParts: C6,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,
+- rawParts: C7,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,
+- rawParts: C8,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: J1,POWER_JACKRCA_LOCK,POWER_JACKRCA_LOCK,RCA_LOCK,Power Jack,,
+- rawParts: J2,POWER_JACKRCA_LOCK,POWER_JACKRCA_LOCK,RCA_LOCK,Power Jack,,
+- rawParts: JP1,M11PTH,M11PTH,1X11,Header 11,,
+- rawParts: R1,75,RESISTOR0402,C0402,Resistor,,
+- rawParts: R2,75,RESISTOR0402,C0402,Resistor,,
+- rawParts: U$2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$8,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$10,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$12,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$13,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$14,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U3,MAX7456,MAX7456,TSSOP28,,,
+- rawParts: V_IN,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,,,
+- rawParts: V_OUT,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,,,
+- rawParts: Y2,27MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,
 
 
 

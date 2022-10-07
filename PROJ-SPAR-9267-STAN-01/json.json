@@ -41,6 +41,66 @@
             "value": "PROJ-SPAR-9267-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,0,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,LOGO-LP,LOGO-LPLP,LOGO-LILYPAD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADXL335,ADXL335,LFCSP-16,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9267-STAN-01"
         },

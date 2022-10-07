@@ -52,6 +52,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_20-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/499
 - oompID: PROJ-SPAR-499-STAN-01
+- rawParts: JP1,M10,M10,1X10,Header 10,,
+- rawParts: JP2,M10,M10,1X10,Header 10,,
+- rawParts: U$1,SSOP20,SSOP20,SSOP20-LONG,,,
 
 
 

@@ -1,2 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-19626-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\xc3\x82\xc2\xb5F ceramic capacitors,,CAP-00810,,0.1uF,')
+newPart.addTag('rawParts','C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\xc3\x82\xc2\xb5F ceramic capacitors,,CAP-00810,,0.1uF,')
+newPart.addTag('rawParts','C3,10uF,10UF-0603-6.3V-20%,0603,10.0\xc3\x82\xc2\xb5F ceramic capacitors,,CAP-11015,,10uF,')
+newPart.addTag('rawParts','C4,10uF,10UF-0603-6.3V-20%,0603,10.0\xc3\x82\xc2\xb5F ceramic capacitors,,CAP-11015,,10uF,')
+newPart.addTag('rawParts','FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FD3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FD4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,')
+newPart.addTag('rawParts','J1,,CONN_111X11_NO_SILK,1X11_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,')
+newPart.addTag('rawParts','J2,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,')
+newPart.addTag('rawParts','LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,')
+newPart.addTag('rawParts','LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,')
+newPart.addTag('rawParts','R1,100k,100KOHM-0603-1/10W-1%,0603,100k\xc3\x8e\xc2\xa9 resistor,,RES-07828,,100k,')
+newPart.addTag('rawParts','U1,TXS0108,TXS0108-VFQFN_20,VFQFN-20,8-Bit Bi-Directional Level Shifter For Open-Drain and Push-Pull,,IC-14343,,TXS0108,')

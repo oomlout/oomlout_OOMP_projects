@@ -41,6 +41,374 @@
             "value": "PROJ-SPAR-15047-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,DNP,4.7UF-1206-16V-(+80/-20%),1206,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-10300,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D7,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D8,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D9,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D10,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D11,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D12,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D13,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D14,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D15,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D16,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D17,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D18,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D19,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D20,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D21,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D22,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D23,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D24,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D25,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D26,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D27,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D28,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D29,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D30,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D31,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D32,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D33,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D34,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D35,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D36,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D37,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D38,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D39,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D40,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D41,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D42,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D43,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D44,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D45,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D46,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D47,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D48,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D49,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D50,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D51,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D52,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D53,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D54,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D55,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D56,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D57,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D58,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D59,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D60,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D61,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D62,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D63,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D64,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame - Ledger,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF_ELECTRICAL-NOTHERMALS,STANDOFF-ELECTRICAL-NOTHERMALS,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J9,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J10,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J11,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J12,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J13,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J14,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J15,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J16,LED_PAD,LED_PAD,CIRCULARPAD,LuMini 8X8 Solder Pad,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15047-STAN-01"
         },

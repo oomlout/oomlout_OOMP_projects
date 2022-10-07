@@ -41,6 +41,102 @@
             "value": "PROJ-SPAR-8872-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,100uF,CAP_POLPTH1,CPOL-RADIAL-100UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,10uF,CAP_POLPTH2,CPOL-RADIAL-10UF-25V,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,POWER_JACKRCA_LOCK,POWER_JACKRCA_LOCK,RCA_LOCK,Power Jack,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Red,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,TRANSISTOR_NPN_2PTH,TRANSISTOR_NPN_2PTH,TO-92,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,120,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,2.2K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,4.7K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,220K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,On/Off,SWITCH-SPSTPTH_LOCK,SWITCH-SPDT_LOCK.007S,SPST Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8872-STAN-01"
         },

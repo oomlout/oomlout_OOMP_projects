@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9540
 - oompID: PROJ-SPAR-9540-STAN-01
+- rawParts: JP1,M15,M15,1X15,Header 15,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: L298N,L298HEATSINK,L298HEATSINK,MULTIWATT15_6400BGHEATSINK,L298 Dual Full Bridge Driver,,
 
 
 

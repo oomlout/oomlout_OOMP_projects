@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SOT23_DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/717
 - oompID: PROJ-SPAR-717-STAN-01
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: JP2,,M03PTH,1X03,Header 3,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,SOT23,XN04312SOT,SOT23-6,NPN/PNP Transistor Array,,
 
 
 

@@ -1,2 +1,12 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9760-STAN-01")
+
+newPart.addTag('rawParts','JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,')
+newPart.addTag('rawParts','S1,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,')
+newPart.addTag('rawParts','S2,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,')
+newPart.addTag('rawParts','S3,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,')
+newPart.addTag('rawParts','S4,,SWITCH-MOMENTARY-212MM,TACTILE-PTH-12MM,,,')
+newPart.addTag('rawParts','S6,Reset,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,,,')
+newPart.addTag('rawParts','U$3,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,')
+newPart.addTag('rawParts','U1,ARDUINO_SHIELD,ARDUINO_SHIELDLABEL,DUEMILANOVE_SHIELD,,,')
+newPart.addTag('rawParts','U2,JOYSTICK,JOYSTICKPTH,JOYSTICK,Thumb Joystick,,')

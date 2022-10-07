@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_8-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/497
 - oompID: PROJ-SPAR-497-STAN-01
+- rawParts: JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP2,,M04PTH,1X04,Header 4,,
+- rawParts: JP3,,M04PTH,1X04,Header 4,,
+- rawParts: U$1,SSOP8,SSOP8,SSOP8,,,
 
 
 

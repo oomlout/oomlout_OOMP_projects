@@ -52,6 +52,32 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24L01 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/691
 - oompID: PROJ-SPAR-691-STAN-01
+- rawParts: C1,22pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,22pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,33nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,2.2nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C5,4.7pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C6,1.0pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C7,1.5pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C8,10nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C9,1nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C10,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: JP1,,M081X08,1X08,Header 8,,
+- rawParts: JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: L1,3.9nH,INDUCTOR0402,C0402,Inductors,,
+- rawParts: L2,2.7nH,INDUCTOR0402,C0402,Inductors,,
+- rawParts: L3,8.2nH,INDUCTOR0402,C0402,Inductors,,
+- rawParts: Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,
+- rawParts: R1,1M,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,22K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: TP1,,TEST-POINT3X5,PAD.03X.05,,,
+- rawParts: U$1,PAD,PAD,PAD-0.008,,,
+- rawParts: U$4,PAD,PAD,PAD-0.008,,,
+- rawParts: U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,NRF24L01ALT1,NRF24L01ALT1,QFN20_ALT1,2.4GHz Low Power Transceiver,,
+- rawParts: U2,3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,
+- rawParts: Y1,ANTENNA2SMD5,ANTENNA2SMD5,ANTENNA-CHIP5,Antenna,,
 
 
 

@@ -41,6 +41,118 @@
             "value": "PROJ-SPAR-9546-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,Left Port B,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,Left Port C,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,Right Port H,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,Right Port J,M08,1X08,Header 8,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,TopEdge,M16PTH,1X16,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,TopInside,M16PTH,1X16,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP12,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP13,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Red,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330,RESISTOR0402-RES,0402-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,XMEGA-100SMD,XMEGA-100SMD,TQFP-100-14X14MM,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,BottonInside,M13,1X13,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U6,BottomEdge,M13,1X13,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9546-STAN-01"
         },

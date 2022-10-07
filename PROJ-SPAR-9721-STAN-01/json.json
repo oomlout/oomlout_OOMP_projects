@@ -41,6 +41,38 @@
             "value": "PROJ-SPAR-9721-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M07,1X07,Header 7,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MPL115A,MPL115A,LGA8,MPL115A1 (SPI) and MPL115A2 (I2C),,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9721-STAN-01"
         },

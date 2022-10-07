@@ -52,6 +52,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8130
 - oompID: PROJ-SPAR-8130-STAN-01
+- rawParts: JP1,,M05,1X05,Header 5,,
+- rawParts: JP3,,M08,1X08,Header 8,,
+- rawParts: JP4,,M08,1X08,Header 8,,
+- rawParts: R1,,RESISTOR0402,C0402,Resistor,,
+- rawParts: R2,,RESISTOR0402,C0402,Resistor,,
+- rawParts: R3,,RESISTOR0402,C0402,Resistor,,
+- rawParts: SJ1,A0,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,
+- rawParts: SJ2,A1,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,
+- rawParts: SJ3,A2,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,PCF8575C,PCF8575C,SO-24DW,PCF8575C I/O Expander.,,
 
 
 

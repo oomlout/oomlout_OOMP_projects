@@ -41,6 +41,86 @@
             "value": "PROJ-SPAR-9695-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,MPR121,MPR121V2,QFN-20-0.4MM-V2,MPR121 Capacitive Touch Sensor Controller. Variant V2 was created using an image import of the bottom of the IC. It matches metal to metal.,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,ADDR,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,I2C,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,Electrodes,M12PTH,1X12,Header 12,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,3.3V,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,GND,M01PTH,1X01,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,75k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ4,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9695-STAN-01"
         },

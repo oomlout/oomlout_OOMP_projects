@@ -52,6 +52,23 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/199
 - oompID: PROJ-SPAR-199-STAN-01
+- rawParts: C1,1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C2,0.1uF,CAP0402,C0402,Capacitor,,
+- rawParts: C3,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: JP1,,M02PTH,1X02,Header 2,,
+- rawParts: JP2,,M02PTH,1X02,Header 2,,
+- rawParts: JP3,,M04PTH,1X04,Header 4,,
+- rawParts: JP4,,M100.1,1X10,Header 10,,
+- rawParts: JP5,,M04PTH,1X04,Header 4,,
+- rawParts: LED1,Red,LED1206,LED-1206,LEDs,,
+- rawParts: R1,330,RESISTOR0402,C0402,Resistor,,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U1,CP2103,CP2103_USB_UART,MLP28,Single-Chip USB to UART Bridge,,
+- rawParts: X1,USBPTH,USBPTH,USB-B-PTH,USB Connectors,,
 
 
 

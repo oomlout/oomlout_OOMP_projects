@@ -47,6 +47,31 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MIDI_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9598
 - oompID: PROJ-SPAR-9598-STAN-01
+- rawParts: D1,,DIODESMA,SMA-DIODE,Diode,,
+- rawParts: JP1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: JP4,,M06SIP,1X06,Header 6,,
+- rawParts: JP5,,M06SIP,1X06,Header 6,,
+- rawParts: JP6,,M06SIP,1X06,Header 6,,
+- rawParts: JP7,,M06SIP,1X06,Header 6,,
+- rawParts: JP8,,M06SIP,1X06,Header 6,,
+- rawParts: JP9,,M06SIP,1X06,Header 6,,
+- rawParts: JP10,,M06SIP,1X06,Header 6,,
+- rawParts: JP11,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: R1,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R4,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R5,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R6,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: S3,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,
+- rawParts: S5,,SWITCH-SPSTSMD,AYZ0202,SPST Switch,,
+- rawParts: U$1,ARDUINO_VIAS_ONLY,ARDUINO_VIAS_ONLY,DUEMILANOVE_VIAS,,,
+- rawParts: U$2,MIDI_CONN_FEMALE_SUPPORT,MIDI_CONN_FEMALE_SUPPORT,DIN_5_FEMALE_SUPPORT,,,
+- rawParts: U$3,MIDI_CONN_FEMALE_SUPPORT,MIDI_CONN_FEMALE_SUPPORT,DIN_5_FEMALE_SUPPORT,,,
+- rawParts: U$5,MIDI_CONN_FEMALE_SUPPORT,MIDI_CONN_FEMALE_SUPPORT,DIN_5_FEMALE_SUPPORT,,,
+- rawParts: U$6,OPTO_DARL_6N138S,OPTO_DARL_6N138S,8-SMD,,,
 
 
 

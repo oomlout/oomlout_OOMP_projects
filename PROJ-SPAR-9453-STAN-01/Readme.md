@@ -52,6 +52,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor-Analog (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9453
 - oompID: PROJ-SPAR-9453-STAN-01
+- rawParts: CC_TEXT1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,Creative Commons License summary,,
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: R1,100,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R2,10K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: U$1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: U1,QRE11131:1,QRE11131:1,QRE1113-1:1,,,
 
 
 

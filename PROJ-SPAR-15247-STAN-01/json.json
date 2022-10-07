@@ -41,6 +41,106 @@
             "value": "PROJ-SPAR-15247-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO5,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO6,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME.1EXP,SFE_LOGO_FLAME_COPPER_EXPOSED_.1,SparkFun Flame Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,0,0OHM-0402-1/10W,0402,0\u00c3\u008e\u00c2\u00a9 resistor,,RES-14244,,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$16,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y2,PUCK,GPS_CHIP_ANTENNAPUCK,TE_PUCK,,,ANT-14308,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y3,CUBE,GPS_CHIP_ANTENNACUBE,MOLEX_GNSS_CUBE,,,ANT-14307,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y4,CHIP,GPS_CHIP_ANTENNA2042830001,MOLEX_GNSS_CHIP,,,ANT-14306,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y5,MOLDED,GPS_CHIP_ANTENNA_NOGNDMOLDED,MLOEX_GNSS_MOLDED,,,ANT-14303,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y6,W3062A,GPS_CHIP_ANTENNAW3062A,W3062A,,,ANT-14305,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y7,W3011,GPS_CHIP_ANTENNAW3011,W3011,,,ANT-14304,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15247-STAN-01"
         },

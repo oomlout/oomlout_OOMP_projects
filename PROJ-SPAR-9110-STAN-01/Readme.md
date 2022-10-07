@@ -47,6 +47,14 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Thumb_Joystick_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9110
 - oompID: PROJ-SPAR-9110-STAN-01
+- rawParts: JP1,,M05PTH,1X05,Header 5,,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: U1,JOYSTICKPTH,JOYSTICKPTH,JOYSTICK,Thumb Joystick,,
 
 
 

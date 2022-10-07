@@ -41,6 +41,142 @@
             "value": "PROJ-SPAR-15093-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-11015,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,1A/23V/620mV,DIODE-SCHOTTKY-BAT20J,SOD-323,Schottky diode,DIO-11623,,1A/23V/620mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,RED,LED-RED0603,LED-0603,Red SMD LED,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-09696,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,,QWIIC_CONNECTORJS-1MM,1X04_1MM_RA,SparkFun I2C Standard Qwiic Connector,CONN-13694,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,AVR_SPI_PROG_3X2TESTPOINTS,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_03-SCREW-5MM,SCREWTERMINAL-5MM-3,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-10134,PRT-08433,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,JUMPER-SMT_3_2-NC_TRACE_NO-SILK,SMT-JUMPER_3_2-NC_TRACE_NO-SILK,Normally closed trace jumper (2 of 2 connections),,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,JUMPER-SMT_2_NO_NO-SILK,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "K1,RELAY-SPDT,RELAY-SPDT,RELAY_G5LE,SPDT Electromechanical Relay,COMP-14214,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,REVISION,REVISION,REVISION,Revision By Text,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,TRANS-08049,,600mA/40V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10,10OHM-0603-1/10W-5%,0603,10\u00c3\u008e\u00c2\u00a9 resistor,RES-09834,,10,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,RES-00818,,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,RES-00818,,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,ATTINY85,ATTINY85,ATTINY85,,IC-09092,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15093-STAN-01"
         },

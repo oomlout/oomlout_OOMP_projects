@@ -41,6 +41,162 @@
             "value": "PROJ-ADAF-1534-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,2.2pF,CAP_CERAMIC_0402,_0402,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10pF,CAP_CERAMIC_0402,_0402,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,DNC_10pF,CAP_CERAMIC_0402,_0402,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,1\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,10\u00c3\u0082\u00c2\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CN2,microSD,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FB1,Ferrite,FERRITE_0805MP,_0805MP,Ferrite Bead,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,74AHC1G125,74AHC1G125,SOT23-5L,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,HEADER-1X3ROUND,1X03_ROUND,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,DNP,INDUCTOR_0402,_0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,2.2nH,INDUCTOR_0402,_0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,green,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,470 ohm,RESISTOR_0805MP,_0805MP,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR_0805MP,_0805MP,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10K,RESISTOR_0805MP,_0805MP,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,TESTMODE,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,MOSIHW,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,MISOHW,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ4,SCKHW,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SW1,SPST_TACT-EVQQ2,SPST_TACT-EVQQ2,EVQ-Q2,SMT 6mm switch, EVQQ2 series,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,SCL,TESTPOINTPAD1MM,TESTPOINT_PAD_1MM,Test Point,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,SDA,TESTPOINTPAD1MM,TESTPOINT_PAD_1MM,Test Point,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$35,U.FL,U.FL,U.FL,U.FL Antenna Connector,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$36,ARDUINO_R3_ICSP,ARDUINO_R3_ICSP,ARDUINOR3_ICSP,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,CC3000MOD,CC3000MOD,CC3000MOD,CC3000MOD Wifi Module,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,LT1117-3v,VREG_SOT223,SOT223-R,SOT-223 Fixed Voltage Regulators,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,74HC4050D,74HC4050D,SOIC16,6-channel level shifter,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,2450AT18B100,ANTENNA_JOHANSON_2500AT44M0400,ANT_2500AT44M0400,Johanson 2.3-2.7 GHz Chip Antenna,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ADAF-1534-STAN-01"
         },

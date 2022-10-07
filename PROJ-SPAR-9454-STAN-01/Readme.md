@@ -52,6 +52,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/QRE1113_Line_Sensor_Breakout-Digital (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9454
 - oompID: PROJ-SPAR-9454-STAN-01
+- rawParts: C1,10nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: R1,100,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,220,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U1,QRE1113,QRE1113,QRE1113,,,
 
 
 

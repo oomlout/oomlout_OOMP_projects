@@ -41,6 +41,186 @@
             "value": "PROJ-SPAR-15110-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-08280,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00810,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00810,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,CAP-00810,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_16LOCK_NO_SILK,1X16_LOCK_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,XLR-3-FEMALE,XLR-3-FEMALE,XLR-3_FEMALE,Neutrik XLR-3 Jack - XLR-3 Jack for DMX,CONN-14142,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,XLR-3-MALE,XLR-3-MALE,XLR-3_MALE,Neutrik XLR-3 Jack - XLR-3 Jack for DMX,CONN-14141,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,,CONN_12LOCK_NO_SILK,1X12_LOCK_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J9,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J10,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J11,,CONN_02SMALL_POKEHOME,1X02_POKEHOME,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-13512,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J12,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,DNP,100OHM-HORIZ_KIT-1/4W-1%,AXIAL-0.3EZ,100\u00c3\u008e\u00c2\u00a9 resistor,RES-12181,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,680,680OHM-0603-1/10W-5%,0603,680\u00c3\u008e\u00c2\u00a9 resistor,RES-09333,680,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,680,680OHM-0603-1/10W-5%,0603,680\u00c3\u008e\u00c2\u00a9 resistor,RES-09333,680,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,470,470OHM-0603-1/10W-1%,0603,470\u00c3\u008e\u00c2\u00a9 resistor,RES-07869,470,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,470,470OHM-0603-1/10W-1%,0603,470\u00c3\u008e\u00c2\u00a9 resistor,RES-07869,470,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,470,470OHM-0603-1/10W-1%,0603,470\u00c3\u008e\u00c2\u00a9 resistor,RES-07869,470,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,RES-00818,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,RES-00818,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,470,470OHM-0603-1/10W-1%,0603,470\u00c3\u008e\u00c2\u00a9 resistor,RES-07869,470,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1, MAX3485CSA,RS485SOIC,SO08,RS-485 Transceiver,IC-09388, MAX3485CSA,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,TXB0104,TXB0104PWR,TSSOP14,4-Bit Bi-Directional Level Shifter,IC-13929,TXB0104,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,6N137S,6N137S,8-SMD,Lite-On 6N137 - High Speed Opto Isolator,IC-14151,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,6N137S,6N137S,8-SMD,Lite-On 6N137 - High Speed Opto Isolator,IC-14151,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,6N137S,6N137S,8-SMD,Lite-On 6N137 - High Speed Opto Isolator,IC-14151,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U6,RFB-0505S,RFB-0505S,RFB-0505S,Recom Power RFB-0505S 1W DC/DC Converter,IC-14143,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15110-STAN-01"
         },

@@ -41,6 +41,154 @@
             "value": "PROJ-SPAR-11812-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,47pF,CAP0603-CAP,0603-CAP,Capacitor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,47pF,CAP0603-CAP,0603-CAP,Capacitor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,RED,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,GREEN,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,M111X11_NO_SILK,M111X11_NO_SILK,1X11_NO_SILK,Header 11,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,M111X11_NO_SILK,M111X11_NO_SILK,1X11_NO_SILK,Header 11,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,27,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1k,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,27,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1k,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,330,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,1k,RESISTOR0603-RES,0603-RES,Resistor,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S2,Reset,SWITCH-MOMENTARY-2SMD,TACTILE_SWITCH_SMD,Various NO switches- pushbuttons, reed, etc,SWCH-08247,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,RSSI_LED_EN,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,CTS_EN,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ3,RTS_EN,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ4,DTR,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$11,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,XBEE-1B3,XBEE-1B3,XBEE-SMD,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,MIC5219 3.3V,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,FT231XS,FT231XS,SSOP20_L,FTDI FT231X Full Speed USB to Full-handshake UART,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,USBSMD,USBSMD,USB-MINIB,USB Connectors,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-11812-STAN-01"
         },

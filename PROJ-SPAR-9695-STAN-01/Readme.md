@@ -52,6 +52,26 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MPR121_Capacitive_Touch_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9695
 - oompID: PROJ-SPAR-9695-STAN-01
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: IC1,MPR121,MPR121V2,QFN-20-0.4MM-V2,MPR121 Capacitive Touch Sensor Controller. Variant V2 was created using an image import of the bottom of the IC. It matches metal to metal.,,
+- rawParts: JP1,ADDR,M01PTH,1X01,Header 1,,
+- rawParts: JP2,I2C,M03PTH,1X03,Header 3,,
+- rawParts: JP3,Electrodes,M12PTH,1X12,Header 12,,
+- rawParts: JP4,3.3V,M01PTH,1X01,Header 1,,
+- rawParts: JP5,GND,M01PTH,1X01,Header 1,,
+- rawParts: JP7,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: JP8,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: R1,75k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R2,10k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R3,10k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R4,10k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: SJ1,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ2,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ3,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
+- rawParts: SJ4,SOLDERJUMPERTRACE,SOLDERJUMPERTRACE,SJ_2S-TRACE,Solder Jumper,,
 
 
 

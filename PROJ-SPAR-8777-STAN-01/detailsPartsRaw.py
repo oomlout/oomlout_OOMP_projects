@@ -1,2 +1,12 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-8777-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,')
+newPart.addTag('rawParts','TEMP+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','TEMP-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','TEMP1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','TEMP2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','TEMP3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','TEMPS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,')
+newPart.addTag('rawParts','U1,MCP9700,MCP9700SMD,SOT23-3,,,')

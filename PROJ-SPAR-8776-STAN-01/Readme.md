@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Button_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8776
 - oompID: PROJ-SPAR-8776-STAN-01
+- rawParts: BUTTON-,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,
+- rawParts: BUTTONS,SEWTAP8,SEWTAP8,PETAL-MEDIUM-2SIDE,,,
+- rawParts: LOGO1,LOGO-LPL,LOGO-LPL,LOGO-L,,,
+- rawParts: S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,
+- rawParts: U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
 
 
 

@@ -41,6 +41,206 @@
             "value": "PROJ-SPAR-16329-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "BT1,6.8MM_COIN_CELL,ML414H_IV01E_BATTERY,ML414H_IV01E,SEIKO ML414H-IV01E Reflowable Lithium Battery,,BATT-14267,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,CAP-08913,,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,0.5A/40V/420mV,DIODE-SCHOTTKY-PMEG4005EJ,SOD-323,Schottky diode,,DIO-10955,,,0.5A/40V/420mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,PRTR5V0U2F,PRTR5V0U2F,SOT886,A small ESD protection device. Most commonly used on USB D+/D- signals to protect large, expensive, or especially sensitive USB enabled devices.,,DIO-14084,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FB1,30\u00c3\u008e\u00c2\u00a9/1.8A,FERRITE_BEAD-0603,0603,Ferrite Bead (blocks, cores, rings, chokes, etc.),,NDUC-13805,,,30\u00c3\u008e\u00c2\u00a9/1.8A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,,Qwiic Right Angle,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,,Qwiic Right Angle,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,USB_C_2-LAYER_PADS,USB-C-16P-2LAYER-PADS,USB Type C 16Pin Connector,,CONN-14122,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,,CONN_07NO_SILK,1X07_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,U.FL,U.FL2PIN,U.FL,SMD Antenna Connector - U.FL,,CONN-09193,,WRL-09144,U.FL,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP12,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,27,27OHM-0603-1/10W-1%,0603,27\u00c3\u008e\u00c2\u00a9 resistor,,RES-09334,,,27,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,27,27OHM-0603-1/10W-1%,0603,27\u00c3\u008e\u00c2\u00a9 resistor,,RES-09334,,,27,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07828,,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,RES-08272,,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,10,10OHM-0603-1/10W-1%,0603,10\u00c3\u008e\u00c2\u00a9 resistor,,RES-12581,,,10,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,U-BLOX_MEO-M8U,U-BLOX_MEO-M8U,NEO-M9N/M8T/M8U,u-blox NEO-M8U,,IC-14850,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,3.3V,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,,VREG-12457,,,3.3V,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16329-STAN-01"
         },

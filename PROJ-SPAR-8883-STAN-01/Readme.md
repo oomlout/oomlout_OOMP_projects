@@ -52,6 +52,25 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8883
 - oompID: PROJ-SPAR-8883-STAN-01
+- rawParts: C1,100pF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C5,1nF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,M01PTH_2MM,M01PTH_2MM,1X01_2MM,Header 1,,
+- rawParts: JP2,M01PTH_2MM,M01PTH_2MM,1X01_2MM,Header 1,,
+- rawParts: JP3,,M03PTH,1X03,Header 3,,
+- rawParts: JP4,M01PTH,M01PTH,1X01,Header 1,,
+- rawParts: JP5,M01PTH,M01PTH,1X01,Header 1,,
+- rawParts: R1,47K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,1K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R3,TRIMPOTSMD,TRIMPOTSMD,TRIMPOT-3MM,,,
+- rawParts: R4,TRIMPOTSMD,TRIMPOTSMD,TRIMPOT-3MM,,,
+- rawParts: U$1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: U1,ACS712,ACS712,SO08,,,
+- rawParts: U2,OPA344,OPA344,SOT23-5,,,
 
 
 

@@ -41,6 +41,50 @@
             "value": "PROJ-SPAR-9946-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,4.7uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,Control,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,Input,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,D1,SOLDERJUMPER_2WAYPASTE2&3,SJ_3_PASTE2&3,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ2,D0,SOLDERJUMPER_2WAYPASTE1&2,SJ_3_PASTE1&2,Solder Jumper,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,LTC3588,LTC3588_,MSOP-10-GNDPAD,LTC3588 Energy Harvesting Power Supply,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,10uH,INDUCTOR-,CDRH3D28,Inductors,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9946-STAN-01"
         },

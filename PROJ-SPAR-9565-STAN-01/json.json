@@ -41,6 +41,78 @@
             "value": "PROJ-SPAR-9565-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M02PTH,1X02,Header 2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED5,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED6,YELLOW,LED3MM,LED3MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED7,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED8,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED9,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED10,GREEN,LED5MM,LED5MM,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOL,OSHW-LOGOL,OSHW-LOGO-L,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTORPTH1,AXIAL-0.3,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,REVISION,REVISION,REVISION,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,ATTINY13DIP,ATTINY13DIP,DIP08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,AVR_SPI_PRG_6PTH,AVR_SPI_PRG_6PTH,2X3,AVR ISP 6 Pin,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9565-STAN-01"
         },

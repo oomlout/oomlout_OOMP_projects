@@ -52,6 +52,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/IR_Receiver_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8554
 - oompID: PROJ-SPAR-8554-STAN-01
+- rawParts: C1,1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C2,47nF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: R1,100,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R2,2.2k,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,IRRECEIVERSMD,IRRECEIVERSMD,TSOP8523,Description: IR receiver with built in demodulation and filtering. SparkFun SKU: SEN-08545,,
 
 
 

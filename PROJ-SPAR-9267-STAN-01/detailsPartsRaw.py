@@ -1,2 +1,18 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-9267-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C4,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','C5,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,')
+newPart.addTag('rawParts','J1,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','J2,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','J3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','J4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','J5,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,')
+newPart.addTag('rawParts','J6,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,')
+newPart.addTag('rawParts','R1,0,RESISTOR0402-RES,0402-RES,Resistor,,')
+newPart.addTag('rawParts','U$4,LOGO-LP,LOGO-LPLP,LOGO-LILYPAD,,,')
+newPart.addTag('rawParts','U$7,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,')
+newPart.addTag('rawParts','U1,ADXL335,ADXL335,LFCSP-16,,,')

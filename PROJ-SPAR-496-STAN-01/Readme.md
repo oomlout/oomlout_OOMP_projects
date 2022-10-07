@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SOIC28-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/496
 - oompID: PROJ-SPAR-496-STAN-01
+- rawParts: JP1,M14,M14,1X14,Header 14,,
+- rawParts: JP2,M14,M14,1X14,Header 14,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,PIC18F2455SMD,PIC18F2455SMD,SO-28W,,,
 
 
 

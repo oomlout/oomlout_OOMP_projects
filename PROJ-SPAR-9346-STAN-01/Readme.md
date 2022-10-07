@@ -47,6 +47,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MegaShield_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9346
 - oompID: PROJ-SPAR-9346-STAN-01
+- rawParts: JP3,,M08LOCK,1X08_LOCK,Header 8,,
+- rawParts: JP4,,M08LOCK,1X08_LOCK,Header 8,,
+- rawParts: JP5,,M08LOCK,1X08_LOCK,Header 8,,
+- rawParts: JP6,,M08LOCK,1X08_LOCK,Header 8,,
+- rawParts: JP7,,M08LOCK,1X08_LOCK,Header 8,,
+- rawParts: JP8,M16LOCK,M16LOCK,1X16_LOCK,,,
+- rawParts: JP9,M16LOCK,M16LOCK,1X16_LOCK,,,
+- rawParts: JP10,,M06LOCK,1X06_LOCK,Header 6,,
+- rawParts: JP11,,M02LOCK,1X02_LOCK,Header 2,,
+- rawParts: JP12,,M02LOCK,1X02_LOCK,Header 2,,
+- rawParts: LED1,Red,LED5MM,LED5MM,LEDs,,
+- rawParts: LED2,Green,LED5MM,LED5MM,LEDs,,
+- rawParts: R1,330,RESISTORPTH1,AXIAL-0.3,Resistor,,
+- rawParts: R2,330,RESISTORPTH1,AXIAL-0.3,Resistor,,
+- rawParts: R3,10k,RESISTORPTH1,AXIAL-0.3,Resistor,,
+- rawParts: S1,,TAC_SWITCHPTH,TACTILE-PTH,Momentary Switch,,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,
 
 
 

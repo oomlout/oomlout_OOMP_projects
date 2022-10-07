@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LMD1820x_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/747
 - oompID: PROJ-SPAR-747-STAN-01
+- rawParts: JP1,M11PTH,M11PTH,1X11,Header 11,,
+- rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
+- rawParts: JP5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$1,LMD1820X,LMD1820X,TO-220-11LEAD,LMD1820X H-Bridge - BOB-00747,,
 
 
 

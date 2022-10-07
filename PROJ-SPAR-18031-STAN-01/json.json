@@ -41,6 +41,646 @@
             "value": "PROJ-SPAR-18031-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "3V3_LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08280,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.22uF,0.22UF-0603-25V-10%,0603,0.22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-07822,,0.22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,,,,CAP-08913,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,,,,CAP-08913,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,,,,CAP-08913,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,,,,CAP-08913,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,0.22uF,0.22UF-0603-25V-10%,0603,0.22\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-07822,,0.22uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,68pF,68PF-0603-50V-5%,0603,68pF ceramic capacitors,,,,,CAP-14092,,68pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-11015,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-00868,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C18,33pF,33PF-0402T-50V-5%,0402-TIGHT,33pF ceramic capacitors,,,,,CAP-15358,,33pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C19,27pF,27PF-0402-50V-5%,0402,27pF ceramic capacitors,,,,,CAP-15357,,27pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C20,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C21,47pF,47PF-0603-50V-5%,0603,47pF ceramic capacitors,,,,,CAP-08913,,47pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C22,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C23,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C24,15pF,15PF-0603-50V-5%,0603,15pF ceramic capacitors,,,,,CAP-07881,,15pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C25,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C26,10uF,10UF-0805-25V-10%,0805,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,,,,CAP-14259,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CTS,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CTS2,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,,,,DIO-14072,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,RED,LED-RED0603,LED-0603,Red SMD LED,,,,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,,,,DIO-14072,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,,,,DIO-09003,,Yellow,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,,,,DIO-14072,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,,,,DIO-14072,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D7,GREEN,LED-GREEN0603,LED-0603,Green SMD LED,,,,,DIO-00821,,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D8,DT1042-04SO-7,TVS_DIODE_ARRAY_4DT1042-04SO-7,SOT23-6L,,,,,,DIO-14095,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D9,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,,,,DIO-09003,,Yellow,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D10,PESD0402,PESD0402,0402,ESD protection diode,,PESD0402-140CT-ND,,650-PESD0402-140,DIO-15359,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D11,PESD0402,PESD0402,0402,ESD protection diode,,PESD0402-140CT-ND,,650-PESD0402-140,DIO-15359,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D12,GREEN,LED-GREEN0603,LED-0603,Green SMD LED,,,,,DIO-00821,,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D13,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,,,,DIO-08575,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D14,WHITE,LED-WHITE0603,LED-0603,White SMD LED,,,,,DIO-09004,,WHITE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "DCD,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "DSR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "DSR_DIR,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "DTR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "DVEXT,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "E3,ANTENNA-SMA-GROUNDEDEDGE_SMA_SMD,ANTENNA-SMA-GROUNDEDEDGE_SMA_SMD,SMA-EDGE-SMD,SMA Antenna Connector w/ Ground,,,,,CONN-15100,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "E4,ANTENNA-SMA-GROUNDEDEDGE_SMA_SMD,ANTENNA-SMA-GROUNDEDEDGE_SMA_SMD,SMA-EDGE-SMD,SMA Antenna Connector w/ Ground,,,,,CONN-15100,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F1,6V/2A,PPTC_6V2A,1210,Resettable Fuse PPTC,,,,,RES-14313,,6V/2A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F2,6V/2A,PPTC_6V2A,1210,Resettable Fuse PPTC,,,,,RES-14313,,6V/2A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F3,6V/2A,PPTC_6V2A,1210,Resettable Fuse PPTC,,,,,RES-14313,,6V/2A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "F4,6V/2A,PPTC_6V2A,1210,Resettable Fuse PPTC,,,,,RES-14313,,6V/2A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FB1,30\u00c3\u008e\u00c2\u00a9/1.8A,FERRITE_BEAD-0603,0603,Ferrite Bead (blocks, cores, rings, chokes, etc.),,,,,NDUC-13805,,30\u00c3\u008e\u00c2\u00a9/1.8A,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame - Ledger,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,SN74AVC4T774PW,SN74AVC4T774PW,SOP65P640X120-16N,Texas Instruments,SN74AVC4T774PW,IC, Texas Instruments SN74AVC4T774PW, Dual, Bus Transceiver, 4-Bit Non-Inverting 3-State, 1.2  3.6 V, 16-Pin TSSOP,,,,,IC-15360,,SN74AVC4T774PW,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,SN74AVC4T774PW,SN74AVC4T774PW,SOP65P640X120-16N,Texas Instruments,SN74AVC4T774PW,IC, Texas Instruments SN74AVC4T774PW, Dual, Bus Transceiver, 4-Bit Non-Inverting 3-State, 1.2  3.6 V, 16-Pin TSSOP,,,,,IC-15360,,SN74AVC4T774PW,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,,USB_C_4-LAYER_PADS,USB-C-16P_4LAYER-PADS,USB Type C 16Pin Connector,,,,,CONN-14122,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,,USB_C_4-LAYER_PADS,USB-C-16P_4LAYER-PADS,USB Type C 16Pin Connector,,,,,CONN-14122,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,,USB_C_4-LAYER_PADS,USB-C-16P_4LAYER-PADS,USB Type C 16Pin Connector,,,,,CONN-14122,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,,CONN_08NO_SILK_DNP,1X08_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J13,TP,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J14,,I2C_STANDARD_NO_SILK,1X04_NO_SILK,SparkFun I2C Standard Pinout Header,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J17,NANO_SIM,SIMHOLDERNANOSIM,NANO_SIM_WURTH_693043020611,SIM Cellular Card Socket,,,,,CONN-14097,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J19,NI,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP19,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,DNP,INDUCTORDNP-0402-COILCRAFT,0402_COILCRAFT,Inductors,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,68nH,68NH-0402,0402_COILCRAFT,,,490-2633-1-ND,81-LQG15HS68NJ02D,,NDUC-15356,,68nH,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO5,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MEAS,,JUMPER-COMBO_2_NC_TRACE,COMBO-JUMPER_2_NC_TRACE,,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q5,20V/0.2A/8MHz/1.2\u00c3\u008e\u00c2\u00a9/1Vth,MOSFET-NCH-RE1C00UNTL,SOT-416FL,N-channel MOSFETs,,,,,TRANS-14399,,20V/0.2A/8MHz/1.2\u00c3\u008e\u00c2\u00a9/1Vth,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q7,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q8,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q9,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-2N7002PW,SOT323,N-channel MOSFETs,,,,,TRANS-11151,,310mA/60V/1.6\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,,,,RES-12083,,5.1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R18,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R19,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R23,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R24,10,10OHM-0603-1/10W-1%,0603,10\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-12581,,10,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R25,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R26,200k,200KOHM-0603-1/10W-1%,0603,200k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-09385,,200k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R27,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R28,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R29,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R30,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08272,,2.2k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R31,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08609,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R32,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R33,100,100OHM-0603-1/10W-1%,0603,100\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07863,,100,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R34,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R35,470,470OHM-0603-1/10W-1%,0603,470\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07869,,470,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R36,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08609,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R37,0,0OHM-0603-1/10W,0603,0\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-08609,,0,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R38,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R39,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R42,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R43,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R45,100k,100KOHM-0603-1/10W-1%,0603,100k\u00c3\u008e\u00c2\u00a9 resistor,,,,,RES-07828,,100k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RI,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RTS,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RTS2,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RX,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RX2,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RX_LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,RESET,MOMENTARY-SWITCH-SPST-SMD-5.2-TALL-REDUNDANT,TACTILE_SWITCH_SMD_5.2MM,Momentary Switch (Pushbutton) - SPST,,,,,SWCH-14139,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S3,SARA_PWR,MOMENTARY-SWITCH-SPST-SMD-5.2-TALL-REDUNDANT,TACTILE_SWITCH_SMD_5.2MM,Momentary Switch (Pushbutton) - SPST,,,,,SWCH-14139,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SERIAL,,CONN_10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP9,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP10,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP14,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP15,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP16,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP17,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP22,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TX,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TX2,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TX_LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,SARA-R510M8S,SARA-R510M8S,SARA-LGA,,,,,,IC-15573,,SARA-R510M8S,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,CH340C,CH340C,SO016,,,,,,IC-14038,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,3.3V,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,,,,,VREG-12457,,3.3V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,CH340E_MSOP10,CH340E_MSOP10,MSOP10,,,,,,IC-14135,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,AP7361C-33FGE,AP7361C-33FGEUDFN-8,UDFN-8,AP7361C 3.3V LDO Regulator,,,,,VREG-14094,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U7,PCA9306,PCA9306VSSOP_8PIN,VSSOP_8PIN,Bidirectional I2C level shifter,,,,,IC-14450,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U8,74HC1G04,74HC1G04,SOT353,Single Inverter,,,,,COMP-08268,,74HC1G04,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VIN_LED,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18031-STAN-01"
         },

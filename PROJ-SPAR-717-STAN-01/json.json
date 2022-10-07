@@ -41,6 +41,22 @@
             "value": "PROJ-SPAR-717-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "JP1,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,SOT23,XN04312SOT,SOT23-6,NPN/PNP Transistor Array,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-717-STAN-01"
         },

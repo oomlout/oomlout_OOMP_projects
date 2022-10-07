@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Touch_Screen_Connector_Breakout-Nintendo_DS (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9170
 - oompID: PROJ-SPAR-9170-STAN-01
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP1,,M04PTH,1X04,Header 4,,
+- rawParts: U$1,DS_TOUCH_CONNECTOR,DS_TOUCH_CONNECTOR,DS_TOUCH_CONNECTOR,4-pin DS touch screen connector,,
+- rawParts: U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
 
 
 

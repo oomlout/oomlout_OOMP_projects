@@ -52,6 +52,21 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SOIC8-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/494
 - oompID: PROJ-SPAR-494-STAN-01
+- rawParts: FRAME1,frame,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,
+- rawParts: JP2,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,
+- rawParts: JP3,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,
+- rawParts: JP4,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,
+- rawParts: JP5,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,
+- rawParts: JP6,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,
+- rawParts: JP7,1x4,M041X04_NO_SILK,1X04_NO_SILK,Header 4,,
+- rawParts: JP8,1x4,M04NO_SILK_ALL_ROUND,1X04_NO_SILK_ALL_ROUND,Header 4,,
+- rawParts: LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,
+- rawParts: U1,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,
+- rawParts: U2,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,
+- rawParts: U3,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,
+- rawParts: U4,GENERIC-SOIC8,GENERIC-SOIC8,SO08-UNIVERSAL,A placeholder for generic narrow & wide SOIC8 foorptints - used on the DIP adapter board.,,
 
 
 

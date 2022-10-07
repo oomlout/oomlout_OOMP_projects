@@ -41,6 +41,114 @@
             "value": "PROJ-SPAR-16466-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "ADDR,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-100V-10%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08390,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I2CPU,I2C PU,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,I2C,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,SPI,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08437,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,REVISION,REVISION,REVISION,Revision By Text,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWRLED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07857,,4.7k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,BME680 Air Quality Sensor,BME680-LGA,LGA3.0X3.0,Bosch BME680 &ndash, Combined Humidity and Pressure Sensor,,IC-14656,,BME680,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-16466-STAN-01"
         },

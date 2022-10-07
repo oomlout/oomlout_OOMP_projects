@@ -41,6 +41,122 @@
             "value": "PROJ-SPAR-15270-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,BLUE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,,3.6V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D3,GREEN,LED-GREEN0603,LED-0603,Green SMD LED,,DIO-00821,,GREEN,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,,3.6V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,,3.6V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D6,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,,3.6V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,ISP,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J7,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J8,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J9,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,16MHZ,RESONATOR16MHZ,RESONATOR-SMD,Resonator,,XTAL-08900,,16MHZ,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,2.5A/30V/105m\u00c3\u008e\u00c2\u00a9,MOSFET_PCH-DMG2307L,SOT23-3,P-channel MOSFETs,,TRANS-11308,,2.5A/30V/105m\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,330OHM-0603-1/10W-1%,0603,330\u00c3\u008e\u00c2\u00a9 resistor,,RES-00818,,330,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ATMEGA328P_TQFP,ATMEGA328P_TQFP,TQFP32-08,,,IC-09069,,ATMEGA328P_TQFP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,microSD Socket,USD-SOCKET,MICROSD_1:1,microSD Socket,,CONN-07820,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-15270-STAN-01"
         },

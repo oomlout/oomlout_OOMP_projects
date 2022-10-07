@@ -52,6 +52,23 @@ Contents
 - sources: All source files from https://github.com/sparkfun/gator_soil (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15272
 - oompID: PROJ-SPAR-15272-STAN-01
+- rawParts: D2,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,3.6V,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FID4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Joel Bartlett,,,v10,
+- rawParts: J1,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,
+- rawParts: J2,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,
+- rawParts: J3,GATORGATOR_MINI,GATORGATOR_MINI,GATOR_MINI,,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,,,,
+- rawParts: LOGO3,REVISION,REVISION,REVISION,Revision By Text,,,,,
+- rawParts: Q1,2N3904,TRANSISTOR_NPNMMBT2222A,SOT23-3@1,Generic NPN BJT,,TRANS-08049,MMBT2222A,,
+- rawParts: R1,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,10k,,
+- rawParts: R2,100,100OHM-0603-1/10W-1%,0603,100ÃÂ© resistor,,RES-07863,100,,
+- rawParts: STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
+- rawParts: STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,,,,
 
 
 

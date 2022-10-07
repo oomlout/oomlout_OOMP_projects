@@ -41,6 +41,34 @@
             "value": "PROJ-SPAR-8554-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,47nF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M03PTH,1X03,Header 3,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,100,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,2.2k,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,IRRECEIVERSMD,IRRECEIVERSMD,TSOP8523,Description: IR receiver with built in demodulation and filtering. SparkFun SKU: SEN-08545,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8554-STAN-01"
         },

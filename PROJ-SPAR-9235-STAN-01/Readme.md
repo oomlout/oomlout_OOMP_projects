@@ -52,6 +52,24 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SPI_Shortcut (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9235
 - oompID: PROJ-SPAR-9235-STAN-01
+- rawParts: 3.3V,V_REG_LDOSMD,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,
+- rawParts: C1,0.1u,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C2,0.1u,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,10n,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C4,10u,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: IC1,FT245RL,FT245RL,SSOP28DB,USB FIFO Controller,,
+- rawParts: IC2,ATMEGA168,ATMEGA168,TQFP32-08,,,
+- rawParts: JP1,,M06SIP,1X06,Header 6,,
+- rawParts: JP3,,M06SIP,1X06,Header 6,,
+- rawParts: R1,10k,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: R2,330,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,
+- rawParts: STAT,RED,LED0603,LED-0603,LEDs,,
+- rawParts: U$3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U$5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$7,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: X1,USBSMD,USBSMD,USB-MINIB,USB Connectors,,
 
 
 

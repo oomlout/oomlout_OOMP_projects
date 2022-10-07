@@ -52,6 +52,15 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun-Fuse-Breakout-Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9773
 - oompID: PROJ-SPAR-9773-STAN-01
+- rawParts: F1,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,,,,,,
+- rawParts: F2,72V/0.25A,PPTC_PTH,PTH,Resettable Fuse PPTC,,RES-08490,,,,72V/0.25A,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,,
+- rawParts: J1,,CONN_025MM,SCREWTERMINAL-5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,PRT-08432,,
+- rawParts: J2,POWER_JACKPTH_LOCK,POWER_JACKPTH_LOCK,POWER_JACK_PTH_LOCK,Power Jack Connector,,CONN-08197,,PRT-00119,,,
+- rawParts: J3,,CONN_025MM,SCREWTERMINAL-5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,PRT-08432,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,,,
+- rawParts: LOGO3,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,,,
 
 
 

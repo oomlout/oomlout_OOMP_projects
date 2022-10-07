@@ -41,6 +41,362 @@
             "value": "PROJ-SPAR-18708-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00810,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,10pF,10PF-0603-50V-5%,0603,10pF ceramic capacitors,,CAP-11812,,10pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10pF,10PF-0603-50V-5%,0603,10pF ceramic capacitors,,CAP-11812,,10pF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,10uF,10UF-0805-25V-10%,0805,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14259,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100\u00c3\u0082\u00c2\u00b5F polarized capacitors,,CAP-12547,,100uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-11015,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,0.1uF,0.1UF-0603-25V-5%,0603,0.1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08604,,0.1uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C16,10uF,10UF-0603-6.3V-20%,0603,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-11015,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,10nF,10NF-0603-50V-10%,0603,0.01uF/10nF/10,000pF ceramic capacitors,,CAP-00867,,10nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C18,4.7uF,4.7UF-0603-6.3V-(10%),0603,4.7\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-08280,,4.7uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C19,1nF,1.0NF/1000PF-1206-2KV-10%,1206,1nF/1,000pF ceramic capacitors,,CAP-16238,,1nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C20,10nF,10NF-0603-50V-10%,0603,0.01uF/10nF/10,000pF ceramic capacitors,,CAP-00867,,10nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C21,6.8nF,6.8NF/6800PF-0603-50V-5%,0603,5.6nF/5600pF ceramic capacitors,,CAP-16239,,6.8nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C22,6.8nF,6.8NF/6800PF-0603-50V-5%,0603,5.6nF/5600pF ceramic capacitors,,CAP-16239,,6.8nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C23,22nF,22NF/22,000PF-0603-50V-10%,0603,0.022uF/22nF/22,000pF ceramic capacitors,,CAP-07885,,22nF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C24,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-13930,,1.0uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C25,10uF,10UF-0805-25V-10%,0805,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14259,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C26,10uF,10UF-0805-25V-10%,0805,10.0\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-14259,,10uF,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,3A/10V/280mV,DIODE-SCHOTTKY-BAT60A,SOD-323,Schottky diode,,DIO-14072,,3A/10V/280mV,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D2,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D5,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,DIO-09003,,Yellow,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D7,DT1042-04SO,TVS_DIODE_ARRAYSMD,SOT-23-6,,,IC-13538,,ESD Diode,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FB2,470\u00c3\u008e\u00c2\u00a9,FERRITE_BEAD-0603-470\u00c3\u008e\u00c2\u00a9-100MHZ-1A-200MILI\u00c3\u008e\u00c2\u00a9,0603,Ferrite Bead (blocks, cores, rings, chokes, etc.),,NDUC-12579,,470\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FRAME1,FRAME-LEDGER,FRAME-LEDGER,CREATIVE_COMMONS,Schematic Frame - Ledger,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "ISO1,JUMPER-COMBO_2_NC_TRACE,JUMPER-COMBO_2_NC_TRACE,COMBO-JUMPER_2_NC_TRACE,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "ISO2,JUMPER-COMBO_2_NC_TRACE,JUMPER-COMBO_2_NC_TRACE,COMBO-JUMPER_2_NC_TRACE,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,MAGJACK-POE,MAGJACK-POE,MAGJACK-SYM_LED,MAGJACK: RJ-45 with POE and LEDs,,CONN-16253,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J11,MICROMOD_STANDARD,MICROMOD_STANDARD,M.2-CARD-E-22_FUNCTION_STANDARD,MicroMod Connector,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,2.2uH,INDUCTOR-0805_WIDE-2.2UH,0805-WIDE,Inductors,,NDUC-14234,,2.2uH,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOAD,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO2,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO3,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "MEAS,JUMPER-COMBO_2_NC_TRACE,JUMPER-COMBO_2_NC_TRACE,COMBO-JUMPER_2_NC_TRACE,,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "POE,,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "POE_LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR_LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,220mA/50V/3.5\u00c3\u008e\u00c2\u00a9,MOSFET-NCH-BSS138,SOT23-3,N-channel MOSFETs,,TRANS-00830,,220mA/50V/3.5\u00c3\u008e\u00c2\u00a9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q5,20V/4.2A/52m\u00c3\u008e\u00c2\u00a9/1.4W,MOSFET_PCH-DMG2305UX-7,SOT23-3,P-channel MOSFETs,,TRANS-14388,,20V/4.2A/52m\u00c3\u008e\u00c2\u00a9/1.4W,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,1MOHM-0603-1/4W-5%,0603,1M\u00c3\u008e\u00c2\u00a9 resistor,,RES-07868,,1M,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,49.9 1/2W,49.9OHM-1206-1/2W-1%,1206,49.9\u00c3\u008e\u00c2\u00a9 resistor,,RES-16252,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,12.4k,12.4KOHM-0603-1/10W-1%,0603,12.4k\u00c3\u008e\u00c2\u00a9 resistor,,RES-16236,,12.4k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,49.9,49.9OHM-0603-1/10W-1%,0603,49.9\u00c3\u008e\u00c2\u00a9 resistor,,RES-16237,,49.9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,33,33OHM-0603-1/10W-1%,0603,33\u00c3\u008e\u00c2\u00a9 resistor,,RES-08270,,33,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R18,49.9,49.9OHM-0603-1/10W-1%,0603,49.9\u00c3\u008e\u00c2\u00a9 resistor,,RES-16237,,49.9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R19,49.9,49.9OHM-0603-1/10W-1%,0603,49.9\u00c3\u008e\u00c2\u00a9 resistor,,RES-16237,,49.9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R20,49.9,49.9OHM-0603-1/10W-1%,0603,49.9\u00c3\u008e\u00c2\u00a9 resistor,,RES-16237,,49.9,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R21,10,10OHM-0603-1/10W-1%,0603,10\u00c3\u008e\u00c2\u00a9 resistor,,RES-12581,,10,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R22,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R23,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R24,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R25,1k,1KOHM-0603-1/10W-1%,0603,1k\u00c3\u008e\u00c2\u00a9 resistor,,RES-07856,,1k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R30,10k,10KOHM-0603-1/10W-1%,0603,10k\u00c3\u008e\u00c2\u00a9 resistor,,RES-00824,,10k,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,TEST-POINT3X4,TEST-POINT3X4,PAD.03X.04,SparkFun Test Points,,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,EEPROM,EEPROM-I2C512K,SO08,I2C EEPROMs, 24LC256 and others,,IC-14645,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,W5500,W5500,LQFP-48,,,IC-16240,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,3.3V,V_REG_AP2112K-3.3V,SOT23-5,AP2112 - 600mA CMOS LDO Regulator w/ Enable,,VREG-12457,,3.3V,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,POE_PSU-DP990X,POE_PSU-DP990X,DP990X,A special function Power Over Ethernet module with 5V or 12V output. Comes in an SMD package.,,IC-16251,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,25MHz,CRYSTAL-25MHZ-SMD-2.0X1.6MM,CRYSTAL-SMD-2.0X1.6MM,25MHz Crystal,,XTAL-16235,,25MHz,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-18708-STAN-01"
         },

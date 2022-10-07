@@ -41,6 +41,82 @@
             "value": "PROJ-SPAR-9607-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,100uF,CAP_POL7343,EIA7343,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,JUMPER-31-2,JUMPER-31-2,SJ_3_PASTE1&2,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M05PTH,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,JUMPER-32-3,JUMPER-32-3,SJ_3_PASTE2&3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,Red,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,22K,R-US_R0603,R0603,RESISTOR, American symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,R-US_R0603,R0603,RESISTOR, American symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,10K,R-US_R0603,R0603,RESISTOR, American symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,330,R-US_R0603,R0603,RESISTOR, American symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ARDUINO_SHIELDNOHOLES,ARDUINO_SHIELDNOHOLES,DUEMILANOVE_SHIELD_NOHOLES,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,SPX29302,SPX29302,Q5-DD_SPX29300,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,SM5100B,SM5100B,SM5100B,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,SIMHOLDER3,SIMHOLDER3,SIMHOLDER3,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9607-STAN-01"
         },

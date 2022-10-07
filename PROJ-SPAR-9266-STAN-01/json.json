@@ -41,6 +41,146 @@
             "value": "PROJ-SPAR-9266-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "$0000003,LOGO-LPLPA,LOGO-LPLPA,LOGO-LPA,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,1.0uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,Status,LED0603,LED-0603,LEDs,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,ARDUINO_SERIAL_PROGRAMSMD,1X06-SMD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,AVR_SPI_PRG_6NS,AVR_SPI_PRG_6NS,2X3-NS,AVR ISP 6 Pin,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,330,RESISTOR0603-RES,0603-RES,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$3,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$5,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$6,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$7,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$8,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$9,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$10,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$11,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$12,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$13,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$14,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$15,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$16,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$17,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$18,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$19,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$20,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$21,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ATMEGA168,ATMEGA168,TQFP32-08,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,RESONATORSMD,RESONATORSMD,RESONATOR-SMD,Resonator,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9266-STAN-01"
         },

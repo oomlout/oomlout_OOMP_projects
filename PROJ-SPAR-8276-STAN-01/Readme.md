@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/XBee_Module_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8276
 - oompID: PROJ-SPAR-8276-STAN-01
+- rawParts: JP1,,M100.1,1X10,Header 10,,
+- rawParts: JP2,,M100.1,1X10,Header 10,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,XBEE,XBEE-1B1,XBEE-1,,,
 
 
 

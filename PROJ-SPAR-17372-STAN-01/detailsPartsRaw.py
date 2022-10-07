@@ -1,2 +1,17 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-17372-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\xc3\x82\xc2\xb5F ceramic capacitors,,CAP-00810,,0.1uF,')
+newPart.addTag('rawParts','D1,24V,DIODE_TVS,0603,,,DIO-14502,,24V,')
+newPart.addTag('rawParts','FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,')
+newPart.addTag('rawParts','H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,')
+newPart.addTag('rawParts','J1,,CONN_031X03_NO_SILK,1X03_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,')
+newPart.addTag('rawParts','JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','JP9,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,,,,')
+newPart.addTag('rawParts','LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,')
+newPart.addTag('rawParts','LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,')
+newPart.addTag('rawParts','LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,')
+newPart.addTag('rawParts','R5,47k,47KOHM-0603-1/10W-1%,0603,47k\xc3\x8e\xc2\xa9 resistor,,RES-07871,,47k,')
+newPart.addTag('rawParts','U1,EKMC4607112k,PIR_EKM4607112K,TO-3,Panasonic EKMCX607112 PIR Sensor,,IC-15368,,EKMC4607112k,')

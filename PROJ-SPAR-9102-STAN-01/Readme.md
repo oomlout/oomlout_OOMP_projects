@@ -52,6 +52,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Protoboard_Small (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9102
 - oompID: PROJ-SPAR-9102-STAN-01
+- rawParts: U$2,LOGO-LPL,LOGO-LPL,LOGO-L,,,
+- rawParts: U$3,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$4,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$5,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$8,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$9,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
+- rawParts: U$10,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,
 
 
 

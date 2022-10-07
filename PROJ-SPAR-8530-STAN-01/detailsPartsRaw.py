@@ -1,2 +1,10 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-8530-STAN-01")
+
+newPart.addTag('rawParts','FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,,,v01,')
+newPart.addTag('rawParts','J1,ARDUINO_R3_SHIELD,ARDUINO_R3_SHIELD,UNO_R3_SHIELD,Shield form compatible with the Arduino Uno R3.,,,,,')
+newPart.addTag('rawParts','J2,Power,COMPUTER-PERIPHERAL-POWERRA,COMPUTER-PERIPHERAL-POWER-RA,,,,,,')
+newPart.addTag('rawParts','JP1,LIDAR,M04JST-PTH,JST-4-PTH,Header 4,,,PRT-09916,,')
+newPart.addTag('rawParts','JP2,OUT,M06SILK_FEMALE_PTH,1X06,Header 6,,CONN-08437,,,')
+newPart.addTag('rawParts','LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SFE Logo, name and flame,,,,,')
+newPart.addTag('rawParts','LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,,,,')

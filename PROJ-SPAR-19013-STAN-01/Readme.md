@@ -52,6 +52,37 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19013
 - oompID: PROJ-SPAR-19013-STAN-01
+- rawParts: C1,4.7uF,4.7UF-0402_TIGHT-6.3V-20%-X5R,0402-TIGHT,4.7ÃÂµF ceramic capacitors,,CAP-14240,,4.7uF,
+- rawParts: C4,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-14993,,0.1uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,
+- rawParts: J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,
+- rawParts: J2,Vertical Qwiic Connector,QWIIC_CONNECTOR,JST04_1MM_VERT,SparkFun I2C Standard Qwiic Connector,,CONN-14483,,Vertical Qwiic Connector,
+- rawParts: J4,Vertical Qwiic Connector,QWIIC_CONNECTOR,JST04_1MM_VERT,SparkFun I2C Standard Qwiic Connector,,CONN-14483,,Vertical Qwiic Connector,
+- rawParts: J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: J6,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: JP1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: JP5,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: JP7,PWR_LED,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
+- rawParts: JP9,INT,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
+- rawParts: JP10,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: JP11,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME8_MM,SFE_LOGO_NAME_FLAME8_MM,SFE_LOGO_NAME_FLAME_8MM,SparkFun Font Logo w/ Flame,,,,,
+- rawParts: LOGO2,OSHW-LOGONO_SILK,OSHW-LOGONO_SILK,DUMMY,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO3,QWIIC_LOGO_CONNECTOR,QWIIC_LOGO_CONNECTOR,QWIIC_5.5MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,
+- rawParts: LOGO4,SFE_LOGO_NAME6_MM,SFE_LOGO_NAME6_MM,SFE_LOGO_NAME_6MM,SparkFun Font Logo,,,,,
+- rawParts: LOGO5,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,
+- rawParts: R1,47k,47KOHM-0402-1/10W-1%,0402-TIGHT,47kÃÂ© resistor,,RES-15011,,47k,
+- rawParts: R2,47k,47KOHM-0402-1/10W-1%,0402-TIGHT,47kÃÂ© resistor,,RES-15011,,47k,
+- rawParts: R3,1k,1KOHM-0402T-1/16W-1%,0402-TIGHT,1kÃÂ© resistor,,RES-14342,,1k,
+- rawParts: R4,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2kÃÂ© resistor,,RES-14341,,2.2k,
+- rawParts: R5,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2kÃÂ© resistor,,RES-14341,,2.2k,
+- rawParts: R6,47k,47KOHM-0402-1/10W-1%,0402-TIGHT,47kÃÂ© resistor,,RES-15011,,47k,
+- rawParts: R7,47k,47KOHM-0402-1/10W-1%,0402-TIGHT,47kÃÂ© resistor,,RES-15011,,47k,
+- rawParts: U1,VL53L5CX,VL53L5CX,VL53L5CX,,,IC-16254,,,
 
 
 

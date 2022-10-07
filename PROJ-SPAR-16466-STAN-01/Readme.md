@@ -52,6 +52,33 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16466
 - oompID: PROJ-SPAR-16466-STAN-01
+- rawParts: ADDR,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,Normally open jumper,,,,,
+- rawParts: C1,0.1uF,0.1UF-0603-100V-10%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08390,,0.1uF,
+- rawParts: C2,0.1uF,0.1UF-0603-100V-10%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08390,,0.1uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: H1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,
+- rawParts: H2,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,
+- rawParts: I2CPU,I2C PU,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,
+- rawParts: J1,I2C,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-09696,,,
+- rawParts: J2,SPI,CONN_06NO_SILK_FEMALE_PTH,1X06_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,CONN-08437,,,
+- rawParts: J5,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,
+- rawParts: J7,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,CONN-13694,,QWIIC_RIGHT_ANGLE,
+- rawParts: LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,
+- rawParts: LOGO3,REVISION,REVISION,REVISION,Revision By Text,,,,,
+- rawParts: LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,,,,
+- rawParts: PWRLED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
+- rawParts: R1,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R2,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,1k,
+- rawParts: R3,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R4,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: R5,4.7k,4.7KOHM-0603-1/10W-1%,0603@1,4.7kÃÂ© resistor,,RES-07857,,4.7k,
+- rawParts: U1,BME680 Air Quality Sensor,BME680-LGA,LGA3.0X3.0,Bosch BME680 &ndash, Combined Humidity and Pressure Sensor,,IC-14656,,BME680,
 
 
 

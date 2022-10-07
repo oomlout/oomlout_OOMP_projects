@@ -41,6 +41,18 @@
             "value": "PROJ-SPAR-8552-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "DB9,,DB9,DB9,DB9 Connector,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,M09,M09,1X09,Header 9,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8552-STAN-01"
         },

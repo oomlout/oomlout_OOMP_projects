@@ -52,6 +52,25 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FTDI_Basic_Breakout-5V (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9716
 - oompID: PROJ-SPAR-9716-STAN-01
+- rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
+- rawParts: C5,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M06SMD-FEMALE-V2,1X06-SMD-FEMALE-V2,Header 6,,
+- rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP6,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: LED1,Red,LED0603,LED-0603,LEDs,,
+- rawParts: LED2,Green,LED0603,LED-0603,LEDs,,
+- rawParts: LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,
+- rawParts: R1,1K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: R2,1K,RESISTOR0603-RES,0603-RES,Resistor,,
+- rawParts: SJ2,,SOLDERJUMPER_2WAYS,SJ_3,Solder Jumper,,
+- rawParts: U$2,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,FT232RLSSOP,FT232RLSSOP,SSOP28DB,USB UART,,
+- rawParts: X2,USB-SMD-NS,USB-SMD-NS,USB-MINIB-NOSTOP,USB Connectors,,
 
 
 

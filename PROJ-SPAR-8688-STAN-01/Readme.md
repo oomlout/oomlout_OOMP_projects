@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8688
 - oompID: PROJ-SPAR-8688-STAN-01
+- rawParts: JP4,,M03PTH,1X03,Header 3,,
+- rawParts: R1,10K,RESISTOR0402-RES,0402-RES,Resistor,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,TEMT6000,TEMT6000,TEMT6000-SEN,Ambient Light Sensor,,
 
 
 

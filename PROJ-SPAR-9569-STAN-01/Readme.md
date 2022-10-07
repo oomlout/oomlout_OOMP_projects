@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Humidity_Sensor_Breakout-HIH-4030 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9569
 - oompID: PROJ-SPAR-9569-STAN-01
+- rawParts: FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,
+- rawParts: JP1,,M03PTH,1X03,Header 3,,
+- rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,HIH-4030SMD,HIH-4030SMD,HIH-4030,Humidity Sensor,,
 
 
 

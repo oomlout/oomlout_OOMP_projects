@@ -41,6 +41,186 @@
             "value": "PROJ-SPAR-9101-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP4,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP5,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP6,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP7,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP8,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP9,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP10,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP11,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP12,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP13,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP14,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP15,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP16,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP17,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP18,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP19,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP20,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP21,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP22,,M01SMDNS,1X01NS,Header 1,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-LPL,LOGO-LPL,LOGO-L,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$4,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$30,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$31,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$32,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$33,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$34,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$35,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$36,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$37,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$38,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$39,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$40,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$41,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$42,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$43,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$44,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$45,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$46,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$47,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$48,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$51,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9101-STAN-01"
         },

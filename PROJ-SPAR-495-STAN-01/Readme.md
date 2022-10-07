@@ -52,6 +52,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SOIC20-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/495
 - oompID: PROJ-SPAR-495-STAN-01
+- rawParts: JP1,M100.1,M100.1,1X10,Header 10,,
+- rawParts: JP2,M100.1,M100.1,1X10,Header 10,,
+- rawParts: U$1,SOIC_20,SOIC_20,SO20W,,,
+- rawParts: U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 
 
 

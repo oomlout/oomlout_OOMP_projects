@@ -52,6 +52,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/DS1077_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9116
 - oompID: PROJ-SPAR-9116-STAN-01
+- rawParts: C1,.1uF,CAP0603,0603,Capacitor,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
+- rawParts: JP1,,M081X08,1X08,Header 8,,
+- rawParts: U$1,DS1077,DS1077,SO08,,,
+- rawParts: U$2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: U$4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
 
 
 

@@ -52,6 +52,35 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/19764
 - oompID: PROJ-SPAR-19764-STAN-01
+- rawParts: ADDR,JUMPER-SMT_3_1-NC_TRACE_SILK,JUMPER-SMT_3_1-NC_TRACE_SILK,SMT-JUMPER_3_1-NC_TRACE_SILK,Normally closed trace jumper (1 of 2 connections),,,,,
+- rawParts: C3,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-14993,,0.1uF,
+- rawParts: C4,0.1uF,0.1UF-0402T-6.3V-10%-X7R,0402-TIGHT,0.1ÃÂµF ceramic capacitors,,CAP-14993,,0.1uF,
+- rawParts: D1,RED,LED-RED_0402,LED-0402,Red SMD LED,,DIO-16757,,RED,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,Elias Santistevan,,,,
+- rawParts: I2C_PU,S_MODE,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,,,,
+- rawParts: J1,Qwiic Right Angle,I2C_STANDARDQWIIC,JST04_1MM_RA,SparkFun I2C Standard Pinout Header,,CONN-13694,,Qwiic Right Angle,
+- rawParts: J3,,CONN_01_1MM,1X01_1MM_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: J4,,CONN_01_1MM,1X01_1MM_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,
+- rawParts: LOGO1,QWIIC_LOGO_3MM,QWIIC_LOGO_3MM,QWIIC_3MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,,,,
+- rawParts: LOGO2,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO3,SFE_LOGO_NAME_FLAMEBLANK,SFE_LOGO_NAME_FLAMEBLANK,BLANK,SparkFun Font Logo w/ Flame,,,,,
+- rawParts: R1,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2kÃÂ© resistor,,RES-14341,,2.2k,
+- rawParts: R2,2.2k,2.2KOHM-0402T-1/16W-1%,0402-TIGHT,2.2kÃÂ© resistor,,RES-14341,,2.2k,
+- rawParts: R3,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10kÃÂ© resistor,,RES-14241,,10k,
+- rawParts: R4,1k,1KOHM-0402T-1/16W-1%,0402-TIGHT,1kÃÂ© resistor,,RES-14342,,1k,
+- rawParts: R5,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10kÃÂ© resistor,,RES-14241,,10k,
+- rawParts: R6,10k,10KOHM-0402T-1/16W-1%,0402-TIGHT,10kÃÂ© resistor,,RES-14241,,10k,
+- rawParts: STANDOFF1,STAND-OFFTIGHT,STAND-OFFTIGHT,STAND-OFF-TIGHT,Stand Off,,,,,
+- rawParts: TP1,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,
+- rawParts: TP2,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,
+- rawParts: TP3,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,
+- rawParts: TP4,TEST-POINT3,TEST-POINT3,PAD.03X.03,SparkFun Test Points,,,,,
+- rawParts: U1,ISM330DHCX,ISM330DHCX,LGA-14L,ISM330DHCX 6DoF,,IC-16693,,,
 
 
 

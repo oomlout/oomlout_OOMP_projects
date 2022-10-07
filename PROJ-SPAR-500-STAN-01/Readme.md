@@ -52,6 +52,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SSOP-DIP_Adapter_28-Pin (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/500
 - oompID: PROJ-SPAR-500-STAN-01
+- rawParts: JP1,M14,M14,1X14,Header 14,,
+- rawParts: JP2,M14,M14,1X14,Header 14,,
+- rawParts: U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
+- rawParts: U$2,SSOP28,SSOP28,SSOP28DB,,,
+- rawParts: U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
 
 
 

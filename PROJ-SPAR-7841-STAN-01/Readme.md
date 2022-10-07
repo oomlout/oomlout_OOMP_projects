@@ -52,6 +52,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/FT245RL_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/7841
 - oompID: PROJ-SPAR-7841-STAN-01
+- rawParts: C1,10uF,CAP_POL1206,CPOL_1206,,,
+- rawParts: C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,
+- rawParts: JP1,M09,M09,1X09,Header 9,,
+- rawParts: JP2,M09,M09,1X09,Header 9,,
+- rawParts: JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: JP4,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
+- rawParts: SJ1,SOLDERJUMPERNC2,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,
+- rawParts: U$1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,
+- rawParts: U1,FT245RL,FT245RL,SSOP28DB,USB FIFO Controller,,
+- rawParts: X2,USBSMD,USBSMD,USB-MINIB,USB Connectors,,
 
 
 

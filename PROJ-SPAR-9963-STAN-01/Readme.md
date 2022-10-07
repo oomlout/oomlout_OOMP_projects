@@ -52,6 +52,35 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RFID_USB_Reader (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9963
 - oompID: PROJ-SPAR-9963-STAN-01
+- rawParts: BUZZ,buzz,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,,,,
+- rawParts: C1,2.2uF,2.2UF-0603-10V-20%,0603,2.2ÃÂµF ceramic capacitors,,CAP-07888,,2.2uF,
+- rawParts: C4,10nF,10NF-0603-50V-10%,0603,0.01uF/10nF/10,000pF ceramic capacitors,,CAP-00867,,10nF,
+- rawParts: C5,470nF,470NF-0603-10V-10%-X5R,0603,0.47uF/470nF ceramic capacitors,,CAP-13216,,470nF,
+- rawParts: C6,10uF,10UF-POLAR-0603-6.3V-20%(TANT),0603-POLAR,10.0ÃÂµF polarized capacitors,,CAP-13210,,10uF,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,
+- rawParts: J1,,CONN_07,1X07,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,
+- rawParts: J10,,USB_C2-LAYER,USB-C-16P,USB Type C 16Pin Connector,,CONN-14122,,,
+- rawParts: JP1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: JP5,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,,,
+- rawParts: LED1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,,DIO-08575,,BLUE,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,
+- rawParts: LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,
+- rawParts: LOGO3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,
+- rawParts: LOGO4,REVISION,REVISION,REVISION,Revision By Text,,,,,
+- rawParts: Q1,600mA/40V,TRANS_NPN-MMBT2222AL,SOT23-3,NPN transistor,,TRANS-08049,,600mA/40V,
+- rawParts: R1,330,330OHM-0603-1/10W-1%,0603,330ÃÂ© resistor,,RES-00818,,330,
+- rawParts: R2,180,180OHM-0603-1/10W-1%,0603,180ÃÂ© resistor,,RES-08788,,180,
+- rawParts: R3,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,5.1k,
+- rawParts: R10,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,5.1k,
+- rawParts: SG1,BUZZER-SMD,BUZZER-SMD,BUZZER-CCV,Buzzer,,COMP-08568,,,
+- rawParts: U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: U$6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,
+- rawParts: U1,ID-12/20SMD,ID-12/20SMD,ID-12_SMD,ID Innovations 125kHz RFID Reader (ID2, ID3, ID12, and ID20),,CONN-09345, CONN-09344,,,
+- rawParts: U5,CH340C,CH340C,SO016,,,IC-14038,,,
 
 
 

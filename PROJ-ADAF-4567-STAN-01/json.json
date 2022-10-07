@@ -41,6 +41,90 @@
             "value": "PROJ-ADAF-4567-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,2.2uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "CONN1,STEMMA_I2C_QT,STEMMA_I2C_QT,JST_SH4,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D4,MBR120,DIODESOD-123,SOD-123,Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,APX803S-29SA,AXP083-SAG,SOT23,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,10uH,INDUCTOR,INDUCTOR_1007,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,910K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RPI1,RASPBERRYPI_BPLUS_BONNETSMT,RASPBERRYPI_BPLUS_BONNETSMT,PI_BONNET_SMT,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$33,2.23_INCH_OLEDBOTTOM_CONTACT_24_PIN_OLED,2.23_INCH_OLEDBOTTOM_CONTACT_24_PIN_OLED,2.23OLED_BOTTOM_CONTACT,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,FAN5331,VREG_FAN5331,SOT23-5,FAN5331 - LED/OLED 20V Boost Converter,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ADAF-4567-STAN-01"
         },

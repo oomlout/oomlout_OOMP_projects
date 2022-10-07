@@ -41,6 +41,86 @@
             "value": "PROJ-SPAR-152-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,22pF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,22pF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,33nF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,2.2nF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,22pF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,1.0pF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,1.0pF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,10nF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1nF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,M07,1X07,Header 7,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,3.3nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L2,33nH,INDUCTOR0402,C0402,Inductors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,1M,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,22K,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,NRF2401A,NRF2401ASMD,MLP-24,2.4GHz Transceiver,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,ANTENNA2SMD5,ANTENNA2SMD5,ANTENNA-CHIP5,Antenna,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-152-STAN-01"
         },

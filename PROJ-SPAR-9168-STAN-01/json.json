@@ -41,6 +41,102 @@
             "value": "PROJ-SPAR-9168-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,22pf,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,22pf,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,CAP0402,C0402,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,POWER_JACKRCA_LOCK,POWER_JACKRCA_LOCK,RCA_LOCK,Power Jack,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,POWER_JACKRCA_LOCK,POWER_JACKRCA_LOCK,RCA_LOCK,Power Jack,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,M11PTH,M11PTH,1X11,Header 11,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,75,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,75,RESISTOR0402,C0402,Resistor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$8,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$9,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$10,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$12,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$13,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$14,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,MAX7456,MAX7456,TSSOP28,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "V_IN,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "V_OUT,TEST-POINT3X5,TEST-POINT3X5,PAD.03X.05,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y2,27MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-9168-STAN-01"
         },

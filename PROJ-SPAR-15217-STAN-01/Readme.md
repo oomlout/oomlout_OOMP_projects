@@ -52,6 +52,32 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LiPo_Charger_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15217
 - oompID: PROJ-SPAR-15217-STAN-01
+- rawParts: C1,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,,CAP-11015,,,10uF,
+- rawParts: C2,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,,CAP-11015,,,10uF,
+- rawParts: D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,,RED,
+- rawParts: D2,GREEN,LED-GREEN0603,LED-0603,Green SMD LED,,DIO-00821,,,GREEN,
+- rawParts: D3,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LED,,DIO-09003,,,Yellow,
+- rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,
+- rawParts: H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,
+- rawParts: J1,,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,,CONN-11443,,PRT-08612,,
+- rawParts: J2,,USB_C16PIN,USB-C-16P,USB Type C 16Pin Connector,,CONN-14122,,,,
+- rawParts: J3,,CONN_021X02_NO_SILK,1X02_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,
+- rawParts: LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,,,,,
+- rawParts: LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,
+- rawParts: R1,1.5k,1.5KOHM-0603-1/10W-1%,0603,1.5kÃÂ© resistor,,RES-08306,,,1.5k,
+- rawParts: R2,1.5k,1.5KOHM-0603-1/10W-1%,0603,1.5kÃÂ© resistor,,RES-08306,,,1.5k,
+- rawParts: R3,1.5k,1.5KOHM-0603-1/10W-1%,0603,1.5kÃÂ© resistor,,RES-08306,,,1.5k,
+- rawParts: R4,1k,1KOHM-0603-1/10W-1%,0603,1kÃÂ© resistor,,RES-07856,,,1k,
+- rawParts: R5,PROG,RESISTORAXIAL-0.3,AXIAL-0.3,Generic Resistor Package,, ,,, ,
+- rawParts: R6,10k,10KOHM-0603-1/10W-1%,0603,10kÃÂ© resistor,,RES-00824,,,10k,
+- rawParts: R7,THERM,RESISTORAXIAL-0.3,AXIAL-0.3,Generic Resistor Package,, ,,, ,
+- rawParts: R8,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,,5.1k,
+- rawParts: R9,5.1k,5.1KOHM5.1KOHM-0603-1/10W-1%,0603,,,RES-12083,,,5.1k,
+- rawParts: U1,MCP73833,MCP73833,DFN-10,,,IC-14369,,,MCP73833,
 
 
 

@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-8777-STAN-01"
         },
         {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMP+,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMP-,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMP1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMP2,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMP3,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TEMPS,SEWTAP6,SEWTAP6,PETAL-SMALL-2SIDE,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,MCP9700,MCP9700SMD,SOT23-3,,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SPAR-8777-STAN-01"
         },
