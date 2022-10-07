@@ -1,0 +1,142 @@
+Netlist
+
+Exported from boardEagle.brd at 07/10/2022 16:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+CC_DC    CON1     TC_3
+         MOD1     3
+         SW1      2
+         TP2      TP
+
+CC_DD    CON1     TC_4
+         MOD1     4
+         SW1      3
+         TP3      TP
+
+CC_RST   CON1     TC_7
+         MOD1     24
+         R4       1
+         SW1      1
+         SW2      C
+         SW2      D
+         TP1      TP
+
+GND      BAT1     -
+         C1       1
+         C2       1
+         C4       2
+         C5       2
+         C6       2
+         C7       -
+         CON1     TC_1
+         IC1      2
+         IC2      13
+         MOD1     1
+         MOD2     3
+         MOD3     P14
+         MOD3     P20
+         MOD3     P25
+         MOD3     P30
+         MOD3     P34
+         MOD3     P39
+         MOD3     P6
+         MOD3     P9
+         SW2      A
+         SW2      B
+         TP11     TP
+         TP13     TP
+         TP14     TP
+         TP18     1
+
+GP16     MOD3     P36
+         SW1      5
+
+GP19     MOD3     P35
+         SW1      6
+
+GP20     MOD3     P38
+         SW1      4
+
+LDO_OUT  C2       2
+         IC1      5
+         R6       1
+         TP12     TP
+
+N$1      BAT1     +_1
+         BAT1     +_2
+         IC2      14
+         TP16     TP
+
+PI_3V3   MOD3     P1
+
+PI_5V    MOD3     P2
+         MOD3     P4
+         R5       1
+         TP15     TP
+
+PI_RX    MOD1     20
+         MOD3     P10
+         TP4      TP
+
+PI_SCL   IC2      16
+         MOD3     P5
+         TP6      TP
+
+PI_SDA   IC2      15
+         MOD3     P3
+         TP7      TP
+
+PI_TX    MOD1     21
+         MOD3     P8
+         TP5      TP
+
+POE_5V   C1       2
+         C6       1
+         C7       +
+         IC1      1
+         IC1      3
+         MOD2     1
+         MOD2     2
+         R5       2
+         TP10     TP
+
+POE_ADJ  MOD2     4
+         TP17     TP
+
+POE_VIN+ BR1      1
+         BR2      1
+         D1       1
+         MOD2     5
+         MOD2     6
+         TP8      TP
+
+POE_VIN- BR1      2
+         BR2      2
+         D1       2
+         MOD2     7
+         MOD2     8
+         TP9      TP
+
+VA1      BR2      3
+         MOD3     E2
+
+VA2      BR2      4
+         MOD3     E1
+
+VB1      BR1      3
+         MOD3     E4
+
+VB2      BR1      4
+         MOD3     E3
+
+VCC      C4       1
+         C5       1
+         CON1     TC_2
+         IC2      2
+         MOD1     2
+         R4       2
+         R6       2
+

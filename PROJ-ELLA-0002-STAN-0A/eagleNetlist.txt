@@ -1,0 +1,133 @@
+Netlist
+
+Exported from boardEagle.brd at 07/10/2022 15:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
++VDC     C1       +
+         C3       1
+         C6       1
+         C7       +
+         IC1      1
+         IC1      3
+         MOD2     1
+         MOD2     2
+         R5       2
+         TP10     TP
+
+CC_DC    CON1     TC_2
+         MOD1     3
+         R2       2
+         TP2      TP
+
+CC_DD    CON1     TC_9
+         MOD1     4
+         R3       2
+         TP3      TP
+
+CC_RST   CON1     TC_4
+         MOD1     24
+         R1       1
+         R4       1
+         TP1      TP
+
+GND      BAT1     -
+         C1       -
+         C2       -
+         C3       2
+         C4       2
+         C5       2
+         C6       2
+         C7       -
+         CON1     TC_1
+         IC1      2
+         IC2      13
+         MOD1     1
+         MOD2     3
+         MOD3     P14
+         MOD3     P20
+         MOD3     P25
+         MOD3     P30
+         MOD3     P34
+         MOD3     P39
+         MOD3     P6
+         MOD3     P9
+         TP11     TP
+         TP13     TP
+         TP14     TP
+
+GP16     MOD3     P36
+         R2       1
+
+GP19     MOD3     P35
+         R1       2
+
+GP20     MOD3     P38
+         R3       1
+
+N$1      BAT1     +_1
+         BAT1     +_2
+         IC2      14
+         TP16     TP
+
+PI_3V3   MOD3     P1
+
+PI_5V    MOD3     P2
+         MOD3     P4
+         R5       1
+         TP15     TP
+
+PI_RX    MOD1     20
+         MOD3     P10
+         TP4      TP
+
+PI_SCL   IC2      16
+         MOD3     P5
+         TP6      TP
+
+PI_SDA   IC2      15
+         MOD3     P3
+         TP7      TP
+
+PI_TX    MOD1     21
+         MOD3     P8
+         TP5      TP
+
+VA1      BR2      3
+         MOD3     E2
+
+VA2      BR2      4
+         MOD3     E1
+
+VB1      BR1      3
+         MOD3     E4
+
+VB2      BR1      4
+         MOD3     E3
+
+VCC      C2       +
+         C4       1
+         C5       1
+         CON1     TC_10
+         IC1      5
+         IC2      2
+         MOD1     2
+         R4       2
+         TP12     TP
+
+VIN+     BR1      1
+         BR2      1
+         D1       1
+         MOD2     5
+         MOD2     6
+         TP8      TP
+
+VIN-     BR1      2
+         BR2      2
+         D1       2
+         MOD2     7
+         MOD2     8
+         TP9      TP
+
