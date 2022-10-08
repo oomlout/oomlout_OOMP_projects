@@ -38,8 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPC-0402-X-UNMATCHED-01||C1, C2, C5, C6, C7, C11, C12, C13, C15, C17, C18|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C5, C11, C12, C13, C15, C17, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0805-X-UF22-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[SMD (0805) 22 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[C3, C4, C14, C16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
+|[CAPC-0402-X-PF12-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[SMD (0402) 12 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||FL1, IC1, IC2, IC3, MOD1, SW1, Y1, Y2|
@@ -72,22 +73,22 @@ Contents
 - eagleSchem: zzh/Revision A/zzh.sch
 - hexID: PRE1
 - oompID: PROJ-ELLA-0001-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0805-X-UF22-V63D
 - oompParts: C4,CAPC-0805-X-UF22-V63D
-- oompParts: C5,CAPC-0402-X-UNMATCHED-01
-- oompParts: C6,CAPC-0402-X-UNMATCHED-01
-- oompParts: C7,CAPC-0402-X-UNMATCHED-01
+- oompParts: C5,CAPC-0402-X-NF100-V10
+- oompParts: C6,CAPC-0402-X-PF12-V50
+- oompParts: C7,CAPC-0402-X-PF12-V50
 - oompParts: C8,CAPC-0402-X-UF1-V63D
-- oompParts: C11,CAPC-0402-X-UNMATCHED-01
-- oompParts: C12,CAPC-0402-X-UNMATCHED-01
-- oompParts: C13,CAPC-0402-X-UNMATCHED-01
+- oompParts: C11,CAPC-0402-X-NF100-V10
+- oompParts: C12,CAPC-0402-X-NF100-V10
+- oompParts: C13,CAPC-0402-X-NF100-V10
 - oompParts: C14,CAPC-0805-X-UF22-V63D
-- oompParts: C15,CAPC-0402-X-UNMATCHED-01
+- oompParts: C15,CAPC-0402-X-NF100-V10
 - oompParts: C16,CAPC-0805-X-UF22-V63D
-- oompParts: C17,CAPC-0402-X-UNMATCHED-01
-- oompParts: C18,CAPC-0402-X-UNMATCHED-01
+- oompParts: C17,CAPC-0402-X-NF100-V10
+- oompParts: C18,CAPC-0402-X-NF100-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: FL1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

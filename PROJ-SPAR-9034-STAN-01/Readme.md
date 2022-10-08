@@ -42,8 +42,9 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF15-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[SMD (0402) 15 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|
 |CAPC-0402-X-NF33-01||C5, C6|
-|CAPC-0402-X-UNMATCHED-01||C7, C8, C11|
+|[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[SMD (0402) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
 |[CAPC-0402-X-PF22D-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[SMD (0402) 2.2 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
+|CAPC-0402-X-UNMATCHED-01||C11|
 |CAPC-0402-X-PF12D-01||C12|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||J$1, Q1, U2, X1|
 |[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
@@ -81,8 +82,8 @@ Contents
 - oompParts: C4,CAPC-0402-X-PF15-V50
 - oompParts: C5,CAPC-0402-X-NF33-01
 - oompParts: C6,CAPC-0402-X-NF33-01
-- oompParts: C7,CAPC-0402-X-UNMATCHED-01
-- oompParts: C8,CAPC-0402-X-UNMATCHED-01
+- oompParts: C7,CAPC-0402-X-NF10-V50
+- oompParts: C8,CAPC-0402-X-NF10-V50
 - oompParts: C10,CAPC-0402-X-PF22D-V50
 - oompParts: C11,CAPC-0402-X-UNMATCHED-01
 - oompParts: C12,CAPC-0402-X-PF12D-01

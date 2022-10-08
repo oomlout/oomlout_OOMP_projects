@@ -31,12 +31,12 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |DIOD-S123-X-UNMATCHED-01||D3, D4|
-|RESE-UNMATCHED-X-O472-01||R2, R1, R4, R3|
+|[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R1, R4, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||SW2, SW1, J4, J1, J2, U2, J5, Q1, L1|
-|CAPC-UNMATCHED-X-UNMATCHED-V25||C1|
-|RESE-UNMATCHED-X-O102-01||R8, R10|
-|LEDS-UNMATCHED-G-STAN-01||D1, D2|
-|RESE-UNMATCHED-X-O1003-01||R9, R6, R5, R7|
+|CAPC-0805-X-UNMATCHED-V25||C1|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R8, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+|[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D1, D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
+|RESE-0603-X-O1003-01||R9, R6, R5, R7|
 |CAPX-UNMATCHED-X-UNMATCHED-V25||C2|
 
 ## Images
@@ -62,25 +62,25 @@ Contents
 - hexID: PRSO3
 - oompID: PROJ-SOPA-0003-STAN-01
 - oompParts: D3,DIOD-S123-X-UNMATCHED-01
-- oompParts: R2,RESE-UNMATCHED-X-O472-01
-- oompParts: R1,RESE-UNMATCHED-X-O472-01
+- oompParts: R2,RESE-0603-X-O472-01
+- oompParts: R1,RESE-0603-X-O472-01
 - oompParts: SW2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: SW1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: C1,CAPC-UNMATCHED-X-UNMATCHED-V25
+- oompParts: C1,CAPC-0805-X-UNMATCHED-V25
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R8,RESE-UNMATCHED-X-O102-01
-- oompParts: R10,RESE-UNMATCHED-X-O102-01
+- oompParts: R8,RESE-0603-X-O102-01
+- oompParts: R10,RESE-0603-X-O102-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: R4,RESE-UNMATCHED-X-O472-01
-- oompParts: R3,RESE-UNMATCHED-X-O472-01
-- oompParts: D1,LEDS-UNMATCHED-G-STAN-01
-- oompParts: R9,RESE-UNMATCHED-X-O1003-01
-- oompParts: R6,RESE-UNMATCHED-X-O1003-01
-- oompParts: R5,RESE-UNMATCHED-X-O1003-01
-- oompParts: R7,RESE-UNMATCHED-X-O1003-01
-- oompParts: D2,LEDS-UNMATCHED-G-STAN-01
+- oompParts: R4,RESE-0603-X-O472-01
+- oompParts: R3,RESE-0603-X-O472-01
+- oompParts: D1,LEDS-0603-G-STAN-01
+- oompParts: R9,RESE-0603-X-O1003-01
+- oompParts: R6,RESE-0603-X-O1003-01
+- oompParts: R5,RESE-0603-X-O1003-01
+- oompParts: R7,RESE-0603-X-O1003-01
+- oompParts: D2,LEDS-0603-G-STAN-01
 - oompParts: C2,CAPX-UNMATCHED-X-UNMATCHED-V25
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

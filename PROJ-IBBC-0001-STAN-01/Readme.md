@@ -32,9 +32,11 @@ Contents
 | :---: | :---: | :---: |
 |VREG-UNMATCHED-X-KAP2112K-01||U2|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, U1|
-|HEAD-I01-X-UNMATCHED-01||J2, J3, J4|
-|CAPC-UNMATCHED-X-NF100-01||C3|
-|CAPC-UNMATCHED-X-UF10-01||C2, C1|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C2, C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 
 ## Images
   
@@ -60,13 +62,13 @@ Contents
 - oompID: PROJ-IBBC-0001-STAN-01
 - oompParts: U2,VREG-UNMATCHED-X-KAP2112K-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,HEAD-I01-X-UNMATCHED-01
-- oompParts: C3,CAPC-UNMATCHED-X-NF100-01
-- oompParts: C2,CAPC-UNMATCHED-X-UF10-01
-- oompParts: C1,CAPC-UNMATCHED-X-UF10-01
-- oompParts: J3,HEAD-I01-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI08-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0805-X-UF10-V10
+- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: J3,HEAD-I01-X-PI06-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,HEAD-I01-X-UNMATCHED-01
+- oompParts: J4,HEAD-I01-X-PI04-01
 - rawParts: U2,AP2112K-3.3,SOT-23-5_HandSoldering,SOT-23-5_HandSoldering,,,,
 - rawParts: J1,Conn_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,
 - rawParts: J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,

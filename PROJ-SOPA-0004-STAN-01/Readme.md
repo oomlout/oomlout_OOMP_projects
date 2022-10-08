@@ -31,8 +31,10 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, JP1, REF**, REF**|
-|HEAD-I01-X-UNMATCHED-01||J2, J3, J1|
-|CAPC-UNMATCHED-X-NF100-01||C1|
+|HEAD-I01-X-PI2X16-01||J2|
+|HEAD-I01-X-PI2X12-01||J3|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|HEAD-I01-X-PI2X20-01||J1|
 
 ## Images
   
@@ -60,10 +62,10 @@ Contents
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: REF**,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: REF**,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,HEAD-I01-X-UNMATCHED-01
-- oompParts: J3,HEAD-I01-X-UNMATCHED-01
-- oompParts: C1,CAPC-UNMATCHED-X-NF100-01
-- oompParts: J1,HEAD-I01-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-PI2X16-01
+- oompParts: J3,HEAD-I01-X-PI2X12-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: J1,HEAD-I01-X-PI2X20-01
 - rawParts: U1,ADS1115IDGS,TSSOP-10_3x3mm_P0.5mm,TSSOP-10_3x3mm_P0.5mm,,,,
 - rawParts: G***,LOGO,SolderParty-New-Logo_20x16.9mm_SilkScreen,SolderParty-New-Logo_20x16.9mm_SilkScreen,,,,
 - rawParts: G***,LOGO,SolderParty-New-Logo_20x16.9mm_SilkScreen,SolderParty-New-Logo_20x16.9mm_SilkScreen,,,,

@@ -34,11 +34,12 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPX-UNMATCHED-X-UNMATCHED-01||C1, C2, C12, C19|
+|CAPX-UNMATCHED-X-PF15-01||C1, C2|
 |[CAPC-0603-X-UF47D-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[SMD (0603) 4.7 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[C3, C8, C9, C10, C13, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
 |[CAPC-0603-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[SMD (0603) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[C4, C5, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
 |CAPX-UNMATCHED-X-NF100-01||C6, C14, C16, C17, C20|
 |CAPX-UNMATCHED-X-UF1-01||C11|
+|CAPX-UNMATCHED-X-PF56-01||C12, C19|
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |[LEDS-0603-Y-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[SMD (0603) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
 |DIOD-S323-X-UNMATCHED-01||D5, D6|
@@ -80,8 +81,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/nRF9160_Thing_Plus (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17354
 - oompID: PROJ-SPAR-17354-STAN-01
-- oompParts: C1,CAPX-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPX-UNMATCHED-X-PF15-01
+- oompParts: C2,CAPX-UNMATCHED-X-PF15-01
 - oompParts: C3,CAPC-0603-X-UF47D-V10
 - oompParts: C4,CAPC-0603-X-UF10-V63D
 - oompParts: C5,CAPC-0603-X-UF10-V63D
@@ -91,13 +92,13 @@ Contents
 - oompParts: C9,CAPC-0603-X-UF47D-V10
 - oompParts: C10,CAPC-0603-X-UF47D-V10
 - oompParts: C11,CAPX-UNMATCHED-X-UF1-01
-- oompParts: C12,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C12,CAPX-UNMATCHED-X-PF56-01
 - oompParts: C13,CAPC-0603-X-UF47D-V10
 - oompParts: C14,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C15,CAPC-0603-X-UF47D-V10
 - oompParts: C16,CAPX-UNMATCHED-X-NF100-01
 - oompParts: C17,CAPX-UNMATCHED-X-NF100-01
-- oompParts: C19,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C19,CAPX-UNMATCHED-X-PF56-01
 - oompParts: C20,CAPX-UNMATCHED-X-NF100-01
 - oompParts: D3,LEDS-0603-L-STAN-01
 - oompParts: D4,LEDS-0603-Y-STAN-01

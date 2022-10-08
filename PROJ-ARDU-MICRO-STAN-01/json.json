@@ -38,11 +38,11 @@
         },
         {
             "name": "oompParts",
-            "value": "C1,CAPC-0402-X-UNMATCHED-01"
+            "value": "C1,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPC-0402-X-UNMATCHED-01"
+            "value": "C2,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -58,7 +58,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C6,CAPC-0402-X-UNMATCHED-01"
+            "value": "C6,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
@@ -66,15 +66,15 @@
         },
         {
             "name": "oompParts",
-            "value": "C9,CAPC-0402-X-UNMATCHED-01"
+            "value": "C9,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C10,CAPC-0402-X-UNMATCHED-01"
+            "value": "C10,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",
-            "value": "C11,CAPC-0402-X-UNMATCHED-01"
+            "value": "C11,CAPC-0402-X-NF100-V10"
         },
         {
             "name": "oompParts",

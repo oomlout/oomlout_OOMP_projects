@@ -40,7 +40,8 @@ Contents
 | :---: | :---: | :---: |
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||BAT1, BR1, BR2, CON1, IC1, IC2, MOD1, MOD2, MOD3, SW1, SW2, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18|
 |[CAPC-0805-X-UF22-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[SMD (0805) 22 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[C1, C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
-|CAPC-0603-X-UNMATCHED-01||C4, C5, C6|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPC-0603-X-UF22-01||C6|
 |CAPX-UNMATCHED-X-UF470-01||C7|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1|
 |RESE-0603-X-UNMATCHED-01||R4|
@@ -73,9 +74,9 @@ Contents
 - oompParts: BR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0805-X-UF22-V63D
 - oompParts: C2,CAPC-0805-X-UF22-V63D
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-UF22-01
 - oompParts: C7,CAPX-UNMATCHED-X-UF470-01
 - oompParts: CON1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01

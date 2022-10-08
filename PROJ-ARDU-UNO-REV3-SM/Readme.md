@@ -38,9 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPC-0603-X-UNMATCHED-01||C1, C2, C4, C5, C6, C7, C9, C11|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2, C4, C5, C6, C7, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|[CAPC-0603-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[SMD (0603) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2, D3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||F1, GROUND, J2, PC1, PC2, RESET, RESET-EN, RN1, RN2, RN3, RN4, T1, U1, U3, U4, U5, X1, X2, Y1, Y2|
 |[HEAD-I01-X-PI2X03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|[2.54 mm 6 Pin (2x3) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|[ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X03-01/)|
@@ -72,17 +72,17 @@ Contents
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-uno-rev3-smd
 - oompID: PROJ-ARDU-UNO-REV3-SM
-- oompParts: C1,CAPC-0603-X-UNMATCHED-01
-- oompParts: C2,CAPC-0603-X-UNMATCHED-01
+- oompParts: C1,CAPC-0603-X-NF100-V50
+- oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0603-X-UF1-V25
-- oompParts: C4,CAPC-0603-X-UNMATCHED-01
-- oompParts: C5,CAPC-0603-X-UNMATCHED-01
-- oompParts: C6,CAPC-0603-X-UNMATCHED-01
-- oompParts: C7,CAPC-0603-X-UNMATCHED-01
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPC-0603-X-NF100-V50
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-NF100-V50
 - oompParts: C8,CAPC-0603-X-UF1-V25
-- oompParts: C9,CAPC-0603-X-UNMATCHED-01
+- oompParts: C9,CAPC-0603-X-PF22-V50
 - oompParts: C10,CAPC-0603-X-NF100-V50
-- oompParts: C11,CAPC-0603-X-UNMATCHED-01
+- oompParts: C11,CAPC-0603-X-PF22-V50
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D3,DIOD-UNMATCHED-X-UNMATCHED-01
