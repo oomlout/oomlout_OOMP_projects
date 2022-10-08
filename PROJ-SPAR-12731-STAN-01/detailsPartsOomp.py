@@ -3,7 +3,7 @@ newPart = OOMP.getPartByID("PROJ-SPAR-12731-STAN-01")
 
 newPart.addTag('oompParts','C1,CAPC-0603-X-NF100-V50')
 newPart.addTag('oompParts','C2,CAPC-0603-X-NF100-V50')
-newPart.addTag('oompParts','C5,CAPT-3216-X-UF10-01')
+newPart.addTag('oompParts','C5,CAPT-3216-X-UF10-V10')
 newPart.addTag('oompParts','F1,REFU-1206-X-UNMATCHED-01')
 newPart.addTag('oompParts','JP1,HEAD-I01-X-PI09-01')
 newPart.addTag('oompParts','JP2,HEAD-I01-X-PI09-01')
