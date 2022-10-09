@@ -42,7 +42,7 @@ Contents
 |[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C2, C3, C4, C7, C18, C19, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C5, C6, C8, C10, C11, C13, C14, C15, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|HEAD-I01-X-UNMATCHED-01||CONN1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S323-X-UNMATCHED-01||D2|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||DOWN, RST, SENSE, U$1, U1, U3, U4, U5, UP, X1, X5, X6|
 |HEAD-I01-X-PI11-01||JP1|
@@ -52,7 +52,7 @@ Contents
 |[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1, R2, R5, R6, R7, R15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R3, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R4, R9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
-|RESA-06038-X-O472X4-01||R10|
+|[RESA-06038-X-O472X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O472X4-01/)|[SMD (0603-8) 4.7k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O472X4-01/)|[R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O472X4-01/)|
 |VREG-SO23-X-KAP2112K-01||U2|
 
 ## Images
@@ -96,7 +96,7 @@ Contents
 - oompParts: C18,CAPC-0805-X-UF10-V10
 - oompParts: C19,CAPC-0805-X-UF10-V10
 - oompParts: C20,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: DOWN,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI11-01

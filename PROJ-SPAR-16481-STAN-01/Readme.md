@@ -49,7 +49,7 @@ Contents
 |DIOD-UNMATCHED-X-UNMATCHED-01||D6|
 |FERB-0402-X-UNMATCHED-01||FB1|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J1, J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J2, J4|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[J7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
@@ -99,9 +99,9 @@ Contents
 - oompParts: FB1,FERB-0402-X-UNMATCHED-01
 - oompParts: FENCE,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,HEAD-I01-X-PI06-01
-- oompParts: J2,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI04-01
-- oompParts: J4,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,HEAD-I01-X-PI06-01
 - oompParts: J7,HEAD-I01-X-PI09-01

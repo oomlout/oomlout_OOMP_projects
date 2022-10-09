@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C4|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |DIOD-S323-X-UNMATCHED-01||D1|
 |LEDS-1206-R-STAN-01||D4|
 |LEDS-1206-G-STAN-01||D5|
@@ -68,7 +68,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RS232_Shifter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8780
 - oompID: PROJ-SPAR-8780-STAN-01
-- oompParts: C4,CAPT-3216-X-UF10-01
+- oompParts: C4,CAPT-3216-X-UF10-V10
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D4,LEDS-1206-R-STAN-01
 - oompParts: D5,LEDS-1206-G-STAN-01

@@ -46,11 +46,12 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C21, C22, C23, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |LEDS-UNMATCHED-L-STAN-01||D2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, INT, J19, J20, J23, JP2, JP3, JP4, JP13, JP15, TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, U1, U4, U5, U6, U7, U8|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, INT, J20, J23, JP2, JP3, JP4, JP13, JP15, TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, U1, U4, U5, U6, U7, U8|
 |HEAD-I01-X-UNMATCHED-01||J2|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[J3, J4, J5, J10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 |HEAD-I01-X-PI01-01||J6, J17, J21, J22|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J7, J8, J9, J11, J12, J13, J14, J15, J16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J19, U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1, Q4, Q23, Q24, Q27, Q28|
 |MOSP-SO23-X-UNMATCHED-01||Q5, Q7, Q9|
 |UNMATCHED-SO363-X-UNMATCHED-01||Q6, Q8, Q10|
@@ -124,7 +125,7 @@ Contents
 - oompParts: J15,HEAD-I01-X-PI02-01
 - oompParts: J16,HEAD-I01-X-PI02-01
 - oompParts: J17,HEAD-I01-X-PI01-01
-- oompParts: J19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J19,HEAD-JSTSH-X-PI04-RS
 - oompParts: J20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J21,HEAD-I01-X-PI01-01
 - oompParts: J22,HEAD-I01-X-PI01-01
@@ -203,6 +204,7 @@ Contents
 - oompParts: TP17,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP18,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$1,HEAD-JSTSH-X-PI04-RS
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01

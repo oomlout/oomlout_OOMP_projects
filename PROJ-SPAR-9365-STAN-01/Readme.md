@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C7, C8, C12, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C2, C5, C6, C11, C13|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2, C5, C6, C11, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
 |UNMATCHED-SO235-X-UNMATCHED-01||U1, U2|
@@ -66,14 +66,14 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/9365
 - oompID: PROJ-SPAR-9365-STAN-01
 - oompParts: C1,CAPC-0402-X-NF100-V10
-- oompParts: C2,CAPT-3216-X-UF10-01
-- oompParts: C5,CAPT-3216-X-UF10-01
-- oompParts: C6,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
+- oompParts: C5,CAPT-3216-X-UF10-V10
+- oompParts: C6,CAPT-3216-X-UF10-V10
 - oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-NF100-V10
-- oompParts: C11,CAPT-3216-X-UF10-01
+- oompParts: C11,CAPT-3216-X-UF10-V10
 - oompParts: C12,CAPC-0402-X-NF100-V10
-- oompParts: C13,CAPT-3216-X-UF10-01
+- oompParts: C13,CAPT-3216-X-UF10-V10
 - oompParts: C14,CAPC-0402-X-NF100-V10
 - oompParts: JP2,HEAD-I01-X-PI06-01
 - oompParts: JP3,HEAD-I01-X-PI08-01

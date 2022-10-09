@@ -186,7 +186,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J11,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -227,6 +227,10 @@
         {
             "name": "oompParts",
             "value": "Q10,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "QWIIC_3.3V,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",

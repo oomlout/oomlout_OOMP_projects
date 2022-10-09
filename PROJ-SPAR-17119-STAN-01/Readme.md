@@ -38,8 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_ISO, D1_BP, J1, J2, J3, J4, J5, S1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_ISO, D1_BP, J1, S1|
 |DIOD-S323-X-UNMATCHED-01||D1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J3, J4, J5, LOGO4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
@@ -67,11 +68,12 @@ Contents
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D1_BP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
+- oompParts: J5,HEAD-JSTSH-X-PI04-RS
 - oompParts: J6,HEAD-I01-X-PI02-01
+- oompParts: LOGO4,HEAD-JSTSH-X-PI04-RS
 - oompParts: R3,RESE-0603-X-O472-01
 - oompParts: R4,RESE-0603-X-O472-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

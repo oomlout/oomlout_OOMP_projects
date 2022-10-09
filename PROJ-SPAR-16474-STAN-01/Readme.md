@@ -44,7 +44,8 @@ Contents
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |HEAD-I01-X-PI01-01||J2, J4|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, J5, JP1, JP2, JP4, L1, U1, U2, U3|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J3, J5, LOGO3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP1, JP2, JP4, L1, U1, U2, U3|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q6, Q8|
 |RESE-0603-X-O7503-01||R1|
 |[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
@@ -83,13 +84,14 @@ Contents
 - oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: J1,HEAD-I01-X-PI04-01
 - oompParts: J2,HEAD-I01-X-PI01-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
 - oompParts: J4,HEAD-I01-X-PI01-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J5,HEAD-JSTSH-X-PI04-RS
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: Q6,MOSN-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q8,MOSN-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O7503-01

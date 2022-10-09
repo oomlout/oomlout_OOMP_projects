@@ -40,7 +40,7 @@ Contents
 | :---: | :---: | :---: |
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2, C3, C4, C5, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPT-3216-X-UF10-01||C7, C10|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C7, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPC-0603-X-PF33D-01||C8|
 |CAPX-UNMATCHED-X-UF10-01||C11|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2|
@@ -87,10 +87,10 @@ Contents
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0805-X-UF10-V10
-- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
 - oompParts: C8,CAPC-0603-X-PF33D-01
 - oompParts: C9,CAPC-0603-X-NF100-V50
-- oompParts: C10,CAPT-3216-X-UF10-01
+- oompParts: C10,CAPT-3216-X-UF10-V10
 - oompParts: C11,CAPX-UNMATCHED-X-UF10-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01

@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |CAPX-7343-X-UF100-01||C1|
-|CAPT-3216-X-UF10-01||C2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1|
 |REFU-1206-X-UNMATCHED-01||F1|
@@ -73,7 +73,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/13032
 - oompID: PROJ-SPAR-13032-STAN-01
 - oompParts: C1,CAPX-7343-X-UF100-01
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: F1,REFU-1206-X-UNMATCHED-01

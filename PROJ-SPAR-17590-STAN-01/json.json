@@ -54,11 +54,11 @@
         },
         {
             "name": "oompParts",
-            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
-            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J2,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -111,6 +111,10 @@
         {
             "name": "oompParts",
             "value": "R4,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$1,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",

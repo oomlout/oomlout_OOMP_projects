@@ -46,8 +46,8 @@ Contents
 |UNMATCHED-SO235-X-UNMATCHED-01||IC1, U1|
 |[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
 |[MOSN-SO23-X-KBSS138-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|[SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|[Q3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
-|RESA-06038-X-O103X4-01||R2|
-|RESA-06038-X-O102X4-01||R6|
+|[RESA-06038-X-O103X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[SMD (0603-8) 10k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|
+|[RESA-06038-X-O102X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[SMD (0603-8) 1k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||U2, X1|
 
 ## Images

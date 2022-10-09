@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C14|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF15-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[SMD (0402) 15 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF15-V50/)|
 |CAPC-0402-X-NF33-01||C5, C6|
@@ -76,7 +76,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9034
 - oompID: PROJ-SPAR-9034-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
 - oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0402-X-PF15-V50
 - oompParts: C4,CAPC-0402-X-PF15-V50
@@ -88,7 +88,7 @@ Contents
 - oompParts: C11,CAPC-0402-X-UNMATCHED-01
 - oompParts: C12,CAPC-0402-X-PF12D-01
 - oompParts: C13,CAPC-0402-X-NF100-V10
-- oompParts: C14,CAPT-3216-X-UF10-01
+- oompParts: C14,CAPT-3216-X-UF10-V10
 - oompParts: J$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,HEAD-I01-X-PI10-01
 - oompParts: L1,UNMATCHED-0402-X-UNMATCHED-01

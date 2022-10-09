@@ -38,9 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_LED, BT1, E1, E3, E4, EN, F2, IC1, IC2, IC3, J1, J2, J4, J7, J11, J15, J17, JP1, JP2, LOGO5, MEAS, S1, S2, S3, U1, U4, U5, U7, U8, U13, U14, VE, VIN_LED|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_LED, BT1, E1, E3, E4, EN, F2, IC1, IC2, IC3, J1, J2, J4, J11, J15, J17, JP1, JP2, LOGO5, MEAS, S1, S2, S3, U1, U4, U5, U7, U8, U13, U14, VE, VIN_LED|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C4, C12, C14, C20, C22, C23, C31, C46, C51, C52](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0603-X-UF47D-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[SMD (0603) 4.7 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[C3, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
 |[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C5, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
 |CAPC-0603-X-PF47-01||C7, C8, C10, C11, C21|
@@ -61,6 +61,7 @@ Contents
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |FERB-0603-X-UNMATCHED-01||FB1|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J5, J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J7, LOGO2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J8, J10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |HEAD-I01-X-PI01-01||J9, J13, J19|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J12, J14, J18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -105,7 +106,7 @@ Contents
 - oompParts: 3V3_LED,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0603-X-UF47D-V10
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-NF220-V25
@@ -161,7 +162,7 @@ Contents
 - oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J5,HEAD-I01-X-PI05-01
 - oompParts: J6,HEAD-I01-X-PI05-01
-- oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J7,HEAD-JSTSH-X-PI04-RS
 - oompParts: J8,HEAD-I01-X-PI06-01
 - oompParts: J9,HEAD-I01-X-PI01-01
 - oompParts: J10,HEAD-I01-X-PI06-01
@@ -177,6 +178,7 @@ Contents
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L2,UNMATCHED-0402-X-UNMATCHED-01
+- oompParts: LOGO2,HEAD-JSTSH-X-PI04-RS
 - oompParts: LOGO5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,MOSN-UNMATCHED-X-UNMATCHED-01

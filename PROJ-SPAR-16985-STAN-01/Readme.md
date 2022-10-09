@@ -38,14 +38,15 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_EN, F2, I2C, J1, J2, J3, J5, J6, J7, LS1, MEAS, PWR, S1, S2, S3, S4, S6, TP1, U2, U5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_EN, F2, I2C, J1, J2, J3, J5, J7, LS1, MEAS, PWR, S1, S2, S3, S4, S6, TP1, U2, U5|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C4, C6, C7, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPC-0603-X-UNMATCHED-01||C3|
 |[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C5, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
 |DIOD-S323-X-UNMATCHED-01||D1|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |LEDS-5050-RGB-K102-01||D3, D4, D5, D6, D7, D8|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J6, LOGO2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
 |MOSP-SO23-X-UNMATCHED-01||Q1|
 |UNMATCHED-SO23-X-UNMATCHED-01||Q2|
@@ -77,7 +78,7 @@ Contents
 - oompID: PROJ-SPAR-16985-STAN-01
 - oompParts: 3V3_EN,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0603-X-UNMATCHED-01
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-NF220-V25
@@ -99,9 +100,10 @@ Contents
 - oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J6,HEAD-JSTSH-X-PI04-RS
 - oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J8,HEAD-I01-X-PI09-01
+- oompParts: LOGO2,HEAD-JSTSH-X-PI04-RS
 - oompParts: LS1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: PWR,UNMATCHED-UNMATCHED-X-UNMATCHED-01

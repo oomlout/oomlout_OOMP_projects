@@ -49,7 +49,8 @@ Contents
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |TERS-35D-L-UNMATCHED-01||J1, J2|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J4, J5, JP2, U1, U3, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J4, J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP2, U1, U3, Y1|
 |UNMATCHED-0603-X-UNMATCHED-01||L1, L2, L3, L4|
 |[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
 |[RESE-0603-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
@@ -94,8 +95,8 @@ Contents
 - oompParts: J1,TERS-35D-L-UNMATCHED-01
 - oompParts: J2,TERS-35D-L-UNMATCHED-01
 - oompParts: J3,HEAD-I01-X-PI02-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
+- oompParts: J5,HEAD-JSTSH-X-PI04-RS
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L1,UNMATCHED-0603-X-UNMATCHED-01
 - oompParts: L2,UNMATCHED-0603-X-UNMATCHED-01

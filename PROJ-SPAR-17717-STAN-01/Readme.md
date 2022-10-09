@@ -45,8 +45,9 @@ Contents
 |CAPC-0402-X-UF22D-01||C20, C21, C22, C23|
 |DIOD-S323-X-UNMATCHED-01||D2|
 |UNMATCHED-0805-X-UNMATCHED-01||F1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J2, J5, LOGO5, TP1, TP2, TP3, U2, U4, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, LOGO3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[J3, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J5, LOGO5, TP1, TP2, TP3, U2, U4, Y1|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |[RESE-0402-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|[SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|[R1, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
 |[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R2, R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
@@ -98,11 +99,12 @@ Contents
 - oompParts: C29,CAPC-0402-X-NF100-V10
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: F1,UNMATCHED-0805-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI12-01
 - oompParts: J4,HEAD-I01-X-PI12-01
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: LED1,LEDS-0603-R-STAN-01
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: LOGO5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0402-X-O472-01
 - oompParts: R2,RESE-0402-X-O103-01

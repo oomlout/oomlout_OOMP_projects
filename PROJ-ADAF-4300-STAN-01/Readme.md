@@ -45,7 +45,8 @@ Contents
 |DIOD-S123-X-UNMATCHED-01||D3|
 |DIOD-S323-X-UNMATCHED-01||D5, D6|
 |FERB-0805-X-UNMATCHED-01||FB1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C1, IC2, MS2, NEOPIX1, SENSE1, SW1, TFT1, U$59, U$63, U4, U9, X2, X4|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[I2C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC2, MS2, NEOPIX1, SENSE1, SW1, TFT1, U$59, U$63, U4, U9, X2, X4|
 |UNMATCHED-SO23-X-UNMATCHED-01||IC3|
 |[LEDS-0805-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[SMD (0805) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[L1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
 |LEDS-UNMATCHED-RGB-K2812-01||LED1, LED2, LED3, LED4|
@@ -61,7 +62,7 @@ Contents
 |[RESE-0603-X-O100-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|[SMD (0603) 10 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|[R23](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|
 |[RESE-0603-X-O473-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|[SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|[R24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
 |RESE-0603-X-O1003-01||R25, R26|
-|RESA-06038-X-O103X4-01||R27|
+|[RESA-06038-X-O103X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[SMD (0603-8) 10k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[R27](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|
 |[BUTA-4628-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|[SMD (4628) Pushbutton (Tactile)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|[SW3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/BUTA-4628-X-STAN-01/)|
 |UNMATCHED-SO235-X-UNMATCHED-01||U6, U7|
 
@@ -108,7 +109,7 @@ Contents
 - oompParts: D5,DIOD-S323-X-UNMATCHED-01
 - oompParts: D6,DIOD-S323-X-UNMATCHED-01
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
-- oompParts: I2C1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: I2C1,HEAD-JSTSH-X-PI04-RS
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC3,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: L1,LEDS-0805-R-STAN-01

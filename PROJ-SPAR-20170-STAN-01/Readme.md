@@ -40,8 +40,9 @@ Contents
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |LEDS-0402-R-STAN-01||D1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, JP1, JP2, JP3, U1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, LOGO3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |HEAD-UNMATCHED-X-PI01-01||J2, J3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP1, JP2, JP3, U1|
 |[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
 |[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
 |[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
@@ -68,12 +69,13 @@ Contents
 - oompID: PROJ-SPAR-20170-STAN-01
 - oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: D1,LEDS-0402-R-STAN-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J2,HEAD-UNMATCHED-X-PI01-01
 - oompParts: J3,HEAD-UNMATCHED-X-PI01-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0402-X-O222-01
 - oompParts: R2,RESE-0402-X-O222-01
 - oompParts: R3,RESE-0402-X-O103-01

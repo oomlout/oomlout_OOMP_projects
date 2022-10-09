@@ -46,7 +46,8 @@ Contents
 |DIOD-S323-X-UNMATCHED-01||D1, D5|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D3, D8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |[LEDS-0603-Y-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[SMD (0603) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, J1, J2, J3, J4, J5, J6, J7, J8, J10, MEAS, S1, S2, S3, U5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, J1, J3, J5, J6, J7, J8, J10, MEAS, S1, S2, S3, U5|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J4, LOGO1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[J9, J11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 |HEAD-I01-X-PI01-01||J13|
 |MOSP-SO23-X-UNMATCHED-01||Q1|
@@ -94,9 +95,9 @@ Contents
 - oompParts: D8,LEDS-0603-R-STAN-01
 - oompParts: F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -105,6 +106,7 @@ Contents
 - oompParts: J10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J11,HEAD-I01-X-PI03-01
 - oompParts: J13,HEAD-I01-X-PI01-01
+- oompParts: LOGO1,HEAD-JSTSH-X-PI04-RS
 - oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,MOSP-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O472-01

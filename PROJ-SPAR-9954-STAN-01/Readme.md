@@ -34,7 +34,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0402-X-PF18-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[SMD (0402) 18 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||JP1, JP2, JP3, JP4, Q1, S1, U1, U2, U3|
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
@@ -70,7 +70,7 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/9954
 - oompID: PROJ-SPAR-9954-STAN-01
 - oompParts: C1,CAPC-0402-X-NF100-V10
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0402-X-PF18-V50
 - oompParts: C4,CAPC-0402-X-PF18-V50
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3, C4, C5, C6, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C7, C9|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C7, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPX-3528-X-UF47-01||C8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, IC2, IC3, IC4, U2, U3, ULN2803|
 |[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
@@ -71,9 +71,9 @@ Contents
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
 - oompParts: C8,CAPX-3528-X-UF47-01
-- oompParts: C9,CAPT-3216-X-UF10-01
+- oompParts: C9,CAPT-3216-X-UF10-V10
 - oompParts: C10,CAPC-0603-X-NF100-V50
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -43,7 +43,7 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C5, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPC-0402-X-PF12D-01||C7, C9|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|HEAD-I01-X-UNMATCHED-01||CONN1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S323-X-UNMATCHED-01||D1, D2|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, SWC1, SWC2, X1, X2, X6|
 |[HEAD-I01-X-PI07-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[JP1, JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
@@ -87,7 +87,7 @@ Contents
 - oompParts: C11,CAPC-0402-X-NF100-V10
 - oompParts: C12,CAPC-0402-X-UF1-V63D
 - oompParts: C19,CAPC-0603-X-UF1-V25
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

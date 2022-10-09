@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C7|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C3, C4, C5, C6, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1|
 |LEDS-1206-Y-STAN-01||D2|
@@ -74,13 +74,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/XBee_Explorer_Serial (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9111
 - oompID: PROJ-SPAR-9111-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
 - oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
 - oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,LEDS-1206-Y-STAN-01

@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C2, C6, C12, C14|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C2, C6, C12, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C3, C5, C8, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C4, C7, C10, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPC-0402-X-NF470-01||C9, C11, C16|
@@ -72,20 +72,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Run-SPOT-Run (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11088
 - oompID: PROJ-SPAR-11088-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0402-X-UF1-V63D
 - oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPC-0402-X-UF1-V63D
-- oompParts: C6,CAPT-3216-X-UF10-01
+- oompParts: C6,CAPT-3216-X-UF10-V10
 - oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-UF1-V63D
 - oompParts: C9,CAPC-0402-X-NF470-01
 - oompParts: C10,CAPC-0402-X-NF100-V10
 - oompParts: C11,CAPC-0402-X-NF470-01
-- oompParts: C12,CAPT-3216-X-UF10-01
+- oompParts: C12,CAPT-3216-X-UF10-V10
 - oompParts: C13,CAPC-0402-X-UF1-V63D
-- oompParts: C14,CAPT-3216-X-UF10-01
+- oompParts: C14,CAPT-3216-X-UF10-V10
 - oompParts: C15,CAPC-0402-X-NF100-V10
 - oompParts: C16,CAPC-0402-X-NF470-01
 - oompParts: JP2,HEAD-I01-X-PI05-01

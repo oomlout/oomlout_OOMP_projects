@@ -36,7 +36,7 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C7, C8, C9, C10, C11, C12, C13, C15, C17, C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |[CAPC-0402-X-PF18-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[SMD (0402) 18 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF18-V50/)|
 |[CAPC-1206-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[SMD (1206) 10 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|[C5, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-1206-X-UF10-V25/)|
-|CAPT-3216-X-UF10-01||C19, C20|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C19, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |FERB-0805-X-UNMATCHED-01||FB1, FB2, FB3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC2, S2, U1, U2, U3, U4, U5, U6, U7, Y1|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -87,8 +87,8 @@ Contents
 - oompParts: C14,CAPC-1206-X-UF10-V25
 - oompParts: C15,CAPC-0402-X-NF100-V10
 - oompParts: C17,CAPC-0402-X-NF100-V10
-- oompParts: C19,CAPT-3216-X-UF10-01
-- oompParts: C20,CAPT-3216-X-UF10-01
+- oompParts: C19,CAPT-3216-X-UF10-V10
+- oompParts: C20,CAPT-3216-X-UF10-V10
 - oompParts: C21,CAPC-0402-X-NF100-V10
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: FB2,FERB-0805-X-UNMATCHED-01

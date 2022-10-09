@@ -43,10 +43,11 @@ Contents
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |[LEDS-0603-Y-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[SMD (0603) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
 |DIOD-S323-X-UNMATCHED-01||D5, D6|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J4, J5, J6, J7, J10, JMP1, JMP2, L1, L2, L4, PCB1, Q1, Q2, Q4, Q5, TP1, TP2, TP3, TP4, TP5, TP6, U$31, U$32, U1, U3, U5, U6, U8, U12, Y1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J4, J5, J6, J7, JMP1, JMP2, L1, L2, L4, PCB1, Q1, Q2, Q4, Q5, TP1, TP2, TP3, TP4, TP5, TP6, U$31, U$32, U1, U3, U5, U6, U8, U12, Y1|
 |[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
 |[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[2.54 mm 16 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI16-01/)|
 |HEAD-I01-X-UNMATCHED-01||J8|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |UNMATCHED-SO23-X-UNMATCHED-01||Q3|
 |RESE-0402-X-O1003-01||R1, R3, R5, R6, R7, R8, R10, R13, R23|
 |[RESE-0402-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[SMD (0402) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|[R2, R9, R19](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O105-01/)|
@@ -112,7 +113,7 @@ Contents
 - oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J8,HEAD-I01-X-UNMATCHED-01
-- oompParts: J10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J10,HEAD-JSTSH-X-PI04-RS
 - oompParts: JMP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JMP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

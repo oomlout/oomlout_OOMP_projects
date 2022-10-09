@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C4, C5, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C2, C3|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |HEAD-I01-X-UNMATCHED-01||J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP1, JP6, JP7, JP9, JP10, JP11, JP12, JP13, JP14, JP15, JP16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP2, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
@@ -76,8 +76,8 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/11323
 - oompID: PROJ-SPAR-11323-STAN-01
 - oompParts: C1,CAPC-0402-X-NF100-V10
-- oompParts: C2,CAPT-3216-X-UF10-01
-- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
+- oompParts: C3,CAPT-3216-X-UF10-V10
 - oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPC-0402-X-NF100-V10
 - oompParts: C6,CAPC-0402-X-NF100-V10

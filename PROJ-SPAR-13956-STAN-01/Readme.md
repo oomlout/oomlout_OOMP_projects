@@ -40,7 +40,7 @@ Contents
 | :---: | :---: | :---: |
 |CAPC-0603-X-UNMATCHED-01||C1, C8|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C5, C6, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C13, C14|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C13, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
 |DIOD-S323-X-UNMATCHED-01||D5, D6, D7, D8, D9, D10|
@@ -79,8 +79,8 @@ Contents
 - oompParts: C6,CAPC-0603-X-NF100-V50
 - oompParts: C7,CAPC-0603-X-NF100-V50
 - oompParts: C8,CAPC-0603-X-UNMATCHED-01
-- oompParts: C13,CAPT-3216-X-UF10-01
-- oompParts: C14,CAPT-3216-X-UF10-01
+- oompParts: C13,CAPT-3216-X-UF10-V10
+- oompParts: C14,CAPT-3216-X-UF10-V10
 - oompParts: D1,LEDS-0603-L-STAN-01
 - oompParts: D3,LEDS-0603-G-STAN-01
 - oompParts: D5,DIOD-S323-X-UNMATCHED-01

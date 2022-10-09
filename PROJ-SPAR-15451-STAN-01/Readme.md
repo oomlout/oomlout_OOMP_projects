@@ -44,10 +44,11 @@ Contents
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
 |[TERS-35D-L-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[3.5 mm 4 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, J4, TP1, TP2, TP3, TP4, TP5, TP6, U1, U2|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J3, J4, U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[RESE-0603-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |RESE-0603-X-O10-01||R4, R5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||TP1, TP2, TP3, TP4, TP5, TP6, U1, U2|
 
 ## Images
   
@@ -81,8 +82,8 @@ Contents
 - oompParts: D1,LEDS-0603-L-STAN-01
 - oompParts: J1,TERS-35D-L-PI02-01
 - oompParts: J2,TERS-35D-L-PI04-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0603-X-O471-01
 - oompParts: R2,RESE-0603-X-O472-01
 - oompParts: R3,RESE-0603-X-O472-01
@@ -94,6 +95,7 @@ Contents
 - oompParts: TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$1,HEAD-JSTSH-X-PI04-RS
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10uF,10UF-0805-25V-10%,0805,10.0ÃÂµF ceramic capacitors,CAP-14259,10uF,

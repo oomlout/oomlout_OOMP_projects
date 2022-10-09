@@ -45,7 +45,7 @@ Contents
 |[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C19, C23, C24, C25, C26, C27, C28, C30, C31](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
 |CAPC-0805-X-UNMATCHED-V25||C29|
 |LEDS-0603-O-STAN-01||CHG1|
-|HEAD-I01-X-UNMATCHED-01||CONN1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S323-X-UNMATCHED-01||D1, D6|
 |DIOD-S123-X-UNMATCHED-01||D2, D3, D4, D5|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||EINK2, IC4, L1, SENSE, SENSE1, SP1, SW1, SW2, SW3, SW4, SW5, SW6, SW7, U1, U3, X1, X4|
@@ -116,7 +116,7 @@ Contents
 - oompParts: C30,CAPC-0805-X-UF1-V25
 - oompParts: C31,CAPC-0805-X-UF1-V25
 - oompParts: CHG1,LEDS-0603-O-STAN-01
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S123-X-UNMATCHED-01
 - oompParts: D3,DIOD-S123-X-UNMATCHED-01

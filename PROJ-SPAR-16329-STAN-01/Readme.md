@@ -48,7 +48,7 @@ Contents
 |DIOD-UNMATCHED-X-UNMATCHED-01||D4|
 |FERB-0603-X-UNMATCHED-01||FB1|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1, J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J3, J4|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J3, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI07-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
 |RESE-0603-X-O270-01||R1, R2|
 |RESE-0603-X-O1003-01||R3|
@@ -92,8 +92,8 @@ Contents
 - oompParts: FB1,FERB-0603-X-UNMATCHED-01
 - oompParts: J1,HEAD-I01-X-PI04-01
 - oompParts: J2,HEAD-I01-X-PI04-01
-- oompParts: J3,HEAD-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,HEAD-I01-X-PI07-01
 - oompParts: J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01

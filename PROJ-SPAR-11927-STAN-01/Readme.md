@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C3|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
 |[CAPC-0603-X-UF47D-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[SMD (0603) 4.7 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF47D-V10/)|
 |[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
@@ -78,9 +78,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/BC127_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/11927
 - oompID: PROJ-SPAR-11927-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
 - oompParts: C2,CAPC-0805-X-UF1-V25
-- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPT-3216-X-UF10-V10
 - oompParts: C4,CAPC-0603-X-UF47D-V10
 - oompParts: D1,LEDS-0603-G-STAN-01
 - oompParts: D2,LEDS-0603-R-STAN-01

@@ -57,10 +57,10 @@ Contents
 |FERB-0805-X-UNMATCHED-01||FB2, FB1|
 |[RESE-0603-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[SMD (0603) 100 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|[R18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O101-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|RESA-06038-X-O103X4-01||R19, R14|
+|[RESA-06038-X-O103X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[SMD (0603-8) 10k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|[R19, R14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O103X4-01/)|
 |[RESE-0603-X-O100-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|[SMD (0603) 10 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|[R23, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O100-01/)|
 |UNMATCHED-0805-X-UNMATCHED-01||L0, CHG0|
-|HEAD-I01-X-UNMATCHED-01||CONN1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 
 ## Images
   
@@ -187,7 +187,7 @@ Contents
 - oompParts: L0,UNMATCHED-0805-X-UNMATCHED-01
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: R20,RESE-0603-X-UNMATCHED-01
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
 - oompParts: CHG0,UNMATCHED-0805-X-UNMATCHED-01
 - oompParts: TFT2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TFT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -38,9 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BT1, F2, J1, J2, J4, J6, J19, J20, MEAS, S1, S2, U5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BT1, F2, J1, J2, J4, J6, MEAS, S1, S2, U5|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPC-0603-X-UNMATCHED-01||C5|
 |[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C7, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
 |DIOD-S323-X-UNMATCHED-01||D1, D6, D7|
@@ -50,6 +50,7 @@ Contents
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J8, J9, J11, J16, J21, J22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[2.54 mm 12 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|[J12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI12-01/)|
 |[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[J13, J14, J15, J17, J18, J23, J24, J25, J26](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J19, J20, LOGO2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1, R4, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R2, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |RESE-0603-X-O1003-01||R5|
@@ -78,7 +79,7 @@ Contents
 - oompID: PROJ-SPAR-16885-STAN-01
 - oompParts: BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: C1,CAPC-0603-X-NF100-V50
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C5,CAPC-0603-X-UNMATCHED-01
 - oompParts: C6,CAPC-0603-X-NF100-V50
 - oompParts: C7,CAPC-0603-X-NF220-V25
@@ -106,14 +107,15 @@ Contents
 - oompParts: J16,HEAD-I01-X-PI04-01
 - oompParts: J17,HEAD-I01-X-PI08-01
 - oompParts: J18,HEAD-I01-X-PI08-01
-- oompParts: J19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J19,HEAD-JSTSH-X-PI04-RS
+- oompParts: J20,HEAD-JSTSH-X-PI04-RS
 - oompParts: J21,HEAD-I01-X-PI04-01
 - oompParts: J22,HEAD-I01-X-PI04-01
 - oompParts: J23,HEAD-I01-X-PI08-01
 - oompParts: J24,HEAD-I01-X-PI08-01
 - oompParts: J25,HEAD-I01-X-PI08-01
 - oompParts: J26,HEAD-I01-X-PI08-01
+- oompParts: LOGO2,HEAD-JSTSH-X-PI04-RS
 - oompParts: MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O102-01
 - oompParts: R2,RESE-0603-X-O472-01

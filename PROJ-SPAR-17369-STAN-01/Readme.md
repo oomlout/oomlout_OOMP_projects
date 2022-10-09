@@ -54,7 +54,8 @@ Contents
 |DIOD-0402-X-UNMATCHED-01||D14|
 |FERB-0402-X-UNMATCHED-01||FB1|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1, J11, J12, J17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J2, J4, J9, J13|
+|HEAD-UNMATCHED-X-UNMATCHED-01||J2, J9|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J4, J13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |HEAD-I01-X-UNMATCHED-01||J6, J7|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J10, J14, J15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
@@ -130,7 +131,7 @@ Contents
 - oompParts: J1,HEAD-I01-X-PI04-01
 - oompParts: J2,HEAD-UNMATCHED-X-UNMATCHED-01
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,HEAD-I01-X-UNMATCHED-01
 - oompParts: J7,HEAD-I01-X-UNMATCHED-01
@@ -139,7 +140,7 @@ Contents
 - oompParts: J10,HEAD-I01-X-PI02-01
 - oompParts: J11,HEAD-I01-X-PI04-01
 - oompParts: J12,HEAD-I01-X-PI04-01
-- oompParts: J13,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J13,HEAD-JSTSH-X-PI04-RS
 - oompParts: J14,HEAD-I01-X-PI02-01
 - oompParts: J15,HEAD-I01-X-PI02-01
 - oompParts: J16,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -41,7 +41,7 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C4, C6, C8, C18, C19, C20, C21, C23, C24, C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPX-3528-X-UF47-01||C2|
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C3, C13, C26, C27, C28, C29](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
-|CAPT-3216-X-UF10-01||C5, C7, C22|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C5, C7, C22](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
 |[CAPC-0402-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[SMD (0402) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[C11, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
 |[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[SMD (0402) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[C14, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
@@ -92,9 +92,9 @@ Contents
 - oompParts: C2,CAPX-3528-X-UF47-01
 - oompParts: C3,CAPC-0402-X-UF1-V63D
 - oompParts: C4,CAPC-0402-X-NF100-V10
-- oompParts: C5,CAPT-3216-X-UF10-01
+- oompParts: C5,CAPT-3216-X-UF10-V10
 - oompParts: C6,CAPC-0402-X-NF100-V10
-- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
 - oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: C9,CAPC-0402-X-UF47D-V63D
 - oompParts: C10,CAPC-0402-X-UF47D-V63D
@@ -109,7 +109,7 @@ Contents
 - oompParts: C19,CAPC-0402-X-NF100-V10
 - oompParts: C20,CAPC-0402-X-NF100-V10
 - oompParts: C21,CAPC-0402-X-NF100-V10
-- oompParts: C22,CAPT-3216-X-UF10-01
+- oompParts: C22,CAPT-3216-X-UF10-V10
 - oompParts: C23,CAPC-0402-X-NF100-V10
 - oompParts: C24,CAPC-0402-X-NF100-V10
 - oompParts: C25,CAPC-0402-X-NF100-V10

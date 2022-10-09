@@ -54,7 +54,7 @@
         },
         {
             "name": "oompParts",
-            "value": "C2,CAPT-3216-X-UF10-01"
+            "value": "C2,CAPT-3216-X-UF10-V10"
         },
         {
             "name": "oompParts",
@@ -278,7 +278,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J7,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -339,6 +339,10 @@
         {
             "name": "oompParts",
             "value": "L2,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO2,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",

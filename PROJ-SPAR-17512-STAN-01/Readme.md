@@ -40,7 +40,7 @@ Contents
 | :---: | :---: | :---: |
 |HEAD-I01-X-UNMATCHED-01||J1|
 |HEAD-I01-X-PI2X20-01||J2|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, J5|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J3, J5, LOGO1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 
 ## Images
   
@@ -64,8 +64,9 @@ Contents
 - oompID: PROJ-SPAR-17512-STAN-01
 - oompParts: J1,HEAD-I01-X-UNMATCHED-01
 - oompParts: J2,HEAD-I01-X-PI2X20-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
+- oompParts: J5,HEAD-JSTSH-X-PI04-RS
+- oompParts: LOGO1,HEAD-JSTSH-X-PI04-RS
 - rawParts: FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
 - rawParts: FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,
 - rawParts: FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,

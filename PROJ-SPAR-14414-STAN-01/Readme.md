@@ -44,7 +44,7 @@ Contents
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |DIOD-S323-X-UNMATCHED-01||D2|
 |FERB-0603-X-UNMATCHED-01||FB1|
-|HEAD-UNMATCHED-X-PI04-01||J2, J4|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |HEAD-I01-X-PI01-01||J5|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
@@ -83,9 +83,9 @@ Contents
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: FB1,FERB-0603-X-UNMATCHED-01
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI04-01
-- oompParts: J4,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,HEAD-I01-X-PI01-01
 - oompParts: J7,HEAD-I01-X-PI05-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

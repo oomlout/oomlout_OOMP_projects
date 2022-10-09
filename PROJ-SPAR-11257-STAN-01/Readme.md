@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C3, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C4|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPX-3528-X-UF68-01||C5|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1|
 |UNMATCHED-SO235-X-UNMATCHED-01||IC1|
@@ -75,7 +75,7 @@ Contents
 - oompParts: C1,CAPC-0402-X-NF100-V10
 - oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPC-0402-X-NF100-V10
-- oompParts: C4,CAPT-3216-X-UF10-01
+- oompParts: C4,CAPT-3216-X-UF10-V10
 - oompParts: C5,CAPX-3528-X-UF68-01
 - oompParts: C10,CAPC-0402-X-NF100-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01

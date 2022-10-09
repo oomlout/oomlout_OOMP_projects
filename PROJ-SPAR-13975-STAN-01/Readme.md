@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2, C4, C8, C10, C12, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
-|CAPT-3216-X-UF10-01||C3, C6, C15|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C3, C6, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPE-PAND-X-UF47-01||C5|
 |CAPC-0603-X-UNMATCHED-01||C7|
 |CAPC-0603-X-PF47-01||C9, C13|
@@ -86,10 +86,10 @@ Contents
 - oompID: PROJ-SPAR-13975-STAN-01
 - oompParts: C1,CAPC-0603-X-NF100-V50
 - oompParts: C2,CAPC-0603-X-NF100-V50
-- oompParts: C3,CAPT-3216-X-UF10-01
+- oompParts: C3,CAPT-3216-X-UF10-V10
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: C5,CAPE-PAND-X-UF47-01
-- oompParts: C6,CAPT-3216-X-UF10-01
+- oompParts: C6,CAPT-3216-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-UNMATCHED-01
 - oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: C9,CAPC-0603-X-PF47-01
@@ -97,7 +97,7 @@ Contents
 - oompParts: C12,CAPC-0603-X-NF100-V50
 - oompParts: C13,CAPC-0603-X-PF47-01
 - oompParts: C14,CAPC-0603-X-NF100-V50
-- oompParts: C15,CAPT-3216-X-UF10-01
+- oompParts: C15,CAPT-3216-X-UF10-V10
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: F1,UNMATCHED-1206-X-UNMATCHED-01
 - oompParts: IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

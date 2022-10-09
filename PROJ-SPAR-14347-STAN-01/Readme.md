@@ -42,7 +42,7 @@ Contents
 |[CAPC-0603-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[SMD (0603) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF10-V63D/)|
 |[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
 |LEDS-UNMATCHED-G-STAN-01||D2, D4|
-|HEAD-UNMATCHED-X-PI04-01||J1, J4|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |HEAD-I01-X-UNMATCHED-01||J2|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
@@ -76,10 +76,10 @@ Contents
 - oompParts: D1,LEDS-0603-L-STAN-01
 - oompParts: D2,LEDS-UNMATCHED-G-STAN-01
 - oompParts: D4,LEDS-UNMATCHED-G-STAN-01
-- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J2,HEAD-I01-X-UNMATCHED-01
 - oompParts: J3,HEAD-I01-X-PI02-01
-- oompParts: J4,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J8,HEAD-I01-X-PI04-01
 - oompParts: JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01

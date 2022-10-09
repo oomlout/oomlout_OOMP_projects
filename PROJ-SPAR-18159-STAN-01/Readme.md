@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3_QWIIC, I2C, J9, J16, JP7, S1, S3, TP1, TP2, TP4, TP5, TP6, TP7, TP8, TP9, U1, U3, U4, U5, U6, U7, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[3V3_QWIIC, J4, LOGO3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[SMD (0402) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[C1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
 |[CAPC-0402-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|[C2, C5, C6, C11, C27](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF10-V63D/)|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C3, C4, C8, C10, C12, C13, C15, C16, C17, C18, C19, C21, C22, C23, C24, C26, C28, C29, C31, C36, C37, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C59, C73, C74, C75, C76, C77, C78, C79, C80](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
@@ -55,9 +55,9 @@ Contents
 |LEDS-UNMATCHED-RGB-STAN-01||D4|
 |FERB-0603-X-UNMATCHED-01||FB1, FB2, FB3|
 |FERB-0805-X-UNMATCHED-01||FB4, FB5|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C, J9, J16, JP7, S1, S3, TP1, TP2, TP4, TP5, TP6, TP7, TP8, TP9, U1, U3, U4, U5, U6, U7, Y1|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J1, J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |HEAD-I01-X-PI01-01||J3, J6, J7, J8, J17|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J4|
 |HEAD-I01-X-UNMATCHED-01||J10, J11, J13, J18|
 |[HEAD-I01-X-PI2X10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|[2.54 mm 20 Pin (2x10) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|[J14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X10-01/)|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
@@ -98,7 +98,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/18159
 - oompID: PROJ-SPAR-18159-STAN-01
-- oompParts: 3V3_QWIIC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: 3V3_QWIIC,HEAD-JSTSH-X-PI04-RS
 - oompParts: C1,CAPC-0402-X-NF10-V50
 - oompParts: C2,CAPC-0402-X-UF10-V63D
 - oompParts: C3,CAPC-0402-X-NF100-V10
@@ -189,7 +189,7 @@ Contents
 - oompParts: J1,HEAD-I01-X-PI02-01
 - oompParts: J2,HEAD-I01-X-PI02-01
 - oompParts: J3,HEAD-I01-X-PI01-01
-- oompParts: J4,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J6,HEAD-I01-X-PI01-01
 - oompParts: J7,HEAD-I01-X-PI01-01
 - oompParts: J8,HEAD-I01-X-PI01-01
@@ -204,6 +204,7 @@ Contents
 - oompParts: J18,HEAD-I01-X-UNMATCHED-01
 - oompParts: JP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: L1,UNMATCHED-0805-X-UNMATCHED-01
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: Q1,MOSP-SO23-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O330-01
 - oompParts: R2,RESE-0603-X-O105-01

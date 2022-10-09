@@ -38,7 +38,8 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J2, J3, J4, J5|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J2, J3, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J5|
 |MOSN-SO23-X-UNMATCHED-01||Q1, Q2|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 
@@ -62,10 +63,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Qwiic_Shield_for_Arduino_Nano (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16789
 - oompID: PROJ-SPAR-16789-STAN-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
+- oompParts: J4,HEAD-JSTSH-X-PI04-RS
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q1,MOSN-SO23-X-UNMATCHED-01
 - oompParts: Q2,MOSN-SO23-X-UNMATCHED-01

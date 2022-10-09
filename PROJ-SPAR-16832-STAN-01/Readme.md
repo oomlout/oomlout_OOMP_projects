@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BT1, J2, J5, J6, J11, J14, JP2, LOGO3, U8, U10, U13, U14, VE, Y3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||BT1, J2, J5, J6, J14, JP2, LOGO3, U8, U10, U13, U14, VE, Y3|
 |CAPC-0402-X-UNMATCHED-01||C1, C33, C44, C53, C54|
 |CAPC-0402-X-UF22D-01||C2, C7|
 |[CAPC-0402-X-UF47D-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF47D-V63D/)|
@@ -53,6 +53,7 @@ Contents
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J1, J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
 |HEAD-I01-X-PI01-01||J7|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J11, QWIIC_3.3V](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1, Q3, Q7, Q9, Q10|
 |MOSP-SO23-X-UNMATCHED-01||Q2|
@@ -126,7 +127,7 @@ Contents
 - oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J7,HEAD-I01-X-PI01-01
-- oompParts: J11,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J11,HEAD-JSTSH-X-PI04-RS
 - oompParts: J14,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: LED1,LEDS-0603-R-STAN-01
@@ -137,6 +138,7 @@ Contents
 - oompParts: Q7,MOSN-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q9,MOSN-UNMATCHED-X-UNMATCHED-01
 - oompParts: Q10,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: QWIIC_3.3V,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0402-X-O222-01
 - oompParts: R2,RESE-0402-X-O3303-01
 - oompParts: R3,RESE-0402-X-O2203-01

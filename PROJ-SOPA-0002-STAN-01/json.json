@@ -226,15 +226,15 @@
         },
         {
             "name": "oompParts",
-            "value": "U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U5,UNMATCHED-SO235-X-UNMATCHED-01"
         },
         {
             "name": "oompParts",
-            "value": "U2,VREG-UNMATCHED-X-KAP2112K-01"
+            "value": "U2,VREG-SO235-X-KAP2112K-V33D"
         },
         {
             "name": "oompParts",
-            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -270,7 +270,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U6,UNMATCHED-SO235-X-UNMATCHED-01"
         },
         {
             "name": "rawParts",

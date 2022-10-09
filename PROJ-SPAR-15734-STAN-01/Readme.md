@@ -44,13 +44,14 @@ Contents
 |[CAPC-0402-X-PF12-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[SMD (0402) 12 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|[C10, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF12-V50/)|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |FERB-0402-X-UNMATCHED-01||FB1|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J2, U1, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J2, LOGO3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[J3, J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |HEAD-I01-X-PI01-01||J7, J8|
 |[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R1, R2, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
 |RESE-0402-X-UNMATCHED-01||R3|
 |RESE-0603-X-UNMATCHED-01||R4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, Y1|
 
 ## Images
   
@@ -85,13 +86,14 @@ Contents
 - oompParts: C12,CAPC-0402-X-PF12-V50
 - oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: FB1,FERB-0402-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI08-01
 - oompParts: J4,HEAD-I01-X-PI05-01
 - oompParts: J5,HEAD-I01-X-PI08-01
 - oompParts: J7,HEAD-I01-X-PI01-01
 - oompParts: J8,HEAD-I01-X-PI01-01
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0402-X-O103-01
 - oompParts: R2,RESE-0402-X-O103-01
 - oompParts: R3,RESE-0402-X-UNMATCHED-01

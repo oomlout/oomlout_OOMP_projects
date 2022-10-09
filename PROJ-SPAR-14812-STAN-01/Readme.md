@@ -48,7 +48,8 @@ Contents
 |DIOD-UNMATCHED-X-K2812-01||D7|
 |REFU-1206-X-UNMATCHED-01||F1|
 |HEAD-I01-X-UNMATCHED-01||J1, JP7|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J2, J3, JP6, Q2, S1, U4, U5, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J3, JP6, Q2, S1, U4, U5, Y1|
 |[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
 |UNMATCHED-0603-X-UNMATCHED-01||L1|
 |UNMATCHED-SO23-X-UNMATCHED-01||Q1|
@@ -104,7 +105,7 @@ Contents
 - oompParts: D7,DIOD-UNMATCHED-X-K2812-01
 - oompParts: F1,REFU-1206-X-UNMATCHED-01
 - oompParts: J1,HEAD-I01-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP3,DCJP-21D-X-STAN-01
 - oompParts: JP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01

@@ -43,9 +43,10 @@ Contents
 |[CAPC-0805-X-UF22-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[SMD (0805) 22 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF22-V63D/)|
 |CAPC-0603-X-UNMATCHED-01||C5|
 |CAPC-0402-X-UNMATCHED-01||C6, C7|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J2, L1, LOGO4, U$2, U1, U2, U3, Y1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |HEAD-I01-X-PI01-01||J4|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||L1, LOGO4, U$2, U1, U2, U3, Y1|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R1, R2, R5, R6, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |RESE-0603-X-O7503-01||R3|
 |RESE-0402-X-O1003-01||R4|
@@ -77,8 +78,8 @@ Contents
 - oompParts: C5,CAPC-0603-X-UNMATCHED-01
 - oompParts: C6,CAPC-0402-X-UNMATCHED-01
 - oompParts: C7,CAPC-0402-X-UNMATCHED-01
-- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI05-01
 - oompParts: J4,HEAD-I01-X-PI01-01
 - oompParts: L1,UNMATCHED-UNMATCHED-X-UNMATCHED-01

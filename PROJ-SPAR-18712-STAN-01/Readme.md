@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |HEAD-I01-X-PI01-01||!RESET, EN, GND, J13, SC1+, SC1-, SC2+, SC2-|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3SW, B1, DEBUG, J1, J2, J3, J5, J6, J7, L1, QWIIC, S1, U1, U2, U3, U4, U5, U6, U7, U11, X1, X2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||3V3SW, B1, DEBUG, J1, J2, J3, J5, J6, J7, L1, S1, U1, U2, U3, U4, U5, U6, U7, U11, X1, X2|
 |[CAPC-0603-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[SMD (0603) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[C1, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
 |[CAPC-0603-X-UF22D-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|[SMD (0603) 2.2 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
 |CAPC-0603-X-UNMATCHED-01||C3, C10, C23, C24, C27|
@@ -63,6 +63,7 @@ Contents
 |MOSN-SO23-X-UNMATCHED-01||Q1|
 |MOSP-SO23-X-UNMATCHED-01||Q2, Q3, Q6|
 |UNMATCHED-SO23-X-UNMATCHED-01||Q4, U8|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[QWIIC](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |RESE-0402-X-O331-01||R1|
 |[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[SMD (0402) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|[R2, R3, R12, R16, R21, R25, R29](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O102-01/)|
 |[RESE-0402-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|[SMD (0402) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|[R4, R20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O472-01/)|
@@ -168,7 +169,7 @@ Contents
 - oompParts: Q3,MOSP-SO23-X-UNMATCHED-01
 - oompParts: Q4,UNMATCHED-SO23-X-UNMATCHED-01
 - oompParts: Q6,MOSP-SO23-X-UNMATCHED-01
-- oompParts: QWIIC,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: QWIIC,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0402-X-O331-01
 - oompParts: R2,RESE-0402-X-O102-01
 - oompParts: R3,RESE-0402-X-O102-01

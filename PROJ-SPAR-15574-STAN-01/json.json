@@ -154,7 +154,11 @@
         },
         {
             "name": "oompParts",
-            "value": "J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "J6,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO2,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",

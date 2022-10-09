@@ -41,7 +41,7 @@ Contents
 |[TERS-35D-L-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[3.5 mm 4 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[2MM1, 2MM2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C1, C2, C3, C4, C5, C6, C7, C8, C11, C12, C15, C18, C19, C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
-|CAPT-3216-X-UF10-01||C13, C17|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C13, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |CAPE-PANG-X-UF100-01||C14|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C16, C20](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |DIOD-D214-X-UNMATCHED-01||D1|
@@ -103,11 +103,11 @@ Contents
 - oompParts: C10,CAPC-0603-X-NF220-V25
 - oompParts: C11,CAPC-0603-X-NF100-V50
 - oompParts: C12,CAPC-0603-X-NF100-V50
-- oompParts: C13,CAPT-3216-X-UF10-01
+- oompParts: C13,CAPT-3216-X-UF10-V10
 - oompParts: C14,CAPE-PANG-X-UF100-01
 - oompParts: C15,CAPC-0603-X-NF100-V50
 - oompParts: C16,CAPC-0603-X-UF1-V25
-- oompParts: C17,CAPT-3216-X-UF10-01
+- oompParts: C17,CAPT-3216-X-UF10-V10
 - oompParts: C18,CAPC-0603-X-NF100-V50
 - oompParts: C19,CAPC-0603-X-NF100-V50
 - oompParts: C20,CAPC-0603-X-UF1-V25

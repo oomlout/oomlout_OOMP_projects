@@ -41,7 +41,7 @@ Contents
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |LEDS-0402-R-STAN-01||D1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C_PU, U1|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, LOGO1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |HEAD-UNMATCHED-X-PI01-01||J3, J4|
 |[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
 |[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[SMD (0402) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|[R3, R5, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O103-01/)|
@@ -71,9 +71,10 @@ Contents
 - oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: D1,LEDS-0402-R-STAN-01
 - oompParts: I2C_PU,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J1,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-UNMATCHED-X-PI01-01
 - oompParts: J4,HEAD-UNMATCHED-X-PI01-01
+- oompParts: LOGO1,HEAD-JSTSH-X-PI04-RS
 - oompParts: R1,RESE-0402-X-O222-01
 - oompParts: R2,RESE-0402-X-O222-01
 - oompParts: R3,RESE-0402-X-O103-01

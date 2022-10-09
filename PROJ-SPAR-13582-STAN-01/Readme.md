@@ -41,7 +41,7 @@ Contents
 |CAPC-0603-X-UNMATCHED-01||C1, C2, C3|
 |[CAPC-0603-X-UF22D-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|[SMD (0603) 2.2 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|[C4, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF22D-V10/)|
 |CAPC-0603-X-PF470-01||C5, C6|
-|CAPT-3216-X-UF10-01||C8|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |LEDS-1206-G-STAN-01||D1, D2, D3, D4, D5, D6, D7, D8, D9|
 |HEAD-I01-X-UNMATCHED-01||JP1|
 |HEAD-I01-X-PI01-01||JP2|
@@ -81,7 +81,7 @@ Contents
 - oompParts: C5,CAPC-0603-X-PF470-01
 - oompParts: C6,CAPC-0603-X-PF470-01
 - oompParts: C7,CAPC-0603-X-UF22D-V10
-- oompParts: C8,CAPT-3216-X-UF10-01
+- oompParts: C8,CAPT-3216-X-UF10-V10
 - oompParts: D1,LEDS-1206-G-STAN-01
 - oompParts: D2,LEDS-1206-G-STAN-01
 - oompParts: D3,LEDS-1206-G-STAN-01

@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C34](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|HEAD-I01-X-UNMATCHED-01||CONN1, CONN3|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1, CONN3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S323-X-UNMATCHED-01||D1, D2|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||NEOPIX, RPI1, RPI3, SENSE|
 |[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
@@ -66,8 +66,8 @@ Contents
 - oompID: PROJ-ADAF-4863-STAN-01
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C34,CAPC-0805-X-UF10-V10
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
-- oompParts: CONN3,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
+- oompParts: CONN3,HEAD-JSTSH-X-PI04-RS
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: D2,DIOD-S323-X-UNMATCHED-01
 - oompParts: NEOPIX,UNMATCHED-UNMATCHED-X-UNMATCHED-01

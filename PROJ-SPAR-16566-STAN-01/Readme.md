@@ -47,7 +47,7 @@ Contents
 |DIOD-UNMATCHED-X-UNMATCHED-01||D3|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J2, J3|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
 |TERS-UNMATCHED-X-UNMATCHED-01||J5, J6, J7, J8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||K1, K2, K3, K4, L1, U2, U3, U4|
@@ -97,8 +97,8 @@ Contents
 - oompParts: D11,LEDS-0603-R-STAN-01
 - oompParts: D12,DIOD-S323-X-UNMATCHED-01
 - oompParts: J1,HEAD-I01-X-PI04-01
-- oompParts: J2,HEAD-UNMATCHED-X-UNMATCHED-01
-- oompParts: J3,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
+- oompParts: J3,HEAD-JSTSH-X-PI04-RS
 - oompParts: J4,DCJP-21D-X-STAN-01
 - oompParts: J5,TERS-UNMATCHED-X-UNMATCHED-01
 - oompParts: J6,TERS-UNMATCHED-X-UNMATCHED-01

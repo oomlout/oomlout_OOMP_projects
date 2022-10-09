@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |CAPC-0603-X-UNMATCHED-01||C1, C3|
-|HEAD-UNMATCHED-X-PI04-01||J1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |HEAD-I01-X-UNMATCHED-01||J9|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$4|
 |[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|[U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/VREG-SO235-X-KAP2112K-V33D/)|
@@ -66,7 +66,7 @@ Contents
 - oompID: PROJ-SPAR-15794-STAN-01
 - oompParts: C1,CAPC-0603-X-UNMATCHED-01
 - oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J9,HEAD-I01-X-UNMATCHED-01
 - oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D

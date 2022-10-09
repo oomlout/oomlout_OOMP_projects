@@ -42,7 +42,7 @@ Contents
 |CAPC-0603-X-UNMATCHED-01||C2|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
 |LEDS-1206-G-STAN-01||D3|
-|HEAD-UNMATCHED-X-UNMATCHED-01||J1, J2|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J2, U$17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1, R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
@@ -74,8 +74,8 @@ Contents
 - oompParts: C2,CAPC-0603-X-UNMATCHED-01
 - oompParts: D2,LEDS-0603-R-STAN-01
 - oompParts: D3,LEDS-1206-G-STAN-01
-- oompParts: J1,HEAD-UNMATCHED-X-UNMATCHED-01
-- oompParts: J2,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
+- oompParts: J2,HEAD-JSTSH-X-PI04-RS
 - oompParts: J3,HEAD-I01-X-PI03-01
 - oompParts: J4,HEAD-I01-X-PI05-01
 - oompParts: R1,RESE-0603-X-O102-01
@@ -84,6 +84,7 @@ Contents
 - oompParts: R4,RESE-0603-X-O222-01
 - oompParts: R5,RESE-0603-X-O222-01
 - oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$17,HEAD-JSTSH-X-PI04-RS
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,,CAP-08604,,0.1uF,
 - rawParts: C2,1.0uF,1.0UF-0603-16V-10%,0603,1ÃÂµF ceramic capacitors,,CAP-00868,,1.0uF,

@@ -43,9 +43,10 @@ Contents
 |[CAPC-0603-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[SMD (0603) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
 |[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[SMD (0603) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-G-STAN-01/)|
 |[LEDS-0603-Y-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[SMD (0603) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-Y-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, J19, J20, JP2, JP3, JP4, Q11, S1, TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, U1, U2, U3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, J20, JP2, JP3, JP4, Q11, S1, TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, U1, U2, U3|
 |HEAD-I01-X-PI2X20-01||J1|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17, J18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J19, U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1, Q4|
 |MOSP-SO23-X-UNMATCHED-01||Q2, Q5, Q7, Q9, Q12|
@@ -105,7 +106,7 @@ Contents
 - oompParts: J16,HEAD-I01-X-PI03-01
 - oompParts: J17,HEAD-I01-X-PI03-01
 - oompParts: J18,HEAD-I01-X-PI03-01
-- oompParts: J19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J19,HEAD-JSTSH-X-PI04-RS
 - oompParts: J20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: J21,HEAD-I01-X-PI04-01
 - oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
@@ -172,6 +173,7 @@ Contents
 - oompParts: TP24,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP25,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: TP26,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$1,HEAD-JSTSH-X-PI04-RS
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
