@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U$8,U$22,U$19,U$17,U$4,U$11,U$6,U$5,U$21,U$20,U$15,U$13,U$16,U$10,U$12,U$23,U$14,U$7,U$9,U$18";"1U-DIM-W_-DRILL";20;"";;;
+2;"P6,P1,P5,P4";"ROUND-MARK-1.0";4;"";;;
+3;"R2,R3,R5,R4";"R0603";4;"4.7K";;;
+4;"@HOLE3,@HOLE0,@HOLE2,@HOLE1";"";4;"";;;
+5;"Q2,Q1";"SOT23";2;"2N7002";;;
+6;"U5";"SOT23";1;"XC6206P252MR-G";;;
+7;"J1";"4P-SMD-2.0";1;"SMD Grove";;;
+8;"P3,P2";"1P-65_35MIL";2;"DNP";;;
+9;"C5,C6";"C0805";2;"10uF";;;
+10;"C7";"AVX-A";1;"DNP";;;
+11;"U1";"LGA14";1;"ADXL345";;;
+12;"U$1";"OSHW_FILLX200_NOTEXT";1;"";;;
+13;"U$3";"TWIGLOGO";1;"";;;
+14;"TP2,TP3,TP1,TP4";"TP_4545";4;"";;;

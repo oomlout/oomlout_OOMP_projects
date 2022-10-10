@@ -1,2 +1,16 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-ADAF-1895-STAN-01")
+
+newPart.addTag('rawParts','C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,')
+newPart.addTag('rawParts','C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,')
+newPart.addTag('rawParts','C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,')
+newPart.addTag('rawParts','FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,')
+newPart.addTag('rawParts','FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,')
+newPart.addTag('rawParts','JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,')
+newPart.addTag('rawParts','R1,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,')
+newPart.addTag('rawParts','U$16,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,')
+newPart.addTag('rawParts','U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,')
+newPart.addTag('rawParts','U1,Generic SPI Flash,SPIFLASH_8PIN208MIL,SOIC8_208MIL,SOIC8 SPI Flash,,')
+newPart.addTag('rawParts','U2,Generic SPI Flash,SPIFLASH_8PINUX,USON8,SOIC8 SPI Flash,,')
+newPart.addTag('rawParts','U3,74HC4050D,74HC4050DTSSOP,TSSOP16,6-channel level shifter,,')
+newPart.addTag('rawParts','U4,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,')

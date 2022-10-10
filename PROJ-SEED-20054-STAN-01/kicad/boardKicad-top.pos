@@ -1,0 +1,48 @@
+### Module positions - created on Mon Oct 10 09:43:34 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                PosX       PosY       Rot  Side
+@HOLE0                                        94.5311  -153.5876    0.0000  top
+@HOLE1                                        94.5311   -56.4326    0.0000  top
+@HOLE2                                       202.4811   -56.4326    0.0000  top
+@HOLE3                                       202.4811  -153.5876    0.0000  top
+C5        10uF            C0805              106.9771   -59.6076  -90.0000  top
+C6        10uF            C0805              114.8511   -59.6076  -90.0000  top
+C7        DNP             AVX-A              112.6921   -59.6076   90.0000  top
+J1        SMD_Grove       4P-SMD-2.0         105.3261   -65.9576   90.0000  top
+P1                        ROUND-MARK-1.0      94.5311  -148.5076    0.0000  top
+P2        DNP             1P-65_35MIL        102.7861   -74.2126  -90.0000  top
+P3        DNP             1P-65_35MIL        105.9611   -74.2126  -90.0000  top
+P4                        ROUND-MARK-1.0     202.4811  -148.5076    0.0000  top
+P5                        ROUND-MARK-1.0     202.4811   -61.5126    0.0000  top
+P6                        ROUND-MARK-1.0      94.5311   -61.5126    0.0000  top
+Q1        2N7002          SOT23              113.5811   -70.4026   90.0000  top
+Q2        2N7002          SOT23              113.5811   -73.5776   90.0000  top
+R2        4.7K            R0603              116.1211   -70.4026  -90.0000  top
+R3        4.7K            R0603              111.0411   -70.4026  -90.0000  top
+R4        4.7K            R0603              116.1211   -73.5776  -90.0000  top
+R5        4.7K            R0603              111.0411   -73.5776   90.0000  top
+U$4                       1U-DIM-W_-DRILL    108.5011   -65.9576    0.0000  top
+U$5                       1U-DIM-W_-DRILL    128.5011   -65.9576    0.0000  top
+U$6                       1U-DIM-W_-DRILL    148.5011   -65.9576    0.0000  top
+U$7                       1U-DIM-W_-DRILL    168.5011   -65.9576    0.0000  top
+U$8                       1U-DIM-W_-DRILL    188.5011   -65.9576    0.0000  top
+U$9                       1U-DIM-W_-DRILL    108.5011   -91.9926    0.0000  top
+U$10                      1U-DIM-W_-DRILL    128.5011   -91.9926    0.0000  top
+U$11                      1U-DIM-W_-DRILL    148.5011   -91.9926    0.0000  top
+U$12                      1U-DIM-W_-DRILL    168.5011   -91.9926    0.0000  top
+U$13                      1U-DIM-W_-DRILL    188.5011   -91.9926    0.0000  top
+U$14                      1U-DIM-W_-DRILL    108.5011  -118.0276    0.0000  top
+U$15                      1U-DIM-W_-DRILL    128.5011  -118.0276    0.0000  top
+U$16                      1U-DIM-W_-DRILL    148.5011  -118.0276    0.0000  top
+U$17                      1U-DIM-W_-DRILL    168.5011  -118.0276    0.0000  top
+U$18                      1U-DIM-W_-DRILL    188.5011  -118.0276    0.0000  top
+U$19                      1U-DIM-W_-DRILL    108.5011  -144.0626    0.0000  top
+U$20                      1U-DIM-W_-DRILL    128.5011  -144.0626    0.0000  top
+U$21                      1U-DIM-W_-DRILL    148.5011  -144.0626    0.0000  top
+U$22                      1U-DIM-W_-DRILL    168.5011  -144.0626    0.0000  top
+U$23                      1U-DIM-W_-DRILL    188.5011  -144.0626    0.0000  top
+U1        ADXL345         LGA14              112.3111   -65.3226  -90.0000  top
+U5        XC6206P252MR-G  SOT23              109.8981   -59.6076    0.0000  top
+## End

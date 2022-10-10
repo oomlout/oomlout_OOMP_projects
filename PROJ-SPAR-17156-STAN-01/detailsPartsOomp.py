@@ -1,2 +1,17 @@
 import OOMP
 newPart = OOMP.getPartByID("PROJ-SPAR-17156-STAN-01")
+
+newPart.addTag('oompParts','3V3_ISO,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','D1,DIOD-S323-X-UNMATCHED-01')
+newPart.addTag('oompParts','D1_BP,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')
+newPart.addTag('oompParts','J2,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','J3,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','J4,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','J5,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','J6,HEAD-I01-X-PI02-01')
+newPart.addTag('oompParts','LOGO4,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','LOGO5,HEAD-JSTSH-X-PI04-RS')
+newPart.addTag('oompParts','R3,RESE-0603-X-O472-01')
+newPart.addTag('oompParts','R4,RESE-0603-X-O472-01')
+newPart.addTag('oompParts','S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01')

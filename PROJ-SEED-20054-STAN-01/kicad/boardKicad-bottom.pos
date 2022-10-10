@@ -1,0 +1,12 @@
+### Module positions - created on Mon Oct 10 09:43:34 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                    PosX       PosY       Rot  Side
+TP1                 TP_4545               -100.2461   -59.6076  180.0000  bottom
+TP2                 TP_4545               -100.2461   -62.1476  180.0000  bottom
+TP3                 TP_4545               -100.2461   -69.7676  180.0000  bottom
+TP4                 TP_4545               -100.2461   -72.3076  180.0000  bottom
+U$1                 OSHW_FILLX200_NOTEXT  -114.8511   -65.9576  180.0000  bottom
+U$3                 TWIGLOGO              -105.3261   -65.9576  180.0000  bottom
+## End
