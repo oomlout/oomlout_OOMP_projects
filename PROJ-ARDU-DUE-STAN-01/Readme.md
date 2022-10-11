@@ -42,7 +42,7 @@ Contents
 |UNMATCHED-0402-X-UNMATCHED-01||BR1, JR1|
 |CAPX-UNMATCHED-X-UF22-01||C1, C2, C3, C11, C27, C29, C33, C35, C49, PC2|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C4, C5, C6, C7, C8, C9, C10, C12, C13, C14, C15, C16, C17, C18, C19, C28, C30, C31, C32, C34, C36, C37](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPC-0402-X-UNMATCHED-01||C20, C26|
+|[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[SMD (0402) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|[C20, C26](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF10-V50/)|
 |[CAPC-0402-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[SMD (0402) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[C21, C22, C23, C24, C25, C39, C40](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C38](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C41, C50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
@@ -104,13 +104,13 @@ Contents
 - oompParts: C17,CAPC-0402-X-NF100-V10
 - oompParts: C18,CAPC-0402-X-NF100-V10
 - oompParts: C19,CAPC-0402-X-NF100-V10
-- oompParts: C20,CAPC-0402-X-UNMATCHED-01
+- oompParts: C20,CAPC-0402-X-NF10-V50
 - oompParts: C21,CAPC-0402-X-PF22-V50
 - oompParts: C22,CAPC-0402-X-PF22-V50
 - oompParts: C23,CAPC-0402-X-PF22-V50
 - oompParts: C24,CAPC-0402-X-PF22-V50
 - oompParts: C25,CAPC-0402-X-PF22-V50
-- oompParts: C26,CAPC-0402-X-UNMATCHED-01
+- oompParts: C26,CAPC-0402-X-NF10-V50
 - oompParts: C27,CAPX-UNMATCHED-X-UF22-01
 - oompParts: C28,CAPC-0402-X-NF100-V10
 - oompParts: C29,CAPX-UNMATCHED-X-UF22-01

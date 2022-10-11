@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-15272-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "D2,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O101-01"
+        },
+        {
             "name": "rawParts",
             "value": "D2,3.6V,DIODE-ZENER-BZT52C3V6S,SOD-323,Zener Diode,,DIO-08199,3.6V,,"
         },

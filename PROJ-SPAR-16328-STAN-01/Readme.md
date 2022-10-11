@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,35 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-16328-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C3, C6, C7, C8, C10, C12, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPE-PAND-X-UF100-01||C5|
+|[CAPC-0603-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[SMD (0603) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[C11, C16, C26, C27](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
+|CAPC-0603-X-UNMATCHED-01||C14, C15|
+|CAPC-0402-X-UNMATCHED-01||C17, C18, C19, C20|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C21, C22, C23, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|LEDS-UNMATCHED-L-STAN-01||D2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F2, INT, J20, J23, JP2, JP3, JP4, JP13, JP15, TP0, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, U1, U4, U5, U6, U7, U8|
+|HEAD-I01-X-UNMATCHED-01||J2|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[J3, J4, J5, J10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|HEAD-I01-X-PI01-01||J6, J17, J21, J22|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J7, J8, J9, J11, J12, J13, J14, J15, J16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J19, U$1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|MOSN-UNMATCHED-X-UNMATCHED-01||Q1, Q4, Q23, Q24, Q27, Q28|
+|MOSP-SO23-X-UNMATCHED-01||Q5, Q7, Q9|
+|UNMATCHED-SO363-X-UNMATCHED-01||Q6, Q8, Q10|
+|RESE-UNMATCHED-X-O103-01||R1, R2, R4, R5, R8, R13, R15, R17, R18, R19, R22, R33, R37, R38, R39, R40, R41, R42, R43, R44|
+|RESE-UNMATCHED-X-O472-01||R3, R6, R10, R11, R12|
+|RESE-UNMATCHED-X-O473-01||R7, R9, R14|
+|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[SMD (0402) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|[R16, R45, R47, R53, R54, R55, R56](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O222-01/)|
+|RESE-UNMATCHED-X-O10-01||R25, R26|
+|RESE-UNMATCHED-X-O471-01||R27|
+
 ## Images
   
   
@@ -52,6 +82,135 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_Auto_pHAT (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16328
 - oompID: PROJ-SPAR-16328-STAN-01
+- oompParts: C2,CAPC-0603-X-NF100-V50
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C5,CAPE-PAND-X-UF100-01
+- oompParts: C6,CAPC-0603-X-NF100-V50
+- oompParts: C7,CAPC-0603-X-NF100-V50
+- oompParts: C8,CAPC-0603-X-NF100-V50
+- oompParts: C10,CAPC-0603-X-NF100-V50
+- oompParts: C11,CAPC-0603-X-NF10-V50
+- oompParts: C12,CAPC-0603-X-NF100-V50
+- oompParts: C13,CAPC-0603-X-NF100-V50
+- oompParts: C14,CAPC-0603-X-UNMATCHED-01
+- oompParts: C15,CAPC-0603-X-UNMATCHED-01
+- oompParts: C16,CAPC-0603-X-NF10-V50
+- oompParts: C17,CAPC-0402-X-UNMATCHED-01
+- oompParts: C18,CAPC-0402-X-UNMATCHED-01
+- oompParts: C19,CAPC-0402-X-UNMATCHED-01
+- oompParts: C20,CAPC-0402-X-UNMATCHED-01
+- oompParts: C21,CAPC-0402-X-NF100-V10
+- oompParts: C22,CAPC-0402-X-NF100-V10
+- oompParts: C23,CAPC-0402-X-NF100-V10
+- oompParts: C24,CAPC-0402-X-NF100-V10
+- oompParts: C25,CAPC-0805-X-UF10-V10
+- oompParts: C26,CAPC-0603-X-NF10-V50
+- oompParts: C27,CAPC-0603-X-NF10-V50
+- oompParts: D2,LEDS-UNMATCHED-L-STAN-01
+- oompParts: F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: INT,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-I01-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI03-01
+- oompParts: J4,HEAD-I01-X-PI03-01
+- oompParts: J5,HEAD-I01-X-PI03-01
+- oompParts: J6,HEAD-I01-X-PI01-01
+- oompParts: J7,HEAD-I01-X-PI02-01
+- oompParts: J8,HEAD-I01-X-PI02-01
+- oompParts: J9,HEAD-I01-X-PI02-01
+- oompParts: J10,HEAD-I01-X-PI03-01
+- oompParts: J11,HEAD-I01-X-PI02-01
+- oompParts: J12,HEAD-I01-X-PI02-01
+- oompParts: J13,HEAD-I01-X-PI02-01
+- oompParts: J14,HEAD-I01-X-PI02-01
+- oompParts: J15,HEAD-I01-X-PI02-01
+- oompParts: J16,HEAD-I01-X-PI02-01
+- oompParts: J17,HEAD-I01-X-PI01-01
+- oompParts: J19,HEAD-JSTSH-X-PI04-RS
+- oompParts: J20,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J21,HEAD-I01-X-PI01-01
+- oompParts: J22,HEAD-I01-X-PI01-01
+- oompParts: J23,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP13,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP15,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q1,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q4,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q5,MOSP-SO23-X-UNMATCHED-01
+- oompParts: Q6,UNMATCHED-SO363-X-UNMATCHED-01
+- oompParts: Q7,MOSP-SO23-X-UNMATCHED-01
+- oompParts: Q8,UNMATCHED-SO363-X-UNMATCHED-01
+- oompParts: Q9,MOSP-SO23-X-UNMATCHED-01
+- oompParts: Q10,UNMATCHED-SO363-X-UNMATCHED-01
+- oompParts: Q23,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q24,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q27,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: Q28,MOSN-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-UNMATCHED-X-O103-01
+- oompParts: R2,RESE-UNMATCHED-X-O103-01
+- oompParts: R3,RESE-UNMATCHED-X-O472-01
+- oompParts: R4,RESE-UNMATCHED-X-O103-01
+- oompParts: R5,RESE-UNMATCHED-X-O103-01
+- oompParts: R6,RESE-UNMATCHED-X-O472-01
+- oompParts: R7,RESE-UNMATCHED-X-O473-01
+- oompParts: R8,RESE-UNMATCHED-X-O103-01
+- oompParts: R9,RESE-UNMATCHED-X-O473-01
+- oompParts: R10,RESE-UNMATCHED-X-O472-01
+- oompParts: R11,RESE-UNMATCHED-X-O472-01
+- oompParts: R12,RESE-UNMATCHED-X-O472-01
+- oompParts: R13,RESE-UNMATCHED-X-O103-01
+- oompParts: R14,RESE-UNMATCHED-X-O473-01
+- oompParts: R15,RESE-UNMATCHED-X-O103-01
+- oompParts: R16,RESE-0402-X-O222-01
+- oompParts: R17,RESE-UNMATCHED-X-O103-01
+- oompParts: R18,RESE-UNMATCHED-X-O103-01
+- oompParts: R19,RESE-UNMATCHED-X-O103-01
+- oompParts: R22,RESE-UNMATCHED-X-O103-01
+- oompParts: R25,RESE-UNMATCHED-X-O10-01
+- oompParts: R26,RESE-UNMATCHED-X-O10-01
+- oompParts: R27,RESE-UNMATCHED-X-O471-01
+- oompParts: R33,RESE-UNMATCHED-X-O103-01
+- oompParts: R37,RESE-UNMATCHED-X-O103-01
+- oompParts: R38,RESE-UNMATCHED-X-O103-01
+- oompParts: R39,RESE-UNMATCHED-X-O103-01
+- oompParts: R40,RESE-UNMATCHED-X-O103-01
+- oompParts: R41,RESE-UNMATCHED-X-O103-01
+- oompParts: R42,RESE-UNMATCHED-X-O103-01
+- oompParts: R43,RESE-UNMATCHED-X-O103-01
+- oompParts: R44,RESE-UNMATCHED-X-O103-01
+- oompParts: R45,RESE-0402-X-O222-01
+- oompParts: R47,RESE-0402-X-O222-01
+- oompParts: R53,RESE-0402-X-O222-01
+- oompParts: R54,RESE-0402-X-O222-01
+- oompParts: R55,RESE-0402-X-O222-01
+- oompParts: R56,RESE-0402-X-O222-01
+- oompParts: TP0,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP10,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP11,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP12,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP13,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP14,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP15,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP16,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP17,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP18,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TP19,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$1,HEAD-JSTSH-X-PI04-RS
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,,
 - rawParts: C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,0.1uF,,
 - rawParts: C5,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100ÃÂµF polarized capacitors,,CAP-12547,,100uF,,

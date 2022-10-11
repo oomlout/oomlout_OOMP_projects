@@ -41,6 +41,42 @@
             "value": "PROJ-SPAR-18012-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO2,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O102-01"
+        },
+        {
             "name": "rawParts",
             "value": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,DIO-00819,,RED,"
         },

@@ -41,7 +41,7 @@ Contents
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |[CAPC-0402-X-PF22D-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[SMD (0402) 2.2 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|[C2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22D-V50/)|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C4, C7, C8, C9, C13, C21, C23, C24, C26, C27, INPUT1, INPUT2, MPU, OUTPUT1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C5, C6, C28, OUTPUT2|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C5, C6, C28, OUTPUT2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0402-X-NF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|[SMD (0402) 22 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|[C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF22-V50/)|
 |CAPX-UNMATCHED-X-UNMATCHED-01||C12|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[I1, I2, I3, I4, I5, I6, I7, I8, JP7, JP15, O1, O2, O3, O4, O5, O6, O7, O8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
@@ -88,8 +88,8 @@ Contents
 - oompParts: C2,CAPC-0402-X-PF22D-V50
 - oompParts: C3,CAPC-0402-X-UF1-V63D
 - oompParts: C4,CAPC-0402-X-NF100-V10
-- oompParts: C5,CAPT-3216-X-UF10-01
-- oompParts: C6,CAPT-3216-X-UF10-01
+- oompParts: C5,CAPT-3216-X-UF10-V10
+- oompParts: C6,CAPT-3216-X-UF10-V10
 - oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-NF100-V10
 - oompParts: C9,CAPC-0402-X-NF100-V10
@@ -102,7 +102,7 @@ Contents
 - oompParts: C24,CAPC-0402-X-NF100-V10
 - oompParts: C26,CAPC-0402-X-NF100-V10
 - oompParts: C27,CAPC-0402-X-NF100-V10
-- oompParts: C28,CAPT-3216-X-UF10-01
+- oompParts: C28,CAPT-3216-X-UF10-V10
 - oompParts: I1,HEAD-I01-X-PI03-01
 - oompParts: I2,HEAD-I01-X-PI03-01
 - oompParts: I3,HEAD-I01-X-PI03-01
@@ -139,7 +139,7 @@ Contents
 - oompParts: O7,HEAD-I01-X-PI03-01
 - oompParts: O8,HEAD-I01-X-PI03-01
 - oompParts: OUTPUT1,CAPC-0402-X-NF100-V10
-- oompParts: OUTPUT2,CAPT-3216-X-UF10-01
+- oompParts: OUTPUT2,CAPT-3216-X-UF10-V10
 - oompParts: R1,RESE-0402-X-O203-01
 - oompParts: R2,RESE-0402-X-O331-01
 - oompParts: R3,RESE-0402-X-O103-01

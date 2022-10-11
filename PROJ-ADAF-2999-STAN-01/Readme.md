@@ -46,7 +46,7 @@ Contents
 |[LEDS-0805-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[SMD (0805) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
 |HEAD-I01-X-PI13-01||JP2|
 |RESE-0805-X-O1003-01||R1, R2, R3, R7|
-|RESA-06038-X-O102X4-01||R8|
+|[RESA-06038-X-O102X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[SMD (0603-8) 1k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$1, U1|
 |UNMATCHED-SO235-X-UNMATCHED-01||U2|
 

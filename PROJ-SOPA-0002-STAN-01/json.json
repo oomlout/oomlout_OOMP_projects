@@ -1,0 +1,520 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "BBQ20KBD1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/bbq20kbd_hw"
+        },
+        {
+            "name": "gitName",
+            "value": "bbq20kbd_hw"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "bbq20_keyboard.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "bbq20_keyboard.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0002-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C15,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "H2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "H1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R21,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R15,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R17,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R16,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R18,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R12,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R13,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R14,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q4,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q3,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q5,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q6,UNMATCHED-UNMATCHED-X-KBSS138-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R19,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R20,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPC-0603-X-UF10-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0603-X-UF10-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-0603-X-PF12-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-0603-X-PF12-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R22,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U5,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,VREG-SO235-X-KAP2112K-V33D"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0603-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0603-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U6,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_7.5x6.4mm_SilkScreen,SolderParty-New-Logo_7.5x6.4mm_SilkScreen,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,BBQ20KBD,BM20B(0.8)-40DS-0.4V,BM20B(0.8)-40DS-0.4V,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,27R,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,27R,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C15,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C14,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H2,MountingHole,MountingHole_2.7mm_M2.5,MountingHole_2.7mm_M2.5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "H1,MountingHole,MountingHole_2.7mm_M2.5,MountingHole_2.7mm_M2.5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R21,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R8,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R18,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R9,10K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q4,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q3,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q5,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q6,BSS138,SOT-23,SOT-23,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R19,4.7K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R20,4.7K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,10uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,10uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,12pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,12pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,GD25Q16xS,SSOP-8_5.25x5.24mm_P1.27mm,SSOP-8_5.25x5.24mm_P1.27mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,RP2040,QFN-56_EP_7x7_Pitch0.4mm,QFN-56_EP_7x7_Pitch0.4mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R22,1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,ME6212C18M5G,SOT-23-5,SOT-23-5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP6,TP_3V3,TestPoint_Pad_D1.5mm,TestPoint_Pad_D1.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,AP2112K-3.3,SOT-23-5,SOT-23-5,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_Stemma_QT,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_12.5x10.6mm_SilkScreen,SolderParty-New-Logo_12.5x10.6mm_SilkScreen,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,D_Schottky_Small,D_SOD-323,D_SOD-323,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,PMOD,PMODPinHeader_1x06_P2.54mm_Horizontal,PMODPinHeader_1x06_P2.54mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,5.1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,5.1K,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,USB_C_Receptacle_HRO_TYPE-C-31-M-12,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Y1,XYDBPCNANF-12MHZ,Crystal_SMD_2520-4Pin_2.5x2.0mm,Crystal_SMD_2520-4Pin_2.5x2.0mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U6,ME6212C28M5G,SOT-23-5,SOT-23-5,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0002-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "BBQ20KBD1"
+        }
+    ]
+}

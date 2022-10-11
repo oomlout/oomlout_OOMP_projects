@@ -1,0 +1,132 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SOPA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0004"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "Raspberry Pi Zero Adapter for the Keyboard FeatherWing1"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/solderparty/keyboard_featherwing_zero_adapter"
+        },
+        {
+            "name": "gitName",
+            "value": "keyboard_featherwing_zero_adapter"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "kfw_rpi_adapter.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "kfw_rpi_adapter.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRSO4"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0004-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "REF**,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "REF**,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI2X16-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI2X12-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI2X20-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADS1115IDGS,TSSOP-10_3x3mm_P0.5mm,TSSOP-10_3x3mm_P0.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_20x16.9mm_SilkScreen,SolderParty-New-Logo_20x16.9mm_SilkScreen,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SolderParty-New-Logo_20x16.9mm_SilkScreen,SolderParty-New-Logo_20x16.9mm_SilkScreen,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,SJ_STM_KBD,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_Left,PinHeader_2x16_P2.54mm_Vertical,PinHeader_2x16_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_Right,PinHeader_2x12_P2.54mm_Vertical,PinHeader_2x12_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_RPi,PinHeader_2x20_P2.54mm_Vertical,PinHeader_2x20_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SOPA-0004-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Raspberry Pi Zero Adapter for the Keyboard FeatherWing1"
+        }
+    ]
+}

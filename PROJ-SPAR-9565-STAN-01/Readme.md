@@ -8,6 +8,7 @@ Contents
 * [PRS9565 > Through-Hole Christmas Kit](#prs9565--through-hole-christmas-kit)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,17 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1, LED2, LED3, LED4, LED5, LED7, LED8, LED9, LED10|
+|LEDS-UNMATCHED-Y-STAN-01||LED6|
+|RESE-UNMATCHED-X-O103-01||R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U2, U4|
+
 ## Images
   
   
@@ -47,6 +59,20 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Through-Hole_Christmas_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9565
 - oompID: PROJ-SPAR-9565-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI02-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED2,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED3,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED4,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED5,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED6,LEDS-UNMATCHED-Y-STAN-01
+- oompParts: LED7,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED8,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED9,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED10,LEDS-UNMATCHED-G-STAN-01
+- oompParts: R1,RESE-UNMATCHED-X-O103-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,
 - rawParts: JP1,,M02PTH,1X02,Header 2,,
 - rawParts: JP2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,

@@ -43,10 +43,11 @@ Contents
 |[CAPC-0603-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[SMD (0603) 10 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|[C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF10-V50/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |CAPC-0603-X-PF470-01||C7|
-|CAPT-3216-X-UF10-01||C8, C9|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C8, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[HEAD-I01-X-PI07-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[2.54 mm 7 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|[JP8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI07-01/)|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, U2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+|[SENS-LG14-X-K345-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SENS-LG14-X-K345-01/)|[14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SENS-LG14-X-K345-01/)|[U2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SENS-LG14-X-K345-01/)|
 |UNMATCHED-SO235-X-UNMATCHED-01||U3|
 
 ## Images
@@ -76,14 +77,14 @@ Contents
 - oompParts: C5,CAPC-0603-X-UF1-V25
 - oompParts: C6,CAPC-0603-X-NF100-V50
 - oompParts: C7,CAPC-0603-X-PF470-01
-- oompParts: C8,CAPT-3216-X-UF10-01
-- oompParts: C9,CAPT-3216-X-UF10-01
+- oompParts: C8,CAPT-3216-X-UF10-V10
+- oompParts: C9,CAPT-3216-X-UF10-V10
 - oompParts: C10,CAPC-0603-X-NF100-V50
 - oompParts: JP8,HEAD-I01-X-PI07-01
 - oompParts: R1,RESE-0603-X-O472-01
 - oompParts: R2,RESE-0603-X-O472-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,SENS-LG14-X-K345-01
 - oompParts: U3,UNMATCHED-SO235-X-UNMATCHED-01
 - rawParts: C1,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,
 - rawParts: C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,

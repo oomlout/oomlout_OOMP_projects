@@ -8,6 +8,7 @@ Contents
 * [PRS9966 > USB miniB Breakout](#prs9966--usb-minib-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,14 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$1|
+
 ## Images
   
   
@@ -47,6 +56,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_miniB_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9966
 - oompID: PROJ-SPAR-9966-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI05-01
+- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M05PTH,1X05,Header 5,,
 - rawParts: U$1,USB-MINIB-5PIN,USB-MINIB-5PIN,USB-MINIB,,,
 - rawParts: U$2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,

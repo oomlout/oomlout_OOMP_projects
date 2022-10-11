@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8882-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-UNMATCHED-01||JP1, JP2|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$1|
+
 ## Images
   
   
@@ -52,6 +62,10 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8882
 - oompID: PROJ-SPAR-8882-STAN-01
+- oompParts: JP1,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP2,HEAD-I01-X-UNMATCHED-01
+- oompParts: JP3,HEAD-I01-X-PI04-01
+- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,M01-SMTSO-256-ET,M01-SMTSO-256-ET,SMTSO-256-ET,Header 1,,
 - rawParts: JP2,M01-SMTSO-256-ET,M01-SMTSO-256-ET,SMTSO-256-ET,Header 1,,
 - rawParts: JP3,,M04PTH,1X04,Header 4,,

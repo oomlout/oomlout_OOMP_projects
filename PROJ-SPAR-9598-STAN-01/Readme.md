@@ -8,6 +8,7 @@ Contents
 * [PRS9598 > MIDI Breakout](#prs9598--midi-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,16 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[JP4, JP5, JP6, JP7, JP8, JP9, JP10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
+|RESE-0402-X-O221-01||R1, R2, R3, R4, R5, R6|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S3, S5, U$1, U$2, U$3, U$5, U$6|
+
 ## Images
   
   
@@ -47,6 +58,27 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MIDI_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9598
 - oompID: PROJ-SPAR-9598-STAN-01
+- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP4,HEAD-I01-X-PI06-01
+- oompParts: JP5,HEAD-I01-X-PI06-01
+- oompParts: JP6,HEAD-I01-X-PI06-01
+- oompParts: JP7,HEAD-I01-X-PI06-01
+- oompParts: JP8,HEAD-I01-X-PI06-01
+- oompParts: JP9,HEAD-I01-X-PI06-01
+- oompParts: JP10,HEAD-I01-X-PI06-01
+- oompParts: R1,RESE-0402-X-O221-01
+- oompParts: R2,RESE-0402-X-O221-01
+- oompParts: R3,RESE-0402-X-O221-01
+- oompParts: R4,RESE-0402-X-O221-01
+- oompParts: R5,RESE-0402-X-O221-01
+- oompParts: R6,RESE-0402-X-O221-01
+- oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: D1,,DIODESMA,SMA-DIODE,Diode,,
 - rawParts: JP1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,
 - rawParts: JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,

@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-15047-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[LEDS-2020-RGB-K102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2020-RGB-K102-01/)|[SMD (2020) Smart Controller (APA102) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2020-RGB-K102-01/)|[D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2020-RGB-K102-01/)|
+
 ## Images
   
   
@@ -52,6 +60,70 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Lumini_8x8 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/15047
 - oompID: PROJ-SPAR-15047-STAN-01
+- oompParts: D1,LEDS-2020-RGB-K102-01
+- oompParts: D2,LEDS-2020-RGB-K102-01
+- oompParts: D3,LEDS-2020-RGB-K102-01
+- oompParts: D4,LEDS-2020-RGB-K102-01
+- oompParts: D5,LEDS-2020-RGB-K102-01
+- oompParts: D6,LEDS-2020-RGB-K102-01
+- oompParts: D7,LEDS-2020-RGB-K102-01
+- oompParts: D8,LEDS-2020-RGB-K102-01
+- oompParts: D9,LEDS-2020-RGB-K102-01
+- oompParts: D10,LEDS-2020-RGB-K102-01
+- oompParts: D11,LEDS-2020-RGB-K102-01
+- oompParts: D12,LEDS-2020-RGB-K102-01
+- oompParts: D13,LEDS-2020-RGB-K102-01
+- oompParts: D14,LEDS-2020-RGB-K102-01
+- oompParts: D15,LEDS-2020-RGB-K102-01
+- oompParts: D16,LEDS-2020-RGB-K102-01
+- oompParts: D17,LEDS-2020-RGB-K102-01
+- oompParts: D18,LEDS-2020-RGB-K102-01
+- oompParts: D19,LEDS-2020-RGB-K102-01
+- oompParts: D20,LEDS-2020-RGB-K102-01
+- oompParts: D21,LEDS-2020-RGB-K102-01
+- oompParts: D22,LEDS-2020-RGB-K102-01
+- oompParts: D23,LEDS-2020-RGB-K102-01
+- oompParts: D24,LEDS-2020-RGB-K102-01
+- oompParts: D25,LEDS-2020-RGB-K102-01
+- oompParts: D26,LEDS-2020-RGB-K102-01
+- oompParts: D27,LEDS-2020-RGB-K102-01
+- oompParts: D28,LEDS-2020-RGB-K102-01
+- oompParts: D29,LEDS-2020-RGB-K102-01
+- oompParts: D30,LEDS-2020-RGB-K102-01
+- oompParts: D31,LEDS-2020-RGB-K102-01
+- oompParts: D32,LEDS-2020-RGB-K102-01
+- oompParts: D33,LEDS-2020-RGB-K102-01
+- oompParts: D34,LEDS-2020-RGB-K102-01
+- oompParts: D35,LEDS-2020-RGB-K102-01
+- oompParts: D36,LEDS-2020-RGB-K102-01
+- oompParts: D37,LEDS-2020-RGB-K102-01
+- oompParts: D38,LEDS-2020-RGB-K102-01
+- oompParts: D39,LEDS-2020-RGB-K102-01
+- oompParts: D40,LEDS-2020-RGB-K102-01
+- oompParts: D41,LEDS-2020-RGB-K102-01
+- oompParts: D42,LEDS-2020-RGB-K102-01
+- oompParts: D43,LEDS-2020-RGB-K102-01
+- oompParts: D44,LEDS-2020-RGB-K102-01
+- oompParts: D45,LEDS-2020-RGB-K102-01
+- oompParts: D46,LEDS-2020-RGB-K102-01
+- oompParts: D47,LEDS-2020-RGB-K102-01
+- oompParts: D48,LEDS-2020-RGB-K102-01
+- oompParts: D49,LEDS-2020-RGB-K102-01
+- oompParts: D50,LEDS-2020-RGB-K102-01
+- oompParts: D51,LEDS-2020-RGB-K102-01
+- oompParts: D52,LEDS-2020-RGB-K102-01
+- oompParts: D53,LEDS-2020-RGB-K102-01
+- oompParts: D54,LEDS-2020-RGB-K102-01
+- oompParts: D55,LEDS-2020-RGB-K102-01
+- oompParts: D56,LEDS-2020-RGB-K102-01
+- oompParts: D57,LEDS-2020-RGB-K102-01
+- oompParts: D58,LEDS-2020-RGB-K102-01
+- oompParts: D59,LEDS-2020-RGB-K102-01
+- oompParts: D60,LEDS-2020-RGB-K102-01
+- oompParts: D61,LEDS-2020-RGB-K102-01
+- oompParts: D62,LEDS-2020-RGB-K102-01
+- oompParts: D63,LEDS-2020-RGB-K102-01
+- oompParts: D64,LEDS-2020-RGB-K102-01
 - rawParts: C1,DNP,4.7UF-1206-16V-(+80/-20%),1206,4.7ÃÂµF ceramic capacitors,,CAP-10300,,4.7uF,
 - rawParts: D1,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,
 - rawParts: D2,APA102-2020,APA102-2020,APA102-2020,APA102 Addressable RGB LED,,DIO-13883,,,

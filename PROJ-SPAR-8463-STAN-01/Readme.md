@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,13 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8463-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||B1|
+
 ## Images
   
   
@@ -52,6 +60,7 @@ Contents
 - sources: All source files from https://github.com/sparkfun/LilyPad_Buzzer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8463
 - oompID: PROJ-SPAR-8463-STAN-01
+- oompParts: B1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: B1,Buzzer,BUZZERSMD2,BUZZER-CCV,Buzzer 12mm,,
 - rawParts: U$1,SEWTAP-NOHOLE2,SEWTAP-NOHOLE2,PETAL-NOHOLE-2SIDE,,,
 - rawParts: U$2,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,

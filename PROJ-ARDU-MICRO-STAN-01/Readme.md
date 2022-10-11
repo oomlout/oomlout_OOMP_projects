@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPC-0402-X-UNMATCHED-01||C1, C2, C6, C9, C10, C11|
+|[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C1, C2, C6, C9, C10, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
 |CAPX-UNMATCHED-X-UF22-01||C3, C14|
 |[CAPC-0402-X-UF1-V63D](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[SMD (0402) 1 uF Capacitor (Ceramic) 6.3v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|[C4, C5, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-UF1-V63D/)|
 |[CAPC-0402-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[SMD (0402) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|[C12, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-PF22-V50/)|
@@ -73,16 +73,16 @@ Contents
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-micro
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-micro
 - oompID: PROJ-ARDU-MICRO-STAN-01
-- oompParts: C1,CAPC-0402-X-UNMATCHED-01
-- oompParts: C2,CAPC-0402-X-UNMATCHED-01
+- oompParts: C1,CAPC-0402-X-NF100-V10
+- oompParts: C2,CAPC-0402-X-NF100-V10
 - oompParts: C3,CAPX-UNMATCHED-X-UF22-01
 - oompParts: C4,CAPC-0402-X-UF1-V63D
 - oompParts: C5,CAPC-0402-X-UF1-V63D
-- oompParts: C6,CAPC-0402-X-UNMATCHED-01
+- oompParts: C6,CAPC-0402-X-NF100-V10
 - oompParts: C7,CAPC-0402-X-UF1-V63D
-- oompParts: C9,CAPC-0402-X-UNMATCHED-01
-- oompParts: C10,CAPC-0402-X-UNMATCHED-01
-- oompParts: C11,CAPC-0402-X-UNMATCHED-01
+- oompParts: C9,CAPC-0402-X-NF100-V10
+- oompParts: C10,CAPC-0402-X-NF100-V10
+- oompParts: C11,CAPC-0402-X-NF100-V10
 - oompParts: C12,CAPC-0402-X-PF22-V50
 - oompParts: C13,CAPC-0402-X-PF22-V50
 - oompParts: C14,CAPX-UNMATCHED-X-UF22-01

@@ -41,6 +41,170 @@
             "value": "PROJ-SPAR-15335-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q2,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q4,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q6,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q8,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q10,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q12,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q14,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q16,MOSN-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O221-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R12,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R13,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R14,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R15,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R16,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R17,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R18,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R19,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R20,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R21,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R22,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R23,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R24,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R25,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,1.0uF,1.0UF-0603-16V-10%-X7R,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-13930,,1.0uF,"
         },

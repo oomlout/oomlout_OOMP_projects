@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9540-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|HEAD-I01-X-PI15-01||JP1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||L298N|
+
 ## Images
   
   
@@ -52,6 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9540
 - oompID: PROJ-SPAR-9540-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI15-01
+- oompParts: L298N,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,M15,M15,1X15,Header 15,,
 - rawParts: JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
 - rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,

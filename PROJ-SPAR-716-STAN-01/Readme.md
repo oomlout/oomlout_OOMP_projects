@@ -8,6 +8,7 @@ Contents
 * [PRS716 > RJ45 Breakout](#prs716--rj45-breakout)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,14 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -47,6 +56,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/RJ45_Breakout (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/716
 - oompID: PROJ-SPAR-716-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI08-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M08,1X08,Header 8,,
 - rawParts: U1,RJ45,RJ45-8PTH,RJ45-8,RJ45 Jack,,
 

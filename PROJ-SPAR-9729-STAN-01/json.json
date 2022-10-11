@@ -41,6 +41,50 @@
             "value": "PROJ-SPAR-9729-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP1,TERS-35D-L-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,TERS-35D-L-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,TERS-35D-L-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,TERS-35D-L-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,TERS-35D-L-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,TERS-35D-L-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-UNMATCHED-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "JP1,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,"
         },

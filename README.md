@@ -1,7 +1,87 @@
 # oomlout_OOMP_projects
 OOpen Organization Method for parts. This is all the project details.
 
-### Part Files
+
+### Project File Process
+
+Note: Adafruit and sparkfun projects are currently in the system without a genesis step. This should be fixed in the future
+
+#### OOMP_projects.py 
+
+Run this to generate and harvest all project files
+
+#### OOMP_projects_BASE.py 
+
+	* createAllProjects() -- This creates all the projects using the iduvidual company files (ie. OOMP_prohects_IBBC). These files contain where possible, gitrepo details and name only.
+
+##### OOMP_projects_BASE.harvestProjects()
+
+This goes through the created projects and grabs as many details as possible in this order
+
+	* gitPull -- This pulls the project from it's git repo
+	* copyBaseFiles -- This copies the board and schematic files from a git repo to the project folder. 
+	* harvestEagle -- Creates kicad files from eagle files. Also generates various eagle renders of the project and outputs details (ie. BOM)(if a project has no git repo you can copy eagle brd and sch files and generation will start from this step onwards)
+	* harvestKicad -- (if a project has no git repo and no eagle files you can copy kicad kicad_pcb and kicad_sch files and generation will start from this step onwards). This is also stage where part extraction and matching happens.
+
+### Project Files  
+
+#### Level 1 (Generated at the first step)
+
+	* details.py -- This is the main file to define a project. It is generated in OOMP_projects_*company*.py. It contains the required tags for a project (all others are harvested) (Required tags: oompType: PROJ, oompSize: *COMPANY CODE*, oompColor: Number or code of, oompDesc: STAN or note, oompIndex: version number, gitRepo: location of git repo, gitName: name of git repo, eagleBoard: name of board file in repo, eagleSchematic: name of schemativ file in repo (can also be kicad board and schematic file)
+
+#### Level 2 (Copied or Placed in directory by code)
+
+	* boardEagle.brd  --  Board file in Eagle format  (turned into a kicad file for future usage)
+    * schematicEagle.scm  --  Schematic File in Eagle format  (turned into a kicad file for future usage)
+    * kicad/boardKicad.kicad_pcb  --  Board file in Kicad format
+    * kicad/schematicKicad.kicad_sch  --  Schematic File in Kicad format
+
+#### Level 3 (Generated)
+
+##### Generated Eagle Files
+
+These files only exist if the project starts with an eagle board and schematic	
+	
+	
+##### Generated Kicad Files
+
+These files are either generated from the base kicad file, or the eagle files that have been converted to kicad.
+
+#### Level 4 (Generated from generated)
+
+### Project Tags
+
+#### Level 1 (Used for the first step)
+
+	* oompName -- Project Name
+	* oompType -- Always "PROJ"
+	* oompSize -- Company code (ADAF, IBBC, SPAR, ARDU etc)
+	* oompColor -- Project index (or descriptive code)
+	* oompDesc -- Usually STAN
+	* oompIndex -- Version (01, 0A, V1dot1)
+	* hexID -- PR + company short code + index
+	* gitRepo -- Web address of git repo
+	* gitName -- Name of git repo
+	* eagleBoard -- filename of eagleBoard in repo *
+	* eagleSchem -- filename of eagleBoard in repo *
+	* kicadBoard -- filename of eagleBoard in repo *
+	* kicadSchem -- filename of eagleBoard in repo *
+	
+"*" Projects either have a set of eagle files or kicad files at their base.	
+
+	
+	
+	
+	* sources --
+	
+	
+
+
+
+
+
+
+### Project Files
 * Summaries
 	Readme's are generated using mdutils (https://github.com/didix21/mdutils). Generation is done in OOMPsummaries.py
 	* Readme.md (generated)  --  A summary of the part in markdown.
@@ -13,36 +93,7 @@ OOpen Organization Method for parts. This is all the project details.
 	* image_TOP.jpg  --  Image of the top of the part.
 	* image_BOTTOM.jpg  --  Image of the bottom of the part.
 	
-* Diagrams
-	Diagrams are generated from tags, they can use templates (templates/diag/), which can use a parts tags as input. These are compiled to a python script that uses the Simple Inkscape Scripting Extension (https://github.com/spakin/SimpInkScr/) to draw and save svgs, these svgs are then used to genearate pngs, dxfs, and pdfs.
-	* diagBBLS.py (generated)  --  A diagram for adding a part to a breadboard layout sheet.
-	* diagDIAG.py (generated)  --  A diagram for adding a part to a layout.
-	* diagIDEN.py (generated)  --  A diagram for adding a part to a PCB with details.
-	* diagSCHEM.py (generated)  --  A diagram for adding a part to a schematic.
-	* diagSIMP.py (generated)  --  A diagram with only the parts outline, and link.
-    * diagFritz.fzpz  --  A diagram in Fritzing format
-    * working.cdr  --  A file for working on the component drawing in Corel Draw format
-
-* Datasheets
-	* datasheet.pdf  --  Datasheet for the part.
-	* datasheet-C-SUPL  --  If more than one datasheet exists the manufacturers four letter code is added.
-	* datasheet.txt (generated)  --  If the datasheet is a duplicate this file has the location in it, if it is hosted externally a link.
-	
-* 3D Models
-	3D models are generated programatically these routines are in OOMPscad.py, they use SolidPython (https://github.com/SolidCode/SolidPython) to generate .scad files from which stls and pngs are generated.
-	* 3dmodel.scad (generated)  --  Scad model of the part. Programatically generated in OOMPscad.py
-	* 3dmodel.stl (generated)  --  STL version of 3dmodel.scad
-	* 3dmodel.png (generated)  --  Rendered image of 3dmodel.scad (ortho)
-	
-* Labels
-	Labels are generated using tags and templates these are in templates/label/ they are svgs and use search and replace to generate labels. (%%ID%% is replaced by part ID and tags are format @@%%ID%%,oompPart.oompID,tagName@@). From the svgs pdfs are generated.
-	* label-front.svg (generated)  --  A label for the front of a bag.
-	* label-inventory.svg (generated)  --  A label for keeping inventory organized.
-	* label-spec.svg (generated)  --  A label listing part specifications.
-
 * EDA
     Design files
-    * boardEagle.brd  --  Board file in Eagle format
-    * schematicEagle.scm  --  Schematic File in Eagle format
-    * boardKicad.brd  --  Board file in Kicad format
-    * schematicKicad.scm  --  Schematic File in Kicad format
+	
+	

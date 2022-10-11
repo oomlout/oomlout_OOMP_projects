@@ -41,6 +41,122 @@
             "value": "PROJ-ADAF-1534-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-PF22D-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-PF10-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0805-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0805-X-UF1-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "CN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FB1,FERB-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L2,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SW1,BUTA-6060-X-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$35,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U$36,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,2.2pF,CAP_CERAMIC_0402,_0402,Ceramic Capacitors,,"
         },

@@ -58,7 +58,7 @@ Contents
 |[CAPE-PAND-X-UF47-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPE-PAND-X-UF47-V25/)|[SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPE-PAND-X-UF47-V25/)|[PC1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPE-PAND-X-UF47-V25/)|
 |CAPE-PAND-X-UF47-V63D||PC2|
 |RESA-06038-X-O1003X4-01||R1|
-|RESA-06038-X-O102X4-01||R2|
+|[RESA-06038-X-O102X4-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[SMD (0603-8) 1k Ohm (x4) Resistor Array](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESA-06038-X-O102X4-01/)|
 |RESE-0805-X-UNMATCHED-01||R3, R11|
 |[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 |[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[R5, R7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|

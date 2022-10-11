@@ -45,7 +45,7 @@ Contents
 |CAPC-0603-X-PF220-01||C26, C27|
 |[CAPC-0603-X-PF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[SMD (0603) 100 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|[C28, C29, C30, C31](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF100-V50/)|
 |CAPC-0805-X-UNMATCHED-01||C33|
-|HEAD-I01-X-UNMATCHED-01||CONN3|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S323-X-UNMATCHED-01||D1|
 |FERB-0805-X-UNMATCHED-01||FB1, FB2, FB3, FB4, FB7, FB8, FB9, FB10|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC3, LEFTMIC, NEOPIX, OSC1, RIGHTMIC, RPI1, SW6, X1, X2, X5|
@@ -107,7 +107,7 @@ Contents
 - oompParts: C32,CAPC-0805-X-UF10-V10
 - oompParts: C33,CAPC-0805-X-UNMATCHED-01
 - oompParts: C34,CAPC-0805-X-UF10-V10
-- oompParts: CONN3,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN3,HEAD-JSTSH-X-PI04-RS
 - oompParts: D1,DIOD-S323-X-UNMATCHED-01
 - oompParts: FB1,FERB-0805-X-UNMATCHED-01
 - oompParts: FB2,FERB-0805-X-UNMATCHED-01

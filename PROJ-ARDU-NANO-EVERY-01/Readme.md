@@ -38,8 +38,10 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPC-UNMATCHED-X-UNMATCHED-01||C1, C2, C5, C7, C8, C9, C10, C11|
+|CAPC-UNMATCHED-X-NF47-01||C1|
+|CAPC-UNMATCHED-X-NF100-01||C2, C7, C8, C10, C11|
 |CAPC-UNMATCHED-X-UF22-01||C3, C4|
+|CAPC-UNMATCHED-X-UF47-01||C5, C9|
 |CAPC-UNMATCHED-X-UF1-01||C6|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2|
 |LEDS-UNMATCHED-Y-STAN-01||DL1, DL3, DL4|
@@ -72,17 +74,17 @@ Contents
 - sources: All source files from https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
 - linkBuyPage: https://store.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
 - oompID: PROJ-ARDU-NANO-EVERY-01
-- oompParts: C1,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C2,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C1,CAPC-UNMATCHED-X-NF47-01
+- oompParts: C2,CAPC-UNMATCHED-X-NF100-01
 - oompParts: C3,CAPC-UNMATCHED-X-UF22-01
 - oompParts: C4,CAPC-UNMATCHED-X-UF22-01
-- oompParts: C5,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C5,CAPC-UNMATCHED-X-UF47-01
 - oompParts: C6,CAPC-UNMATCHED-X-UF1-01
-- oompParts: C7,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C8,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C9,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C10,CAPC-UNMATCHED-X-UNMATCHED-01
-- oompParts: C11,CAPC-UNMATCHED-X-UNMATCHED-01
+- oompParts: C7,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C8,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C9,CAPC-UNMATCHED-X-UF47-01
+- oompParts: C10,CAPC-UNMATCHED-X-NF100-01
+- oompParts: C11,CAPC-UNMATCHED-X-NF100-01
 - oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: D2,DIOD-UNMATCHED-X-UNMATCHED-01
 - oompParts: DL1,LEDS-UNMATCHED-Y-STAN-01

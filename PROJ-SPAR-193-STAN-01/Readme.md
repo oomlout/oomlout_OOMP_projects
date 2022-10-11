@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-193-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||FRAME1, RJ11|
+|HEAD-I01-X-UNMATCHED-01||HEADERS|
+
 ## Images
   
   
@@ -52,6 +61,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Adapter_Board-ICD_ICD2 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/193
 - oompID: PROJ-SPAR-193-STAN-01
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: HEADERS,HEAD-I01-X-UNMATCHED-01
+- oompParts: RJ11,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FRAME1,,FRAME-LETTERNO_PACKAGE,DUMMY,Schematic Frame,Nathan Seidle,v21,
 - rawParts: HEADERS,,M06POLAR,MOLEX-1X6,Header 6,,,
 - rawParts: JP1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,,

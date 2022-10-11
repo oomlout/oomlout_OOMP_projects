@@ -41,6 +41,238 @@
             "value": "PROJ-SPAR-9713-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "3.3,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "5,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPX-3528-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPX-3528-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-0402-X-PF18-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C15,CAPC-0402-X-PF18-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C16,CAPC-0402-X-PF11-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C17,CAPC-0402-X-PF11-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F1,UNMATCHED-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "GND,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J6,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J7,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-0603-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PROGRAM,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PWR,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PWR_SEL,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0402-X-O331-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R13,RESE-0402-X-O391-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R14,RESE-0402-X-O241-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R15,RESE-0402-X-O711-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R16,RESE-0402-X-O241-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RESET,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "USB,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "USER,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "3.3,M01PTH,M01PTH,1X01,Header 1,,"
         },

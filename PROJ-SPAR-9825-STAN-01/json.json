@@ -41,6 +41,118 @@
             "value": "PROJ-SPAR-9825-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPT-3216-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-PF22-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-PF22-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F1,REFU-1206-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O270-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O270-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O101-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O101-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0603-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,"
         },

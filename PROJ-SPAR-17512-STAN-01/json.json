@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-17512-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI2X20-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
             "name": "rawParts",
             "value": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,"
         },

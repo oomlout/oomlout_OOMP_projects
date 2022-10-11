@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9773-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F1, F2|
+|TERS-UNMATCHED-X-UNMATCHED-01||J1, J3|
+|[DCJP-21D-X-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[2.1 mm DC Jack](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DCJP-21D-X-STAN-01/)|
+
 ## Images
   
   
@@ -52,6 +62,11 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun-Fuse-Breakout-Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9773
 - oompID: PROJ-SPAR-9773-STAN-01
+- oompParts: F1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,TERS-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,DCJP-21D-X-STAN-01
+- oompParts: J3,TERS-UNMATCHED-X-UNMATCHED-01
 - rawParts: F1,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,,,,,,
 - rawParts: F2,72V/0.25A,PPTC_PTH,PTH,Resettable Fuse PPTC,,RES-08490,,,,72V/0.25A,
 - rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,,

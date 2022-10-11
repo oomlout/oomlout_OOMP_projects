@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9614-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$4|
+
 ## Images
   
   
@@ -52,6 +61,8 @@ Contents
 - sources: All source files from https://github.com/sparkfun/USB_microB_Breakout_Board (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9614
 - oompID: PROJ-SPAR-9614-STAN-01
+- oompParts: JP5,HEAD-I01-X-PI05-01
+- oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP2,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,
 - rawParts: JP3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,
 - rawParts: JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,

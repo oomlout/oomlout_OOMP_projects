@@ -41,6 +41,94 @@
             "value": "PROJ-SPAR-9101-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP4,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP5,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP6,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP7,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP8,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP9,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP10,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP11,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP12,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP13,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP14,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP15,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP16,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP17,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP18,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP19,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP20,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP21,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP22,HEAD-I01-X-PI01-01"
+        },
+        {
             "name": "rawParts",
             "value": "GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,"
         },

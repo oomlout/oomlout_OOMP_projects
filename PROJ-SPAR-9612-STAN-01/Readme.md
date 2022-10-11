@@ -8,6 +8,7 @@ Contents
 * [PRS9612 > Audio Amplifier Kit-STA540](#prs9612--audio-amplifier-kit-sta540)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,27 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPX-UNMATCHED-X-PF10-01||C1, C2|
+|CAPX-UNMATCHED-X-NF100-01||C3, C4, C5|
+|CAPX-UNMATCHED-X-UNMATCHED-01||C6|
+|CAPX-UNMATCHED-X-UF1-01||C7, C8, C14|
+|CAPX-UNMATCHED-X-UF47-01||C9, C10, C11, C12|
+|CAPX-UNMATCHED-X-UF100-01||C13|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[JP1, JP2, JP3, JP4, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP12, JP13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1, LED2|
+|LEDS-UNMATCHED-R-STAN-01||LED3|
+|RESE-UNMATCHED-X-O1003-01||R1, R3|
+|RESE-UNMATCHED-X-O473-01||R2, R4|
+|RESE-UNMATCHED-X-O103-01||R5, R6, R7, R8, R10|
+|RESE-UNMATCHED-X-O102-01||R9, R11, R12|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S1, U1, U2, VR1, VR2|
+
 ## Images
   
   
@@ -47,6 +69,47 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Audio_Amplifier_Kit-STA540 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9612
 - oompID: PROJ-SPAR-9612-STAN-01
+- oompParts: C1,CAPX-UNMATCHED-X-PF10-01
+- oompParts: C2,CAPX-UNMATCHED-X-PF10-01
+- oompParts: C3,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C4,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C5,CAPX-UNMATCHED-X-NF100-01
+- oompParts: C6,CAPX-UNMATCHED-X-UNMATCHED-01
+- oompParts: C7,CAPX-UNMATCHED-X-UF1-01
+- oompParts: C8,CAPX-UNMATCHED-X-UF1-01
+- oompParts: C9,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C10,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C11,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C12,CAPX-UNMATCHED-X-UF47-01
+- oompParts: C13,CAPX-UNMATCHED-X-UF100-01
+- oompParts: C14,CAPX-UNMATCHED-X-UF1-01
+- oompParts: JP1,TERS-35D-L-PI02-01
+- oompParts: JP2,TERS-35D-L-PI02-01
+- oompParts: JP3,TERS-35D-L-PI02-01
+- oompParts: JP4,TERS-35D-L-PI02-01
+- oompParts: JP5,TERS-35D-L-PI02-01
+- oompParts: JP12,HEAD-I01-X-PI03-01
+- oompParts: JP13,HEAD-I01-X-PI03-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED2,LEDS-UNMATCHED-G-STAN-01
+- oompParts: LED3,LEDS-UNMATCHED-R-STAN-01
+- oompParts: R1,RESE-UNMATCHED-X-O1003-01
+- oompParts: R2,RESE-UNMATCHED-X-O473-01
+- oompParts: R3,RESE-UNMATCHED-X-O1003-01
+- oompParts: R4,RESE-UNMATCHED-X-O473-01
+- oompParts: R5,RESE-UNMATCHED-X-O103-01
+- oompParts: R6,RESE-UNMATCHED-X-O103-01
+- oompParts: R7,RESE-UNMATCHED-X-O103-01
+- oompParts: R8,RESE-UNMATCHED-X-O103-01
+- oompParts: R9,RESE-UNMATCHED-X-O102-01
+- oompParts: R10,RESE-UNMATCHED-X-O103-01
+- oompParts: R11,RESE-UNMATCHED-X-O102-01
+- oompParts: R12,RESE-UNMATCHED-X-O102-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,10pF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,
 - rawParts: C2,10pF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,
 - rawParts: C3,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,

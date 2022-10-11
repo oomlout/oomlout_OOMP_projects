@@ -40,7 +40,7 @@ Contents
 | :---: | :---: | :---: |
 |[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C2, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|HEAD-I01-X-UNMATCHED-01||CONN1, CONN2|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1, CONN2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[LEDS-2121-RGB-STAN-CA](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|[SMD (2121) RGB LED Common Anode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|[LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20, LED21, LED22, LED23, LED24, LED25, LED26, LED27, LED28, LED29, LED30, LED31, LED32, LED33, LED34, LED35, LED36, LED37, LED38, LED39, LED40, LED41, LED42, LED43, LED44, LED45, LED46, LED47, LED48, LED49, LED50, LED51, LED52, LED53, LED54, LED55, LED56, LED57, LED58, LED59, LED60, LED61, LED62, LED63, LED64, LED66, LED67, LED68, LED69, LED70, LED71, LED72, LED73, LED74, LED75, LED76, LED77, LED78, LED79, LED80, LED81, LED82, LED83, LED84, LED85, LED86, LED87, LED88, LED89, LED90, LED91, LED92, LED93, LED94, LED95, LED96, LED97, LED98, LED99, LED100, LED101, LED102, LED103, LED104, LED105, LED106, LED107, LED108, LED109, LED110, LED111, LED112, LED113, LED114, LED115, LED116, LED117](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-2121-RGB-STAN-CA/)|
 |[RESE-0603-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[SMD (0603) 2.2k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|[R1, R7, R42](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O222-01/)|
 |[RESE-0603-X-O510-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|[SMD (0603) 51 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|[R2, R3, R5, R6, R9, R11, R12, R14, R15, R17, R18, R20, R21, R23, R24, R26, R28, R29, R31, R32, R34, R35, R37, R38, R40, R41](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O510-01/)|
@@ -73,8 +73,8 @@ Contents
 - oompParts: C4,CAPC-0805-X-UF10-V10
 - oompParts: C5,CAPC-0805-X-UF10-V10
 - oompParts: C6,CAPC-0603-X-UF1-V25
-- oompParts: CONN1,HEAD-I01-X-UNMATCHED-01
-- oompParts: CONN2,HEAD-I01-X-UNMATCHED-01
+- oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
+- oompParts: CONN2,HEAD-JSTSH-X-PI04-RS
 - oompParts: LED1,LEDS-2121-RGB-STAN-CA
 - oompParts: LED2,LEDS-2121-RGB-STAN-CA
 - oompParts: LED3,LEDS-2121-RGB-STAN-CA

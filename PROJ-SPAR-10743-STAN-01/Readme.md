@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C2, C3, C4, C5, C6, C9, C10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C7, C8|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |REFU-1206-X-UNMATCHED-01||F1|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, S1, U1, Y1|
 |HEAD-I01-X-UNMATCHED-01||JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP12|
@@ -76,8 +76,8 @@ Contents
 - oompParts: C4,CAPC-0402-X-NF100-V10
 - oompParts: C5,CAPC-0402-X-NF100-V10
 - oompParts: C6,CAPC-0402-X-NF100-V10
-- oompParts: C7,CAPT-3216-X-UF10-01
-- oompParts: C8,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
+- oompParts: C8,CAPT-3216-X-UF10-V10
 - oompParts: C9,CAPC-0402-X-NF100-V10
 - oompParts: C10,CAPC-0402-X-NF100-V10
 - oompParts: F1,REFU-1206-X-UNMATCHED-01

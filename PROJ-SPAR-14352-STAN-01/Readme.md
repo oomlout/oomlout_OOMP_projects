@@ -38,8 +38,8 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C, U$3, U1|
-|HEAD-UNMATCHED-X-PI04-01||J1, J8, J9, J10|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||I2C, U1|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J8, J9, J10, LOGO3, U$3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[J2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
 |[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
@@ -68,21 +68,22 @@ Contents
 - linkBuyPage: https://www.sparkfun.com/products/14352
 - oompID: PROJ-SPAR-14352-STAN-01
 - oompParts: I2C,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J2,HEAD-I01-X-PI08-01
 - oompParts: J3,HEAD-I01-X-PI10-01
 - oompParts: J4,HEAD-I01-X-PI06-01
 - oompParts: J6,HEAD-I01-X-PI07-01
-- oompParts: J8,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J9,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J10,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J8,HEAD-JSTSH-X-PI04-RS
+- oompParts: J9,HEAD-JSTSH-X-PI04-RS
+- oompParts: J10,HEAD-JSTSH-X-PI04-RS
+- oompParts: LOGO3,HEAD-JSTSH-X-PI04-RS
 - oompParts: Q1,UNMATCHED-SO23-X-KBSS138-01
 - oompParts: Q2,UNMATCHED-SO23-X-KBSS138-01
 - oompParts: R1,RESE-0603-X-O472-01
 - oompParts: R2,RESE-0603-X-O472-01
 - oompParts: R3,RESE-0603-X-O472-01
 - oompParts: R4,RESE-0603-X-O472-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$3,HEAD-JSTSH-X-PI04-RS
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: FD1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,
 - rawParts: FD2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,,

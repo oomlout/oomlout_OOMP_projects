@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,19 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9729-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[TERS-35D-L-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI08-01/)|[3.5 mm 8 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI08-01/)|[JP1, JP4, JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI08-01/)|
+|TERS-35D-L-UNMATCHED-01||JP2|
+|[TERS-35D-L-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[3.5 mm 4 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI04-01/)|
+|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[3.5 mm 2 Pin Blue Screw Terminal](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|[JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/TERS-35D-L-PI02-01/)|
+|LEDS-UNMATCHED-G-STAN-01||LED1|
+|RESE-UNMATCHED-X-O331-01||R1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||S1, S2, U1|
+
 ## Images
   
   
@@ -52,6 +66,17 @@ Contents
 - sources: All source files from https://github.com/sparkfun/ProtoScrewShield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9729
 - oompID: PROJ-SPAR-9729-STAN-01
+- oompParts: JP1,TERS-35D-L-PI08-01
+- oompParts: JP2,TERS-35D-L-UNMATCHED-01
+- oompParts: JP3,TERS-35D-L-PI04-01
+- oompParts: JP4,TERS-35D-L-PI08-01
+- oompParts: JP5,TERS-35D-L-PI08-01
+- oompParts: JP6,TERS-35D-L-PI02-01
+- oompParts: LED1,LEDS-UNMATCHED-G-STAN-01
+- oompParts: R1,RESE-UNMATCHED-X-O331-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M083.5MM-8,SCREWTERMINAL-3.5MM-8,Header 8,,
 - rawParts: JP2,,M063.5MM-6,SCREWTERMINAL-3.5MM-6,Header 6,,
 - rawParts: JP3,,M04SCREW,SCREWTERMINAL-3.5MM-4,Header 4,,

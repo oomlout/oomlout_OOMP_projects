@@ -41,6 +41,54 @@
             "value": "PROJ-SPAR-9964-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-UF1-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-PF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0402-X-NF100-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "M1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0402-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0402-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0402-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0402-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,"
         },

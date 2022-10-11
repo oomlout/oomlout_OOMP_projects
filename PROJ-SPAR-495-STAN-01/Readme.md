@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-495-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U$1|
+
 ## Images
   
   
@@ -52,6 +61,9 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SOIC20-DIP_Adapter (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/495
 - oompID: PROJ-SPAR-495-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI10-01
+- oompParts: JP2,HEAD-I01-X-PI10-01
+- oompParts: U$1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,M100.1,M100.1,1X10,Header 10,,
 - rawParts: JP2,M100.1,M100.1,1X10,Header 10,,
 - rawParts: U$1,SOIC_20,SOIC_20,SO20W,,,

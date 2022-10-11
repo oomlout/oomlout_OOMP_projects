@@ -41,6 +41,178 @@
             "value": "PROJ-SPAR-18575-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-NF220-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-UF47D-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-UF47D-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0603-X-NF220-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,LEDS-0603-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D5,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D8,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J10,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J13,HEAD-I01-X-PI01-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "MEAS,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,MOSP-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0603-X-O203-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "3V3_LED,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,"
         },

@@ -41,6 +41,158 @@
             "value": "PROJ-SPAR-15801-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,LEDS-0603-L-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D2,LEDS-0603-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D3,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D4,DIOD-S323-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D5,DIOD-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D6,DIOD-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D7,DIOD-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D8,DIOD-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,TERS-35D-L-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J6,HEAD-I01-X-PI02-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J7,HEAD-I01-X-PI07-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO3,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,MOSP-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O223-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-O101-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R8,RESE-0603-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R9,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0603-X-O222-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R12,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R13,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "S1,UNMATCHED-4628-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "C1,1.0uF,1.0UF-0603-16V-10%,0603,1\u00c3\u0082\u00c2\u00b5F ceramic capacitors,,CAP-00868,,1.0uF,"
         },

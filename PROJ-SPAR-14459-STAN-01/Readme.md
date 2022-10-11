@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |CAPC-0603-X-UNMATCHED-01||C1, C3|
-|HEAD-UNMATCHED-X-PI04-01||J1, J6, J7, J8|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J1, J6, J7, J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J2, J12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J3, J5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
@@ -68,14 +68,14 @@ Contents
 - oompID: PROJ-SPAR-14459-STAN-01
 - oompParts: C1,CAPC-0603-X-UNMATCHED-01
 - oompParts: C3,CAPC-0603-X-UNMATCHED-01
-- oompParts: J1,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J1,HEAD-JSTSH-X-PI04-RS
 - oompParts: J2,HEAD-I01-X-PI02-01
 - oompParts: J3,HEAD-I01-X-PI04-01
 - oompParts: J4,HEAD-I01-X-PI06-01
 - oompParts: J5,HEAD-I01-X-PI04-01
-- oompParts: J6,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J7,HEAD-UNMATCHED-X-PI04-01
-- oompParts: J8,HEAD-UNMATCHED-X-PI04-01
+- oompParts: J6,HEAD-JSTSH-X-PI04-RS
+- oompParts: J7,HEAD-JSTSH-X-PI04-RS
+- oompParts: J8,HEAD-JSTSH-X-PI04-RS
 - oompParts: J12,HEAD-I01-X-PI02-01
 - oompParts: U2,VREG-SO235-X-KAP2112K-V33D
 - oompParts: U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01

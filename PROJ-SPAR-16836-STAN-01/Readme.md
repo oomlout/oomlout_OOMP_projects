@@ -8,6 +8,7 @@ Contents
 * [PRS16836 > SparkFun ProDriver TC78H670FTG](#prs16836--sparkfun-prodriver-tc78h670ftg)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -27,6 +28,30 @@ Contents
 ## PCB
   
 [![pcb](eagleImage.png)](eagleImage.png)
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|CAPC-UNMATCHED-X-NF22-01||C1|
+|CAPE-PAND-X-UF47-01||C2|
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|DIOD-UNMATCHED-X-UNMATCHED-01||D1|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||D1BP, F1, J1, JP4, LOGO3, OSCMBP, PTCBP, S1, U1, U2, VR1|
+|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
+|HEAD-UNMATCHED-X-UNMATCHED-01||J2, J4, J5, J7|
+|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
+|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[J6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
+|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
+|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[RESE-0603-X-O473-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|[SMD (0603) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O473-01/)|
+|RESE-UNMATCHED-X-UNMATCHED-01||R3|
+|[RESE-0603-X-O241-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|[SMD (0603) 240 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O241-01/)|
+|[RESE-0603-X-O391-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|[SMD (0603) 390 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|[R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O391-01/)|
+|RESE-0603-X-UNMATCHED-01||R6, R13|
+|[RESE-0603-X-O223-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|[SMD (0603) 22k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|[R7, R8, R9, R10, R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O223-01/)|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+
 ## Images
   
   
@@ -47,6 +72,44 @@ Contents
 - sources: All source files from https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/16836
 - oompID: PROJ-SPAR-16836-STAN-01
+- oompParts: C1,CAPC-UNMATCHED-X-NF22-01
+- oompParts: C2,CAPE-PAND-X-UF47-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: C4,CAPC-0603-X-NF100-V50
+- oompParts: D1,DIOD-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1BP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: D2,LEDS-0603-R-STAN-01
+- oompParts: F1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J2,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J3,HEAD-I01-X-PI02-01
+- oompParts: J4,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J5,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J6,HEAD-I01-X-PI10-01
+- oompParts: J7,HEAD-UNMATCHED-X-UNMATCHED-01
+- oompParts: J8,HEAD-I01-X-PI04-01
+- oompParts: JP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LOGO3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: OSCMBP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: PTCBP,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O103-01
+- oompParts: R2,RESE-0603-X-O473-01
+- oompParts: R3,RESE-UNMATCHED-X-UNMATCHED-01
+- oompParts: R4,RESE-0603-X-O241-01
+- oompParts: R5,RESE-0603-X-O391-01
+- oompParts: R6,RESE-0603-X-UNMATCHED-01
+- oompParts: R7,RESE-0603-X-O223-01
+- oompParts: R8,RESE-0603-X-O223-01
+- oompParts: R9,RESE-0603-X-O223-01
+- oompParts: R10,RESE-0603-X-O223-01
+- oompParts: R11,RESE-0603-X-O223-01
+- oompParts: R12,RESE-0603-X-O223-01
+- oompParts: R13,RESE-0603-X-UNMATCHED-01
+- oompParts: R14,RESE-0603-X-O102-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,22nF,22NF/22,000PF-0603-50V-10%,0603,0.022uF/22nF/22,000pF ceramic capacitors,,CAP-07885,,,,,22nF,
 - rawParts: C2,47uF,47UF-POLAR-PANASONIC_D-35V-20%,PANASONIC_D,47ÃÂµF polarized capacitors,,CAP-08478,,,,,47uF,
 - rawParts: C3,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,,,,0.1uF,

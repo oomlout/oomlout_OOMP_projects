@@ -41,6 +41,26 @@
             "value": "PROJ-SPAR-15035-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "ATX_POWER_CONNECTOR,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,TERS-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,TERS-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI04-01"
+        },
+        {
             "name": "rawParts",
             "value": "ATX_POWER_CONNECTOR,COMPUTER_PERIPHERAL_POWERRA-VT,COMPUTER_PERIPHERAL_POWERRA-VT,COMPUTER-PERIPHERAL-POWER-RA-VT,ATX 4-Pin Power Supply Connector - Right Angle and Vertical PTH Mount,PRT-15700,,,"
         },

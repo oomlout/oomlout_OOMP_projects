@@ -41,6 +41,22 @@
             "value": "PROJ-SPAR-9453-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-O101-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "CC_TEXT1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,Creative Commons License summary,,"
         },

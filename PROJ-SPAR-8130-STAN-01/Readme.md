@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,16 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-8130-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP3, JP4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+|RESE-0402-X-UNMATCHED-01||R1, R2, R3|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1|
+
 ## Images
   
   
@@ -52,6 +63,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575 (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/8130
 - oompID: PROJ-SPAR-8130-STAN-01
+- oompParts: JP1,HEAD-I01-X-PI05-01
+- oompParts: JP3,HEAD-I01-X-PI08-01
+- oompParts: JP4,HEAD-I01-X-PI08-01
+- oompParts: R1,RESE-0402-X-UNMATCHED-01
+- oompParts: R2,RESE-0402-X-UNMATCHED-01
+- oompParts: R3,RESE-0402-X-UNMATCHED-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: JP1,,M05,1X05,Header 5,,
 - rawParts: JP3,,M08,1X08,Header 8,,
 - rawParts: JP4,,M08,1X08,Header 8,,

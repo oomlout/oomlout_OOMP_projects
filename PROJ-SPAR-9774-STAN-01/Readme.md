@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,15 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9774-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||F1, F2, F3, F4, J1, S1, S2, S3, S4, S5, S6, S7, S8, S9|
+|LEDS-UNMATCHED-R-STAN-01||LED1|
+|RESE-UNMATCHED-X-O102-01||R1|
+
 ## Images
   
   
@@ -52,6 +62,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Benchtop_Power_Board_Kit (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9774
 - oompID: PROJ-SPAR-9774-STAN-01
+- oompParts: F1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: F2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: F3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: F4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LED1,LEDS-UNMATCHED-R-STAN-01
+- oompParts: R1,RESE-UNMATCHED-X-O102-01
+- oompParts: S1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S6,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S7,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: S9,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: F1,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
 - rawParts: F2,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,
 - rawParts: F3,FUSEX20MM,FUSEX20MM,FUSE_5MM,,,

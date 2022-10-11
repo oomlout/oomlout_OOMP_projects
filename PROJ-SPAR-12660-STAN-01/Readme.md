@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C6, C17, C18|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C6, C17, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C5, C7, C13, C14, C15, C16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |[CAPC-0603-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[SMD (0603) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
 |CAPC-0603-X-PF470-01||C4|
@@ -79,12 +79,12 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MP3_Player_Shield (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/12660
 - oompID: PROJ-SPAR-12660-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
 - oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0603-X-PF22-V50
 - oompParts: C4,CAPC-0603-X-PF470-01
 - oompParts: C5,CAPC-0603-X-NF100-V50
-- oompParts: C6,CAPT-3216-X-UF10-01
+- oompParts: C6,CAPT-3216-X-UF10-V10
 - oompParts: C7,CAPC-0603-X-NF100-V50
 - oompParts: C8,CAPC-0603-X-PF22-V50
 - oompParts: C9,CAPC-0603-X-UNMATCHED-01
@@ -95,8 +95,8 @@ Contents
 - oompParts: C14,CAPC-0603-X-NF100-V50
 - oompParts: C15,CAPC-0603-X-NF100-V50
 - oompParts: C16,CAPC-0603-X-NF100-V50
-- oompParts: C17,CAPT-3216-X-UF10-01
-- oompParts: C18,CAPT-3216-X-UF10-01
+- oompParts: C17,CAPT-3216-X-UF10-V10
+- oompParts: C18,CAPT-3216-X-UF10-V10
 - oompParts: J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: JP1,TERS-35D-L-UNMATCHED-01
 - oompParts: JP3,HEAD-I01-X-PI03-01

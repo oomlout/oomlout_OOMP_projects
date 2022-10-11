@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
 
@@ -31,6 +32,14 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-9419-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||U1, U2, FRAME1|
+|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[2.54 mm 8 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI08-01/)|
+
 ## Images
   
   
@@ -51,3 +60,16 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroSD_Sniffer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/9419
 - oompID: PROJ-SPAR-9419-STAN-01
+- oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: JP1,HEAD-I01-X-PI08-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: FRAME1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- rawParts: U1,MICRO-SDCARD,MICRO-SDCARD,MICRO-SDCARD,,,,
+- rawParts: LOGO1,OSHW-LOGOM,OSHW-LOGO-M,OSHW-LOGO-M,,,,
+- rawParts: LOGO2,SFE_LOGO_FLAME.2_INCH,SFE_LOGO_FLAME_.2,SFE_LOGO_FLAME_.2,,,,
+- rawParts: JP1,,1X08,1X08,,,,
+- rawParts: U2,microSD Socket,MICROSD_1_1,MICROSD_1_1,,,,
+- rawParts: FID2,FIDUCIAL1X2,FIDUCIAL-1X2,FIDUCIAL-1X2,,,,
+- rawParts: FID1,FIDUCIAL1X2,FIDUCIAL-1X2,FIDUCIAL-1X2,,,,
+- rawParts: FRAME1,,CREATIVE_COMMONS,CREATIVE_COMMONS,,,,
+- rawParts: LOGO3,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE_LOGO_NAME_FLAME_.1,,,,

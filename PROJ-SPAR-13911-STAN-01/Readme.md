@@ -40,12 +40,13 @@ Contents
 | :---: | :---: | :---: |
 |CAPC-0402-X-UNMATCHED-01||C1, C2, C3, C4, C8, C9|
 |[CAPC-0402-X-NF100-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[SMD (0402) 100 nF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|[C5, C6, C7, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0402-X-NF100-V10/)|
-|CAPT-3216-X-UF10-01||C10, C12|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C10, C12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J8, U$3, U1, U2|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J8, U1, U2|
 |RESE-0603-X-O10-01||R1, R2|
 |[RESE-0603-X-O472-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[SMD (0603) 4.7k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|[R3, R4, R5, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O472-01/)|
 |[RESE-0603-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[SMD (0603) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O471-01/)|
+|UNMATCHED-SO235-X-UNMATCHED-01||U$3|
 
 ## Images
   
@@ -76,9 +77,9 @@ Contents
 - oompParts: C7,CAPC-0402-X-NF100-V10
 - oompParts: C8,CAPC-0402-X-UNMATCHED-01
 - oompParts: C9,CAPC-0402-X-UNMATCHED-01
-- oompParts: C10,CAPT-3216-X-UF10-01
+- oompParts: C10,CAPT-3216-X-UF10-V10
 - oompParts: C11,CAPC-0402-X-NF100-V10
-- oompParts: C12,CAPT-3216-X-UF10-01
+- oompParts: C12,CAPT-3216-X-UF10-V10
 - oompParts: D1,LEDS-0603-R-STAN-01
 - oompParts: J8,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: R1,RESE-0603-X-O10-01
@@ -89,7 +90,7 @@ Contents
 - oompParts: R6,RESE-0603-X-O471-01
 - oompParts: R7,RESE-0603-X-O472-01
 - oompParts: R8,RESE-0603-X-O472-01
-- oompParts: U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U$3,UNMATCHED-SO235-X-UNMATCHED-01
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C1,1.0uF,1.0UF-0402-16V-10%,0402,1ÃÂµF ceramic capacitors,CAP-12417,1.0uF,

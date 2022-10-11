@@ -38,7 +38,7 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPT-3216-X-UF10-01||C1, C2, C5, C7|
+|[CAPT-3216-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[SMD (3216) 10 uF Capacitor (Tantalum) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|[C1, C2, C5, C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPT-3216-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3, C4, C6, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |LEDS-1206-G-STAN-01||D1, D2, D3, D4, D5, D6, D7, D8|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J2, S1, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TS1, U1, U2|
@@ -67,13 +67,13 @@ Contents
 - sources: All source files from https://github.com/sparkfun/Touch_Potentiometer (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/13144
 - oompID: PROJ-SPAR-13144-STAN-01
-- oompParts: C1,CAPT-3216-X-UF10-01
-- oompParts: C2,CAPT-3216-X-UF10-01
+- oompParts: C1,CAPT-3216-X-UF10-V10
+- oompParts: C2,CAPT-3216-X-UF10-V10
 - oompParts: C3,CAPC-0603-X-NF100-V50
 - oompParts: C4,CAPC-0603-X-NF100-V50
-- oompParts: C5,CAPT-3216-X-UF10-01
+- oompParts: C5,CAPT-3216-X-UF10-V10
 - oompParts: C6,CAPC-0603-X-NF100-V50
-- oompParts: C7,CAPT-3216-X-UF10-01
+- oompParts: C7,CAPT-3216-X-UF10-V10
 - oompParts: C8,CAPC-0603-X-NF100-V50
 - oompParts: D1,LEDS-1206-G-STAN-01
 - oompParts: D2,LEDS-1206-G-STAN-01

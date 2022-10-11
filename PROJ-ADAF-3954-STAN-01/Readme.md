@@ -43,10 +43,11 @@ Contents
 |[DIOD-S323-X-K4148-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|[SMD (SOD-323) Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|[D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S323-X-K4148-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC2|
 |UNMATCHED-SO235-X-UNMATCHED-01||IC3, U2|
-|HEAD-I01-X-UNMATCHED-01||JP1, JP2, JP3, JP4, X2|
+|HEAD-I01-X-UNMATCHED-01||JP1, JP2, JP3, JP4|
 |[LEDS-3535-RGB-K2812-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|[SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|[LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-3535-RGB-K2812-01/)|
 |[MOSN-SO23-X-KBSS138-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|[SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|[Q1, Q2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/MOSN-SO23-X-KBSS138-01/)|
 |[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[SMD (0603) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|[R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O103-01/)|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[X2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 
 ## Images
   
@@ -121,7 +122,7 @@ Contents
 - oompParts: R7,RESE-0603-X-O103-01
 - oompParts: R8,RESE-0603-X-O103-01
 - oompParts: U2,UNMATCHED-SO235-X-UNMATCHED-01
-- oompParts: X2,HEAD-I01-X-UNMATCHED-01
+- oompParts: X2,HEAD-JSTSH-X-PI04-RS
 - rawParts: C1,10u,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C2,10u,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,
 - rawParts: C3,10u,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,

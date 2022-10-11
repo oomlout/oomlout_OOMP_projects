@@ -41,6 +41,98 @@
             "value": "PROJ-SPAR-15332-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "A1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0402-X-UF47-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0402-X-UF47D-V63D"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0402-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0402-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0402-X-PF6-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPC-0402-X-PF6-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPC-0402-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPC-0402-X-NF47-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C14,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C15,CAPC-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C16,CAPC-0402-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C18,CAPC-0402-X-NF500-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L2,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L3,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L4,UNMATCHED-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0402-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Y1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
             "name": "rawParts",
             "value": "A1,2.4GHZ-3.2X1.6MM,ANTENNA2.4GHZ-8.0X1.0MM,ANT-2.4GHZ-8.0X1.0MM,Single-ended Antennae,,ANT-14377,,,"
         },

@@ -46,7 +46,7 @@
         },
         {
             "name": "oompParts",
-            "value": "J1,HEAD-UNMATCHED-X-PI04-01"
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -66,15 +66,19 @@
         },
         {
             "name": "oompParts",
-            "value": "J8,HEAD-UNMATCHED-X-PI04-01"
+            "value": "J8,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
-            "value": "J9,HEAD-UNMATCHED-X-PI04-01"
+            "value": "J9,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
-            "value": "J10,HEAD-UNMATCHED-X-PI04-01"
+            "value": "J10,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "LOGO3,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -102,7 +106,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U$3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U$3,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",

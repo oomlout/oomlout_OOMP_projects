@@ -9,6 +9,7 @@ Contents
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
+	* [OOMP Parts](#oomp-parts)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -32,6 +33,17 @@ Contents
 
 - Interactive BOM page: [ibom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ-SPAR-17725-STAN-01/kicad/bom/ibom.html)
 
+## OOMP Parts
+  
+
+|OOMP ID|Name|Identifier|
+| :---: | :---: | :---: |
+|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||CTS, DCD, DSR, DTR, J5, LOGO2, RI, RTS, RXI, TXO, U2|
+|[LEDS-0603-L-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[SMD (0603) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-L-STAN-01/)|
+|HEAD-I01-X-PI01-01||J1, J2|
+|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[SMD (0603) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0603-X-O102-01/)|
+
 ## Images
   
   
@@ -52,6 +64,22 @@ Contents
 - sources: All source files from https://github.com/sparkfun/MicroMod_Asset_Tracker_Update_Tool (source licence details in srcLicense.md)
 - linkBuyPage: https://www.sparkfun.com/products/17725
 - oompID: PROJ-SPAR-17725-STAN-01
+- oompParts: C3,CAPC-0603-X-NF100-V50
+- oompParts: CTS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: D1,LEDS-0603-L-STAN-01
+- oompParts: DCD,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: DSR,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: DTR,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: J1,HEAD-I01-X-PI01-01
+- oompParts: J2,HEAD-I01-X-PI01-01
+- oompParts: J5,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: LOGO2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: R1,RESE-0603-X-O102-01
+- oompParts: RI,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RTS,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: RXI,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: TXO,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - rawParts: C3,0.1uF,0.1UF-0603-25V-5%,0603,0.1ÃÂµF ceramic capacitors,CAP-08604,0.1uF,
 - rawParts: CTS,JUMPER-COMBO_2_NC_TRACE,JUMPER-COMBO_2_NC_TRACE,COMBO-JUMPER_2_NC_TRACE,,,,
 - rawParts: D1,BLUE,LED-BLUE0603,LED-0603,Blue SMD LED,DIO-08575,BLUE,

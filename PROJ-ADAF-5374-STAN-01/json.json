@@ -54,11 +54,11 @@
         },
         {
             "name": "oompParts",
-            "value": "CONN3,HEAD-I01-X-UNMATCHED-01"
+            "value": "CONN3,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
-            "value": "CONN4,HEAD-I01-X-UNMATCHED-01"
+            "value": "CONN4,HEAD-JSTSH-X-PI04-RS"
         },
         {
             "name": "oompParts",
@@ -90,7 +90,7 @@
         },
         {
             "name": "oompParts",
-            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "value": "U1,SENS-LG14-X-K345-01"
         },
         {
             "name": "oompParts",
