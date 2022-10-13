@@ -1,0 +1,104 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0011"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC20 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "SOIC20/SOIC20.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "SOIC20/SOIC20.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR11"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0011-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo76x107,logo76x107,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo54x76,logo54x76,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_02x10_Counter_Clockwise,SSOP-20_4.4x6.5mm_P0.65mm,SSOP-20_4.4x6.5mm_P0.65mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_02x10_Counter_Clockwise,SOIC-20W_7.5x12.8mm_P1.27mm,SOIC-20W_7.5x12.8mm_P1.27mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0011-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC20 Breakout Board (sirboard)"
+        }
+    ]
+}

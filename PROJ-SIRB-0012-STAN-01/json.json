@@ -1,0 +1,120 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0012"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC24 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "SOIC24/SOIC24.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "SOIC24/SOIC24.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR12"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0012-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J6,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI12-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI12-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo76x107,logo76x107,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_02x12_Counter_Clockwise,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_02x12_Counter_Clockwise,SOIC-24W_7.5x15.4mm_P1.27mm,SOIC-24W_7.5x15.4mm_P1.27mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_02x12_Counter_Clockwise,QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm,QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J6,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,PinHeader_1x05_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x12,PinHeader_1x12_P2.54mm_Vertical,PinHeader_1x12_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,Conn_01x12,PinHeader_1x12_P2.54mm_Vertical,PinHeader_1x12_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0012-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC24 Breakout Board (sirboard)"
+        }
+    ]
+}

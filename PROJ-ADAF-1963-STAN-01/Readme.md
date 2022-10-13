@@ -39,10 +39,11 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |HEAD-I01-X-PI01-01||ADC, PWM, VBUS|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C1|
 |CAPC-0805-X-PF33-01||C2, C4, C6|
 |CAPC-0805-X-PF10-01||C3, C5, C10|
 |CAPX-UNMATCHED-X-UF100-01||C7|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |CAPC-06038-X-PF33-01||C14, C16|
 |CAPC-06038-X-PF10-01||C15, C17|
 |LEDS-0805-O-STAN-01||CHRG|
@@ -64,9 +65,9 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|kicadSchem|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
@@ -81,7 +82,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/1963
 - oompID: PROJ-ADAF-1963-STAN-01
 - oompParts: ADC,HEAD-I01-X-PI01-01
-- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C1,CAPC-0805-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-PF33-01
 - oompParts: C3,CAPC-0805-X-PF10-01
 - oompParts: C4,CAPC-0805-X-PF33-01

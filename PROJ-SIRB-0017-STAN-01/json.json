@@ -1,0 +1,112 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0017"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "TQFP48 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "TQFP48/TQFP48.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "TQFP48/TQFP48.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR17"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0017-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI24-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI24-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo94x134,logo94x134,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard171x54,SirBoard171x54,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard171x54,SirBoard171x54,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,PinHeader_1x05_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_02x24_Counter_Clockwise,UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm,UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_02x24_Counter_Clockwise,TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm,TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x24,PinHeader_1x24_P2.54mm_Vertical,PinHeader_1x24_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_01x24,PinHeader_1x24_P2.54mm_Vertical,PinHeader_1x24_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0017-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "TQFP48 Breakout Board (sirboard)"
+        }
+    ]
+}

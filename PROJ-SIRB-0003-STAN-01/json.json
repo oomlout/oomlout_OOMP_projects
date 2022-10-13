@@ -1,0 +1,104 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0003"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "ESP-12F Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "ESP-12F/ESP-12F.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "ESP-12F/ESP-12F.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR3"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0003-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "ESP-12F,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "ESP-12F,ESP-12F,ESP-12E,ESP-12E,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x06,PinHeader_1x06_P2.54mm_Horizontal,PinHeader_1x06_P2.54mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard127x40,SirBoard127x40,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo94x134,logo94x134,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0003-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "ESP-12F Breakout Board (sirboard)"
+        }
+    ]
+}

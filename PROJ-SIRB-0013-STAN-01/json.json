@@ -1,0 +1,104 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0013"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC28 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "SOIC28/SOIC28.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "SOIC28/SOIC28.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR13"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0013-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI14-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI14-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo94x134,logo94x134,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo94x134,logo94x134,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_02x14_Counter_Clockwise,SOIC-28W_7.5x18.7mm_P1.27mm,SOIC-28W_7.5x18.7mm_P1.27mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_02x14_Counter_Clockwise,SSOP-28_5.3x10.2mm_P0.65mm,SSOP-28_5.3x10.2mm_P0.65mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x14,PinHeader_1x14_P2.54mm_Vertical,PinHeader_1x14_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x14,PinHeader_1x14_P2.54mm_Vertical,PinHeader_1x14_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0013-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SOIC28 Breakout Board (sirboard)"
+        }
+    ]
+}

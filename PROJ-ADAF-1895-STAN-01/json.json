@@ -41,6 +41,94 @@
             "value": "PROJ-ADAF-1895-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "JP1,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESA-06038-X-O103X4-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U4,VREG-SO235-X-KAP2112K-V33D"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "JP1,,HEADER-1X970MIL,1X09_ROUND_70,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,10K,RESISTOR_4PACK,RESPACK_4X0603,Resistor Packs (4 resistors),,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$16,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,Generic SPI Flash,SPIFLASH_8PIN208MIL,SOIC8_208MIL,SOIC8 SPI Flash,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,Generic SPI Flash,SPIFLASH_8PINUX,USON8,SOIC8 SPI Flash,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U3,74HC4050D,74HC4050DTSSOP,TSSOP16,6-channel level shifter,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U4,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-ADAF-1895-STAN-01"
         },

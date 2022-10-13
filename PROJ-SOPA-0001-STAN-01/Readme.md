@@ -50,9 +50,9 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadschem|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadSchem|
 | :---: | :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadschem](kicadschem_140.png)](kicadschem.png)|
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|
 
 ## Tags
 

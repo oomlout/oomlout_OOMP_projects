@@ -1,0 +1,132 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "IBBC"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V001"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 Breakout V001"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/oomlout/IBBC_0001"
+        },
+        {
+            "name": "gitName",
+            "value": "IBBC_0001"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "IBBC_0001_V001/IBBC_0001.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "IBBC_0001_V001/IBBC_0001.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-IBBC-0001-STAN-V001"
+        },
+        {
+            "name": "oompParts",
+            "value": "U2,VREG-SO235-X-KAP2112K-V33D"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-JSTSH-X-PI04-RS"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,SENS-LG14-X-K345-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "U2,AP2112K-3.3,SOT-23-5_HandSoldering,SOT-23-5_HandSoldering,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x04,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,PinHeader_1x08_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,100nf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10uf,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,PinHeader_1x06_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADXL343,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,PinHeader_1x04_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-IBBC-0001-STAN-V001"
+        },
+        {
+            "name": "name",
+            "value": "ADXL345 Breakout V001"
+        }
+    ]
+}

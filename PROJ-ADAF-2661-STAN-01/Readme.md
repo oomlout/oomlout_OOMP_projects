@@ -39,7 +39,7 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C2, C9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C6, C7, C8|
 |CAPC-UNMATCHED-X-NF100-01||C10|
 |[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|[SMD (0805) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|[C14, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-NF100-V50/)|
 |[LEDS-0805-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[SMD (0805) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|[D1, L](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-R-STAN-01/)|
@@ -74,9 +74,9 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2661
 - oompID: PROJ-ADAF-2661-STAN-01
 - oompParts: C2,CAPC-0805-X-UF1-V25
-- oompParts: C6,CAPC-0805-X-UF10-V10
-- oompParts: C7,CAPC-0805-X-UF10-V10
-- oompParts: C8,CAPC-0805-X-UF10-V10
+- oompParts: C6,CAPC-0805-X-UNMATCHED-01
+- oompParts: C7,CAPC-0805-X-UNMATCHED-01
+- oompParts: C8,CAPC-0805-X-UNMATCHED-01
 - oompParts: C9,CAPC-0805-X-UF1-V25
 - oompParts: C10,CAPC-UNMATCHED-X-NF100-01
 - oompParts: C14,CAPC-0805-X-NF100-V50

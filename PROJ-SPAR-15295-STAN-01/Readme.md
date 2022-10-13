@@ -43,9 +43,9 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|eagleImage|
-| :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
+|bominteractivefront|bominteractiveback|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

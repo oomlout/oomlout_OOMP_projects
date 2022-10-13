@@ -1,0 +1,116 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0020"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "WROOM02 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "WROOM02/WROOM02.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "WROOM02/WROOM02.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR20"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0020-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI09-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ESP-WROOM-02,ESP-WROOM-02,ESP-WROOM-02,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,OSHW73x52,OSHW73x52,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard164x52,SirBoard164x52,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo94x134,logo94x134,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,OSHW62x45,OSHW62x45,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo76x107,logo76x107,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard171x54,SirBoard171x54,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,PinHeader_1x06_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x09,PinHeader_1x09_P2.54mm_Vertical,PinHeader_1x09_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x09,PinHeader_1x09_P2.54mm_Vertical,PinHeader_1x09_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0020-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "WROOM02 Breakout Board (sirboard)"
+        }
+    ]
+}

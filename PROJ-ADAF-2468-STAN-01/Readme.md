@@ -38,10 +38,11 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C1|
 |CAPC-0805-X-PF33-01||C2, C4, C6|
 |CAPC-0805-X-PF10-01||C3, C5, C10|
 |CAPX-UNMATCHED-X-UF100-01||C7|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |CAPC-06038-X-PF33-01||C14, C16|
 |CAPC-06038-X-PF10-01||C15, C17|
 |LEDS-0805-O-STAN-01||CHRG|
@@ -83,7 +84,7 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/2468
 - oompID: PROJ-ADAF-2468-STAN-01
-- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C1,CAPC-0805-X-UNMATCHED-01
 - oompParts: C2,CAPC-0805-X-PF33-01
 - oompParts: C3,CAPC-0805-X-PF10-01
 - oompParts: C4,CAPC-0805-X-PF33-01

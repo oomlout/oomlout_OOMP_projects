@@ -39,10 +39,11 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |HEAD-I01-X-PI01-01||ADC1, PWM|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C1|
 |CAPC-0805-X-PF10-01||C5|
 |CAPC-0805-X-PF33-01||C6|
 |CAPX-UNMATCHED-X-UF100-01||C7|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C9, C11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |CAPC-06038-X-PF33-01||C14, C16|
 |CAPC-06038-X-PF10-01||C15, C17|
 |LEDS-0805-O-STAN-01||CHRG|
@@ -84,7 +85,7 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/2542
 - oompID: PROJ-ADAF-2542-STAN-01
 - oompParts: ADC1,HEAD-I01-X-PI01-01
-- oompParts: C1,CAPC-0805-X-UF10-V10
+- oompParts: C1,CAPC-0805-X-UNMATCHED-01
 - oompParts: C5,CAPC-0805-X-PF10-01
 - oompParts: C6,CAPC-0805-X-PF33-01
 - oompParts: C7,CAPX-UNMATCHED-X-UF100-01

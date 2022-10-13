@@ -37,6 +37,170 @@
             "value": "PROJ-SEED-20054-STAN-01"
         },
         {
+            "name": "oompParts",
+            "value": "C5,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0805-X-UF10-V10"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "P1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "P4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "P5,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "P6,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q1,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q2,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O472-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "TP4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,SENS-LG14-X-K345-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U5,UNMATCHED-SO23-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,10uF,C-0805,C0805,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,10uF,C-0805,C0805,Ceramic Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,DNP,CAP-AVX-A,AVX-A,Electrolytic Capacitors,Tantalum Capacitors and Super Capacitors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,SMD Grove,TWIG-4P-2.0-SMD-FEMALE-REINFORCEDD,4P-SMD-2.0,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P1,,PAD-MARKANNULAR,ROUND-MARK-1.0,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P2,DNP,PAD60/30,1P-65/35MIL,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P3,DNP,PAD60/30,1P-65/35MIL,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P4,,PAD-MARKANNULAR,ROUND-MARK-1.0,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P5,,PAD-MARKANNULAR,ROUND-MARK-1.0,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P6,,PAD-MARKANNULAR,ROUND-MARK-1.0,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q1,2N7002,MOSFET-NSOT23,SOT23,IRLL014:,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q2,2N7002,MOSFET-NSOT23,SOT23,IRLL014:,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,4.7K,R-0603,R0603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,4.7K,R-0603,R0603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,4.7K,R-0603,R0603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,4.7K,R-0603,R0603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP1,,PAD-TEST-POINT4545,TP_4545,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP2,,PAD-TEST-POINT4545,TP_4545,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP3,,PAD-TEST-POINT4545,TP_4545,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TP4,,PAD-TEST-POINT4545,TP_4545,,DNP,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,ADXL345,ADXL345,LGA14,3-Axis,+/-2g / +/-4g / +/-8g / +/-16g Digital Accelerometer,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U5,XC6206P252MR-G,XC6206MR,SOT23,LOW ESR Cap.Compatible Positive Voltage Regulators,,"
+        },
+        {
             "name": "oompID",
             "value": "PROJ-SEED-20054-STAN-01"
         },

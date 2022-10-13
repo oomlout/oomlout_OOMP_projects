@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "CR2031 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "CR2031/CR2031.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "CR2031/CR2031.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0002-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0002-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "CR2031 Breakout Board (sirboard)"
+        }
+    ]
+}

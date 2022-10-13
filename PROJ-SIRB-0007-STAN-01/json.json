@@ -1,0 +1,88 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0007"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "MiniUSB Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "MiniUSB/MiniUSB.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "MiniUSB/MiniUSB.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR7"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0007-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo54x76,logo54x76,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,USB_B_Mini,SirBoard_USB_Mini-B,SirBoard_USB_Mini-B,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo63x89,logo63x89,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard112x35,SirBoard112x35,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,PinHeader_1x05_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0007-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "MiniUSB Breakout Board (sirboard)"
+        }
+    ]
+}

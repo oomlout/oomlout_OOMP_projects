@@ -38,10 +38,9 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|CAPC-0805-X-UNMATCHED-01||C1, C2, C6, C15|
+|CAPC-0805-X-UNMATCHED-01||C1, C2, C6, C15, C21|
 |CAPC-0805-X-UNMATCHED-V25||C3, C4, C5, C22, C23|
 |[CAPC-0805-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[SMD (0805) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|[C16, C24](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF1-V25/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C21](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |DIOD-S123-X-UNMATCHED-01||D1, D2, D3|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||EINK1, L1, RPI2, SW3, SW4|
@@ -77,7 +76,7 @@ Contents
 - oompParts: C6,CAPC-0805-X-UNMATCHED-01
 - oompParts: C15,CAPC-0805-X-UNMATCHED-01
 - oompParts: C16,CAPC-0805-X-UF1-V25
-- oompParts: C21,CAPC-0805-X-UF10-V10
+- oompParts: C21,CAPC-0805-X-UNMATCHED-01
 - oompParts: C22,CAPC-0805-X-UNMATCHED-V25
 - oompParts: C23,CAPC-0805-X-UNMATCHED-V25
 - oompParts: C24,CAPC-0805-X-UF1-V25

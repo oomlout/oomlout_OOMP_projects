@@ -1,0 +1,116 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0009"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "QFN20 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "QFN20/QFN20.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "QFN20/QFN20.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR9"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0009-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J5,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard79x25,SirBoard79x25,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard79x25,SirBoard79x25,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo54x76,logo54x76,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo54x76,logo54x76,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,PinHeader_1x10_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J5,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,PinHeader_1x03_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_02x10_Counter_Clockwise,QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm,QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_02x10_Counter_Clockwise,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0009-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "QFN20 Breakout Board (sirboard)"
+        }
+    ]
+}

@@ -39,8 +39,9 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[2.54 mm 6 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|[AD](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI06-01/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C3, C4, C7, C8, C10, C11, C13, C17, C18](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C1, C3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C2, C5, C12, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
+|CAPC-0805-X-UNMATCHED-01||C4, C7, C8, C10, C11, C13, C17, C18|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C6, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |LEDS-0603-O-STAN-01||CHG1|
 |[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[CONN1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
@@ -89,19 +90,19 @@ Contents
 - oompParts: C1,CAPC-0805-X-UF10-V10
 - oompParts: C2,CAPC-0603-X-NF100-V50
 - oompParts: C3,CAPC-0805-X-UF10-V10
-- oompParts: C4,CAPC-0805-X-UF10-V10
+- oompParts: C4,CAPC-0805-X-UNMATCHED-01
 - oompParts: C5,CAPC-0603-X-NF100-V50
 - oompParts: C6,CAPC-0603-X-UF1-V25
-- oompParts: C7,CAPC-0805-X-UF10-V10
-- oompParts: C8,CAPC-0805-X-UF10-V10
-- oompParts: C10,CAPC-0805-X-UF10-V10
-- oompParts: C11,CAPC-0805-X-UF10-V10
+- oompParts: C7,CAPC-0805-X-UNMATCHED-01
+- oompParts: C8,CAPC-0805-X-UNMATCHED-01
+- oompParts: C10,CAPC-0805-X-UNMATCHED-01
+- oompParts: C11,CAPC-0805-X-UNMATCHED-01
 - oompParts: C12,CAPC-0603-X-NF100-V50
-- oompParts: C13,CAPC-0805-X-UF10-V10
+- oompParts: C13,CAPC-0805-X-UNMATCHED-01
 - oompParts: C14,CAPC-0603-X-UF1-V25
 - oompParts: C15,CAPC-0603-X-NF100-V50
-- oompParts: C17,CAPC-0805-X-UF10-V10
-- oompParts: C18,CAPC-0805-X-UF10-V10
+- oompParts: C17,CAPC-0805-X-UNMATCHED-01
+- oompParts: C18,CAPC-0805-X-UNMATCHED-01
 - oompParts: CHG1,LEDS-0603-O-STAN-01
 - oompParts: CONN1,HEAD-JSTSH-X-PI04-RS
 - oompParts: D1,DIOD-S123-X-UNMATCHED-01

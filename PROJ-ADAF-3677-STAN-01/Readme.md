@@ -38,7 +38,8 @@ Contents
 
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C6, C8|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C7](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C9, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, X1, X3, Y1|
@@ -71,9 +72,9 @@ Contents
 - sources: All source files from https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB (source licence details in srcLicense.md)
 - linkBuyPage: http://www.adafruit.com/products/3677
 - oompID: PROJ-ADAF-3677-STAN-01
-- oompParts: C6,CAPC-0805-X-UF10-V10
+- oompParts: C6,CAPC-0805-X-UNMATCHED-01
 - oompParts: C7,CAPC-0805-X-UF10-V10
-- oompParts: C8,CAPC-0805-X-UF10-V10
+- oompParts: C8,CAPC-0805-X-UNMATCHED-01
 - oompParts: C9,CAPC-0603-X-UF1-V25
 - oompParts: C14,CAPC-0603-X-UF1-V25
 - oompParts: D1,DIOD-S123-X-KMBR120-01

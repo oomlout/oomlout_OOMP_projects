@@ -39,7 +39,8 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0603-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[SMD (0603) 22 pF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|[C2, C4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-PF22-V50/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C3, C5, C6, C8, C13, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C3, C6, C8|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C5, C13, C16, C17](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C7, C10, C11, C12, C14, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |CAPC-UNMATCHED-X-UF1-01||C18|
 |LEDS-0603-O-STAN-01||CHG|
@@ -80,12 +81,12 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/4759
 - oompID: PROJ-ADAF-4759-STAN-01
 - oompParts: C2,CAPC-0603-X-PF22-V50
-- oompParts: C3,CAPC-0805-X-UF10-V10
+- oompParts: C3,CAPC-0805-X-UNMATCHED-01
 - oompParts: C4,CAPC-0603-X-PF22-V50
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0805-X-UF10-V10
+- oompParts: C6,CAPC-0805-X-UNMATCHED-01
 - oompParts: C7,CAPC-0603-X-UF1-V25
-- oompParts: C8,CAPC-0805-X-UF10-V10
+- oompParts: C8,CAPC-0805-X-UNMATCHED-01
 - oompParts: C10,CAPC-0603-X-UF1-V25
 - oompParts: C11,CAPC-0603-X-UF1-V25
 - oompParts: C12,CAPC-0603-X-UF1-V25

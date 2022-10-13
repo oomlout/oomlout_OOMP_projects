@@ -39,7 +39,8 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C12, C23, C24, C27, C28, C29, C32](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C16, C17, C18, C19, C21, C22, C26, C30, C33](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-0805-X-UNMATCHED-01||C16, C17, C22, C33|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C18, C19, C21, C26, C30](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
 |[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[SMD (0603) 100 nF Capacitor (Ceramic) 50v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|[C25, C31](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF100-V50/)|
 |LEDS-0805-O-STAN-01||CHG1|
 |DIOD-S123-X-UNMATCHED-01||D3|
@@ -87,12 +88,12 @@ Contents
 - linkBuyPage: http://www.adafruit.com/products/4300
 - oompID: PROJ-ADAF-4300-STAN-01
 - oompParts: C12,CAPC-0603-X-UF1-V25
-- oompParts: C16,CAPC-0805-X-UF10-V10
-- oompParts: C17,CAPC-0805-X-UF10-V10
+- oompParts: C16,CAPC-0805-X-UNMATCHED-01
+- oompParts: C17,CAPC-0805-X-UNMATCHED-01
 - oompParts: C18,CAPC-0805-X-UF10-V10
 - oompParts: C19,CAPC-0805-X-UF10-V10
 - oompParts: C21,CAPC-0805-X-UF10-V10
-- oompParts: C22,CAPC-0805-X-UF10-V10
+- oompParts: C22,CAPC-0805-X-UNMATCHED-01
 - oompParts: C23,CAPC-0603-X-UF1-V25
 - oompParts: C24,CAPC-0603-X-UF1-V25
 - oompParts: C25,CAPC-0603-X-NF100-V50
@@ -103,7 +104,7 @@ Contents
 - oompParts: C30,CAPC-0805-X-UF10-V10
 - oompParts: C31,CAPC-0603-X-NF100-V50
 - oompParts: C32,CAPC-0603-X-UF1-V25
-- oompParts: C33,CAPC-0805-X-UF10-V10
+- oompParts: C33,CAPC-0805-X-UNMATCHED-01
 - oompParts: CHG1,LEDS-0805-O-STAN-01
 - oompParts: D3,DIOD-S123-X-UNMATCHED-01
 - oompParts: D5,DIOD-S323-X-UNMATCHED-01

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0019"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "USB_C Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "USB_C/USB_C.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "USB_C/USB_C.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR19"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0019-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0019-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "USB_C Breakout Board (sirboard)"
+        }
+    ]
+}

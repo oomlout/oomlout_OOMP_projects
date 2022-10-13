@@ -39,8 +39,10 @@ Contents
 |OOMP ID|Name|Identifier|
 | :---: | :---: | :---: |
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C1, C2, C4, C7, C9, C13, C14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
-|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C3, C5, C6, C10, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
-|CAPC-UNMATCHED-X-UF10-01||C8, C11|
+|CAPC-0805-X-UNMATCHED-01||C3, C6|
+|[CAPC-0805-X-UF10-V10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[SMD (0805) 10 uF Capacitor (Ceramic) 10v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|[C5, C10, C15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0805-X-UF10-V10/)|
+|CAPC-UNMATCHED-X-UNMATCHED-01||C8|
+|CAPC-UNMATCHED-X-UF10-01||C11|
 |LEDS-0805-O-STAN-01||CHG|
 |DIOD-S323-X-UNMATCHED-01||D1, D2|
 |[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[SMD (SOD-123) MBR120 Diode](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|[D4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/DIOD-S123-X-KMBR120-01/)|
@@ -81,12 +83,12 @@ Contents
 - oompID: PROJ-ADAF-3900-STAN-01
 - oompParts: C1,CAPC-0603-X-UF1-V25
 - oompParts: C2,CAPC-0603-X-UF1-V25
-- oompParts: C3,CAPC-0805-X-UF10-V10
+- oompParts: C3,CAPC-0805-X-UNMATCHED-01
 - oompParts: C4,CAPC-0603-X-UF1-V25
 - oompParts: C5,CAPC-0805-X-UF10-V10
-- oompParts: C6,CAPC-0805-X-UF10-V10
+- oompParts: C6,CAPC-0805-X-UNMATCHED-01
 - oompParts: C7,CAPC-0603-X-UF1-V25
-- oompParts: C8,CAPC-UNMATCHED-X-UF10-01
+- oompParts: C8,CAPC-UNMATCHED-X-UNMATCHED-01
 - oompParts: C9,CAPC-0603-X-UF1-V25
 - oompParts: C10,CAPC-0805-X-UF10-V10
 - oompParts: C11,CAPC-UNMATCHED-X-UF10-01

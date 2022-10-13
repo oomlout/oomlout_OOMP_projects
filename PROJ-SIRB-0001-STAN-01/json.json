@@ -1,0 +1,84 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "CR1220/CR1220.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "CR1220/CR1220.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0001-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "BT1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard127x40,SirBoard127x40,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo76x107,logo76x107,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,PinHeader_1x04_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "BT1,Battery_Cell,BatteryHolder_Keystone_3000_1x12mm,BatteryHolder_Keystone_3000_1x12mm,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0001-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 Breakout Board (sirboard)"
+        }
+    ]
+}

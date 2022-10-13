@@ -1,0 +1,240 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0032"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "02"
+        },
+        {
+            "name": "name",
+            "value": "FT231V2 SirUSB"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/SirUSB"
+        },
+        {
+            "name": "gitName",
+            "value": "SirUSB"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "FT231V2/FT231V2.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "FT231V2/FT231V2.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR32"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0032-STAN-02"
+        },
+        {
+            "name": "oompParts",
+            "value": "U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D1,DIOD-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "P1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0603-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-0603-X-O102-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "FB1,FERB-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0603-X-NF10-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "TX,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RX,LEDS-0603-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PWR,LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0805-X-UF47D-V25"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0603-X-PF47-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0603-X-PF47-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0603-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,OSHW36x26,OSHW36x26,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U1,FT231XQ,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D1,PRTR5V0U2X,SOT-143,SOT-143,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,5k1,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,5k1,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x06,PinHeader_1x06_P2.54mm_Horizontal,PinHeader_1x06_P2.54mm_Horizontal,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "P1,USB_C_Plug_USB2.0,USB_C,USB_C,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,100nF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,100nF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,SirBoard98x31,SirBoard98x31,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo63x89,logo63x89,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1k,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1k,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,1k,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "FB1,40E@100MHz,L_0603_1608Metric,L_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,10nF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "TX,GREEN,LED_0603_1608Metric,LED_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RX,GREEN,LED_0603_1608Metric,LED_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PWR,RED,LED_0603_1608Metric,LED_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,4.7uF,C_0805_2012Metric,C_0805_2012Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,47pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,47pF,C_0603_1608Metric,C_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,27e,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,27e,R_0603_1608Metric,R_0603_1608Metric,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0032-STAN-02"
+        },
+        {
+            "name": "name",
+            "value": "FT231V2 SirUSB"
+        }
+    ]
+}

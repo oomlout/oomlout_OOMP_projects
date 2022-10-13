@@ -1,0 +1,96 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SIRB"
+        },
+        {
+            "name": "oompColor",
+            "value": "0014"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "SOT6 Breakout Board (sirboard)"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sirboard/BreakoutBoards"
+        },
+        {
+            "name": "gitName",
+            "value": "BreakoutBoards"
+        },
+        {
+            "name": "kicadBoard",
+            "value": "SOT6/SOT6.kicad_pcb"
+        },
+        {
+            "name": "kicadSchem",
+            "value": "SOT6/SOT6.kicad_sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR14"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0014-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,Conn_02x03_Counter_Clockwise,SOT-363_SC-70-6_Handsoldering,SOT-363_SC-70-6_Handsoldering,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,Conn_02x03_Counter_Clockwise,SOT-23-6_Handsoldering,SOT-23-6_Handsoldering,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "G***,LOGO,logo38x53,logo38x53,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,PinHeader_1x03_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,PinHeader_1x03_P2.54mm_Vertical,,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SIRB-0014-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SOT6 Breakout Board (sirboard)"
+        }
+    ]
+}
