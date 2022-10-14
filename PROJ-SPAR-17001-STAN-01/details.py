@@ -7,10 +7,10 @@ newPart = OOMP.oompItem()
 
 oType = "PROJ"
 oSize = "SPAR"
-oColor = "18355"
+oColor = "17001"
 oDesc = "STAN"
 oIndex = "01"
-hexId = "PRPR18355"
+hexId = "PRPR17001"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -19,11 +19,11 @@ newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
-newPart.addTag('name','Qwiic EEPROM - 512Kbit')
-newPart.addTag('gitRepo','https://github.com/sparkfun/Qwiic_EEPROM_Breakout')
-newPart.addTag('gitName','Qwiic_EEPROM_Breakout')
-newPart.addTag('eagleBoard','Qwiic AHT20 Breakout.brd')
-newPart.addTag('eagleSchem','Qwiic AHT20 Breakout.sch')
+newPart.addTag('name','Qwiic BMP388 Pressure Sensor')
+newPart.addTag('gitRepo','https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor')
+newPart.addTag('gitName','Qwiic_BMP388_Pressure_Sensor')
+newPart.addTag('eagleBoard','Hardware/Qwiic_BMP388_Pressure_Sensor.brd')
+newPart.addTag('eagleSchem','Hardware/Qwiic_BMP388_Pressure_Sensor.sch')
 
 
 ######  Common
