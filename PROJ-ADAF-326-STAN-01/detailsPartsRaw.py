@@ -9,7 +9,7 @@ newPart.addTag('rawParts','C4,1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,
 newPart.addTag('rawParts','C5,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,')
 newPart.addTag('rawParts','C6,2.2uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,')
 newPart.addTag('rawParts','C7,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,')
-newPart.addTag('rawParts','P0\\,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,')
+newPart.addTag('rawParts','P0,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,')
 newPart.addTag('rawParts','R1,10K,R-US_R0805,R0805,RESISTOR, American symbol,,')
 newPart.addTag('rawParts','R2,10K,R-US_R0805,R0805,RESISTOR, American symbol,,')
 newPart.addTag('rawParts','R3,10K,R-US_R0805,R0805,RESISTOR, American symbol,,')

@@ -11,7 +11,7 @@ newPart.addTag('rawParts','LED1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED
 newPart.addTag('rawParts','LED2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,')
 newPart.addTag('rawParts','R1,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
 newPart.addTag('rawParts','R2,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
-newPart.addTag('rawParts','R3,10K\\,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
+newPart.addTag('rawParts','R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
 newPart.addTag('rawParts','R4,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
 newPart.addTag('rawParts','R5,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')
 newPart.addTag('rawParts','R6,5.1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,')

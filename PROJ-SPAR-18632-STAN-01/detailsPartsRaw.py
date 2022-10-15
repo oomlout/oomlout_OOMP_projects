@@ -21,7 +21,7 @@ newPart.addTag('rawParts','LED1,RED,LED-RED0603,LED-0603,Red SMD LED,,,,DIO-0081
 newPart.addTag('rawParts','LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SparkFun Font Logo w/ Flame,,,,,,,')
 newPart.addTag('rawParts','LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,,,,,,')
 newPart.addTag('rawParts','LOGO3,SPECIAL_INSTRUCTIONS-ORDERING,SPECIAL_INSTRUCTIONS-ORDERING,ORDERING_INSTRUCTIONS,Special Ordering/Production Instructions Alert,,,,,,,')
-newPart.addTag('rawParts','PWR\\,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,')
+newPart.addTag('rawParts','PWR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,,')
 newPart.addTag('rawParts','R1,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\xc3\x8e\xc2\xa9 resistor,,,,RES-07857,,4.7k,')
 newPart.addTag('rawParts','R2,4.7k,4.7KOHM-0603-1/10W-1%,0603,4.7k\xc3\x8e\xc2\xa9 resistor,,,,RES-07857,,4.7k,')
 newPart.addTag('rawParts','R3,1k,1KOHM-0603-1/10W-1%,0603,1k\xc3\x8e\xc2\xa9 resistor,,,,RES-07856,,1k,')

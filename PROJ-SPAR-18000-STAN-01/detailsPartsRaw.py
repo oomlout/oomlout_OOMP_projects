@@ -22,7 +22,7 @@ newPart.addTag('rawParts','FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICR
 newPart.addTag('rawParts','FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,')
 newPart.addTag('rawParts','FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,,,,,')
 newPart.addTag('rawParts','FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,,,,,')
-newPart.addTag('rawParts','GND\\,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,')
+newPart.addTag('rawParts','GND,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,,,,,')
 newPart.addTag('rawParts','H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,')
 newPart.addTag('rawParts','H3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,')
 newPart.addTag('rawParts','H4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,,,,,')

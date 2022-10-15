@@ -10,7 +10,7 @@ newPart.addTag('rawParts','JP3,,M10NO_SILK_PTH_FEMALE,1X10_NO_SILK,Header 10,,CO
 newPart.addTag('rawParts','JP4,DNP,M14,1X14,Header 14,,,,,')
 newPart.addTag('rawParts','JP5,DNP,M05PTH,1X05,Header 5,,,,,')
 newPart.addTag('rawParts','JP6,DNP,M03PTH,1X03,Header 3,,,,,')
-newPart.addTag('rawParts','JP7,DNP\\,M18_,1X18,1x18 .1 header,,,,,')
+newPart.addTag('rawParts','JP7,DNP,M18_,1X18,1x18 .1 header,,,,,')
 newPart.addTag('rawParts','JP8,DNP,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,,,,')
 newPart.addTag('rawParts','JP9,CONN-09042,XBEE-1B3,XBEE-SMD,Xbee module footprints,,CONN-09042,,,')
 newPart.addTag('rawParts','LED1,Red,LED-RED0603,LED-0603,Assorted Red LEDs,,DIO-00819,RED,,')
