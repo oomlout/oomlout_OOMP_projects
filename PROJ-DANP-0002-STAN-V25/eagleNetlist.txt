@@ -1,0 +1,227 @@
+Netlist
+
+Exported from boardEagle.brd at 15/10/2022 23:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+$N26     J2       VBUS
+         L1       2
+
+ADC      I/O      9
+         R16      1
+
+ADC1     IC1      23
+         R16      2
+         R17      2
+
+ADC2     IC1      24
+         R14      2
+         R15      2
+
+ADC3     IC1      25
+         R12      2
+         R13      2
+
+ADC4     IC1      26
+         R10      2
+         R11      2
+
+AUX1     I/O      5
+         IC1      21
+
+CLK      I/O      4
+         IC1      17
+         R22      1
+
+CS       I/O      2
+         IC1      15
+         R20      1
+
+CTS      IC1      10
+         IC2      11
+
+GND      C1       2
+         C2       2
+         C20      -
+         C21      -
+         C22      -
+         C23      -
+         C24      -
+         C3       2
+         C4       2
+         C5       2
+         I/O      10
+         IC1      19
+         IC1      27
+         IC1      8
+         IC2      18
+         IC2      21
+         IC2      25
+         IC2      26
+         IC2      7
+         IC3      7
+         ICSP     3
+         J2       GND
+         LED1     C
+         LED1A    C
+         LED2     C
+         LED2A    C
+         LED3     C
+         LED3A    C
+         R11      1
+         R13      1
+         R15      1
+         R17      1
+         R18      2
+         ST       3
+         VR2      2
+         VR3      2
+         VR4      2
+
+LCD_CS   IC1      9
+
+LD1      IC1      3
+         R31      2
+         R31A     2
+
+MCLR     IC1      1
+         ICSP     1
+         R1       1
+
+MISO     I/O      1
+         IC1      16
+         R21      1
+
+MOSI     I/O      3
+         IC1      18
+         R23      1
+
+N$1      IC3      2
+         R23      2
+
+N$2      IC3      3
+         R22      2
+
+N$3      C20      +
+         IC1      20
+
+N$4      IC3      10
+         R21      2
+
+N$5      IC3      9
+         R20      2
+
+N$6      LED2     A
+         R31      1
+
+N$7      LED1     A
+         R30      1
+
+N$8      VR2      4
+
+N$9      LED3A    A
+         R32A     1
+
+N$11     IC2      22
+         R3       2
+
+N$13     LED4     C
+         R3       1
+
+N$14     LED2A    A
+         R31A     1
+
+N$15     IC2      15
+         J2       D+
+
+N$16     IC2      16
+         J2       D-
+
+N$17     LED1A    A
+         R30A     1
+
+N$18     LED3     A
+         R32      1
+
+N$20     IC1      6
+
+N$21     IC1      7
+
+PGC      IC1      5
+         ICSP     4
+
+PGD      IC1      4
+         ICSP     5
+
+PULLUPEN IC1      22
+         IC3      12
+         IC3      13
+         IC3      5
+         IC3      6
+         R19      2
+
+RTS      IC1      12
+         IC2      3
+
+RX       IC1      11
+         IC2      5
+         ST       2
+
+SWV33    C22      +
+         I/O      7
+         R12      1
+         R32      2
+         R32A     2
+         VR3      5
+
+SWV50    C24      +
+         I/O      8
+         R10      1
+         VR4      5
+
+TX       IC1      14
+         IC2      1
+         ST       1
+
+USBVCCIO C5       1
+         IC2      17
+         IC2      4
+
+V+       C21      +
+         C3       1
+         C4       1
+         IC2      20
+         IC3      14
+         L1       1
+         LED4     A
+         R19      1
+         R30      2
+         R30A     2
+         VR2      1
+         VR2      3
+         VR3      1
+         VR4      1
+
+VCC      C1       1
+         C2       1
+         C23      +
+         IC1      13
+         IC1      28
+         ICSP     2
+         R1       2
+         VR2      5
+
+VEXTERN  I/O      6
+         IC3      1
+         IC3      11
+         IC3      4
+         IC3      8
+         R14      1
+
+VREGEN   IC1      2
+         R18      1
+         VR3      3
+         VR4      3
+

@@ -20,7 +20,7 @@ newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
 newPart.addTag('name','Grove - ADXL345 - 3-Axis Digital Accelerometer(+/-16g)')
-newPart.addTag('linkBuyPage','https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-16g.html')
+newPart.addTag('gitName','')
 
 
 ######  Common

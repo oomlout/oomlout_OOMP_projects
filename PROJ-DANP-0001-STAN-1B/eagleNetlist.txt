@@ -1,0 +1,970 @@
+Netlist
+
+Exported from boardEagle.brd at 15/10/2022 22:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net               Part     Pad
+
+1V2               C31      2
+                  C35      2
+                  C36      1
+                  C39      1
+                  C43      2
+                  C54      2
+                  C55      2
+                  U16      111
+                  U16      126
+                  U16      27
+                  U16      40
+                  U16      54
+                  U16      92
+                  VR2      5
+
+3V3               C1       1
+                  C10      1
+                  C11      1
+                  C12      1
+                  C17      2
+                  C19      +
+                  C2       1
+                  C21      2
+                  C22      2
+                  C25      2
+                  C28      1
+                  C3       1
+                  C30      2
+                  C32      1
+                  C33      2
+                  C34      2
+                  C4       1
+                  C42      2
+                  C44      2
+                  C45      2
+                  C46      2
+                  C47      2
+                  C48      2
+                  C49      2
+                  C50      2
+                  C51      2
+                  C52      2
+                  C53      1
+                  C56      2
+                  C57      2
+                  C58      1
+                  C59      1
+                  C60      2
+                  C61      1
+                  C62      2
+                  C63      2
+                  C9       1
+                  IC1      1
+                  IC10     8
+                  IC2      1
+                  IC3      1
+                  IC4      1
+                  IC5      1
+                  IC6      1
+                  IC7      1
+                  IC8      1
+                  IC9      8
+                  J1       1
+                  J3       P9
+                  R1       2
+                  R13      2
+                  R14      2
+                  R15      2
+                  R16      2
+                  R2       2
+                  R25      2
+                  R3       2
+                  R37      2
+                  R38      2
+                  R4       2
+                  R46      2
+                  U1       5
+                  U12      3
+                  U12      7
+                  U12      8
+                  U13      20
+                  U16      100
+                  U16      108
+                  U16      123
+                  U16      131
+                  U16      30
+                  U16      46
+                  U16      57
+                  U16      6
+                  U16      72
+                  U16      89
+                  U2       5
+                  U3       5
+                  U4       5
+                  U5       108
+                  U5       121
+                  U5       131
+                  U5       144
+                  U5       17
+                  U5       32
+                  U5       33
+                  U5       39
+                  U5       52
+                  U5       6
+                  U5       62
+                  U5       72
+                  U5       84
+                  U5       95
+                  U6       5
+                  U7       5
+                  U8       5
+                  U9       5
+                  VR1      5
+
+ADC1              RN3      5
+                  RN3      6
+                  U5       47
+
+ADC_MUX_EN        IC11     6
+                  U16      96
+
+ADC_MUX_S0        IC11     11
+                  U16      93
+
+ADC_MUX_S1        IC11     10
+                  U16      94
+
+ADC_MUX_S2        IC11     9
+                  U16      95
+
+BPIO0             IC1      4
+                  IC11     13
+                  J2       1
+                  R6       2
+                  RN1      1
+                  U1       4
+                  U13      18
+
+BPIO1             IC11     14
+                  IC2      4
+                  J2       2
+                  R8       2
+                  RN1      2
+                  U13      17
+                  U2       4
+
+BPIO2             IC11     15
+                  IC3      4
+                  J2       3
+                  R10      2
+                  RN1      3
+                  U13      16
+                  U3       4
+
+BPIO3             IC11     12
+                  IC4      4
+                  J2       4
+                  R12      2
+                  RN1      4
+                  U13      15
+                  U4       4
+
+BPIO4             IC11     1
+                  IC5      4
+                  J2       5
+                  R18      2
+                  RN2      5
+                  U13      14
+                  U6       4
+
+BPIO5             IC11     5
+                  IC6      4
+                  J2       6
+                  R20      2
+                  RN2      6
+                  U13      13
+                  U7       4
+
+BPIO6             IC11     2
+                  IC7      4
+                  J2       7
+                  R22      2
+                  RN2      7
+                  U13      12
+                  U8       4
+
+BPIO7             IC11     4
+                  IC8      4
+                  J2       8
+                  R24      2
+                  RN2      8
+                  U13      11
+                  U9       4
+
+BUFDIR0           IC1      5
+                  R5       2
+                  U16      107
+
+BUFDIR1           IC2      5
+                  R7       2
+                  U16      113
+
+BUFDIR2           IC3      5
+                  R9       2
+                  U16      99
+
+BUFDIR3           IC4      5
+                  R11      2
+                  U16      104
+
+BUFDIR4           IC5      5
+                  R17      2
+                  U16      79
+
+BUFDIR5           IC6      5
+                  R19      2
+                  U16      75
+
+BUFDIR6           IC7      5
+                  R21      2
+                  U16      64
+
+BUFDIR7           IC8      5
+                  R23      2
+                  U16      61
+
+BUFIO0            IC1      3
+                  U16      106
+
+BUFIO1            IC2      3
+                  U16      112
+
+BUFIO2            IC3      3
+                  U16      98
+
+BUFIO3            IC4      3
+                  U16      102
+
+BUFIO4            IC5      3
+                  U16      78
+
+BUFIO5            IC6      3
+                  U16      74
+
+BUFIO6            IC7      3
+                  U16      63
+
+BUFIO7            IC8      3
+                  U16      60
+
+BUFOD0            R1       1
+                  U1       2
+                  U16      105
+
+BUFOD1            R2       1
+                  U16      110
+                  U2       2
+
+BUFOD2            R3       1
+                  U16      97
+                  U3       2
+
+BUFOD3            R4       1
+                  U16      101
+                  U4       2
+
+BUFOD4            R13      1
+                  U16      76
+                  U6       2
+
+BUFOD5            R14      1
+                  U16      73
+                  U7       2
+
+BUFOD6            R15      1
+                  U16      62
+                  U8       2
+
+BUFOD7            R16      1
+                  U16      56
+                  U9       2
+
+D+                CON1     DP1
+                  CON1     DP2
+                  R41      1
+                  R42      2
+
+D-                CON1     DN1
+                  CON1     DN2
+                  R43      2
+
+DISPLAY_AUX1      J3       P5
+                  U5       44
+
+DISPLAY_AUX2      J3       P4
+                  U5       45
+
+DISPLAY_CS        J3       P1
+                  U5       50
+
+DISPLAY_D/P       J3       P2
+                  U5       49
+
+DISPLAY_PWM       J3       P3
+                  U5       46
+
+DISPLAY_SPI_CLOCK J3       P8
+                  U5       41
+
+DISPLAY_SPI_MISO  J3       P7
+                  U5       42
+
+DISPLAY_SPI_MOSI  J3       P6
+                  U5       43
+
+FLASH_CS          U12      1
+                  U5       132
+
+FLASH_MISO        U12      2
+                  U5       134
+
+FLASH_MOSI        U12      5
+                  U5       135
+
+FLASH_SCK         U12      6
+                  U5       133
+
+FPGA_CDONE        R37      1
+                  U16      65
+                  U5       69
+
+FPGA_CRESET       R38      1
+                  U16      66
+                  U5       70
+
+FPGA_PROG_CLOCK   U16      70
+                  U5       74
+
+FPGA_PROG_CS      R29      2
+                  U16      71
+                  U5       73
+
+FPGA_PROG_MISO    U16      67
+                  U5       75
+
+FPGA_PROG_MOSI    U16      68
+                  U5       76
+
+FSMC_A0           U16      3
+                  U5       10
+
+FSMC_A1           U16      4
+                  U5       11
+
+FSMC_A2           U16      7
+                  U5       12
+
+FSMC_A3           U16      8
+                  U5       13
+
+FSMC_A4           U16      9
+                  U5       14
+
+FSMC_A5           U16      10
+                  U5       15
+
+FSMC_D0           U16      24
+                  U5       85
+
+FSMC_D1           U16      23
+                  U5       86
+
+FSMC_D2           U16      1
+                  U5       114
+
+FSMC_D3           U16      2
+                  U5       115
+
+FSMC_D4           U16      15
+                  U5       58
+
+FSMC_D5           U16      16
+                  U5       59
+
+FSMC_D6           U16      17
+                  U5       60
+
+FSMC_D7           U16      18
+                  U5       63
+
+FSMC_D8           U16      19
+                  U5       64
+
+FSMC_D9           U16      25
+                  U5       65
+
+FSMC_D10          U16      26
+                  U5       66
+
+FSMC_D11          U16      28
+                  U5       67
+
+FSMC_D12          U16      29
+                  U5       68
+
+FSMC_D13          U16      33
+                  U5       77
+
+FSMC_D14          U16      32
+                  U5       78
+
+FSMC_D15          U16      31
+                  U5       79
+
+FSMC_NE3_CE       U16      22
+                  U5       125
+
+FSMC_NOE_OE       U16      11
+                  U5       118
+
+FSMC_NWE_WE       U16      12
+                  U5       119
+
+GND               C1       2
+                  C10      2
+                  C11      2
+                  C12      2
+                  C13      1
+                  C14      1
+                  C15      1
+                  C16      1
+                  C17      1
+                  C18      1
+                  C19      -
+                  C2       2
+                  C20      1
+                  C21      1
+                  C22      1
+                  C23      2
+                  C24      2
+                  C25      1
+                  C26      2
+                  C27      2
+                  C28      2
+                  C29      2
+                  C3       2
+                  C30      1
+                  C31      1
+                  C32      2
+                  C33      1
+                  C34      1
+                  C35      1
+                  C36      2
+                  C37      2
+                  C38      2
+                  C39      2
+                  C4       2
+                  C40      2
+                  C41      2
+                  C42      1
+                  C43      1
+                  C44      1
+                  C45      1
+                  C46      1
+                  C47      1
+                  C48      1
+                  C49      1
+                  C5       1
+                  C50      1
+                  C51      1
+                  C52      1
+                  C53      2
+                  C54      1
+                  C55      1
+                  C56      1
+                  C57      1
+                  C58      2
+                  C59      2
+                  C6       1
+                  C60      1
+                  C61      2
+                  C62      1
+                  C63      1
+                  C64      -
+                  C7       1
+                  C8       1
+                  C9       2
+                  CON1     GND@1
+                  CON1     GND@2
+                  CON1     P$1
+                  CON1     P$2
+                  CON1     P$3
+                  CON1     P$4
+                  CON1     P$5
+                  CON1     P$6
+                  CON1     P$7
+                  CON1     P$8
+                  IC1      2
+                  IC10     4
+                  IC11     7
+                  IC11     8
+                  IC12     2
+                  IC2      2
+                  IC3      2
+                  IC4      2
+                  IC5      2
+                  IC6      2
+                  IC7      2
+                  IC8      2
+                  IC9      4
+                  J1       2
+                  J2       10
+                  J3       P10
+                  LED1     C
+                  LED2     C
+                  LED3     C
+                  LED4     C
+                  LED5     C
+                  LED6     C
+                  LED7     C
+                  LED8     C
+                  R10      1
+                  R11      1
+                  R12      1
+                  R17      1
+                  R18      1
+                  R19      1
+                  R20      1
+                  R21      1
+                  R22      1
+                  R23      1
+                  R24      1
+                  R27      2
+                  R29      1
+                  R32      2
+                  R34      1
+                  R35      1
+                  R40      1
+                  R44      2
+                  R45      2
+                  R5       1
+                  R6       1
+                  R7       1
+                  R8       1
+                  R9       1
+                  RN3      2
+                  RN3      3
+                  U1       3
+                  U10      7
+                  U11      7
+                  U12      4
+                  U13      1
+                  U13      10
+                  U13      19
+                  U14      2
+                  U15      2
+                  U16      103
+                  U16      127
+                  U16      13
+                  U16      132
+                  U16      14
+                  U16      140
+                  U16      5
+                  U16      53
+                  U16      59
+                  U16      69
+                  U16      86
+                  U2       3
+                  U3       3
+                  U4       3
+                  U5       107
+                  U5       120
+                  U5       130
+                  U5       138
+                  U5       143
+                  U5       16
+                  U5       30
+                  U5       31
+                  U5       38
+                  U5       48
+                  U5       51
+                  U5       61
+                  U5       71
+                  U5       83
+                  U5       94
+                  U6       3
+                  U7       3
+                  U8       3
+                  U9       3
+                  VR1      2
+                  VR2      2
+
+LAT0              U13      2
+                  U16      91
+
+LAT1              U13      3
+                  U16      90
+
+LAT2              U13      4
+                  U16      88
+
+LAT3              U13      5
+                  U16      87
+
+LAT4              U13      6
+                  U16      85
+
+LAT5              U13      7
+                  U16      84
+
+LAT6              U13      8
+                  U16      83
+
+LAT7              U13      9
+                  U16      82
+
+LD1               R47      2
+                  U5       110
+
+MCU_ADC5          R39      2
+                  R40      2
+                  U5       37
+
+MCU_ADC6          RN3      7
+                  RN3      8
+                  U5       36
+
+MCU_AUX1          U16      137
+                  U5       111
+
+MCU_AUX2          U16      136
+                  U5       112
+
+MCU_AUX3          U16      135
+                  U5       113
+
+MCU_AUX4          U16      134
+                  U5       122
+
+MCU_AUX5          U16      130
+                  U5       139
+
+MCU_AUX6          U16      125
+                  U5       140
+
+MCU_AUX7          U16      124
+                  U5       141
+
+MCU_AUX8          U16      122
+                  U5       142
+
+MCU_AUX9          U16      37
+                  U5       53
+
+MCU_AUX10         U16      38
+                  U5       57
+
+MCU_AUX11         U16      39
+                  U5       54
+
+MCU_AUX12         U16      41
+                  U5       55
+
+MCU_INT0          U16      129
+                  U5       1
+
+MCU_INT1          U16      49
+                  U5       2
+
+MCU_MCO           U16      128
+                  U5       100
+
+MCU_VPU           U10      12
+                  U10      13
+                  U10      5
+                  U10      6
+                  U11      12
+                  U11      13
+                  U11      5
+                  U11      6
+                  U5       56
+
+N$1               CON1     VBUS@1
+                  CON1     VBUS@2
+                  L1       2
+
+N$2               RN1      7
+                  U10      1
+
+N$3               RN1      8
+                  U10      4
+
+N$4               RN1      5
+                  U10      8
+
+N$5               RN1      6
+                  U10      11
+
+N$6               LED3     A
+                  LED4     A
+                  R47      1
+
+N$7               LED1     A
+                  LED2     A
+                  R46      1
+
+N$8               C20      2
+                  U5       23
+                  XTAL1    2
+
+N$9               C18      2
+                  U5       24
+                  XTAL1    1
+
+N$10              U5       35
+
+N$11              Q1       6
+                  Q2       1
+                  R35      2
+
+N$12              IC12     4
+                  R30      2
+                  R31      1
+                  R32      1
+
+N$13              LED7     A
+                  LED8     A
+                  R49      1
+
+N$14              CON1     CC1
+                  R44      1
+
+N$15              R28      1
+                  U14      4
+
+N$16              U5       9
+
+N$17              U16      34
+
+N$18              LED5     A
+                  LED6     A
+                  R48      1
+
+N$19              U5       97
+
+N$20              CON1     CC2
+                  R45      1
+
+N$21              R36      2
+                  RN3      4
+
+N$22              U5       98
+
+N$23              U5       28
+
+N$25              R28      2
+                  R30      1
+                  U14      1
+
+N$26              C29      1
+                  IC12     5
+                  Q1       4
+                  Q2       3
+                  R31      2
+
+N$27              Q1       1
+                  Q1       2
+                  Q1       3
+                  R34      2
+
+N$28              U5       80
+
+N$29              U5       116
+
+N$30              U5       26
+
+N$31              C24      1
+                  R26      2
+                  U14      3
+
+N$32              D1       A
+                  R33      2
+                  U15      3
+
+N$33              RN2      3
+                  U11      1
+
+N$34              U5       82
+
+N$35              U5       27
+
+N$36              U5       18
+
+N$37              U5       19
+
+N$38              U5       20
+
+N$39              U5       21
+
+N$40              U5       22
+
+N$41              U5       99
+
+N$42              RN2      4
+                  U11      4
+
+N$43              U5       81
+
+N$44              RN2      1
+                  U11      8
+
+N$45              RN2      2
+                  U11      11
+
+N$52              U5       90
+
+N$53              U5       93
+
+N$54              U5       124
+
+N$56              U5       123
+
+N$57              U5       126
+
+N$58              U5       127
+
+N$59              U5       128
+
+N$60              U5       129
+
+N$61              IC11     3
+                  R33      1
+
+N$64              R36      1
+                  U15      1
+                  U15      4
+
+PWM               U16      21
+                  U5       96
+
+RST               R25      1
+                  U5       25
+
+SRAM0_CLOCK       IC9      6
+                  U16      141
+
+SRAM0_CS          IC9      1
+                  U16      144
+
+SRAM0_SIO0        IC9      5
+                  U16      138
+
+SRAM0_SIO1        IC9      2
+                  U16      142
+
+SRAM0_SIO2        IC9      3
+                  U16      139
+
+SRAM0_SIO3        IC9      7
+                  U16      143
+
+SRAM1_CLOCK       IC10     6
+                  U16      118
+
+SRAM1_CS          IC10     1
+                  U16      121
+
+SRAM1_SIO0        IC10     5
+                  U16      116
+
+SRAM1_SIO1        IC10     2
+                  U16      119
+
+SRAM1_SIO2        IC10     3
+                  U16      117
+
+SRAM1_SIO3        IC10     7
+                  U16      120
+
+SWCLK             J1       4
+                  U5       109
+
+SWDIO             J1       3
+                  U5       105
+
+UART_RX           U5       102
+
+UART_TX           U5       101
+
+USBLED            R49      2
+                  U5       117
+
+USB_D+            R42      1
+                  U5       104
+
+USB_D-            R43      1
+                  U5       103
+
+USB_DET           R41      2
+                  U5       5
+
+VPP_FAST          U16      109
+
+VREF/VOUT         C13      2
+                  C14      2
+                  C15      2
+                  C16      2
+                  C5       2
+                  C6       2
+                  C7       2
+                  C8       2
+                  IC1      6
+                  IC2      6
+                  IC3      6
+                  IC4      6
+                  IC5      6
+                  IC6      6
+                  IC7      6
+                  IC8      6
+                  J2       9
+                  Q1       5
+                  Q2       2
+                  RN3      1
+                  U10      10
+                  U10      2
+                  U10      3
+                  U10      9
+                  U11      10
+                  U11      2
+                  U11      3
+                  U11      9
+
+VREGEN            IC12     3
+                  R27      1
+                  R48      2
+                  U5       4
+
+VREG_DAC          R26      1
+                  U5       40
+
+VUSB              C23      1
+                  C26      1
+                  C27      1
+                  C37      1
+                  C38      1
+                  C40      1
+                  C41      1
+                  C64      +
+                  D1       C
+                  IC11     16
+                  IC12     1
+                  L1       1
+                  R39      1
+                  U10      14
+                  U11      14
+                  U14      5
+                  U15      5
+                  VR1      1
+                  VR1      3
+                  VR2      1
+                  VR2      3
+
