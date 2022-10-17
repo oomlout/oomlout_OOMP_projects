@@ -57,9 +57,9 @@ Contents
   
   
 
-|eagleImage|
-| :---: |
-|[![eagleImage](eagleImage_140.png)](eagleImage.png)|
+|kicadSchem|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: |
+|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 

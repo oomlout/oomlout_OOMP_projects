@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1135-STAN-01
 - Hex ID: PRA1135
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1135
+- Description: Adafruit 1135
 - Long Link: [http://oom.lt/PROJ-ADAF-1135-STAN-01](http://oom.lt/PROJ-ADAF-1135-STAN-01)
 - Short Link: [http://oom.lt/PRA1135](http://oom.lt/PRA1135)
 

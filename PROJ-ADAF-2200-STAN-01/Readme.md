@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2200-STAN-01
 - Hex ID: PRA2200
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2200
+- Description: Adafruit 2200
 - Long Link: [http://oom.lt/PROJ-ADAF-2200-STAN-01](http://oom.lt/PROJ-ADAF-2200-STAN-01)
 - Short Link: [http://oom.lt/PRA2200](http://oom.lt/PRA2200)
 

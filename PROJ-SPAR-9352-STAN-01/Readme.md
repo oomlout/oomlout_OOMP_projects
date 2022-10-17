@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9352-STAN-01
 - Hex ID: PRS9352
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9352
+- Description: Sparkfun 9352
 - Long Link: [http://oom.lt/PROJ-SPAR-9352-STAN-01](http://oom.lt/PROJ-SPAR-9352-STAN-01)
 - Short Link: [http://oom.lt/PRS9352](http://oom.lt/PRS9352)
 

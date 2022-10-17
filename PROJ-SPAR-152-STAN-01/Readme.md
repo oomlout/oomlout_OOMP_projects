@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-152-STAN-01
 - Hex ID: PRS152
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 152
+- Description: Sparkfun 152
 - Long Link: [http://oom.lt/PROJ-SPAR-152-STAN-01](http://oom.lt/PROJ-SPAR-152-STAN-01)
 - Short Link: [http://oom.lt/PRS152](http://oom.lt/PRS152)
 

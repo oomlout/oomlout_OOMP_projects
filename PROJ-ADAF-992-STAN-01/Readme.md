@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-992-STAN-01
 - Hex ID: PRA992
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 992
+- Description: Adafruit 992
 - Long Link: [http://oom.lt/PROJ-ADAF-992-STAN-01](http://oom.lt/PROJ-ADAF-992-STAN-01)
 - Short Link: [http://oom.lt/PRA992](http://oom.lt/PRA992)
 

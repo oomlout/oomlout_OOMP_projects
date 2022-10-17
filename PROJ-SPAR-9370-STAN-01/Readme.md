@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9370-STAN-01
 - Hex ID: PRS9370
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9370
+- Description: Sparkfun 9370
 - Long Link: [http://oom.lt/PROJ-SPAR-9370-STAN-01](http://oom.lt/PROJ-SPAR-9370-STAN-01)
 - Short Link: [http://oom.lt/PRS9370](http://oom.lt/PRS9370)
 

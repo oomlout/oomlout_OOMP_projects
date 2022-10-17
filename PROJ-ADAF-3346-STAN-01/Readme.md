@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3346-STAN-01
 - Hex ID: PRA3346
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3346
+- Description: Adafruit 3346
 - Long Link: [http://oom.lt/PROJ-ADAF-3346-STAN-01](http://oom.lt/PROJ-ADAF-3346-STAN-01)
 - Short Link: [http://oom.lt/PRA3346](http://oom.lt/PRA3346)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-801-STAN-01
 - Hex ID: PRA801
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 801
+- Description: Adafruit 801
 - Long Link: [http://oom.lt/PROJ-ADAF-801-STAN-01](http://oom.lt/PROJ-ADAF-801-STAN-01)
 - Short Link: [http://oom.lt/PRA801](http://oom.lt/PRA801)
 

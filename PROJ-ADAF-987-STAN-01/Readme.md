@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-987-STAN-01
 - Hex ID: PRA987
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 987
+- Description: Adafruit 987
 - Long Link: [http://oom.lt/PROJ-ADAF-987-STAN-01](http://oom.lt/PROJ-ADAF-987-STAN-01)
 - Short Link: [http://oom.lt/PRA987](http://oom.lt/PRA987)
 

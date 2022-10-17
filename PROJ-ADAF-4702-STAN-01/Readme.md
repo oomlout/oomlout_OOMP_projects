@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4702-STAN-01
 - Hex ID: PRA4702
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4702
+- Description: Adafruit 4702
 - Long Link: [http://oom.lt/PROJ-ADAF-4702-STAN-01](http://oom.lt/PROJ-ADAF-4702-STAN-01)
 - Short Link: [http://oom.lt/PRA4702](http://oom.lt/PRA4702)
 

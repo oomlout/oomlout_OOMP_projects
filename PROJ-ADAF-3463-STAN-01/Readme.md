@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3463-STAN-01
 - Hex ID: PRA3463
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3463
+- Description: Adafruit 3463
 - Long Link: [http://oom.lt/PROJ-ADAF-3463-STAN-01](http://oom.lt/PROJ-ADAF-3463-STAN-01)
 - Short Link: [http://oom.lt/PRA3463](http://oom.lt/PRA3463)
 

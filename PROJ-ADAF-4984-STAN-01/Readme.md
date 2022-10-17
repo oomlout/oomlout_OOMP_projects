@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4984-STAN-01
 - Hex ID: PRA4984
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4984
+- Description: Adafruit 4984
 - Long Link: [http://oom.lt/PROJ-ADAF-4984-STAN-01](http://oom.lt/PROJ-ADAF-4984-STAN-01)
 - Short Link: [http://oom.lt/PRA4984](http://oom.lt/PRA4984)
 

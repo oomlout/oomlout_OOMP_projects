@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2088-STAN-01
 - Hex ID: PRA2088
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2088
+- Description: Adafruit 2088
 - Long Link: [http://oom.lt/PROJ-ADAF-2088-STAN-01](http://oom.lt/PROJ-ADAF-2088-STAN-01)
 - Short Link: [http://oom.lt/PRA2088](http://oom.lt/PRA2088)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4064-STAN-01
 - Hex ID: PRA4064
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4064
+- Description: Adafruit 4064
 - Long Link: [http://oom.lt/PROJ-ADAF-4064-STAN-01](http://oom.lt/PROJ-ADAF-4064-STAN-01)
 - Short Link: [http://oom.lt/PRA4064](http://oom.lt/PRA4064)
 

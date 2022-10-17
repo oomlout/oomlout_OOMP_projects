@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8661-STAN-01
 - Hex ID: PRS8661
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8661
+- Description: Sparkfun 8661
 - Long Link: [http://oom.lt/PROJ-SPAR-8661-STAN-01](http://oom.lt/PROJ-SPAR-8661-STAN-01)
 - Short Link: [http://oom.lt/PRS8661](http://oom.lt/PRS8661)
 

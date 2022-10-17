@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4407-STAN-01
 - Hex ID: PRA4407
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4407
+- Description: Adafruit 4407
 - Long Link: [http://oom.lt/PROJ-ADAF-4407-STAN-01](http://oom.lt/PROJ-ADAF-4407-STAN-01)
 - Short Link: [http://oom.lt/PRA4407](http://oom.lt/PRA4407)
 

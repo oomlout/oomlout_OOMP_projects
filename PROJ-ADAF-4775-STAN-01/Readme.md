@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4775-STAN-01
 - Hex ID: PRA4775
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4775
+- Description: Adafruit 4775
 - Long Link: [http://oom.lt/PROJ-ADAF-4775-STAN-01](http://oom.lt/PROJ-ADAF-4775-STAN-01)
 - Short Link: [http://oom.lt/PRA4775](http://oom.lt/PRA4775)
 

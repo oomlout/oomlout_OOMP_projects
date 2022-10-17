@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4991-STAN-01
 - Hex ID: PRA4991
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4991
+- Description: Adafruit 4991
 - Long Link: [http://oom.lt/PROJ-ADAF-4991-STAN-01](http://oom.lt/PROJ-ADAF-4991-STAN-01)
 - Short Link: [http://oom.lt/PRA4991](http://oom.lt/PRA4991)
 

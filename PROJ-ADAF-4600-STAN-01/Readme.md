@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4600-STAN-01
 - Hex ID: PRA4600
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4600
+- Description: Adafruit 4600
 - Long Link: [http://oom.lt/PROJ-ADAF-4600-STAN-01](http://oom.lt/PROJ-ADAF-4600-STAN-01)
 - Short Link: [http://oom.lt/PRA4600](http://oom.lt/PRA4600)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3779-STAN-01
 - Hex ID: PRA3779
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3779
+- Description: Adafruit 3779
 - Long Link: [http://oom.lt/PROJ-ADAF-3779-STAN-01](http://oom.lt/PROJ-ADAF-3779-STAN-01)
 - Short Link: [http://oom.lt/PRA3779](http://oom.lt/PRA3779)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2441-STAN-01
 - Hex ID: PRA2441
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2441
+- Description: Adafruit 2441
 - Long Link: [http://oom.lt/PROJ-ADAF-2441-STAN-01](http://oom.lt/PROJ-ADAF-2441-STAN-01)
 - Short Link: [http://oom.lt/PRA2441](http://oom.lt/PRA2441)
 

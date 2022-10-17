@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4313-STAN-01
 - Hex ID: PRA4313
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4313
+- Description: Adafruit 4313
 - Long Link: [http://oom.lt/PROJ-ADAF-4313-STAN-01](http://oom.lt/PROJ-ADAF-4313-STAN-01)
 - Short Link: [http://oom.lt/PRA4313](http://oom.lt/PRA4313)
 

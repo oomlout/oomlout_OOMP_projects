@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4900-STAN-01
 - Hex ID: PRA4900
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4900
+- Description: Adafruit 4900
 - Long Link: [http://oom.lt/PROJ-ADAF-4900-STAN-01](http://oom.lt/PROJ-ADAF-4900-STAN-01)
 - Short Link: [http://oom.lt/PRA4900](http://oom.lt/PRA4900)
 

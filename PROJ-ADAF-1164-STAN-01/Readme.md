@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1164-STAN-01
 - Hex ID: PRA1164
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1164
+- Description: Adafruit 1164
 - Long Link: [http://oom.lt/PROJ-ADAF-1164-STAN-01](http://oom.lt/PROJ-ADAF-1164-STAN-01)
 - Short Link: [http://oom.lt/PRA1164](http://oom.lt/PRA1164)
 

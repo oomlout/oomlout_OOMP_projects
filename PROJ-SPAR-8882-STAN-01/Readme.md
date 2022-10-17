@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8882-STAN-01
 - Hex ID: PRS8882
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8882
+- Description: Sparkfun 8882
 - Long Link: [http://oom.lt/PROJ-SPAR-8882-STAN-01](http://oom.lt/PROJ-SPAR-8882-STAN-01)
 - Short Link: [http://oom.lt/PRS8882](http://oom.lt/PRS8882)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1713-STAN-01
 - Hex ID: PRA1713
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1713
+- Description: Adafruit 1713
 - Long Link: [http://oom.lt/PROJ-ADAF-1713-STAN-01](http://oom.lt/PROJ-ADAF-1713-STAN-01)
 - Short Link: [http://oom.lt/PRA1713](http://oom.lt/PRA1713)
 

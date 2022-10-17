@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-254-STAN-01
 - Hex ID: PRA254
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 254
+- Description: Adafruit 254
 - Long Link: [http://oom.lt/PROJ-ADAF-254-STAN-01](http://oom.lt/PROJ-ADAF-254-STAN-01)
 - Short Link: [http://oom.lt/PRA254](http://oom.lt/PRA254)
 

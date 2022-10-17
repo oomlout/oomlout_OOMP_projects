@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1063-STAN-01
 - Hex ID: PRA1063
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1063
+- Description: Adafruit 1063
 - Long Link: [http://oom.lt/PROJ-ADAF-1063-STAN-01](http://oom.lt/PROJ-ADAF-1063-STAN-01)
 - Short Link: [http://oom.lt/PRA1063](http://oom.lt/PRA1063)
 

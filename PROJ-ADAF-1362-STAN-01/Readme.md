@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1362-STAN-01
 - Hex ID: PRA1362
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1362
+- Description: Adafruit 1362
 - Long Link: [http://oom.lt/PROJ-ADAF-1362-STAN-01](http://oom.lt/PROJ-ADAF-1362-STAN-01)
 - Short Link: [http://oom.lt/PRA1362](http://oom.lt/PRA1362)
 

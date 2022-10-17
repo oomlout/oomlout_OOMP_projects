@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2000-STAN-01
 - Hex ID: PRA2000
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2000
+- Description: Adafruit 2000
 - Long Link: [http://oom.lt/PROJ-ADAF-2000-STAN-01](http://oom.lt/PROJ-ADAF-2000-STAN-01)
 - Short Link: [http://oom.lt/PRA2000](http://oom.lt/PRA2000)
 

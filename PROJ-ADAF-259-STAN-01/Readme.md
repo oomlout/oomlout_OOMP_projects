@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-259-STAN-01
 - Hex ID: PRA259
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 259
+- Description: Adafruit 259
 - Long Link: [http://oom.lt/PROJ-ADAF-259-STAN-01](http://oom.lt/PROJ-ADAF-259-STAN-01)
 - Short Link: [http://oom.lt/PRA259](http://oom.lt/PRA259)
 

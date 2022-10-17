@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3333-STAN-01
 - Hex ID: PRA3333
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3333
+- Description: Adafruit 3333
 - Long Link: [http://oom.lt/PROJ-ADAF-3333-STAN-01](http://oom.lt/PROJ-ADAF-3333-STAN-01)
 - Short Link: [http://oom.lt/PRA3333](http://oom.lt/PRA3333)
 

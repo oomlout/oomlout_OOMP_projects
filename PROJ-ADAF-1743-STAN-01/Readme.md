@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1743-STAN-01
 - Hex ID: PRA1743
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1743
+- Description: Adafruit 1743
 - Long Link: [http://oom.lt/PROJ-ADAF-1743-STAN-01](http://oom.lt/PROJ-ADAF-1743-STAN-01)
 - Short Link: [http://oom.lt/PRA1743](http://oom.lt/PRA1743)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4480-STAN-01
 - Hex ID: PRA4480
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4480
+- Description: Adafruit 4480
 - Long Link: [http://oom.lt/PROJ-ADAF-4480-STAN-01](http://oom.lt/PROJ-ADAF-4480-STAN-01)
 - Short Link: [http://oom.lt/PRA4480](http://oom.lt/PRA4480)
 

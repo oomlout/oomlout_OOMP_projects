@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3249-STAN-01
 - Hex ID: PRA3249
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3249
+- Description: Adafruit 3249
 - Long Link: [http://oom.lt/PROJ-ADAF-3249-STAN-01](http://oom.lt/PROJ-ADAF-3249-STAN-01)
 - Short Link: [http://oom.lt/PRA3249](http://oom.lt/PRA3249)
 

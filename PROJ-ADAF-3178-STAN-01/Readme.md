@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3178-STAN-01
 - Hex ID: PRA3178
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3178
+- Description: Adafruit 3178
 - Long Link: [http://oom.lt/PROJ-ADAF-3178-STAN-01](http://oom.lt/PROJ-ADAF-3178-STAN-01)
 - Short Link: [http://oom.lt/PRA3178](http://oom.lt/PRA3178)
 

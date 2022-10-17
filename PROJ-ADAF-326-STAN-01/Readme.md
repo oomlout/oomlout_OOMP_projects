@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-326-STAN-01
 - Hex ID: PRA326
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 326
+- Description: Adafruit 326
 - Long Link: [http://oom.lt/PROJ-ADAF-326-STAN-01](http://oom.lt/PROJ-ADAF-326-STAN-01)
 - Short Link: [http://oom.lt/PRA326](http://oom.lt/PRA326)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8688-STAN-01
 - Hex ID: PRS8688
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8688
+- Description: Sparkfun 8688
 - Long Link: [http://oom.lt/PROJ-SPAR-8688-STAN-01](http://oom.lt/PROJ-SPAR-8688-STAN-01)
 - Short Link: [http://oom.lt/PRS8688](http://oom.lt/PRS8688)
 

@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-714-STAN-01
 - Hex ID: PRA714
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 714
+- Description: Adafruit 714
 - Long Link: [http://oom.lt/PROJ-ADAF-714-STAN-01](http://oom.lt/PROJ-ADAF-714-STAN-01)
 - Short Link: [http://oom.lt/PRA714](http://oom.lt/PRA714)
 

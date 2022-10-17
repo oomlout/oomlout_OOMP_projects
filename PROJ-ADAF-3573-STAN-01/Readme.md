@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3573-STAN-01
 - Hex ID: PRA3573
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3573
+- Description: Adafruit 3573
 - Long Link: [http://oom.lt/PROJ-ADAF-3573-STAN-01](http://oom.lt/PROJ-ADAF-3573-STAN-01)
 - Short Link: [http://oom.lt/PRA3573](http://oom.lt/PRA3573)
 

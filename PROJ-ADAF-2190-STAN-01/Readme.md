@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2190-STAN-01
 - Hex ID: PRA2190
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2190
+- Description: Adafruit 2190
 - Long Link: [http://oom.lt/PROJ-ADAF-2190-STAN-01](http://oom.lt/PROJ-ADAF-2190-STAN-01)
 - Short Link: [http://oom.lt/PRA2190](http://oom.lt/PRA2190)
 

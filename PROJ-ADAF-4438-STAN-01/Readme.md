@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4438-STAN-01
 - Hex ID: PRA4438
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4438
+- Description: Adafruit 4438
 - Long Link: [http://oom.lt/PROJ-ADAF-4438-STAN-01](http://oom.lt/PROJ-ADAF-4438-STAN-01)
 - Short Link: [http://oom.lt/PRA4438](http://oom.lt/PRA4438)
 

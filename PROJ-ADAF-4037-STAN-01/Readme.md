@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4037-STAN-01
 - Hex ID: PRA4037
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4037
+- Description: Adafruit 4037
 - Long Link: [http://oom.lt/PROJ-ADAF-4037-STAN-01](http://oom.lt/PROJ-ADAF-4037-STAN-01)
 - Short Link: [http://oom.lt/PRA4037](http://oom.lt/PRA4037)
 

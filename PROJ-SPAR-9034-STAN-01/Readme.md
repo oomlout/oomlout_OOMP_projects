@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9034-STAN-01
 - Hex ID: PRS9034
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9034
+- Description: Sparkfun 9034
 - Long Link: [http://oom.lt/PROJ-SPAR-9034-STAN-01](http://oom.lt/PROJ-SPAR-9034-STAN-01)
 - Short Link: [http://oom.lt/PRS9034](http://oom.lt/PRS9034)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3229-STAN-01
 - Hex ID: PRA3229
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3229
+- Description: Adafruit 3229
 - Long Link: [http://oom.lt/PROJ-ADAF-3229-STAN-01](http://oom.lt/PROJ-ADAF-3229-STAN-01)
 - Short Link: [http://oom.lt/PRA3229](http://oom.lt/PRA3229)
 

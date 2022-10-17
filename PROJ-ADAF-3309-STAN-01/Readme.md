@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3309-STAN-01
 - Hex ID: PRA3309
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3309
+- Description: Adafruit 3309
 - Long Link: [http://oom.lt/PROJ-ADAF-3309-STAN-01](http://oom.lt/PROJ-ADAF-3309-STAN-01)
 - Short Link: [http://oom.lt/PRA3309](http://oom.lt/PRA3309)
 

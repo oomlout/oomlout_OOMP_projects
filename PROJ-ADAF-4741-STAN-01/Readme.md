@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4741-STAN-01
 - Hex ID: PRA4741
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4741
+- Description: Adafruit 4741
 - Long Link: [http://oom.lt/PROJ-ADAF-4741-STAN-01](http://oom.lt/PROJ-ADAF-4741-STAN-01)
 - Short Link: [http://oom.lt/PRA4741](http://oom.lt/PRA4741)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2021-STAN-01
 - Hex ID: PRA2021
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2021
+- Description: Adafruit 2021
 - Long Link: [http://oom.lt/PROJ-ADAF-2021-STAN-01](http://oom.lt/PROJ-ADAF-2021-STAN-01)
 - Short Link: [http://oom.lt/PRA2021](http://oom.lt/PRA2021)
 

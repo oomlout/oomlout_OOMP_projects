@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1231-STAN-01
 - Hex ID: PRA1231
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1231
+- Description: Adafruit 1231
 - Long Link: [http://oom.lt/PROJ-ADAF-1231-STAN-01](http://oom.lt/PROJ-ADAF-1231-STAN-01)
 - Short Link: [http://oom.lt/PRA1231](http://oom.lt/PRA1231)
 

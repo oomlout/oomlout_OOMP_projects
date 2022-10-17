@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2268-STAN-01
 - Hex ID: PRA2268
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2268
+- Description: Adafruit 2268
 - Long Link: [http://oom.lt/PROJ-ADAF-2268-STAN-01](http://oom.lt/PROJ-ADAF-2268-STAN-01)
 - Short Link: [http://oom.lt/PRA2268](http://oom.lt/PRA2268)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3405-STAN-01
 - Hex ID: PRA3405
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3405
+- Description: Adafruit 3405
 - Long Link: [http://oom.lt/PROJ-ADAF-3405-STAN-01](http://oom.lt/PROJ-ADAF-3405-STAN-01)
 - Short Link: [http://oom.lt/PRA3405](http://oom.lt/PRA3405)
 

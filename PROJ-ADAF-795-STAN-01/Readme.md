@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-795-STAN-01
 - Hex ID: PRA795
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 795
+- Description: Adafruit 795
 - Long Link: [http://oom.lt/PROJ-ADAF-795-STAN-01](http://oom.lt/PROJ-ADAF-795-STAN-01)
 - Short Link: [http://oom.lt/PRA795](http://oom.lt/PRA795)
 

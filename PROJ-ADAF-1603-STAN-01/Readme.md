@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1603-STAN-01
 - Hex ID: PRA1603
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1603
+- Description: Adafruit 1603
 - Long Link: [http://oom.lt/PROJ-ADAF-1603-STAN-01](http://oom.lt/PROJ-ADAF-1603-STAN-01)
 - Short Link: [http://oom.lt/PRA1603](http://oom.lt/PRA1603)
 

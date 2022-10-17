@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3727-STAN-01
 - Hex ID: PRA3727
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3727
+- Description: Adafruit 3727
 - Long Link: [http://oom.lt/PROJ-ADAF-3727-STAN-01](http://oom.lt/PROJ-ADAF-3727-STAN-01)
 - Short Link: [http://oom.lt/PRA3727](http://oom.lt/PRA3727)
 

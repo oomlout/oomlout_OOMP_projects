@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4530-STAN-01
 - Hex ID: PRA4530
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4530
+- Description: Adafruit 4530
 - Long Link: [http://oom.lt/PROJ-ADAF-4530-STAN-01](http://oom.lt/PROJ-ADAF-4530-STAN-01)
 - Short Link: [http://oom.lt/PRA4530](http://oom.lt/PRA4530)
 

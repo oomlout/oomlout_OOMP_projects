@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-762-STAN-01
 - Hex ID: PRS762
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 762
+- Description: Sparkfun 762
 - Long Link: [http://oom.lt/PROJ-SPAR-762-STAN-01](http://oom.lt/PROJ-SPAR-762-STAN-01)
 - Short Link: [http://oom.lt/PRS762](http://oom.lt/PRS762)
 

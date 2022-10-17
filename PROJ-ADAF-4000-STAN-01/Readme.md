@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4000-STAN-01
 - Hex ID: PRA4000
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4000
+- Description: Adafruit 4000
 - Long Link: [http://oom.lt/PROJ-ADAF-4000-STAN-01](http://oom.lt/PROJ-ADAF-4000-STAN-01)
 - Short Link: [http://oom.lt/PRA4000](http://oom.lt/PRA4000)
 

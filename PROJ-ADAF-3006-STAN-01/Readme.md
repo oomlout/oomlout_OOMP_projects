@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3006-STAN-01
 - Hex ID: PRA3006
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3006
+- Description: Adafruit 3006
 - Long Link: [http://oom.lt/PROJ-ADAF-3006-STAN-01](http://oom.lt/PROJ-ADAF-3006-STAN-01)
 - Short Link: [http://oom.lt/PRA3006](http://oom.lt/PRA3006)
 

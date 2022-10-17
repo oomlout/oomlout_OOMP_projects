@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3538-STAN-01
 - Hex ID: PRA3538
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3538
+- Description: Adafruit 3538
 - Long Link: [http://oom.lt/PROJ-ADAF-3538-STAN-01](http://oom.lt/PROJ-ADAF-3538-STAN-01)
 - Short Link: [http://oom.lt/PRA3538](http://oom.lt/PRA3538)
 

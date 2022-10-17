@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4382-STAN-01
 - Hex ID: PRA4382
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4382
+- Description: Adafruit 4382
 - Long Link: [http://oom.lt/PROJ-ADAF-4382-STAN-01](http://oom.lt/PROJ-ADAF-4382-STAN-01)
 - Short Link: [http://oom.lt/PRA4382](http://oom.lt/PRA4382)
 

@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-8619-STAN-01
 - Hex ID: PRS8619
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8619
+- Description: Sparkfun 8619
 - Long Link: [http://oom.lt/PROJ-SPAR-8619-STAN-01](http://oom.lt/PROJ-SPAR-8619-STAN-01)
 - Short Link: [http://oom.lt/PRS8619](http://oom.lt/PRS8619)
 

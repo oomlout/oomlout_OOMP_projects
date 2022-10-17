@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5027-STAN-01
 - Hex ID: PRA5027
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5027
+- Description: Adafruit 5027
 - Long Link: [http://oom.lt/PROJ-ADAF-5027-STAN-01](http://oom.lt/PROJ-ADAF-5027-STAN-01)
 - Short Link: [http://oom.lt/PRA5027](http://oom.lt/PRA5027)
 

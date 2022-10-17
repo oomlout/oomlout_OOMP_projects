@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1903-STAN-01
 - Hex ID: PRA1903
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1903
+- Description: Adafruit 1903
 - Long Link: [http://oom.lt/PROJ-ADAF-1903-STAN-01](http://oom.lt/PROJ-ADAF-1903-STAN-01)
 - Short Link: [http://oom.lt/PRA1903](http://oom.lt/PRA1903)
 

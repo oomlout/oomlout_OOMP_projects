@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-931-STAN-01
 - Hex ID: PRA931
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 931
+- Description: Adafruit 931
 - Long Link: [http://oom.lt/PROJ-ADAF-931-STAN-01](http://oom.lt/PROJ-ADAF-931-STAN-01)
 - Short Link: [http://oom.lt/PRA931](http://oom.lt/PRA931)
 

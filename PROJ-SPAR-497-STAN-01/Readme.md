@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-497-STAN-01
 - Hex ID: PRS497
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 497
+- Description: Sparkfun 497
 - Long Link: [http://oom.lt/PROJ-SPAR-497-STAN-01](http://oom.lt/PROJ-SPAR-497-STAN-01)
 - Short Link: [http://oom.lt/PRS497](http://oom.lt/PRS497)
 

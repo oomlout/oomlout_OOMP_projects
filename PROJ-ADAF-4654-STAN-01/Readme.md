@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4654-STAN-01
 - Hex ID: PRA4654
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4654
+- Description: Adafruit 4654
 - Long Link: [http://oom.lt/PROJ-ADAF-4654-STAN-01](http://oom.lt/PROJ-ADAF-4654-STAN-01)
 - Short Link: [http://oom.lt/PRA4654](http://oom.lt/PRA4654)
 

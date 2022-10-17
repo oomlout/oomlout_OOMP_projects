@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9873-STAN-01
 - Hex ID: PRS9873
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9873
+- Description: Sparkfun 9873
 - Long Link: [http://oom.lt/PROJ-SPAR-9873-STAN-01](http://oom.lt/PROJ-SPAR-9873-STAN-01)
 - Short Link: [http://oom.lt/PRS9873](http://oom.lt/PRS9873)
 

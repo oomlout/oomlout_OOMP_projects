@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3595-STAN-01
 - Hex ID: PRA3595
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3595
+- Description: Adafruit 3595
 - Long Link: [http://oom.lt/PROJ-ADAF-3595-STAN-01](http://oom.lt/PROJ-ADAF-3595-STAN-01)
 - Short Link: [http://oom.lt/PRA3595](http://oom.lt/PRA3595)
 

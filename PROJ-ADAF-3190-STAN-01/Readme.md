@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3190-STAN-01
 - Hex ID: PRA3190
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3190
+- Description: Adafruit 3190
 - Long Link: [http://oom.lt/PROJ-ADAF-3190-STAN-01](http://oom.lt/PROJ-ADAF-3190-STAN-01)
 - Short Link: [http://oom.lt/PRA3190](http://oom.lt/PRA3190)
 

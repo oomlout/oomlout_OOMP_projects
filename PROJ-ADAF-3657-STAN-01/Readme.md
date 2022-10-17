@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3657-STAN-01
 - Hex ID: PRA3657
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3657
+- Description: Adafruit 3657
 - Long Link: [http://oom.lt/PROJ-ADAF-3657-STAN-01](http://oom.lt/PROJ-ADAF-3657-STAN-01)
 - Short Link: [http://oom.lt/PRA3657](http://oom.lt/PRA3657)
 

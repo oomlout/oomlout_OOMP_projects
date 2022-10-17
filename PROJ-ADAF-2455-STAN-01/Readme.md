@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2455-STAN-01
 - Hex ID: PRA2455
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2455
+- Description: Adafruit 2455
 - Long Link: [http://oom.lt/PROJ-ADAF-2455-STAN-01](http://oom.lt/PROJ-ADAF-2455-STAN-01)
 - Short Link: [http://oom.lt/PRA2455](http://oom.lt/PRA2455)
 

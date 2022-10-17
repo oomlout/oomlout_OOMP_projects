@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4516-STAN-01
 - Hex ID: PRA4516
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4516
+- Description: Adafruit 4516
 - Long Link: [http://oom.lt/PROJ-ADAF-4516-STAN-01](http://oom.lt/PROJ-ADAF-4516-STAN-01)
 - Short Link: [http://oom.lt/PRA4516](http://oom.lt/PRA4516)
 

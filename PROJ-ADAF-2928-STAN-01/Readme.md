@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2928-STAN-01
 - Hex ID: PRA2928
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2928
+- Description: Adafruit 2928
 - Long Link: [http://oom.lt/PROJ-ADAF-2928-STAN-01](http://oom.lt/PROJ-ADAF-2928-STAN-01)
 - Short Link: [http://oom.lt/PRA2928](http://oom.lt/PRA2928)
 

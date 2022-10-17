@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-815-STAN-01
 - Hex ID: PRA815
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 815
+- Description: Adafruit 815
 - Long Link: [http://oom.lt/PROJ-ADAF-815-STAN-01](http://oom.lt/PROJ-ADAF-815-STAN-01)
 - Short Link: [http://oom.lt/PRA815](http://oom.lt/PRA815)
 

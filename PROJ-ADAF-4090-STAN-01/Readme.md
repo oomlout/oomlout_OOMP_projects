@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4090-STAN-01
 - Hex ID: PRA4090
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4090
+- Description: Adafruit 4090
 - Long Link: [http://oom.lt/PROJ-ADAF-4090-STAN-01](http://oom.lt/PROJ-ADAF-4090-STAN-01)
 - Short Link: [http://oom.lt/PRA4090](http://oom.lt/PRA4090)
 

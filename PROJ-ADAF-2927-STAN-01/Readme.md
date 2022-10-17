@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2927-STAN-01
 - Hex ID: PRA2927
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2927
+- Description: Adafruit 2927
 - Long Link: [http://oom.lt/PROJ-ADAF-2927-STAN-01](http://oom.lt/PROJ-ADAF-2927-STAN-01)
 - Short Link: [http://oom.lt/PRA2927](http://oom.lt/PRA2927)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4506-STAN-01
 - Hex ID: PRA4506
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4506
+- Description: Adafruit 4506
 - Long Link: [http://oom.lt/PROJ-ADAF-4506-STAN-01](http://oom.lt/PROJ-ADAF-4506-STAN-01)
 - Short Link: [http://oom.lt/PRA4506](http://oom.lt/PRA4506)
 

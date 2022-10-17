@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-789-STAN-01
 - Hex ID: PRA789
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 789
+- Description: Adafruit 789
 - Long Link: [http://oom.lt/PROJ-ADAF-789-STAN-01](http://oom.lt/PROJ-ADAF-789-STAN-01)
 - Short Link: [http://oom.lt/PRA789](http://oom.lt/PRA789)
 

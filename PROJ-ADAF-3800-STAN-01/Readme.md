@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3800-STAN-01
 - Hex ID: PRA3800
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3800
+- Description: Adafruit 3800
 - Long Link: [http://oom.lt/PROJ-ADAF-3800-STAN-01](http://oom.lt/PROJ-ADAF-3800-STAN-01)
 - Short Link: [http://oom.lt/PRA3800](http://oom.lt/PRA3800)
 

@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-661-STAN-01
 - Hex ID: PRA661
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 661
+- Description: Adafruit 661
 - Long Link: [http://oom.lt/PROJ-ADAF-661-STAN-01](http://oom.lt/PROJ-ADAF-661-STAN-01)
 - Short Link: [http://oom.lt/PRA661](http://oom.lt/PRA661)
 

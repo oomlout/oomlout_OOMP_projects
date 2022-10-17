@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1628-STAN-01
 - Hex ID: PRA1628
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1628
+- Description: Adafruit 1628
 - Long Link: [http://oom.lt/PROJ-ADAF-1628-STAN-01](http://oom.lt/PROJ-ADAF-1628-STAN-01)
 - Short Link: [http://oom.lt/PRA1628](http://oom.lt/PRA1628)
 

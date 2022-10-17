@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9612-STAN-01
 - Hex ID: PRS9612
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9612
+- Description: Sparkfun 9612
 - Long Link: [http://oom.lt/PROJ-SPAR-9612-STAN-01](http://oom.lt/PROJ-SPAR-9612-STAN-01)
 - Short Link: [http://oom.lt/PRS9612](http://oom.lt/PRS9612)
 

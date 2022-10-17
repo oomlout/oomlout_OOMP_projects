@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4754-STAN-01
 - Hex ID: PRA4754
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4754
+- Description: Adafruit 4754
 - Long Link: [http://oom.lt/PROJ-ADAF-4754-STAN-01](http://oom.lt/PROJ-ADAF-4754-STAN-01)
 - Short Link: [http://oom.lt/PRA4754](http://oom.lt/PRA4754)
 

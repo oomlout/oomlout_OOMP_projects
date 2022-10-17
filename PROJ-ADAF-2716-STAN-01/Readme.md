@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2716-STAN-01
 - Hex ID: PRA2716
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2716
+- Description: Adafruit 2716
 - Long Link: [http://oom.lt/PROJ-ADAF-2716-STAN-01](http://oom.lt/PROJ-ADAF-2716-STAN-01)
 - Short Link: [http://oom.lt/PRA2716](http://oom.lt/PRA2716)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4367-STAN-01
 - Hex ID: PRA4367
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4367
+- Description: Adafruit 4367
 - Long Link: [http://oom.lt/PROJ-ADAF-4367-STAN-01](http://oom.lt/PROJ-ADAF-4367-STAN-01)
 - Short Link: [http://oom.lt/PRA4367](http://oom.lt/PRA4367)
 

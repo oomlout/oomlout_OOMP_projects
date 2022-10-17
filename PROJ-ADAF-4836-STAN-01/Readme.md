@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4836-STAN-01
 - Hex ID: PRA4836
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4836
+- Description: Adafruit 4836
 - Long Link: [http://oom.lt/PROJ-ADAF-4836-STAN-01](http://oom.lt/PROJ-ADAF-4836-STAN-01)
 - Short Link: [http://oom.lt/PRA4836](http://oom.lt/PRA4836)
 

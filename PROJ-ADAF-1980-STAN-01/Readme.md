@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-1980-STAN-01
 - Hex ID: PRA1980
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1980
+- Description: Adafruit 1980
 - Long Link: [http://oom.lt/PROJ-ADAF-1980-STAN-01](http://oom.lt/PROJ-ADAF-1980-STAN-01)
 - Short Link: [http://oom.lt/PRA1980](http://oom.lt/PRA1980)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8245-STAN-01
 - Hex ID: PRS8245
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8245
+- Description: Sparkfun 8245
 - Long Link: [http://oom.lt/PROJ-SPAR-8245-STAN-01](http://oom.lt/PROJ-SPAR-8245-STAN-01)
 - Short Link: [http://oom.lt/PRS8245](http://oom.lt/PRS8245)
 

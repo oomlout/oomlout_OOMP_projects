@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2260-STAN-01
 - Hex ID: PRA2260
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2260
+- Description: Adafruit 2260
 - Long Link: [http://oom.lt/PROJ-ADAF-2260-STAN-01](http://oom.lt/PROJ-ADAF-2260-STAN-01)
 - Short Link: [http://oom.lt/PRA2260](http://oom.lt/PRA2260)
 

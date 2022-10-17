@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4759-STAN-01
 - Hex ID: PRA4759
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4759
+- Description: Adafruit 4759
 - Long Link: [http://oom.lt/PROJ-ADAF-4759-STAN-01](http://oom.lt/PROJ-ADAF-4759-STAN-01)
 - Short Link: [http://oom.lt/PRA4759](http://oom.lt/PRA4759)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2340-STAN-01
 - Hex ID: PRA2340
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2340
+- Description: Adafruit 2340
 - Long Link: [http://oom.lt/PROJ-ADAF-2340-STAN-01](http://oom.lt/PROJ-ADAF-2340-STAN-01)
 - Short Link: [http://oom.lt/PRA2340](http://oom.lt/PRA2340)
 

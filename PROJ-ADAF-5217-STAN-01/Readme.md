@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5217-STAN-01
 - Hex ID: PRA5217
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5217
+- Description: Adafruit 5217
 - Long Link: [http://oom.lt/PROJ-ADAF-5217-STAN-01](http://oom.lt/PROJ-ADAF-5217-STAN-01)
 - Short Link: [http://oom.lt/PRA5217](http://oom.lt/PRA5217)
 

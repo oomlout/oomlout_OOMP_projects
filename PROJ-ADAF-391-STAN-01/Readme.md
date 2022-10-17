@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-391-STAN-01
 - Hex ID: PRA391
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 391
+- Description: Adafruit 391
 - Long Link: [http://oom.lt/PROJ-ADAF-391-STAN-01](http://oom.lt/PROJ-ADAF-391-STAN-01)
 - Short Link: [http://oom.lt/PRA391](http://oom.lt/PRA391)
 

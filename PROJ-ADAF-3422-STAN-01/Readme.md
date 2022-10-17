@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3422-STAN-01
 - Hex ID: PRA3422
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3422
+- Description: Adafruit 3422
 - Long Link: [http://oom.lt/PROJ-ADAF-3422-STAN-01](http://oom.lt/PROJ-ADAF-3422-STAN-01)
 - Short Link: [http://oom.lt/PRA3422](http://oom.lt/PRA3422)
 

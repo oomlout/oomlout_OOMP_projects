@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4026-STAN-01
 - Hex ID: PRA4026
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4026
+- Description: Adafruit 4026
 - Long Link: [http://oom.lt/PROJ-ADAF-4026-STAN-01](http://oom.lt/PROJ-ADAF-4026-STAN-01)
 - Short Link: [http://oom.lt/PRA4026](http://oom.lt/PRA4026)
 

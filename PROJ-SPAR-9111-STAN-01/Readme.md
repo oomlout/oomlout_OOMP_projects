@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9111-STAN-01
 - Hex ID: PRS9111
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9111
+- Description: Sparkfun 9111
 - Long Link: [http://oom.lt/PROJ-SPAR-9111-STAN-01](http://oom.lt/PROJ-SPAR-9111-STAN-01)
 - Short Link: [http://oom.lt/PRS9111](http://oom.lt/PRS9111)
 

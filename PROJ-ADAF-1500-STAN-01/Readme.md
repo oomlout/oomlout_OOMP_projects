@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1500-STAN-01
 - Hex ID: PRA1500
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1500
+- Description: Adafruit 1500
 - Long Link: [http://oom.lt/PROJ-ADAF-1500-STAN-01](http://oom.lt/PROJ-ADAF-1500-STAN-01)
 - Short Link: [http://oom.lt/PRA1500](http://oom.lt/PRA1500)
 

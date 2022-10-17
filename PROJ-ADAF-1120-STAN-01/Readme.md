@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1120-STAN-01
 - Hex ID: PRA1120
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1120
+- Description: Adafruit 1120
 - Long Link: [http://oom.lt/PROJ-ADAF-1120-STAN-01](http://oom.lt/PROJ-ADAF-1120-STAN-01)
 - Short Link: [http://oom.lt/PRA1120](http://oom.lt/PRA1120)
 

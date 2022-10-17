@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8776-STAN-01
 - Hex ID: PRS8776
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8776
+- Description: Sparkfun 8776
 - Long Link: [http://oom.lt/PROJ-SPAR-8776-STAN-01](http://oom.lt/PROJ-SPAR-8776-STAN-01)
 - Short Link: [http://oom.lt/PRS8776](http://oom.lt/PRS8776)
 

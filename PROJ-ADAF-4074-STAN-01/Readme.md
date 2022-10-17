@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4074-STAN-01
 - Hex ID: PRA4074
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4074
+- Description: Adafruit 4074
 - Long Link: [http://oom.lt/PROJ-ADAF-4074-STAN-01](http://oom.lt/PROJ-ADAF-4074-STAN-01)
 - Short Link: [http://oom.lt/PRA4074](http://oom.lt/PRA4074)
 

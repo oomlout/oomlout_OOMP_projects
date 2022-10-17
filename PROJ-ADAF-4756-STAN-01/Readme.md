@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4756-STAN-01
 - Hex ID: PRA4756
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4756
+- Description: Adafruit 4756
 - Long Link: [http://oom.lt/PROJ-ADAF-4756-STAN-01](http://oom.lt/PROJ-ADAF-4756-STAN-01)
 - Short Link: [http://oom.lt/PRA4756](http://oom.lt/PRA4756)
 

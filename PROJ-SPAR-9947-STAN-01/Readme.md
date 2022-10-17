@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9947-STAN-01
 - Hex ID: PRS9947
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9947
+- Description: Sparkfun 9947
 - Long Link: [http://oom.lt/PROJ-SPAR-9947-STAN-01](http://oom.lt/PROJ-SPAR-9947-STAN-01)
 - Short Link: [http://oom.lt/PRS9947](http://oom.lt/PRS9947)
 

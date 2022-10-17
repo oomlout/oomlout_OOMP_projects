@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-500-STAN-01
 - Hex ID: PRS500
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 500
+- Description: Sparkfun 500
 - Long Link: [http://oom.lt/PROJ-SPAR-500-STAN-01](http://oom.lt/PROJ-SPAR-500-STAN-01)
 - Short Link: [http://oom.lt/PRS500](http://oom.lt/PRS500)
 

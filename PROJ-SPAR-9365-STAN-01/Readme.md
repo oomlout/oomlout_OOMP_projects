@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9365-STAN-01
 - Hex ID: PRS9365
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9365
+- Description: Sparkfun 9365
 - Long Link: [http://oom.lt/PROJ-SPAR-9365-STAN-01](http://oom.lt/PROJ-SPAR-9365-STAN-01)
 - Short Link: [http://oom.lt/PRS9365](http://oom.lt/PRS9365)
 

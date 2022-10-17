@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1083-STAN-01
 - Hex ID: PRA1083
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1083
+- Description: Adafruit 1083
 - Long Link: [http://oom.lt/PROJ-ADAF-1083-STAN-01](http://oom.lt/PROJ-ADAF-1083-STAN-01)
 - Short Link: [http://oom.lt/PRA1083](http://oom.lt/PRA1083)
 

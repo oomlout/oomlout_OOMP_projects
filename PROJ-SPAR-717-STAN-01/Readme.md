@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-717-STAN-01
 - Hex ID: PRS717
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 717
+- Description: Sparkfun 717
 - Long Link: [http://oom.lt/PROJ-SPAR-717-STAN-01](http://oom.lt/PROJ-SPAR-717-STAN-01)
 - Short Link: [http://oom.lt/PRS717](http://oom.lt/PRS717)
 

@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-364-STAN-01
 - Hex ID: PRA364
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 364
+- Description: Adafruit 364
 - Long Link: [http://oom.lt/PROJ-ADAF-364-STAN-01](http://oom.lt/PROJ-ADAF-364-STAN-01)
 - Short Link: [http://oom.lt/PRA364](http://oom.lt/PRA364)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1963-STAN-01
 - Hex ID: PRA1963
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1963
+- Description: Adafruit 1963
 - Long Link: [http://oom.lt/PROJ-ADAF-1963-STAN-01](http://oom.lt/PROJ-ADAF-1963-STAN-01)
 - Short Link: [http://oom.lt/PRA1963](http://oom.lt/PRA1963)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2796-STAN-01
 - Hex ID: PRA2796
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2796
+- Description: Adafruit 2796
 - Long Link: [http://oom.lt/PROJ-ADAF-2796-STAN-01](http://oom.lt/PROJ-ADAF-2796-STAN-01)
 - Short Link: [http://oom.lt/PRA2796](http://oom.lt/PRA2796)
 

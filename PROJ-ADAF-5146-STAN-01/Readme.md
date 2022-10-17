@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5146-STAN-01
 - Hex ID: PRA5146
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5146
+- Description: Adafruit 5146
 - Long Link: [http://oom.lt/PROJ-ADAF-5146-STAN-01](http://oom.lt/PROJ-ADAF-5146-STAN-01)
 - Short Link: [http://oom.lt/PRA5146](http://oom.lt/PRA5146)
 

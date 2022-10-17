@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4808-STAN-01
 - Hex ID: PRA4808
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4808
+- Description: Adafruit 4808
 - Long Link: [http://oom.lt/PROJ-ADAF-4808-STAN-01](http://oom.lt/PROJ-ADAF-4808-STAN-01)
 - Short Link: [http://oom.lt/PRA4808](http://oom.lt/PRA4808)
 

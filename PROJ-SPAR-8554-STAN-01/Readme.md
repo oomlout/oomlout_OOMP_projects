@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8554-STAN-01
 - Hex ID: PRS8554
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8554
+- Description: Sparkfun 8554
 - Long Link: [http://oom.lt/PROJ-SPAR-8554-STAN-01](http://oom.lt/PROJ-SPAR-8554-STAN-01)
 - Short Link: [http://oom.lt/PRS8554](http://oom.lt/PRS8554)
 

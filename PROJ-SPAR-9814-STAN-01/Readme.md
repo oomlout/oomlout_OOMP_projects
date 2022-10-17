@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9814-STAN-01
 - Hex ID: PRS9814
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9814
+- Description: Sparkfun 9814
 - Long Link: [http://oom.lt/PROJ-SPAR-9814-STAN-01](http://oom.lt/PROJ-SPAR-9814-STAN-01)
 - Short Link: [http://oom.lt/PRS9814](http://oom.lt/PRS9814)
 

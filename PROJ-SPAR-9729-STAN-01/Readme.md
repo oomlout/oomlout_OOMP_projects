@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9729-STAN-01
 - Hex ID: PRS9729
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9729
+- Description: Sparkfun 9729
 - Long Link: [http://oom.lt/PROJ-SPAR-9729-STAN-01](http://oom.lt/PROJ-SPAR-9729-STAN-01)
 - Short Link: [http://oom.lt/PRS9729](http://oom.lt/PRS9729)
 

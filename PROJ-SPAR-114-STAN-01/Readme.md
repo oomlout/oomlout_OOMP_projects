@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-114-STAN-01
 - Hex ID: PRS114
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 114
+- Description: Sparkfun 114
 - Long Link: [http://oom.lt/PROJ-SPAR-114-STAN-01](http://oom.lt/PROJ-SPAR-114-STAN-01)
 - Short Link: [http://oom.lt/PRS114](http://oom.lt/PRS114)
 

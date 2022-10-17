@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-1770-STAN-01
 - Hex ID: PRA1770
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1770
+- Description: Adafruit 1770
 - Long Link: [http://oom.lt/PROJ-ADAF-1770-STAN-01](http://oom.lt/PROJ-ADAF-1770-STAN-01)
 - Short Link: [http://oom.lt/PRA1770](http://oom.lt/PRA1770)
 

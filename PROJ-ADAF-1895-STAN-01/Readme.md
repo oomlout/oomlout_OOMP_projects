@@ -15,8 +15,8 @@ Contents
 
 - ID: PROJ-ADAF-1895-STAN-01
 - Hex ID: PRA1895
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1895
+- Description: Adafruit 1895
 - Long Link: [http://oom.lt/PROJ-ADAF-1895-STAN-01](http://oom.lt/PROJ-ADAF-1895-STAN-01)
 - Short Link: [http://oom.lt/PRA1895](http://oom.lt/PRA1895)
 

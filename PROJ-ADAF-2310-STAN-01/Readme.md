@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2310-STAN-01
 - Hex ID: PRA2310
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2310
+- Description: Adafruit 2310
 - Long Link: [http://oom.lt/PROJ-ADAF-2310-STAN-01](http://oom.lt/PROJ-ADAF-2310-STAN-01)
 - Short Link: [http://oom.lt/PRA2310](http://oom.lt/PRA2310)
 

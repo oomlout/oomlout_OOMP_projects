@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8937-STAN-01
 - Hex ID: PRS8937
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8937
+- Description: Sparkfun 8937
 - Long Link: [http://oom.lt/PROJ-SPAR-8937-STAN-01](http://oom.lt/PROJ-SPAR-8937-STAN-01)
 - Short Link: [http://oom.lt/PRS8937](http://oom.lt/PRS8937)
 

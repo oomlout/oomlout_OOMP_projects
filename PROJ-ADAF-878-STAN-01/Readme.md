@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-878-STAN-01
 - Hex ID: PRA878
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 878
+- Description: Adafruit 878
 - Long Link: [http://oom.lt/PROJ-ADAF-878-STAN-01](http://oom.lt/PROJ-ADAF-878-STAN-01)
 - Short Link: [http://oom.lt/PRA878](http://oom.lt/PRA878)
 

@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9266-STAN-01
 - Hex ID: PRS9266
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9266
+- Description: Sparkfun 9266
 - Long Link: [http://oom.lt/PROJ-SPAR-9266-STAN-01](http://oom.lt/PROJ-SPAR-9266-STAN-01)
 - Short Link: [http://oom.lt/PRS9266](http://oom.lt/PRS9266)
 

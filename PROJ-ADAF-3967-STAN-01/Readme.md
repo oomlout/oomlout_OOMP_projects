@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3967-STAN-01
 - Hex ID: PRA3967
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3967
+- Description: Adafruit 3967
 - Long Link: [http://oom.lt/PROJ-ADAF-3967-STAN-01](http://oom.lt/PROJ-ADAF-3967-STAN-01)
 - Short Link: [http://oom.lt/PRA3967](http://oom.lt/PRA3967)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1325-STAN-01
 - Hex ID: PRA1325
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1325
+- Description: Adafruit 1325
 - Long Link: [http://oom.lt/PROJ-ADAF-1325-STAN-01](http://oom.lt/PROJ-ADAF-1325-STAN-01)
 - Short Link: [http://oom.lt/PRA1325](http://oom.lt/PRA1325)
 

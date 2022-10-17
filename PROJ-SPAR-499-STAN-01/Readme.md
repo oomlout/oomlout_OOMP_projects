@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-499-STAN-01
 - Hex ID: PRS499
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 499
+- Description: Sparkfun 499
 - Long Link: [http://oom.lt/PROJ-SPAR-499-STAN-01](http://oom.lt/PROJ-SPAR-499-STAN-01)
 - Short Link: [http://oom.lt/PRS499](http://oom.lt/PRS499)
 

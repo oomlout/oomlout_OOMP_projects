@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9056-STAN-01
 - Hex ID: PRS9056
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9056
+- Description: Sparkfun 9056
 - Long Link: [http://oom.lt/PROJ-SPAR-9056-STAN-01](http://oom.lt/PROJ-SPAR-9056-STAN-01)
 - Short Link: [http://oom.lt/PRS9056](http://oom.lt/PRS9056)
 

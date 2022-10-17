@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4870-STAN-01
 - Hex ID: PRA4870
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4870
+- Description: Adafruit 4870
 - Long Link: [http://oom.lt/PROJ-ADAF-4870-STAN-01](http://oom.lt/PROJ-ADAF-4870-STAN-01)
 - Short Link: [http://oom.lt/PRA4870](http://oom.lt/PRA4870)
 

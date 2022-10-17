@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4464-STAN-01
 - Hex ID: PRA4464
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4464
+- Description: Adafruit 4464
 - Long Link: [http://oom.lt/PROJ-ADAF-4464-STAN-01](http://oom.lt/PROJ-ADAF-4464-STAN-01)
 - Short Link: [http://oom.lt/PRA4464](http://oom.lt/PRA4464)
 

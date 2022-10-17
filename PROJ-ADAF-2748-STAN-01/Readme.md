@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2748-STAN-01
 - Hex ID: PRA2748
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2748
+- Description: Adafruit 2748
 - Long Link: [http://oom.lt/PROJ-ADAF-2748-STAN-01](http://oom.lt/PROJ-ADAF-2748-STAN-01)
 - Short Link: [http://oom.lt/PRA2748](http://oom.lt/PRA2748)
 

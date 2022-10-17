@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9419-STAN-01
 - Hex ID: PRS9419
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9419
+- Description: Sparkfun 9419
 - Long Link: [http://oom.lt/PROJ-SPAR-9419-STAN-01](http://oom.lt/PROJ-SPAR-9419-STAN-01)
 - Short Link: [http://oom.lt/PRS9419](http://oom.lt/PRS9419)
 

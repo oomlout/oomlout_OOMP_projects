@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4500-STAN-01
 - Hex ID: PRA4500
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4500
+- Description: Adafruit 4500
 - Long Link: [http://oom.lt/PROJ-ADAF-4500-STAN-01](http://oom.lt/PROJ-ADAF-4500-STAN-01)
 - Short Link: [http://oom.lt/PRA4500](http://oom.lt/PRA4500)
 

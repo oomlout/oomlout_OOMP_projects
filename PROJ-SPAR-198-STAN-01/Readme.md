@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-198-STAN-01
 - Hex ID: PRS198
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 198
+- Description: Sparkfun 198
 - Long Link: [http://oom.lt/PROJ-SPAR-198-STAN-01](http://oom.lt/PROJ-SPAR-198-STAN-01)
 - Short Link: [http://oom.lt/PRS198](http://oom.lt/PRS198)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-258-STAN-01
 - Hex ID: PRS258
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 258
+- Description: Sparkfun 258
 - Long Link: [http://oom.lt/PROJ-SPAR-258-STAN-01](http://oom.lt/PROJ-SPAR-258-STAN-01)
 - Short Link: [http://oom.lt/PRS258](http://oom.lt/PRS258)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-8130-STAN-01
 - Hex ID: PRS8130
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 8130
+- Description: Sparkfun 8130
 - Long Link: [http://oom.lt/PROJ-SPAR-8130-STAN-01](http://oom.lt/PROJ-SPAR-8130-STAN-01)
 - Short Link: [http://oom.lt/PRS8130](http://oom.lt/PRS8130)
 

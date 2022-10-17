@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9981-STAN-01
 - Hex ID: PRS9981
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9981
+- Description: Sparkfun 9981
 - Long Link: [http://oom.lt/PROJ-SPAR-9981-STAN-01](http://oom.lt/PROJ-SPAR-9981-STAN-01)
 - Short Link: [http://oom.lt/PRS9981](http://oom.lt/PRS9981)
 

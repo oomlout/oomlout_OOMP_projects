@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3885-STAN-01
 - Hex ID: PRA3885
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3885
+- Description: Adafruit 3885
 - Long Link: [http://oom.lt/PROJ-ADAF-3885-STAN-01](http://oom.lt/PROJ-ADAF-3885-STAN-01)
 - Short Link: [http://oom.lt/PRA3885](http://oom.lt/PRA3885)
 

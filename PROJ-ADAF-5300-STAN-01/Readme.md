@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5300-STAN-01
 - Hex ID: PRA5300
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5300
+- Description: Adafruit 5300
 - Long Link: [http://oom.lt/PROJ-ADAF-5300-STAN-01](http://oom.lt/PROJ-ADAF-5300-STAN-01)
 - Short Link: [http://oom.lt/PRA5300](http://oom.lt/PRA5300)
 

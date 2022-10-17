@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4535-STAN-01
 - Hex ID: PRA4535
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4535
+- Description: Adafruit 4535
 - Long Link: [http://oom.lt/PROJ-ADAF-4535-STAN-01](http://oom.lt/PROJ-ADAF-4535-STAN-01)
 - Short Link: [http://oom.lt/PRA4535](http://oom.lt/PRA4535)
 

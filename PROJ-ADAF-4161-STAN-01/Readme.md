@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4161-STAN-01
 - Hex ID: PRA4161
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4161
+- Description: Adafruit 4161
 - Long Link: [http://oom.lt/PROJ-ADAF-4161-STAN-01](http://oom.lt/PROJ-ADAF-4161-STAN-01)
 - Short Link: [http://oom.lt/PRA4161](http://oom.lt/PRA4161)
 

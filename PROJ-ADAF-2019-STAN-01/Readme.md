@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2019-STAN-01
 - Hex ID: PRA2019
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2019
+- Description: Adafruit 2019
 - Long Link: [http://oom.lt/PROJ-ADAF-2019-STAN-01](http://oom.lt/PROJ-ADAF-2019-STAN-01)
 - Short Link: [http://oom.lt/PRA2019](http://oom.lt/PRA2019)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5378-STAN-01
 - Hex ID: PRA5378
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5378
+- Description: Adafruit 5378
 - Long Link: [http://oom.lt/PROJ-ADAF-5378-STAN-01](http://oom.lt/PROJ-ADAF-5378-STAN-01)
 - Short Link: [http://oom.lt/PRA5378](http://oom.lt/PRA5378)
 

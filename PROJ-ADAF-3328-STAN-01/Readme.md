@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3328-STAN-01
 - Hex ID: PRA3328
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3328
+- Description: Adafruit 3328
 - Long Link: [http://oom.lt/PROJ-ADAF-3328-STAN-01](http://oom.lt/PROJ-ADAF-3328-STAN-01)
 - Short Link: [http://oom.lt/PRA3328](http://oom.lt/PRA3328)
 

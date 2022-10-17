@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3147-STAN-01
 - Hex ID: PRA3147
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3147
+- Description: Adafruit 3147
 - Long Link: [http://oom.lt/PROJ-ADAF-3147-STAN-01](http://oom.lt/PROJ-ADAF-3147-STAN-01)
 - Short Link: [http://oom.lt/PRA3147](http://oom.lt/PRA3147)
 

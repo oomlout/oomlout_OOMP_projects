@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3191-STAN-01
 - Hex ID: PRA3191
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3191
+- Description: Adafruit 3191
 - Long Link: [http://oom.lt/PROJ-ADAF-3191-STAN-01](http://oom.lt/PROJ-ADAF-3191-STAN-01)
 - Short Link: [http://oom.lt/PRA3191](http://oom.lt/PRA3191)
 

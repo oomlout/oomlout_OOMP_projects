@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1222-STAN-01
 - Hex ID: PRA1222
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1222
+- Description: Adafruit 1222
 - Long Link: [http://oom.lt/PROJ-ADAF-1222-STAN-01](http://oom.lt/PROJ-ADAF-1222-STAN-01)
 - Short Link: [http://oom.lt/PRA1222](http://oom.lt/PRA1222)
 

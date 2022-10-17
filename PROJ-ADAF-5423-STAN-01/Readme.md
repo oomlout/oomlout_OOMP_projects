@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5423-STAN-01
 - Hex ID: PRA5423
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5423
+- Description: Adafruit 5423
 - Long Link: [http://oom.lt/PROJ-ADAF-5423-STAN-01](http://oom.lt/PROJ-ADAF-5423-STAN-01)
 - Short Link: [http://oom.lt/PRA5423](http://oom.lt/PRA5423)
 

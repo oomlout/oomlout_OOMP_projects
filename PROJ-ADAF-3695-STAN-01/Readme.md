@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3695-STAN-01
 - Hex ID: PRA3695
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3695
+- Description: Adafruit 3695
 - Long Link: [http://oom.lt/PROJ-ADAF-3695-STAN-01](http://oom.lt/PROJ-ADAF-3695-STAN-01)
 - Short Link: [http://oom.lt/PRA3695](http://oom.lt/PRA3695)
 

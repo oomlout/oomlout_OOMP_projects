@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1916-STAN-01
 - Hex ID: PRA1916
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1916
+- Description: Adafruit 1916
 - Long Link: [http://oom.lt/PROJ-ADAF-1916-STAN-01](http://oom.lt/PROJ-ADAF-1916-STAN-01)
 - Short Link: [http://oom.lt/PRA1916](http://oom.lt/PRA1916)
 

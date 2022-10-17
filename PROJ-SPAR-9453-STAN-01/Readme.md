@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9453-STAN-01
 - Hex ID: PRS9453
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9453
+- Description: Sparkfun 9453
 - Long Link: [http://oom.lt/PROJ-SPAR-9453-STAN-01](http://oom.lt/PROJ-SPAR-9453-STAN-01)
 - Short Link: [http://oom.lt/PRS9453](http://oom.lt/PRS9453)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4985-STAN-01
 - Hex ID: PRA4985
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4985
+- Description: Adafruit 4985
 - Long Link: [http://oom.lt/PROJ-ADAF-4985-STAN-01](http://oom.lt/PROJ-ADAF-4985-STAN-01)
 - Short Link: [http://oom.lt/PRA4985](http://oom.lt/PRA4985)
 

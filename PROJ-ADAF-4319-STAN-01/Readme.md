@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4319-STAN-01
 - Hex ID: PRA4319
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4319
+- Description: Adafruit 4319
 - Long Link: [http://oom.lt/PROJ-ADAF-4319-STAN-01](http://oom.lt/PROJ-ADAF-4319-STAN-01)
 - Short Link: [http://oom.lt/PRA4319](http://oom.lt/PRA4319)
 

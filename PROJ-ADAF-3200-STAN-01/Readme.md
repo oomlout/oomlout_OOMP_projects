@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3200-STAN-01
 - Hex ID: PRA3200
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3200
+- Description: Adafruit 3200
 - Long Link: [http://oom.lt/PROJ-ADAF-3200-STAN-01](http://oom.lt/PROJ-ADAF-3200-STAN-01)
 - Short Link: [http://oom.lt/PRA3200](http://oom.lt/PRA3200)
 

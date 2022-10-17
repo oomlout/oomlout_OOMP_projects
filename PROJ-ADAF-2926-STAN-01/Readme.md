@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2926-STAN-01
 - Hex ID: PRA2926
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2926
+- Description: Adafruit 2926
 - Long Link: [http://oom.lt/PROJ-ADAF-2926-STAN-01](http://oom.lt/PROJ-ADAF-2926-STAN-01)
 - Short Link: [http://oom.lt/PRA2926](http://oom.lt/PRA2926)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3787-STAN-01
 - Hex ID: PRA3787
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3787
+- Description: Adafruit 3787
 - Long Link: [http://oom.lt/PROJ-ADAF-3787-STAN-01](http://oom.lt/PROJ-ADAF-3787-STAN-01)
 - Short Link: [http://oom.lt/PRA3787](http://oom.lt/PRA3787)
 

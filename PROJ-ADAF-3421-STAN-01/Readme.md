@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3421-STAN-01
 - Hex ID: PRA3421
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3421
+- Description: Adafruit 3421
 - Long Link: [http://oom.lt/PROJ-ADAF-3421-STAN-01](http://oom.lt/PROJ-ADAF-3421-STAN-01)
 - Short Link: [http://oom.lt/PRA3421](http://oom.lt/PRA3421)
 

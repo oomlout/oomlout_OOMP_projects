@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9346-STAN-01
 - Hex ID: PRS9346
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9346
+- Description: Sparkfun 9346
 - Long Link: [http://oom.lt/PROJ-SPAR-9346-STAN-01](http://oom.lt/PROJ-SPAR-9346-STAN-01)
 - Short Link: [http://oom.lt/PRS9346](http://oom.lt/PRS9346)
 

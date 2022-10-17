@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9695-STAN-01
 - Hex ID: PRS9695
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9695
+- Description: Sparkfun 9695
 - Long Link: [http://oom.lt/PROJ-SPAR-9695-STAN-01](http://oom.lt/PROJ-SPAR-9695-STAN-01)
 - Short Link: [http://oom.lt/PRS9695](http://oom.lt/PRS9695)
 

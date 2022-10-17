@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2857-STAN-01
 - Hex ID: PRA2857
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2857
+- Description: Adafruit 2857
 - Long Link: [http://oom.lt/PROJ-ADAF-2857-STAN-01](http://oom.lt/PROJ-ADAF-2857-STAN-01)
 - Short Link: [http://oom.lt/PRA2857](http://oom.lt/PRA2857)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4903-STAN-01
 - Hex ID: PRA4903
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4903
+- Description: Adafruit 4903
 - Long Link: [http://oom.lt/PROJ-ADAF-4903-STAN-01](http://oom.lt/PROJ-ADAF-4903-STAN-01)
 - Short Link: [http://oom.lt/PRA4903](http://oom.lt/PRA4903)
 

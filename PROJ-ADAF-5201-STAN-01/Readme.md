@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5201-STAN-01
 - Hex ID: PRA5201
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5201
+- Description: Adafruit 5201
 - Long Link: [http://oom.lt/PROJ-ADAF-5201-STAN-01](http://oom.lt/PROJ-ADAF-5201-STAN-01)
 - Short Link: [http://oom.lt/PRA5201](http://oom.lt/PRA5201)
 

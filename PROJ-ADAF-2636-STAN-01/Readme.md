@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2636-STAN-01
 - Hex ID: PRA2636
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2636
+- Description: Adafruit 2636
 - Long Link: [http://oom.lt/PROJ-ADAF-2636-STAN-01](http://oom.lt/PROJ-ADAF-2636-STAN-01)
 - Short Link: [http://oom.lt/PRA2636](http://oom.lt/PRA2636)
 

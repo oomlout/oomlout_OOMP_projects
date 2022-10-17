@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-705-STAN-01
 - Hex ID: PRS705
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 705
+- Description: Sparkfun 705
 - Long Link: [http://oom.lt/PROJ-SPAR-705-STAN-01](http://oom.lt/PROJ-SPAR-705-STAN-01)
 - Short Link: [http://oom.lt/PRS705](http://oom.lt/PRS705)
 

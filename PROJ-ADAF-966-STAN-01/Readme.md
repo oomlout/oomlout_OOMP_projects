@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-966-STAN-01
 - Hex ID: PRA966
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 966
+- Description: Adafruit 966
 - Long Link: [http://oom.lt/PROJ-ADAF-966-STAN-01](http://oom.lt/PROJ-ADAF-966-STAN-01)
 - Short Link: [http://oom.lt/PRA966](http://oom.lt/PRA966)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-904-STAN-01
 - Hex ID: PRA904
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 904
+- Description: Adafruit 904
 - Long Link: [http://oom.lt/PROJ-ADAF-904-STAN-01](http://oom.lt/PROJ-ADAF-904-STAN-01)
 - Short Link: [http://oom.lt/PRA904](http://oom.lt/PRA904)
 

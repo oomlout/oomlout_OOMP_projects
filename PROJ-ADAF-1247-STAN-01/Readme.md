@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1247-STAN-01
 - Hex ID: PRA1247
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1247
+- Description: Adafruit 1247
 - Long Link: [http://oom.lt/PROJ-ADAF-1247-STAN-01](http://oom.lt/PROJ-ADAF-1247-STAN-01)
 - Short Link: [http://oom.lt/PRA1247](http://oom.lt/PRA1247)
 

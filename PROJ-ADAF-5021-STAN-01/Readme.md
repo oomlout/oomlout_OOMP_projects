@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5021-STAN-01
 - Hex ID: PRA5021
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5021
+- Description: Adafruit 5021
 - Long Link: [http://oom.lt/PROJ-ADAF-5021-STAN-01](http://oom.lt/PROJ-ADAF-5021-STAN-01)
 - Short Link: [http://oom.lt/PRA5021](http://oom.lt/PRA5021)
 

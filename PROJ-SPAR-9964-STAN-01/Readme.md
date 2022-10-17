@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9964-STAN-01
 - Hex ID: PRS9964
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9964
+- Description: Sparkfun 9964
 - Long Link: [http://oom.lt/PROJ-SPAR-9964-STAN-01](http://oom.lt/PROJ-SPAR-9964-STAN-01)
 - Short Link: [http://oom.lt/PRS9964](http://oom.lt/PRS9964)
 

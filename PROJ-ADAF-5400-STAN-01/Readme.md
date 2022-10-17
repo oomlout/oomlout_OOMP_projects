@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5400-STAN-01
 - Hex ID: PRA5400
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5400
+- Description: Adafruit 5400
 - Long Link: [http://oom.lt/PROJ-ADAF-5400-STAN-01](http://oom.lt/PROJ-ADAF-5400-STAN-01)
 - Short Link: [http://oom.lt/PRA5400](http://oom.lt/PRA5400)
 

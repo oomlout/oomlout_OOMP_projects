@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4097-STAN-01
 - Hex ID: PRA4097
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4097
+- Description: Adafruit 4097
 - Long Link: [http://oom.lt/PROJ-ADAF-4097-STAN-01](http://oom.lt/PROJ-ADAF-4097-STAN-01)
 - Short Link: [http://oom.lt/PRA4097](http://oom.lt/PRA4097)
 

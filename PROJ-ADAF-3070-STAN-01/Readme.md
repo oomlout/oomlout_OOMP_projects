@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3070-STAN-01
 - Hex ID: PRA3070
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3070
+- Description: Adafruit 3070
 - Long Link: [http://oom.lt/PROJ-ADAF-3070-STAN-01](http://oom.lt/PROJ-ADAF-3070-STAN-01)
 - Short Link: [http://oom.lt/PRA3070](http://oom.lt/PRA3070)
 

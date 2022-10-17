@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5302-STAN-01
 - Hex ID: PRA5302
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5302
+- Description: Adafruit 5302
 - Long Link: [http://oom.lt/PROJ-ADAF-5302-STAN-01](http://oom.lt/PROJ-ADAF-5302-STAN-01)
 - Short Link: [http://oom.lt/PRA5302](http://oom.lt/PRA5302)
 

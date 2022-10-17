@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1296-STAN-01
 - Hex ID: PRA1296
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1296
+- Description: Adafruit 1296
 - Long Link: [http://oom.lt/PROJ-ADAF-1296-STAN-01](http://oom.lt/PROJ-ADAF-1296-STAN-01)
 - Short Link: [http://oom.lt/PRA1296](http://oom.lt/PRA1296)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3435-STAN-01
 - Hex ID: PRA3435
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3435
+- Description: Adafruit 3435
 - Long Link: [http://oom.lt/PROJ-ADAF-3435-STAN-01](http://oom.lt/PROJ-ADAF-3435-STAN-01)
 - Short Link: [http://oom.lt/PRA3435](http://oom.lt/PRA3435)
 

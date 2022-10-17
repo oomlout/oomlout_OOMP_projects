@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5397-STAN-01
 - Hex ID: PRA5397
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5397
+- Description: Adafruit 5397
 - Long Link: [http://oom.lt/PROJ-ADAF-5397-STAN-01](http://oom.lt/PROJ-ADAF-5397-STAN-01)
 - Short Link: [http://oom.lt/PRA5397](http://oom.lt/PRA5397)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3296-STAN-01
 - Hex ID: PRA3296
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3296
+- Description: Adafruit 3296
 - Long Link: [http://oom.lt/PROJ-ADAF-3296-STAN-01](http://oom.lt/PROJ-ADAF-3296-STAN-01)
 - Short Link: [http://oom.lt/PRA3296](http://oom.lt/PRA3296)
 

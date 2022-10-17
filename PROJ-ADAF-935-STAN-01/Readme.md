@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-935-STAN-01
 - Hex ID: PRA935
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 935
+- Description: Adafruit 935
 - Long Link: [http://oom.lt/PROJ-ADAF-935-STAN-01](http://oom.lt/PROJ-ADAF-935-STAN-01)
 - Short Link: [http://oom.lt/PRA935](http://oom.lt/PRA935)
 

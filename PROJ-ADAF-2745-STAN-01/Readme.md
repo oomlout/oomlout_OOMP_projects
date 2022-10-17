@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2745-STAN-01
 - Hex ID: PRA2745
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2745
+- Description: Adafruit 2745
 - Long Link: [http://oom.lt/PROJ-ADAF-2745-STAN-01](http://oom.lt/PROJ-ADAF-2745-STAN-01)
 - Short Link: [http://oom.lt/PRA2745](http://oom.lt/PRA2745)
 

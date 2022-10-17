@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-723-STAN-01
 - Hex ID: PRA723
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 723
+- Description: Adafruit 723
 - Long Link: [http://oom.lt/PROJ-ADAF-723-STAN-01](http://oom.lt/PROJ-ADAF-723-STAN-01)
 - Short Link: [http://oom.lt/PRA723](http://oom.lt/PRA723)
 

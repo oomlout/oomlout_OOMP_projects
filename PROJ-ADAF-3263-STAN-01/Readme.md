@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3263-STAN-01
 - Hex ID: PRA3263
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3263
+- Description: Adafruit 3263
 - Long Link: [http://oom.lt/PROJ-ADAF-3263-STAN-01](http://oom.lt/PROJ-ADAF-3263-STAN-01)
 - Short Link: [http://oom.lt/PRA3263](http://oom.lt/PRA3263)
 

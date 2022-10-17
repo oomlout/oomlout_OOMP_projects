@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9235-STAN-01
 - Hex ID: PRS9235
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9235
+- Description: Sparkfun 9235
 - Long Link: [http://oom.lt/PROJ-SPAR-9235-STAN-01](http://oom.lt/PROJ-SPAR-9235-STAN-01)
 - Short Link: [http://oom.lt/PRS9235](http://oom.lt/PRS9235)
 

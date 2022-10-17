@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4745-STAN-01
 - Hex ID: PRA4745
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4745
+- Description: Adafruit 4745
 - Long Link: [http://oom.lt/PROJ-ADAF-4745-STAN-01](http://oom.lt/PROJ-ADAF-4745-STAN-01)
 - Short Link: [http://oom.lt/PRA4745](http://oom.lt/PRA4745)
 

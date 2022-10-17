@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-14-STAN-01
 - Hex ID: PRA14
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 14
+- Description: Adafruit 14
 - Long Link: [http://oom.lt/PROJ-ADAF-14-STAN-01](http://oom.lt/PROJ-ADAF-14-STAN-01)
 - Short Link: [http://oom.lt/PRA14](http://oom.lt/PRA14)
 

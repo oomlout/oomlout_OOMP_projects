@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3954-STAN-01
 - Hex ID: PRA3954
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3954
+- Description: Adafruit 3954
 - Long Link: [http://oom.lt/PROJ-ADAF-3954-STAN-01](http://oom.lt/PROJ-ADAF-3954-STAN-01)
 - Short Link: [http://oom.lt/PRA3954](http://oom.lt/PRA3954)
 

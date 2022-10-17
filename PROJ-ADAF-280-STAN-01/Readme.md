@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-280-STAN-01
 - Hex ID: PRA280
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 280
+- Description: Adafruit 280
 - Long Link: [http://oom.lt/PROJ-ADAF-280-STAN-01](http://oom.lt/PROJ-ADAF-280-STAN-01)
 - Short Link: [http://oom.lt/PRA280](http://oom.lt/PRA280)
 

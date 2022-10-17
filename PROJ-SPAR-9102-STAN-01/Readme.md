@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9102-STAN-01
 - Hex ID: PRS9102
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9102
+- Description: Sparkfun 9102
 - Long Link: [http://oom.lt/PROJ-SPAR-9102-STAN-01](http://oom.lt/PROJ-SPAR-9102-STAN-01)
 - Short Link: [http://oom.lt/PRS9102](http://oom.lt/PRS9102)
 

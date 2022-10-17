@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4821-STAN-01
 - Hex ID: PRA4821
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4821
+- Description: Adafruit 4821
 - Long Link: [http://oom.lt/PROJ-ADAF-4821-STAN-01](http://oom.lt/PROJ-ADAF-4821-STAN-01)
 - Short Link: [http://oom.lt/PRA4821](http://oom.lt/PRA4821)
 

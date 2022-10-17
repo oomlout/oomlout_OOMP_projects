@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3317-STAN-01
 - Hex ID: PRA3317
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3317
+- Description: Adafruit 3317
 - Long Link: [http://oom.lt/PROJ-ADAF-3317-STAN-01](http://oom.lt/PROJ-ADAF-3317-STAN-01)
 - Short Link: [http://oom.lt/PRA3317](http://oom.lt/PRA3317)
 

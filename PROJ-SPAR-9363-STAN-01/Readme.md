@@ -16,8 +16,8 @@ Contents
 
 - ID: PROJ-SPAR-9363-STAN-01
 - Hex ID: PRS9363
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9363
+- Description: Sparkfun 9363
 - Long Link: [http://oom.lt/PROJ-SPAR-9363-STAN-01](http://oom.lt/PROJ-SPAR-9363-STAN-01)
 - Short Link: [http://oom.lt/PRS9363](http://oom.lt/PRS9363)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2771-STAN-01
 - Hex ID: PRA2771
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2771
+- Description: Adafruit 2771
 - Long Link: [http://oom.lt/PROJ-ADAF-2771-STAN-01](http://oom.lt/PROJ-ADAF-2771-STAN-01)
 - Short Link: [http://oom.lt/PRA2771](http://oom.lt/PRA2771)
 

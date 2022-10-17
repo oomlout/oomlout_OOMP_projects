@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-5374-STAN-01
 - Hex ID: PRA5374
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 5374
+- Description: Adafruit 5374
 - Long Link: [http://oom.lt/PROJ-ADAF-5374-STAN-01](http://oom.lt/PROJ-ADAF-5374-STAN-01)
 - Short Link: [http://oom.lt/PRA5374](http://oom.lt/PRA5374)
 

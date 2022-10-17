@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3134-STAN-01
 - Hex ID: PRA3134
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3134
+- Description: Adafruit 3134
 - Long Link: [http://oom.lt/PROJ-ADAF-3134-STAN-01](http://oom.lt/PROJ-ADAF-3134-STAN-01)
 - Short Link: [http://oom.lt/PRA3134](http://oom.lt/PRA3134)
 

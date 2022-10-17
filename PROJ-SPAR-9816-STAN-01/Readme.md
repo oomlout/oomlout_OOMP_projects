@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9816-STAN-01
 - Hex ID: PRS9816
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9816
+- Description: Sparkfun 9816
 - Long Link: [http://oom.lt/PROJ-SPAR-9816-STAN-01](http://oom.lt/PROJ-SPAR-9816-STAN-01)
 - Short Link: [http://oom.lt/PRS9816](http://oom.lt/PRS9816)
 

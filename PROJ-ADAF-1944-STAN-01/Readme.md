@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1944-STAN-01
 - Hex ID: PRA1944
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1944
+- Description: Adafruit 1944
 - Long Link: [http://oom.lt/PROJ-ADAF-1944-STAN-01](http://oom.lt/PROJ-ADAF-1944-STAN-01)
 - Short Link: [http://oom.lt/PRA1944](http://oom.lt/PRA1944)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1958-STAN-01
 - Hex ID: PRA1958
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1958
+- Description: Adafruit 1958
 - Long Link: [http://oom.lt/PROJ-ADAF-1958-STAN-01](http://oom.lt/PROJ-ADAF-1958-STAN-01)
 - Short Link: [http://oom.lt/PRA1958](http://oom.lt/PRA1958)
 

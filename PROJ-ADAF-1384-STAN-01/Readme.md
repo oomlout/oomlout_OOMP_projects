@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1384-STAN-01
 - Hex ID: PRA1384
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1384
+- Description: Adafruit 1384
 - Long Link: [http://oom.lt/PROJ-ADAF-1384-STAN-01](http://oom.lt/PROJ-ADAF-1384-STAN-01)
 - Short Link: [http://oom.lt/PRA1384](http://oom.lt/PRA1384)
 

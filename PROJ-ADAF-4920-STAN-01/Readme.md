@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4920-STAN-01
 - Hex ID: PRA4920
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4920
+- Description: Adafruit 4920
 - Long Link: [http://oom.lt/PROJ-ADAF-4920-STAN-01](http://oom.lt/PROJ-ADAF-4920-STAN-01)
 - Short Link: [http://oom.lt/PRA4920](http://oom.lt/PRA4920)
 

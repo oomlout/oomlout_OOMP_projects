@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-512-STAN-01
 - Hex ID: PRA512
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 512
+- Description: Adafruit 512
 - Long Link: [http://oom.lt/PROJ-ADAF-512-STAN-01](http://oom.lt/PROJ-ADAF-512-STAN-01)
 - Short Link: [http://oom.lt/PRA512](http://oom.lt/PRA512)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-2652-STAN-01
 - Hex ID: PRA2652
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2652
+- Description: Adafruit 2652
 - Long Link: [http://oom.lt/PROJ-ADAF-2652-STAN-01](http://oom.lt/PROJ-ADAF-2652-STAN-01)
 - Short Link: [http://oom.lt/PRA2652](http://oom.lt/PRA2652)
 

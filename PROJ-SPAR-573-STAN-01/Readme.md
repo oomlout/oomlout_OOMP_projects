@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-573-STAN-01
 - Hex ID: PRS573
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 573
+- Description: Sparkfun 573
 - Long Link: [http://oom.lt/PROJ-SPAR-573-STAN-01](http://oom.lt/PROJ-SPAR-573-STAN-01)
 - Short Link: [http://oom.lt/PRS573](http://oom.lt/PRS573)
 

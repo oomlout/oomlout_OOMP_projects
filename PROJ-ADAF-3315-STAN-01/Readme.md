@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3315-STAN-01
 - Hex ID: PRA3315
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3315
+- Description: Adafruit 3315
 - Long Link: [http://oom.lt/PROJ-ADAF-3315-STAN-01](http://oom.lt/PROJ-ADAF-3315-STAN-01)
 - Short Link: [http://oom.lt/PRA3315](http://oom.lt/PRA3315)
 

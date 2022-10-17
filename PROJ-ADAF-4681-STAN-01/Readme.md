@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4681-STAN-01
 - Hex ID: PRA4681
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4681
+- Description: Adafruit 4681
 - Long Link: [http://oom.lt/PROJ-ADAF-4681-STAN-01](http://oom.lt/PROJ-ADAF-4681-STAN-01)
 - Short Link: [http://oom.lt/PRA4681](http://oom.lt/PRA4681)
 

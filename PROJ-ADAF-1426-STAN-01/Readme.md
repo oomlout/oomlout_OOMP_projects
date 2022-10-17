@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-1426-STAN-01
 - Hex ID: PRA1426
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 1426
+- Description: Adafruit 1426
 - Long Link: [http://oom.lt/PROJ-ADAF-1426-STAN-01](http://oom.lt/PROJ-ADAF-1426-STAN-01)
 - Short Link: [http://oom.lt/PRA1426](http://oom.lt/PRA1426)
 

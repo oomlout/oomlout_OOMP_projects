@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-SPAR-9350-STAN-01
 - Hex ID: PRS9350
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9350
+- Description: Sparkfun 9350
 - Long Link: [http://oom.lt/PROJ-SPAR-9350-STAN-01](http://oom.lt/PROJ-SPAR-9350-STAN-01)
 - Short Link: [http://oom.lt/PRS9350](http://oom.lt/PRS9350)
 

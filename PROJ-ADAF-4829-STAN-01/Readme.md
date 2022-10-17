@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4829-STAN-01
 - Hex ID: PRA4829
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4829
+- Description: Adafruit 4829
 - Long Link: [http://oom.lt/PROJ-ADAF-4829-STAN-01](http://oom.lt/PROJ-ADAF-4829-STAN-01)
 - Short Link: [http://oom.lt/PRA4829](http://oom.lt/PRA4829)
 

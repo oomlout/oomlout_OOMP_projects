@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-SPAR-9540-STAN-01
 - Hex ID: PRS9540
-- Name: Sparkfun
-- Description: Sparkfun
+- Name: Sparkfun 9540
+- Description: Sparkfun 9540
 - Long Link: [http://oom.lt/PROJ-SPAR-9540-STAN-01](http://oom.lt/PROJ-SPAR-9540-STAN-01)
 - Short Link: [http://oom.lt/PRS9540](http://oom.lt/PRS9540)
 

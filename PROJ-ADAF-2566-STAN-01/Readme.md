@@ -17,8 +17,8 @@ Contents
 
 - ID: PROJ-ADAF-2566-STAN-01
 - Hex ID: PRA2566
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 2566
+- Description: Adafruit 2566
 - Long Link: [http://oom.lt/PROJ-ADAF-2566-STAN-01](http://oom.lt/PROJ-ADAF-2566-STAN-01)
 - Short Link: [http://oom.lt/PRA2566](http://oom.lt/PRA2566)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4300-STAN-01
 - Hex ID: PRA4300
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4300
+- Description: Adafruit 4300
 - Long Link: [http://oom.lt/PROJ-ADAF-4300-STAN-01](http://oom.lt/PROJ-ADAF-4300-STAN-01)
 - Short Link: [http://oom.lt/PRA4300](http://oom.lt/PRA4300)
 

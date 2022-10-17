@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-3964-STAN-01
 - Hex ID: PRA3964
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 3964
+- Description: Adafruit 3964
 - Long Link: [http://oom.lt/PROJ-ADAF-3964-STAN-01](http://oom.lt/PROJ-ADAF-3964-STAN-01)
 - Short Link: [http://oom.lt/PRA3964](http://oom.lt/PRA3964)
 

@@ -18,8 +18,8 @@ Contents
 
 - ID: PROJ-ADAF-4686-STAN-01
 - Hex ID: PRA4686
-- Name: Adafruit
-- Description: Adafruit
+- Name: Adafruit 4686
+- Description: Adafruit 4686
 - Long Link: [http://oom.lt/PROJ-ADAF-4686-STAN-01](http://oom.lt/PROJ-ADAF-4686-STAN-01)
 - Short Link: [http://oom.lt/PRA4686](http://oom.lt/PRA4686)
 
