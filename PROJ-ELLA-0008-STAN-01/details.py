@@ -20,8 +20,8 @@ newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
 newPart.addTag('name','pic16-usb-module')
-newPart.addTag('gitRepo','https://github.com/electrolama/pic16-usb-module/')
-newPart.addTag('gitName','pic16-usb-module/')
+newPart.addTag('gitRepo','https://github.com/electrolama/pic16-usb-module')
+newPart.addTag('gitName','pic16-usb-module')
 newPart.addTag('eagleBoard','pum.brd')
 newPart.addTag('eagleSchem','pum.sch')
 

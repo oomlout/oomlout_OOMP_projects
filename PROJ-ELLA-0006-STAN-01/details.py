@@ -20,8 +20,8 @@ newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
 newPart.addTag('name','disaster01')
-newPart.addTag('gitRepo','https://github.com/electrolama/disaster01/')
-newPart.addTag('gitName','disaster01/')
+newPart.addTag('gitRepo','https://github.com/electrolama/disaster01')
+newPart.addTag('gitName','disaster01')
 newPart.addTag('eagleBoard','disaster01.brd')
 newPart.addTag('eagleSchem','disaster01.sch')
 

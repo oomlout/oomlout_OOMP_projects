@@ -20,8 +20,8 @@ newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
 newPart.addTag('name','riscystick')
-newPart.addTag('gitRepo','https://github.com/electrolama/riscystick/')
-newPart.addTag('gitName','riscystick/')
+newPart.addTag('gitRepo','https://github.com/electrolama/riscystick')
+newPart.addTag('gitName','riscystick')
 newPart.addTag('eagleBoard','hardware/Revision A1/riscystick-RevA1.brd')
 newPart.addTag('eagleSchem','hardware/Revision A1/riscystick-RevA1.sch')
 

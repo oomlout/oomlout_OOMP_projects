@@ -20,8 +20,8 @@ newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
 newPart.addTag('name','minik')
-newPart.addTag('gitRepo','https://github.com/electrolama/minik/')
-newPart.addTag('gitName','minik/')
+newPart.addTag('gitRepo','https://github.com/electrolama/minik')
+newPart.addTag('gitName','minik')
 newPart.addTag('eagleBoard','hardware/Revision A2/minik-RevA2.brd')
 newPart.addTag('eagleSchem','hardware/Revision A2/minik-RevA2.sch')
 

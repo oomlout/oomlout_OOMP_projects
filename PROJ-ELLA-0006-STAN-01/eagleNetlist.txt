@@ -1,0 +1,113 @@
+Netlist
+
+Exported from boardEagle.brd at 17/10/2022 09:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad
+
+3.3V     R1       1
+         R10      1
+         R11      1
+         R12      1
+         R13      1
+         R14      1
+         R15      1
+         R16      1
+         R17      1
+         R18      1
+         R2       1
+         R3       1
+         R4       1
+         R5       1
+         R6       1
+         R7       1
+         R8       1
+         R9       1
+         S1       1
+
+GND      JP1      1
+         LED1     K
+         LED10    K
+         LED11    K
+         LED12    K
+         LED13    K
+         LED14    K
+         LED15    K
+         LED16    K
+         LED17    K
+         LED18    K
+         LED2     K
+         LED3     K
+         LED4     K
+         LED5     K
+         LED6     K
+         LED7     K
+         LED8     K
+         LED9     K
+
+GPIO1    JP1      6
+
+GPIO2    JP1      5
+
+N$1      LED1     A
+         R1       2
+
+N$2      LED2     A
+         R2       2
+
+N$3      LED3     A
+         R3       2
+
+N$4      LED4     A
+         R4       2
+
+N$5      LED5     A
+         R5       2
+
+N$6      LED6     A
+         R6       2
+
+N$7      LED7     A
+         R7       2
+
+N$8      LED8     A
+         R8       2
+
+N$9      LED9     A
+         R9       2
+
+N$10     LED10    A
+         R10      2
+
+N$11     LED11    A
+         R11      2
+
+N$12     LED12    A
+         R12      2
+
+N$13     LED13    A
+         R13      2
+
+N$14     LED14    A
+         R14      2
+
+N$15     LED15    A
+         R15      2
+
+N$16     LED16    A
+         R16      2
+
+N$17     LED17    A
+         R17      2
+
+N$18     LED18    A
+         R18      2
+
+N$166    JP1      2
+         S1       2
+
+SCL      JP1      3
+
+SDA      JP1      4
+
