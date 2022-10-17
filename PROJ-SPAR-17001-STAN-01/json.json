@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "17001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "Qwiic BMP388 Pressure Sensor"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor"
+        },
+        {
+            "name": "gitName",
+            "value": "Qwiic_BMP388_Pressure_Sensor"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "Hardware/Qwiic_BMP388_Pressure_Sensor.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "Hardware/Qwiic_BMP388_Pressure_Sensor.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR17001"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-17001-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-17001-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "Qwiic BMP388 Pressure Sensor"
+        }
+    ]
+}

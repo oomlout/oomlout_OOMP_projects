@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0005"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "minik"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/minik/"
+        },
+        {
+            "name": "gitName",
+            "value": "minik/"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "hardware/Revision A2/minik-RevA2.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "hardware/Revision A2/minik-RevA2.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR5"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0005-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0005-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "minik"
+        }
+    ]
+}

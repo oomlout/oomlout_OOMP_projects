@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0007"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "nandcat"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/nandcat/"
+        },
+        {
+            "name": "gitName",
+            "value": "nandcat/"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "Revision A/nand-cat.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "Revision A/nand-cat.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR7"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0007-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0007-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "nandcat"
+        }
+    ]
+}

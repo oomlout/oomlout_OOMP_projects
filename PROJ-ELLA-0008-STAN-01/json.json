@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0008"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "pic16-usb-module"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/pic16-usb-module/"
+        },
+        {
+            "name": "gitName",
+            "value": "pic16-usb-module/"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "pum.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "pum.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR8"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0008-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0008-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "pic16-usb-module"
+        }
+    ]
+}

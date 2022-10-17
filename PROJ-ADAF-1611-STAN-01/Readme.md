@@ -44,7 +44,7 @@ Contents
 |HEAD-I01-X-UNMATCHED-01||JP1, JP2, JP3, JP4|
 |LEDS-UNMATCHED-G-STAN-01||LED1|
 |[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
-|RESE-0805-X-O473-01||R3, R4, R5|
+|[RESE-0805-X-O473-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|[SMD (0805) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|[R3, R4, R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||SW1, U1|
 
 ## Images

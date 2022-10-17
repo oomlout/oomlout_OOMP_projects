@@ -1,0 +1,376 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "DANP"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V36A"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v36a"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/DangerousPrototypes/Bus_Pirate"
+        },
+        {
+            "name": "gitName",
+            "value": "Bus_Pirate"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "hardware/v3.6/BusPirate-v3.6a-SSOP.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "hardware/v3.6/BusPirate-v3.6a-SSOP.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V36A"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "ICSP,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IO,HEAD-I01-X-PI2X05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED4,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED4A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PCB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-UNMATCHED-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-UNMATCHED-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R6,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RN1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RN2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RN3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR1,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR2,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR3,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,1uF,CAPC603,C603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,PIC24FJ64GA002,PIC24FJ64GA002,SSOP28,16-bit General Purpose Flash Microcontroller,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,FT232RL,FT232RL,SSOP28,USB to serial UART interface,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC3,4066,4066,TSSOP14,Quad bilateral ANALOG SWITCH,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "ICSP,,PINHD-1X5,1X05,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IO,CON_HEADER_2X05-PTH+SHROUDED_B,CON_HEADER_2X05-PTH+SHROUDED_B,PINSHRD_PTH_2X05B,2x05 pin header,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,CON-USB-MINI-BUSB1,CON-USB-MINI-BUSB1,CONN_USB_MINI-B,USB connector,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,700mA+ ferrite,WE-KIL_0805,WE-KI_0805_B,SMD Wire Wound Ceramic Inductor WE-KIL,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,LOGO_CC-0,LOGO_CC-0,LOGO_CC-0,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PCB1,PCB_DP_RECTANGLE-37X60,PCB_DP_RECTANGLE-37X60,DP6037_V1,Dangerous Prototypes Standard Rectangular PCB sizes,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,2K,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1K1,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1K1,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,1K1,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,2K,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R6,1K1,RESISTORR603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RN1,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RN2,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RN3,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR1,MCP1801T-3302I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR2,MCP1801T-3302I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR3,MCP1801T-5002I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V36A"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v36a"
+        }
+    ]
+}

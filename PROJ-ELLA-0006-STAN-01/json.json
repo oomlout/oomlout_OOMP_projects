@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0006"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "disaster01"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/disaster01/"
+        },
+        {
+            "name": "gitName",
+            "value": "disaster01/"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "disaster01.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "disaster01.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR6"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0006-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0006-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "disaster01"
+        }
+    ]
+}

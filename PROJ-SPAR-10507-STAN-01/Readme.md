@@ -51,7 +51,7 @@ Contents
 |RESE-UNMATCHED-X-UNMATCHED-01||R3, R10, R17, R24|
 |RESE-0805-X-UNMATCHED-01||R4, R5, R11, R12, R18, R19, R25, R26|
 |[RESE-0402-X-O203-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|[SMD (0402) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|[R6, R13, R20, R27](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O203-01/)|
-|RESE-0402-X-O331-01||R7, R14, R21, R28, R35, R36|
+|[RESE-0402-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O331-01/)|[SMD (0402) 330 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O331-01/)|[R7, R14, R21, R28, R35, R36](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0402-X-O331-01/)|
 |RESE-0402-X-O1003-01||R8, R9, R15, R16, R22, R23, R29, R30, R31, R32, R33, R34, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46, R47, R48|
 
 ## Images

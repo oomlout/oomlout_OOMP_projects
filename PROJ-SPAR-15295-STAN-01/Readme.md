@@ -43,9 +43,9 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|eagleImage|eagleSchemImage|
-| :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
+|bominteractivefront|bominteractiveback|kicadSchem|eagleImage|eagleSchemImage|
+| :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|
 
 ## Tags
 
@@ -95,41 +95,5 @@ Contents
 - oompParts: U$2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U$11,UNMATCHED-UNMATCHED-X-UNMATCHED-01
-- rawParts: @HOLE7,,,,,,,
-- rawParts: @HOLE5,,,,,,,
-- rawParts: @HOLE17,,,,,,,
-- rawParts: @HOLE22,,,,,,,
-- rawParts: @HOLE4,,,,,,,
-- rawParts: @HOLE9,,,,,,,
-- rawParts: @HOLE16,,,,,,,
-- rawParts: @HOLE6,,,,,,,
-- rawParts: @HOLE3,,,,,,,
-- rawParts: @HOLE0,,,,,,,
-- rawParts: @HOLE15,,,,,,,
-- rawParts: @HOLE10,,,,,,,
-- rawParts: @HOLE13,,,,,,,
-- rawParts: @HOLE21,,,,,,,
-- rawParts: @HOLE14,,,,,,,
-- rawParts: @HOLE20,,,,,,,
-- rawParts: @HOLE8,,,,,,,
-- rawParts: @HOLE1,,,,,,,
-- rawParts: @HOLE11,,,,,,,
-- rawParts: @HOLE12,,,,,,,
-- rawParts: @HOLE2,,,,,,,
-- rawParts: @HOLE19,,,,,,,
-- rawParts: @HOLE18,,,,,,,
-- rawParts: U$12,,PROTRACTOR#JPG,PROTRACTOR#JPG,,,,
-- rawParts: FRAME1,FRAME-LETTER,CREATIVE_COMMONS,CREATIVE_COMMONS,,,,
-- rawParts: U$9,,SFE_LOGO_NAME_.2,SFE_LOGO_NAME_.2,,,,
-- rawParts: E$3,,STAND-OFF,STAND-OFF,,,,
-- rawParts: E$2,,STAND-OFF,STAND-OFF,,,,
-- rawParts: U$13,,MORSE#PNG,MORSE#PNG,,,,
-- rawParts: LOGO1,OSHW-LOGOM,OSHW-LOGO-M,OSHW-LOGO-M,,,,
-- rawParts: U$5,,PCHANNELMOSFET#PNG,PCHANNELMOSFET#PNG,,,,
-- rawParts: U$3,,DIODE#PNG,DIODE#PNG,,,,
-- rawParts: U$7,,ZENER#PNG,ZENER#PNG,,,,
-- rawParts: U$1,,BJT_NPN#PNG,BJT_NPN#PNG,,,,
-- rawParts: U$6,,SCHOTTKYDIODE#PNG,SCHOTTKYDIODE#PNG,,,,
-- rawParts: U$2,,BJT_PNP#PNG,BJT_PNP#PNG,,,,
-- rawParts: U$4,,NCHANNELMOSFET#PNG,NCHANNELMOSFET#PNG,,,,
-- rawParts: U$11,,SFE_LOGO_FLAME_.2,SFE_LOGO_FLAME_.2,,,,
+- rawParts: FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,
+- rawParts: LOGO1,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open-Source Hardware (OSHW) Logo,,

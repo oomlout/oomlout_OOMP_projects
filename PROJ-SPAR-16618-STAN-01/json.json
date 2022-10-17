@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "SPAR"
+        },
+        {
+            "name": "oompColor",
+            "value": "16618"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "SparkFun Qwiic Humidity AHT20"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/sparkfunX/Qwiic_Humidity_AHT20"
+        },
+        {
+            "name": "gitName",
+            "value": "Qwiic_Humidity_AHT20"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "Hardware/Qwiic EEPROM.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "Hardware/Qwiic EEPROM.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR16618"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-16618-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-SPAR-16618-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SparkFun Qwiic Humidity AHT20"
+        }
+    ]
+}

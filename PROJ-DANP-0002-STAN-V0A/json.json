@@ -1,0 +1,284 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "DANP"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V0A"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v0a"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/DangerousPrototypes/Bus_Pirate"
+        },
+        {
+            "name": "gitName",
+            "value": "Bus_Pirate"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "hardware/v0a/BusPirate-24Fv0a.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "hardware/v0a/BusPirate-24Fv0a.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V0A"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C7,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C8,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C9,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C10,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C11,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C12,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C13,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C17,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "ICSP,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,DCJP-21D-X-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-UNMATCHED-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R4,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R5,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R7,RESE-UNMATCHED-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "SV3,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "X2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,10uF,CPOL-EUE2-5,E2-5,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uf,C-EU025-025X050,C025-025X050,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C7,0.1uF,C5/2.5,C5B2.5,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C8,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C9,0.1uf,C-EU025-025X050,C025-025X050,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C10,0.1uf,C-EU025-025X050,C025-025X050,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C11,0.1uf,C-EU025-025X050,C025-025X050,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C12,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C13,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C17,0.1uF,C2.5/2,C2.5-2,CAPACITOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,PIC24FJ64GA002-DIP,PIC24FJ64GA002-DIP,DIL28-3,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,MAX3223CPP,MAX3223CPP,DIL20,RS-232 Transceivers with AutoShutdown,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "ICSP,,MA05-1,MA05-1,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,POWER_JACKPTH,POWER_JACKPTH,POWER_JACK_PTH,Power Jack,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LED3MM,LED3MM,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,330R,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,240R,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,390R,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R4,2k2,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R5,2k2,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R7,2K,R-EU_0204/7,0204/7,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "SV3,,MA06-1,MA06-1,PIN HEADER,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR1,,LM317TS,317TS,VOLTAGE REGULATOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR2,7805TV,7805TV,TO220V,Positive VOLTAGE REGULATOR,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X1,,W237-103,W237-103,WAGO SCREW CLAMP,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "X2,,F09H,F09H,SUB-D,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V0A"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v0a"
+        }
+    ]
+}

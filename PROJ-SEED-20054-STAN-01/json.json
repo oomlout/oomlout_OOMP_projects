@@ -25,8 +25,8 @@
             "value": "Grove - ADXL345 - 3-Axis Digital Accelerometer(+/-16g)"
         },
         {
-            "name": "linkBuyPage",
-            "value": "https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-16g.html"
+            "name": "gitName",
+            "value": ""
         },
         {
             "name": "hexID",

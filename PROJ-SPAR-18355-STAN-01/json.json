@@ -1,10 +1,6 @@
 {
     "tags": [
         {
-            "name": "hexID",
-            "value": "PRS18355"
-        },
-        {
             "name": "oompType",
             "value": "PROJ"
         },
@@ -25,16 +21,28 @@
             "value": "01"
         },
         {
-            "name": "oompName",
-            "value": "Qwiic EEPROM Breakout"
+            "name": "name",
+            "value": "Qwiic EEPROM - 512Kbit"
         },
         {
-            "name": "sources",
-            "value": "All source files from https://github.com/sparkfun/Qwiic_EEPROM_Breakout (source licence details in srcLicense.md)"
+            "name": "gitRepo",
+            "value": "https://github.com/sparkfun/Qwiic_EEPROM_Breakout"
         },
         {
-            "name": "linkBuyPage",
-            "value": "https://www.sparkfun.com/products/18355"
+            "name": "gitName",
+            "value": "Qwiic_EEPROM_Breakout"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "Qwiic AHT20 Breakout.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "Qwiic AHT20 Breakout.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR18355"
         },
         {
             "name": "oompID",
@@ -238,7 +246,7 @@
         },
         {
             "name": "name",
-            "value": "Sparkfun"
+            "value": "Qwiic EEPROM - 512Kbit"
         }
     ]
 }

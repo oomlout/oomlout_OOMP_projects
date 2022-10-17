@@ -50,7 +50,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, L1, U1, U5, Y1|
 |HEAD-I01-X-PI15-01||JP1|
 |RESE-0805-X-UNMATCHED-01||R1, R9, R10|
-|RESE-0805-X-O105-01||R3|
+|[RESE-0805-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O105-01/)|[SMD (0805) 1M Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O105-01/)|[R3](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O105-01/)|
 |RESA-06038-X-O330X4-01||R4, R5, R6, R7, R8|
 |[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[R11, R12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
 |UNMATCHED-SO235-X-UNMATCHED-01||U3|

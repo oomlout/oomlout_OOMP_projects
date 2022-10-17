@@ -51,11 +51,11 @@ Contents
 |HEAD-I01-X-PI01-01||JP1|
 |[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1|
-|RESE-0805-X-O471-01||R1|
+|[RESE-0805-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O471-01/)|[SMD (0805) 470 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O471-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O471-01/)|
 |RESE-0805-X-O1003-01||R2, R3|
 |[RESE-0805-X-O203-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|[SMD (0805) 20k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|[R4, R6, R7, R9, R14](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O203-01/)|
-|RESE-0805-X-O273-01||R5|
-|RESE-0805-X-O473-01||R8, R10|
+|[RESE-0805-X-O273-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O273-01/)|[SMD (0805) 27k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O273-01/)|[R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O273-01/)|
+|[RESE-0805-X-O473-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|[SMD (0805) 47k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|[R8, R10](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O473-01/)|
 |[RESE-0805-X-O153-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O153-01/)|[SMD (0805) 15k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O153-01/)|[R11](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O153-01/)|
 |RESE-0805-X-UNMATCHED-01||R12|
 |RESE-UNMATCHED-X-UNMATCHED-01||R13|

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "ELLA"
+        },
+        {
+            "name": "oompColor",
+            "value": "0004"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "name",
+            "value": "riscystick"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/electrolama/riscystick/"
+        },
+        {
+            "name": "gitName",
+            "value": "riscystick/"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "hardware/Revision A1/riscystick-RevA1.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "hardware/Revision A1/riscystick-RevA1.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR4"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0004-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-ELLA-0004-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "riscystick"
+        }
+    ]
+}

@@ -1,0 +1,1612 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "DANP"
+        },
+        {
+            "name": "oompColor",
+            "value": "0001"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1C"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate Ultra 1C"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/DangerousPrototypes/BusPirateUltraHardware"
+        },
+        {
+            "name": "gitName",
+            "value": "BusPirateUltraHardware"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "BPUv1c/BusPirate-ultra.v1.0c.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "BPUv1c/BusPirate-ultra.v1.0c.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR1"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0001-STAN-1C"
+        },
+        {
+            "name": "oompParts",
+            "value": "C100,CAPX-UNMATCHED-X-PF22-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C101,CAPX-UNMATCHED-X-PF22-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C102,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C103,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C104,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C105,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C106,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C107,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C108,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C109,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C110,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C111,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C112,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C113,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C114,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C115,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C116,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C200,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C201,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C202,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C203,CAPX-UNMATCHED-X-PF15D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C204,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C205,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C300,CAPX-UNMATCHED-X-UF47D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C301,CAPX-UNMATCHED-X-UF47D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C302,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C303,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C305,CAPX-UNMATCHED-X-UF47D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C306,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C307,CAPX-UNMATCHED-X-UF47D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C308,CAPX-UNMATCHED-X-UF1-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C400,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C401,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C402,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C403,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C404,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C405,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C406,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C407,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C408,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C409,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C410,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C411,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C412,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C413,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C414,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C415,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C416,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C417,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C418,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C419,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C420,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C421,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C422,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C423,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C500,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C501,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C600,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C601,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C602,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C700,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C701,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C702,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C703,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C704,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C705,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C706,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C707,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C708,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C709,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C710,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C711,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C712,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C713,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C714,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C715,CAPX-UNMATCHED-X-NF100-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C800,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "D200,DIOD-S123-X-K4148-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J2,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J3,HEAD-I01-X-PI10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J4,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L800,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED900,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED901,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED902,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED903,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED904,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED905,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED906,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED907,LEDS-UNMATCHED-Y-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "PCB1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q300,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "Q301,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R100,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R101,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R200,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R201,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R202,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R203,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R204,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R300,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R301,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R302,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R303,RESE-UNMATCHED-X-O653-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R304,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R305,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R306,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R307,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R308,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R309,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R310,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R311,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R400,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R401,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R402,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R403,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R404,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R405,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R406,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R407,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R408,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R409,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R410,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R411,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R412,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R413,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R414,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R415,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R416,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R417,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R418,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R419,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R420,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R421,RESE-UNMATCHED-X-O1003-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R422,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R423,RESE-UNMATCHED-X-O105-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R424,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R425,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R426,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R427,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R428,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R429,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R430,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R431,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R700,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R701,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R702,RESE-UNMATCHED-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R800,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R801,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R802,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R803,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R804,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R805,RESE-UNMATCHED-X-O503-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R806,RESE-UNMATCHED-X-O503-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R900,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R901,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R902,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R903,RESE-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RN500,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "RN501,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U100,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U101,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U200,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U201,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U202,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U300,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U301,UNMATCHED-SO235-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U302,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U303,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U400,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U401,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U402,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U403,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U404,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U405,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U406,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U407,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U408,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U409,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U410,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U411,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U412,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U413,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U414,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U415,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U500,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U501,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U600,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U601,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U602,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "U700,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "XTAL100,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C100,22pF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C101,22pF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C102,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C103,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C104,1uF,CAPACITOR_POL-SMC_A,SMC_A,Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C105,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C106,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C107,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C108,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C109,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C110,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C111,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C112,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C113,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C114,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C115,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C116,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C200,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C201,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C202,1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C203,1.5nF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C204,1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C205,1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C300,4.7uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C301,4.7uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C302,1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C303,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C304,DNP,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C305,4.7uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C306,1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C307,4.7uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C308,1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C400,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C401,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C402,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C403,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C404,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C405,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C406,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C407,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C408,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C409,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C410,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C411,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C412,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C413,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C414,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C415,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C416,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C417,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C418,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C419,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C420,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C421,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C422,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C423,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C500,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C501,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C600,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C601,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C602,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C700,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C701,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C702,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C703,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C704,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C705,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C706,0.1uF,CAPACITOR_NPOL-0603,C603,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C707,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C708,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C709,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C710,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C711,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C712,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C713,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C714,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C715,0.1uF,CAPACITOR_NPOL-0402,C402,Non-Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C800,10uF,CAPACITOR_POL-SMC_A,SMC_A,Polarized capacitor in various packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "D200,1N4148,DIODE-SOD-123,SOD-123,Various Diode Packages,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,USB-C-12,USB-C-12,C-31-M-12,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J2,CON_HEADER_1X04,CON_HEADER_1X04,M1X4,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J3,CON_HEADER_1X10-RIGHT_ANGLED_PTH_SHROUDED,CON_HEADER_1X10-RIGHT_ANGLED_PTH_SHROUDED,M1X10_MALE_RIGHT_ANGLES_PTH_SHROUDED,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J4,CON-FPC_X05B20L10T,CON-FPC_X05B20L10T,X05B20L10T,10-pin 0.5mm pitch SMD FPC Connector X05B20L10T,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L800,1.5A,WE-KIL_0805,WE-KI_0805_B,SMD Wire Wound Ceramic Inductor WE-KIL,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED900,YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED901,YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED902,YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED903,YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED904,Optional YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED905,Optional YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED906,Optional YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED907,Optional YELLOW,LED-0805,LED-805,Light Emitting Diode,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LOGO1,LOGO_CC-0,LOGO_CC-0,LOGO_CC-0,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "PCB1,PCB_DP_RECTANGLE-50X100,PCB_DP_RECTANGLE-50X100,DP10050_V1,Dangerous Prototypes Standard Rectangular PCB sizes,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q300,PMV65XP,TRANSISTOR_FET_TSM2301CX,SOT-23,20V P-Channel Enhancement Mode MOSFET,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "Q301,DMMT3906W,TRANSISTOR-BJT_DMMT3906W,SOT-363,Matched pair PNP small signal transistor -40V -200mA,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R100,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R101,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R200,0R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R201,0R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R202,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R203,25R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R204,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R300,99.22K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R301,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R302,10K,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R303,65K,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R304,100K,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R305,10K,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R306,0R,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R307,77.96K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R308,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R309,0R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R310,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R311,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R400,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R401,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R402,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R403,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R404,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R405,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R406,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R407,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R408,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R409,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R410,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R411,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R412,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R413,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R414,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R415,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R416,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R417,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R418,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R419,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R420,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R421,100K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R422,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R423,1M,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R424,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R425,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R426,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R427,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R428,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R429,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R430,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R431,220R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R700,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R701,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R702,10K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R800,1.5K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R801,22R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R802,22R,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R803,5K1,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R804,5K1,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R805,50K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R806,50K,RESISTOR-0402,R402,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R900,1K1,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R901,1K1,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R902,1K1,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R903,1K1,RESISTOR-0603,R603,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RN500,2K,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "RN501,2K,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U100,STM32F103ZX,IC_UC_STM32F103ZX,TQFP-144,STM32F103ZX,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U101,W25X40CL,IC_MEM_W25X40CL,SOIC-8,4M-Bit serial flash memory with 4KB sectors and Dual I/O SPI,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U200,74HCT4067,IC_74HCT4067,TSSOP-24,74HCT4067,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U201,MCP6001,IC_OP-AMP_MCP6001,SOT-23-5,1 MHz, Low-Power Op Amp,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U202,ADS7041,IC_ADC_ADS7041,VSSOP-8_DCU_PDSO_G8,Ultra-low power 10-Bit 1-MSPS SAR ADC,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U300,MCP1824_ADJ,IC_MCP1824_ADJ,SOT-23-5,MCP1824 ADJ,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U301,MCP6001,IC_OP-AMP_MCP6001,SOT-23-5,1 MHz, Low-Power Op Amp,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U302,MCP1700,IC_MCP1700,SOT-89,Low quiescent current LDO 200~250mA Output current,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U303,MCP1801T-1202I/OT,MIC5205,SOT-23-5@1,150ma Low-Noise LDO Regulator,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U400,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U401,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U402,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U403,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U404,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U405,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U406,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U407,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U408,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U409,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U410,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U411,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U412,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U413,SN74LVC1T45DBV,IC_BUFF_SN74LVC1T45DBV-SC-70-6,SC-70-6,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U414,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U415,74LVC1G07DBV,IC_BUFF_74LVC1G07,SC-70-5,Single buffer/driver with open drain output,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U500,74HCT4066PW,IC_74HCT4066PW,TSSOP-14,Quad single-pole single-throw analog switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U501,74HCT4066PW,IC_74HCT4066PW,TSSOP-14,Quad single-pole single-throw analog switch,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U600,23LC1024,IC_MEM_23LC1024,SOIC-8,1Mbit SPI SRAM with Serial dual interface and Serial quad interface,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U601,23LC1024,IC_MEM_23LC1024,SOIC-8,1Mbit SPI SRAM with Serial dual interface and Serial quad interface,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U602,74LVC245A,IC_BUFF_74LVC245A-TSSOP20,TSSOP-20,Octal Bus transceiver with 3-state, 3.3V supply,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "U700,ICE40HX4K,IC_FPGA_ICE40HX4K,TQFP-144,iCE40HX4K,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "XTAL100,8Mhz,OSC-XTAL-12M,XTAL_4X6,,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0001-STAN-1C"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate Ultra 1C"
+        }
+    ]
+}

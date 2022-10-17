@@ -42,7 +42,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||CN1, U1, U3|
 |[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 |UNMATCHED-SO23-X-UNMATCHED-01||Q1|
-|RESE-0805-X-O100-01||R1, R2, R3, R6|
+|[RESE-0805-X-O100-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O100-01/)|[SMD (0805) 10 Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O100-01/)|[R1, R2, R3, R6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O100-01/)|
 |[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|
 |[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[SMD (0805) 10k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|[R5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O103-01/)|
 |UNMATCHED-SO235-X-UNMATCHED-01||U2|

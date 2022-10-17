@@ -74,7 +74,7 @@
         },
         {
             "name": "oompParts",
-            "value": "P0\\,HEAD-I01-X-PI10-01"
+            "value": "P0,HEAD-I01-X-PI10-01"
         },
         {
             "name": "oompParts",
@@ -130,7 +130,7 @@
         },
         {
             "name": "rawParts",
-            "value": "P0\\,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,"
+            "value": "P0,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,"
         },
         {
             "name": "rawParts",

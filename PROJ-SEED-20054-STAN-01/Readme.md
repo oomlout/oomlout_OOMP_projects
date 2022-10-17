@@ -56,7 +56,7 @@ Contents
 - oompDesc: STAN
 - oompIndex: 01
 - name: Grove - ADXL345 - 3-Axis Digital Accelerometer(+/-16g)
-- linkBuyPage: https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-16g.html
+- gitName: 
 - hexID: PRS20054
 - oompID: PROJ-SEED-20054-STAN-01
 - oompParts: C5,CAPC-0805-X-UF10-V10

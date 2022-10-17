@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [PRS18355 > Qwiic EEPROM Breakout](#prs18355--qwiic-eeprom-breakout)
+* [PRPR18355 > ](#prpr18355--)
 	* [Schematic](#schematic)
 	* [PCB](#pcb)
 	* [Interactive BOM](#interactive-bom)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# PRS18355 > Qwiic EEPROM Breakout
+# PRPR18355 > 
 
 - ID: PROJ-SPAR-18355-STAN-01
-- Hex ID: PRS18355
-- Name: Sparkfun
-- Description: Sparkfun
+- Hex ID: PRPR18355
+- Name: Qwiic EEPROM - 512Kbit
+- Description: Qwiic EEPROM - 512Kbit
 - Long Link: [http://oom.lt/PROJ-SPAR-18355-STAN-01](http://oom.lt/PROJ-SPAR-18355-STAN-01)
-- Short Link: [http://oom.lt/PRS18355](http://oom.lt/PRS18355)
+- Short Link: [http://oom.lt/PRPR18355](http://oom.lt/PRPR18355)
 
 ## Schematic
   
@@ -52,21 +52,23 @@ Contents
   
   
 
-|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
+|bominteractivefront|bominteractiveback|kicadPcb3d|kicadPcb3dFront|kicadPcb3dBack|kicadSchem|eagleImage|eagleSchemImage|pcbdraw|pcbdrawback|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![bominteractivefront](bomFront_140.png)](bomFront.png)|[![bominteractiveback](bomBack_140.png)](bomBack.png)|[![kicadPcb3d](kicadPcb3d_140.png)](kicadPcb3d.png)|[![kicadPcb3dFront](kicadPcb3dFront_140.png)](kicadPcb3dFront.png)|[![kicadPcb3dBack](kicadPcb3dBack_140.png)](kicadPcb3dBack.png)|[![kicadSchem](kicadSchem_140.png)](kicadSchem.png)|[![eagleImage](eagleImage_140.png)](eagleImage.png)|[![eagleSchemImage](eagleSchemImage_140.png)](eagleSchemImage.png)|[![pcbdraw](pcbdraw_140.png)](pcbdraw.png)|[![pcbdrawback](pcbdrawBack_140.png)](pcbdrawBack.png)|
 
 ## Tags
 
-- hexID: PRS18355
 - oompType: PROJ
 - oompSize: SPAR
 - oompColor: 18355
 - oompDesc: STAN
 - oompIndex: 01
-- oompName: Qwiic EEPROM Breakout
-- sources: All source files from https://github.com/sparkfun/Qwiic_EEPROM_Breakout (source licence details in srcLicense.md)
-- linkBuyPage: https://www.sparkfun.com/products/18355
+- name: Qwiic EEPROM - 512Kbit
+- gitRepo: https://github.com/sparkfun/Qwiic_EEPROM_Breakout
+- gitName: Qwiic_EEPROM_Breakout
+- eagleBoard: Qwiic AHT20 Breakout.brd
+- eagleSchem: Qwiic AHT20 Breakout.sch
+- hexID: PRPR18355
 - oompID: PROJ-SPAR-18355-STAN-01
 - oompParts: C4,CAPC-0603-X-NF100-V50
 - oompParts: D1,LEDS-0603-R-STAN-01

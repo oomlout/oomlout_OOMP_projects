@@ -1,0 +1,436 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PROJ"
+        },
+        {
+            "name": "oompSize",
+            "value": "DANP"
+        },
+        {
+            "name": "oompColor",
+            "value": "0002"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V3"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v3"
+        },
+        {
+            "name": "gitRepo",
+            "value": "https://github.com/DangerousPrototypes/Bus_Pirate"
+        },
+        {
+            "name": "gitName",
+            "value": "Bus_Pirate"
+        },
+        {
+            "name": "eagleBoard",
+            "value": "hardware/v3/BusPirate-v3a-final.brd"
+        },
+        {
+            "name": "eagleSchem",
+            "value": "hardware/v3/BusPirate-v3a-final.sch"
+        },
+        {
+            "name": "hexID",
+            "value": "PRPR2"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V3"
+        },
+        {
+            "name": "oompParts",
+            "value": "C1,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C2,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C3,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C4,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C5,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C6,CAPC-0805-X-NF100-V50"
+        },
+        {
+            "name": "oompParts",
+            "value": "C20,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C21,CAPX-UNMATCHED-X-UF10-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C22,CAPX-UNMATCHED-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C23,CAPX-UNMATCHED-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "C24,CAPX-UNMATCHED-X-UF22D-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "I/O,HEAD-I01-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC2,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "IC3,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "ICSP,HEAD-I01-X-PI05-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "J1,UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "L1,UNMATCHED-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED1A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED2A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED3A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED4,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "LED4A,LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R1,RESE-0805-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R2,RESE-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R3,RESE-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R10,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R11,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R12,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R13,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R14,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R15,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R16,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R17,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R19,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R20,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R21,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R22,RESE-0805-X-O103-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R23,RESE-0805-X-O202-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R31,RESE-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "R32,RESE-0805-X-UNMATCHED-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR2,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR3,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "oompParts",
+            "value": "VR4,VREG-SO235-X-KMIC5205-01"
+        },
+        {
+            "name": "rawParts",
+            "value": "C1,0.1uF,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C2,0.1uF,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C3,0.1uf,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C4,0.1uF,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C5,0.1uF,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C6,0.1uF,C-EUC0805,C0805,CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C20,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C21,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C22,2.2uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C23,2.2uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "C24,2.2uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "I/O,M05X2PTH,M05X2PTH,AVR_ICSP,Header 5x2,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC1,PIC24FJ64GA002-I/SSSS-ALTERNATE,PIC24FJ64GA002-I/SSSS-ALTERNATE,SSOP28DB,,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC2,FT232RLSSOP,FT232RLSSOP,SSOP28DB,USB UART,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "IC3,4066D,4066D,SO14,Quad bilateral ANALOG SWITCH,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "ICSP,M05X1PTH,M05,1X05,Header 5,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "J1,USBSMD,USBSMD,USB-MINIB,USB Connectors,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "L1,700mA+ ferrite bead,WE-KIL_0805,WE-KI_0805_B,SMD Wire Wound Ceramic Inductor WE-KIL,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED1A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED2A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED3A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "LED4A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R1,2K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R2,1K1,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R3,1K1,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R10,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R11,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R12,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R13,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R14,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R15,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R16,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R17,10K,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R19,10K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R20,10K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R21,10K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R22,10K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R23,2K,R-EU_R0805,R0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R31,390R,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "R32,390R,R-EU_M0805,M0805,RESISTOR, European symbol,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR2,MIC5205-3.3YM5,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR3,MIC5205-3.3YM5,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
+            "name": "rawParts",
+            "value": "VR4,MIC5205-5.0YM5,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,"
+        },
+        {
+            "name": "oompID",
+            "value": "PROJ-DANP-0002-STAN-V3"
+        },
+        {
+            "name": "name",
+            "value": "Bus Pirate v3"
+        }
+    ]
+}
