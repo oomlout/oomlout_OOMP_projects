@@ -39,7 +39,7 @@ Contents
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, IC2, NORMAL, PCB1, RESET, RN1, RN2, RN3, USB, X1|
 |UNMATCHED-SO235-X-UNMATCHED-01||IC3|
 |HEAD-I01-X-UNMATCHED-01||ICSP|
-|HEAD-I01-X-PI2X06-01||IO|
+|[HEAD-I01-X-PI2X06-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X06-01/)|[2.54 mm 12 Pin (2x6) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X06-01/)|[IO](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X06-01/)|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
 |UNMATCHED-0805-X-UNMATCHED-01||L1|
 |[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[LED1, LED1A, LED2, LED2A, LED3, LED3A, LED4, LED4A](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|

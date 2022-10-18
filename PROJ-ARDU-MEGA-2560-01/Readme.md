@@ -44,7 +44,7 @@ Contents
 |[CAPC-0603-X-UF1-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[SMD (0603) 1 uF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|[C10, C13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-UF1-V25/)|
 |DIOD-UNMATCHED-X-UNMATCHED-01||D1, D2, D3|
 |UNMATCHED-SO23-X-UNMATCHED-01||IC6|
-|HEAD-I01-X-PI2X02-01||JP5|
+|[HEAD-I01-X-PI2X02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X02-01/)|[2.54 mm 4 Pin (2x2) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X02-01/)|[JP5](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X02-01/)|
 |[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
 |UNMATCHED-0805-X-UNMATCHED-01||L, L1, L2, ON, RX, TX|
 |CAPE-PAND-X-UF47-01||PC1, PC2|

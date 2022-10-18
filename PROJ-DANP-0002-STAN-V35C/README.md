@@ -35,7 +35,7 @@ Contents
 |CAPX-UNMATCHED-X-NF100-01||C1, C2, C3, C4, C5, C6|
 |CAPX-UNMATCHED-X-UF1-01||C7, C8, C9|
 |CAPX-UNMATCHED-X-UF10-01||C10, C11|
-|HEAD-I01-X-PI2X05-01||I/O|
+|[HEAD-I01-X-PI2X05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X05-01/)|[2.54 mm 10 Pin (2x5) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X05-01/)|[I/O](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X05-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||IC1, IC2, IC3, J1, RN1, RN2, RN3|
 |[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[2.54 mm 5 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|[ICSP](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI05-01/)|
 |UNMATCHED-0805-X-UNMATCHED-01||L1|

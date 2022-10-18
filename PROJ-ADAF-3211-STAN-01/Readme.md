@@ -43,7 +43,7 @@ Contents
 |[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
 |UNMATCHED-SO23-X-UNMATCHED-01||IC3|
 |[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[2.54 mm 3 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI03-01/)|
-|HEAD-I01-X-PI2X08-01||JP15|
+|[HEAD-I01-X-PI2X08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[2.54 mm 16 Pin (2x8) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[JP15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|
 |UNMATCHED-UNMATCHED-X-UNMATCHED-01||MATRIX_PWR, RPI1, U3, U5, X1|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1|
 |MOSP-UNMATCHED-X-UNMATCHED-01||Q2|

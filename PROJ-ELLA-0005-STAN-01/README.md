@@ -25,8 +25,8 @@ Contents
 - oompDesc: STAN
 - oompIndex: 01
 - name: minik
-- gitRepo: https://github.com/electrolama/minik/
-- gitName: minik/
+- gitRepo: https://github.com/electrolama/minik
+- gitName: minik
 - eagleBoard: hardware/Revision A2/minik-RevA2.brd
 - eagleSchem: hardware/Revision A2/minik-RevA2.sch
 - hexID: PRPR5

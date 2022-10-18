@@ -44,7 +44,7 @@ Contents
 |HEAD-I01-X-PI01-01||JP1, JP2, JP3, JP5, JP6, JP7, JP8, JP10, JP11|
 |[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[2.54 mm 9 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|[JP9](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI09-01/)|
 |[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[2.54 mm 10 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|[JP12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI10-01/)|
-|HEAD-I01-X-PI2X08-01||NEO_OUT|
+|[HEAD-I01-X-PI2X08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[2.54 mm 16 Pin (2x8) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[NEO_OUT](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|
 |RESA-06038-X-O101X4-01||R1, R2|
 
 ## Images

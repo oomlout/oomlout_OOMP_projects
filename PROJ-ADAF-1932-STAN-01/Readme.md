@@ -44,7 +44,7 @@ Contents
 |[LEDS-0805-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0805-G-STAN-01/)|
 |UNMATCHED-SO23-X-UNMATCHED-01||IC3|
 |HEAD-I01-X-PI01-01||JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14|
-|HEAD-I01-X-PI2X08-01||JP15|
+|[HEAD-I01-X-PI2X08-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[2.54 mm 16 Pin (2x8) Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|[JP15](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI2X08-01/)|
 |MOSN-UNMATCHED-X-UNMATCHED-01||Q1|
 |RESE-0805-X-O392-01||R1, R2, R3|
 |[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[SMD (0805) 1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|[R4, R13](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/RESE-0805-X-O102-01/)|

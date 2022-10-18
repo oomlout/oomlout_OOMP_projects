@@ -43,8 +43,8 @@ Contents
 |[CAPC-0603-X-NF220-V25](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[SMD (0603) 220 nF Capacitor (Ceramic) 25v](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|[C3, C6](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/CAPC-0603-X-NF220-V25/)|
 |CAPC-0603-X-UNMATCHED-01||C4, C5, C9, C16|
 |[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[SMD (0603) Red LED](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|[D1](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/LEDS-0603-R-STAN-01/)|
-|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J8, J15, JP7, JP8, JP9, U1, U2, U4|
-|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
+|UNMATCHED-UNMATCHED-X-UNMATCHED-01||J1, J8, J15, JP7, JP8, JP9, U1, U2|
+|[HEAD-JSTSH-X-PI04-RS](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[JST XH (1 mm) 4 Pin Header Right Angle (SMD)](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|[J2, J4, U4](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-JSTSH-X-PI04-RS/)|
 |[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[2.54 mm 4 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|[J3, J11, J12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI04-01/)|
 |HEAD-I01-X-PI01-01||J5, J10|
 |[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[2.54 mm 2 Pin Header](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|[J9, JP12](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/HEAD-I01-X-PI02-01/)|
@@ -119,7 +119,7 @@ Contents
 - oompParts: U1,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U2,UNMATCHED-UNMATCHED-X-UNMATCHED-01
 - oompParts: U3,VREG-SO235-X-KAP2112K-V33D
-- oompParts: U4,UNMATCHED-UNMATCHED-X-UNMATCHED-01
+- oompParts: U4,HEAD-JSTSH-X-PI04-RS
 - rawParts: C1,10uF,10UF-0603-6.3V-20%,0603,10.0ÃÂµF ceramic capacitors,,CAP-11015,,,10uF,
 - rawParts: C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1ÃÂµF ceramic capacitors,,CAP-00810,,,0.1uF,
 - rawParts: C3,0.22uF,0.22UF-0603-25V-10%,0603,0.22ÃÂµF ceramic capacitors,,CAP-07822,,,0.22uF,
